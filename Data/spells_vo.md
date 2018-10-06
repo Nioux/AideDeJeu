@@ -12,7 +12,7 @@
 
 - MDR: <!--AltName-->[Aspersion acide]<!--/AltName-->
 - Source: <!--Source-->(SRD p114)<!--/Source-->
-- : <!--Type-->Conjuration<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Conjuration<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -36,7 +36,7 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 
 - MDR: <!--AltName-->[Aide]<!--/AltName-->
 - Source: <!--Source-->(SRD p114)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a tiny strip of white cloth)<!--/Components-->
@@ -60,7 +60,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 - MDR: <!--AltName-->[Alarme]<!--/AltName-->
 - Source: <!--Source-->(SRD p114)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a tiny bell and a piece of fine silver wire)<!--/Components-->
@@ -84,7 +84,7 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 - MDR: <!--AltName-->[Modifier son apparence]<!--/AltName-->
 - Source: <!--Source-->(SRD p114)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -112,7 +112,7 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 - MDR: <!--AltName-->[Amitié avec les animaux]<!--/AltName-->
 - Source: <!--Source-->(SRD p115)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a morsel of food)<!--/Components-->
@@ -136,7 +136,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 - MDR: <!--AltName-->[Messager animal]<!--/AltName-->
 - Source: <!--Source-->(SRD p115)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a morsel of food)<!--/Components-->
@@ -162,7 +162,7 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 - MDR: <!--AltName-->[Formes animales]<!--/AltName-->
 - Source: <!--Source-->(SRD p115)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -188,7 +188,7 @@ The target's gear melds into the new form. The target can't activate, wield, or 
 
 - MDR: <!--AltName-->[Animation des morts]<!--/AltName-->
 - Source: <!--Source-->(SRD p115)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)<!--/Components-->
@@ -216,7 +216,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 - MDR: <!--AltName-->[Animation des objets]<!--/AltName-->
 - Source: <!--Source-->(SRD p116)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -254,7 +254,7 @@ If you command an object to attack, it can make a single melee attack against a 
 
 - MDR: <!--AltName-->[Coquille antivie]<!--/AltName-->
 - Source: <!--Source-->(SRD p116)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (10-foot radius)<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -280,7 +280,7 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 - MDR: <!--AltName-->[Champ antimagie]<!--/AltName-->
 - Source: <!--Source-->(SRD p117)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (10-foot-radius sphere)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of powdered iron or iron filings)<!--/Components-->
@@ -320,7 +320,7 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 
 - MDR: <!--AltName-->[Répulsion/attirance]<!--/AltName-->
 - Source: <!--Source-->(SRD p117)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 hour<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)<!--/Components-->
@@ -352,7 +352,7 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 - MDR: <!--AltName-->[Oeil magique]<!--/AltName-->
 - Source: <!--Source-->(SRD p118)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of bat fur)<!--/Components-->
@@ -378,7 +378,7 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 
 - MDR: <!--AltName-->[Verrou magique]<!--/AltName-->
 - Source: <!--Source-->(SRD p118)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (gold dust worth at least 25 gp, which the spell consumes)<!--/Components-->
@@ -402,7 +402,7 @@ While affected by this spell, the object is more difficult to break or force ope
 
 - MDR: <!--AltName-->[Projection astrale]<!--/AltName-->
 - Source: <!--Source-->(SRD p119)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 hour<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)<!--/Components-->
@@ -434,7 +434,7 @@ If you are returned to your body prematurely, your companions remain in their as
 
 - MDR: <!--AltName-->[Augure]<!--/AltName-->
 - Source: <!--Source-->(SRD p120)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)<!--/Components-->
@@ -468,7 +468,7 @@ If you cast the spell two or more times before completing your next long rest, t
 
 - MDR: <!--AltName-->[Éveil]<!--/AltName-->
 - Source: <!--Source-->(SRD p120)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->8 hours<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (an agate worth at least 1,000 gp, which the spell consumes)<!--/Components-->
@@ -492,7 +492,7 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 
 - MDR: <!--AltName-->[Fléau]<!--/AltName-->
 - Source: <!--Source-->(SRD p120)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a drop of blood)<!--/Components-->
@@ -516,7 +516,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 - MDR: <!--AltName-->[Bannissement]<!--/AltName-->
 - Source: <!--Source-->(SRD p120)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (an item distasteful to the target)<!--/Components-->
@@ -544,7 +544,7 @@ If the target is native to a different plane of existence than the one you're on
 
 - MDR: <!--AltName-->[Peau d'écorce]<!--/AltName-->
 - Source: <!--Source-->(SRD p121)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a handful of oak bark)<!--/Components-->
@@ -566,7 +566,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 - MDR: <!--AltName-->[Lueur d'espoir]<!--/AltName-->
 - Source: <!--Source-->(SRD p121)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -588,7 +588,7 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 - MDR: <!--AltName-->[Jeter une malédiction]<!--/AltName-->
 - Source: <!--Source-->(SRD p121)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -622,7 +622,7 @@ A _[remove curse]_ spell ends this effect. At the DM's option, you may choose an
 
 - MDR: <!--AltName-->[Main magique]<!--/AltName-->
 - Source: <!--Source-->(SRD p118)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (an eggshell and a snakeskin glove)<!--/Components-->
@@ -658,7 +658,7 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 
 - MDR: <!--AltName-->[Barrière de lames]<!--/AltName-->
 - Source: <!--Source-->(SRD p122)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -682,7 +682,7 @@ When a creature enters the wall's area for the first time on a turn or starts it
 
 - MDR: <!--AltName-->[Bénédiction]<!--/AltName-->
 - Source: <!--Source-->(SRD p122)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a sprinkling of holy water)<!--/Components-->
@@ -706,7 +706,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 - MDR: <!--AltName-->[Flétrissement]<!--/AltName-->
 - Source: <!--Source-->(SRD p122)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -732,7 +732,7 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 
 - MDR: <!--AltName-->[Cécité/Surdité]<!--/AltName-->
 - Source: <!--Source-->(SRD p122)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -756,7 +756,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 - MDR: <!--AltName-->[Clignotement]<!--/AltName-->
 - Source: <!--Source-->(SRD p122)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -780,7 +780,7 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 - MDR: <!--AltName-->[Flou]<!--/AltName-->
 - Source: <!--Source-->(SRD p123)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -802,7 +802,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 - MDR: <!--AltName-->[Frappe lumineuse]<!--/AltName-->
 - Source: <!--Source-->(SRD p123)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -826,7 +826,7 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 - MDR: <!--AltName-->[Mains brûlantes]<!--/AltName-->
 - Source: <!--Source-->(SRD p123)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (15-foot cone)<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -852,7 +852,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 - MDR: <!--AltName-->[Appel de la foudre]<!--/AltName-->
 - Source: <!--Source-->(SRD p123)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -880,7 +880,7 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 - MDR: <!--AltName-->[Apaisement des émotions]<!--/AltName-->
 - Source: <!--Source-->(SRD p123)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -906,7 +906,7 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 - MDR: <!--AltName-->[Chaîne d'éclairs]<!--/AltName-->
 - Source: <!--Source-->(SRD p124)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins)<!--/Components-->
@@ -932,7 +932,7 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 
 - MDR: <!--AltName-->[Charme-personne]<!--/AltName-->
 - Source: <!--Source-->(SRD p124)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -956,7 +956,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 - MDR: <!--AltName-->[Contact glacial]<!--/AltName-->
 - Source: <!--Source-->(SRD p124)<!--/Source-->
-- : <!--Type-->Necromancy<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Necromancy<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -980,7 +980,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 - MDR: <!--AltName-->[Cercle de mort]<!--/AltName-->
 - Source: <!--Source-->(SRD p124)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (the powder of a crushed black pearl worth at least 500 gp)<!--/Components-->
@@ -1004,7 +1004,7 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 
 - MDR: <!--AltName-->[Clairvoyance]<!--/AltName-->
 - Source: <!--Source-->(SRD p124)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->1 mile<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)<!--/Components-->
@@ -1030,7 +1030,7 @@ A creature that can see the sensor (such as a creature benefiting from _see invi
 
 - MDR: <!--AltName-->[Clone]<!--/AltName-->
 - Source: <!--Source-->(SRD p125)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 hour<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)<!--/Components-->
@@ -1056,7 +1056,7 @@ The clone is physically identical to the original and has the same personality, 
 
 - MDR: <!--AltName-->[Nuage mortel]<!--/AltName-->
 - Source: <!--Source-->(SRD p125)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1084,7 +1084,7 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 - MDR: <!--AltName-->[Couleurs dansantes]<!--/AltName-->
 - Source: <!--Source-->(SRD p125)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (15-foot cone)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)<!--/Components-->
@@ -1110,7 +1110,7 @@ Starting with the creature that has the lowest current hit points, each creature
 
 - MDR: <!--AltName-->[Injonction]<!--/AltName-->
 - Source: <!--Source-->(SRD p125)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -1146,7 +1146,7 @@ Some typical commands and their effects follow. You might issue a command other 
 
 - MDR: <!--AltName-->[Communion]<!--/AltName-->
 - Source: <!--Source-->(SRD p126)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (incense and a vial of holy or unholy water)<!--/Components-->
@@ -1172,7 +1172,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 - MDR: <!--AltName-->[Communion avec la nature]<!--/AltName-->
 - Source: <!--Source-->(SRD p126)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1208,7 +1208,7 @@ For example, you could determine the location of powerful undead in the area, th
 
 - MDR: <!--AltName-->[Compréhension des langues]<!--/AltName-->
 - Source: <!--Source-->(SRD p126)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of soot and salt)<!--/Components-->
@@ -1232,7 +1232,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 - MDR: <!--AltName-->[Compulsion]<!--/AltName-->
 - Source: <!--Source-->(SRD p126)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1256,7 +1256,7 @@ A target isn't compelled to move into an obviously deadly hazard, such as a fire
 
 - MDR: <!--AltName-->[Cône de froid]<!--/AltName-->
 - Source: <!--Source-->(SRD p127)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (60-foot cone)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small crystal or glass cone)<!--/Components-->
@@ -1282,7 +1282,7 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 - MDR: <!--AltName-->[Confusion]<!--/AltName-->
 - Source: <!--Source-->(SRD p127)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (three nut shells)<!--/Components-->
@@ -1317,7 +1317,7 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 - MDR: <!--AltName-->[Invoquer des animaux]<!--/AltName-->
 - Source: <!--Source-->(SRD p127)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1351,7 +1351,7 @@ Each beast is also considered fey, and it disappears when it drops to 0 hit poin
 
 - MDR: <!--AltName-->[Invoquer un céleste]<!--/AltName-->
 - Source: <!--Source-->(SRD p127)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1379,7 +1379,7 @@ The DM has the celestial's statistics.
 
 - MDR: <!--AltName-->[Invoquer un élémentaire]<!--/AltName-->
 - Source: <!--Source-->(SRD p128)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)<!--/Components-->
@@ -1405,7 +1405,7 @@ If your concentration is broken, the elemental doesn't disappear. Instead, you l
 
 - MDR: <!--AltName-->[Invoquer une fée]<!--/AltName-->
 - Source: <!--Source-->(SRD p128)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1435,7 +1435,7 @@ The DM has the fey creature's statistics.
 
 - MDR: <!--AltName-->[Invoquer des élémentaires mineurs]<!--/AltName-->
 - Source: <!--Source-->(SRD p128)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1473,7 +1473,7 @@ The DM has the creatures' statistics.
 
 - MDR: <!--AltName-->[Invoquer des êtres des bois]<!--/AltName-->
 - Source: <!--Source-->(SRD p129)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (one holly berry per creature summoned)<!--/Components-->
@@ -1511,7 +1511,7 @@ The DM has the creatures' statistics.
 
 - MDR: <!--AltName-->[Contacter un autre plan]<!--/AltName-->
 - Source: <!--Source-->(SRD p129)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -1535,7 +1535,7 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 
 - MDR: <!--AltName-->[Contagion]<!--/AltName-->
 - Source: <!--Source-->(SRD p129)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components--><!--/Components-->
@@ -1575,7 +1575,7 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 - MDR: <!--AltName-->[Contingence]<!--/AltName-->
 - Source: <!--Source-->(SRD p130)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)<!--/Components-->
@@ -1601,7 +1601,7 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 - MDR: <!--AltName-->[Flamme éternelle]<!--/AltName-->
 - Source: <!--Source-->(SRD p130)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (ruby dust worth 50 gp, which the spell consumes)<!--/Components-->
@@ -1623,7 +1623,7 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 
 - MDR: <!--AltName-->[Contrôle de l'eau]<!--/AltName-->
 - Source: <!--Source-->(SRD p130)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->300 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a drop of water and a pinch of dust)<!--/Components-->
@@ -1657,7 +1657,7 @@ The first time each turn that an object enters the vortex, the object takes 2d8 
 
 - MDR: <!--AltName-->[Contrôle du climat]<!--/AltName-->
 - Source: <!--Source-->(SRD p131)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->Self (5-mile radius)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (burning incense and bits of earth and wood mixed in water)<!--/Components-->
@@ -1713,7 +1713,7 @@ Wind
 
 - MDR: <!--AltName-->[Contresort]<!--/AltName-->
 - Source: <!--Source-->(SRD p131)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 reaction, which you take when you see a creature within 60 feet of you casting a spell<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->S<!--/Components-->
@@ -1737,7 +1737,7 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 - MDR: <!--AltName-->[Création de nourriture et d'eau]<!--/AltName-->
 - Source: <!--Source-->(SRD p131)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1759,7 +1759,7 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 - MDR: <!--AltName-->[Création ou destruction d'eau]<!--/AltName-->
 - Source: <!--Source-->(SRD p132)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a drop of water if creating water or a few grains of sand if destroying it)<!--/Components-->
@@ -1787,7 +1787,7 @@ You either create or destroy water.
 
 - MDR: <!--AltName-->[Création de mort-vivant]<!--/AltName-->
 - Source: <!--Source-->(SRD p132)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)<!--/Components-->
@@ -1815,7 +1815,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 - MDR: <!--AltName-->[Création]<!--/AltName-->
 - Source: <!--Source-->(SRD p132)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a tiny piece of matter of the same type of the item you plan to create)<!--/Components-->
@@ -1851,7 +1851,7 @@ Using any material created by this spell as another spell's material component c
 
 - MDR: <!--AltName-->[Soin des blessures]<!--/AltName-->
 - Source: <!--Source-->(SRD p132)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1875,7 +1875,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 - MDR: <!--AltName-->[Lumières dansantes]<!--/AltName-->
 - Source: <!--Source-->(SRD p133)<!--/Source-->
-- : <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of phosphorus or wychwood, or a glowworm)<!--/Components-->
@@ -1899,7 +1899,7 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 - MDR: <!--AltName-->[Ténèbres]<!--/AltName-->
 - Source: <!--Source-->(SRD p133)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, M (bat fur and a drop of pitch or piece of coal)<!--/Components-->
@@ -1925,7 +1925,7 @@ If any of this spell's area overlaps with an area of light created by a spell of
 
 - MDR: <!--AltName-->[Vision dans le noir]<!--/AltName-->
 - Source: <!--Source-->(SRD p133)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (either a pinch of dried carrot or an agate)<!--/Components-->
@@ -1947,7 +1947,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 - MDR: <!--AltName-->[Lumière du jour]<!--/AltName-->
 - Source: <!--Source-->(SRD p133)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1973,7 +1973,7 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 
 - MDR: <!--AltName-->[Protection contre la mort]<!--/AltName-->
 - Source: <!--Source-->(SRD p133)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -1999,7 +1999,7 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 - MDR: <!--AltName-->[Boule de feu à explosion retardée]<!--/AltName-->
 - Source: <!--Source-->(SRD p133)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a tiny ball of bat guano and sulfur)<!--/Components-->
@@ -2029,7 +2029,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 - MDR: <!--AltName-->[Demi-plan]<!--/AltName-->
 - Source: <!--Source-->(SRD p134)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->S<!--/Components-->
@@ -2053,7 +2053,7 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 
 - MDR: <!--AltName-->[Détection du mal et du bien]<!--/AltName-->
 - Source: <!--Source-->(SRD p134)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2077,7 +2077,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 - MDR: <!--AltName-->[Détection de la magie]<!--/AltName-->
 - Source: <!--Source-->(SRD p134)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2101,7 +2101,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 - MDR: <!--AltName-->[Détection du poison et des maladies]<!--/AltName-->
 - Source: <!--Source-->(SRD p134)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a yew leaf)<!--/Components-->
@@ -2125,7 +2125,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 - MDR: <!--AltName-->[Détection des pensées]<!--/AltName-->
 - Source: <!--Source-->(SRD p135)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a copper piece)<!--/Components-->
@@ -2155,7 +2155,7 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 - MDR: <!--AltName-->[Porte dimensionnelle]<!--/AltName-->
 - Source: <!--Source-->(SRD p135)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->500 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -2181,7 +2181,7 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 - MDR: <!--AltName-->[Déguisement]<!--/AltName-->
 - Source: <!--Source-->(SRD p135)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2207,7 +2207,7 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 - MDR: <!--AltName-->[Désintégration]<!--/AltName-->
 - Source: <!--Source-->(SRD p135)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a lodestone and a pinch of dust)<!--/Components-->
@@ -2237,7 +2237,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 - MDR: <!--AltName-->[Dissipation du mal et du bien]<!--/AltName-->
 - Source: <!--Source-->(SRD p136)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (holy water or powdered silver and iron)<!--/Components-->
@@ -2265,7 +2265,7 @@ You can end the spell early by using either of the following special functions.
 
 - MDR: <!--AltName-->[Dissipation de la magie]<!--/AltName-->
 - Source: <!--Source-->(SRD p136)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2289,7 +2289,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 - MDR: <!--AltName-->[Divination]<!--/AltName-->
 - Source: <!--Source-->(SRD p136)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)<!--/Components-->
@@ -2315,7 +2315,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 - MDR: <!--AltName-->[Faveur divine]<!--/AltName-->
 - Source: <!--Source-->(SRD p136)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2337,7 +2337,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 - MDR: <!--AltName-->[Parole divine]<!--/AltName-->
 - Source: <!--Source-->(SRD p137)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -2369,7 +2369,7 @@ Regardless of its current hit points, a celestial, an elemental, a fey, or a fie
 
 - MDR: <!--AltName-->[Dominer une bête]<!--/AltName-->
 - Source: <!--Source-->(SRD p137)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2397,7 +2397,7 @@ You can use your action to take total and precise control of the target. Until t
 
 - MDR: <!--AltName-->[Dominer un monstre]<!--/AltName-->
 - Source: <!--Source-->(SRD p137)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2427,7 +2427,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 - MDR: <!--AltName-->[Dominer un humanoïde]<!--/AltName-->
 - Source: <!--Source-->(SRD p138)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2459,7 +2459,7 @@ Wisdom saving throw against the spell. If the saving throw succeeds, the spell e
 
 - MDR: <!--AltName-->[Convocations instantanées]<!--/AltName-->
 - Source: <!--Source-->(SRD p157)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a sapphire worth 1,000 gp)<!--/Components-->
@@ -2487,7 +2487,7 @@ _[dispel magic]_ or a similar effect successfully applied to the sapphire ends t
 
 - MDR: <!--AltName-->[Rêve]<!--/AltName-->
 - Source: <!--Source-->(SRD p138)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Special<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)<!--/Components-->
@@ -2515,7 +2515,7 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 - MDR: <!--AltName-->[Druidisme]<!--/AltName-->
 - Source: <!--Source-->(SRD p138)<!--/Source-->
-- : <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2545,7 +2545,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 - MDR: <!--AltName-->[Tremblement de terre]<!--/AltName-->
 - Source: <!--Source-->(SRD p139)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->500 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)<!--/Components-->
@@ -2579,7 +2579,7 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 
 - MDR: <!--AltName-->[Explosion occulte]<!--/AltName-->
 - Source: <!--Source-->(SRD p139)<!--/Source-->
-- : <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2603,7 +2603,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 - MDR: <!--AltName-->[Amélioration de caractéristique]<!--/AltName-->
 - Source: <!--Source-->(SRD p139)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (fur or a feather from a beast)<!--/Components-->
@@ -2639,7 +2639,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 - MDR: <!--AltName-->[Agrandir/Rétrécir]<!--/AltName-->
 - Source: <!--Source-->(SRD p140)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of powdered iron)<!--/Components-->
@@ -2667,7 +2667,7 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 - MDR: <!--AltName-->[Enchevêtrement]<!--/AltName-->
 - Source: <!--Source-->(SRD p140)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2693,7 +2693,7 @@ When the spell ends, the conjured plants wilt away.
 
 - MDR: <!--AltName-->[Envoûtement]<!--/AltName-->
 - Source: <!--Source-->(SRD p140)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2715,7 +2715,7 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 - MDR: <!--AltName-->[Forme éthérée]<!--/AltName-->
 - Source: <!--Source-->(SRD p140)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2747,7 +2747,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 - MDR: <!--AltName-->[Tentacules noirs]<!--/AltName-->
 - Source: <!--Source-->(SRD p121)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a piece of tentacle from a giant octopus or a giant squid)<!--/Components-->
@@ -2773,7 +2773,7 @@ A creature restrained by the tentacles can use its action to make a Strength or 
 
 - MDR: <!--AltName-->[Repli expéditif]<!--/AltName-->
 - Source: <!--Source-->(SRD p141)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2795,7 +2795,7 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 
 - MDR: <!--AltName-->[Mauvais oeil]<!--/AltName-->
 - Source: <!--Source-->(SRD p141)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2823,7 +2823,7 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 - MDR: <!--AltName-->[Fabrication]<!--/AltName-->
 - Source: <!--Source-->(SRD p141)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -2849,7 +2849,7 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 
 - MDR: <!--AltName-->[Lueurs féeriques]<!--/AltName-->
 - Source: <!--Source-->(SRD p141)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -2873,7 +2873,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 - MDR: <!--AltName-->[Simulacre de vie]<!--/AltName-->
 - Source: <!--Source-->(SRD p142)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small amount of alcohol or distilled spirits)<!--/Components-->
@@ -2897,7 +2897,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 - MDR: <!--AltName-->[Peur]<!--/AltName-->
 - Source: <!--Source-->(SRD p142)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (30-foot cone)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a white feather or the heart of a hen)<!--/Components-->
@@ -2919,7 +2919,7 @@ You project a phantasmal image of a creature's worst fears. Each creature in a 3
 
 - MDR: <!--AltName-->[Léger comme une plume]<!--/AltName-->
 - Source: <!--Source-->(SRD p142)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 reaction, which you take when you or a creature within 60 feet of you falls<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, M (a small feather or piece of down)<!--/Components-->
@@ -2941,7 +2941,7 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 
 - MDR: <!--AltName-->[Esprit faible]<!--/AltName-->
 - Source: <!--Source-->(SRD p142)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a handful of clay, crystal, glass, or mineral spheres)<!--/Components-->
@@ -2969,7 +2969,7 @@ The spell can also be ended by _[greater restoration], [heal]_, or _[wish]_.
 
 - MDR: <!--AltName-->[Appel de familier]<!--/AltName-->
 - Source: <!--Source-->(SRD p143)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 hour<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)<!--/Components-->
@@ -3003,7 +3003,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 - MDR: <!--AltName-->[Trouver une monture]<!--/AltName-->
 - Source: <!--Source-->(SRD p143)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -3033,7 +3033,7 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 
 - MDR: <!--AltName-->[Trouver un chemin]<!--/AltName-->
 - Source: <!--Source-->(SRD p143)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find)<!--/Components-->
@@ -3057,7 +3057,7 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 - MDR: <!--AltName-->[Trouver les pièges]<!--/AltName-->
 - Source: <!--Source-->(SRD p144)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -3081,7 +3081,7 @@ This spell merely reveals that a trap is present. You don't learn the location o
 
 - MDR: <!--AltName-->[Doigt de mort]<!--/AltName-->
 - Source: <!--Source-->(SRD p144)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -3105,7 +3105,7 @@ A humanoid killed by this spell rises at the start of your next turn as a zombie
 
 - MDR: <!--AltName-->[Trait de feu]<!--/AltName-->
 - Source: <!--Source-->(SRD p144)<!--/Source-->
-- : <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -3129,7 +3129,7 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 
 - MDR: <!--AltName-->[Bouclier de feu]<!--/AltName-->
 - Source: <!--Source-->(SRD p144)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of phosphorus or a firefly)<!--/Components-->
@@ -3155,7 +3155,7 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 
 - MDR: <!--AltName-->[Tempête de feu]<!--/AltName-->
 - Source: <!--Source-->(SRD p145)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -3179,7 +3179,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 - MDR: <!--AltName-->[Boule de feu]<!--/AltName-->
 - Source: <!--Source-->(SRD p144)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a tiny ball of bat guano and sulfur)<!--/Components-->
@@ -3205,7 +3205,7 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 - MDR: <!--AltName-->[Lame de feu]<!--/AltName-->
 - Source: <!--Source-->(SRD p145)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (leaf of sumac)<!--/Components-->
@@ -3233,7 +3233,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 - MDR: <!--AltName-->[Colonne de flamme]<!--/AltName-->
 - Source: <!--Source-->(SRD p145)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (pinch of sulfur)<!--/Components-->
@@ -3257,7 +3257,7 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 - MDR: <!--AltName-->[Sphère de feu]<!--/AltName-->
 - Source: <!--Source-->(SRD p145)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)<!--/Components-->
@@ -3285,7 +3285,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 - MDR: <!--AltName-->[Pétrification]<!--/AltName-->
 - Source: <!--Source-->(SRD p145)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of lime, water, and earth)<!--/Components-->
@@ -3313,7 +3313,7 @@ If you maintain your concentration on this spell for the entire possible duratio
 
 - MDR: <!--AltName-->[Vol]<!--/AltName-->
 - Source: <!--Source-->(SRD p146)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a wing feather from any bird)<!--/Components-->
@@ -3337,7 +3337,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 - MDR: <!--AltName-->[Nappe de brouillard]<!--/AltName-->
 - Source: <!--Source-->(SRD p146)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -3361,7 +3361,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 - MDR: <!--AltName-->[Interdiction]<!--/AltName-->
 - Source: <!--Source-->(SRD p146)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->abjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->abjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)<!--/Components-->
@@ -3389,7 +3389,7 @@ The spell's area can't overlap with the area of another forbiddance spell. If yo
 
 - MDR: <!--AltName-->[Cage de force]<!--/AltName-->
 - Source: <!--Source-->(SRD p147)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->100 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (ruby dust worth 1,500 gp)<!--/Components-->
@@ -3421,7 +3421,7 @@ This spell can't be dispelled by _[dispel magic]_.
 
 - MDR: <!--AltName-->[Prémonition]<!--/AltName-->
 - Source: <!--Source-->(SRD p147)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a hummingbird feather)<!--/Components-->
@@ -3445,7 +3445,7 @@ This spell immediately ends if you cast it again before its duration ends.
 
 - MDR: <!--AltName-->[Liberté de mouvement]<!--/AltName-->
 - Source: <!--Source-->(SRD p147)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a leather strap, bound around the arm or a similar appendage)<!--/Components-->
@@ -3469,7 +3469,7 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 
 - MDR: <!--AltName-->[Forme gazeuse]<!--/AltName-->
 - Source: <!--Source-->(SRD p148)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of gauze and a wisp of smoke)<!--/Components-->
@@ -3495,7 +3495,7 @@ While in the form of a misty cloud, the target can't talk or manipulate objects,
 
 - MDR: <!--AltName-->[Portail]<!--/AltName-->
 - Source: <!--Source-->(SRD p148)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a diamond worth at least 5,000 gp)<!--/Components-->
@@ -3523,7 +3523,7 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 - MDR: <!--AltName-->[Coercition mystique]<!--/AltName-->
 - Source: <!--Source-->(SRD p148)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -3551,7 +3551,7 @@ You can end the spell early by using an action to dismiss it. A _[remove curse],
 
 - MDR: <!--AltName-->[Doux repos]<!--/AltName-->
 - Source: <!--Source-->(SRD p148)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->necromancy<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->necromancy<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration<!--/Components-->
@@ -3575,7 +3575,7 @@ The spell also effectively extends the time limit on raising the target from the
 
 - MDR: <!--AltName-->[Insecte géant]<!--/AltName-->
 - Source: <!--Source-->(SRD p149)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -3603,7 +3603,7 @@ The DM might allow you to choose different targets. For example, if you transfor
 
 - MDR: <!--AltName-->[Bagou]<!--/AltName-->
 - Source: <!--Source-->(SRD p149)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -3625,7 +3625,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 - MDR: <!--AltName-->[Globe d'invulnérabilité]<!--/AltName-->
 - Source: <!--Source-->(SRD p149)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (10-foot radius)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a glass or crystal bead that shatters when the spell ends)<!--/Components-->
@@ -3651,7 +3651,7 @@ Any spell of 5th level or lower cast from outside the barrier can't affect creat
 
 - MDR: <!--AltName-->[Glyphe de protection]<!--/AltName-->
 - Source: <!--Source-->(SRD p149)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 hour<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)<!--/Components-->
@@ -3687,7 +3687,7 @@ When you inscribe the glyph, choose _explosive runes_ or a _spell glyph_.
 
 - MDR: <!--AltName-->[Baies nourricières]<!--/AltName-->
 - Source: <!--Source-->(SRD p150)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a sprig of mistletoe)<!--/Components-->
@@ -3711,7 +3711,7 @@ The berries lose their potency if they have not been consumed within 24 hours of
 
 - MDR: <!--AltName-->[Graisse]<!--/AltName-->
 - Source: <!--Source-->(SRD p150)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of pork rind or butter)<!--/Components-->
@@ -3735,7 +3735,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 - MDR: <!--AltName-->[Invisibilité supérieure]<!--/AltName-->
 - Source: <!--Source-->(SRD p150)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -3757,7 +3757,7 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 - MDR: <!--AltName-->[Restauration supérieure]<!--/AltName-->
 - Source: <!--Source-->(SRD p150)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (diamond dust worth at least 100 gp, which the spell consumes)<!--/Components-->
@@ -3787,7 +3787,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 
 - MDR: <!--AltName-->[Gardien de la foi]<!--/AltName-->
 - Source: <!--Source-->(SRD p150)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -3811,7 +3811,7 @@ Any creature hostile to you that moves to a space within 10 feet of the guardian
 
 - MDR: <!--AltName-->[Protections et sceaux]<!--/AltName-->
 - Source: <!--Source-->(SRD p151)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)<!--/Components-->
@@ -3859,7 +3859,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 - MDR: <!--AltName-->[Assistance]<!--/AltName-->
 - Source: <!--Source-->(SRD p151)<!--/Source-->
-- : <!--Type-->Divination<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Divination<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -3881,7 +3881,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 - MDR: <!--AltName-->[Balisage]<!--/AltName-->
 - Source: <!--Source-->(SRD p151)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -3905,7 +3905,7 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 - MDR: <!--AltName-->[Bourrasque]<!--/AltName-->
 - Source: <!--Source-->(SRD p152)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (60-foot line)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a legume seed)<!--/Components-->
@@ -3933,7 +3933,7 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 - MDR: <!--AltName-->[Sanctification]<!--/AltName-->
 - Source: <!--Source-->(SRD p152)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->24 hours<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)<!--/Components-->
@@ -3979,7 +3979,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 - MDR: <!--AltName-->[Terrain hallucinatoire]<!--/AltName-->
 - Source: <!--Source-->(SRD p152)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->300 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a stone, a twig, and a bit of green plant)<!--/Components-->
@@ -4003,7 +4003,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 - MDR: <!--AltName-->[Contamination]<!--/AltName-->
 - Source: <!--Source-->(SRD p153)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -4025,7 +4025,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 - MDR: <!--AltName-->[Hâte]<!--/AltName-->
 - Source: <!--Source-->(SRD p153)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a shaving of licorice root)<!--/Components-->
@@ -4049,7 +4049,7 @@ When the spell ends, the target can't move or take actions until after its next 
 
 - MDR: <!--AltName-->[Guérison]<!--/AltName-->
 - Source: <!--Source-->(SRD p153)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -4073,7 +4073,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 - MDR: <!--AltName-->[Mot de guérison]<!--/AltName-->
 - Source: <!--Source-->(SRD p153)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -4097,7 +4097,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 - MDR: <!--AltName-->[Chauffer le métal]<!--/AltName-->
 - Source: <!--Source-->(SRD p153)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a piece of iron and a flame)<!--/Components-->
@@ -4123,7 +4123,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 - MDR: <!--AltName-->[Représailles infernales]<!--/AltName-->
 - Source: <!--Source-->(SRD p154)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -4147,7 +4147,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 - MDR: <!--AltName-->[Festin des héros]<!--/AltName-->
 - Source: <!--Source-->(SRD p154)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)<!--/Components-->
@@ -4171,7 +4171,7 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 
 - MDR: <!--AltName-->[Héroïsme]<!--/AltName-->
 - Source: <!--Source-->(SRD p154)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -4195,7 +4195,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 - MDR: <!--AltName-->[Immobiliser un monstre]<!--/AltName-->
 - Source: <!--Source-->(SRD p154)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small, straight piece of iron)<!--/Components-->
@@ -4219,7 +4219,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 - MDR: <!--AltName-->[Immobiliser un humanoïde]<!--/AltName-->
 - Source: <!--Source-->(SRD p154)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small, straight piece of iron)<!--/Components-->
@@ -4243,7 +4243,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 - MDR: <!--AltName-->[Aura sacrée]<!--/AltName-->
 - Source: <!--Source-->(SRD p155)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)<!--/Components-->
@@ -4265,7 +4265,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 - MDR: <!--AltName-->[Marque du chasseur]<!--/AltName-->
 - Source: <!--Source-->(SRD p155)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -4289,7 +4289,7 @@ You choose a creature you can see within range and mystically mark it as your qu
 
 - MDR: <!--AltName-->[Motif hypnotique]<!--/AltName-->
 - Source: <!--Source-->(SRD p155)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)<!--/Components-->
@@ -4311,7 +4311,7 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 
 - MDR: <!--AltName-->[Tempête de grêle]<!--/AltName-->
 - Source: <!--Source-->(SRD p155)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->300 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of dust and a few drops of water)<!--/Components-->
@@ -4337,7 +4337,7 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 - MDR: <!--AltName-->[Identification]<!--/AltName-->
 - Source: <!--Source-->(SRD p155)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pearl worth at least 100 gp and an owl feather)<!--/Components-->
@@ -4361,7 +4361,7 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 - MDR: <!--AltName-->[Texte illusoire]<!--/AltName-->
 - Source: <!--Source-->(SRD p156)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->illusion<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->illusion<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->S, M (a lead-based ink worth at least 10 gp, which the spell consumes)<!--/Components-->
@@ -4389,7 +4389,7 @@ A creature with truesight can read the hidden message.
 
 - MDR: <!--AltName-->[Emprisonnement]<!--/AltName-->
 - Source: <!--Source-->(SRD p156)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)<!--/Components-->
@@ -4439,7 +4439,7 @@ You can use a particular special component to create only one prison at a time. 
 
 - MDR: <!--AltName-->[Nuage incendiaire]<!--/AltName-->
 - Source: <!--Source-->(SRD p157)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -4465,7 +4465,7 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 - MDR: <!--AltName-->[Blessure]<!--/AltName-->
 - Source: <!--Source-->(SRD p157)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -4489,7 +4489,7 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 - MDR: <!--AltName-->[Fléau d'insectes]<!--/AltName-->
 - Source: <!--Source-->(SRD p157)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->300 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)<!--/Components-->
@@ -4515,7 +4515,7 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 - MDR: <!--AltName-->[Invisibilité]<!--/AltName-->
 - Source: <!--Source-->(SRD p157)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (an eyelash encased in gum arabic)<!--/Components-->
@@ -4539,7 +4539,7 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 - MDR: <!--AltName-->[Saut]<!--/AltName-->
 - Source: <!--Source-->(SRD p158)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a grasshopper's hind leg)<!--/Components-->
@@ -4561,7 +4561,7 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 
 - MDR: <!--AltName-->[Déblocage]<!--/AltName-->
 - Source: <!--Source-->(SRD p158)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -4589,7 +4589,7 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 
 - MDR: <!--AltName-->[Légende]<!--/AltName-->
 - Source: <!--Source-->(SRD p158)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)<!--/Components-->
@@ -4613,7 +4613,7 @@ The information you learn is accurate but might be couched in figurative languag
 
 - MDR: <!--AltName-->[Coffre secret]<!--/AltName-->
 - Source: <!--Source-->(SRD p177)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)<!--/Components-->
@@ -4639,7 +4639,7 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 
 - MDR: <!--AltName-->[Petite hutte]<!--/AltName-->
 - Source: <!--Source-->(SRD p187)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Self (10-foot-radius hemisphere)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small crystal bead)<!--/Components-->
@@ -4665,7 +4665,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 
 - MDR: <!--AltName-->[Restauration inférieure]<!--/AltName-->
 - Source: <!--Source-->(SRD p158)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -4687,7 +4687,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 - MDR: <!--AltName-->[Lévitation]<!--/AltName-->
 - Source: <!--Source-->(SRD p158)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)<!--/Components-->
@@ -4713,7 +4713,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 - MDR: <!--AltName-->[Lumière]<!--/AltName-->
 - Source: <!--Source-->(SRD p159)<!--/Source-->
-- : <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, M (a firefly or phosphorescent moss)<!--/Components-->
@@ -4737,7 +4737,7 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 - MDR: <!--AltName-->[Éclair]<!--/AltName-->
 - Source: <!--Source-->(SRD p159)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (100-foot line)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of fur and a rod of amber, crystal, or glass)<!--/Components-->
@@ -4763,7 +4763,7 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 - MDR: <!--AltName-->[Localiser des animaux ou des plantes]<!--/AltName-->
 - Source: <!--Source-->(SRD p159)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of fur from a bloodhound)<!--/Components-->
@@ -4785,7 +4785,7 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 
 - MDR: <!--AltName-->[Localiser une créature]<!--/AltName-->
 - Source: <!--Source-->(SRD p159)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of fur from a bloodhound)<!--/Components-->
@@ -4811,7 +4811,7 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 
 - MDR: <!--AltName-->[Localiser un objet]<!--/AltName-->
 - Source: <!--Source-->(SRD p159)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a forked twig)<!--/Components-->
@@ -4837,7 +4837,7 @@ This spell can't locate an object if any thickness of lead, even a thin sheet, b
 
 - MDR: <!--AltName-->[Grande foulée]<!--/AltName-->
 - Source: <!--Source-->(SRD p160)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of dirt)<!--/Components-->
@@ -4861,7 +4861,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 - MDR: <!--AltName-->[Armure du mage]<!--/AltName-->
 - Source: <!--Source-->(SRD p160)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a piece of cured leather)<!--/Components-->
@@ -4883,7 +4883,7 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 - MDR: <!--AltName-->[Main du mage]<!--/AltName-->
 - Source: <!--Source-->(SRD p160)<!--/Source-->
-- : <!--Type-->Conjuration<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Conjuration<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -4909,7 +4909,7 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 - MDR: <!--AltName-->[Cercle magique]<!--/AltName-->
 - Source: <!--Source-->(SRD p160)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)<!--/Components-->
@@ -4943,7 +4943,7 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 - MDR: <!--AltName-->[Possession]<!--/AltName-->
 - Source: <!--Source-->(SRD p160)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)<!--/Components-->
@@ -4977,7 +4977,7 @@ When the spell ends, the container is destroyed.
 
 - MDR: <!--AltName-->[Projectile magique]<!--/AltName-->
 - Source: <!--Source-->(SRD p161)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5001,7 +5001,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 - MDR: <!--AltName-->[Bouche magique]<!--/AltName-->
 - Source: <!--Source-->(SRD p161)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)<!--/Components-->
@@ -5027,7 +5027,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 - MDR: <!--AltName-->[Arme magique]<!--/AltName-->
 - Source: <!--Source-->(SRD p161)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5051,7 +5051,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 - MDR: <!--AltName-->[Image majeure]<!--/AltName-->
 - Source: <!--Source-->(SRD p162)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of fleece)<!--/Components-->
@@ -5079,7 +5079,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 - MDR: <!--AltName-->[Soin des blessures de groupe]<!--/AltName-->
 - Source: <!--Source-->(SRD p162)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5103,7 +5103,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 - MDR: <!--AltName-->[Guérison de groupe]<!--/AltName-->
 - Source: <!--Source-->(SRD p163)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5125,7 +5125,7 @@ A flood of healing energy flows from you into injured creatures around you. You 
 
 - MDR: <!--AltName-->[Mot de guérison de groupe]<!--/AltName-->
 - Source: <!--Source-->(SRD p163)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -5149,7 +5149,7 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 - MDR: <!--AltName-->[Suggestion de groupe]<!--/AltName-->
 - Source: <!--Source-->(SRD p163)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)<!--/Components-->
@@ -5179,7 +5179,7 @@ If you or any of your companions damage a creature affected by this spell, the s
 
 - MDR: <!--AltName-->[Labyrinthe]<!--/AltName-->
 - Source: <!--Source-->(SRD p163)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5205,7 +5205,7 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 - MDR: <!--AltName-->[Fusion dans la pierre]<!--/AltName-->
 - Source: <!--Source-->(SRD p163)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5231,7 +5231,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 
 - MDR: <!--AltName-->[Flèche acide]<!--/AltName-->
 - Source: <!--Source-->(SRD p114)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (powdered rhubarb leaf and an adder's stomach)<!--/Components-->
@@ -5255,7 +5255,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 - MDR: <!--AltName-->[Réparation]<!--/AltName-->
 - Source: <!--Source-->(SRD p164)<!--/Source-->
-- : <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (two lodestones)<!--/Components-->
@@ -5277,7 +5277,7 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 
 - MDR: <!--AltName-->[Message]<!--/AltName-->
 - Source: <!--Source-->(SRD p164)<!--/Source-->
-- : <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a short piece of copper wire)<!--/Components-->
@@ -5301,7 +5301,7 @@ You can cast this spell through solid objects if you re familiar with the target
 
 - MDR: <!--AltName-->[Nuée de météores]<!--/AltName-->
 - Source: <!--Source-->(SRD p164)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->1 mile<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5325,7 +5325,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 
 - MDR: <!--AltName-->[Esprit impénétrable]<!--/AltName-->
 - Source: <!--Source-->(SRD p164)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5347,7 +5347,7 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 - MDR: <!--AltName-->[Illusion mineure]<!--/AltName-->
 - Source: <!--Source-->(SRD p164)<!--/Source-->
-- : <!--Type-->Illusion<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Illusion<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->S, M (a bit of fleece)<!--/Components-->
@@ -5375,7 +5375,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 - MDR: <!--AltName-->[Mirage]<!--/AltName-->
 - Source: <!--Source-->(SRD p165)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->Sight<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5403,7 +5403,7 @@ Creatures with truesight can see through the illusion to the terrain's true form
 
 - MDR: <!--AltName-->[Image miroir]<!--/AltName-->
 - Source: <!--Source-->(SRD p165)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5433,7 +5433,7 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 
 - MDR: <!--AltName-->[Tromperie]<!--/AltName-->
 - Source: <!--Source-->(SRD p165)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->S<!--/Components-->
@@ -5459,7 +5459,7 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 - MDR: <!--AltName-->[Pas brumeux]<!--/AltName-->
 - Source: <!--Source-->(SRD p165)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -5481,7 +5481,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 - MDR: <!--AltName-->[Modification de mémoire]<!--/AltName-->
 - Source: <!--Source-->(SRD p166)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5513,7 +5513,7 @@ A _[remove curse]_ or _[greater restoration]_ spell cast on the target restores 
 
 - MDR: <!--AltName-->[Rayon de lune]<!--/AltName-->
 - Source: <!--Source-->(SRD p166)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)<!--/Components-->
@@ -5543,7 +5543,7 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 - MDR: <!--AltName-->[Chien de garde]<!--/AltName-->
 - Source: <!--Source-->(SRD p142)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a tiny silver whistle, a piece of bone, and a thread)<!--/Components-->
@@ -5569,7 +5569,7 @@ At the start of each of your turns, the hound attempts to bite one creature with
 
 - MDR: <!--AltName-->[Manoir somptueux]<!--/AltName-->
 - Source: <!--Source-->(SRD p162)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->300 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)<!--/Components-->
@@ -5595,7 +5595,7 @@ You can create any floor plan you like, but the space can't exceed 50 cubes, eac
 
 - MDR: <!--AltName-->[Sanctuaire privé]<!--/AltName-->
 - Source: <!--Source-->(SRD p171)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)<!--/Components-->
@@ -5635,7 +5635,7 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 - MDR: <!--AltName-->[Épée magique]<!--/AltName-->
 - Source: <!--Source-->(SRD p119)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)<!--/Components-->
@@ -5659,7 +5659,7 @@ When the sword appears, you make a melee spell attack against a target of your c
 
 - MDR: <!--AltName-->[Déplacer la terre]<!--/AltName-->
 - Source: <!--Source-->(SRD p166)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (an iron blade and a small bag containing a mixture of soils—clay, loam, and sand)<!--/Components-->
@@ -5689,7 +5689,7 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 - MDR: <!--AltName-->[Non-détection]<!--/AltName-->
 - Source: <!--Source-->(SRD p167)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)<!--/Components-->
@@ -5711,7 +5711,7 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 - MDR: <!--AltName-->[Aura magique de l'arcaniste]<!--/AltName-->
 - Source: <!--Source-->(SRD p119)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small square of silk)<!--/Components-->
@@ -5739,7 +5739,7 @@ When you cast the spell, choose one or both of the following effects. The effect
 
 - MDR: <!--AltName-->[Sphère glacée]<!--/AltName-->
 - Source: <!--Source-->(SRD p147)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->300 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small crystal sphere<!--/Components-->
@@ -5767,7 +5767,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 - MDR: <!--AltName-->[Sphère résiliente]<!--/AltName-->
 - Source: <!--Source-->(SRD p175)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)<!--/Components-->
@@ -5795,7 +5795,7 @@ A _[disintegrate]_ spell targeting the globe destroys it without harming anythin
 
 - MDR: <!--AltName-->[Danse irrésistible]<!--/AltName-->
 - Source: <!--Source-->(SRD p158)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -5819,7 +5819,7 @@ A dancing creature must use all its movement to dance without leaving its space 
 
 - MDR: <!--AltName-->[Passage sans trace]<!--/AltName-->
 - Source: <!--Source-->(SRD p167)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)<!--/Components-->
@@ -5841,7 +5841,7 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 - MDR: <!--AltName-->[Passe-muraille]<!--/AltName-->
 - Source: <!--Source-->(SRD p167)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of sesame seeds)<!--/Components-->
@@ -5865,7 +5865,7 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 - MDR: <!--AltName-->[Assassin imaginaire]<!--/AltName-->
 - Source: <!--Source-->(SRD p167)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5889,7 +5889,7 @@ You tap into the nightmares of a creature you can see within range and create an
 
 - MDR: <!--AltName-->[Monture fantôme]<!--/AltName-->
 - Source: <!--Source-->(SRD p167)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->illusion<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->illusion<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5913,7 +5913,7 @@ For the duration, you or a creature you choose can ride the steed. The creature 
 
 - MDR: <!--AltName-->[Allié planaire]<!--/AltName-->
 - Source: <!--Source-->(SRD p168)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -5947,7 +5947,7 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 
 - MDR: <!--AltName-->[Entrave planaire]<!--/AltName-->
 - Source: <!--Source-->(SRD p168)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 hour<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)<!--/Components-->
@@ -5973,7 +5973,7 @@ A bound creature must follow your instructions to the best of its ability. You m
 
 - MDR: <!--AltName-->[Changement de plan]<!--/AltName-->
 - Source: <!--Source-->(SRD p168)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)<!--/Components-->
@@ -5999,7 +5999,7 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 
 - MDR: <!--AltName-->[Croissance végétale]<!--/AltName-->
 - Source: <!--Source-->(SRD p169)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action or 8 hours<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6027,7 +6027,7 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 
 - MDR: <!--AltName-->[Bouffée de poison]<!--/AltName-->
 - Source: <!--Source-->(SRD p169)<!--/Source-->
-- : <!--Type-->Conjuration<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Conjuration<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6051,7 +6051,7 @@ This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th leve
 
 - MDR: <!--AltName-->[Métamorphose]<!--/AltName-->
 - Source: <!--Source-->(SRD p169)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a caterpillar cocoon)<!--/Components-->
@@ -6081,7 +6081,7 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 - MDR: <!--AltName-->[Mot de pouvoir mortel]<!--/AltName-->
 - Source: <!--Source-->(SRD p170)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -6103,7 +6103,7 @@ You utter a word of power that can compel one creature you can see within range 
 
 - MDR: <!--AltName-->[Mot de pouvoir étourdissant]<!--/AltName-->
 - Source: <!--Source-->(SRD p170)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -6127,7 +6127,7 @@ The stunned target must make a Constitution saving throw at the end of each of i
 
 - MDR: <!--AltName-->[Prière de soins]<!--/AltName-->
 - Source: <!--Source-->(SRD p170)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -6151,7 +6151,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 - MDR: <!--AltName-->[Prestidigitation]<!--/AltName-->
 - Source: <!--Source-->(SRD p170)<!--/Source-->
-- : <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6187,7 +6187,7 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 - MDR: <!--AltName-->[Embruns prismatiques]<!--/AltName-->
 - Source: <!--Source-->(SRD p170)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (60-foot cone)<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6225,7 +6225,7 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 - MDR: <!--AltName-->[Mur prismatique]<!--/AltName-->
 - Source: <!--Source-->(SRD p171)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6269,7 +6269,7 @@ While this layer is in place, spells can't be cast through the wall. The layer i
 
 - MDR: <!--AltName-->[Produire une flamme]<!--/AltName-->
 - Source: <!--Source-->(SRD p172)<!--/Source-->
-- : <!--Type-->Conjuration<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Conjuration<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6295,7 +6295,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 - MDR: <!--AltName-->[Illusion programmée]<!--/AltName-->
 - Source: <!--Source-->(SRD p172)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of fleece and jade dust worth at least 25 gp)<!--/Components-->
@@ -6323,7 +6323,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 - MDR: <!--AltName-->[Image projetée]<!--/AltName-->
 - Source: <!--Source-->(SRD p172)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->500 miles<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small replica of you made from materials worth at least 5 gp)<!--/Components-->
@@ -6351,7 +6351,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 - MDR: <!--AltName-->[Protection contre les énergies]<!--/AltName-->
 - Source: <!--Source-->(SRD p173)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6373,7 +6373,7 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 - MDR: <!--AltName-->[Protection contre le mal et le bien]<!--/AltName-->
 - Source: <!--Source-->(SRD p173)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (holy water or powdered silver and iron, which the spell consumes)<!--/Components-->
@@ -6397,7 +6397,7 @@ The protection grants several benefits. Creatures of those types have disadvanta
 
 - MDR: <!--AltName-->[Protection contre le poison]<!--/AltName-->
 - Source: <!--Source-->(SRD p173)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6421,7 +6421,7 @@ For the duration, the target has advantage on saving throws against being poison
 
 - MDR: <!--AltName-->[Purification de la nourriture et de l'eau]<!--/AltName-->
 - Source: <!--Source-->(SRD p173)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->transmutation<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6443,7 +6443,7 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 - MDR: <!--AltName-->[Rappel à la vie]<!--/AltName-->
 - Source: <!--Source-->(SRD p173)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 hour<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a diamond worth at least 500 gp, which the spell consumes)<!--/Components-->
@@ -6471,7 +6471,7 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to all att
 
 - MDR: <!--AltName-->[Lien télépathique]<!--/AltName-->
 - Source: <!--Source-->(SRD p185)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (pieces of eggshell from two different kinds of creatures)<!--/Components-->
@@ -6495,7 +6495,7 @@ Until the spell ends, the targets can communicate telepathically through the bon
 
 - MDR: <!--AltName-->[Rayon affaiblissant]<!--/AltName-->
 - Source: <!--Source-->(SRD p174)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6519,7 +6519,7 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 
 - MDR: <!--AltName-->[Rayon de givre]<!--/AltName-->
 - Source: <!--Source-->(SRD p174)<!--/Source-->
-- : <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6543,7 +6543,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 - MDR: <!--AltName-->[Régénération]<!--/AltName-->
 - Source: <!--Source-->(SRD p174)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a prayer wheel and holy water)<!--/Components-->
@@ -6567,7 +6567,7 @@ The target's severed body members (fingers, legs, tails, and so on), if any, are
 
 - MDR: <!--AltName-->[Réincarnation]<!--/AltName-->
 - Source: <!--Source-->(SRD p174)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 hour<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)<!--/Components-->
@@ -6612,7 +6612,7 @@ The reincarnated creature recalls its former life and experiences. It retains th
 
 - MDR: <!--AltName-->[Lever une malédiction]<!--/AltName-->
 - Source: <!--Source-->(SRD p174)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6634,7 +6634,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 - MDR: <!--AltName-->[Résistance]<!--/AltName-->
 - Source: <!--Source-->(SRD p175)<!--/Source-->
-- : <!--Type-->Abjuration<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Abjuration<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a miniature cloak)<!--/Components-->
@@ -6656,7 +6656,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 - MDR: <!--AltName-->[Résurrection]<!--/AltName-->
 - Source: <!--Source-->(SRD p175)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 hour<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)<!--/Components-->
@@ -6686,7 +6686,7 @@ Casting this spell to restore life to a creature that has been dead for one year
 
 - MDR: <!--AltName-->[Inversion de la gravité]<!--/AltName-->
 - Source: <!--Source-->(SRD p175)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->100 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a lodestone and iron filings)<!--/Components-->
@@ -6712,7 +6712,7 @@ At the end of the duration, affected objects and creatures fall back down.
 
 - MDR: <!--AltName-->[Revigorer]<!--/AltName-->
 - Source: <!--Source-->(SRD p175)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (diamonds worth 300 gp, which the spell consumes)<!--/Components-->
@@ -6734,7 +6734,7 @@ You touch a creature that has died within the last minute. That creature returns
 
 - MDR: <!--AltName-->[Corde enchantée]<!--/AltName-->
 - Source: <!--Source-->(SRD p176)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (powdered corn extract and a twisted loop of parchment)<!--/Components-->
@@ -6762,7 +6762,7 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 - MDR: <!--AltName-->[Flamme sacrée]<!--/AltName-->
 - Source: <!--Source-->(SRD p176)<!--/Source-->
-- : <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6786,7 +6786,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 - MDR: <!--AltName-->[Sanctuaire]<!--/AltName-->
 - Source: <!--Source-->(SRD p176)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small silver mirror)<!--/Components-->
@@ -6810,7 +6810,7 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 
 - MDR: <!--AltName-->[Rayon ardent]<!--/AltName-->
 - Source: <!--Source-->(SRD p176)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6836,7 +6836,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 - MDR: <!--AltName-->[Scrutation]<!--/AltName-->
 - Source: <!--Source-->(SRD p176)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)<!--/Components-->
@@ -6872,7 +6872,7 @@ On a successful save, the target isn't affected, and you can't use this spell ag
 
 - MDR: <!--AltName-->[Voir l'invisible]<!--/AltName-->
 - Source: <!--Source-->(SRD p177)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of talc and a small sprinkling of powdered silver)<!--/Components-->
@@ -6894,7 +6894,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 - MDR: <!--AltName-->[Apparence trompeuse]<!--/AltName-->
 - Source: <!--Source-->(SRD p177)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -6922,7 +6922,7 @@ A creature can use its action to inspect a target and make an Intelligence (Inve
 
 - MDR: <!--AltName-->[Envoi de message]<!--/AltName-->
 - Source: <!--Source-->(SRD p177)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Unlimited<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a short piece of fine copper wire)<!--/Components-->
@@ -6946,7 +6946,7 @@ You can send the message across any distance and even to other planes of existen
 
 - MDR: <!--AltName-->[Séquestration]<!--/AltName-->
 - Source: <!--Source-->(SRD p178)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)<!--/Components-->
@@ -6972,7 +6972,7 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 - MDR: <!--AltName-->[Changement de forme]<!--/AltName-->
 - Source: <!--Source-->(SRD p178)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)<!--/Components-->
@@ -7004,7 +7004,7 @@ During this spell's duration, you can use your action to assume a different form
 
 - MDR: <!--AltName-->[Briser]<!--/AltName-->
 - Source: <!--Source-->(SRD p178)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a chip of mica)<!--/Components-->
@@ -7030,7 +7030,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 - MDR: <!--AltName-->[Bouclier]<!--/AltName-->
 - Source: <!--Source-->(SRD p179)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7052,7 +7052,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 - MDR: <!--AltName-->[Bouclier de la foi]<!--/AltName-->
 - Source: <!--Source-->(SRD p179)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small parchment with a bit of holy text written on it)<!--/Components-->
@@ -7074,7 +7074,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 - MDR: <!--AltName-->[Gourdin magique]<!--/AltName-->
 - Source: <!--Source-->(SRD p179)<!--/Source-->
-- : <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)<!--/Components-->
@@ -7096,7 +7096,7 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 - MDR: <!--AltName-->[Poigne électrique]<!--/AltName-->
 - Source: <!--Source-->(SRD p179)<!--/Source-->
-- : <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Evocation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7120,7 +7120,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 - MDR: <!--AltName-->[Silence]<!--/AltName-->
 - Source: <!--Source-->(SRD p179)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->illusion<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7144,7 +7144,7 @@ Casting a spell that includes a verbal component is impossible there.
 
 - MDR: <!--AltName-->[Image silencieuse]<!--/AltName-->
 - Source: <!--Source-->(SRD p179)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of fleece)<!--/Components-->
@@ -7170,7 +7170,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 - MDR: <!--AltName-->[Simulacre]<!--/AltName-->
 - Source: <!--Source-->(SRD p180)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->12 hours<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)<!--/Components-->
@@ -7198,7 +7198,7 @@ If you cast this spell again, any currently active duplicates you created with t
 
 - MDR: <!--AltName-->[Sommeil]<!--/AltName-->
 - Source: <!--Source-->(SRD p180)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of fine sand, rose petals, or a cricket)<!--/Components-->
@@ -7226,7 +7226,7 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 - MDR: <!--AltName-->[Tempête de neige]<!--/AltName-->
 - Source: <!--Source-->(SRD p180)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of dust and a few drops of water)<!--/Components-->
@@ -7252,7 +7252,7 @@ If a creature is concentrating in the spell's area, the creature must make a suc
 
 - MDR: <!--AltName-->[Lenteur]<!--/AltName-->
 - Source: <!--Source-->(SRD p180)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a drop of molasses)<!--/Components-->
@@ -7280,7 +7280,7 @@ A creature affected by this spell makes another Wisdom saving throw at the end o
 
 - MDR: <!--AltName-->[Épargner les mourants]<!--/AltName-->
 - Source: <!--Source-->(SRD p181)<!--/Source-->
-- : <!--Type-->Necromancy<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Necromancy<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7302,7 +7302,7 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 - MDR: <!--AltName-->[Communication avec les animaux]<!--/AltName-->
 - Source: <!--Source-->(SRD p181)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7324,7 +7324,7 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 - MDR: <!--AltName-->[Communication avec les morts]<!--/AltName-->
 - Source: <!--Source-->(SRD p181)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (burning incense)<!--/Components-->
@@ -7348,7 +7348,7 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 
 - MDR: <!--AltName-->[Communication avec les plantes]<!--/AltName-->
 - Source: <!--Source-->(SRD p181)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (30-foot radius)<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7378,7 +7378,7 @@ This spell can cause the plants created by the _[entangle]_ spell to release a r
 
 - MDR: <!--AltName-->[Pattes d'araignée]<!--/AltName-->
 - Source: <!--Source-->(SRD p182)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a drop of bitumen and a spider)<!--/Components-->
@@ -7400,7 +7400,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 - MDR: <!--AltName-->[Croissance d'épines]<!--/AltName-->
 - Source: <!--Source-->(SRD p182)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)<!--/Components-->
@@ -7424,7 +7424,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 - MDR: <!--AltName-->[Esprits gardiens]<!--/AltName-->
 - Source: <!--Source-->(SRD p182)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (15-foot radius)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a holy symbol)<!--/Components-->
@@ -7450,7 +7450,7 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 - MDR: <!--AltName-->[Arme spirituelle]<!--/AltName-->
 - Source: <!--Source-->(SRD p182)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7478,7 +7478,7 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 - MDR: <!--AltName-->[Nuage puant]<!--/AltName-->
 - Source: <!--Source-->(SRD p182)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->90 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a rotten egg or several skunk cabbage leaves)<!--/Components-->
@@ -7504,7 +7504,7 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 
 - MDR: <!--AltName-->[Façonnage de la pierre]<!--/AltName-->
 - Source: <!--Source-->(SRD p183)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)<!--/Components-->
@@ -7526,7 +7526,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 - MDR: <!--AltName-->[Peau de pierre]<!--/AltName-->
 - Source: <!--Source-->(SRD p183)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (diamond dust worth 100 gp, which the spell consumes)<!--/Components-->
@@ -7548,7 +7548,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 - MDR: <!--AltName-->[Tempête vengeresse]<!--/AltName-->
 - Source: <!--Source-->(SRD p183)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Sight<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7580,7 +7580,7 @@ Each round you maintain concentration on this spell, the storm produces addition
 
 - MDR: <!--AltName-->[Suggestion]<!--/AltName-->
 - Source: <!--Source-->(SRD p183)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)<!--/Components-->
@@ -7608,7 +7608,7 @@ If you or any of your companions damage the target, the spell ends.
 
 - MDR: <!--AltName-->[Rayon de soleil]<!--/AltName-->
 - Source: <!--Source-->(SRD p184)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (60-foot line)<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a magnifying glass)<!--/Components-->
@@ -7634,7 +7634,7 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 
 - MDR: <!--AltName-->[Éclat du soleil]<!--/AltName-->
 - Source: <!--Source-->(SRD p184)<!--/Source-->
-- : <!--Level-->8<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->8<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->150 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (fire and a piece of sunstone)<!--/Components-->
@@ -7660,7 +7660,7 @@ This spell dispels any darkness in its area that was created by a spell.
 
 - MDR: <!--AltName-->[Symbole]<!--/AltName-->
 - Source: <!--Source-->(SRD p184)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)<!--/Components-->
@@ -7706,7 +7706,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 - MDR: <!--AltName-->[Fou rire]<!--/AltName-->
 - Source: <!--Source-->(SRD p154)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (tiny tarts and a feather that is waved in the air)<!--/Components-->
@@ -7730,7 +7730,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 - MDR: <!--AltName-->[Télékinésie]<!--/AltName-->
 - Source: <!--Source-->(SRD p185)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7758,7 +7758,7 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 - MDR: <!--AltName-->[Téléportation]<!--/AltName-->
 - Source: <!--Source-->(SRD p185)<!--/Source-->
-- : <!--Level-->7<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->7<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -7814,7 +7814,7 @@ The destination you choose must be known to you, and it must be on the same plan
 
 - MDR: <!--AltName-->[Cercle de téléportation]<!--/AltName-->
 - Source: <!--Source-->(SRD p186)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, M (rare chalks and inks infused with precious gems with 50 gp, which the spell consumes)<!--/Components-->
@@ -7840,7 +7840,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 - MDR: <!--AltName-->[Disque flottant]<!--/AltName-->
 - Source: <!--Source-->(SRD p146)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a drop of mercury)<!--/Components-->
@@ -7866,7 +7866,7 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 - MDR: <!--AltName-->[Thaumaturgie]<!--/AltName-->
 - Source: <!--Source-->(SRD p187)<!--/Source-->
-- : <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Transmutation<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -7902,7 +7902,7 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 
 - MDR: <!--AltName-->[Vague tonnante]<!--/AltName-->
 - Source: <!--Source-->(SRD p187)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self (15-foot cube)<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7928,7 +7928,7 @@ In addition, unsecured objects that are completely within the area of effect are
 
 - MDR: <!--AltName-->[Arrêt du temps]<!--/AltName-->
 - Source: <!--Source-->(SRD p187)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -7952,7 +7952,7 @@ This spell ends if one of the actions you use during this period, or any effects
 
 - MDR: <!--AltName-->[Langues]<!--/AltName-->
 - Source: <!--Source-->(SRD p187)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, M (a small clay model of a ziggurat)<!--/Components-->
@@ -7974,7 +7974,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 - MDR: <!--AltName-->[Transport végétal]<!--/AltName-->
 - Source: <!--Source-->(SRD p188)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->10 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -7996,7 +7996,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 - MDR: <!--AltName-->[Passage par les arbres]<!--/AltName-->
 - Source: <!--Source-->(SRD p188)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -8020,7 +8020,7 @@ You can use this transportation ability once per round for the duration. You mus
 
 - MDR: <!--AltName-->[Métamorphose suprême]<!--/AltName-->
 - Source: <!--Source-->(SRD p188)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)<!--/Components-->
@@ -8058,7 +8058,7 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 
 - MDR: <!--AltName-->[Résurrection suprême]<!--/AltName-->
 - Source: <!--Source-->(SRD p189)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 hour<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)<!--/Components-->
@@ -8084,7 +8084,7 @@ The spell can even provide a new body if the original no longer exists, in which
 
 - MDR: <!--AltName-->[Vision suprême]<!--/AltName-->
 - Source: <!--Source-->(SRD p189)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->divination<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->divination<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)<!--/Components-->
@@ -8106,7 +8106,7 @@ This spell gives the willing creature you touch the ability to see things as the
 
 - MDR: <!--AltName-->[Viser juste]<!--/AltName-->
 - Source: <!--Source-->(SRD p189)<!--/Source-->
-- : <!--Type-->Divination<!--/Type--> <!--Level-->cantrip<!--/Level-->
+-  <!--Type-->Divination<!--/Type--> <!--Level-->cantrip<!--/Level-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->S<!--/Components-->
@@ -8128,7 +8128,7 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 - MDR: <!--AltName-->[Serviteur invisible]<!--/AltName-->
 - Source: <!--Source-->(SRD p189)<!--/Source-->
-- : <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->1<!--/Level-->st-level <!--Type-->conjuration<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a piece of string and a bit of wood)<!--/Components-->
@@ -8154,7 +8154,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 - MDR: <!--AltName-->[Caresse du vampire]<!--/AltName-->
 - Source: <!--Source-->(SRD p189)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->necromancy<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -8178,7 +8178,7 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 - MDR: <!--AltName-->[Moquerie cruelle]<!--/AltName-->
 - Source: <!--Source-->(SRD p189)<!--/Source-->
-- : <!--Type-->Enchantment<!--/Type--> <!--Level-->cantrip<!--/Level--> 
+-  <!--Type-->Enchantment<!--/Type--> <!--Level-->cantrip<!--/Level--> 
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -8202,7 +8202,7 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 
 - MDR: <!--AltName-->[Mur de feu]<!--/AltName-->
 - Source: <!--Source-->(SRD p190)<!--/Source-->
-- : <!--Level-->4<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->4<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small piece of phosphorus)<!--/Components-->
@@ -8232,7 +8232,7 @@ The other side of the wall deals no damage.
 
 - MDR: <!--AltName-->[Mur de force]<!--/AltName-->
 - Source: <!--Source-->(SRD p190)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pinch of powder made by crushing a clear gemstone)<!--/Components-->
@@ -8256,7 +8256,7 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 
 - MDR: <!--AltName-->[Mur de glace]<!--/AltName-->
 - Source: <!--Source-->(SRD p190)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small piece of quartz)<!--/Components-->
@@ -8284,7 +8284,7 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 - MDR: <!--AltName-->[Mur de pierre]<!--/AltName-->
 - Source: <!--Source-->(SRD p190)<!--/Source-->
-- : <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->5<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a small block of granite)<!--/Components-->
@@ -8316,7 +8316,7 @@ If you maintain your concentration on this spell for its whole duration, the wal
 
 - MDR: <!--AltName-->[Mur d'épines]<!--/AltName-->
 - Source: <!--Source-->(SRD p191)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a handful of thorns)<!--/Components-->
@@ -8344,7 +8344,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 - MDR: <!--AltName-->[Lien de protection]<!--/AltName-->
 - Source: <!--Source-->(SRD p191)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->abjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Touch<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)<!--/Components-->
@@ -8368,7 +8368,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 - MDR: <!--AltName-->[Respiration aquatique]<!--/AltName-->
 - Source: <!--Source-->(SRD p191)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a short reed or piece of straw)<!--/Components-->
@@ -8390,7 +8390,7 @@ This spell grants up to ten willing creatures you can see within range the abili
 
 - MDR: <!--AltName-->[Marche sur l'eau]<!--/AltName-->
 - Source: <!--Source-->(SRD p191)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->transmutation<!--/Type--> (<!--Ritual-->ritual<!--/Ritual-->)
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a piece of cork)<!--/Components-->
@@ -8414,7 +8414,7 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 
 - MDR: <!--AltName-->[Toile d'araignée]<!--/AltName-->
 - Source: <!--Source-->(SRD p192)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a bit of spiderweb)<!--/Components-->
@@ -8444,7 +8444,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 - MDR: <!--AltName-->[Étrangeté]<!--/AltName-->
 - Source: <!--Source-->(SRD p192)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->
@@ -8466,7 +8466,7 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 
 - MDR: <!--AltName-->[Marche sur le vent]<!--/AltName-->
 - Source: <!--Source-->(SRD p192)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->transmutation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Range :** <!--Range-->30 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (fire and holy water)<!--/Components-->
@@ -8490,7 +8490,7 @@ If a creature is in cloud form and flying when the effect ends, the creature des
 
 - MDR: <!--AltName-->[Mur de vent]<!--/AltName-->
 - Source: <!--Source-->(SRD p192)<!--/Source-->
-- : <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+-  <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->120 feet<!--/Range-->
 - **Components :** <!--Components-->V, S, M (a tiny fan and a feather of exotic origin)<!--/Components-->
@@ -8516,7 +8516,7 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 
 - MDR: <!--AltName-->[Souhait]<!--/AltName-->
 - Source: <!--Source-->(SRD p193)<!--/Source-->
-- : <!--Level-->9<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->9<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->Self<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -8556,7 +8556,7 @@ The stress of casting this spell to produce any effect other than duplicating an
 
 - MDR: <!--AltName-->[Mot de retour]<!--/AltName-->
 - Source: <!--Source-->(SRD p193)<!--/Source-->
-- : <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+-  <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->5 feet<!--/Range-->
 - **Components :** <!--Components-->V<!--/Components-->
@@ -8580,7 +8580,7 @@ You must designate a sanctuary by casting this spell within a location, such as 
 
 - MDR: <!--AltName-->[Zone de vérité]<!--/AltName-->
 - Source: <!--Source-->(SRD p193)<!--/Source-->
-- : <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type-->
+-  <!--Level-->2<!--/Level-->nd-level <!--Type-->enchantment<!--/Type-->
 - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Range :** <!--Range-->60 feet<!--/Range-->
 - **Components :** <!--Components-->V, S<!--/Components-->

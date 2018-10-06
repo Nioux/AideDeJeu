@@ -835,4 +835,91 @@ namespace AideDeJeu.ViewModels
     }
 
     #endregion Equipments
+
+    #region Magic Items
+    public abstract class MagicItemFilterViewModel : FilterViewModel
+    {
+        private IEnumerable<Filter> _Filters = null;
+        public override IEnumerable<Filter> Filters
+        {
+            get
+            {
+                if (_Filters == null)
+                {
+                    _Filters = new List<Filter>()
+                    {
+                        new Filter() { Key = FilterKeys.Type, Name = "Type", KeyValues = Types, _Index = 0 },
+                        //new Filter() { Key = FilterKeys.MinPrice, Name = "Prix Minimum", KeyValues = Prices, _Index = 0 },
+                        //new Filter() { Key = FilterKeys.MaxPrice, Name = "Prix Maximum", KeyValues = Prices, _Index = 9 },
+                    };
+                    RegisterFilters();
+                }
+                return _Filters;
+            }
+        }
+
+        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
+        {
+            return await Task.Run(() =>
+            {
+                var priceComparer = new PriceComparer();
+                var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
+                //var minPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey ?? "0 pc";
+                //var maxPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey ?? "1 000 000 po";
+                //token.ThrowIfCancellationRequested();
+                return items.Where(item =>
+                {
+                    var magicitem = item as MagicItem;
+                    return magicitem != null &&
+                        magicitem.Type.ToLower().Contains(type.ToLower()) &&
+                        //priceComparer.Compare(equipment.Price, minPrice) >= 0 &&
+                        //priceComparer.Compare(equipment.Price, maxPrice) <= 0 &&
+                        (
+                            (Helpers.RemoveDiacritics(magicitem.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                            (Helpers.RemoveDiacritics(magicitem.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                        );
+                }).OrderBy(eq => eq.Name)
+                            .AsEnumerable();
+            }, token);
+
+        }
+
+        public abstract List<KeyValuePair<string, string>> Types { get; }
+
+        //public abstract List<KeyValuePair<string, string>> Prices { get; }
     }
+
+    public class VFMagicItemFilterViewModel : MagicItemFilterViewModel
+    {
+
+        public override List<KeyValuePair<string, string>> Types { get; } = new List<KeyValuePair<string, string>>()
+        {
+            new KeyValuePair<string, string>("", "Tous" ),
+            new KeyValuePair<string, string>("Anneau", "Anneau" ),
+            new KeyValuePair<string, string>("Arme", "Arme" ),
+            new KeyValuePair<string, string>("Armure", "Armure" ),
+            new KeyValuePair<string, string>("Baguette", "Baguette" ),
+            new KeyValuePair<string, string>("Bâton", "Bâton" ),
+            new KeyValuePair<string, string>("Objet merveilleux", "Objet merveilleux" ),
+            new KeyValuePair<string, string>("Parchemin", "Parchemin" ),
+            new KeyValuePair<string, string>("Potion", "Potion" ),
+            new KeyValuePair<string, string>("Sceptre", "Sceptre" ),
+        };
+
+        //public override List<KeyValuePair<string, string>> Prices { get; } = new List<KeyValuePair<string, string>>()
+        //{
+        //    new KeyValuePair<string, string>("0 pc", "0 pc" ),
+        //    new KeyValuePair<string, string>("1 pc", "1 pc" ),
+        //    new KeyValuePair<string, string>("1 pa", "1 pa" ),
+        //    new KeyValuePair<string, string>("1 po", "1 po" ),
+        //    new KeyValuePair<string, string>("10 po", "10 po" ),
+        //    new KeyValuePair<string, string>("100 po", "100 po" ),
+        //    new KeyValuePair<string, string>("1 000 po", "1 000 po" ),
+        //    new KeyValuePair<string, string>("10 000 po", "10 000 po" ),
+        //    new KeyValuePair<string, string>("100 000 po", "100 000 po" ),
+        //    new KeyValuePair<string, string>("1 000 000 po", "1 000 000 po" ),
+        //};
+    }
+
+    #endregion Equipments
+}

@@ -95,7 +95,7 @@ namespace AideDeJeu.ViewModels
                                     if(!string.IsNullOrEmpty(subItem.AltNameText))
                                     {
                                         var altname = subItem.AltNameText;
-                                        var altlevel = Math.Max(1, Math.Min(6, subItem.NameLevel + 2));
+                                        var altlevel = Math.Max(1, Math.Min(6, subItem.NameLevel + 3));
                                         currentItem.Markdown += $"\n\n{new String('#', altlevel)} _[{altname}]({link})_";
                                     }
                                     currentItem.Markdown += "\n\n";

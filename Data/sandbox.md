@@ -11,7 +11,7 @@
 # <!--Name-->Agrandir/rétrécir<!--/Name-->
 - SRD: <!--AltName-->[Enlarge/Reduce](spells_vo.md#enlargereduce)<!--/AltName-->
 - Book: <!--Book-->(MDR p36)(SRD p3)<!--/Book-->
-- : <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+-  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une pincée de limaille de fer)<!--/Components-->
@@ -36,7 +36,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 # <!--Name-->Agrandir/rétrécir<!--/Name-->
 
 - SRD: <!--AltName-->[Enlarge/Reduce](spells_vo.md#enlargereduce)<!--/AltName-->
-- : <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+-  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
@@ -63,7 +63,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 - SRD: <!--AltName-->[Enlarge/Reduce](spells_vo.md#enlargereduce)<!--/AltName-->
 
-- : <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+-  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une pincée de limaille de fer)<!--/Components-->

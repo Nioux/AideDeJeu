@@ -10,7 +10,7 @@
 # <!--Name-->Aboleth<!--/Name-->
 - CEO: <!--AltName-->[Aboleth]<!--/AltName-->
 - Source: <!--Source-->(SRD p261)<!--/Source-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->135 (18d10 + 36)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., swim 40 ft.<!--/Speed-->
@@ -67,7 +67,7 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 # <!--Name-->Acolyte<!--/Name-->
 - CEO: <!--AltName-->[Acolyte]<!--/AltName-->
 - Source: <!--Source-->(SRD p395)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -105,7 +105,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 # <!--Name-->Eagle<!--/Name-->
 - CEO: <!--AltName-->[Aigle]<!--/AltName-->
 - Source: <!--Source-->(SRD p371)<!--/Source-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 60 ft.<!--/Speed-->
@@ -139,7 +139,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 # <!--Name-->Giant Eagle<!--/Name-->
 - CEO: <!--AltName-->[Aigle géant]<!--/AltName-->
 - Source: <!--Source-->(SRD p375)<!--/Source-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->26 (4d10 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 80 ft.<!--/Speed-->
@@ -180,7 +180,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 # <!--Name-->Androsphinx<!--/Name-->
 - CEO: <!--AltName-->[Androsphinx]<!--/AltName-->
 - Source: <!--Source-->(SRD p347)<!--/Source-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful neutral<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->199 (19d10 + 95)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 60 ft.<!--/Speed-->
@@ -255,7 +255,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 # <!--Name-->Ankheg<!--/Name-->
 - CEO: <!--AltName-->[Ankheg]<!--/AltName-->
 - Source: <!--Source-->(SRD p264)<!--/Source-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor), 11 while prone<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->39 (6d10 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., burrow 10 ft.<!--/Speed-->
@@ -287,7 +287,7 @@ _Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a
 # <!--Name-->Spider<!--/Name-->
 - CEO: <!--AltName-->[Araignée]<!--/AltName-->
 - Source: <!--Source-->(SRD p389)<!--/Source-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., climb 20 ft.<!--/Speed-->
@@ -325,7 +325,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution sav
 # <!--Name-->Phase Spider<!--/Name-->
 - CEO: <!--AltName-->[Araignée de phase]<!--/AltName-->
 - Source: <!--Source-->(SRD p385)<!--/Source-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->32 (5d10 + 5)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
@@ -363,7 +363,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constituti
 # <!--Name-->Giant Spider<!--/Name-->
 - CEO: <!--AltName-->[Araignée géante]<!--/AltName-->
 - Source: <!--Source-->(SRD p379)<!--/Source-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->26 (4d10 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
@@ -405,7 +405,7 @@ _Hit_: The target is restrained by webbing. As an action, the restrained target 
 # <!--Name-->Giant Wolf Spider<!--/Name-->
 - CEO: <!--AltName-->[Araignée-loup géante]<!--/AltName-->
 - Source: <!--Source-->(SRD p381)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 40 ft.<!--/Speed-->
@@ -443,7 +443,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitutio
 # <!--Name-->Awakened Tree<!--/Name-->
 - CEO: <!--AltName-->[Arbre éveillé]<!--/AltName-->
 - Source: <!--Source-->(SRD p366)<!--/Source-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->59 (7d12 + 14)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft.<!--/Speed-->
@@ -478,7 +478,7 @@ _Hit_: 14 (3d6 + 4) bludgeoning damage.
 # <!--Name-->Awakened Shrub<!--/Name-->
 - CEO: <!--AltName-->[Arbuste éveillé]<!--/AltName-->
 - Source: <!--Source-->(SRD p366)<!--/Source-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->9<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->10 (3d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft.<!--/Speed-->
@@ -513,7 +513,7 @@ _Hit_: 1 (1d4 - 1) slashing damage.
 # <!--Name-->Archmage<!--/Name-->
 - CEO: <!--AltName-->[Archimage]<!--/AltName-->
 - Source: <!--Source-->(SRD p395)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (15 with<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->99 (18d8 + 18)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -573,7 +573,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 # <!--Name-->Animated Armor<!--/Name-->
 - CEO: <!--AltName-->[Armure animée]<!--/AltName-->
 - Source: <!--Source-->(SRD p263)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->33 (6d8 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->25 ft.<!--/Speed-->
@@ -612,7 +612,7 @@ _Hit_: 5 (1d6 + 2) bludgeoning damage.
 # <!--Name-->Assassin<!--/Name-->
 - CEO: <!--AltName-->[Assassin]<!--/AltName-->
 - Source: <!--Source-->(SRD p396)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (studded leather)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->78 (12d8 + 24)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -658,7 +658,7 @@ _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitutio
 # <!--Name-->Azer<!--/Name-->
 - CEO: <!--AltName-->[Azer]<!--/AltName-->
 - Source: <!--Source-->(SRD p265)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->lawful neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->lawful neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->39 (6d8 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -698,7 +698,7 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if use
 # <!--Name-->Baboon<!--/Name-->
 - CEO: <!--AltName-->[Babouin]<!--/AltName-->
 - Source: <!--Source-->(SRD p367)<!--/Source-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
@@ -731,7 +731,7 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 # <!--Name-->Gibbering Mouther<!--/Name-->
 - CEO: <!--AltName-->[Babélien]<!--/AltName-->
 - Source: <!--Source-->(SRD p314)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->9<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->67 (9d8 + 27)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., swim 10 ft.<!--/Speed-->
@@ -773,7 +773,7 @@ _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must suc
 # <!--Name-->Balor<!--/Name-->
 - CEO: <!--AltName-->[Balor]<!--/AltName-->
 - Source: <!--Source-->(SRD p270)<!--/Source-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->262 (21d12 + 126)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft.<!--/Speed-->
@@ -824,7 +824,7 @@ _Hit_: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target mu
 # <!--Name-->Bandit<!--/Name-->
 - CEO: <!--AltName-->[Bandit]<!--/AltName-->
 - Source: <!--Source-->(SRD p396)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-lawful alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-lawful alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -857,7 +857,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 # <!--Name-->Bandit Captain<!--/Name-->
 - CEO: <!--AltName-->[Capitaine Bandit]<!--/AltName-->
 - Source: <!--Source-->(SRD p397)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-lawful alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-lawful alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (studded leather)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->65 (10d8 + 20)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -900,7 +900,7 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 # <!--Name-->Basilisk<!--/Name-->
 - CEO: <!--AltName-->[Basilic]<!--/AltName-->
 - Source: <!--Source-->(SRD p265)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft.<!--/Speed-->
@@ -933,7 +933,7 @@ _Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 # <!--Name-->Axe Beak<!--/Name-->
 - CEO: <!--AltName-->[Bec de hache]<!--/AltName-->
 - Source: <!--Source-->(SRD p366)<!--/Source-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -962,7 +962,7 @@ _Hit_: 6 (1d8 + 2) slashing damage.
 # <!--Name-->Weasel<!--/Name-->
 - CEO: <!--AltName-->[Belette]<!--/AltName-->
 - Source: <!--Source-->(SRD p392)<!--/Source-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -996,7 +996,7 @@ _Hit_: 1 piercing damage.
 # <!--Name-->Giant Weasel<!--/Name-->
 - CEO: <!--AltName-->[Belette géante]<!--/AltName-->
 - Source: <!--Source-->(SRD p381)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -1030,7 +1030,7 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 # <!--Name-->Berserker<!--/Name-->
 - CEO: <!--AltName-->[Berserker]<!--/AltName-->
 - Source: <!--Source-->(SRD p397)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any chaotic alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any chaotic alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (hide armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->67 (9d8 + 27)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -1063,7 +1063,7 @@ _Hit_: 9 (1d12 + 3) slashing damage.
 # <!--Name-->Badger<!--/Name-->
 - CEO: <!--AltName-->[Blaireau]<!--/AltName-->
 - Source: <!--Source-->(SRD p367)<!--/Source-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->3 (1d4 + 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., burrow 5 ft.<!--/Speed-->
@@ -1096,7 +1096,7 @@ _Hit_: 1 piercing damage.
 # <!--Name-->Giant Badger<!--/Name-->
 - CEO: <!--AltName-->[Blaireau géant]<!--/AltName-->
 - Source: <!--Source-->(SRD p373)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (2d8 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., burrow 10 ft.<!--/Speed-->
@@ -1135,7 +1135,7 @@ _Hit_: 6 (2d4 + 1) slashing damage.
 # <!--Name-->Ghast<!--/Name-->
 - CEO: <!--AltName-->[Blême]<!--/AltName-->
 - Source: <!--Source-->(SRD p311)<!--/Source-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -1178,7 +1178,7 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an u
 # <!--Name-->Bulette<!--/Name-->
 - CEO: <!--AltName-->[Bulette]<!--/AltName-->
 - Source: <!--Source-->(SRD p266)<!--/Source-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->94 (9d10 + 45)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., burrow 40 ft.<!--/Speed-->
@@ -1214,7 +1214,7 @@ _Hit_: 30 (4d12 + 4) piercing damage.
 # <!--Name-->Behir<!--/Name-->
 - CEO: <!--AltName-->[Béhir]<!--/AltName-->
 - Source: <!--Source-->(SRD p265)<!--/Source-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->168 (16d12 + 64)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft., climb 40 ft.<!--/Speed-->
@@ -1254,7 +1254,7 @@ _Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The 
 
 # <!--Name-->Centaur<!--/Name-->
 - CEO: <!--AltName-->[Centaure]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -1297,7 +1297,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # <!--Name-->Jackal<!--/Name-->
 - CEO: <!--AltName-->[Chacal]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -1332,7 +1332,7 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 
 # <!--Name-->Camel<!--/Name-->
 - CEO: <!--AltName-->[Chameau]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->9<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->15 (2d10 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -1360,7 +1360,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 
 # <!--Name-->Cat<!--/Name-->
 - CEO: <!--AltName-->[Chat]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 30 ft.<!--/Speed-->
@@ -1393,7 +1393,7 @@ _Hit_: 1 slashing damage.
 
 # <!--Name-->Bat<!--/Name-->
 - CEO: <!--AltName-->[Chauve-souris]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->5 ft., fly 30 ft.<!--/Speed-->
@@ -1427,7 +1427,7 @@ _Hit_: 1 piercing damage.
 
 # <!--Name-->Giant Bat<!--/Name-->
 - CEO: <!--AltName-->[Chauve-souris géante]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d10)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 60 ft.<!--/Speed-->
@@ -1461,7 +1461,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # <!--Name-->Warhorse<!--/Name-->
 - CEO: <!--AltName-->[Cheval de guerre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->60 ft.<!--/Speed-->
@@ -1493,7 +1493,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 # <!--Name-->Riding Horse<!--/Name-->
 - CEO: <!--AltName-->[Cheval de selle]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (2d10 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->60 ft.<!--/Speed-->
@@ -1521,7 +1521,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
 # <!--Name-->Draft Horse<!--/Name-->
 - CEO: <!--AltName-->[Cheval de trait]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -1549,7 +1549,7 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage.
 
 # <!--Name-->Knight<!--/Name-->
 - CEO: <!--AltName-->[Chevalier]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (plate)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -1594,7 +1594,7 @@ _Hit_: 5 (1d10) piercing damage.
 
 # <!--Name-->Deer<!--/Name-->
 - CEO: <!--AltName-->[Chevreuil]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -1622,7 +1622,7 @@ _Hit_: 2 (1d4) piercing damage.
 
 # <!--Name-->Death Dog<!--/Name-->
 - CEO: <!--AltName-->[Chien du trépas]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->39 (6d8 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -1657,7 +1657,7 @@ _Hit_: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed
 
 # <!--Name-->Blink Dog<!--/Name-->
 - CEO: <!--AltName-->[Chien esquiveur]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -1692,7 +1692,7 @@ _Hit_: 4 (1d6 + 1) piercing damage.
 
 # <!--Name-->Chimera<!--/Name-->
 - CEO: <!--AltName-->[Chimère]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->114 (12d10 + 48)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft.<!--/Speed-->
@@ -1733,7 +1733,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # <!--Name-->Owl<!--/Name-->
 - CEO: <!--AltName-->[Chouette]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->5 ft., fly 60 ft.<!--/Speed-->
@@ -1768,7 +1768,7 @@ _Hit_: 1 slashing damage.
 
 # <!--Name-->Giant Owl<!--/Name-->
 - CEO: <!--AltName-->[Chouette géante]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->5 ft., fly 60 ft.<!--/Speed-->
@@ -1803,7 +1803,7 @@ _Hit_: 8 (2d6 + 1) slashing damage.
 
 # <!--Name-->Chuul<!--/Name-->
 - CEO: <!--AltName-->[Chuul]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->93 (11d10 + 33)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
@@ -1844,7 +1844,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if
 
 # <!--Name-->Goat<!--/Name-->
 - CEO: <!--AltName-->[Chèvre]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -1878,7 +1878,7 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 
 # <!--Name-->Giant Goat<!--/Name-->
 - CEO: <!--AltName-->[Chèvre géante]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -1912,7 +1912,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
 # <!--Name-->Cockatrice<!--/Name-->
 - CEO: <!--AltName-->[Cockatrice]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (6d6 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., fly 40 ft.<!--/Speed-->
@@ -1940,7 +1940,7 @@ _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Const
 
 # <!--Name-->Raven<!--/Name-->
 - CEO: <!--AltName-->[Corbeau]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 50 ft.<!--/Speed-->
@@ -1973,7 +1973,7 @@ _Hit_: 1 piercing damage.
 
 # <!--Name-->Couatl<!--/Name-->
 - CEO: <!--AltName-->[Couatl]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->97 (13d8 + 39)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 90 ft.<!--/Speed-->
@@ -2024,7 +2024,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15
 
 # <!--Name-->Crab<!--/Name-->
 - CEO: <!--AltName-->[Crabe]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., swim 20 ft.<!--/Speed-->
@@ -2057,7 +2057,7 @@ _Hit_: 1 bludgeoning damage.
 
 # <!--Name-->Giant Crab<!--/Name-->
 - CEO: <!--AltName-->[Crabe géant]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
@@ -2090,7 +2090,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11)
 
 # <!--Name-->Giant Toad<!--/Name-->
 - CEO: <!--AltName-->[Crapaud géant]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->39 (6d10 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., swim 40 ft.<!--/Speed-->
@@ -2126,7 +2126,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 
 # <!--Name-->Shrieker<!--/Name-->
 - CEO: <!--AltName-->[Criard]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->5<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft.<!--/Speed-->
@@ -2157,7 +2157,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 
 # <!--Name-->Crocodile<!--/Name-->
 - CEO: <!--AltName-->[Crocodile]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., swim 30 ft.<!--/Speed-->
@@ -2190,7 +2190,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). 
 
 # <!--Name-->Giant Crocodile<!--/Name-->
 - CEO: <!--AltName-->[Crocodile géant]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->85 (9d12 + 27)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 50 ft.<!--/Speed-->
@@ -2230,7 +2230,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must suc
 
 # <!--Name-->Gelatinous Cube<!--/Name-->
 - CEO: <!--AltName-->[Cube gélatineux]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->6<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->84 (8d10 + 40)<!--/HitPoints-->
 - **Speed** <!--Speed-->15 ft.<!--/Speed-->
@@ -2268,7 +2268,7 @@ _Hit_: 10 (3d6) acid damage.
 
 # <!--Name-->Nightmare<!--/Name-->
 - CEO: <!--AltName-->[Destrier noir]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->68 (8d10 + 24)<!--/HitPoints-->
 - **Speed** <!--Speed-->60 ft., fly 90 ft.<!--/Speed-->
@@ -2305,7 +2305,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 
 # <!--Name-->Barbed Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable barbelé]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->110 (13d8 + 52)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -2356,7 +2356,7 @@ _Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't bein
 
 # <!--Name-->Bearded Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable barbu]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -2402,7 +2402,7 @@ _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an u
 
 # <!--Name-->Horned Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable cornu]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->178 (17d10 + 85)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., fly 60 ft.<!--/Speed-->
@@ -2450,7 +2450,7 @@ _Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't bein
 
 # <!--Name-->Chain Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable des chaînes]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->85 (10d8 + 40)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -2496,7 +2496,7 @@ _Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if th
 
 # <!--Name-->Ice Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable gelé]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->180 (19d10 + 76)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -2546,7 +2546,7 @@ _Hit_: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 
 # <!--Name-->Bone Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable osseux]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->142 (15d10 + 60)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 40 ft.<!--/Speed-->
@@ -2591,7 +2591,7 @@ _Hit_: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target 
 
 # <!--Name-->Imp<!--/Name-->
 - CEO: <!--AltName-->[Diablotin]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->fiend (devil<!--/Type-->, <!--Alignment-->shapechanger), lawful evil<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->fiend (devil<!--/Type-->, <!--Alignment-->shapechanger), lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->10 (3d4 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., fly 40 ft.<!--/Speed-->
@@ -2633,7 +2633,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitu
 
 # <!--Name-->Pit Fiend<!--/Name-->
 - CEO: <!--AltName-->[Diantrefosse]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->300 (24d10 + 168)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft.<!--/Speed-->
@@ -2693,7 +2693,7 @@ _Hit_: 24 (3d10 + 8) bludgeoning damage.
 
 # <!--Name-->Djinni<!--/Name-->
 - CEO: <!--AltName-->[Djinn]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->161 (14d10 + 84)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 90 ft.<!--/Speed-->
@@ -2739,7 +2739,7 @@ _Hit_: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (dj
 
 # <!--Name-->Doppelganger<!--/Name-->
 - CEO: <!--AltName-->[Doppleganger]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity (shapechanger)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity (shapechanger)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -2781,7 +2781,7 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage.
 
 # <!--Name-->Adult White Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon blanc adulte]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->200 (16d12 + 96)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -2842,7 +2842,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Ancient White Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon blanc vénérable]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->333 (18d20 + 144)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -2903,7 +2903,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Young White Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon blanc]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->133 (14d10 + 56)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -2946,7 +2946,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # <!--Name-->White Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet blanc]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->32 (5d8 + 10)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.<!--/Speed-->
@@ -2979,7 +2979,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 
 # <!--Name-->Adult Blue Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon bleu adulte]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->225 (18d12 + 108)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., burrow 30 ft., fly 80 ft.<!--/Speed-->
@@ -3038,7 +3038,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Ancient Blue Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon bleu vénérable]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->481 (26d20 + 208)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., burrow 40 ft., fly 80 ft.<!--/Speed-->
@@ -3097,7 +3097,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Young Blue Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon bleu]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->152 (16d10 + 64)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., burrow 20 ft., fly 80 ft.<!--/Speed-->
@@ -3136,7 +3136,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 
 # <!--Name-->Blue Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet bleu]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., burrow 15 ft., fly 60 ft.<!--/Speed-->
@@ -3169,7 +3169,7 @@ _Hit_: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 
 # <!--Name-->Adult Brass Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'airain adulte]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->172 (15d12 + 75)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., burrow 30 ft., fly 80 ft.<!--/Speed-->
@@ -3232,7 +3232,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Ancient Brass Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'airain vénérable]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->297 (17d20 + 119)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., burrow 40 ft., fly 80 ft.<!--/Speed-->
@@ -3297,7 +3297,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Young Brass Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon d'airain]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->110 (13d10 + 39)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., burrow 20 ft., fly 80 ft.<!--/Speed-->
@@ -3340,7 +3340,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # <!--Name-->Brass Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet d'airain]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->16 (3d8 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., burrow 15 ft., fly 60 ft.<!--/Speed-->
@@ -3377,7 +3377,7 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 
 # <!--Name-->Adult Silver Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'argent adulte]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->243 (18d12 + 126)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft.<!--/Speed-->
@@ -3442,7 +3442,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Ancient Silver Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'argent vénérable]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->487 (25d20 + 225)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft.<!--/Speed-->
@@ -3507,7 +3507,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Young Silver Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon d'argent]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->168 (16d10 + 80)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft.<!--/Speed-->
@@ -3550,7 +3550,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 
 # <!--Name-->Silver Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet d'argent]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d8 + 18)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft.<!--/Speed-->
@@ -3587,7 +3587,7 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 
 # <!--Name-->Adult Gold Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'or adulte]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->256 (19d12 + 133)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -3654,7 +3654,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Ancient Gold Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'or vénérable]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->546 (28d20 + 252)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -3721,7 +3721,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Young Gold Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon d'or]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->178 (17d10 + 85)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -3768,7 +3768,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 
 # <!--Name-->Gold Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet d'or]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->60 (8d8 + 24)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft., swim 30 ft.<!--/Speed-->
@@ -3809,7 +3809,7 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 
 # <!--Name-->Adult Bronze Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon de bronze adulte]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->212 (17d12 + 102)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -3876,7 +3876,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Ancient Bronze Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon de bronze vénérable]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->444 (24d20 + 192)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -3943,7 +3943,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Young Bronze Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon de bronze]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->142 (15d10 + 60)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -3990,7 +3990,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 
 # <!--Name-->Bronze Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet de bronze]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->32 (5d8 + 10)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft., swim 30 ft.<!--/Speed-->
@@ -4031,7 +4031,7 @@ _Hit_: 8 (1d10 + 3) piercing damage.
 
 # <!--Name-->Adult Copper Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon de cuivre adulte]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->184 (16d12 + 80)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 40 ft., fly 80 ft.<!--/Speed-->
@@ -4094,7 +4094,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Ancient Copper Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon de cuivre vénérable]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->21 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->350 (20d20 + 140)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 40 ft., fly 80 ft.<!--/Speed-->
@@ -4159,7 +4159,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Young Copper Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon de cuivre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->119 (14d10 + 42)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 40 ft., fly 80 ft.<!--/Speed-->
@@ -4202,7 +4202,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # <!--Name-->Copper Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet de cuivre]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft., fly 60 ft.<!--/Speed-->
@@ -4239,7 +4239,7 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 
 # <!--Name-->Adult Black Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon noir adulte]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->195 (17d12 + 85)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -4300,7 +4300,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Ancient Black Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon noir vénérable]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->367 (21d20 + 147)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -4361,7 +4361,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Young Black Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon noir]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->127 (15d10 + 45)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -4404,7 +4404,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # <!--Name-->Black Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet noir]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->33 (6d8 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft., swim 30 ft.<!--/Speed-->
@@ -4441,7 +4441,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 
 # <!--Name-->Adult Red Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon rouge adulte]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->256 (19d12 + 133)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 40 ft., fly 80 ft.<!--/Speed-->
@@ -4500,7 +4500,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Ancient Red Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon rouge vénérable]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->546 (28d20 + 252)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 40 ft., fly 80 ft.<!--/Speed-->
@@ -4559,7 +4559,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Young Red Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon rouge]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->178 (17d10 + 85)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 40 ft., fly 80 ft.<!--/Speed-->
@@ -4598,7 +4598,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 
 # <!--Name-->Red Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet rouge]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->75 (10d8 + 30)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft., fly 60 ft.<!--/Speed-->
@@ -4631,7 +4631,7 @@ _Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 
 # <!--Name-->Adult Green Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon vert adulte]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->207 (18d12 + 90)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -4693,7 +4693,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Ancient Green Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon vert vénérable]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->21 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->385 (22d20 + 154)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -4755,7 +4755,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Young Green Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon vert]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (16d10 + 48)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
@@ -4799,7 +4799,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # <!--Name-->Green Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet vert]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->38 (7d8 + 7)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft., swim 30 ft.<!--/Speed-->
@@ -4837,7 +4837,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 
 # <!--Name-->Dragon Turtle<!--/Name-->
 - CEO: <!--AltName-->[Dragon-tortue]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->341 (22d20 + 110)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., swim 40 ft.<!--/Speed-->
@@ -4883,7 +4883,7 @@ _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must su
 
 # <!--Name-->Dretch<!--/Name-->
 - CEO: <!--AltName-->[Dretch]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->18 (4d6 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft.<!--/Speed-->
@@ -4922,7 +4922,7 @@ _Hit_: 5 (2d4) slashing damage.
 
 # <!--Name-->Drider<!--/Name-->
 - CEO: <!--AltName-->[Drider]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->123 (13d10 + 52)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
@@ -4977,7 +4977,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 
 # <!--Name-->Drow<!--/Name-->
 - CEO: <!--AltName-->[Drow]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (elf)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (elf)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (chain shirt)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -5022,7 +5022,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Const
 
 # <!--Name-->Druid<!--/Name-->
 - CEO: <!--AltName-->[Druide]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (16 with<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (5d8 + 5)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -5061,7 +5061,7 @@ _Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with tw
 
 # <!--Name-->Dryad<!--/Name-->
 - CEO: <!--AltName-->[Dryade]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (16 with<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -5108,7 +5108,7 @@ _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shil
 
 # <!--Name-->Duergar<!--/Name-->
 - CEO: <!--AltName-->[Duergar]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (dwarf)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (dwarf)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (scale mail, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->26 (4d8 + 8)<!--/HitPoints-->
 - **Speed** <!--Speed-->25 ft.<!--/Speed-->
@@ -5151,7 +5151,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarge
 
 # <!--Name-->Deva<!--/Name-->
 - CEO: <!--AltName-->[Déva]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (16d8 + 64)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 90 ft.<!--/Speed-->
@@ -5201,7 +5201,7 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 
 # <!--Name-->Priest<!--/Name-->
 - CEO: <!--AltName-->[Ecclésiastique]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (chain shirt)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (5d8 + 5)<!--/HitPoints-->
 - **Speed** <!--Speed-->25 ft.<!--/Speed-->
@@ -5244,7 +5244,7 @@ _Hit_: 3 (1d6) bludgeoning damage.
 
 # <!--Name-->Roper<!--/Name-->
 - CEO: <!--AltName-->[Enlaceur]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->93 (11d10 + 33)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., climb 10 ft.<!--/Speed-->
@@ -5289,7 +5289,7 @@ _Hit_: The target is grappled (escape DC 15). Until the grapple ends, the target
 
 # <!--Name-->Spy<!--/Name-->
 - CEO: <!--AltName-->[Espion]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (6d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -5330,7 +5330,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # <!--Name-->Sprite<!--/Name-->
 - CEO: <!--AltName-->[Esprit follet]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 40 ft.<!--/Speed-->
@@ -5367,7 +5367,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 
 # <!--Name-->Ettercap<!--/Name-->
 - CEO: <!--AltName-->[Ettercap]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->44 (8d8 + 8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
@@ -5414,7 +5414,7 @@ _Hit_: The creature is restrained by webbing. As an action, the restrained creat
 
 # <!--Name-->Ettin<!--/Name-->
 - CEO: <!--AltName-->[Ettin]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->85 (10d10 + 30)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -5455,7 +5455,7 @@ _Hit_: 14 (2d8 + 5) piercing damage.
 
 # <!--Name-->Cult Fanatic<!--/Name-->
 - CEO: <!--AltName-->[Fanatique de secte]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->33 (6d8 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -5498,7 +5498,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 # <!--Name-->Ghost<!--/Name-->
 - CEO: <!--AltName-->[Fantôme]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (10d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., fly 40 ft. (hover)<!--/Speed-->
@@ -5541,7 +5541,7 @@ _Hit_: 17 (4d6 + 3) necrotic damage.
 
 # <!--Name-->Hawk<!--/Name-->
 - CEO: <!--AltName-->[Faucon]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 60 ft.<!--/Speed-->
@@ -5574,7 +5574,7 @@ _Hit_: 1 slashing damage.
 
 # <!--Name-->Blood Hawk<!--/Name-->
 - CEO: <!--AltName-->[Faucon de sang]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 60 ft.<!--/Speed-->
@@ -5609,7 +5609,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 # <!--Name-->Will-o'-Wisp<!--/Name-->
 - CEO: <!--AltName-->[Feu follet]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (9d4)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., fly 50 ft. (hover)<!--/Speed-->
@@ -5652,7 +5652,7 @@ _Hit_: 9 (2d8) lightning damage.
 
 # <!--Name-->Guard<!--/Name-->
 - CEO: <!--AltName-->[Garde]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (chain shirt, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -5681,7 +5681,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 
 # <!--Name-->Shield Guardian<!--/Name-->
 - CEO: <!--AltName-->[Garde animé]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->142 (15d10 + 60)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -5725,7 +5725,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 # <!--Name-->Gargoyle<!--/Name-->
 - CEO: <!--AltName-->[Gargouille]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (7d8 + 21)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft.<!--/Speed-->
@@ -5766,7 +5766,7 @@ _Hit_: 5 (1d6 + 2) slashing damage.
 
 # <!--Name-->Ochre Jelly<!--/Name-->
 - CEO: <!--AltName-->[Gelée ocre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., climb 10 ft.<!--/Speed-->
@@ -5807,7 +5807,7 @@ _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
 # <!--Name-->Glabrezu<!--/Name-->
 - CEO: <!--AltName-->[Glabrezu]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->157 (15d10 + 75)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -5855,7 +5855,7 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 
 # <!--Name-->Gladiator<!--/Name-->
 - CEO: <!--AltName-->[Gladiateur]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (studded leather, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->112 (15d8 + 45)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -5901,7 +5901,7 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller crea
 
 # <!--Name-->Gnoll<!--/Name-->
 - CEO: <!--AltName-->[Gnoll]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (gnoll)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (gnoll)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (hide armor, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -5941,7 +5941,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 # <!--Name-->Deep Gnome (Svirfneblin)<!--/Name-->
 - CEO: <!--AltName-->[Gnome des profondeurs (svirfneblin)]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->humanoid (gnome)<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->humanoid (gnome)<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (chain shirt)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->16 (3d6 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft.<!--/Speed-->
@@ -5986,7 +5986,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Const
 
 # <!--Name-->Goblin<!--/Name-->
 - CEO: <!--AltName-->[Gobelin]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->humanoid (goblinoid)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->humanoid (goblinoid)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (leather armor, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -6023,7 +6023,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # <!--Name-->Bugbear<!--/Name-->
 - CEO: <!--AltName-->[Gobelours]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (goblinoid)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (goblinoid)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (hide armor, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (5d8 + 5)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -6062,7 +6062,7 @@ _Hit_: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at ra
 
 # <!--Name-->Clay Golem<!--/Name-->
 - CEO: <!--AltName-->[Golem d'argile]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->133 (14d10 + 56)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft.<!--/Speed-->
@@ -6108,7 +6108,7 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must su
 
 # <!--Name-->Flesh Golem<!--/Name-->
 - CEO: <!--AltName-->[Golem de chair]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->9<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->93 (11d8 + 44)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -6154,7 +6154,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 # <!--Name-->Iron Golem<!--/Name-->
 - CEO: <!--AltName-->[Golem de fer]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->210 (20d10 + 100)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -6202,7 +6202,7 @@ _Hit_: 23 (3d10 + 7) slashing damage.
 
 # <!--Name-->Stone Golem<!--/Name-->
 - CEO: <!--AltName-->[Golem de pierre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->178 (17d10 + 85)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -6244,7 +6244,7 @@ _Hit_: 19 (3d8 + 6) bludgeoning damage.
 
 # <!--Name-->Gorgon<!--/Name-->
 - CEO: <!--AltName-->[Gorgone]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->114 (12d10 + 48)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -6284,7 +6284,7 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage.
 
 # <!--Name-->Ghoul<!--/Name-->
 - CEO: <!--AltName-->[Goule]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -6318,7 +6318,7 @@ _Hit_: 7 (2d4 + 2) slashing damage. If the target is a creature other than an el
 
 # <!--Name-->Ape<!--/Name-->
 - CEO: <!--AltName-->[Grand singe]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d8 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
@@ -6353,7 +6353,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 
 # <!--Name-->Frog<!--/Name-->
 - CEO: <!--AltName-->[Grenouille]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., swim 20 ft.<!--/Speed-->
@@ -6382,7 +6382,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 
 # <!--Name-->Giant Frog<!--/Name-->
 - CEO: <!--AltName-->[Grenouille géante]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->18 (4d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
@@ -6419,7 +6419,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). U
 
 # <!--Name-->Grick<!--/Name-->
 - CEO: <!--AltName-->[Grick]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (6d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
@@ -6458,7 +6458,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # <!--Name-->Griffon<!--/Name-->
 - CEO: <!--AltName-->[Griffon]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 80 ft.<!--/Speed-->
@@ -6497,7 +6497,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # <!--Name-->Sea Hag<!--/Name-->
 - CEO: <!--AltName-->[Guenaude aquatique]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (7d8 + 21)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 40 ft.<!--/Speed-->
@@ -6535,7 +6535,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 # <!--Name-->Night Hag<!--/Name-->
 - CEO: <!--AltName-->[Guenaude nocturne]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->112 (15d8 + 45)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -6582,7 +6582,7 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 
 # <!--Name-->Green Hag<!--/Name-->
 - CEO: <!--AltName-->[Guenaude verte]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->82 (11d8 + 33)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -6625,7 +6625,7 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 
 # <!--Name-->Tribal Warrior<!--/Name-->
 - CEO: <!--AltName-->[Guerrier tribal]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (hide armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -6657,7 +6657,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 
 # <!--Name-->Giant Wasp<!--/Name-->
 - CEO: <!--AltName-->[Guêpe géante]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 50 ft.<!--/Speed-->
@@ -6685,7 +6685,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitutio
 
 # <!--Name-->Gynosphinx<!--/Name-->
 - CEO: <!--AltName-->[Gynosphinx]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful neutral<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (16d10 + 48)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 60 ft.<!--/Speed-->
@@ -6749,7 +6749,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Hill Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant des collines]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->105 (10d12 + 40)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -6784,7 +6784,7 @@ _Hit_: 21 (3d10 + 5) bludgeoning damage.
 
 # <!--Name-->Cloud Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant des nuages]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral good (50 %) or neutral evil (50 %)<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral good (50 %) or neutral evil (50 %)<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->200 (16d12 + 96)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -6832,7 +6832,7 @@ _Hit_: 30 (4d10 + 8) bludgeoning damage.
 
 # <!--Name-->Stone Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant des pierres]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->126 (11d12 + 55)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -6874,7 +6874,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must su
 
 # <!--Name-->Storm Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant des tempêtes]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (scale mail)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->230 (20d12 + 100)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft., swim 50 ft.<!--/Speed-->
@@ -6924,7 +6924,7 @@ _Hit_: 35 (4d12 + 9) bludgeoning damage.
 
 # <!--Name-->Fire Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant du feu]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (plate)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->162 (13d12 + 78)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -6961,7 +6961,7 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 
 # <!--Name-->Frost Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant du givre]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (patchwork armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->138 (12d12 + 60)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -6998,7 +6998,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 
 # <!--Name-->Harpy<!--/Name-->
 - CEO: <!--AltName-->[Harpie]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->38 (7d8 + 7)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., fly 40 ft.<!--/Speed-->
@@ -7034,7 +7034,7 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 
 # <!--Name-->Hezrou<!--/Name-->
 - CEO: <!--AltName-->[Hezrou]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (13d10 + 65)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -7078,7 +7078,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # <!--Name-->Owlbear<!--/Name-->
 - CEO: <!--AltName-->[Hibours]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -7117,7 +7117,7 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 
 # <!--Name-->Sea Horse<!--/Name-->
 - CEO: <!--AltName-->[Hippocampe]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., swim 20 ft.<!--/Speed-->
@@ -7143,7 +7143,7 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 
 # <!--Name-->Giant Sea Horse<!--/Name-->
 - CEO: <!--AltName-->[Hippocampe géant]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->16 (3d10)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., swim 40 ft.<!--/Speed-->
@@ -7177,7 +7177,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 
 # <!--Name-->Hippogriff<!--/Name-->
 - CEO: <!--AltName-->[Hippogriffe]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 60 ft.<!--/Speed-->
@@ -7216,7 +7216,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 # <!--Name-->Hobgoblin<!--/Name-->
 - CEO: <!--AltName-->[Hobgobelin]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (goblinoid)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (goblinoid)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (chain mail, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -7252,7 +7252,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 # <!--Name-->Lizardfolk<!--/Name-->
 - CEO: <!--AltName-->[Homme-lézard]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (lizardfolk)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (lizardfolk)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
@@ -7299,7 +7299,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # <!--Name-->Merfolk<!--/Name-->
 - CEO: <!--AltName-->[Homme-poisson]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (merfolk)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (merfolk)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., swim 40 ft.<!--/Speed-->
@@ -7332,7 +7332,7 @@ _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hand
 
 # <!--Name-->Homunculus<!--/Name-->
 - CEO: <!--AltName-->[Homoncule]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (2d4)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., fly 40 ft.<!--/Speed-->
@@ -7366,7 +7366,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 
 # <!--Name-->Hydra<!--/Name-->
 - CEO: <!--AltName-->[Hydre]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->172 (15d12 + 75)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
@@ -7407,7 +7407,7 @@ _Hit_: 10 (1d10 + 5) piercing damage.
 
 # <!--Name-->Hyena<!--/Name-->
 - CEO: <!--AltName-->[Hyène]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (1d8 + 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -7440,7 +7440,7 @@ _Hit_: 3 (1d6) piercing damage.
 
 # <!--Name-->Giant Hyena<!--/Name-->
 - CEO: <!--AltName-->[Hyène géante]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -7473,7 +7473,7 @@ _Hit_: 10 (2d6 + 3) piercing damage.
 
 # <!--Name-->Kobold<!--/Name-->
 - CEO: <!--AltName-->[Kobold]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->humanoid (kobold)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->humanoid (kobold)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (2d6 - 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -7511,7 +7511,7 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 
 # <!--Name-->Kraken<!--/Name-->
 - CEO: <!--AltName-->[Kraken]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity (titan)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity (titan)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->472 (27d20 + 189)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., swim 60 ft.<!--/Speed-->
@@ -7570,7 +7570,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 # <!--Name-->Lamia<!--/Name-->
 - CEO: <!--AltName-->[Lamie]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->97 (13d10 + 26)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -7619,7 +7619,7 @@ _Hit_: The target is magically cursed for 1 hour. Until the curse ends, the targ
 
 # <!--Name-->Lich<!--/Name-->
 - CEO: <!--AltName-->[Liche]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->any evil alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->any evil alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->135 (18d8 + 54)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -7694,7 +7694,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 # <!--Name-->Unicorn<!--/Name-->
 - CEO: <!--AltName-->[Licorne]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->67 (9d10 + 18)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -7758,7 +7758,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 # <!--Name-->Lion<!--/Name-->
 - CEO: <!--AltName-->[Lion]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->26 (4d10 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -7801,7 +7801,7 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 
 # <!--Name-->Wolf<!--/Name-->
 - CEO: <!--AltName-->[Loup]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -7836,7 +7836,7 @@ _Hit_: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed
 
 # <!--Name-->Winter Wolf<!--/Name-->
 - CEO: <!--AltName-->[Loup arctique]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->75 (10d10 + 20)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -7876,7 +7876,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succee
 
 # <!--Name-->Dire Wolf<!--/Name-->
 - CEO: <!--AltName-->[Loup sanguinaire]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->37 (5d10 + 10)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -7911,7 +7911,7 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 
 # <!--Name-->Werewolf<!--/Name-->
 - CEO: <!--AltName-->[Loup-garou]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 in humanoid form, 12 (natural armor) in wolf or hybrid form<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->58 (9d8 + 18)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft. (40 ft. in wolf form)<!--/Speed-->
@@ -7957,7 +7957,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with 
 
 # <!--Name-->Lemure<!--/Name-->
 - CEO: <!--AltName-->[Lémure]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->7<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->15 ft.<!--/Speed-->
@@ -7994,7 +7994,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 
 # <!--Name-->Lizard<!--/Name-->
 - CEO: <!--AltName-->[Lézard]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., climb 20 ft.<!--/Speed-->
@@ -8022,7 +8022,7 @@ _Hit_: 1 piercing damage.
 
 # <!--Name-->Giant Lizard<!--/Name-->
 - CEO: <!--AltName-->[Lézard géant]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
@@ -8050,7 +8050,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # <!--Name-->Mage<!--/Name-->
 - CEO: <!--AltName-->[Mage]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (15 with<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->40 (9d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -8096,7 +8096,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 # <!--Name-->Magmin<!--/Name-->
 - CEO: <!--AltName-->[Magmatique]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->chaotic neutral<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->chaotic neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->9 (2d6 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -8132,7 +8132,7 @@ _Hit_: 7 (2d6) fire damage. If the target is a creature or a flammable object, i
 
 # <!--Name-->Thug<!--/Name-->
 - CEO: <!--AltName-->[Malfrat]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->32 (5d8 + 10)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -8171,7 +8171,7 @@ _Hit_: 5 (1d10) piercing damage.
 
 # <!--Name-->Mammoth<!--/Name-->
 - CEO: <!--AltName-->[Mammouth]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->126 (11d12 + 55)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -8207,7 +8207,7 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 
 # <!--Name-->Darkmantle<!--/Name-->
 - CEO: <!--AltName-->[Mante obscure]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d6 + 5)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 30 ft.<!--/Speed-->
@@ -8244,7 +8244,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target
 
 # <!--Name-->Cloaker<!--/Name-->
 - CEO: <!--AltName-->[Manteleur]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->chaotic neutral<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->chaotic neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->78 (12d10 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 40 ft.<!--/Speed-->
@@ -8291,7 +8291,7 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 
 # <!--Name-->Manticore<!--/Name-->
 - CEO: <!--AltName-->[Manticore]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->68 (8d10 + 24)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 50 ft.<!--/Speed-->
@@ -8333,7 +8333,7 @@ _Hit_: 7 (1d8 + 3) piercing damage.
 
 # <!--Name-->Marilith<!--/Name-->
 - CEO: <!--AltName-->[Marilith]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->189 (18d10 + 90)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -8385,7 +8385,7 @@ _Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it 
 
 # <!--Name-->Cultist<!--/Name-->
 - CEO: <!--AltName-->[Membre de secte]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -8417,7 +8417,7 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 
 # <!--Name-->Merrow<!--/Name-->
 - CEO: <!--AltName-->[Merrow]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., swim 40 ft.<!--/Speed-->
@@ -8459,7 +8459,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature
 
 # <!--Name-->Giant Centipede<!--/Name-->
 - CEO: <!--AltName-->[Mille-pattes géant]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->4 (1d6 + 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
@@ -8487,7 +8487,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 
 # <!--Name-->Mimic<!--/Name-->
 - CEO: <!--AltName-->[Mimique]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity (shapechanger)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity (shapechanger)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->58 (9d8 + 18)<!--/HitPoints-->
 - **Speed** <!--Speed-->15 ft.<!--/Speed-->
@@ -8532,7 +8532,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 
 # <!--Name-->Minotaur<!--/Name-->
 - CEO: <!--AltName-->[Minotaure]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->76 (9d10 + 27)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -8573,7 +8573,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 
 # <!--Name-->Violet Fungus<!--/Name-->
 - CEO: <!--AltName-->[Moisissure violette]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->5<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->18 (4d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->5 ft.<!--/Speed-->
@@ -8608,7 +8608,7 @@ _Hit_: 4 (1d8) necrotic damage.
 
 # <!--Name-->Mastiff<!--/Name-->
 - CEO: <!--AltName-->[Mastiff]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (1d8 + 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -8641,7 +8641,7 @@ _Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed
 
 # <!--Name-->Hell Hound<!--/Name-->
 - CEO: <!--AltName-->[Molosse infernal]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (7d8 + 14)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -8681,7 +8681,7 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 
 # <!--Name-->Mummy<!--/Name-->
 - CEO: <!--AltName-->[Momie]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->58 (9d8 + 18)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft.<!--/Speed-->
@@ -8718,7 +8718,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the tar
 
 # <!--Name-->Mummy Lord<!--/Name-->
 - CEO: <!--AltName-->[Momie auguste]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->97 (13d8 + 39)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft.<!--/Speed-->
@@ -8791,7 +8791,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 # <!--Name-->Mule<!--/Name-->
 - CEO: <!--AltName-->[Mule]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -8825,7 +8825,7 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 
 # <!--Name-->Medusa<!--/Name-->
 - CEO: <!--AltName-->[Méduse]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->127 (17d8 + 51)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -8869,7 +8869,7 @@ _Hit_: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 
 # <!--Name-->Ice Mephit<!--/Name-->
 - CEO: <!--AltName-->[Méphite de glace]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->21 (6d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 30 ft.<!--/Speed-->
@@ -8911,7 +8911,7 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 
 # <!--Name-->Magma Mephit<!--/Name-->
 - CEO: <!--AltName-->[Méphite de magma]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d6 + 5)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 30 ft.<!--/Speed-->
@@ -8953,7 +8953,7 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 
 # <!--Name-->Dust Mephit<!--/Name-->
 - CEO: <!--AltName-->[Méphite de poussière]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->17 (5d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 30 ft.<!--/Speed-->
@@ -8993,7 +8993,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 
 # <!--Name-->Steam Mephit<!--/Name-->
 - CEO: <!--AltName-->[Méphite de vapeur]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->21 (6d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 30 ft.<!--/Speed-->
@@ -9031,7 +9031,7 @@ _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 
 # <!--Name-->Spirit Naga<!--/Name-->
 - CEO: <!--AltName-->[Naga corrupteur]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->75 (10d10 + 20)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -9080,7 +9080,7 @@ _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitutio
 
 # <!--Name-->Guardian Naga<!--/Name-->
 - CEO: <!--AltName-->[Naga gardien]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->127 (15d10 + 45)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -9135,7 +9135,7 @@ _Hit_: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) 
 
 # <!--Name-->Nalfeshnee<!--/Name-->
 - CEO: <!--AltName-->[Nalfeshnie]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->184 (16d10 + 96)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., fly 30 ft.<!--/Speed-->
@@ -9181,7 +9181,7 @@ _Hit_: 15 (3d6 + 5) slashing damage.
 
 # <!--Name-->Noble<!--/Name-->
 - CEO: <!--AltName-->[Noble]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (breastplate)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -9214,7 +9214,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 # <!--Name-->Swarm of Insects<!--/Name-->
 - CEO: <!--AltName-->[Nuée d'insectes]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., climb 20 ft.<!--/Speed-->
@@ -9248,7 +9248,7 @@ _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has hal
 
 # <!--Name-->Swarm of Bats<!--/Name-->
 - CEO: <!--AltName-->[Nuée de chauve-souris]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., fly 30 ft.<!--/Speed-->
@@ -9286,7 +9286,7 @@ _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half
 
 # <!--Name-->Swarm of Ravens<!--/Name-->
 - CEO: <!--AltName-->[Nuée de corbeaux]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->24 (7d8 - 7)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 50 ft.<!--/Speed-->
@@ -9321,7 +9321,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 
 # <!--Name-->Swarm of Quippers<!--/Name-->
 - CEO: <!--AltName-->[Nuée de piranhas]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->28 (8d8 - 8)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., swim 40 ft.<!--/Speed-->
@@ -9359,7 +9359,7 @@ _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has hal
 
 # <!--Name-->Swarm of Rats<!--/Name-->
 - CEO: <!--AltName-->[Nuée de rats]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->24 (7d8 - 7)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -9395,7 +9395,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 
 # <!--Name-->Swarm of Poisonous Snakes<!--/Name-->
 - CEO: <!--AltName-->[Nuée de serpents venimeux]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
@@ -9429,7 +9429,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 
 # <!--Name-->Wight<!--/Name-->
 - CEO: <!--AltName-->[Nécrophage]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (studded leather)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d8 + 18)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -9475,7 +9475,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # <!--Name-->Ogre<!--/Name-->
 - CEO: <!--AltName-->[Ogre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (hide armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -9507,7 +9507,7 @@ _Hit_: 11 (2d6 + 4) piercing damage.
 
 # <!--Name-->Shadow<!--/Name-->
 - CEO: <!--AltName-->[Ombre]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->16 (3d8 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -9548,7 +9548,7 @@ _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced b
 
 # <!--Name-->Oni<!--/Name-->
 - CEO: <!--AltName-->[Oni]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (chain mail)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->110 (13d10 + 39)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 30 ft.<!--/Speed-->
@@ -9598,7 +9598,7 @@ _Hit_: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small o
 
 # <!--Name-->Orc<!--/Name-->
 - CEO: <!--AltName-->[Orc]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (orc)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (orc)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (hide armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->15 (2d8 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -9635,7 +9635,7 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 
 # <!--Name-->Otyugh<!--/Name-->
 - CEO: <!--AltName-->[Otyugh]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->114 (12d10 + 48)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -9676,7 +9676,7 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the targe
 
 # <!--Name-->Brown Bear<!--/Name-->
 - CEO: <!--AltName-->[Ours brun]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->34 (4d10 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 30 ft.<!--/Speed-->
@@ -9715,7 +9715,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # <!--Name-->Black Bear<!--/Name-->
 - CEO: <!--AltName-->[Ours noir]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d8 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 30 ft.<!--/Speed-->
@@ -9754,7 +9754,7 @@ _Hit_: 7 (2d4 + 2) slashing damage.
 
 # <!--Name-->Polar Bear<!--/Name-->
 - CEO: <!--AltName-->[Ours polaire]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->42 (5d10 + 15)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., swim 30 ft.<!--/Speed-->
@@ -9793,7 +9793,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 
 # <!--Name-->Werebear<!--/Name-->
 - CEO: <!--AltName-->[Ours-garou]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral good<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10 in humanoid form, 11 (natural armor) in bear and hybrid form<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->135 (18d8 + 54)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft. (40 ft., climb 30 ft. in bear or hybrid form)<!--/Speed-->
@@ -9839,7 +9839,7 @@ _Hit_: 10 (1d12 + 4) slashing damage.
 
 # <!--Name-->Rust Monster<!--/Name-->
 - CEO: <!--AltName-->[Oxydeur]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (5d8 + 5)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft<!--/Speed-->
@@ -9875,7 +9875,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 # <!--Name-->Panther<!--/Name-->
 - CEO: <!--AltName-->[Panthère]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft., climb 40 ft.<!--/Speed-->
@@ -9914,7 +9914,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 
 # <!--Name-->Octopus<!--/Name-->
 - CEO: <!--AltName-->[Pieuvre]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->5 ft., swim 30 ft.<!--/Speed-->
@@ -9953,7 +9953,7 @@ _Hit_: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until th
 
 # <!--Name-->Giant Octopus<!--/Name-->
 - CEO: <!--AltName-->[Pieuvre géante]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d10 + 8)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., swim 60 ft.<!--/Speed-->
@@ -9992,7 +9992,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grapp
 
 # <!--Name-->Quipper<!--/Name-->
 - CEO: <!--AltName-->[Piranha]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., swim 40 ft.<!--/Speed-->
@@ -10026,7 +10026,7 @@ _Hit_: 1 piercing damage.
 
 # <!--Name-->Planetar<!--/Name-->
 - CEO: <!--AltName-->[Planétar]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->200 (16d10 + 112)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 120 ft.<!--/Speed-->
@@ -10078,7 +10078,7 @@ _Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 
 # <!--Name-->Plesiosaurus<!--/Name-->
 - CEO: <!--AltName-->[Plésiosaure]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->68 (8d10 + 24)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., swim 40 ft.<!--/Speed-->
@@ -10111,7 +10111,7 @@ _Hit_: 14 (3d6 + 4) piercing damage.
 
 # <!--Name-->Pony<!--/Name-->
 - CEO: <!--AltName-->[Poney]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -10139,7 +10139,7 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 
 # <!--Name-->Black Pudding<!--/Name-->
 - CEO: <!--AltName-->[Pouding noir]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->7<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->85 (10d10 + 30)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., climb 20 ft.<!--/Speed-->
@@ -10181,7 +10181,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, no
 
 # <!--Name-->Pseudodragon<!--/Name-->
 - CEO: <!--AltName-->[Pseudodragon]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->7 (2d4 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->15 ft., fly 60 ft.<!--/Speed-->
@@ -10223,7 +10223,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 
 # <!--Name-->Giant Fire Beetle<!--/Name-->
 - CEO: <!--AltName-->[Punaise de feu géante]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->4 (1d6 + 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -10255,7 +10255,7 @@ _Hit_: 2 (1d6 - 1) slashing damage.
 
 # <!--Name-->Pegasus<!--/Name-->
 - CEO: <!--AltName-->[Pégase]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
 - **Speed** <!--Speed-->60 ft., fly 90 ft.<!--/Speed-->
@@ -10285,7 +10285,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 # <!--Name-->Quasit<!--/Name-->
 - CEO: <!--AltName-->[Quasit]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->fiend (demon<!--/Type-->, <!--Alignment-->shapechanger), chaotic evil<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->fiend (demon<!--/Type-->, <!--Alignment-->shapechanger), chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->7 (3d4)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -10327,7 +10327,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Const
 
 # <!--Name-->Rakshasa<!--/Name-->
 - CEO: <!--AltName-->[Rakshasa]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->110 (13d8 + 52)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -10372,7 +10372,7 @@ _Hit_: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature
 
 # <!--Name-->Rat<!--/Name-->
 - CEO: <!--AltName-->[Rat]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft.<!--/Speed-->
@@ -10404,7 +10404,7 @@ _Hit_: 1 piercing damage.
 
 # <!--Name-->Giant Rat<!--/Name-->
 - CEO: <!--AltName-->[Rat géant]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -10438,7 +10438,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 # <!--Name-->Wererat<!--/Name-->
 - CEO: <!--AltName-->[Rat-garou]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->33 (6d8 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -10484,7 +10484,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # <!--Name-->Reef Shark<!--/Name-->
 - CEO: <!--AltName-->[Requin de récif]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., swim 40 ft.<!--/Speed-->
@@ -10519,7 +10519,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # <!--Name-->Giant Shark<!--/Name-->
 - CEO: <!--AltName-->[Requin géant]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->126 (11d12 + 55)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., swim 50 ft.<!--/Speed-->
@@ -10554,7 +10554,7 @@ _Hit_: 22 (3d10 + 6) piercing damage.
 
 # <!--Name-->Hunter Shark<!--/Name-->
 - CEO: <!--AltName-->[Requin chasseur]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., swim 40 ft.<!--/Speed-->
@@ -10589,7 +10589,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 
 # <!--Name-->Rhinoceros<!--/Name-->
 - CEO: <!--AltName-->[Rhinocéros]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -10621,7 +10621,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 # <!--Name-->Roc<!--/Name-->
 - CEO: <!--AltName-->[Roc]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->248 (16d20 + 80)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., fly 120 ft.<!--/Speed-->
@@ -10661,7 +10661,7 @@ _Hit_: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). 
 
 # <!--Name-->Commoner<!--/Name-->
 - CEO: <!--AltName-->[Roturier]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -10689,7 +10689,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 
 # <!--Name-->Remorhaz<!--/Name-->
 - CEO: <!--AltName-->[Remorhaz]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->195 (17d12 + 85)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., burrow 20 ft.<!--/Speed-->
@@ -10724,7 +10724,7 @@ _Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is
 
 # <!--Name-->Sahuagin<!--/Name-->
 - CEO: <!--AltName-->[Sahuagin]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (sahuagin)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (sahuagin)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 40 ft.<!--/Speed-->
@@ -10771,7 +10771,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 
 # <!--Name-->Salamander<!--/Name-->
 - CEO: <!--AltName-->[Salamandre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->90 (12d10 + 24)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -10814,7 +10814,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target 
 
 # <!--Name-->Boar<!--/Name-->
 - CEO: <!--AltName-->[Sanglier]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -10848,7 +10848,7 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 
 # <!--Name-->Giant Boar<!--/Name-->
 - CEO: <!--AltName-->[Sanglier géant]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->42 (5d10 + 15)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -10882,7 +10882,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 # <!--Name-->Wereboar<!--/Name-->
 - CEO: <!--AltName-->[Sanglier-garou]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10 in humanoid form, 11 (natural armor) in boar or hybrid form<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->78 (12d8 + 24)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft. (40 ft. in boar form)<!--/Speed-->
@@ -10926,7 +10926,7 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succee
 
 # <!--Name-->Satyr<!--/Name-->
 - CEO: <!--AltName-->[Satyre]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->chaotic neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->chaotic neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->31 (7d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -10967,7 +10967,7 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 
 # <!--Name-->Scorpion<!--/Name-->
 - CEO: <!--AltName-->[Scorpion]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft.<!--/Speed-->
@@ -10995,7 +10995,7 @@ _Hit_: 1 piercing damage, and the target must make a DC 9 Constitution saving th
 
 # <!--Name-->Giant Scorpion<!--/Name-->
 - CEO: <!--AltName-->[Scorpion géant]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (7d10 + 14)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -11029,7 +11029,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constituti
 
 # <!--Name-->Constrictor Snake<!--/Name-->
 - CEO: <!--AltName-->[Serpent constricteur]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (2d10 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
@@ -11061,7 +11061,7 @@ _Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14)
 
 # <!--Name-->Giant Constrictor Snake<!--/Name-->
 - CEO: <!--AltName-->[Serpent constricteur géant]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->60 (8d12 + 8)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
@@ -11094,7 +11094,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16
 
 # <!--Name-->Poisonous Snake<!--/Name-->
 - CEO: <!--AltName-->[Serpent venimeux]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
@@ -11122,7 +11122,7 @@ _Hit_: 1 piercing damage, and the target must make a DC 10 Constitution saving t
 
 # <!--Name-->Giant Poisonous Snake<!--/Name-->
 - CEO: <!--AltName-->[Serpent venimeux géant]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
@@ -11151,7 +11151,7 @@ _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitutio
 
 # <!--Name-->Flying Snake<!--/Name-->
 - CEO: <!--AltName-->[Serpent volant]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (2d4)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft., swim 30 ft.<!--/Speed-->
@@ -11183,7 +11183,7 @@ _Hit_: 1 piercing damage plus 7 (3d4) poison damage.
 
 # <!--Name-->Giant Ape<!--/Name-->
 - CEO: <!--AltName-->[Singe géant]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->157 (15d12 + 60)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., climb 40 ft.<!--/Speed-->
@@ -11218,7 +11218,7 @@ _Hit_: 30 (7d6 + 6) bludgeoning damage.
 
 # <!--Name-->Solar<!--/Name-->
 - CEO: <!--AltName-->[Solar]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->21 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->243 (18d10 + 144)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft., fly 150 ft.<!--/Speed-->
@@ -11287,7 +11287,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 # <!--Name-->Specter<!--/Name-->
 - CEO: <!--AltName-->[Spectre]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., fly 50 ft. (hover)<!--/Speed-->
@@ -11324,7 +11324,7 @@ _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution
 
 # <!--Name-->Skeleton<!--/Name-->
 - CEO: <!--AltName-->[Squelette]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (armor scraps)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (2d8 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -11359,7 +11359,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # <!--Name-->Warhorse Skeleton<!--/Name-->
 - CEO: <!--AltName-->[Squelette cheval de guerre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (barding scraps)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (3d10 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->60 ft.<!--/Speed-->
@@ -11390,7 +11390,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 # <!--Name-->Minotaur Skeleton<!--/Name-->
 - CEO: <!--AltName-->[Squelette minotaure]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->67 (9d10 + 18)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -11429,7 +11429,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 
 # <!--Name-->Stirge<!--/Name-->
 - CEO: <!--AltName-->[Strige]<!--/AltName-->
-- : <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 40 ft.<!--/Speed-->
@@ -11457,7 +11457,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While
 
 # <!--Name-->Succubus<!--/Name-->
 - CEO: <!--AltName-->[Succube/Incube]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fiend (shapechanger)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (shapechanger)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->66 (12d8 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft.<!--/Speed-->
@@ -11499,7 +11499,7 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 
 # <!--Name-->Treant<!--/Name-->
 - CEO: <!--AltName-->[Sylvanien]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->138 (12d12 + 60)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -11543,7 +11543,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 
 # <!--Name-->Rug of Smothering<!--/Name-->
 - CEO: <!--AltName-->[Tapis étrangleur]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->33 (6d10)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft.<!--/Speed-->
@@ -11581,7 +11581,7 @@ _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the tar
 
 # <!--Name-->Tarrasque<!--/Name-->
 - CEO: <!--AltName-->[Tarasque]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity (titan)<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity (titan)<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->25 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->676 (33d20 + 330)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -11650,7 +11650,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 # <!--Name-->Shambling Mound<!--/Name-->
 - CEO: <!--AltName-->[Tertre errant]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (16d10 + 48)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., swim 20 ft.<!--/Speed-->
@@ -11690,7 +11690,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 # <!--Name-->Tiger<!--/Name-->
 - CEO: <!--AltName-->[Tigre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->37 (5d10 + 10)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -11729,7 +11729,7 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 
 # <!--Name-->Saber-Toothed Tiger<!--/Name-->
 - CEO: <!--AltName-->[Tigre à dents de sabre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (7d10 + 14)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -11768,7 +11768,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 
 # <!--Name-->Weretiger<!--/Name-->
 - CEO: <!--AltName-->[Tigre-garou]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->120 (16d8 + 48)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft. (40 ft. in tiger form)<!--/Speed-->
@@ -11820,7 +11820,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # <!--Name-->Grimlock<!--/Name-->
 - CEO: <!--AltName-->[Torve]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (grimlock)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (grimlock)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -11858,7 +11858,7 @@ _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 
 # <!--Name-->Invisible Stalker<!--/Name-->
 - CEO: <!--AltName-->[Traqueur invisible]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->104 (16d8 + 32)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft., fly 50 ft. (hover)<!--/Speed-->
@@ -11898,7 +11898,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage.
 
 # <!--Name-->Triceratops<!--/Name-->
 - CEO: <!--AltName-->[Tricératops]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->95 (10d12 + 30)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -11934,7 +11934,7 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage
 
 # <!--Name-->Troll<!--/Name-->
 - CEO: <!--AltName-->[Troll]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->84 (8d10 + 40)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -11975,7 +11975,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # <!--Name-->Tyrannosaurus Rex<!--/Name-->
 - CEO: <!--AltName-->[Tyrannosaure]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (13d12 + 52)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -12010,7 +12010,7 @@ _Hit_: 20 (3d8 + 7) bludgeoning damage.
 
 # <!--Name-->Vampire<!--/Name-->
 - CEO: <!--AltName-->[Vampire]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead (shapechanger)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead (shapechanger)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->144 (17d8 + 68)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -12083,7 +12083,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 # <!--Name-->Vampire Spawn<!--/Name-->
 - CEO: <!--AltName-->[Vampirien]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->82 (11d8 + 33)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -12136,7 +12136,7 @@ _Hit_: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hi
 
 # <!--Name-->Gray Ooze<!--/Name-->
 - CEO: <!--AltName-->[Vase grise]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (3d8 + 9)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., climb 10 ft.<!--/Speed-->
@@ -12177,7 +12177,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the targe
 
 # <!--Name-->Vulture<!--/Name-->
 - CEO: <!--AltName-->[Vautour]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (1d8 + 1)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 50 ft.<!--/Speed-->
@@ -12212,7 +12212,7 @@ _Hit_: 2 (1d4) piercing damage.
 
 # <!--Name-->Giant Vulture<!--/Name-->
 - CEO: <!--AltName-->[Vautour géant]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (3d10 + 6)<!--/HitPoints-->
 - **Speed** <!--Speed-->10 ft., fly 60 ft.<!--/Speed-->
@@ -12253,7 +12253,7 @@ _Hit_: 9 (2d6 + 2) slashing damage.
 
 # <!--Name-->Purple Worm<!--/Name-->
 - CEO: <!--AltName-->[Ver pourpre]<!--/AltName-->
-- : <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->247 (15d20 + 90)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft., burrow 30 ft.<!--/Speed-->
@@ -12292,7 +12292,7 @@ _Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constituti
 
 # <!--Name-->Wyvern<!--/Name-->
 - CEO: <!--AltName-->[Vouivre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->110 (13d10 + 39)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., fly 80 ft.<!--/Speed-->
@@ -12331,7 +12331,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution s
 
 # <!--Name-->Vrock<!--/Name-->
 - CEO: <!--AltName-->[Vrock]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->104 (11d10 + 44)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 60 ft.<!--/Speed-->
@@ -12379,7 +12379,7 @@ _Hit_: 14 (2d10 + 3) slashing damage.
 
 # <!--Name-->Veteran<!--/Name-->
 - CEO: <!--AltName-->[Vétéran]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (splint)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->58 (9d8 + 18)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -12418,7 +12418,7 @@ _Hit_: 6 (1d10 + 1) piercing damage.
 
 # <!--Name-->Worg<!--/Name-->
 - CEO: <!--AltName-->[Worg]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->26 (4d10 + 4)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -12451,7 +12451,7 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 
 # <!--Name-->Xorn<!--/Name-->
 - CEO: <!--AltName-->[Xorn]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->73 (7d8 + 42)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft., burrow 20 ft.<!--/Speed-->
@@ -12496,7 +12496,7 @@ _Hit_: 13 (3d6 + 3) piercing damage.
 
 # <!--Name-->Zombie<!--/Name-->
 - CEO: <!--AltName-->[Zombi]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (3d8 + 9)<!--/HitPoints-->
 - **Speed** <!--Speed-->20 ft.<!--/Speed-->
@@ -12531,7 +12531,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 
 # <!--Name-->Ogre Zombie<!--/Name-->
 - CEO: <!--AltName-->[Zombi ogre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->85 (9d10 + 36)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -12566,7 +12566,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 # <!--Name-->Wraith<!--/Name-->
 - CEO: <!--AltName-->[Âme en peine]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->67 (9d8 + 27)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., fly 60 ft. (hover)<!--/Speed-->
@@ -12605,7 +12605,7 @@ _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitu
 
 # <!--Name-->Scout<!--/Name-->
 - CEO: <!--AltName-->[Éclaireur]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->16 (3d8 + 3)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft.<!--/Speed-->
@@ -12644,7 +12644,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # <!--Name-->Efreeti<!--/Name-->
 - CEO: <!--AltName-->[Éfrit]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->200 (16d10 + 112)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft., fly 60 ft.<!--/Speed-->
@@ -12692,7 +12692,7 @@ _Hit_: 17 (5d6) fire damage.
 
 # <!--Name-->Elk<!--/Name-->
 - CEO: <!--AltName-->[Élan]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (2d10 + 2)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -12728,7 +12728,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
 # <!--Name-->Giant Elk<!--/Name-->
 - CEO: <!--AltName-->[Élan géant]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->42 (5d12 + 10)<!--/HitPoints-->
 - **Speed** <!--Speed-->60 ft.<!--/Speed-->
@@ -12765,7 +12765,7 @@ _Hit_: 22 (4d8 + 4) bludgeoning damage.
 
 # <!--Name-->Air Elemental<!--/Name-->
 - CEO: <!--AltName-->[Élémentaire de l'air]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->90 (12d10 + 24)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., fly 90 ft. (hover)<!--/Speed-->
@@ -12804,7 +12804,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 # <!--Name-->Water Elemental<!--/Name-->
 - CEO: <!--AltName-->[Élémentaire de l'eau]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->114 (12d10 + 48)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., swim 90 ft.<!--/Speed-->
@@ -12845,7 +12845,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 # <!--Name-->Earth Elemental<!--/Name-->
 - CEO: <!--AltName-->[Élémentaire de la terre]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->126 (12d10 + 60)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., burrow 30 ft.<!--/Speed-->
@@ -12885,7 +12885,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 # <!--Name-->Fire Elemental<!--/Name-->
 - CEO: <!--AltName-->[Élémentaire du feu]<!--/AltName-->
-- : <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+-  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->102 (12d10 + 36)<!--/HitPoints-->
 - **Speed** <!--Speed-->50 ft.<!--/Speed-->
@@ -12926,7 +12926,7 @@ _Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable obje
 
 # <!--Name-->Elephant<!--/Name-->
 - CEO: <!--AltName-->[Éléphant]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->76 (8d12 + 24)<!--/HitPoints-->
 - **Speed** <!--Speed-->40 ft.<!--/Speed-->
@@ -12962,7 +12962,7 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage.
 
 # <!--Name-->Killer Whale<!--/Name-->
 - CEO: <!--AltName-->[Épaulard]<!--/AltName-->
-- : <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->90 (12d12 + 12)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., swim 60 ft.<!--/Speed-->
@@ -12999,7 +12999,7 @@ _Hit_: 21 (5d6 + 4) piercing damage.
 
 # <!--Name-->Flying Sword<!--/Name-->
 - CEO: <!--AltName-->[Épée volante]<!--/AltName-->
-- : <!--Size-->Small<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+-  <!--Size-->Small<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->17 (5d6)<!--/HitPoints-->
 - **Speed** <!--Speed-->0 ft., fly 50 ft. (hover)<!--/Speed-->
@@ -13036,7 +13036,7 @@ _Hit_: 5 (1d8 + 1) slashing damage.
 
 # <!--Name-->Erinyes<!--/Name-->
 - CEO: <!--AltName-->[Érinye]<!--/AltName-->
-- : <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+-  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (plate)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->153 (18d8 + 72)<!--/HitPoints-->
 - **Speed** <!--Speed-->30 ft., fly 60 ft.<!--/Speed-->
