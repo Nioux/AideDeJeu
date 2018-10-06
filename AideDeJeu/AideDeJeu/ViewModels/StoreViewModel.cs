@@ -88,13 +88,17 @@ namespace AideDeJeu.ViewModels
                             {
                                 if (currentItem.GetNewFilterViewModel() == null)
                                 {
+                                    var name = subItem.Name;
                                     var level = Math.Max(1, Math.Min(6, subItem.NameLevel));
-                                    currentItem.Markdown += $"\n\n{new String('#', level)} [{subItem.Name}]({(subItem is LinkItem ? (subItem as LinkItem).Link : subItem.Id)})\n\n";
+                                    var link = (subItem is LinkItem ? (subItem as LinkItem).Link : subItem.Id);
+                                    currentItem.Markdown += $"\n\n{new String('#', level)} [{name}]({link})";
                                     if(!string.IsNullOrEmpty(subItem.AltNameText))
                                     {
+                                        var altname = subItem.AltNameText;
                                         var altlevel = Math.Max(1, Math.Min(6, subItem.NameLevel + 2));
-                                        currentItem.Markdown += $"{new String('#', altlevel)} {subItem.AltNameText}\n\n";
+                                        currentItem.Markdown += $"\n\n{new String('#', altlevel)} _[{altname}]({link})_";
                                     }
+                                    currentItem.Markdown += "\n\n";
                                 }
                                 else
                                 {

@@ -15,8 +15,6 @@
 
 Chaque race possède des traits raciaux communs à tous ses membres. Vous pourrez trouver la terminologie suivante parmi les traits de la plupart des races.
 
-<!--/Generic-->
-
 <!--Generic-->
 
 #### <!--Name-->Augmentation de caractéristiques<!--/Name-->
@@ -91,6 +89,8 @@ Le fait d’appartenir à une race donnée vous permet de parler, lire et écrir
 - Source: <!--Source-->(MDR p37)(SRD p3)<!--/Source-->
 
 Certaines races se divisent en plusieurs peuples avec des différences culturelles et parfois physiques. Les membres de chaque peuple possèdent les traits de la race dont ils sont issus, ainsi que ceux du peuple auquel ils appartiennent. Les relations entre les diverses populations d’une même race peuvent varier énormément d’une race ou d’un monde à l’autre.
+
+<!--/Generic-->
 
 <!--/Generic-->
 

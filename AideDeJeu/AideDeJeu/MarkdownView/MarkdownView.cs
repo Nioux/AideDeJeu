@@ -469,11 +469,11 @@
             foreach (Markdig.Extensions.Tables.TableRow row in tableBlock)
             {
                 maxColumns = Math.Max(maxColumns, row.Count);
-                grid.RowDefinitions.Add(new RowDefinition { Height= GridLength.Auto });
+                grid.RowDefinitions.Add(new RowDefinition { Height= new GridLength(1, GridUnitType.Auto) });
             }
             for (int i = 0; i < maxColumns; i++)
             {
-                grid.ColumnDefinitions.Add(new ColumnDefinition { Width = GridLength.Auto });
+                grid.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Auto) });
             }
 
 
