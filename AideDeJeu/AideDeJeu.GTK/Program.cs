@@ -19,6 +19,7 @@ namespace AideDeJeu.GTK
             var app = new App();
             var window = new FormsWindow();
             window.LoadApplication(app);
+            window.SetApplicationIcon("battle_axe.png");
             window.SetApplicationTitle("Haches & Dés");
             window.Show();
 
