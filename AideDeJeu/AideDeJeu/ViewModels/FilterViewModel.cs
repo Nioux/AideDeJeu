@@ -27,6 +27,18 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public bool MatchSearch(Item item)
+        {
+            return
+                    Helpers.RemoveDiacritics(item.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()) ||
+                    Helpers.RemoveDiacritics(item.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower());
+        }
+
+        public bool MatchContains(string itemValue, string filterValue)
+        {
+            return string.IsNullOrEmpty(filterValue) || (itemValue != null && itemValue.ToLower().Contains(filterValue.ToLower()));
+        }
+
         protected void RegisterFilters()
         {
             foreach (var filter in Filters)
@@ -870,22 +882,16 @@ namespace AideDeJeu.ViewModels
                 var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
                 var rarity = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Rarity).SelectedKey ?? "";
                 var attunement = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Attunement).SelectedKey ?? "";
-                //token.ThrowIfCancellationRequested();
                 return items.Where(item =>
                 {
                     var magicitem = item as MagicItem;
-                    return magicitem != null &&
-                        magicitem.Type.ToLower().Contains(type.ToLower()) &&
-                        (string.IsNullOrEmpty(rarity) || (magicitem.Rarity != null && magicitem.Rarity.ToLower().Contains(rarity.ToLower()))) &&
-                        (string.IsNullOrEmpty(attunement) || (magicitem.Attunement != null && magicitem.Attunement.ToLower().Contains(attunement.ToLower()))) &&
-                        //priceComparer.Compare(equipment.Price, minPrice) >= 0 &&
-                        //priceComparer.Compare(equipment.Price, maxPrice) <= 0 &&
-                        (
-                            (Helpers.RemoveDiacritics(magicitem.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(magicitem.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        );
-                }).OrderBy(eq => eq.Name)
-                            .AsEnumerable();
+                    if (magicitem == null) return false;
+                    var matchType = MatchContains(magicitem.Type, type);
+                    var matchRarity = MatchContains(magicitem.Rarity, rarity);
+                    var matchAttunement = MatchContains(magicitem.Attunement, attunement);
+                    var matchSearch = MatchSearch(magicitem);
+                    return matchType && matchRarity && matchAttunement && matchSearch;
+                }).OrderBy(eq => eq.Name).AsEnumerable();
             }, token);
 
         }
