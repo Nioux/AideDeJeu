@@ -11,7 +11,7 @@
 
 - AltName: <!--AltName-->Wings of Flying (SRD p251)<!--/AltName-->
 - Source: <!--Source-->(COC p138)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous êtes équipé de cette cape, vous pouvez utiliser une action pour prononcer son mot de commande. La cape se transforme alors en paire d'ailes de chauve-souris ou d'oiseau placée dans votre dos pendant 1 heure ou jusqu'au moment ou vous répétez le mot de commande par une action. Les ailes vous confèrent une vitesse de déplacement en vol de 18 mètres. Il faut attendre 1d12 heures depuis la dernière disparition des ailes avant de pouvoir les réutiliser.
 
@@ -23,7 +23,7 @@ Tant que vous êtes équipé de cette cape, vous pouvez utiliser une action pour
 
 - AltName: <!--AltName-->Periapt of Proof against Poison (SRD p232)<!--/AltName-->
 - Source: <!--Source-->(COC p139)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Une gemme noire luisante et parfaitement taillée orne cette délicate chaîne d'argent. Tant que vous portez ce pendentif, les poisons n'ont aucun effet sur vous : vous êtes immunisé contre l'état empoisonné et contre les dégâts de poison.
 
@@ -35,7 +35,7 @@ Une gemme noire luisante et parfaitement taillée orne cette délicate chaîne d
 
 - AltName: <!--AltName-->Amulet of Proof against Detection and Location (SRD p207)<!--/AltName-->
 - Source: <!--Source-->(COC p139)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette amulette, vous êtes caché aux yeux de la magie de divination. Ce genre de magie ne peut plus vous prendre pour cible et ne vous perçoit plus à travers ses organes de scrutation magiques.
 
@@ -47,7 +47,7 @@ Tant que vous portez cette amulette, vous êtes caché aux yeux de la magie de d
 
 - AltName: <!--AltName-->Amulet of Health (SRD p207)<!--/AltName-->
 - Source: <!--Source-->(COC p139)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette amulette, votre valeur de Constitution passe à 19. L'amulette n'a aucun effet si votre Constitution est déjà de 19 ou plus.
 
@@ -59,7 +59,7 @@ Tant que vous portez cette amulette, votre valeur de Constitution passe à 19. L
 
 - AltName: <!--AltName-->Periapt of Wound Closure (SRD p232)<!--/AltName-->
 - Source: <!--Source-->(COC p139)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ce pendentif, vous vous stabilisez automatiquement au début de votre tour si vous êtes mourant. De plus, à chaque fois que vous lancez un dé de vie pour récupérer des points de vie, vous doublez le nombre de points de vie rendus.
 
@@ -71,7 +71,7 @@ Tant que vous portez ce pendentif, vous vous stabilisez automatiquement au débu
 
 - AltName: <!--AltName-->Periapt of Health (SRD p232)<!--/AltName-->
 - Source: <!--Source-->(COC p139)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Tant que vous portez ce pendentif, vous êtes immunisé contre toutes les maladies. Si vous êtes déjà malade, les effets de la maladie sont supprimés tant que vous portez l'amulette.
 
@@ -83,7 +83,7 @@ Tant que vous portez ce pendentif, vous êtes immunisé contre toutes les maladi
 
 - AltName: <!--AltName-->Amulet of the Planes (SRD p207)<!--/AltName-->
 - Source: <!--Source-->(COC p139)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette amulette, vous pouvez utiliser votre action pour nommer un endroit qui vous est familier et se trouve sur un autre plan d'existence. Faites ensuite un test d'Intelligence DD 15. Si vous réussissez, vous lancez changement de plan, si vous échouez, vous et toutes les créatures et tous les objets situés dans un rayon de 4,50 mètres autour de vous êtes emportés vers une destination aléatoire. Lancez 1d100. De 1 à 60, cet endroit aléatoire se trouve sur le plan où vous trouviez déjà, de 61 à 100 vous arrivez sur un plan d'existence déterminé au hasard.
 
@@ -95,7 +95,7 @@ Tant que vous portez cette amulette, vous pouvez utiliser votre action pour nomm
 
 - AltName: <!--AltName-->Ring of Free Action (SRD p236)<!--/AltName-->
 - Source: <!--Source-->(COC p139)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cet anneau au doigt, les terrains difficiles ne vous coûtent aucun déplacement supplémentaire. De plus, la magie ne peut pas réduire votre vitesse, vous paralyser ou vous entraver.
 
@@ -107,7 +107,7 @@ Tant que vous portez cet anneau au doigt, les terrains difficiles ne vous coûte
 
 - AltName: <!--AltName-->Ring of Warmth (SRD p238)<!--/AltName-->
 - Source: <!--Source-->(COC p139)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous bénéficiez d'une résistance contre les dégâts de froid tant que vous portez cet anneau au doigt. De plus, vous et tout l'équipement que vous portez êtes protégés contre les températures extrêmement basses (jusque -10 degrés Celsius)
 
@@ -119,7 +119,7 @@ Vous bénéficiez d'une résistance contre les dégâts de froid tant que vous p
 
 - AltName: <!--AltName-->Ring of Djinni Summoning (SRD p235)<!--/AltName-->
 - Source: <!--Source-->(COC p139)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cet anneau au doigt, vous pouvez prononcer son mot de commande par une action pour convoquer un djinn particulier originaire du plan élémentaire de l'Air. Le djinn apparaît dans un emplacement inoccupé que vous lui désignez et qui se situe à 36 mètres ou moins de vous. Il reste aussi longtemps que vous vous concentrez (comme si vous vous concentriez sur un sort), jusqu'à un maximum d'une heure ou si les points de vie de la créature tombent à 0. Il retourne ensuite sur son plan d'origine.
 
@@ -135,7 +135,7 @@ Après le retour du djinn sur son plan d'origine, vous ne pouvez plus le convoqu
 
 - AltName: <!--AltName-->Ring of Evasion (SRD p236)<!--/AltName-->
 - Source: <!--Source-->(COC p139)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube. Si vous ratez un jet de sauvegarde de Dextérité alors que vous portez cet anneau au doigt, vous pouvez utiliser votre réaction pour dépenser 1 de ses charges et remplacer l'échec de ce jet de sauvegarde par une réussite.
 
@@ -147,7 +147,7 @@ Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 
 - AltName: <!--AltName-->Ring of Shooting Stars (SRD p237)<!--/AltName-->
 - Source: <!--Source-->(COC p140)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, très rare (harmonisation en plein air et de nuit exigée)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation en plein air et de nuit exigée<!--/Attunement-->)
 
 Tant que vous portez cet anneau dans des endroits faiblement éclairés ou plongés dans les ténèbres, vous pouvez lancer lumières dansantes et lumière à volonté par le biais de l'anneau. L'incantation d'un de ces sorts sous cette forme nécessite une action.
 
@@ -178,7 +178,7 @@ Par une action bonus, vous pouvez déplacer chaque sphère d'une distance maxima
 
 - AltName: <!--AltName-->Ring of Feather Falling (SRD p236)<!--/AltName-->
 - Source: <!--Source-->(COC p140)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous descendez de 18 mètres par round et ne subissez aucun dégât de chute tant que vous portez cet anneau au doigt.
 
@@ -190,7 +190,7 @@ Vous descendez de 18 mètres par round et ne subissez aucun dégât de chute tan
 
 - AltName: <!--AltName-->Ring of Elemental Command (SRD p235)<!--/AltName-->
 - Source: <!--Source-->(COC p140)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cet anneau est lié à l'un des quatre plans Élémentaires. Le MJ choisit ou détermine au hasard le plan concerné.
 
@@ -236,7 +236,7 @@ Si vous aidez à tuer un élémentaire du Feu tout en étant harmonisé à l'ann
 
 - AltName: <!--AltName-->Ring of Water Walking (SRD p238)<!--/AltName-->
 - Source: <!--Source-->(COC p141)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, peu courant
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Vous pouvez vous tenir debout sur toute surface liquide et vous déplacer dessus comme si elle était solide.
 
@@ -248,7 +248,7 @@ Vous pouvez vous tenir debout sur toute surface liquide et vous déplacer dessus
 
 - AltName: <!--AltName-->Ring of Swimming (SRD p238)<!--/AltName-->
 - Source: <!--Source-->(COC p141)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, peu courant
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Vous possédez une vitesse de déplacement à la nage de 12 mètres tant que vous portez cet anneau au doigt.
 
@@ -260,7 +260,7 @@ Vous possédez une vitesse de déplacement à la nage de 12 mètres tant que vou
 
 - AltName: <!--AltName-->Ring of Protection (SRD p237)<!--/AltName-->
 - Source: <!--Source-->(COC p141)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous bénéficiez d'un bonus de +1 à la CA et aux jets de sauvegarde tant que vous portez cet anneau au doigt.
 
@@ -272,7 +272,7 @@ Vous bénéficiez d'un bonus de +1 à la CA et aux jets de sauvegarde tant que v
 
 - AltName: <!--AltName-->Ring of Mind Shielding (SRD p236)<!--/AltName-->
 - Source: <!--Source-->(COC p141)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cet anneau, vous êtes immunisé à la magie utilisée par d'autres créatures pour lire vos pensées, déterminer si vous mentez, connaître votre alignement ou le type de créature que vous êtes. Les créatures peuvent communiquer par télépathie avec vous seulement si vous les y autorisez.
 
@@ -288,7 +288,7 @@ Si vous perdez la vie avec l'anneau au doigt, votre âme se réfugie à l'intér
 
 - AltName: <!--AltName-->Ring of Regeneration (SRD p237)<!--/AltName-->
 - Source: <!--Source-->(COC p141)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cet anneau, vous récupérez 1d6 points de vie toutes les 10 minutes, à condition qu'il vous reste au moins 1 point de vie. Si vous perdez des parties de votre corps, l'anneau permet la repousse des parties manquantes qui retrouvent leur entière fonctionnalité au bout de 1d6+1 jours s'il vous reste au moins 1 point de vie pendant toute cette période.
 
@@ -300,7 +300,7 @@ Tant que vous portez cet anneau, vous récupérez 1d6 points de vie toutes les 1
 
 - AltName: <!--AltName-->Ring of Spell Turning (SRD p237)<!--/AltName-->
 - Source: <!--Source-->(COC p142)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous obtenez l'avantage lors des jets de sauvegarde contre les sorts qui ne prennent que vous pour cible (et non une zone d'effet) tant que vous portez cet anneau au doigt. De plus, si vous obtenez un 20 au jet de sauvegarde et que le sort est de niveau 7 ou moins, celui-ci ne produit aucun effet sur vous et il cible à la place son lanceur, en utilisant le niveau d'emplacement, le DD des jets de sauvegarde contre le sort et la caractéristique d'incantation du lanceur.
 
@@ -312,7 +312,7 @@ Vous obtenez l'avantage lors des jets de sauvegarde contre les sorts qui ne pren
 
 - AltName: <!--AltName-->Ring of Resistance (SRD p237)<!--/AltName-->
 - Source: <!--Source-->(COC p142)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous bénéficiez d'une résistance contre un type de dégâts tant que vous portez cet anneau au doigt. La pierre précieuse qui orne l'anneau indique le type que le MJ peut choisir ou déterminer au hasard.
 
@@ -337,7 +337,7 @@ Vous bénéficiez d'une résistance contre un type de dégâts tant que vous por
 
 - AltName: <!--AltName-->Ring of Jumping (SRD p236)<!--/AltName-->
 - Source: <!--Source-->(COC p142)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous pouvez lancer le sort de saut, à volonté et par une action bonus, tant que vous portez cet anneau au doigt. Seul vous bénéficiez des effets de ce sort.
 
@@ -349,7 +349,7 @@ Vous pouvez lancer le sort de saut, à volonté et par une action bonus, tant qu
 
 - AltName: <!--AltName-->Ring of Spell Storing (SRD p237)<!--/AltName-->
 - Source: <!--Source-->(COC p142)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cet anneau stocke des sort que l'on lance à l'intérieur et les conserve jusqu'au moment où son porteur harmonisé les utilise. L'anneau peut stocker un maximum de 5 niveaux de sorts en même temps. Au moment de sa découverte, l'anneau contient 1d6-1 niveaux de sorts stockés choisis par le MJ.
 
@@ -365,7 +365,7 @@ Tant que vous portez cet anneau, vous pouvez lancer n'importe quel sort stocké 
 
 - AltName: <!--AltName-->Ring of Telekinesis (SRD p238)<!--/AltName-->
 - Source: <!--Source-->(COC p142)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cet anneau au doigt, vous pouvez lancer le sort de télékinésie à volonté mais vous ne pouvez cibler que des objets qui ne sont ni équipés ni portés.
 
@@ -389,7 +389,7 @@ Vous pouvez utiliser une action pour dépenser une des 3 charges que contient l'
 
 - AltName: <!--AltName-->Ring of X-ray Vision (SRD p238)<!--/AltName-->
 - Source: <!--Source-->(COC p142)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous pouvez utiliser une action pour prononcer le mot de commande de cet anneau. Une fois celui-ci prononcé, vous pouvez voir dans et à travers la matière solide pendant 1 minute. Le rayon de cette vision s'étend sur 9 mètres. Pour vous, les objets solides à l'intérieur de ce rayon paraissent transparents et ne bloquent pas la lumière. La vision peut traverser 30 centimètres de pierre, 3 centimètres de métal ordinaire ou jusqu'à 1 mètre de bois ou de terre. Les substances plus épaisses bloquent la vision, tout comme une fine couche de plomb.
 
@@ -403,7 +403,7 @@ Chaque fois que vous utilisez l'anneau à nouveau avant de prendre un repos long
 
 - AltName: <!--AltName-->Ring of Animal Influence (SRD p235)<!--/AltName-->
 - Source: <!--Source-->(COC p142)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, rare
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube. Tant que vous portez l'anneau au doigt, vous pouvez utiliser une action pour dépenser 1 de ses charges et lancer un des sorts suivants :
 
@@ -419,7 +419,7 @@ Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 
 - AltName: <!--AltName-->Ring of Invisibility (SRD p236)<!--/AltName-->
 - Source: <!--Source-->(COC p143)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous pouvez devenir invisible par une action tant que vous portez cet anneau au doigt. L'ensemble de vos objets équipés ou transportés deviennent également invisibles. Vous restez invisible jusqu'à ce que l'anneau soit retiré, si vous attaquez, lancez un sort ou utilisez une action bonus pour redevenir visible.
 
@@ -431,7 +431,7 @@ Vous pouvez devenir invisible par une action tant que vous portez cet anneau au 
 
 - AltName: <!--AltName-->Ring of the Ram (SRD p238)<!--/AltName-->
 - Source: <!--Source-->(COC p143)<!--/Source-->
--  <!--Type-->Anneau<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cet anneau contient 3 charges et récupère 1d3 charges chaque jour, à l'aube. Tant que vous portez cet anneau au doigt, vous pouvez utiliser une action pour dépenser de 1 à 3 charges afin d'attaquer une créature située à 18 mètres ou moins dans votre champ de vision. L'anneau produit une tête de bélier spectrale et effectue son jet d'attaque avec un bonus de +7. En cas d'attaque réussie et pour chaque charge dépensée, la cible subit 2d10 dégâts de force et elle est éloignée de vous sur une distance de 1,50 mètre.
 
@@ -445,7 +445,7 @@ Par ailleurs, vous pouvez dépenser de 1 à 3 des charges que contient l'anneau 
 
 - AltName: <!--AltName-->Oathbow (SRD p231)<!--/AltName-->
 - Source: <!--Source-->(COC p143)<!--/Source-->
--  <!--Type-->Arme (arc long)<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Arme (arc long)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Quand vous encochez une flèche sur cet arc, il murmure en elfe « Une mort rapide à mes ennemis. » Lorsque vous l'utilisez pour une attaque à distance, vous pouvez lui chuchoter sa phrase de commande « Une mort rapide pour vous qui m'avez causé du tort. » La cible de votre attaque devient votre ennemi juré jusqu'à sa mort ou jusqu'à ce que l'aube se lève sur le septième jour suivant votre déclaration. Vous ne pouvez avoir qu'un seul ennemi juré de ce type. À sa mort, vous devez attendre l'aube suivante pour en désigner ainsi un nouveau.
 
@@ -461,7 +461,7 @@ Tant que vit votre ennemi juré, vous subissez un désavantage lors de jets d'at
 
 - AltName: <!--AltName-->Vicious Weapon (SRD p248)<!--/AltName-->
 - Source: <!--Source-->(COC p143)<!--/Source-->
--  <!--Type-->Arme (n'importe quelle arme)<!--/Type-->, rare
+-  <!--Type-->Arme (n'importe quelle arme)<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Lorsque vous obtenez un 20 sur un jet d'attaque avec cette arme magique, votre coup critique inflige 2d6 dégâts supplémentaires du type normalement infligé par l'arme.
 
@@ -473,7 +473,7 @@ Lorsque vous obtenez un 20 sur un jet d'attaque avec cette arme magique, votre c
 
 - AltName: <!--AltName-->Weapon, +1, +2, or +3 (SRD p250)<!--/AltName-->
 - Source: <!--Source-->(COC p143)<!--/Source-->
--  <!--Type-->Arme (n'importe quelle arme)<!--/Type-->, peu courante (+1), rare (+2) ou très rare (+3)
+-  <!--Type-->Arme (n'importe quelle arme)<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity--> (+1), <!--Rarity-->rare<!--/Rarity--> (+2) ou très rare (+3)
 
 Vous bénéficiez d'un bonus aux jets d'attaque et de dégâts effectués avec cette arme magique. Le bonus est déterminé par la rareté de l'arme.
 
@@ -485,7 +485,7 @@ Vous bénéficiez d'un bonus aux jets d'attaque et de dégâts effectués avec c
 
 - AltName: <!--AltName-->Dragon Scale Mail (SRD p219)<!--/AltName-->
 - Source: <!--Source-->(COC p143)<!--/Source-->
--  <!--Type-->Armure (armure d'écaille)<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Armure (armure d'écaille)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Une armure d'écaille de dragon est faite à partir des écailles d'une espèce de dragon. Parfois, un dragon récupère les écailles qu'il a perdues et les offre à un humanoïde, parfois ce sont des chasseurs qui écorchent soigneusement un dragon mort et conservent sa peau. Dans les deux cas, une armure d'écailles de dragon est un objet très précieux.
 
@@ -514,7 +514,7 @@ De plus, vous pouvez utiliser une action pour concentrer vos cinq sens et percev
 
 - AltName: <!--AltName-->Mithral Armor (SRD p231)<!--/AltName-->
 - Source: <!--Source-->(COC p143)<!--/Source-->
--  <!--Type-->Armure (intermédiaire ou lourde mais pas en peau)<!--/Type-->, peu courante
+-  <!--Type-->Armure (intermédiaire ou lourde mais pas en peau)<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Le mithral est un métal léger et flexible, à tel point qu'on peut porter une chemise de mailles ou une cuirasse de cette matière sous des vêtements normaux. Si le type d'armure impose d'ordinaire un désavantage lors des tests de Dextérité (Discrétion) ou si une certaine valeur de Force figure parmi ses conditions requises, ce n'est pas le cas de sa version en mithral.
 
@@ -526,7 +526,7 @@ Le mithral est un métal léger et flexible, à tel point qu'on peut porter une 
 
 - AltName: <!--AltName-->Demon Armor (SRD p218)<!--/AltName-->
 - Source: <!--Source-->(COC p144)<!--/Source-->
--  <!--Type-->Armure (harnois)<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Armure (harnois)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette armure, vous gagnez un bonus de +1 à la CA et vous comprenez et parlez l'abyssal. De plus, les gantelets de l'armure sont équipés de griffes qui transforment les attaques à mains nues portées avec eux en attaques portées avec une arme magique infligeant des dégâts tranchants, dotée d'un bonus de +1 aux jets d'attaque et de dégâts et infligeant 1d8 de dégâts.
 
@@ -540,7 +540,7 @@ Tant que vous portez cette armure, vous gagnez un bonus de +1 à la CA et vous c
 
 - AltName: <!--AltName-->Armor of Resistance (SRD p208)<!--/AltName-->
 - Source: <!--Source-->(COC p144)<!--/Source-->
--  <!--Type-->Armure (légère<!--/Type-->, intermédiaire ou lourde), rare (harmonisation requise)
+-  <!--Type-->Armure (légère, intermédiaire ou lourde)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette armure, vous êtes résistant à un type de dégâts. C'est au MJ de choisir ce type ou de le déterminer au hasard parmi les options suivantes.
 
@@ -565,7 +565,7 @@ Tant que vous portez cette armure, vous êtes résistant à un type de dégâts.
 
 - AltName: <!--AltName-->Armor of Vulnerability (SRD p209)<!--/AltName-->
 - Source: <!--Source-->(COC p145)<!--/Source-->
--  <!--Type-->Armure (harnois)<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Armure (harnois)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette armure, vous êtes résistant à un type de dégâts parmi les suivants : contondants, perforants ou tranchants. C'est au MJ de choisir ce type ou de le déterminer au hasard.
 
@@ -579,7 +579,7 @@ Tant que vous portez cette armure, vous êtes résistant à un type de dégâts 
 
 - AltName: <!--AltName-->Armor of Invulnerability (SRD p208)<!--/AltName-->
 - Source: <!--Source-->(COC p145)<!--/Source-->
--  <!--Type-->Armure (harnois)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Armure (harnois)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette armure, vous résistez aux dégâts non-magiques. De plus, vous pouvez dépenser une action pour vous immuniser contre les dégâts non-magiques pendant 10 minutes ou jusqu'à ce que vous ne portiez plus l'armure. Une fois que vous avez utilisé cette action spéciale, vous ne pouvez plus vous en servir avant l'aube suivante.
 
@@ -591,7 +591,7 @@ Tant que vous portez cette armure, vous résistez aux dégâts non-magiques. De 
 
 - AltName: <!--AltName-->Adamantine Armor (SRD p207)<!--/AltName-->
 - Source: <!--Source-->(COC p145)<!--/Source-->
--  <!--Type-->Armure (intermédiaire ou lourde<!--/Type-->, mais pas en peau), peu courante
+-  <!--Type-->Armure (intermédiaire ou lourde, mais pas en peau)<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Cette armure est renforcée à base d'adamantium, l'une des substances les plus solides au monde. Tant que vous la portez, tous les coups critiques réussis contre vous se muent en coups normaux.
 
@@ -603,7 +603,7 @@ Cette armure est renforcée à base d'adamantium, l'une des substances les plus 
 
 - AltName: <!--AltName-->Armor, +1, +2, or +3 (SRD p208)<!--/AltName-->
 - Source: <!--Source-->(COC p145)<!--/Source-->
--  <!--Type-->Armure (légère<!--/Type-->, intermédiaire ou lourde), rare (+1), très rare (+2) ou <!--Rarity-->légendaire<!--/Rarity--> (+3)
+-  <!--Type-->Armure (légère, intermédiaire ou lourde)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (+1), <!--Rarity-->très rare<!--/Rarity--> (+2) ou <!--Rarity-->légendaire<!--/Rarity--> (+3)
 
 Vous disposez d'un bonus à la CA tant que vous portez cette armure. Ce bonus dépend de la rareté de l'armure.
 
@@ -615,7 +615,7 @@ Vous disposez d'un bonus à la CA tant que vous portez cette armure. Ce bonus d�
 
 - AltName: <!--AltName-->Wand of Lightning Bolts (SRD p249)<!--/AltName-->
 - Source: <!--Source-->(COC p145)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, rare (harmonisation avec un lanceur de sorts exigée)
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un lanceur de sorts exigée<!--/Attunement-->)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 ou plusieurs charges et lancer le sort de éclair (DD des jets de sauvegarde contre le sort 15) par son biais. Pour 1 charge, vous lancez la version de niveau 3 du sort. Vous pouvez augmenter de un le niveau de l'emplacement du sort pour chaque charge supplémentaire que vous dépensez.
 
@@ -629,7 +629,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 - AltName: <!--AltName-->Wand of Fireballs (SRD p248)<!--/AltName-->
 - Source: <!--Source-->(COC p145)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, rare (harmonisation avec un lanceur de sorts exigée)
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un lanceur de sorts exigée<!--/Attunement-->)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 ou plusieurs charges et lancer le sort de boule de feu (DD des jets de sauvegarde contre le sort 15) par son biais. Pour 1 charge, vous lancez la version de niveau 3 du sort. Vous pouvez augmenter de un le niveau de l'emplacement du sort pour chaque charge supplémentaire que vous dépensez.
 
@@ -643,7 +643,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 - AltName: <!--AltName-->Wand of Enemy Detection (SRD p248)<!--/AltName-->
 - Source: <!--Source-->(COC p145)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action et dépenser 1 charge pour prononcer son mot de commande. Pendant la minute qui suit, vous connaissez la direction (mais pas la distance) de la créature hostile envers vous la plus proche et située à 18 mètres ou moins. La baguette perçoit la présence des créatures hostiles éthérées, invisibles, déguisées ou cachées, en plus de celles exposées à la vue de tous. L'effet prend fin si vous ne tenez plus la baguette en main.
 
@@ -657,7 +657,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 - AltName: <!--AltName-->Wand of Magic Detection (SRD p249)<!--/AltName-->
 - Source: <!--Source-->(COC p145)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, peu courante
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Cette baguette contient 3 charges. Avec cette baguette en main, vous pouvez dépenser 1 charge par une action pour lancer le sort détection de la magie par son biais. La baguette récupère 1d3 charges dépensées chaque jour, à l'aube.
 
@@ -669,7 +669,7 @@ Cette baguette contient 3 charges. Avec cette baguette en main, vous pouvez dép
 
 - AltName: <!--AltName-->Wand of Polymorph (SRD p249)<!--/AltName-->
 - Source: <!--Source-->(COC p145)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, très rare (harmonisation avec un lanceur de sorts exigée)
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un lanceur de sorts exigée<!--/Attunement-->)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et lancer le sort de métamorphose (DD des jets de sauvegarde contre le sort 15) par son biais.
 
@@ -683,7 +683,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 - AltName: <!--AltName-->Wand of Paralysis (SRD p249)<!--/AltName-->
 - Source: <!--Source-->(COC p146)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, rare (harmonisation avec un lanceur de sorts exigée)
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un lanceur de sorts exigée<!--/Attunement-->)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et projeter un fin rayon bleu de l'extrémité de la baguette vers une créature située à 18 mètres ou moins dans votre champ de vision. La cible doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas être paralysée pendant 1 minute. À la fin de chacun des tours de la cible, elle peut retenter le jet de sauvegarde et mettre fin à l'effet dont elle est victime en cas de réussite.
 
@@ -697,7 +697,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 - AltName: <!--AltName-->Wand of Magic Missiles (SRD p249)<!--/AltName-->
 - Source: <!--Source-->(COC p146)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, peu courante
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 ou plusieurs charges et lancer le sort de projectile magique par son biais. Pour 1 charge, vous lancez la version de niveau 1 de ce sort. Vous pouvez augmenter de un le niveau de l'emplacement du sort pour chaque charge supplémentaire que vous dépensez.
 
@@ -711,7 +711,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 - AltName: <!--AltName-->Wand of Fear (SRD p248)<!--/AltName-->
 - Source: <!--Source-->(COC p146)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes. Elle récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. Sur un 1, elle est détruite et tombe en cendres.
 
@@ -727,7 +727,7 @@ Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes.
 
 - AltName: <!--AltName-->Wand of Binding (SRD p248)<!--/AltName-->
 - Source: <!--Source-->(COC p146)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, rare (harmonisation avec un lanceur de sorts exigée)
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un lanceur de sorts exigée<!--/Attunement-->)
 
 Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes. Elle récupère 1d6+1 charges dépensées chaque jour, à l'aube. Si vous dépensez sa dernière charge, lancez un d20. Sur un 1, la baguette est détruite et tombe en cendres.
 
@@ -743,7 +743,7 @@ Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes.
 
 - AltName: <!--AltName-->Wand of Secrets (SRD p249)<!--/AltName-->
 - Source: <!--Source-->(COC p147)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, peu courante
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et, si une porte secrète ou un piège est présent à 9 mètres ou moins de vous, la baguette se met à pulser et pointe dans la direction du plus proche de vous. La baguette récupère 1d3 charges dépensées chaque jour, à l'aube.
 
@@ -755,7 +755,7 @@ Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de
 
 - AltName: <!--AltName-->Wand of the War Mage, +1, +2, or +3 (SRD p249)<!--/AltName-->
 - Source: <!--Source-->(COC p147)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, peu courant (+1), rare (+2) ou très rare (+3) (harmonisation avec un lanceur de sorts exigée)
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (+1), <!--Rarity-->rare<!--/Rarity--> (+2) ou très rare (+3) (<!--Attunement-->harmonisation avec un lanceur de sorts exigée<!--/Attunement-->)
 
 Avec cette baguette en main, vous bénéficiez d'un bonus aux jets d'attaque des sorts déterminé par la rareté de la baguette. En outre, vous ignorez les abris partiels lorsque vous effectuez une attaque de sort.
 
@@ -767,7 +767,7 @@ Avec cette baguette en main, vous bénéficiez d'un bonus aux jets d'attaque des
 
 - AltName: <!--AltName-->Wand of Web (SRD p249)<!--/AltName-->
 - Source: <!--Source-->(COC p147)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, peu courante (harmonisation avec un lanceur de sorts exigée)
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity--> (<!--Attunement-->harmonisation avec un lanceur de sorts exigée<!--/Attunement-->)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et lancer le sort toile d'araignée (DD des jets de sauvegarde contre le sort 15) par son biais.
 
@@ -781,7 +781,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 - AltName: <!--AltName-->Wand of Wonder (SRD p249)<!--/AltName-->
 - Source: <!--Source-->(COC p147)<!--/Source-->
--  <!--Type-->Baguette<!--/Type-->, rare (harmonisation avec un lanceur de sorts exigée)
+-  <!--Type-->Baguette<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un lanceur de sorts exigée<!--/Attunement-->)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et choisir une cible à 36 mètres ou moins de vous. La cible peut être une créature, un objet ou un point dans l'espace. Lancez un d100 et consultez la table suivante pour découvrir ce qu'il se passe.
 
@@ -824,7 +824,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 - AltName: <!--AltName-->Broom of Flying (SRD p213)<!--/AltName-->
 - Source: <!--Source-->(COC p148)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Ce balai de bois pèse 1,5 kilo et fonctionne comme un balai ordinaire, à moins que vous ne vous mettiez à califourchon dessus et prononciez son mot de commande. Il se met alors à flotter et vous pouvez le chevaucher pour vous déplacer dans les airs. Il dispose d'une vitesse de vol de 15 mètres et porte jusqu'à 200 kilos, mais sa vitesse se réduit à 9 mètres si la charge dépasse les 100 kilos. Le balai cesse de flotter dès que vous atterrissez.
 
@@ -838,7 +838,7 @@ Vous pouvez envoyer le balai rejoindre seul une destination située dans un rayo
 
 - AltName: <!--AltName-->Headband of Intellect (SRD p225)<!--/AltName-->
 - Source: <!--Source-->(COC p148)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ce bandeau, votre Intelligence passe à 19. Si elle est déjà de 19 ou plus, il n'a aucun effet sur vous.
 
@@ -850,7 +850,7 @@ Tant que vous portez ce bandeau, votre Intelligence passe à 19. Si elle est dé
 
 - AltName: <!--AltName-->Folding Boat (SRD p223)<!--/AltName-->
 - Source: <!--Source-->(COC p148)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Cet objet ressemble à une boîte en bois de 30 centimètres de long pour 15 de large et 15 de profondeur. Il pèse 2 kilos et flotte. On peut l'ouvrir pour stocker des objets à l'intérieur. Il répond à trois mots de commande, chacun nécessitant une action.
 
@@ -870,7 +870,7 @@ Le troisième mot de commande replie le bateau qui redevient une boîte, à cond
 
 - AltName: <!--AltName-->Staff of Charming (SRD p243)<!--/AltName-->
 - Source: <!--Source-->(COC p148)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, rare (harmonisation avec un barde, un clerc, un druide, un ensorceleur, un magicien ou un sorcier exigée)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un barde, un clerc, un druide, un ensorceleur, un magicien ou un sorcier exigée<!--/Attunement-->)
 
 Tant que vous tenez ce bâton en main, vous pouvez utiliser une action pour dépenser 1 des 10 charges qu'il contient et lancer charme-personne, ordre ou compréhension des langages par son biais en appliquant le DD des jets de sauvegarde contre vos sorts. On peut également manier ce bâton comme une arme magique.
 
@@ -886,7 +886,7 @@ Le bâton récupère 1d8+2 charges dépensées chaque jour, à l'aube. Si vous d
 
 - AltName: <!--AltName-->Staff of Striking (SRD p244)<!--/AltName-->
 - Source: <!--Source-->(COC p149)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +3 à l'attaque et aux jets de dégâts effectués par son biais.
 
@@ -900,7 +900,7 @@ Le bâton contient 10 charges. Quand vous réussissez une attaque au corps à co
 
 - AltName: <!--AltName-->Staff of Fire (SRD p243)<!--/AltName-->
 - Source: <!--Source-->(COC p149)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée<!--/Attunement-->)
 
 Vous bénéficiez d'une résistance contre les dégâts de feu tant que vous tenez ce bâton en main.
 
@@ -916,7 +916,7 @@ Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous d
 
 - AltName: <!--AltName-->Staff of Withering (SRD p246)<!--/AltName-->
 - Source: <!--Source-->(COC p149)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, rare (harmonisation avec un druide, un clerc ou un sorcier exigée)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un druide, un clerc ou un sorcier exigée<!--/Attunement-->)
 
 Ce bâton contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube.
 
@@ -930,7 +930,7 @@ Le bâton peut être manié comme une arme magique. En cas d'attaque réussie, i
 
 - AltName: <!--AltName-->Staff of Healing (SRD p243)<!--/AltName-->
 - Source: <!--Source-->(COC p149)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, rare (harmonisation avec un barde, un clerc ou un druide exigée)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un barde, un clerc ou un druide exigée<!--/Attunement-->)
 
 Le bâton contient 10 charges. Tant que vous le tenez en main, vous pouvez utiliser une action pour dépenser 1 ou plusieurs de ses charges et lancer un des sorts suivants par son biais, en appliquant le DD des jets de sauvegarde contre vos sorts et le modificateur de votre caractéristique d'incantation : soin des blessures (1 charge par niveau de sort, 4e au maximum), restauration inférieure (2 charges) ou soin des blessures de groupe (5 charges).
 
@@ -944,7 +944,7 @@ Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous d
 
 - AltName: <!--AltName-->Staff of Frost (SRD p243)<!--/AltName-->
 - Source: <!--Source-->(COC p149)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée) 
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée<!--/Attunement-->) 
 
 Vous bénéficiez d'une résistance contre les dégâts de froid tant que vous tenez ce bâton en main.
 
@@ -960,7 +960,7 @@ Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous d
 
 - AltName: <!--AltName-->Staff of Power (SRD p243)<!--/AltName-->
 - Source: <!--Source-->(COC p149)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, très rare (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un ensorceleur, un magicien ou un sorcier exigée<!--/Attunement-->)
 
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 à l'attaque et aux jets de dégâts effectués par son biais. Tant que vous le tenez en main, vous bénéficiez d'un bonus de +2 à la Classe d'Armure, aux jets de sauvegarde et aux jets d'attaque des sorts.
 
@@ -988,7 +988,7 @@ Il y a 50 % de chances pour que vous soyez instantanément transporté vers un p
 
 - AltName: <!--AltName-->Staff of Thunder and Lightning (SRD p245)<!--/AltName-->
 - Source: <!--Source-->(COC p150)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 à l'attaque et aux jets de dégâts effectués par son biais. Il possède également les propriétés supplémentaires suivantes. Quand une de ces propriétés est utilisée, il faut attendre l'aube suivante avant de pouvoir l'utiliser à nouveau.
 
@@ -1010,7 +1010,7 @@ Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 �
 
 - AltName: <!--AltName-->Staff of the Woodlands (SRD p245)<!--/AltName-->
 - Source: <!--Source-->(COC p150)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, rare (harmonisation avec un druide exigée)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation avec un druide exigée<!--/Attunement-->)
 
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 à l'attaque et aux jets de dégâts effectués par son biais. Tant que vous le tenez en main, vous bénéficiez d'un bonus de +2 aux jets d'attaque des sorts.
 
@@ -1030,7 +1030,7 @@ Vous pouvez également utiliser une action pour lancer le sort passage sans trac
 
 - AltName: <!--AltName-->Staff of Swarming Insects (SRD p244)<!--/AltName-->
 - Source: <!--Source-->(COC p150)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce bâton contient 10 charges. Il récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un d20. Sur un résultat de 1, un nuée d'insectes dévore et détruit le bâton, puis se disperse.
 
@@ -1046,7 +1046,7 @@ Ce bâton contient 10 charges. Il récupère 1d6+4 charges dépensées chaque jo
 
 - AltName: <!--AltName-->Staff of the Python (SRD p245)<!--/AltName-->
 - Source: <!--Source-->(COC p151)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, peu courant (harmonisation avec un clerc, druide ou un sorcier exigée)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation avec un clerc, druide ou un sorcier exigée<!--/Attunement-->)
 
 Vous pouvez utiliser une action pour prononcer le mot de commande de ce bâton et le lancer par terre, à 3 mètres ou moins de vous. Le bâton se transforme alors en serpent constricteur géant. Il agit lors de son propre décompte d'initiative mais reste sous votre contrôle. En utilisant une action bonus pour prononcer une nouvelle fois le mot de commande, le bâton reprend sa forme normale dans le dernier espace occupé lorsqu'il était serpent.
 
@@ -1062,7 +1062,7 @@ Si le nombre de points de vie du serpent tombe à 0, il meurt et reprend sa form
 
 - AltName: <!--AltName-->Staff of the Magi (SRD p244)<!--/AltName-->
 - Source: <!--Source-->(COC p151)<!--/Source-->
--  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
+-  <!--Type-->Bâton<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation avec un ensorceleur, un magicien ou un sorcier exigée<!--/Attunement-->)
 
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +3 à l'attaque et aux jets de dégâts effectués par son biais. Tant que vous le tenez en main, vous bénéficiez d'un bonus de +2 aux jets d'attaque des sorts.
 
@@ -1092,7 +1092,7 @@ Il y a 50 % de chances pour que vous soyez instantanément transporté vers un p
 
 - AltName: <!--AltName-->Restorative Ointment (SRD p235)<!--/AltName-->
 - Source: <!--Source-->(COC p152)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Ce pot en verre de 7 à 8 centimètres de diamètre contient 1d4+1 doses d'une mixture épaisse qui sent légèrement l'aloès. Le pot et son contenu pèsent un total de 250 grammes.
 
@@ -1106,7 +1106,7 @@ Par une action, il est possible d'avaler ou d'appliquer sur la peau une dose de 
 
 - AltName: <!--AltName-->Bowl of Commanding Water Elementals (SRD p212)<!--/AltName-->
 - Source: <!--Source-->(COC p152)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Tant que ce bol est rempli d'eau, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire de l'eau, comme si vous aviez lancé le sort invocation d'élémentaires. Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi le bol.
 
@@ -1120,7 +1120,7 @@ Le bol fait une trentaine de centimètres de diamètre pour quinze centimètres 
 
 - AltName: <!--AltName-->Winged Boots (SRD p251)<!--/AltName-->
 - Source: <!--Source-->(COC p152)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ces bottes aux pieds, vous disposez d'une vitesse de déplacement en vol égale à votre vitesse au sol. Vous pouvez utiliser les bottes pour voler pendant un maximum de 4 heures d'affilée ou lors de vols plus courts. Toutefois, chaque utilisation dépense au minimum 1 minute de cette durée. Si vous volez au moment où cette durée prend fin, vous descendez à une vitesse de 9 mètres par round jusqu'à toucher le sol.
 
@@ -1134,7 +1134,7 @@ Les bottes récupèrent 2 heures de capacité de vol pour chaque période de 12 
 
 - AltName: <!--AltName-->Boots of Levitation (SRD p212)<!--/AltName-->
 - Source: <!--Source-->(COC p152)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ces bottes, vous pouvez utiliser une action pour lancer le sort lévitation sur votre personne à volonté.
 
@@ -1146,7 +1146,7 @@ Tant que vous portez ces bottes, vous pouvez utiliser une action pour lancer le 
 
 - AltName: <!--AltName-->Boots of Striding and Springing (SRD p212)<!--/AltName-->
 - Source: <!--Source-->(COC p152)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ces bottes, votre vitesse au sol passe à 9 mètres (à moins qu'elle ne soit déjà supérieure) et elle ne se réduit pas si vous êtes encombré ou portez une armure lourde. De plus, vous pouvez sauter trois fois plus loin que la normale, sans dépasser la distance que vous pourriez parcourir avec la distance de déplacement qui vous reste.
 
@@ -1158,7 +1158,7 @@ Tant que vous portez ces bottes, votre vitesse au sol passe à 9 mètres (à moi
 
 - AltName: <!--AltName-->Boots of Speed (SRD p212)<!--/AltName-->
 - Source: <!--Source-->(COC p152)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ces bottes, vous pouvez utiliser une action bonus pour claquer des talons. Dans ce cas, les bottes doublent votre vitesse au sol et toute créature effectuant une attaque d'opportunité contre vous subit un désavantage lors du jet d'attaque. Vous mettez un terme à l'effet si vous claquez de nouveau des talons.
 
@@ -1172,7 +1172,7 @@ Une fois que la capacité spéciale des bottes a servi pendant un total de 10 mi
 
 - AltName: <!--AltName-->Boots of the Winterlands (SRD p212)<!--/AltName-->
 - Source: <!--Source-->(COC p153)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ces bottes fourrées sont chaudes et bien douillettes. Tant que vous les portez, vous bénéficiez des avantages suivants.
 
@@ -1188,7 +1188,7 @@ Ces bottes fourrées sont chaudes et bien douillettes. Tant que vous les portez,
 
 - AltName: <!--AltName-->Boots of Elvenkind (SRD p212)<!--/AltName-->
 - Source: <!--Source-->(COC p153)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Tant que vous portez ces bottes, vos pas ne s'accompagnent d'aucun bruit, quelle que soit la surface que vous traversez. Vous obtenez également l'avantage lors des tests de Dextérité (Discrétion) basés sur le silence de vos déplacements.
 
@@ -1200,7 +1200,7 @@ Tant que vous portez ces bottes, vos pas ne s'accompagnent d'aucun bruit, quelle
 
 - AltName: <!--AltName-->Animated Shield (SRD p208)<!--/AltName-->
 - Source: <!--Source-->(COC p153)<!--/Source-->
--  <!--Type-->Armure (bouclier)<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Armure (bouclier)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous maniez ce bouclier, vous pouvez prononcer son mot de commande par une action bonus. Il s'anime alors, bondit dans les airs et flotte dans votre emplacement pour vous protéger comme si vous le teniez alors que vous gardez les mains libres. Il reste animé pendant 1 minute, jusqu'à ce que vous utilisiez une action bonus pour mettre un terme à l'effet ou jusqu'à ce que vous soyez neutralisé ou mort. Il tombe alors à terre ou revient dans votre main si vous avez une main libre.
 
@@ -1212,7 +1212,7 @@ Tant que vous maniez ce bouclier, vous pouvez prononcer son mot de commande par 
 
 - AltName: <!--AltName-->Arrow-Catching Shield (SRD p209)<!--/AltName-->
 - Source: <!--Source-->(COC p153)<!--/Source-->
--  <!--Type-->Armure (bouclier)<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Armure (bouclier)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous maniez ce bouclier, vous bénéficiez d'un bonus de +2 à la CA contre les attaques à distance. Ce bonus s'ajoute au bonus que le bouclier apporte déjà d'ordinaire à la CA. De plus, quand un assaillant effectue une attaque à distance contre une cible située à 1,50 mètre de vous ou moins, vous pouvez utiliser votre réaction pour devenir la cible de cette attaque à sa place.
 
@@ -1224,7 +1224,7 @@ Tant que vous maniez ce bouclier, vous bénéficiez d'un bonus de +2 à la CA co
 
 - AltName: <!--AltName-->Shield of Missile Attraction (SRD p242)<!--/AltName-->
 - Source: <!--Source-->(COC p153)<!--/Source-->
--  <!--Type-->Armure (bouclier)<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Armure (bouclier)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous tenez ce bouclier, vous bénéficiez d'une résistance contre les dégâts infligés par les attaques d'armes à distance.
 
@@ -1238,7 +1238,7 @@ Tant que vous tenez ce bouclier, vous bénéficiez d'une résistance contre les 
 
 - AltName: <!--AltName-->Spellguard Shield (SRD p242)<!--/AltName-->
 - Source: <!--Source-->(COC p153)<!--/Source-->
--  <!--Type-->Armure (bouclier)<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Armure (bouclier)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous tenez ce bouclier, vous vous obtenez l'avantage lors des jets de sauvegarde contre les sorts et autres effets magiques. De plus, les attaques de sort subissent un désavantage lorsqu'elles vous prennent pour cible.
 
@@ -1250,7 +1250,7 @@ Tant que vous tenez ce bouclier, vous vous obtenez l'avantage lors des jets de s
 
 - AltName: <!--AltName-->Shield, +1, +2, or +3 (SRD p242)<!--/AltName-->
 - Source: <!--Source-->(COC p153)<!--/Source-->
--  <!--Type-->Armure (bouclier)<!--/Type-->, peu courant (+1), rare (+2) ou très rare (+3)
+-  <!--Type-->Armure (bouclier)<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (+1), <!--Rarity-->rare<!--/Rarity--> (+2) ou très rare (+3)
 
 Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus à la CA qui dépend de la rareté du bouclier. Ce bonus vient en plus du bonus normal à la CA que le bouclier confère.
 
@@ -1262,7 +1262,7 @@ Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus à la CA qui dépe
 
 - AltName: <!--AltName-->Crystal Ball (SRD p214)<!--/AltName-->
 - Source: <!--Source-->(COC p153)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare ou <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> ou <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 La boule de cristal la plus courante est un objet très rare d'une quinzaine de centimètres de diamètre. Vous pouvez lancer le sort scrutation (DD 17) par son intermédiaire.
 
@@ -1282,7 +1282,7 @@ Voici des variantes de ce grand classique qui possèdent des propriétés suppl�
 
 - AltName: <!--AltName-->Efreeti Bottle (SRD p220)<!--/AltName-->
 - Source: <!--Source-->(COC p154)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Cette bouteille en laiton est ornée de peintures et pèse 0,5 kilo. Si vous utilisez une action pour la déboucher, un épais nuage de fumée s'en échappe. La fumée se dissipe à la fin de votre tour dans un éclair de feu inoffensif et un éfrit apparaît dans un emplacement inoccupé dans un rayon de 9 mètres autour de vous.
 
@@ -1302,7 +1302,7 @@ Le MJ lance un dé dans la table suivante quand quelqu'un ouvre la bouteille pou
 
 - AltName: <!--AltName-->Eversmoking Bottle (SRD p220)<!--/AltName-->
 - Source: <!--Source-->(COC p154)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 De la fumée s'échappe du goulot de cette bouteille pourtant scellée au plomb et pesant 0,5 kilo. Quand vous utilisez une action pour la déboucher, un épais nuage de fumée se déverse dans un rayon de 18 mètres autour de la bouteille. La visibilité est nulle dans le nuage. À chaque fois que la bouteille passe une minute ouverte au sein du nuage, le rayon de ce dernier augmente de 3 mètres, jusqu'à ce qu'il atteigne son rayon maximum, à savoir 36 mètres.
 
@@ -1316,7 +1316,7 @@ Le nuage persiste tant que la bouteille est ouverte. Pour la fermer, vous devez 
 
 - AltName: <!--AltName-->Bracers of Archery (SRD p212)<!--/AltName-->
 - Source: <!--Source-->(COC p154)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ces bracelets, vous maîtrisez l'arc long et l'arc court et gagnez un bonus de +2 aux jets de dégâts des attaques à distance avec ces armes.
 
@@ -1328,7 +1328,7 @@ Tant que vous portez ces bracelets, vous maîtrisez l'arc long et l'arc court et
 
 - AltName: <!--AltName-->Bracers of Defense (SRD p212)<!--/AltName-->
 - Source: <!--Source-->(COC p154)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ces bracelets, vous gagnez un bonus de +2 à la CA, à condition que vous ne portiez ni armure, ni bouclier.
 
@@ -1340,7 +1340,7 @@ Tant que vous portez ces bracelets, vous gagnez un bonus de +2 à la CA, à cond
 
 - AltName: <!--AltName-->Brazier of Commanding Fire Elementals (SRD p212)<!--/AltName-->
 - Source: <!--Source-->(COC p154)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Tant qu'un feu brûle dans ce brasero en laiton, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire du feu, comme si vous aviez lancé le sort invocation d'élémentaires. Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi le brasero.
 
@@ -1354,7 +1354,7 @@ Le brasero pèse 2,5 kilos.
 
 - AltName: <!--AltName-->Brooch of Shielding (SRD p212)<!--/AltName-->
 - Source: <!--Source-->(COC p154)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette broche, vous êtes résistant aux dégâts de force et vous êtes immunisé contre les dégâts du sort de projectile magique.
 
@@ -1366,7 +1366,7 @@ Tant que vous portez cette broche, vous êtes résistant aux dégâts de force e
 
 - AltName: <!--AltName-->Cloak of Displacement (SRD p214)<!--/AltName-->
 - Source: <!--Source-->(COC p154)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Quand vous enfilez cette cape, elle projette une illusion donnant l'impression que vous vous tenez non loin de votre position réelle. Les créatures qui vous attaquent subissent donc un désavantage lors de leur jet d'attaque contre vous. Si vous subissez des dégâts, cette propriété cesse de fonctionner jusqu'au début de votre prochain tour. Elle ne fonctionne pas non plus si vous êtes neutralisé, entravé ou incapable de bouger.
 
@@ -1378,7 +1378,7 @@ Quand vous enfilez cette cape, elle projette une illusion donnant l'impression q
 
 - AltName: <!--AltName-->Cloak of Arachnida (SRD p214)<!--/AltName-->
 - Source: <!--Source-->(COC p154)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce bel habit est fait de soie noire mêlée de discrets filaments d'argent. Tant que vous le portez, vous bénéficiez des avantages suivants.
 
@@ -1396,7 +1396,7 @@ Ce bel habit est fait de soie noire mêlée de discrets filaments d'argent. Tant
 
 - AltName: <!--AltName-->Cloak of the Bat (SRD p214)<!--/AltName-->
 - Source: <!--Source-->(COC p155)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette cape, vous obtenez l'avantage lors des tests de Dextérité (Discrétion). Dans les zones de faible lumière ou de ténèbres, vous pouvez attraper les bords de la cape à pleine main et vous en servir pour voler à une vitesse de 12 mètres. Si vous ne tenez plus les bords de la cape alors que vous volez ainsi ou si vous n'êtes plus dans une zone de faible lumière ou de ténèbres, vous perdez cette vitesse de vol.
 
@@ -1410,7 +1410,7 @@ Tant que vous portez la cape dans une zone de faible lumière ou de ténèbres, 
 
 - AltName: <!--AltName-->Cloak of the Manta Ray (SRD p214)<!--/AltName-->
 - Source: <!--Source-->(COC p155)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Tant que vous portez cette cape avec le capuchon tiré, vous pouvez respirer sous l'eau et vous bénéficiez d'une vitesse de nage de 18 mètres. Il faut dépenser une action pour coiffer le capuchon ou le repousser.
 
@@ -1422,7 +1422,7 @@ Tant que vous portez cette cape avec le capuchon tiré, vous pouvez respirer sou
 
 - AltName: <!--AltName-->Cape of the Mountebank (SRD p213)<!--/AltName-->
 - Source: <!--Source-->(COC p155)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Cette cape sent légèrement le soufre. Tant que vous la portez, vous pouvez l'utiliser pour lancer le sort porte dimensionnelle par une action. Vous devez attendre l'aube suivante pour réutiliser ce pouvoir.
 
@@ -1436,7 +1436,7 @@ Quand vous disparaissez, vous laissez un nuage de fumée derrière vous et appar
 
 - AltName: <!--AltName-->Cloak of Protection (SRD p214)<!--/AltName-->
 - Source: <!--Source-->(COC p155)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous gagnez un bonus de +1 à la CA et aux jets de sauvegarde tant que vous portez cette cape.
 
@@ -1448,7 +1448,7 @@ Vous gagnez un bonus de +1 à la CA et aux jets de sauvegarde tant que vous port
 
 - AltName: <!--AltName-->Cloak of Elvenkind (SRD p214)<!--/AltName-->
 - Source: <!--Source-->(COC p155)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette cape avec le capuchon tiré, les créatures qui tentent un test de Sagesse (Perception) pour vous voir subissent un désavantage, tandis que vous obtenez l'avantage sur les tests de Dextérité (Discrétion) effectués pour vous cacher, car les teintes de la cape se modifient pour vous camoufler au mieux. Il faut une action pour tirer ou rabattre la capuche.
 
@@ -1460,7 +1460,7 @@ Tant que vous portez cette cape avec le capuchon tiré, les créatures qui tente
 
 - AltName: <!--AltName-->Decanter of Endless Water (SRD p216)<!--/AltName-->
 - Source: <!--Source-->(COC p155)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Cette carafe coiffée d'un couvercle fait un bruit de liquide quand on la secoue, comme si elle contenait de l'eau. Elle pèse 1 kilo.
 
@@ -1478,7 +1478,7 @@ Vous pouvez dépenser une action pour enlever le couvercle et prononcer l'un des
 
 - AltName: <!--AltName-->Chime of Opening (SRD p213)<!--/AltName-->
 - Source: <!--Source-->(COC p156)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Ce tube métallique creux mesure une trentaine de centimètres de long pour 0,5 kilo. Vous pouvez utiliser une action pour le faire tinter et le pointer sur un objet que l'on peut ouvrir et qui se situe dans un rayon de 36 mètres, comme une porte, un couvercle ou un verrou. Le carillon émet un son clair et l'une des serrures ou l'un des verrous qui fermait l'objet s'ouvre soudain, à moins que le son ne puisse pas atteindre l'objet. S'il n'y a plus ni verrou ni serrure, l'objet s'ouvre.
 
@@ -1492,7 +1492,7 @@ Le carillon dispose de dix utilisations. Il se fissure après la dixième et ne 
 
 - AltName: <!--AltName-->Efficient Quiver (SRD p220)<!--/AltName-->
 - Source: <!--Source-->(COC p156)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Ce carquois dispose de trois compartiments, chacun étant relié à un espace extradimensionnel qui lui permet de contenir de nombreux objets sans jamais peser plus de 1 kilo. Le compartiment le plus court peut accueillir jusqu'à soixante flèches, carreaux ou objets similaires. Le compartiment de taille intermédiaire peut recevoir jusqu'à dix-huit javelines ou objets similaires et le plus long peut contenir six objets tout en longueur, comme des arcs, des bâtons ou des lances.
 
@@ -1506,7 +1506,7 @@ Vous pouvez tirer ces objets du carquois comme vous le feriez avec un carquois o
 
 - AltName: <!--AltName-->Deck of Illusions (SRD p216)<!--/AltName-->
 - Source: <!--Source-->(COC p156)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Cette boîte contient un jeu de cartes faites de parchemin. Le jeu complet compte 34 cartes mais, quand on trouve un jeu, il lui manque souvent 1d20 - 1 cartes.
 
@@ -1648,7 +1648,7 @@ Une fois une carte piochée, elle disparaît, mais à moins qu'il ne s'agisse du
 
 - AltName: <!--AltName-->Belt of Giant Strength (SRD p211)<!--/AltName-->
 - Source: <!--Source-->(COC p158)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rareté variable (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rareté variable<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ce ceinturon, votre valeur de Force se modifie en fonction des capacités de la ceinture. Si votre Force est déjà égale ou supérieure à celle qu'offre le ceinturon, ce dernier n'a aucun effet sur vous.
 
@@ -1670,7 +1670,7 @@ Il existe six modèles de ceinturon qui correspondent aux six espèces de géant
 
 - AltName: <!--AltName-->Belt of Dwarvenkind (SRD p211)<!--/AltName-->
 - Source: <!--Source-->(COC p159)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ce ceinturon, vous bénéficiez des avantages suivants :
 
@@ -1696,7 +1696,7 @@ Vous parlez, lisez et écrivez le nain.
 
 - AltName: <!--AltName-->Hat of Disguise (SRD p225)<!--/AltName-->
 - Source: <!--Source-->(COC p159)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ce chapeau, vous pouvez lancer déguisement sur vous par son intermédiaire, et ce à volonté. Le sort se termine si vous enlevez le chapeau.
 
@@ -1708,7 +1708,7 @@ Tant que vous portez ce chapeau, vous pouvez lancer déguisement sur vous par so
 
 - AltName: <!--AltName-->Necklace of Prayer Beads (SRD p231)<!--/AltName-->
 - Source: <!--Source-->(COC p159)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise par un clerc, un druide ou un paladin)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise par un clerc, un druide ou un paladin<!--/Attunement-->)
 
 Ce chapelet se présente sous forme de collier et comporte 1d4+2 grains magiques faits d'aigues-marines, de perles noires ou de topazes. Il possède aussi de nombreux grains ordinaires taillés dans de l'ambre, de l'héliotrope, de la citrine, du corail, du jade, des perles ou du quartz. Si on retire un grain magique du chapelet, il perd sa magie.
 
@@ -1731,7 +1731,7 @@ Il existe six types de grains magiques. C'est au MJ de décider du type de chaqu
 
 - AltName: <!--AltName-->Slippers of Spider Climbing (SRD p242)<!--/AltName-->
 - Source: <!--Source-->(COC p159)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ces souliers légers aux pieds, vous pouvez vous déplacer vers le haut, le bas et le long de surfaces verticales, ou la tête en bas le long de plafonds, tout en gardant les mains libres. Vous disposez d'une vitesse d'escalade égale à votre vitesse au sol. Les chaussons ne permettent toutefois pas de se déplacer de cette façon sur des surfaces glissantes, si elles sont recouvertes de glace ou d'huile, par exemple.
 
@@ -1743,7 +1743,7 @@ Tant que vous portez ces souliers légers aux pieds, vous pouvez vous déplacer 
 
 - AltName: <!--AltName-->Elven Chain (SRD p220)<!--/AltName-->
 - Source: <!--Source-->(COC p160)<!--/Source-->
--  <!--Type-->Armure (chemise de mailles)<!--/Type-->, rare
+-  <!--Type-->Armure (chemise de mailles)<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Vous gagnez un bonus de +1 à la CA tant que vous portez cette armure. Vous êtes considéré comme maîtrisant le port de cette armure, même si vous ne maîtrisez pas les armures intermédiaires.
 
@@ -1755,7 +1755,7 @@ Vous gagnez un bonus de +1 à la CA tant que vous portez cette armure. Vous ête
 
 - AltName: <!--AltName-->Candle of Invocation (SRD p213)<!--/AltName-->
 - Source: <!--Source-->(COC p160)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce mince cierge est dédié à une divinité précise et partage son alignement. On peut détecter ce dernier avec le sort détection du mal et du bien. C'est au MJ de choisir le dieu et l'alignement associé ou de les déterminer au hasard.
 
@@ -1785,7 +1785,7 @@ Sinon, vous pouvez lancer le sort portail avec le cierge quand vous l'allumez po
 
 - AltName: <!--AltName-->Scimitar of Speed (SRD p241)<!--/AltName-->
 - Source: <!--Source-->(COC p160)<!--/Source-->
--  <!--Type-->Arme (cimeterre)<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Arme (cimeterre)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous bénéficiez d'un bonus de +2 aux jets d'attaque et de dégâts effectués avec cette arme magique. De plus, vous pouvez effectuer une attaque avec elle par une action bonus lors de chacun de vos tours.
 
@@ -1811,7 +1811,7 @@ Cette substance visqueuse et aussi blanche que le lait peut coller deux objets d
 
 - AltName: <!--AltName-->Necklace of Adaptation (SRD p231)<!--/AltName-->
 - Source: <!--Source-->(COC p160)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ce collier, vous pouvez respirer normalement quel que soit l'environnement dans lequel vous vous trouvez, et vous obtenez l'avantage lors des jets de sauvegarde contre les gaz et vapeurs toxiques (comme un nuage mortel ou un nuage puant, un poison par inhalation ou le souffle de certains dragons).
 
@@ -1823,7 +1823,7 @@ Tant que vous portez ce collier, vous pouvez respirer normalement quel que soit 
 
 - AltName: <!--AltName-->Necklace of Fireballs (SRD p231)<!--/AltName-->
 - Source: <!--Source-->(COC p160)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Ce collier possède 1d6+3 perles. Vous pouvez utiliser une action pour détacher une perle et la lancer sur une distance maximale de 18 mètres. Quand elle arrive au bout de sa trajectoire, elle explose comme le sort boule de feu de niveau 3 (DD 15).
 
@@ -1837,7 +1837,7 @@ Vous pouvez lancer plusieurs perles, ou même tout le collier, en une seule acti
 
 - AltName: <!--AltName-->Horn of Blasting (SRD p226)<!--/AltName-->
 - Source: <!--Source-->(COC p160)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Vous pouvez utiliser votre action pour prononcer le mot de commande du cor puis souffler dedans. Il émet un fracas de tonnerre dans un cône de 9 mètres de long, qui s'entend jusqu'à 180 mètres de distance. Chaque créature présente dans le cône doit faire un jet de sauvegarde de Constitution DD 15. Celles qui échouent subissent 5d6 dégâts de tonnerre et sont sourdes pendant 1 minute, les autres reçoivent moitié moins de dégâts et ne sont pas sourdes. Les créatures et les objets faits de verre ou de cristal subissent un désavantage sur le jet de sauvegarde et subissent 10d6 dégâts de tonnerre au lieu de 5d6.
 
@@ -1851,7 +1851,7 @@ Vous pouvez utiliser votre action pour prononcer le mot de commande du cor puis 
 
 - AltName: <!--AltName-->Horn of Valhalla (SRD p226)<!--/AltName-->
 - Source: <!--Source-->(COC p161)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (argent ou cuivre), très rare (bronze) ou <!--Rarity-->légendaire<!--/Rarity--> (fer)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (argent ou cuivre), <!--Rarity-->très rare<!--/Rarity--> (bronze) ou <!--Rarity-->légendaire<!--/Rarity--> (fer)
 
 Si vous utilisez une action pour souffler dans ce cor, des esprits guerriers du Valhalla apparaissent dans un rayon de 18 mètres autour de vous. Ils utilisent les statistiques d'un berserker et retournent au Valhalla au bout d'une heure ou dès qu'ils tombent à 0 point de vie. Une fois que vous avez utilisé la corne, vous ne pouvez plus vous en servir pendant 7 jours.
 
@@ -1874,7 +1874,7 @@ Si vous soufflez dans le cor alors que vous ne remplissez pas les conditions req
 
 - AltName: <!--AltName-->Rope of Entanglement (SRD p241)<!--/AltName-->
 - Source: <!--Source-->(COC p161)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Cette corde fait 9 mètres de long pèse 1,5 kilo. Si vous tenez en main une extrémité de la corde et utilisez une action pour prononcer son mot de commande, l'autre extrémité se jette sur une créature située à 6 mètres ou moins de vous dans votre champ de vision pour l'enchevêtrer. La cible doit réussir un jet de sauvegarde de Dextérité DD 15 pour ne pas se retrouver entravée.
 
@@ -1890,7 +1890,7 @@ La corde possède une CA de 20 et 20 points de vie. Elle récupère 1 point de v
 
 - AltName: <!--AltName-->Rope of Climbing (SRD p241)<!--/AltName-->
 - Source: <!--Source-->(COC p161)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Cette corde en soie de 18 mètres de long pèse 1,5 kilo et peut soutenir un maximum de 1 500 kilos. La corde s'anime si vous tenez en main une extrémité et utilisez une action pour prononcer le mot de commande. Pour une action bonus, vous pouvez ordonner à l'autre extrémité de se déplacer vers la destination de votre choix. Cette extrémité se déplace de 3 mètres lors du tour où vous lui avez donné l'ordre et de 3 mètres lors de chacun de vos tours, jusqu'à ce qu'elle atteigne sa destination, que sa longueur maximale soit atteinte ou que vous lui ordonniez de s'arrêter. Vous pouvez également ordonner à la corde de s'attacher fermement à un objet ou de s'en détacher, de se nouer ou se dénouer, ou de s'enrouler pour faciliter son transport.
 
@@ -1906,7 +1906,7 @@ La corde possède une CA de 20 et 20 points de vie. Elle récupère 1 point de v
 
 - AltName: <!--AltName-->Cube of Force (SRD p215)<!--/AltName-->
 - Source: <!--Source-->(COC p161)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce cube fait 2,5 centimètres d'arête. Chaque face est dotée d'une marque distinctive sur laquelle on peut appuyer. Le cube a 36 charges au départ et, chaque matin à l'aube, il récupère 1d20 charges dépensées.
 
@@ -1943,7 +1943,7 @@ Le cube perd des charges quand la barrière est la cible de certains sorts ou en
 
 - AltName: <!--AltName-->Glamoured Studded Leather (SRD p224)<!--/AltName-->
 - Source: <!--Source-->(COC p162)<!--/Source-->
--  <!--Type-->Armure (cuir cloutée)<!--/Type-->, rare
+-  <!--Type-->Armure (cuir cloutée)<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Tant que vous portez cette armure, vous gagnez un bonus de +1 à la CA. Vous pouvez également dépenser une action bonus pour prononcer son mot de commande et lui donner l'apparence d'habits normaux ou d'une autre armure. À vous de décider à quoi elle ressemble, aussi bien au niveau de la couleur, du style que des accessoires. Cependant, elle conserve son poids et son volume. L'illusion persiste jusqu'à ce que vous utilisiez de nouveau ce pouvoir ou que vous ôtiez l'armure.
 
@@ -1955,7 +1955,7 @@ Tant que vous portez cette armure, vous gagnez un bonus de +1 à la CA. Vous pou
 
 - AltName: <!--AltName-->Dagger of Venom (SRD p215)<!--/AltName-->
 - Source: <!--Source-->(COC p162)<!--/Source-->
--  <!--Type-->Arme (dague)<!--/Type-->, rare
+-  <!--Type-->Arme (dague)<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.
 
@@ -1969,7 +1969,7 @@ Vous pouvez dépenser une action pour qu'un épais poison noir enduise la lame. 
 
 - AltName: <!--AltName-->Circlet of Blasting (SRD p214)<!--/AltName-->
 - Source: <!--Source-->(COC p162)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Tant que vous portez ce diadème, vous pouvez utiliser votre action pour lancer le sort rayon ardent par son intermédiaire. Quand vous effectuez l'attaque de sort, votre bonus d'attaque est de +5. Il faut attendre l'aube suivante avant d'utiliser de nouveau le diadème de cette manière.
 
@@ -1981,7 +1981,7 @@ Tant que vous portez ce diadème, vous pouvez utiliser votre action pour lancer 
 
 - AltName: <!--AltName-->Censer of Controlling Air Elementals (SRD p213)<!--/AltName-->
 - Source: <!--Source-->(COC p162)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Tant que de l'encens brûle dans cet encensoir, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire de l'air, comme si vous aviez lancé le sort invocation d'élémentaires. Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi l'encensoir.
 
@@ -1995,7 +1995,7 @@ L'encensoir ressemble à un calice de 15 centimètres de large pour 30 centimèt
 
 - AltName: <!--AltName-->Flame Tongue (SRD p223)<!--/AltName-->
 - Source: <!--Source-->(COC p162)<!--/Source-->
--  <!--Type-->Arme (épée)<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous pouvez utiliser une action bonus pour prononcer le mot de commande de cette épée magique et envelopper sa lame d'un linceul de flammes qui émettent une vive lumière dans un rayon de 12 mètres et une faible lumière dans un rayon de 12 mètres de plus. Tant que l'épée est embrasée, elle inflige 2d6 dégâts de feu supplémentaire à toute cible qu'elle touche. Les flammes brûlent jusqu'à ce que vous dépensiez une action bonus pour prononcer de nouveau le mot de commande ou jusqu'à ce que vous lâchiez ou rengainiez l'épée.
 
@@ -2007,7 +2007,7 @@ Vous pouvez utiliser une action bonus pour prononcer le mot de commande de cette
 
 - AltName: <!--AltName-->Dancing Sword (SRD p215)<!--/AltName-->
 - Source: <!--Source-->(COC p163)<!--/Source-->
--  <!--Type-->Arme (épée)<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous pouvez utiliser une action bonus pour lancer cette épée magique en l'air et prononcer son mot de commande. Elle se met alors à flotter et s'envole à une distance maximum de 9 mètres, attaquant la créature de votre choix située dans un rayon de 1,50 mètre autour d'elle. L'épée utilise votre jet d'attaque et votre modificateur de caractéristique aux jets de dégâts.
 
@@ -2023,7 +2023,7 @@ Une fois que l'épée a attaqué pour la quatrième fois, elle vole sur un maxim
 
 - AltName: <!--AltName-->Sword of Wounding (SRD p246)<!--/AltName-->
 - Source: <!--Source-->(COC p163)<!--/Source-->
--  <!--Type-->Arme (n'importe quel type d'épée)<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Arme (n'importe quel type d'épée)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Seul un repos court ou long permet de récupérer les points de vie perdus à cause des dégâts infligés par cette arme. Ni la régénération, ni la magie, ni aucun autre moyen ne peuvent soigner ces points de vie perdus.
 
@@ -2037,7 +2037,7 @@ Une fois par tour, lorsque vous réussissez une attaque contre une créature ave
 
 - AltName: <!--AltName-->Sun Blade (SRD p246)<!--/AltName-->
 - Source: <!--Source-->(COC p163)<!--/Source-->
--  <!--Type-->Arme (épée longue)<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Arme (épée longue)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Au premier abord, cet objet est la garde d'une épée longue. Lorsque vous la prenez en main, vous pouvez utiliser une action bonus pour qu'une lame de lumière pure en surgisse ou pour la faire disparaître. Tant que la lame est sortie, cette épée longue magique est dotée de la propriété finesse. Si vous maîtrisez le maniement des épées courtes ou longues, vous maîtrisez également celui d'une épée radieuse.
 
@@ -2053,7 +2053,7 @@ La lame lumineuse de l'épée diffuse une lumière vive sur un rayon de 4,50 mè
 
 - AltName: <!--AltName-->Sword of Sharpness (SRD p246)<!--/AltName-->
 - Source: <!--Source-->(COC p163)<!--/Source-->
--  <!--Type-->Arme (n'importe quelle épée qui inflige des dégâts tranchants)<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Arme (n'importe quelle épée qui inflige des dégâts tranchants)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Quand vous réussissez une attaque contre un objet avec cette arme magique, considérez que le(s) dé(s) de dégâts de l'arme obtient le plus haut résultat contre la cible.
 
@@ -2069,7 +2069,7 @@ En outre, vous pouvez prononcer le mot de commande de l'épée pour que la lame 
 
 - AltName: <!--AltName-->Sword of Life Stealing (SRD p246)<!--/AltName-->
 - Source: <!--Source-->(COC p163)<!--/Source-->
--  <!--Type-->Arme (n'importe quel type d'épée)<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Arme (n'importe quel type d'épée)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Quand vous attaquez une créature avec cette arme magique et obtenez un 20 sur le jet d'attaque, la cible subit 3d6 dégâts nécrotiques supplémentaires, à condition qu'elle ne soit ni une créature artificielle, ni un mort-vivant. Vous gagnez un nombre de points de vie temporaires égal aux dégâts supplémentaires infligés.
 
@@ -2081,7 +2081,7 @@ Quand vous attaquez une créature avec cette arme magique et obtenez un 20 sur l
 
 - AltName: <!--AltName-->Vorpal Sword (SRD p248)<!--/AltName-->
 - Source: <!--Source-->(COC p163)<!--/Source-->
--  <!--Type-->Arme (n'importe quel type d'épée qui inflige des dégâts tranchants)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Arme (n'importe quel type d'épée qui inflige des dégâts tranchants)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous obtenez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cette arme magique. De plus, l'arme ignore toute résistance aux dégâts tranchants.
 
@@ -2095,7 +2095,7 @@ Lorsque vous attaquez avec cette arme une créature dotée d'une tête au moins 
 
 - AltName: <!--AltName-->Wind Fan (SRD p250)<!--/AltName-->
 - Source: <!--Source-->(COC p164)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Avec cet éventail en main, vous pouvez utiliser une action pour lancer le sort bourrasque (DD des jets de sauvegarde contre le sort 13). Suite à cette première utilisation, l'éventail ne peut plus être utilisé sans risque de l'abîmer avant l'aube suivante. Chaque fois qu'il est utilisé une fois de plus avant l'aube prochaine, il y a 20 % de chances cumulatives qu'il ne fonctionne pas et se casse pour devenir un éventail déchiré ordinaire et inutile.
 
@@ -2107,7 +2107,7 @@ Avec cet éventail en main, vous pouvez utiliser une action pour lancer le sort 
 
 - AltName: <!--AltName-->Frost Brand (SRD p223)<!--/AltName-->
 - Source: <!--Source-->(COC p164)<!--/Source-->
--  <!--Type-->Arme (épée)<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Quand vous touchez une créature suite à une attaque avec cette arme magique, votre cible subit 1d6 dégâts de froid supplémentaire. De plus, vous êtes résistant aux dégâts de feu tant que vous tenez cette épée.
 
@@ -2123,7 +2123,7 @@ Quand vous dégainez cette épée, vous pouvez éteindre toutes les flammes non-
 
 - AltName: <!--AltName-->Horseshoes of Speed (SRD p226)<!--/AltName-->
 - Source: <!--Source-->(COC p164)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature similaire est ferrée des quatre avec eux, ils augmentent sa vitesse au sol de 9 mètres.
 
@@ -2135,7 +2135,7 @@ Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature simi
 
 - AltName: <!--AltName-->Horseshoes of a Zephyr (SRD p226)<!--/AltName-->
 - Source: <!--Source-->(COC p164)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature similaire est ferrée des quatre avec eux, ils lui permettent de se déplacer normalement tout en flottant à une dizaine de centimètres du sol. Grâce à cet effet, la créature peut traverser une surface instable ou non-solide (comme de l'eau ou de la lave) ou se tenir dessus. Elle ne laisse pas de trace et ignore les terrains difficiles. De plus, elle peut se déplacer à sa vitesse normale pendant un maximum de 12 heures par jour sans souffrir de l'épuisement lié à une marche forcée.
 
@@ -2147,7 +2147,7 @@ Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature simi
 
 - AltName: <!--AltName-->Figurine of Wondrous Power (SRD p221)<!--/AltName-->
 - Source: <!--Source-->(COC p164)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rareté selon la figurine
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rareté selon la figurine<!--/Rarity-->
 
 Une figurine merveilleuse est une statuette représentant un animal et assez petite pour tenir dans une poche. Si vous utilisez une action pour prononcer le mot de commande et lancez la figurine au sol dans un rayon de 18 mètres autour de vous, elle se change en créature vivante. Si l'emplacement qu'elle devrait occuper accueille déjà d'autres créatures ou objets, ou s'il n'y a pas assez de place pour l'animal, la figurine ne se métamorphose pas.
 
@@ -2225,7 +2225,7 @@ Le sort identification révèle si la flasque contient une créature ou pas, mai
 
 - AltName: <!--AltName-->Arrow of Slaying (SRD p209)<!--/AltName-->
 - Source: <!--Source-->(COC p166)<!--/Source-->
--  <!--Type-->Arme (flèche)<!--/Type-->, très rare
+-  <!--Type-->Arme (flèche)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Une flèche tueuse est une arme magique conçue pour tuer un type précis de créature. Certaines sont plus spécialisées que d'autres : il existe par exemple des flèches tueuses de dragons et des flèches tueuses de dragons bleus. Si une créature appartient au type, à la race ou au groupe associé à la flèche, elle subit les dégâts normaux et doit faire un jet de sauvegarde de Constitution DD 17. Si elle le rate, elle reçoit 6d10 dégâts perforants supplémentaires, la moitié seulement si elle réussit.
 
@@ -2241,7 +2241,7 @@ Il existe d'autres munitions magiques similaires, comme des carreaux tueurs pour
 
 - AltName: <!--AltName-->Pipes of the Sewers (SRD p232)<!--/AltName-->
 - Source: <!--Source-->(COC p166)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flûte. Tant que vous êtes harmonisé avec elle, les rats ordinaires et les rats géants sont indifférents envers vous et ne vous attaquent pas, à moins que vous ne les menaciez ou les blessiez.
 
@@ -2257,7 +2257,7 @@ Quand une nuée de rats qui ne se trouve pas sous le contrôle d'une tierce pers
 
 - AltName: <!--AltName-->Pipes of Haunting (SRD p232)<!--/AltName-->
 - Source: <!--Source-->(COC p166)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flûte dotée de 3 charges. Vous pouvez utiliser une action pour jouer et dépenser une charge pour créer une étrange mélodie envoûtante. Chaque créature qui se situe dans un rayon de 9 mètres autour de vous et vous entend jouer doit réussir un jet de sauvegarde de Sagesse DD 15, sans quoi vous la terrorisez pendant 1 minute. Si vous le désirez, toutes les créatures qui ne sont pas hostiles envers vous mais sont présentes dans la zone réussissent automatiquement leur jet de sauvegarde. Une créature qui a raté son jet de sauvegarde peut le refaire à la fin de chacun de ses tours. L'effet se termine pour elle dès qu'elle le réussit. Si une créature réussit son jet de sauvegarde contre la flûte, elle est immunisée contre ses effets pendant 24 heures. Chaque matin à l'aube, la flûte récupère 1d3 charges dépensées.
 
@@ -2269,7 +2269,7 @@ Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flû
 
 - AltName: <!--AltName-->Instant Fortress (SRD p226)<!--/AltName-->
 - Source: <!--Source-->(COC p167)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Vous pouvez utiliser une action pour poser ce tube de métal de 2,5 centimètres à terre et prononcer son mot de commande. Il grandit rapidement pour se muer en forteresse. Il reste sous cette forme jusqu'à ce que vous dépensiez une action pour prononcer le mot de commande permettant de la révoquer (ce qui fonctionne uniquement si elle est vide).
 
@@ -2287,7 +2287,7 @@ La tour est faite en adamantium et sa magie empêche qu'une force extérieure la
 
 - AltName: <!--AltName-->Gauntlets of Ogre Power (SRD p223)<!--/AltName-->
 - Source: <!--Source-->(COC p167)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ces gants, votre valeur de Force est de 19. Si elle est déjà de 19 ou plus, ils n'ont aucun effet sur vous.
 
@@ -2299,7 +2299,7 @@ Tant que vous portez ces gants, votre valeur de Force est de 19. Si elle est dé
 
 - AltName: <!--AltName-->Gloves of Swimming and Climbing (SRD p224)<!--/AltName-->
 - Source: <!--Source-->(COC p167)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas de déplacement supplémentaire et vous gagnez un bonus de +5 aux tests de Force (Athlétisme) pour grimper ou nager.
 
@@ -2311,7 +2311,7 @@ Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas 
 
 - AltName: <!--AltName-->Gloves of Missile Snaring (SRD p224)<!--/AltName-->
 - Source: <!--Source-->(COC p167)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Quand vous enfliez ces gants, ils semblent presque fusionner avec votre peau. Quand vous êtes touché par une attaque d'arme à distance alors que vous les portez, vous pouvez utiliser votre réaction pour réduire les dégâts subis de 1d10 + votre modificateur de Dextérité, à condition que vous ayez une main libre. Si vous réduisez les dégâts à 0, vous attrapez le projectile (s'il est de taille assez réduite pour que vous puissiez le tenir d'une main).
 
@@ -2323,7 +2323,7 @@ Quand vous enfliez ces gants, ils semblent presque fusionner avec votre peau. Qu
 
 - AltName: <!--AltName-->Gem of Seeing (SRD p223)<!--/AltName-->
 - Source: <!--Source-->(COC p167)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cette gemme a 3 charges. Vous pouvez prononcer son mot de commande par une action et dépenser une charge. Pendant les 10 minutes suivantes, vous disposez de la vision parfaite dans un rayon de 36 mètres, à condition de regarder à travers la gemme.
 
@@ -2337,7 +2337,7 @@ Chaque matin à l'aube, la gemme récupère 1d3 charges dépensées.
 
 - AltName: <!--AltName-->Elemental Gem (SRD p220)<!--/AltName-->
 - Source: <!--Source-->(COC p168)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Cette gemme contient une particule d'énergie élémentaire. Quand vous brisez la gemme par une action, un élémentaire apparaît, comme si vous l'aviez invoqué avec un sort d'invocation d'élémentaire et la gemme perd toute magie. Le type d'élémentaire invoqué dépend de la gemme utilisée.
 
@@ -2356,7 +2356,7 @@ Cette gemme contient une particule d'énergie élémentaire. Quand vous brisez l
 
 - AltName: <!--AltName-->Gem of Brightness (SRD p223)<!--/AltName-->
 - Source: <!--Source-->(COC p168)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Ce prisme a 50 charges. Tant que vous le tenez, vous pouvez utiliser une action pour prononcer l'un des trois mots de commande qui provoquent l'un des effets suivants.
 
@@ -2376,7 +2376,7 @@ Quand la gemme a épuisé toutes ses charges, elle devient un joyau dépourvu de
 
 - AltName: <!--AltName-->Berserker Axe (SRD p211)<!--/AltName-->
 - Source: <!--Source-->(COC p168)<!--/Source-->
--  <!--Type-->Arme (hache)<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Arme (hache)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts liés à cette arme magique. De plus, tant que vous êtes harmonisé avec elle, votre maximum de points de vie augmente de 1 par niveau que vous possédez.
 
@@ -2392,7 +2392,7 @@ Quand une créature hostile vous blesse alors que vous êtes en possession de ce
 
 - AltName: <!--AltName-->Plate Armor of Etherealness (SRD p233)<!--/AltName-->
 - Source: <!--Source-->(COC p168)<!--/Source-->
--  <!--Type-->Armure (harnois)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Armure (harnois)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez cette armure, vous pouvez prononcer son mot de commande par une action pour bénéficier des effets du sort forme éthérée pendant 10 minutes, jusqu'à ce que vous retiriez l'armure ou jusqu'à ce que vous dépensiez une action pour prononcer de nouveau le mot de commande. Ensuite, vous devez attendre l'aube suivante avant d'utiliser de nouveau ce pouvoir.
 
@@ -2404,7 +2404,7 @@ Tant que vous portez cette armure, vous pouvez prononcer son mot de commande par
 
 - AltName: <!--AltName-->Dwarven Plate (SRD p220)<!--/AltName-->
 - Source: <!--Source-->(COC p168)<!--/Source-->
--  <!--Type-->Armure (harnois)<!--/Type-->, très rare
+-  <!--Type-->Armure (harnois)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Tant que vous portez cette armure, vous gagnez un bonus de +2 à la CA. De plus, si un effet vous déplace contre votre gré, vous pouvez utiliser votre réaction pour réduire la distance parcourue d'un maximum de 3 mètres.
 
@@ -2416,7 +2416,7 @@ Tant que vous portez cette armure, vous gagnez un bonus de +2 à la CA. De plus,
 
 - AltName: <!--AltName-->Handy Haversack (SRD p224)<!--/AltName-->
 - Source: <!--Source-->(COC p168)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Ce sac à dos dispose d'une poche centrale et de deux poches latérales, chacune donnant sur un espace extradimensionnel. Chaque poche latérale peut recevoir jusqu'à 10 kilos de matériel, sans dépasser un volume de 30 litres. La grande poche centrale peut accueillir jusqu'à 120 litres ou 40 kilos de matériel. Le sac pèse toujours 2,5 kilos, quel que soit son contenu.
 
@@ -2434,7 +2434,7 @@ Si l'on place le havresac dans l'espace extradimensionnel né d'un sac sans fond
 
 - AltName: <!--AltName-->Helm of Comprehending Languages (SRD p225)<!--/AltName-->
 - Source: <!--Source-->(COC p169)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Tant que vous portez ce heaume, vous pouvez utiliser une action pour lancer compréhension des langages à volonté par son intermédiaire.
 
@@ -2446,7 +2446,7 @@ Tant que vous portez ce heaume, vous pouvez utiliser une action pour lancer comp
 
 - AltName: <!--AltName-->Helm of Telepathy (SRD p225)<!--/AltName-->
 - Source: <!--Source-->(COC p169)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ce heaume, vous pouvez utiliser une action pour lancer détection des pensées (DD 13) par son intermédiaire. Tant que vous restez concentré sur le sort, vous pouvez utiliser une action bonus pour envoyer un message télépathique à une créature sur laquelle vous vous concentrez. Elle peut vous répondre (en utilisant une action bonus) tant que vous restez concentré sur elle.
 
@@ -2460,7 +2460,7 @@ Tant que vous vous concentrez sur une créature avec détection des pensées, vo
 
 - AltName: <!--AltName-->Helm of Teleportation (SRD p225)<!--/AltName-->
 - Source: <!--Source-->(COC p169)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce heaume possède 3 charges. Tant que vous le portez, vous pouvez utiliser une action pour dépenser 1 charge et lancer téléportation par son intermédiaire. Chaque matin à l'aube, il récupère 1d3 charges dépensées.
 
@@ -2472,7 +2472,7 @@ Ce heaume possède 3 charges. Tant que vous le portez, vous pouvez utiliser une 
 
 - AltName: <!--AltName-->Helm of Brilliance (SRD p225)<!--/AltName-->
 - Source: <!--Source-->(COC p169)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce heaume éblouissant est serti de 1d10 diamants, 2d10 rubis, 3d10 opales de feu et 4d10 opales. Toute gemme arrachée au heaume tombe en poussière. Le heaume perd ses pouvoirs magiques une fois que toutes ses gemmes ont été détruites ou arrachées.
 
@@ -2496,7 +2496,7 @@ Lancez 1d20 si vous portez le heaume et subissez des dégâts de feu à cause d'
 
 - AltName: <!--AltName-->Oil of Sharpness (SRD p232)<!--/AltName-->
 - Source: <!--Source-->(COC p170)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, très rare
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Cette huile claire et gélatineuse est constellée de minuscules paillettes d'argent. On peut s'en servir pour enduire une arme tranchante ou perforante ou bien 5 munitions tranchantes ou perforantes au maximum. Il faut 1 minute pour appliquer l'huile, ensuite, l'objet enduit devient magique et doté d'un bonus de +3 aux jets d'attaque et de dégâts pendant 1 heure.
 
@@ -2508,7 +2508,7 @@ Cette huile claire et gélatineuse est constellée de minuscules paillettes d'ar
 
 - AltName: <!--AltName-->Oil of Etherealness (SRD p231)<!--/AltName-->
 - Source: <!--Source-->(COC p170)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, rare
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 L'huile d'un gris trouble contenue dans ce récipient forme des perles sur sa paroi externe, mais elles s'évaporent rapidement. On peut recouvrir une créature de taille M ou inférieure avec l'huile, ainsi que tout son équipement et tous les objets en sa possession (il faut vider une fiole de plus par catégorie de taille au-dessus de M si la créature est plus grande). Il faut 10 minutes pour appliquer l'huile correctement. La créature affectée bénéficie alors des effets du sort forme éthérée pendant 1 heure.
 
@@ -2520,7 +2520,7 @@ L'huile d'un gris trouble contenue dans ce récipient forme des perles sur sa pa
 
 - AltName: <!--AltName-->Oil of Slipperiness (SRD p232)<!--/AltName-->
 - Source: <!--Source-->(COC p170)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, peu courante
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Cet épais onguent noir est dense et lourd tant qu'il reste dans son récipient, mais il coule avec fluidité dès qu'on le verse. Il permet de recouvrir une créature de taille M ou inférieure (il faut verser une fiole de plus pour chaque catégorie de taille au-dessus de M). Il faut 10 minutes pour appliquer l'huile. La créature affectée bénéficie alors des effets du sort liberté de mouvement pendant 8 heures.
 
@@ -2534,7 +2534,7 @@ Sinon, vous pouvez verser l'huile à terre par une action. Elle recouvre une zon
 
 - AltName: <!--AltName-->Javelin of Lightning (SRD p228)<!--/AltName-->
 - Source: <!--Source-->(COC p170)<!--/Source-->
--  <!--Type-->Arme (javeline)<!--/Type-->, peu courante
+-  <!--Type-->Arme (javeline)<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Cette javeline est une arme magique. Quand vous la lancez et prononcez son mot de commande, elle se transforme en éclair, formant une ligne de 1,50 mètre de large qui s'étend de votre personne jusqu'à une cible située à une distance maximale de 36 mètres. Chaque créature présente sur cette ligne, à l'exception de vous et de votre cible, doit faire un jet de sauvegarde de Dextérité DD 13. Celles qui échouent subissent 4d6 points de dégâts de foudre, les autres la moitié seulement. L'éclair reprend sa forme de javeline quand il atteint sa cible. Faites une attaque d'arme à distance contre elle. Si vous touchez, la cible subit les dégâts habituels de la javeline plus 4d6 dégâts de foudre.
 
@@ -2548,7 +2548,7 @@ Il faut attendre l'aube suivante pour se servir de nouveau de cette propriété 
 
 - AltName: <!--AltName-->Luck Blade (SRD p229)<!--/AltName-->
 - Source: <!--Source-->(COC p170)<!--/Source-->
--  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme magique. Tant qu'elle se trouve en votre possession, vous gagnez un bonus de +1 aux jets de sauvegarde.
 
@@ -2564,7 +2564,7 @@ Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme mag
 
 - AltName: <!--AltName-->Lantern of Revealing (SRD p228)<!--/AltName-->
 - Source: <!--Source-->(COC p170)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Quand cette lanterne à capote est allumée, elle brûle pendant 6 heures en consommant 0,5 litre d'huile. Elle émet alors une vive lumière dans un rayon de 9 mètres et une faible lumière dans un rayon de 9 mètres de plus. Les créatures et les objets invisibles situés dans la zone de vive lumière de la lanterne deviennent visibles. Vous pouvez utiliser une action pour baisser la capote et réduire la luminosité à une faible lumière dans un rayon de 1,50 mètre.
 
@@ -2576,7 +2576,7 @@ Quand cette lanterne à capote est allumée, elle brûle pendant 6 heures en con
 
 - AltName: <!--AltName-->Eyes of Minute Seeing (SRD p221)<!--/AltName-->
 - Source: <!--Source-->(COC p170)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, votre vue est bien meilleure que d'habitude dans un rayon de 30 centimètres. Vous obtenez l'avantage lors des tests d'Intelligence (Investigation) basés sur la vue quand vous fouillez une zone ou étudiez un objet situé dans ce rayon.
 
@@ -2588,7 +2588,7 @@ Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, votr
 
 - AltName: <!--AltName-->Iron Bands of Binding (SRD p228)<!--/AltName-->
 - Source: <!--Source-->(COC p171)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Cette sphère de fer rouillé mesure 7,5 centimètres de diamètre et pèse 0,5 kilo. Vous pouvez utiliser une action pour prononcer le mot de commande et lancer la sphère sur une créature de taille TG ou inférieure située dans votre champ de vision et dans un rayon de 18 mètres autour de vous. La sphère se déploie en un entrelacs de bandes de métal alors qu'elle file dans les airs.
 
@@ -2606,7 +2606,7 @@ Une fois les fers utilisés, il faut attendre l'aube prochaine pour s'en servir 
 
 - AltName: <!--AltName-->Goggles of Night (SRD p224)<!--/AltName-->
 - Source: <!--Source-->(COC p171)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Quand vous portez ces verres sombres, vous bénéficiez de la vision dans le noir à 18 mètres. Si vous disposez déjà de ce pouvoir, son rayon augmente de 18 mètres.
 
@@ -2618,7 +2618,7 @@ Quand vous portez ces verres sombres, vous bénéficiez de la vision dans le noi
 
 - AltName: <!--AltName-->Mantle of Spell Resistance (SRD p229)<!--/AltName-->
 - Source: <!--Source-->(COC p171)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez ce manteau, vous obtenez l'avantage lors des jets de sauvegarde contre les sorts.
 
@@ -2630,7 +2630,7 @@ Tant que vous portez ce manteau, vous obtenez l'avantage lors des jets de sauveg
 
 - AltName: <!--AltName-->Manual of Bodily Health (SRD p229)<!--/AltName-->
 - Source: <!--Source-->(COC p171)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Ce livre contient des conseils pour rester en bonne santé et s'alimenter sainement, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Constitution augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie, mais elle se recharge au bout d'un siècle.
 
@@ -2642,7 +2642,7 @@ Ce livre contient des conseils pour rester en bonne santé et s'alimenter sainem
 
 - AltName: <!--AltName-->Manual of Gainful Exercise (SRD p229)<!--/AltName-->
 - Source: <!--Source-->(COC p171)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Ce livre propose des exercices d'entretien musculaire, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Force augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie mais elle se recharge au bout d'un siècle.
 
@@ -2654,7 +2654,7 @@ Ce livre propose des exercices d'entretien musculaire, et ses mots sont chargés
 
 - AltName: <!--AltName-->Manual of Golems (SRD p229)<!--/AltName-->
 - Source: <!--Source-->(COC p171)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Ce livre présente des informations et des incantations nécessaires à la fabrication d'un certain type de golems. C'est au MJ de choisir ce type ou de le déterminer au hasard. Pour déchiffrer le manuel et vous en servir, vous devez être un incantateur disposant d'au moins deux emplacements de sort de niveau 5. Si une créature tente de lire le manuel des golems alors qu'elle est incapable de s'en servir, elle subit 6d6 dégâts psychiques.
 
@@ -2677,7 +2677,7 @@ Dès que vous avez achevé la construction du golem, le manuel se consume dans d
 
 - AltName: <!--AltName-->Manual of Quickness of Action (SRD p230)<!--/AltName-->
 - Source: <!--Source-->(COC p172)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Ce livre propose des exercices d'équilibre et de coordination, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Dextérité augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie mais elle se recharge au bout d'un siècle.
 
@@ -2689,7 +2689,7 @@ Ce livre propose des exercices d'équilibre et de coordination, et ses mots sont
 
 - AltName: <!--AltName-->Dwarven Thrower (SRD p220)<!--/AltName-->
 - Source: <!--Source-->(COC p172)<!--/Source-->
--  <!--Type-->Arme (marteau de guerre)<!--/Type-->, très rare (harmonisation requise avec un nain)
+-  <!--Type-->Arme (marteau de guerre)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise avec un nain<!--/Attunement-->)
 
 Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme magique. Elle dispose de la propriété de lancer à une portée normale de 6 mètres et une longue portée de 18 mètres. Quand vous touchez votre cible avec une attaque à distance effectuée avec cette arme, elle inflige 1d8 dégâts supplémentaires ou 2d8 dégâts supplémentaires si la cible est un géant. L'arme revient dans votre main immédiatement après l'attaque.
 
@@ -2705,7 +2705,7 @@ Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme mag
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.
 
-**_Tueur de géant (harmonisation requise)._** Pour vous harmoniser avec cette arme, vous devez porter un ceinturon de force de géant et des gantelets de puissance d'ogre. L'harmonisation se rompt si vous ôtez l'un de ces objets. Tant que vous êtes harmonisé avec cette arme et que vous la tenez en main, votre valeur de Force augmente de 4 et peut dépasser 20, mais pas 30. Quand vous obtenez un 20 au dé sur un jet d'attaque effectué avec cette arme contre un géant, ce dernier doit réussir un jet de sauvegarde de Constitution DD 17 ou mourir sur-le-champ.
+**_Tueur de géant (harmonisation requise)._** Pour vous harmoniser avec cette arme, vous devez porter un [ceinturon de force de géant] et des [gantelets de puissance d'ogre]. L'harmonisation se rompt si vous ôtez l'un de ces objets. Tant que vous êtes harmonisé avec cette arme et que vous la tenez en main, votre valeur de Force augmente de 4 et peut dépasser 20, mais pas 30. Quand vous obtenez un 20 au dé sur un jet d'attaque effectué avec cette arme contre un géant, ce dernier doit réussir un jet de sauvegarde de Constitution DD 17 ou mourir sur-le-champ.
 
 Le marteau dispose de 5 charges. Tant que vous êtes harmonisé avec lui, vous pouvez dépenser une charge pour faire une attaque d'arme à distance avec lui et le lancer comme s'il disposait de la propriété lancer avec une portée normale de 6 mètres et une portée longue de 18 mètres. Si l'attaque touche, le marteau fait résonner un coup de tonnerre qui s'entend dans un rayon de 90 mètres. La cible et toutes les créatures situées dans un rayon de 9 mètres autour d'elle doivent réussir un jet de sauvegarde de Constitution ou se trouver étourdies jusqu'à la fin de votre prochain tour. Chaque matin à l'aube, le marteau récupère 1d4+1 charges dépensées.
 
@@ -2717,7 +2717,7 @@ Le marteau dispose de 5 charges. Tant que vous êtes harmonisé avec lui, vous p
 
 - AltName: <!--AltName-->Mace of Disruption (SRD p229)<!--/AltName-->
 - Source: <!--Source-->(COC p172)<!--/Source-->
--  <!--Type-->Arme (masse)<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Arme (masse)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Quand vous touchez un fiélon ou un mort-vivant avec cette arme magique, cette créature subit 2d6 dégâts radiants supplémentaires. Si la cible se retrouve avec 25 points de vie ou moins après avoir subi ces dégâts, elle doit réussir un jet de sauvegarde de Sagesse DD 15, sans quoi elle est détruite. Si elle réussit son jet de sauvegarde, elle est terrorisée : elle a peur de vous jusqu'à la fin de votre prochain tour.
 
@@ -2731,7 +2731,7 @@ Tant que vous tenez cette arme en main, elle émet une vive lumière dans un ray
 
 - AltName: <!--AltName-->Mace of Smiting (SRD p229)<!--/AltName-->
 - Source: <!--Source-->(COC p173)<!--/Source-->
--  <!--Type-->Arme (masse)<!--/Type-->, rare
+-  <!--Type-->Arme (masse)<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme magique. Ce bonus passe à +3 si vous l'utilisez contre une créature artificielle.
 
@@ -2745,7 +2745,7 @@ Quand vous obtenez un 20 sur un jet d'attaque effectué avec cette arme, la cibl
 
 - AltName: <!--AltName-->Mace of Terror (SRD p229)<!--/AltName-->
 - Source: <!--Source-->(COC p173)<!--/Source-->
--  <!--Type-->Arme (masse)<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Arme (masse)<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cette arme magique dispose de 3 charges. Tant que vous la tenez en main, vous pouvez dépenser une action et une charge pour émettre une vague de terreur. Les créatures de votre choix se trouvant dans un rayon de 9 mètres autour de vous doivent réussir un jet de sauvegarde de Sagesse DD 15, sans quoi elles sont terrorisées et ont peur de vous pendant 1 minute. Tant qu'une créature est ainsi terrorisée, elle s'efforce de s'éloigner au maximum de vous pendant tout son tour et elle est incapable de s'avancer de son plein gré dans un emplacement situé dans un rayon de 9 mètres autour de vous. Elle est aussi dans l'incapacité d'utiliser une réaction. Au niveau de ses actions, elle est limitée à se précipiter ou à tenter de se libérer de tout effet l'empêchant de se déplacer. Si la créature n'a aucun endroit où aller, elle peut utiliser l'action esquiver. Elle a droit à un nouveau jet de sauvegarde à la fin de chacun de ses tours, la terreur se terminant si elle en réussit un.
 
@@ -2759,7 +2759,7 @@ Chaque matin à l'aube, la masse récupère 1d3 charges dépensées.
 
 - AltName: <!--AltName-->Medallion of Thoughts (SRD p230)<!--/AltName-->
 - Source: <!--Source-->(COC p173)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Le médaillon a trois charges. Tant que vous le portez, vous pouvez utiliser une action et dépenser une charge pour lancer détection des pensées (DD 13) par son intermédiaire. Chaque matin à l'aube, il récupère 1d3 charges dépensées.
 
@@ -2771,7 +2771,7 @@ Le médaillon a trois charges. Tant que vous le portez, vous pouvez utiliser une
 
 - AltName: <!--AltName-->Dimensional Shackles (SRD p219)<!--/AltName-->
 - Source: <!--Source-->(COC p173)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Vous pouvez utiliser une action pour menotter une créature neutralisée avec cet objet. Les menottes s'ajustent aux poignets des créatures de taille P à G. En plus de servir d'entraves traditionnelles, elles empêchent la créature attachée d'utiliser la moindre méthode de déplacement extradimensionnel, y compris la téléportation et les voyages vers d'autres plans d'existence. En revanche, elles n'empêchent pas leur prisonnier de traverser un portail interdimensionnel.
 
@@ -2785,7 +2785,7 @@ Vous-même et toute créature que vous désignez au moment de fermer les menotte
 
 - AltName: <!--AltName-->Mirror of Life Trapping (SRD p230)<!--/AltName-->
 - Source: <!--Source-->(COC p173)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Quand on regarde indirectement ce miroir de 1,20 mètre de haut, on y aperçoit vaguement les reflets de plusieurs créatures. Il pèse 25 kilos pour une CA de 11, a 10 points de vie et il est vulnérable aux dégâts contondants. Il vole en éclats et il est détruit s'il tombe à 0 point de vie.
 
@@ -2809,7 +2809,7 @@ De même, vous pouvez prononcer un deuxième mot de commande et libérer une cr�
 
 - AltName: <!--AltName-->Ammunition, +1, +2, or +3 (SRD p207)<!--/AltName-->
 - Source: <!--Source-->(COC p174)<!--/Source-->
--  <!--Type-->Arme (n'importe quelle munition)<!--/Type-->, peu courante (+1), rare (+2) ou très rare (+3)
+-  <!--Type-->Arme (n'importe quelle munition)<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity--> (+1), <!--Rarity-->rare<!--/Rarity--> (+2) ou très rare (+3)
 
 Vous bénéficiez d'un bonus aux jets d'attaque et de dégâts effectués avec cette munition, ce bonus étant déterminé par la rareté de la munition. Cette dernière perd toute magie dès qu'elle a touché une cible.
 
@@ -2821,7 +2821,7 @@ Vous bénéficiez d'un bonus aux jets d'attaque et de dégâts effectués avec c
 
 - AltName: <!--AltName-->Eyes of the Eagle (SRD p221)<!--/AltName-->
 - Source: <!--Source-->(COC p174)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, vous obtenez l'avantage lors des tests de Sagesse (Perception) basés sur la vue. Si la visibilité est bien dégagée, vous percevez tous les détails des créatures et des objets, même très éloignés, à conditions que ces créatures et objets fassent au moins 60 centimètres de large.
 
@@ -2868,7 +2868,7 @@ Un sort de magicien inscrit sur un parchemin magique peut être recopié, tout c
 
 - AltName: <!--AltName-->Bead of Force (SRD p211)<!--/AltName-->
 - Source: <!--Source-->(COC p174)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Cette petite sphère noire de 2 centimètres de diamètre pèse 30 grammes. En général, on trouve 1d4+4 perles de force à la fois.
 
@@ -2884,7 +2884,7 @@ Une créature enfermée peut utiliser son action pour peser contre la paroi de l
 
 - AltName: <!--AltName-->Pearl of Power (SRD p232)<!--/AltName-->
 - Source: <!--Source-->(COC p174)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise par un incantateur)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise par un incantateur<!--/Attunement-->)
 
 Tant que vous portez cette perle sur vous, vous pouvez utiliser une action pour prononcer son mot de commande et récupérer un emplacement de sort dépensé. En revanche, si ce dernier est de niveau 4 ou supérieur, le nouvel emplacement est de niveau 3. Une fois que vous avez utilisé la perle, vous devez attendre l'aube suivante pour vous en servir à nouveau.
 
@@ -2896,7 +2896,7 @@ Tant que vous portez cette perle sur vous, vous pouvez utiliser une action pour 
 
 - AltName: <!--AltName-->Philter of Love (SRD p232)<!--/AltName-->
 - Source: <!--Source-->(COC p174)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, peu courante
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Dans les 10 minutes qui suivent l'absorption de cette potion, vous êtes charmé pendant 1 heure par la première créature que vous voyez. Si cette créature est d'une espèce et d'un sexe pour lesquels vous êtes susceptible de ressentir une attirance naturelle, vous considérez vos sentiments comme un amour véritable pendant toute la durée du charme. La potion est effervescente et de teinte rose et contient une bulle en forme de coeur, mais on peut facilement ne pas la voir parmi les autres.
 
@@ -2908,7 +2908,7 @@ Dans les 10 minutes qui suivent l'absorption de cette potion, vous êtes charmé
 
 - AltName: <!--AltName-->Marvelous Pigments (SRD p230)<!--/AltName-->
 - Source: <!--Source-->(COC p175)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Ces pigments se trouvent généralement dans 1d4 pots rangés dans une boîte de bois en compagnie d'un pinceau (le tout pesant 0,5 kilo). Ils vous permettent de créer des objets en trois dimensions en les peignant en deux dimensions. La peinture coule du pinceau pour dessiner l'objet désiré alors que vous vous concentrez sur son image.
 
@@ -2928,7 +2928,7 @@ Si vous peigniez une forme d'énergie, comme du feu ou de la foudre, elle appara
 
 - AltName: <!--AltName-->Stone of Controlling Earth Elementals (SRD p246)<!--/AltName-->
 - Source: <!--Source-->(COC p175)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Si la pierre est en contact avec le sol, vous pouvez utiliser une action pour prononcer son mot de commande et convoquer un élémentaire de la Terre, comme si vous aviez lancé le sort invoquer un élémentaire. Il faut attendre l'aube suivante avant de pouvoir réutiliser la pierre. Elle pèse 2,5 kilos.
 
@@ -2940,7 +2940,7 @@ Si la pierre est en contact avec le sol, vous pouvez utiliser une action pour pr
 
 - AltName: <!--AltName-->Ioun Stone (SRD p227)<!--/AltName-->
 - Source: <!--Source-->(COC p175)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rareté variable (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rareté variable<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 La pierre Ioun doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de pierre de Ioun, chacune caractérisée par sa forme et sa couleur.
 
@@ -2992,7 +2992,7 @@ Tant que cette pierre tourne autour de votre tête, vous pouvez lancer n'importe
 
 - AltName: <!--AltName-->Stone of Good Luck (Luckstone) (SRD p246)<!--/AltName-->
 - Source: <!--Source-->(COC p176)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous portez sur vous cette agate lustrée, vous bénéficiez d'un bonus de +1 aux tests de caractéristique et aux jets de sauvegarde.
 
@@ -3004,7 +3004,7 @@ Tant que vous portez sur vous cette agate lustrée, vous bénéficiez d'un bonus
 
 - AltName: <!--AltName-->Feather Token (SRD p221)<!--/AltName-->
 - Source: <!--Source-->(COC p176)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Ce petit bibelot ressemble à une plume. Il existe plusieurs types de plume, chacune produisant un effet différent à usage unique. C'est au MJ de décider du type ou de le déterminer au hasard.
 
@@ -3055,7 +3055,7 @@ Le cube a trois charges et en perd une à chaque utilisation. Chaque matin à l'
 
 - AltName: <!--AltName-->Potion of Growth (SRD p234)<!--/AltName-->
 - Source: <!--Source-->(COC p177)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, peu courante
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Quand vous buvez cette potion, vous êtes affecté par la version « agrandir » du sort agrandir/rétrécir pendant 1d4 heures (sans avoir besoin de vous concentrer). Une tache rouge dans le liquide s'étend jusqu'à colorer tout le liquide translucide et se rétracte pour former une petite bille. Ce cycle se répète sans cesse sans interruption, même si on secoue la bouteille.
 
@@ -3067,7 +3067,7 @@ Quand vous buvez cette potion, vous êtes affecté par la version « agrandir »
 
 - AltName: <!--AltName-->Potion of Animal Friendship (SRD p233)<!--/AltName-->
 - Source: <!--Source-->(COC p177)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, peu courante
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Quand vous buvez cette potion, vous pouvez lancer le sort amitié avec les animaux (DD 13) à volonté pendant 1 heure. Si on agite ce liquide trouble, on distingue de petits morceaux : une écaille de poisson, une langue de colibri, une griffe de chat ou des poils d'écureuil.
 
@@ -3079,7 +3079,7 @@ Quand vous buvez cette potion, vous pouvez lancer le sort amitié avec les anima
 
 - AltName: <!--AltName-->Potion of Clairvoyance (SRD p233)<!--/AltName-->
 - Source: <!--Source-->(COC p177)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, rare
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Quand vous buvez cette potion, vous bénéficiez des effets du sort clairvoyance. Un globe oculaire flotte dans ce liquide jaunâtre, mais disparaît dès qu'on ouvre la potion.
 
@@ -3091,7 +3091,7 @@ Quand vous buvez cette potion, vous bénéficiez des effets du sort clairvoyance
 
 - AltName: <!--AltName-->Potion of Climbing (SRD p233)<!--/AltName-->
 - Source: <!--Source-->(COC p177)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, peu courante
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Quand vous buvez cette potion, vous gagnez une vitesse d'escalade égale à votre vitesse au sol pendant 1 heure. Pendant tout ce temps, vous obtenez l'avantage lors des tests de Force (Escalade) que vous effectuez pour grimper. La potion se divise en couches brunes, argent et grises qui rappellent des stries dans la roche. Les couleurs ne se mélangent pas, même quand on agite la bouteille.
 
@@ -3103,7 +3103,7 @@ Quand vous buvez cette potion, vous gagnez une vitesse d'escalade égale à votr
 
 - AltName: <!--AltName-->Potion of Giant Strength (SRD p234)<!--/AltName-->
 - Source: <!--Source-->(COC p177)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, rareté variable
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->rareté variable<!--/Rarity-->
 
 Quand vous buvez cette potion, votre valeur de Force se modifie pendant 1 heure, en fonction du type de géant auquel la potion est associée (voir la table suivante). La potion n'a aucun effet si votre Force est déjà égale ou supérieure à la valeur indiquée.
 
@@ -3125,7 +3125,7 @@ Une rognure d'ongle d'un géant du type approprié flotte dans cette potion tran
 
 - AltName: <!--AltName-->Potion of Gaseous Form (SRD p234)<!--/AltName-->
 - Source: <!--Source-->(COC p178)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, rare
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Quand vous buvez cette potion, vous bénéficiez des effets du sort forme gazeuse pendant 1 heure (sans avoir besoin de vous concentrer) ou jusqu'à ce que vous mettiez un terme à l'effet par une action bonus. La bouteille semble contenir une brume qui bouge et se verse comme de l'eau.
 
@@ -3137,7 +3137,7 @@ Quand vous buvez cette potion, vous bénéficiez des effets du sort forme gazeus
 
 - AltName: <!--AltName-->Potion of Mind Reading (SRD p234)<!--/AltName-->
 - Source: <!--Source-->(COC p178)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, rare
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Vous bénéficiez des effets d'un sort de détection des pensées (DD des jets de sauvegarde contre le sort 13) quand vous buvez cette potion. Dans le liquide violet et épais de cette concoction flotte un nuage rose en forme d'oeuf.
 
@@ -3149,7 +3149,7 @@ Vous bénéficiez des effets d'un sort de détection des pensées (DD des jets d
 
 - AltName: <!--AltName-->Potion of Poison (SRD p234)<!--/AltName-->
 - Source: <!--Source-->(COC p178)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, peu courante
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Cette concoction ressemble, tant au niveau du goût, de l'odeur et de l'aspect visuel, à une potion de soins ou autre potion bénéfique. C'est pourtant du poison dissimulé par une magie illusoire, et un sort d'identification révèle sa véritable nature.
 
@@ -3163,7 +3163,7 @@ Vous subissez 3d6 dégâts de poison et devez réussir un jet de sauvegarde de C
 
 - AltName: <!--AltName-->Potion of Resistance (SRD p235)<!--/AltName-->
 - Source: <!--Source-->(COC p178)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, peu courante
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Vous bénéficiez d'une résistance à un type spécifique de dégâts pendant 1 heure après avoir bu cette potion. Le MJ choisit le type ou le détermine au hasard parmi les potions suivantes.
 
@@ -3188,7 +3188,7 @@ Vous bénéficiez d'une résistance à un type spécifique de dégâts pendant 1
 
 - AltName: <!--AltName-->Potion of Water Breathing (SRD p235)<!--/AltName-->
 - Source: <!--Source-->(COC p178)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, peu courante
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
 
 Vous pouvez respirer sous l'eau pendant 1 heure après avoir bu cette potion. Le liquide vert et trouble qu'elle contient, dans lequel flotte une bulle à l'aspect de méduse, sent la mer.
 
@@ -3200,7 +3200,7 @@ Vous pouvez respirer sous l'eau pendant 1 heure après avoir bu cette potion. Le
 
 - AltName: <!--AltName-->Potion of Diminution (SRD p233)<!--/AltName-->
 - Source: <!--Source-->(COC p178)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, rare
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Quand vous buvez cette potion, vous êtes affecté par la version « rétrécir » du sort agrandir/rétrécir pendant 1d4 heures (sans avoir besoin de vous concentrer). Une tache rouge dans le liquide se rétrécit jusqu'à former une petit bille et s'étale ensuite jusqu'à colorer tout le liquide translucide. Ce cycle se répète sans cesse sans interruption, même si on secoue la bouteille.
 
@@ -3212,7 +3212,7 @@ Quand vous buvez cette potion, vous êtes affecté par la version « rétrécir 
 
 - AltName: <!--AltName-->Potion of Healing (SRD p234)<!--/AltName-->
 - Source: <!--Source-->(COC p178)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, rareté variable
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->rareté variable<!--/Rarity-->
 
 Vous récupérez des points de vie quand vous buvez cette potion, le montant dépendant de la rareté de la potion, comme indiqué dans la table Potions de soins. Quelle que soit la puissance de la potion, son liquide rouge scintille quand on l'agite.
 
@@ -3233,7 +3233,7 @@ Potions de soins
 
 - AltName: <!--AltName-->Potion of Speed (SRD p235)<!--/AltName-->
 - Source: <!--Source-->(COC p178)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, très rare
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Vous bénéficiez des effets d'un sort de hâte pendant 1 minute (aucune concentration requise) après avoir bu cette potion. Le liquide jaune strié de noir de cette concoction tournoie de lui-même sans qu'on le remue.
 
@@ -3245,7 +3245,7 @@ Vous bénéficiez des effets d'un sort de hâte pendant 1 minute (aucune concent
 
 - AltName: <!--AltName-->Potion of Flying (SRD p234)<!--/AltName-->
 - Source: <!--Source-->(COC p178)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, très rare
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Quand vous buvez cette potion, vous gagnez une vitesse de vol égale à votre vitesse au sol pendant 1 heure. Vous êtes aussi en mesure de faire du vol stationnaire. Si vous vous trouvez dans les airs quand les effets de la potion se dissipent, vous tombez, à moins que vous ne disposiez d'un autre moyen de vous maintenir en l'air. Le liquide transparent de cette potion flotte au sommet de sa bouteille tandis que des impuretés d'un blanc laiteux le traversent.
 
@@ -3257,7 +3257,7 @@ Quand vous buvez cette potion, vous gagnez une vitesse de vol égale à votre vi
 
 - AltName: <!--AltName-->Potion of Heroism (SRD p234)<!--/AltName-->
 - Source: <!--Source-->(COC p179)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, rare
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Pendant 1 heure après l'avoir bue, vous obtenez 10 points de vie temporaires. Pendant cette même période, vous êtes sous l'effet d'un sort de bénédiction (aucune concentration requise). Le liquide bleu bouillonne comme s'il était chauffé en permanence.
 
@@ -3269,7 +3269,7 @@ Pendant 1 heure après l'avoir bue, vous obtenez 10 points de vie temporaires. P
 
 - AltName: <!--AltName-->Potion of Invisibility (SRD p234)<!--/AltName-->
 - Source: <!--Source-->(COC p179)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, très rare
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Le contenant de cette potion paraît vide mais il semble, au contact, contenir un liquide. Vous devenez invisible pendant 1 heure après l'avoir bue. La totalité des objets équipés ou transportés deviennent également invisibles. L'effet prend fin prématurément si vous attaquez ou lancez un sort.
 
@@ -3281,7 +3281,7 @@ Le contenant de cette potion paraît vide mais il semble, au contact, contenir u
 
 - AltName: <!--AltName-->Dust of Sneezing and Choking (SRD p219)<!--/AltName-->
 - Source: <!--Source-->(COC p179)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Cette poudre se trouve dans un petit récipient et ressemble à du sable fin. On dirait de la poussière de disparition et le sort d'identification confirme cette erreur. Il y en a assez pour une seule utilisation.
 
@@ -3295,7 +3295,7 @@ Quand vous utilisez une action pour jeter une poignée de poussière dans les ai
 
 - AltName: <!--AltName-->Dust of Dryness (SRD p219)<!--/AltName-->
 - Source: <!--Source-->(COC p179)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Ce petit paquet contient 1d6+4 pincées de poussière. Vous pouvez dépenser une action pour en saupoudrer une sur l'eau. La poussière transforme un cube d'eau de 4,50 mètres d'arête en une boulette de la taille d'une bille. Elle flotte ou repose près de l'endroit où vous avez saupoudré la poussière. Son poids est négligeable.
 
@@ -3311,7 +3311,7 @@ Un élémentaire majoritairement composé d'eau exposé à la poussière doit fa
 
 - AltName: <!--AltName-->Dust of Disappearance (SRD p219)<!--/AltName-->
 - Source: <!--Source-->(COC p179)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Cette poudre se trouve dans un petit paquet et ressemble à du sable fin. Il y en a assez pour une utilisation. Si vous utilisez une action pour lancer la poussière en l'air, vous et chaque créature et objet situé dans un rayon de 3 mètres autour de vous devenez invisible pendant 2d4 minutes. La durée est la même pour toutes les cibles et la poussière est entièrement consumée dès que sa magie fait effet. Si une créature affectée par la poussière attaque ou lance un sort, l'invisibilité se termine pour elle.
 
@@ -3323,7 +3323,7 @@ Cette poudre se trouve dans un petit paquet et ressemble à du sable fin. Il y e
 
 - AltName: <!--AltName-->Defender (SRD p218)<!--/AltName-->
 - Source: <!--Source-->(COC p179)<!--/Source-->
--  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cette arme magique.
 
@@ -3351,7 +3351,7 @@ Vous pouvez utiliser une action pour déplier et positionner le puits des mondes
 
 - AltName: <!--AltName-->Portable Hole (SRD p233)<!--/AltName-->
 - Source: <!--Source-->(COC p180)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Cette mince étoffe noire, aussi douce que de la soie, est repliée pour tenir aussi peu de place qu'un mouchoir. Dépliée, elle se présente sous forme d'un disque de 1,80 mètre de diamètre.
 
@@ -3371,7 +3371,7 @@ Si l'on place un puits portatif dans l'espace extradimensionnel né d'un havresa
 
 - AltName: <!--AltName-->Eyes of Charming (SRD p220)<!--/AltName-->
 - Source: <!--Source-->(COC p180)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ces lentilles de cristal se portent sur les yeux et possèdent trois charges. Tant que vous les portez, vous pouvez dépenser une charge pour lancer le sort charme-personne (DD 13) sur un humanoïde situé dans un rayon de 9 mètres, à condition que vous voyiez la cible et qu'elle vous voie. Chaque jour à l'aube, les lentilles régénèrent toutes les charges dépensées.
 
@@ -3383,7 +3383,7 @@ Ces lentilles de cristal se portent sur les yeux et possèdent trois charges. Ta
 
 - AltName: <!--AltName-->Robe of Stars (SRD p239)<!--/AltName-->
 - Source: <!--Source-->(COC p180)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cette robe noire ou bleue foncée est brodée de petites étoiles blanches ou argentées. Vous bénéficiez d'un bonus de +1 aux jets de sauvegarde tant que vous la portez.
 
@@ -3399,7 +3399,7 @@ Tant que vous portez la robe, vous pouvez effectuer une action pour entrer dans 
 
 - AltName: <!--AltName-->Robe of Eyes (SRD p238)<!--/AltName-->
 - Source: <!--Source-->(COC p180)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cette robe est ornée de motifs en forme d'yeux. Vous bénéficiez des avantages suivants tant que vous portez cette robe :
 
@@ -3419,7 +3419,7 @@ Un sort de lumière lancé sur la robe ou un sort de lumière du jour lancé à 
 
 - AltName: <!--AltName-->Robe of Scintillating Colors (SRD p238)<!--/AltName-->
 - Source: <!--Source-->(COC p181)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Cette robe contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube. Tant que vous la portez, vous pouvez utiliser une action et dépenser 1 charge pour que le vêtement produise un motif changeant de couleurs éblouissantes jusqu'à la fin de son prochain tour. Pendant cette période, la robe diffuse une lumière vive sur un rayon de 9 mètres et une faible lumière sur 9 mètres au-delà. Les créatures qui peuvent vous voir subissent un désavantage lors des jets d'attaque contre vous. De plus, les créatures situées dans la zone de lumière vive et qui peuvent vous voir lorsque le pouvoir de la robe est activé doivent réussir un jet de sauvegarde de Sagesse DD 15 pour ne pas être étourdies jusqu'à la fin de cet effet.
 
@@ -3431,7 +3431,7 @@ Cette robe contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 
 - AltName: <!--AltName-->Robe of the Archmagi (SRD p239)<!--/AltName-->
 - Source: <!--Source-->(COC p181)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation avec un ensorceleur, un sorcier ou un magicien exigée)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation avec un ensorceleur, un sorcier ou un magicien exigée<!--/Attunement-->)
 
 Ce vêtement élégant est taillé dans un magnifique tissu blanc, gris ou noir, brodé de runes argentées. La couleur de la robe correspond à l'alignement pour lequel l'objet à été crée. Les robes blanches sont conçues pour soutenir le bien, les grises pour soutenir la neutralité et les noires pour soutenir le mal. Vous ne pouvez pas vous harmoniser avec une robe de l'archimage qui ne correspond pas à votre alignement.
 
@@ -3449,7 +3449,7 @@ Vous bénéficiez des avantages suivants lorsque vous portez la robe :
 
 - AltName: <!--AltName-->Robe of Useful Items (SRD p239)<!--/AltName-->
 - Source: <!--Source-->(COC p182)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Cette robe est couverte de pièces de tissu de formes et de couleurs diverses. Tant que vous portez ce vêtement, vous pouvez effectuer une action pour détacher une des pièces et provoquer sa transformation en l'objet ou la créature qu'elle représente. Dès que la dernière pièce est détachée, la robe devient un vêtement ordinaire.
 
@@ -3488,7 +3488,7 @@ En outre, la robe se compose de 4d4 autres pièces. Le MJ choisit ces pièces ou
 
 - AltName: <!--AltName-->Bag of Devouring (SRD p210)<!--/AltName-->
 - Source: <!--Source-->(COC p182)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 À première vue, ce sac ressemble à un sac sans fond, mais en réalité, il s'agit de l'orifice nourricier d'une créature extradimensionnelle gigantesque. L'orifice se ferme si l'on met le sac sur l'envers, c'est-à-dire la paroi interne devenant la paroi externe.
 
@@ -3506,7 +3506,7 @@ Si le sac est perforé ou déchiré, il est détruit et tout ce qu'il contenait 
 
 - AltName: <!--AltName-->Bag of Tricks (SRD p210)<!--/AltName-->
 - Source: <!--Source-->(COC p182)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Ce banal sac gris, rouille ou brun semble vide. Cependant, si l'on plonge la main à l'intérieur, on sent un petit objet duveteux. Le sac pèse 250 grammes.
 
@@ -3563,7 +3563,7 @@ Sac à malice brun
 
 - AltName: <!--AltName-->Bag of Beans (SRD p209)<!--/AltName-->
 - Source: <!--Source-->(COC p183)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Ce lourd sac de toile contient 3d4 haricots secs. Il pèse 250 grammes plus 125 grammes par haricot.
 
@@ -3594,7 +3594,7 @@ Si vous sortez un haricot du sac, le plantez dans la terre ou le sable et l'arro
 
 - AltName: <!--AltName-->Bag of Holding (SRD p210)<!--/AltName-->
 - Source: <!--Source-->(COC p184)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Ce sac abrite un espace intérieur bien plus grand que ce que ses dimensions extérieures laissent présager. Visuellement, il fait une soixantaine de centimètres de diamètre au niveau de l'ouverture pour 1,20 mètre de profondeur. En revanche, il peut contenir jusqu'à 250 kilos de matière, sans dépasser un volume de 2 000 litres. Le sac pèse 7,5 kilos, quel que soit son contenu. Il faut dépenser une action pour récupérer un objet dans le sac.
 
@@ -3610,7 +3610,7 @@ Si l'on place un sac sans fond dans l'espace extradimensionnel né d'un havresac
 
 - AltName: <!--AltName-->Scarab of Protection (SRD p241)<!--/AltName-->
 - Source: <!--Source-->(COC p184)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Si vous tenez ce médaillon en forme de scarabée dans la main pendant 1 round, une inscription apparaît à sa surface, révélant sa nature magique. Il confère deux avantages tant que vous le portez sur vous :
 
@@ -3625,7 +3625,7 @@ Si vous tenez ce médaillon en forme de scarabée dans la main pendant 1 round, 
 
 - AltName: <!--AltName-->Rod of Absorption (SRD p239)<!--/AltName-->
 - Source: <!--Source-->(COC p184)<!--/Source-->
--  <!--Type-->Sceptre<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Sceptre<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Tant que vous tenez ce sceptre en main, vous pouvez utiliser votre réaction pour absorber un sort qui ne cible que vous et n'est donc pas un sort à zone d'effet. L'effet du sort absorbé est annulé et l'énergie magique (et non le sort lui-même) est stockée dans le sceptre. Cette énergie est du même niveau que le sort au moment de son incantation. Le sceptre peut absorber et stocker jusqu'à 50 niveaux d'énergie au cours de son existence. Dès que le sceptre a absorbé 50 niveaux d'énergie, il ne peut plus en absorber davantage. Si vous êtes la cible d'un sort dont le sceptre ne peut pas absorber l'énergie, l'objet magique ne produit aucun effet sur ce sort.
 
@@ -3643,7 +3643,7 @@ Un sceptre qui vient d'être découvert contient 1d10 niveaux d'énergie magique
 
 - AltName: <!--AltName-->Rod of Lordly Might (SRD p240)<!--/AltName-->
 - Source: <!--Source-->(COC p184)<!--/Source-->
--  <!--Type-->Sceptre<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Sceptre<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce sceptre à la tête en collerette fonctionne comme une masse d'armes magique qui confère un bonus de +3 aux jets d'attaque et de dégâts effectués avec elle. Le sceptre possède les propriétés associées aux six boutons différents alignés le long de son manche. Il possède également trois autres propriétés, comme décrit ci-dessous.
 
@@ -3675,7 +3675,7 @@ Si vous appuyez sur le **bouton 6**, le sceptre reprend ou conserve sa forme nor
 
 - AltName: <!--AltName-->Rod of Security (SRD p241)<!--/AltName-->
 - Source: <!--Source-->(COC p185)<!--/Source-->
--  <!--Type-->Sceptre<!--/Type-->, très rare
+-  <!--Type-->Sceptre<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Tant que vous tenez ce sceptre en main, vous pouvez utiliser une action pour l'activer. Le sceptre vous transporte alors instantanément, ainsi qu'un maximum de 199 autres créatures consentantes situées dans votre champ de vision, vers un espace extraplanaire paradisiaque. Vous décidez à quoi ressemble cet endroit paradisiaque qui peut être un jardin paisible, une jolie clairière, une taverne accueillante, un immense palais, une île tropicale, un fantastique carnaval ou n'importe quel autre endroit sorti de votre imagination. Quelle que soit sa nature, cet endroit paradisiaque contient suffisamment d'eau et de nourriture pour toutes les créatures présentes. Toutes les autres choses avec lesquelles il est possible d'interagir à l'intérieur de l'espace extraplanaire n'existent que là-bas. Par exemple, une fleur cueillie dans un jardin paradisiaque disparaît dès qu'elle en sort.
 
@@ -3691,7 +3691,7 @@ Une fois cette période écoulée ou si vous utilisez une action pour y mettre f
 
 - AltName: <!--AltName-->Rod of Rulership (SRD p240)<!--/AltName-->
 - Source: <!--Source-->(COC p185)<!--/Source-->
--  <!--Type-->Sceptre<!--/Type-->, rare (harmonisation requise)
+-  <!--Type-->Sceptre<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Vous pouvez utiliser une action pour présenter le sceptre et exiger l'obéissance des créatures de votre choix situées à 36 mètres ou moins dans votre champ de vision. Les créatures doivent chacune réussir un jet de sauvegarde de Sagesse DD 15 pour ne pas être charmées par vous pendant 8 heures. Une fois charmées de cette façon, les créatures vous considèrent comme un chef fiable. Une cible n'est plus charmée par ce biais si vous ou vos compagnons lui nuisent ou lui ordonnent d'accomplir quelque chose de contraire à sa nature. Le sceptre n'est réutilisable qu'à l'aube suivante.
 
@@ -3703,7 +3703,7 @@ Vous pouvez utiliser une action pour présenter le sceptre et exiger l'obéissan
 
 - AltName: <!--AltName-->Rod of Alertness (SRD p240)<!--/AltName-->
 - Source: <!--Source-->(COC p185)<!--/Source-->
--  <!--Type-->Sceptre<!--/Type-->, très rare (harmonisation requise)
+-  <!--Type-->Sceptre<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce sceptre à la tête en collerette possède les propriétés suivantes.
 
@@ -3723,7 +3723,7 @@ La lumière diffusée par la tête du sceptre s'éteint et l'effet prend fin au 
 
 - AltName: <!--AltName-->Immovable Rod (SRD p226)<!--/AltName-->
 - Source: <!--Source-->(COC p186)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, peu courant
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
 
 Ce sceptre plat en fer est équipé d'un bouton sur une extrémité. Vous pouvez utiliser une action pour appuyer dessus : il se fixe alors par magie à l'endroit où il se trouve. Il ne bouge plus tant que vous ou une tierce personne n'utilisez pas une action pour appuyer de nouveau sur le bouton, même s'il doit pour cela défier les lois de la gravité. Le sceptre peut soutenir jusqu'à 4 tonnes. Il se désactive et tombe si on lui fait porter plus de poids. Une créature peut utiliser une action pour faire un test de Force DD 30 afin de déplacer le sceptre. Si elle réussit, il bouge d'au maximum 3 mètres.
 
@@ -3813,7 +3813,7 @@ Leviers du submersible du crabe
 
 - AltName: <!--AltName-->Talisman of the Sphere (SRD p247)<!--/AltName-->
 - Source: <!--Source-->(COC p187)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Lorsque vous effectuez un test d'Intelligence (Arcanes) pour contrôler une sphère d'annihilation en tenant ce talisman en main, vous doublez votre bonus de maîtrise pour ce test. En outre, lorsque vous commencez votre tour en contrôlant une sphère d'annihilation, vous pouvez utiliser une action pour la faire léviter sur une distance de 3 mètres plus 3 mètres supplémentaires × votre modificateur d'Intelligence.
 
@@ -3825,7 +3825,7 @@ Lorsque vous effectuez un test d'Intelligence (Arcanes) pour contrôler une sph�
 
 - AltName: <!--AltName-->Talisman of Pure Good (SRD p247)<!--/AltName-->
 - Source: <!--Source-->(COC p187)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation avec une créature d'alignement bon exigée)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation avec une créature d'alignement bon exigée<!--/Attunement-->)
 
 Ce talisman est un puissant symbole du bien. Une créature dont l'alignement n'est ni bon ni mauvais subit 6d6 dégâts radiants quand elle le touche. Une créature d'alignement mauvais subit 8d6 dégâts radiants quand elle le touche. Quand elles le tiennent en main ou portent le talisman sur elles, ces deux types de créature subissent une nouvelle fois les dégâts à la fin de chacun de leurs tours.
 
@@ -3841,7 +3841,7 @@ Le talisman contient 7 charges. Si vous le portez sur vous ou le tenez en main, 
 
 - AltName: <!--AltName-->Talisman of Ultimate Evil (SRD p247)<!--/AltName-->
 - Source: <!--Source-->(COC p187)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation avec une créature d'alignement mauvais exigée)
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation avec une créature d'alignement mauvais exigée<!--/Attunement-->)
 
 Ce talisman est un puissant symbole du mal. Une créature dont l'alignement n'est ni bon ni mauvais subit 6d6 dégâts nécrotiques quand elle le touche. Une créature d'alignement bon subit 8d6 dégâts nécrotiques quand elle le touche. Quand elles tiennent en main ou portent le talisman sur elles, ces deux types de créature subissent une nouvelle fois les dégâts à la fin de chacun de leurs tours.
 
@@ -3857,7 +3857,7 @@ Le talisman contient 6 charges. Si vous le portez sur vous ou le tenez en main, 
 
 - AltName: <!--AltName-->Carpet of Flying (SRD p213)<!--/AltName-->
 - Source: <!--Source-->(COC p188)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Quand vous prononcez le mot de commande de ce tapis par une action, il flotte dans les airs. Il se déplace en volant selon vos indications vocales tant que vous vous trouvez à 9 mètres ou moins de lui.
 
@@ -3880,7 +3880,7 @@ Un tapis peut porter deux fois le poids indiqué dans la table mais, s'il porte 
 
 - AltName: <!--AltName-->Tome of Leadership and Influence (SRD p247)<!--/AltName-->
 - Source: <!--Source-->(COC p188)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Ce livre contient des exercices d'interactions sociales basées sur la manipulation et la charme. Ses mots sont imprégnés de magie. Si vous passez 48 heures, lors d'une période de 6 jours ou moins, à étudier le contenu du traité, à suivre ses indications et faire ses exercices, votre valeur de Charisme ainsi que votre valeur maximale dans cette caractéristique augmentent de 2. La magie du traité disparaît ensuite, mais elle réapparaît au bout d'un siècle.
 
@@ -3892,7 +3892,7 @@ Ce livre contient des exercices d'interactions sociales basées sur la manipulat
 
 - AltName: <!--AltName-->Tome of Understanding (SRD p247)<!--/AltName-->
 - Source: <!--Source-->(COC p188)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Ce livre contient des exercices intuitifs de sagacité. Ses mots sont imprégnés de magie. Si vous passez 48 heures, lors d'une période de 6 jours ou moins, à étudier le contenu du traité, à suivre ses indications et faire ses exercices, votre valeur de Sagesse ainsi que votre valeur maximale dans cette caractéristique augmentent de 2. La magie du traité disparaît ensuite, mais elle réapparaît au bout d'un siècle.
 
@@ -3904,7 +3904,7 @@ Ce livre contient des exercices intuitifs de sagacité. Ses mots sont imprégné
 
 - AltName: <!--AltName-->Tome of Clear Thought (SRD p247)<!--/AltName-->
 - Source: <!--Source-->(COC p188)<!--/Source-->
--  <!--Type-->Objet merveilleux<!--/Type-->, très rare
+-  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
 
 Ce livre contient des exercices de logique et de mémoire. Ses mots sont imprégnés de magie. Si vous passez 48 heures, lors d'une période de 6 jours ou moins, à étudier le contenu du traité, à suivre ses indications et faire ses exercices, votre valeur d'Intelligence ainsi que votre valeur maximale dans cette caractéristique augmentent de 2. La magie du traité disparaît ensuite, mais elle réapparaît au bout d'un siècle.
 
@@ -3916,7 +3916,7 @@ Ce livre contient des exercices de logique et de mémoire. Ses mots sont imprég
 
 - AltName: <!--AltName-->Trident of Fish Command (SRD p247)<!--/AltName-->
 - Source: <!--Source-->(COC p188)<!--/Source-->
--  <!--Type-->Arme (trident)<!--/Type-->, peu courante (harmonisation requise)
+-  <!--Type-->Arme (trident)<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
 
 Ce trident est une arme magique. Il contient 3 charges. Tant que vous le portez sur vous, vous pouvez utiliser une action et dépenser 1 charge pour lancer dominer une bête (DD du jet de sauvegarde 15) par son biais sur une créature qui sait nager de manière innée et possède une vitesse à la nage. Le trident récupère 1d3 charges dépensées chaque jour, à l'aube.
 
@@ -3928,7 +3928,7 @@ Ce trident est une arme magique. Il contient 3 charges. Tant que vous le portez 
 
 - AltName: <!--AltName-->Dragon Slayer (SRD p219)<!--/AltName-->
 - Source: <!--Source-->(COC p188)<!--/Source-->
--  <!--Type-->Arme (épée)<!--/Type-->, rare
+-  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.
 
@@ -3942,7 +3942,7 @@ Quand vous touchez un dragon avec elle, il subit 3d6 dégâts supplémentaires d
 
 - AltName: <!--AltName-->Giant Slayer (SRD p224)<!--/AltName-->
 - Source: <!--Source-->(COC p188)<!--/Source-->
--  <!--Type-->Arme (épée ou hache)<!--/Type-->, rare
+-  <!--Type-->Arme (épée ou hache)<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme magique.
 
@@ -3956,7 +3956,7 @@ Quand vous touchez un géant avec elle, il subit 2d6 dégâts supplémentaires d
 
 - AltName: <!--AltName-->Holy Avenger (SRD p225)<!--/AltName-->
 - Source: <!--Source-->(COC p188)<!--/Source-->
--  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (harmonisation requise avec un paladin)
+-  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise avec un paladin<!--/Attunement-->)
 
 Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme magique. Quand vous touchez un fiélon ou un mort-vivant avec, il subit 2d10 dégâts radiants supplémentaires.
 
@@ -3970,7 +3970,7 @@ Tant que vous tenez l'arme en main, elle génère une aura de 3 mètres de rayon
 
 - AltName: <!--AltName-->Nine Lives Stealer (SRD p231)<!--/AltName-->
 - Source: <!--Source-->(COC p188)<!--/Source-->
--  <!--Type-->Arme (épée)<!--/Type-->, très rare (harmonisation requise) 
+-  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->) 
 
 Vous gagnez un bonus de +2 aux jets d'attaque et de dégâts avec cette arme magique.
 
@@ -3979,3 +3979,6 @@ L'épée possède 1d8+1 charges. Si vous réussissez un coup critique contre une
 <!--/MagicItem-->
 
 <!--/MagicItems-->
+
+[ceinturon de force de géant]: magicitems_az_hd.md#ceinturon-de-force-de-géant
+[gantelets de puissance d'ogre]: magicitems_az_hd.md#gantelets-de-puissance-dogre

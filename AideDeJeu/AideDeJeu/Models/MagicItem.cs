@@ -9,5 +9,6 @@ namespace AideDeJeuLib
     {
         public string Type { get; set; }
         public string Rarity { get; set; }
+        public string Attunement { get; set; }
     }
 }

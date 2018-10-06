@@ -72,6 +72,8 @@ namespace AideDeJeu.ViewModels
         MaxPrice,
         MinWeight,
         MaxWeight,
+        Rarity,
+        Attunement,
     }
 
     public class Filter : BaseViewModel
@@ -849,6 +851,8 @@ namespace AideDeJeu.ViewModels
                     _Filters = new List<Filter>()
                     {
                         new Filter() { Key = FilterKeys.Type, Name = "Type", KeyValues = Types, _Index = 0 },
+                        new Filter() { Key = FilterKeys.Rarity, Name = "Rareté", KeyValues = Rarity, _Index = 0 },
+                        new Filter() { Key = FilterKeys.Attunement, Name = "Harmonisation", KeyValues = Attunement, _Index = 0 },
                         //new Filter() { Key = FilterKeys.MinPrice, Name = "Prix Minimum", KeyValues = Prices, _Index = 0 },
                         //new Filter() { Key = FilterKeys.MaxPrice, Name = "Prix Maximum", KeyValues = Prices, _Index = 9 },
                     };
@@ -864,14 +868,16 @@ namespace AideDeJeu.ViewModels
             {
                 var priceComparer = new PriceComparer();
                 var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-                //var minPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey ?? "0 pc";
-                //var maxPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey ?? "1 000 000 po";
+                var rarity = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Rarity).SelectedKey ?? "";
+                var attunement = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Attunement).SelectedKey ?? "";
                 //token.ThrowIfCancellationRequested();
                 return items.Where(item =>
                 {
                     var magicitem = item as MagicItem;
                     return magicitem != null &&
                         magicitem.Type.ToLower().Contains(type.ToLower()) &&
+                        (string.IsNullOrEmpty(rarity) || (magicitem.Rarity != null && magicitem.Rarity.ToLower().Contains(rarity.ToLower()))) &&
+                        (string.IsNullOrEmpty(attunement) || (magicitem.Attunement != null && magicitem.Attunement.ToLower().Contains(attunement.ToLower()))) &&
                         //priceComparer.Compare(equipment.Price, minPrice) >= 0 &&
                         //priceComparer.Compare(equipment.Price, maxPrice) <= 0 &&
                         (
@@ -886,7 +892,9 @@ namespace AideDeJeu.ViewModels
 
         public abstract List<KeyValuePair<string, string>> Types { get; }
 
-        //public abstract List<KeyValuePair<string, string>> Prices { get; }
+        public abstract List<KeyValuePair<string, string>> Rarity { get; }
+
+        public abstract List<KeyValuePair<string, string>> Attunement { get; }
     }
 
     public class VFMagicItemFilterViewModel : MagicItemFilterViewModel
@@ -906,19 +914,32 @@ namespace AideDeJeu.ViewModels
             new KeyValuePair<string, string>("Sceptre", "Sceptre" ),
         };
 
-        //public override List<KeyValuePair<string, string>> Prices { get; } = new List<KeyValuePair<string, string>>()
-        //{
-        //    new KeyValuePair<string, string>("0 pc", "0 pc" ),
-        //    new KeyValuePair<string, string>("1 pc", "1 pc" ),
-        //    new KeyValuePair<string, string>("1 pa", "1 pa" ),
-        //    new KeyValuePair<string, string>("1 po", "1 po" ),
-        //    new KeyValuePair<string, string>("10 po", "10 po" ),
-        //    new KeyValuePair<string, string>("100 po", "100 po" ),
-        //    new KeyValuePair<string, string>("1 000 po", "1 000 po" ),
-        //    new KeyValuePair<string, string>("10 000 po", "10 000 po" ),
-        //    new KeyValuePair<string, string>("100 000 po", "100 000 po" ),
-        //    new KeyValuePair<string, string>("1 000 000 po", "1 000 000 po" ),
-        //};
+        public override List<KeyValuePair<string, string>> Rarity { get; } = new List<KeyValuePair<string, string>>()
+        {
+            new KeyValuePair<string, string>("", "Toutes" ),
+            new KeyValuePair<string, string>("peu courant", "Peu courant" ),
+            new KeyValuePair<string, string>("rare", "Rare" ),
+            new KeyValuePair<string, string>("très rare", "Très rare" ),
+            new KeyValuePair<string, string>("légendaire", "Légendaire" ),
+            new KeyValuePair<string, string>("rareté variable", "Rareté variable" ),
+        };
+
+        public override List<KeyValuePair<string, string>> Attunement { get; } = new List<KeyValuePair<string, string>>()
+        {
+            new KeyValuePair<string, string>("", "Tout" ),
+            new KeyValuePair<string, string>("requise", "Requise" ),
+            new KeyValuePair<string, string>("lanceur de sorts", "Lanceur de sorts" ),
+            new KeyValuePair<string, string>("barde", "  Barde" ),
+            new KeyValuePair<string, string>("clerc", "  Clerc" ),
+            new KeyValuePair<string, string>("druide", "  Druide" ),
+            new KeyValuePair<string, string>("ensorceleur", "  Ensorceleur" ),
+            new KeyValuePair<string, string>("magicien", "  Magicien" ),
+            new KeyValuePair<string, string>("sorcier", "  Sorcier" ),
+            new KeyValuePair<string, string>("paladin", "  Paladin" ),
+            new KeyValuePair<string, string>("alignement bon", "Alignement bon" ),
+            new KeyValuePair<string, string>("alignement mauvais", "Alignement mauvais" ),
+            new KeyValuePair<string, string>("nain", "Nain" ),
+        };
     }
 
     #endregion Equipments
