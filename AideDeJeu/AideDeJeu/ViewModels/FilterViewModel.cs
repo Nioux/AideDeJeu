@@ -39,6 +39,18 @@ namespace AideDeJeu.ViewModels
             return string.IsNullOrEmpty(filterValue) || (itemValue != null && itemValue.ToLower().Contains(filterValue.ToLower()));
         }
 
+        public bool MatchEquals(string itemValue, string filterValue)
+        {
+            return string.IsNullOrEmpty(filterValue) || (itemValue != null && itemValue.ToLower().Equals(filterValue.ToLower()));
+        }
+
+        public bool MatchRange(string itemValue, string filterMinValue, string filterMaxValue, IComparer<string> comparer)
+        {
+            return
+                (string.IsNullOrEmpty(filterMinValue) || comparer.Compare(itemValue, filterMinValue) >= 0) &&
+                (string.IsNullOrEmpty(filterMaxValue) || comparer.Compare(itemValue, filterMaxValue) <= 0);
+        }
+
         protected void RegisterFilters()
         {
             foreach (var filter in Filters)
