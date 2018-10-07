@@ -1,7 +1,16 @@
 
-<!--MagicItems-->
+<!--Generic-->
 
 ## <!--Name-->Les objets magiques<!--/Name-->
+
+- AltName: <!--AltName-->Magic Items A-Z (SRD p207)<!--/AltName-->
+- Source: <!--Source-->(COC p138)<!--/Source-->
+
+Les objets magiques sont présentés ici dans l'ordre alphabétique. Le descriptif de chacun comprend son nom, sa catégorie, sa rareté et ses propriétés magiques.
+
+<!--MagicItems-->
+
+## <!--Name-->Les objets magiques de A à Z<!--/Name-->
 
 - AltName: <!--AltName-->Magic Items A-Z (SRD p207)<!--/AltName-->
 
@@ -3979,6 +3988,8 @@ L'épée possède 1d8+1 charges. Si vous réussissez un coup critique contre une
 <!--/MagicItem-->
 
 <!--/MagicItems-->
+
+<!--/Generic-->
 
 [ceinturon de force de géant]: magicitems_az_hd.md#ceinturon-de-force-de-géant
 [gantelets de puissance d'ogre]: magicitems_az_hd.md#gantelets-de-puissance-dogre
