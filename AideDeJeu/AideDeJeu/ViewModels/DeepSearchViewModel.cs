@@ -51,7 +51,7 @@ namespace AideDeJeu.ViewModels
         {
             List<SearchedItem> primaryItems = new List<SearchedItem>();
             List<SearchedItem> secondaryItems = new List<SearchedItem>();
-            var cleanSearchText = Tools.Helpers.RemoveDiacritics(searchText).ToLower();
+            var cleanSearchText = Tools.Helpers.RemoveDiacritics(searchText ?? string.Empty).ToLower();
             foreach (var item in Store._AllItems)
             {
                 var name = item.Value.Name;

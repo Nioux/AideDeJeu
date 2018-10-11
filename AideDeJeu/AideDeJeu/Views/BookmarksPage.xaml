@@ -5,7 +5,8 @@
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              x:Class="AideDeJeu.Views.BookmarksPage"
              x:Name="This"
-             Title="Favoris">
+             Title="Favoris"
+             Icon="stars_stack.png">
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:IntToBooleanConverter x:Key="IntToBooleanConverter" NonZeroValue="False" NullOrZeroValue="True" />
