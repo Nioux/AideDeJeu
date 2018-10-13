@@ -291,6 +291,7 @@ namespace AideDeJeuCmd
         static async Task Main(string[] args)
         {
             Tests.Xamarin.Forms.Mocks.MockForms.Init();
+            SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
             DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
             var store = new StoreViewModel();
             await store.GetItemFromDataAsync("test", "truc");

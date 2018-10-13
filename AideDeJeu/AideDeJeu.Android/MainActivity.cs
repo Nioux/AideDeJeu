@@ -23,6 +23,7 @@ namespace AideDeJeu.Droid
             Rg.Plugins.Popup.Popup.Init(this, bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
+            SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
             LoadApplication(new App());
         }
 

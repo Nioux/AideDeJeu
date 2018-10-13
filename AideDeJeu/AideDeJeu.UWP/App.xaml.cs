@@ -56,6 +56,7 @@ namespace AideDeJeu.UWP
 
                 //Xamarin.Forms.Forms.Init(e);
                 Xamarin.Forms.Forms.Init(e, Rg.Plugins.Popup.Popup.GetExtraAssemblies());
+                SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
 
                 if (e.PreviousExecutionState == ApplicationExecutionState.Terminated)
                 {

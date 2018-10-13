@@ -4,7 +4,7 @@ using Markdig;
 using Markdig.Parsers;
 using Markdig.Syntax;
 using Markdig.Syntax.Inlines;
-using SQLite;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -363,57 +363,28 @@ namespace AideDeJeu.ViewModels
         }
 
 
-
-
-        public class TodoItemDatabase
+        public class AideDeJeuContext : DbContext
         {
-            readonly SQLiteAsyncConnection database;
+            public string DatabasePath { get; set; }
+            public DbSet<Spell> Spells { get; set; }
+            public DbSet<Monster> Monsters { get; set; }
 
-            public TodoItemDatabase(string dbPath)
+            protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
-                database = new SQLiteAsyncConnection(dbPath);
-                database.CreateTableAsync<Item>().Wait();
-            }
-
-            public Task<List<Item>> GetItemsAsync()
-            {
-                return database.Table<Item>().ToListAsync();
-            }
-
-            public Task<List<Item>> GetItemsNotDoneAsync()
-            {
-                return database.QueryAsync<Item>("SELECT * FROM [Item]");
-            }
-
-            public Task<Item> GetItemAsync(string id)
-            {
-                return database.Table<Item>().Where(i => i.Id == id).FirstOrDefaultAsync();
-            }
-
-            public Task<int> SaveItemAsync(Item item)
-            {
-                if (!string.IsNullOrEmpty(item.Id))
-                {
-                    return database.UpdateAsync(item);
-                }
-                else
-                {
-                    return database.InsertAsync(item);
-                }
-            }
-
-            public Task<int> DeleteItemAsync(Item item)
-            {
-                return database.DeleteAsync(item);
+                optionsBuilder.UseSqlite($"Data Source={DatabasePath}");
             }
         }
+
+
+
         public async Task<Item> GetItemFromDataAsync(string source, string anchor)
         {
-            SQLiteAsyncConnection database;
             var dbPath = DependencyService.Get<INativeAPI>().GetDatabasePath("database.db");
-            database = new SQLiteAsyncConnection(dbPath, SQLiteOpenFlags.ReadOnly);
+            using (var context = new AideDeJeuContext() { DatabasePath = dbPath })
+            {
+                var monsters = await context.Monsters.ToListAsync();
+            }
             return null;
-            var it = await database.Table<Item>().ToListAsync();
 
 
             var id = $"{source}.md#{anchor}";

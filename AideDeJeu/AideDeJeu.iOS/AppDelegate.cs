@@ -25,6 +25,7 @@ namespace AideDeJeu.iOS
             Rg.Plugins.Popup.Popup.Init();
 
             global::Xamarin.Forms.Forms.Init();
+            SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_sqlite3());
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);
