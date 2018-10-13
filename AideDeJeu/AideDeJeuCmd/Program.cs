@@ -290,6 +290,11 @@ namespace AideDeJeuCmd
 
         static async Task Main(string[] args)
         {
+            Tests.Xamarin.Forms.Mocks.MockForms.Init();
+            DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
+            var store = new StoreViewModel();
+            await store.GetItemFromDataAsync("test", "truc");
+            return;
             await ReorderSpellsAsync();
             return;
             string dataDir = @"..\..\..\..\..\Data\";

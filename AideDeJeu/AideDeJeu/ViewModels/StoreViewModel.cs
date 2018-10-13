@@ -4,6 +4,7 @@ using Markdig;
 using Markdig.Parsers;
 using Markdig.Syntax;
 using Markdig.Syntax.Inlines;
+using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,7 @@ using System.Reflection;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using Xamarin.Forms;
 
 namespace AideDeJeu.ViewModels
 {
@@ -360,8 +362,60 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+
+
+
+        public class TodoItemDatabase
+        {
+            readonly SQLiteAsyncConnection database;
+
+            public TodoItemDatabase(string dbPath)
+            {
+                database = new SQLiteAsyncConnection(dbPath);
+                database.CreateTableAsync<Item>().Wait();
+            }
+
+            public Task<List<Item>> GetItemsAsync()
+            {
+                return database.Table<Item>().ToListAsync();
+            }
+
+            public Task<List<Item>> GetItemsNotDoneAsync()
+            {
+                return database.QueryAsync<Item>("SELECT * FROM [Item]");
+            }
+
+            public Task<Item> GetItemAsync(string id)
+            {
+                return database.Table<Item>().Where(i => i.Id == id).FirstOrDefaultAsync();
+            }
+
+            public Task<int> SaveItemAsync(Item item)
+            {
+                if (!string.IsNullOrEmpty(item.Id))
+                {
+                    return database.UpdateAsync(item);
+                }
+                else
+                {
+                    return database.InsertAsync(item);
+                }
+            }
+
+            public Task<int> DeleteItemAsync(Item item)
+            {
+                return database.DeleteAsync(item);
+            }
+        }
         public async Task<Item> GetItemFromDataAsync(string source, string anchor)
         {
+            SQLiteAsyncConnection database;
+            var dbPath = DependencyService.Get<INativeAPI>().GetDatabasePath("database.db");
+            database = new SQLiteAsyncConnection(dbPath, SQLiteOpenFlags.ReadOnly);
+            return null;
+            var it = await database.Table<Item>().ToListAsync();
+
+
             var id = $"{source}.md#{anchor}";
             //await Task.Delay(3000);
             if (!_AllItems.ContainsKey(id) && !_AllItems.ContainsKey(source))

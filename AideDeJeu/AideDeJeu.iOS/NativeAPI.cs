@@ -24,8 +24,9 @@ namespace AideDeJeu.Droid
 
         public string GetDatabasePath(string databaseName)
         {
-            var databasePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "..", "Library", databaseName);
-            return databasePath;
+            return NSBundle.MainBundle.PathForResource("database", "db");
+            //var databasePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "..", "Library", databaseName);
+            //return databasePath;
         }
     }
 }

@@ -7,6 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="..\..\Data\database.db" Link="database.db" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="3.2.0.871581" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\AideDeJeu\AideDeJeu.csproj" />
   </ItemGroup>
 

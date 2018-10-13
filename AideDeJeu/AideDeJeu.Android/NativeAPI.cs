@@ -29,33 +29,36 @@ namespace AideDeJeu.Droid
 
         public string GetDatabasePath(string databaseName)
         {
-            var documentsDirectoryPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
-            var path = Path.Combine(documentsDirectoryPath, databaseName);
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
+            string dbPath = Path.Combine(path, databaseName);
+            return dbPath;
+            //var documentsDirectoryPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+            //var path = Path.Combine(documentsDirectoryPath, databaseName);
 
-            // This is where we copy in our pre-created database
-            if (!File.Exists(path))
-            {
-                using (var inStream = Android.App.Application.Context.Assets.Open(databaseName))
-                {
-                    using (var outStream = new FileStream(path, FileMode.Create))
-                    {
-                        inStream.CopyTo(outStream);
-                    }
-                }
-                //using (var binaryReader = new BinaryReader(Android.App.Application.Context.Assets.Open(databaseName)))
-                //{
-                //    using (var binaryWriter = new BinaryWriter(new FileStream(path, FileMode.Create)))
-                //    {
-                //        byte[] buffer = new byte[2048];
-                //        int length = 0;
-                //        while ((length = binaryReader.Read(buffer, 0, buffer.Length)) > 0)
-                //        {
-                //            binaryWriter.Write(buffer, 0, length);
-                //        }
-                //    }
-                //}
-            }
-            return path;
+            //// This is where we copy in our pre-created database
+            //if (!File.Exists(path))
+            //{
+            //    using (var inStream = Android.App.Application.Context.Assets.Open(databaseName))
+            //    {
+            //        using (var outStream = new FileStream(path, FileMode.Create))
+            //        {
+            //            inStream.CopyTo(outStream);
+            //        }
+            //    }
+            //    //using (var binaryReader = new BinaryReader(Android.App.Application.Context.Assets.Open(databaseName)))
+            //    //{
+            //    //    using (var binaryWriter = new BinaryWriter(new FileStream(path, FileMode.Create)))
+            //    //    {
+            //    //        byte[] buffer = new byte[2048];
+            //    //        int length = 0;
+            //    //        while ((length = binaryReader.Read(buffer, 0, buffer.Length)) > 0)
+            //    //        {
+            //    //            binaryWriter.Write(buffer, 0, length);
+            //    //        }
+            //    //    }
+            //    //}
+            //}
+            //return path;
         }
     }
 }
