@@ -2,6 +2,7 @@
 using AideDeJeu.ViewModels;
 using AideDeJeuLib;
 using Markdig;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -293,8 +294,16 @@ namespace AideDeJeuCmd
             Tests.Xamarin.Forms.Mocks.MockForms.Init();
             SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
             DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
-            var store = new StoreViewModel();
-            await store.GetItemFromDataAsync("test", "truc");
+            //var store = new StoreViewModel();
+            //await store.GetItemFromDataAsync("test", "truc");
+
+            using (var context = new StoreViewModel.AideDeJeuContext())
+            {
+                await context.Database.EnsureDeletedAsync();
+                await context.Database.EnsureCreatedAsync();
+                var monsters = await context.Monsters.ToListAsync();
+            }
+
             return;
             await ReorderSpellsAsync();
             return;

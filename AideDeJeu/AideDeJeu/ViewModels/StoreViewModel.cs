@@ -365,24 +365,33 @@ namespace AideDeJeu.ViewModels
 
         public class AideDeJeuContext : DbContext
         {
-            public string DatabasePath { get; set; }
             public DbSet<Spell> Spells { get; set; }
             public DbSet<Monster> Monsters { get; set; }
 
+            //private static bool _created = false;
+            //public AideDeJeuContext()
+            //{
+            //    if (!_created)
+            //    {
+            //        _created = true;
+            //        Database.EnsureDeleted();
+            //        Database.EnsureCreated();
+            //    }
+            //}
+
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
-                optionsBuilder.UseSqlite($"Data Source={DatabasePath}");
+                var dbPath = DependencyService.Get<INativeAPI>().GetDatabasePath("database.db");
+                optionsBuilder.UseSqlite($"Data Source=\"{dbPath}\"");
             }
         }
 
-
-
         public async Task<Item> GetItemFromDataAsync(string source, string anchor)
         {
-            var dbPath = DependencyService.Get<INativeAPI>().GetDatabasePath("database.db");
-            using (var context = new AideDeJeuContext() { DatabasePath = dbPath })
+            using (var context = new AideDeJeuContext())
             {
-                var monsters = await context.Monsters.ToListAsync();
+                //var monsters = await context.Monsters.ToListAsync();
+                await context.SaveChangesAsync();
             }
             return null;
 
