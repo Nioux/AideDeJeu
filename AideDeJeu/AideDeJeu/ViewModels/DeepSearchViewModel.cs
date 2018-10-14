@@ -1,7 +1,9 @@
 ﻿using AideDeJeu.Views;
 using AideDeJeuLib;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
@@ -23,7 +25,7 @@ namespace AideDeJeu.ViewModels
         public async Task ExecuteSearchCommandAsync(string searchText)
         {
             Main.IsLoading = true;
-            await Task.Run(async () => await Store.PreloadAllItemsAsync());
+            //await Task.Run(async () => await Store.PreloadAllItemsAsync());
             Items = await Task.Run(async () => await DeepSearchAllItemsAsync(searchText));
             Main.IsLoading = false;
         }
@@ -47,35 +49,61 @@ namespace AideDeJeu.ViewModels
             public Item Item { get; set; }
         }
 
+        public string GetPreview(string markdown, string searchText)
+        {
+            int position = markdown.IndexOf(searchText);
+            int startPosition = Math.Max(0, position - 30);
+            int endPosition = Math.Min(markdown.Length, position + searchText.Length + 30);
+            return markdown.Substring(startPosition, endPosition - startPosition - 1);
+        }
+
         public async Task<IEnumerable<SearchedItem>> DeepSearchAllItemsAsync(string searchText)
         {
-            List<SearchedItem> primaryItems = new List<SearchedItem>();
-            List<SearchedItem> secondaryItems = new List<SearchedItem>();
-            var cleanSearchText = Tools.Helpers.RemoveDiacritics(searchText ?? string.Empty).ToLower();
-            foreach (var item in Store._AllItems)
+            using (var context = new StoreViewModel.AideDeJeuContext())
             {
-                var name = item.Value.Name;
-                var cleanName = Tools.Helpers.RemoveDiacritics(name).ToLower();
-                if (cleanName.Contains(cleanSearchText))
-                {
-                    primaryItems.Add(new SearchedItem() { Item = item.Value, Preview = name });
-                }
-                else
-                {
-                    var markdown = item.Value.Markdown;
-                    var cleanMarkdown = Tools.Helpers.RemoveDiacritics(markdown).ToLower();
-                    if (cleanMarkdown.Contains(cleanSearchText))
+                var primary = await context.Items.
+                    Where(item => item.Name.Contains(searchText)).
+                    Select(item => new SearchedItem() { Item = item, Preview = item.Name }).
+                    ToListAsync();
+                var secondary = await context.Items.
+                    Where(item => item.Markdown.Contains(searchText)).
+                    Select(item => new SearchedItem()
                     {
-                        int position = cleanMarkdown.IndexOf(cleanSearchText);
-                        int startPosition = Math.Max(0, position - 30);
-                        int endPosition = Math.Min(markdown.Length, position + searchText.Length + 30);
-                        var preview = markdown.Substring(startPosition, endPosition - startPosition - 1);
-                        secondaryItems.Add(new SearchedItem() { Item = item.Value, Preview = preview });
-                    }
-                }
+                        Item = item, Preview = GetPreview(item.Markdown, searchText)
+                    }).ToListAsync();
+                primary.AddRange(secondary);
+                return primary.ToList();
             }
-            primaryItems.AddRange(secondaryItems);
-            return primaryItems;
+
+            
+
+            //List<SearchedItem> primaryItems = new List<SearchedItem>();
+            //List<SearchedItem> secondaryItems = new List<SearchedItem>();
+            //var cleanSearchText = Tools.Helpers.RemoveDiacritics(searchText ?? string.Empty).ToLower();
+            //foreach (var item in Store._AllItems)
+            //{
+            //    var name = item.Value.Name;
+            //    var cleanName = Tools.Helpers.RemoveDiacritics(name).ToLower();
+            //    if (cleanName.Contains(cleanSearchText))
+            //    {
+            //        primaryItems.Add(new SearchedItem() { Item = item.Value, Preview = name });
+            //    }
+            //    else
+            //    {
+            //        var markdown = item.Value.Markdown;
+            //        var cleanMarkdown = Tools.Helpers.RemoveDiacritics(markdown).ToLower();
+            //        if (cleanMarkdown.Contains(cleanSearchText))
+            //        {
+            //            int position = cleanMarkdown.IndexOf(cleanSearchText);
+            //            int startPosition = Math.Max(0, position - 30);
+            //            int endPosition = Math.Min(markdown.Length, position + searchText.Length + 30);
+            //            var preview = markdown.Substring(startPosition, endPosition - startPosition - 1);
+            //            secondaryItems.Add(new SearchedItem() { Item = item.Value, Preview = preview });
+            //        }
+            //    }
+            //}
+            //primaryItems.AddRange(secondaryItems);
+            //return primaryItems;
         }
 
 
