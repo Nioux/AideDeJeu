@@ -30,7 +30,7 @@ namespace AideDeJeu.UWP
             if (!File.Exists(path))
             {
                 var assembly = typeof(Version_UWP).GetTypeInfo().Assembly;
-                using (var inStream = assembly.GetManifestResourceStream("AideDeJeu.UWP.Assets." + databaseName))
+                using (var inStream = assembly.GetManifestResourceStream("AideDeJeu.UWP." + databaseName))
                 {
                     using (var outStream = new FileStream(path, FileMode.Create))
                     {
