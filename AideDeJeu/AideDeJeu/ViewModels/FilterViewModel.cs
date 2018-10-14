@@ -6,6 +6,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using static AideDeJeu.ViewModels.StoreViewModel;
 
 namespace AideDeJeu.ViewModels
 {
@@ -920,19 +921,32 @@ namespace AideDeJeu.ViewModels
                 var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
                 var minPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey ?? "0 pc";
                 var maxPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey ?? "1 000 000 po";
-                //token.ThrowIfCancellationRequested();
-                return items.Where(item =>
+
+                using (var context = new AideDeJeuContext())
                 {
-                    var equipment = item as Equipment;
-                    return equipment.Type.ToLower().Contains(type.ToLower()) &&
+                    return context.Equipments.Where(equipment =>
+                        equipment.Type.ToLower().Contains(type.ToLower()) &&
                         priceComparer.Compare(equipment.Price, minPrice) >= 0 &&
                         priceComparer.Compare(equipment.Price, maxPrice) <= 0 &&
                         (
                             (Helpers.RemoveDiacritics(equipment.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(equipment.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        );
-                }).OrderBy(eq => eq.Name)
-                            .AsEnumerable();
+                        )
+                    ).OrderBy(eq => eq.Name)
+                            .ToListAsync();
+                }
+                //return items.Where(item =>
+                //{
+                //    var equipment = item as Equipment;
+                //    return equipment.Type.ToLower().Contains(type.ToLower()) &&
+                //        priceComparer.Compare(equipment.Price, minPrice) >= 0 &&
+                //        priceComparer.Compare(equipment.Price, maxPrice) <= 0 &&
+                //        (
+                //            (Helpers.RemoveDiacritics(equipment.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                //            (Helpers.RemoveDiacritics(equipment.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                //        );
+                //}).OrderBy(eq => eq.Name)
+                //            .AsEnumerable();
             }, token);
 
         }
@@ -1023,16 +1037,27 @@ namespace AideDeJeu.ViewModels
                 var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
                 var rarity = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Rarity).SelectedKey ?? "";
                 var attunement = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Attunement).SelectedKey ?? "";
-                return items.Where(item =>
+
+                using (var context = new AideDeJeuContext())
                 {
-                    var magicitem = item as MagicItem;
-                    if (magicitem == null) return false;
-                    var matchType = MatchContains(magicitem.Type, type);
-                    var matchRarity = MatchContains(magicitem.Rarity, rarity);
-                    var matchAttunement = MatchContains(magicitem.Attunement, attunement);
-                    var matchSearch = MatchSearch(magicitem);
-                    return matchType && matchRarity && matchAttunement && matchSearch;
-                }).OrderBy(eq => eq.Name).AsEnumerable();
+                    return context.MagicItems.Where(magicitem =>
+                        MatchContains(magicitem.Type, type) && 
+                        MatchContains(magicitem.Rarity, rarity) &&
+                        MatchContains(magicitem.Attunement, attunement) &&
+                        MatchSearch(magicitem)
+                    ).OrderBy(eq => eq.Name).ToListAsync();
+                }
+
+                //return items.Where(item =>
+                //{
+                //    var magicitem = item as MagicItem;
+                //    if (magicitem == null) return false;
+                //    var matchType = MatchContains(magicitem.Type, type);
+                //    var matchRarity = MatchContains(magicitem.Rarity, rarity);
+                //    var matchAttunement = MatchContains(magicitem.Attunement, attunement);
+                //    var matchSearch = MatchSearch(magicitem);
+                //    return matchType && matchRarity && matchAttunement && matchSearch;
+                //}).OrderBy(eq => eq.Name).AsEnumerable();
             }, token);
 
         }

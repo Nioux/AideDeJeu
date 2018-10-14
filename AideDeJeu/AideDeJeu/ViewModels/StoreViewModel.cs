@@ -368,6 +368,7 @@ namespace AideDeJeu.ViewModels
         {
             public DbSet<Item> Items { get; set; }
             public DbSet<Equipment> Equipments { get; set; }
+            public DbSet<MagicItem> MagicItems { get; set; }
             public DbSet<Spell> Spells { get; set; }
             public DbSet<Monster> Monsters { get; set; }
             public DbSet<SpellHD> SpellsHD { get; set; }
@@ -388,6 +389,8 @@ namespace AideDeJeu.ViewModels
                 modelBuilder.Entity<MonstersVO>();
                 modelBuilder.Entity<SpellsHD>();
                 modelBuilder.Entity<SpellsVO>();
+                modelBuilder.Entity<Equipments>();
+                modelBuilder.Entity<MagicItems>();
             }
         }
 
