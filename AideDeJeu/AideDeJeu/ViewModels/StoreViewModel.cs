@@ -354,6 +354,7 @@ namespace AideDeJeu.ViewModels
                             {
                                 var anchors = new Dictionary<string, Item>();
                                 //MakeAnchors(source, anchors, item);
+                                item.Id = $"{source}.md";
                                 _AllItems[source] = item;
                             }
                         }
@@ -365,38 +366,43 @@ namespace AideDeJeu.ViewModels
 
         public class AideDeJeuContext : DbContext
         {
+            public DbSet<Item> Items { get; set; }
+            public DbSet<Equipment> Equipments { get; set; }
             public DbSet<Spell> Spells { get; set; }
             public DbSet<Monster> Monsters { get; set; }
-
-            //private static bool _created = false;
-            //public AideDeJeuContext()
-            //{
-            //    if (!_created)
-            //    {
-            //        _created = true;
-            //        Database.EnsureDeleted();
-            //        Database.EnsureCreated();
-            //    }
-            //}
 
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
                 var dbPath = DependencyService.Get<INativeAPI>().GetDatabasePath("database.db");
                 optionsBuilder.UseSqlite($"Data Source='{dbPath}'");
             }
+
+            protected override void OnModelCreating(ModelBuilder modelBuilder)
+            {
+                base.OnModelCreating(modelBuilder);
+                modelBuilder.Entity<MonstersHD>();
+                modelBuilder.Entity<MonstersVO>();
+                modelBuilder.Entity<SpellsHD>();
+                modelBuilder.Entity<SpellsVO>();
+            }
         }
 
         public async Task<Item> GetItemFromDataAsync(string source, string anchor)
         {
+            var id = $"{source}.md".TrimStart('/');
+            if (!string.IsNullOrEmpty(anchor))
+            {
+                id += $"#{anchor}";
+            }
             using (var context = new AideDeJeuContext())
             {
-                //var monsters = await context.Monsters.ToListAsync();
-                await context.SaveChangesAsync();
+                return await context.Items.Where(item => item.Id == id).FirstOrDefaultAsync();
             }
-            return null;
+        }
 
-
-            var id = $"{source}.md#{anchor}";
+        public async Task<Item> GetItemFromDataAsyncOld(string source, string anchor)
+        {
+            var id = $"{source}.md".TrimStart('/');
             //await Task.Delay(3000);
             if (!_AllItems.ContainsKey(id) && !_AllItems.ContainsKey(source))
             {

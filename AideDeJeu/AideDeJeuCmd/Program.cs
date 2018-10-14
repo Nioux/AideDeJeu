@@ -297,11 +297,20 @@ namespace AideDeJeuCmd
             //var store = new StoreViewModel();
             //await store.GetItemFromDataAsync("test", "truc");
 
+            var store = new StoreViewModel();
+            await store.PreloadAllItemsAsync();
+
             using (var context = new StoreViewModel.AideDeJeuContext())
             {
                 await context.Database.EnsureDeletedAsync();
                 await context.Database.EnsureCreatedAsync();
+
+                await context.Items.AddRangeAsync(store._AllItems.Values);
+                await context.SaveChangesAsync();
+
+                var items = await context.Items.Where(item => (item.Source != null && item.Source.Contains("SRD"))).ToListAsync();
                 var monsters = await context.Monsters.ToListAsync();
+                var spells = await context.Spells.ToListAsync();
             }
 
             return;

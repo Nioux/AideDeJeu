@@ -24,7 +24,7 @@ namespace AideDeJeu.Cmd
 
         public string GetDatabasePath(string databaseName)
         {
-            return Path.Combine(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location), databaseName);
+            return Path.Combine(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location), @"..\..\..\..\..\Data\" + databaseName);
         }
     }
 }
