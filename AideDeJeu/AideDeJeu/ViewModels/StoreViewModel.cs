@@ -382,7 +382,7 @@ namespace AideDeJeu.ViewModels
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
                 var dbPath = DependencyService.Get<INativeAPI>().GetDatabasePath("database.db");
-                optionsBuilder.UseSqlite($"Data Source=\"{dbPath}\"");
+                optionsBuilder.UseSqlite($"Data Source='{dbPath}'");
             }
         }
 
