@@ -5,7 +5,7 @@
 - CEO: <!--AltName-->[Créatures](monsters_hd.md)<!--/AltName-->
 
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Aboleth<!--/Name-->
 - CEO: <!--AltName-->[Aboleth]<!--/AltName-->
@@ -60,9 +60,9 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 [Aboleth]: monsters_hd.md#aboleth
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Acolyte<!--/Name-->
 - CEO: <!--AltName-->[Acolyte]<!--/AltName-->
@@ -98,9 +98,9 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [Acolyte]: monsters_hd.md#acolyte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Eagle<!--/Name-->
 - CEO: <!--AltName-->[Aigle]<!--/AltName-->
@@ -132,9 +132,9 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [Aigle]: monsters_hd.md#aigle
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Eagle<!--/Name-->
 - CEO: <!--AltName-->[Aigle géant]<!--/AltName-->
@@ -173,9 +173,9 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Androsphinx<!--/Name-->
 - CEO: <!--AltName-->[Androsphinx]<!--/AltName-->
@@ -248,9 +248,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 [Androsphinx]: monsters_hd.md#androsphinx
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ankheg<!--/Name-->
 - CEO: <!--AltName-->[Ankheg]<!--/AltName-->
@@ -280,9 +280,9 @@ _Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a
 
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Spider<!--/Name-->
 - CEO: <!--AltName-->[Araignée]<!--/AltName-->
@@ -318,9 +318,9 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution sav
 [Araignée]: monsters_hd.md#araignée
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Phase Spider<!--/Name-->
 - CEO: <!--AltName-->[Araignée de phase]<!--/AltName-->
@@ -356,9 +356,9 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constituti
 [Araignée de phase]: monsters_hd.md#araignée-de-phase
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Spider<!--/Name-->
 - CEO: <!--AltName-->[Araignée géante]<!--/AltName-->
@@ -398,9 +398,9 @@ _Hit_: The target is restrained by webbing. As an action, the restrained target 
 [Araignée géante]: monsters_hd.md#araignée-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Wolf Spider<!--/Name-->
 - CEO: <!--AltName-->[Araignée-loup géante]<!--/AltName-->
@@ -436,9 +436,9 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitutio
 [Araignée-loup géante]: monsters_hd.md#araignée-loup-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Awakened Tree<!--/Name-->
 - CEO: <!--AltName-->[Arbre éveillé]<!--/AltName-->
@@ -471,9 +471,9 @@ _Hit_: 14 (3d6 + 4) bludgeoning damage.
 [Arbre éveillé]: monsters_hd.md#arbre-éveillé
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Awakened Shrub<!--/Name-->
 - CEO: <!--AltName-->[Arbuste éveillé]<!--/AltName-->
@@ -506,9 +506,9 @@ _Hit_: 1 (1d4 - 1) slashing damage.
 [Arbuste éveillé]: monsters_hd.md#arbuste-éveillé
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Archmage<!--/Name-->
 - CEO: <!--AltName-->[Archimage]<!--/AltName-->
@@ -566,9 +566,9 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Archimage]: monsters_hd.md#archimage
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Animated Armor<!--/Name-->
 - CEO: <!--AltName-->[Armure animée]<!--/AltName-->
@@ -605,9 +605,9 @@ _Hit_: 5 (1d6 + 2) bludgeoning damage.
 [Armure animée]: monsters_hd.md#armure-animée
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Assassin<!--/Name-->
 - CEO: <!--AltName-->[Assassin]<!--/AltName-->
@@ -651,9 +651,9 @@ _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitutio
 [Assassin]: monsters_hd.md#assassin
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Azer<!--/Name-->
 - CEO: <!--AltName-->[Azer]<!--/AltName-->
@@ -691,9 +691,9 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if use
 [Azer]: monsters_hd.md#azer
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Baboon<!--/Name-->
 - CEO: <!--AltName-->[Babouin]<!--/AltName-->
@@ -724,9 +724,9 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 [Babouin]: monsters_hd.md#babouin
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Gibbering Mouther<!--/Name-->
 - CEO: <!--AltName-->[Babélien]<!--/AltName-->
@@ -766,9 +766,9 @@ _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must suc
 [Babélien]: monsters_hd.md#babélien
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Balor<!--/Name-->
 - CEO: <!--AltName-->[Balor]<!--/AltName-->
@@ -817,9 +817,9 @@ _Hit_: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target mu
 [Balor]: monsters_hd.md#balor
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Bandit<!--/Name-->
 - CEO: <!--AltName-->[Bandit]<!--/AltName-->
@@ -850,9 +850,9 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [Bandit]: monsters_hd.md#bandit
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Bandit Captain<!--/Name-->
 - CEO: <!--AltName-->[Capitaine Bandit]<!--/AltName-->
@@ -893,9 +893,9 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Basilisk<!--/Name-->
 - CEO: <!--AltName-->[Basilic]<!--/AltName-->
@@ -926,9 +926,9 @@ _Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 [Basilic]: monsters_hd.md#basilic
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Axe Beak<!--/Name-->
 - CEO: <!--AltName-->[Bec de hache]<!--/AltName-->
@@ -955,9 +955,9 @@ _Hit_: 6 (1d8 + 2) slashing damage.
 [Bec de hache]: monsters_hd.md#bec-de-hache
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Weasel<!--/Name-->
 - CEO: <!--AltName-->[Belette]<!--/AltName-->
@@ -989,9 +989,9 @@ _Hit_: 1 piercing damage.
 [Belette]: monsters_hd.md#belette
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Weasel<!--/Name-->
 - CEO: <!--AltName-->[Belette géante]<!--/AltName-->
@@ -1023,9 +1023,9 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 [Belette géante]: monsters_hd.md#belette-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Berserker<!--/Name-->
 - CEO: <!--AltName-->[Berserker]<!--/AltName-->
@@ -1056,9 +1056,9 @@ _Hit_: 9 (1d12 + 3) slashing damage.
 [Berserker]: monsters_hd.md#berserker
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Badger<!--/Name-->
 - CEO: <!--AltName-->[Blaireau]<!--/AltName-->
@@ -1089,9 +1089,9 @@ _Hit_: 1 piercing damage.
 [Blaireau]: monsters_hd.md#blaireau
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Badger<!--/Name-->
 - CEO: <!--AltName-->[Blaireau géant]<!--/AltName-->
@@ -1128,9 +1128,9 @@ _Hit_: 6 (2d4 + 1) slashing damage.
 [Blaireau géant]: monsters_hd.md#blaireau-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ghast<!--/Name-->
 - CEO: <!--AltName-->[Blême]<!--/AltName-->
@@ -1171,9 +1171,9 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an u
 
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Bulette<!--/Name-->
 - CEO: <!--AltName-->[Bulette]<!--/AltName-->
@@ -1207,9 +1207,9 @@ _Hit_: 30 (4d12 + 4) piercing damage.
 [Bulette]: monsters_hd.md#bulette
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Behir<!--/Name-->
 - CEO: <!--AltName-->[Béhir]<!--/AltName-->
@@ -1248,9 +1248,9 @@ _Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The 
 [Béhir]: monsters_hd.md#béhir
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Centaur<!--/Name-->
 - CEO: <!--AltName-->[Centaure]<!--/AltName-->
@@ -1291,9 +1291,9 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Centaure]: monsters_hd.md#centaure
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Jackal<!--/Name-->
 - CEO: <!--AltName-->[Chacal]<!--/AltName-->
@@ -1326,9 +1326,9 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 [Chacal]: monsters_hd.md#chacal
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Camel<!--/Name-->
 - CEO: <!--AltName-->[Chameau]<!--/AltName-->
@@ -1354,9 +1354,9 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [Chameau]: monsters_hd.md#chameau
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Cat<!--/Name-->
 - CEO: <!--AltName-->[Chat]<!--/AltName-->
@@ -1387,9 +1387,9 @@ _Hit_: 1 slashing damage.
 [Chat]: monsters_hd.md#chat
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Bat<!--/Name-->
 - CEO: <!--AltName-->[Chauve-souris]<!--/AltName-->
@@ -1421,9 +1421,9 @@ _Hit_: 1 piercing damage.
 [Chauve-souris]: monsters_hd.md#chauve-souris
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Bat<!--/Name-->
 - CEO: <!--AltName-->[Chauve-souris géante]<!--/AltName-->
@@ -1455,9 +1455,9 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Chauve-souris géante]: monsters_hd.md#chauve-souris-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Warhorse<!--/Name-->
 - CEO: <!--AltName-->[Cheval de guerre]<!--/AltName-->
@@ -1487,9 +1487,9 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [Cheval de guerre]: monsters_hd.md#cheval-de-guerre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Riding Horse<!--/Name-->
 - CEO: <!--AltName-->[Cheval de selle]<!--/AltName-->
@@ -1515,9 +1515,9 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [Cheval de selle]: monsters_hd.md#cheval-de-selle
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Draft Horse<!--/Name-->
 - CEO: <!--AltName-->[Cheval de trait]<!--/AltName-->
@@ -1543,9 +1543,9 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage.
 [Cheval de trait]: monsters_hd.md#cheval-de-trait
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Knight<!--/Name-->
 - CEO: <!--AltName-->[Chevalier]<!--/AltName-->
@@ -1588,9 +1588,9 @@ _Hit_: 5 (1d10) piercing damage.
 [Chevalier]: monsters_hd.md#chevalier
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Deer<!--/Name-->
 - CEO: <!--AltName-->[Chevreuil]<!--/AltName-->
@@ -1616,9 +1616,9 @@ _Hit_: 2 (1d4) piercing damage.
 [Chevreuil]: monsters_hd.md#chevreuil
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Death Dog<!--/Name-->
 - CEO: <!--AltName-->[Chien du trépas]<!--/AltName-->
@@ -1651,9 +1651,9 @@ _Hit_: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed
 [Chien du trépas]: monsters_hd.md#chien-du-trépas
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Blink Dog<!--/Name-->
 - CEO: <!--AltName-->[Chien esquiveur]<!--/AltName-->
@@ -1686,9 +1686,9 @@ _Hit_: 4 (1d6 + 1) piercing damage.
 [Chien esquiveur]: monsters_hd.md#chien-esquiveur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Chimera<!--/Name-->
 - CEO: <!--AltName-->[Chimère]<!--/AltName-->
@@ -1727,9 +1727,9 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Chimère]: monsters_hd.md#chimère
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Owl<!--/Name-->
 - CEO: <!--AltName-->[Chouette]<!--/AltName-->
@@ -1762,9 +1762,9 @@ _Hit_: 1 slashing damage.
 [Chouette]: monsters_hd.md#chouette
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Owl<!--/Name-->
 - CEO: <!--AltName-->[Chouette géante]<!--/AltName-->
@@ -1797,9 +1797,9 @@ _Hit_: 8 (2d6 + 1) slashing damage.
 [Chouette géante]: monsters_hd.md#chouette-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Chuul<!--/Name-->
 - CEO: <!--AltName-->[Chuul]<!--/AltName-->
@@ -1838,9 +1838,9 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if
 [Chuul]: monsters_hd.md#chuul
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Goat<!--/Name-->
 - CEO: <!--AltName-->[Chèvre]<!--/AltName-->
@@ -1872,9 +1872,9 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 [Chèvre]: monsters_hd.md#chèvre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Goat<!--/Name-->
 - CEO: <!--AltName-->[Chèvre géante]<!--/AltName-->
@@ -1906,9 +1906,9 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [Chèvre géante]: monsters_hd.md#chèvre-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Cockatrice<!--/Name-->
 - CEO: <!--AltName-->[Cockatrice]<!--/AltName-->
@@ -1934,9 +1934,9 @@ _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Const
 [Cockatrice]: monsters_hd.md#cockatrice
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Raven<!--/Name-->
 - CEO: <!--AltName-->[Corbeau]<!--/AltName-->
@@ -1967,9 +1967,9 @@ _Hit_: 1 piercing damage.
 [Corbeau]: monsters_hd.md#corbeau
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Couatl<!--/Name-->
 - CEO: <!--AltName-->[Couatl]<!--/AltName-->
@@ -2018,9 +2018,9 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15
 [Couatl]: monsters_hd.md#couatl
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Crab<!--/Name-->
 - CEO: <!--AltName-->[Crabe]<!--/AltName-->
@@ -2051,9 +2051,9 @@ _Hit_: 1 bludgeoning damage.
 [Crabe]: monsters_hd.md#crabe
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Crab<!--/Name-->
 - CEO: <!--AltName-->[Crabe géant]<!--/AltName-->
@@ -2084,9 +2084,9 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11)
 [Crabe géant]: monsters_hd.md#crabe-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Toad<!--/Name-->
 - CEO: <!--AltName-->[Crapaud géant]<!--/AltName-->
@@ -2120,9 +2120,9 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 [Crapaud géant]: monsters_hd.md#crapaud-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Shrieker<!--/Name-->
 - CEO: <!--AltName-->[Criard]<!--/AltName-->
@@ -2151,9 +2151,9 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 [Criard]: monsters_hd.md#criard
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Crocodile<!--/Name-->
 - CEO: <!--AltName-->[Crocodile]<!--/AltName-->
@@ -2184,9 +2184,9 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). 
 [Crocodile]: monsters_hd.md#crocodile
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Crocodile<!--/Name-->
 - CEO: <!--AltName-->[Crocodile géant]<!--/AltName-->
@@ -2224,9 +2224,9 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must suc
 
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Gelatinous Cube<!--/Name-->
 - CEO: <!--AltName-->[Cube gélatineux]<!--/AltName-->
@@ -2262,9 +2262,9 @@ _Hit_: 10 (3d6) acid damage.
 
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Nightmare<!--/Name-->
 - CEO: <!--AltName-->[Destrier noir]<!--/AltName-->
@@ -2299,9 +2299,9 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 [Destrier noir]: monsters_hd.md#destrier-noir
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Barbed Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable barbelé]<!--/AltName-->
@@ -2350,9 +2350,9 @@ _Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't bein
 [Diable barbelé]: monsters_hd.md#diable-barbelé
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Bearded Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable barbu]<!--/AltName-->
@@ -2396,9 +2396,9 @@ _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an u
 [Diable barbu]: monsters_hd.md#diable-barbu
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Horned Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable cornu]<!--/AltName-->
@@ -2444,9 +2444,9 @@ _Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't bein
 [Diable cornu]: monsters_hd.md#diable-cornu
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Chain Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable des chaînes]<!--/AltName-->
@@ -2490,9 +2490,9 @@ _Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if th
 [Diable des chaînes]: monsters_hd.md#diable-des-chaînes
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ice Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable gelé]<!--/AltName-->
@@ -2540,9 +2540,9 @@ _Hit_: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 [Diable gelé]: monsters_hd.md#diable-gelé
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Bone Devil<!--/Name-->
 - CEO: <!--AltName-->[Diable osseux]<!--/AltName-->
@@ -2585,9 +2585,9 @@ _Hit_: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target 
 [Diable osseux]: monsters_hd.md#diable-osseux
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Imp<!--/Name-->
 - CEO: <!--AltName-->[Diablotin]<!--/AltName-->
@@ -2627,9 +2627,9 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitu
 [Diablotin]: monsters_hd.md#diablotin
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Pit Fiend<!--/Name-->
 - CEO: <!--AltName-->[Diantrefosse]<!--/AltName-->
@@ -2687,9 +2687,9 @@ _Hit_: 24 (3d10 + 8) bludgeoning damage.
 [Diantrefosse]: monsters_hd.md#diantrefosse
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Djinni<!--/Name-->
 - CEO: <!--AltName-->[Djinn]<!--/AltName-->
@@ -2733,9 +2733,9 @@ _Hit_: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (dj
 [Djinn]: monsters_hd.md#djinn
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Doppelganger<!--/Name-->
 - CEO: <!--AltName-->[Doppleganger]<!--/AltName-->
@@ -2775,9 +2775,9 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage.
 [Doppleganger]: monsters_hd.md#doppleganger
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Adult White Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon blanc adulte]<!--/AltName-->
@@ -2836,9 +2836,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon blanc adulte]: monsters_hd.md#dragon-blanc-adulte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ancient White Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon blanc vénérable]<!--/AltName-->
@@ -2897,9 +2897,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon blanc vénérable]: monsters_hd.md#dragon-blanc-vénérable
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Young White Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon blanc]<!--/AltName-->
@@ -2940,9 +2940,9 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon blanc]: monsters_hd.md#jeune-dragon-blanc
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->White Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet blanc]<!--/AltName-->
@@ -2973,9 +2973,9 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 [Dragonnet blanc]: monsters_hd.md#dragonnet-blanc
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Adult Blue Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon bleu adulte]<!--/AltName-->
@@ -3032,9 +3032,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon bleu adulte]: monsters_hd.md#dragon-bleu-adulte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ancient Blue Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon bleu vénérable]<!--/AltName-->
@@ -3091,9 +3091,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon bleu vénérable]: monsters_hd.md#dragon-bleu-vénérable
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Young Blue Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon bleu]<!--/AltName-->
@@ -3130,9 +3130,9 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [Jeune dragon bleu]: monsters_hd.md#jeune-dragon-bleu
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Blue Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet bleu]<!--/AltName-->
@@ -3163,9 +3163,9 @@ _Hit_: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 [Dragonnet bleu]: monsters_hd.md#dragonnet-bleu
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Adult Brass Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'airain adulte]<!--/AltName-->
@@ -3226,9 +3226,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'airain adulte]: monsters_hd.md#dragon-dairain-adulte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ancient Brass Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'airain vénérable]<!--/AltName-->
@@ -3291,9 +3291,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'airain vénérable]: monsters_hd.md#dragon-dairain-vénérable
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Young Brass Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon d'airain]<!--/AltName-->
@@ -3334,9 +3334,9 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon d'airain]: monsters_hd.md#jeune-dragon-dairain
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Brass Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet d'airain]<!--/AltName-->
@@ -3371,9 +3371,9 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 [Dragonnet d'airain]: monsters_hd.md#dragonnet-dairain
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Adult Silver Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'argent adulte]<!--/AltName-->
@@ -3436,9 +3436,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'argent adulte]: monsters_hd.md#dragon-dargent-adulte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ancient Silver Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'argent vénérable]<!--/AltName-->
@@ -3501,9 +3501,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'argent vénérable]: monsters_hd.md#dragon-dargent-vénérable
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Young Silver Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon d'argent]<!--/AltName-->
@@ -3544,9 +3544,9 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [Jeune dragon d'argent]: monsters_hd.md#jeune-dragon-dargent
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Silver Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet d'argent]<!--/AltName-->
@@ -3581,9 +3581,9 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 [Dragonnet d'argent]: monsters_hd.md#dragonnet-dargent
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Adult Gold Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'or adulte]<!--/AltName-->
@@ -3648,9 +3648,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'or adulte]: monsters_hd.md#dragon-dor-adulte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ancient Gold Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon d'or vénérable]<!--/AltName-->
@@ -3715,9 +3715,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'or vénérable]: monsters_hd.md#dragon-dor-vénérable
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Young Gold Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon d'or]<!--/AltName-->
@@ -3762,9 +3762,9 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [Jeune dragon d'or]: monsters_hd.md#jeune-dragon-dor
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Gold Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet d'or]<!--/AltName-->
@@ -3803,9 +3803,9 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 [Dragonnet d'or]: monsters_hd.md#dragonnet-dor
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Adult Bronze Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon de bronze adulte]<!--/AltName-->
@@ -3870,9 +3870,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de bronze adulte]: monsters_hd.md#dragon-de-bronze-adulte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ancient Bronze Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon de bronze vénérable]<!--/AltName-->
@@ -3937,9 +3937,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de bronze vénérable]: monsters_hd.md#dragon-de-bronze-vénérable
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Young Bronze Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon de bronze]<!--/AltName-->
@@ -3984,9 +3984,9 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [Jeune dragon de bronze]: monsters_hd.md#jeune-dragon-de-bronze
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Bronze Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet de bronze]<!--/AltName-->
@@ -4025,9 +4025,9 @@ _Hit_: 8 (1d10 + 3) piercing damage.
 [Dragonnet de bronze]: monsters_hd.md#dragonnet-de-bronze
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Adult Copper Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon de cuivre adulte]<!--/AltName-->
@@ -4088,9 +4088,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de cuivre adulte]: monsters_hd.md#dragon-de-cuivre-adulte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ancient Copper Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon de cuivre vénérable]<!--/AltName-->
@@ -4153,9 +4153,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de cuivre vénérable]: monsters_hd.md#dragon-de-cuivre-vénérable
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Young Copper Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon de cuivre]<!--/AltName-->
@@ -4196,9 +4196,9 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon de cuivre]: monsters_hd.md#jeune-dragon-de-cuivre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Copper Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet de cuivre]<!--/AltName-->
@@ -4233,9 +4233,9 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 [Dragonnet de cuivre]: monsters_hd.md#dragonnet-de-cuivre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Adult Black Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon noir adulte]<!--/AltName-->
@@ -4294,9 +4294,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon noir adulte]: monsters_hd.md#dragon-noir-adulte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ancient Black Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon noir vénérable]<!--/AltName-->
@@ -4355,9 +4355,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon noir vénérable]: monsters_hd.md#dragon-noir-vénérable
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Young Black Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon noir]<!--/AltName-->
@@ -4398,9 +4398,9 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon noir]: monsters_hd.md#jeune-dragon-noir
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Black Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet noir]<!--/AltName-->
@@ -4435,9 +4435,9 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 [Dragonnet noir]: monsters_hd.md#dragonnet-noir
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Adult Red Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon rouge adulte]<!--/AltName-->
@@ -4494,9 +4494,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon rouge adulte]: monsters_hd.md#dragon-rouge-adulte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ancient Red Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon rouge vénérable]<!--/AltName-->
@@ -4553,9 +4553,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon rouge vénérable]: monsters_hd.md#dragon-rouge-vénérable
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Young Red Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon rouge]<!--/AltName-->
@@ -4592,9 +4592,9 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [Jeune dragon rouge]: monsters_hd.md#jeune-dragon-rouge
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Red Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet rouge]<!--/AltName-->
@@ -4625,9 +4625,9 @@ _Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 [Dragonnet rouge]: monsters_hd.md#dragonnet-rouge
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Adult Green Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon vert adulte]<!--/AltName-->
@@ -4687,9 +4687,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon vert adulte]: monsters_hd.md#dragon-vert-adulte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ancient Green Dragon<!--/Name-->
 - CEO: <!--AltName-->[Dragon vert vénérable]<!--/AltName-->
@@ -4749,9 +4749,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon vert vénérable]: monsters_hd.md#dragon-vert-vénérable
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Young Green Dragon<!--/Name-->
 - CEO: <!--AltName-->[Jeune dragon vert]<!--/AltName-->
@@ -4793,9 +4793,9 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon vert]: monsters_hd.md#jeune-dragon-vert
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Green Dragon Wyrmling<!--/Name-->
 - CEO: <!--AltName-->[Dragonnet vert]<!--/AltName-->
@@ -4831,9 +4831,9 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 [Dragonnet vert]: monsters_hd.md#dragonnet-vert
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Dragon Turtle<!--/Name-->
 - CEO: <!--AltName-->[Dragon-tortue]<!--/AltName-->
@@ -4877,9 +4877,9 @@ _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must su
 [Dragon-tortue]: monsters_hd.md#dragon-tortue
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Dretch<!--/Name-->
 - CEO: <!--AltName-->[Dretch]<!--/AltName-->
@@ -4916,9 +4916,9 @@ _Hit_: 5 (2d4) slashing damage.
 [Dretch]: monsters_hd.md#dretch
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Drider<!--/Name-->
 - CEO: <!--AltName-->[Drider]<!--/AltName-->
@@ -4971,9 +4971,9 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 [Drider]: monsters_hd.md#drider
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Drow<!--/Name-->
 - CEO: <!--AltName-->[Drow]<!--/AltName-->
@@ -5016,9 +5016,9 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Const
 [Drow]: monsters_hd.md#drow
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Druid<!--/Name-->
 - CEO: <!--AltName-->[Druide]<!--/AltName-->
@@ -5055,9 +5055,9 @@ _Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with tw
 [Druide]: monsters_hd.md#druide
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Dryad<!--/Name-->
 - CEO: <!--AltName-->[Dryade]<!--/AltName-->
@@ -5102,9 +5102,9 @@ _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shil
 [Dryade]: monsters_hd.md#dryade
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Duergar<!--/Name-->
 - CEO: <!--AltName-->[Duergar]<!--/AltName-->
@@ -5145,9 +5145,9 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarge
 [Duergar]: monsters_hd.md#duergar
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Deva<!--/Name-->
 - CEO: <!--AltName-->[Déva]<!--/AltName-->
@@ -5195,9 +5195,9 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 [Déva]: monsters_hd.md#déva
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Priest<!--/Name-->
 - CEO: <!--AltName-->[Ecclésiastique]<!--/AltName-->
@@ -5238,9 +5238,9 @@ _Hit_: 3 (1d6) bludgeoning damage.
 [Ecclésiastique]: monsters_hd.md#ecclésiastique
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Roper<!--/Name-->
 - CEO: <!--AltName-->[Enlaceur]<!--/AltName-->
@@ -5283,9 +5283,9 @@ _Hit_: The target is grappled (escape DC 15). Until the grapple ends, the target
 [Enlaceur]: monsters_hd.md#enlaceur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Spy<!--/Name-->
 - CEO: <!--AltName-->[Espion]<!--/AltName-->
@@ -5324,9 +5324,9 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Espion]: monsters_hd.md#espion
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Sprite<!--/Name-->
 - CEO: <!--AltName-->[Esprit follet]<!--/AltName-->
@@ -5361,9 +5361,9 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 [Esprit follet]: monsters_hd.md#esprit-follet
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ettercap<!--/Name-->
 - CEO: <!--AltName-->[Ettercap]<!--/AltName-->
@@ -5408,9 +5408,9 @@ _Hit_: The creature is restrained by webbing. As an action, the restrained creat
 [Ettercap]: monsters_hd.md#ettercap
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ettin<!--/Name-->
 - CEO: <!--AltName-->[Ettin]<!--/AltName-->
@@ -5449,9 +5449,9 @@ _Hit_: 14 (2d8 + 5) piercing damage.
 [Ettin]: monsters_hd.md#ettin
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Cult Fanatic<!--/Name-->
 - CEO: <!--AltName-->[Fanatique de secte]<!--/AltName-->
@@ -5492,9 +5492,9 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Fanatique de secte]: monsters_hd.md#fanatique-de-secte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ghost<!--/Name-->
 - CEO: <!--AltName-->[Fantôme]<!--/AltName-->
@@ -5535,9 +5535,9 @@ _Hit_: 17 (4d6 + 3) necrotic damage.
 [Fantôme]: monsters_hd.md#fantôme
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Hawk<!--/Name-->
 - CEO: <!--AltName-->[Faucon]<!--/AltName-->
@@ -5568,9 +5568,9 @@ _Hit_: 1 slashing damage.
 [Faucon]: monsters_hd.md#faucon
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Blood Hawk<!--/Name-->
 - CEO: <!--AltName-->[Faucon de sang]<!--/AltName-->
@@ -5603,9 +5603,9 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Faucon de sang]: monsters_hd.md#faucon-de-sang
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Will-o'-Wisp<!--/Name-->
 - CEO: <!--AltName-->[Feu follet]<!--/AltName-->
@@ -5646,9 +5646,9 @@ _Hit_: 9 (2d8) lightning damage.
 [Feu follet]: monsters_hd.md#feu-follet
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Guard<!--/Name-->
 - CEO: <!--AltName-->[Garde]<!--/AltName-->
@@ -5675,9 +5675,9 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [Garde]: monsters_hd.md#garde
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Shield Guardian<!--/Name-->
 - CEO: <!--AltName-->[Garde animé]<!--/AltName-->
@@ -5719,9 +5719,9 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [Garde animé]: monsters_hd.md#garde-animé
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Gargoyle<!--/Name-->
 - CEO: <!--AltName-->[Gargouille]<!--/AltName-->
@@ -5760,9 +5760,9 @@ _Hit_: 5 (1d6 + 2) slashing damage.
 [Gargouille]: monsters_hd.md#gargouille
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ochre Jelly<!--/Name-->
 - CEO: <!--AltName-->[Gelée ocre]<!--/AltName-->
@@ -5801,9 +5801,9 @@ _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 [Gelée ocre]: monsters_hd.md#gelée-ocre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Glabrezu<!--/Name-->
 - CEO: <!--AltName-->[Glabrezu]<!--/AltName-->
@@ -5849,9 +5849,9 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 [Glabrezu]: monsters_hd.md#glabrezu
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Gladiator<!--/Name-->
 - CEO: <!--AltName-->[Gladiateur]<!--/AltName-->
@@ -5895,9 +5895,9 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller crea
 [Gladiateur]: monsters_hd.md#gladiateur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Gnoll<!--/Name-->
 - CEO: <!--AltName-->[Gnoll]<!--/AltName-->
@@ -5935,9 +5935,9 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [Gnoll]: monsters_hd.md#gnoll
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Deep Gnome (Svirfneblin)<!--/Name-->
 - CEO: <!--AltName-->[Gnome des profondeurs (svirfneblin)]<!--/AltName-->
@@ -5980,9 +5980,9 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Const
 [Gnome des profondeurs (svirfneblin)]: monsters_hd.md#gnome-des-profondeurs-svirfneblin
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Goblin<!--/Name-->
 - CEO: <!--AltName-->[Gobelin]<!--/AltName-->
@@ -6017,9 +6017,9 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Gobelin]: monsters_hd.md#gobelin
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Bugbear<!--/Name-->
 - CEO: <!--AltName-->[Gobelours]<!--/AltName-->
@@ -6056,9 +6056,9 @@ _Hit_: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at ra
 [Gobelours]: monsters_hd.md#gobelours
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Clay Golem<!--/Name-->
 - CEO: <!--AltName-->[Golem d'argile]<!--/AltName-->
@@ -6102,9 +6102,9 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must su
 [Golem d'argile]: monsters_hd.md#golem-dargile
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Flesh Golem<!--/Name-->
 - CEO: <!--AltName-->[Golem de chair]<!--/AltName-->
@@ -6148,9 +6148,9 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [Golem de chair]: monsters_hd.md#golem-de-chair
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Iron Golem<!--/Name-->
 - CEO: <!--AltName-->[Golem de fer]<!--/AltName-->
@@ -6196,9 +6196,9 @@ _Hit_: 23 (3d10 + 7) slashing damage.
 [Golem de fer]: monsters_hd.md#golem-de-fer
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Stone Golem<!--/Name-->
 - CEO: <!--AltName-->[Golem de pierre]<!--/AltName-->
@@ -6238,9 +6238,9 @@ _Hit_: 19 (3d8 + 6) bludgeoning damage.
 [Golem de pierre]: monsters_hd.md#golem-de-pierre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Gorgon<!--/Name-->
 - CEO: <!--AltName-->[Gorgone]<!--/AltName-->
@@ -6278,9 +6278,9 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage.
 [Gorgone]: monsters_hd.md#gorgone
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ghoul<!--/Name-->
 - CEO: <!--AltName-->[Goule]<!--/AltName-->
@@ -6312,9 +6312,9 @@ _Hit_: 7 (2d4 + 2) slashing damage. If the target is a creature other than an el
 [Goule]: monsters_hd.md#goule
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ape<!--/Name-->
 - CEO: <!--AltName-->[Grand singe]<!--/AltName-->
@@ -6347,9 +6347,9 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 [Grand singe]: monsters_hd.md#grand-singe
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Frog<!--/Name-->
 - CEO: <!--AltName-->[Grenouille]<!--/AltName-->
@@ -6376,9 +6376,9 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 [Grenouille]: monsters_hd.md#grenouille
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Frog<!--/Name-->
 - CEO: <!--AltName-->[Grenouille géante]<!--/AltName-->
@@ -6413,9 +6413,9 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). U
 [Grenouille géante]: monsters_hd.md#grenouille-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Grick<!--/Name-->
 - CEO: <!--AltName-->[Grick]<!--/AltName-->
@@ -6452,9 +6452,9 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Grick]: monsters_hd.md#grick
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Griffon<!--/Name-->
 - CEO: <!--AltName-->[Griffon]<!--/AltName-->
@@ -6491,9 +6491,9 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Griffon]: monsters_hd.md#griffon
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Sea Hag<!--/Name-->
 - CEO: <!--AltName-->[Guenaude aquatique]<!--/AltName-->
@@ -6529,9 +6529,9 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [Guenaude aquatique]: monsters_hd.md#guenaude-aquatique
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Night Hag<!--/Name-->
 - CEO: <!--AltName-->[Guenaude nocturne]<!--/AltName-->
@@ -6576,9 +6576,9 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 [Guenaude nocturne]: monsters_hd.md#guenaude-nocturne
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Green Hag<!--/Name-->
 - CEO: <!--AltName-->[Guenaude verte]<!--/AltName-->
@@ -6619,9 +6619,9 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 [Guenaude verte]: monsters_hd.md#guenaude-verte
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Tribal Warrior<!--/Name-->
 - CEO: <!--AltName-->[Guerrier tribal]<!--/AltName-->
@@ -6651,9 +6651,9 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [Guerrier tribal]: monsters_hd.md#guerrier-tribal
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Wasp<!--/Name-->
 - CEO: <!--AltName-->[Guêpe géante]<!--/AltName-->
@@ -6679,9 +6679,9 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitutio
 [Guêpe géante]: monsters_hd.md#guêpe-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Gynosphinx<!--/Name-->
 - CEO: <!--AltName-->[Gynosphinx]<!--/AltName-->
@@ -6743,9 +6743,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 [Gynosphinx]: monsters_hd.md#gynosphinx
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Hill Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant des collines]<!--/AltName-->
@@ -6778,9 +6778,9 @@ _Hit_: 21 (3d10 + 5) bludgeoning damage.
 [Géant des collines]: monsters_hd.md#géant-des-collines
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Cloud Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant des nuages]<!--/AltName-->
@@ -6826,9 +6826,9 @@ _Hit_: 30 (4d10 + 8) bludgeoning damage.
 [Géant des nuages]: monsters_hd.md#géant-des-nuages
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Stone Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant des pierres]<!--/AltName-->
@@ -6868,9 +6868,9 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must su
 [Géant des pierres]: monsters_hd.md#géant-des-pierres
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Storm Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant des tempêtes]<!--/AltName-->
@@ -6918,9 +6918,9 @@ _Hit_: 35 (4d12 + 9) bludgeoning damage.
 [Géant des tempêtes]: monsters_hd.md#géant-des-tempêtes
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Fire Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant du feu]<!--/AltName-->
@@ -6955,9 +6955,9 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 [Géant du feu]: monsters_hd.md#géant-du-feu
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Frost Giant<!--/Name-->
 - CEO: <!--AltName-->[Géant du givre]<!--/AltName-->
@@ -6992,9 +6992,9 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 [Géant du givre]: monsters_hd.md#géant-du-givre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Harpy<!--/Name-->
 - CEO: <!--AltName-->[Harpie]<!--/AltName-->
@@ -7028,9 +7028,9 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 [Harpie]: monsters_hd.md#harpie
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Hezrou<!--/Name-->
 - CEO: <!--AltName-->[Hezrou]<!--/AltName-->
@@ -7072,9 +7072,9 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Hezrou]: monsters_hd.md#hezrou
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Owlbear<!--/Name-->
 - CEO: <!--AltName-->[Hibours]<!--/AltName-->
@@ -7111,9 +7111,9 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 [Hibours]: monsters_hd.md#hibours
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Sea Horse<!--/Name-->
 - CEO: <!--AltName-->[Hippocampe]<!--/AltName-->
@@ -7137,9 +7137,9 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 [Hippocampe]: monsters_hd.md#hippocampe
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Sea Horse<!--/Name-->
 - CEO: <!--AltName-->[Hippocampe géant]<!--/AltName-->
@@ -7171,9 +7171,9 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 [Hippocampe géant]: monsters_hd.md#hippocampe-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Hippogriff<!--/Name-->
 - CEO: <!--AltName-->[Hippogriffe]<!--/AltName-->
@@ -7210,9 +7210,9 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [Hippogriffe]: monsters_hd.md#hippogriffe
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Hobgoblin<!--/Name-->
 - CEO: <!--AltName-->[Hobgobelin]<!--/AltName-->
@@ -7246,9 +7246,9 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [Hobgobelin]: monsters_hd.md#hobgobelin
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Lizardfolk<!--/Name-->
 - CEO: <!--AltName-->[Homme-lézard]<!--/AltName-->
@@ -7293,9 +7293,9 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Homme-lézard]: monsters_hd.md#homme-lézard
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Merfolk<!--/Name-->
 - CEO: <!--AltName-->[Homme-poisson]<!--/AltName-->
@@ -7326,9 +7326,9 @@ _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hand
 [Homme-poisson]: monsters_hd.md#homme-poisson
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Homunculus<!--/Name-->
 - CEO: <!--AltName-->[Homoncule]<!--/AltName-->
@@ -7360,9 +7360,9 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 [Homoncule]: monsters_hd.md#homoncule
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Hydra<!--/Name-->
 - CEO: <!--AltName-->[Hydre]<!--/AltName-->
@@ -7401,9 +7401,9 @@ _Hit_: 10 (1d10 + 5) piercing damage.
 [Hydre]: monsters_hd.md#hydre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Hyena<!--/Name-->
 - CEO: <!--AltName-->[Hyène]<!--/AltName-->
@@ -7434,9 +7434,9 @@ _Hit_: 3 (1d6) piercing damage.
 [Hyène]: monsters_hd.md#hyène
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Hyena<!--/Name-->
 - CEO: <!--AltName-->[Hyène géante]<!--/AltName-->
@@ -7467,9 +7467,9 @@ _Hit_: 10 (2d6 + 3) piercing damage.
 [Hyène géante]: monsters_hd.md#hyène-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Kobold<!--/Name-->
 - CEO: <!--AltName-->[Kobold]<!--/AltName-->
@@ -7505,9 +7505,9 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 [Kobold]: monsters_hd.md#kobold
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Kraken<!--/Name-->
 - CEO: <!--AltName-->[Kraken]<!--/AltName-->
@@ -7564,9 +7564,9 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 [Kraken]: monsters_hd.md#kraken
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Lamia<!--/Name-->
 - CEO: <!--AltName-->[Lamie]<!--/AltName-->
@@ -7613,9 +7613,9 @@ _Hit_: The target is magically cursed for 1 hour. Until the curse ends, the targ
 [Lamie]: monsters_hd.md#lamie
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Lich<!--/Name-->
 - CEO: <!--AltName-->[Liche]<!--/AltName-->
@@ -7688,9 +7688,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 [Liche]: monsters_hd.md#liche
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Unicorn<!--/Name-->
 - CEO: <!--AltName-->[Licorne]<!--/AltName-->
@@ -7752,9 +7752,9 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 [Licorne]: monsters_hd.md#licorne
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Lion<!--/Name-->
 - CEO: <!--AltName-->[Lion]<!--/AltName-->
@@ -7795,9 +7795,9 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 [Lion]: monsters_hd.md#lion
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Wolf<!--/Name-->
 - CEO: <!--AltName-->[Loup]<!--/AltName-->
@@ -7830,9 +7830,9 @@ _Hit_: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed
 [Loup]: monsters_hd.md#loup
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Winter Wolf<!--/Name-->
 - CEO: <!--AltName-->[Loup arctique]<!--/AltName-->
@@ -7870,9 +7870,9 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succee
 [Loup arctique]: monsters_hd.md#loup-arctique
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Dire Wolf<!--/Name-->
 - CEO: <!--AltName-->[Loup sanguinaire]<!--/AltName-->
@@ -7905,9 +7905,9 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 [Loup sanguinaire]: monsters_hd.md#loup-sanguinaire
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Werewolf<!--/Name-->
 - CEO: <!--AltName-->[Loup-garou]<!--/AltName-->
@@ -7951,9 +7951,9 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with 
 [Loup-garou]: monsters_hd.md#loup-garou
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Lemure<!--/Name-->
 - CEO: <!--AltName-->[Lémure]<!--/AltName-->
@@ -7988,9 +7988,9 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [Lémure]: monsters_hd.md#lémure
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Lizard<!--/Name-->
 - CEO: <!--AltName-->[Lézard]<!--/AltName-->
@@ -8016,9 +8016,9 @@ _Hit_: 1 piercing damage.
 [Lézard]: monsters_hd.md#lézard
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Lizard<!--/Name-->
 - CEO: <!--AltName-->[Lézard géant]<!--/AltName-->
@@ -8044,9 +8044,9 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Lézard géant]: monsters_hd.md#lézard-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Mage<!--/Name-->
 - CEO: <!--AltName-->[Mage]<!--/AltName-->
@@ -8090,9 +8090,9 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Mage]: monsters_hd.md#mage
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Magmin<!--/Name-->
 - CEO: <!--AltName-->[Magmatique]<!--/AltName-->
@@ -8126,9 +8126,9 @@ _Hit_: 7 (2d6) fire damage. If the target is a creature or a flammable object, i
 [Magmatique]: monsters_hd.md#magmatique
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Thug<!--/Name-->
 - CEO: <!--AltName-->[Malfrat]<!--/AltName-->
@@ -8165,9 +8165,9 @@ _Hit_: 5 (1d10) piercing damage.
 [Malfrat]: monsters_hd.md#malfrat
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Mammoth<!--/Name-->
 - CEO: <!--AltName-->[Mammouth]<!--/AltName-->
@@ -8201,9 +8201,9 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 [Mammouth]: monsters_hd.md#mammouth
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Darkmantle<!--/Name-->
 - CEO: <!--AltName-->[Mante obscure]<!--/AltName-->
@@ -8238,9 +8238,9 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target
 [Mante obscure]: monsters_hd.md#mante-obscure
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Cloaker<!--/Name-->
 - CEO: <!--AltName-->[Manteleur]<!--/AltName-->
@@ -8285,9 +8285,9 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 [Manteleur]: monsters_hd.md#manteleur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Manticore<!--/Name-->
 - CEO: <!--AltName-->[Manticore]<!--/AltName-->
@@ -8327,9 +8327,9 @@ _Hit_: 7 (1d8 + 3) piercing damage.
 [Manticore]: monsters_hd.md#manticore
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Marilith<!--/Name-->
 - CEO: <!--AltName-->[Marilith]<!--/AltName-->
@@ -8379,9 +8379,9 @@ _Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it 
 [Marilith]: monsters_hd.md#marilith
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Cultist<!--/Name-->
 - CEO: <!--AltName-->[Membre de secte]<!--/AltName-->
@@ -8411,9 +8411,9 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 
 [Membre de secte]: monsters_hd.md#membre-de-secte
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Merrow<!--/Name-->
 - CEO: <!--AltName-->[Merrow]<!--/AltName-->
@@ -8453,9 +8453,9 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature
 [Merrow]: monsters_hd.md#merrow
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Centipede<!--/Name-->
 - CEO: <!--AltName-->[Mille-pattes géant]<!--/AltName-->
@@ -8481,9 +8481,9 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 [Mille-pattes géant]: monsters_hd.md#mille-pattes-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Mimic<!--/Name-->
 - CEO: <!--AltName-->[Mimique]<!--/AltName-->
@@ -8526,9 +8526,9 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 [Mimique]: monsters_hd.md#mimique
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Minotaur<!--/Name-->
 - CEO: <!--AltName-->[Minotaure]<!--/AltName-->
@@ -8567,9 +8567,9 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [Minotaure]: monsters_hd.md#minotaure
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Violet Fungus<!--/Name-->
 - CEO: <!--AltName-->[Moisissure violette]<!--/AltName-->
@@ -8602,9 +8602,9 @@ _Hit_: 4 (1d8) necrotic damage.
 [Moisissure violette]: monsters_hd.md#moisissure-violette
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Mastiff<!--/Name-->
 - CEO: <!--AltName-->[Mastiff]<!--/AltName-->
@@ -8635,9 +8635,9 @@ _Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed
 [Mastiff]: monsters_hd.md#mastiff
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Hell Hound<!--/Name-->
 - CEO: <!--AltName-->[Molosse infernal]<!--/AltName-->
@@ -8675,9 +8675,9 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 [Molosse infernal]: monsters_hd.md#molosse-infernal
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Mummy<!--/Name-->
 - CEO: <!--AltName-->[Momie]<!--/AltName-->
@@ -8712,9 +8712,9 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the tar
 [Momie]: monsters_hd.md#momie
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Mummy Lord<!--/Name-->
 - CEO: <!--AltName-->[Momie auguste]<!--/AltName-->
@@ -8785,9 +8785,9 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 [Momie auguste]: monsters_hd.md#momie-auguste
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Mule<!--/Name-->
 - CEO: <!--AltName-->[Mule]<!--/AltName-->
@@ -8819,9 +8819,9 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 [Mule]: monsters_hd.md#mule
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Medusa<!--/Name-->
 - CEO: <!--AltName-->[Méduse]<!--/AltName-->
@@ -8863,9 +8863,9 @@ _Hit_: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ice Mephit<!--/Name-->
 - CEO: <!--AltName-->[Méphite de glace]<!--/AltName-->
@@ -8905,9 +8905,9 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 [Méphite de glace]: monsters_hd.md#méphite-de-glace
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Magma Mephit<!--/Name-->
 - CEO: <!--AltName-->[Méphite de magma]<!--/AltName-->
@@ -8947,9 +8947,9 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 [Méphite de magma]: monsters_hd.md#méphite-de-magma
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Dust Mephit<!--/Name-->
 - CEO: <!--AltName-->[Méphite de poussière]<!--/AltName-->
@@ -8987,9 +8987,9 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [Méphite de poussière]: monsters_hd.md#méphite-de-poussière
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Steam Mephit<!--/Name-->
 - CEO: <!--AltName-->[Méphite de vapeur]<!--/AltName-->
@@ -9025,9 +9025,9 @@ _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 [Méphite de vapeur]: monsters_hd.md#méphite-de-vapeur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Spirit Naga<!--/Name-->
 - CEO: <!--AltName-->[Naga corrupteur]<!--/AltName-->
@@ -9074,9 +9074,9 @@ _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitutio
 [Naga corrupteur]: monsters_hd.md#naga-corrupteur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Guardian Naga<!--/Name-->
 - CEO: <!--AltName-->[Naga gardien]<!--/AltName-->
@@ -9129,9 +9129,9 @@ _Hit_: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) 
 [Naga gardien]: monsters_hd.md#naga-gardien
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Nalfeshnee<!--/Name-->
 - CEO: <!--AltName-->[Nalfeshnie]<!--/AltName-->
@@ -9175,9 +9175,9 @@ _Hit_: 15 (3d6 + 5) slashing damage.
 [Nalfeshnie]: monsters_hd.md#nalfeshnie
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Noble<!--/Name-->
 - CEO: <!--AltName-->[Noble]<!--/AltName-->
@@ -9208,9 +9208,9 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [Noble]: monsters_hd.md#noble
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Swarm of Insects<!--/Name-->
 - CEO: <!--AltName-->[Nuée d'insectes]<!--/AltName-->
@@ -9242,9 +9242,9 @@ _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has hal
 [Nuée d'insectes]: monsters_hd.md#nuée-dinsectes
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Swarm of Bats<!--/Name-->
 - CEO: <!--AltName-->[Nuée de chauve-souris]<!--/AltName-->
@@ -9280,9 +9280,9 @@ _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half
 [Nuée de chauve-souris]: monsters_hd.md#nuée-de-chauve-souris
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Swarm of Ravens<!--/Name-->
 - CEO: <!--AltName-->[Nuée de corbeaux]<!--/AltName-->
@@ -9315,9 +9315,9 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 [Nuée de corbeaux]: monsters_hd.md#nuée-de-corbeaux
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Swarm of Quippers<!--/Name-->
 - CEO: <!--AltName-->[Nuée de piranhas]<!--/AltName-->
@@ -9353,9 +9353,9 @@ _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has hal
 [Nuée de piranhas]: monsters_hd.md#nuée-de-piranhas
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Swarm of Rats<!--/Name-->
 - CEO: <!--AltName-->[Nuée de rats]<!--/AltName-->
@@ -9389,9 +9389,9 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 [Nuée de rats]: monsters_hd.md#nuée-de-rats
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Swarm of Poisonous Snakes<!--/Name-->
 - CEO: <!--AltName-->[Nuée de serpents venimeux]<!--/AltName-->
@@ -9423,9 +9423,9 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 [Nuée de serpents venimeux]: monsters_hd.md#nuée-de-serpents-venimeux
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Wight<!--/Name-->
 - CEO: <!--AltName-->[Nécrophage]<!--/AltName-->
@@ -9469,9 +9469,9 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Nécrophage]: monsters_hd.md#nécrophage
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ogre<!--/Name-->
 - CEO: <!--AltName-->[Ogre]<!--/AltName-->
@@ -9501,9 +9501,9 @@ _Hit_: 11 (2d6 + 4) piercing damage.
 [Ogre]: monsters_hd.md#ogre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Shadow<!--/Name-->
 - CEO: <!--AltName-->[Ombre]<!--/AltName-->
@@ -9542,9 +9542,9 @@ _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced b
 [Ombre]: monsters_hd.md#ombre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Oni<!--/Name-->
 - CEO: <!--AltName-->[Oni]<!--/AltName-->
@@ -9592,9 +9592,9 @@ _Hit_: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small o
 [Oni]: monsters_hd.md#oni
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Orc<!--/Name-->
 - CEO: <!--AltName-->[Orc]<!--/AltName-->
@@ -9629,9 +9629,9 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 [Orc]: monsters_hd.md#orc
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Otyugh<!--/Name-->
 - CEO: <!--AltName-->[Otyugh]<!--/AltName-->
@@ -9670,9 +9670,9 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the targe
 [Otyugh]: monsters_hd.md#otyugh
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Brown Bear<!--/Name-->
 - CEO: <!--AltName-->[Ours brun]<!--/AltName-->
@@ -9709,9 +9709,9 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Ours brun]: monsters_hd.md#ours-brun
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Black Bear<!--/Name-->
 - CEO: <!--AltName-->[Ours noir]<!--/AltName-->
@@ -9748,9 +9748,9 @@ _Hit_: 7 (2d4 + 2) slashing damage.
 [Ours noir]: monsters_hd.md#ours-noir
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Polar Bear<!--/Name-->
 - CEO: <!--AltName-->[Ours polaire]<!--/AltName-->
@@ -9787,9 +9787,9 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [Ours polaire]: monsters_hd.md#ours-polaire
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Werebear<!--/Name-->
 - CEO: <!--AltName-->[Ours-garou]<!--/AltName-->
@@ -9833,9 +9833,9 @@ _Hit_: 10 (1d12 + 4) slashing damage.
 [Ours-garou]: monsters_hd.md#ours-garou
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Rust Monster<!--/Name-->
 - CEO: <!--AltName-->[Oxydeur]<!--/AltName-->
@@ -9869,9 +9869,9 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [Oxydeur]: monsters_hd.md#oxydeur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Panther<!--/Name-->
 - CEO: <!--AltName-->[Panthère]<!--/AltName-->
@@ -9908,9 +9908,9 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [Panthère]: monsters_hd.md#panthère
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Octopus<!--/Name-->
 - CEO: <!--AltName-->[Pieuvre]<!--/AltName-->
@@ -9947,9 +9947,9 @@ _Hit_: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until th
 [Pieuvre]: monsters_hd.md#pieuvre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Octopus<!--/Name-->
 - CEO: <!--AltName-->[Pieuvre géante]<!--/AltName-->
@@ -9986,9 +9986,9 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grapp
 [Pieuvre géante]: monsters_hd.md#pieuvre-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Quipper<!--/Name-->
 - CEO: <!--AltName-->[Piranha]<!--/AltName-->
@@ -10020,9 +10020,9 @@ _Hit_: 1 piercing damage.
 [Piranha]: monsters_hd.md#piranha
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Planetar<!--/Name-->
 - CEO: <!--AltName-->[Planétar]<!--/AltName-->
@@ -10072,9 +10072,9 @@ _Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 [Planétar]: monsters_hd.md#planétar
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Plesiosaurus<!--/Name-->
 - CEO: <!--AltName-->[Plésiosaure]<!--/AltName-->
@@ -10105,9 +10105,9 @@ _Hit_: 14 (3d6 + 4) piercing damage.
 [Plésiosaure]: monsters_hd.md#plésiosaure
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Pony<!--/Name-->
 - CEO: <!--AltName-->[Poney]<!--/AltName-->
@@ -10133,9 +10133,9 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 [Poney]: monsters_hd.md#poney
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Black Pudding<!--/Name-->
 - CEO: <!--AltName-->[Pouding noir]<!--/AltName-->
@@ -10175,9 +10175,9 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, no
 [Pouding noir]: monsters_hd.md#pouding-noir
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Pseudodragon<!--/Name-->
 - CEO: <!--AltName-->[Pseudodragon]<!--/AltName-->
@@ -10217,9 +10217,9 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Fire Beetle<!--/Name-->
 - CEO: <!--AltName-->[Punaise de feu géante]<!--/AltName-->
@@ -10249,9 +10249,9 @@ _Hit_: 2 (1d6 - 1) slashing damage.
 [Punaise de feu géante]: monsters_hd.md#punaise-de-feu-géante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Pegasus<!--/Name-->
 - CEO: <!--AltName-->[Pégase]<!--/AltName-->
@@ -10279,9 +10279,9 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [Pégase]: monsters_hd.md#pégase
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Quasit<!--/Name-->
 - CEO: <!--AltName-->[Quasit]<!--/AltName-->
@@ -10321,9 +10321,9 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Const
 [Quasit]: monsters_hd.md#quasit
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Rakshasa<!--/Name-->
 - CEO: <!--AltName-->[Rakshasa]<!--/AltName-->
@@ -10366,9 +10366,9 @@ _Hit_: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature
 [Rakshasa]: monsters_hd.md#rakshasa
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Rat<!--/Name-->
 - CEO: <!--AltName-->[Rat]<!--/AltName-->
@@ -10398,9 +10398,9 @@ _Hit_: 1 piercing damage.
 [Rat]: monsters_hd.md#rat
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Rat<!--/Name-->
 - CEO: <!--AltName-->[Rat géant]<!--/AltName-->
@@ -10432,9 +10432,9 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Rat géant]: monsters_hd.md#rat-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Wererat<!--/Name-->
 - CEO: <!--AltName-->[Rat-garou]<!--/AltName-->
@@ -10478,9 +10478,9 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Rat-garou]: monsters_hd.md#rat-garou
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Reef Shark<!--/Name-->
 - CEO: <!--AltName-->[Requin de récif]<!--/AltName-->
@@ -10513,9 +10513,9 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Requin de récif]: monsters_hd.md#requin-de-récif
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Shark<!--/Name-->
 - CEO: <!--AltName-->[Requin géant]<!--/AltName-->
@@ -10548,9 +10548,9 @@ _Hit_: 22 (3d10 + 6) piercing damage.
 [Requin géant]: monsters_hd.md#requin-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Hunter Shark<!--/Name-->
 - CEO: <!--AltName-->[Requin chasseur]<!--/AltName-->
@@ -10583,9 +10583,9 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [Requin chasseur]: monsters_hd.md#requin-chasseur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Rhinoceros<!--/Name-->
 - CEO: <!--AltName-->[Rhinocéros]<!--/AltName-->
@@ -10615,9 +10615,9 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 [Rhinocéros]: monsters_hd.md#rhinocéros
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Roc<!--/Name-->
 - CEO: <!--AltName-->[Roc]<!--/AltName-->
@@ -10655,9 +10655,9 @@ _Hit_: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). 
 [Roc]: monsters_hd.md#roc
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Commoner<!--/Name-->
 - CEO: <!--AltName-->[Roturier]<!--/AltName-->
@@ -10683,9 +10683,9 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [Roturier]: monsters_hd.md#roturier
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Remorhaz<!--/Name-->
 - CEO: <!--AltName-->[Remorhaz]<!--/AltName-->
@@ -10718,9 +10718,9 @@ _Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is
 [Remorhaz]: monsters_hd.md#remorhaz
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Sahuagin<!--/Name-->
 - CEO: <!--AltName-->[Sahuagin]<!--/AltName-->
@@ -10765,9 +10765,9 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [Sahuagin]: monsters_hd.md#sahuagin
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Salamander<!--/Name-->
 - CEO: <!--AltName-->[Salamandre]<!--/AltName-->
@@ -10808,9 +10808,9 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target 
 [Salamandre]: monsters_hd.md#salamandre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Boar<!--/Name-->
 - CEO: <!--AltName-->[Sanglier]<!--/AltName-->
@@ -10842,9 +10842,9 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 [Sanglier]: monsters_hd.md#sanglier
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Boar<!--/Name-->
 - CEO: <!--AltName-->[Sanglier géant]<!--/AltName-->
@@ -10876,9 +10876,9 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [Sanglier géant]: monsters_hd.md#sanglier-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Wereboar<!--/Name-->
 - CEO: <!--AltName-->[Sanglier-garou]<!--/AltName-->
@@ -10920,9 +10920,9 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succee
 [Sanglier-garou]: monsters_hd.md#sanglier-garou
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Satyr<!--/Name-->
 - CEO: <!--AltName-->[Satyre]<!--/AltName-->
@@ -10961,9 +10961,9 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 [Satyre]: monsters_hd.md#satyre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Scorpion<!--/Name-->
 - CEO: <!--AltName-->[Scorpion]<!--/AltName-->
@@ -10989,9 +10989,9 @@ _Hit_: 1 piercing damage, and the target must make a DC 9 Constitution saving th
 [Scorpion]: monsters_hd.md#scorpion
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Scorpion<!--/Name-->
 - CEO: <!--AltName-->[Scorpion géant]<!--/AltName-->
@@ -11023,9 +11023,9 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constituti
 [Scorpion géant]: monsters_hd.md#scorpion-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Constrictor Snake<!--/Name-->
 - CEO: <!--AltName-->[Serpent constricteur]<!--/AltName-->
@@ -11055,9 +11055,9 @@ _Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14)
 [Serpent constricteur]: monsters_hd.md#serpent-constricteur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Constrictor Snake<!--/Name-->
 - CEO: <!--AltName-->[Serpent constricteur géant]<!--/AltName-->
@@ -11088,9 +11088,9 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16
 [Serpent constricteur géant]: monsters_hd.md#serpent-constricteur-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Poisonous Snake<!--/Name-->
 - CEO: <!--AltName-->[Serpent venimeux]<!--/AltName-->
@@ -11116,9 +11116,9 @@ _Hit_: 1 piercing damage, and the target must make a DC 10 Constitution saving t
 [Serpent venimeux]: monsters_hd.md#serpent-venimeux
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Poisonous Snake<!--/Name-->
 - CEO: <!--AltName-->[Serpent venimeux géant]<!--/AltName-->
@@ -11145,9 +11145,9 @@ _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitutio
 [Serpent venimeux géant]: monsters_hd.md#serpent-venimeux-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Flying Snake<!--/Name-->
 - CEO: <!--AltName-->[Serpent volant]<!--/AltName-->
@@ -11177,9 +11177,9 @@ _Hit_: 1 piercing damage plus 7 (3d4) poison damage.
 [Serpent volant]: monsters_hd.md#serpent-volant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Ape<!--/Name-->
 - CEO: <!--AltName-->[Singe géant]<!--/AltName-->
@@ -11212,9 +11212,9 @@ _Hit_: 30 (7d6 + 6) bludgeoning damage.
 [Singe géant]: monsters_hd.md#singe-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Solar<!--/Name-->
 - CEO: <!--AltName-->[Solar]<!--/AltName-->
@@ -11281,9 +11281,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 [Solar]: monsters_hd.md#solar
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Specter<!--/Name-->
 - CEO: <!--AltName-->[Spectre]<!--/AltName-->
@@ -11318,9 +11318,9 @@ _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution
 [Spectre]: monsters_hd.md#spectre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Skeleton<!--/Name-->
 - CEO: <!--AltName-->[Squelette]<!--/AltName-->
@@ -11353,9 +11353,9 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Squelette]: monsters_hd.md#squelette
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Warhorse Skeleton<!--/Name-->
 - CEO: <!--AltName-->[Squelette cheval de guerre]<!--/AltName-->
@@ -11384,9 +11384,9 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [Squelette cheval de guerre]: monsters_hd.md#squelette-cheval-de-guerre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Minotaur Skeleton<!--/Name-->
 - CEO: <!--AltName-->[Squelette minotaure]<!--/AltName-->
@@ -11423,9 +11423,9 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [Squelette minotaure]: monsters_hd.md#squelette-minotaure
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Stirge<!--/Name-->
 - CEO: <!--AltName-->[Strige]<!--/AltName-->
@@ -11451,9 +11451,9 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While
 [Strige]: monsters_hd.md#strige
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Succubus<!--/Name-->
 - CEO: <!--AltName-->[Succube/Incube]<!--/AltName-->
@@ -11493,9 +11493,9 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 [Succube/Incube]: monsters_hd.md#succubeincube
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Treant<!--/Name-->
 - CEO: <!--AltName-->[Sylvanien]<!--/AltName-->
@@ -11537,9 +11537,9 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 [Sylvanien]: monsters_hd.md#sylvanien
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Rug of Smothering<!--/Name-->
 - CEO: <!--AltName-->[Tapis étrangleur]<!--/AltName-->
@@ -11575,9 +11575,9 @@ _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the tar
 [Tapis étrangleur]: monsters_hd.md#tapis-étrangleur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Tarrasque<!--/Name-->
 - CEO: <!--AltName-->[Tarasque]<!--/AltName-->
@@ -11644,9 +11644,9 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 [Tarasque]: monsters_hd.md#tarasque
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Shambling Mound<!--/Name-->
 - CEO: <!--AltName-->[Tertre errant]<!--/AltName-->
@@ -11684,9 +11684,9 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [Tertre errant]: monsters_hd.md#tertre-errant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Tiger<!--/Name-->
 - CEO: <!--AltName-->[Tigre]<!--/AltName-->
@@ -11723,9 +11723,9 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 [Tigre]: monsters_hd.md#tigre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Saber-Toothed Tiger<!--/Name-->
 - CEO: <!--AltName-->[Tigre à dents de sabre]<!--/AltName-->
@@ -11762,9 +11762,9 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [Tigre à dents de sabre]: monsters_hd.md#tigre-à-dents-de-sabre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Weretiger<!--/Name-->
 - CEO: <!--AltName-->[Tigre-garou]<!--/AltName-->
@@ -11814,9 +11814,9 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Tigre-garou]: monsters_hd.md#tigre-garou
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Grimlock<!--/Name-->
 - CEO: <!--AltName-->[Torve]<!--/AltName-->
@@ -11852,9 +11852,9 @@ _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 [Torve]: monsters_hd.md#torve
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Invisible Stalker<!--/Name-->
 - CEO: <!--AltName-->[Traqueur invisible]<!--/AltName-->
@@ -11892,9 +11892,9 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage.
 [Traqueur invisible]: monsters_hd.md#traqueur-invisible
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Triceratops<!--/Name-->
 - CEO: <!--AltName-->[Tricératops]<!--/AltName-->
@@ -11928,9 +11928,9 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage
 [Tricératops]: monsters_hd.md#tricératops
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Troll<!--/Name-->
 - CEO: <!--AltName-->[Troll]<!--/AltName-->
@@ -11969,9 +11969,9 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Troll]: monsters_hd.md#troll
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Tyrannosaurus Rex<!--/Name-->
 - CEO: <!--AltName-->[Tyrannosaure]<!--/AltName-->
@@ -12004,9 +12004,9 @@ _Hit_: 20 (3d8 + 7) bludgeoning damage.
 [Tyrannosaure]: monsters_hd.md#tyrannosaure
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Vampire<!--/Name-->
 - CEO: <!--AltName-->[Vampire]<!--/AltName-->
@@ -12077,9 +12077,9 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 [Vampire]: monsters_hd.md#vampire
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Vampire Spawn<!--/Name-->
 - CEO: <!--AltName-->[Vampirien]<!--/AltName-->
@@ -12130,9 +12130,9 @@ _Hit_: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hi
 [Vampirien]: monsters_hd.md#vampirien
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Gray Ooze<!--/Name-->
 - CEO: <!--AltName-->[Vase grise]<!--/AltName-->
@@ -12171,9 +12171,9 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the targe
 [Vase grise]: monsters_hd.md#vase-grise
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Vulture<!--/Name-->
 - CEO: <!--AltName-->[Vautour]<!--/AltName-->
@@ -12206,9 +12206,9 @@ _Hit_: 2 (1d4) piercing damage.
 [Vautour]: monsters_hd.md#vautour
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Vulture<!--/Name-->
 - CEO: <!--AltName-->[Vautour géant]<!--/AltName-->
@@ -12247,9 +12247,9 @@ _Hit_: 9 (2d6 + 2) slashing damage.
 [Vautour géant]: monsters_hd.md#vautour-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Purple Worm<!--/Name-->
 - CEO: <!--AltName-->[Ver pourpre]<!--/AltName-->
@@ -12286,9 +12286,9 @@ _Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constituti
 [Ver pourpre]: monsters_hd.md#ver-pourpre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Wyvern<!--/Name-->
 - CEO: <!--AltName-->[Vouivre]<!--/AltName-->
@@ -12325,9 +12325,9 @@ _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution s
 [Vouivre]: monsters_hd.md#vouivre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Vrock<!--/Name-->
 - CEO: <!--AltName-->[Vrock]<!--/AltName-->
@@ -12373,9 +12373,9 @@ _Hit_: 14 (2d10 + 3) slashing damage.
 [Vrock]: monsters_hd.md#vrock
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Veteran<!--/Name-->
 - CEO: <!--AltName-->[Vétéran]<!--/AltName-->
@@ -12412,9 +12412,9 @@ _Hit_: 6 (1d10 + 1) piercing damage.
 [Vétéran]: monsters_hd.md#vétéran
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Worg<!--/Name-->
 - CEO: <!--AltName-->[Worg]<!--/AltName-->
@@ -12445,9 +12445,9 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 [Worg]: monsters_hd.md#worg
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Xorn<!--/Name-->
 - CEO: <!--AltName-->[Xorn]<!--/AltName-->
@@ -12490,9 +12490,9 @@ _Hit_: 13 (3d6 + 3) piercing damage.
 
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Zombie<!--/Name-->
 - CEO: <!--AltName-->[Zombi]<!--/AltName-->
@@ -12525,9 +12525,9 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 [Zombi]: monsters_hd.md#zombi
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Ogre Zombie<!--/Name-->
 - CEO: <!--AltName-->[Zombi ogre]<!--/AltName-->
@@ -12560,9 +12560,9 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [Zombi ogre]: monsters_hd.md#zombi-ogre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Wraith<!--/Name-->
 - CEO: <!--AltName-->[Âme en peine]<!--/AltName-->
@@ -12599,9 +12599,9 @@ _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitu
 [Âme en peine]: monsters_hd.md#Âme-en-peine
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Scout<!--/Name-->
 - CEO: <!--AltName-->[Éclaireur]<!--/AltName-->
@@ -12638,9 +12638,9 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Éclaireur]: monsters_hd.md#Éclaireur
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Efreeti<!--/Name-->
 - CEO: <!--AltName-->[Éfrit]<!--/AltName-->
@@ -12686,9 +12686,9 @@ _Hit_: 17 (5d6) fire damage.
 [Éfrit]: monsters_hd.md#Éfrit
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Elk<!--/Name-->
 - CEO: <!--AltName-->[Élan]<!--/AltName-->
@@ -12722,9 +12722,9 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [Élan]: monsters_hd.md#Élan
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Giant Elk<!--/Name-->
 - CEO: <!--AltName-->[Élan géant]<!--/AltName-->
@@ -12759,9 +12759,9 @@ _Hit_: 22 (4d8 + 4) bludgeoning damage.
 [Élan géant]: monsters_hd.md#Élan-géant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Air Elemental<!--/Name-->
 - CEO: <!--AltName-->[Élémentaire de l'air]<!--/AltName-->
@@ -12798,9 +12798,9 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 [Élémentaire de l'air]: monsters_hd.md#Élémentaire-de-lair
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Water Elemental<!--/Name-->
 - CEO: <!--AltName-->[Élémentaire de l'eau]<!--/AltName-->
@@ -12839,9 +12839,9 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [Élémentaire de l'eau]: monsters_hd.md#Élémentaire-de-leau
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Earth Elemental<!--/Name-->
 - CEO: <!--AltName-->[Élémentaire de la terre]<!--/AltName-->
@@ -12879,9 +12879,9 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 [Élémentaire de la terre]: monsters_hd.md#Élémentaire-de-la-terre
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Fire Elemental<!--/Name-->
 - CEO: <!--AltName-->[Élémentaire du feu]<!--/AltName-->
@@ -12920,9 +12920,9 @@ _Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable obje
 [Élémentaire du feu]: monsters_hd.md#Élémentaire-du-feu
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Elephant<!--/Name-->
 - CEO: <!--AltName-->[Éléphant]<!--/AltName-->
@@ -12956,9 +12956,9 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage.
 [Éléphant]: monsters_hd.md#Éléphant
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Killer Whale<!--/Name-->
 - CEO: <!--AltName-->[Épaulard]<!--/AltName-->
@@ -12993,9 +12993,9 @@ _Hit_: 21 (5d6 + 4) piercing damage.
 [Épaulard]: monsters_hd.md#Épaulard
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Flying Sword<!--/Name-->
 - CEO: <!--AltName-->[Épée volante]<!--/AltName-->
@@ -13030,9 +13030,9 @@ _Hit_: 5 (1d8 + 1) slashing damage.
 [Épée volante]: monsters_hd.md#Épée-volante
 
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
-<!--Monster-->
+<!--MonsterVO-->
 
 # <!--Name-->Erinyes<!--/Name-->
 - CEO: <!--AltName-->[Érinye]<!--/AltName-->
@@ -13077,7 +13077,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 
 [Érinye]: monsters_hd.md#Érinye
 
-<!--/Monster-->
+<!--/MonsterVO-->
 
 <!--/MonstersVO-->
 

@@ -370,6 +370,10 @@ namespace AideDeJeu.ViewModels
             public DbSet<Equipment> Equipments { get; set; }
             public DbSet<Spell> Spells { get; set; }
             public DbSet<Monster> Monsters { get; set; }
+            public DbSet<SpellHD> SpellsHD { get; set; }
+            public DbSet<MonsterHD> MonstersHD { get; set; }
+            public DbSet<SpellVO> SpellsVO { get; set; }
+            public DbSet<MonsterVO> MonstersVO { get; set; }
 
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {

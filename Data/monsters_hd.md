@@ -5,7 +5,7 @@
 - SRD: <!--AltName-->[Monsters](monsters_vo.md)<!--/AltName-->
 
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Aboleth<!--/Name-->
 - SRD: <!--AltName-->[Aboleth](monsters_vo.md#aboleth)<!--/AltName-->
@@ -57,9 +57,9 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **Succion psychique (coûte 2 actions).** Une créature [charmée] par l'aboleth subit 10 (3d6) dégâts psychiques et l'aboleth récupère un nombre de points de vie égal aux dégâts subis par la créature.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Abothid<!--/Name-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->loyal mauvais<!--/Alignment-->
@@ -109,9 +109,9 @@ Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le [j
 **_Absorption psychique._** L'abothid peut se nourrir du psychisme d'une cible asservie située à 18 mètres ou moins pour récupérer des points de vie. Il occasionne ainsi 10 (3d6) points de dégâts psychiques à sa cible et récupère un nombre de points de vie équivalent. Cette aptitude utilise toutes les actions de l'abothid à ce tour.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Âme-en-peine<!--/Name-->
 - SRD: <!--AltName-->[Wraith](monsters_vo.md#wraith)<!--/AltName-->
@@ -146,9 +146,9 @@ _Touché :_ 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un [jet de 
 **_Création de spectre._** L'âme-en-peine cible un humanoïde mort depuis moins d'une minute d'une mort violente et situé à 3 mètres ou moins d'elle. L'esprit de la cible s'élève alors sous forme de spectre dans l'emplacement occupé par son cadavre ou dans l'emplacement inoccupé le plus proche. Le spectre est contrôlé par l'âme-en-peine qui ne peut contrôler de la sorte plus de sept spectres en même temps.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Amphibe<!--/Name-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->loyal mauvais<!--/Alignment-->
@@ -186,9 +186,9 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 _Touché :_ 5 (1d4+3) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Déva<!--/Name-->
 - SRD: <!--AltName-->[Deva](monsters_vo.md#deva)<!--/AltName-->
@@ -236,9 +236,9 @@ Une fois métamorphosé, le déva conserve ses statistiques de jeu et sa capacit
 _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Planétar<!--/Name-->
 - SRD: <!--AltName-->[Planetar](monsters_vo.md#planetar)<!--/AltName-->
@@ -286,9 +286,9 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Solar<!--/Name-->
 - SRD: <!--AltName-->[Solar](monsters_vo.md#solar)<!--/AltName-->
@@ -355,9 +355,9 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 **_Téléportation._** Le solar se téléporte par magie, avec tous ses objets portés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ankheg<!--/Name-->
 - SRD: <!--AltName-->[Ankheg](monsters_vo.md#ankheg)<!--/AltName-->
@@ -383,9 +383,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 **_Aspersion acide (Recharge 6)._** L'ankheg crache de l'acide sur une ligne de 9 mètres de long et de 1,50 mètre de large, à condition qu'il n'empoigne aucune créature. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 13 ; elles subissent 10 (3d6) dégâts d'acide en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Azer<!--/Name-->
 - SRD: <!--AltName-->[Azer](monsters_vo.md#azer)<!--/AltName-->
@@ -420,9 +420,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'il est manié à deux mains pour effectuer une attaque au corps à corps, plus 3 (1d6) dégâts de feu.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Babélien<!--/Name-->
 - SRD: <!--AltName-->[Gibbering Mouther](monsters_vo.md#gibbering-mouther)<!--/AltName-->
@@ -457,9 +457,9 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus petite, elle doit réussir un [jet de sauvegarde] de [Force] DD 10 pour ne pas être jetée [à terre]. Si la cible est tuée par ces dégâts, le babélien l'absorbe.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Basilic<!--/Name-->
 - SRD: <!--AltName-->[Basilisk](monsters_vo.md#basilisk)<!--/AltName-->
@@ -491,9 +491,9 @@ Si le basilic voit son reflet sous une lumière vive à une distance maximale de
 _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Béhir<!--/Name-->
 - SRD: <!--AltName-->[Behir](monsters_vo.md#behir)<!--/AltName-->
@@ -531,9 +531,9 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 **_Souffle de foudre (Recharge 5-6)._** Le béhir souffle une ligne de foudre de 6 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent effectuer un [jet de sauvegarde] de [Dextérité] DD 16 ; elles subissent 66 (12d10) dégâts de foudre en cas de [jet de sauvegarde] raté ou la moitié seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Bulette<!--/Name-->
 - SRD: <!--AltName-->[Bulette](monsters_vo.md#bulette)<!--/AltName-->
@@ -566,9 +566,9 @@ _Touché :_ 30 (4d12+4) dégâts perforants.
 Chacune de ces créatures doit réussir un [jet de sauvegarde] de [Force] ou de [Dextérité] DD 16 (au choix de la cible), sans quoi elle se retrouve [à terre] et subit 14 (3d6+4) dégâts contondants plus 14 (3d6+4) dégâts tranchants. En cas de [jet de sauvegarde] réussi, la créature subit la moitié des dégâts seulement, elle n'est pas [à terre] et elle est repoussée sur 1,50 mètre hors de l'emplacement de la bulette vers un emplacement inoccupé de son choix. S'il n'y a aucun emplacement inoccupé à portée, la créature tombe [à terre] dans l'emplacement de la bulette à la place.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Centaure<!--/Name-->
 - SRD: <!--AltName-->[Centaur](monsters_vo.md#centaur)<!--/AltName-->
@@ -607,9 +607,9 @@ _Touché :_ 9 (1d10+4) dégâts perforants.
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Cerbère<!--/Name-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
@@ -643,9 +643,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 **_Déchirer._** Si le cerbère réussi plusieurs attaques de morsure sur la même cible, chaque tête tire violemment dans une direction opposée en tentant de déchirer le corps de la victime. La cible subit 7 (2d6) dégâts perforants supplémentaires par attaque réussie après la première dans le même tour.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Criard<!--/Name-->
 - SRD: <!--AltName-->[Shrieker](monsters_vo.md#shrieker)<!--/AltName-->
@@ -672,9 +672,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 **_Hurlement._** Quand une lumière vive ou une créature s'approche à 9 mètres ou moins du criard, celui-ci émet un hurlement audible jusqu'à 90 mètres. Le criard continue de hurler jusqu'à ce que la source de gêne se déplace hors de portée et pendant ses 1d4 prochains tours.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Moisissure violette<!--/Name-->
 - SRD: <!--AltName-->[Violet Fungus](monsters_vo.md#violet-fungus)<!--/AltName-->
@@ -705,9 +705,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 _Touché :_ 4 (1d8) dégâts nécrotiques.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chimère<!--/Name-->
 - SRD: <!--AltName-->[Chimera](monsters_vo.md#chimera)<!--/AltName-->
@@ -744,9 +744,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 **_Souffle de feu (Recharge 5-6)._** La tête de dragon souffle un cône de feu de 4,50 mètres. Les créatures dans le cône doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 15 ; elles subissent 31 (7d8) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chuul<!--/Name-->
 - SRD: <!--AltName-->[Chuul](monsters_vo.md#chuul)<!--/AltName-->
@@ -785,9 +785,9 @@ _Touché :_ 11 (2d6+4) dégâts contondants. La cible est [empoignée] (évasion
 La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours et mettre fin à l'effet en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Cockatrice<!--/Name-->
 - SRD: <!--AltName-->[Cockatrice](monsters_vo.md#cockatrice)<!--/AltName-->
@@ -811,9 +811,9 @@ La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le [
 _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un [jet de sauvegarde] de [Constitution] DD 11 pour ne pas être [pétrifiée] par magie. En cas de [jet de sauvegarde] raté, le corps de la créature commence à se transformer en pierre et elle est [entravée]. Elle doit retenter le [jet de sauvegarde] à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est [pétrifiée] pendant 24 heures.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Couatl<!--/Name-->
 - SRD: <!--AltName-->[Couatl](monsters_vo.md#couatl)<!--/AltName-->
@@ -866,9 +866,9 @@ Elle est [inconsciente] tant que le poison fait effet.
 Une autre créature peut effectuer une action pour secouer la cible afin qu'elle reprenne connaissance.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Vétéran demi-dragon rouge<!--/Name-->
 -  <!--Type-->Humanoïde (humain)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
@@ -905,9 +905,9 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 **_Souffle de feu (Recharge 5-6)._** Le vétéran souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 15 ; elles subissent 24 (7d6) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Balor<!--/Name-->
 - SRD: <!--AltName-->[Balor](monsters_vo.md#balor)<!--/AltName-->
@@ -953,9 +953,9 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 **_Téléportation._** Le balor se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dretch<!--/Name-->
 - SRD: <!--AltName-->[Dretch](monsters_vo.md#dretch)<!--/AltName-->
@@ -990,9 +990,9 @@ _Touché :_ 3 (1d6) dégâts perforants.
 **_Nuage fétide (1/jour)._** Un gaz vert répugnant de 3 mètres de rayon s'étend autour du dretch. Le gaz contourne les angles et la visibilité dans la zone est légèrement obstruée. Il dure 1 minute ou jusqu'à ce qu'un vent violent le disperse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 11 pour ne pas être [empoisonnées] jusqu'au début de leur prochain tour. Les créatures [empoisonnées] de cette façon peuvent effectuer une action ou une action bonus lors de leur tour, mais pas les deux, et elles ne peuvent pas effectuer de réaction.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Glabrezu<!--/Name-->
 - SRD: <!--AltName-->[Glabrezu](monsters_vo.md#glabrezu)<!--/AltName-->
@@ -1036,9 +1036,9 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature de t
 _Touché :_ 7 (2d4+2) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hezrou<!--/Name-->
 - SRD: <!--AltName-->[Hezrou](monsters_vo.md#hezrou)<!--/AltName-->
@@ -1080,9 +1080,9 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 _Touché :_ 15 (2d10+4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Marilith<!--/Name-->
 - SRD: <!--AltName-->[Marilith](monsters_vo.md#marilith)<!--/AltName-->
@@ -1132,9 +1132,9 @@ _Touché :_ 15 (2d10+4) dégâts contondants. La cible est [empoignée] (évasio
 Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Nalfeshnie<!--/Name-->
 - SRD: <!--AltName-->[Nalfeshnee](monsters_vo.md#nalfeshnee)<!--/AltName-->
@@ -1180,9 +1180,9 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 **_Téléportation._** Le nalfeshnie se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Quasit<!--/Name-->
 - SRD: <!--AltName-->[Quasit](monsters_vo.md#quasit)<!--/AltName-->
@@ -1224,9 +1224,9 @@ La cible peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours e
 **_Invisibilité._** Le quasit devient [invisible] par magie jusqu'à ce qu'il attaque ou utilise sa Frayeur, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Vrock<!--/Name-->
 - SRD: <!--AltName-->[Vrock](monsters_vo.md#vrock)<!--/AltName-->
@@ -1270,9 +1270,9 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 Les spores contournent les angles. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 14 pour ne pas être [empoisonnées]. Une cible subit 5 (1d10) dégâts de poison au début de chacun de ses tours tant qu'elle est [empoisonnée] de cette façon. Une cible peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Déverser le contenu d'une fiole d'eau bénite sur la cible met également fin à cet effet.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Destrier noir<!--/Name-->
 - SRD: <!--AltName-->[Nightmare](monsters_vo.md#nightmare)<!--/AltName-->
@@ -1305,9 +1305,9 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 _Touché :_ 13 (2d8+4) dégâts contondants plus 7 (2d6) dégâts de feu.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dévoreur arcanique<!--/Name-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
@@ -1378,9 +1378,9 @@ Chaque créature se trouvant dans un cône de 18 mètres doit effectuer un [jet 
 Relancez deux fois le dé et rejouez tous les 8.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Diable barbelé<!--/Name-->
 - SRD: <!--AltName-->[Barbed Devil](monsters_vo.md#barbed-devil)<!--/AltName-->
@@ -1427,9 +1427,9 @@ _Touché :_ 10 (3d6) dégâts de feu. La cible prend également feu si c'est un 
 _Touché :_ 10 (2d6+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Diable barbu<!--/Name-->
 - SRD: <!--AltName-->[Bearded Devil](monsters_vo.md#bearded-devil)<!--/AltName-->
@@ -1471,9 +1471,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants et la cible doit réussir un [jet de s
 _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 12 pour ne pas perdre 5 (1d10) points de vie au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 5 (1d10). N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de [Sagesse (Médecine)] DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Diable cornu<!--/Name-->
 - SRD: <!--AltName-->[Horned Devil](monsters_vo.md#horned-devil)<!--/AltName-->
@@ -1517,9 +1517,9 @@ _Touché :_ 14 (4d6) dégâts de feu. La cible prend également feu si c'est un 
 _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 17 pour ne pas perdre 10 (3d6) points de vie au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 10 (3d6). N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de [Sagesse (Médecine)] DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Diable gelé<!--/Name-->
 - SRD: <!--AltName-->[Ice Devil](monsters_vo.md#ice-devil)<!--/AltName-->
@@ -1577,9 +1577,9 @@ Si une section est détruite, elle est remplacée par une zone d'air froid dans 
 _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Diable des chaînes<!--/Name-->
 - SRD: <!--AltName-->[Chain Devil](monsters_vo.md#chain-devil)<!--/AltName-->
@@ -1625,9 +1625,9 @@ _Touché :_ 11 (2d6+4) dégâts tranchants. La cible est [empoignée] (évasion 
 Si celle-ci peut voir le diable, elle doit réussir un [jet de sauvegarde] de [Sagesse] DD 14 pour ne pas être [terrorisée] jusqu'à la fin de son tour.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Diable osseux<!--/Name-->
 - SRD: <!--AltName-->[Bone Devil](monsters_vo.md#bone-devil)<!--/AltName-->
@@ -1668,9 +1668,9 @@ _Touché :_ 13 (2d8+4) dégâts perforants plus 17 (5d6) dégâts de poison, et 
 _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Diablotin<!--/Name-->
 - SRD: <!--AltName-->[Imp](monsters_vo.md#imp)<!--/AltName-->
@@ -1710,9 +1710,9 @@ _Touché :_ 5 (1d4+3) dégâts perforants et la cible doit effectuer un [jet de 
 Il redevient visible s'il attaque ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Diantrefosse<!--/Name-->
 - SRD: <!--AltName-->[Pit Fiend](monsters_vo.md#pit-fiend)<!--/AltName-->
@@ -1768,9 +1768,9 @@ _Touché :_ 22 (4d6+8) dégâts perforants. La cible doit réussir un [jet de sa
 _Touché :_ 24 (3d10+8) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Érinye<!--/Name-->
 - SRD: <!--AltName-->[Erinyes](monsters_vo.md#erinyes)<!--/AltName-->
@@ -1814,9 +1814,9 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 **_Parade._** L'érynie ajoute 4 à sa CA lorsqu'elle est la cible d'une attaque au corps à corps réussie. Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Lémure<!--/Name-->
 - SRD: <!--AltName-->[Lemure](monsters_vo.md#lemure)<!--/AltName-->
@@ -1849,9 +1849,9 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 _Touché :_ 2 (1d4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Diaspaad<!--/Name-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
@@ -1891,9 +1891,9 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 **_Hâte (Recharge 5-6)._** Jusqu'à la fin de son prochain tour, le diaspaad bénéficie d'un bonus de +2 à sa CA, il obtient l'avantage lors des [jets de sauvegarde] de [Dextérité] et il peut utiliser son attaque de coup par une action bonus.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Plésiosaure<!--/Name-->
 - SRD: <!--AltName-->[Plesiosaurus](monsters_vo.md#plesiosaurus)<!--/AltName-->
@@ -1922,9 +1922,9 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 _Touché :_ 14 (3d6+4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Tricératops<!--/Name-->
 - SRD: <!--AltName-->[Triceratops](monsters_vo.md#triceratops)<!--/AltName-->
@@ -1956,9 +1956,9 @@ _Touché :_ 24 (4d8+6) dégâts perforants.
 _Touché :_ 22 (3d10+6) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Tyrannosaure<!--/Name-->
 - SRD: <!--AltName-->[Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)<!--/AltName-->
@@ -1989,9 +1989,9 @@ _Touché :_ 33 (4d12+7) dégâts perforants. La cible est [empoignée] (évasion
 _Touché :_ 20 (3d8+7) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Doppleganger<!--/Name-->
 - SRD: <!--AltName-->[Doppelganger](monsters_vo.md#doppelganger)<!--/AltName-->
@@ -2031,9 +2031,9 @@ _Touché :_ 7 (1d6+4) dégâts contondants.
 Tant que la créature est à portée, le doppleganger peut continuer à lire ses pensées si sa concentration n'est pas interrompue (comme s'il se concentrait sur un sort). Pendant qu'il lit les pensées de la cible, il obtient un avantage lors des tests de [Sagesse] (Perspicacité) et de [Charisme] ([Intimidation], [Persuasion] et [Supercherie]) effectués contre elle.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon blanc vénérable<!--/Name-->
 - SRD: <!--AltName-->[Ancient White Dragon]<!--/AltName-->
@@ -2090,9 +2090,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon blanc adulte<!--/Name-->
 - SRD: <!--AltName-->[Adult White Dragon]<!--/AltName-->
@@ -2149,9 +2149,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Jeune dragon blanc<!--/Name-->
 - SRD: <!--AltName-->[Young White Dragon]<!--/AltName-->
@@ -2190,9 +2190,9 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 **_Souffle de glace (Recharge 5-6)._** Le dragon souffle de la glace sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 15 ; elles subissent 45 (10d8) dégâts de froid en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragonnet blanc<!--/Name-->
 - SRD: <!--AltName-->[White Dragon Wyrmling]<!--/AltName-->
@@ -2221,9 +2221,9 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 **_Souffle de glace (Recharge 5-6)._** Le dragon souffle de la glace sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 12 ; elles subissent 22 (5d8) dégâts de froid en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon bleu vénérable<!--/Name-->
 - SRD: <!--AltName-->[Ancient Blue Dragon]<!--/AltName-->
@@ -2278,9 +2278,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon bleu adulte<!--/Name-->
 - SRD: <!--AltName-->[Adult Blue Dragon]<!--/AltName-->
@@ -2335,9 +2335,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Jeune dragon bleu<!--/Name-->
 - SRD: <!--AltName-->[Young Blue Dragon]<!--/AltName-->
@@ -2372,9 +2372,9 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 **_Souffle de foudre (Recharge 5-6)._** Le dragon souffle de la foudre sur une ligne de 18 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 16 ; elles subissent 55 (10d10) dégâts de foudre en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragonnet bleu<!--/Name-->
 - SRD: <!--AltName-->[Blue Dragon Wyrmling]<!--/AltName-->
@@ -2403,9 +2403,9 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 **_Souffle de foudre (Recharge 5-6)._** Le dragon souffle de la foudre sur une ligne de 9 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 12 ; elles subissent 22 (4d10) dégâts de foudre en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon noir vénérable<!--/Name-->
 - SRD: <!--AltName-->[Ancient Black Dragon]<!--/AltName-->
@@ -2460,9 +2460,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un [jet de sauvegarde] de [Dextérité] DD 23 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol. Détecter. Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon noir adulte<!--/Name-->
 - SRD: <!--AltName-->[Adult Black Dragon]<!--/AltName-->
@@ -2519,9 +2519,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Jeune dragon noir<!--/Name-->
 - SRD: <!--AltName-->[Young Black Dragon]<!--/AltName-->
@@ -2560,9 +2560,9 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 **_Souffle d'acide (Recharge 5-6)._** Le dragon souffle de l'acide sur une ligne de 9 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 14 ; elles subissent 49 (11d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragonnet noir<!--/Name-->
 - SRD: <!--AltName-->[Black Dragon Wyrmling]<!--/AltName-->
@@ -2595,9 +2595,9 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 **_Souffle d'acide (Recharge 5-6)._** Le dragon souffle de l'acide sur une ligne de 4,50 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 11 ; elles subissent 22 (5d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon rouge vénérable<!--/Name-->
 - SRD: <!--AltName-->[Ancient Red Dragon]<!--/AltName-->
@@ -2652,9 +2652,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon rouge adulte<!--/Name-->
 - SRD: <!--AltName-->[Adult Red Dragon]<!--/AltName-->
@@ -2709,9 +2709,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Jeune dragon rouge<!--/Name-->
 - SRD: <!--AltName-->[Young Red Dragon]<!--/AltName-->
@@ -2746,9 +2746,9 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 **_Souffle de feu (Recharge 5-6)._** Le dragon souffle du feu sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 17 ; elles subissent 56 (16d6) dégâts de feu en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragonnet rouge<!--/Name-->
 - SRD: <!--AltName-->[Red Dragon Wyrmling]<!--/AltName-->
@@ -2777,9 +2777,9 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 **_Souffle de feu (Recharge 5-6)._** Le dragon souffle du feu sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 13 ; elles subissent 24 (7d6) dégâts de feu en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon vert vénérable<!--/Name-->
 - SRD: <!--AltName-->[Ancient Green Dragon]<!--/AltName-->
@@ -2839,9 +2839,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon vert adulte<!--/Name-->
 - SRD: <!--AltName-->[Adult Green Dragon]<!--/AltName-->
@@ -2899,9 +2899,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Jeune dragon vert<!--/Name-->
 - SRD: <!--AltName-->[Young Green Dragon]<!--/AltName-->
@@ -2941,9 +2941,9 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 **_Souffle empoisonné (Recharge 5-6)._** Le dragon souffle du gaz [empoisonné] sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 14 ; elles subissent 42 (12d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragonnet vert<!--/Name-->
 - SRD: <!--AltName-->[Green Dragon Wyrmling]<!--/AltName-->
@@ -2977,9 +2977,9 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 **_Souffle empoisonné (Recharge 5-6)._** Le dragon souffle du gaz [empoisonné] sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 11 ; elles subissent 21 (6d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon d'airain vénérable<!--/Name-->
 - SRD: <!--AltName-->[Ancient Brass Dragon]<!--/AltName-->
@@ -3044,9 +3044,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon d'airain adulte<!--/Name-->
 - SRD: <!--AltName-->[Adult Brass Dragon]<!--/AltName-->
@@ -3105,9 +3105,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Jeune dragon d'airain<!--/Name-->
 - SRD: <!--AltName-->[Young Brass Dragon]<!--/AltName-->
@@ -3146,9 +3146,9 @@ _Souffle de feu._ Le dragon souffle du feu sur une ligne de 12 mètres de long e
 _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 14 pour ne pas tomber [inconscientes] pendant 5 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragonnet d'airain<!--/Name-->
 - SRD: <!--AltName-->[Brass Dragon Wyrmling]<!--/AltName-->
@@ -3181,9 +3181,9 @@ _Souffle de feu._ Le dragon souffle du feu sur une ligne de 6 mètres de long et
 _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 11 pour ne pas tomber [inconscientes] pendant 1 minute. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon d'argent vénérable<!--/Name-->
 - SRD: <!--AltName-->[Ancient Silver Dragon]<!--/AltName-->
@@ -3246,9 +3246,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon d'argent adulte<!--/Name-->
 - SRD: <!--AltName-->[Adult Silver Dragon]<!--/AltName-->
@@ -3313,9 +3313,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Jeune dragon d'argent<!--/Name-->
 - SRD: <!--AltName-->[Young Silver Dragon]<!--/AltName-->
@@ -3354,9 +3354,9 @@ _Souffle de glace._ Le dragon souffle de la glace sur un cône de 9 mètres. Les
 _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 17 pour ne pas être [paralysées] pendant 1 minute. Les créatures peuvent retenter le [jet de sauvegarde] à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragonnet d'argent<!--/Name-->
 - SRD: <!--AltName-->[Silver Dragon Wyrmling]<!--/AltName-->
@@ -3389,9 +3389,9 @@ _Souffle de glace._ Le dragon souffle de la glace sur un cône de 4,50 mètres. 
 _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 13 pour ne pas être [paralysées] pendant 1 minute. Les créatures peuvent retenter le [jet de sauvegarde] à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon de bronze vénérable<!--/Name-->
 - SRD: <!--AltName-->[Ancient Bronze Dragon]<!--/AltName-->
@@ -3456,9 +3456,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon de bronze adulte<!--/Name-->
 - SRD: <!--AltName-->[Adult Bronze Dragon]<!--/AltName-->
@@ -3525,9 +3525,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Jeune dragon de bronze<!--/Name-->
 - SRD: <!--AltName-->[Young Bronze Dragon]<!--/AltName-->
@@ -3570,9 +3570,9 @@ _Souffle de foudre._ Le dragon souffle de la foudre sur une ligne de 18 mètres 
 _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Force] DD 15. Les créatures qui ratent ce [jet de sauvegarde] sont éloignées du dragon sur une distance de 12 mètres.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragonnet de bronze<!--/Name-->
 - SRD: <!--AltName-->[Bronze Dragon Wyrmling]<!--/AltName-->
@@ -3609,9 +3609,9 @@ _Souffle de foudre._ Le dragon souffle de la foudre sur une ligne de 12 mètres 
 _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Force] DD 12. Les créatures qui ratent ce [jet de sauvegarde] sont éloignées du dragon sur une distance de 9 mètres.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon de cuivre vénérable<!--/Name-->
 - SRD: <!--AltName-->[Ancient Copper Dragon]<!--/AltName-->
@@ -3678,9 +3678,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon de cuivre adulte<!--/Name-->
 - SRD: <!--AltName-->[Adult Copper Dragon]<!--/AltName-->
@@ -3741,9 +3741,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Jeune dragon de cuivre<!--/Name-->
 - SRD: <!--AltName-->[Young Copper Dragon]<!--/AltName-->
@@ -3786,9 +3786,9 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 9 mètres. Les 
 Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegarde] à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragonnet de cuivre<!--/Name-->
 - SRD: <!--AltName-->[Copper Dragon Wyrmling]<!--/AltName-->
@@ -3821,9 +3821,9 @@ _Souffle d'acide._ Le dragon souffle de l'acide sur une ligne de 6 mètres de lo
 _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 11. Les créatures qui ratent ce [jet de sauvegarde] ne peuvent plus utiliser de réaction, leur vitesse est réduite de moitié et elles ne peuvent effectuer qu'une seule attaque lors de leur tour. De plus, elles ne peuvent utiliser qu'une action ou une action bonus lors de leurs tours, mais pas les deux. Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegarde] à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon d'or vénérable<!--/Name-->
 - SRD: <!--AltName-->[Ancient Gold Dragon]<!--/AltName-->
@@ -3888,9 +3888,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon d'or adulte<!--/Name-->
 - SRD: <!--AltName-->[Adult Gold Dragon]<!--/AltName-->
@@ -3957,9 +3957,9 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Jeune dragon d'or<!--/Name-->
 - SRD: <!--AltName-->[Young Gold Dragon]<!--/AltName-->
@@ -4002,9 +4002,9 @@ _Souffle affaiblissant._ Le dragon souffle du gaz sur un cône de 9 mètres. Les
 _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 17 ; elles subissent 55 (10d10) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragonnet d'or<!--/Name-->
 - SRD: <!--AltName-->[Gold Dragon Wyrmling]<!--/AltName-->
@@ -4041,9 +4041,9 @@ _Souffle affaiblissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. 
 _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 13 ; elles subissent 22 (4d10) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dragon-tortue<!--/Name-->
 - SRD: <!--AltName-->[Dragon Turtle](monsters_vo.md#dragon-turtle)<!--/AltName-->
@@ -4085,9 +4085,9 @@ _Touché :_ 26 (3d12+7) dégâts contondants. Si la cible est une créature, ell
 **_Souffle de vapeur (Recharge 5-6)._** Le dragon-tortue souffle de la vapeur brûlante sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 18 ; elles subissent 52 (15d6) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite. Être sous l'eau ne confère aucune résistance contre ces dégâts.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dref<!--/Name-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->chaotique neutre<!--/Alignment-->
@@ -4125,9 +4125,9 @@ Il réapparaît 1D4 heures plus tard, comme si de rien n'était.
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Drider<!--/Name-->
 - SRD: <!--AltName-->[Drider](monsters_vo.md#drider)<!--/AltName-->
@@ -4178,9 +4178,9 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Drow<!--/Name-->
 - SRD: <!--AltName-->[Drow](monsters_vo.md#drow)<!--/AltName-->
@@ -4223,9 +4223,9 @@ Si le [jet de sauvegarde] rate de 5 points ou plus, la cible est également [inc
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Drow, prêtresse<!--/Name-->
 -  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre mauvais<!--/Alignment-->
@@ -4286,9 +4286,9 @@ Voici ses sorts de clerc préparés :
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Dryade<!--/Name-->
 - SRD: <!--AltName-->[Dryad](monsters_vo.md#dryad)<!--/AltName-->
@@ -4335,9 +4335,9 @@ La dryade ne peut charmer plus d'un humanoïde et trois bêtes en même temps.
 _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec gourdin magique.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Duergar<!--/Name-->
 - SRD: <!--AltName-->[Duergar](monsters_vo.md#duergar)<!--/AltName-->
@@ -4378,9 +4378,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants ou 9 (2d6+2) dégâts perforants s'il 
 _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il s'est agrandi.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Élémentaire de l'air<!--/Name-->
 - SRD: <!--AltName-->[Air Elemental](monsters_vo.md#air-elemental)<!--/AltName-->
@@ -4419,9 +4419,9 @@ Celles qui ratent le [jet de sauvegarde] subissent 15 (3d8+2) dégâts contondan
 Si le [jet de sauvegarde] est réussi, la cible subit la moitié des dégâts contondants seulement, elle n'est pas repoussée et n'est pas jetée [à terre].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Élémentaire de l'eau<!--/Name-->
 - SRD: <!--AltName-->[Water Elemental](monsters_vo.md#water-elemental)<!--/AltName-->
@@ -4460,9 +4460,9 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créatures de taille M ou plus petites en même temps. Au début de chacun des tours de l'élémentaire, chaque cible [empoignée] par lui subit 13 (2d8+4) dégâts contondants. Une créature située à 1,50 mètre ou moins de l'élémentaire peut tenter d'extirper une créature ou un objet en y consacrant une action et en réussissant un test de [Force] DD 14.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Élémentaire du feu<!--/Name-->
 - SRD: <!--AltName-->[Fire Elemental](monsters_vo.md#fire-elemental)<!--/AltName-->
@@ -4499,9 +4499,9 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou une créature, elle prend feu. La cible subit 5 (1d10) dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Élémentaire de la terre<!--/Name-->
 - SRD: <!--AltName-->[Earth Elemental](monsters_vo.md#earth-elemental)<!--/AltName-->
@@ -4537,9 +4537,9 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 _Touché :_ 14 (2d8+5) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Enlaceur<!--/Name-->
 - SRD: <!--AltName-->[Roper](monsters_vo.md#roper)<!--/AltName-->
@@ -4582,9 +4582,9 @@ _Touché :_ la cible est [empoignée] (évasion DD 15). Jusqu'à la fin de l'emp
 _Touché :_ 22 (4d8+4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Esprit follet<!--/Name-->
 - SRD: <!--AltName-->[Sprite](monsters_vo.md#sprite)<!--/AltName-->
@@ -4617,9 +4617,9 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 **_Invisibilité._** L'esprit follet devient [invisible] par magie. Il redevient visible s'il attaque, lance un sort, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ettercap<!--/Name-->
 - SRD: <!--AltName-->[Ettercap](monsters_vo.md#ettercap)<!--/AltName-->
@@ -4662,9 +4662,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants plus 4 (1d8) dégâts de poison. La ci
 _Touché :_ la créature est [entravée] par la toile. Par une action, la créature [entravée] peut effectuer un test de [Force] DD 11 et s'en libérer en cas de réussite. L'effet prend également fin si la toile est détruite. Elle a une CA de 10, 5 points de vie, une vulnérabilité aux dégâts de feu et une immunité contre les dégâts contondants, de poison et psychiques.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ettin<!--/Name-->
 - SRD: <!--AltName-->[Ettin](monsters_vo.md#ettin)<!--/AltName-->
@@ -4701,9 +4701,9 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 _Touché :_ 14 (2d8+5) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Fantôme<!--/Name-->
 - SRD: <!--AltName-->[Ghost](monsters_vo.md#ghost)<!--/AltName-->
@@ -4746,9 +4746,9 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 **_Visage terrifiant._** Toutes les créatures, à l'exception des morts-vivants, situées à 18 mètres ou moins du fantôme et qui le voient doivent chacune réussir un [jet de sauvegarde] de [Sagesse] DD 13 pour ne pas être [terrorisées] pendant 1 minute. Si le [jet de sauvegarde] rate de 5 points ou plus, la cible vieillit également de 1d4×10 ans. Une cible [terrorisée] peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le [jet de sauvegarde] d'une cible est réussi ou si l'effet prend fin, la cible est immunisée aux effets du visage terrifiant de ce fantôme pendant 24 heures. Il est possible d'inverser l'effet de vieillissement grâce à un sort de restauration supérieure s'il est lancé dans les 24 heures suivantes.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Feu follet<!--/Name-->
 - SRD: <!--AltName-->[Will-o'-Wisp](monsters_vo.md#will-o-wisp)<!--/AltName-->
@@ -4787,9 +4787,9 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 **_Invisibilité._** Le feu follet et la lumière qu'il diffuse deviennent [invisibles] par magie jusqu'au moment où il attaque, utilise son trait Dévorer la vie ou interrompt sa concentration (comme s'il se concentrait sur un sort).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Garde animé<!--/Name-->
 - SRD: <!--AltName-->[Shield Guardian](monsters_vo.md#shield-guardian)<!--/AltName-->
@@ -4829,9 +4829,9 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 **_Protection._** Quand une créature effectue une attaque contre le porteur de son amulette, le garde confère un bonus de +2 à la CA du porteur s'il se trouve à 1,50 mètre ou moins du porteur.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gargouille<!--/Name-->
 - SRD: <!--AltName-->[Gargoyle](monsters_vo.md#gargoyle)<!--/AltName-->
@@ -4868,9 +4868,9 @@ _Touché :_ 5 (1d6+2) dégâts tranchants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Géant des collines<!--/Name-->
 - SRD: <!--AltName-->[Hill Giant](monsters_vo.md#hill-giant)<!--/AltName-->
@@ -4901,9 +4901,9 @@ _Touché :_ 18 (3d8+5) dégâts contondants.
 _Touché :_ 21 (3d10+5) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Géant des nuages<!--/Name-->
 - SRD: <!--AltName-->[Cloud Giant](monsters_vo.md#cloud-giant)<!--/AltName-->
@@ -4947,9 +4947,9 @@ _Touché :_ 21 (3d8+8) dégâts perforants.
 _Touché :_ 30 (4d10+8) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Géant des pierres<!--/Name-->
 - SRD: <!--AltName-->[Stone Giant](monsters_vo.md#stone-giant)<!--/AltName-->
@@ -4985,9 +4985,9 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 17 pour ne pas être jetée [à terre].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Géant des tempêtes<!--/Name-->
 - SRD: <!--AltName-->[Storm Giant](monsters_vo.md#storm-giant)<!--/AltName-->
@@ -5033,9 +5033,9 @@ _Touché :_ 30 (6d6+9) dégâts tranchants.
 _Touché :_ 35 (4d12+9) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Géant du feu<!--/Name-->
 - SRD: <!--AltName-->[Fire Giant](monsters_vo.md#fire-giant)<!--/AltName-->
@@ -5068,9 +5068,9 @@ _Touché :_ 28 (6d6+7) dégâts tranchants.
 _Touché :_ 29 (4d10+7) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Géant du givre<!--/Name-->
 - SRD: <!--AltName-->[Frost Giant](monsters_vo.md#frost-giant)<!--/AltName-->
@@ -5103,9 +5103,9 @@ _Touché :_ 25 (3d12+6) dégâts tranchants.
 _Touché :_ 28 (4d10+6) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Djinn<!--/Name-->
 - SRD: <!--AltName-->[Djinni](monsters_vo.md#djinni)<!--/AltName-->
@@ -5151,9 +5151,9 @@ Une créature peut consacrer une action à dégager une créature [entravée] pa
 Si le test est réussi, la créature n'est plus [entravée] et se déplace vers l'emplacement le plus proche à l'extérieur du tourbillon.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Éfrit<!--/Name-->
 - SRD: <!--AltName-->[Efreeti](monsters_vo.md#efreeti)<!--/AltName-->
@@ -5197,9 +5197,9 @@ _Touché :_ 13 (2d6+6) dégâts tranchants plus 7 (2d6) dégâts de feu.
 _Touché :_ 17 (5d6) dégâts de feu.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gnoll<!--/Name-->
 - SRD: <!--AltName-->[Gnoll](monsters_vo.md#gnoll)<!--/AltName-->
@@ -5235,9 +5235,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants ou 6 (1d8+2) dégâts perforants si el
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gnoll, chef de meute<!--/Name-->
 -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
@@ -5276,9 +5276,9 @@ _Touché :_ 6 (1d6+3) dégâts perforants ou 7 (1d8+3) dégâts perforants si el
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gnome des profondeurs (svirfneblin)<!--/Name-->
 - SRD: <!--AltName-->[Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)<!--/AltName-->
@@ -5319,9 +5319,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 _Touché :_ 6 (1d8+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gobelin<!--/Name-->
 - SRD: <!--AltName-->[Goblin](monsters_vo.md#goblin)<!--/AltName-->
@@ -5354,9 +5354,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gobelin, chaman<!--/Name-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
@@ -5394,9 +5394,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 3 (1d4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gobelin blanc<!--/Name-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->neutre mauvais<!--/Alignment-->
@@ -5441,9 +5441,9 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 _Touché :_ 4 (1d6+1) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chaman gobelin blanc<!--/Name-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->neutre mauvais<!--/Alignment-->
@@ -5488,9 +5488,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 _Touché :_ 5 (1d8+1) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gobelours<!--/Name-->
 - SRD: <!--AltName-->[Bugbear](monsters_vo.md#bugbear)<!--/AltName-->
@@ -5525,9 +5525,9 @@ _Touché :_ 9 (2d6+2) dégâts perforants au corps à corps ou 5 (1d6+2) dégât
 _Touché :_ 11 (2d8+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gobelours, chef barbare<!--/Name-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->chaotique mauvais<!--/Alignment-->
@@ -5569,9 +5569,9 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâts perforants à distance.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Golem d'argile<!--/Name-->
 - SRD: <!--AltName-->[Clay Golem](monsters_vo.md#clay-golem)<!--/AltName-->
@@ -5617,9 +5617,9 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 **_Hâte (Recharge 5-6)._** Jusqu'à la fin de son prochain tour, le golem bénéficie par magie d'un bonus de +2 à sa CA, il obtient un avantage lors des [jets de sauvegarde] de [Dextérité] et il peut utiliser son attaque de coup par une action bonus.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Golem de chair<!--/Name-->
 - SRD: <!--AltName-->[Flesh Golem](monsters_vo.md#flesh-golem)<!--/AltName-->
@@ -5671,9 +5671,9 @@ Ce dernier doit effectuer une action pour tenter un test de [Charisme] (Persuasi
 _Touché :_ 13 (2d8+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Golem de fer<!--/Name-->
 - SRD: <!--AltName-->[Iron Golem](monsters_vo.md#iron-golem)<!--/AltName-->
@@ -5717,9 +5717,9 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 **_Souffle empoisonné (Recharge 6)._** Le golem souffle du gaz [empoisonné] dans un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 19 ; elles subissent 45 (10d8) dégâts de poison en cas de jet sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Golem de pierre<!--/Name-->
 - SRD: <!--AltName-->[Stone Golem](monsters_vo.md#stone-golem)<!--/AltName-->
@@ -5757,9 +5757,9 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 **_Lenteur (Recharge 5-6)._** Le golem cible une ou plusieurs créatures situées dans son champ de vision à 3 mètres ou moins de lui. Les cibles doivent chacune effectuer un [jet de sauvegarde] de [Sagesse] DD 17 contre cette magie. En cas de [jet de sauvegarde] raté, une cible ne peut plus effectuer de réaction, sa vitesse est réduite de moitié et elle ne peut pas effectuer plus d'une attaque lors de son tour. De plus, la cible peut effectuer soit une action, soit une action bonus lors de son tour, mais pas les deux. Ces effets durent 1 minute. Une cible peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gorgone<!--/Name-->
 - SRD: <!--AltName-->[Gorgon](monsters_vo.md#gorgon)<!--/AltName-->
@@ -5797,9 +5797,9 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 Les créatures situées dans cette zone doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 13. En cas de [jet de sauvegarde] raté, une cible commence à se transformer en pierre et elle est [entravée]. Une cible [entravée] doit retenter le [jet de sauvegarde] à la fin de son prochain tour. En cas de réussite, l'effet dont elle est victime prend fin. En cas d'échec, la cible est [pétrifiée] à moins qu'on ne la libère grâce à un sort de restauration supérieure ou une magie similaire.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Goule<!--/Name-->
 - SRD: <!--AltName-->[Ghoul](monsters_vo.md#ghoul)<!--/AltName-->
@@ -5829,9 +5829,9 @@ _Touché :_ 7 (2d4+2) dégâts tranchants. Si la cible n'est pas un mort-vivant 
 _Touché :_ 9 (2d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Blême<!--/Name-->
 - SRD: <!--AltName-->[Ghast](monsters_vo.md#ghast)<!--/AltName-->
@@ -5868,9 +5868,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 _Touché :_ 12 (2d8+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Grick<!--/Name-->
 - SRD: <!--AltName-->[Grick](monsters_vo.md#grick)<!--/AltName-->
@@ -5905,9 +5905,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Griffon<!--/Name-->
 - SRD: <!--AltName-->[Griffon](monsters_vo.md#griffon)<!--/AltName-->
@@ -5942,9 +5942,9 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Guenaude aquatique<!--/Name-->
 - SRD: <!--AltName-->[Sea Hag](monsters_vo.md#sea-hag)<!--/AltName-->
@@ -5982,9 +5982,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 **_Regard mortel._** La guenaude cible une créature [terrorisée] située dans son champ de vision à 9 mètres ou moins. Si la cible peut voir la guenaude, elle doit réussir un [jet de sauvegarde] de [Sagesse] DD 11 contre cette magie pour ne pas voir ses points de vie tomber à 0.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Guenaude nocturne<!--/Name-->
 - SRD: <!--AltName-->[Night Hag](monsters_vo.md#night-hag)<!--/AltName-->
@@ -6029,9 +6029,9 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 Un sort de protection contre le mal et le bien lancé sur la cible, tout comme un cercle magique, empêche ce contact. Tant que dure le contact, la cible est la victime de terrifiantes visions. Si ces visions durent 1 heure au moins, le repos ne permet plus à la cible de récupérer quoi que ce soit et son total maximum de points de vie est réduit de 5 (1d10). Si cet effet réduit le total maximum de points de vie de la cible à 0, celle-ci meurt et, si son alignement était mauvais, son âme se retrouve piégée dans le sac des âmes de la guenaude. La réduction persiste tant qu'elle n'est pas éliminée grâce à un sort de restauration supérieure ou une magie similaire.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Guenaude verte<!--/Name-->
 - SRD: <!--AltName-->[Green Hag](monsters_vo.md#green-hag)<!--/AltName-->
@@ -6074,9 +6074,9 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 **_Passage dans l'invisible._** La guenaude reste [invisible] jusqu'à ce qu'elle attaque ou lance un sort, ou jusqu'à interruption de sa concentration (comme si elle se concentrait sur un sort). Elle ne laisse aucun signe physique de son passage lorsqu'elle est [invisible] et seule l'utilisation de la magie peut permettre de la pister. Ses objets équipés ou transportés deviennent également [invisibles].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Harpie<!--/Name-->
 - SRD: <!--AltName-->[Harpy](monsters_vo.md#harpy)<!--/AltName-->
@@ -6114,9 +6114,9 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 _Touché :_ 6 (2d4+1) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hibours<!--/Name-->
 - SRD: <!--AltName-->[Owlbear](monsters_vo.md#owlbear)<!--/AltName-->
@@ -6151,9 +6151,9 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 _Touché :_ 14 (2d8+5) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hippogriffe<!--/Name-->
 - SRD: <!--AltName-->[Hippogriff](monsters_vo.md#hippogriff)<!--/AltName-->
@@ -6188,9 +6188,9 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hobgobelin<!--/Name-->
 - SRD: <!--AltName-->[Hobgoblin](monsters_vo.md#hobgoblin)<!--/AltName-->
@@ -6222,9 +6222,9 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si elle est maniée à deux mains.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hobgobelin, sergent<!--/Name-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
@@ -6259,9 +6259,9 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 **_Protéger un allié._** Le sergent peut utiliser sa réaction pour ajouter un bonus de +2 à sa CA ou à celle d'un allié situé à 1,50 mètre ou moins de lui.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Homme-lézard<!--/Name-->
 - SRD: <!--AltName-->[Lizardfolk](monsters_vo.md#lizardfolk)<!--/AltName-->
@@ -6304,9 +6304,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Homme-lézard, champion<!--/Name-->
 -  <!--Type-->Humanoïde (homme-lézard)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
@@ -6348,9 +6348,9 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Homme-poisson<!--/Name-->
 - SRD: <!--AltName-->[Merfolk](monsters_vo.md#merfolk)<!--/AltName-->
@@ -6379,9 +6379,9 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Homoncule<!--/Name-->
 - SRD: <!--AltName-->[Homunculus](monsters_vo.md#homunculus)<!--/AltName-->
@@ -6411,9 +6411,9 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde] de [Constitution] DD 10 pour ne pas être [empoisonnée] pendant 1 minute. Si le [jet de sauvegarde] rate de 5 points ou plus, la cible est à la place [empoisonnée] pendant 5 (1d10) minutes, et [inconsciente] tant qu'elle est [empoisonnée] de la sorte.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hydre<!--/Name-->
 - SRD: <!--AltName-->[Hydra](monsters_vo.md#hydra)<!--/AltName-->
@@ -6454,9 +6454,9 @@ Chaque fois que l'hydre subit 25 dégâts ou plus lors d'un même tour, une de s
 _Touché :_ 10 (1d10+5) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Kobold<!--/Name-->
 - SRD: <!--AltName-->[Kobold](monsters_vo.md#kobold)<!--/AltName-->
@@ -6490,9 +6490,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 _Touché :_ 4 (1d4+2) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Kobold, saigneur<!--/Name-->
 -  <!--Type-->Humanoïde (kobold)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
@@ -6529,9 +6529,9 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 _Touché :_ 5 (1d4+3) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Kraken<!--/Name-->
 - SRD: <!--AltName-->[Kraken](monsters_vo.md#kraken)<!--/AltName-->
@@ -6588,9 +6588,9 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Tempête foudroyante (coûte 2 actions)._** Le kraken utilise sa Tempête foudroyante.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Lamie<!--/Name-->
 - SRD: <!--AltName-->[Lamia](monsters_vo.md#lamia)<!--/AltName-->
@@ -6635,9 +6635,9 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 _Touché :_ 14 (2d10+3) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Liche<!--/Name-->
 - SRD: <!--AltName-->[Lich](monsters_vo.md#lich)<!--/AltName-->
@@ -6707,9 +6707,9 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 **_Perturbation de la vie (coûte 3 actions)._** Chaque créature non morte-vivante dans un rayon de 6 m de la liche doit effectuer un [jet de sauvegarde] de [Constitution] DD18 contre cette magie. Ceux qui y échouent subissent 21 (6d6) dégâts nécrotiques, ou la moitié seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Licorne<!--/Name-->
 - SRD: <!--AltName-->[Unicorn](monsters_vo.md#unicorn)<!--/AltName-->
@@ -6769,9 +6769,9 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 **_Soin personnel (coûte 3 actions)._** La licorne récupère par magie 11 (2d8+2) points de vie.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Loup-garou<!--/Name-->
 - SRD: <!--AltName-->[Werewolf](monsters_vo.md#werewolf)<!--/AltName-->
@@ -6813,9 +6813,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants ou 6 (1d8+2) dégâts perforants si el
 _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 12 pour ne pas contracter la malédiction de la lycanthropie du loup-garou.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ours-garou<!--/Name-->
 - SRD: <!--AltName-->[Werebear](monsters_vo.md#werebear)<!--/AltName-->
@@ -6857,9 +6857,9 @@ _Touché :_ 10 (1d12+4) dégâts tranchants.
 _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 14 pour ne pas contracter la malédiction de la lycanthropie de l'ours-garou.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Rat-garou<!--/Name-->
 - SRD: <!--AltName-->[Wererat](monsters_vo.md#wererat)<!--/AltName-->
@@ -6901,9 +6901,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 11 pour ne pas contracter la malédiction de la lycanthropie du rat-garou.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Sanglier-garou<!--/Name-->
 - SRD: <!--AltName-->[Wereboar](monsters_vo.md#wereboar)<!--/AltName-->
@@ -6943,9 +6943,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants. Si la cible est un humanoïde, elle 
 _Touché :_ 10 (2d6+3) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Tigre-garou<!--/Name-->
 - SRD: <!--AltName-->[Weretiger](monsters_vo.md#weretiger)<!--/AltName-->
@@ -6993,9 +6993,9 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 13 pour ne pas contracter la malédiction de la lycanthropie du tigre-garou.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Magmatique<!--/Name-->
 - SRD: <!--AltName-->[Magmin](monsters_vo.md#magmin)<!--/AltName-->
@@ -7031,9 +7031,9 @@ _Touché :_ 7 (2d6) dégâts de feu. Si la cible est un objet inflammable ou une
 Jusqu'au moment où une créature consacre une action à étouffer les flammes, la cible subit 3 (1d6) dégâts de feu à la fin de chacun de ses tours.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Manteleur<!--/Name-->
 - SRD: <!--AltName-->[Cloaker](monsters_vo.md#cloaker)<!--/AltName-->
@@ -7082,9 +7082,9 @@ Une créature, y compris la cible, peut consacrer son action à détacher le man
 _Touché :_ 7 (1d8+3) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Mante obscure<!--/Name-->
 - SRD: <!--AltName-->[Darkmantle](monsters_vo.md#darkmantle)<!--/AltName-->
@@ -7123,9 +7123,9 @@ Une créature peut détacher la mante obscure en réussissant un test de [Force]
 Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1,50 mètre de déplacement.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Manticore<!--/Name-->
 - SRD: <!--AltName-->[Manticore](monsters_vo.md#manticore)<!--/AltName-->
@@ -7163,9 +7163,9 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 _Touché :_ 7 (1d8+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Méduse<!--/Name-->
 - SRD: <!--AltName-->[Medusa](monsters_vo.md#medusa)<!--/AltName-->
@@ -7208,9 +7208,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants plus 14 (4d6) dégâts de poison.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Méphite de glace<!--/Name-->
 - SRD: <!--AltName-->[Ice Mephit](monsters_vo.md#ice-mephit)<!--/AltName-->
@@ -7250,9 +7250,9 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 **_Souffle de givre (Recharge 6)._** Le méphite souffle de l'air froid sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] de [Dextérité] DD 10 ; elles subissent 5 (2d4) dégâts de froid en cas de [jet de sauvegarde] raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Méphite de magma<!--/Name-->
 - SRD: <!--AltName-->[Magma Mephit](monsters_vo.md#magma-mephit)<!--/AltName-->
@@ -7290,9 +7290,9 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 **_Souffle de feu (Recharge 6)._** Le méphite souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] de [Dextérité] DD 11 ; elles subissent 7 (2d6) dégâts de feu en cas de [jet de sauvegarde] raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Méphite de poussière<!--/Name-->
 - SRD: <!--AltName-->[Dust Mephit](monsters_vo.md#dust-mephit)<!--/AltName-->
@@ -7330,9 +7330,9 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 Une créature peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Méphite de vapeur<!--/Name-->
 - SRD: <!--AltName-->[Steam Mephit](monsters_vo.md#steam-mephit)<!--/AltName-->
@@ -7368,9 +7368,9 @@ _Touché :_ 2 (1d4) dégâts tranchants plus 2 (1d4) dégâts de feu.
 Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] de [Dextérité] DD 10 ; elles subissent 4 (1d8) dégâts de feu en cas de [jet de sauvegarde] raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Merrow<!--/Name-->
 - SRD: <!--AltName-->[Merrow](monsters_vo.md#merrow)<!--/AltName-->
@@ -7410,9 +7410,9 @@ Si la cible est une créature de taille TG ou plus petite, elle doit réussir un
 _Touché :_ 8 (1d8+4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Mimique<!--/Name-->
 - SRD: <!--AltName-->[Mimic](monsters_vo.md#mimic)<!--/AltName-->
@@ -7455,9 +7455,9 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 4 (1d8) dégâts d'acide.
 _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet, la cible est également victime de son trait Collante.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Minotaure<!--/Name-->
 - SRD: <!--AltName-->[Minotaur](monsters_vo.md#minotaur)<!--/AltName-->
@@ -7496,9 +7496,9 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Molosse infernal<!--/Name-->
 - SRD: <!--AltName-->[Hell Hound](monsters_vo.md#hell-hound)<!--/AltName-->
@@ -7532,9 +7532,9 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 **_Souffle de feu (Recharge 5-6)._** Le molosse souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 12 ; elles subissent 21 (6d6) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Momie<!--/Name-->
 - SRD: <!--AltName-->[Mummy](monsters_vo.md#mummy)<!--/AltName-->
@@ -7569,9 +7569,9 @@ _Touché :_ 10 (2d6+3) dégâts contondants plus 10 (3d6) dégâts nécrotiques.
 Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde] de [Sagesse] DD 11 contre cette magie pour ne pas être [terrorisée] jusqu'à la fin du prochain tour de la momie. Si la cible rate le [jet de sauvegarde] de 5 points ou plus, elle est également [paralysée] pendant la même durée. Une cible qui réussit le [jet de sauvegarde] est immunisée contre le regard effroyable de toutes les momies (mais pas contre celui des momies augustes) pendant 24 heures.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Momie auguste<!--/Name-->
 - SRD: <!--AltName-->[Mummy Lord](monsters_vo.md#mummy-lord)<!--/AltName-->
@@ -7646,9 +7646,9 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 **_Tourbillon de sable (coûte 2 actions)._** La momie auguste se transforme par magie en un tourbillon de sable, se déplace d'une distance maximale de 18 mètres, puis reprend sa forme normale. Sous forme de tourbillon, la momie auguste est immunisée contre tous les dégâts et elle ne peut pas être [empoignée], [pétrifiée], jetée [à terre], [entravée] ni [étourdie]. Ses objets équipés ou transportés restent en sa possession.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Naga corrupteur<!--/Name-->
 - SRD: <!--AltName-->[Spirit Naga](monsters_vo.md#spirit-naga)<!--/AltName-->
@@ -7693,9 +7693,9 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 13 ; elle subit 31 (7d8) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Naga gardien<!--/Name-->
 - SRD: <!--AltName-->[Guardian Naga](monsters_vo.md#guardian-naga)<!--/AltName-->
@@ -7746,9 +7746,9 @@ _Touché :_ la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 
 _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 15 ; elle subit 45 (10d8) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Nécrophage<!--/Name-->
 - SRD: <!--AltName-->[Wight](monsters_vo.md#wight)<!--/AltName-->
@@ -7792,9 +7792,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si elle est maniée à deux mains.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Armure animée<!--/Name-->
 - SRD: <!--AltName-->[Animated Armor](monsters_vo.md#animated-armor)<!--/AltName-->
@@ -7828,9 +7828,9 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 _Touché :_ 5 (1d6+2) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Épée volante<!--/Name-->
 - SRD: <!--AltName-->[Flying Sword](monsters_vo.md#flying-sword)<!--/AltName-->
@@ -7863,9 +7863,9 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 _Touché :_ 5 (1d8+1) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Tapis étrangleur<!--/Name-->
 - SRD: <!--AltName-->[Rug of Smothering](monsters_vo.md#rug-of-smothering)<!--/AltName-->
@@ -7903,9 +7903,9 @@ _Touché :_ la créature est [empoignée] (évasion DD 13). Jusqu'à la fin de c
 De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ogre<!--/Name-->
 - SRD: <!--AltName-->[Ogre](monsters_vo.md#ogre)<!--/AltName-->
@@ -7933,9 +7933,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 _Touché :_ 13 (2d8+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ombre<!--/Name-->
 - SRD: <!--AltName-->[Shadow](monsters_vo.md#shadow)<!--/AltName-->
@@ -7974,9 +7974,9 @@ _Touché :_ 9 (2d6+2) dégâts nécrotiques et la valeur de [Force] de la cible 
 Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre surgit de son cadavre après 1d4 heures.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Oni<!--/Name-->
 - SRD: <!--AltName-->[Oni](monsters_vo.md#oni)<!--/AltName-->
@@ -8022,9 +8022,9 @@ _Touché :_ 15 (2d10+4) dégâts tranchants ou 9 (1d10+4) dégâts tranchants si
 _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Orc<!--/Name-->
 -  <!--Type-->Humanoïde (orc)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
@@ -8056,9 +8056,9 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chaman orc<!--/Name-->
 -  <!--Type-->Humanoïde (demi-orc)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
@@ -8096,9 +8096,9 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Otyugh<!--/Name-->
 - SRD: <!--AltName-->[Otyugh](monsters_vo.md#otyugh)<!--/AltName-->
@@ -8139,9 +8139,9 @@ _Touché :_ 7 (1d8+3) dégâts contondants plus 4 (1d8) dégâts perforants. Si 
 L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Oxydeur<!--/Name-->
 - SRD: <!--AltName-->[Rust Monster](monsters_vo.md#rust-monster)<!--/AltName-->
@@ -8177,9 +8177,9 @@ Si l'objet touché est une arme métallique tenue en main par une créature, ell
 _Touché :_ 5 (1d8+1) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Parasite arcanique<!--/Name-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
@@ -8226,9 +8226,9 @@ _Touché :_ 5 (1d4+2) dégâts perçants et le parasite arcanique s'ancre à sa 
 Une fois accroché, le parasite absorbe à la cible un emplacement de sort du plus haut niveau disponible à chaque round. Le parasite se détache généralement après avoir absorbé 1d4+1 emplacements de sorts ou si la cible n'a plus d'emplacement de sorts à absorber. Il peut se détacher en utilisant 1,50 mètre sur son déplacement. La victime du parasite ou toute autre créature peut également détacher le parasite en utilisant une action mais, en s'arrachant, le rostre occasionne à nouveau 5 (1d4+2) dégâts perçants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Pégase<!--/Name-->
 - SRD: <!--AltName-->[Pegasus](monsters_vo.md#pegasus)<!--/AltName-->
@@ -8254,9 +8254,9 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Pseudodragon<!--/Name-->
 - SRD: <!--AltName-->[Pseudodragon](monsters_vo.md#pseudodragon)<!--/AltName-->
@@ -8293,9 +8293,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Rakshasa<!--/Name-->
 - SRD: <!--AltName-->[Rakshasa](monsters_vo.md#rakshasa)<!--/AltName-->
@@ -8338,9 +8338,9 @@ _Touché :_ 9 (2d6+2) dégâts tranchants et la cible est maudite si c'est une c
 La malédiction magique prend effet chaque fois que la cible prend un repos court ou long en envahissant ses pensées d'images horribles et de cauchemars. Le repos long ou court ne permet plus à la cible maudite de récupérer quoi que ce soit. La malédiction persiste tant qu'elle n'est pas levée par le sort _[lever une malédiction]_ ou une magie similaire.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Remorhaz<!--/Name-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
@@ -8374,9 +8374,9 @@ Si le remorhaz meurt, une créature engloutie n'est plus [entravée] à cause de
 _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la cible est une créature, elle est [empoignée] (évasion DD 17). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le remorhaz ne peut pas mordre une autre cible.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Roc<!--/Name-->
 - SRD: <!--AltName-->[Roc](monsters_vo.md#roc)<!--/AltName-->
@@ -8412,9 +8412,9 @@ _Touché :_ 27 (4d8+9) dégâts perforants.
 _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasion DD 19). Jusqu'à la fin de l'empoignade, la cible est [entravée] et le roc ne peut plus utiliser ses serres sur une autre cible.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Sahuagin<!--/Name-->
 - SRD: <!--AltName-->[Sahuagin](monsters_vo.md#sahuagin)<!--/AltName-->
@@ -8457,9 +8457,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 _Touché :_ 3 (1d4+1) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Sahuagin, prêtresse de Mikala<!--/Name-->
 -  <!--Type-->Humanoïde (sahuagin)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
@@ -8513,9 +8513,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 _Touché :_ 3 (1d4+1) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Salamandre<!--/Name-->
 - SRD: <!--AltName-->[Salamander](monsters_vo.md#salamander)<!--/AltName-->
@@ -8554,9 +8554,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants ou 13 (2d8+4) dégâts perforants si 
 _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la cible est [empoignée] (évasion DD 14). Jusqu'à la fin de cette empoignade, la cible est [entravée] et la salamandre peut réussir automatiquement une attaque de queue contre elle, mais ne peut plus effectuer d'attaque de queue contre d'autres cibles.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Satyre<!--/Name-->
 - SRD: <!--AltName-->[Satyr](monsters_vo.md#satyr)<!--/AltName-->
@@ -8593,9 +8593,9 @@ _Touché :_ 6 (2d4+1) dégâts contondants.
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Saule étrangleur<!--/Name-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
@@ -8631,9 +8631,9 @@ _Touché :_ 7 (1d4+5) dégâts contondants et la cible est [entravée] à moins 
 _Touché :_ 9 (1d8+5) dégâts contondants et la cible est [empoignée] (DD du jet d'évasion 15). Une créature [empoignée] ne peut plus respirer et subit 9 (1d8+5) dégâts contondants au début de son tour à moins de réussir un [jet de sauvegarde] de [Constitution] DD 14. À son tour, le saule peut cibler une créature déjà [empoignée] avec un nouvel étranglement. Chaque nouvelle attaque réussie implique un jet d'évasion supplémentaire avant de se libérer. Toutefois, les dégâts en début de tour ne se cumulent pas et un seul [jet de sauvegarde] est nécessaire quel que soit le nombre de branches empoignant la créature.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Serpent de mer<!--/Name-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
@@ -8681,9 +8681,9 @@ La cible est [empoignée] (évasion DD 16) si le serpent n'est pas déjà en tra
 _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 20 pour ne pas tomber [à terre].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Spectre<!--/Name-->
 - SRD: <!--AltName-->[Specter](monsters_vo.md#specter)<!--/AltName-->
@@ -8716,9 +8716,9 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sauvegarde] de [Constitution] DD 10 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Androsphinx<!--/Name-->
 - SRD: <!--AltName-->[Androsphinx](monsters_vo.md#androsphinx)<!--/AltName-->
@@ -8788,9 +8788,9 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Téléportation (coûte 2 actions)._** Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gynosphinx<!--/Name-->
 - SRD: <!--AltName-->[Gynosphinx](monsters_vo.md#gynosphinx)<!--/AltName-->
@@ -8850,9 +8850,9 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Téléportation (coûte 2 actions)._** Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Squelette<!--/Name-->
 - SRD: <!--AltName-->[Skeleton](monsters_vo.md#skeleton)<!--/AltName-->
@@ -8883,9 +8883,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Squelette cheval de guerre<!--/Name-->
 - SRD: <!--AltName-->[Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)<!--/AltName-->
@@ -8912,9 +8912,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Squelette minotaure<!--/Name-->
 - SRD: <!--AltName-->[Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)<!--/AltName-->
@@ -8949,9 +8949,9 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Strige<!--/Name-->
 - SRD: <!--AltName-->[Stirge](monsters_vo.md#stirge)<!--/AltName-->
@@ -8979,9 +8979,9 @@ _Touché :_ 5 (1d4+3) dégâts perforants et la strige se fixe sur la cible. Ell
 La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacement. Elle se détache après avoir sucé une quantité de sang équivalente à 10 points de vie ou si la cible meurt. Une créature, y compris la cible, peut effectuer une action pour arracher la strige.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Succube/Incube<!--/Name-->
 - SRD: <!--AltName-->[Succubus](monsters_vo.md#succubus)<!--/AltName-->
@@ -9023,9 +9023,9 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 **_Griffe (forme de fiélon uniquement)._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible ; Touché : 6 (1d6+3) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Sylvanien<!--/Name-->
 - SRD: <!--AltName-->[Treant](monsters_vo.md#treant)<!--/AltName-->
@@ -9065,9 +9065,9 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 **_Animation des arbres (1/jour)._** Le sylvanien anime par magie un ou deux arbres qu'il peut voir et situés à 18 m ou moins de lui. Ces arbres ont les mêmes statistiques qu'un sylvanien, si ce n'est qu'ils ont une [Intelligence] et un [Charisme] de 1, qu'ils ne savent pas parler, et qu'ils n'ont accès qu'à l'action de Coup. Un arbre animé se comporte avec les sylvaniens comme un allié. L'arbre reste animé un jour durant ou jusqu'à sa mort ; jusqu'à ce que le sylvanien meure ou se trouve à plus de 36 m de l'arbre ; ou jusqu'à ce que le sylvanien prenne une action bonus pour le retransformer en arbre inanimé. Si possible, l'arbre prend alors racine.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Tarasque<!--/Name-->
 - SRD: <!--AltName-->[Tarrasque](monsters_vo.md#tarrasque)<!--/AltName-->
@@ -9138,9 +9138,9 @@ La tarasque peut effectuer 3 actions légendaires qu'elle choisit parmi celles d
 **_Mordre (coûte 2 actions)._** La tarasque effectue une attaque de morsure ou utilise son action Engloutir.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Terreur des roches<!--/Name-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
@@ -9177,9 +9177,9 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 **_Onde vibratoire (Recharge 5-6)._** La terreur des roches produit une onde sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 14 ; elles subissent 11 (2d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de [jet de sauvegarde] raté. Les créatures qui réussissent leur [jet de sauvegarde] subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau [jet de sauvegarde] à chaque round pour mettre fin à cet état spécial.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Larve des roches<!--/Name-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
@@ -9206,9 +9206,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 **_Onde vibratoire (Recharge 5-6)._** La larve des roches produit une onde sur un cône de 3 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 12 ; elles subissent 5 (1d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de [jet de sauvegarde] raté. Les créatures qui réussissent leur [jet de sauvegarde] subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau [jet de sauvegarde] à chaque round pour mettre fin à cet état spécial.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Tertre errant<!--/Name-->
 - SRD: <!--AltName-->[Shambling Mound](monsters_vo.md#shambling-mound)<!--/AltName-->
@@ -9244,9 +9244,9 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 **_Enveloppement._** Le tertre errant enveloppe une créature de taille M ou plus petite qu'il empoigne. La cible enveloppée est [aveuglée], [entravée] et incapable de respirer. Elle doit réussir un [jet de sauvegarde] de [Constitution] DD 14 au début de chacun des tours du tertre errant pour ne pas subir 13 (2d8+4) dégâts contondants. Quand le tertre se déplace, la créature enveloppée se déplace avec lui. Le tertre ne peut pas envelopper plus d'une créature à la fois.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Torve<!--/Name-->
 - SRD: <!--AltName-->[Grimlock](monsters_vo.md#grimlock)<!--/AltName-->
@@ -9280,9 +9280,9 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Traqueur invisible<!--/Name-->
 - SRD: <!--AltName-->[Invisible Stalker](monsters_vo.md#invisible-stalker)<!--/AltName-->
@@ -9317,9 +9317,9 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Troll<!--/Name-->
 - SRD: <!--AltName-->[Troll](monsters_vo.md#troll)<!--/AltName-->
@@ -9356,9 +9356,9 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 _Touché :_ 7 (1d6+4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Vampire<!--/Name-->
 - SRD: <!--AltName-->[Vampire](monsters_vo.md#vampire)<!--/AltName-->
@@ -9439,9 +9439,9 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 **_Morsure (coûte 2 actions)._** Le vampire effectue une attaque de morsure.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Vampirien<!--/Name-->
 - SRD: <!--AltName-->[Vampire Spawn](monsters_vo.md#vampire-spawn)<!--/AltName-->
@@ -9492,9 +9492,9 @@ _Touché :_ 8 (2d4+3) dégâts tranchants. Au lieu d'infliger des dégâts, le v
 _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le total maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis et le vampirien récupère un nombre de points de vie égal à ce montant. La réduction persiste jusqu'au moment où la cible termine une période de repos long. La cible meurt si l'effet réduit à 0 son total maximum de points de vie.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Cube gélatineux<!--/Name-->
 - SRD: <!--AltName-->[Gelatinous Cube](monsters_vo.md#gelatinous-cube)<!--/AltName-->
@@ -9541,9 +9541,9 @@ Une créature enveloppée peut tenter de s'échapper en faisant une action pour 
 _Touché :_ 10 (3d6) dégâts d'acide.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gelée ocre<!--/Name-->
 - SRD: <!--AltName-->[Ochre Jelly](monsters_vo.md#ochre-jelly)<!--/AltName-->
@@ -9580,9 +9580,9 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 **_Division._** Quand une gelée de taille M ou plus grande subit des dégâts tranchants ou de foudre, elle se divise en deux nouvelles gelées s'il lui reste au moins 10 points de vie. Chaque nouvelle gelée possède un nombre de points de vie égal à la moitié (arrondie à l'inférieur) de ceux possédés par la gelée d'origine. La taille des nouvelles gelées est d'une catégorie inférieure à la gelée d'origine.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Pouding noir<!--/Name-->
 - SRD: <!--AltName-->[Black Pudding](monsters_vo.md#black-pudding)<!--/AltName-->
@@ -9622,9 +9622,9 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 **_Division._** Quand un pouding de taille M ou plus grand subit des dégâts tranchants ou de foudre, il se divise en deux nouveaux poudings s'il lui reste au moins 10 points de vie. Chaque nouveau pouding possède un nombre de points de vie égal à la moitié (arrondie à l'inférieur) de ceux possédés par le pouding d'origine. La taille des nouveaux poudings est d'une catégorie inférieure à celui d'origine.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Vase grise<!--/Name-->
 - SRD: <!--AltName-->[Gray Ooze](monsters_vo.md#gray-ooze)<!--/AltName-->
@@ -9663,9 +9663,9 @@ La vase peut ronger une épaisseur de 5 centimètres de métal non-magique en 1 
 _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si la cible porte une armure métallique non-magique, celle-ci est partiellement rongée et subit un malus permanent et cumulatif de -1 à la CA qu'elle confère. L'armure est détruite si le malus réduit à 10 sa CA.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ver pourpre<!--/Name-->
 - SRD: <!--AltName-->[Purple Worm](monsters_vo.md#purple-worm)<!--/AltName-->
@@ -9704,9 +9704,9 @@ S'il subit 30 dégâts ou plus infligés lors d'un seul tour par une créature �
 Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et peuvent s'extirper de la carcasse en dépensant 6 mètres de déplacement. Elles en sortent [à terre].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Vouivre<!--/Name-->
 - SRD: <!--AltName-->[Wyvern](monsters_vo.md#wyvern)<!--/AltName-->
@@ -9741,9 +9741,9 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 _Touché :_ 11 (2d6+4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Xorn<!--/Name-->
 - SRD: <!--AltName-->[Xorn](monsters_vo.md#xorn)<!--/AltName-->
@@ -9786,9 +9786,9 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Zombi<!--/Name-->
 - SRD: <!--AltName-->[Zombie](monsters_vo.md#zombie)<!--/AltName-->
@@ -9819,9 +9819,9 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 _Touché :_ 4 (1d6+1) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Zombi ogre<!--/Name-->
 - SRD: <!--AltName-->[Ogre Zombie](monsters_vo.md#ogre-zombie)<!--/AltName-->
@@ -9852,9 +9852,9 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 _Touché :_ 13 (2d8+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Aigle<!--/Name-->
 - SRD: <!--AltName-->[Eagle](monsters_vo.md#eagle)<!--/AltName-->
@@ -9883,9 +9883,9 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Aigle géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Eagle](monsters_vo.md#giant-eagle)<!--/AltName-->
@@ -9920,9 +9920,9 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Araignée<!--/Name-->
 - SRD: <!--AltName-->[Spider](monsters_vo.md#spider)<!--/AltName-->
@@ -9955,9 +9955,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 9 pour ne pas subir 2 (1d4) dégâts de poison.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Araignée de phase<!--/Name-->
 - SRD: <!--AltName-->[Phase Spider](monsters_vo.md#phase-spider)<!--/AltName-->
@@ -9990,9 +9990,9 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 11. Elle subit 18 (4d8) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Araignée géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Spider](monsters_vo.md#giant-spider)<!--/AltName-->
@@ -10029,9 +10029,9 @@ _Touché :_ 7 (1d8+3) dégâts perforants et la cible doit effectuer un [jet de 
 _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [entravée] peut effectuer un test de [Force] DD 12 et s'en libérer en cas de réussite. L'effet prend fin également si la toile est attaquée et détruite (CA 10 ; 5 points de vie ; vulnérabilité aux dégâts de feu ; immunité contre les dégâts contondants, de poison et psychiques).
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Araignée-loup géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)<!--/AltName-->
@@ -10064,9 +10064,9 @@ _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [ent
 _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 11. Elle subit 7 (2d6) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Arbre éveillé<!--/Name-->
 - SRD: <!--AltName-->[Awakened Tree](monsters_vo.md#awakened-tree)<!--/AltName-->
@@ -10096,9 +10096,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de 
 _Touché :_ 14 (3d6+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Arbuste éveillé<!--/Name-->
 - SRD: <!--AltName-->[Awakened Shrub](monsters_vo.md#awakened-shrub)<!--/AltName-->
@@ -10128,9 +10128,9 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 _Touché :_ 1 (1d4-1) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Babouin<!--/Name-->
 - SRD: <!--AltName-->[Baboon](monsters_vo.md#baboon)<!--/AltName-->
@@ -10158,9 +10158,9 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 _Touché :_ 1 (1d4-1) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Bec de hache<!--/Name-->
 - SRD: <!--AltName-->[Axe Beak](monsters_vo.md#axe-beak)<!--/AltName-->
@@ -10184,9 +10184,9 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 _Touché :_ 6 (1d8+2) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Belette<!--/Name-->
 - SRD: <!--AltName-->[Weasel](monsters_vo.md#weasel)<!--/AltName-->
@@ -10215,9 +10215,9 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 _Touché :_ 1 dégât perforant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Belette géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Weasel](monsters_vo.md#giant-weasel)<!--/AltName-->
@@ -10246,9 +10246,9 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Blaireau<!--/Name-->
 - SRD: <!--AltName-->[Badger](monsters_vo.md#badger)<!--/AltName-->
@@ -10276,9 +10276,9 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 _Touché :_ 1 dégât perforant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Blaireau géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Badger](monsters_vo.md#giant-badger)<!--/AltName-->
@@ -10312,9 +10312,9 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 _Touché :_ 4 (1d6+1) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chacal<!--/Name-->
 - SRD: <!--AltName-->[Jackal](monsters_vo.md#jackal)<!--/AltName-->
@@ -10345,9 +10345,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 _Touché :_ 1 (1d4-1) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chameau<!--/Name-->
 - SRD: <!--AltName-->[Camel](monsters_vo.md#camel)<!--/AltName-->
@@ -10371,9 +10371,9 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 _Touché :_ 2 (1d4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chat<!--/Name-->
 - SRD: <!--AltName-->[Cat](monsters_vo.md#cat)<!--/AltName-->
@@ -10402,9 +10402,9 @@ _Touché :_ 2 (1d4) dégâts contondants.
 _Touché :_ 1 dégât tranchant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chauve-souris<!--/Name-->
 - SRD: <!--AltName-->[Bat](monsters_vo.md#bat)<!--/AltName-->
@@ -10434,9 +10434,9 @@ _Touché :_ 1 dégât tranchant.
 _Touché :_ 1 dégât perforant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chauve-souris géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Bat](monsters_vo.md#giant-bat)<!--/AltName-->
@@ -10466,9 +10466,9 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Cheval de guerre<!--/Name-->
 - SRD: <!--AltName-->[Warhorse](monsters_vo.md#warhorse)<!--/AltName-->
@@ -10496,9 +10496,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Cheval de guerre céleste<!--/Name-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
@@ -10536,9 +10536,9 @@ Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre céle
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Cheval de guerre lourd<!--/Name-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
@@ -10567,9 +10567,9 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Cheval de selle<!--/Name-->
 - SRD: <!--AltName-->[Riding Horse](monsters_vo.md#riding-horse)<!--/AltName-->
@@ -10593,9 +10593,9 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 _Touché :_ 8 (2d4+3) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Cheval de trait<!--/Name-->
 - SRD: <!--AltName-->[Draft Horse](monsters_vo.md#draft-horse)<!--/AltName-->
@@ -10619,9 +10619,9 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 _Touché :_ 9 (2d4+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chèvre<!--/Name-->
 - SRD: <!--AltName-->[Goat](monsters_vo.md#goat)<!--/AltName-->
@@ -10651,9 +10651,9 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 _Touché :_ 3 (1d4+1) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chèvre géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Goat](monsters_vo.md#giant-goat)<!--/AltName-->
@@ -10683,9 +10683,9 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 _Touché :_ 8 (2d4+3) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chevreuil<!--/Name-->
 - SRD: <!--AltName-->[Deer](monsters_vo.md#deer)<!--/AltName-->
@@ -10709,9 +10709,9 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 _Touché :_ 2 (1d4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chien du trépas<!--/Name-->
 - SRD: <!--AltName-->[Death Dog](monsters_vo.md#death-dog)<!--/AltName-->
@@ -10742,9 +10742,9 @@ _Touché :_ 2 (1d4) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 12 contre la maladie pour ne pas être [empoisonnée] jusqu'au moment où cette maladie est soignée. Toutes les 24 heures par la suite, la créature doit retenter le [jet de sauvegarde] et réduire de 5 (1d10) son total maximum de points de vie en cas d'échec. Cette réduction persiste jusqu'à guérison de la maladie. La créature meurt si la maladie réduit à 0 son total maximum de points de vie.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chien esquiveur<!--/Name-->
 - SRD: <!--AltName-->[Blink Dog](monsters_vo.md#blink-dog)<!--/AltName-->
@@ -10775,9 +10775,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 **_Téléportation (Recharge 4-6)._** Le chien se téléporte par magie, avec tous les ses objets équipés et transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 12 mètres. Le chien peut effectuer une attaque de morsure avant ou après s'être téléporté.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chouette<!--/Name-->
 - SRD: <!--AltName-->[Owl](monsters_vo.md#owl)<!--/AltName-->
@@ -10808,9 +10808,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 _Touché :_ 1 dégât tranchant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chouette géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Owl](monsters_vo.md#giant-owl)<!--/AltName-->
@@ -10841,9 +10841,9 @@ _Touché :_ 1 dégât tranchant.
 _Touché :_ 8 (2d6+1) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Corbeau<!--/Name-->
 - SRD: <!--AltName-->[Raven](monsters_vo.md#raven)<!--/AltName-->
@@ -10872,9 +10872,9 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 _Touché :_ 1 dégât perforant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Crabe<!--/Name-->
 - SRD: <!--AltName-->[Crab](monsters_vo.md#crab)<!--/AltName-->
@@ -10903,9 +10903,9 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 1 dégât contondant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Crabe géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Crab](monsters_vo.md#giant-crab)<!--/AltName-->
@@ -10934,9 +10934,9 @@ _Touché :_ 1 dégât contondant.
 _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion DD 11). Le crabe a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Crapaud géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Toad](monsters_vo.md#giant-toad)<!--/AltName-->
@@ -10970,9 +10970,9 @@ Si le crapaud meurt, une créature engloutie n'est plus [entravée] à cause de 
 _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et la cible est [empoignée] (évasion DD 13). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le crapaud ne peut pas mordre une autre cible.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Crocodile<!--/Name-->
 - SRD: <!--AltName-->[Crocodile](monsters_vo.md#crocodile)<!--/AltName-->
@@ -11001,9 +11001,9 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée] (évasion DD 12). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le crocodile ne peut pas mordre une autre cible.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Crocodile géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Crocodile](monsters_vo.md#giant-crocodile)<!--/AltName-->
@@ -11038,9 +11038,9 @@ _Touché :_ 21 (3d10+5) dégâts perforants et la cible est [empoignée] (évasi
 _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 16 pour ne pas être jetée au sol.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Élan<!--/Name-->
 - SRD: <!--AltName-->[Elk](monsters_vo.md#elk)<!--/AltName-->
@@ -11072,9 +11072,9 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 _Touché :_ 8 (2d4+3) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Élan géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Elk](monsters_vo.md#giant-elk)<!--/AltName-->
@@ -11107,9 +11107,9 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 _Touché :_ 22 (4d8+4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Éléphant<!--/Name-->
 - SRD: <!--AltName-->[Elephant](monsters_vo.md#elephant)<!--/AltName-->
@@ -11141,9 +11141,9 @@ _Touché :_ 19 (3d8+6) dégâts perforants.
 _Touché :_ 22 (3d10+6) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Épaulard<!--/Name-->
 - SRD: <!--AltName-->[Killer Whale](monsters_vo.md#killer-whale)<!--/AltName-->
@@ -11176,9 +11176,9 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 _Touché :_ 21 (5d6+4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Faucon<!--/Name-->
 - SRD: <!--AltName-->[Hawk](monsters_vo.md#hawk)<!--/AltName-->
@@ -11207,9 +11207,9 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 _Touché :_ 1 dégât tranchant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Faucon de sang<!--/Name-->
 - SRD: <!--AltName-->[Blood Hawk](monsters_vo.md#blood-hawk)<!--/AltName-->
@@ -11240,9 +11240,9 @@ _Touché :_ 1 dégât tranchant.
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Grand singe<!--/Name-->
 - SRD: <!--AltName-->[Ape](monsters_vo.md#ape)<!--/AltName-->
@@ -11273,9 +11273,9 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 _Touché :_ 6 (1d6+3) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Grenouille<!--/Name-->
 - SRD: <!--AltName-->[Frog](monsters_vo.md#frog)<!--/AltName-->
@@ -11300,9 +11300,9 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 **_Saut sans élan._** La grenouille saute une longueur maximale de 3 mètres et une hauteur maximale de 1,50 mètres, sans ou avec élan préalable.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Grenouille géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Frog](monsters_vo.md#giant-frog)<!--/AltName-->
@@ -11337,9 +11337,9 @@ Si la grenouille meurt, une créature engloutie n'est plus [entravée] à cause 
 _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion DD 11). Jusqu'à la fin de cette empoignade, la cible est [entravée] et la grenouille ne peut pas mordre une autre cible.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Guêpe géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Wasp](monsters_vo.md#giant-wasp)<!--/AltName-->
@@ -11363,9 +11363,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion
 _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 11. Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hibou<!--/Name-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
@@ -11393,9 +11393,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un [jet de 
 _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hibou géant<!--/Name-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre bon<!--/Alignment-->
@@ -11429,9 +11429,9 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hippocampe<!--/Name-->
 - SRD: <!--AltName-->[Sea Horse](monsters_vo.md#sea-horse)<!--/AltName-->
@@ -11453,9 +11453,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 **_Respiration aquatique._** L'hippocampe peut respirer uniquement sous l'eau.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hippocampe géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Sea Horse](monsters_vo.md#giant-sea-horse)<!--/AltName-->
@@ -11485,9 +11485,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 _Touché :_ 4 (1d6+1) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hyène<!--/Name-->
 - SRD: <!--AltName-->[Hyena](monsters_vo.md#hyena)<!--/AltName-->
@@ -11516,9 +11516,9 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 _Touché :_ 3 (1d6) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Hyène géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Hyena](monsters_vo.md#giant-hyena)<!--/AltName-->
@@ -11547,9 +11547,9 @@ _Touché :_ 3 (1d6) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Lézard<!--/Name-->
 - SRD: <!--AltName-->[Lizard](monsters_vo.md#lizard)<!--/AltName-->
@@ -11573,9 +11573,9 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 _Touché :_ 1 dégât perforant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Lézard géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Lizard](monsters_vo.md#giant-lizard)<!--/AltName-->
@@ -11599,9 +11599,9 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 6 (1d8+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Lion<!--/Name-->
 - SRD: <!--AltName-->[Lion](monsters_vo.md#lion)<!--/AltName-->
@@ -11638,9 +11638,9 @@ _Touché :_ 6 (1d6+3) dégâts tranchants.
 _Touché :_ 7 (1d8+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Loup<!--/Name-->
 - SRD: <!--AltName-->[Wolf](monsters_vo.md#wolf)<!--/AltName-->
@@ -11671,9 +11671,9 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 11 pour ne pas être jetée [à terre].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Loup arctique<!--/Name-->
 - SRD: <!--AltName-->[Winter Wolf](monsters_vo.md#winter-wolf)<!--/AltName-->
@@ -11711,9 +11711,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants. Si la cible est une créature, elle 
 Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de [Dextérité] DD 12 ; elles subissent 18 (4d8) dégâts de froid en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Loup sanguinaire<!--/Name-->
 - SRD: <!--AltName-->[Dire Wolf](monsters_vo.md#dire-wolf)<!--/AltName-->
@@ -11744,9 +11744,9 @@ Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de 
 _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 13 pour ne pas être jetée [à terre].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Mammouth<!--/Name-->
 - SRD: <!--AltName-->[Mammoth](monsters_vo.md#mammoth)<!--/AltName-->
@@ -11778,9 +11778,9 @@ _Touché :_ 25 (4d8+7) dégâts perforants.
 _Touché :_ 29 (4d10+7) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Mastiff<!--/Name-->
 - SRD: <!--AltName-->[Mastiff](monsters_vo.md#mastiff)<!--/AltName-->
@@ -11809,9 +11809,9 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 11 pour ne pas être jetée [à terre].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Mille-pattes géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Centipede](monsters_vo.md#giant-centipede)<!--/AltName-->
@@ -11835,9 +11835,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de sauvegarde] de [Constitution] DD 11 pour ne pas subir 10 (3d6) dégâts de poison. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Mule<!--/Name-->
 - SRD: <!--AltName-->[Mule](monsters_vo.md#mule)<!--/AltName-->
@@ -11867,9 +11867,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 _Touché :_ 4 (1d4+2) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Nuée de chauve-souris<!--/Name-->
 - SRD: <!--AltName-->[Swarm of Bats](monsters_vo.md#swarm-of-bats)<!--/AltName-->
@@ -11903,9 +11903,9 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Nuée de corbeaux<!--/Name-->
 - SRD: <!--AltName-->[Swarm of Ravens](monsters_vo.md#swarm-of-ravens)<!--/AltName-->
@@ -11936,9 +11936,9 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Nuée de piranhas<!--/Name-->
 - SRD: <!--AltName-->[Swarm of Quippers](monsters_vo.md#swarm-of-quippers)<!--/AltName-->
@@ -11972,9 +11972,9 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Nuée de rats<!--/Name-->
 - SRD: <!--AltName-->[Swarm of Rats](monsters_vo.md#swarm-of-rats)<!--/AltName-->
@@ -12006,9 +12006,9 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Nuée de serpents venimeux<!--/Name-->
 - SRD: <!--AltName-->[Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)<!--/AltName-->
@@ -12038,9 +12038,9 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie. La cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 10. Elle subit 14 (4d6) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Nuée d'insectes<!--/Name-->
 - SRD: <!--AltName-->[Swarm of Insects](monsters_vo.md#swarm-of-insects)<!--/AltName-->
@@ -12087,9 +12087,9 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ours brun<!--/Name-->
 - SRD: <!--AltName-->[Brown Bear](monsters_vo.md#brown-bear)<!--/AltName-->
@@ -12124,9 +12124,9 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 _Touché :_ 8 (1d8+4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ours noir<!--/Name-->
 - SRD: <!--AltName-->[Black Bear](monsters_vo.md#black-bear)<!--/AltName-->
@@ -12161,9 +12161,9 @@ _Touché :_ 7 (2d4+2) dégâts tranchants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ours polaire<!--/Name-->
 - SRD: <!--AltName-->[Polar Bear](monsters_vo.md#polar-bear)<!--/AltName-->
@@ -12198,9 +12198,9 @@ _Touché :_ 12 (2d6+5) dégâts tranchants.
 _Touché :_ 9 (1d8+5) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Panthère<!--/Name-->
 - SRD: <!--AltName-->[Panther](monsters_vo.md#panther)<!--/AltName-->
@@ -12235,9 +12235,9 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Pieuvre<!--/Name-->
 - SRD: <!--AltName-->[Octopus](monsters_vo.md#octopus)<!--/AltName-->
@@ -12272,9 +12272,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 1 dégât contondant et la cible est [empoignée] (évasion DD 10). Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne peut pas utiliser ses tentacules sur une autre cible.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Pieuvre géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Octopus](monsters_vo.md#giant-octopus)<!--/AltName-->
@@ -12311,9 +12311,9 @@ _Touché :_ 10 (2d6+3) dégâts contondants et, si la cible est une créature, e
 Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne peut pas utiliser ses tentacules contre une autre cible.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Piranha<!--/Name-->
 - SRD: <!--AltName-->[Quipper](monsters_vo.md#quipper)<!--/AltName-->
@@ -12343,9 +12343,9 @@ Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne pe
 _Touché :_ 1 dégât perforant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Poney<!--/Name-->
 - SRD: <!--AltName-->[Pony](monsters_vo.md#pony)<!--/AltName-->
@@ -12369,9 +12369,9 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 7 (2d4+2) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Punaise de feu géante<!--/Name-->
 - SRD: <!--AltName-->[Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)<!--/AltName-->
@@ -12399,9 +12399,9 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 _Touché :_ 2 (1d6-1) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Rat<!--/Name-->
 - SRD: <!--AltName-->[Rat](monsters_vo.md#rat)<!--/AltName-->
@@ -12429,9 +12429,9 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 _Touché :_ 1 dégât perforant.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Rat géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Rat](monsters_vo.md#giant-rat)<!--/AltName-->
@@ -12469,9 +12469,9 @@ Certains rats géants sont porteurs d'ignobles maladies transmissibles par morsu
 _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 10 pour ne pas contracter la maladie. Tant que cette maladie n'est pas soignée, la cible ne peut plus récupérer de points de vie, sauf par des moyens magiques, et son total maximum de points de vie diminue de 3 (1d6) toutes les 24 heures. Elle meurt si son total maximum de points de vie tombe à 0 à cause de cette maladie.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Requin chasseur<!--/Name-->
 - SRD: <!--AltName-->[Hunter Shark](monsters_vo.md#hunter-shark)<!--/AltName-->
@@ -12502,9 +12502,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 _Touché :_ 13 (2d8+4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Requin de récif<!--/Name-->
 - SRD: <!--AltName-->[Reef Shark](monsters_vo.md#reef-shark)<!--/AltName-->
@@ -12535,9 +12535,9 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 _Touché :_ 6 (1d8+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Requin géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Shark](monsters_vo.md#giant-shark)<!--/AltName-->
@@ -12568,9 +12568,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 _Touché :_ 22 (3d10+6) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Rhinocéros<!--/Name-->
 - SRD: <!--AltName-->[Rhinoceros](monsters_vo.md#rhinoceros)<!--/AltName-->
@@ -12600,9 +12600,9 @@ Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [For
 _Touché :_ 14 (2d8+5) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Sanglier<!--/Name-->
 - SRD: <!--AltName-->[Boar](monsters_vo.md#boar)<!--/AltName-->
@@ -12632,9 +12632,9 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Sanglier géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Boar](monsters_vo.md#giant-boar)<!--/AltName-->
@@ -12664,9 +12664,9 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Scorpion<!--/Name-->
 - SRD: <!--AltName-->[Scorpion](monsters_vo.md#scorpion)<!--/AltName-->
@@ -12690,9 +12690,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 9. Elle subit 4 (1d8) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Scorpion géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Scorpion](monsters_vo.md#giant-scorpion)<!--/AltName-->
@@ -12722,9 +12722,9 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de
 _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasion DD 12). Le scorpion a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Serpent constricteur<!--/Name-->
 - SRD: <!--AltName-->[Constrictor Snake](monsters_vo.md#constrictor-snake)<!--/AltName-->
@@ -12752,9 +12752,9 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasio
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Serpent constricteur géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)<!--/AltName-->
@@ -12783,9 +12783,9 @@ _Touché :_ 13 (2d8+4) dégâts contondants et la cible est [empoignée] (évasi
 _Touché :_ 11 (2d6+4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Serpent venimeux<!--/Name-->
 - SRD: <!--AltName-->[Poisonous Snake](monsters_vo.md#poisonous-snake)<!--/AltName-->
@@ -12809,9 +12809,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 10. Elle subit 5 (2d4) dégâts de poison en cas de [jet de sauvegarde] raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Serpent venimeux géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)<!--/AltName-->
@@ -12838,9 +12838,9 @@ _Touché :_ 6 (1d4+4) dégâts perforants et la cible doit effectuer un [jet de 
 Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde] raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Serpent volant<!--/Name-->
 - SRD: <!--AltName-->[Flying Snake](monsters_vo.md#flying-snake)<!--/AltName-->
@@ -12868,9 +12868,9 @@ Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde] raté et la
 _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Singe géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Ape](monsters_vo.md#giant-ape)<!--/AltName-->
@@ -12901,9 +12901,9 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 _Touché :_ 30 (7d6+6) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Tigre<!--/Name-->
 - SRD: <!--AltName-->[Tiger](monsters_vo.md#tiger)<!--/AltName-->
@@ -12938,9 +12938,9 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 _Touché :_ 8 (1d10+3) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Tigre à dents de sabre<!--/Name-->
 - SRD: <!--AltName-->[Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)<!--/AltName-->
@@ -12975,9 +12975,9 @@ _Touché :_ 12 (2d6+5) dégâts tranchants.
 _Touché :_ 10 (1d10+5) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Vautour<!--/Name-->
 - SRD: <!--AltName-->[Vulture](monsters_vo.md#vulture)<!--/AltName-->
@@ -13008,9 +13008,9 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 _Touché :_ 2 (1d4) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Vautour géant<!--/Name-->
 - SRD: <!--AltName-->[Giant Vulture](monsters_vo.md#giant-vulture)<!--/AltName-->
@@ -13047,9 +13047,9 @@ _Touché :_ 7 (2d4+2) dégâts perforants.
 _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Worg<!--/Name-->
 - SRD: <!--AltName-->[Worg](monsters_vo.md#worg)<!--/AltName-->
@@ -13078,9 +13078,9 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 13 pour ne pas être jetée [à terre].
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Acolyte<!--/Name-->
 - SRD: <!--AltName-->[Acolyte](monsters_vo.md#acolyte)<!--/AltName-->
@@ -13113,9 +13113,9 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 _Touché :_ 2 (1d4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Archimage<!--/Name-->
 - SRD: <!--AltName-->[Archmage](monsters_vo.md#archmage)<!--/AltName-->
@@ -13172,9 +13172,9 @@ L'archimage peut lancer déguisement et invisibilité à volonté et dispose des
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Assassin<!--/Name-->
 - SRD: <!--AltName-->[Assassin](monsters_vo.md#assassin)<!--/AltName-->
@@ -13215,9 +13215,9 @@ _Touché :_ 7 (1d8+3) dégâts perforants et la cible doit effectuer un [jet de 
 _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 15. Elle subit 24 (7d6) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Bandit<!--/Name-->
 - SRD: <!--AltName-->[Bandit](monsters_vo.md#bandit)<!--/AltName-->
@@ -13245,9 +13245,9 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Berserker<!--/Name-->
 - SRD: <!--AltName-->[Berserker](monsters_vo.md#berserker)<!--/AltName-->
@@ -13275,9 +13275,9 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 _Touché :_ 9 (1d12+3) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Capitaine bandit<!--/Name-->
 - SRD: <!--AltName-->[Bandit Captain](monsters_vo.md#bandit-captain)<!--/AltName-->
@@ -13313,9 +13313,9 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 **_Parade._** Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Chevalier<!--/Name-->
 - SRD: <!--AltName-->[Knight](monsters_vo.md#knight)<!--/AltName-->
@@ -13356,9 +13356,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 **_Parade._** Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon. 
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Druide<!--/Name-->
 - SRD: <!--AltName-->[Druid](monsters_vo.md#druid)<!--/AltName-->
@@ -13393,9 +13393,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est manié à deux mains, ou 6 (1d8+2) dégâts contondants avec gourdin magique.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Ecclésiastique<!--/Name-->
 - SRD: <!--AltName-->[Priest](monsters_vo.md#priest)<!--/AltName-->
@@ -13436,9 +13436,9 @@ Voici ses sorts de clerc préparés :
 _Touché :_ 3 (1d6) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Éclaireur<!--/Name-->
 - SRD: <!--AltName-->[Scout](monsters_vo.md#scout)<!--/AltName-->
@@ -13473,9 +13473,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Espion<!--/Name-->
 - SRD: <!--AltName-->[Spy](monsters_vo.md#spy)<!--/AltName-->
@@ -13512,9 +13512,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Fanatique de secte<!--/Name-->
 - SRD: <!--AltName-->[Cult Fanatic](monsters_vo.md#cult-fanatic)<!--/AltName-->
@@ -13553,9 +13553,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Garde<!--/Name-->
 - SRD: <!--AltName-->[Guard](monsters_vo.md#guard)<!--/AltName-->
@@ -13580,9 +13580,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Gladiateur<!--/Name-->
 - SRD: <!--AltName-->[Gladiator](monsters_vo.md#gladiator)<!--/AltName-->
@@ -13626,9 +13626,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants ou 13 (2d8+4) dégâts perforants si 
 Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Guerrier tribal<!--/Name-->
 - SRD: <!--AltName-->[Tribal Warrior](monsters_vo.md#tribal-warrior)<!--/AltName-->
@@ -13656,9 +13656,9 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Mage<!--/Name-->
 - SRD: <!--AltName-->[Mage](monsters_vo.md#mage)<!--/AltName-->
@@ -13700,9 +13700,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Malfrat<!--/Name-->
 - SRD: <!--AltName-->[Thug](monsters_vo.md#thug)<!--/AltName-->
@@ -13739,9 +13739,9 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidation et de violence. Ils travaillent pour l'argent et n'éprouvent guère de scrupules.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Membre de secte<!--/Name-->
 - SRD: <!--AltName-->[Cultist](monsters_vo.md#cultist)<!--/AltName-->
@@ -13770,9 +13770,9 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Noble<!--/Name-->
 - SRD: <!--AltName-->[Noble](monsters_vo.md#noble)<!--/AltName-->
@@ -13801,9 +13801,9 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 **_Parade._** Le noble ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Roturier<!--/Name-->
 - SRD: <!--AltName-->[Commoner](monsters_vo.md#commoner)<!--/AltName-->
@@ -13827,9 +13827,9 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 _Touché :_ 2 (1d4) dégâts contondants.
 
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
-<!--Monster-->
+<!--MonsterHD-->
 
 # <!--Name-->Vétéran<!--/Name-->
 - SRD: <!--AltName-->[Veteran](monsters_vo.md#veteran)<!--/AltName-->
@@ -13863,7 +13863,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si elle est maniée à deux mains.
 
-<!--/Monster-->
+<!--/MonsterHD-->
 
 <!--/MonstersHD-->
 
