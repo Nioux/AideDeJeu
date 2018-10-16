@@ -91,7 +91,7 @@ Cette armure se compose d'un manteau et d'un pantalon (et parfois d'une jupe sé
 - **Classe d'armure** <!--ArmorClass-->14 + modifcateur de Dex (max 2)<!--/ArmorClass-->
 - **Poids** <!--Weight-->10 kg<!--/Weight-->
 
-Cette armure consiste en une pièce de métal qui couvre le buste, complétée de cuir souple. Bien que les bras et les jambes de son porteur soient peu protégés, cette armure permet de protéger efcacement les organes vitaux sans réduire la liberté de mouvement de son porteur.
+Cette armure consiste en une pièce de métal qui couvre le buste, complétée de cuir souple. Bien que les bras et les jambes de son porteur soient peu protégés, cette armure permet de protéger efficacement les organes vitaux sans réduire la liberté de mouvement de son porteur.
 
 <!--/Equipment-->
 
