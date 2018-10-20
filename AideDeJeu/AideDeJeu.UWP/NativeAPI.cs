@@ -35,7 +35,7 @@ namespace AideDeJeu.UWP
                 {
                     using (var outStream = new FileStream(path, FileMode.Create))
                     {
-                        inStream.CopyTo(outStream);
+                        await inStream.CopyToAsync(outStream);
                     }
                 }
             }

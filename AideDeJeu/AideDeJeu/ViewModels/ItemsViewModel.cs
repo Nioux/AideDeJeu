@@ -119,7 +119,7 @@ namespace AideDeJeu.ViewModels
             {
                 if (Filter != null)
                 {
-                    var items = await Task.Run(async() => await Filter.FilterItems(await AllItems.GetChildrenAsync(), cancellationToken: cancellationToken));
+                    var items = await Task.Run(async() => await Filter.GetFilteredItemsAsync(cancellationToken: cancellationToken));
                     Items = new Item(items.ToList());
                     Children = items;
                 }

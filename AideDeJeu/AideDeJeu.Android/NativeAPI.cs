@@ -43,7 +43,7 @@ namespace AideDeJeu.Droid
                 {
                     using (var outStream = new FileStream(path, FileMode.Create))
                     {
-                        inStream.CopyTo(outStream);
+                        await inStream.CopyToAsync(outStream);
                     }
                 }
                 //using (var binaryReader = new BinaryReader(Android.App.Application.Context.Assets.Open(databaseName)))

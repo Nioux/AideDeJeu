@@ -1,6 +1,7 @@
 ﻿using AideDeJeu.Tools;
 using System;
 using System.IO;
+using System.Threading.Tasks;
 
 [assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.GTK.Version_GTK))]
 namespace AideDeJeu.GTK
@@ -28,7 +29,7 @@ namespace AideDeJeu.GTK
             //return info.VersionCode;
         }
 
-        public string GetDatabasePath(string databaseName)
+        public async Task<string> GetDatabasePathAsync(string databaseName)
         {
             return null;
             //var documentsDirectoryPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);

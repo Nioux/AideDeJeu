@@ -1,6 +1,5 @@
 ﻿using AideDeJeu.Tools;
 using AideDeJeuLib;
-using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
@@ -13,7 +12,7 @@ namespace AideDeJeu.ViewModels
     public abstract class FilterViewModel : BaseViewModel
     {
         public ICommand LoadItemsCommand { get; set; }
-        public abstract Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken cancellationToken = default);
+        public abstract Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken cancellationToken = default);
         public abstract IEnumerable<Filter> Filters { get; }
         private string _SearchText = "";
         public string SearchText
@@ -139,43 +138,43 @@ namespace AideDeJeu.ViewModels
         }
     }
 
-    public class SearchFilterViewModel : FilterViewModel
-    {
-        private IEnumerable<Filter> _Filters = null;
-        public override IEnumerable<Filter> Filters
-        {
-            get
-            {
-                if (_Filters == null)
-                {
-                    _Filters = new List<Filter>()
-                    {
-                    };
-                    RegisterFilters();
-                }
-                return _Filters;
-            }
-        }
+    //public class SearchFilterViewModel : FilterViewModel
+    //{
+    //    private IEnumerable<Filter> _Filters = null;
+    //    public override IEnumerable<Filter> Filters
+    //    {
+    //        get
+    //        {
+    //            if (_Filters == null)
+    //            {
+    //                _Filters = new List<Filter>()
+    //                {
+    //                };
+    //                RegisterFilters();
+    //            }
+    //            return _Filters;
+    //        }
+    //    }
 
 
-        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
-        {
-            return await Task.Run(() =>
-            {
-                return items.Where(item =>
-                {
-                    var spell = item;
-                    return
-                        (
-                            (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        );
-                }).AsEnumerable();
-            }, token);
+    //    public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
+    //    {
+    //        return await Task.Run(() =>
+    //        {
+    //            return items.Where(item =>
+    //            {
+    //                var spell = item;
+    //                return
+    //                    (
+    //                        (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+    //                        (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+    //                    );
+    //            }).AsEnumerable();
+    //        }, token);
 
-        }
+    //    }
 
-    }
+    //}
 
 
     #region Spells
@@ -249,7 +248,7 @@ namespace AideDeJeu.ViewModels
 
     public class VFSpellFilterViewModel : SpellFilterViewModel
     {
-        public override Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken cancellationToken = default)
+        public override Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken cancellationToken = default)
         {
             throw new System.NotImplementedException();
         }
@@ -309,7 +308,7 @@ namespace AideDeJeu.ViewModels
 
     public class VOSpellFilterViewModel : SpellFilterViewModel
     {
-        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
+        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
             var levelComparer = new LevelComparer();
             var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
@@ -389,7 +388,7 @@ namespace AideDeJeu.ViewModels
 
     public class HDSpellFilterViewModel : SpellFilterViewModel
     {
-        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
+        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
             var levelComparer = new LevelComparer();
             var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
@@ -557,7 +556,7 @@ namespace AideDeJeu.ViewModels
     public class VFMonsterFilterViewModel : MonsterFilterViewModel
     {
 
-        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
+        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
             throw new System.Exception();
         }
@@ -648,7 +647,7 @@ namespace AideDeJeu.ViewModels
 
     public class VOMonsterFilterViewModel : MonsterFilterViewModel
     {
-        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
+        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
             var powerComparer = new PowerComparer();
 
@@ -764,32 +763,32 @@ namespace AideDeJeu.ViewModels
 
     public class HDMonsterFilterViewModel : MonsterFilterViewModel
     {
-        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
+        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
-                var powerComparer = new PowerComparer();
+            var powerComparer = new PowerComparer();
 
-                var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-                var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
-                var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
-                var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
-                var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-                token.ThrowIfCancellationRequested();
+            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
+            var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
+            var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
+            var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
+            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+            token.ThrowIfCancellationRequested();
 
-                using (var context = await StoreViewModel.GetDatabaseContextAsync())
-                {
-                    return context.MonstersHD.Where(monster =>
-                                            monster != null &&
-                        monster.Type.Contains(type) &&
-                        (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
-                        (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
-                        powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
-                        powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
-                        (
-                            (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )
-                    ).OrderBy(monster => monster.Name).ToList();
-                }
+            using (var context = await StoreViewModel.GetDatabaseContextAsync())
+            {
+                return context.MonstersHD.Where(monster =>
+                                        monster != null &&
+                    monster.Type.Contains(type) &&
+                    (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
+                    (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
+                    powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
+                    powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
+                    (
+                        (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                        (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                    )
+                ).OrderBy(monster => monster.Name).ToList();
+            }
 
         }
         public override List<KeyValuePair<string, string>> Categories { get; } = new List<KeyValuePair<string, string>>()
@@ -901,26 +900,26 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
+        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
-                var priceComparer = new PriceComparer();
-                var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-                var minPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey ?? "0 pc";
-                var maxPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey ?? "1 000 000 po";
+            var priceComparer = new PriceComparer();
+            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
+            var minPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey ?? "0 pc";
+            var maxPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey ?? "1 000 000 po";
 
-                using (var context = await GetDatabaseContextAsync())
-                {
-                    return context.Equipments.Where(equipment =>
-                        equipment.Type.ToLower().Contains(type.ToLower()) &&
-                        priceComparer.Compare(equipment.Price, minPrice) >= 0 &&
-                        priceComparer.Compare(equipment.Price, maxPrice) <= 0 &&
-                        (
-                            (Helpers.RemoveDiacritics(equipment.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(equipment.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )
-                    ).OrderBy(eq => eq.Name)
-                            .ToList();
-                }
+            using (var context = await GetDatabaseContextAsync())
+            {
+                return context.Equipments.Where(equipment =>
+                    equipment.Type.ToLower().Contains(type.ToLower()) &&
+                    priceComparer.Compare(equipment.Price, minPrice) >= 0 &&
+                    priceComparer.Compare(equipment.Price, maxPrice) <= 0 &&
+                    (
+                        (Helpers.RemoveDiacritics(equipment.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                        (Helpers.RemoveDiacritics(equipment.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                    )
+                ).OrderBy(eq => eq.Name)
+                        .ToList();
+            }
         }
 
         public abstract List<KeyValuePair<string, string>> Types { get; }
@@ -1001,22 +1000,22 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
+        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
-                var priceComparer = new PriceComparer();
-                var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-                var rarity = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Rarity).SelectedKey ?? "";
-                var attunement = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Attunement).SelectedKey ?? "";
+            var priceComparer = new PriceComparer();
+            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
+            var rarity = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Rarity).SelectedKey ?? "";
+            var attunement = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Attunement).SelectedKey ?? "";
 
-                using (var context = await GetDatabaseContextAsync())
-                {
-                    return context.MagicItems.Where(magicitem =>
-                        MatchContains(magicitem.Type, type) &&
-                        MatchContains(magicitem.Rarity, rarity) &&
-                        MatchContains(magicitem.Attunement, attunement) &&
-                        MatchSearch(magicitem)
-                    ).OrderBy(eq => eq.Name).ToList();
-                }
+            using (var context = await GetDatabaseContextAsync())
+            {
+                return context.MagicItems.Where(magicitem =>
+                    MatchContains(magicitem.Type, type) &&
+                    MatchContains(magicitem.Rarity, rarity) &&
+                    MatchContains(magicitem.Attunement, attunement) &&
+                    MatchSearch(magicitem)
+                ).OrderBy(eq => eq.Name).ToList();
+            }
         }
 
         public abstract List<KeyValuePair<string, string>> Types { get; }
