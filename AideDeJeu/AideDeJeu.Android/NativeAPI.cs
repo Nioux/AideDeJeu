@@ -2,6 +2,7 @@
 using Android.Content.PM;
 using System;
 using System.IO;
+using System.Threading.Tasks;
 
 [assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.Droid.Version_Android))]
 namespace AideDeJeu.Droid
@@ -27,7 +28,7 @@ namespace AideDeJeu.Droid
             return info.VersionCode;
         }
 
-        public string GetDatabasePath(string databaseName)
+        public async Task<string> GetDatabasePathAsync(string databaseName)
         {
             //string path = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
             //string dbPath = Path.Combine(path, databaseName);

@@ -1,6 +1,7 @@
 ﻿using AideDeJeu.Tools;
 using System.IO;
 using System.Reflection;
+using System.Threading.Tasks;
 
 [assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.Cmd.Version_CMD))]
 namespace AideDeJeu.Cmd
@@ -22,7 +23,7 @@ namespace AideDeJeu.Cmd
             return 0;
         }
 
-        public string GetDatabasePath(string databaseName)
+        public async Task<string> GetDatabasePathAsync(string databaseName)
         {
             return Path.Combine(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location), @"..\..\..\..\..\Data\" + databaseName);
         }

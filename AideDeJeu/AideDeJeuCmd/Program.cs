@@ -300,7 +300,7 @@ namespace AideDeJeuCmd
             var store = new StoreViewModel();
             await store.PreloadAllItemsAsync();
 
-            using (var context = new StoreViewModel.AideDeJeuContext())
+            using (var context = await StoreViewModel.GetDatabaseContextAsync())
             {
                 await context.Database.EnsureDeletedAsync();
                 await context.Database.EnsureCreatedAsync();

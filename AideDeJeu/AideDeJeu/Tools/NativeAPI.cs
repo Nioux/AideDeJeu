@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace AideDeJeu.Tools
 {
@@ -8,6 +9,6 @@ namespace AideDeJeu.Tools
     {
         string GetVersion();
         int GetBuild();
-        string GetDatabasePath(string databaseName);
+        Task<string> GetDatabasePathAsync(string databaseName);
     }
 }

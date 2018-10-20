@@ -366,6 +366,7 @@ namespace AideDeJeu.ViewModels
 
         public class AideDeJeuContext : DbContext
         {
+            public string DbPath { get; set; }
             public DbSet<Item> Items { get; set; }
             public DbSet<Equipment> Equipments { get; set; }
             public DbSet<MagicItem> MagicItems { get; set; }
@@ -376,10 +377,14 @@ namespace AideDeJeu.ViewModels
             public DbSet<SpellVO> SpellsVO { get; set; }
             public DbSet<MonsterVO> MonstersVO { get; set; }
 
+            public AideDeJeuContext(string dbPath)
+            {
+                this.DbPath = dbPath;
+            }
+
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
-                var dbPath = DependencyService.Get<INativeAPI>().GetDatabasePath("database.db");
-                optionsBuilder.UseSqlite($"Data Source='{dbPath}'");
+                optionsBuilder.UseSqlite($"Data Source='{DbPath}'");
             }
 
             protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -394,6 +399,12 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public static async Task<AideDeJeuContext> GetDatabaseContextAsync()
+        {
+            var dbPath = await DependencyService.Get<INativeAPI>().GetDatabasePathAsync("database.db");
+            return new AideDeJeuContext(dbPath);
+        }
+
         public async Task<Item> GetItemFromDataAsync(string source, string anchor)
         {
             var id = $"{source}.md".TrimStart('/');
@@ -401,7 +412,7 @@ namespace AideDeJeu.ViewModels
             {
                 id += $"#{anchor}";
             }
-            using (var context = new AideDeJeuContext())
+            using (var context = await GetDatabaseContextAsync())
             {
                 return await context.Items.Where(item => item.Id == id).FirstOrDefaultAsync();
             }

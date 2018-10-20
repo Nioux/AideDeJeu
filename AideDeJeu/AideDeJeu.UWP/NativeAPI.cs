@@ -1,6 +1,7 @@
 ﻿using AideDeJeu.Tools;
 using System.IO;
 using System.Reflection;
+using System.Threading.Tasks;
 using Windows.ApplicationModel;
 
 [assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.UWP.Version_UWP))]
@@ -22,7 +23,7 @@ namespace AideDeJeu.UWP
             return 0;
         }
 
-        public string GetDatabasePath(string databaseName)
+        public async Task<string> GetDatabasePathAsync(string databaseName)
         {
             var documentsDirectoryPath = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
             var path = Path.Combine(documentsDirectoryPath, databaseName);

@@ -165,7 +165,7 @@ namespace AideDeJeu.ViewModels
                 return items.Where(item =>
                 {
                     var spell = item;
-                    return 
+                    return
                         (
                             (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
@@ -311,30 +311,27 @@ namespace AideDeJeu.ViewModels
     {
         public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
         {
-            return await Task.Run(() =>
+            var levelComparer = new LevelComparer();
+            var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
+            var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
+            var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
+            var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
+            var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
+            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+            using (var context = await StoreViewModel.GetDatabaseContextAsync())
             {
-                var levelComparer = new LevelComparer();
-                var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
-                var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
-                var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
-                var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
-                var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
-                var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-                using (var context = new StoreViewModel.AideDeJeuContext())
-                {
-                    return context.SpellsVO.Where(spell =>
-                                            levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
-                        levelComparer.Compare(spell.Level, niveauMax) <= 0 &&
-                        spell.Type.ToLower().Contains(ecole.ToLower()) &&
-                        (spell.Source != null && spell.Source.Contains(source)) &&
-                        (spell.Classes != null && spell.Classes.Contains(classe)) &&
-                        (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
-                        (
-                            (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )).OrderBy(spell => spell.Name).ToList();
-                }
-            }, token);
+                return context.SpellsVO.Where(spell =>
+                                        levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
+                    levelComparer.Compare(spell.Level, niveauMax) <= 0 &&
+                    spell.Type.ToLower().Contains(ecole.ToLower()) &&
+                    (spell.Source != null && spell.Source.Contains(source)) &&
+                    (spell.Classes != null && spell.Classes.Contains(classe)) &&
+                    (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
+                    (
+                        (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                        (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                    )).OrderBy(spell => spell.Name).ToList();
+            }
         }
 
         public override List<KeyValuePair<string, string>> Classes { get; } = new List<KeyValuePair<string, string>>()
@@ -394,30 +391,27 @@ namespace AideDeJeu.ViewModels
     {
         public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
         {
-            return await Task.Run(() =>
+            var levelComparer = new LevelComparer();
+            var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
+            var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
+            var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
+            var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
+            var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
+            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+            using (var context = await StoreViewModel.GetDatabaseContextAsync())
             {
-                var levelComparer = new LevelComparer();
-                var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
-                var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
-                var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
-                var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
-                var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
-                var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-                using (var context = new StoreViewModel.AideDeJeuContext())
-                {
-                    return context.SpellsHD.Where(spell =>
-                                            levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
-                        levelComparer.Compare(spell.Level, niveauMax) <= 0 &&
-                        spell.Type.ToLower().Contains(ecole.ToLower()) &&
-                        (spell.Source != null && spell.Source.Contains(source)) &&
-                        (spell.Classes != null && spell.Classes.Contains(classe)) &&
-                        (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
-                        (
-                            (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )).OrderBy(spell => spell.Name).ToList();
-                }
-            }, token);
+                return context.SpellsHD.Where(spell =>
+                                        levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
+                    levelComparer.Compare(spell.Level, niveauMax) <= 0 &&
+                    spell.Type.ToLower().Contains(ecole.ToLower()) &&
+                    (spell.Source != null && spell.Source.Contains(source)) &&
+                    (spell.Classes != null && spell.Classes.Contains(classe)) &&
+                    (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
+                    (
+                        (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                        (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                    )).OrderBy(spell => spell.Name).ToList();
+            }
         }
 
         public override List<KeyValuePair<string, string>> Classes { get; } = new List<KeyValuePair<string, string>>()
@@ -656,33 +650,30 @@ namespace AideDeJeu.ViewModels
     {
         public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
         {
-            return await Task.Run(() =>
+            var powerComparer = new PowerComparer();
+
+            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
+            var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
+            var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
+            var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
+            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+            token.ThrowIfCancellationRequested();
+
+            using (var context = await StoreViewModel.GetDatabaseContextAsync())
             {
-                var powerComparer = new PowerComparer();
-
-                var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-                var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
-                var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
-                var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
-                var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-                token.ThrowIfCancellationRequested();
-
-                using (var context = new StoreViewModel.AideDeJeuContext())
-                {
-                    return context.MonstersVO.Where(monster =>
-                                            monster != null &&
-                        monster.Type.Contains(type) &&
-                        (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
-                        (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
-                        powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
-                        powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
-                        (
-                            (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )
-                    ).OrderBy(monster => monster.Name).ToListAsync();
-                }
-            }, token);
+                return context.MonstersVO.Where(monster =>
+                                        monster != null &&
+                    monster.Type.Contains(type) &&
+                    (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
+                    (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
+                    powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
+                    powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
+                    (
+                        (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                        (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                    )
+                ).OrderBy(monster => monster.Name).ToList();
+            }
 
         }
 
@@ -775,8 +766,6 @@ namespace AideDeJeu.ViewModels
     {
         public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
         {
-            return await Task.Run(() =>
-            {
                 var powerComparer = new PowerComparer();
 
                 var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
@@ -786,7 +775,7 @@ namespace AideDeJeu.ViewModels
                 var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
                 token.ThrowIfCancellationRequested();
 
-                using (var context = new StoreViewModel.AideDeJeuContext())
+                using (var context = await StoreViewModel.GetDatabaseContextAsync())
                 {
                     return context.MonstersHD.Where(monster =>
                                             monster != null &&
@@ -799,9 +788,8 @@ namespace AideDeJeu.ViewModels
                             (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
                         )
-                    ).OrderBy(monster => monster.Name).ToListAsync();
+                    ).OrderBy(monster => monster.Name).ToList();
                 }
-            }, token);
 
         }
         public override List<KeyValuePair<string, string>> Categories { get; } = new List<KeyValuePair<string, string>>()
@@ -915,14 +903,12 @@ namespace AideDeJeu.ViewModels
 
         public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
         {
-            return await Task.Run(() =>
-            {
                 var priceComparer = new PriceComparer();
                 var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
                 var minPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey ?? "0 pc";
                 var maxPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey ?? "1 000 000 po";
 
-                using (var context = new AideDeJeuContext())
+                using (var context = await GetDatabaseContextAsync())
                 {
                     return context.Equipments.Where(equipment =>
                         equipment.Type.ToLower().Contains(type.ToLower()) &&
@@ -933,22 +919,8 @@ namespace AideDeJeu.ViewModels
                             (Helpers.RemoveDiacritics(equipment.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
                         )
                     ).OrderBy(eq => eq.Name)
-                            .ToListAsync();
+                            .ToList();
                 }
-                //return items.Where(item =>
-                //{
-                //    var equipment = item as Equipment;
-                //    return equipment.Type.ToLower().Contains(type.ToLower()) &&
-                //        priceComparer.Compare(equipment.Price, minPrice) >= 0 &&
-                //        priceComparer.Compare(equipment.Price, maxPrice) <= 0 &&
-                //        (
-                //            (Helpers.RemoveDiacritics(equipment.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                //            (Helpers.RemoveDiacritics(equipment.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                //        );
-                //}).OrderBy(eq => eq.Name)
-                //            .AsEnumerable();
-            }, token);
-
         }
 
         public abstract List<KeyValuePair<string, string>> Types { get; }
@@ -1031,35 +1003,20 @@ namespace AideDeJeu.ViewModels
 
         public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
         {
-            return await Task.Run(() =>
-            {
                 var priceComparer = new PriceComparer();
                 var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
                 var rarity = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Rarity).SelectedKey ?? "";
                 var attunement = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Attunement).SelectedKey ?? "";
 
-                using (var context = new AideDeJeuContext())
+                using (var context = await GetDatabaseContextAsync())
                 {
                     return context.MagicItems.Where(magicitem =>
-                        MatchContains(magicitem.Type, type) && 
+                        MatchContains(magicitem.Type, type) &&
                         MatchContains(magicitem.Rarity, rarity) &&
                         MatchContains(magicitem.Attunement, attunement) &&
                         MatchSearch(magicitem)
-                    ).OrderBy(eq => eq.Name).ToListAsync();
+                    ).OrderBy(eq => eq.Name).ToList();
                 }
-
-                //return items.Where(item =>
-                //{
-                //    var magicitem = item as MagicItem;
-                //    if (magicitem == null) return false;
-                //    var matchType = MatchContains(magicitem.Type, type);
-                //    var matchRarity = MatchContains(magicitem.Rarity, rarity);
-                //    var matchAttunement = MatchContains(magicitem.Attunement, attunement);
-                //    var matchSearch = MatchSearch(magicitem);
-                //    return matchType && matchRarity && matchAttunement && matchSearch;
-                //}).OrderBy(eq => eq.Name).AsEnumerable();
-            }, token);
-
         }
 
         public abstract List<KeyValuePair<string, string>> Types { get; }
