@@ -25,7 +25,7 @@ namespace AideDeJeu.Cmd
 
         public async Task<string> GetDatabasePathAsync(string databaseName)
         {
-            return Path.Combine(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location), @"..\..\..\..\..\Data\" + databaseName);
+            return Path.Combine(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location), $@"..\..\..\..\..\Data\{databaseName}.db");
         }
     }
 }

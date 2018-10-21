@@ -1,4 +1,5 @@
 ﻿using AideDeJeu.ViewModels;
+using SQLite;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -99,7 +100,11 @@ namespace AideDeJeuLib
         //}
 
         [DataMember]
+        [PrimaryKey]
         public virtual string Id { get; set; }
+        [DataMember]
+        [Indexed]
+        public string RootId { get; set; }
         [DataMember]
         public string Name { get; set; }
         [DataMember]

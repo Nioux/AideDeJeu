@@ -357,7 +357,7 @@ namespace AideDeJeu.ViewModels
                             {
                                 var anchors = new Dictionary<string, Item>();
                                 //MakeAnchors(source, anchors, item);
-                                item.Id = $"{source}.md";
+                                item.RootId = $"{source}.md";
                                 _AllItems[source] = item;
                             }
                         }
@@ -404,7 +404,7 @@ namespace AideDeJeu.ViewModels
 
         public static async Task<AideDeJeuContext> GetLibraryContextAsync()
         {
-            var dbPath = await DependencyService.Get<INativeAPI>().GetDatabasePathAsync("library.db");
+            var dbPath = await DependencyService.Get<INativeAPI>().GetDatabasePathAsync("library");
             return new AideDeJeuContext(dbPath);
         }
 
@@ -417,7 +417,7 @@ namespace AideDeJeu.ViewModels
             }
             using (var context = await GetLibraryContextAsync())
             {
-                return await context.Items.Where(item => item.Id == id).FirstOrDefaultAsync();
+                return await context.Items.Where(item => item.Id == id || item.RootId == id).FirstOrDefaultAsync();
             }
         }
 

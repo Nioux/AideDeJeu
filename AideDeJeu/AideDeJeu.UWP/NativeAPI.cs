@@ -26,12 +26,12 @@ namespace AideDeJeu.UWP
         public async Task<string> GetDatabasePathAsync(string databaseName)
         {
             var documentsDirectoryPath = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
-            var path = Path.Combine(documentsDirectoryPath, databaseName);
+            var path = Path.Combine(documentsDirectoryPath, $"{databaseName}.db");
 
             if (!File.Exists(path))
             {
                 var assembly = typeof(Version_UWP).GetTypeInfo().Assembly;
-                using (var inStream = assembly.GetManifestResourceStream("AideDeJeu.UWP." + databaseName))
+                using (var inStream = assembly.GetManifestResourceStream($"AideDeJeu.UWP.{databaseName}.db"))
                 {
                     using (var outStream = new FileStream(path, FileMode.Create))
                     {

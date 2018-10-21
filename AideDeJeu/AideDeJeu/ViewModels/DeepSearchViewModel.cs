@@ -62,15 +62,26 @@ namespace AideDeJeu.ViewModels
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 var primary = await context.Items.
-                    Where(item => item.Name.Contains(searchText)).
+                    Where(item => EF.Functions.Like(item.Name, $"%{searchText}%")).
                     Select(item => new SearchedItem() { Item = item, Preview = item.Name }).
                     ToListAsync();
                 var secondary = await context.Items.
-                    Where(item => item.Markdown.Contains(searchText)).
+                    Where(item => EF.Functions.Like(item.Markdown, $"%{searchText}%")).
                     Select(item => new SearchedItem()
                     {
                         Item = item, Preview = GetPreview(item.Markdown, searchText)
                     }).ToListAsync();
+                //var primary = await context.Items.
+                //    Where(item => item.Name.Contains(searchText)).
+                //    Select(item => new SearchedItem() { Item = item, Preview = item.Name }).
+                //    ToListAsync();
+                //var secondary = await context.Items.
+                //    Where(item => item.Markdown.Contains(searchText)).
+                //    Select(item => new SearchedItem()
+                //    {
+                //        Item = item,
+                //        Preview = GetPreview(item.Markdown, searchText)
+                //    }).ToListAsync();
                 primary.AddRange(secondary);
                 return primary.ToList();
             }

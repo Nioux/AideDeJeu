@@ -25,7 +25,7 @@ namespace AideDeJeu.Droid
 
         public async Task<string> GetDatabasePathAsync(string databaseName)
         {
-            return NSBundle.MainBundle.PathForResource("library", "db");
+            return NSBundle.MainBundle.PathForResource(databaseName, "db");
             //var databasePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "..", "Library", databaseName);
             //return databasePath;
         }

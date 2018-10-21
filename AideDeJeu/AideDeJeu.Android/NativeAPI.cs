@@ -34,12 +34,12 @@ namespace AideDeJeu.Droid
             //string dbPath = Path.Combine(path, databaseName);
             //return dbPath;
             var documentsDirectoryPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
-            var path = Path.Combine(documentsDirectoryPath, databaseName);
+            var path = Path.Combine(documentsDirectoryPath, $"{databaseName}.db");
 
             // This is where we copy in our pre-created database
             if (!File.Exists(path))
             {
-                using (var inStream = Android.App.Application.Context.Assets.Open(databaseName))
+                using (var inStream = Android.App.Application.Context.Assets.Open($"{databaseName}.db"))
                 {
                     using (var outStream = new FileStream(path, FileMode.Create))
                     {
