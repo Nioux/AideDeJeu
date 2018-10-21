@@ -61,9 +61,7 @@ namespace AideDeJeu.Properties {
         }
         
         /// <summary>
-        ///   Recherche une chaîne localisée semblable à Lancez une recherche pour voir ici vos résultats !
-        ///    
-        ///(Notez que la première recherche peut être assez longue).
+        ///   Recherche une chaîne localisée semblable à Lancez une recherche pour voir ici vos résultats !.
         /// </summary>
         public static string EmptySearchAltText {
             get {
