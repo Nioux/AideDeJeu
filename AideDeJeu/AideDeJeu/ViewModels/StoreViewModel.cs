@@ -18,7 +18,7 @@ namespace AideDeJeu.ViewModels
 {
     public class StoreViewModel : BaseViewModel
     {
-        public Item ToItem(string source, string md)
+        public Item ToItem(string source, string md, Dictionary<string, Item> allItems)
         {
             var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
             var document = MarkdownParser.Parse(md, pipeline);
@@ -35,7 +35,7 @@ namespace AideDeJeu.ViewModels
                     {
                         if (IsNewItem(block))
                         {
-                            var item = ParseItem(source, ref enumerator);
+                            var item = ParseItem(source, ref enumerator, allItems);
                             return item;
                         }
                     }
@@ -50,7 +50,7 @@ namespace AideDeJeu.ViewModels
             return null;
         }
 
-        public Item ParseItem(string source, ref ContainerBlock.Enumerator enumerator)
+        public Item ParseItem(string source, ref ContainerBlock.Enumerator enumerator, Dictionary<string, Item> allItems)
         {
             var currentItem = GetNewItem(enumerator.Current);
 
@@ -65,16 +65,16 @@ namespace AideDeJeu.ViewModels
                     {
                         if (IsClosingItem(block))
                         {
-                            currentItem.Id = GetNewAnchorId(source, currentItem.Name);
-                            if (currentItem.Id != null)
+                            currentItem.Id = GetNewAnchorId(source, currentItem.Name, allItems);
+                            if (currentItem.Id != null && allItems != null)
                             {
-                                _AllItems[currentItem.Id] = currentItem;
+                                allItems[currentItem.Id] = currentItem;
                             }
                             return currentItem;
                         }
                         else if (IsNewItem(block))
                         {
-                            var subItem = ParseItem(source, ref enumerator);
+                            var subItem = ParseItem(source, ref enumerator, allItems);
 
                             var propertyName = subItem.GetType().Name;
 
@@ -88,7 +88,7 @@ namespace AideDeJeu.ViewModels
                             }
                             else //if (currentItem is Items)
                             {
-                                if (currentItem.GetNewFilterViewModel() == null)
+                                if (allItems != null && currentItem.GetNewFilterViewModel() == null)
                                 {
                                     var name = subItem.Name;
                                     var level = Math.Max(1, Math.Min(6, subItem.NameLevel));
@@ -123,8 +123,11 @@ namespace AideDeJeu.ViewModels
                         enumerator.MoveNext();
                     }
                 }
-                currentItem.Id = GetNewAnchorId(source, currentItem.Name);
-                _AllItems[currentItem.Id] = currentItem;
+                currentItem.Id = GetNewAnchorId(source, currentItem.Name, allItems);
+                if (allItems != null)
+                {
+                    allItems[currentItem.Id] = currentItem;
+                }
             }
 
             return currentItem;
@@ -273,7 +276,7 @@ namespace AideDeJeu.ViewModels
 
 
 
-        public string GetNewAnchorId(string source, string name)
+        public string GetNewAnchorId(string source, string name, Dictionary<string, Item> allItems)
         {
             if (name != null)
             {
@@ -282,7 +285,7 @@ namespace AideDeJeu.ViewModels
                 int index = 0;
                 while (true)
                 {
-                    if (!_AllItems.ContainsKey(name))
+                    if (allItems == null || !allItems.ContainsKey(name))
                     {
                         return id;
                     }
@@ -349,7 +352,7 @@ namespace AideDeJeu.ViewModels
                         var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
                         if (md != null)
                         {
-                            var item = ToItem(source, md);
+                            var item = ToItem(source, md, _AllItems);
                             if (item != null)
                             {
                                 var anchors = new Dictionary<string, Item>();
@@ -428,7 +431,7 @@ namespace AideDeJeu.ViewModels
                 var md = await Tools.Helpers.GetResourceStringAsync($"AideDeJeu.Data.{source}.md");
                 if (md != null)
                 {
-                    var item = ToItem(source, md);
+                    var item = ToItem(source, md, _AllItems);
                     if (item != null)
                     {
                         var anchors = new Dictionary<string, Item>();

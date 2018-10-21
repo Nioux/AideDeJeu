@@ -265,7 +265,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task<IEnumerable<Item>> ToItems(string md)
         {
-            var item = Store.ToItem(null, md);
+            var item = Store.ToItem(null, md, null);
             //if(item is Items)
             //{
             var items = item; // as Items;

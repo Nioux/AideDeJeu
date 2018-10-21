@@ -3,6 +3,8 @@ using AideDeJeu.ViewModels;
 using AideDeJeuLib;
 using SkiaSharp;
 using SkiaSharp.Views.Forms;
+using System.Linq;
+using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -42,6 +44,10 @@ namespace AideDeJeu.Views
                 Markdown = AideDeJeu.Tools.Helpers.GetResourceString($"AideDeJeu.Data.index.md"),
             }
             ) { Title = "Bibliothèque" };
+
+
+            //Task.Run(async () => await InitDBEngineAsync().ConfigureAwait(false));
+
             //var item = new Item
             //{
             //    Name = "",
@@ -52,6 +58,16 @@ namespace AideDeJeu.Views
             //viewModel = new ItemDetailViewModel(item);
             //BindingContext = viewModel;
         }
+
+        async Task InitDBEngineAsync()
+        {
+            await Task.Delay(1000).ConfigureAwait(false);
+            using (var context = await StoreViewModel.GetDatabaseContextAsync().ConfigureAwait(false))
+            {
+                var item = context.Items.FirstOrDefault();
+            }
+        }
+
 
         void PaintHeaderBar(object sender, SKPaintSurfaceEventArgs args)
         {

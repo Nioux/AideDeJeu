@@ -1,6 +1,8 @@
 ﻿using AideDeJeu.ViewModels;
 using AideDeJeu.Views;
 using AideDeJeuLib;
+using System.Linq;
+using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -27,6 +29,7 @@ namespace AideDeJeu
             var navigationPage = tabbeddPage.MainNavigationPage;
             vm.Navigator = new Navigator(navigationPage.Navigation);
             MainPage = tabbeddPage;
+
         }
 
         protected override void OnStart ()
