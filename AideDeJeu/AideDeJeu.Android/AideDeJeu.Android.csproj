@@ -109,6 +109,9 @@
     <AndroidAsset Include="..\..\Data\library.db">
       <Link>Assets\library.db</Link>
     </AndroidAsset>
+    <AndroidAsset Include="..\..\Data\library.ver">
+      <Link>Assets\library.ver</Link>
+    </AndroidAsset>
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
   </ItemGroup>
