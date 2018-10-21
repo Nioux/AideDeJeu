@@ -106,8 +106,8 @@
     <AndroidAsset Include="Assets\LinLibertine_aZL.ttf" />
     <AndroidAsset Include="Assets\LinLibertine_DR.ttf" />
     <AndroidAsset Include="Assets\LinLibertine_I.ttf" />
-    <AndroidAsset Include="..\..\Data\database.db">
-      <Link>Assets\database.db</Link>
+    <AndroidAsset Include="..\..\Data\library.db">
+      <Link>Assets\library.db</Link>
     </AndroidAsset>
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />

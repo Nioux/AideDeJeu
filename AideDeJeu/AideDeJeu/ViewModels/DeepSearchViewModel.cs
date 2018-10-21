@@ -59,7 +59,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task<IEnumerable<SearchedItem>> DeepSearchAllItemsAsync(string searchText)
         {
-            using (var context = await StoreViewModel.GetDatabaseContextAsync())
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 var primary = await context.Items.
                     Where(item => item.Name.Contains(searchText)).

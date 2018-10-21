@@ -317,7 +317,7 @@ namespace AideDeJeu.ViewModels
             var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
             var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-            using (var context = await StoreViewModel.GetDatabaseContextAsync())
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 return context.SpellsVO.Where(spell =>
                                         levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
@@ -397,7 +397,7 @@ namespace AideDeJeu.ViewModels
             var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
             var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-            using (var context = await StoreViewModel.GetDatabaseContextAsync())
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 return context.SpellsHD.Where(spell =>
                                         levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
@@ -658,7 +658,7 @@ namespace AideDeJeu.ViewModels
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
             token.ThrowIfCancellationRequested();
 
-            using (var context = await StoreViewModel.GetDatabaseContextAsync())
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 return context.MonstersVO.Where(monster =>
                                         monster != null &&
@@ -774,7 +774,7 @@ namespace AideDeJeu.ViewModels
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
             token.ThrowIfCancellationRequested();
 
-            using (var context = await StoreViewModel.GetDatabaseContextAsync())
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 return context.MonstersHD.Where(monster =>
                                         monster != null &&
@@ -907,7 +907,7 @@ namespace AideDeJeu.ViewModels
             var minPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey ?? "0 pc";
             var maxPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey ?? "1 000 000 po";
 
-            using (var context = await GetDatabaseContextAsync())
+            using (var context = await GetLibraryContextAsync())
             {
                 return context.Equipments.Where(equipment =>
                     equipment.Type.ToLower().Contains(type.ToLower()) &&
@@ -1007,7 +1007,7 @@ namespace AideDeJeu.ViewModels
             var rarity = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Rarity).SelectedKey ?? "";
             var attunement = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Attunement).SelectedKey ?? "";
 
-            using (var context = await GetDatabaseContextAsync())
+            using (var context = await GetLibraryContextAsync())
             {
                 return context.MagicItems.Where(magicitem =>
                     MatchContains(magicitem.Type, type) &&

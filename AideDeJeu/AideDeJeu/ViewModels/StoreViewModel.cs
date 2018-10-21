@@ -402,9 +402,9 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public static async Task<AideDeJeuContext> GetDatabaseContextAsync()
+        public static async Task<AideDeJeuContext> GetLibraryContextAsync()
         {
-            var dbPath = await DependencyService.Get<INativeAPI>().GetDatabasePathAsync("database.db");
+            var dbPath = await DependencyService.Get<INativeAPI>().GetDatabasePathAsync("library.db");
             return new AideDeJeuContext(dbPath);
         }
 
@@ -415,7 +415,7 @@ namespace AideDeJeu.ViewModels
             {
                 id += $"#{anchor}";
             }
-            using (var context = await GetDatabaseContextAsync())
+            using (var context = await GetLibraryContextAsync())
             {
                 return await context.Items.Where(item => item.Id == id).FirstOrDefaultAsync();
             }

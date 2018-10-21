@@ -48,7 +48,7 @@ namespace AideDeJeuCmd
                     .Build();
                 //var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
                 //DumpMarkdownDocument(document);
-                var monsters = DependencyService.Get<StoreViewModel>().ToItem(filename, md) as IEnumerable<Monster>; // document.ToMonsters<MonsterHD>();
+                var monsters = DependencyService.Get<StoreViewModel>().ToItem(filename, md, null) as IEnumerable<Monster>; // document.ToMonsters<MonsterHD>();
                 //document.Dump();
                 Console.WriteLine("ok");
                 //var md2 = monsters.ToMarkdownString();
@@ -66,7 +66,7 @@ namespace AideDeJeuCmd
 
             var result = string.Empty;
             var md = await LoadStringAsync(dataDir + "spells_hd.md");
-            var items = DependencyService.Get<StoreViewModel>().ToItem("spells_hd", md) as IEnumerable<Spell>;
+            var items = DependencyService.Get<StoreViewModel>().ToItem("spells_hd", md, null) as IEnumerable<Spell>;
 
             var classes = new string[]
             {
@@ -132,7 +132,7 @@ namespace AideDeJeuCmd
                 //if (name.Contains("_hd."))
                 //{
                     var md = await Helpers.GetResourceStringAsync(name);
-                    var item = DependencyService.Get<StoreViewModel>().ToItem(name, md);
+                    var item = DependencyService.Get<StoreViewModel>().ToItem(name, md, null);
                     allitems.Add(name, item);
                 //}
             }
@@ -300,7 +300,7 @@ namespace AideDeJeuCmd
             var store = new StoreViewModel();
             await store.PreloadAllItemsAsync();
 
-            using (var context = await StoreViewModel.GetDatabaseContextAsync())
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 await context.Database.EnsureDeletedAsync();
                 await context.Database.EnsureCreatedAsync();

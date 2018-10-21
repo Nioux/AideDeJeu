@@ -196,6 +196,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\..\Data\library.db">
+      <Link>library.db</Link>
+    </Content>
     <None Include="app.config" />
     <None Include="OpenTK.dll.config" />
     <None Include="packages.config" />

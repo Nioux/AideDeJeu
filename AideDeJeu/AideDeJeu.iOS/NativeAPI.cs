@@ -2,6 +2,7 @@
 using System;
 using System.IO;
 using Foundation;
+using System.Threading.Tasks;
 
 [assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.Droid.Version_Android))]
 namespace AideDeJeu.Droid
@@ -22,9 +23,9 @@ namespace AideDeJeu.Droid
             return res ? build : 0;
         }
 
-        public string GetDatabasePath(string databaseName)
+        public async Task<string> GetDatabasePathAsync(string databaseName)
         {
-            return NSBundle.MainBundle.PathForResource("database", "db");
+            return NSBundle.MainBundle.PathForResource("library", "db");
             //var databasePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "..", "Library", databaseName);
             //return databasePath;
         }
