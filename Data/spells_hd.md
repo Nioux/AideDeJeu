@@ -1,7 +1,7 @@
 ﻿
 <!--SpellsHD-->
 
-# <!--Name-->Sorts (H&D)<!--/Name-->
+# <!--Name-->Sorts<!--/Name-->
 
 - SRD: <!--AltName-->[Spells](spells_vo.md)<!--/AltName-->
 

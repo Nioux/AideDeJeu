@@ -1,7 +1,7 @@
 
 <!--MonstersHD-->
 
-# <!--Name-->Créatures (H&D)<!--/Name-->
+# <!--Name-->Créatures<!--/Name-->
 - SRD: <!--AltName-->[Monsters](monsters_vo.md)<!--/AltName-->
 
 
