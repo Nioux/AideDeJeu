@@ -126,7 +126,7 @@ namespace AideDeJeu.ViewModels
                 else
                 {
                     Items = AllItems;
-                    Children = await AllItems.GetChildrenAsync();
+                    //Children = await AllItems.GetChildrenAsync();
                 }
             }
             catch (OperationCanceledException ex)

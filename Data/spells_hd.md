@@ -215,6 +215,8 @@ Les objets prennent vie sur votre ordre. Choisissez jusqu'à dix objets non magi
 
 Par une action bonus, vous pouvez donner un ordre mental à toute créature créée via ce sort qui se trouve au maximum à 150 mètres de vous (si vous en contrôlez plusieurs, vous pouvez donner un ordre à l'une d'elles, certaines d'entre elles ou toutes à la fois, à condition de donner le même ordre à toutes). À vous de décider quelles actions la créature va entreprendre et à quel endroit elle se déplace au cours du tour suivant, mais vous pouvez aussi lui donner un ordre plus générique, comme de garder une salle ou un couloir. En l'absence d'ordre, la créature se contente de se défendre contre les créatures hostiles. Une fois qu'elle a reçu un ordre, elle continue à le suivre jusqu'à ce qu'elle ait accompli sa tâche.
 
+##### Profil technique des objets animés 
+
 |Taille|PV|CA|Attaque|For|Dex|
 |---|---|---|---|---|---|
 |Très petite|20|18|+8 pour toucher, 1d4+4 dégâts|4|18|
@@ -249,7 +251,7 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 
 ### Description
 
-Profil technique des objets animés Taille PV CA Attaque For Dex Très petite 20 18 +8 pour toucher, 1d4+4 dégâts 4 18 Petite 25 16 +6 pour toucher, 1d8+2 dégâts 6 14 Moyenne 40 13 +5 pour toucher, 2d6+1 dégâts 10 12 Grande 50 10 +6 pour toucher, 2d10+2 dégâts 14 10 Très grande 80 10 +8 pour toucher, 2d12+4 dégâts 18 6 Vous tentez de supprimer les émotions fortes au sein d'un groupe de gens. Chaque humanoïde qui se trouve dans une sphère de 6 mètres de rayon centrée autour d'un point de votre choix situé à portée doit faire un [jet de sauvegarde] de [Charisme]. Une créature peut décider de rater volontairement ce jet, sachant que lorsqu'une créature rate son [jet de sauvegarde], vous l'affectez avec l'un des deux effets suivants, selon votre choix.
+Vous tentez de supprimer les émotions fortes au sein d'un groupe de gens. Chaque humanoïde qui se trouve dans une sphère de 6 mètres de rayon centrée autour d'un point de votre choix situé à portée doit faire un [jet de sauvegarde] de [Charisme]. Une créature peut décider de rater volontairement ce jet, sachant que lorsqu'une créature rate son [jet de sauvegarde], vous l'affectez avec l'un des deux effets suivants, selon votre choix.
 
 * Vous débarrassez temporairement la cible de tout état [charmé] ou [terrorisé]. Une fois le sort terminé, l'état s'applique de nouveau, à moins que sa durée n'ait expiré.
 
