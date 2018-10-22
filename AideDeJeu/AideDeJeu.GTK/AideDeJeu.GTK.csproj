@@ -198,6 +198,7 @@
   <ItemGroup>
     <Content Include="..\..\Data\library.db">
       <Link>library.db</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <None Include="app.config" />
     <None Include="OpenTK.dll.config" />
