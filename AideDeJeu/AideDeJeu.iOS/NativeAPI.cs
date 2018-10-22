@@ -4,10 +4,10 @@ using System.IO;
 using Foundation;
 using System.Threading.Tasks;
 
-[assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.Droid.Version_Android))]
-namespace AideDeJeu.Droid
+[assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.iOS.Version_iOS))]
+namespace AideDeJeu.iOS
 {
-    public class Version_Android : INativeAPI
+    public class Version_iOS : INativeAPI
     {
         public string GetVersion()
         {
@@ -26,8 +26,6 @@ namespace AideDeJeu.Droid
         public async Task<string> GetDatabasePathAsync(string databaseName)
         {
             return NSBundle.MainBundle.PathForResource(databaseName, "db");
-            //var databasePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "..", "Library", databaseName);
-            //return databasePath;
         }
     }
 }
