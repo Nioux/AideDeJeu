@@ -25,21 +25,62 @@ namespace AideDeJeu.UWP
 
         public async Task<string> GetDatabasePathAsync(string databaseName)
         {
-            var documentsDirectoryPath = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
-            var path = Path.Combine(documentsDirectoryPath, $"{databaseName}.db");
-
-            if (!File.Exists(path))
+            if (await CheckDatabaseVersionAsync(databaseName))
             {
-                var assembly = typeof(Version_UWP).GetTypeInfo().Assembly;
-                using (var inStream = assembly.GetManifestResourceStream($"AideDeJeu.UWP.{databaseName}.db"))
+                await CopyOldToNewFileAsync(databaseName, "db");
+                await CopyOldToNewFileAsync(databaseName, "ver");
+            }
+            return GetNewFilePath(databaseName, "db");
+        }
+
+        public Stream GetOldFileStream(string fileName, string extension)
+        {
+            var assembly = typeof(Version_UWP).GetTypeInfo().Assembly;
+            return assembly.GetManifestResourceStream($"AideDeJeu.UWP.{fileName}.{extension}");
+        }
+        public string GetNewFilePath(string fileName, string extension)
+        {
+            var documentsDirectoryPath = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
+            return Path.Combine(documentsDirectoryPath, $"{fileName}.{extension}");
+        }
+        public async Task CopyOldToNewFileAsync(string fileName, string extension)
+        {
+            using (var inStream = GetOldFileStream(fileName, extension))
+            {
+                using (var outStream = new FileStream(GetNewFilePath(fileName, extension), FileMode.Create))
                 {
-                    using (var outStream = new FileStream(path, FileMode.Create))
-                    {
-                        await inStream.CopyToAsync(outStream);
-                    }
+                    await inStream.CopyToAsync(outStream);
                 }
             }
-            return path;
         }
+
+        public async Task<bool> CheckDatabaseVersionAsync(string databaseName)
+        {
+            var path = GetNewFilePath(databaseName, "ver");
+            if (!File.Exists(path))
+            {
+                return true;
+            }
+            int newVersion = 0;
+            int oldVersion = -1;
+            using (var newStream = GetOldFileStream(databaseName, "ver"))
+            {
+                using (var sr = new StreamReader(newStream))
+                {
+                    var str = await sr.ReadToEndAsync();
+                    int.TryParse(str, out newVersion);
+                }
+            }
+            using (var oldStream = new FileStream(path, FileMode.Open))
+            {
+                using (var sr = new StreamReader(oldStream))
+                {
+                    var str = await sr.ReadToEndAsync();
+                    int.TryParse(str, out oldVersion);
+                }
+            }
+            return newVersion > oldVersion;
+        }
+
     }
 }

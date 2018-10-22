@@ -112,6 +112,9 @@
     <EmbeddedResource Include="..\..\Data\library.db">
       <Link>library.db</Link>
     </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Data\library.ver">
+      <Link>library.ver</Link>
+    </EmbeddedResource>
     <None Include="AideDeJeu.UWP_StoreKey.pfx" />
     <None Include="AideDeJeu.UWP_TemporaryKey.pfx" />
     <Content Include="Assets\Fonts\LinLibertine_R.ttf" />
