@@ -94,21 +94,11 @@ Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de 
 
 Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
-
-
-<!--/Generic-->
-
-<!--Generic-->
-
-# <!--Name-->Duel<!--/Name-->
+## Duel
 
 Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux dégâts infligés avec cette arme.
 
-<!--/Generic-->
-
-<!--Generic-->
-
-# <!--Name-->Protection<!--/Name-->
+## Protection
 
 Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
 

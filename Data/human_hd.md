@@ -22,6 +22,17 @@ Il est difficile de faire des généralisations en ce qui concerne les humains. 
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et dans une langue supplémentaire de votre choix. Les humains apprennent généralement la langue des peuples qu'ils fréquentent, même s'il s'agit parfois d'obscurs dialectes. Ils aiment parsemer leur langue d'expressions empruntées à d'autres races : des jurons orcs, des expressions musicales elfes, des citations militaires naines, etc.
 
+<!--Generic-->
+
+## <!--Name-->Variante technique<!--/Name-->
+
+En lieu et place de l’augmentation de caractéristiques, vous pouvez opter pour l’une ou l’autre des options techniques qui suivent :
+
+* La valeur de trois de vos caractéristiques augmente de 1 ; choisissez un don.
+* La valeur de quatre de vos caractéristiques augmente de 1 ; choisissez deux compétences, outils ou langues, que vous maîtrisez désormais.
+
+<!--/Generic-->
+
 <!--/Generic-->
 
 [Force]: abilities_strength_hd.md
