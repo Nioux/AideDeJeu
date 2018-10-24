@@ -54,7 +54,7 @@ namespace AideDeJeu.ViewModels
             int position = markdown.IndexOf(searchText);
             int startPosition = Math.Max(0, position - 30);
             int endPosition = Math.Min(markdown.Length, position + searchText.Length + 30);
-            return markdown.Substring(startPosition, endPosition - startPosition - 1);
+            return $"\"{markdown.Substring(startPosition, endPosition - startPosition - 1).Replace("\n","")}\"";
         }
 
         public async Task<IEnumerable<SearchedItem>> DeepSearchAllItemsAsync(string searchText)
@@ -63,13 +63,13 @@ namespace AideDeJeu.ViewModels
             {
                 var primary = await context.Items.
                     Where(item => EF.Functions.Like(item.Name, $"%{searchText}%")).
-                    Select(item => new SearchedItem() { Item = item, Preview = item.Name }).
+                    Select(item => new SearchedItem() { Item = item, Preview = item.ParentName != null ? $"> {item.ParentName}" : "" }).
                     ToListAsync();
                 var secondary = await context.Items.
                     Where(item => EF.Functions.Like(item.Markdown, $"%{searchText}%")).
                     Select(item => new SearchedItem()
                     {
-                        Item = item, Preview = GetPreview(item.Markdown, searchText)
+                        Item = item, Preview = (item.ParentName != null ? $"> {item.ParentName} > " : "") + GetPreview(item.Markdown, searchText)
                     }).ToListAsync();
                 //var primary = await context.Items.
                 //    Where(item => item.Name.Contains(searchText)).

@@ -36,8 +36,8 @@
                     <DataTemplate>
                         <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
                             <StackLayout Padding="10" Orientation="Vertical">
-                                <Label Text="{Binding Preview}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="16" />
-                                <Label Text="{Binding Item.Name}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="12" />
+                                <Label Text="{Binding Item.Name}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="16" />
+                                <Label Text="{Binding Preview}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="12" />
                             </StackLayout>
                         </ViewCell>
                     </DataTemplate>

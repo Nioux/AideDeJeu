@@ -300,6 +300,10 @@ namespace AideDeJeuCmd
             var store = new StoreViewModel();
             await store.PreloadAllItemsAsync();
 
+            var index = store._AllItems.Where(it => it.Value.RootId == "index.md").FirstOrDefault();
+            index.Value.Id = index.Value.RootId;
+            index.Value.Name = "Bibliothèque";
+
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 await context.Database.EnsureDeletedAsync();
