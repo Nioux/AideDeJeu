@@ -1,7 +1,7 @@
 
 <!--Items-->
 
-> <!--ParentNameLink-->[Magicien](wizard_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Traditions arcaniques](wizard_hd.md#traditions-arcaniques)<!--/ParentNameLink-->
 
 ---
 

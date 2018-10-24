@@ -1,7 +1,7 @@
 
 <!--Items-->
 
-> <!--ParentNameLink-->[Roublard](rogue_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Archétypes de roublard](rogue_hd.md#archétypes-de-roublard)<!--/ParentNameLink-->
 
 ---
 

@@ -1,7 +1,7 @@
 
 <!--Items-->
 
-> <!--ParentNameLink-->[Guerrier](fighter_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Archétypes martiaux](fighter_hd.md#archétypes-martiaux)<!--/ParentNameLink-->
 
 ---
 

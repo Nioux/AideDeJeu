@@ -1,7 +1,7 @@
 
 <!--Items-->
 
-> <!--ParentNameLink-->[Druide](druid_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Cercles druidiques](druid_hd.md#cercles-druidiques)<!--/ParentNameLink-->
 
 ---
 

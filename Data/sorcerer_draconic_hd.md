@@ -1,7 +1,7 @@
 
 <!--Items-->
 
-> <!--ParentNameLink-->[Ensorceleur](sorcerer_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Origines magiques](sorcerer_hd.md#origines-magiques)<!--/ParentNameLink-->
 
 ---
 

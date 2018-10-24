@@ -1,7 +1,7 @@
 
 <!--Items-->
 
-> <!--ParentNameLink-->[Barbare](barbarian_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Voies primitives](barbarian_hd.md#voies-primitives)<!--/ParentNameLink-->
 
 ---
 

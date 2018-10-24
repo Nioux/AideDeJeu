@@ -1,7 +1,7 @@
 
 <!--Items-->
 
-> <!--ParentNameLink-->[Moine](monk_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Traditions monacales](monk_hd.md#traditions-monacales)<!--/ParentNameLink-->
 
 ---
 

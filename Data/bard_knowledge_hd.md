@@ -1,7 +1,7 @@
 
 <!--Items-->
 
-> <!--ParentNameLink-->[Barde](bard_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Collèges bardiques](bard_hd.md#collèges-bardiques)<!--/ParentNameLink-->
 
 ---
 

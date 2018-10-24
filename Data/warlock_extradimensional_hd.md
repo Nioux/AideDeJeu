@@ -1,7 +1,7 @@
 
 <!--Items-->
 
-> <!--ParentNameLink-->[Sorcier](warlock_hd.md)<!--/ParentNameLink-->
+> <!--ParentNameLink-->[Protecteurs d'outre-monde](warlock_hd.md#protecteurs-doutre-monde)<!--/ParentNameLink-->
 
 ---
 
