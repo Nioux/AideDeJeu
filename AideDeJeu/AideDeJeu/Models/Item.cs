@@ -106,6 +106,9 @@ namespace AideDeJeuLib
         [Indexed]
         public string RootId { get; set; }
         [DataMember]
+        [Indexed]
+        public string ParentId { get; set; }
+        [DataMember]
         public string Name { get; set; }
         [DataMember]
         public int NameLevel { get; set; }
@@ -138,5 +141,7 @@ namespace AideDeJeuLib
         public string Source { get; set; }
         [DataMember]
         public virtual string Markdown { get; set; }
+        [DataMember]
+        public string FullText { get; set; }
     }
 }
