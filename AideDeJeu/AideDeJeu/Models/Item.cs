@@ -105,8 +105,40 @@ namespace AideDeJeuLib
         [DataMember]
         [Indexed]
         public string RootId { get; set; }
+
+        [DataMember]
+        [Indexed]
+        public string ParentLink { get; set; }
+
         [DataMember]
         public string Name { get; set; }
+
+        [DataMember]
+        public string ParentName { get; set; }
+        [IgnoreDataMember]
+        [Ignore]
+        public string ParentNameLink
+        {
+            get
+            {
+                if (ParentName != null && ParentLink != null)
+                {
+                    return $"<!--ParentNameLink-->[{ParentName}]({ParentLink})<!--/ParentNameLink-->";
+                }
+                return null;
+            }
+            set
+            {
+                if (value != null)
+                {
+                    var regex = new Regex("\\[(?<name>.*?)\\]\\((?<link>.*?)\\)");
+                    var match = regex.Match(value);
+                    ParentName = match.Groups["name"].Value;
+                    ParentLink = match.Groups["link"].Value;
+                }
+            }
+        }
+
         [DataMember]
         public int NameLevel { get; set; }
         [DataMember]
@@ -138,5 +170,7 @@ namespace AideDeJeuLib
         public string Source { get; set; }
         [DataMember]
         public virtual string Markdown { get; set; }
+        [DataMember]
+        public string FullText { get; set; }
     }
 }

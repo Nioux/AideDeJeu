@@ -75,6 +75,9 @@ namespace AideDeJeu.ViewModels
                         else if (IsNewItem(block))
                         {
                             var subItem = ParseItem(source, ref enumerator, allItems);
+                            subItem.ParentLink = GetNewAnchorId(source, currentItem.Name, allItems);
+                            subItem.ParentName = currentItem.Name;
+                            subItem.Markdown = $"> {subItem.ParentNameLink}\n\n---\n\n{subItem.Markdown}";
 
                             var propertyName = subItem.GetType().Name;
 
