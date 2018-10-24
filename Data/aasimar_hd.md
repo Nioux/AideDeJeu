@@ -1,6 +1,10 @@
 
 <!--Generic-->
 
+> <!--ParentNameLink-->[Races](races_hd.md#races)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Aasimar<!--/Name-->
 
 - Source: <!--Source-->(MDR p59)<!--/Source-->
