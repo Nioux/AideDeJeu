@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Personnalité et Historique](personnality_background_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Langues<!--/Name-->
 
 - AltName: <!--AltName-->Languages (SRD p59)<!--/AltName-->

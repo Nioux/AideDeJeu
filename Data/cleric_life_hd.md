@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Clerc](cleric_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Domaine de la Vie<!--/Name-->
 
 - AltName: <!--AltName-->Life Domain (SRD p17)<!--/AltName-->

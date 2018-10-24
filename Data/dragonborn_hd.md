@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Sangdragon<!--/Name-->
 
 - AltName: <!--AltName-->Dragonborn (SRD p5)<!--/AltName-->

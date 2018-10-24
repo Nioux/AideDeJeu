@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Cadre de campagne](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Objets magiques<!--/Name-->
 
 - AltName: <!--AltName-->Magic Items (SRD p206)<!--/AltName-->

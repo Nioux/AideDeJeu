@@ -1,6 +1,10 @@
 
 <!--MonstersVO-->
 
+> <!--ParentNameLink-->[SRD](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Monsters, NPC and Animals<!--/Name-->
 - CEO: <!--AltName-->[Créatures](monsters_hd.md)<!--/AltName-->
 

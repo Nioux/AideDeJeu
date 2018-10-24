@@ -1,6 +1,10 @@
 
 <!--Generic-->
 
+> <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Demi-ogre<!--/Name-->
 
 - Source: <!--Source-->(MDR p62)<!--/Source-->

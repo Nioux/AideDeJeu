@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Guerrier](fighter_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Champion<!--/Name-->
 
 - AltName: <!--AltName-->Champion (SRD p25)<!--/AltName-->

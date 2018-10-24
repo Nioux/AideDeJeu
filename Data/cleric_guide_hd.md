@@ -1,4 +1,9 @@
+
 <!--Items-->
+
+> <!--ParentNameLink-->[Clerc](cleric_hd.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Guide spirituel<!--/Name-->
 

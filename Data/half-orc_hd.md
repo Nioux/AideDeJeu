@@ -1,6 +1,10 @@
 
 <!--Generic-->
 
+> <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Demi-orc<!--/Name-->
 
 - AltName: <!--AltName-->Half-Orc (SRD p7)<!--/AltName-->

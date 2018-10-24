@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Cadre de campagne](index.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Jouer dans un multivers<!--/Name-->
 
 - AltName: <!--AltName-->Planes <!--/AltName-->

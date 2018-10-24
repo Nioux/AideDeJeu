@@ -1,4 +1,9 @@
+
 <!--Items-->
+
+> <!--ParentNameLink-->[Roublard](rogue_hd.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Espion<!--/Name-->
 

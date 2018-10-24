@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Partir à l'aventure<!--/Name-->
 
 <!--LinkItem-->

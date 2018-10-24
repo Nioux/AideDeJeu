@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Créatures et oppositions](index.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Les objets<!--/Name-->
 
 - AltName: <!--AltName-->Objects <!--/AltName-->

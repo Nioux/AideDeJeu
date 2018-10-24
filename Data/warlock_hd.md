@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Sorcier<!--/Name-->
 
 - AltName: <!--AltName-->Warlock (SRD p46)<!--/AltName-->

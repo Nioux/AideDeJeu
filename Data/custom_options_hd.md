@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Options de personnalisation<!--/Name-->
 
 <!--LinkItem-->

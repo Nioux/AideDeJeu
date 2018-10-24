@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Magicien](wizard_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->École d'évocation<!--/Name-->
  
 - AltName: <!--AltName-->School of Evocation (SRD p54)<!--/AltName-->

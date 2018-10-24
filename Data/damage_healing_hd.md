@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Gérer la santé](manage_health_hd.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Dégâts et guérison <!--/Name-->
 
 - AltName: <!--AltName-->Damage and Healing<!--/AltName-->

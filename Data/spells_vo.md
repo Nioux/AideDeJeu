@@ -1,6 +1,10 @@
 
 <!--SpellsVO-->
 
+> <!--ParentNameLink-->[SRD](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Spells (SRD p)<!--/Name-->
 
 - MDR: <!--AltName-->[Sorts](spells_hd.md)<!--/AltName-->

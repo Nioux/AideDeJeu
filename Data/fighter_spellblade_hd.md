@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Guerrier](fighter_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Sorcelame<!--/Name-->
 
 - Source: <!--Source-->(MDR p163)<!--/Source-->

@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Halfelin<!--/Name-->
 
 - AltName: <!--AltName-->Halfling (SRD p4)<!--/AltName-->

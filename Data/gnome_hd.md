@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Gnome<!--/Name-->
 
 - AltName: <!--AltName-->Gnome (SRD p6)<!--/AltName-->

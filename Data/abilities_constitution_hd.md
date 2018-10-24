@@ -1,4 +1,9 @@
+
 <!--Items-->
+
+> <!--ParentNameLink-->[Caractéristiques](abilities_hd.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Constitution<!--/Name-->
 

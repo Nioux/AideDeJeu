@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[SRD](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Conditions<!--/Name-->
 
 - AltName: <!--AltName-->[États spéciaux](conditions_hd.md#États-spéciaux)<!--/AltName-->

@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Créatures et oppositions](index.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->La folie<!--/Name-->
 
 - AltName: <!--AltName-->Madness<!--/AltName-->

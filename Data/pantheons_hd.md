@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Panthéons historiques et fantastiques<!--/Name-->
 
 - AltName: <!--AltName-->Pantheons<!--/AltName-->

@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Roublard<!--/Name-->
 
 - AltName: <!--AltName-->Rogue (SRD p39)<!--/AltName-->

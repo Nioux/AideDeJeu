@@ -1,4 +1,9 @@
+
 <!--Equipments-->
+
+> <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Équipement<!--/Name-->
 

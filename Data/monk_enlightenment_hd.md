@@ -1,4 +1,9 @@
+
 <!--Items-->
+
+> <!--ParentNameLink-->[Moine](monk_hd.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Voie de l'illumination<!--/Name-->
 

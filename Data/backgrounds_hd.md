@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Personnalité et Historique](personnality_background_hd.md#)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Historique<!--/Name-->
 
 - AltName: <!--AltName-->Backgrounds (SRD p60)<!--/AltName-->

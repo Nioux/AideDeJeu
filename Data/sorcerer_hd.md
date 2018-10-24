@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Ensorceleur<!--/Name-->
 
 - AltName: <!--AltName-->Sorcerer (SRD p41)<!--/AltName-->

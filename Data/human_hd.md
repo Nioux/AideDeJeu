@@ -1,6 +1,10 @@
 
 <!--Generic-->
 
+> <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Humain<!--/Name-->
 
 - AltName: <!--AltName-->Human (SRD p5)<!--/AltName-->

@@ -1,4 +1,9 @@
+
 <!--Items-->
+
+> <!--ParentNameLink-->[Barbare](barbarian_hd.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Voie de l'acier<!--/Name-->
 

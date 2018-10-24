@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Rôdeur<!--/Name-->
 
 - AltName: <!--AltName-->Ranger (SRD p35)<!--/AltName-->

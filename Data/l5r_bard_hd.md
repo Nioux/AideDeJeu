@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Les Cinq Royaumes](l5r_index_hd.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Barde des cinq royaumes
 
 - Source: <!--Source-->(L5R p55)<!--/Source-->

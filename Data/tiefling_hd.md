@@ -1,6 +1,10 @@
 
 <!--Generic-->
 
+> <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Tieffelin<!--/Name-->
 
 - AltName: <!--AltName-->Tiefling (SRD p7)<!--/AltName-->

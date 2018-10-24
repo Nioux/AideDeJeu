@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Brigand<!--/Name-->
 
 Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en marge de la société. Par choix ou par contrainte, vous avez préféré vous tenir loin des villes et des routes les plus fréquentées, préférant les chemins de terre et les pistes sinueuses aux rues étroites des cités. Une large part de votre existence a été consacrée à assurer votre survie et celle de vos proches, qu'il s'agisse de votre famille ou de compagnons de brigandage. Et lorsque la nature n'y suffisait pas, vous n'avez jamais rechigné à vous en prendre aux voyageurs ou aux villageois afin d'assurer votre subsistance.

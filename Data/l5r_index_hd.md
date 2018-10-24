@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Les Cinq Royaumes](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Les Cinq Royaumes : Les règles spécifiques<!--/Name-->
 
 - Source: <!--Source-->(L5R p42)<!--/Source-->

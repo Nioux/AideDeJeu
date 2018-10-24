@@ -1,4 +1,6 @@
 
+<!--Generic-->
+
 # Manuel des règles
 
 <!-- ## [Création du personnage] -->
@@ -72,3 +74,5 @@
 ## [Monsters, Animals and NPC](monsters_vo.md)
 
 <!--  <br># [Sandbox](sandbox.md) -->
+
+<!--/Generic-->

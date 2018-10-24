@@ -1,4 +1,9 @@
+
 <!--Items-->
+
+> <!--ParentNameLink-->[Sorcier](warlock_hd.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Le fiélon<!--/Name-->
 

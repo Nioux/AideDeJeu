@@ -1,6 +1,10 @@
 ﻿
 <!--SpellsHD-->
 
+> <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Sorts<!--/Name-->
 
 - SRD: <!--AltName-->[Spells](spells_vo.md)<!--/AltName-->

@@ -1,6 +1,10 @@
 
 <!--Generic-->
 
+> <!--ParentNameLink-->[Personnalité et Historique](personnality_background_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Inspiration<!--/Name-->
 
 - AltName: <!--AltName-->Inspiration (SRD p59)<!--/AltName-->

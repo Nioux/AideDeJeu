@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Moine<!--/Name-->
 
 - AltName: <!--AltName-->Monk (SRD p26)<!--/AltName-->

@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Créatures et oppositions](index.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Les maladies<!--/Name-->
 
 - AltName: <!--AltName-->Diseases<!--/AltName-->

@@ -313,10 +313,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="..\..\Data\creatures_hd.md" Link="Data\creatures_hd.md" />
-  </ItemGroup>
-
-  <ItemGroup>
     <EmbeddedResource Include="..\..\Data\damage_healing_hd.md" Link="Data\damage_healing_hd.md" />
   </ItemGroup>
 
@@ -338,10 +334,6 @@
 
   <ItemGroup>
     <EmbeddedResource Include="..\..\Data\l5r_rituals_hd.md" Link="Data\l5r_rituals_hd.md" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <EmbeddedResource Include="..\..\Data\sandbox.md" Link="Data\sandbox.md" />
   </ItemGroup>
 
   <ItemGroup>

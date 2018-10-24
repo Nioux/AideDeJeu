@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Lancer des sorts<!--/Name-->
 
 - AltName: <!--AltName-->Spellcasting (SRD p100)<!--/AltName-->

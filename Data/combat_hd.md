@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Combattre<!--/Name-->
 
 - AltName: <!--AltName-->The Order of Combat (SRD p90)<!--/AltName-->

@@ -1,6 +1,10 @@
 
 <!--Generic-->
 
+> <!--ParentNameLink-->[Cadre de campagne](index.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Les objets magiques<!--/Name-->
 
 - AltName: <!--AltName-->Magic Items A-Z (SRD p207)<!--/AltName-->

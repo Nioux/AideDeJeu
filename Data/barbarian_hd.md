@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Barbare<!--/Name-->
 
 - AltName: <!--AltName-->Barbarian (SRD p8)<!--/AltName-->

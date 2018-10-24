@@ -1,4 +1,9 @@
+
 <!--Items-->
+
+> <!--ParentNameLink-->[Paladin](paladin_hd.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Serment de rédemption<!--/Name-->
 

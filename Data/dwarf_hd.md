@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Nain<!--/Name-->
 
 - AltName: <!--AltName-->Dwarf (SRD p3)<!--/AltName-->

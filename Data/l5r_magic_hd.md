@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Les Cinq Royaumes](l5r_index_hd.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Des objets magiques rares et merveilleux<!--/Name-->
 
 - Source: <!--Source-->(L5R p48)<!--/Source-->

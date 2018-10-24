@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Gérer la santé](manage_health_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Repos<!--/Name-->
 
 - AltName: <!--AltName-->Resting (SRD p87)<!--/AltName-->

@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Guerrier<!--/Name-->
 
 - AltName: <!--AltName-->Fighter (SRD p24)<!--/AltName-->

@@ -1,6 +1,10 @@
 
 <!--Generic-->
 
+> <!--ParentNameLink-->[Les Cinq Royaumes](l5r_index_hd.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Aller encore plus loin ?<!--/Name-->
 
 - Source: <!--Source-->(L5R p48)<!--/Source-->

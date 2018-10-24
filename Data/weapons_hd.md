@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Équipement](equipment_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Armes<!--/Name-->
 
 - AltName: <!--AltName-->Weapons (SRD p64)<!--/AltName-->

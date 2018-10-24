@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Équipement](equipment_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Équipement<!--/Name-->
 
 <!--Generic-->

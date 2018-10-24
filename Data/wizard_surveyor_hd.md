@@ -1,4 +1,9 @@
+
 <!--Items-->
+
+> <!--ParentNameLink-->[Magicien](wizard_hd.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Arpenteur<!--/Name-->
 

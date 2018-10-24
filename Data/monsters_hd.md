@@ -1,6 +1,10 @@
 
 <!--MonstersHD-->
 
+> <!--ParentNameLink-->[Créatures et oppositions](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Créatures<!--/Name-->
 - SRD: <!--AltName-->[Monsters](monsters_vo.md)<!--/AltName-->
 

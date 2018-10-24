@@ -1,6 +1,10 @@
 
 <!--Generic-->
 
+> <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Homme serpent<!--/Name-->
 
 - Source: <!--Source-->(MDR p66)<!--/Source-->

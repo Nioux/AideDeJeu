@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Villageois<!--/Name-->
 
 Vous êtes issu du peuple. Votre famille n'a jamais rien eu d'extraordinaire. Vous avez appris à travailler la terre dès votre plus jeune âge, en même temps que le respect du travail et de l'effort. Vous étiez de ceux que l'on ne remarque jamais, mais qui forment la majeure partie du peuple. Vous avez grandi dans un de ces petits villages ou hameaux, et connaissez la valeur de la communauté et de la solidarité. Vous savez que c'est en s'entraidant que l'on vient à bout des épreuves les plus difficiles, qu'il s'agisse de lutter contre le froid, la famine, les loups, ou même votre seigneur…

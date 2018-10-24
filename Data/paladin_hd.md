@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Paladin<!--/Name-->
 
 - AltName: <!--AltName-->Paladin (SRD p30)<!--/AltName-->

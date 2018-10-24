@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Les Cinq Royaumes](l5r_index_hd.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Humain des cinq royaumes<!--/Name-->
 
 - Source: <!--Source-->(L5R p49)<!--/Source-->

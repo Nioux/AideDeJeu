@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Guerrier](fighter_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Défenseur<!--/Name-->
 
 - Source: <!--Source-->(MDR p163)<!--/Source-->

@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Gérer la santé](manage_health_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->États spéciaux<!--/Name-->
 
 - AltName: <!--AltName-->[Conditions](conditions_vo.md#conditions)<!--/AltName-->

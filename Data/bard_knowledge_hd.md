@@ -1,4 +1,9 @@
+
 <!--Items-->
+
+> <!--ParentNameLink-->[Barde](bard_hd.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Collège du savoir<!--/Name-->
 

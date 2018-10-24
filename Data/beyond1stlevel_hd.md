@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Manuel des joueurs](index.md)<!--/ParentNameLink-->
+
+---
+
 - AltName: <!--AltName-->Beyond 1st Level (SRD p56)<!--/AltName-->
 - Source: <!--Source-->(MDR p32)<!--/Source-->
 

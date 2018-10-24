@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Options de personnalisation](custom_options_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Dons<!--/Name-->
 
 - AltName: <!--AltName-->Feats (SRD p75)<!--/AltName-->

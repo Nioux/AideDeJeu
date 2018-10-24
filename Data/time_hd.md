@@ -1,6 +1,10 @@
 
 <!--Generic-->
 
+> <!--ParentNameLink-->[Partir à l'aventure](adventure_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Écoulement du temps<!--/Name-->
 
 - AltName: <!--AltName-->Time (SRD p84)<!--/AltName-->

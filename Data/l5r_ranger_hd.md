@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Les Cinq Royaumes](l5r_index_hd.md)<!--/ParentNameLink-->
+
+---
+
 ## <!--Name-->Rôdeur des cinq Royaumes<!--/Name-->
 
 - Source: <!--Source-->(L5R p52)<!--/Source-->

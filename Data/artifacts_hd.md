@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Cadre de campagne](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Artefacts<!--/Name-->
 
 - AltName: <!--AltName-->Artifacts (SRD p252)<!--/AltName-->

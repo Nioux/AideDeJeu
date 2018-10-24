@@ -1,4 +1,9 @@
+
 <!--Items-->
+
+> <!--ParentNameLink-->[Ensorceleur](sorcerer_hd.md)<!--/ParentNameLink-->
+
+---
 
 # <!--Name-->Lignée draconique<!--/Name-->
 

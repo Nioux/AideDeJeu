@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Utiliser les caractéristiques<!--/Name-->
 
 - AltName: <!--AltName-->Using Ability Scores (SRD p76)<!--/AltName-->

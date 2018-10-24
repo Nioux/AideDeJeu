@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Personnalité et Historique](personnality_background_hd.md#)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Alignement<!--/Name-->
 
 - AltName: <!--AltName-->Alignment (SRD p58)<!--/AltName-->

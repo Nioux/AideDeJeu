@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Dévot<!--/Name-->
 
 - AltName: <!--AltName-->Acolyte (SRD p60)<!--/AltName-->

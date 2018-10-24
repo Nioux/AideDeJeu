@@ -1,6 +1,10 @@
 
 <!--Items-->
 
+> <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
+
+---
+
 # <!--Name-->Militaire<!--/Name-->
 
 Conscrit, soldat de métier ou milicien, vous avez passé une large part de votre ancienne vie au sein d'une organisation hiérarchique disciplinée vouée aux métiers des armes. Rythmée par les corvées, les exercices et les combats, votre existence a été exposée au danger à maintes reprises, et vous devez votre salut à vos aptitudes au maniement des armes autant qu'à certains de vos compagnons d'armes, dont plusieurs sont tombés au combat.
