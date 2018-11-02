@@ -184,10 +184,12 @@ namespace AideDeJeu.ViewModels
             }
             else if (result.Item2 == Navigator.PopupResultEnum.Save)
             {
-                var items = await GetBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]);
-                await SaveBookmarksAsync(BookmarkCollectionNames[BookmarkCollectionIndex], null);
-                BookmarkCollectionNames[BookmarkCollectionIndex] = result.Item1;
-                await SaveBookmarksAsync(BookmarkCollectionNames[BookmarkCollectionIndex], items);
+                var index = BookmarkCollectionIndex;
+                var items = await GetBookmarkCollectionAsync(BookmarkCollectionNames[index]);
+                await SaveBookmarksAsync(BookmarkCollectionNames[index], null);
+                BookmarkCollectionNames[index] = result.Item1;
+                await SaveBookmarksAsync(BookmarkCollectionNames[index], items);
+                BookmarkCollectionIndex = index;
             }
         }
 
