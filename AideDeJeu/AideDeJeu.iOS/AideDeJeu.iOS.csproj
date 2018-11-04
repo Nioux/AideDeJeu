@@ -130,7 +130,7 @@
       <Version>1.5.231</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
-      <Version>3.3.0.912540</Version>
+      <Version>3.3.0.967583</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
@@ -218,30 +218,27 @@
     <ImageAsset Include="Media.xcassets\icon.imageset\black-book.pdf">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\spell_book.imageset\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Media.xcassets\dragon_head.imageset\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
     <ImageAsset Include="Media.xcassets\wooden_sign.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\dragon_head.imageset\dragon_head.png">
+    <ImageAsset Include="Media.xcassets\stars_stack.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\spell_book.imageset\spell_book.png">
+    <ImageAsset Include="Media.xcassets\crystal_ball.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\wooden_sign.png">
-      <Visible>false</Visible>
-    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\spell_book.imageset\Contents.json" />
+    <ImageAsset Include="Media.xcassets\stars_stack.imageset\stars-stack.png" />
+    <ImageAsset Include="Media.xcassets\spell_book.imageset\spell-book.png" />
+    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\wooden-sign.png" />
+    <ImageAsset Include="Media.xcassets\crystal_ball.imageset\crystal-ball-ios.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Media.xcassets\dragon_head.imageset\" />
     <Folder Include="Media.xcassets\icon.imageset\" />
-    <Folder Include="Media.xcassets\spell_book.imageset\" />
     <Folder Include="Media.xcassets\wooden_sign.imageset\" />
+    <Folder Include="Media.xcassets\stars_stack.imageset\" />
+    <Folder Include="Media.xcassets\crystal_ball.imageset\" />
+    <Folder Include="Media.xcassets\spell_book.imageset\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
