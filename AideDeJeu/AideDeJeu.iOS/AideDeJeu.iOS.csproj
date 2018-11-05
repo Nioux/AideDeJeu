@@ -227,11 +227,21 @@
     <ImageAsset Include="Media.xcassets\crystal_ball.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\spell_book.imageset\Contents.json" />
-    <ImageAsset Include="Media.xcassets\stars_stack.imageset\stars-stack.png" />
-    <ImageAsset Include="Media.xcassets\spell_book.imageset\spell-book.png" />
-    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\wooden-sign.png" />
-    <ImageAsset Include="Media.xcassets\crystal_ball.imageset\crystal-ball-ios.png" />
+    <ImageAsset Include="Media.xcassets\spell_book.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\stars_stack.imageset\stars-stack.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\spell_book.imageset\spell-book.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\wooden-sign.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\crystal_ball.imageset\crystal-ball-ios.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Media.xcassets\icon.imageset\" />
