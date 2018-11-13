@@ -29,6 +29,12 @@ Créature étrange et à sang froid, vous possédez les capacités suivantes.
 
 **Hypnose.** Comme tous les vôtres, vous avez appris à infuser votre regard d'une étrange lueur. Vous pouvez utiliser une action bonus afin de tenter d'hypnotiser une créature se trouvant à 1,50 mètre ou moins de vous, et pouvant vous regarder dans les yeux. Vous lancez ainsi le sort charme-personne comme un sort de niveau 1. Vous devez terminer un repos long avant de pouvoir utiliser de nouveau cette capacité. Votre caractéristique d'incantation pour lancer ce sort est le [Charisme].
 
+**Regard dérangeant.** Votre corps, votre visage et vos yeux ont quelque chose de clairement froid et étrange, effrayant pour les uns, fascinant pour les autres. Vous maîtrisez, au choix, la compétence Intimidation ou la compétence Persuasion.
+
+**Sang froid.** Votre sang froid ne vous apporte pas que des bénéfces. Vous êtes vulnérable aux dégâts de froid.
+
+**Langues.** Vous pouvez lire, écrire et parler le commun. Vous parlez le Sseslish, le dialecte homme serpent qui n’a pas de forme écrite.
+
 <!--/Generic-->
 
 [Force]: abilities_strength_hd.md

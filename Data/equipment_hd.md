@@ -124,7 +124,7 @@ Cette armure se compose de plaques de métal qui couvrent la majorité du haut d
 - **Discrétion** <!--Discretion-->Désavantage<!--/Discretion-->
 - **Poids** <!--Weight-->20 kg<!--/Weight-->
 
-Il s'agit d'une armure de cuir sur laquelle sont cousus de lourds anneaux. Ces anneaux permettent de renforcer l'armure et d'oﬀrir une protection contre les coups d'épée et de hache. Une broigne est de qualité inférieure à une cotte de mailles et est généralement portée par ceux qui n'ont pas les moyens de s'oﬀrir une meilleure armure.
+Il s'agit d'une armure de cuir sur laquelle sont cousus de lourds anneaux. Ces anneaux permettent de renforcer l'armure et d'offrir une protection contre les coups d'épée et de hache. Une broigne est de qualité inférieure à une cotte de mailles et est généralement portée par ceux qui n'ont pas les moyens de s'offrir une meilleure armure.
 
 <!--/Equipment-->
 
