@@ -45,7 +45,7 @@ Cet élément vous donne un avantage à tous les tests de [Charisme (Intimidatio
 
 Vous pouvez réaliser une attaque de griffes ou de morsure au lieu d'utiliser une arme. Vous infligez 1d6 dégâts plus tous les modificateurs habituels, et l'attaque est considérée comme magique pour ce qui concerne les résistances.
 
-À partir du niveau 6, en dépensant un point de lien spirituel, vous pouvez utiliser un sort de votre choix parmi : apaisement des animaux, baies nourricières, communication avec les animaux, druidisme, grande foulée, localiser des animaux ou des plantes, passage sans trace.
+À partir du niveau 6, en dépensant un point de lien spirituel, vous pouvez utiliser un sort de votre choix parmi : [amitié avec les animaux], [baies nourricières], [communication avec les animaux], [druidisme], [grande foulée], [localiser des animaux ou des plantes], [passage sans trace].
 
 <!--/Generic-->
 
@@ -102,6 +102,14 @@ Désormais, lorsque vous terminez un repos court, vous récupérez un point de l
 [Supercherie]: abilities_charisma_hd.md#supercherie
 [Survie]: abilities_wisdom_hd.md#survie
 [vision dans le noir]: environment_hd.md#vision-dans-le-noir
+
+[amitié avec les animaux]: spells_hd.md#amitié-avec-les-animaux
+[baies nourricières]: spells_hd.md#baies-nourricières
+[communication avec les animaux]: spells_hd.md#communication-avec-les-animaux
+[druidisme]: spells_hd.md#druidisme
+[grande foulée]: spells_hd.md#grande-foulée
+[localiser des animaux ou des plantes]: spells_hd.md#localiser-des-animaux-ou-des-plantes
+[passage sans trace]: spells_hd.md#passage-sans-trace
 
 [Charisme (Intimidation)]: abilities_charisma_hd.md#intimidation
 [Charisme (Persuasion)]: abilities_charisma_hd.md#persuasion
