@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
 	<LangVersion>latest</LangVersion>
+	<ReleaseVersion>1.32</ReleaseVersion>
   </PropertyGroup>
 
   <ItemGroup>
