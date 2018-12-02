@@ -99,26 +99,25 @@ namespace AideDeJeu.ViewModels
             if (item == null)
                 return;
 
-            //if (item is Items)
-            //{
             var items = item as Item;
-                var filterViewModel = items.GetNewFilterViewModel();
-                var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
-                itemsViewModel.LoadItemsCommand.Execute(null);
-                if (filterViewModel == null)
-                {
-                    await GotoItemsPageAsync(itemsViewModel);
-                }
-                else
-                {
-                    await GotoFilteredItemsPageAsync(itemsViewModel);
-                }
-            //}
-            //else
-            //{ 
-            //    var vm = new ItemDetailViewModel(item);
-            //    await Navigation.PushAsync(new ItemDetailPage(vm));
-            //}
+            var filterViewModel = items.GetNewFilterViewModel();
+            var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
+            itemsViewModel.LoadItemsCommand.Execute(null);
+
+            SwitchToMainTab();
+
+            if (filterViewModel == null)
+            {
+                await GotoItemsPageAsync(itemsViewModel);
+            }
+            else
+            {
+                await GotoFilteredItemsPageAsync(itemsViewModel);
+            }
+        }
+
+        public void SwitchToMainTab()
+        {
             var tabbedPage = App.Current.MainPage as MainTabbedPage;
             tabbedPage.SelectedItem = null;
             tabbedPage.SelectedItem = tabbedPage.MainNavigationPage;
@@ -165,38 +164,29 @@ namespace AideDeJeu.ViewModels
                 Main.IsLoading = false;
                 if (item != null)
                 {
-                    //if (item is Items)
-                    //{
                     var items = item; // as Items;
-                        var filterViewModel = items.GetNewFilterViewModel();
-                        var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
-                        itemsViewModel.LoadItemsCommand.Execute(null);
-                        if(!string.IsNullOrEmpty(with))
+                    var filterViewModel = items.GetNewFilterViewModel();
+                    var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
+                    itemsViewModel.LoadItemsCommand.Execute(null);
+                    if(!string.IsNullOrEmpty(with))
+                    {
+                        var swith = with.Split('_');
+                        for (int i = 0; i < swith.Length / 2; i++)
                         {
-                            var swith = with.Split('_');
-                            for (int i = 0; i < swith.Length / 2; i++)
-                            {
-                                var key = swith[i * 2 + 0];
-                                var val = swith[i * 2 + 1];
-                                filterViewModel.FilterWith(key, val);
-                            }
+                            var key = swith[i * 2 + 0];
+                            var val = swith[i * 2 + 1];
+                            filterViewModel.FilterWith(key, val);
                         }
-                        if (filterViewModel == null)
-                        {
-                            await GotoItemsPageAsync(itemsViewModel);
-                        }
-                        else
-                        {
-                            await GotoFilteredItemsPageAsync(itemsViewModel);
-                        }
-                    //}
-                    //else
-                    //{
-                    //    await GotoItemDetailPageAsync(item);
-                    //}
-                    var tabbedPage = App.Current.MainPage as MainTabbedPage;
-                    tabbedPage.SelectedItem = null;
-                    tabbedPage.SelectedItem = tabbedPage.MainNavigationPage;
+                    }
+                    SwitchToMainTab();
+                    if (filterViewModel == null)
+                    {
+                        await GotoItemsPageAsync(itemsViewModel);
+                    }
+                    else
+                    {
+                        await GotoFilteredItemsPageAsync(itemsViewModel);
+                    }
 
                 }
                 else
