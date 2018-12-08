@@ -219,36 +219,81 @@
     <ImageAsset Include="Media.xcassets\icon.imageset\black-book.pdf">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Media.xcassets\stars_stack.imageset\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
+	
     <ImageAsset Include="Media.xcassets\crystal_ball.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\funnel.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\plain_arrow_down.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\plain_arrow_up.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\round_star.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\settings_knobs.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Media.xcassets\spell_book.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\stars_stack.imageset\stars-stack.png">
+    <ImageAsset Include="Media.xcassets\stars_stack.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\spell_book.imageset\spell-book.png">
+    <ImageAsset Include="Media.xcassets\trash_can.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\wooden-sign.png">
+    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\crystal_ball.imageset\crystal-ball-ios.png">
+	
+    <ImageAsset Include="Media.xcassets\crystal_ball.imageset\crystal_ball.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Media.xcassets\funnel.imageset\funnel.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\plain_arrow_down.imageset\plain_arrow_down.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\plain_arrow_up.imageset\plain_arrow_up.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\round_star.imageset\round_star.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\settings_knobs.imageset\settings_knobs.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\spell_book.imageset\spell_book.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\stars_stack.imageset\stars_stack.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\trash_can.imageset\trash_can.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\wooden_sign.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+	
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Media.xcassets\crystal_ball.imageset\" />
     <Folder Include="Media.xcassets\icon.imageset\" />
+    <Folder Include="Media.xcassets\crystal_ball.imageset\" />
+    <Folder Include="Media.xcassets\funnel.imageset\" />
+    <Folder Include="Media.xcassets\plain_arrow_down.imageset\" />
+    <Folder Include="Media.xcassets\plain_arrow_up.imageset\" />
+    <Folder Include="Media.xcassets\round_star.imageset\" />
+    <Folder Include="Media.xcassets\settings_knobs.imageset\" />
     <Folder Include="Media.xcassets\spell_book.imageset\" />
     <Folder Include="Media.xcassets\stars_stack.imageset\" />
+    <Folder Include="Media.xcassets\trash_can.imageset\" />
     <Folder Include="Media.xcassets\wooden_sign.imageset\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
