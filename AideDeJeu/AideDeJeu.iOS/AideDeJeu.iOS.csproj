@@ -216,7 +216,7 @@
     <ImageAsset Include="Media.xcassets\icon.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\icon.imageset\black-book.pdf">
+    <ImageAsset Include="Media.xcassets\icon.imageset\battle_axe.pdf">
       <Visible>false</Visible>
     </ImageAsset>
 	
