@@ -418,9 +418,16 @@ namespace AideDeJeu.ViewModels
             {
                 id += $"#{anchor}";
             }
-            using (var context = await GetLibraryContextAsync())
+            try
             {
-                return await context.Items.Where(item => item.Id == id || item.RootId == id).FirstOrDefaultAsync();
+                using (var context = await GetLibraryContextAsync())
+                {
+                    return await context.Items.Where(item => item.Id == id || item.RootId == id).FirstOrDefaultAsync();
+                }
+            }
+            catch
+            {
+                return null;
             }
         }
 

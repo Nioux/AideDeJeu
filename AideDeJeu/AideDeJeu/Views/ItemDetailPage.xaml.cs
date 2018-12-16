@@ -62,9 +62,15 @@ namespace AideDeJeu.Views
         async Task InitDBEngineAsync()
         {
             await Task.Delay(1000).ConfigureAwait(false);
-            using (var context = await StoreViewModel.GetLibraryContextAsync().ConfigureAwait(false))
+            try
             {
-                var item = context.Items.FirstOrDefault();
+                using (var context = await StoreViewModel.GetLibraryContextAsync().ConfigureAwait(false))
+                {
+                    var item = context.Items.FirstOrDefault();
+                }
+            }
+            catch
+            {
             }
         }
 

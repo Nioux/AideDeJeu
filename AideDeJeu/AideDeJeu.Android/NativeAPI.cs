@@ -29,10 +29,17 @@ namespace AideDeJeu.Droid
 
         public async Task<string> GetDatabasePathAsync(string databaseName)
         {
-            if (await CheckDatabaseVersionAsync(databaseName))
+            try
             {
-                await CopyOldToNewFileAsync(databaseName, "db");
-                await CopyOldToNewFileAsync(databaseName, "ver");
+                if (await CheckDatabaseVersionAsync(databaseName))
+                {
+                    await CopyOldToNewFileAsync(databaseName, "db");
+                    await CopyOldToNewFileAsync(databaseName, "ver");
+                }
+            }
+            catch
+            {
+
             }
             return GetNewFilePath(databaseName, "db");
         }
