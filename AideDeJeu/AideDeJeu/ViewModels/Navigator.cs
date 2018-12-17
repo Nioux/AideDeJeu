@@ -191,7 +191,7 @@ namespace AideDeJeu.ViewModels
                 }
                 else
                 {
-                    await App.Current.MainPage.DisplayAlert("Lien invalide", s, "OK");
+                    //await App.Current.MainPage.DisplayAlert("Lien invalide", s, "OK");
                 }
             }
         }
