@@ -11,6 +11,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Threading;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
@@ -405,6 +406,8 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public static SemaphoreSlim SemaphoreLibrary = new SemaphoreSlim(1, 1);
+
         public static async Task<AideDeJeuContext> GetLibraryContextAsync()
         {
             var dbPath = await DependencyService.Get<INativeAPI>().GetDatabasePathAsync("library");
@@ -420,6 +423,7 @@ namespace AideDeJeu.ViewModels
             }
             try
             {
+                await SemaphoreLibrary.WaitAsync();
                 using (var context = await GetLibraryContextAsync())
                 {
                     return await context.Items.Where(item => item.Id == id || item.RootId == id).FirstOrDefaultAsync();
@@ -428,6 +432,10 @@ namespace AideDeJeu.ViewModels
             catch
             {
                 return null;
+            }
+            finally
+            {
+                SemaphoreLibrary.Release();
             }
         }
 

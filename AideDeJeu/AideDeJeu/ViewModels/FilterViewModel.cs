@@ -319,6 +319,7 @@ namespace AideDeJeu.ViewModels
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
             try
             {
+                await StoreViewModel.SemaphoreLibrary.WaitAsync();
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
                     return context.SpellsVO.Where(spell =>
@@ -337,6 +338,10 @@ namespace AideDeJeu.ViewModels
             catch
             {
                 return new List<Item>();
+            }
+            finally
+            {
+                StoreViewModel.SemaphoreLibrary.Release();
             }
         }
 
@@ -406,6 +411,7 @@ namespace AideDeJeu.ViewModels
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
             try
             {
+                await StoreViewModel.SemaphoreLibrary.WaitAsync();
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
                     return context.SpellsHD.Where(spell =>
@@ -424,6 +430,10 @@ namespace AideDeJeu.ViewModels
             catch
             {
                 return new List<Item>();
+            }
+            finally
+            {
+                StoreViewModel.SemaphoreLibrary.Release();
             }
         }
 
@@ -674,6 +684,7 @@ namespace AideDeJeu.ViewModels
 
             try
             {
+                await StoreViewModel.SemaphoreLibrary.WaitAsync();
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
                     return context.MonstersVO.Where(monster =>
@@ -693,6 +704,10 @@ namespace AideDeJeu.ViewModels
             catch
             {
                 return new List<Item>();
+            }
+            finally
+            {
+                StoreViewModel.SemaphoreLibrary.Release();
             }
         }
 
@@ -796,6 +811,7 @@ namespace AideDeJeu.ViewModels
 
             try
             {
+                await StoreViewModel.SemaphoreLibrary.WaitAsync();
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
                     return context.MonstersHD.Where(monster =>
@@ -815,6 +831,10 @@ namespace AideDeJeu.ViewModels
             catch
             {
                 return new List<Item>();
+            }
+            finally
+            {
+                StoreViewModel.SemaphoreLibrary.Release();
             }
         }
         public override List<KeyValuePair<string, string>> Categories { get; } = new List<KeyValuePair<string, string>>()
@@ -935,7 +955,8 @@ namespace AideDeJeu.ViewModels
 
             try
             {
-                using (var context = await GetLibraryContextAsync())
+                await StoreViewModel.SemaphoreLibrary.WaitAsync();
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
                     return context.Equipments.Where(equipment =>
                         equipment.Type.ToLower().Contains(type.ToLower()) &&
@@ -952,6 +973,10 @@ namespace AideDeJeu.ViewModels
             catch
             {
                 return new List<Item>();
+            }
+            finally
+            {
+                StoreViewModel.SemaphoreLibrary.Release();
             }
         }
 
@@ -1042,7 +1067,8 @@ namespace AideDeJeu.ViewModels
 
             try
             {
-                using (var context = await GetLibraryContextAsync())
+                await StoreViewModel.SemaphoreLibrary.WaitAsync();
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
                     return context.MagicItems.Where(magicitem =>
                         MatchContains(magicitem.Type, type) &&
@@ -1055,6 +1081,10 @@ namespace AideDeJeu.ViewModels
             catch
             {
                 return new List<Item>();
+            }
+            finally
+            {
+                StoreViewModel.SemaphoreLibrary.Release();
             }
         }
 

@@ -61,6 +61,7 @@ namespace AideDeJeu.ViewModels
         {
             try
             {
+                await StoreViewModel.SemaphoreLibrary.WaitAsync();
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
                     var primary = await context.Items.
@@ -122,6 +123,10 @@ namespace AideDeJeu.ViewModels
             catch
             {
                 return new List<SearchedItem>();
+            }
+            finally
+            {
+                StoreViewModel.SemaphoreLibrary.Release();
             }
         }
 

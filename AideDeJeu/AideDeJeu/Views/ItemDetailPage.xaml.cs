@@ -64,6 +64,7 @@ namespace AideDeJeu.Views
             await Task.Delay(1000).ConfigureAwait(false);
             try
             {
+                await StoreViewModel.SemaphoreLibrary.WaitAsync();
                 using (var context = await StoreViewModel.GetLibraryContextAsync().ConfigureAwait(false))
                 {
                     var item = context.Items.FirstOrDefault();
@@ -71,6 +72,10 @@ namespace AideDeJeu.Views
             }
             catch
             {
+            }
+            finally
+            {
+                StoreViewModel.SemaphoreLibrary.Release();
             }
         }
 
