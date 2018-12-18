@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AideDeJeu.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,9 +24,19 @@ namespace AideDeJeu.Views
                 this.NavigationPage = value;
             }
         }
+
+        public MainViewModel Main
+        {
+            get
+            {
+                return DependencyService.Get<MainViewModel>();
+            }
+        }
+
         public MainTabbedPage ()
         {
             InitializeComponent();
+            BindingContext = this;
         }
     }
 }

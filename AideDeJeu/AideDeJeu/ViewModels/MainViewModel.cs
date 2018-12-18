@@ -16,8 +16,20 @@ namespace AideDeJeu.ViewModels
         public bool IsLoading
         {
             get => _isLoading;
-            set => SetProperty(ref _isLoading, value);
+            set
+            {
+                SetProperty(ref _isLoading, value);
+                OnPropertyChanged(nameof(IsEnabled));
+
+            }
         }
+
+        public bool IsEnabled
+        {
+            get => !_isLoading;
+        }
+
+
         /*
         void AddAnchor(string source, Dictionary<string, Item> anchors, Item item)
         {

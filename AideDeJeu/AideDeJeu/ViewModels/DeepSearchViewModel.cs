@@ -24,10 +24,16 @@ namespace AideDeJeu.ViewModels
 
         public async Task ExecuteSearchCommandAsync(string searchText)
         {
-            Main.IsLoading = true;
-            //await Task.Run(async () => await Store.PreloadAllItemsAsync());
-            Items = await Task.Run(async () => await DeepSearchAllItemsAsync(searchText));
-            Main.IsLoading = false;
+            try
+            {
+                Main.IsLoading = true;
+                //await Task.Run(async () => await Store.PreloadAllItemsAsync());
+                Items = await Task.Run(async () => await DeepSearchAllItemsAsync(searchText));
+            }
+            finally
+            {
+                Main.IsLoading = false;
+            }
         }
 
         public IEnumerable<SearchedItem> _Items = null;
