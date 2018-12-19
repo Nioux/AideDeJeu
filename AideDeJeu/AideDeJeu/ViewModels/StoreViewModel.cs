@@ -429,8 +429,9 @@ namespace AideDeJeu.ViewModels
                     return await context.Items.Where(item => item.Id == id || item.RootId == id).FirstOrDefaultAsync();
                 }
             }
-            catch
+            catch(Exception ex)
             {
+                await App.Current.MainPage.DisplayAlert("Lien invalide", ex.Message, "OK");
                 return null;
             }
             finally
