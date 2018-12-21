@@ -25,9 +25,10 @@
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
     <MtouchArch>x86_64</MtouchArch>
-    <MtouchLink>None</MtouchLink>
+    <MtouchLink>SdkOnly</MtouchLink>
     <MtouchDebug>true</MtouchDebug>
     <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchExtraArgs>--linkskip=Microsoft.EntityFrameworkCore --linkskip=Microsoft.EntityFrameworkCore.Relational --linkskip=Microsoft.EntityFrameworkCore.Sqlite --linkskip=Remotion.Linq --linkskip=Microsoft.Data.Sqlite.Core --linkskip=Microsoft.EntityFrameworkCore.Sqlite.Core --linkskip=Microsoft.Extensions.DependencyInjection.Abstractions --linkskip=Microsoft.Extensions.DependencyInjection --linkskip=Microsoft.Extensions.Logging.Abstractions --linkskip=Microsoft.Extensions.Logging --linkskip=Microsoft.Extensions.Caching.Abstractions --linkskip=Microsoft.Extensions.Caching.Memory --linkskip=Microsoft.Extensions.Options --linkskip=Microsoft.Extensions.Primitives --linkskip=System.Reflection --linkskip=System.Reflection.Primitives --linkskip=System.Linq --linkskip=System.Linq.Expressions --linkskip=System.Linq.Queryable</MtouchExtraArgs>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>none</DebugType>
@@ -35,11 +36,12 @@
     <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <MtouchLink>None</MtouchLink>
+    <MtouchLink>SdkOnly</MtouchLink>
     <MtouchArch>x86_64</MtouchArch>
     <ConsolePause>false</ConsolePause>
     <CodesignKey>iPhone Developer</CodesignKey>
     <MtouchUseLlvm>true</MtouchUseLlvm>
+    <MtouchExtraArgs>--linkskip=Microsoft.EntityFrameworkCore --linkskip=Microsoft.EntityFrameworkCore.Relational --linkskip=Microsoft.EntityFrameworkCore.Sqlite --linkskip=Remotion.Linq --linkskip=Microsoft.Data.Sqlite.Core --linkskip=Microsoft.EntityFrameworkCore.Sqlite.Core --linkskip=Microsoft.Extensions.DependencyInjection.Abstractions --linkskip=Microsoft.Extensions.DependencyInjection --linkskip=Microsoft.Extensions.Logging.Abstractions --linkskip=Microsoft.Extensions.Logging --linkskip=Microsoft.Extensions.Caching.Abstractions --linkskip=Microsoft.Extensions.Caching.Memory --linkskip=Microsoft.Extensions.Options --linkskip=Microsoft.Extensions.Primitives --linkskip=System.Reflection --linkskip=System.Reflection.Primitives --linkskip=System.Linq --linkskip=System.Linq.Expressions --linkskip=System.Linq.Queryable</MtouchExtraArgs>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
     <DebugSymbols>true</DebugSymbols>
@@ -67,7 +69,8 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchUseLlvm>true</MtouchUseLlvm>
     <CodesignProvision>AideDeJeuPN</CodesignProvision>
-    <MtouchLink>None</MtouchLink>
+    <MtouchLink>SdkOnly</MtouchLink>
+    <MtouchExtraArgs>--linkskip=Microsoft.EntityFrameworkCore --linkskip=Microsoft.EntityFrameworkCore.Relational --linkskip=Microsoft.EntityFrameworkCore.Sqlite --linkskip=Remotion.Linq --linkskip=Microsoft.Data.Sqlite.Core --linkskip=Microsoft.EntityFrameworkCore.Sqlite.Core --linkskip=Microsoft.Extensions.DependencyInjection.Abstractions --linkskip=Microsoft.Extensions.DependencyInjection --linkskip=Microsoft.Extensions.Logging.Abstractions --linkskip=Microsoft.Extensions.Logging --linkskip=Microsoft.Extensions.Caching.Abstractions --linkskip=Microsoft.Extensions.Caching.Memory --linkskip=Microsoft.Extensions.Options --linkskip=Microsoft.Extensions.Primitives --linkskip=System.Reflection --linkskip=System.Reflection.Primitives --linkskip=System.Linq --linkskip=System.Linq.Expressions --linkskip=System.Linq.Queryable</MtouchExtraArgs>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
     <DebugType>none</DebugType>
