@@ -1,3 +1,9 @@
+---
+name: "Agrandir/rétrécir"
+type: "Spell"
+altname: "Enlarge/Reduce"
+book: "(MDR p36)(SRD p3)"
+---
 
 <!--Items-->
 
