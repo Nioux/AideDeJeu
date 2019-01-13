@@ -7,6 +7,10 @@ author_bio: >
             I blog about things, and my middle
             inital is Q. You’ll never guess
             what the ‘Q’ stands for. Trust me.
+author_bio2: |
+            I blog about things, and my middle
+            inital is Q. You’ll never guess
+            what the ‘Q’ stands for. Trust me.
 ---
 
 <!--Items-->
