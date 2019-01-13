@@ -32,6 +32,7 @@ bill-to: &id001
             Suite 16
     city: East Centerville
     state: KS
+ship-to: id001
 specialDelivery: >
     Follow the Yellow Brick
     Road to the Emerald City.
@@ -39,7 +40,6 @@ specialDelivery: >
     man behind the curtain.
 ---
 
-ship-to: *id001
 
 
 
