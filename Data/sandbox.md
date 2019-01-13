@@ -11,34 +11,29 @@ author_bio2: |
             I blog about things, and my middle
             inital is Q. You’ll never guess
             what the ‘Q’ stands for. Trust me.
-receipt:     Oz-Ware Purchase Invoice
-date:        2012-08-06
+receipt: Oz-Ware Purchase Invoice
+date: 2012-08-06
 customer:
-    given:   Dorothy
-    family:  Gale
-
+    given: Dorothy
+    family: Gale
 items:
-    - part_no:   A4786
-      descrip:   Water Bucket (Filled)
-      price:     1.47
-      quantity:  4
-
-    - part_no:   E1628
-      descrip:   High Heeled "Ruby" Slippers
-      size:      8
-      price:     100.27
-      quantity:  1
-
-bill-to:  &id001
+    - part_no: A4786
+      descrip: Water Bucket (Filled)
+      price: 1.47
+      quantity: 4
+    - part_no: E1628
+      descrip: High Heeled "Ruby" Slippers
+      size: 8
+      price: 100.27
+      quantity: 1
+bill-to: &id001
     street: |
             123 Tornado Alley
             Suite 16
-    city:   East Centerville
-    state:  KS
-
-ship-to:  *id001
-
-specialDelivery:  >
+    city: East Centerville
+    state: KS
+ship-to: *id001
+specialDelivery: >
     Follow the Yellow Brick
     Road to the Emerald City.
     Pay no attention to the
