@@ -16,6 +16,9 @@ date: 2012-08-06
 customer:
     given: Dorothy
     family: Gale
+---
+
+
 items:
     - part_no: A4786
       descrip: Water Bucket (Filled)
@@ -38,7 +41,7 @@ specialDelivery: >
     Road to the Emerald City.
     Pay no attention to the
     man behind the curtain.
----
+
 
 <!--Items-->
 
