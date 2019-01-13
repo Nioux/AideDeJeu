@@ -3,6 +3,10 @@ name: "Agrandir/rétrécir"
 type: "Spell"
 altname: "Enlarge/Reduce"
 book: "(MDR p36)(SRD p3)"
+author_bio: >
+			I blog about things, and my middle
+			inital is Q. You’ll never guess
+			what the ‘Q’ stands for. Trust me.
 ---
 
 <!--Items-->
