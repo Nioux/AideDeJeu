@@ -51,7 +51,9 @@ Dès le niveau 2, vous obtenez une canalisation d'énergie divine qui dépend de
 
 ## <!--Name-->Liste des domaines<!--/Name-->
 
-Air
+<!--Generic-->
+
+#### <!--Name-->Air<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -61,15 +63,15 @@ Air
 |7|[forme gazeuse]|
 |9|[invoquer un élémentaire] (Air)|
 
+##### Canalisation d'énergie divine : Asphyxie
+
+Cette aptitude a exactement les mêmes effets que si vous lanciez le sort dessiccation, mais la victime s'asphyxie au lieu de perdre l'eau contenue dans son corps. Vous lancez ce sort comme si vous utilisiez un emplacement de sort d'un niveau égal à votre bonus de maîtrise (vous affectez donc une cible au niveau 2, deux cibles au niveau 5, etc.).
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Asphyxie<!--/Name-->
-
-Cette aptitude a exactement les mêmes effets que si vous lanciez le sort dessiccation, mais la victime s'asphyxie au lieu de perdre l'eau contenue dans son corps. Vous lancez ce sort comme si vous utilisiez un emplacement de sort d'un niveau égal à votre bonus de maîtrise (vous affectez donc une cible au niveau 2, deux cibles au niveau 5, etc.).
-
-Arts
+#### <!--Name-->Arts<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -79,15 +81,15 @@ Arts
 |7|[façonnage de la pierre]|
 |9|[apparence trompeuse]|
 
+##### Canalisation d'énergie divine : Inspiration divine
+
+Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix (test de caractéristique, jet d'attaque, de sauvegarde ou de dégâts). Votre modificateur de [Charisme] est ajouté au résultat du nouveau jet.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Inspiration divine<!--/Name-->
-
-Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix (test de caractéristique, jet d'attaque, de sauvegarde ou de dégâts). Votre modificateur de [Charisme] est ajouté au résultat du nouveau jet.
-
-Charme, amour
+#### <!--Name-->Charme, amour<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -97,15 +99,15 @@ Charme, amour
 |7|[confusion]|
 |9|[modification de mémoire]|
 
+##### Canalisation d'énergie divine : Splendeur céleste
+
+Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un désavantage à toutes les sauvegardes des sorts d'enchantement que vous lancez et vous obtenez un avantage aux tests de [Charisme].
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Splendeur céleste<!--/Name-->
-
-Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un désavantage à toutes les sauvegardes des sorts d'enchantement que vous lancez et vous obtenez un avantage aux tests de [Charisme].
-
-Connaissance
+#### <!--Name-->Connaissance<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -115,15 +117,15 @@ Connaissance
 |7|[divination]|
 |9|[contacter un autre plan]|
 
+##### Canalisation d'énergie divine : nom secret
+
+Choisissez une cible située dans votre champ de vision et à moins de 18 mètres de vous. Vous apprenez son nom secret et, pendant un nombre de rounds égal à votre bonus de maîtrise, elle subit un désavantage à ses [jets de sauvegarde] contre tous vos sorts. À la fin de cet effet, vous oubliez ce nom magique.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : nom secret<!--/Name-->
-
-Choisissez une cible située dans votre champ de vision et à moins de 18 mètres de vous. Vous apprenez son nom secret et, pendant un nombre de rounds égal à votre bonus de maîtrise, elle subit un désavantage à ses [jets de sauvegarde] contre tous vos sorts. À la fin de cet effet, vous oubliez ce nom magique.
-
-Duperie, illusion
+#### <!--Name-->Duperie, illusion<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -133,17 +135,17 @@ Duperie, illusion
 |7|[confusion]|
 |9|[tromperie]|
 
-<!--/Generic-->
-
-<!--Generic-->
-
-## <!--Name-->Canalisation d'énergie divine : Dédoublement<!--/Name-->
+##### Canalisation d'énergie divine : Dédoublement
 
 Vous créez un double illusoire de vous-même pendant un nombre de round égal à votre bonus de maîtrise. Ce double désoriente vos adversaires, et vous bénéficiez d'un avantage à vos attaques au corps-à-corps. De plus, lorsqu'une créature réussit une attaque contre vous (hors attaque de zone), lancez 1d6. Sur un résultat de 1 à 3, l'attaque affecte l'illusion ; sur 4 à 6, vous subissez normalement les dégâts.
 
 Un attaquant est immunisé à cette aptitude s'il n'utilise pas le sens de la vue, comme avec Vision aveugle, ou s'il peut voir à travers les illusions comme avec le sort vision suprême.
 
-Eau
+<!--/Generic-->
+
+<!--Generic-->
+
+#### <!--Name-->Eau<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -153,15 +155,15 @@ Eau
 |7|[contrôle de l'eau]|
 |9|[invoquer un élémentaire] (eau)|
 
+##### Canalisation d'énergie divine : Forme liquide
+
+Pendant un nombre de rounds égal à votre bonus de maîtrise, vous obtenez une résistance aux dégâts tranchants, perçants et contondants non magiques. De plus, vous pouvez déformer votre corps pour passer à travers un espace étroit (par le trou d'une serrure, sous une porte, etc.) au prix d'une action.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Forme liquide<!--/Name-->
-
-Pendant un nombre de rounds égal à votre bonus de maîtrise, vous obtenez une résistance aux dégâts tranchants, perçants et contondants non magiques. De plus, vous pouvez déformer votre corps pour passer à travers un espace étroit (par le trou d'une serrure, sous une porte, etc.) au prix d'une action.
-
-Feu
+#### <!--Name-->Feu<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -171,15 +173,15 @@ Feu
 |7|[mur de feu]|
 |9|[invoquer un élémentaire] (Feu)|
 
+##### Canalisation d'énergie divine : Armes enflammées
+
+Vous touchez une arme et elle inflige 1d6 dégâts de feu supplémentaires pendant une minute (10 rounds). Vous pouvez affecter deux armes au niveau 9 et jusqu'à trois armes au niveau 17.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Armes enflammées<!--/Name-->
-
-Vous touchez une arme et elle inflige 1d6 dégâts de feu supplémentaires pendant une minute (10 rounds). Vous pouvez affecter deux armes au niveau 9 et jusqu'à trois armes au niveau 17.
-
-Force, Exploits, Courage
+#### <!--Name-->Force, Exploits, Courage<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -189,17 +191,17 @@ Force, Exploits, Courage
 |7|[nimbe de bienfaisance]|
 |9|[aura de force]|
 
-<!--/Generic-->
-
-<!--Generic-->
-
-## <!--Name-->Canalisation d'énergie divine : Puissance divine<!--/Name-->
+##### Canalisation d'énergie divine : Puissance divine
 
 Vous augmentez votre force pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous bénéficiez d'un avantage à tous vos tests et [jets de sauvegarde] de [Force] et à vos attaques de corps-à-corps avec des armes dotées de la propriété lourde.
 
 De plus, vous ajoutez 1d4 aux dégâts de vos attaques de corps-à-corps ou 1d6 avec les armes lourdes. Pendant la durée de cette aptitude, vous maîtrisez toutes les armes lourdes.
 
-Froid
+<!--/Generic-->
+
+<!--Generic-->
+
+#### <!--Name-->Froid<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -209,15 +211,15 @@ Froid
 |7|[tempête de grêle]|
 |9|[cône de froid]|
 
+##### Canalisation d'énergie divine : Cercueil de glace
+
+Choisissez jusqu'à une cible de votre choix par point de bonus de maîtrise, situées à moins de 9 mètres de vous et dans votre champ de vision. Chaque cible doit réussir un [jet de sauvegarde] de [Force], sans quoi elle est entravée pendant 1 minute. À la fin de chacun de vos tours, chaque cible a droit à un nouveau [jet de sauvegarde] de [Force]. Si elle le réussit, les effets de la canalisation d'énergie divine se terminent en ce qui la concerne.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Cercueil de glace<!--/Name-->
-
-Choisissez jusqu'à une cible de votre choix par point de bonus de maîtrise, situées à moins de 9 mètres de vous et dans votre champ de vision. Chaque cible doit réussir un [jet de sauvegarde] de [Force], sans quoi elle est entravée pendant 1 minute. À la fin de chacun de vos tours, chaque cible a droit à un nouveau [jet de sauvegarde] de [Force]. Si elle le réussit, les effets de la canalisation d'énergie divine se terminent en ce qui la concerne.
-
-Guerre
+#### <!--Name-->Guerre<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -227,15 +229,15 @@ Guerre
 |7|[bénédiction héroïque]|
 |9|[peau de pierre]|
 
+##### Canalisation d'énergie divine : Transe guerrière
+
+Vous êtes habité par l'expertise guerrière de votre divinité pendant 1 minute. Pendant cette durée, vous pouvez répartir à votre guise votre bonus de maîtrise entre le jet d'attaque ou de dégâts d'une attaque de corps-à-corps à chaque round. Vous pouvez annoncer quelle partie du bonus vous ajoutez après avoir lancé le dé, mais avant d'avoir pris connaissance du résultat de l'action.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Transe guerrière<!--/Name-->
-
-Vous êtes habité par l'expertise guerrière de votre divinité pendant 1 minute. Pendant cette durée, vous pouvez répartir à votre guise votre bonus de maîtrise entre le jet d'attaque ou de dégâts d'une attaque de corps-à-corps à chaque round. Vous pouvez annoncer quelle partie du bonus vous ajoutez après avoir lancé le dé, mais avant d'avoir pris connaissance du résultat de l'action.
-
-Justice, noblesse
+#### <!--Name-->Justice, noblesse<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -245,15 +247,15 @@ Justice, noblesse
 |7|[lance du juste]|
 |9|[expiation du juste]|
 
+##### Canalisation d'énergie divine : Jugement de dieu
+
+Pendant 1 minute, une fois par round, lorsque vous réussissez une attaque avec une arme, vous ajoutez 1d4 dégâts du même type que ceux de l'arme. Ce dé de dégât passe au d6 au niveau 5, au d8 au niveau 9, au d10 au niveau 13 et enfin au d12 au niveau 17.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Jugement de dieu<!--/Name-->
-
-Pendant 1 minute, une fois par round, lorsque vous réussissez une attaque avec une arme, vous ajoutez 1d4 dégâts du même type que ceux de l'arme. Ce dé de dégât passe au d6 au niveau 5, au d8 au niveau 9, au d10 au niveau 13 et enfin au d12 au niveau 17.
-
-Lumière
+#### <!--Name-->Lumière<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -263,15 +265,15 @@ Lumière
 |8|[nimbe de bienfaisance]|
 |11|[rayon de soleil]|
 
+##### Canalisation d'énergie divine : Explosion de lumière
+
+Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde] de [Dextérité]. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont aveuglées à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas aveuglées.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Explosion de lumière<!--/Name-->
-
-Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde] de [Dextérité]. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont aveuglées à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas aveuglées.
-
-Magie
+#### <!--Name-->Magie<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -281,15 +283,15 @@ Magie
 |7|[contresort]|
 |9|[fabrication]|
 
+##### Canalisation d'énergie divine : Magie profane
+
+Vous priez pendant 10 minutes pour préparer un sort de la liste de magicien de votre choix, dont le niveau doit être strictement inférieur à votre bonus de maîtrise (cela ne vous fait pas dépenser de canalisation d'énergie divine). Désormais, vous pouvez le lancer en utilisant une canalisation d'énergie divine. Vous devez terminer un repos long pour pouvoir choisir un autre sort. Vous oubliez alors le précédent.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Magie profane<!--/Name-->
-
-Vous priez pendant 10 minutes pour préparer un sort de la liste de magicien de votre choix, dont le niveau doit être strictement inférieur à votre bonus de maîtrise (cela ne vous fait pas dépenser de canalisation d'énergie divine). Désormais, vous pouvez le lancer en utilisant une canalisation d'énergie divine. Vous devez terminer un repos long pour pouvoir choisir un autre sort. Vous oubliez alors le précédent.
-
-Maladie, Faiblesse
+#### <!--Name-->Maladie, Faiblesse<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -299,15 +301,15 @@ Maladie, Faiblesse
 |7|[flétrissement]|
 |9|[contagion]|
 
+##### Canalisation d'énergie divine : Arme infectée
+
+Pendant 1 minute, à chaque fois que vous réussissez une attaque avec une arme, la cible subit 1d4 points de dégâts supplémentaires de poison par point de votre bonus de maîtrise et l'état empoisonné pour 1 round. Si elle réussit un [jet de sauvegarde] de [Constitution], elle divise par deux les dégâts de poison et ignore l'état [empoisonné].
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Arme infectée<!--/Name-->
-
-Pendant 1 minute, à chaque fois que vous réussissez une attaque avec une arme, la cible subit 1d4 points de dégâts supplémentaires de poison par point de votre bonus de maîtrise et l'état empoisonné pour 1 round. Si elle réussit un [jet de sauvegarde] de [Constitution], elle divise par deux les dégâts de poison et ignore l'état [empoisonné].
-
-Mort
+#### <!--Name-->Mort<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -317,17 +319,17 @@ Mort
 |7|[protection contre la mort]|
 |9|[nuage mortel]|
 
-<!--/Generic-->
-
-<!--Generic-->
-
-## <!--Name-->Canalisation d'énergie divine : Connexion mortelle<!--/Name-->
+##### Canalisation d'énergie divine : Connexion mortelle
 
 Vous canalisez l'énergie de la mort à travers vous pour une durée égale à 1 round par point de bonus de maîtrise.
 
 Pendant ce laps de temps, vous pouvez lancer le tour de magie contact glacial en action bonus et vous bénéficiez d'un avantage aux jets d'attaque pour ce sort.
 
-Nature
+<!--/Generic-->
+
+<!--Generic-->
+
+#### <!--Name-->Nature<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -337,15 +339,15 @@ Nature
 |7|[terrain hallucinatoire]|
 |9|[communion avec la nature]|
 
+##### Canalisation d'énergie divine : Légion des bêtes
+
+Vous lancez le sort invoquer des animaux, toutefois la somme des indices de dangerosité des bêtes que vous invoquez doit être strictement inférieure à votre bonus de maîtrise (indice 1 au niveau 2, indice 2 au niveau 5, indice 3 au niveau 9, etc.).
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Légion des bêtes<!--/Name-->
-
-Vous lancez le sort invoquer des animaux, toutefois la somme des indices de dangerosité des bêtes que vous invoquez doit être strictement inférieure à votre bonus de maîtrise (indice 1 au niveau 2, indice 2 au niveau 5, indice 3 au niveau 9, etc.).
-
-Nuit, Ténèbres
+#### <!--Name-->Nuit, Ténèbres<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -355,15 +357,15 @@ Nuit, Ténèbres
 |7|[invisibilité supérieure]|
 |9|[rêve]|
 
+##### Canalisation d'énergie divine : Vision des ténèbres
+
+Vous obtenez l'aptitude vision aveugle (cf. p.275) et vous êtes immunisé à l'état spécial aveuglé pendant un nombre de rounds égal à votre bonus de maîtrise.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Vision des ténèbres<!--/Name-->
-
-Vous obtenez l'aptitude vision aveugle (cf. p.275) et vous êtes immunisé à l'état spécial aveuglé pendant un nombre de rounds égal à votre bonus de maîtrise.
-
-Protection
+#### <!--Name-->Protection<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -373,15 +375,15 @@ Protection
 |7|[chien de garde]|
 |9|[coquille antivie]|
 
+##### Canalisation d'énergie divine : Résistance
+
+Vous obtenez une résistance à tous les types de dégâts pendant 1 round par point de bonus de maîtrise. Vous pouvez choisir d'utiliser cette aptitude sur un allié situé dans votre champ de vision à moins de 9 mètres en même temps que sur vous-même.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Résistance<!--/Name-->
-
-Vous obtenez une résistance à tous les types de dégâts pendant 1 round par point de bonus de maîtrise. Vous pouvez choisir d'utiliser cette aptitude sur un allié situé dans votre champ de vision à moins de 9 mètres en même temps que sur vous-même.
-
-Temps
+#### <!--Name-->Temps<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -391,15 +393,15 @@ Temps
 |7|[porte dimensionnelle]|
 |9|[immobiliser un monstre]|
 
+##### Canalisation d'énergie divine : Repli du temps
+
+Cette aptitude fait exception à la règle générale de canalisation d'énergie divine, vous n'avez besoin que d'une réaction pour l'activer. En dépensant votre réaction, vous agissez 1 tour complet en plus de votre tour normal. Toutefois ce tour supplémentaire ne vous octroie pas de nouvelle réaction. Vous ne pouvez pas utiliser, dans le même round, une aptitude ou un sort vous octroyant une action, une action bonus et/ou une réaction supplémentaire. Si vous êtes sous l'effet d'un sort de hâte au moment où vous utilisez cette aptitude, il cesse immédiatement. De plus, vous devez terminer un repos court ou long avant de pouvoir réutiliser cette capacité.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Repli du temps<!--/Name-->
-
-Cette aptitude fait exception à la règle générale de canalisation d'énergie divine, vous n'avez besoin que d'une réaction pour l'activer. En dépensant votre réaction, vous agissez 1 tour complet en plus de votre tour normal. Toutefois ce tour supplémentaire ne vous octroie pas de nouvelle réaction. Vous ne pouvez pas utiliser, dans le même round, une aptitude ou un sort vous octroyant une action, une action bonus et/ou une réaction supplémentaire. Si vous êtes sous l'effet d'un sort de hâte au moment où vous utilisez cette aptitude, il cesse immédiatement. De plus, vous devez terminer un repos court ou long avant de pouvoir réutiliser cette capacité.
-
-Terre
+#### <!--Name-->Terre<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -409,15 +411,15 @@ Terre
 |7|[peau de pierre]|
 |9|[invoquer un élémentaire] (Terre)|
 
+##### Canalisation d'énergie divine : Enfouissement
+
+Vous pouvez vous déplacer à travers la pierre ou la terre d'un sol ou d'une paroi, s'ils sont naturels, à la moitié de votre vitesse normale pendant un nombre de rounds égal à votre bonus de maîtrise. Lorsque l'aptitude se termine, si vous restez prisonnier dans la matière, vous êtes éjecté vers l'espace libre le plus proche, vous subissez 1d6 dégâts contondants par mètre de matière traversée, et vous êtes étourdi pendant 1 round.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Enfouissement <!--/Name-->
-
-Vous pouvez vous déplacer à travers la pierre ou la terre d'un sol ou d'une paroi, s'ils sont naturels, à la moitié de votre vitesse normale pendant un nombre de rounds égal à votre bonus de maîtrise. Lorsque l'aptitude se termine, si vous restez prisonnier dans la matière, vous êtes éjecté vers l'espace libre le plus proche, vous subissez 1d6 dégâts contondants par mètre de matière traversée, et vous êtes étourdi pendant 1 round.
-
-Tonnerre, tempête
+#### <!--Name-->Tonnerre, tempête<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -427,15 +429,15 @@ Tonnerre, tempête
 |8|[tempête de grêle]|
 |11|[chaîne d'éclairs]|
 
+##### Canalisation d'énergie divine : Sous tension
+
+Pendant une minute, à chaque fois qu'une créature réussit une attaque de corps-à-corps contre vous, elle subit 1d4 dégâts de foudre. Les dégâts passent à 2d4 au niveau 9 et à 3d4 au niveau 17.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Sous tension<!--/Name-->
-
-Pendant une minute, à chaque fois qu'une créature réussit une attaque de corps-à-corps contre vous, elle subit 1d4 dégâts de foudre. Les dégâts passent à 2d4 au niveau 9 et à 3d4 au niveau 17.
-
-Vie, soins
+#### <!--Name-->Vie, soins<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -445,15 +447,15 @@ Vie, soins
 |7|[panacée]|
 |9|[restauration supérieure]|
 
+##### Canalisation d'énergie divine : Salve de guérison
+
+Vous et jusqu'à cinq alliés dans votre champ de vision, dans un rayon de 9 mètres autour de vous, récupérez 1d6 points de vie par point de bonus de maîtrise.
+
 <!--/Generic-->
 
 <!--Generic-->
 
-## <!--Name-->Canalisation d'énergie divine : Salve de guérison<!--/Name-->
-
-Vous et jusqu'à cinq alliés dans votre champ de vision, dans un rayon de 9 mètres autour de vous, récupérez 1d6 points de vie par point de bonus de maîtrise.
-
-Voyage
+#### <!--Name-->Voyage<!--/Name-->
 
 |Niv.|Sort|
 |---|---|
@@ -463,13 +465,11 @@ Voyage
 |7|[porte dimensionnelle]|
 |9|[passage par les arbres]|
 
-<!--/Generic-->
-
-<!--Generic-->
-
-## <!--Name-->Canalisation d'énergie divine : Marche des brumes<!--/Name-->
+##### Canalisation d'énergie divine : Marche des brumes
 
 Vous pouvez lancer le sort pas brumeux en dépensant au choix une action bonus ou une réaction (et sans utiliser d'emplacement de sort) une fois par tour pendant un nombre de rounds égal à votre bonus de maîtrise.
+
+<!--/Generic-->
 
 <!--/Generic-->
 
