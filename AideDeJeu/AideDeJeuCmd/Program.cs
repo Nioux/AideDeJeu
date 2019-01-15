@@ -13,6 +13,8 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using YamlDotNet.Serialization;
+using YamlDotNet.Serialization.NamingConventions;
 
 namespace AideDeJeuCmd
 {
@@ -318,7 +320,12 @@ namespace AideDeJeuCmd
                 var monstersHD = await context.MonstersHD.ToListAsync();
                 var monstersVO = await context.MonstersVO.ToListAsync();
                 var spells = await context.Spells.ToListAsync();
+
+                var serializer = new SerializerBuilder().WithNamingConvention(new PascalCaseNamingConvention()).Build();
+                var yaml = serializer.Serialize(spells.FirstOrDefault());
+                Console.WriteLine(yaml);
             }
+
 
             return;
             await ReorderSpellsAsync();
