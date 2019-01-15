@@ -44,6 +44,7 @@ namespace AideDeJeuCmd
             {
                 var md = await sr.ReadToEndAsync();
                 var pipeline = new MarkdownPipelineBuilder()
+                    .UseYamlFrontMatter()
                     .UsePipeTables()
                     .Build();
                 //var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);

@@ -310,6 +310,7 @@ namespace AideDeJeu.Tools
         public static string ToMarkdownString(this Block block)
         {
             var pipeline = new MarkdownPipelineBuilder()
+                .UseYamlFrontMatter()
                 .UsePipeTables()
                 .Build();
 

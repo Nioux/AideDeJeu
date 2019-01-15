@@ -81,7 +81,7 @@
 
             if(!string.IsNullOrEmpty(this.Markdown))
             {
-                var pipeline = new Markdig.MarkdownPipelineBuilder().UsePipeTables().Build();
+                var pipeline = new Markdig.MarkdownPipelineBuilder().UseYamlFrontMatter().UsePipeTables().Build();
                 var parsed = Markdig.Markdown.Parse(this.Markdown, pipeline);
                 this.Render(parsed.AsEnumerable());
             }

@@ -21,7 +21,7 @@ namespace AideDeJeu.ViewModels
     {
         public Item ToItem(string source, string md, Dictionary<string, Item> allItems)
         {
-            var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
+            var pipeline = new MarkdownPipelineBuilder().UseYamlFrontMatter().UsePipeTables().Build();
             var document = MarkdownParser.Parse(md, pipeline);
 
             var enumerator = document.GetEnumerator();
