@@ -321,9 +321,20 @@ namespace AideDeJeuCmd
                 var monstersVO = await context.MonstersVO.ToListAsync();
                 var spells = await context.Spells.ToListAsync();
 
-                var serializer = new SerializerBuilder().WithTagMapping("!MonsterHD", typeof(MonsterHD)).EnsureRoundtrip().WithNamingConvention(new PascalCaseNamingConvention()).Build();
-                var deserializer = new DeserializerBuilder().WithTagMapping("!MonsterHD", typeof(MonsterHD)).WithNamingConvention(new PascalCaseNamingConvention()).Build();
-                var yaml = serializer.Serialize(monsters.FirstOrDefault());
+                var serializer = new SerializerBuilder()
+                    .WithTagMapping("!MonsterHD", typeof(MonsterHD))
+                    .WithTagMapping("!MonsterVO", typeof(MonsterVO))
+                    .WithTagMapping("!Monsters", typeof(List<Monster>))
+                    .EnsureRoundtrip()
+                    .WithNamingConvention(new PascalCaseNamingConvention())
+                    .Build();
+                var deserializer = new DeserializerBuilder()
+                    .WithTagMapping("!MonsterHD", typeof(MonsterHD))
+                    .WithTagMapping("!MonsterVO", typeof(MonsterVO))
+                    .WithTagMapping("!Monsters", typeof(List<Monster>))
+                    .WithNamingConvention(new PascalCaseNamingConvention())
+                    .Build();
+                var yaml = serializer.Serialize(monsters);
                 var sr = new StringReader(yaml);
                 var deser = deserializer.Deserialize(sr);
                 Console.WriteLine(yaml);
