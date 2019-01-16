@@ -8,6 +8,10 @@ using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Xml;
+using YamlDotNet.Core;
+using YamlDotNet.Core.Events;
+using YamlDotNet.Serialization;
+using YamlDotNet.Serialization.NamingConventions;
 
 namespace AideDeJeuLib
 {
@@ -115,6 +119,8 @@ namespace AideDeJeuLib
 
         [DataMember]
         public string ParentName { get; set; }
+
+        [YamlIgnore]
         [IgnoreDataMember]
         [Ignore]
         public string ParentNameLink
@@ -143,6 +149,8 @@ namespace AideDeJeuLib
         public int NameLevel { get; set; }
         [DataMember]
         public string AltName { get; set; }
+
+        [YamlIgnore]
         [IgnoreDataMember]
         public string AltNameText
         {
@@ -168,9 +176,43 @@ namespace AideDeJeuLib
         }
         [DataMember]
         public string Source { get; set; }
+
+        [YamlIgnore]
         [DataMember]
         public virtual string Markdown { get; set; }
         [DataMember]
         public string FullText { get; set; }
+
+        [IgnoreDataMember]
+        [YamlIgnore]
+        public Dictionary<string, Type> ClassMapping = new Dictionary<string, Type>()
+        {
+            { nameof(Generic), typeof(Generic) },
+        };
+
+        [IgnoreDataMember]
+        [YamlIgnore]
+        public string Yaml
+        {
+            get
+            {
+                var serializer = new SerializerBuilder()
+                    .WithTagMapping($"!{nameof(MonsterHD)}", typeof(MonsterHD))
+                    .EnsureRoundtrip()
+                    .WithNamingConvention(new PascalCaseNamingConvention())
+                    .Build();
+                return serializer.Serialize(this);
+            }
+        }
+
+        [IgnoreDataMember]
+        [YamlIgnore]
+        public string YamlMarkdown
+        {
+            get
+            {
+                return $"---\n{Yaml}---\n{Markdown}";
+            }
+        }
     }
 }
