@@ -315,11 +315,23 @@ namespace AideDeJeuCmd
                 await context.Items.AddRangeAsync(store._AllItems.Values);
                 await context.SaveChangesAsync();
 
-                var items = await context.Items.Where(item => (item.Source != null && item.Source.Contains("SRD"))).ToListAsync();
+                var itemsSRD = await context.Items.Where(item => (item.Source != null && item.Source.Contains("SRD"))).ToListAsync();
                 var monsters = await context.Monsters.ToListAsync();
                 var monstersHD = await context.MonstersHD.ToListAsync();
                 var monstersVO = await context.MonstersVO.ToListAsync();
                 var spells = await context.Spells.ToListAsync();
+
+                var item1 = monsters.FirstOrDefault();
+
+                var test1y = item1.Yaml;
+                var test1m = item1.Markdown;
+                var test1ym = item1.YamlMarkdown;
+
+                var item2 = Item.ParseYamlMarkdown(test1ym);
+
+                var test2y = item2.Yaml;
+                var test2m = item2.Markdown;
+                var test2ym = item2.YamlMarkdown;
 
                 var serializer = new SerializerBuilder()
                     .WithTagMapping("!MonsterHD", typeof(MonsterHD))
