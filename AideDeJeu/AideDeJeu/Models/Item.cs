@@ -185,9 +185,29 @@ namespace AideDeJeuLib
 
         [IgnoreDataMember]
         [YamlIgnore]
-        public Dictionary<string, Type> ClassMapping = new Dictionary<string, Type>()
+        public static Dictionary<string, Type> ClassMapping = new Dictionary<string, Type>()
         {
-            { nameof(Generic), typeof(Generic) },
+            { "Generic", typeof(Generic) },
+            { "Monster", typeof(Monster) },
+            { "MonsterHD", typeof(MonsterHD) },
+            { "MonsterVO", typeof(MonsterVO) },
+            { "Monsters", typeof(Monsters) },
+            { "MonstersHD", typeof(MonstersHD) },
+            { "MonstersVO", typeof(MonstersVO) },
+            { "Spell", typeof(Spell) },
+            { "SpellHD", typeof(SpellHD) },
+            { "SpellVO", typeof(SpellVO) },
+            { "Spells", typeof(Spells) },
+            { "SpellsHD", typeof(SpellsHD) },
+            { "SpellsVO", typeof(SpellsVO) },
+            { "Equipment", typeof(Equipment) },
+            { "Equipments", typeof(Equipments) },
+            { "Item", typeof(Item) },
+            { "Items", typeof(Items) },
+            { "LinkItem", typeof(LinkItem) },
+            { "MagicItem", typeof(MagicItem) },
+            { "MagicItems", typeof(MagicItems) },
+            { "PageItem", typeof(PageItem) },
         };
 
         [IgnoreDataMember]
@@ -196,8 +216,12 @@ namespace AideDeJeuLib
         {
             get
             {
-                var serializer = new SerializerBuilder()
-                    .WithTagMapping($"!{nameof(MonsterHD)}", typeof(MonsterHD))
+                var builder = new SerializerBuilder();
+                foreach(var mapping in ClassMapping)
+                {
+                    builder = builder.WithTagMapping($"!{mapping.Key}", mapping.Value);
+                }
+                var serializer = builder
                     .EnsureRoundtrip()
                     .WithNamingConvention(new PascalCaseNamingConvention())
                     .Build();
@@ -213,6 +237,28 @@ namespace AideDeJeuLib
             {
                 return $"---\n{Yaml}---\n{Markdown}";
             }
+        }
+
+        public static Item ParseYamlMarkdown(string yamlmd)
+        {
+            var builder = new DeserializerBuilder();
+            foreach (var mapping in ClassMapping)
+            {
+                builder = builder.WithTagMapping($"!{mapping.Key}", mapping.Value);
+            }
+            var yamlDeserializer = builder
+                .WithNamingConvention(new PascalCaseNamingConvention())
+                .Build();
+
+            var parser = new Parser(new System.IO.StringReader(yamlmd));
+            parser.Expect<StreamStart>();
+            parser.Expect<DocumentStart>();
+            var post = yamlDeserializer.Deserialize(parser);
+            parser.Expect<DocumentEnd>();
+            //parser.MoveNext();
+            var item = post as Item;
+            item.Markdown = yamlmd.Substring(parser.Current.End.Index + 1);
+            return post as Item;
         }
     }
 }

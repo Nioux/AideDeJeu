@@ -337,6 +337,8 @@ namespace AideDeJeuCmd
                 var yaml = serializer.Serialize(monsters);
                 var sr = new StringReader(yaml);
                 var deser = deserializer.Deserialize(sr);
+
+                var truc = Item.ParseYamlMarkdown(monsters.FirstOrDefault().YamlMarkdown);
                 Console.WriteLine(yaml);
             }
 
