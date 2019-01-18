@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -292,6 +293,8 @@ namespace AideDeJeuCmd
             Console.ReadLine();
         }
 
+        static string outDir = @"..\..\..\..\..\Data\HD\";
+
         static async Task Main(string[] args)
         {
             Tests.Xamarin.Forms.Mocks.MockForms.Init();
@@ -321,37 +324,52 @@ namespace AideDeJeuCmd
                 var monstersVO = await context.MonstersVO.ToListAsync();
                 var spells = await context.Spells.ToListAsync();
 
-                var item1 = monsters.FirstOrDefault();
+                //var item1 = monsters.FirstOrDefault();
 
-                var test1y = item1.Yaml;
-                var test1m = item1.Markdown;
-                var test1ym = item1.YamlMarkdown;
+                //var test1y = item1.Yaml;
+                //var test1m = item1.Markdown;
+                //var test1ym = item1.YamlMarkdown;
 
-                var item2 = Item.ParseYamlMarkdown(test1ym);
+                //var item2 = Item.ParseYamlMarkdown(test1ym);
 
-                var test2y = item2.Yaml;
-                var test2m = item2.Markdown;
-                var test2ym = item2.YamlMarkdown;
+                //var test2y = item2.Yaml;
+                //var test2m = item2.Markdown;
+                //var test2ym = item2.YamlMarkdown;
 
-                var serializer = new SerializerBuilder()
-                    .WithTagMapping("!MonsterHD", typeof(MonsterHD))
-                    .WithTagMapping("!MonsterVO", typeof(MonsterVO))
-                    .WithTagMapping("!Monsters", typeof(List<Monster>))
-                    .EnsureRoundtrip()
-                    .WithNamingConvention(new PascalCaseNamingConvention())
-                    .Build();
-                var deserializer = new DeserializerBuilder()
-                    .WithTagMapping("!MonsterHD", typeof(MonsterHD))
-                    .WithTagMapping("!MonsterVO", typeof(MonsterVO))
-                    .WithTagMapping("!Monsters", typeof(List<Monster>))
-                    .WithNamingConvention(new PascalCaseNamingConvention())
-                    .Build();
-                var yaml = serializer.Serialize(monsters);
-                var sr = new StringReader(yaml);
-                var deser = deserializer.Deserialize(sr);
+                var items = await context.Items.ToListAsync();
 
-                var truc = Item.ParseYamlMarkdown(monsters.FirstOrDefault().YamlMarkdown);
-                Console.WriteLine(yaml);
+                var matchids = new Dictionary<string, string>();
+
+                foreach (var item in await context.Items.ToListAsync())
+                {
+                    matchids[item.Id] = Helpers.RemoveDiacritics(item.Id).Replace(".md#", "_") + ".md";
+                }
+
+                foreach (var item in await context.Items.ToListAsync())
+                {
+                    var filename = Path.Combine(outDir, WebUtility.UrlEncode(item.NewId));
+                    await SaveStringAsync(filename, item.YamlMarkdown);
+                }
+
+                //var serializer = new SerializerBuilder()
+                //    .WithTagMapping("!MonsterHD", typeof(MonsterHD))
+                //    .WithTagMapping("!MonsterVO", typeof(MonsterVO))
+                //    .WithTagMapping("!Monsters", typeof(List<Monster>))
+                //    .EnsureRoundtrip()
+                //    .WithNamingConvention(new PascalCaseNamingConvention())
+                //    .Build();
+                //var deserializer = new DeserializerBuilder()
+                //    .WithTagMapping("!MonsterHD", typeof(MonsterHD))
+                //    .WithTagMapping("!MonsterVO", typeof(MonsterVO))
+                //    .WithTagMapping("!Monsters", typeof(List<Monster>))
+                //    .WithNamingConvention(new PascalCaseNamingConvention())
+                //    .Build();
+                //var yaml = serializer.Serialize(monsters);
+                //var sr = new StringReader(yaml);
+                //var deser = deserializer.Deserialize(sr);
+
+                //var truc = Item.ParseYamlMarkdown(monsters.FirstOrDefault().YamlMarkdown);
+                //Console.WriteLine(yaml);
             }
 
 

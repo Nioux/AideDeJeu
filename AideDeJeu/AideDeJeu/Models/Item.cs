@@ -1,4 +1,5 @@
-﻿using AideDeJeu.ViewModels;
+﻿using AideDeJeu.Tools;
+using AideDeJeu.ViewModels;
 using SQLite;
 using System;
 using System.Collections;
@@ -235,7 +236,7 @@ namespace AideDeJeuLib
         {
             get
             {
-                return $"---\n{Yaml}---\n{Markdown}";
+                return $"---\n{Yaml}---\n{CleanMarkdown}";
             }
         }
 
@@ -259,6 +260,37 @@ namespace AideDeJeuLib
             var item = post as Item;
             item.Markdown = yamlmd.Substring(parser.Current.End.Index + 1);
             return post as Item;
+        }
+
+        public string CleanMarkdown
+        {
+            get
+            {
+                var md = Markdown;
+                var rx = new Regex("<!--.*?-->");
+                md = rx.Replace(md, "");
+                return md;
+            }
+        }
+
+        public string NewId
+        {
+            get
+            {
+                var id = string.IsNullOrEmpty(RootId) ? Id : RootId;
+                if(id.Contains("_hd.md"))
+                {
+                    return "hd_" + Helpers.RemoveDiacritics(id).Replace("_hd.md#", "_").Replace("_hd.md", "").Replace("-","_").Replace("__","_").ToLower() + ".md";
+                }
+                else if(id.Contains("_vo.md"))
+                {
+                    return "srd_" + Helpers.RemoveDiacritics(id).Replace("_vo.md#", "_").Replace("_vo.md", "").Replace("-", "_").Replace("__", "_").ToLower() + ".md";
+                }
+                else
+                {
+                    return Helpers.RemoveDiacritics(id).Replace("-", "_").Replace("__", "_").ToLower() + ".md";
+                }
+            }
         }
     }
 }
