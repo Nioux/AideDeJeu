@@ -1,5 +1,1 @@
-title: Five Eeee
-baseurl: ""
-sass:
-  sass_dir: _sass
-  style: compressed
+theme: jekyll-theme-slate
