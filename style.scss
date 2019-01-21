@@ -1,0 +1,44 @@
+---
+---
+@import 'reset.scss';
+@import 'phb.fonts.scss';
+@import 'phb.assets.scss';
+@import 'phb.depricated.scss';
+@import 'phb.style.scss';
+
+
+.phb {
+    overflow: scroll !important;
+    height: auto !important;
+    width: auto !important;
+    font-size: 1em !important;
+    padding: 1em 3em;
+    min-height: 100vh;
+    h1 {
+        font-size: 300%;
+    }
+
+    h2 {
+        font-size: 175%;
+    }
+    p + h2,
+    ul + h2,
+    ol + h2 {
+        margin-top: 1em;
+    }
+
+    h3 {
+        font-size: 150%;
+    }
+
+    h4,h5 {
+        font-size: 125%;
+    }
+}
+
+#banner {
+    background: black;
+    color:white;
+    padding: 1em 3em;
+}
+
