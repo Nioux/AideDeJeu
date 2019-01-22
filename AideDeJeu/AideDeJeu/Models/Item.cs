@@ -278,18 +278,21 @@ namespace AideDeJeuLib
             get
             {
                 var id = string.IsNullOrEmpty(RootId) ? Id : RootId;
-                if(id.Contains("_hd.md"))
+                id = Helpers.RemoveDiacritics(id);
+                if (id.Contains("_hd.md"))
                 {
-                    return "hd_" + Helpers.RemoveDiacritics(id).Replace("_hd.md#", "_").Replace("_hd.md", "").Replace("-","_").Replace("__","_").ToLower() + ".md";
+                    id = "hd_" + id.Replace("_hd.md#", "_").Replace("_hd.md", "");                        
                 }
                 else if(id.Contains("_vo.md"))
                 {
-                    return "srd_" + Helpers.RemoveDiacritics(id).Replace("_vo.md#", "_").Replace("_vo.md", "").Replace("-", "_").Replace("__", "_").ToLower() + ".md";
+                    id = "srd_" + id.Replace("_vo.md#", "_").Replace("_vo.md", "");
                 }
                 else
                 {
-                    return Helpers.RemoveDiacritics(id).Replace("-", "_").Replace("__", "_").ToLower() + ".md";
+                    id = id.Replace(".md", "");
                 }
+                id = id.Replace("-", "_").Replace("?", "").Replace("’", "_").Replace("'", "_").Replace("__", "_").ToLower() + ".md";
+                return id;
             }
         }
     }

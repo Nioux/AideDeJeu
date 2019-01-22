@@ -1,0 +1,39 @@
+﻿---
+!SpellVO
+Level: 1
+Type: divination
+Ritual: ritual
+CastingTime: 1 minute
+Range: Touch
+Components: V, S, M (a pearl worth at least 100 gp and an owl feather)
+Duration: Instantaneous
+Classes: Bard, Wizard
+Id: spells_vo.md#identify
+ParentLink: spells_vo.md#spells-srd-p
+Name: Identify
+ParentName: Spells (SRD p)
+NameLevel: 1
+AltName: '[Identification](hd_spells_identification.md)'
+Source: (SRD p155)
+---
+> [Spells (SRD p)](srd_spells.md)
+
+---
+
+# Identify
+
+- MDR: [Identification](hd_spells_identification.md)
+- Source: (SRD p155)
+-  1st-level divination (ritual)
+- **Casting Time :** 1 minute
+- **Range :** Touch
+- **Components :** V, S, M (a pearl worth at least 100 gp and an owl feather)
+- **Duration :** Instantaneous
+- Classes: Bard, Wizard
+
+### Description
+
+You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.
+
+If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
+

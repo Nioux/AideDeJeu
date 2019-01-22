@@ -41,19 +41,20 @@ namespace Markdig.Renderers.Normalize.Inlines
             //}
             //else
             //{
-                if (!string.IsNullOrEmpty(link.Url))
+            if (!string.IsNullOrEmpty(link.Url))
+            {
+                //var url = AideDeJeu.Tools.Helpers.RemoveDiacritics(link.Url).Replace(".md#", "_") + ".md";
+                renderer.Write('(').Write(link.Url);
+
+                if (!string.IsNullOrEmpty(link.Title))
                 {
-                    renderer.Write('(').Write(link.Url);
-
-                    if (!string.IsNullOrEmpty(link.Title))
-                    {
-                        renderer.Write(" \"");
-                        renderer.Write(link.Title.Replace(@"""", @"\"""));
-                        renderer.Write("\"");
-                    }
-
-                    renderer.Write(')');
+                    renderer.Write(" \"");
+                    renderer.Write(link.Title.Replace(@"""", @"\"""));
+                    renderer.Write("\"");
                 }
+
+                renderer.Write(')');
+            }
             //}
         }
     }

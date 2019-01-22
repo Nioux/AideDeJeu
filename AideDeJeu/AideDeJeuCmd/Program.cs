@@ -342,14 +342,35 @@ namespace AideDeJeuCmd
 
                 foreach (var item in await context.Items.ToListAsync())
                 {
-                    matchids[item.Id] = Helpers.RemoveDiacritics(item.Id).Replace(".md#", "_") + ".md";
+                    matchids[item.Id] = item.NewId;
+                    if (!string.IsNullOrEmpty(item.RootId))
+                    {
+                        matchids[item.RootId] = item.NewId;
+                    }
+                    // Helpers.RemoveDiacritics(item.Id).Replace(".md#", "_") + ".md";
                 }
 
                 foreach (var item in await context.Items.ToListAsync())
                 {
                     var filename = Path.Combine(outDir, WebUtility.UrlEncode(item.NewId));
-                    await SaveStringAsync(filename, item.YamlMarkdown);
+                    var yaml = item.YamlMarkdown;
+                    //var rx = new Regex(@"\(.*?\.md.*?\)");
+                    //var matchess = rx.Matches(yaml);
+                    //foreach (Match match in matchess)
+                    //{
+                    //    yaml = yaml.Replace(match.Value, matchids[match.Value]);
+                    //}
+                    foreach (var matchid in matchids)
+                    {
+                        yaml = yaml.Replace($"({matchid.Key})", $"({matchid.Value})");
+                    }
+                    if(filename.Contains("%"))
+                    {
+                        Console.WriteLine(filename);
+                    }
+                    await SaveStringAsync(filename, yaml);
                 }
+                int i = 1;
 
                 //var serializer = new SerializerBuilder()
                 //    .WithTagMapping("!MonsterHD", typeof(MonsterHD))
