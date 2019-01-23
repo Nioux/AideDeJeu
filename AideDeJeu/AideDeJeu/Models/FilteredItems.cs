@@ -24,25 +24,16 @@ namespace AideDeJeuLib
 
             }
         }
-        public override string Markdown
+
+        [IgnoreDataMember]
+        [YamlIgnore]
+        public override string YamlMarkdown
         {
             get
             {
-                if (_Items != null)
-                {
-                    var md = string.Empty;
-                    foreach (var item in _Items)
-                    {
-                        md += item.Markdown;
-                    }
-                    return md;
-                }
-                return null;
-            }
-            set
-            {
-
+                return $"---\n{Yaml}---\n{SubMarkdown}";
             }
         }
+
     }
 }

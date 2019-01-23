@@ -238,11 +238,34 @@ namespace AideDeJeuLib
 
         [IgnoreDataMember]
         [YamlIgnore]
-        public string YamlMarkdown
+        public virtual string YamlMarkdown
         {
             get
             {
                 return $"---\n{Yaml}---\n{CleanMarkdown}";
+            }
+        }
+
+        [IgnoreDataMember]
+        [YamlIgnore]
+        public string SubMarkdown
+        {
+            get
+            {
+                if (_Items != null)
+                {
+                    var md = string.Empty;
+                    foreach (var item in _Items)
+                    {
+                        md += item.CleanMarkdown;
+                    }
+                    return md;
+                }
+                return null;
+            }
+            set
+            {
+
             }
         }
 

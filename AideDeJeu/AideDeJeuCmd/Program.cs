@@ -352,7 +352,7 @@ namespace AideDeJeuCmd
 
                 foreach (var item in await context.Items.ToListAsync())
                 {
-                    await item.LoadFilteredItemsAsync();
+                    //await item.LoadFilteredItemsAsync();
                     if(item is Spells)
                     {
                         int iii = 1;
@@ -374,6 +374,19 @@ namespace AideDeJeuCmd
                         Console.WriteLine(filename);
                     }
                     await SaveStringAsync(filename, yaml);
+
+                    var filtervm = item.GetNewFilterViewModel();
+                    if(filtervm != null)
+                    {
+                        foreach(var filter in filtervm.Filters)
+                        {
+                            foreach(var kv in filter.KeyValues)
+                            {
+                                var key = kv.Key;
+                                var val = kv.Value;
+                            }
+                        }
+                    }
                 }
                 int i = 1;
 
