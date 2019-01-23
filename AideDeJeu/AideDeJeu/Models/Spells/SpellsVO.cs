@@ -5,7 +5,7 @@ using System.Text;
 
 namespace AideDeJeuLib
 {
-    public class SpellsVO : Item
+    public class SpellsVO : Spells
     {
         public override FilterViewModel GetNewFilterViewModel()
         {

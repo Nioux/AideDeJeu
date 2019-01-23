@@ -6,7 +6,7 @@ using System.Text;
 
 namespace AideDeJeuLib
 {
-    public class MagicItems : Item
+    public class MagicItems : FilteredItems
     {
         public override FilterViewModel GetNewFilterViewModel()
         {

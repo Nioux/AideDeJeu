@@ -352,7 +352,11 @@ namespace AideDeJeuCmd
 
                 foreach (var item in await context.Items.ToListAsync())
                 {
-                    var filename = Path.Combine(outDir, WebUtility.UrlEncode(item.NewId));
+                    await item.LoadFilteredItemsAsync();
+                    if(item is Spells)
+                    {
+                        int iii = 1;
+                    }
                     var yaml = item.YamlMarkdown;
                     //var rx = new Regex(@"\(.*?\.md.*?\)");
                     //var matchess = rx.Matches(yaml);
@@ -364,7 +368,8 @@ namespace AideDeJeuCmd
                     {
                         yaml = yaml.Replace($"({matchid.Key})", $"({matchid.Value})");
                     }
-                    if(filename.Contains("%"))
+                    var filename = Path.Combine(outDir, WebUtility.UrlEncode(item.NewId));
+                    if (filename.Contains("%"))
                     {
                         Console.WriteLine(filename);
                     }

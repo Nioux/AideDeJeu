@@ -5,7 +5,7 @@ using System.Text;
 
 namespace AideDeJeuLib
 {
-    public class Equipments : Item
+    public class Equipments : FilteredItems
     {
         public override FilterViewModel GetNewFilterViewModel()
         {

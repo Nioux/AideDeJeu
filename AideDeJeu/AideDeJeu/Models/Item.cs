@@ -19,7 +19,7 @@ namespace AideDeJeuLib
     [DataContract]
     public class Item //: IList<Item>
     {
-        private List<Item> _Items;
+        protected List<Item> _Items;
 
         public Item(List<Item> items)
         {
@@ -62,6 +62,11 @@ namespace AideDeJeuLib
         public virtual FilterViewModel GetNewFilterViewModel()
         {
             return null;
+        }
+
+        public virtual async Task LoadFilteredItemsAsync()
+        {
+            _Items = (await GetChildrenAsync()).ToList();
         }
 
         //public int IndexOf(Item item)
@@ -209,6 +214,7 @@ namespace AideDeJeuLib
             { "MagicItem", typeof(MagicItem) },
             { "MagicItems", typeof(MagicItems) },
             { "PageItem", typeof(PageItem) },
+            { "ListItems", typeof(List<Items>) },
         };
 
         [IgnoreDataMember]
