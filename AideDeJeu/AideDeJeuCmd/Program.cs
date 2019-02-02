@@ -293,6 +293,41 @@ namespace AideDeJeuCmd
             Console.ReadLine();
         }
 
+
+        static string inDir = @"..\..\..\..\..\Data\";
+
+        public static async Task PreloadAllItemsFromFilesAsync(StoreViewModel store)
+        {
+            foreach (var fileName in Directory.GetFiles(inDir, "*.md", new EnumerationOptions() { MatchType = MatchType.Simple, RecurseSubdirectories = false  }))
+            {
+                //foreach (var resourceName in Tools.Helpers.GetResourceNames())
+                //{
+                var shortName = fileName.Substring(inDir.Length);
+                var regex = new Regex(@"(?<name>.*?)\.md");
+                var match = regex.Match(shortName);
+                var source = match.Groups["name"].Value;
+                if (!string.IsNullOrEmpty(source))
+                {
+                    if (!store._AllItems.ContainsKey(source))
+                    {
+                        //ar md = await AideDeJeu.Tools.Helpers.GetResourceStringAsync(resourceName);
+                        var md = await File.ReadAllTextAsync(fileName);
+                        if (md != null)
+                        {
+                            var item = store.ToItem(source, md, store._AllItems);
+                            if (item != null)
+                            {
+                                var anchors = new Dictionary<string, Item>();
+                                //MakeAnchors(source, anchors, item);
+                                item.RootId = $"{source}.md";
+                                store._AllItems[source] = item;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
         static string outDir = @"..\..\..\..\..\Data\HD\";
 
         static async Task Main(string[] args)
@@ -304,7 +339,8 @@ namespace AideDeJeuCmd
             //await store.GetItemFromDataAsync("test", "truc");
 
             var store = new StoreViewModel();
-            await store.PreloadAllItemsAsync();
+            //await store.PreloadAllItemsAsync();
+            await PreloadAllItemsFromFilesAsync(store);
 
             var index = store._AllItems.Where(it => it.Value.RootId == "index.md").FirstOrDefault();
             index.Value.Id = index.Value.RootId;
