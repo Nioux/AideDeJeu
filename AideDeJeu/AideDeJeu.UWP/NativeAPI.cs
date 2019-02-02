@@ -47,7 +47,7 @@ namespace AideDeJeu.UWP
         }
         public string GetNewFilePath(string fileName, string extension)
         {
-            var documentsDirectoryPath = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
+            var documentsDirectoryPath = Windows.Storage.ApplicationData.Current.LocalCacheFolder.Path;
             return Path.Combine(documentsDirectoryPath, $"{fileName}.{extension}");
         }
         public async Task CopyOldToNewFileAsync(string fileName, string extension)

@@ -2,5 +2,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="32" android:versionName="1.32" package="com.nioux.aidedejeubeta" android:installLocation="preferExternal">
 	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="27" />
 	<uses-permission android:name="android.permission.INTERNET" />
-	<application android:label="Haches &amp; Dés" android:icon="@drawable/battle_axe"></application>
+	<application android:label="Haches &amp; Dés beta" android:icon="@drawable/battle_axe"></application>
 </manifest>
