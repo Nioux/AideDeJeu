@@ -131,7 +131,7 @@
       <Version>2.2.1</Version>
     </PackageReference>
     <PackageReference Include="Rg.Plugins.Popup">
-      <Version>1.1.5.180</Version>
+      <Version>1.1.5.188</Version>
     </PackageReference>
     <PackageReference Include="SkiaSharp.Svg">
       <Version>1.60.0</Version>

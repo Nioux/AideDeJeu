@@ -6,7 +6,7 @@ ParentLink: classes_hd.md
 Name: Clerc
 ParentName: Classes
 NameLevel: 1
-AltName: ' (SRD p15)'
+AltName: Cleric (SRD p15)
 Source: (MDR p129)
 ---
 >  [Classes](hd_classes.md)
@@ -16,7 +16,7 @@ Source: (MDR p129)
 
 # Clerc
 
-- AltName:  (SRD p15)
+- AltName: Cleric (SRD p15)
 - Source: (MDR p129)
 
 
