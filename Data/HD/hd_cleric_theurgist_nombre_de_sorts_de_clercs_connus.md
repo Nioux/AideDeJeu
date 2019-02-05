@@ -16,10 +16,3 @@ NameLevel: 3
 |---|---|---|---|---|---|---|---|---|---|
 |Sorts|8|8|7|6|5|4|3|2|2|
 
-[Force]: abilities_strength_hd.md
-[Dextérité]: abilities_dexterity_hd.md
-[Constitution]: abilities_constitution_hd.md
-[Intelligence]: abilities_intelligence_hd.md
-[Sagesse]: abilities_wisdom_hd.md
-[Charisme]: abilities_charisma_hd.md
-[Arcanes]: abilities_intelligence_hd.md#arcanes

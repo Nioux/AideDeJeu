@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Voies primitives](barbarian_hd.md#voies-primitives)<!--/ParentNameLink-->
 
@@ -59,7 +59,7 @@ Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous pouss
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

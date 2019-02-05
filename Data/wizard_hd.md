@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -218,7 +218,7 @@ L'apparence de votre grimoire. Votre grimoire est une compilation unique de sort
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Académicien]: wizard_academician_hd.md
 [Arpenteur]: wizard_surveyor_hd.md

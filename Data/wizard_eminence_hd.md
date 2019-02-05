@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Traditions arcaniques](wizard_hd.md#traditions-arcaniques)<!--/ParentNameLink-->
 
@@ -79,7 +79,7 @@ Vous pouvez lancer vos quatre sorts privilégiés ([compréhension des langues],
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

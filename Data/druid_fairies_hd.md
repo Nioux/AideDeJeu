@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Cercles druidiques](druid_hd.md#cercles-druidiques)<!--/ParentNameLink-->
 
@@ -92,7 +92,7 @@ Vous maîtrisez à présent la plus puissante magie des fées.
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

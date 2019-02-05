@@ -1,12 +1,12 @@
 ﻿---
-!Items
+!ClassItem
+Name: 'Pisteur : un rôdeur alternatif'
+Source: (MDR p200)
 Id: ranger_pisteur_hd.md#pisteur--un-rôdeur-alternatif
 RootId: ranger_pisteur_hd.md
 ParentLink: ranger_hd.md#archétypes-de-rôdeurs
-Name: 'Pisteur : un rôdeur alternatif'
 ParentName: Archétypes de rôdeur
 NameLevel: 1
-Source: (MDR p200)
 ---
 >  [Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)
 

@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Protecteurs d'outre-monde](warlock_hd.md#protecteurs-doutre-monde)<!--/ParentNameLink-->
 
@@ -68,7 +68,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre d'avoir term
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

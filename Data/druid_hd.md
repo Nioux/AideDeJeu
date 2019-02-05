@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -203,7 +203,7 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Cercle de la terre]: druid_earth_hd.md
 [Cercle des saisons]: druid_seasons_hd.md

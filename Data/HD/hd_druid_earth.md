@@ -1,13 +1,13 @@
 ﻿---
-!Items
+!ClassItem
+Name: Cercle de la terre
+Source: (MDR p145)
 Id: druid_earth_hd.md#cercle-de-la-terre
 RootId: druid_earth_hd.md
 ParentLink: druid_hd.md#cercles-druidiques
-Name: Cercle de la terre
 ParentName: Cercles druidiques
 NameLevel: 1
 AltName: Circle of the Land (SRD p21)
-Source: (MDR p145)
 ---
 >  [Cercles druidiques](hd_druid_cercles_druidiques.md)
 

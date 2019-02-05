@@ -1,13 +1,13 @@
 ﻿---
-!Items
+!ClassItem
+Name: Voleur
+Source: (MDR p204)
 Id: rogue_thief_hd.md#voleur
 RootId: rogue_thief_hd.md
 ParentLink: rogue_hd.md#archétypes-de-roublard
-Name: Voleur
 ParentName: Archétypes de roublard
 NameLevel: 1
 AltName: Thief (SRD p40)
-Source: (MDR p204)
 ---
 >  [Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)
 

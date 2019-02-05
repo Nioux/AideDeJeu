@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+CharismaBonus: 1
 Id: halfling_hd.md#halfelin-pied-léger
 ParentLink: halfling_hd.md#halfelin
 Name: Halfelin pied-léger

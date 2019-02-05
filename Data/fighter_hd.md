@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -180,7 +180,7 @@ Chaque guerrier a sa propre approche du combat et de la façon de se perfectionn
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Champion]: fighter_champion_hd.md
 [Bretteur]: fighter_swordsman_hd.md

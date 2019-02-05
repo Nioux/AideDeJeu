@@ -1,13 +1,13 @@
 ﻿---
-!Items
+!ClassItem
+Name: Champion
+Source: (MDR p162)
 Id: fighter_champion_hd.md#champion
 RootId: fighter_champion_hd.md
 ParentLink: fighter_hd.md#archétypes-martiaux
-Name: Champion
 ParentName: Archétypes martiaux
 NameLevel: 1
 AltName: Champion (SRD p25)
-Source: (MDR p162)
 ---
 >  [Archétypes martiaux](hd_fighter_archetypes_martiaux.md)
 

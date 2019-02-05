@@ -1,5 +1,7 @@
 ﻿---
 !RaceItem
+StrengthBonus: 2
+CharismaBonus: 1
 Id: dragonborn_hd.md#sangdragon
 RootId: dragonborn_hd.md
 ParentLink: races_hd.md#

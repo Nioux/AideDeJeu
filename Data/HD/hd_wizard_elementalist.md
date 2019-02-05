@@ -1,12 +1,12 @@
 ﻿---
-!Items
+!ClassItem
+Name: Élémentaliste
+Source: (MDR p171)
 Id: wizard_elementalist_hd.md#Élémentaliste
 RootId: wizard_elementalist_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques
-Name: Élémentaliste
 ParentName: Traditions arcaniques
 NameLevel: 1
-Source: (MDR p171)
 ---
 >  [Traditions arcaniques](hd_wizard_traditions_arcaniques.md)
 

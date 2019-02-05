@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+ConstitutionBonus: 2
 Id: dwarf_hd.md#nain
 RootId: dwarf_hd.md
 ParentLink: races_hd.md#

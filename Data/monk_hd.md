@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -294,7 +294,7 @@ Il est possible de suivre quatre traditions monacales différentes dans les mona
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Voie de la main ouverte]: monk_openhand_hd.md
 [Voie des cinq animaux]: monk_fiveanimals_hd.md

@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Sorcier](warlock_hd.md)<!--/ParentNameLink-->
 
@@ -50,7 +50,7 @@ Si vous perdez votre livre des ombres, vous pouvez accomplir une cérémonie d'u
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 
 

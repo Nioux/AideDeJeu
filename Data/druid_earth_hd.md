@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Cercles druidiques](druid_hd.md#cercles-druidiques)<!--/ParentNameLink-->
 
@@ -166,7 +166,7 @@ La créature est consciente de cet effet avant de vous attaquer.
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [enchevêtrement]: spells_hd.md#enchevêtrement
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

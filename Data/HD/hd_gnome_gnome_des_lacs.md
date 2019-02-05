@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+WisdomBonus: 1
 Id: gnome_hd.md#gnome-des-lacs
 ParentLink: gnome_hd.md#gnome
 Name: Gnome des lacs

@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Domaines divins](cleric_hd.md#domaines-divins)<!--/ParentNameLink-->
 
@@ -76,6 +76,6 @@ Au niveau 8, vous gagnez la capacité d’insuffler de l’énergie divine dans 
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 

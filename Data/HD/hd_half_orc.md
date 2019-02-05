@@ -1,5 +1,7 @@
 ﻿---
 !RaceItem
+StrengthBonus: 2
+ConstitutionBonus: 1
 Id: half-orc_hd.md#demi-orc
 RootId: half-orc_hd.md
 ParentLink: races_hd.md#

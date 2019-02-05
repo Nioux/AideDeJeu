@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Domaines divins](cleric_hd.md#domaines-divins)<!--/ParentNameLink-->
 
@@ -88,6 +88,9 @@ Votre étude exhaustive des différentes traditions et théories magiques vous p
 |---|---|---|---|---|---|---|---|---|---|
 |Sorts|8|8|7|6|5|4|3|2|2|
 
+<!--/Generic-->
+
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Traditions arcaniques](wizard_hd.md#traditions-arcaniques)<!--/ParentNameLink-->
 
@@ -56,6 +56,6 @@ Vous pouvez utiliser une fois cette aptitude sans ressentir d'effet indésirable
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 

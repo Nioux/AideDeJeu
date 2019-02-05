@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -282,7 +282,7 @@ Les idéaux du rôdeur se déclinent en quatre types de spécialisations : l'arc
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Chasseur]: ranger_hunter_hd.md
 [Archer arcanique]: ranger_arcane_hd.md

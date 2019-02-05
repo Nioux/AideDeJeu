@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+IntelligenceBonus: 2
 Id: gnome_hd.md#gnome
 RootId: gnome_hd.md
 ParentLink: races_hd.md#

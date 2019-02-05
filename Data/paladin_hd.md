@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -310,7 +310,7 @@ Pour devenir un paladin, vous devez prêter un serment qui vous engage à servir
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Serment de dévotion]: paladin_devotion_hd.md
 [Serment d'obédience]: paladin_obedience_hd.md

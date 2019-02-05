@@ -1,5 +1,7 @@
 ﻿---
 !RaceItem
+WisdomBonus: 1<!--/WisdomBonus---->.
+CharismaBonus: 2
 Id: aasimar_hd.md#aasimar
 RootId: aasimar_hd.md
 ParentLink: races_hd.md#races

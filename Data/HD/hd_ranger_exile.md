@@ -1,12 +1,12 @@
 ﻿---
-!Items
+!ClassItem
+Name: Exilé
+Source: (MDR p199)
 Id: ranger_exile_hd.md#exilé
 RootId: ranger_exile_hd.md
 ParentLink: ranger_hd.md#archétypes-de-rôdeurs
-Name: Exilé
 ParentName: Archétypes de rôdeur
 NameLevel: 1
-Source: (MDR p199)
 ---
 >  [Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)
 

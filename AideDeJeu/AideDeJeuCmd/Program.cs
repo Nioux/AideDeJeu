@@ -361,6 +361,33 @@ namespace AideDeJeuCmd
                 var spells = await context.Spells.ToListAsync();
                 var classes = await context.Classes.ToListAsync();
                 var races = await context.Races.ToListAsync();
+                var items = await context.Items.ToListAsync();
+
+                foreach (var c in classes)
+                {
+                    var parent = items.Where(it => it.Id == c.ParentLink).FirstOrDefault();
+                    if (parent != null)
+                    {
+                        var pparent = items.Where(iit => iit.Id == parent.ParentLink).FirstOrDefault();
+                        if(pparent != null && pparent is ClassItem)
+                        {
+                            Console.WriteLine($"{pparent.Name} - {c.Name}");
+                        }
+                    }
+                }
+
+                foreach(var r in races)
+                {
+                    var parent = items.Where(it => it.Id == r.ParentLink).FirstOrDefault();
+                    if(parent != null && parent is RaceItem)
+                    {
+                        Console.WriteLine($"{parent.Name} - {r.Name}");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"{r.Name}");
+                    }
+                }
 
                 //var item1 = monsters.FirstOrDefault();
 
@@ -374,7 +401,6 @@ namespace AideDeJeuCmd
                 //var test2m = item2.Markdown;
                 //var test2ym = item2.YamlMarkdown;
 
-                var items = await context.Items.ToListAsync();
 
                 var matchids = new Dictionary<string, string>();
 

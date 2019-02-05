@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -215,7 +215,7 @@ Il ne s'agit pas nécessairement de votre profession, mais d'une description des
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Voleur]: rogue_thief_hd.md
 [Brute]: rogue_brute_hd.md

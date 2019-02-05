@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Serments sacrés](paladin_hd.md#serments-sacrés)<!--/ParentNameLink-->
 
@@ -89,7 +89,7 @@ De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un a
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [à terre]: conditions_hd.md#À-terre
 [Force]: abilities_strength_hd.md

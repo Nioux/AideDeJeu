@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Cercles druidiques](druid_hd.md#cercles-druidiques)<!--/ParentNameLink-->
 
@@ -160,7 +160,7 @@ Cette aptitude remplace et annule l'aptitude du même nom obtenue par les druide
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

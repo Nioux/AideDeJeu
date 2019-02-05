@@ -1,12 +1,12 @@
 ﻿---
-!Items
+!ClassItem
+Name: Serment de piété
+Source: (MDR p190)
 Id: paladin_piety_hd.md#serment-de-piété
 RootId: paladin_piety_hd.md
 ParentLink: paladin_hd.md#serments-sacrés
-Name: Serment de piété
 ParentName: Serments sacrés
 NameLevel: 1
-Source: (MDR p190)
 ---
 >  [Serments sacrés](hd_paladin_serments_sacres.md)
 

@@ -1,5 +1,7 @@
 ﻿---
 !RaceItem
+IntelligenceBonus: 1
+CharismaBonus: 2
 Id: tiefling_hd.md#tieffelin
 RootId: tiefling_hd.md
 ParentLink: races_hd.md#

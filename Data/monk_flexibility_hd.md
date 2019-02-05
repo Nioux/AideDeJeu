@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Traditions monacales](monk_hd.md#traditions-monacales)<!--/ParentNameLink-->
 
@@ -53,7 +53,7 @@ Lorsque vous réussissez une empoignade, vous pouvez dépenser 3 points de ki po
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

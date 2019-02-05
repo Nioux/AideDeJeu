@@ -1,12 +1,12 @@
 ﻿---
-!Items
+!ClassItem
+Name: Espion
+Source: (MDR p206)
 Id: rogue_spy_hd.md#espion
 RootId: rogue_spy_hd.md
 ParentLink: rogue_hd.md#archétypes-de-roublard
-Name: Espion
 ParentName: Archétypes de roublard
 NameLevel: 1
-Source: (MDR p206)
 ---
 >  [Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)
 

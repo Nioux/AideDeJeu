@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Traditions arcaniques](wizard_hd.md#traditions-arcaniques)<!--/ParentNameLink-->
 
@@ -103,7 +103,7 @@ Sorts supérieurs. Lorsque vous lancez un sort de votre école qui utilise un em
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

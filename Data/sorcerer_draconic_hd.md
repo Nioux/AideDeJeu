@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Origines magiques](sorcerer_hd.md#origines-magiques)<!--/ParentNameLink-->
 
@@ -92,7 +92,7 @@ Une créature qui réussit son [jet de sauvegarde] est immunisée à votre aura 
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

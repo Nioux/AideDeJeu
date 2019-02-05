@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Collèges bardiques](bard_hd.md#collèges-bardiques)<!--/ParentNameLink-->
 
@@ -66,7 +66,7 @@ Au niveau 14, votre spécialité fait de vous un professionnel accompli et un ad
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

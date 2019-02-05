@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Domaines divins](cleric_hd.md#domaines-divins)<!--/ParentNameLink-->
 
@@ -501,7 +501,7 @@ Accueillir dans le corps d'un simple mortel ne serait-ce qu'une infime partie de
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [léger comme une plume]: spells_hd.md#léger-comme-une-plume
 [bourrasque]: spells_hd.md#bourrasque

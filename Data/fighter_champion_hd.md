@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Archétypes martiaux](fighter_hd.md#archétypes-martiaux)<!--/ParentNameLink-->
 
@@ -54,7 +54,7 @@ Au niveau 18, vous avez atteint le summum de votre endurance en combat. Si, au d
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

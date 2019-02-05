@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Voies primitives](barbarian_hd.md#voies-primitives)<!--/ParentNameLink-->
 
@@ -49,7 +49,7 @@ Au niveau 14 et par la suite, lorsque vous êtes sous l'effet de la rage, vous b
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

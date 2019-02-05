@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Cercles druidiques](druid_hd.md#cercles-druidiques)<!--/ParentNameLink-->
 
@@ -71,7 +71,7 @@ Vous devez terminer votre déplacement à l'air libre. Si ce n'est pas le cas, v
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 
 [Oxydeur]: monsters_hd.md#oxydeur

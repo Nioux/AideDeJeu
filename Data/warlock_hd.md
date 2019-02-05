@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -214,7 +214,7 @@ Pacte du grimoire. Votre livre des ombres peut être un ouvrage très ancien, no
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Le fiélon]: warlock_fiendish_hd.md
 [Le seigneur immortel]: warlock_immortal_hd.md

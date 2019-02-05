@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+CharismaBonus: 1
 Id: elf_hd.md#elfe-de-fer
 ParentLink: elf_hd.md#elfe
 Name: Elfe de fer

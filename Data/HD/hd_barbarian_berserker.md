@@ -1,13 +1,13 @@
 ﻿---
-!Items
+!ClassItem
+Name: Voie du berserker
+Source: (MDR p116)
 Id: barbarian_berserker_hd.md#voie-du-berserker
 RootId: barbarian_berserker_hd.md
 ParentLink: barbarian_hd.md#voies-primitives
-Name: Voie du berserker
 ParentName: Voies primitives
 NameLevel: 1
 AltName: Wisdom (SRD p9)
-Source: (MDR p116)
 ---
 >  [Voies primitives](hd_barbarian_voies_primitives.md)
 

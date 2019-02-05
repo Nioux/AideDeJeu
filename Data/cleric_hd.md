@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -209,7 +209,7 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Prêtre]: cleric_priest_hd.md
 [Gardien des traditions]: cleric_traditions_hd.md

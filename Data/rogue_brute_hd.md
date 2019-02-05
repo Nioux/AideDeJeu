@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Archétypes de roublard](rogue_hd.md#archétypes-de-roublard)<!--/ParentNameLink-->
 
@@ -59,7 +59,7 @@ Vous n'êtes sans doute pas comparable à un guerrier pour taper à tour de bras
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

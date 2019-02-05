@@ -1,13 +1,13 @@
 ﻿---
-!Items
+!ClassItem
+Name: Sorcier
+Source: (MDR p209)
 Id: warlock_hd.md#sorcier
 RootId: warlock_hd.md
 ParentLink: classes_hd.md
-Name: Sorcier
 ParentName: Classes
 NameLevel: 1
 AltName: Warlock (SRD p46)
-Source: (MDR p209)
 ---
 >  [Classes](hd_classes.md)
 

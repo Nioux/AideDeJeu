@@ -1,13 +1,13 @@
 ﻿---
-!Items
+!ClassItem
+Name: Ensorceleur
+Source: (MDR p152)
 Id: sorcerer_hd.md#ensorceleur
 RootId: sorcerer_hd.md
 ParentLink: classes_hd.md
-Name: Ensorceleur
 ParentName: Classes
 NameLevel: 1
 AltName: Sorcerer (SRD p41)
-Source: (MDR p152)
 ---
 >  [Classes](hd_classes.md)
 

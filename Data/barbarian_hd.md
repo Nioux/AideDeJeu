@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -223,7 +223,7 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 
 

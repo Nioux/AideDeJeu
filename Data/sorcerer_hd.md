@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -284,7 +284,7 @@ La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si d
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Lignée draconique]: sorcerer_draconic_hd.md
 [Lignée céleste]: sorcerer_celestial_hd.md

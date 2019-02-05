@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Origines magiques](sorcerer_hd.md#origines-magiques)<!--/ParentNameLink-->
 
@@ -61,7 +61,7 @@ La transformation vous coûte un nombre de points de sorcellerie égal à l'indi
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

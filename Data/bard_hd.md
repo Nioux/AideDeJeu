@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Classes](classes_hd.md)<!--/ParentNameLink-->
 
@@ -227,7 +227,7 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Collège du savoir]: bard_knowledge_hd.md
 [Collège des diplomates]: bard_diplomats_hd.md

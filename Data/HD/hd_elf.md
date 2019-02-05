@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+DexterityBonus: 2
 Id: elf_hd.md#elfe
 RootId: elf_hd.md
 ParentLink: races_hd.md#

@@ -1,5 +1,7 @@
 ﻿---
 !RaceItem
+WisdomBonus: 2
+CharismaBonus: 1
 Id: homme-serpent_hd.md#homme-serpent
 RootId: homme-serpent_hd.md
 ParentLink: races_hd.md#

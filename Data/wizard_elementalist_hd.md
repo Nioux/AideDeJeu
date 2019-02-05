@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--ClassItem-->
 
 > <!--ParentNameLink-->[Traditions arcaniques](wizard_hd.md#traditions-arcaniques)<!--/ParentNameLink-->
 
@@ -153,7 +153,7 @@ Au niveau 14, vous pouvez dépenser une action bonus pour augmenter de 2 niveaux
 
 <!--/Generic-->
 
-<!--/Items-->
+<!--/ClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+WisdomBonus: 1
 Id: dwarf_hd.md#nain-des-tertres
 ParentLink: dwarf_hd.md#nain
 Name: Nain des tertres
