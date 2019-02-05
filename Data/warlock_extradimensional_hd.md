@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Protecteurs d'outre-monde](warlock_hd.md#protecteurs-doutre-monde)<!--/ParentNameLink-->
 
@@ -63,7 +63,7 @@ Si aucun espace libre n'existe à portée, vous êtes perdu dans les limbes et c
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

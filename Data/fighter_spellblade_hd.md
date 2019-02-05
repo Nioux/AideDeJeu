@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Archétypes martiaux](fighter_hd.md#archétypes-martiaux)<!--/ParentNameLink-->
 
@@ -98,7 +98,7 @@ Lorsque vous atteignez le niveau 18, vous pouvez lancer un sort dont le temps d'
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

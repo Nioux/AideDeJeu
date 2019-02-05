@@ -1,13 +1,13 @@
 ﻿---
-!ClassItem
-Name: Collège du savoir
-Source: (MDR p125)
+!SubClassItem
 Id: bard_knowledge_hd.md#collège-du-savoir
 RootId: bard_knowledge_hd.md
 ParentLink: bard_hd.md#collèges-bardiques
+Name: Collège du savoir
 ParentName: Collèges bardiques
 NameLevel: 1
 AltName: College of Lore (SRD p13)
+Source: (MDR p125)
 ---
 >  [Collèges bardiques](hd_bard_colleges_bardiques.md)
 

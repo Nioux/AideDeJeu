@@ -1,12 +1,12 @@
 ﻿---
-!ClassItem
-Name: Collège des saltimbanques
-Source: (MDR p126)
+!SubClassItem
 Id: bard_acrobats_hd.md#collège-des-saltimbanques
 RootId: bard_acrobats_hd.md
 ParentLink: bard_hd.md#collèges-bardiques
+Name: Collège des saltimbanques
 ParentName: Collèges bardiques
 NameLevel: 1
+Source: (MDR p126)
 ---
 >  [Collèges bardiques](hd_bard_colleges_bardiques.md)
 

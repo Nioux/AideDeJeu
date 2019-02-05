@@ -1,5 +1,5 @@
 ﻿---
-!RaceItem
+!SubRaceItem
 WisdomBonus: 1
 Id: elf_hd.md#elfe-des-sylves
 ParentLink: elf_hd.md#elfe

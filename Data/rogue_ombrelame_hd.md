@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Archétypes de roublard](rogue_hd.md#archétypes-de-roublard)<!--/ParentNameLink-->
 
@@ -98,7 +98,7 @@ Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une second
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

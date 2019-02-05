@@ -1,5 +1,5 @@
 ﻿---
-!RaceItem
+!SubRaceItem
 DexterityBonus: 1
 Id: gnome_hd.md#gnome-des-fées
 ParentLink: gnome_hd.md#gnome

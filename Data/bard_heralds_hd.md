@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Collèges bardiques](bard_hd.md#collèges-bardiques)<!--/ParentNameLink-->
 
@@ -47,7 +47,7 @@ Au niveau 14, sur un champ de bataille, votre simple présence assure les protag
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [terrorisé]: conditions_hd.md#terrorisé

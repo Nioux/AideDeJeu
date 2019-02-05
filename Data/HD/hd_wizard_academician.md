@@ -1,12 +1,12 @@
 ﻿---
-!ClassItem
-Name: Académicien
-Source: (MDR p169)
+!SubClassItem
 Id: wizard_academician_hd.md#académicien
 RootId: wizard_academician_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques
+Name: Académicien
 ParentName: Traditions arcaniques
 NameLevel: 1
+Source: (MDR p169)
 ---
 >  [Traditions arcaniques](hd_wizard_traditions_arcaniques.md)
 

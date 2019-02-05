@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Voies primitives](barbarian_hd.md#voies-primitives)<!--/ParentNameLink-->
 
@@ -73,7 +73,7 @@ Désormais, lorsque vous terminez un repos court, vous récupérez un point de l
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

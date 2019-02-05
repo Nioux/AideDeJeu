@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Domaines divins](cleric_hd.md#domaines-divins)<!--/ParentNameLink-->
 
@@ -91,7 +91,7 @@ Désormais, vous êtes capable de lancer le sort soin des blessures de groupe en
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

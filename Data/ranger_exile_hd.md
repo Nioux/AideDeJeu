@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)<!--/ParentNameLink-->
 
@@ -45,7 +45,7 @@ Lorsque vous atteignez le niveau 7, une longue lutte ou une longue rancoeur vous
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

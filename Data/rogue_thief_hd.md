@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Archétypes de roublard](rogue_hd.md#archétypes-de-roublard)<!--/ParentNameLink-->
 
@@ -60,7 +60,7 @@ Lors du premier round de chaque combat, vous pouvez jouer deux tours. Vous jouez
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

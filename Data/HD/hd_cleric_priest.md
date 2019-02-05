@@ -1,12 +1,12 @@
 ﻿---
-!ClassItem
-Name: Prêtre
-Source: (MDR p132)
+!SubClassItem
 Id: cleric_priest_hd.md#prêtre
 RootId: cleric_priest_hd.md
 ParentLink: cleric_hd.md#domaines-divins
+Name: Prêtre
 ParentName: Domaines divins
 NameLevel: 1
+Source: (MDR p132)
 ---
 >  [Domaines divins](hd_cleric_domaines_divins.md)
 

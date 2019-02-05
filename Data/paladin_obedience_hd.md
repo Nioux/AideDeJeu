@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Serments sacrés](paladin_hd.md#serments-sacrés)<!--/ParentNameLink-->
 
@@ -92,7 +92,7 @@ Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette apt
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

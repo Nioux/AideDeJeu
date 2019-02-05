@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Archétypes martiaux](fighter_hd.md#archétypes-martiaux)<!--/ParentNameLink-->
 
@@ -53,7 +53,7 @@ De plus, à chaque fois que vous utilisez votre aptitude de frappe chirurgicale,
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

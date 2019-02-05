@@ -1,13 +1,13 @@
 ﻿---
 !ClassItem
-Name: Guerrier
-Source: (MDR p160)
 Id: fighter_hd.md#guerrier
 RootId: fighter_hd.md
 ParentLink: classes_hd.md
+Name: Guerrier
 ParentName: Classes
 NameLevel: 1
 AltName: Fighter (SRD p24)
+Source: (MDR p160)
 ---
 >  [Classes](hd_classes.md)
 

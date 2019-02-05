@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Collèges bardiques](bard_hd.md#collèges-bardiques)<!--/ParentNameLink-->
 
@@ -43,7 +43,7 @@ Au niveau 14, lorsqu'un de vos sorts de l'école d'enchantement cesse de faire e
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Force]: abilities_strength_hd.md

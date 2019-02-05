@@ -385,6 +385,8 @@ namespace AideDeJeu.ViewModels
             public DbSet<MonsterVO> MonstersVO { get; set; }
             public DbSet<RaceItem> Races { get; set; }
             public DbSet<ClassItem> Classes { get; set; }
+            public DbSet<SubRaceItem> SubRaces { get; set; }
+            public DbSet<SubClassItem> SubClasses { get; set; }
 
             public AideDeJeuContext(string dbPath)
             {

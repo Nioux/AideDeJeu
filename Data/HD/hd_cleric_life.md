@@ -1,13 +1,13 @@
 ﻿---
-!ClassItem
-Name: Domaine de la Vie
-Source: (MDR p418)
+!SubClassItem
 Id: cleric_life_hd.md#domaine-de-la-vie
 RootId: cleric_life_hd.md
 ParentLink: cleric_hd.md#domaines-divins
+Name: Domaine de la Vie
 ParentName: Domaines divins
 NameLevel: 1
 AltName: Life Domain (SRD p17)
+Source: (MDR p418)
 ---
 >  [Domaines divins](hd_cleric_domaines_divins.md)
 

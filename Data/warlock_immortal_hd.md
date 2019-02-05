@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Protecteurs d'outre-monde](warlock_hd.md#protecteurs-doutre-monde)<!--/ParentNameLink-->
 
@@ -68,7 +68,7 @@ Enfin, la difficulté du [jet de sauvegarde] de votre [pacte avec la Mort] est a
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Serments sacrés](paladin_hd.md#serments-sacrés)<!--/ParentNameLink-->
 
@@ -97,7 +97,7 @@ Vous devez terminer un repos long avant de pouvoir utiliser cette aptitude à no
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

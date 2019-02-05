@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Archétypes de roublard](rogue_hd.md#archétypes-de-roublard)<!--/ParentNameLink-->
 
@@ -69,7 +69,7 @@ Lorsque vous atteignez le niveau 13, vous ne pouvez plus être la cible de magie
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

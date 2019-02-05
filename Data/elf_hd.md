@@ -34,7 +34,7 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en elfe. Le langage des elfes est fluide, avec des intonations subtiles et une grammaire élaborée. La littérature elfique est riche et variée, et leurs chansons et poèmes sont populaires parmi les autres races. De nombreux bardes apprennent à parler elfe afin de pouvoir ajouter des ballades elfiques à leur répertoire.
 
-<!--RaceItem-->
+<!--SubRaceItem-->
 
 ## <!--Name-->Elfe d'aether<!--/Name-->
 
@@ -51,9 +51,9 @@ En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples 
 
 **Langue supplémentaire.** Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 
-<!--/RaceItem-->
+<!--/SubRaceItem-->
 
-<!--RaceItem-->
+<!--SubRaceItem-->
 
 ## <!--Name-->Elfe de fer<!--/Name-->
 
@@ -69,9 +69,9 @@ En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vo
 
 **Langue supplémentaire.** Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 
-<!--/RaceItem-->
+<!--/SubRaceItem-->
 
-<!--RaceItem-->
+<!--SubRaceItem-->
 
 ## <!--Name-->Elfe des sylves<!--/Name-->
 
@@ -85,7 +85,7 @@ En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dan
 
 **Artisans reconnus.** Vous maîtrisez un type d'outils d'artisan de votre choix.
 
-<!--/RaceItem-->
+<!--/SubRaceItem-->
 
 <!--/RaceItem-->
 

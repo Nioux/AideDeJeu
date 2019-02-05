@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Domaines divins](cleric_hd.md#domaines-divins)<!--/ParentNameLink-->
 
@@ -110,7 +110,7 @@ Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état �
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

@@ -1,5 +1,5 @@
 ﻿---
-!RaceItem
+!SubRaceItem
 StrengthBonus: 1
 Id: dwarf_hd.md#nain-des-laves
 ParentLink: dwarf_hd.md#nain

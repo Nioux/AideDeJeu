@@ -1,13 +1,13 @@
 ﻿---
 !ClassItem
-Name: Magicien
-Source: (MDR p166)
 Id: wizard_hd.md#magicien
 RootId: wizard_hd.md
 ParentLink: classes_hd.md
+Name: Magicien
 ParentName: Classes
 NameLevel: 1
 AltName: Wizard (SRD p52)
+Source: (MDR p166)
 ---
 >  [Classes](hd_classes.md)
 

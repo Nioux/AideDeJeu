@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Voies primitives](barbarian_hd.md#voies-primitives)<!--/ParentNameLink-->
 
@@ -42,7 +42,7 @@ Si la créature réussit son [jet de sauvegarde], vous ne pouvez plus utiliser c
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

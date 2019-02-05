@@ -213,6 +213,8 @@ namespace AideDeJeuLib
             { "MagicItems", typeof(MagicItems) },
             { "PageItem", typeof(PageItem) },
             { "ListItems", typeof(List<Items>) },
+            { "SubRaceItem", typeof(SubRaceItem) },
+            { "SubClassItem", typeof(SubClassItem) },
             { "RaceItem", typeof(RaceItem) },
             { "ClassItem", typeof(ClassItem) },
             { "Items", typeof(Items) },

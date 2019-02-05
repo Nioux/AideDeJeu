@@ -1,5 +1,5 @@
 ﻿---
-!RaceItem
+!SubRaceItem
 CharismaBonus: 1
 Id: elf_hd.md#elfe-de-fer
 ParentLink: elf_hd.md#elfe

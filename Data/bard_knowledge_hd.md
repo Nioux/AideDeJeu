@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Collèges bardiques](bard_hd.md#collèges-bardiques)<!--/ParentNameLink-->
 
@@ -50,6 +50,6 @@ Les sorts que vous choisissez fonctionnent pour vous comme des sorts de barde ma
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 

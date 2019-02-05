@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)<!--/ParentNameLink-->
 
@@ -45,6 +45,6 @@ Au niveau 13, vous pouvez choisir un deuxième style de combat.
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 

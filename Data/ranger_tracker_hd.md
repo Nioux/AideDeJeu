@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)<!--/ParentNameLink-->
 
@@ -71,7 +71,7 @@ Au niveau 15, vous obtenez un terrain de prédilection supplémentaire. De plus,
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

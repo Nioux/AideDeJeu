@@ -1,13 +1,13 @@
 ﻿---
 !ClassItem
-Name: Barde
-Source: (MDR p121)
 Id: bard_hd.md#barde
 RootId: bard_hd.md
 ParentLink: classes_hd.md
+Name: Barde
 ParentName: Classes
 NameLevel: 1
 AltName: Bard (SRD p11)
+Source: (MDR p121)
 ---
 >  [Classes](hd_classes.md)
 

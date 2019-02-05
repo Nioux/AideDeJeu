@@ -1,13 +1,13 @@
 ﻿---
 !ClassItem
-Name: Moine
-Source: (MDR p176)
 Id: monk_hd.md#moine
 RootId: monk_hd.md
 ParentLink: classes_hd.md
+Name: Moine
 ParentName: Classes
 NameLevel: 1
 AltName: Monk (SRD p26)
+Source: (MDR p176)
 ---
 >  [Classes](hd_classes.md)
 

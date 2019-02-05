@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Serments sacrés](paladin_hd.md#serments-sacrés)<!--/ParentNameLink-->
 
@@ -100,7 +100,7 @@ Au prix d'une action et d'un niveau d'épuisement, vous pouvez désormais prendr
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

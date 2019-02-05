@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Traditions monacales](monk_hd.md#traditions-monacales)<!--/ParentNameLink-->
 
@@ -52,7 +52,7 @@ Vous ne pouvez utiliser cette aptitude que sur une seule créature à la fois et
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [à terre]: conditions_hd.md#À-terre
 [Force]: abilities_strength_hd.md

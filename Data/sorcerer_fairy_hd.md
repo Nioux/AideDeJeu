@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Origines magiques](sorcerer_hd.md#origines-magiques)<!--/ParentNameLink-->
 
@@ -63,7 +63,7 @@ Vous pouvez y mettre fin à tout moment en utilisant une action.
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -1,12 +1,12 @@
 ﻿---
-!ClassItem
-Name: Archer arcanique
-Source: (MDR p198)
+!SubClassItem
 Id: ranger_arcane_hd.md#archer-arcanique
 RootId: ranger_arcane_hd.md
 ParentLink: ranger_hd.md#archétypes-de-rôdeurs
+Name: Archer arcanique
 ParentName: Archétypes de rôdeur
 NameLevel: 1
+Source: (MDR p198)
 ---
 >  [Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)
 

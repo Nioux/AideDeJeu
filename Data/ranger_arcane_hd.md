@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)<!--/ParentNameLink-->
 
@@ -49,7 +49,7 @@ La flèche tueuse possède les propriétés d'une flèche ordinaire non magique 
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -1,12 +1,12 @@
 ﻿---
-!ClassItem
-Name: Voie de l'acier
-Source: (MDR p117)
+!SubClassItem
 Id: barbarian_steel_hd.md#voie-de-lacier
 RootId: barbarian_steel_hd.md
 ParentLink: barbarian_hd.md#voies-primitives
+Name: Voie de l'acier
 ParentName: Voies primitives
 NameLevel: 1
+Source: (MDR p117)
 ---
 >  [Voies primitives](hd_barbarian_voies_primitives.md)
 

@@ -1,5 +1,5 @@
 ﻿---
-!RaceItem
+!SubRaceItem
 ConstitutionBonus: 1
 Id: gnome_hd.md#gnome-des-roches
 ParentLink: gnome_hd.md#gnome

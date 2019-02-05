@@ -32,7 +32,7 @@ Un halfelin possède de nombreux traits en commun avec tous les autres halfelins
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.
 
-<!--RaceItem-->
+<!--SubRaceItem-->
 
 ## <!--Name-->Halfelin pied-léger<!--/Name-->
 
@@ -45,9 +45,9 @@ En tant que halfelin pied-léger, vous cacher est presque une seconde nature et 
 
 **Discrétion naturelle.** Vous pouvez tenter de vous cacher même quand vous êtes seulement dissimulé par une créature qui fait une taille de plus que vous.
 
-<!--/RaceItem-->
+<!--/SubRaceItem-->
 
-<!--RaceItem-->
+<!--SubRaceItem-->
 
 ## <!--Name-->Halfelin grand-sabot<!--/Name-->
 
@@ -61,7 +61,7 @@ En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu cr
 
 **Travailleur acharné.** Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.
 
-<!--/RaceItem-->
+<!--/SubRaceItem-->
 
 <!--/RaceItem-->
 

@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Traditions monacales](monk_hd.md#traditions-monacales)<!--/ParentNameLink-->
 
@@ -37,7 +37,7 @@ Vous devenez capable de les lancer comme s'il s'agissait de sorts de clerc et il
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

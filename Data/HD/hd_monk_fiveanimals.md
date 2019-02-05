@@ -1,12 +1,12 @@
 ﻿---
-!ClassItem
-Name: Voie des cinq animaux
-Source: (MDR p180)
+!SubClassItem
 Id: monk_fiveanimals_hd.md#voie-des-cinq-animaux
 RootId: monk_fiveanimals_hd.md
 ParentLink: monk_hd.md#traditions-monacales
+Name: Voie des cinq animaux
 ParentName: Traditions monacales
 NameLevel: 1
+Source: (MDR p180)
 ---
 >  [Traditions monacales](hd_monk_traditions_monacales.md)
 

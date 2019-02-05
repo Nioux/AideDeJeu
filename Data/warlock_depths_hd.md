@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Protecteurs d'outre-monde](warlock_hd.md#protecteurs-doutre-monde)<!--/ParentNameLink-->
 
@@ -73,7 +73,7 @@ Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette apt
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

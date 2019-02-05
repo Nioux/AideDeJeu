@@ -1,12 +1,12 @@
 ﻿---
-!ClassItem
-Name: Lignée céleste
-Source: (MDR p156)
+!SubClassItem
 Id: sorcerer_celestial_hd.md#lignée-céleste
 RootId: sorcerer_celestial_hd.md
 ParentLink: sorcerer_hd.md#origines-magiques
+Name: Lignée céleste
 ParentName: Origines magiques
 NameLevel: 1
+Source: (MDR p156)
 ---
 >  [Origines magiques](hd_sorcerer_origines_magiques.md)
 

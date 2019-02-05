@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Serments sacrés](paladin_hd.md#serments-sacrés)<!--/ParentNameLink-->
 
@@ -96,7 +96,7 @@ Après un usage de cette aptitude, vous devez terminer un repos long pour la rec
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

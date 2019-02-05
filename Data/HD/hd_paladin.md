@@ -1,13 +1,13 @@
 ﻿---
 !ClassItem
-Name: Paladin
-Source: (MDR p183)
 Id: paladin_hd.md#paladin
 RootId: paladin_hd.md
 ParentLink: classes_hd.md
+Name: Paladin
 ParentName: Classes
 NameLevel: 1
 AltName: Paladin (SRD p30)
+Source: (MDR p183)
 ---
 >  [Classes](hd_classes.md)
 

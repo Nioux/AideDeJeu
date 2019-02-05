@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Origines magiques](sorcerer_hd.md#origines-magiques)<!--/ParentNameLink-->
 
@@ -63,7 +63,7 @@ Pendant 1 minute ou jusqu'à ce que vous perdiez votre concentration (avec les m
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Traditions arcaniques](wizard_hd.md#traditions-arcaniques)<!--/ParentNameLink-->
 
@@ -57,7 +57,7 @@ Vous obtenez la maîtrise d'une nouvelle compétence de la liste proposée au ni
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

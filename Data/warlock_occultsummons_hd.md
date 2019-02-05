@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Sorcier](warlock_hd.md)<!--/ParentNameLink-->
 
@@ -312,7 +312,7 @@ Vous pouvez lancer fléau en utilisant un emplacement de sort de sorcier. Vous d
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

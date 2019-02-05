@@ -1,13 +1,13 @@
 ﻿---
 !ClassItem
-Name: Barbare
-Source: (MDR p114)
 Id: barbarian_hd.md#barbare
 RootId: barbarian_hd.md
 ParentLink: classes_hd.md
+Name: Barbare
 ParentName: Classes
 NameLevel: 1
 AltName: Barbarian (SRD p8)
+Source: (MDR p114)
 ---
 >  [Classes](hd_classes.md)
 

@@ -1,12 +1,12 @@
 ﻿---
-!ClassItem
-Name: Serment d'obédience
-Source: (MDR p187)
+!SubClassItem
 Id: paladin_obedience_hd.md#serment-dobédience
 RootId: paladin_obedience_hd.md
 ParentLink: paladin_hd.md#serments-sacrés
+Name: Serment d'obédience
 ParentName: Serments sacrés
 NameLevel: 1
+Source: (MDR p187)
 ---
 >  [Serments sacrés](hd_paladin_serments_sacres.md)
 

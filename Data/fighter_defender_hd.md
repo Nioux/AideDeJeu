@@ -1,5 +1,5 @@
 
-<!--ClassItem-->
+<!--SubClassItem-->
 
 > <!--ParentNameLink-->[Archétypes martiaux](fighter_hd.md#archétypes-martiaux)<!--/ParentNameLink-->
 
@@ -66,7 +66,7 @@ Enfin, lorsque vous utilisez l'aptitude bloquer un adversaire, vous pouvez déso
 
 <!--/Generic-->
 
-<!--/ClassItem-->
+<!--/SubClassItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md
