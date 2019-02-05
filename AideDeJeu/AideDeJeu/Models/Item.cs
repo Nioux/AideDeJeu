@@ -326,5 +326,10 @@ namespace AideDeJeuLib
                 return id;
             }
         }
+
+        public override string ToString()
+        {
+            return $"{Name} ({NewId})";
+        }
     }
 }
