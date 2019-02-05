@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -13,7 +13,7 @@
 
 Créature étrange et à sang froid, vous possédez les capacités suivantes.
 
-**Augmentation de caractéristiques.** Votre valeur de [Sagesse] augmente de 2 et votre valeur de [Charisme] de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Sagesse] augmente de <!--WisdomBonus-->2<!--/WisdomBonus--> et votre valeur de [Charisme] de <!--CharismaBonus-->1<!--/CharismaBonus-->.
 
 **Âge.** Les hommes serpents peuvent vivre bien plus longtemps qu'un être humain. Ils atteignent leur maturité à l'âge de 13 ans environ, mais peuvent vivre jusqu'à 150 ans. Cependant, ils peuvent prolonger leur durée de vie en se plongeant dans de longues hibernations qui leur permettent de survivre des dizaines, parfois des centaines d'années avant de se réveiller de nouveau. Cependant, seuls les plus sages des hommes-serpents sont capables d'un tel exploit.
 
@@ -35,7 +35,7 @@ Créature étrange et à sang froid, vous possédez les capacités suivantes.
 
 **Langues.** Vous pouvez lire, écrire et parler le commun. Vous parlez le Sseslish, le dialecte homme serpent qui n’a pas de forme écrite.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

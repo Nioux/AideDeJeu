@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: gnome_hd.md#gnome-des-roches
 ParentLink: gnome_hd.md#gnome
 Name: Gnome des roches

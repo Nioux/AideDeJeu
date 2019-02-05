@@ -383,6 +383,8 @@ namespace AideDeJeu.ViewModels
             public DbSet<MonsterHD> MonstersHD { get; set; }
             public DbSet<SpellVO> SpellsVO { get; set; }
             public DbSet<MonsterVO> MonstersVO { get; set; }
+            public DbSet<RaceItem> Races { get; set; }
+            public DbSet<ClassItem> Classes { get; set; }
 
             public AideDeJeuContext(string dbPath)
             {

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: aasimar_hd.md#aasimar
 RootId: aasimar_hd.md
 ParentLink: races_hd.md#races

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: felys_hd.md#félys
 RootId: felys_hd.md
 ParentLink: races_hd.md#

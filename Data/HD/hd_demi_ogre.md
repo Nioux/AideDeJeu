@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: demi-ogre_hd.md#demi-ogre
 RootId: demi-ogre_hd.md
 ParentLink: races_hd.md#

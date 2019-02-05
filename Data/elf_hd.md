@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,7 +14,7 @@
 
 Votre personnage elfe possède un ensemble de qualités naturelles qui sont le fruit de millénaires de raffinement elfique.
 
-**Augmentation de caractéristiques.** Votre valeur de [Dextérité] augmente de 2.
+**Augmentation de caractéristiques.** Votre valeur de [Dextérité] augmente de <!--DexterityBonus-->2<!--/DexterityBonus-->.
 
 **Âge.** Bien que les elfes atteignent leur maturité physique environ au même âge que les humains, ils considèrent qu'être un adulte dépasse ce simple aspect et prend en compte l'expérience de la vie. Un elfe se déclare généralement adulte vers 100 ans et choisit à ce moment-là son nom d'adulte. Les elfes peuvent vivre jusqu'à 750 ans.
 
@@ -34,7 +34,7 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en elfe. Le langage des elfes est fluide, avec des intonations subtiles et une grammaire élaborée. La littérature elfique est riche et variée, et leurs chansons et poèmes sont populaires parmi les autres races. De nombreux bardes apprennent à parler elfe afin de pouvoir ajouter des ballades elfiques à leur répertoire.
 
-<!--Generic-->
+<!--RaceItem-->
 
 ## <!--Name-->Elfe d'aether<!--/Name-->
 
@@ -43,7 +43,7 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples elfiques. Vous avez une affinité supérieure avec la magie et placez la quête du savoir avant toute chose.
 
-**Augmentation de caractéristiques.** Votre valeur d'[Intelligence] augmente de 1.
+**Augmentation de caractéristiques.** Votre valeur d'[Intelligence] augmente de <!--IntelligenceBonus-->1<!--/IntelligenceBonus-->.
 
 **Entraînement aux armes elfiques.** Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
 
@@ -51,9 +51,9 @@ En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples 
 
 **Langue supplémentaire.** Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
-<!--Generic-->
+<!--RaceItem-->
 
 ## <!--Name-->Elfe de fer<!--/Name-->
 
@@ -61,7 +61,7 @@ En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples 
 
 En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vous avez une grande aisance en société. Vous avez une affinité supérieure avec la magie et appréciez l'art sous toutes ses formes.
 
-**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de <!--CharismaBonus-->1<!--/CharismaBonus-->.
 
 **Entraînement aux armes elfiques.** Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
 
@@ -69,9 +69,9 @@ En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vo
 
 **Langue supplémentaire.** Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
-<!--Generic-->
+<!--RaceItem-->
 
 ## <!--Name-->Elfe des sylves<!--/Name-->
 
@@ -79,15 +79,15 @@ En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vo
 
 En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dans laquelle vous vous sentez chez vous. Vos doigts sont agiles et vous possédez un don pour l'artisanat.
 
-**Augmentation de caractéristiques.** Votre valeur de [Sagesse] augmente de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Sagesse] augmente de <!--WisdomBonus-->1<!--/WisdomBonus-->.
 
 **Créature des terres sauvages.** Vous avez l'habitude de parcourir les espaces naturels. Vous obtenez l'avantage sur vos tests de [Dextérité (Discrétion)] et [Sagesse (Survie)] lorsque vous parcourez des espaces naturels à la lumière du jour ou des étoiles.
 
 **Artisans reconnus.** Vous maîtrisez un type d'outils d'artisan de votre choix.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
-<!--/Items-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

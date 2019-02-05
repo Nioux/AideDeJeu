@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: elf_hd.md#elfe-des-sylves
 ParentLink: elf_hd.md#elfe
 Name: Elfe des sylves

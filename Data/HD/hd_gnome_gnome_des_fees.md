@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: gnome_hd.md#gnome-des-fées
 ParentLink: gnome_hd.md#gnome
 Name: Gnome des fées

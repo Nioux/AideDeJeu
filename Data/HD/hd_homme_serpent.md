@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: homme-serpent_hd.md#homme-serpent
 RootId: homme-serpent_hd.md
 ParentLink: races_hd.md#

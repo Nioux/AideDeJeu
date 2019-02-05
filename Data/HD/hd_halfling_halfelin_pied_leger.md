@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: halfling_hd.md#halfelin-pied-léger
 ParentLink: halfling_hd.md#halfelin
 Name: Halfelin pied-léger

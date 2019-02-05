@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: dwarf_hd.md#nain-des-laves
 ParentLink: dwarf_hd.md#nain
 Name: Nain des laves

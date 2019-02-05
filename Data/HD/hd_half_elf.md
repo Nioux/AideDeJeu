@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: half-elf_hd.md#demi-elfe
 RootId: half-elf_hd.md
 ParentLink: races_hd.md#

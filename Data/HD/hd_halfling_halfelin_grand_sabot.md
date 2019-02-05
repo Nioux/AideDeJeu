@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: halfling_hd.md#halfelin-grand-sabot
 ParentLink: halfling_hd.md#halfelin
 Name: Halfelin grand-sabot

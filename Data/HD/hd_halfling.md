@@ -1,5 +1,5 @@
 ﻿---
-!Items
+!RaceItem
 Id: halfling_hd.md#halfelin
 RootId: halfling_hd.md
 ParentLink: races_hd.md#

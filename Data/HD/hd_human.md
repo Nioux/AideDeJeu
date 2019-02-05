@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: human_hd.md#humain
 RootId: human_hd.md
 ParentLink: races_hd.md#

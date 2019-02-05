@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,7 +14,7 @@
 
 Votre personnage nain est doté d'un ensemble de capacités innées liées à sa nature de nain.
 
-**Augmentation de caractéristiques.** Votre valeur de [Constitution] augmente de 2.
+**Augmentation de caractéristiques.** Votre valeur de [Constitution] augmente de <!--ConstitutionBonus-->2<!--/ConstitutionBonus-->.
 
 **Âge.** Les nains deviennent matures au même rythme que les humains, mais ils se considèrent encore jeunes jusqu'à l'âge de 50 ans. Ils vivent en moyenne 350 ans.
 
@@ -36,7 +36,7 @@ Votre personnage nain est doté d'un ensemble de capacités innées liées à sa
 
 **Langues.** Vous pouvez parler et écrire en commun et en nain. Le nain est une langue aux consonnes dures et aux sons gutturaux, des spécificités qui se retrouvent dans l'accent qu'ont les nains en parlant un autre langage.
 
-<!--Generic-->
+<!--RaceItem-->
 
 ## <!--Name-->Nain des tertres<!--/Name-->
 
@@ -45,13 +45,13 @@ Votre personnage nain est doté d'un ensemble de capacités innées liées à sa
 
 En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif et vous faites preuve d'une résistance remarquable.
 
-**Augmentation de caractéristiques.** Votre valeur de [Sagesse] augmente de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Sagesse] augmente de <!--WisdomBonus-->1<!--/WisdomBonus-->.
 
 **Ténacité naine.** Votre nombre maximum de points de vie augmente de 1. Il augmente à nouveau de +1 à chaque niveau que vous gagnez.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
-<!--Generic-->
+<!--RaceItem-->
 
 ## <!--Name-->Nain des pierres<!--/Name-->
 
@@ -59,13 +59,13 @@ En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif
 
 En tant que nain des pierres, vous êtes ingénieux et savez comment tourner une situation à votre bénéfice.
 
-**Augmentation de caractéristiques.** Votre valeur d'[Intelligence] augmente de 1.
+**Augmentation de caractéristiques.** Votre valeur d'[Intelligence] augmente de <!--IntelligenceBonus-->1<!--/IntelligenceBonus-->.
 
 **Maître des marteaux.** Lorsqu'un nain des pierres inflige des dégâts avec un marteau ou toute autre arme de corps-à-corps contondante, il ignore une éventuelle résistance aux dégâts contondants de sa cible sauf si cette résistance a été accordée par un sort.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
-<!--Generic-->
+<!--RaceItem-->
 
 ## <!--Name-->Nain des laves<!--/Name-->
 
@@ -73,7 +73,7 @@ En tant que nain des pierres, vous êtes ingénieux et savez comment tourner une
 
 En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les conflits et vous ne craignez pas la chaleur.
 
-**Augmentation de caractéristiques.** Votre valeur de [Force] augmente de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Force] augmente de <!--StrengthBonus-->1<!--/StrengthBonus-->.
 
 **Vision dans le noir améliorée.** Quand vous vous trouvez dans le noir total, vous voyez comme en plein jour jusqu'à 18 mètres. Vous êtes cependant toujours incapable de distinguer les couleurs.
 
@@ -81,9 +81,9 @@ En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les 
 
 **Résistance à la chaleur.** Vous bénéficiez d'une résistance aux dégâts de feu.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
-<!--/Items-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

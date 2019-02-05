@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,7 +14,7 @@
 
 Un halfelin possède de nombreux traits en commun avec tous les autres halfelins.
 
-**Augmentation de caractéristiques.** Votre valeur de [Dextérité] augmente de 2.
+**Augmentation de caractéristiques.** Votre valeur de [Dextérité] augmente de <!--DexterityBonus-->2<!--/DexterityBonus-->.
 
 **Âge.** Un halfelin atteint la maturité vers 20 ans et vit généralement 150 ans.
 
@@ -32,7 +32,7 @@ Un halfelin possède de nombreux traits en commun avec tous les autres halfelins
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.
 
-<!--Generic-->
+<!--RaceItem-->
 
 ## <!--Name-->Halfelin pied-léger<!--/Name-->
 
@@ -41,13 +41,13 @@ Un halfelin possède de nombreux traits en commun avec tous les autres halfelins
 
 En tant que halfelin pied-léger, vous cacher est presque une seconde nature et vous n'hésitez pas à utiliser d'autres créatures pour échapper aux regards. Vous êtes d'un naturel plutôt affable et sympathique.
 
-**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de <!--CharismaBonus-->1<!--/CharismaBonus-->.
 
 **Discrétion naturelle.** Vous pouvez tenter de vous cacher même quand vous êtes seulement dissimulé par une créature qui fait une taille de plus que vous.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
-<!--Generic-->
+<!--RaceItem-->
 
 ## <!--Name-->Halfelin grand-sabot<!--/Name-->
 
@@ -55,15 +55,15 @@ En tant que halfelin pied-léger, vous cacher est presque une seconde nature et 
 
 En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu crédule. Grâce à votre vie de labeur, vous êtes résistant et très manuel.
 
-**Augmentation de caractéristiques.** Votre valeur de [Constitution] augmente de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Constitution] augmente de <!--ConstitutionBonus-->1<!--/ConstitutionBonus-->.
 
 **Esprit pragmatique.** Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)] lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde] contre les sorts de charme.
 
 **Travailleur acharné.** Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
-<!--/Items-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

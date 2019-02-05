@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -13,7 +13,7 @@
 
 Un demi-ogre a hérité de certains traits de son ascendance ogre.
 
-**Augmentation de caractéristiques.** Votre valeur de [Constitution] augmente de 2 et votre valeur de [Force] de 2.
+**Augmentation de caractéristiques.** Votre valeur de [Constitution] augmente de <!--ConstitutionBonus-->2<!--/ConstitutionBonus--> et votre valeur de [Force] de <!--StrengthBonus-->2<!--/StrengthBonus-->.
 
 **Âge.** Les demi-ogres arrivent rapidement à l'âge adulte, à l'âge de 10 ans. Cependant, une fois leur maturité atteinte, ils vieillissent légèrement plus lentement que les êtres humains. Ainsi, un demi-ogre peut vivre jusqu'à un âge de 125 ans, voire plus, pour peu qu'il ait l'incroyable (et rare) chance de ne pas être mort de manière violente auparavant.
 
@@ -35,7 +35,7 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 
 **Langues.** Vous pouvez lire, écrire et parler le commun ainsi que le géant.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

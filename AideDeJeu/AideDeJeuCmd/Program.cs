@@ -359,6 +359,8 @@ namespace AideDeJeuCmd
                 var monstersHD = await context.MonstersHD.ToListAsync();
                 var monstersVO = await context.MonstersVO.ToListAsync();
                 var spells = await context.Spells.ToListAsync();
+                var classes = await context.Classes.ToListAsync();
+                var races = await context.Races.ToListAsync();
 
                 //var item1 = monsters.FirstOrDefault();
 

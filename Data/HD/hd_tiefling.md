@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: tiefling_hd.md#tieffelin
 RootId: tiefling_hd.md
 ParentLink: races_hd.md#

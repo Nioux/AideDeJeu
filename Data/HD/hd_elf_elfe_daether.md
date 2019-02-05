@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!RaceItem
 Id: elf_hd.md#elfe-daether
 ParentLink: elf_hd.md#elfe
 Name: Elfe d'aether

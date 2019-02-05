@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#races)<!--/ParentNameLink-->
 
@@ -13,7 +13,7 @@
 
 Votre parenté céleste vous a octroyé certains pouvoirs innés.
 
-**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de 2 et votre valeur de [Sagesse] de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de <!--CharismaBonus-->2<!--/CharismaBonus--> et votre valeur de [Sagesse] de <!--WisdomBonus-->1<!--/WisdomBonus---->.
 
 **Âge.** Les aasimars vieillissent à un rythme comparable à celui des humains. Leur espérance de vie est cependant supérieure, et ils peuvent dépasser les 120 ans.
 
@@ -31,7 +31,7 @@ Votre parenté céleste vous a octroyé certains pouvoirs innés.
 
 **Langues.** Vous pouvez lire, écrire et parler le commun, ainsi que le céleste.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

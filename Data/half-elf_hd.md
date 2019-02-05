@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,7 +14,7 @@
 
 Un demi-elfe a quelques qualités communes avec les [elfes], mais d'autres qui sont propres aux demi-elfes.
 
-**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de 2 et deux autres valeurs de votre choix de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de <!--CharismaBonus-->2<!--/CharismaBonus--> et deux autres valeurs de votre choix de 1.
 
 **Âge.** Les demi-elfes grandissent au même rythme que les [humains] et atteignent leur maturité vers 20 ans. Par contre, ils vivent bien plus longtemps que les [humains] et il n'est pas rare qu'ils dépassent 180 ans.
 
@@ -32,7 +32,7 @@ Un demi-elfe a quelques qualités communes avec les [elfes], mais d'autres qui s
 
 **Langues.** Vous pouvez parler, lire et écrire en [commun], en [elfe] et dans une autre langue de votre choix.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

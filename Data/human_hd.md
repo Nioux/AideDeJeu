@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,7 +14,7 @@
 
 Il est difficile de faire des généralisations en ce qui concerne les humains. Ils possèdent les traits suivants :
 
-**Augmentation de caractéristiques.** La valeur de toutes vos caractéristiques augmente de 1.
+**Augmentation de caractéristiques.** La valeur de toutes vos caractéristiques augmente de <!--AllFeaturesBonus-->1<!--/AllFeaturesBonus-->.
 
 **Âge.** Les humains deviennent adultes à la fin de l'adolescence et vivent moins d'un siècle.
 
@@ -37,7 +37,7 @@ En lieu et place de l’augmentation de caractéristiques, vous pouvez opter pou
 
 <!--/Generic-->
 
-<!--/Generic-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

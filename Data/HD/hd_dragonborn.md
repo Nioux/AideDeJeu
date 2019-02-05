@@ -1,5 +1,5 @@
 ﻿---
-!Items
+!RaceItem
 Id: dragonborn_hd.md#sangdragon
 RootId: dragonborn_hd.md
 ParentLink: races_hd.md#
@@ -47,5 +47,5 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 
 
 
-### [Ascendance ](hd_dragonborn_ascendance_.md)
+### [Ascendance](hd_dragonborn_ascendance.md)
 

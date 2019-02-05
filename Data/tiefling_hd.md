@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,7 +14,7 @@
 
 Les tieffelins ont hérité de certains traits raciaux infernaux liés à leur ascendance infernale.
 
-**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de 2 et votre valeur d'[Intelligence] de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de <!--CharismaBonus-->2<!--/CharismaBonus--> et votre valeur d'[Intelligence] de <!--IntelligenceBonus-->1<!--/IntelligenceBonus-->.
 
 **Âge.** Les tieffelins vieillissent à une vitesse comparable aux humains, mais ils vivent quelques années supplémentaires.
 
@@ -32,7 +32,7 @@ Les tieffelins ont hérité de certains traits raciaux infernaux liés à leur a
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en infernal.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,7 +14,7 @@
 
 Un demi-orc a hérité de certains traits de son ascendance orc.
 
-**Augmentation de caractéristiques.** Votre valeur de [Force] augmente de 2 et votre valeur de [Constitution] de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Force] augmente de <!--StrengthBonus-->2<!--/StrengthBonus--> et votre valeur de [Constitution] de <!--ConstitutionBonus-->1<!--/ConstitutionBonus-->.
 
 **Âge.** Les demi-orcs deviennent matures un peu plus vite que les humains. Ils sont considérés comme adultes vers 14 ans. Par contre, ils vieillissent plus vite et vivent rarement plus de 75 ans.
 
@@ -34,7 +34,7 @@ Un demi-orc a hérité de certains traits de son ascendance orc.
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en orc. La langue orc a une sonorité dure et certains sons évoquent des grincements. Les orcs n'ont pas d'alphabet propre et utilisent donc le même alphabet que les nains : le Runique.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

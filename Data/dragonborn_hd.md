@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,7 +14,7 @@
 
 Votre lignée draconique se manifeste par différents traits que vous partagez avec les autres sangdragons.
 
-**Augmentation de caractéristiques.** Votre valeur de [Force] augmente de 2 et votre valeur de [Charisme] de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Force] augmente de <!--StrengthBonus-->2<!--/StrengthBonus--> et votre valeur de [Charisme] de <!--CharismaBonus-->1<!--/CharismaBonus-->.
 
 **Âge.** Les sangdragons grandissent vite. Une fois qu'ils ont éclos, il ne leur faut que quelques heures pour savoir marcher. Ils atteignent une taille et un niveau de développement équivalent à un humain de 10 ans en seulement 3 ans. Ils atteignent l'âge adulte vers 15 ans et ils vivent environ 80 ans.
 
@@ -38,7 +38,7 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 
 <!--Generic-->
 
-### <!--Name-->Ascendance <!--/Name-->
+### <!--Name-->Ascendance<!--/Name-->
 
 |Dragon|Type <!--br-->de <!--br-->dégâts|Souffle|[Jet <!--br-->de <!--br-->sauvegarde]|
 |---|---|---|---|
@@ -53,6 +53,11 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 |Rouge|Feu|Cône de 4,50 m|[Dextérité]|
 |Vert|Poison|Cône de 4,50 m|[Constitution]|
 
+
+<!--/Generic-->
+
+<!--/RaceItem-->
+
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md
 [Constitution]: abilities_constitution_hd.md
@@ -62,7 +67,3 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jet <!--br-->de <!--br-->sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-
-<!--/Generic-->
-
-<!--/Items-->

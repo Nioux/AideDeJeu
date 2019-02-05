@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--RaceItem-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -13,7 +13,7 @@
 
 Vos ancêtres étaient des félins. Ceci vous permet de bénéficier des capacités suivantes.
 
-**Augmentation de caractéristiques.** Votre valeur de [Dextérité] augmente de 2 et votre valeur de [Sagesse] de 1.
+**Augmentation de caractéristiques.** Votre valeur de [Dextérité] augmente de <!--DexterityBonus-->2<!--/DexterityBonus--> et votre valeur de [Sagesse] de <!--WisdomBonus-->1<!--/WisdomBonus-->.
 
 **Âge.** Les félys atteignent rapidement l'âge adulte, aux alentours de 8 ans environ. Cependant, ils vivent moins longtemps qu'un être humain et il est rare de voir un félys dépasser les 50 ans.
 
@@ -37,7 +37,7 @@ Vos ancêtres étaient des félins. Ceci vous permet de bénéficier des capacit
 
 **Langues.** Vous pouvez lire, écrire et parler le commun, ainsi qu'une autre langue de votre choix.
 
-<!--/Generic-->
+<!--/RaceItem-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -208,13 +208,15 @@ namespace AideDeJeuLib
             { "SpellsVO", typeof(SpellsVO) },
             { "Equipment", typeof(Equipment) },
             { "Equipments", typeof(Equipments) },
-            { "Item", typeof(Item) },
-            { "Items", typeof(Items) },
             { "LinkItem", typeof(LinkItem) },
             { "MagicItem", typeof(MagicItem) },
             { "MagicItems", typeof(MagicItems) },
             { "PageItem", typeof(PageItem) },
             { "ListItems", typeof(List<Items>) },
+            { "RaceItem", typeof(RaceItem) },
+            { "ClassItem", typeof(ClassItem) },
+            { "Items", typeof(Items) },
+            { "Item", typeof(Item) },
         };
 
         [IgnoreDataMember]
