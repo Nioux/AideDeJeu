@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--BackgroundItem-->
 
 > <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
 
@@ -15,7 +15,7 @@ Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et vo
 
 **Équipement :** Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.
 
-<!--Generic-->
+<!--BackgroundSpecialtyItem-->
 
 #### <!--Name-->Signe du destin<!--/Name-->
 
@@ -30,15 +30,15 @@ Un événement est survenu dans votre vie, qui a radicalement altéré votre des
 |5|Vous êtes parvenu à sauver des villageois d'une <!--br-->mort certaine en bravant les éléments.|
 |6|Vous avez trouvé une arme ou un symbole qui <!--br-->vous a mené sur votre nouvelle voie.|
 
-<!--/Generic-->
+<!--/BackgroundSpecialtyItem-->
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Communauté<!--/Name-->
 
 Les manouvriers et journaliers forment une communauté soudée qui se serre les coudes en période de vaches maigres, et qui sait que les quelques pièces obtenues du travail d'une journée peuvent parfois faire la différence entre la vie et la mort. En cas de besoin, vous savez faire appel à la solidarité de vos anciens collègues pour obtenir des informations, un peu d'aide ou l'hospitalité.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
 <!--Items-->
 
@@ -46,7 +46,7 @@ Les manouvriers et journaliers forment une communauté soudée qui se serre les 
 
 Les manouvriers constituent une large part de la main d'oeuvre bon marché dans les villes et les cités, où les chantiers, les artisans et les commerçants font appel à eux pour des tâches ponctuelles. Une volonté de fer, un fort sens de la débrouillardise et un dos d'airain sont les principaux atouts de ces travailleurs de l'ombre, qui parviennent parfois à élever leur condition, à force de sacrifices, de talent et de travail.
 
-<!--Generic-->
+<!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
@@ -61,9 +61,9 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 |7|Je m'emporte facilement, et je pardonne encore <!--br-->plus facilement.|
 |8|Je m'arrange toujours pour travailler moins <!--br-->que les autres.|
 
-<!--/Generic-->
+<!--/PersonalityTraitItem-->
 
-<!--Generic-->
+<!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
 
@@ -76,9 +76,9 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 |5|**Indépendance.** Le travail devrait être un <!--br-->moyen de gagner sa liberté. (Chaotique)|
 |6|**Ambition.** Les événements m'ont prouvé que je <!--br-->valais mieux que ce que je pensais. (Tous)|
 
-<!--/Generic-->
+<!--/PersonalityIdealItem-->
 
-<!--Generic-->
+<!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
 
@@ -91,9 +91,9 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 |5|J'ai été déclaré hérétique par les prêtres d'un <!--br-->temple qui n'étaient pas satisfaits de mes <!--br-->services.|
 |6|Brièvement engagé de force dans une armée, <!--br-->j'ai déserté et suis depuis recherché.|
 
-<!--/Generic-->
+<!--/PersonalityLinkItem-->
 
-<!--Generic-->
+<!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
 
@@ -106,11 +106,11 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 |5|Je suis extrêmement crédule, pour peu qu'on <!--br-->me témoigne du respect.|
 |6|Je ne supporte pas de rester enfermé.|
 
-<!--/Generic-->
+<!--/PersonalityDefectItem-->
 
 <!--/Items-->
 
-<!--Items-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Serveur<!--/Name-->
 
@@ -124,17 +124,17 @@ Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes t
 
 **Équipement :** Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Histoires de terres lointaines<!--/Name-->
 
 Vous ne comptez plus le nombre d'histoires de terres inconnues et lointaines que vous avez entendues alors que vous alliez et veniez entre les tables. Même si vous n'avez jamais vu aucune de ces régions mystérieuses, vous avez l'impression d'en connaître certaines intimement. Lorsque vous voyagez vers une contrée inconnue, vous pouvez demander au MJ de vous fournir des informations de base sur votre destination. De plus, lorsque vous et vos compagnons vous trouvez dans une taverne ou une auberge, vous pouvez vous attirer les faveurs du tenancier et de quelques clients en racontant vos histoires ou en profitant de votre expérience. Cela peut vous permettre de glaner quelques informations ou une aide ponctuelle.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
-<!--/Items-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Journalier<!--/Name-->
 
@@ -146,6 +146,6 @@ Les journaliers proposent leurs services dans les villages et les campagnes. Ils
 
 **Équipement :** Habits courants, outre de vin, ensemble d'outils dépendant de son métier, couverture, bourse contenant 10 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--/Items-->
+<!--/BackgroundItem-->

@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--BackgroundItem-->
 
 > <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
 
@@ -17,13 +17,13 @@ Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côt
 
 **Équipement :** Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15 m), bourse contenant 15 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Découvreur<!--/Name-->
 
 Même dans une région qui vous est inconnue, vous êtes capable de déterminer la meilleure route à suivre pour relier un point à un autre, en fonction du climat et du terrain. Toutefois, vos choix ne tiennent pas forcément compte des particularités locales, comme des prédateurs ou des tribus hostiles. Dans un territoire déjà visité, vous êtes capable de dénicher une solution de transport qui vous permet de rallier votre destination. Selon les cas, il peut s'agir d'une caravane, d'un bateau, ou d'un simple chariot emprunté à un paysan. Ce ne sera pas forcément la solution la plus rapide ou la plus confortable, mais elle sera généralement sûre et vous mènera à bon port.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
 <!--Items-->
 
@@ -31,7 +31,7 @@ Même dans une région qui vous est inconnue, vous êtes capable de déterminer 
 
 Les explorateurs se laissent souvent porter par leur goût du risque et de l'inconnu. Ils sont entreprenants, aventureux et résolus à profiter de leur existence au maximum. Ils n'accordent pas beaucoup de valeur aux notions de confort et de sécurité si chères à la plupart de leurs congénères.
 
-<!--Generic-->
+<!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
@@ -46,9 +46,9 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 |7|Un étranger est un ami qui m'est encore <!--br-->inconnu.|
 |8|Je ne refuse jamais un nouveau défi.|
 
-<!--/Generic-->
+<!--/PersonalityTraitItem-->
 
-<!--Generic-->
+<!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
 
@@ -61,9 +61,9 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 |5|**Civilisation.** Explorer l'inconnu, c'est tracer un <!--br-->chemin pour la civilisation. (Loyal)|
 |6|**Nature.** Rien n'égale l'attrait d'un paysage <!--br-->sauvage et vierge de la civilisation. (Neutre)|
 
-<!--/Generic-->
+<!--/PersonalityIdealItem-->
 
-<!--Generic-->
+<!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
 
@@ -76,9 +76,9 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 |5|Au cours de mes voyages, j'ai été sauvé et <!--br-->adopté par un clan ou une tribu isolée. Après <!--br-->plusieurs mois passés parmi eux, j'ai appris à <!--br-->les considérer comme ma famille et j'ai juré de <!--br-->faire mon possible pour les protéger.|
 |6|J'ai un(e) rival(e), et je cherche par tous les <!--br-->moyens à prouver que je suis meilleur que lui/ <!--br-->elle.|
 
-<!--/Generic-->
+<!--/PersonalityLinkItem-->
 
-<!--Generic-->
+<!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
 
@@ -91,11 +91,11 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 |5|Je vois rouge lorsqu'on met en doute mon <!--br-->courage.|
 |6|Je ne supporte pas qu'on me donne des ordres.|
 
-<!--/Generic-->
+<!--/PersonalityDefectItem-->
 
 <!--/Items-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Éclaireur<!--/Name-->
 
@@ -109,9 +109,9 @@ Vous avez employé vos dons dans un contexte militaire ou guerrier. Sans être u
 
 **Équipement :** Tenue de voyageur, sac contenant couverture et tente, outre d'eau, accessoires de déguisement, bourse contenant 15 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Matelot<!--/Name-->
 
@@ -123,9 +123,9 @@ Vous avez fait partie d'un équipage, voguant sur les mers et les océans à la 
 
 **Équipement :** Tenue de voyageur, un ensemble d'outils parmi ceux maîtrisés, bouteille d'alcool fort, bourse contenant 15 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Items-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Pilleur de ruines<!--/Name-->
 
@@ -139,14 +139,14 @@ Vous erriez à la recherche des trésors, des cités perdues et de secrets enfou
 
 **Équipement :** Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Estimation<!--/Name-->
 
 Vous êtes capable d'évaluer en quelques secondes la valeur approximative d'un trésor, d'un artefact ancien ou de pierres précieuses. Vous ne disposez pas d'une évaluation précise, et il vous arrive exceptionnellement de vous tromper, mais vous avez assez l'habitude de ce genre de choses pour distinguer en très peu de temps les objets qui ont une réelle valeur, et séparer le bon grain de l'ivraie.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
-<!--/Items-->
+<!--/SubBackgroundItem-->
 
-<!--/Items-->
+<!--/BackgroundItem-->

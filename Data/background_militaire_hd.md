@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--BackgroundItem-->
 
 > <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
 
@@ -15,7 +15,7 @@ Conscrit, soldat de métier ou milicien, vous avez passé une large part de votr
 
 **Équipement :** Couverture, habits courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, bourse contenant 15 po.
 
-<!--Generic-->
+<!--BackgroundSpecialtyItem-->
 
 #### <!--Name-->Unité<!--/Name-->
 
@@ -30,15 +30,15 @@ Vous avez passé une large part de votre temps dans une unité en particulier. �
 |5|Irréguliers/Éclaireurs|
 |6|Sapeurs/Ingénieurs|
 
-<!--/Generic-->
+<!--/BackgroundSpecialtyItem-->
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Frères d'armes<!--/Name-->
 
 Vous avez une longue pratique des codes et du vocabulaire soldatesque, et vous savez intuitivement à qui vous adresser et de quelle manière au sein d'une unité militaire. Vous avez aussi une connaissance approfondie des rivalités seigneuriales dans votre région d'origine, et savez parfaitement reconnaître d'éventuels soldats « amis », auprès de qui vous pouvez solliciter de l'aide en cas de nécessité.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
 <!--Items-->
 
@@ -46,7 +46,7 @@ Vous avez une longue pratique des codes et du vocabulaire soldatesque, et vous s
 
 Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'hommes d'armes survivent au chaos de la bataille sans être profondément affectés. Ils voient à la fois le plus laid et le plus beau en l'homme : la violence et la barbarie, l'héroïsme et le sens du sacrifice.
 
-<!--Generic-->
+<!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
@@ -61,9 +61,9 @@ Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'homme
 |7|J'ai le plus grand respect pour la hiérarchie et <!--br-->le règlement.|
 |8|Je masque les blessures du passé sous un <!--br-->humour salace et imagé.|
 
-<!--/Generic-->
+<!--/PersonalityTraitItem-->
 
-<!--Generic-->
+<!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
 
@@ -76,9 +76,9 @@ Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'homme
 |5|**Changement.** Le chaos de la bataille est une <!--br-->source primale d'énergie et de changement. <!--br-->(Chaotique)|
 |6|**Honneur.** Servir son seigneur, sa cité ou sa <!--br-->patrie est la mission la plus honorable qui soit. <!--br-->(Loyal)|
 
-<!--/Generic-->
+<!--/PersonalityIdealItem-->
 
-<!--Generic-->
+<!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
 
@@ -91,9 +91,9 @@ Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'homme
 |5|Mon meilleur ami a été lâchement abattu par <!--br-->un soldat ennemi au cours d'une bataille. Je <!--br-->traquerai cet ennemi au bout du monde s'il le <!--br-->faut.|
 |6|Ma seule obligation est pour mes actuels <!--br-->compagnons d'armes. Ils sont mon unique <!--br-->famille.|
 
-<!--/Generic-->
+<!--/PersonalityLinkItem-->
 
-<!--Generic-->
+<!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
 
@@ -106,11 +106,11 @@ Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'homme
 |5|Je noie les souvenirs du passé dans l'alcool.|
 |6|J'ai pris goût au chaos de la bataille et à la <!--br-->violence du combat. Rien d'autre ne m'enivre <!--br-->plus désormais.|
 
-<!--/Generic-->
+<!--/PersonalityDefectItem-->
 
 <!--/Items-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Garde<!--/Name-->
 
@@ -124,9 +124,9 @@ Vous avez été membre de la garde d'une ville ou d'une cité. Votre quotidien n
 
 **Équipement :** Vêtements courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, outre de vin, bourse contenant 15 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Mercenaire<!--/Name-->
 
@@ -138,9 +138,9 @@ Vous avez fait partie d'une compagnie de mercenaires vendant ses services au plu
 
 **Équipement :** Habits courants, paquet de cartes ou dés, objet de valeur récupéré sur un champ de bataille ou lors d'un siège, pierre à affûter, outre de vin, bourse contenant 15 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Items-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Officier<!--/Name-->
 
@@ -154,14 +154,14 @@ Par votre courage ou un hasard des événements, à force de ténacité aussi, v
 
 **Équipement :** Monture, habits de bonne qualité, insigne ou emblème de votre unité et de votre rang, bourse contenant 15 po.
 
-<!--/Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Position d'autorité<!--/Name-->
 
 Les soldats « amis » reconnaissent votre autorité et votre expérience, et ont tendance à accepter tout naturellement vos ordres et vos directives. En cas de nécessité, dans une ville de votre région d'origine, vous êtes capable de réunir rapidement un petit groupe d'anciens soldats prêts à vous rendre service.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
-<!--/Items-->
+<!--/SubBackgroundItem-->
 
-<!--/Items-->
+<!--/BackgroundItem-->

@@ -16,7 +16,7 @@ Un don représente un talent ou un domaine d'expertise d'un personnage, qui lui 
 
 Afin de choisir un don, vous devez remplir toutes les conditions nécessaires au préalable. Si vous ne remplissez plus les conditions d'utilisation d'un don que vous possédez, vous devez attendre de les remplir de nouveau pour pouvoir utiliser ce don. Par exemple, vous devez avoir une [Force] supérieure ou égale à 13 pour choisir le don [Lutteur]. Si votre valeur de [Force] passe en dessous de 13 pour une raison ou une autre – peut-être à la suite d'une ponction de force (la capacité d'une [ombre]), – vous ne pouvez plus utiliser le don [Lutteur] tant que vous n'aurez pas retrouvé une [Force] de 13 ou plus.
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Acrobate<!--/Name-->
 
@@ -27,9 +27,9 @@ Vous avez passé de longues heures à pratiquer des exercices de haute voltige, 
 * Vous pouvez utiliser votre réaction pour annuler une attaque d'opportunité dirigée contre vous.
 * Vous pouvez utiliser votre réaction pour vous relever lorsque vous êtes à terre.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Ambidextre<!--/Name-->
 
@@ -41,9 +41,9 @@ Lorsque vous faites l'acquisition de ce don, choisissez trois bénéfices diffé
 * Vous pouvez utiliser une arbalète légère de poing dans l'une ou l'autre de vos mains et faire une attaque à distance avec celle-ci au prix de votre action bonus.
 * Vous êtes capable de dégainer ou de mettre au fourreau deux armes simultanément.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Arbalétrier<!--/Name-->
 
@@ -54,9 +54,9 @@ Au cours de longues années de pratique, vous avez appris à transformer votre a
 * Lorsque vous utilisez l'action attaquer avec une arbalète, si cette action vous permet habituellement de faire plusieurs attaques, vous lancez autant de fois les dés de dégât que vous avez d'attaques pour déterminer les dégâts de votre arbalète.
 * Vous pouvez utiliser une action bonus pour viser et obtenir l'avantage en attaque.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Archer<!--/Name-->
 
@@ -67,9 +67,9 @@ Votre longue pratique du tir à l'arc vous procure les bénéfices suivants :
 * En cas de réussite du jet d'attaque contre la CA de la seconde cible, la seconde flèche inflige seulement le dé de dégâts normal, sans aucun modificateur (caractéristique, magie ou autre dé bonus).
 * Lorsque vous obtenez un coup critique sur un jet d'attaque à l'arc, votre flèche se fiche dans le corps de votre cible et lui impose un désavantage à tous ses jets au d20 tant qu'elle ne la retire pas. Il faut utiliser une action pour retirer la flèche et cela inflige 1d4 points de dégâts perforants
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Archer monté<!--/Name-->
 
@@ -79,9 +79,9 @@ Vous avez appris à tirer à l'arc depuis le dos d'une monture en mouvement et �
 * Vous pouvez faire une attaque à distance en utilisant une action bonus si vous utilisez une arme de lancer ou un arc.
 * Vous annulez le désavantage lié au fait d'effectuer une attaque à distance au corps-à-corps.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Bagarreur<!--/Name-->
 
@@ -92,9 +92,9 @@ Que vous soyez adepte d'un art martial ou du combat appris à la dure dans la ru
 * Lorsque vous combattez à mains nues, vous infligez 1d4 dégâts contondants.
 * Lorsqu'une créature rate une attaque de corps-à-corps contre vous et que vos deux mains sont libres, vous pouvez utiliser votre réaction pour tenter de l'empoigner ou de la bousculer.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Botte secrète<!--/Name-->
 
@@ -106,9 +106,9 @@ Au cours de vos aventures ou de votre éducation martiale, vous avez appris d'un
 
 Après avoir utilisé votre botte secrète, que l'attaque soit un succès ou un échec, vous devez attendre au moins 5 minutes avant de pouvoir à nouveau en faire usage. Vous pouvez choisir un effet différent à chaque fois que vous utilisez cette aptitude.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Caméléon<!--/Name-->
 
@@ -118,9 +118,9 @@ Vous avez une capacité innée à vous adapter à n'importe quelle situation et 
 * Vous disposez d'un avantage sur tous vos tests de Charisme (Persuasion) et de Charisme (Supercherie) lorsqu'il s'agit de vous faire passer pour compétent dans un domaine qui n'est pas le vôtre.
 * Lorsque vous observez quelqu'un de compétent utiliser une compétence que vous ne possédez pas, vous pouvez tenter de l'imiter. Jusqu'à la fin du round suivant, vous obtenez un avantage à votre test sur cette compétence.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Cavalier<!--/Name-->
 
@@ -131,9 +131,9 @@ Vous n'avez besoin que de 1,50 mètre de mouvement pour monter en selle. Lorsque
 * Lorsque votre monture subit une attaque, vous pouvez choisir de subir les dégâts à sa place.
 * Lorsqu'un sort de zone prend pour effet à la fois votre monture et vous, vous ne subissez qu'une seule fois les dégâts (vous utilisez votre propre jet de sauvegarde) et vous pouvez répartir les dégâts subis à votre guise entre vous et votre monture.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Combattant en équipe<!--/Name-->
 
@@ -142,9 +142,9 @@ Vous avez été entraîné à combattre au sein d'une unité et vous êtes sensi
 * Lorsque vous réussissez une attaque de corps-àcorps, vous pouvez utiliser une action bonus pour focaliser l'attention de cet adversaire sur vous. La première attaque effectuée par un allié contre cet adversaire avant votre prochain tour bénéficie d'un avantage au jet d'attaque.
 * À votre tour, vous pouvez utiliser une action bonus pour soutenir un allié à moins de 1,50 mètres de vous. La première attaque effectuée contre cet allié avant votre prochain tour souffre d'un désavantage au jet d'attaque.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Chef né<!--/Name-->
 
@@ -153,9 +153,9 @@ Vous êtes un leader né, vous savez trouver les mots justes pour redonner force
 * Vous pouvez utiliser une action bonus pour encourager un compagnon à moins de 30 mètres. Il obtient un avantage sur un test de votre choix à ce round.
 * Vous pouvez utiliser votre action pour motiver un compagnon à moins de 12 mètres, il gagne un nombre de points de vie temporaires égal à son niveau. Une créature ne peut bénéficier une nouvelle fois de l'un ou l'autre des bonus de ce don avant d'avoir pris un repos court ou long.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Concentré<!--/Name-->
 
@@ -164,9 +164,9 @@ Des exercices mentaux ardus vous ont permis de développer vos capacités de con
 * Vous augmentez au choix votre valeur d'Intelligence, de Sagesse ou de Charisme de 1 point sans dépasser 20.
 * Vous obtenez un avantage aux jets de sauvegarde de Constitution pour maintenir votre concentration sur les sorts pour lesquels vous utilisez la caractéristique choisie ci-dessus pour incanter.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Coriace<!--/Name-->
 
@@ -176,9 +176,9 @@ Vous êtes dur au mal et il en faut beaucoup pour vous mettre au tapis.
 * Vous gagnez autant de points de vie que votre niveau ainsi qu'un point de vie supplémentaire à chaque fois que vous passez un nouveau niveau.
 * A 0 PV, lorsque vous avez déjà obtenus 2 échecs à vos jets de sauvegarde contre la mort, vous obtenez un avantage sur les jets suivants.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Destiné<!--/Name-->
 
@@ -187,9 +187,9 @@ Il semble que vous soyez destiné à accomplir de grandes choses. Vous possédez
 * Vous pouvez dépenser un point de destin pour obtenir 10 au résultat d'un d20, même après avoir pris connaissance du résultat, mais avant de déterminer l'issue de l'action.
 * Vous pouvez dépenser 3 points de destin pour obtenir un bonus de +10 sur le résultat d'un test de caractéristique ou d'un jet d'attaque ou de sauvegarde.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Destructeur<!--/Name-->
 
@@ -200,9 +200,9 @@ Vous vous êtes spécialisé dans un type de sorts et, avec ces sorts, votre cap
 
 Vous pouvez choisir ce don plusieurs fois, mais vous devez choisir à chaque fois un type de dégâts différent.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Docte<!--/Name-->
 
@@ -212,9 +212,9 @@ Comme une éponge, votre esprit est rompu à l'assimilation de nouvelles informa
 * Vous apprenez deux langues de votre choix.
 * Vous pouvez vous souvenir de tout ce que vous avez vu et entendu depuis moins d'une semaine.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Enfant des profondeurs<!--/Name-->
 
@@ -224,9 +224,9 @@ Vous avez vécu de longues périodes sans lumière, dans les profondeurs de la t
 * Lorsque vous souffrez de l'état aveuglé, vous pouvez utiliser une action bonus pour annuler au choix le désavantage que vous subissez aux attaques au corps-à-corps ou l'avantage qu'obtiennent vos adversaires, jusqu'au début de votre prochain tour.
 * Vous savez toujours dans quelle direction se situe le Nord ou l'accès la surface.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Escrimeur<!--/Name-->
 
@@ -235,9 +235,9 @@ Vous avez appris les subtilités du duel à l'arme blanche et maîtrisez parfait
 * Lorsqu'un adversaire vous attaque avec une arme de mêlée dotée de la propriété lourde, vous pouvez utiliser votre réaction pour lui imposer un désavantage en attaque.
 * Vous pouvez utiliser une action bonus afin de doubler votre bonus de maîtrise sur une attaque.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Expert en armes de jet<!--/Name-->
 
@@ -247,9 +247,9 @@ Vous avez travaillé sans relâche votre maîtrise des armes de jet et vous ête
 * Lorsque vous tenez en main une arme qui dispose de la propriété lancer, une créature hostile qui s'approche à moins de 4,50 mètres de vous déclenche une attaque d'opportunité qui doit obligatoirement être effectuée avec cette arme.
 * Vous doublez la portée normale des armes dotées de la propriété « lancer », sans toutefois accroître leur portée maximale.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Expert en armes doubles<!--/Name-->
 
@@ -258,9 +258,9 @@ Vous êtes capable d'utiliser les deux extrémités d'un bâton ou d'une arme lo
 * Vous pouvez utiliser une action bonus pour obtenir une attaque supplémentaire, infligeant 1d4 dégâts contondants, auquel vous ajoutez votre modificateur de Force.
 * Vous pouvez utiliser une réaction pour effectuer une parade avec le manche et ajouter +2 à votre CA sur une attaque. Vous pouvez annoncer votre parade après que le dé soit lancé, mais avant de connaître le résultat de l'attaque.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Expert en armes longues<!--/Name-->
 
@@ -270,9 +270,9 @@ Vous êtes passé maître dans l'art d'attaquer vos ennemis de plus loin avec le
 * Lorsque vous attaquez une créature à portée, vous ignorez l'abri partiel procuré par un obstacle situé entre vous et votre cible (que ce soit un allié, un adversaire ou un obstacle fixe).
 * Lorsque vous utilisez une lance, un trident ou un bâton à deux mains, vous pouvez utiliser une action bonus pour ajouter la propriété allonge à cette arme jusqu'à votre prochain tour.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Expert en armes lourdes<!--/Name-->
 
@@ -282,9 +282,9 @@ Vous savez tirer le meilleur parti possible des armes les plus lourdes et les pl
 * Lorsque vous obtenez un coup critique, vous doublez votre bonus de Force aux dégâts.
 * Lorsque vous attaquez une créature de taille très grande ou supérieure, vous infligez 1d4 dégâts supplémentaires.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Expert en armures<!--/Name-->
 
@@ -296,9 +296,9 @@ Vous savez utiliser au mieux la protection que votre armure vous offre pour att�
 
 Si vous changez d'armure, cela ne modifie pas le nombre d'utilisation de cette aptitude depuis votre dernier repos, mais seulement le nombre maximum d'utilisation à votre disposition. Par exemple, si vous avez déjà bénéficié une fois de la résistance, vous ne pouvez plus l'utiliser en armure légère ou intermédiaire, mais vous pouvez encore l'utiliser une fois si vous revêtez une armure lourde.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Expert au bouclier<!--/Name-->
 
@@ -308,9 +308,9 @@ Votre bouclier est devenu un compagnon aussi fidèle que votre arme, vous avez d
 * Vous pouvez utiliser votre bouclier comme une arme légère (1d4 dégâts contondants) tenue dans la seconde main et bénéficier des possibilités du combat à deux armes en plus de son bonus à la CA.
 * Vous pouvez utiliser votre réaction pour imposer un désavantage à un adversaire sur une attaque de corps-à-corps, à distance ou de sort si vous n'êtes pas surpris.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Expert en manoeuvres<!--/Name-->
 
@@ -320,9 +320,9 @@ Vous avez étudié des méthodes alternatives de remporter un combat en maîtris
 * En utilisant une action bonus, vous obtenez un avantage au test de Force (Athlétisme) lorsque vous tentez de bousculer un adversaire.
 * Vous pouvez utiliser votre action pour tenter de désarmer votre adversaire. Faites un jet d'attaque au corps à corps opposé avec la cible. Si la cible utilise une arme à deux mains, elle obtient un avantage à son test d'attaque. Si vous l'emportez, vous désarmez votre adversaire et l'arme tombe à ses pieds. Si votre valeur final est supérieur de dix points à celui de l'adversaire, vous pouvez utiliser une action bonus pour vous saisir de son arme.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Fantassin léger<!--/Name-->
 
@@ -332,9 +332,9 @@ Vous avez reçu une formation militaire supérieure à celles des autres individ
 * Vous obtenez la maîtrise de trois armes courantes de votre choix.
 * Vous augmentez votre Dextérité ou votre Constitution de 1 point, sans dépasser 20.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Fantassin intermédiaire<!--/Name-->
 
@@ -346,9 +346,9 @@ Vous avez reçu une formation militaire supérieure à celles des autres individ
 * Vous obtenez la maîtrise de trois armes courantes ou de guerre de votre choix, ou de deux armes et du bouclier.
 * Vous augmentez votre Dextérité ou votre Force de 1 point sans dépasser 20.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Fantassin lourd<!--/Name-->
 
@@ -360,9 +360,9 @@ Vous avez reçu une formation militaire supérieure à celles des autres individ
 * Vous obtenez la maîtrise de trois armes de guerre de votre choix, ou de deux armes et du bouclier.
 * Vous augmentez au choix votre valeur de Force ou de Constitution de 1 point, sans dépasser 20.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Féroce<!--/Name-->
 
@@ -372,9 +372,9 @@ Vous êtes un spécialiste des attaques brutales, en particulier après une char
 * Lorsque vous obtenez un critique en attaque au corps-à-corps, vous repoussez votre cible de 1,50 mètre si vous le souhaitez. Si la cible ne peut ou ne veut pas reculer, elle subit un désavantage à ses actions à son prochain tour. Si votre arme est dotée de la propriété lourde, vous pouvez dépenser votre réaction pour obtenir le même effet sur une attaque de corps à corps réussie.
 * Lorsque vous utilisez la compétence Intimidation avec la Force (par des menaces physiques), si vous obtenez un résultat inférieur à 10 au dé, vous pouvez le remplacer par un 10.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Fléau des mages<!--/Name-->
 
@@ -384,9 +384,9 @@ Lorsqu'une créature à moins de 1,50 mètre de vous lance un sort, vous obtenez
 
 Lorsque vous blessez un lanceur de sort qui maintient sa concentration, la difficulté de la sauvegarde de Constitution est au minimum de 15.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Furtif<!--/Name-->
 
@@ -397,9 +397,9 @@ Vous cultivez l'art de passer inaperçu, de vous dissimuler ou de vous déguiser
 * Si vous ne vous faites pas particulièrement remarquer, les gens sont incapables de se rappeler de vous, de vous décrire ou de donner des détails sur votre apparence.
 * Vous obtenez un avantage à tous les tests destinés à vous faire passer pour quelqu'un d'autre.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Impitoyable<!--/Name-->
 
@@ -408,9 +408,9 @@ Vous êtes un spécialiste des mêlées confuses et vous savez tirer profit des 
 * Lorsqu'un adversaire à moins de 1,50 mètre de vous est blessé par un allié, vous pouvez profiter de ce moment de distraction et utiliser votre réaction pour faire une attaque d'opportunité sur cet adversaire.
 * Lorsqu'un adversaire rate une attaque de corps-àcorps contre vous, vous pouvez utiliser votre réaction pour faire porter cette attaque contre un autre adver- saire à moins de 1,50 mètres de vous. Cet adversaire doit effectuer un jet de sauvegarde de Dextérité (DD égal à la CA atteinte par l'attaque). En cas d'échec, il subit la moitié des dégâts habituels de l'attaque initiale.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Infatigable<!--/Name-->
 
@@ -420,9 +420,9 @@ Vos capacités de récupération sont exceptionnelles et font de vous un individ
 * Vous récupérez un niveau d'épuisement supplémentaire après un repos long.
 * Lorsque vous dépensez un ou plusieurs dés de vie de récupération, pour chaque dé de vie utilisé, vous pouvez lancer deux dés et conserver le meilleur résultat.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Initié des arcanes<!--/Name-->
 
@@ -435,9 +435,9 @@ Vous avez étudié pendant quelques temps auprès d'un magicien ou bien vous ave
 
 Votre caractéristique d'incantation pour les sorts appris par ce biais est l'Intelligence.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Initié de la foi<!--/Name-->
 
@@ -450,9 +450,9 @@ Vous avez été touché par la grâce divine ou bien vous avez été formé par 
 
 Votre caractéristique d'incantation pour les sorts appris par ce biais est la Sagesse.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Lutteur<!--/Name-->
 
@@ -463,9 +463,9 @@ Vous avez développé des compétences qui vous permettent de bien vous débroui
 * Vous disposez d'un avantage sur vos attaques contre une créature empoignée par vous.
 * Vous pouvez utiliser votre action pour tenter d'immobiliser une créature que vous avez empoignée. Vous devez d'abord faire un autre test d'empoignade. Si vous réussissez, vous et la créature en question êtes tous les deux entravés.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Mage combattant<!--/Name-->
 
@@ -475,9 +475,9 @@ Vous êtes une exception, votre talent est le fruit d'un entraînement très par
 * Lorsque vous utilisez l'action attaquer, vous pouvez utiliser une action bonus pour lancer un tour de magie.
 * Vous pouvez augmenter le niveau d'emplacement d'un sort que vous lancez en sacrifiant 1d6 points de vie par niveau supplémentaire. Vous ne pouvez pas utiliser cette aptitude pour obtenir des emplacements de sorts supérieurs à votre niveau de sort maximum ou pour des sorts dont l'effet inclut la restauration de points de vie.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Mains de guérisseur<!--/Name-->
 
@@ -487,9 +487,9 @@ Que ce soit par une longue tradition familiale ou l'apprentissage auprès d'un g
 * Vous pouvez tenter de stabiliser une créature, lancer le tour de magie épargner les mourants ou utiliser une trousse de soins en dépensant une action bonus.
 * Vous pouvez utiliser du matériel d'herboriste pendant 10 minutes sur un patient pour le soigner. Il regagne [son dé de vie + votre bonus de maîtrise] points de vie sans jamais pouvoir dépasser son nombre de points de vie maximum. Une créature ne peut bénéficier de cette aptitude plus d'une fois par repos court ou long.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Maître empoisonneur<!--/Name-->
 
@@ -499,9 +499,9 @@ Vous êtes passé maître dans l'utilisation de ce que certains appellent l'arme
 * Vous obtenez un avantage à vos jets de sauvegarde contre le poison ou pour résister à l'état empoisonné.
 * Une fois par repos court, vous pouvez utiliser votre action pour enduire de poison une arme légère tranchante ou perçante, ou un projectile. La première créature blessée par cette arme doit faire un jet de sauvegarde de Constitution dont le DD est 8 + votre bonus de maîtrise + votre modificateur d'intelligence. En cas d'échec, elle est empoisonnée pendant 1 minute. Le poison perd son efficacité 1 heure après avoir été appliqué.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Pilleur de tombes<!--/Name-->
 
@@ -514,9 +514,9 @@ Vous êtes un chasseur de trésor expérimenté, les tombeaux et les nécropoles
 * Vous savez précisément évaluer la valeur des objets non magiques que vous trouvez.
 * Vous n'êtes jamais surpris par les morts-vivants et vous obtenez un avantage aux jets de sauvegarde afin de résister aux dégâts de type nécrotique.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Sang de sorcier<!--/Name-->
 
@@ -529,9 +529,9 @@ Vous vous êtes découvert un don étrange. Lorsque vous faites l'acquisition de
 
 Votre caractéristique d'incantation pour les sorts appris par ce biais est le Charisme.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Sang des étoiles<!--/Name-->
 
@@ -541,9 +541,9 @@ Vous avez une aptitude innée à moduler la magie ou à l'adapter à la situatio
 * Vous obtenez 1 point de sorcellerie. Vous récupérez ce point après avoir terminé un repos long. Si vous avez d'autres points de sorcellerie, il s'ajoute à ceux déjà acquis et il peut être dépensé et récupéré de la même façon que ceux-ci.
 * Vous choisissez une option de métamagie issue de la classe d'ensorceleur. Si vous n'avez pas plus que 1 point de sorcellerie, vous ne pouvez choisir une option dont le coût est supérieur à 1 point.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Sort de prédilection<!--/Name-->
 
@@ -554,9 +554,9 @@ Vous avez lancé le même sort encore et encore, jusqu'à ce que l'utiliser devi
 
 Vous pouvez choisir ce don plusieurs fois, mais à chaque fois pour un sort de prédilection différent.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Talentueux<!--/Name-->
 
@@ -566,9 +566,9 @@ Choisissez une caractéristique. Vous bénéficiez de deux bénéfices différen
 * Choisissez une compétence qui dépend de cette caractéristique, vous maîtrisez désormais cette compétence.
 * Augmentez la valeur de cette caractéristique de 1, sans dépasser 20.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Tireur d'élite<!--/Name-->
 
@@ -579,9 +579,9 @@ Vous êtes un maître des armes à distance et nul n'est votre égal en ce domai
 * À portée normale, vous pouvez ignorer les bonus de CA de votre cible dus à un abri.
 * Vous pouvez faire une unique attaque à distance en action bonus (si votre arme est chargée, dans le cas d'une arbalète).
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Touche-à-tout<!--/Name-->
 
@@ -592,9 +592,9 @@ Vos voyages et votre curiosité naturelle vous ont permis d'apprendre un peu de 
 * Vous obtenez la maîtrise d'un ensemble d'outils.
 * Vous obtenez la maîtrise d'un type de véhicules.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Vétéran<!--/Name-->
 
@@ -603,9 +603,9 @@ Vous avez reçu une formation militaire supérieure à celles des autres individ
 * Vous obtenez la maîtrise de trois armes de votre choix, ou de deux armes de votre choix et du bouclier.
 * Vous augmentez votre total maximum de points de vie d'une valeur égale à votre bonus de maîtrise (ce bonus augmente quand votre bonus de maîtrise augmente lui aussi).
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Vigilant<!--/Name-->
 
@@ -614,9 +614,9 @@ Vous êtes toujours sur vos gardes et il est exceptionnellement difficile de vou
 * Vous obtenez un bonus de +5 en initiative et à votre valeur passive de Perception.
 * Vous pouvez utiliser votre réaction pour faire une attaque d'opportunité contre une créature qui sort de votre zone de corps-à-corps même si elle utilise l'action se désengager.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
-<!--Generic-->
+<!--FeatItem-->
 
 ### <!--Name-->Volonté de fer<!--/Name-->
 
@@ -626,6 +626,6 @@ Nul ne peut vous empêcher de recourir à votre magie lorsque vous le décidez, 
 * Lorsque vous cessez volontairement de vous concentrer sur un sort, ou à la fin de sa durée légale, vous pouvez prolonger son effet d'un round supplémentaire en sacrifiant 1 point de vie. À chaque round suivant, le nombre de points de vie nécessaire pour maintenir l'effet du sort est égal au nombre de round de prolongation : 2 points de vie au deuxième round (pour un total de 1 + 2 = 3 pv), 3 points au troisième (pour un total de 1 + 2 + 3 = 6 pv), etc. Vous ne pouvez pas prolonger un sort de cette façon au-delà du double de sa durée légale.
 * Lorsque vous tombez à 0 point de vie ou que vous êtes neutralisé, si vous mainteniez un sort, il dure encore jusqu'à la fin de votre prochain tour.
 
-<!--/Generic-->
+<!--/FeatItem-->
 
 <!--/Items-->

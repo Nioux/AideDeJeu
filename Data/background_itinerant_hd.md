@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--BackgroundItem-->
 
 > <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
 
@@ -17,13 +17,13 @@ Vous avez vécu toute votre vie sur les routes. Vous n'avez connu que la vie nom
 
 **Équipement :** Tenue de voyageur, costume ou vêtements tape-à-l'oeil, tente pour une personne et couverture, sac de voyage, bourse contenant 10 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Voyageur<!--/Name-->
 
 Vous connaissez les coutumes des petites communautés et des villages que vous traversez. Vous avez compris comment faire en sorte que l'on vous accepte sans pour autant vous imposer trop longtemps. Vous êtes capable de repérer la présence d'une communauté civilisée à plusieurs kilomètres, sachant où en trouver les traces. De plus, on vous offre toujours le gîte et le couvert, pour une nuit tout du moins.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
 <!--Items-->
 
@@ -31,7 +31,7 @@ Vous connaissez les coutumes des petites communautés et des villages que vous t
 
 Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vous n'avez jamais eu de demeure où retourner. Votre foyer, votre chez vous, est partout. Il est auprès des autres, auprès des vôtres, auprès de ceux que vous chérissez le plus. Pour rien au monde vous ne pourriez envisager de vous installer durablement quelque part. À moins que cette vie de voyage vous ait épuisé et que vous sentiez qu'il est désormais temps de vous arrêter.
 
-<!--Generic-->
+<!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
@@ -46,9 +46,9 @@ Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vo
 |7|Je déteste qu'on ne me prête pas attention. <!--br-->D'aucun disent que je suis une diva.|
 |8|J'écoute plus que je ne parle. Mais quand je <!--br-->parle, ça n'est jamais pour ne rien dire.|
 
-<!--/Generic-->
+<!--/PersonalityTraitItem-->
 
-<!--Generic-->
+<!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
 
@@ -61,9 +61,9 @@ Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vo
 |5|**Liberté.** Ce qui compte plus que tout, c'est <!--br-->de voyager. Je ne permettrai à quiconque <!--br-->d'empêcher qui que ce soit de partir où il veut. <!--br-->(Chaotique)|
 |6|**Transmission.** Tout ce que je fais, je le fais pour <!--br-->voir le visage des gens s'illuminer de plaisir. <!--br-->Rien d'autre ne m'importe. (Bon)|
 
-<!--/Generic-->
+<!--/PersonalityIdealItem-->
 
-<!--Generic-->
+<!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
 
@@ -76,9 +76,9 @@ Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vo
 |5|J'ai un puissant protecteur (ou mécène) mais je <!--br-->ne peux entacher son honneur et son nom.|
 |6|Une personne que j'aimais est morte à cause de <!--br-->moi. Je dois me racheter.|
 
-<!--/Generic-->
+<!--/PersonalityLinkItem-->
 
-<!--Generic-->
+<!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
 
@@ -91,11 +91,11 @@ Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vo
 |5|À un moment ou à un autre, je déçois toujours <!--br-->mes amis et mes alliés.|
 |6|J'ai un vice que j'ai toujours du mal à ne pas <!--br-->vouloir satisfaire, qu'il s'agisse des plaisirs de <!--br-->la chair, de l'alcool ou du jeu.|
 
-<!--/Generic-->
+<!--/PersonalityDefectItem-->
 
 <!--/Items-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Colporteur<!--/Name-->
 
@@ -109,9 +109,9 @@ Vous avez fait votre vie en voyageant de communauté en communauté et en vendan
 
 **Équipement :** Tenue de voyageur équipés d'une capuche, panier, tente pour une personne et couverture, bourse contenant 10 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Gens du voyage<!--/Name-->
 
@@ -123,9 +123,9 @@ On vous a toujours regardé de travers. Vous avez vécu toute votre vie au sein 
 
 **Équipement :** Tenue de voyageur, instrument de musique, chien ou petit animal de compagnie, sac de voyage, bourse contenant 10 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Items-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Saltimbanque<!--/Name-->
 
@@ -139,7 +139,7 @@ Le spectacle est votre vie. Que vous ayez fait partie d'une troupe ou que vous a
 
 **Équipement :** Tenue de voyageur, costume ou vêtements tape à l'oeil, outils nécessaires à votre art (instrument, animal dressé, outils pour vos jongleries, etc.), sac de voyage, bourse contenant 15 po.
 
-<!--Generic-->
+<!--BackgroundSpecialtyItem-->
 
 #### <!--Name-->Spécialité<!--/Name-->
 
@@ -154,16 +154,16 @@ Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner vo
 |5|Montreur d'animaux (Dressage)|
 |6|Diseuse de bonne aventure (Perspicacité)|
 
-<!--/Generic-->
+<!--/BackgroundSpecialtyItem-->
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Spectacle ambulant<!--/Name-->
 
 Votre art vous apporte bien des inconvénients, mais il a aussi ses bénéfices. Vous trouvez toujours un lieu où l'on vous offre le gîte et le couvert en échange d'une représentation pour égayer l'ambiance. Tant que vous prenez la peine de vous produire au moins une fois par jour (quand les clients sont nombreux), on vous fournit un logement et une nourriture aussi décente que possible. De plus, vous vous attirez les bonnes grâces de la foule, qui vous perçoit avec un excellent a priori. Cependant, vous ne passez jamais vraiment inaperçu, et plus vous restez dans une ville, plus on vous reconnaît.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
-<!--/Items-->
+<!--/SubBackgroundItem-->
 
-<!--/Items-->
+<!--/BackgroundItem-->

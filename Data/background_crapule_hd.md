@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--BackgroundItem-->
 
 > <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
 
@@ -15,13 +15,13 @@ Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le 
 
 **Équipement :** Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Enfant de la rue<!--/Name-->
 
 Vous avez toujours évolué dans les rues des bas-fonds. Vous avez l'oeil, vous savez reconnaître les lieux fréquentés par les personnes de votre genre. Si vous cherchez un lieu fréquenté par les crapules de la cité, vous arrivez toujours à le trouver sans trop d'effort. Vous ne pouvez découvrir automatiquement les lieux cachés et les bases d'opérations secrètes ou autres, mais vous trouvez toujours à qui poser la bonne question. Cette recherche ne vous prend jamais plus d'une ou deux heures. De plus, vous connaissez les codes et les manières des bas-fonds, et savez toujours comment vous comporter afin que l'on comprenne que vous appartenez au même milieu, ce qui rend votre intégration plus aisée.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
 <!--Items-->
 
@@ -29,7 +29,7 @@ Vous avez toujours évolué dans les rues des bas-fonds. Vous avez l'oeil, vous 
 
 Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les bas-fonds. Cette vie passée vous a profondément marqué et vous savez désormais que la fin justifie parfois les moyens, et que les idéaux ne résistent pas toujours face à la dureté de la vie. Vous l'avez appris, certainement au prix fort. Et pourtant, vous en êtes ressorti grandi d'une manière ou d'une autre.
 
-<!--Generic-->
+<!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
@@ -44,9 +44,9 @@ Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les 
 |7|Je parle beaucoup. Trop. Souvent pour cacher <!--br-->mon malaise. Certains pensent qu'il s'agit <!--br-->d'une forme de narcissisme.|
 |8|Je tente toujours d'analyser la situation le plus <!--br-->froidement possible. Mais quand mes émotions <!--br-->s'expriment, c'est une tempête sans nom.|
 
-<!--/Generic-->
+<!--/PersonalityTraitItem-->
 
-<!--Generic-->
+<!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
 
@@ -59,9 +59,9 @@ Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les 
 |5|**Famille.** Une famille se crée, et ses liens sont <!--br-->plus forts que le sang. Ma famille de sang ou <!--br-->de coeur, voilà ce qui compte. Le reste, et les <!--br-->autres, sont quantité négligeable. (Neutre)|
 |6|**Gloire.** Je ferai tout pour que mon nom soit <!--br-->reconnu, quel qu'en soit le prix ! (Chaotique)|
 
-<!--/Generic-->
+<!--/PersonalityIdealItem-->
 
-<!--Generic-->
+<!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
 
@@ -74,9 +74,9 @@ Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les 
 |5|Tout ce que je fais, je le fais pour venger un <!--br-->proche, floué ou tué par mon ennemi.|
 |6|Je reprendrai ce que l'on m'a pris et qui me <!--br-->revient de droit !|
 
-<!--/Generic-->
+<!--/PersonalityLinkItem-->
 
-<!--Generic-->
+<!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
 
@@ -89,11 +89,11 @@ Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les 
 |5|La curiosité est un vilain défaut, et je suis <!--br-->beaucoup trop curieux.|
 |6|Je me sens coupable d'un acte terrible qui est <!--br-->advenu par ma faute. Je veux me racheter à <!--br-->tout prix.|
 
-<!--/Generic-->
+<!--/PersonalityDefectItem-->
 
 <!--/Items-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Cambrioleur<!--/Name-->
 
@@ -105,9 +105,9 @@ Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait 
 
 **Équipement :** Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Items-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Escroc<!--/Name-->
 
@@ -119,17 +119,17 @@ Vous avez très vite compris que les gens étaient crédules. Et quel mal y a-t-
 
 **Équipement :** Accessoires de faussaire ou jeu, deux ensembles de d'habits courants, bourse contenant 10 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Fausse identité<!--/Name-->
 
 Vous disposez d'une seconde identité afin d'éviter que l'on puisse vous retrouver. Vous possédez tous les documents et les objets nécessaires à l'entretenir et vous y recourez quand le besoin se fait sentir.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
-<!--/Items-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Voleur à la tire<!--/Name-->
 
@@ -143,4 +143,6 @@ Vous avez des doigts de fée. Vous faisiez vos premiers tours de passe-passe ava
 
 **Équipement :** Vêtements discrets équipés d'une capuche, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
+
+<!--/BackgroundItem-->

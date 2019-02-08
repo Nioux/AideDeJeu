@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--BackgroundItem-->
 
 > <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
 
@@ -15,13 +15,13 @@ Vous avez toujours vécu seul. Loin des cités, loin des villages et des hameaux
 
 **Équipement :** Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Besoin de personne<!--/Name-->
 
 Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un abri discret où se reposer et faire du feu la nuit tombée. De plus, vous repérez facilement les zones contenant des herbes médicinales ou des champignons comestibles.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
 <!--Items-->
 
@@ -29,7 +29,7 @@ Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un a
 
 Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé à vous éloigner, mais dans tous les cas, vous aimez l'espace et la solitude. Les foules vous dérangent et vous préférez compter sur vous-même pour votre propre survie, loin de tous. Au moins, là, personne ne vient vous déranger.
 
-<!--Generic-->
+<!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
@@ -44,9 +44,9 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 |7|Parfois, je plonge dans mes pensées et m'y <!--br-->perds. Et cela se voit.|
 |8|J'ai toujours une pensée philosophique et <!--br-->profonde appropriée à la situation.|
 
-<!--/Generic-->
+<!--/PersonalityTraitItem-->
 
-<!--Generic-->
+<!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
 
@@ -59,9 +59,9 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 |5|**Vengeance.** Ce que je subis, je le rends au <!--br-->centuple. (Mauvais)|
 |6|**Survivant.** La nature ne nous fait pas de <!--br-->cadeau. Nous devons tous savoir nous <!--br-->débrouiller seuls. (Neutre)|
 
-<!--/Generic-->
+<!--/PersonalityIdealItem-->
 
-<!--Generic-->
+<!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
 
@@ -74,9 +74,9 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 |5|J'ai été soldat autrefois. Je ne reverrai jamais <!--br-->les horreurs de la guerre.|
 |6|Je me suis fixé comme mission de protéger <!--br-->les terres sauvages qui m'accueillent des <!--br-->déprédations des êtres dits civilisés.|
 
-<!--/Generic-->
+<!--/PersonalityLinkItem-->
 
-<!--Generic-->
+<!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
 
@@ -89,11 +89,11 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 |5|Je prends parfois des risques inconsidérés par <!--br-->simple curiosité.|
 |6|Quand je reviens à la civilisation, j'ai tendance <!--br-->à m'abandonner aux plaisirs qu'elle m'offre. Un <!--br-->peu trop, parfois.|
 
-<!--/Generic-->
+<!--/PersonalityDefectItem-->
 
 <!--/Items-->
 
-<!--Items-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Ermite<!--/Name-->
 
@@ -105,17 +105,17 @@ Quelle qu'en soit la raison, vous avez décidé de vous retirer du monde. Vous v
 
 **Équipement :** Habits courants, ensemble d'outils ou instrument de musique parmi ceux maîtrisés, 5 bâtons d'encens, bourse contenant 10 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Révélation<!--/Name-->
 
 Vous avez eu une révélation. Votre vie solitaire et votre méditation vous ont donné les clés d'un secret dont vous ne comprenez pas encore tous les tenants et les aboutissants. Mais c'est elle qui vous a encouragé à sortir de votre réclusion volontaire. Déterminez un secret ou une révélation avec votre MJ. Il doit être assez flou pour vous pousser à l'aventure afin d'en savoir plus et, qui sait, de le contrer ou de le réaliser.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
-<!--/Items-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Guide<!--/Name-->
 
@@ -127,9 +127,9 @@ Votre vie n'est que voyage et isolement. Vous passez de communauté en communaut
 
 **Équipement :** Tenue de voyageur, sac contenant tente et couverture, boîte à amadou, bourse contenant 15 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Trappeur<!--/Name-->
 
@@ -141,6 +141,6 @@ Vous vivez de la chasse. La plupart du temps vous êtes seul, dans votre cabane 
 
 **Équipement :** Tenue de voyageur, couverture, boîte à amadou, fourrure d'un animal que vous avez tué et qui vous sert de couverture, piège à mâchoires, bourse contenant 10 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--/Items-->
+<!--/BackgroundItem-->

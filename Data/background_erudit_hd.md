@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--BackgroundItem-->
 
 > <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
 
@@ -17,7 +17,7 @@ Vous avez passé une large part de votre jeunesse le nez dans des parchemins et 
 
 **Équipement :** Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.
 
-<!--Generic-->
+<!--BackgroundSpecialtyItem-->
 
 #### <!--Name-->Domaine d'études<!--/Name-->
 
@@ -32,15 +32,15 @@ Vous avez une affinité pour un sujet d'études en particulier, ce qui vous a am
 |5|Cultures / Géographie|
 |6|Philosophie / Littérature|
 
-<!--/Generic-->
+<!--/BackgroundSpecialtyItem-->
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Culture générale<!--/Name-->
 
 Même si vous avez une spécialité, vous avez dû appréhender de multiples sujets d'études pour atteindre votre niveau d'érudition actuel. Vous disposez de connaissances de base dans la plupart des domaines, même les plus inaccessibles. Et lorsque vous ne disposez pas vous-même d'une connaissance, vous savez où l'obtenir et êtes capables d'identifier une personne ou un lieu auprès duquel vous renseigner. Il peut s'agir d'une bibliothèque, d'un monastère, d'un autre érudit, mais aussi d'un endroit perdu ou inaccessible.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
 <!--Items-->
 
@@ -48,7 +48,7 @@ Même si vous avez une spécialité, vous avez dû appréhender de multiples suj
 
 Les érudits se distinguent par leur soif inextinguible de connaissances. Pour certains, ce savoir est une fin en soi. Pour d'autres, il ne s'agit que d'un moyen parmi d'autres d'arriver à d'autres fins. Parvenir à un tel niveau d'érudition requiert cependant toujours une détermination sans faille.
 
-<!--Generic-->
+<!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
@@ -63,9 +63,9 @@ Les érudits se distinguent par leur soif inextinguible de connaissances. Pour c
 |7|Chaque individu est un mystère, une énigme <!--br-->à résoudre, et j'aime particulièrement les <!--br-->énigmes.|
 |8|La logique est mon moyen principal de <!--br-->communication et le filtre à travers lequel je <!--br-->cherche à comprendre le monde qui m'entoure.|
 
-<!--/Generic-->
+<!--/PersonalityTraitItem-->
 
-<!--Generic-->
+<!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
 
@@ -78,9 +78,9 @@ Les érudits se distinguent par leur soif inextinguible de connaissances. Pour c
 |5|**Logique.** C'est par une application <!--br-->pragmatique et logique des connaissances que <!--br-->l'homme peut s'améliorer. (Loyal)|
 |6|**Responsabilité.** La connaissance est un outil <!--br-->comme un autre, qui doit être employé avec <!--br-->discernement. (Neutre)|
 
-<!--/Generic-->
+<!--/PersonalityIdealItem-->
 
-<!--Generic-->
+<!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
 
@@ -93,9 +93,9 @@ Les érudits se distinguent par leur soif inextinguible de connaissances. Pour c
 |5|Mon érudition m'a attiré les faveurs d'un prince <!--br-->ou d'un puissant, qui compte sur moi pour le <!--br-->conseiller.|
 |6|J'ai conclu un pacte contre nature ou je me <!--br-->suis laissé corrompre afin d'obtenir un savoir <!--br-->réputé inaccessible. Je compte bien faire le <!--br-->nécessaire pour effacer cela par mes actes.|
 
-<!--/Generic-->
+<!--/PersonalityLinkItem-->
 
-<!--Generic-->
+<!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
 
@@ -107,11 +107,11 @@ Les érudits se distinguent par leur soif inextinguible de connaissances. Pour c
 |5|Je suis un incorrigible gaffeur, et je suis bien <!--br-->incapable de tenir ma langue.|
 |6|J'estime qu'un texte dans un grimoire ancien <!--br-->vaut souvent mieux qu'une opinion, même <!--br-->avertie.|
 
-<!--/Generic-->
+<!--/PersonalityDefectItem-->
 
 <!--/Items-->
 
-<!--Items-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Juriste<!--/Name-->
 
@@ -123,17 +123,17 @@ Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages e
 
 **Équipement :** Habits de bonne qualité, symbole ou emblème attestant de votre charge ou vos compétences, étui à parchemins avec 10 feuilles, plume et encre, bourse contenant 20 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Rouages de la justice<!--/Name-->
 
 Vous connaissez les rouages de la justice telle qu'elle est pratiquée dans votre région d'origine. Vous savez exploiter ces connaissances et votre propre influence pour garantir une peine réduite si jamais vous ou un de vos compagnons êtes la cible des foudres judiciaires.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
-<!--/Items-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Médecin<!--/Name-->
 
@@ -145,9 +145,9 @@ Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la
 
 **Équipement :** Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Naturaliste<!--/Name-->
 
@@ -159,6 +159,6 @@ Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de fa
 
 **Équipement :** Tenue de voyageur, sac contenant tente et couverture, matériel d'herboriste, boîte à amadou, bourse contenant 20 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--/Items-->
+<!--/BackgroundItem-->

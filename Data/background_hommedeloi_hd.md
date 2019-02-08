@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--BackgroundItem-->
 
 > <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
 
@@ -17,13 +17,13 @@ Quand vous sélectionnez cet historique, décidez, en accord avec votre MJ, de q
 
 **Équipement :** Épais journal vierge pour consigner ses investigations, matériel de calligraphie, tenue de voyageur, symbole (sceau ou médaillon) représentant son office, bourse contenant 20 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Position d'autorité<!--/Name-->
 
 Votre rang dans les forces de l'ordre ou dans votre communauté vous accorde des privilèges tout particuliers. Ainsi, les forces de l'ordre des communautés alliées ou en bon terme avec la vôtre ont toujours un a priori positif sur vous (sauf cas particulier). De plus, si vous vous trouvez dans votre propre juridiction, vous exercez les droits et prérogatives liés à votre rang. Vous pouvez ainsi arrêter ou demander la détention d'un suspect, ou agir de la manière la plus appropriée à votre fonction. Vous avez aussi plus facilement accès aux bâtiments officiels liés à votre activité ainsi qu'aux archives et lieux de détention. De plus, dans votre juridiction, on vous offre le gîte et le couvert. Si vous n'occupez plus votre fonction, l'octroi de cette aide nécessitera peutêtre de convaincre vos interlocuteurs, mais ils seront considérés comme neutres ou amicaux.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
 <!--Items-->
 
@@ -31,7 +31,7 @@ Votre rang dans les forces de l'ordre ou dans votre communauté vous accorde des
 
 Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui vous a profondément marqué. Votre fonction peut être un honneur, un devoir, ou une opportunité… Ou un élément de votre passé, glorieux ou honteux.
 
-<!--Generic-->
+<!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
@@ -46,9 +46,9 @@ Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui v
 |7|Le crime que je combats me fascine, et je veux <!--br-->le comprendre.|
 |8|Je suis un peu trop franc parfois, je devrais faire <!--br-->tourner sept fois ma langue dans ma bouche <!--br-->avant de parler.|
 
-<!--/Generic-->
+<!--/PersonalityTraitItem-->
 
-<!--Generic-->
+<!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
 
@@ -61,9 +61,9 @@ Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui v
 |5|**Esprit.** L'esprit de la loi, voilà ce qui compte. J'ai <!--br-->à coeur d'adapter mon verdict à la situation car <!--br-->rien n'est gravé dans le marbre. (Chaotique)|
 |6|**Bien commun.** Je suis au service de ma <!--br-->communauté (ou de mon organisation), ainsi <!--br-->que de ses membres. Je me dois de les protéger. <!--br-->(Bon)|
 
-<!--/Generic-->
+<!--/PersonalityIdealItem-->
 
-<!--Generic-->
+<!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
 
@@ -76,9 +76,9 @@ Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui v
 |5|Parfois, il faut faire des compromis. J'ai trempé <!--br-->dans des choses pas nettes afin de résoudre des <!--br-->affaires complexes. Je voudrais arriver à effacer <!--br-->ces méfaits.|
 |6|J'ai participé à une opération dont je ne veux <!--br-->plus parler. Mais elle reviendra me hanter, ainsi <!--br-->que ses victimes.|
 
-<!--/Generic-->
+<!--/PersonalityLinkItem-->
 
-<!--Generic-->
+<!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
 
@@ -91,11 +91,11 @@ Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui v
 |5|Quand je parle, on m'écoute, dussé-je utiliser <!--br-->la force.|
 |6|Je méprise ceux qui s'attaquent à plus faible <!--br-->qu'eux, car ce sont eux les faibles.|
 
-<!--/Generic-->
+<!--/PersonalityDefectItem-->
 
 <!--/Items-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Inquisiteur<!--/Name-->
 
@@ -109,9 +109,9 @@ Vous représentez l'autorité de votre clergé. Parfois enquêteur, parfois juge
 
 **Équipement :** Insigne représentant sa religion et sa fonction, habits de bonne qualité, épais journal vierge pour consigner ses investigations, matériel de calligraphie, bourse contenant 20 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Items-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Limier<!--/Name-->
 
@@ -123,17 +123,17 @@ Quand on veut retrouver la trace d'un homme ou élucider une affaire particuliè
 
 **Équipement :** Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Entre deux mondes<!--/Name-->
 
 Vous évoluez autant au sein des cercles officiels qu'en dehors. Cela fait que les autorités de la ville vous voient comme un atout que l'on peut sacrifier. Vous avez accès aux locaux de votre organisation et on vous laisse tranquille quand on connaît votre véritable identité. Dans tout autre cas, vous êtes traité comme tout un chacun. Cependant, vous disposez d'un contact dans le monde de la pègre ou dans les bas-fonds capable de vous obtenir des renseignements et des services auxquels les autres n'ont pas accès. Et s'il ne peut vous aider, peut-être connaissez- vous l'un de ses amis, prêt à louer ses talents.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
-<!--/Items-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Patrouilleur<!--/Name-->
 
@@ -147,6 +147,6 @@ Toujours sur les routes, vous êtes dépêché afin de venir en aide aux communa
 
 **Équipement :** Monture, tenue de voyageur, tente, boîte à amadou, insigne officiel, bourse contenant 20 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--/Items-->
+<!--/BackgroundItem-->

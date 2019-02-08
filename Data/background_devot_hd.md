@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--BackgroundItem-->
 
 > <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
 
@@ -20,7 +20,7 @@ Choisissez un dieu, un panthéon de dieux ou un être semi-divin parmi la liste 
 
 **Équipement :** Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, habits courants, bourse contenant 10 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Refuge du pèlerin<!--/Name-->
 
@@ -31,7 +31,7 @@ Vous êtes un acolyte et recevez le respect de ceux qui partagent votre foi. Vou
 
 Vous pouvez être lié à un temple spécifique dédié à votre déité ou votre panthéon et dans lequel vous avez un logement. Cela peut être le temple dans lequel vous officiez, si vous êtes resté en bons termes avec ses occupants, ou un temple qui est devenu votre nouvelle maison. Quand vous vous trouvez à proximité de votre temple, vous pouvez demander l'assistance des clercs qui s'y trouvent, dans la mesure où l'aide qu'ils vous apportent ne les met pas en danger et que vous êtes en bons termes avec eux.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
 <!--Items-->
 
@@ -42,7 +42,7 @@ Vous pouvez être lié à un temple spécifique dédié à votre déité ou votr
 
 La personnalité des acolytes est façonnée par leurs expériences dans les temples ou les communautés religieuses. Leurs études de l'histoire et des fondements de leur religion, ainsi que leurs rapports aux temples, autels ou clergés ont une influence sur leurs manières et leurs idéaux.
 
-<!--Generic-->
+<!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
@@ -60,9 +60,9 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 |7|J'ai connu des nourritures et des boissons <!--br-->raffinées et fréquenté la haute société parmi <!--br-->l'élite de mon temple. Je supporte néanmoins <!--br-->un mode de vie fruste.|
 |8|J'ai passé tellement de temps dans le temple <!--br-->que je n'ai pas beaucoup d'expérience quand il <!--br-->s'agit de traiter avec les gens de l'extérieur.|
 
-<!--/Generic-->
+<!--/PersonalityTraitItem-->
 
-<!--Generic-->
+<!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
 
@@ -78,9 +78,9 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 |5|**Foi.** Je sais que ma déité guide mes pas. Je sais <!--br-->que si je suis fidèle à ses préceptes, tout ira <!--br-->bien. (Loyal)|
 |6|**Aspiration.** Je dois me prouver digne de mon <!--br-->dieu en agissant selon ses enseignements. <!--br-->(N'importe lequel)|
 
-<!--/Generic-->
+<!--/PersonalityIdealItem-->
 
-<!--Generic-->
+<!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
 
@@ -96,9 +96,9 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 |5|Je suis prêt à tout pour protéger le temple dans <!--br-->lequel j'ai servi.|
 |6|Je dois protéger un texte sacré que mes <!--br-->ennemis considèrent hérétique et cherchent à <!--br-->détruire.|
 
-<!--/Generic-->
+<!--/PersonalityLinkItem-->
 
-<!--Generic-->
+<!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
 
@@ -114,11 +114,11 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 |5|Je ne fais pas confiance aux étrangers et je <!--br-->m'attends au pire de leur part.|
 |6|Une fois que je me suis fixé un objectif, je <!--br-->deviens obsédé par celui-ci au détriment de <!--br-->tout le reste.|
 
-<!--/Generic-->
+<!--/PersonalityDefectItem-->
 
 <!--/Items-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Initié<!--/Name-->
 
@@ -132,9 +132,9 @@ Que vous viviez ou non au temple, vous faites partie de la hiérarchie de votre 
 
 **Équipement :** Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), instrument de musique ou outils d'artisan, tenue de cérémonie, habits courants, bourse contenant 10 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Prédicateur<!--/Name-->
 
@@ -148,9 +148,9 @@ La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vou
 
 **Équipement :** Symbole sacré, livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, fiole d'eau bénite, tenue de voyageur, bourse contenant 10 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Items-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Repenti<!--/Name-->
 
@@ -162,15 +162,15 @@ Vous avez eu une autre vie, avant. Mais vous avez trouvé le salut dans un templ
 
 **Équipement :** Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, habits courants, bourse contenant 10 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Ancienne vie<!--/Name-->
 
 Vous étiez autre chose, avant. En plus de l'aptitude de dévot, choisissez l'aptitude d'un historique approprié à refléter votre passé. Quand vous le désirez, vous pouvez reprendre momentanément votre ancienne vie et votre ancienne identité afin de pouvoir l'utiliser en plus de l'aptitude de base de dévot. Mais si votre nouvelle vie devait être découverte par l'un de vos ennemis, ou si le temple qui vous a accueilli devait se rendre compte de votre rechute, vous ne pourriez plus utiliser cette aptitude. De plus, vous ne pourrez plus non plus utiliser votre aptitude de dévot tant que vous n'aurez pas fait sincère pénitence aux yeux de ceux qui ont accepté de vous accueillir pour que vous changiez de vie.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
-<!--/Items-->
+<!--/SubBackgroundItem-->
 
-<!--/Items-->
+<!--/BackgroundItem-->
 

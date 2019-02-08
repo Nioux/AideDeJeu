@@ -1,5 +1,5 @@
 
-<!--Items-->
+<!--BackgroundItem-->
 
 > <!--ParentNameLink-->[Historique](backgrounds_hd.md)<!--/ParentNameLink-->
 
@@ -19,13 +19,13 @@ En choisissant cet historique, vous devrez consulter votre MJ afin de créer vot
 
 **Équipement :** Habits de bonne qualité, monture, chevalière portant le sceau familial, bourse contenant 20 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : De la haute<!--/Name-->
 
 Vous êtes à l'aise dans les cercles de la haute société, et votre statut est aisément reconnaissable. Dès que l'on sait que vous êtes de noble lignage, les gens du peuple ont tendance à vous traiter avec déférence et respect, par devant tout du moins. Les miliciens et les gardes vous laissent tranquille, et les portes des grandes maisons et des cercles de pouvoir s'ouvrent plus facilement, pour peu que vous y mettiez les formes.
 
-<!--/Generic-->
+<!--/SkillItem-->
 
 <!--Items-->
 
@@ -33,7 +33,7 @@ Vous êtes à l'aise dans les cercles de la haute société, et votre statut est
 
 Être un sang bleu est certes un privilège, mais cela s'accompagne toujours de grandes responsabilités et d'immenses devoirs, envers votre famille, ses alliés, votre contrée et votre suzerain, mais aussi envers ceux qui servent votre famille.
 
-<!--Generic-->
+<!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
@@ -48,9 +48,9 @@ Vous êtes à l'aise dans les cercles de la haute société, et votre statut est
 |7|Tout affront doit être réparé. Dans le sang si <!--br-->nécessaire.|
 |8|Je ne refuse jamais un défi, il en va de mon <!--br-->honneur.|
 
-<!--/Generic-->
+<!--/PersonalityTraitItem-->
 
-<!--Generic-->
+<!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
 
@@ -63,9 +63,9 @@ Vous êtes à l'aise dans les cercles de la haute société, et votre statut est
 |5|**Honneur.** Rien n'est plus important qu'un <!--br-->contrat, tacite ou écrit. Je respecte mes <!--br-->engagements, il en va de mon honneur. (Loyal)|
 |6|**Sang.** Mon sang est bleu, comme celui des <!--br-->miens. Et le sang passe avant tout. (Tous)|
 
-<!--/Generic-->
+<!--/PersonalityIdealItem-->
 
-<!--Generic-->
+<!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
 
@@ -78,9 +78,9 @@ Vous êtes à l'aise dans les cercles de la haute société, et votre statut est
 |5|Je suis promis à une personne issue d'une autre <!--br-->famille, et je ne peux salir son nom, ni la mettre <!--br-->en danger, par mes actes.|
 |6|Je suis amoureux d'une personne dont la <!--br-->position n'est pas conciliable avec mon rang, <!--br-->ou mon nom.|
 
-<!--/Generic-->
+<!--/PersonalityLinkItem-->
 
-<!--Generic-->
+<!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
 
@@ -93,11 +93,11 @@ Vous êtes à l'aise dans les cercles de la haute société, et votre statut est
 |5|Je hais mon titre et mon rang.|
 |6|Je dois prouver ma valeur à tout prix.|
 
-<!--/Generic-->
+<!--/PersonalityDefectItem-->
 
 <!--/Items-->
 
-<!--Items-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Bâtard<!--/Name-->
 
@@ -109,17 +109,17 @@ Vous n'êtes pas vraiment un noble, ou pas complètement. Vous ne possédez pas 
 
 **Équipement :** Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
 
-<!--Generic-->
+<!--SkillItem-->
 
 #### <!--Name-->Aptitude : Ni noble, ni homme du peuple<!--/Name-->
 
 Vous êtes à l'aise auprès des gens du peuple, et savez comment vous faire passer pour l'un d'entre eux. Mais vous pouvez aussi vous faire passer pour un homme de noble lignage si nécessaire. Les gardes, soldats, miliciens et sous-fifres vous considèrent toujours comme un noble si vous le désirez. Mais vous savez aussi toujours où trouver une personne à qui parler parmi les serviteurs afin de découvrir l'information de votre choix (avec l'aval du MJ).
 
-<!--/Generic-->
+<!--/SkillItem-->
 
-<!--/Items-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Noblesse d'épée<!--/Name-->
 
@@ -133,9 +133,9 @@ Vous êtes membre d'une ancienne lignée issue des familles qui fondèrent le ro
 
 **Équipement :** Vêtements de qualité, monture, chevalière portant le sceau familial, pierre à affûter, bourse contenant 20 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--Generic-->
+<!--SubBackgroundItem-->
 
 ### <!--Name-->Variante : Noblesse de robe<!--/Name-->
 
@@ -149,6 +149,6 @@ Votre famille n'a pas toujours été noble. L'un de vos ancêtres a acquis ce st
 
 **Équipement :** Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse contenant 20 po.
 
-<!--/Generic-->
+<!--/SubBackgroundItem-->
 
-<!--/Items-->
+<!--/BackgroundItem-->
