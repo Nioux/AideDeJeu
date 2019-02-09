@@ -20,6 +20,10 @@ namespace AideDeJeu
             DependencyService.Register<BookmarksViewModel>();
             DependencyService.Register<StoreViewModel>();
             var vm = DependencyService.Get<MainViewModel>();
+
+            MainPage = new PlayerCharacterEditorPage();
+            return;
+
             var tabbeddPage = new AideDeJeu.Views.MainTabbedPage();
             //var mainPage = new ItemDetailPage(new ItemDetailViewModel(new HomeItem()) { Title = "Haches & Dés" });
             var titlered = (Color)Resources["HDRed"];
