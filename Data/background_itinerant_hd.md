@@ -9,13 +9,13 @@
 
 Vous avez vécu toute votre vie sur les routes. Vous n'avez connu que la vie nomade, vous déplaçant de village en village, de cité en cité, et vendant vos services ou vos talents. Que vous soyez un artiste, un camelot itinérant ou simplement un membre de la communauté des gens du voyage, la route est votre maison et vous avez toujours appris à vous contenter de peu. Vous préférez regarder le ciel étoilé et le voir comme la plus grande des richesses, plutôt que de compter les pièces de monnaie enfermé dans un manoir qui ne vous semble être qu'une prison dorée.
 
-**Compétences :** Représentation, Survie.
+**Compétences :** <!--Abilities-->Représentation, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres) ou véhicules (marins).
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Tenue de voyageur, costume ou vêtements tape-à-l'oeil, tente pour une personne et couverture, sac de voyage, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, costume ou vêtements tape-à-l'oeil, tente pour une personne et couverture, sac de voyage, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -101,13 +101,13 @@ Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vo
 
 Vous avez fait votre vie en voyageant de communauté en communauté et en vendant des biens. Vous avez toujours servi de lien entre les communautés et, au-delà de votre métier, vous avez rapidement compris que c'était aussi par vous que l'information voyageait à travers le royaume.
 
-**Compétences :** Persuasion, Survie.
+**Compétences :** <!--Abilities-->Persuasion, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres) ou véhicules (marins).
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Tenue de voyageur équipés d'une capuche, panier, tente pour une personne et couverture, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur équipés d'une capuche, panier, tente pour une personne et couverture, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -117,11 +117,11 @@ Vous avez fait votre vie en voyageant de communauté en communauté et en vendan
 
 On vous a toujours regardé de travers. Vous avez vécu toute votre vie au sein d'un clan soudé, allant de communauté en communauté, vous installant aux abords de la ville. Toute votre vie, on vous a pris pour des voleurs de poule et des sorcières. Mais peu importe, ils n'ont finalement peut-être pas totalement tort… et puis, ce qui compte vraiment, ce sont les vôtres.
 
-**Compétences :** Deux au choix parmi Intimidation, Représentation, Supercherie.
+**Compétences :** <!--Abilities-->Deux au choix parmi Intimidation, Représentation, Supercherie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), instrument de musique au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), instrument de musique au choix.<!--/MasteredTools-->
 
-**Équipement :** Tenue de voyageur, instrument de musique, chien ou petit animal de compagnie, sac de voyage, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, instrument de musique, chien ou petit animal de compagnie, sac de voyage, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -131,13 +131,13 @@ On vous a toujours regardé de travers. Vous avez vécu toute votre vie au sein 
 
 Le spectacle est votre vie. Que vous ayez fait partie d'une troupe ou que vous ayez décidé de parcourir les routes seul, vous êtes un artiste. Vous vous produisez devant les seigneurs tout autant que le petit peuple, il faut bien vivre.
 
-**Compétences :** Une compétence dépendant de la spécialité, Représentation.
+**Compétences :** <!--Abilities-->Une compétence dépendant de la spécialité, Représentation.<!--/Abilities-->
 
-**Outils maîtrisés :** Un instrument de musique au choix, véhicules (terrestres).
+**Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique au choix, véhicules (terrestres).<!--/MasteredTools-->
 
-**Langues maîtrisées :** Vous pouvez remplacer l'instrument de musique par une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Vous pouvez remplacer l'instrument de musique par une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Tenue de voyageur, costume ou vêtements tape à l'oeil, outils nécessaires à votre art (instrument, animal dressé, outils pour vos jongleries, etc.), sac de voyage, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, costume ou vêtements tape à l'oeil, outils nécessaires à votre art (instrument, animal dressé, outils pour vos jongleries, etc.), sac de voyage, bourse contenant 15 po.<!--/Equipment-->
 
 <!--BackgroundSpecialtyItem-->
 

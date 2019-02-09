@@ -9,11 +9,11 @@
 
 Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en marge de la société. Par choix ou par contrainte, vous avez préféré vous tenir loin des villes et des routes les plus fréquentées, préférant les chemins de terre et les pistes sinueuses aux rues étroites des cités. Une large part de votre existence a été consacrée à assurer votre survie et celle de vos proches, qu'il s'agisse de votre famille ou de compagnons de brigandage. Et lorsque la nature n'y suffisait pas, vous n'avez jamais rechigné à vous en prendre aux voyageurs ou aux villageois afin d'assurer votre subsistance.
 
-**Compétences :** Discrétion, Survie.
+**Compétences :** <!--Abilities-->Discrétion, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), un type de jeu au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
-**Équipement :** Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.<!--/Equipment-->
 
 <!--BackgroundSpecialtyItem-->
 
@@ -118,13 +118,13 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 
 Les bandits vivent en marge des principaux axes de communication, et s'en prennent en bande aux voyageurs et aux commerçants, qu'ils détroussent en un tournemain avant de se réfugier dans des repaires isolés et difficiles d'accès.
 
-**Compétences :** Intimidation, Survie.
+**Compétences :** <!--Abilities-->Intimidation, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres).
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Couverture, tenue de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Couverture, tenue de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -134,11 +134,11 @@ Les bandits vivent en marge des principaux axes de communication, et s'en prenne
 
 Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs se regroupent et se réfugient loin de ceux qui les pourchassent, en essayant de recréer dans la nature un semblant de leur vie passée.
 
-**Compétences :** Supercherie, Survie.
+**Compétences :** <!--Abilities-->Supercherie, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Un type de jeu au choix, un ensemble d'outils d'artisan au choix, vestiges de sa vie passée.
+**Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, un ensemble d'outils d'artisan au choix, vestiges de sa vie passée.<!--/MasteredTools-->
 
-**Équipement :** Sac avec tente et couverture, tenue de voyageur, outils d'artisan, boîte à amadou, outre d'eau, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Sac avec tente et couverture, tenue de voyageur, outils d'artisan, boîte à amadou, outre d'eau, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -148,11 +148,11 @@ Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs
 
 Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se retrouvent sur toutes les mers et les voies navigables au sein d'une confrérie étrange faite de violence, de sens de l'honneur et d'un goût prononcé pour la liberté.
 
-**Compétences :** Athlétisme, Supercherie.
+**Compétences :** <!--Abilities-->Athlétisme, Supercherie.<!--/Abilities-->
 
-**Outils maîtrisés :** Instruments de navigation, véhicules (marins).
+**Outils maîtrisés :** <!--MasteredTools-->Instruments de navigation, véhicules (marins).<!--/MasteredTools-->
 
-**Équipement :** Couverture, tenue de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Couverture, tenue de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 

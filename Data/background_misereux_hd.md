@@ -9,11 +9,11 @@
 
 Vous êtes issu de la classe sociale la plus basse, de ce qui est considéré par beaucoup comme la lie de la société. Vous avez longtemps survécu en mendiant, en errant dans les rues des cités ou sur les chemins du monde, et en récupérant ce dont d'autres voulaient bien se débarrasser. Vous avez pu alors constater la réelle étendue de leur « charité ». Votre vie a maintes fois été mise en danger à cause du dénuement dans lequel vous viviez : maladies, infections, malnutrition ont été vos ennemies, en plus du voleur ou du brigand occasionnel s'en prenant à vos maigres biens.
 
-**Compétences :** Discrétion, Escamotage.
+**Compétences :** <!--Abilities-->Discrétion, Escamotage.<!--/Abilities-->
 
-**Outils maîtrisés :** Un type de jeu au choix, outils de voleur.
+**Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, outils de voleur.<!--/MasteredTools-->
 
-**Équipement :** Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.
+**Équipement :** <!--Equipment-->Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -99,11 +99,11 @@ La vie de miséreux est une lutte permanente pour la survie, dans un environneme
 
 Vous avez vécu de la maigre charité des citadins et, pour accroître vos chances, vous avez appris à les amuser, les tromper ou parfois les voler, lorsque tout le reste ne suffisait pas.
 
-**Compétences :** Escamotage, Supercherie.
+**Compétences :** <!--Abilities-->Escamotage, Supercherie.<!--/Abilities-->
 
-**Outils maîtrisés :** Un instrument de musique (parmi tambours, flûte, chalumeau), un type de jeu au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique (parmi tambours, flûte, chalumeau), un type de jeu au choix.<!--/MasteredTools-->
 
-**Équipement :** Couverture rapiécée, habits courants, instrument de musique parmi ceux maîtrisés, bourse contenant 5 po.
+**Équipement :** <!--Equipment-->Couverture rapiécée, habits courants, instrument de musique parmi ceux maîtrisés, bourse contenant 5 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -113,11 +113,11 @@ Vous avez vécu de la maigre charité des citadins et, pour accroître vos chanc
 
 Votre jeunesse s'est déroulée dans un orphelinat pauvre, ou parmi une bande de gamins des rues. À l'âge où d'autres aident leurs parents tout en apprenant les bases de leur futur métier, font leurs premières armes ou vont à l'école, vous traîniez dans les rues en tentant de rassembler quelques piécettes pour vous acheter une maigre pitance. Vous avez toujours su que le monde n'était pas beau, que les forts régnaient sur les faibles, et qu'il fallait savoir se salir les mains pour survivre.
 
-**Compétences :** Acrobaties ou Discrétion, Escamotage.
+**Compétences :** <!--Abilities-->Acrobaties ou Discrétion, Escamotage.<!--/Abilities-->
 
-**Outils maîtrisés :** Un type de jeu au choix, accessoires de déguisement.
+**Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, accessoires de déguisement.<!--/MasteredTools-->
 
-**Équipement :** Habits courants, paquet de cartes ou dés, quelques chausse-trappes, colifichet vous rappelant votre enfance et – si vous les avez connus – vos parents, bourse contenant 5 po.
+**Équipement :** <!--Equipment-->Habits courants, paquet de cartes ou dés, quelques chausse-trappes, colifichet vous rappelant votre enfance et – si vous les avez connus – vos parents, bourse contenant 5 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -135,13 +135,13 @@ Vous avez une connexion particulière avec les gamins des rues qui traînent dan
 
 Vous avez choisi de quitter les villes et de vivre votre errance dans la nature, en quêtant votre pain quotidien de village en village, ou en vous abritant dans les ruines de fermes abandonnées.
 
-**Compétences :** Escamotage, Survie.
+**Compétences :** <!--Abilities-->Escamotage, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Matériel d'herboriste.
+**Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Couverture, habits courants, matériel d'herboriste, bourse contenant 5 po.
+**Équipement :** <!--Equipment-->Couverture, habits courants, matériel d'herboriste, bourse contenant 5 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 

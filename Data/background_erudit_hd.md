@@ -9,13 +9,13 @@
 
 Vous avez passé une large part de votre jeunesse le nez dans des parchemins et de vieux grimoires, à arpenter bibliothèques et scriptoriums à la recherche de précieux et poussiéreux manuscrits. Votre soif de connaissances, votre persévérance et votre intelligence vous ont permis de devenir une référence parmi vos pairs.
 
-**Compétences :** Arcanes, Histoire.
+**Compétences :** <!--Abilities-->Arcanes, Histoire.<!--/Abilities-->
 
-**Outils maîtrisés :** Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.
+**Outils maîtrisés :** <!--MasteredTools-->Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.<!--/Equipment-->
 
 <!--BackgroundSpecialtyItem-->
 
@@ -117,11 +117,11 @@ Les érudits se distinguent par leur soif inextinguible de connaissances. Pour c
 
 Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages essentiels de la justice et de la société civile médiévale. L'art du juriste mêle la rhétorique, la logique, la connaissance des textes anciens aussi bien que la théologie.
 
-**Compétences :** Histoire ou Religion, Persuasion
+**Compétences :** <!--Abilities-->Histoire ou Religion, Persuasion.<!--/Abilities-->
 
-**Langues maîtrisées :** Deux langues au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Habits de bonne qualité, symbole ou emblème attestant de votre charge ou vos compétences, étui à parchemins avec 10 feuilles, plume et encre, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Habits de bonne qualité, symbole ou emblème attestant de votre charge ou vos compétences, étui à parchemins avec 10 feuilles, plume et encre, bourse contenant 20 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -139,11 +139,11 @@ Vous connaissez les rouages de la justice telle qu'elle est pratiquée dans votr
 
 Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la guérison des blessures et maladies. Certaines parties de vos recherches vous ont amené sur des pistes sombres et terribles, mais cela vous a permis d'en apprendre plus et de mettre ces connaissances au service du bien commun.
 
-**Compétences :** Médecine, Nature.
+**Compétences :** <!--Abilities-->Médecine, Nature.<!--/Abilities-->
 
-**Outils maîtrisés :** Matériel d'herboriste, matériel d'empoisonneur.
+**Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste, matériel d'empoisonneur.<!--/MasteredTools-->
 
-**Équipement :** Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -153,11 +153,11 @@ Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la
 
 Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de faire de la nature votre principal domaine d'expertise, et des forêts ou des montagnes votre salle d'étude. Vous avez passé de longues heures sur les chemins, et plantes et animaux n'ont plus de secret pour vous.
 
-**Compétences :** Nature, Survie.
+**Compétences :** <!--Abilities-->Nature, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), matériel d'herboriste.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), matériel d'herboriste.<!--/MasteredTools-->
 
-**Équipement :** Tenue de voyageur, sac contenant tente et couverture, matériel d'herboriste, boîte à amadou, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, sac contenant tente et couverture, matériel d'herboriste, boîte à amadou, bourse contenant 20 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 

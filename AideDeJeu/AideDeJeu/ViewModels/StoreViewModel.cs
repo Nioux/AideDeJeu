@@ -387,6 +387,8 @@ namespace AideDeJeu.ViewModels
             public DbSet<ClassItem> Classes { get; set; }
             public DbSet<SubRaceItem> SubRaces { get; set; }
             public DbSet<SubClassItem> SubClasses { get; set; }
+            public DbSet<BackgroundItem> Backgrounds { get; set; }
+            public DbSet<SubBackgroundItem> SubBackgrounds { get; set; }
 
             public AideDeJeuContext(string dbPath)
             {

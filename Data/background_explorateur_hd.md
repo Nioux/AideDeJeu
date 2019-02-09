@@ -9,13 +9,13 @@
 
 Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côté de la prochaine forêt, de la prochaine chaîne de montagnes ou du prochain désert. L'aventure passait pour vous par le voyage et le fait de repousser sans cesse les limites connues. Vous avez maintes fois mis votre vie en danger : les rudesses du climat, les animaux sauvages ou les créatures qui hantent les abords du monde ont été vos fidèles ennemis.
 
-**Compétences :** Athlétisme, Survie.
+**Compétences :** <!--Abilities-->Athlétisme, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres).
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15 m), bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15 m), bourse contenant 15 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -101,13 +101,13 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 
 Vous avez employé vos dons dans un contexte militaire ou guerrier. Sans être un soldat à part entière, vous étiez employé afin d'explorer (et d'espionner) des contrées ennemies ou inconnues et de fournir des informations à une armée d'invasion.
 
-**Compétences :** Discrétion, Survie.
+**Compétences :** <!--Abilities-->Discrétion, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Accessoires de déguisement.
+**Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Tenue de voyageur, sac contenant couverture et tente, outre d'eau, accessoires de déguisement, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, sac contenant couverture et tente, outre d'eau, accessoires de déguisement, bourse contenant 15 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -117,11 +117,11 @@ Vous avez employé vos dons dans un contexte militaire ou guerrier. Sans être u
 
 Vous avez fait partie d'un équipage, voguant sur les mers et les océans à la recherche de denrées rares et précieuses, ou de continents inexplorés. Vous avez affronté les dangers si particuliers de la navigation, et en êtes ressorti plus humble et plus sage.
 
-**Compétences :** Acrobaties, Athlétisme.
+**Compétences :** <!--Abilities-->Acrobaties, Athlétisme.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (marins), ensemble d'outils au choix parmi outils de charpentier, outils de menuisier, instruments de navigation.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (marins), ensemble d'outils au choix parmi outils de charpentier, outils de menuisier, instruments de navigation.<!--/MasteredTools-->
 
-**Équipement :** Tenue de voyageur, un ensemble d'outils parmi ceux maîtrisés, bouteille d'alcool fort, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, un ensemble d'outils parmi ceux maîtrisés, bouteille d'alcool fort, bourse contenant 15 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -131,13 +131,13 @@ Vous avez fait partie d'un équipage, voguant sur les mers et les océans à la 
 
 Vous erriez à la recherche des trésors, des cités perdues et de secrets enfouis des temps anciens. Aventurier sans foi ni loi, pilleur de tombes, archéologue, vous avez été tout cela à la fois, et plus encore !
 
-**Compétences :** Histoire, Investigation.
+**Compétences :** <!--Abilities-->Histoire, Investigation.<!--/Abilities-->
 
-**Outils maîtrisés :** Outils de voleur.
+**Outils maîtrisés :** <!--MasteredTools-->Outils de voleur.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.<!--/Equipment-->
 
 <!--SkillItem-->
 

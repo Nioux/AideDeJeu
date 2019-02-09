@@ -9,11 +9,11 @@
 
 Vous avez toujours vécu seul. Loin des cités, loin des villages et des hameaux, vous ne vous êtes jamais vraiment mêlé à la population. Vous n'appréciez pas les foules, vous vous sentez bien dans la solitude. Vous n'avez pas peur de vous retrouver seul : c'est là que vous pouvez réellement être vous-même, loin du jugement et des peurs des autres. Ou peut-être avez-vous simplement décidé de vous exiler afin de méditer et de découvrir les secrets de l'univers.
 
-**Compétences :** Nature, Survie.
+**Compétences :** <!--Abilities-->Nature, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.
+**Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.<!--/MasteredTools-->
 
-**Équipement :** Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -99,11 +99,11 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 
 Quelle qu'en soit la raison, vous avez décidé de vous retirer du monde. Vous vivez seul, loin de tous, et c'est un choix. Vous ne revenez dans les communautés civilisées que lorsque vous en avez réellement besoin et préférez la compagnie des animaux, le murmure de la nature et le chant du vent dans les arbres. Une vie sans les fioritures de la ville, vous contentant de peu afin de méditer. Votre isolement est une quête spirituelle avant tout.
 
-**Compétences :** Perspicacité ou Survie, Religion.
+**Compétences :** <!--Abilities-->Perspicacité ou Survie, Religion.<!--/Abilities-->
 
-**Outils maîtrisés :** Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier. Vous pouvez remplacer l'un de ces outils par un instrument de musique rituel ou du matériel d'herboriste.
+**Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier. Vous pouvez remplacer l'un de ces outils par un instrument de musique rituel ou du matériel d'herboriste.<!--/MasteredTools-->
 
-**Équipement :** Habits courants, ensemble d'outils ou instrument de musique parmi ceux maîtrisés, 5 bâtons d'encens, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Habits courants, ensemble d'outils ou instrument de musique parmi ceux maîtrisés, 5 bâtons d'encens, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -121,11 +121,11 @@ Vous avez eu une révélation. Votre vie solitaire et votre méditation vous ont
 
 Votre vie n'est que voyage et isolement. Vous passez de communauté en communauté, guidant les caravanes à bon port. Cela ne vous empêche pas de savoir comment sociabiliser, mais vous portez sur vos épaules, à chaque voyage, la responsabilité de toute une caravane.
 
-**Compétences :** Athlétisme, Survie.
+**Compétences :** <!--Abilities-->Athlétisme, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), un type de jeu au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
-**Équipement :** Tenue de voyageur, sac contenant tente et couverture, boîte à amadou, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, sac contenant tente et couverture, boîte à amadou, bourse contenant 15 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -135,11 +135,11 @@ Votre vie n'est que voyage et isolement. Vous passez de communauté en communaut
 
 Vous vivez de la chasse. La plupart du temps vous êtes seul, dans votre cabane au milieu de la nature sauvage. Mais vous revenez régulièrement dans un village non loin, afin de vendre le produit de votre chasse. Malgré votre isolement, vous faites tout de même partie de la communauté que vous rejoignez parfois.
 
-**Compétences :** Discrétion, Survie.
+**Compétences :** <!--Abilities-->Discrétion, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Un type de jeu, un ensemble d'outils d'artisans au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.
+**Outils maîtrisés :** <!--MasteredTools-->Un type de jeu, un ensemble d'outils d'artisans au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.<!--/MasteredTools-->
 
-**Équipement :** Tenue de voyageur, couverture, boîte à amadou, fourrure d'un animal que vous avez tué et qui vous sert de couverture, piège à mâchoires, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Tenue de voyageur, couverture, boîte à amadou, fourrure d'un animal que vous avez tué et qui vous sert de couverture, piège à mâchoires, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 

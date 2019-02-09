@@ -1,12 +1,12 @@
 ﻿---
 !SubClassItem
+Name: Serment de rédemption
+Source: (MDR p191)
 Id: paladin_redemption_hd.md#serment-de-rédemption
 RootId: paladin_redemption_hd.md
 ParentLink: paladin_hd.md#serments-sacrés
-Name: Serment de rédemption
 ParentName: Serments sacrés
 NameLevel: 1
-Source: (MDR p191)
 ---
 >  [Serments sacrés](hd_paladin_serments_sacres.md)
 

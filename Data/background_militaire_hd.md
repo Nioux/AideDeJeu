@@ -9,11 +9,11 @@
 
 Conscrit, soldat de métier ou milicien, vous avez passé une large part de votre ancienne vie au sein d'une organisation hiérarchique disciplinée vouée aux métiers des armes. Rythmée par les corvées, les exercices et les combats, votre existence a été exposée au danger à maintes reprises, et vous devez votre salut à vos aptitudes au maniement des armes autant qu'à certains de vos compagnons d'armes, dont plusieurs sont tombés au combat.
 
-**Compétences :** Athlétisme, Intimidation.
+**Compétences :** <!--Abilities-->Athlétisme, Intimidation.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), un type de jeu au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
-**Équipement :** Couverture, habits courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Couverture, habits courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, bourse contenant 15 po.<!--/Equipment-->
 
 <!--BackgroundSpecialtyItem-->
 
@@ -116,13 +116,13 @@ Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'homme
 
 Vous avez été membre de la garde d'une ville ou d'une cité. Votre quotidien n'était pas fait de grandes batailles et d'actes héroïques, mais bien plus souvent de citoyens avinés, de mendiants, de voleurs, de marchands mécontents et autres charlatans en tous genres.
 
-**Compétences :** Intimidation, Perspicacité.
+**Compétences :** <!--Abilities-->Intimidation, Perspicacité.<!--/Abilities-->
 
-**Outils maîtrisés :** Un type de jeu au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Vêtements courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, outre de vin, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Vêtements courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, outre de vin, bourse contenant 15 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -132,11 +132,11 @@ Vous avez été membre de la garde d'une ville ou d'une cité. Votre quotidien n
 
 Vous avez fait partie d'une compagnie de mercenaires vendant ses services au plus offrant. Vous avez combattu avec et contre la plupart des seigneurs locaux, au gré des fortunes des uns et des autres. Pour vous, la guerre était avant tout une source de profit.
 
-**Compétences :** Athlétisme, Supercherie.
+**Compétences :** <!--Abilities-->Athlétisme, Supercherie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), un type de jeu au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
-**Équipement :** Habits courants, paquet de cartes ou dés, objet de valeur récupéré sur un champ de bataille ou lors d'un siège, pierre à affûter, outre de vin, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Habits courants, paquet de cartes ou dés, objet de valeur récupéré sur un champ de bataille ou lors d'un siège, pierre à affûter, outre de vin, bourse contenant 15 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -146,13 +146,13 @@ Vous avez fait partie d'une compagnie de mercenaires vendant ses services au plu
 
 Par votre courage ou un hasard des événements, à force de ténacité aussi, vous avez gravi quelques échelons dans la hiérarchie militaire, devenant sergent, enseigne, lieutenant ou même capitaine d'une compagnie. Vos hommes vous respectaient d'autant plus que votre statut n'avait rien à voir avec votre naissance.
 
-**Compétences :** Athlétisme ou Dressage, Persuasion.
+**Compétences :** <!--Abilities-->Athlétisme ou Dressage, Persuasion.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres).
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Monture, habits de bonne qualité, insigne ou emblème de votre unité et de votre rang, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Monture, habits de bonne qualité, insigne ou emblème de votre unité et de votre rang, bourse contenant 15 po.<!--/Equipment-->
 
 <!--SkillItem-->
 

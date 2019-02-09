@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Serment de dévotion
+Source: (MDR p186)
 Id: paladin_devotion_hd.md#serment-de-dévotion
 RootId: paladin_devotion_hd.md
 ParentLink: paladin_hd.md#serments-sacrés
-Name: Serment de dévotion
 ParentName: Serments sacrés
 NameLevel: 1
 AltName: Oath of Devotion (SRD p32)
-Source: (MDR p186)
 ---
 >  [Serments sacrés](hd_paladin_serments_sacres.md)
 

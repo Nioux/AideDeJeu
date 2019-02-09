@@ -361,6 +361,7 @@ namespace AideDeJeuCmd
                 var spells = await context.Spells.ToListAsync();
                 var classes = await context.Classes.ToListAsync();
                 var races = await context.Races.ToListAsync();
+                var backgrounds = await context.Backgrounds.ToListAsync();
                 var items = await context.Items.ToListAsync();
 
                 foreach (var c in classes)

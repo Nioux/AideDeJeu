@@ -14,11 +14,11 @@ Vous avez passé votre vie au service d'un temple dédié à un dieu particulier
 
 Choisissez un dieu, un panthéon de dieux ou un être semi-divin parmi la liste proposée dans l'appendice A, Panthéons historiques et fantastiques, page 414, ou par- mi ceux proposés par votre MJ, avec qui vous déterminerez la nature exacte de vos tâches religieuses. Étiezvous un petit acolyte dans la hiérarchie du temple, élevé depuis l'enfance pour assister les prêtres lors des rites sacrés ? Ou le leader d'un culte qui a soudain ressenti le besoin de servir son dieu différemment ? Peut-être étiez-vous à la tête d'un culte indépendant non affilié à un quelconque temple, ou faisiez-vous partie d'un groupe occulte au service d'un maître démoniaque que vous avez renié.
 
-**Compétences :** Perspicacité, Religion.
+**Compétences :** <!--Abilities-->Perspicacité, Religion.<!--/Abilities-->
 
-**Langues maîtrisées :** Deux langues au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, habits courants, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, habits courants, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -124,13 +124,13 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 Que vous viviez ou non au temple, vous faites partie de la hiérarchie de votre clergé. Vous avez été initié, et êtes ainsi devenu un agent de votre dieu. Peut-être était-ce une démarche sincère, ou simplement une obligation familiale. Mais vous avez appris les rituels et les croyances de votre clergé. Vous avez assisté les prêtres, aiguillé les croyants, accompli toutes les missions que l'on vous a demandé d'accomplir.
 
-**Compétences :** Investigation, Religion.
+**Compétences :** <!--Abilities-->Investigation, Religion.<!--/Abilities-->
 
-**Outils maîtrisés :** Un instrument de musique (utilisé dans les cérémonies de votre religion) ou un ensemble d'outils d'artisan.
+**Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique (utilisé dans les cérémonies de votre religion) ou un ensemble d'outils d'artisan.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), instrument de musique ou outils d'artisan, tenue de cérémonie, habits courants, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), instrument de musique ou outils d'artisan, tenue de cérémonie, habits courants, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -140,13 +140,13 @@ Que vous viviez ou non au temple, vous faites partie de la hiérarchie de votre 
 
 La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vous transmettez sa parole et voyagez loin des temples. Vous parlez au nom de votre clergé et assurez le lien avec la population.
 
-**Compétences :** Religion, Représentation.
+**Compétences :** <!--Abilities-->Religion, Représentation.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres) ou véhicules (marins).
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Symbole sacré, livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, fiole d'eau bénite, tenue de voyageur, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Symbole sacré, livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, fiole d'eau bénite, tenue de voyageur, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -156,11 +156,11 @@ La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vou
 
 Vous avez eu une autre vie, avant. Mais vous avez trouvé le salut dans un temple. Vous fuyez les horreurs de votre passé et tentez de vous racheter, ou simplement de changer de vie. Vous n'être plus le même et vous préféreriez que l'on ne sache rien de ce que vous étiez.
 
-**Compétences :** Religion, Supercherie.
+**Compétences :** <!--Abilities-->Religion, Supercherie.<!--/Abilities-->
 
-**Outils maîtrisés :** Accessoires de déguisement, Véhicules (terrestres).
+**Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement, Véhicules (terrestres).<!--/MasteredTools-->
 
-**Équipement :** Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, habits courants, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, habits courants, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 

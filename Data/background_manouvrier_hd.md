@@ -9,11 +9,11 @@
 
 Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et votre endurance. Vous arpentiez les rues de votre cité en vous levant à l'aube, afin de vendre vos services à la journée, parfois pour quelques jours. Votre vie n'a pas toujours été simple, et vous avez souvent flirté avec la mendicité ou la délinquance pour gagner votre pain. Par un coup de pouce du hasard, vous avez pu échapper à cette vie. Vous en concevez une volonté inébranlable et la conscience aiguë d'une main invisible qui veille sur votre destinée.
 
-**Compétences :** Athlétisme, Escamotage.
+**Compétences :** <!--Abilities-->Athlétisme, Escamotage.<!--/Abilities-->
 
-**Outils maîtrisés :** Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.
+**Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.<!--/MasteredTools-->
 
-**Équipement :** Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.<!--/Equipment-->
 
 <!--BackgroundSpecialtyItem-->
 
@@ -116,13 +116,13 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 
 Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes tavernes où artisans, ouvriers et autres bourgeois se rencontrent autour d'une chope et d'une assiette bien remplie. Vous avez longtemps travaillé dans ce type d'établissements, servant à boire et nettoyant les tables en écoutant les multiples histoires des clients.
 
-**Compétences :** Athlétisme, Représentation.
+**Compétences :** <!--Abilities-->Athlétisme, Représentation.<!--/Abilities-->
 
-**Outils maîtrisés :** Ustensiles de cuisinier ou un type de jeu au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Ustensiles de cuisinier ou un type de jeu au choix.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -140,11 +140,11 @@ Vous ne comptez plus le nombre d'histoires de terres inconnues et lointaines que
 
 Les journaliers proposent leurs services dans les villages et les campagnes. Ils y sont coutumiers des travaux agricoles, d'un petit artisanat d'appoint dans les villages, et du transport de quelques biens indispensables entre les différentes communautés. Les plus chanceux trouvent des travaux saisonniers pendant lesquels ils sont nourris et logés à la ferme, et n'ont pas à se demander – au moins pendant quelques semaines – de quoi le lendemain sera fait.
 
-**Compétences :** Athlétisme, Survie.
+**Compétences :** <!--Abilities-->Athlétisme, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.<!--/MasteredTools-->
 
-**Équipement :** Habits courants, outre de vin, ensemble d'outils dépendant de son métier, couverture, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Habits courants, outre de vin, ensemble d'outils dépendant de son métier, couverture, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 

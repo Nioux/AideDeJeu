@@ -9,13 +9,13 @@
 
 Vous avez mis vos simples talents au service d'un personnage illustre ou d'un notable. Né ou devenu serviteur, vous avez démontré pendant longtemps une loyauté sans faille à votre maître ou votre maîtresse, en échange de quoi elle ou il vous fournissait abri, nourriture et sécurité. Il est même possible que vous ayez développé une relation ou une affection particulière, devenant un aide de camp ou un confident. Vous vous êtes épanoui pendant longtemps dans cette vie entre deux mondes, la haute société à laquelle appartenait votre employeur et celle, plus commune, des serviteurs.
 
-**Compétences :** Discrétion, Perspicacité.
+**Compétences :** <!--Abilities-->Discrétion, Perspicacité.<!--/Abilities-->
 
-**Outils maîtrisés :** Outils de tisserand.
+**Outils maîtrisés :** <!--MasteredTools-->Outils de tisserand.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Vêtements de bonne qualité, 2 bougies, morceau de savon, colifichet signe de l'affection que vous portait votre employeur, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Vêtements de bonne qualité, 2 bougies, morceau de savon, colifichet signe de l'affection que vous portait votre employeur, bourse contenant 15 po.<!--/Equipment-->
 
 <!--BackgroundSpecialtyItem-->
 
@@ -118,13 +118,13 @@ Les serviteurs sont des individus de l'ombre, qui font souvent une grande diffé
 
 Vous avez trimé pendant de longues années en cuisine. D'abord simple commis, vous avez gravi les échelons jusqu'à diriger la cuisine de votre seigneur et obtenir sa pleine confiance pour gérer à la fois sa nourriture et celle de ses nombreux invités.
 
-**Compétences :** Discrétion, Perspicacité.
+**Compétences :** <!--Abilities-->Discrétion, Perspicacité.<!--/Abilities-->
 
-**Outils maîtrisés :** Ustensiles de cuisinier.
+**Outils maîtrisés :** <!--MasteredTools-->Ustensiles de cuisinier.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Habits courants, ustensiles de cuisinier, colifichet signe de l'affection que vous portait votre employeur, outre de bon vin, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Habits courants, ustensiles de cuisinier, colifichet signe de l'affection que vous portait votre employeur, outre de bon vin, bourse contenant 15 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -142,11 +142,11 @@ Vous avez trimé pendant de longues années en cuisine. D'abord simple commis, v
 
 Dans une maisonnée, un palefrenier est le petit seigneur des écuries. Il se charge de soigner et nourrir les chevaux, et de nettoyer les écuries. Aucun chevalier digne de ce nom ne peut se passer d'un palefrenier compétent, car de bons chevaux signifient puissance et prestige.
 
-**Compétences :** Dressage, Perspicacité.
+**Compétences :** <!--Abilities-->Dressage, Perspicacité.<!--Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), outils de tanneur.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), outils de tanneur.<!--/MasteredTools-->
 
-**Équipement :** Habits courants, outils de tanneur, colifichet signe de l'affection que vous portait votre employeur, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Habits courants, outils de tanneur, colifichet signe de l'affection que vous portait votre employeur, bourse contenant 15 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -156,11 +156,11 @@ Dans une maisonnée, un palefrenier est le petit seigneur des écuries. Il se ch
 
 Vous aviez été engagé pour veiller à l'éducation des enfants de la maisonnée. Votre principale relation s'est nouée pendant l'enfance et l'adolescence des jeunes seigneurs. Devenus adultes, ils se souviennent souvent avec émotion des professeurs qui ont guidé leur apprentissage.
 
-**Compétences :** Histoire, Perspicacité.
+**Compétences :** <!--Abilities-->Histoire, Perspicacité.<!--/Abilities-->
 
-**Langues maîtrisées :** Deux langues au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Habits de bonne qualité, 2 bougies, livre d'histoire ou de langue ancienne, plume et encre, étui avec 10 feuilles de parchemin, bourse contenant 15 po.
+**Équipement :** <!--Equipment-->Habits de bonne qualité, 2 bougies, livre d'histoire ou de langue ancienne, plume et encre, étui avec 10 feuilles de parchemin, bourse contenant 15 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 

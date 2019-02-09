@@ -11,11 +11,11 @@ Chaque contrée, chaque cité, chaque communauté est régie par des lois. Et il
 
 Quand vous sélectionnez cet historique, décidez, en accord avec votre MJ, de quelle organisation ou communauté vous êtes issu, ainsi que votre fonction et votre rang. Vous pouvez aussi décider de ne plus être au service de cette communauté ou de cette organisation.
 
-**Compétences :** Investigation ou Persuasion, Perspicacité.
+**Compétences :** <!--Abilities-->Investigation ou Persuasion, Perspicacité.<!--/Abilities-->
 
-**Outils maîtrisés :** Matériel de calligraphie, véhicules (terrestres).
+**Outils maîtrisés :** <!--MasteredTools-->Matériel de calligraphie, véhicules (terrestres).<!--/MasteredTools-->
 
-**Équipement :** Épais journal vierge pour consigner ses investigations, matériel de calligraphie, tenue de voyageur, symbole (sceau ou médaillon) représentant son office, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Épais journal vierge pour consigner ses investigations, matériel de calligraphie, tenue de voyageur, symbole (sceau ou médaillon) représentant son office, bourse contenant 20 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -101,13 +101,13 @@ Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui v
 
 Vous représentez l'autorité de votre clergé. Parfois enquêteur, parfois juge, parfois les deux, vous avez pour mission de débusquer et de punir les ennemis de votre foi et de garantir l'intégrité de votre culte et de ses croyants. Il existe toutes sortes d'inquisiteurs, depuis le traqueur de morts-vivants au service d'un dieu bon jusqu'au chasseur de sorcières et de pécheurs.
 
-**Compétences :** Intimidation, Religion.
+**Compétences :** <!--Abilities-->Intimidation, Religion.<!--/Abilities-->
 
-**Outils maîtrisés :** Matériel de calligraphie.
+**Outils maîtrisés :** <!--MasteredTools-->Matériel de calligraphie.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Insigne représentant sa religion et sa fonction, habits de bonne qualité, épais journal vierge pour consigner ses investigations, matériel de calligraphie, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Insigne représentant sa religion et sa fonction, habits de bonne qualité, épais journal vierge pour consigner ses investigations, matériel de calligraphie, bourse contenant 20 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -117,11 +117,11 @@ Vous représentez l'autorité de votre clergé. Parfois enquêteur, parfois juge
 
 Quand on veut retrouver la trace d'un homme ou élucider une affaire particulière, c'est vous que l'on dépêche. Vous savez évoluer entre deux mondes, connaissez les codes des bas-fonds, et avez appris à vous faire discret.
 
-**Compétences :** Investigation ou Perspicacité, Supercherie.
+**Compétences :** <!--Abilities-->Investigation ou Perspicacité, Supercherie.<!--/Abilities-->
 
-**Outils maîtrisés :** Accessoires de déguisement, outils de voleur.
+**Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement, outils de voleur.<!--/MasteredTools-->
 
-**Équipement :** Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -139,13 +139,13 @@ Vous évoluez autant au sein des cercles officiels qu'en dehors. Cela fait que l
 
 Toujours sur les routes, vous êtes dépêché afin de venir en aide aux communautés locales. Vous êtes investi de l'autorité de votre hiérarchie et jouissez d'une certaine indépendance dans l'exécution de votre mission.
 
-**Compétences :** Perspicacité, Survie.
+**Compétences :** <!--Abilities-->Perspicacité, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres).
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
-**Langue :** Une langue au choix.
+**Langue :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Monture, tenue de voyageur, tente, boîte à amadou, insigne officiel, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Monture, tenue de voyageur, tente, boîte à amadou, insigne officiel, bourse contenant 20 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 

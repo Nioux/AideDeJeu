@@ -9,11 +9,11 @@
 
 Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le monde n'a pas le privilège de vivre dans les beaux quartiers. Vous êtes de ces gens que l'on considère avec mépris. Vous avez fait ce qu'il fallait pour survivre, quitte à vous compromettre moralement. Vous avez rapidement compris que la vie n'était qu'un rapport de pouvoir et vous avez tiré votre épingle du jeu en agissant de manière plus ou moins honnête, délestant d'autres moins avisés que vous de leur maigre fortune dans les rues de la cité qui vous abrite.
 
-**Compétences :** Escamotage, Intimidation.
+**Compétences :** <!--Abilities-->Escamotage, Intimidation.<!--/Abilities-->
 
-**Outils maîtrisés :** Outils de voleur, un type de jeu au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, un type de jeu au choix.<!--/MasteredTools-->
 
-**Équipement :** Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -99,11 +99,11 @@ Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les 
 
 Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait votre gagne-pain de les délester un peu de leurs richesses pour les revendre, empochant au passage une jolie commission.
 
-**Compétences :** Acrobaties ou Athlétisme, Discrétion.
+**Compétences :** <!--Abilities-->Acrobaties ou Athlétisme, Discrétion.<!--/Abilities-->
 
-**Outils maîtrisés :** Outils de voleur, accessoires de déguisement.
+**Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, accessoires de déguisement.<!--/MasteredTools-->
 
-**Équipement :** Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -113,11 +113,11 @@ Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait 
 
 Vous avez très vite compris que les gens étaient crédules. Et quel mal y a-t-il à délester un benêt de ses précieuses pièces ? Vous avez vécu en arnaquant les gens. Vous avez toujours su comment les manipuler pour obtenir ce que vous vouliez. Peut-être étiezvous un faussaire talentueux, un arnaqueur, un tricheur aux jeux, ou encore peut-être pratiquiez-vous une forme de bonneteau.
 
-**Compétences :** Persuasion, Supercherie.
+**Compétences :** <!--Abilities-->Persuasion, Supercherie.<!--/Abilities-->
 
-**Outils maîtrisés :** Deux au choix parmi un type de jeu, accessoires de faussaire, accessoires de déguisement.
+**Outils maîtrisés :** <!--MasteredTools-->Deux au choix parmi un type de jeu, accessoires de faussaire, accessoires de déguisement.<!--/MasteredTools-->
 
-**Équipement :** Accessoires de faussaire ou jeu, deux ensembles de d'habits courants, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Accessoires de faussaire ou jeu, deux ensembles de d'habits courants, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -135,13 +135,13 @@ Vous disposez d'une seconde identité afin d'éviter que l'on puisse vous retrou
 
 Vous avez des doigts de fée. Vous faisiez vos premiers tours de passe-passe avant même de marcher. C'est tout naturellement que, afin de survivre (ou sous la contrainte d'un parent ou d'un tuteur), vous avez appris à utiliser vos dons pour délester les autres de leurs bourses trop bien remplies.
 
-**Compétences :** Escamotage, Supercherie.
+**Compétences :** <!--Abilities-->Escamotage, Supercherie.<!--/Abilities-->
 
-**Outils maîtrisés :** Accessoires de déguisement.
+**Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Argot des voleurs.
+**Langues maîtrisées :** <!--MasteredLanguages-->Argot des voleurs.<!--/MasteredLanguages-->
 
-**Équipement :** Vêtements discrets équipés d'une capuche, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Vêtements discrets équipés d'une capuche, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 

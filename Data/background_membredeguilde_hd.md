@@ -9,13 +9,13 @@
 
 Vous appartenez à une guilde, une caste ou un groupe relativement fermé de personnes qui s'entraident dans un but commun. Votre prospérité est due au moins autant à l'appartenance à ce groupe qu'à vos talents individuels. En formant un réseau de personnes dont les intérêts convergent, les guildes passent bien souvent outre l'ordre féodal et permettent à leurs membres d'accéder à la richesse et au pouvoir. Elles défendent jalousement leurs prérogatives, et font généralement payer l'adhésion à prix d'or. Cependant, une fois lié au groupe, chaque membre bénéficie de l'aide et de l'expérience des autres membres plus anciens, en plus d'un réseau étendu de contacts.
 
-**Compétences :** Perspicacité, Persuasion.
+**Compétences :** <!--Abilities-->Perspicacité, Persuasion.<!--/Abilities-->
 
-**Outils maîtrisés :** Un ensemble d'outils d'artisan au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Un ensemble d'outils d'artisan au choix.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, outils d'artisan correspondant à votre métier, sceau de la guilde, étui avec quelques cartes terrestres ou maritimes, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, outils d'artisan correspondant à votre métier, sceau de la guilde, étui avec quelques cartes terrestres ou maritimes, bourse contenant 20 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -112,11 +112,11 @@ Les artisans sont le coeur et l'âme de la plupart des guildes. Ils sont souvent
 |7|Travail de précision (orfèvre, joaillier, <!--br-->enlumineur, etc.)|
 |8|Autre (potier, peintre, boulanger, apothicaire, <!--br-->etc.)|
 
-**Compétences :** Athlétisme, Perspicacité.
+**Compétences :** <!--Abilities-->Athlétisme, Perspicacité.<!--/Abilities-->
 
-**Outils maîtrisés :** Deux ensembles d'outils d'artisan au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix.<!--/MasteredTools-->
 
-**Équipement :** Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -126,13 +126,13 @@ Les artisans sont le coeur et l'âme de la plupart des guildes. Ils sont souvent
 
 Tous les royaumes, tous les États abritent en leur sein la lie de la civilisation. Des êtres abjects qui n'hésitent pas à éliminer une vie humaine pour quelques pièces d'or. Cependant, c'est une carrière dangereuse, et il n'est pas rare que les employeurs d'hier soient les ennemis de demain. L'existence d'une guilde d'assassins, même informelle, est une garantie de relative sécurité pour ses membres, et d'efficacité pour les clients potentiels.
 
-**Compétences :** Discrétion, Investigation ou Perspicacité.
+**Compétences :** <!--Abilities-->Discrétion, Investigation ou Perspicacité.<!--/Abilities-->
 
-**Outils maîtrisés :** Matériel d'empoisonneur.
+**Outils maîtrisés :** <!--MasteredTools-->Matériel d'empoisonneur.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -161,11 +161,11 @@ Les commerçants forment la colonne vertébrale de la vie urbaine médiévale, e
 |7|Aliments exotiques (cacao, thé, poivre, sucre, <!--br-->épices, etc.)|
 |8|Esclaves, contrebande, recel, produits <!--br-->interdits|
 
-**Compétences :** Perspicacité, Persuasion.
+**Compétences :** <!--Abilities-->Perspicacité, Persuasion.<!--/Abilities-->
 
-**Langues maîtrisées :** Deux langues au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, sceau de la guilde, balance de marchand, livre de comptes, plume et encre, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, sceau de la guilde, balance de marchand, livre de comptes, plume et encre, bourse contenant 20 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 

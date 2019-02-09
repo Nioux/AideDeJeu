@@ -11,13 +11,13 @@ Vous faites partie de la noblesse. Derniers fils d'une longue lignée, noble san
 
 En choisissant cet historique, vous devrez consulter votre MJ afin de créer votre lignée. Vous devrez décider de votre titre, de votre rang, de son sens dans la contrée dans laquelle vous êtes né. Vous devrez déterminer si votre personnage est l'héritier direct de son titre et quel pouvoir il lui confère, ou s'il est simplement l'un des parents éloignés de la famille. Un bâtard, peut-être ? Le premier ou le dernier fils ? Vous devrez décider des armoiries de votre famille et du rayonnement de cette dernière. Plus son rayonnement sera fort, plus votre devoir sera important envers elle.
 
-**Compétences :** Histoire, Persuasion.
+**Compétences :** <!--Abilities-->Histoire, Persuasion.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres).
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Habits de bonne qualité, monture, chevalière portant le sceau familial, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Habits de bonne qualité, monture, chevalière portant le sceau familial, bourse contenant 20 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -103,11 +103,11 @@ Vous êtes à l'aise dans les cercles de la haute société, et votre statut est
 
 Vous n'êtes pas vraiment un noble, ou pas complètement. Vous ne possédez pas le nom de votre parent noble, vous n'hériterez, à coup sûr, jamais de son titre, vous n'avez jamais été habitué aux fastes de sa maisonnée. Vous avez tout de même reçu une éducation privilégiée, malgré le fait que l'on vous prenne pour un simple homme du peuple.
 
-**Compétences :** Histoire, Supercherie.
+**Compétences :** <!--Abilities-->Histoire, Supercherie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), un ensemble d'outils d'artisan au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un ensemble d'outils d'artisan au choix.<!--/MasteredTools-->
 
-**Équipement :** Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -125,13 +125,13 @@ Vous êtes à l'aise auprès des gens du peuple, et savez comment vous faire pas
 
 Vous êtes membre d'une ancienne lignée issue des familles qui fondèrent le royaume, ou peut-être avezvous simplement gagné votre position à la force de votre épée, comme récompense de vos exploits ou de ceux d'un parent. Vous êtes noble, et cela a un sens. On vous a appris la guerre, le courage, et la valeur de l'honneur avant celle de l'argent.
 
-**Compétences :** Athlétisme ou Dressage, Histoire.
+**Compétences :** <!--Abilities-->Athlétisme ou Dressage, Histoire.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres).
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
-**Langue :** Une langue au choix.
+**Langue :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Vêtements de qualité, monture, chevalière portant le sceau familial, pierre à affûter, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Vêtements de qualité, monture, chevalière portant le sceau familial, pierre à affûter, bourse contenant 20 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -141,13 +141,13 @@ Vous êtes membre d'une ancienne lignée issue des familles qui fondèrent le ro
 
 Votre famille n'a pas toujours été noble. L'un de vos ancêtres a acquis ce statut en l'achetant, en pièces sonnantes et trébuchantes. On vous considère souvent, vous et votre famille, comme des parvenus. Après tout, votre lignée a acheté sa place. Mais vous le savez, l'argent donne le pouvoir.
 
-**Compétences :** Histoire, Perspicacité ou Persuasion.
+**Compétences :** <!--Abilities-->Histoire, Perspicacité ou Persuasion.<!--/Abilities-->
 
-**Outils maîtrisés :** Un instrument de musique au choix, un ensemble d'outils d'artisan au choix parmi matériel d'alchimiste, outils de cartographe, matériel de peintre et outils de tisserand.
+**Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique au choix, un ensemble d'outils d'artisan au choix parmi matériel d'alchimiste, outils de cartographe, matériel de peintre et outils de tisserand.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Chaque outil peut être remplacé par une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Chaque outil peut être remplacé par une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse contenant 20 po.
+**Équipement :** <!--Equipment-->Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse contenant 20 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 

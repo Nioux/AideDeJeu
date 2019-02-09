@@ -9,11 +9,11 @@
 
 Vous êtes issu du peuple. Votre famille n'a jamais rien eu d'extraordinaire. Vous avez appris à travailler la terre dès votre plus jeune âge, en même temps que le respect du travail et de l'effort. Vous étiez de ceux que l'on ne remarque jamais, mais qui forment la majeure partie du peuple. Vous avez grandi dans un de ces petits villages ou hameaux, et connaissez la valeur de la communauté et de la solidarité. Vous savez que c'est en s'entraidant que l'on vient à bout des épreuves les plus difficiles, qu'il s'agisse de lutter contre le froid, la famine, les loups, ou même votre seigneur…
 
-**Compétences :** Dressage, Nature.
+**Compétences :** <!--Abilities-->Dressage, Nature.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.<!--/MasteredTools-->
 
-**Équipement :** Ensemble d'outils d'artisan, vêtements courants, objet hérité de l'un de vos parents et dont la valeur est sentimentale, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Ensemble d'outils d'artisan, vêtements courants, objet hérité de l'un de vos parents et dont la valeur est sentimentale, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -99,11 +99,11 @@ D'aucun diraient que vous êtes un peu rude, voire fruste. Mais vous savez que c
 
 Contrairement aux artisans des cités, vous ne vous êtes jamais réellement spécialisé. À la campagne, il faut savoir s'adapter à toutes les situations. Dans le village, c'est à vous qu'on s'en remettait pour tenir les maisons, les granges, les socs de charrue ou les moulins en bon état.
 
-**Compétences :** Athlétisme, Nature.
+**Compétences :** <!--Abilities-->Athlétisme, Nature.<!--/Abilities-->
 
-**Outils maîtrisés :** Deux ensembles d'outils d'artisan au choix parmi les outils de forgeron, de menuisier, de maçon, de bricoleur, ou de charpentier.
+**Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix parmi les outils de forgeron, de menuisier, de maçon, de bricoleur, ou de charpentier.<!--/MasteredTools-->
 
-**Équipement :** Habits courants, deux ensembles d'outils d'artisan que vous maîtrisez, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Habits courants, deux ensembles d'outils d'artisan que vous maîtrisez, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -113,11 +113,11 @@ Contrairement aux artisans des cités, vous ne vous êtes jamais réellement sp�
 
 Le laboureur travaille dur. Il exploite des terres qui sont peut-être à lui, surtout s'il est un homme libre, ou qui lui sont louées par un seigneur ou un nanti. Il se lève tôt pour travailler aux champs et rentre quand tombe la nuit.
 
-**Compétences :** Athlétisme, Dressage.
+**Compétences :** <!--Abilities-->Athlétisme, Dressage.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.<!--/MasteredTools-->
 
-**Équipement :** Ensemble d'outils d'artisan, habits courants, objet hérité de l'un de vos parents dont la valeur est sentimentale, pelle, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Ensemble d'outils d'artisan, habits courants, objet hérité de l'un de vos parents dont la valeur est sentimentale, pelle, bourse contenant 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -127,11 +127,11 @@ Le laboureur travaille dur. Il exploite des terres qui sont peut-être à lui, s
 
 Dans tous les villages ou presque vit un guérisseur ou une rebouteuse. Quelqu'un dont tout le monde se méfie, mais qu'on consulte lorsque quelque chose va mal. Vous êtes de ces gens que l'on redoute et que l'on adore en même temps. Vous avez appris très tôt à soigner, à guérir, et à soulager les autres grâce à de petits rituels obscurs et autres remèdes de grands-mères.
 
-**Compétences :** Médecine, Nature ou Religion.
+**Compétences :** <!--Abilities-->Médecine, Nature ou Religion.<!--/Abilities-->
 
-**Outils maîtrisés :** Deux au choix parmi matériel d'herboriste, d'empoisonneur et d'alchimiste.
+**Outils maîtrisés :** <!--MasteredTools-->Deux au choix parmi matériel d'herboriste, d'empoisonneur et d'alchimiste.<!--/MasteredTools-->
 
-**Équipement :** Habits courants, bâton, des grisgris ou des fioles contenant d'étranges décoctions, bourse contenant 10 po.
+**Équipement :** <!--Equipment-->Habits courants, bâton, des grisgris ou des fioles contenant d'étranges décoctions, bourse contenant 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 

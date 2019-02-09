@@ -11,13 +11,13 @@ Toutes les terres n'ont pas été civilisées. Vous êtes de ceux que les citadi
 
 Vous vivez au plus près de la nature, dans une certaine harmonie avec les anciennes croyances. Vous savez que la nature est peuplée d'esprits qu'il faut respecter, ou alors que vos ancêtres marchent, spirituellement, à vos côtés. Nomade ou non, vous vivez au plus près de la manière dont vos ancêtres vivent depuis des siècles.
 
-**Compétences :** Dressage, Survie.
+**Compétences :** <!--Abilities-->Dressage, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres) ou un ensemble d'outils d'artisan au choix parmi outils de tanneur, de forgeron, de tisserand ou de menuisier.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou un ensemble d'outils d'artisan au choix parmi outils de tanneur, de forgeron, de tisserand ou de menuisier.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Sac contenant tente et couverture, bâton de marche, tenue de voyageur, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
+**Équipement :** <!--Equipment-->Sac contenant tente et couverture, bâton de marche, tenue de voyageur, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -103,11 +103,11 @@ Vous avez toujours vécu en pleine nature, et c'est là que vous vous êtes touj
 
 Les vôtres ont toujours compté sur vous. Vous avez toujours été doué pour la chasse et c'est ainsi que vous avez fait partie des chasseurs. Vous rameniez la nourriture au péril de votre vie. Vous connaissez la valeur d'une vie animale et la respectez. Mais vous savez que la mort est le prix de votre survie, et de celle des vôtres.
 
-**Compétences :** Discrétion, Survie.
+**Compétences :** <!--Abilities-->Discrétion, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Un type de jeu au choix, véhicules (terrestres).
+**Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, véhicules (terrestres).<!--/MasteredTools-->
 
-**Équipement :** Couverture, tenue de voyageur, quelques pièges, peau tannée d'un animal que vous avez tué de vos mains, sacoche contenant des pierres précieuses ou des morceaux d'ivoire pour une valeur de 10 po.
+**Équipement :** <!--Equipment-->Couverture, tenue de voyageur, quelques pièges, peau tannée d'un animal que vous avez tué de vos mains, sacoche contenant des pierres précieuses ou des morceaux d'ivoire pour une valeur de 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -117,11 +117,11 @@ Les vôtres ont toujours compté sur vous. Vous avez toujours été doué pour l
 
 Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre deux mondes. Vous connaissez le monde des esprits et préservez la tribu ou le clan des dangers physiques et spirituels. Certains pensent que vous comprenez les animaux ou que vous entendez la voix de la terre. Mais vous n'êtes que le garant des traditions, et le gardien de l'équilibre, ainsi que le défenseur de votre peuple.
 
-**Compétences :** Perspicacité, Survie.
+**Compétences :** <!--Abilities-->Perspicacité, Survie.<!--/Abilities-->
 
-**Outils maîtrisés :** Véhicules (terrestres), un instrument de musique au choix.
+**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un instrument de musique au choix.<!--/MasteredTools-->
 
-**Équipement :** Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
+**Équipement :** <!--Equipment-->Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -139,13 +139,13 @@ Vous avez un gardien spirituel qui vous suit, invisible, et vous aide parfois. I
 
 Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isolé, à reconnaître les plantes et leurs propriétés parfois miraculeuses. Vous avez vite compris la valeur de votre savoir. Vous avez toujours eu un rôle-clef dans la vie du clan, à la fois médical et spirituel.
 
-**Compétences :** Médecine, Nature.
+**Compétences :** <!--Abilities-->Médecine, Nature.<!--/Abilities-->
 
-**Outils maîtrisés :** Matériel d'herboriste.
+**Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste.<!--/MasteredTools-->
 
-**Langues maîtrisées :** Une langue au choix.
+**Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
 
-**Équipement :** Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.
+**Équipement :** <!--Equipment-->Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
