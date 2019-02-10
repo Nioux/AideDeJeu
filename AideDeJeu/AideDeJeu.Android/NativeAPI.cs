@@ -50,7 +50,8 @@ namespace AideDeJeu.Droid
         }
         public string GetNewFilePath(string fileName, string extension)
         {
-            var documentsDirectoryPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+            //var documentsDirectoryPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+            var documentsDirectoryPath = Android.App.Application.Context.CacheDir.AbsolutePath;
             return Path.Combine(documentsDirectoryPath, $"{fileName}.{extension}");
         }
         public async Task CopyOldToNewFileAsync(string fileName, string extension)

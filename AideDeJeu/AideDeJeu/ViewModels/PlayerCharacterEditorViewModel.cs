@@ -98,13 +98,22 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public List<string> Abilities { get; set; } = new List<string>()
+        {
+            "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18"
+        };
+        public List<string> Levels { get; set; } = new List<string>()
+        {
+            "1", //"2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"
+        };
+
         public async Task InitAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                Races = await context.Races.Where(r => r.GetType() == typeof(RaceItem)).OrderBy(r => r.Name).ToListAsync();
-                Classes = await context.Classes.OrderBy(c => c.Name).ToListAsync();
-                Backgrounds = await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => b.Name).ToListAsync();
+                Races = await context.Races.Where(r => r.GetType() == typeof(RaceItem)).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync();
+                Classes = await context.Classes.Where(c => c.GetType() == typeof(ClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).ToListAsync();
+                Backgrounds = await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync();
             }
         }
     }
