@@ -13,7 +13,7 @@
 
 Votre parenté céleste vous a octroyé certains pouvoirs innés.
 
-**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de <!--CharismaBonus-->2<!--/CharismaBonus--> et votre valeur de [Sagesse] de <!--WisdomBonus-->1<!--/WisdomBonus---->.
+**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de <!--CharismaBonus-->2<!--/CharismaBonus--> et votre valeur de [Sagesse] de <!--WisdomBonus-->1<!--/WisdomBonus-->.
 
 **Âge.** Les aasimars vieillissent à un rythme comparable à celui des humains. Leur espérance de vie est cependant supérieure, et ils peuvent dépasser les 120 ans.
 

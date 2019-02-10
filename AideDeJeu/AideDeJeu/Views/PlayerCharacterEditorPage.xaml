@@ -1,33 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AideDeJeu.Views.PlayerCharacterEditorPage">
-    <!--Pages can be added as references or inline-->
-    <ContentPage Title="Race">
-        <ListView ItemsSource="{Binding Races}">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <TextCell Text="{Binding Name}" />
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-    </ContentPage>
-    <ContentPage Title="Classe">
-        <ListView ItemsSource="{Binding Classes}">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <TextCell Text="{Binding Name}" />
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-    </ContentPage>
-    <ContentPage Title="Historique">
-        <ListView ItemsSource="{Binding Backgrounds}">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <TextCell Text="{Binding Name}" />
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-    </ContentPage>
-</TabbedPage>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="AideDeJeu.Views.PlayerCharacterEditorPage"
+             xmlns:tools="clr-namespace:AideDeJeu.Tools"
+            xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
+            x:Name="This"
+            >
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout Orientation="Vertical">
+        <Label Text="Race" />
+        <Picker ItemsSource="{Binding Races}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}">
+        </Picker>
+        <!--<mdview:MarkdownView 
+                    Theme="{StaticResource MonsterMarkdownTheme}" 
+                    Markdown="{Binding SelectedPlayerCharacter.Race.Markdown}" 
+                    NavigateToLinkCommand="{Binding BindingContext.Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"
+                    />-->
+        <Label Text="Classe" />
+        <Picker ItemsSource="{Binding Classes}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}">
+        </Picker>
+        <!--<mdview:MarkdownView 
+                    Theme="{StaticResource MonsterMarkdownTheme}" 
+                    Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" 
+                    NavigateToLinkCommand="{Binding BindingContext.Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"
+                    />-->
+        <Label Text="Historique" />
+        <Picker ItemsSource="{Binding Backgrounds}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}">
+        </Picker>
+        <!--<mdview:MarkdownView 
+                    Theme="{StaticResource MonsterMarkdownTheme}" 
+                    Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" 
+                    NavigateToLinkCommand="{Binding BindingContext.Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"
+                    />-->
+    </StackLayout>
+</ContentPage>

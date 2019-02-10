@@ -5,10 +5,43 @@ using System.Text;
 
 namespace AideDeJeu.ViewModels
 {
-    public class PlayerCharacterViewModel
+    public class PlayerCharacterViewModel : BaseViewModel
     {
-        public RaceItem Race { get; set; }
-        public ClassItem Class { get; set; }
-        public BackgroundItem Background { get; set; }
+        private RaceItem _Race = null;
+        public RaceItem Race
+        {
+            get
+            {
+                return _Race;
+            }
+            set
+            {
+                SetProperty(ref _Race, value);
+            }
+        }
+        private ClassItem _Class = null;
+        public ClassItem Class
+        {
+            get
+            {
+                return _Class;
+            }
+            set
+            {
+                SetProperty(ref _Class, value);
+            }
+        }
+        private BackgroundItem _Background = null;
+        public BackgroundItem Background
+        {
+            get
+            {
+                return _Background;
+            }
+            set
+            {
+                SetProperty(ref _Background, value);
+            }
+        }
     }
 }
