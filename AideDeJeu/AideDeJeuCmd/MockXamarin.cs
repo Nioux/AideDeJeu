@@ -124,6 +124,11 @@ namespace Tests.Xamarin.Forms.Mocks
             {
                 //throw new NotImplementedException();
             }
+
+            public SizeRequest GetNativeSize(VisualElement view, double widthConstraint, double heightConstraint)
+            {
+                throw new NotImplementedException();
+            }
         }
 
         internal class MockDeserializer : IDeserializer

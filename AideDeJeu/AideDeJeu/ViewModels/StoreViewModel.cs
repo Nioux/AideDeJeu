@@ -225,15 +225,54 @@ namespace AideDeJeu.ViewModels
                     if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
                         var name = $"AideDeJeuLib.{tag.Substring(4, tag.Length - 7)}, AideDeJeu";
-                        var type = Type.GetType(name);
-                        if (type != null)
+                        if(CheckNewItem(name))
                         {
                             return true;
                         }
+                        //var type = Type.GetType(name);
+                        //if (type != null)
+                        //{
+                        //    return true;
+                        //}
                     }
                 }
             }
             return false;
+        }
+
+        bool CheckNewItem(string itemString)
+        {
+            itemString = "MonsterHD Strength=\"10\" Wisdom=\"18\"";
+            var regex = new Regex("(?<item>\\w+)(\\s+((?<name>\\w+)=\"(?<value>.*?)\"))*");
+            var match = regex.Match(itemString);
+            var itemName = match.Groups["item"].Value;
+            var dico = new Dictionary<string, string>();
+            var names = match.Groups["name"].Captures;
+            var values = match.Groups["value"].Captures;
+            for(int i = 0; i<names.Count; i++)
+            {
+                dico[names[i].Value] = values[i].Value;
+            }
+            var name = itemString;
+            var type = Type.GetType(name);
+            if (type != null)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        Item CreateNewItem(string itemString)
+        {
+            var regex = new Regex("(?<item>\\w+)(\\s+((?<name>\\w+)=\"(?<value>.*)\"))*");
+            var name = itemString;
+            var type = Type.GetType(name);
+            if (type != null)
+            {
+                var instance = Activator.CreateInstance(type) as Item;
+                return instance;
+            }
+            return null;
         }
 
         public bool IsClosingItem(Block block)
@@ -264,12 +303,17 @@ namespace AideDeJeu.ViewModels
                     if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
                         var name = $"AideDeJeuLib.{tag.Substring(4, tag.Length - 7)}, AideDeJeu";
-                        var type = Type.GetType(name);
-                        if (type != null)
+                        var instance = CreateNewItem(name);
+                        if(instance != null)
                         {
-                            var instance = Activator.CreateInstance(type) as Item;
                             return instance;
                         }
+                        //var type = Type.GetType(name);
+                        //if (type != null)
+                        //{
+                        //    var instance = Activator.CreateInstance(type) as Item;
+                        //    return instance;
+                        //}
                     }
                 }
             }
