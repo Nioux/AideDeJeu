@@ -7,7 +7,8 @@ Name: Gnome des lacs
 ParentName: Gnome
 NameLevel: 2
 Source: (MDR p49)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.
 ---
 > [Gnome](hd_gnome.md)
 

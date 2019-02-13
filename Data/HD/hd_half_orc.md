@@ -16,7 +16,8 @@ ParentName: Races
 NameLevel: 1
 AltName: Half-Orc (SRD p7)
 Source: (MDR p41)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Force](hd_abilities_strength.md) augmente de 2 et votre valeur de [Constitution](hd_abilities_constitution.md) de 1.
 ---
 >  [Races](races_hd.md#)
 

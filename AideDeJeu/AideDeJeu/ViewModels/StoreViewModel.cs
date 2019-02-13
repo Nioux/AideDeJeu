@@ -178,6 +178,7 @@ namespace AideDeJeu.ViewModels
                 return isname;
             }
             PropertyInfo prop = null;
+            string propertyName = null;
             foreach (var inline in inlines)
             {
                 if (inline is HtmlInline)
@@ -190,10 +191,11 @@ namespace AideDeJeu.ViewModels
                     else if (tag.StartsWith("<!--/"))
                     {
                         prop = null;
+                        propertyName = null;
                     }
                     else if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
-                        var propertyName = tag.Substring(4, tag.Length - 7);
+                        propertyName = tag.Substring(4, tag.Length - 7);
                         if(propertyName == "Name")
                         {
                             isname = true;
@@ -206,6 +208,17 @@ namespace AideDeJeu.ViewModels
                     if (null != prop && prop.CanWrite)
                     {
                         prop.SetValue(item, prop.GetValue(item) + inline.ToMarkdownString(), null);
+                    }
+                    else if(propertyName != null)
+                    {
+                        if (item.Attributes.ContainsKey(propertyName))
+                        {
+                            item.Attributes[propertyName] += inline.ToMarkdownString();
+                        }
+                        else
+                        {
+                            item.Attributes[propertyName] = inline.ToMarkdownString();
+                        }
                     }
                 }
             }

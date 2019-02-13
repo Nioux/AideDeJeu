@@ -7,7 +7,8 @@ Name: Nain des laves
 ParentName: Nain
 NameLevel: 2
 Source: (MDR p57)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Force](hd_abilities_strength.md) augmente de 1.
 ---
 > [Nain](hd_dwarf.md)
 

@@ -8,7 +8,8 @@ ParentName: Nain
 NameLevel: 2
 AltName: Hill Dwarf (SRD p3)
 Source: (MDR p57)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.
 ---
 > [Nain](hd_dwarf.md)
 

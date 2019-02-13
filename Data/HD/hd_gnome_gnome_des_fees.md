@@ -7,7 +7,8 @@ Name: Gnome des fées
 ParentName: Gnome
 NameLevel: 2
 Source: (MDR p49)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 1.
 ---
 > [Gnome](hd_gnome.md)
 

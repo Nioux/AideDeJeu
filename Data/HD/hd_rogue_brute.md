@@ -1,12 +1,12 @@
 ﻿---
 !SubClassItem
-Name: Brute
-Source: (MDR p205)
 Id: rogue_brute_hd.md#brute
 RootId: rogue_brute_hd.md
 ParentLink: rogue_hd.md#archétypes-de-roublard
+Name: Brute
 ParentName: Archétypes de roublard
 NameLevel: 1
+Source: (MDR p205)
 Attributes: {}
 ---
 >  [Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)

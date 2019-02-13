@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
-Name: Voie de la main ouverte
-Source: (MDR p179)
 Id: monk_openhand_hd.md#voie-de-la-main-ouverte
 RootId: monk_openhand_hd.md
 ParentLink: monk_hd.md#traditions-monacales
+Name: Voie de la main ouverte
 ParentName: Traditions monacales
 NameLevel: 1
 AltName: Way of the Open Hand (SRD p28)
+Source: (MDR p179)
 Attributes: {}
 ---
 >  [Traditions monacales](hd_monk_traditions_monacales.md)

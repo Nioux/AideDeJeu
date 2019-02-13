@@ -15,7 +15,8 @@ ParentName: Races
 NameLevel: 1
 AltName: Elf (SRD p4)
 Source: (MDR p44)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.
 ---
 >  [Races](races_hd.md#)
 

@@ -1,12 +1,12 @@
 ﻿---
 !SubClassItem
-Name: Sorcelame
-Source: (MDR p163)
 Id: fighter_spellblade_hd.md#sorcelame
 RootId: fighter_spellblade_hd.md
 ParentLink: fighter_hd.md#archétypes-martiaux
+Name: Sorcelame
 ParentName: Archétypes martiaux
 NameLevel: 1
+Source: (MDR p163)
 Attributes: {}
 ---
 >  [Archétypes martiaux](hd_fighter_archetypes_martiaux.md)

@@ -8,7 +8,8 @@ ParentName: Halfelin
 NameLevel: 2
 AltName: Lightfoot (SRD p5)
 Source: (MDR p52)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.
 ---
 > [Halfelin](hd_halfling.md)
 

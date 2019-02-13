@@ -19,7 +19,8 @@ ParentName: Races
 NameLevel: 1
 AltName: Human (SRD p5)
 Source: (MDR p54)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: La valeur de toutes vos caractéristiques augmente de 1.
 ---
 >  [Races](races_hd.md#)
 

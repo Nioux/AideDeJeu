@@ -16,7 +16,8 @@ ParentName: Races
 NameLevel: 1
 AltName: Half-Elf (SRD p6)
 Source: (MDR p39)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 2 et deux autres valeurs de votre choix de 1.
 ---
 >  [Races](races_hd.md#)
 

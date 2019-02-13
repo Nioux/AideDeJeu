@@ -15,7 +15,8 @@ ParentName: Races
 NameLevel: 1
 AltName: Gnome (SRD p6)
 Source: (MDR p48)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur d'[Intelligence](hd_abilities_intelligence.md) augmente de 2.
 ---
 >  [Races](races_hd.md#)
 

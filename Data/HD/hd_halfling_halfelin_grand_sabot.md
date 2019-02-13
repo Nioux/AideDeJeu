@@ -7,7 +7,8 @@ Name: Halfelin grand-sabot
 ParentName: Halfelin
 NameLevel: 2
 Source: (MDR p52)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 1.
 ---
 > [Halfelin](hd_halfling.md)
 

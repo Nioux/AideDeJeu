@@ -8,7 +8,8 @@ ParentName: Gnome
 NameLevel: 2
 AltName: Rock Gnome (SRD p6)
 Source: (MDR p48)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 1.
 ---
 > [Gnome](hd_gnome.md)
 

@@ -7,7 +7,8 @@ Name: Sandbox
 ParentName: ''
 NameLevel: 1
 AltName: Races
-Attributes: {}
+Attributes:
+  Book: (MDR p36)(SRD p3)
 ---
 >  [](.md#)
 

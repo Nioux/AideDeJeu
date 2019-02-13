@@ -8,7 +8,8 @@ ParentName: Elfe
 NameLevel: 2
 AltName: High Elf (SRD p4)
 Source: (MDR p45)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur d'[Intelligence](hd_abilities_intelligence.md) augmente de 1.
 ---
 > [Elfe](hd_elf.md)
 

@@ -15,7 +15,8 @@ Name: Homme serpent
 ParentName: Races
 NameLevel: 1
 Source: (MDR p66)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 2 et votre valeur de [Charisme](hd_abilities_charisma.md) de 1.
 ---
 >  [Races](races_hd.md#)
 

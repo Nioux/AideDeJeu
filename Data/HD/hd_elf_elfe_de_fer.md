@@ -7,7 +7,8 @@ Name: Elfe de fer
 ParentName: Elfe
 NameLevel: 2
 Source: (MDR p45)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.
 ---
 > [Elfe](hd_elf.md)
 

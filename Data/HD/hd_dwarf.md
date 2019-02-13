@@ -15,7 +15,8 @@ ParentName: Races
 NameLevel: 1
 AltName: Dwarf (SRD p3)
 Source: (MDR p57)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 2.
 ---
 >  [Races](races_hd.md#)
 

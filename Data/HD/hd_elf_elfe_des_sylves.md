@@ -7,7 +7,8 @@ Name: Elfe des sylves
 ParentName: Elfe
 NameLevel: 2
 Source: (MDR p45)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.
 ---
 > [Elfe](hd_elf.md)
 

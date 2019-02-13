@@ -15,7 +15,11 @@ ParentName: Races
 NameLevel: 1
 AltName: Dragonborn (SRD p5)
 Source: (MDR p69)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Force](hd_abilities_strength.md) augmente de 2 et votre valeur de [Charisme](hd_abilities_charisma.md) de 1.
+  DraconicAncestry: Vous avez des ancêtres draconiques. Choisissez un type de dragon dans le tableau des ascendances. Votre choix détermine votre souffle et votre résistance aux dégâts, comme indiqué dans le tableau.
+  BreathWeapon: Vous pouvez utiliser votre action pour exhaler une vague d'énergie destructrice. La taille, la forme et le type de dégâts que vous causez sont liés à votre ascendance.
+  DamageResistance: Vous bénéficiez d'une résistance au type de dégâts associé à votre ascendance.
 ---
 >  [Races](races_hd.md#)
 

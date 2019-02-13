@@ -7,7 +7,8 @@ Name: Nain des pierres
 ParentName: Nain
 NameLevel: 2
 Source: (MDR p57)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur d'[Intelligence](hd_abilities_intelligence.md) augmente de 1.
 ---
 > [Nain](hd_dwarf.md)
 

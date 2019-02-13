@@ -15,7 +15,8 @@ Name: Félys
 ParentName: Races
 NameLevel: 1
 Source: (MDR p64)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2 et votre valeur de [Sagesse](hd_abilities_wisdom.md) de 1.
 ---
 >  [Races](races_hd.md#)
 

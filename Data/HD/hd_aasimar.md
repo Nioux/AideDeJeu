@@ -15,7 +15,9 @@ Name: Aasimar
 ParentName: Races
 NameLevel: 1
 Source: (MDR p59)
-Attributes: {}
+Attributes:
+  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 2 et votre valeur de [Sagesse](hd_abilities_wisdom.md) de 1.
+  CelestialResistance: Vous êtes résistant aux dégâts nécrotiques.
 ---
 >  [Races](hd_races.md)
 
