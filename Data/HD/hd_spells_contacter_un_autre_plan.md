@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Contact Other Plane](srd_spells_contact_other_plane.md)'
 Source: (MDR p339)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

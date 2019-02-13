@@ -8,6 +8,7 @@ ParentName: Créatures et oppositions
 NameLevel: 2
 AltName: Diseases
 Source: (CEO p379)(SRD p199)
+Attributes: {}
 ---
 >  [Créatures et oppositions](index.md)
 

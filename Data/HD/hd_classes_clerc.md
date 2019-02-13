@@ -7,6 +7,7 @@ ParentLink: classes_hd.md#classes
 Name: Clerc
 ParentName: Classes
 AltName: '[Cleric](#)'
+Attributes: {}
 ---
 
 

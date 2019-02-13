@@ -7,6 +7,7 @@ ParentName: Lancer des sorts
 NameLevel: 4
 AltName: A Clear Path to the Target (SRD p102)
 Source: (MDR p309)
+Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)
 

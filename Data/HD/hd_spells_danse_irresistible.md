@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Irresistible Dance](srd_spells_irresistible_dance.md)'
 Source: (MDR p344)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

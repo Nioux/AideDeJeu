@@ -5,6 +5,7 @@ ParentLink: ranger_arcane_hd.md#archer-arcanique
 Name: Flèche tueuse
 ParentName: Archer arcanique
 NameLevel: 2
+Attributes: {}
 ---
 > [Archer arcanique](hd_ranger_arcane.md)
 

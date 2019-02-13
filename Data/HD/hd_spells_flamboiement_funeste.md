@@ -13,6 +13,7 @@ Name: Flamboiement funeste
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p355)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

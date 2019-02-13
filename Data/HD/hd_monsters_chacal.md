@@ -22,6 +22,7 @@ Name: Chacal
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Jackal](srd_monsters_jackal.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

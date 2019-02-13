@@ -26,6 +26,7 @@ Name: Bone Devil
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Diable osseux](hd_monsters_diable_osseux.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

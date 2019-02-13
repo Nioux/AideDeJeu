@@ -24,6 +24,7 @@ Name: Zombi ogre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ogre Zombie](srd_monsters_ogre_zombie.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

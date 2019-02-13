@@ -21,6 +21,7 @@ Name: Cockatrice
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cockatrice](srd_monsters_cockatrice.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

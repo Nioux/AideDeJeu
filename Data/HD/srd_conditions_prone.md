@@ -7,6 +7,7 @@ ParentName: Conditions
 NameLevel: 1
 AltName: '[À terre](hd_conditions_a_terre.md)'
 Source: (SRD p359)
+Attributes: {}
 ---
 > [Conditions](srd_conditions.md)
 

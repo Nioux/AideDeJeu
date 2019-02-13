@@ -22,6 +22,7 @@ Name: Ettin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ettin](srd_monsters_ettin.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -22,6 +22,7 @@ Name: Pieuvre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Octopus](srd_monsters_octopus.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

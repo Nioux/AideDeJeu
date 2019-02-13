@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Interdiction](hd_spells_interdiction.md)'
 Source: (SRD p146)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

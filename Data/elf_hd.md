@@ -1,5 +1,5 @@
 
-<!--RaceItem-->
+<!--RaceItem DexterityBonus="2"-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,17 +14,17 @@
 
 Votre personnage elfe possède un ensemble de qualités naturelles qui sont le fruit de millénaires de raffinement elfique.
 
-**Augmentation de caractéristiques.** Votre valeur de [Dextérité] augmente de <!--DexterityBonus-->2<!--/DexterityBonus-->.
+**Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Dextérité] augmente de 2.<!--/AbilityScoreIncrease-->
 
-**Âge.** Bien que les elfes atteignent leur maturité physique environ au même âge que les humains, ils considèrent qu'être un adulte dépasse ce simple aspect et prend en compte l'expérience de la vie. Un elfe se déclare généralement adulte vers 100 ans et choisit à ce moment-là son nom d'adulte. Les elfes peuvent vivre jusqu'à 750 ans.
+**Âge.** <!--Age-->Bien que les elfes atteignent leur maturité physique environ au même âge que les humains, ils considèrent qu'être un adulte dépasse ce simple aspect et prend en compte l'expérience de la vie. Un elfe se déclare généralement adulte vers 100 ans et choisit à ce moment-là son nom d'adulte. Les elfes peuvent vivre jusqu'à 750 ans.<!--/Age-->
 
-**Alignement.** Les elfes sont épris de liberté, de diversité et d'expression individuelle. C'est pourquoi ils tendent fortement vers les aspects les plus modérés du chaos. La liberté des autres a autant de valeur à leurs yeux que la leur et ils sont plutôt enclins à faire le bien. Les elfes de sang sont une exception. Leur exil les a rendus vicieux et dangereux et, en ce qui les concerne, ils sont plutôt enclins à faire le mal.
+**Alignement.** <!--Alignment-->Les elfes sont épris de liberté, de diversité et d'expression individuelle. C'est pourquoi ils tendent fortement vers les aspects les plus modérés du chaos. La liberté des autres a autant de valeur à leurs yeux que la leur et ils sont plutôt enclins à faire le bien. Les elfes de sang sont une exception. Leur exil les a rendus vicieux et dangereux et, en ce qui les concerne, ils sont plutôt enclins à faire le mal.<!--/Alignment-->
 
-**Taille.** Les elfes mesurent généralement entre 1,50 et 1,80 mètre, et sont minces. Ils sont de taille moyenne.
+**Taille.** <!--Size-->Les elfes mesurent généralement entre 1,50 et 1,80 mètre, et sont minces. Ils sont de taille moyenne.<!--/Size-->
 
-**Vitesse.** Votre vitesse au sol de base est de 9 mètres.
+**Vitesse.** <!--Speed-->Votre vitesse au sol de base est de 9 mètres.<!--/Speed-->
 
-**Vision dans le noir.** Habitué à la pénombre des forêts et au ciel nocturne, vous jouissez d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris. 
+**Vision dans le noir.** <!--Darkvision-->Habitué à la pénombre des forêts et au ciel nocturne, vous jouissez d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris. <!--/Darkvision-->
 
 **Sens aiguisés.** Vous maîtrisez la compétence [Perception].
 
@@ -32,9 +32,9 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 **Transe.** Les elfes n'ont pas besoin de dormir. À la place, ils passent 4 heures par jour dans un état de méditation profonde, tout en restant semi-conscients. Le mot qui décrit cette méditation en langage commun est « transe ». Pendant cette méditation, vous pouvez avoir un équivalent de rêves. De tels rêves sont en réalité des exercices mentaux qui sont devenus des réflexes au bout de plusieurs années de pratique. En vous reposant ainsi, vous obtenez les mêmes bénéfices que ceux d'un sommeil de 8 heures pour un humain. Toutefois, il faut toujours 8 heures à un elfe pour obtenir les effets d'un repos long.
 
-**Langues.** Vous pouvez parler, lire et écrire en commun et en elfe. Le langage des elfes est fluide, avec des intonations subtiles et une grammaire élaborée. La littérature elfique est riche et variée, et leurs chansons et poèmes sont populaires parmi les autres races. De nombreux bardes apprennent à parler elfe afin de pouvoir ajouter des ballades elfiques à leur répertoire.
+**Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en commun et en elfe. Le langage des elfes est fluide, avec des intonations subtiles et une grammaire élaborée. La littérature elfique est riche et variée, et leurs chansons et poèmes sont populaires parmi les autres races. De nombreux bardes apprennent à parler elfe afin de pouvoir ajouter des ballades elfiques à leur répertoire.<!--/Languages-->
 
-<!--SubRaceItem-->
+<!--SubRaceItem IntelligenceBonus="1"-->
 
 ## <!--Name-->Elfe d'aether<!--/Name-->
 
@@ -43,7 +43,7 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples elfiques. Vous avez une affinité supérieure avec la magie et placez la quête du savoir avant toute chose.
 
-**Augmentation de caractéristiques.** Votre valeur d'[Intelligence] augmente de <!--IntelligenceBonus-->1<!--/IntelligenceBonus-->.
+**Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur d'[Intelligence] augmente de 1.<!--/AbilityScoreIncrease-->
 
 **Entraînement aux armes elfiques.** Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
 
@@ -53,7 +53,7 @@ En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples 
 
 <!--/SubRaceItem-->
 
-<!--SubRaceItem-->
+<!--SubRaceItem CharismaBonus="1"-->
 
 ## <!--Name-->Elfe de fer<!--/Name-->
 
@@ -61,7 +61,7 @@ En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples 
 
 En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vous avez une grande aisance en société. Vous avez une affinité supérieure avec la magie et appréciez l'art sous toutes ses formes.
 
-**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de <!--CharismaBonus-->1<!--/CharismaBonus-->.
+**Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme] augmente de 1.<!--/AbilityScoreIncrease-->
 
 **Entraînement aux armes elfiques.** Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
 
@@ -71,7 +71,7 @@ En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vo
 
 <!--/SubRaceItem-->
 
-<!--SubRaceItem-->
+<!--SubRaceItem WisdomBonus="1"-->
 
 ## <!--Name-->Elfe des sylves<!--/Name-->
 
@@ -79,7 +79,7 @@ En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vo
 
 En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dans laquelle vous vous sentez chez vous. Vos doigts sont agiles et vous possédez un don pour l'artisanat.
 
-**Augmentation de caractéristiques.** Votre valeur de [Sagesse] augmente de <!--WisdomBonus-->1<!--/WisdomBonus-->.
+**Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Sagesse] augmente de 1.<!--/AbilityScoreIncrease-->
 
 **Créature des terres sauvages.** Vous avez l'habitude de parcourir les espaces naturels. Vous obtenez l'avantage sur vos tests de [Dextérité (Discrétion)] et [Sagesse (Survie)] lorsque vous parcourez des espaces naturels à la lumière du jour ou des étoiles.
 

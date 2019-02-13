@@ -21,6 +21,7 @@ Name: Sea Horse
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Hippocampe](hd_monsters_hippocampe.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

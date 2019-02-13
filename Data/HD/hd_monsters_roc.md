@@ -23,6 +23,7 @@ Name: Roc
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Roc](srd_monsters_roc.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

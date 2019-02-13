@@ -24,6 +24,7 @@ Name: Dragon d'or adulte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

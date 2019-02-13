@@ -8,6 +8,7 @@ ParentName: Cadre de campagne
 NameLevel: 1
 AltName: Artifacts (SRD p252)
 Source: (CDC p191)
+Attributes: {}
 ---
 >  [Cadre de campagne](index.md)
 

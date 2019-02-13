@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Demiplane](srd_spells_demiplane.md)'
 Source: (MDR p345)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

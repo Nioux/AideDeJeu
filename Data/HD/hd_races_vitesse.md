@@ -7,6 +7,7 @@ ParentName: Traits raciaux
 NameLevel: 4
 AltName: Speed
 Source: (MDR p37)(SRD p3)
+Attributes: {}
 ---
 > [Traits raciaux](hd_races_traits_raciaux.md)
 

@@ -22,6 +22,7 @@ Name: Black Bear
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ours noir](hd_monsters_ours_noir.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

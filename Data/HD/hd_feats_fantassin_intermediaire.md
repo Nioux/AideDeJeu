@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!FeatItem
 Id: feats_hd.md#fantassin-intermédiaire
 ParentLink: feats_hd.md#dons
 Name: Fantassin intermédiaire
 ParentName: Dons
 NameLevel: 3
+Attributes: {}
 ---
 > [Dons](hd_feats.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Illusion programmée](hd_spells_illusion_programmee.md)'
 Source: (SRD p172)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

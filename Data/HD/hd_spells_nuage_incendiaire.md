@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Incendiary Cloud](srd_spells_incendiary_cloud.md)'
 Source: (MDR p)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

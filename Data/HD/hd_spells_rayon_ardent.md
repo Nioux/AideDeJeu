@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Scorching Ray](srd_spells_scorching_ray.md)'
 Source: (MDR p)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

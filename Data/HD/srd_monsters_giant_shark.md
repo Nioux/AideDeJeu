@@ -22,6 +22,7 @@ Name: Giant Shark
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Requin géant](hd_monsters_requin_geant.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

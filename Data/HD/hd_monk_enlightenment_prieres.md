@@ -5,6 +5,7 @@ ParentLink: monk_enlightenment_hd.md#voie-de-lillumination
 Name: Prières
 ParentName: Voie de l'illumination
 NameLevel: 2
+Attributes: {}
 ---
 > [Voie de l'illumination](hd_monk_enlightenment.md)
 

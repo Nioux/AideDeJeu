@@ -5,6 +5,7 @@ ParentLink: diseases_hd.md#les-maladies
 Name: La fièvre rieuse
 ParentName: Les maladies
 NameLevel: 4
+Attributes: {}
 ---
 > [Les maladies](hd_diseases.md)
 

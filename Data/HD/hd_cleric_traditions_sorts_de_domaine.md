@@ -5,6 +5,7 @@ ParentLink: cleric_traditions_hd.md#gardien-des-traditions
 Name: Sorts de domaine
 ParentName: Gardien des traditions
 NameLevel: 2
+Attributes: {}
 ---
 > [Gardien des traditions](hd_cleric_traditions.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Liberté de mouvement](hd_spells_liberte_de_mouvement.md)'
 Source: (SRD p147)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Thaumaturgy](srd_spells_thaumaturgy.md)'
 Source: (MDR p)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

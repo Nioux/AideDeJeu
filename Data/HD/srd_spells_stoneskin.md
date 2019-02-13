@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Peau de pierre](hd_spells_peau_de_pierre.md)'
 Source: (SRD p183)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -6,6 +6,7 @@ ParentLink: index.md
 Name: Options de personnalisation
 ParentName: Manuel des règles
 NameLevel: 1
+Attributes: {}
 ---
 >  [Manuel des règles](index.md)
 

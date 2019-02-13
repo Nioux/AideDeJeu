@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Chain Lightning](srd_spells_chain_lightning.md)'
 Source: (MDR p332)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -5,6 +5,7 @@ ParentLink: abilities_intelligence_hd.md#intelligence
 Name: Histoire
 ParentName: Intelligence
 NameLevel: 3
+Attributes: {}
 ---
 > [Intelligence](hd_abilities_intelligence.md)
 

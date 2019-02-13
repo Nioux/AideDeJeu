@@ -24,6 +24,7 @@ Name: Jeune dragon d'airain
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

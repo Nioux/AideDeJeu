@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Acid Splash](srd_spells_acid_splash.md)'
 Source: (MDR p325)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

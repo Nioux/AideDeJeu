@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Prismatic Wall](srd_spells_prismatic_wall.md)'
 Source: (MDR p)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

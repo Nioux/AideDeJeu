@@ -24,6 +24,7 @@ Name: Ancient Black Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

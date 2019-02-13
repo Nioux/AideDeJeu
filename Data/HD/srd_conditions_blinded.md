@@ -7,6 +7,7 @@ ParentName: Conditions
 NameLevel: 1
 AltName: '[Aveuglé](hd_conditions_aveugle.md)'
 Source: (SRD p358)
+Attributes: {}
 ---
 > [Conditions](srd_conditions.md)
 

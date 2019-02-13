@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: "[Hunter's Mark](srd_spells_hunters_mark.md)"
 Source: (MDR p)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

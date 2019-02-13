@@ -22,6 +22,7 @@ Name: Panthère
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Panther](srd_monsters_panther.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -26,6 +26,7 @@ Name: Momie
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mummy](srd_monsters_mummy.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Faithful Hound](srd_spells_faithful_hound.md)'
 Source: (MDR p334)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

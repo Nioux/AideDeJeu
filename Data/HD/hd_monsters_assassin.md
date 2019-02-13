@@ -24,6 +24,7 @@ Name: Assassin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Assassin](srd_monsters_assassin.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

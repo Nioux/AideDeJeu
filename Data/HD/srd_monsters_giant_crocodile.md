@@ -22,6 +22,7 @@ Name: Giant Crocodile
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Crocodile géant](hd_monsters_crocodile_geant.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

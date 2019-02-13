@@ -22,6 +22,7 @@ Name: Cultist
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Membre de secte](hd_monsters_membre_de_secte.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

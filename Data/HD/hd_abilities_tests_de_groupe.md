@@ -5,6 +5,7 @@ ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: Tests de groupe
 ParentName: Utiliser les caractéristiques
 NameLevel: 3
+Attributes: {}
 ---
 > [Utiliser les caractéristiques](hd_abilities.md)
 

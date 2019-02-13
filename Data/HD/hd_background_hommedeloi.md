@@ -1,11 +1,15 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Investigation ou Persuasion, Perspicacité.
+MasteredTools: Matériel de calligraphie, véhicules (terrestres).
+Equipment: Épais journal vierge pour consigner ses investigations, matériel de calligraphie, tenue de voyageur, symbole (sceau ou médaillon) représentant son office, bourse contenant 20 po.
 Id: background_hommedeloi_hd.md#homme-de-loi
 RootId: background_hommedeloi_hd.md
 ParentLink: backgrounds_hd.md
 Name: Homme de loi
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

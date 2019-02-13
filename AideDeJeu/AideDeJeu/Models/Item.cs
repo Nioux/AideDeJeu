@@ -4,6 +4,7 @@ using SQLite;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
@@ -342,5 +343,9 @@ namespace AideDeJeuLib
         {
             return $"{Name} ({NewId})";
         }
+
+        [NotMapped]
+        [IgnoreDataMember]
+        public Dictionary<string, string> Attributes { get; set; } = new Dictionary<string, string>();
     }
 }

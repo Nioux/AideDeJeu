@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!FeatItem
 Id: feats_hd.md#initié-des-arcanes
 ParentLink: feats_hd.md#dons
 Name: Initié des arcanes
 ParentName: Dons
 NameLevel: 3
+Attributes: {}
 ---
 > [Dons](hd_feats.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Enchevêtrement](hd_spells_enchevetrement.md)'
 Source: (SRD p140)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

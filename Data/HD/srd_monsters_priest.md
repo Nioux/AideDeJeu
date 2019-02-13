@@ -22,6 +22,7 @@ Name: Priest
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ecclésiastique](hd_monsters_ecclesiastique.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

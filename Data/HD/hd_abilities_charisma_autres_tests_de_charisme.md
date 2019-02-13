@@ -5,6 +5,7 @@ ParentLink: abilities_charisma_hd.md#charisme
 Name: Autres tests de Charisme
 ParentName: Charisme
 NameLevel: 3
+Attributes: {}
 ---
 > [Charisme](hd_abilities_charisma.md)
 

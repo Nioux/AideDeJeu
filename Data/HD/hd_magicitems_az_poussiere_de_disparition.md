@@ -9,6 +9,7 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Dust of Disappearance (SRD p219)
 Source: (COC p179)
+Attributes: {}
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)
 

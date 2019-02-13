@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Trouver les pièges](hd_spells_trouver_les_pieges.md)'
 Source: (SRD p144)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

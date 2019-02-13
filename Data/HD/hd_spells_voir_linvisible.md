@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[See Invisibility](srd_spells_see_invisibility.md)'
 Source: (MDR p)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Verrou magique](hd_spells_verrou_magique.md)'
 Source: (SRD p118)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

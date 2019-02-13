@@ -1,12 +1,13 @@
 ﻿---
 !SubClassItem
+Name: L'entité extra-dimensionnelle
+Source: (MDR p217)
 Id: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
 RootId: warlock_extradimensional_hd.md
 ParentLink: warlock_hd.md#protecteurs-doutre-monde
-Name: L'entité extra-dimensionnelle
 ParentName: Protecteurs d'outre-monde
 NameLevel: 1
-Source: (MDR p217)
+Attributes: {}
 ---
 >  [Protecteurs d'outre-monde](hd_warlock_protecteurs_doutre_monde.md)
 

@@ -6,6 +6,7 @@ Name: Esquive instinctive devient révélation
 ParentName: Le savant
 NameLevel: 4
 Source: (L5R p66)
+Attributes: {}
 ---
 > [Le savant](hd_l5r_rogue.md)
 

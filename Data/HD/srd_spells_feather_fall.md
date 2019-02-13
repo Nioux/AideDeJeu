@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Léger comme une plume](hd_spells_leger_comme_une_plume.md)'
 Source: (SRD p142)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

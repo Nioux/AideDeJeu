@@ -22,6 +22,7 @@ Name: Cult Fanatic
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Fanatique de secte](hd_monsters_fanatique_de_secte.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

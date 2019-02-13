@@ -22,6 +22,7 @@ Name: Wyvern
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Vouivre](hd_monsters_vouivre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

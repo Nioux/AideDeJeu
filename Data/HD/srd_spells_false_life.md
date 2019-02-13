@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Simulacre de vie](hd_spells_simulacre_de_vie.md)'
 Source: (SRD p142)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

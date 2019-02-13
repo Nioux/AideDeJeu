@@ -24,6 +24,7 @@ Name: Âme-en-peine
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wraith](srd_monsters_wraith.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -7,6 +7,7 @@ ParentName: Historique
 NameLevel: 3
 AltName: Suggested Characteristics (SRD p60)
 Source: (MDR p77)
+Attributes: {}
 ---
 > [Historique](hd_backgrounds.md)
 

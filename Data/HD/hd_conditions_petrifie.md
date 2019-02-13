@@ -6,6 +6,7 @@ Name: Pétrifié
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Petrified](srd_conditions_petrified.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

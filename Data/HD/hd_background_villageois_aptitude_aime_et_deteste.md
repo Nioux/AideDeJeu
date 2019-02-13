@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_villageois_hd.md#aptitude--aimé-et-détesté
 ParentLink: background_villageois_hd.md#variante--rebouteux
 Name: 'Aptitude : Aimé et détesté'
 ParentName: 'Variante : Rebouteux'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Rebouteux](hd_background_villageois_variante_rebouteux.md)
 

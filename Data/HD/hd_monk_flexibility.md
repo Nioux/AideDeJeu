@@ -7,6 +7,7 @@ RootId: monk_flexibility_hd.md
 ParentLink: monk_hd.md#traditions-monacales
 ParentName: Traditions monacales
 NameLevel: 1
+Attributes: {}
 ---
 >  [Traditions monacales](hd_monk_traditions_monacales.md)
 

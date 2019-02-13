@@ -22,6 +22,7 @@ Name: Blood Hawk
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Faucon de sang](hd_monsters_faucon_de_sang.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

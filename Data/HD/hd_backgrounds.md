@@ -8,6 +8,7 @@ ParentName: Personnalité et Historique
 NameLevel: 2
 AltName: Backgrounds (SRD p60)
 Source: (MDR p77)
+Attributes: {}
 ---
 >  [Personnalité et Historique](personnality_background_hd.md#)
 

@@ -5,6 +5,7 @@ ParentLink: monk_hd.md#moine
 Name: Frappe de ki
 ParentName: Moine
 NameLevel: 2
+Attributes: {}
 ---
 > [Moine](hd_monk.md)
 

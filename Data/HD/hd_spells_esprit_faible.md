@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Feeblemind](srd_spells_feeblemind.md)'
 Source: (MDR p353)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

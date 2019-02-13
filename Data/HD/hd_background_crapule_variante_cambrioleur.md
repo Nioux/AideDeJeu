@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Acrobaties ou Athlétisme, Discrétion.
+MasteredTools: Outils de voleur, accessoires de déguisement.
+Equipment: Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.
 Id: background_crapule_hd.md#variante--cambrioleur
 ParentLink: background_crapule_hd.md#crapule
 Name: 'Variante : Cambrioleur'
 ParentName: Crapule
 NameLevel: 3
+Attributes: {}
 ---
 > [Crapule](hd_background_crapule.md)
 

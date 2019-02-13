@@ -6,6 +6,7 @@ Name: PERLE DES PROFONDEURS
 ParentName: Artefacts
 NameLevel: 2
 Source: (CDC p193)
+Attributes: {}
 ---
 > [Artefacts](hd_artifacts.md)
 

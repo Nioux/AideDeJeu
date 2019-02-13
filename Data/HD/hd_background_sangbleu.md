@@ -1,11 +1,16 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Histoire, Persuasion.
+MasteredTools: Véhicules (terrestres).
+MasteredLanguages: Une langue au choix.
+Equipment: Habits de bonne qualité, monture, chevalière portant le sceau familial, bourse contenant 20 po.
 Id: background_sangbleu_hd.md#sang-bleu
 RootId: background_sangbleu_hd.md
 ParentLink: backgrounds_hd.md
 Name: Sang bleu
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Contagion](srd_spells_contagion.md)'
 Source: (MDR p339)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

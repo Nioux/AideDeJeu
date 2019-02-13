@@ -5,6 +5,7 @@ ParentLink: cleric_theurgist_hd.md#théurge
 Name: "Canalisation d'énergie divine : Magie puissante"
 ParentName: Théurge
 NameLevel: 2
+Attributes: {}
 ---
 > [Théurge](hd_cleric_theurgist.md)
 

@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityTraitItem
 Id: background_manouvrier_hd.md#trait-de-personnalité
 ParentLink: background_manouvrier_hd.md#personnalités-suggérées
 Name: Trait de personnalité
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_manouvrier_personnalites_suggerees.md)
 

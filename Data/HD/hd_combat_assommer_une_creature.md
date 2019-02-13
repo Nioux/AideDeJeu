@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Knocking a Creature Out (SRD p98)
 Source: (MDR p294)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

@@ -5,6 +5,7 @@ ParentLink: cleric_priest_hd.md#prêtre
 Name: "Canalisation d'énergie divine : Sort de domaine"
 ParentName: Prêtre
 NameLevel: 2
+Attributes: {}
 ---
 > [Prêtre](hd_cleric_priest.md)
 

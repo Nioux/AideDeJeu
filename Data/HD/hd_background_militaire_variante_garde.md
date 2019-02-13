@@ -1,12 +1,17 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Intimidation, Perspicacité.
+MasteredTools: Un type de jeu au choix.
+MasteredLanguages: Une langue au choix.
+Equipment: Vêtements courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, outre de vin, bourse contenant 15 po.
 Id: background_militaire_hd.md#variante--garde
 ParentLink: background_militaire_hd.md#militaire
 Name: 'Variante : Garde'
 ParentName: Militaire
 NameLevel: 3
+Attributes: {}
 ---
-> [Militaire](background_militaire_hd.md#militaire)
+> [Militaire](hd_background_militaire.md)
 
 ---
 

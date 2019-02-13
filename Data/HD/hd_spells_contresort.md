@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Counterspell](srd_spells_counterspell.md)'
 Source: (MDR p340)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

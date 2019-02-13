@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#brigand
 ParentLink: backgrounds_hd.md#historique
 Name: Brigand
 ParentName: Historique
+Attributes: {}
 ---
 
 

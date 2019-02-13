@@ -5,6 +5,7 @@ ParentLink: sorcerer_celestial_hd.md#lignée-céleste
 Name: Ancêtre céleste
 ParentName: Lignée céleste
 NameLevel: 2
+Attributes: {}
 ---
 > [Lignée céleste](hd_sorcerer_celestial.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Danse irrésistible](hd_spells_danse_irresistible.md)'
 Source: (SRD p158)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

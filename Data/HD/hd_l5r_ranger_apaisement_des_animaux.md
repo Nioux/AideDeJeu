@@ -6,6 +6,7 @@ Name: Apaisement des animaux
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 5
 Source: (L5R p53)
+Attributes: {}
 ---
 > [Rôdeur des cinq Royaumes](hd_l5r_ranger.md)
 

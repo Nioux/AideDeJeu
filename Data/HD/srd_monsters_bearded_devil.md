@@ -25,6 +25,7 @@ Name: Bearded Devil
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Diable barbu](hd_monsters_diable_barbu.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)'
 Source: (SRD p138)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

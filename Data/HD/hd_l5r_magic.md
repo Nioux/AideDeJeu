@@ -7,6 +7,7 @@ Name: Des objets magiques rares et merveilleux
 ParentName: Les Cinq Royaumes
 NameLevel: 2
 Source: (L5R p48)
+Attributes: {}
 ---
 >  [Les Cinq Royaumes](hd_l5r_index.md)
 

@@ -5,6 +5,7 @@ ParentLink: abilities_charisma_hd.md#charisme
 Name: Caractéristique d'incantation
 ParentName: Charisme
 NameLevel: 2
+Attributes: {}
 ---
 > [Charisme](hd_abilities_charisma.md)
 

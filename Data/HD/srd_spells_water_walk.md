@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Marche sur l'eau](hd_spells_marche_sur_leau.md)"
 Source: (SRD p191)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

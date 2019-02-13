@@ -5,6 +5,7 @@ ParentLink: monk_flexibility_hd.md#voie-de-la-souplesse
 Name: Étreinte mortelle
 ParentName: Voie de la souplesse
 NameLevel: 2
+Attributes: {}
 ---
 > [Voie de la souplesse](hd_monk_flexibility.md)
 

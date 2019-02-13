@@ -23,6 +23,7 @@ Name: Flesh Golem
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Golem de chair](hd_monsters_golem_de_chair.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

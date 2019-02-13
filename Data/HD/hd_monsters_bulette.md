@@ -22,6 +22,7 @@ Name: Bulette
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bulette](srd_monsters_bulette.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

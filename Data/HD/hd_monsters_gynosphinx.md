@@ -25,6 +25,7 @@ Name: Gynosphinx
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gynosphinx](srd_monsters_gynosphinx.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

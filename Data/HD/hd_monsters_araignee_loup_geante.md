@@ -22,6 +22,7 @@ Name: Araignée-loup géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

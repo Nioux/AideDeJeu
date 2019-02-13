@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Control Weather](srd_spells_control_weather.md)'
 Source: (MDR p341)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

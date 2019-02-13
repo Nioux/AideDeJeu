@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Contrôle du climat](hd_spells_controle_du_climat.md)'
 Source: (SRD p131)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

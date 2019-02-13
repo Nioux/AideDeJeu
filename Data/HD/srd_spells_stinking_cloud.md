@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Nuage puant](hd_spells_nuage_puant.md)'
 Source: (SRD p182)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

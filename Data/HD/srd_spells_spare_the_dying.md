@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Épargner les mourants](hd_spells_epargner_les_mourants.md)'
 Source: (SRD p181)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

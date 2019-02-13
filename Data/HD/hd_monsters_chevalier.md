@@ -22,6 +22,7 @@ Name: Chevalier
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Knight](srd_monsters_knight.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

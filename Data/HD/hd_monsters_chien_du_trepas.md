@@ -22,6 +22,7 @@ Name: Chien du trépas
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Death Dog](srd_monsters_death_dog.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

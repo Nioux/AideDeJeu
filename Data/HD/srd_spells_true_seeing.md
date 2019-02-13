@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Vision suprême](hd_spells_vision_supreme.md)'
 Source: (SRD p189)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

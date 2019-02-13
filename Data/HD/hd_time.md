@@ -8,6 +8,7 @@ ParentName: Partir à l'aventure
 NameLevel: 1
 AltName: Time (SRD p84)
 Source: (MDR p270)
+Attributes: {}
 ---
 >  [Partir à l'aventure](hd_adventure.md)
 

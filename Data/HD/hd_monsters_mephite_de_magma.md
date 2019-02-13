@@ -25,6 +25,7 @@ Name: Méphite de magma
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Magma Mephit](srd_monsters_magma_mephit.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

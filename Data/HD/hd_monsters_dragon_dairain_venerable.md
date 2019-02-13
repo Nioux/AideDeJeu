@@ -24,6 +24,7 @@ Name: Dragon d'airain vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

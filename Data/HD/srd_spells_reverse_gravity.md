@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)'
 Source: (SRD p175)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

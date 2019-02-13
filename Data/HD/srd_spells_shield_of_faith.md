@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)'
 Source: (SRD p179)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

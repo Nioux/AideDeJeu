@@ -25,6 +25,7 @@ Name: Élémentaire de la terre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Earth Elemental](srd_monsters_earth_elemental.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

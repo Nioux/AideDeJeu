@@ -9,6 +9,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Carreaux d'arbalète
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

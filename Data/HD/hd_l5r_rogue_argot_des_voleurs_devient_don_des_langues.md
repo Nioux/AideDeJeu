@@ -6,6 +6,7 @@ Name: Argot des voleurs devient don des langues
 ParentName: Le savant
 NameLevel: 4
 Source: (L5R p65)
+Attributes: {}
 ---
 > [Le savant](hd_l5r_rogue.md)
 

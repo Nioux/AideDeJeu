@@ -10,6 +10,7 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Wand of the War Mage, +1, +2, or +3 (SRD p249)
 Source: (COC p147)
+Attributes: {}
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)
 

@@ -23,6 +23,7 @@ Name: Rat-garou
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wererat](srd_monsters_wererat.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

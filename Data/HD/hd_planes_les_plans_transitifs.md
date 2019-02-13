@@ -5,6 +5,7 @@ ParentLink: planes_hd.md#jouer-dans-un-multivers
 Name: Les plans transitifs
 ParentName: Jouer dans un multivers
 NameLevel: 4
+Attributes: {}
 ---
 > [Jouer dans un multivers](hd_planes.md)
 

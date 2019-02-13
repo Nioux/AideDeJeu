@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Athlétisme, Nature.
+MasteredTools: Deux ensembles d'outils d'artisan au choix parmi les outils de forgeron, de menuisier, de maçon, de bricoleur, ou de charpentier.
+Equipment: Habits courants, deux ensembles d'outils d'artisan que vous maîtrisez, bourse contenant 10 po.
 Id: background_villageois_hd.md#variante--artisan-local
 ParentLink: background_villageois_hd.md#villageois
 Name: 'Variante : Artisan local'
 ParentName: Villageois
 NameLevel: 3
+Attributes: {}
 ---
 > [Villageois](hd_background_villageois.md)
 

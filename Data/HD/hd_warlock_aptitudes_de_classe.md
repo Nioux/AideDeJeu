@@ -5,6 +5,7 @@ ParentLink: warlock_hd.md#sorcier
 Name: Aptitudes de classe
 ParentName: Sorcier
 NameLevel: 1
+Attributes: {}
 ---
 > [Sorcier](hd_warlock.md)
 

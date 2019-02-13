@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Projection astrale](hd_spells_projection_astrale.md)'
 Source: (SRD p119)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

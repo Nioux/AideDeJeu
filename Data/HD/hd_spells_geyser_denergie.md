@@ -13,6 +13,7 @@ Name: Geyser d'énergie
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p359)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -21,6 +21,7 @@ Name: Giant Boar
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Sanglier géant](hd_monsters_sanglier_geant.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Communication avec les morts](hd_spells_communication_avec_les_morts.md)'
 Source: (SRD p181)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

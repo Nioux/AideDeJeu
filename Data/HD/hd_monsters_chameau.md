@@ -21,6 +21,7 @@ Name: Chameau
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Camel](srd_monsters_camel.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

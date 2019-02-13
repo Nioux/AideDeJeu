@@ -22,6 +22,7 @@ Name: Chouette
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Owl](srd_monsters_owl.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

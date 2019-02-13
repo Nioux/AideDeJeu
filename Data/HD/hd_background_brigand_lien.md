@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityLinkItem
 Id: background_brigand_hd.md#lien
 ParentLink: background_brigand_hd.md#personnalités-suggérées
 Name: Lien
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_brigand_personnalites_suggerees.md)
 

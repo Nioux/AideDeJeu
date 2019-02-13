@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#militaire
 ParentLink: backgrounds_hd.md#historique
 Name: Militaire
 ParentName: Historique
+Attributes: {}
 ---
 
 

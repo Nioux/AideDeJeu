@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Dressage, Perspicacité.
+MasteredTools: Véhicules (terrestres), outils de tanneur.
+Equipment: Habits courants, outils de tanneur, colifichet signe de l'affection que vous portait votre employeur, bourse contenant 15 po.
 Id: background_serviteur_hd.md#variante--palefrenier
 ParentLink: background_serviteur_hd.md#serviteur
 Name: 'Variante : Palefrenier'
 ParentName: Serviteur
 NameLevel: 3
+Attributes: {}
 ---
 > [Serviteur](hd_background_serviteur.md)
 

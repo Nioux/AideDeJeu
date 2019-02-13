@@ -24,6 +24,7 @@ Name: Red Dragon Wyrmling
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragonnet rouge](hd_monsters_dragonnet_rouge.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

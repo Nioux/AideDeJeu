@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Contamination](hd_spells_contamination.md)'
 Source: (SRD p153)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -5,6 +5,7 @@ ParentLink: rogue_thief_hd.md#voleur
 Name: Utilisation d'objets magiques
 ParentName: Voleur
 NameLevel: 2
+Attributes: {}
 ---
 > [Voleur](hd_rogue_thief.md)
 

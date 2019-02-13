@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Creature Size (SRD p92)
 Source: (MDR p287)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

@@ -23,6 +23,7 @@ Name: Oni
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Oni](hd_monsters_oni.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

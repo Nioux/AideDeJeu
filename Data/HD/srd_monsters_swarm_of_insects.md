@@ -23,6 +23,7 @@ Name: Swarm of Insects
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Nuée d'insectes](hd_monsters_nuee_dinsectes.md)"
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

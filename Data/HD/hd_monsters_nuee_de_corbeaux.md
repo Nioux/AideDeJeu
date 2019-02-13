@@ -24,6 +24,7 @@ Name: Nuée de corbeaux
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

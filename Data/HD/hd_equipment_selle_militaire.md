@@ -8,6 +8,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Selle militaire
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

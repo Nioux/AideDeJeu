@@ -10,6 +10,7 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Staff of Power (SRD p243)
 Source: (COC p149)
+Attributes: {}
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)
 

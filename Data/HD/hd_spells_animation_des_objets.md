@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Animate Objects](srd_spells_animate_objects.md)'
 Source: (MDR p322)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

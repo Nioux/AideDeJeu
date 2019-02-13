@@ -23,6 +23,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Arbuste éveillé](hd_monsters_arbuste_eveille.md)'
 Source: (SRD p366)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

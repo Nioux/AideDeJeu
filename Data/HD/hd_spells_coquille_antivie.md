@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Antilife Shell](srd_spells_antilife_shell.md)'
 Source: (MDR p342)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -8,6 +8,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Baguette (focaliseur arcanique)
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

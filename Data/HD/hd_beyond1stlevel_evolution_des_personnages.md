@@ -5,6 +5,7 @@ ParentLink: beyond1stlevel_hd.md#au-delà-du-niveau-1
 Name: Évolution des personnages
 ParentName: Au-delà du niveau 1
 NameLevel: 2
+Attributes: {}
 ---
 > [Au-delà du niveau 1](hd_beyond1stlevel.md)
 

@@ -25,6 +25,7 @@ Name: Tertre errant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Shambling Mound](srd_monsters_shambling_mound.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

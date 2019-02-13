@@ -5,6 +5,7 @@ ParentLink: cleric_theurgist_hd.md#théurge
 Name: Études académiques
 ParentName: Théurge
 NameLevel: 2
+Attributes: {}
 ---
 > [Théurge](hd_cleric_theurgist.md)
 

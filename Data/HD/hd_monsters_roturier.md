@@ -21,6 +21,7 @@ Name: Roturier
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Commoner](srd_monsters_commoner.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

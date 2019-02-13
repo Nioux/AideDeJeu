@@ -5,6 +5,7 @@ ParentLink: fighter_champion_hd.md#champion
 Name: Critique amélioré
 ParentName: Champion
 NameLevel: 2
+Attributes: {}
 ---
 > [Champion](hd_fighter_champion.md)
 

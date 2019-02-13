@@ -1,12 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Théurge
+Source: (MDR p139)
 Id: cleric_theurgist_hd.md#théurge
 RootId: cleric_theurgist_hd.md
 ParentLink: cleric_hd.md#domaines-divins
-Name: Théurge
 ParentName: Domaines divins
 NameLevel: 1
-Source: (MDR p139)
+Attributes: {}
 ---
 >  [Domaines divins](hd_cleric_domaines_divins.md)
 

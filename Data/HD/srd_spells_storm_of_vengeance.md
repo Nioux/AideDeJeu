@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Tempête vengeresse](hd_spells_tempete_vengeresse.md)'
 Source: (SRD p183)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

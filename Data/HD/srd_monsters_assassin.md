@@ -25,6 +25,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Assassin](hd_monsters_assassin.md)'
 Source: (SRD p396)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

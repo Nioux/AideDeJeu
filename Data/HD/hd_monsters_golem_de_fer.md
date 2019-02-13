@@ -23,6 +23,7 @@ Name: Golem de fer
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Iron Golem](srd_monsters_iron_golem.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

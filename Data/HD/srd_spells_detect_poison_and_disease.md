@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)'
 Source: (SRD p134)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

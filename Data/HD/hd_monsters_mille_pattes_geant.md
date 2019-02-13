@@ -21,6 +21,7 @@ Name: Mille-pattes géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

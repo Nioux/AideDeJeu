@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!FeatItem
 Id: feats_hd.md#expert-en-armes-lourdes
 ParentLink: feats_hd.md#dons
 Name: Expert en armes lourdes
 ParentName: Dons
 NameLevel: 3
+Attributes: {}
 ---
 > [Dons](hd_feats.md)
 

@@ -5,6 +5,7 @@ ParentLink: bard_acrobats_hd.md#collège-des-saltimbanques
 Name: Main dans la main
 ParentName: Collège des saltimbanques
 NameLevel: 2
+Attributes: {}
 ---
 > [Collège des saltimbanques](hd_bard_acrobats.md)
 

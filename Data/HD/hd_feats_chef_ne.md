@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!FeatItem
 Id: feats_hd.md#chef-né
 ParentLink: feats_hd.md#dons
 Name: Chef né
 ParentName: Dons
 NameLevel: 3
+Attributes: {}
 ---
 > [Dons](hd_feats.md)
 

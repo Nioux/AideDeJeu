@@ -5,6 +5,7 @@ ParentLink: sorcerer_hd.md#ensorceleur
 Name: Amélioration de caractéristiques
 ParentName: Ensorceleur
 NameLevel: 2
+Attributes: {}
 ---
 > [Ensorceleur](hd_sorcerer.md)
 

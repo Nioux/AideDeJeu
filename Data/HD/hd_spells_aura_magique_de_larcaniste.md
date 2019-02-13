@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: "[Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)"
 Source: (MDR p326)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

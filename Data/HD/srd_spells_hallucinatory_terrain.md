@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)'
 Source: (SRD p152)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

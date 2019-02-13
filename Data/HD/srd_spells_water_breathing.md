@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Respiration aquatique](hd_spells_respiration_aquatique.md)'
 Source: (SRD p191)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

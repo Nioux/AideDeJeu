@@ -6,6 +6,7 @@ Name: Parler aux arbres
 ParentName: Druide des cinq royaumes
 NameLevel: 5
 Source: (L5R p60)
+Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)
 

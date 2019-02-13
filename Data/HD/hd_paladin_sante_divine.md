@@ -5,6 +5,7 @@ ParentLink: paladin_hd.md#paladin
 Name: Santé divine
 ParentName: Paladin
 NameLevel: 2
+Attributes: {}
 ---
 > [Paladin](hd_paladin.md)
 

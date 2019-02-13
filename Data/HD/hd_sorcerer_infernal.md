@@ -1,12 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Lignée infernale
+Source: (MDR p158)
 Id: sorcerer_infernal_hd.md#lignée-infernale
 RootId: sorcerer_infernal_hd.md
 ParentLink: sorcerer_hd.md#origines-magiques
-Name: Lignée infernale
 ParentName: Origines magiques
 NameLevel: 1
-Source: (MDR p158)
+Attributes: {}
 ---
 >  [Origines magiques](hd_sorcerer_origines_magiques.md)
 

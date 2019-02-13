@@ -23,6 +23,7 @@ Name: Arbre éveillé
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Awakened Tree](srd_monsters_awakened_tree.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

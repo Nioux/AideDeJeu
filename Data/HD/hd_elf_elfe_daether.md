@@ -8,6 +8,7 @@ ParentName: Elfe
 NameLevel: 2
 AltName: High Elf (SRD p4)
 Source: (MDR p45)
+Attributes: {}
 ---
 > [Elfe](hd_elf.md)
 

@@ -5,6 +5,7 @@ ParentLink: abilities_intelligence_hd.md#intelligence
 Name: Caractéristique d'incantation
 ParentName: Intelligence
 NameLevel: 2
+Attributes: {}
 ---
 > [Intelligence](hd_abilities_intelligence.md)
 

@@ -13,6 +13,7 @@ Name: Brûlure du juste
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p330)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

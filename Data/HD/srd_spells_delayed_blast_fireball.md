@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)'
 Source: (SRD p133)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)'
 Source: (SRD p134)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

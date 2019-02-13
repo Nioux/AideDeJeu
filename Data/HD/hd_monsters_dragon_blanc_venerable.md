@@ -24,6 +24,7 @@ Name: Dragon blanc vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

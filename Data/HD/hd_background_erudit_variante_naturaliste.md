@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Nature, Survie.
+MasteredTools: Véhicules (terrestres), matériel d'herboriste.
+Equipment: Tenue de voyageur, sac contenant tente et couverture, matériel d'herboriste, boîte à amadou, bourse contenant 20 po.
 Id: background_erudit_hd.md#variante--naturaliste
 ParentLink: background_erudit_hd.md#Érudit
 Name: 'Variante : Naturaliste'
 ParentName: Érudit
 NameLevel: 3
+Attributes: {}
 ---
 > [Érudit](hd_background_erudit.md)
 

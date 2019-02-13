@@ -3,6 +3,7 @@
 Id: index.md
 RootId: index.md
 Name: Bibliothèque
+Attributes: {}
 ---
 # Manuel des règles
 

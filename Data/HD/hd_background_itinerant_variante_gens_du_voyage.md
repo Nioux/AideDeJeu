@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Deux au choix parmi Intimidation, Représentation, Supercherie.
+MasteredTools: Véhicules (terrestres), instrument de musique au choix.
+Equipment: Tenue de voyageur, instrument de musique, chien ou petit animal de compagnie, sac de voyage, bourse contenant 10 po.
 Id: background_itinerant_hd.md#variante--gens-du-voyage
 ParentLink: background_itinerant_hd.md#itinérant
 Name: 'Variante : Gens du voyage'
 ParentName: Itinérant
 NameLevel: 3
+Attributes: {}
 ---
 > [Itinérant](hd_background_itinerant.md)
 

@@ -6,6 +6,7 @@ Name: Fatigue et épuisement
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Exhaustion](srd_conditions_exhaustion.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

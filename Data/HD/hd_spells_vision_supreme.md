@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[True Seeing](srd_spells_true_seeing.md)'
 Source: (MDR p)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

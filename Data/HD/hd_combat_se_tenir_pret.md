@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Ready (SRD p93)
 Source: (MDR p290)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

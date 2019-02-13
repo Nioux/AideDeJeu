@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_itinerant_hd.md#aptitude--voyageur
 ParentLink: background_itinerant_hd.md#itinérant
 Name: 'Aptitude : Voyageur'
 ParentName: Itinérant
 NameLevel: 4
+Attributes: {}
 ---
 > [Itinérant](hd_background_itinerant.md)
 

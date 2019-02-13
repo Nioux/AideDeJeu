@@ -22,6 +22,7 @@ Name: Corbeau
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Raven](srd_monsters_raven.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

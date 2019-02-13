@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Contingency](srd_spells_contingency.md)'
 Source: (MDR p340)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

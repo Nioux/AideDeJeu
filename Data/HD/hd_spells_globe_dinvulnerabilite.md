@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)'
 Source: (MDR p359)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

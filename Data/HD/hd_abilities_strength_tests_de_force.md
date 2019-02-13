@@ -5,6 +5,7 @@ ParentLink: abilities_strength_hd.md#force
 Name: Tests de Force
 ParentName: Force
 NameLevel: 2
+Attributes: {}
 ---
 > [Force](hd_abilities_strength.md)
 

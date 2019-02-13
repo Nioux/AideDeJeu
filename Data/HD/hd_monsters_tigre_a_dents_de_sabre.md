@@ -22,6 +22,7 @@ Name: Tigre à dents de sabre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

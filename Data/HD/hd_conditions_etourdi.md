@@ -6,6 +6,7 @@ Name: Étourdi
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Stunned](srd_conditions_stunned.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

@@ -11,6 +11,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Rapière
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

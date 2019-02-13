@@ -22,6 +22,7 @@ Name: Mante obscure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Darkmantle](srd_monsters_darkmantle.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

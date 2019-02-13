@@ -5,6 +5,7 @@ ParentLink: abilities_dexterity_hd.md#dextérité
 Name: Autres tests de Dextérité
 ParentName: Dextérité
 NameLevel: 3
+Attributes: {}
 ---
 > [Dextérité](hd_abilities_dexterity.md)
 

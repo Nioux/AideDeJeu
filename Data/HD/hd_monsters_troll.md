@@ -22,6 +22,7 @@ Name: Troll
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Troll](srd_monsters_troll.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

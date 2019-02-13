@@ -23,6 +23,7 @@ Name: Loup arctique
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Winter Wolf](srd_monsters_winter_wolf.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -24,6 +24,7 @@ Name: Squelette cheval de guerre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

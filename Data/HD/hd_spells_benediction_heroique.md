@@ -13,6 +13,7 @@ Name: Bénédiction héroïque
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p327)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

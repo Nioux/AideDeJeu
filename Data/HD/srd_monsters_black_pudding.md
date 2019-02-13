@@ -23,6 +23,7 @@ Name: Black Pudding
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Pouding noir](hd_monsters_pouding_noir.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Monk (SRD p26)
 Source: (MDR p176)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

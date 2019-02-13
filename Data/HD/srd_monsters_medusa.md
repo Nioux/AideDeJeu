@@ -22,6 +22,7 @@ Name: Medusa
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Méduse](hd_monsters_meduse.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -24,6 +24,7 @@ Name: Épée volante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Flying Sword](srd_monsters_flying_sword.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

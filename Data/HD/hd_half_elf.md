@@ -1,6 +1,13 @@
 ﻿---
 !RaceItem
 CharismaBonus: 2
+AnyAbilityBonus: 2
+Age: Les demi-elfes grandissent au même rythme que les [humains] et atteignent leur maturité vers 20 ans. Par contre, ils vivent bien plus longtemps que les [humains] et il n'est pas rare qu'ils dépassent 180 ans.
+Alignment: Les demi-elfes partagent les tendances [chaotiques] de leurs ancêtres [elfes]. Ils apprécient leur liberté et la créativité, et n'ont aucune envie de suivre un leader ou d'en devenir un eux-mêmes. Ils n'apprécient pas qu'on leur impose des règles ou qu'on attende des choses d'eux, et se montrent parfois peu fiables, ou tout au moins imprévisibles.
+Size: Les demi-elfes sont de taille similaire aux [humains]. Ils font entre 1,50 mètre et 1,80 mètre et sont de taille moyenne.
+Speed: Votre vitesse au sol de base est de 9 mètres.
+Darkvision: Grâce à votre sang [elfe](hd_elf.md), vous avez hérité d'une vision supérieure dans l'[obscurité] et dans la [lumière faible]. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de [lumière faible] comme s'il s'agissait d'une [lumière vive] et dans l'[obscurité] comme s'il s'agissait d'une [lumière faible]. Par contre, vous ne distinguez pas les couleurs dans l'[obscurité], seulement des nuances de gris.
+Languages: Vous pouvez parler, lire et écrire en [commun], en [elfe](hd_elf.md) et dans une autre langue de votre choix.
 Id: half-elf_hd.md#demi-elfe
 RootId: half-elf_hd.md
 ParentLink: races_hd.md#
@@ -9,6 +16,7 @@ ParentName: Races
 NameLevel: 1
 AltName: Half-Elf (SRD p6)
 Source: (MDR p39)
+Attributes: {}
 ---
 >  [Races](races_hd.md#)
 

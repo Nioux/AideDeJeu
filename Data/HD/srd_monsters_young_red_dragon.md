@@ -24,6 +24,7 @@ Name: Young Red Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

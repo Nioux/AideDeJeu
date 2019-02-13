@@ -24,6 +24,7 @@ Name: Élémentaire de l'eau
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Water Elemental](srd_monsters_water_elemental.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Peau d'écorce](hd_spells_peau_decorce.md)"
 Source: (SRD p121)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

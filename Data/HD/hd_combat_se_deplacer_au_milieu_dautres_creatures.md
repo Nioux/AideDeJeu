@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Moving Around Other Creatures (SRD p92)
 Source: (MDR p286)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

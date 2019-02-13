@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_villageois_hd.md#aptitude--solidarité-populaire
 ParentLink: background_villageois_hd.md#villageois
 Name: 'Aptitude : Solidarité populaire'
 ParentName: Villageois
 NameLevel: 4
+Attributes: {}
 ---
 > [Villageois](hd_background_villageois.md)
 

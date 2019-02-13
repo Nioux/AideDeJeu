@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)"
 Source: (SRD p131)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

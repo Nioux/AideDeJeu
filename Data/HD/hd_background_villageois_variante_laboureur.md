@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Athlétisme, Dressage.
+MasteredTools: Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.
+Equipment: Ensemble d'outils d'artisan, habits courants, objet hérité de l'un de vos parents dont la valeur est sentimentale, pelle, bourse contenant 10 po.
 Id: background_villageois_hd.md#variante--laboureur
 ParentLink: background_villageois_hd.md#villageois
 Name: 'Variante : Laboureur'
 ParentName: Villageois
 NameLevel: 3
+Attributes: {}
 ---
 > [Villageois](hd_background_villageois.md)
 

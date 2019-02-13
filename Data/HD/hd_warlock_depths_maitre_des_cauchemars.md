@@ -5,6 +5,7 @@ ParentLink: warlock_depths_hd.md#la-puissance-des-profondeurs
 Name: Maître des cauchemars
 ParentName: La puissance des profondeurs
 NameLevel: 2
+Attributes: {}
 ---
 > [La puissance des profondeurs](hd_warlock_depths.md)
 

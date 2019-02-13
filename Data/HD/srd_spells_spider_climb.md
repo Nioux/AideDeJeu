@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Pattes d'araignée](hd_spells_pattes_daraignee.md)"
 Source: (SRD p182)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

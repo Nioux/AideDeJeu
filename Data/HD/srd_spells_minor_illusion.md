@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Illusion mineure](hd_spells_illusion_mineure.md)'
 Source: (SRD p164)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

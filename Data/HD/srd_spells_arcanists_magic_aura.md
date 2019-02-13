@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)"
 Source: (SRD p119)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

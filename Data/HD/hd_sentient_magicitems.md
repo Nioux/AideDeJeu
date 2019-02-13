@@ -8,6 +8,7 @@ ParentName: Cadre de campagne
 NameLevel: 1
 AltName: Sentient Magic Items (SRD p251)
 Source: (CDC p189)
+Attributes: {}
 ---
 >  [Cadre de campagne](index.md)
 

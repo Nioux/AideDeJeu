@@ -23,6 +23,7 @@ Name: Werebear
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ours-garou](hd_monsters_ours_garou.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

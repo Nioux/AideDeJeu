@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Commune](srd_spells_commune.md)'
 Source: (MDR p337)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

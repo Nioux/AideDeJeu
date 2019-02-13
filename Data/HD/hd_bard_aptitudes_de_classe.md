@@ -5,6 +5,7 @@ ParentLink: bard_hd.md#barde
 Name: Aptitudes de classe
 ParentName: Barde
 NameLevel: 1
+Attributes: {}
 ---
 > [Barde](hd_bard.md)
 

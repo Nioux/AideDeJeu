@@ -5,6 +5,7 @@ ParentLink: warlock_pact_hd.md#pacte
 Name: Pacte de la chaîne
 ParentName: Pacte
 NameLevel: 2
+Attributes: {}
 ---
 > [Pacte](hd_warlock_pact.md)
 

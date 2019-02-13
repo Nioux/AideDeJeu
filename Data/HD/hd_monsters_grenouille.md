@@ -22,6 +22,7 @@ Name: Grenouille
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Frog](srd_monsters_frog.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

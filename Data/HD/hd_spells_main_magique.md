@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Arcane Hand](srd_spells_arcane_hand.md)'
 Source: (MDR p)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

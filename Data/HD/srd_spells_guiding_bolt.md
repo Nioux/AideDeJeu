@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Balisage](hd_spells_balisage.md)'
 Source: (SRD p151)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

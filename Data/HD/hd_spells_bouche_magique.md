@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Magic Mouth](srd_spells_magic_mouth.md)'
 Source: (MDR p328)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

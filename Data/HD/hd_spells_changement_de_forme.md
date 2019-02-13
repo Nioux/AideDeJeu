@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Shapechange](srd_spells_shapechange.md)'
 Source: (MDR p333)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

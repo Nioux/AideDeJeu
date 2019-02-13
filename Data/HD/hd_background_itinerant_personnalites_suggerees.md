@@ -5,6 +5,7 @@ ParentLink: background_itinerant_hd.md#itinérant
 Name: Personnalités suggérées
 ParentName: Itinérant
 NameLevel: 4
+Attributes: {}
 ---
 > [Itinérant](hd_background_itinerant.md)
 

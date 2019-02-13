@@ -5,6 +5,7 @@ ParentLink: monk_openhand_hd.md#voie-de-la-main-ouverte
 Name: Tranquillité
 ParentName: Voie de la main ouverte
 NameLevel: 2
+Attributes: {}
 ---
 > [Voie de la main ouverte](hd_monk_openhand.md)
 

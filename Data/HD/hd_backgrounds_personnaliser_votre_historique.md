@@ -7,6 +7,7 @@ ParentName: Historique
 NameLevel: 3
 AltName: Customizing a Background (SRD p60)
 Source: (MDR p78)
+Attributes: {}
 ---
 > [Historique](hd_backgrounds.md)
 

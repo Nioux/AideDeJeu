@@ -1,5 +1,5 @@
 
-<!--RaceItem-->
+<!--RaceItem StrengthBonus="1" DexterityBonus="1" ConstitutionBonus="1" IntelligenceBonus="1" WisdomBonus="1" CharismaBonus="1"-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,17 +14,17 @@
 
 Il est difficile de faire des généralisations en ce qui concerne les humains. Ils possèdent les traits suivants :
 
-**Augmentation de caractéristiques.** La valeur de toutes vos caractéristiques augmente de <!--AllFeaturesBonus-->1<!--/AllFeaturesBonus-->.
+**Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->La valeur de toutes vos caractéristiques augmente de 1.<!--/AbilityScoreIncrease-->
 
-**Âge.** Les humains deviennent adultes à la fin de l'adolescence et vivent moins d'un siècle.
+**Âge.** <!--Age-->Les humains deviennent adultes à la fin de l'adolescence et vivent moins d'un siècle.<!--/Age-->
 
-**Alignement.** Les humains ne sont pas naturellement attirés vers un certain type d'alignement. On trouve parmi eux le meilleur comme le pire.
+**Alignement.** <!--Alignment-->Les humains ne sont pas naturellement attirés vers un certain type d'alignement. On trouve parmi eux le meilleur comme le pire.<!--/Alignment-->
 
-**Taille.** Les humains ont des tailles et des carrures très variées. Ils peuvent faire 1,50 mètre comme plus de 1,90 mètre. Vous êtes considéré comme une créature de taille moyenne, peu importe votre taille, votre poids ou votre carrure.
+**Taille.** <!--Size-->Les humains ont des tailles et des carrures très variées. Ils peuvent faire 1,50 mètre comme plus de 1,90 mètre. Vous êtes considéré comme une créature de taille moyenne, peu importe votre taille, votre poids ou votre carrure.<!--/Size-->
 
-**Vitesse.** Votre vitesse au sol de base est de 9 mètres.
+**Vitesse.** <!--Speed-->Votre vitesse au sol de base est de 9 mètres.<!--/Speed-->
 
-**Langues.** Vous pouvez parler, lire et écrire en commun et dans une langue supplémentaire de votre choix. Les humains apprennent généralement la langue des peuples qu'ils fréquentent, même s'il s'agit parfois d'obscurs dialectes. Ils aiment parsemer leur langue d'expressions empruntées à d'autres races : des jurons orcs, des expressions musicales elfes, des citations militaires naines, etc.
+**Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en commun et dans une langue supplémentaire de votre choix. Les humains apprennent généralement la langue des peuples qu'ils fréquentent, même s'il s'agit parfois d'obscurs dialectes. Ils aiment parsemer leur langue d'expressions empruntées à d'autres races : des jurons orcs, des expressions musicales elfes, des citations militaires naines, etc.<!--/Languages-->
 
 <!--Generic-->
 

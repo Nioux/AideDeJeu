@@ -23,6 +23,7 @@ Name: Werewolf
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Loup-garou](hd_monsters_loup_garou.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

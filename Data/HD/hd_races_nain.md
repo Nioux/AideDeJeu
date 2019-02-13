@@ -7,6 +7,7 @@ ParentLink: races_hd.md#races
 Name: Nain
 ParentName: Races
 AltName: '[Dwarf](#)'
+Attributes: {}
 ---
 
 

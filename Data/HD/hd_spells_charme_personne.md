@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Charm Person](srd_spells_charm_person.md)'
 Source: (MDR p333)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

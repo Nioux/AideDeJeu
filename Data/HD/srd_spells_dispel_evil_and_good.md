@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)'
 Source: (SRD p136)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

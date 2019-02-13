@@ -24,6 +24,7 @@ Name: Young Copper Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

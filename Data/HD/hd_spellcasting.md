@@ -8,6 +8,7 @@ ParentName: Manuel des règles
 NameLevel: 1
 AltName: Spellcasting (SRD p100)
 Source: (MDR p306)
+Attributes: {}
 ---
 >  [Manuel des règles](index.md)
 

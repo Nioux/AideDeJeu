@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Répulsion/attirance](hd_spells_repulsionattirance.md)'
 Source: (SRD p117)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Télékinésie](hd_spells_telekinesie.md)'
 Source: (SRD p185)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

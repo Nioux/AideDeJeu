@@ -5,6 +5,7 @@ ParentLink: druid_seasons_hd.md#cercle-des-saisons
 Name: Migration d'été
 ParentName: Cercle des saisons
 NameLevel: 2
+Attributes: {}
 ---
 > [Cercle des saisons](hd_druid_seasons.md)
 

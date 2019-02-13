@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)'
 Source: (SRD p139)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

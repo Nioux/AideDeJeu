@@ -22,6 +22,7 @@ Name: Fanatique de secte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cult Fanatic](srd_monsters_cult_fanatic.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

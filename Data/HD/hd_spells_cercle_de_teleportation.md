@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Teleportation Circle](srd_spells_teleportation_circle.md)'
 Source: (MDR p331)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

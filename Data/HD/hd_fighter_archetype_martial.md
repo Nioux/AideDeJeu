@@ -5,6 +5,7 @@ ParentLink: fighter_hd.md#guerrier
 Name: Archétype martial
 ParentName: Guerrier
 NameLevel: 1
+Attributes: {}
 ---
 > [Guerrier](hd_fighter.md)
 

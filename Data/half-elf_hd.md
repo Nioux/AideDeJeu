@@ -1,5 +1,5 @@
 
-<!--RaceItem-->
+<!--RaceItem CharismaBonus="2" AnyAbilityBonus="2"-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,23 +14,23 @@
 
 Un demi-elfe a quelques qualités communes avec les [elfes], mais d'autres qui sont propres aux demi-elfes.
 
-**Augmentation de caractéristiques.** Votre valeur de [Charisme] augmente de <!--CharismaBonus-->2<!--/CharismaBonus--> et deux autres valeurs de votre choix de 1.
+**Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme] augmente de 2 et deux autres valeurs de votre choix de 1.<!--/AbilityScoreIncrease-->
 
-**Âge.** Les demi-elfes grandissent au même rythme que les [humains] et atteignent leur maturité vers 20 ans. Par contre, ils vivent bien plus longtemps que les [humains] et il n'est pas rare qu'ils dépassent 180 ans.
+**Âge.** <!--Age-->Les demi-elfes grandissent au même rythme que les [humains] et atteignent leur maturité vers 20 ans. Par contre, ils vivent bien plus longtemps que les [humains] et il n'est pas rare qu'ils dépassent 180 ans.<!--/Age-->
 
-**Alignement.** Les demi-elfes partagent les tendances [chaotiques] de leurs ancêtres [elfes]. Ils apprécient leur liberté et la créativité, et n'ont aucune envie de suivre un leader ou d'en devenir un eux-mêmes. Ils n'apprécient pas qu'on leur impose des règles ou qu'on attende des choses d'eux, et se montrent parfois peu fiables, ou tout au moins imprévisibles.
+**Alignement.** <!--Alignment-->Les demi-elfes partagent les tendances [chaotiques] de leurs ancêtres [elfes]. Ils apprécient leur liberté et la créativité, et n'ont aucune envie de suivre un leader ou d'en devenir un eux-mêmes. Ils n'apprécient pas qu'on leur impose des règles ou qu'on attende des choses d'eux, et se montrent parfois peu fiables, ou tout au moins imprévisibles.<!--/Alignment-->
 
-**Taille.** Les demi-elfes sont de taille similaire aux [humains]. Ils font entre 1,50 mètre et 1,80 mètre et sont de taille moyenne.
+**Taille.** <!--Size-->Les demi-elfes sont de taille similaire aux [humains]. Ils font entre 1,50 mètre et 1,80 mètre et sont de taille moyenne.<!--/Size-->
 
-**Vitesse.** Votre vitesse au sol de base est de 9 mètres.
+**Vitesse.** <!--Speed-->Votre vitesse au sol de base est de 9 mètres.<!--/Speed-->
 
-**Vision dans le noir.** Grâce à votre sang [elfe], vous avez hérité d'une vision supérieure dans l'[obscurité] et dans la [lumière faible]. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de [lumière faible] comme s'il s'agissait d'une [lumière vive] et dans l'[obscurité] comme s'il s'agissait d'une [lumière faible]. Par contre, vous ne distinguez pas les couleurs dans l'[obscurité], seulement des nuances de gris.
+**Vision dans le noir.** <!--Darkvision-->Grâce à votre sang [elfe], vous avez hérité d'une vision supérieure dans l'[obscurité] et dans la [lumière faible]. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de [lumière faible] comme s'il s'agissait d'une [lumière vive] et dans l'[obscurité] comme s'il s'agissait d'une [lumière faible]. Par contre, vous ne distinguez pas les couleurs dans l'[obscurité], seulement des nuances de gris.<!--/Darkvision-->
 
 **Ascendance féerique.** Vous bénéficiez d'un avantage sur les [jets de sauvegarde] contre l'effet [charmé] et un effet magique ne peut pas vous plonger dans le sommeil.
 
 **Polyvalence.** Vous gagnez la maîtrise de deux [compétences] de votre choix.
 
-**Langues.** Vous pouvez parler, lire et écrire en [commun], en [elfe] et dans une autre langue de votre choix.
+**Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en [commun], en [elfe] et dans une autre langue de votre choix.<!--/Languages-->
 
 <!--/RaceItem-->
 

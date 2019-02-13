@@ -24,6 +24,7 @@ Name: Dretch
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Dretch](srd_monsters_dretch.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

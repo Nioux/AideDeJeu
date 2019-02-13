@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_devot_hd.md#aptitude--refuge-du-pèlerin
 ParentLink: background_devot_hd.md#dévot
 Name: 'Aptitude : Refuge du pèlerin'
@@ -7,6 +7,7 @@ ParentName: Dévot
 NameLevel: 4
 AltName: 'Feature: Shelter of the Faithful (SRD p61)'
 Source: (MDR p82)
+Attributes: {}
 ---
 > [Dévot](hd_background_devot.md)
 

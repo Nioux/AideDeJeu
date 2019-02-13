@@ -22,6 +22,7 @@ Name: Éclaireur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Scout](srd_monsters_scout.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Gentle Repose](srd_spells_gentle_repose.md)'
 Source: (MDR p349)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

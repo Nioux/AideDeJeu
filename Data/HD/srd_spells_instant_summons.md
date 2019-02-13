@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Convocations instantanées](hd_spells_convocations_instantanees.md)'
 Source: (SRD p157)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

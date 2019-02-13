@@ -25,6 +25,7 @@ Name: Nalfeshnie
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Nalfeshnee](srd_monsters_nalfeshnee.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -5,6 +5,7 @@ ParentLink: bard_hd.md#barde
 Name: Collèges bardiques
 ParentName: Barde
 NameLevel: 1
+Attributes: {}
 ---
 > [Barde](hd_bard.md)
 

@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 4
 AltName: Shoving a Creature (SRD p96)
 Source: (MDR p292)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

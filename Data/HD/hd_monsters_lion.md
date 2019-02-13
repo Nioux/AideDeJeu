@@ -22,6 +22,7 @@ Name: Lion
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lion](srd_monsters_lion.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -8,6 +8,7 @@ ParentName: Manuel des règles
 NameLevel: 1
 AltName: Races
 Source: (MDR p36)(SRD p3)
+Attributes: {}
 ---
 >  [Manuel des règles](index.md)
 

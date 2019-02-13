@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityTraitItem
 Id: background_erudit_hd.md#trait-de-personnalité
 ParentLink: background_erudit_hd.md#personnalités-suggérées
 Name: Trait de personnalité
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_erudit_personnalites_suggerees.md)
 

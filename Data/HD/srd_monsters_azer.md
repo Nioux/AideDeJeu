@@ -25,6 +25,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Azer](hd_monsters_azer.md)'
 Source: (SRD p265)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

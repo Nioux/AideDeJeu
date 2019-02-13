@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Croissance d'épines](hd_spells_croissance_depines.md)"
 Source: (SRD p182)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

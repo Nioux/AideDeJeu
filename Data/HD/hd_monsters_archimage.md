@@ -24,6 +24,7 @@ Name: Archimage
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Archmage](srd_monsters_archmage.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

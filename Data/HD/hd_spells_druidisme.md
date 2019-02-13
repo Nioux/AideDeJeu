@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Druidcraft](srd_spells_druidcraft.md)'
 Source: (MDR p349)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Alarm](srd_spells_alarm.md)'
 Source: (MDR p320)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Meld into Stone](srd_spells_meld_into_stone.md)'
 Source: (MDR p358)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

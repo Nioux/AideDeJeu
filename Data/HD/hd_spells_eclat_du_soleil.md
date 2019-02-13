@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Sunburst](srd_spells_sunburst.md)'
 Source: (MDR p350)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

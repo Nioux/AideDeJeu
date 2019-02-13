@@ -22,6 +22,7 @@ Name: Aigle géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Eagle](srd_monsters_giant_eagle.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

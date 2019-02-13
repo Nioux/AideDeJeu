@@ -7,6 +7,7 @@ Name: Rôdeur des cinq Royaumes
 ParentName: Les Cinq Royaumes
 NameLevel: 2
 Source: (L5R p52)
+Attributes: {}
 ---
 >  [Les Cinq Royaumes](hd_l5r_index.md)
 

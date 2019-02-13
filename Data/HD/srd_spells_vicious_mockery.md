@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Moquerie cruelle](hd_spells_moquerie_cruelle.md)'
 Source: (SRD p189)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -24,6 +24,7 @@ Name: Élémentaire de l'air
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Air Elemental](srd_monsters_air_elemental.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

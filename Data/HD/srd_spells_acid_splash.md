@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Aspersion acide](hd_spells_aspersion_acide.md)'
 Source: (SRD p114)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -5,6 +5,7 @@ ParentLink: paladin_piety_hd.md#serment-de-piété
 Name: Préceptes de piété
 ParentName: Serment de piété
 NameLevel: 2
+Attributes: {}
 ---
 > [Serment de piété](hd_paladin_piety.md)
 

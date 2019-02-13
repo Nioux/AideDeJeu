@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Warlock (SRD p46)
 Source: (MDR p209)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

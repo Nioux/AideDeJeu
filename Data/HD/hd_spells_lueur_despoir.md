@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Beacon of Hope](srd_spells_beacon_of_hope.md)'
 Source: (MDR p)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

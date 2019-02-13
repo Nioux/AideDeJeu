@@ -6,6 +6,7 @@ Name: Don spécifique
 ParentName: Lancer un rituel
 NameLevel: 3
 Source: (L5R p75)
+Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)
 

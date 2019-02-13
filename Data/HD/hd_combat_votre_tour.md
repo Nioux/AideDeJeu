@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Your Turn (SRD p90)
 Source: (MDR p285)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

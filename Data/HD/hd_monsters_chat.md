@@ -22,6 +22,7 @@ Name: Chat
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cat](srd_monsters_cat.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

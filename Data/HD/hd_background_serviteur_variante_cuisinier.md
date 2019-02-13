@@ -1,10 +1,15 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Discrétion, Perspicacité.
+MasteredTools: Ustensiles de cuisinier.
+MasteredLanguages: Une langue au choix.
+Equipment: Habits courants, ustensiles de cuisinier, colifichet signe de l'affection que vous portait votre employeur, outre de bon vin, bourse contenant 15 po.
 Id: background_serviteur_hd.md#variante--cuisinier
 ParentLink: background_serviteur_hd.md#serviteur
 Name: 'Variante : Cuisinier'
 ParentName: Serviteur
 NameLevel: 3
+Attributes: {}
 ---
 > [Serviteur](hd_background_serviteur.md)
 

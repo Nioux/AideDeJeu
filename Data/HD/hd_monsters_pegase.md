@@ -23,6 +23,7 @@ Name: Pégase
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Pegasus](srd_monsters_pegasus.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

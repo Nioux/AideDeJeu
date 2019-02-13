@@ -22,6 +22,7 @@ Name: Pieuvre géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Octopus](srd_monsters_giant_octopus.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

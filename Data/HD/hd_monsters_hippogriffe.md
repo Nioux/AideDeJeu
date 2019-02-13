@@ -22,6 +22,7 @@ Name: Hippogriffe
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hippogriff](srd_monsters_hippogriff.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

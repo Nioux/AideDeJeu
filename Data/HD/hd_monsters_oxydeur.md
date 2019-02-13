@@ -21,6 +21,7 @@ Name: Oxydeur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Rust Monster](srd_monsters_rust_monster.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

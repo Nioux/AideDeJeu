@@ -5,6 +5,7 @@ ParentLink: sorcerer_infernal_hd.md#lignée-infernale
 Name: Résistance supérieure
 ParentName: Lignée infernale
 NameLevel: 2
+Attributes: {}
 ---
 > [Lignée infernale](hd_sorcerer_infernal.md)
 

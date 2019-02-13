@@ -8,6 +8,7 @@ ParentName: Caractéristiques
 NameLevel: 1
 AltName: Dexterity (SRD p80)
 Source: (MDR p263)
+Attributes: {}
 ---
 >  [Caractéristiques](hd_abilities.md)
 

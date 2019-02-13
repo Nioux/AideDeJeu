@@ -22,6 +22,7 @@ Name: Garde
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Guard](srd_monsters_guard.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

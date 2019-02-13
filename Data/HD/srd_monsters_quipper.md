@@ -21,6 +21,7 @@ Name: Quipper
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Piranha](hd_monsters_piranha.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

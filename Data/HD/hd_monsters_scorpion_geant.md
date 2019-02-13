@@ -21,6 +21,7 @@ Name: Scorpion géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Scorpion](srd_monsters_giant_scorpion.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

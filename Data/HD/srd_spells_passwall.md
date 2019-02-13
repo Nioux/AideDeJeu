@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Passe-muraille](hd_spells_passe_muraille.md)'
 Source: (SRD p167)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

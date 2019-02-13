@@ -22,6 +22,7 @@ Name: Ours polaire
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Polar Bear](srd_monsters_polar_bear.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

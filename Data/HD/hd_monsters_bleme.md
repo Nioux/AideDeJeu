@@ -24,6 +24,7 @@ Name: Blême
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ghast](srd_monsters_ghast.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

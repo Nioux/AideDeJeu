@@ -7,6 +7,7 @@ ParentName: 'Dégâts et guérison '
 NameLevel: 3
 AltName: Temporary Hit Points
 Source: (MDR p299)(SRD p98)
+Attributes: {}
 ---
 > [Dégâts et guérison ](hd_damage_healing.md)
 

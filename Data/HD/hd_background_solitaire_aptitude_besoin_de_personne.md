@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_solitaire_hd.md#aptitude--besoin-de-personne
 ParentLink: background_solitaire_hd.md#solitaire
 Name: 'Aptitude : Besoin de personne'
 ParentName: Solitaire
 NameLevel: 4
+Attributes: {}
 ---
 > [Solitaire](hd_background_solitaire.md)
 

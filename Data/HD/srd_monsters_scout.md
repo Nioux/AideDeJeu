@@ -22,6 +22,7 @@ Name: Scout
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Éclaireur](hd_monsters_eclaireur.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

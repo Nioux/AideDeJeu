@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Étrangeté](hd_spells_etrangete.md)'
 Source: (SRD p192)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

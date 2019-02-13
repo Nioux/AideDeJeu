@@ -6,6 +6,7 @@ Name: Ces dons ne sont pas accessibles
 ParentName: Des objets magiques rares et merveilleux
 NameLevel: 4
 Source: (L5R p42)
+Attributes: {}
 ---
 > [Des objets magiques rares et merveilleux](hd_l5r_magic.md)
 

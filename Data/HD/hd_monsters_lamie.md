@@ -22,6 +22,7 @@ Name: Lamie
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lamia](srd_monsters_lamia.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

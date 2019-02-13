@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)'
 Source: (SRD p174)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

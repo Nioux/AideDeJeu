@@ -8,6 +8,7 @@ ParentName: Options de personnalisation
 NameLevel: 1
 AltName: Multiclassing (SRD p56)
 Source: (MDR p242)
+Attributes: {}
 ---
 >  [Options de personnalisation](hd_custom_options.md)
 

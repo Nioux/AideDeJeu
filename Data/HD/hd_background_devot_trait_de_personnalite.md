@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!PersonalityTraitItem
 Id: background_devot_hd.md#trait-de-personnalité
 ParentLink: background_devot_hd.md#personnalités-suggérées
 Name: Trait de personnalité
@@ -7,6 +7,7 @@ ParentName: Personnalités suggérées
 NameLevel: 5
 AltName: 'Feature: Personality Trait (SRD p61)'
 Source: (MDR p82)
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_devot_personnalites_suggerees.md)
 

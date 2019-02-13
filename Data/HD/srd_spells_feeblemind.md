@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Esprit faible](hd_spells_esprit_faible.md)'
 Source: (SRD p142)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

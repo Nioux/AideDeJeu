@@ -7,6 +7,7 @@ ParentLink: classes_hd.md#classes
 Name: Sorcier
 ParentName: Classes
 AltName: '[Warlock](#)'
+Attributes: {}
 ---
 
 

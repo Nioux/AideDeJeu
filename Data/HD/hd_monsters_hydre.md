@@ -22,6 +22,7 @@ Name: Hydre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hydra](srd_monsters_hydra.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

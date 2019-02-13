@@ -22,6 +22,7 @@ Name: Plésiosaure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

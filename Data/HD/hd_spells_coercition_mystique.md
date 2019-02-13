@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Geas](srd_spells_geas.md)'
 Source: (MDR p335)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

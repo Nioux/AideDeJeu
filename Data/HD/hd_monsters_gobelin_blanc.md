@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Gobelin blanc
 ParentName: Créatures
 NameLevel: 1
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

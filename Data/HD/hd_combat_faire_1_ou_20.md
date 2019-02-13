@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 4
 AltName: Rolling 1 or 20 (SRD p94)
 Source: (MDR p291)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

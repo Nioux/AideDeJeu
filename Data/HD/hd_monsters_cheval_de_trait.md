@@ -21,6 +21,7 @@ Name: Cheval de trait
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Draft Horse](srd_monsters_draft_horse.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

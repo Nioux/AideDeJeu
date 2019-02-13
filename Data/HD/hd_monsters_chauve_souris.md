@@ -21,6 +21,7 @@ Name: Chauve-souris
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bat](srd_monsters_bat.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

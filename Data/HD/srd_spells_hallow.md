@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Sanctification](hd_spells_sanctification.md)'
 Source: (SRD p152)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

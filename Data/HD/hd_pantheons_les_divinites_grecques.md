@@ -7,6 +7,7 @@ ParentName: Panthéons historiques et fantastiques
 NameLevel: 4
 AltName: Greek Deities
 Source: (MDR p414)(SRD p361)
+Attributes: {}
 ---
 > [Panthéons historiques et fantastiques](hd_pantheons.md)
 

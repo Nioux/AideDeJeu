@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Bard (SRD p11)
 Source: (MDR p121)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

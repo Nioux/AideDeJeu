@@ -6,6 +6,7 @@ Id: adventure_hd.md#déplacement
 ParentLink: adventure_hd.md#partir-à-laventure
 Name: Déplacement
 ParentName: Partir à l'aventure
+Attributes: {}
 ---
 
 

@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)'
 Source: (SRD p163)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

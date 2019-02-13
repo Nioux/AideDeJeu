@@ -24,6 +24,7 @@ Name: Copper Dragon Wyrmling
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

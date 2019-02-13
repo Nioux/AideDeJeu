@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Parole divine](hd_spells_parole_divine.md)'
 Source: (SRD p137)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

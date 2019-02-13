@@ -16,6 +16,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Enlarge/Reduce](srd_spells_enlargereduce.md)'
   Source: (MDR p320)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Abjuration
@@ -31,6 +32,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Aid](srd_spells_aid.md)'
   Source: (MDR p320)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Abjuration
@@ -47,6 +49,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Alarm](srd_spells_alarm.md)'
   Source: (MDR p320)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Invocation
@@ -62,6 +65,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Planar Ally](srd_spells_planar_ally.md)'
   Source: (MDR p320)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -77,6 +81,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Enhance Ability](srd_spells_enhance_ability.md)'
   Source: (MDR p321)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Enchantement
@@ -92,6 +97,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Animal Friendship](srd_spells_animal_friendship.md)'
   Source: (MDR p321)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Nécromancie
@@ -107,6 +113,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Animate Dead](srd_spells_animate_dead.md)'
   Source: (MDR p321)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Transmutation
@@ -122,6 +129,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Animate Objects](srd_spells_animate_objects.md)'
   Source: (MDR p322)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Enchantement
@@ -137,6 +145,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Calm Emotions](srd_spells_calm_emotions.md)'
   Source: (MDR p322)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Illusion
@@ -152,6 +161,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Seeming](srd_spells_seeming.md)'
   Source: (MDR p323)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Invocation
@@ -168,6 +178,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Find Familiar](srd_spells_find_familiar.md)'
   Source: (MDR p323)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Invocation
@@ -183,6 +194,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Call Lightning](srd_spells_call_lightning.md)'
   Source: (MDR p324)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Enchantement
@@ -197,6 +209,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p324)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -212,6 +225,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Magic Weapon](srd_spells_magic_weapon.md)'
   Source: (MDR p324)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -226,6 +240,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p324)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -241,6 +256,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Spiritual Weapon](srd_spells_spiritual_weapon.md)'
   Source: (MDR p324)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Abjuration
@@ -256,6 +272,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mage Armor](srd_spells_mage_armor.md)'
   Source: (MDR p324)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Transmutation
@@ -271,6 +288,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Time Stop](srd_spells_time_stop.md)'
   Source: (MDR p325)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Invocation
@@ -286,6 +304,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Acid Splash](srd_spells_acid_splash.md)'
   Source: (MDR p325)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Illusion
@@ -301,6 +320,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Phantasmal Killer](srd_spells_phantasmal_killer.md)'
   Source: (MDR p325)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Divination
@@ -316,6 +336,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Guidance](srd_spells_guidance.md)'
   Source: (MDR p325)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Divination
@@ -331,6 +352,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Augury](srd_spells_augury.md)'
   Source: (MDR p325)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Abjuration
@@ -345,6 +367,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p325)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Enchantement
@@ -359,6 +382,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p326)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Illusion
@@ -374,6 +398,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)"
   Source: (MDR p326)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Abjuration
@@ -389,6 +414,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Holy Aura](srd_spells_holy_aura.md)'
   Source: (MDR p326)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Transmutation
@@ -404,6 +430,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Glibness](srd_spells_glibness.md)'
   Source: (MDR p326)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Transmutation
@@ -419,6 +446,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Goodberry](srd_spells_goodberry.md)'
   Source: (MDR p326)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -434,6 +462,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Guiding Bolt](srd_spells_guiding_bolt.md)'
   Source: (MDR p327)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Abjuration
@@ -449,6 +478,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Banishment](srd_spells_banishment.md)'
   Source: (MDR p327)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Évocation
@@ -464,6 +494,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Blade Barrier](srd_spells_blade_barrier.md)'
   Source: (MDR p327)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Enchantement
@@ -479,6 +510,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bless](srd_spells_bless.md)'
   Source: (MDR p327)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Divination
@@ -493,6 +525,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p327)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Nécromancie
@@ -508,6 +541,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Inflict Wounds](srd_spells_inflict_wounds.md)'
   Source: (MDR p327)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Illusion
@@ -524,6 +558,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Magic Mouth](srd_spells_magic_mouth.md)'
   Source: (MDR p328)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Abjuration
@@ -539,6 +574,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Shield](srd_spells_shield.md)'
   Source: (MDR p328)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Évocation
@@ -554,6 +590,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fire Shield](srd_spells_fire_shield.md)'
   Source: (MDR p328)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Abjuration
@@ -569,6 +606,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Shield of Faith](srd_spells_shield_of_faith.md)'
   Source: (MDR p328)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Invocation
@@ -584,6 +622,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Poison Spray](srd_spells_poison_spray.md)'
   Source: (MDR p328)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Évocation
@@ -599,6 +638,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fireball](srd_spells_fireball.md)'
   Source: (MDR p328)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Évocation
@@ -614,6 +654,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Delayed Blast Fireball](srd_spells_delayed_blast_fireball.md)'
   Source: (MDR p329)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -629,6 +670,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Gust of Wind](srd_spells_gust_of_wind.md)'
   Source: (MDR p329)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -644,6 +686,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Shatter](srd_spells_shatter.md)'
   Source: (MDR p330)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -658,6 +701,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p330)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Évocation
@@ -673,6 +717,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Forcecage](srd_spells_forcecage.md)'
   Source: (MDR p330)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Nécromancie
@@ -688,6 +733,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Vampiric Touch](srd_spells_vampiric_touch.md)'
   Source: (MDR p330)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Nécromancie
@@ -702,6 +748,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p331)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Nécromancie
@@ -717,6 +764,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Blindness/Deafness](srd_spells_blindnessdeafness.md)'
   Source: (MDR p331)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Nécromancie
@@ -732,6 +780,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Circle of Death](srd_spells_circle_of_death.md)'
   Source: (MDR p331)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Invocation
@@ -747,6 +796,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Teleportation Circle](srd_spells_teleportation_circle.md)'
   Source: (MDR p331)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Abjuration
@@ -762,6 +812,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Magic Circle](srd_spells_magic_circle.md)'
   Source: (MDR p331)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Évocation
@@ -777,6 +828,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Chain Lightning](srd_spells_chain_lightning.md)'
   Source: (MDR p332)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Abjuration
@@ -792,6 +844,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Antimagic Field](srd_spells_antimagic_field.md)'
   Source: (MDR p332)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Transmutation
@@ -807,6 +860,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Shapechange](srd_spells_shapechange.md)'
   Source: (MDR p333)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Invocation
@@ -822,6 +876,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Plane Shift](srd_spells_plane_shift.md)'
   Source: (MDR p333)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Enchantement
@@ -837,6 +892,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Charm Person](srd_spells_charm_person.md)'
   Source: (MDR p333)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -852,6 +908,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Heat Metal](srd_spells_heat_metal.md)'
   Source: (MDR p334)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Invocation
@@ -867,6 +924,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Faithful Hound](srd_spells_faithful_hound.md)'
   Source: (MDR p334)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Enchantement
@@ -881,6 +939,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p334)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Divination
@@ -896,6 +955,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Clairvoyance](srd_spells_clairvoyance.md)'
   Source: (MDR p334)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -911,6 +971,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Blink](srd_spells_blink.md)'
   Source: (MDR p334)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Nécromancie
@@ -926,6 +987,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Clone](srd_spells_clone.md)'
   Source: (MDR p335)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Enchantement
@@ -941,6 +1003,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Geas](srd_spells_geas.md)'
   Source: (MDR p335)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Invocation
@@ -956,6 +1019,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Secret Chest](srd_spells_secret_chest.md)'
   Source: (MDR p335)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Invocation
@@ -970,6 +1034,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p336)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Invocation
@@ -984,6 +1049,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p336)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Évocation
@@ -999,6 +1065,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Flame Strike](srd_spells_flame_strike.md)'
   Source: (MDR p336)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Divination
@@ -1015,6 +1082,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Speak with Animals](srd_spells_speak_with_animals.md)'
   Source: (MDR p336)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Nécromancie
@@ -1030,6 +1098,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Speak with Dead](srd_spells_speak_with_dead.md)'
   Source: (MDR p336)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -1045,6 +1114,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Speak with Plants](srd_spells_speak_with_plants.md)'
   Source: (MDR p337)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Divination
@@ -1061,6 +1131,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Commune](srd_spells_commune.md)'
   Source: (MDR p337)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Divination
@@ -1077,6 +1148,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Commune with Nature](srd_spells_commune_with_nature.md)'
   Source: (MDR p337)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Enchantement
@@ -1091,6 +1163,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p337)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Divination
@@ -1107,6 +1180,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Comprehend Languages](srd_spells_comprehend_languages.md)'
   Source: (MDR p338)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Enchantement
@@ -1122,6 +1196,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Compulsion](srd_spells_compulsion.md)'
   Source: (MDR p338)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Évocation
@@ -1137,6 +1212,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Cone of Cold](srd_spells_cone_of_cold.md)'
   Source: (MDR p338)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Enchantement
@@ -1152,6 +1228,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Confusion](srd_spells_confusion.md)'
   Source: (MDR p338)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Nécromancie
@@ -1167,6 +1244,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Chill Touch](srd_spells_chill_touch.md)'
   Source: (MDR p339)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Divination
@@ -1183,6 +1261,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Contact Other Plane](srd_spells_contact_other_plane.md)'
   Source: (MDR p339)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Nécromancie
@@ -1198,6 +1277,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Contagion](srd_spells_contagion.md)'
   Source: (MDR p339)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Nécromancie
@@ -1213,6 +1293,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Harm](srd_spells_harm.md)'
   Source: (MDR p340)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Évocation
@@ -1228,6 +1309,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Contingency](srd_spells_contingency.md)'
   Source: (MDR p340)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Abjuration
@@ -1243,6 +1325,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Counterspell](srd_spells_counterspell.md)'
   Source: (MDR p340)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Transmutation
@@ -1258,6 +1341,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Control Water](srd_spells_control_water.md)'
   Source: (MDR p340)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Transmutation
@@ -1273,6 +1357,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Control Weather](srd_spells_control_weather.md)'
   Source: (MDR p341)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Invocation
@@ -1289,6 +1374,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Instant Summons](srd_spells_instant_summons.md)'
   Source: (MDR p342)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Abjuration
@@ -1304,6 +1390,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Antilife Shell](srd_spells_antilife_shell.md)'
   Source: (MDR p342)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -1319,6 +1406,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Rope Trick](srd_spells_rope_trick.md)'
   Source: (MDR p342)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Illusion
@@ -1334,6 +1422,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Color Spray](srd_spells_color_spray.md)'
   Source: (MDR p343)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Illusion
@@ -1349,6 +1438,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Creation](srd_spells_creation.md)'
   Source: (MDR p343)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Nécromancie
@@ -1364,6 +1454,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Create Undead](srd_spells_create_undead.md)'
   Source: (MDR p343)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Invocation
@@ -1379,6 +1470,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Create Food and Water](srd_spells_create_food_and_water.md)'
   Source: (MDR p344)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Transmutation
@@ -1394,6 +1486,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Create or Destroy Water](srd_spells_create_or_destroy_water.md)'
   Source: (MDR p344)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -1409,6 +1502,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Spike Growth](srd_spells_spike_growth.md)'
   Source: (MDR p344)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -1424,6 +1518,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Plant Growth](srd_spells_plant_growth.md)'
   Source: (MDR p344)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Enchantement
@@ -1439,6 +1534,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Irresistible Dance](srd_spells_irresistible_dance.md)'
   Source: (MDR p344)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -1454,6 +1550,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Knock](srd_spells_knock.md)'
   Source: (MDR p345)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Illusion
@@ -1469,6 +1566,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Disguise Self](srd_spells_disguise_self.md)'
   Source: (MDR p345)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Invocation
@@ -1484,6 +1582,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Demiplane](srd_spells_demiplane.md)'
   Source: (MDR p345)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Transmutation
@@ -1499,6 +1598,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Move Earth](srd_spells_move_earth.md)'
   Source: (MDR p345)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Transmutation
@@ -1514,6 +1614,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Disintegrate](srd_spells_disintegrate.md)'
   Source: (MDR p346)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -1528,6 +1629,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p346)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Divination
@@ -1544,6 +1646,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Detect Magic](srd_spells_detect_magic.md)'
   Source: (MDR p346)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Divination
@@ -1559,6 +1662,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Detect Thoughts](srd_spells_detect_thoughts.md)'
   Source: (MDR p346)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Divination
@@ -1574,6 +1678,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Detect Evil and Good](srd_spells_detect_evil_and_good.md)'
   Source: (MDR p347)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Divination
@@ -1590,6 +1695,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)'
   Source: (MDR p347)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Invocation
@@ -1606,6 +1712,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Floating Disk](srd_spells_floating_disk.md)'
   Source: (MDR p347)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Abjuration
@@ -1621,6 +1728,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dispel Magic](srd_spells_dispel_magic.md)'
   Source: (MDR p347)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Abjuration
@@ -1636,6 +1744,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dispel Evil and Good](srd_spells_dispel_evil_and_good.md)'
   Source: (MDR p347)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Divination
@@ -1652,6 +1761,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Divination](srd_spells_divination.md)'
   Source: (MDR p348)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Nécromancie
@@ -1667,6 +1777,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Finger of Death](srd_spells_finger_of_death.md)'
   Source: (MDR p348)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Enchantement
@@ -1682,6 +1793,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dominate Person](srd_spells_dominate_person.md)'
   Source: (MDR p348)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Enchantement
@@ -1697,6 +1809,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dominate Monster](srd_spells_dominate_monster.md)'
   Source: (MDR p349)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Enchantement
@@ -1712,6 +1825,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dominate Beast](srd_spells_dominate_beast.md)'
   Source: (MDR p349)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Nécromancie
@@ -1728,6 +1842,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Gentle Repose](srd_spells_gentle_repose.md)'
   Source: (MDR p349)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Transmutation
@@ -1743,6 +1858,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Druidcraft](srd_spells_druidcraft.md)'
   Source: (MDR p349)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Évocation
@@ -1758,6 +1874,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lightning Bolt](srd_spells_lightning_bolt.md)'
   Source: (MDR p350)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Invocation
@@ -1772,6 +1889,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p350)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Évocation
@@ -1787,6 +1905,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sunburst](srd_spells_sunburst.md)'
   Source: (MDR p350)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Évocation
@@ -1802,6 +1921,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Prismatic Spray](srd_spells_prismatic_spray.md)'
   Source: (MDR p350)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Abjuration
@@ -1817,6 +1937,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Imprisonment](srd_spells_imprisonment.md)'
   Source: (MDR p351)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Invocation
@@ -1832,6 +1953,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Entangle](srd_spells_entangle.md)'
   Source: (MDR p352)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Abjuration
@@ -1847,6 +1969,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Planar Binding](srd_spells_planar_binding.md)'
   Source: (MDR p352)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Évocation
@@ -1862,6 +1985,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sending](srd_spells_sending.md)'
   Source: (MDR p352)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Enchantement
@@ -1877,6 +2001,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Enthrall](srd_spells_enthrall.md)'
   Source: (MDR p352)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Nécromancie
@@ -1892,6 +2017,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Spare the Dying](srd_spells_spare_the_dying.md)'
   Source: (MDR p352)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Évocation
@@ -1906,6 +2032,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p353)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Évocation
@@ -1921,6 +2048,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Arcane Sword](srd_spells_arcane_sword.md)'
   Source: (MDR p353)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Enchantement
@@ -1936,6 +2064,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Feeblemind](srd_spells_feeblemind.md)'
   Source: (MDR p353)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Abjuration
@@ -1951,6 +2080,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mind Blank](srd_spells_mind_blank.md)'
   Source: (MDR p353)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Invocation
@@ -1966,6 +2096,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Spirit Guardians](srd_spells_spirit_guardians.md)'
   Source: (MDR p353)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Illusion
@@ -1981,6 +2112,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Weird](srd_spells_weird.md)'
   Source: (MDR p354)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Transmutation
@@ -1996,6 +2128,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Awaken](srd_spells_awaken.md)'
   Source: (MDR p354)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Transmutation
@@ -2010,6 +2143,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p354)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Évocation
@@ -2024,6 +2158,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p354)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Évocation
@@ -2039,6 +2174,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Eldritch Blast](srd_spells_eldritch_blast.md)'
   Source: (MDR p354)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Transmutation
@@ -2054,6 +2190,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fabricate](srd_spells_fabricate.md)'
   Source: (MDR p354)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Transmutation
@@ -2069,6 +2206,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Stone Shape](srd_spells_stone_shape.md)'
   Source: (MDR p355)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -2084,6 +2222,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Divine Favor](srd_spells_divine_favor.md)'
   Source: (MDR p355)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Invocation
@@ -2099,6 +2238,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Heroes' Feast](srd_spells_heroes_feast.md)"
   Source: (MDR p355)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Invocation
@@ -2113,6 +2253,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p355)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -2128,6 +2269,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Continual Flame](srd_spells_continual_flame.md)'
   Source: (MDR p355)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Évocation
@@ -2143,6 +2285,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sacred Flame](srd_spells_sacred_flame.md)'
   Source: (MDR p355)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Enchantement
@@ -2158,6 +2301,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bane](srd_spells_bane.md)'
   Source: (MDR p356)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Invocation
@@ -2173,6 +2317,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Insect Plague](srd_spells_insect_plague.md)'
   Source: (MDR p356)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -2188,6 +2333,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Acid Arrow](srd_spells_acid_arrow.md)'
   Source: (MDR p356)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Nécromancie
@@ -2203,6 +2349,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Blight](srd_spells_blight.md)'
   Source: (MDR p356)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Illusion
@@ -2218,6 +2365,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Blur](srd_spells_blur.md)'
   Source: (MDR p356)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Transmutation
@@ -2233,6 +2381,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Etherealness](srd_spells_etherealness.md)'
   Source: (MDR p356)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -2248,6 +2397,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Gaseous Form](srd_spells_gaseous_form.md)'
   Source: (MDR p357)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Transmutation
@@ -2263,6 +2413,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Animal Shapes](srd_spells_animal_shapes.md)'
   Source: (MDR p357)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Enchantement
@@ -2278,6 +2429,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Hideous Laughter](srd_spells_hideous_laughter.md)'
   Source: (MDR p357)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -2292,6 +2444,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p358)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -2307,6 +2460,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Branding Smite](srd_spells_branding_smite.md)'
   Source: (MDR p358)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -2323,6 +2477,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Meld into Stone](srd_spells_meld_into_stone.md)'
   Source: (MDR p358)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Invocation
@@ -2338,6 +2493,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Guardian of Faith](srd_spells_guardian_of_faith.md)'
   Source: (MDR p358)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -2352,6 +2508,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p359)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Abjuration
@@ -2367,6 +2524,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)'
   Source: (MDR p359)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Abjuration
@@ -2382,6 +2540,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Glyph of Warding](srd_spells_glyph_of_warding.md)'
   Source: (MDR p359)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Transmutation
@@ -2397,6 +2556,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Shillelagh](srd_spells_shillelagh.md)'
   Source: (MDR p360)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Invocation
@@ -2412,6 +2572,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Grease](srd_spells_grease.md)'
   Source: (MDR p360)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Transmutation
@@ -2427,6 +2588,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Longstrider](srd_spells_longstrider.md)'
   Source: (MDR p360)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Évocation
@@ -2442,6 +2604,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Heal](srd_spells_heal.md)'
   Source: (MDR p360)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Évocation
@@ -2457,6 +2620,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mass Heal](srd_spells_mass_heal.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Évocation
@@ -2471,6 +2635,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -2486,6 +2651,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Haste](srd_spells_haste.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Enchantement
@@ -2501,6 +2667,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Heroism](srd_spells_heroism.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Divination
@@ -2517,6 +2684,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Identify](srd_spells_identify.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Illusion
@@ -2532,6 +2700,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Minor Illusion](srd_spells_minor_illusion.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Illusion
@@ -2547,6 +2716,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Programmed Illusion](srd_spells_programmed_illusion.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Illusion
@@ -2562,6 +2732,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Major Image](srd_spells_major_image.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Illusion
@@ -2577,6 +2748,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mirror Image](srd_spells_mirror_image.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Illusion
@@ -2592,6 +2764,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Project Image](srd_spells_project_image.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Illusion
@@ -2607,6 +2780,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Silent Image](srd_spells_silent_image.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Enchantement
@@ -2622,6 +2796,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Hold Person](srd_spells_hold_person.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Enchantement
@@ -2637,6 +2812,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Hold Monster](srd_spells_hold_monster.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Enchantement
@@ -2652,6 +2828,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Command](srd_spells_command.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Transmutation
@@ -2667,6 +2844,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Giant Insect](srd_spells_giant_insect.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Illusion
@@ -2681,6 +2859,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Abjuration
@@ -2697,6 +2876,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Forbiddance](srd_spells_forbiddance.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Transmutation
@@ -2712,6 +2892,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Reverse Gravity](srd_spells_reverse_gravity.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Illusion
@@ -2727,6 +2908,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Invisibility](srd_spells_invisibility.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Illusion
@@ -2742,6 +2924,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Greater Invisibility](srd_spells_greater_invisibility.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Invocation
@@ -2757,6 +2940,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Conjure Animals](srd_spells_conjure_animals.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Invocation
@@ -2772,6 +2956,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Conjure Minor Elementals](srd_spells_conjure_minor_elementals.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Invocation
@@ -2787,6 +2972,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Conjure Woodland Beings](srd_spells_conjure_woodland_beings.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Invocation
@@ -2802,6 +2988,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Conjure Celestial](srd_spells_conjure_celestial.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Invocation
@@ -2817,6 +3004,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Conjure Elemental](srd_spells_conjure_elemental.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Invocation
@@ -2832,6 +3020,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Conjure Fey](srd_spells_conjure_fey.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Nécromancie
@@ -2847,6 +3036,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bestow curse](srd_spells_bestow_curse.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Nécromancie
@@ -2861,6 +3051,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Invocation
@@ -2876,6 +3067,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Maze](srd_spells_maze.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -2891,6 +3083,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Flame Blade](srd_spells_flame_blade.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -2905,6 +3098,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Divination
@@ -2920,6 +3114,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Tongues](srd_spells_tongues.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Divination
@@ -2935,6 +3130,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Legend Lore](srd_spells_legend_lore.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Transmutation
@@ -2950,6 +3146,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Feather Fall](srd_spells_feather_fall.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -2965,6 +3162,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Slow](srd_spells_slow.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Abjuration
@@ -2980,6 +3178,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Remove Curse](srd_spells_remove_curse.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -2995,6 +3194,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Levitate](srd_spells_levitate.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Invocation
@@ -3009,6 +3209,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Abjuration
@@ -3024,6 +3225,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Freedom of Movement](srd_spells_freedom_of_movement.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Abjuration
@@ -3039,6 +3241,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Warding Bond](srd_spells_warding_bond.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Divination
@@ -3055,6 +3258,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Telepathic Bond](srd_spells_telepathic_bond.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Divination
@@ -3071,6 +3275,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Locate Animals or Plants](srd_spells_locate_animals_or_plants.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Divination
@@ -3086,6 +3291,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Locate Object](srd_spells_locate_object.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Divination
@@ -3101,6 +3307,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Locate Creature](srd_spells_locate_creature.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Abjuration
@@ -3116,6 +3323,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Beacon of Hope](srd_spells_beacon_of_hope.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -3131,6 +3339,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Faerie Fire](srd_spells_faerie_fire.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Évocation
@@ -3146,6 +3355,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Light](srd_spells_light.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Évocation
@@ -3161,6 +3371,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Daylight](srd_spells_daylight.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Évocation
@@ -3176,6 +3387,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dancing Lights](srd_spells_dancing_lights.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Invocation
@@ -3191,6 +3403,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mage Hand](srd_spells_mage_hand.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Évocation
@@ -3206,6 +3419,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Arcane Hand](srd_spells_arcane_hand.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -3221,6 +3435,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Burning Hands](srd_spells_burning_hands.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Invocation
@@ -3236,6 +3451,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Magnificent Mansion](srd_spells_magnificent_mansion.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Abjuration
@@ -3250,6 +3466,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -3266,6 +3483,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Water Walk](srd_spells_water_walk.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Transmutation
@@ -3281,6 +3499,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Wind Walk](srd_spells_wind_walk.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Divination
@@ -3296,6 +3515,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Hunter's Mark](srd_spells_hunters_mark.md)"
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Nécromancie
@@ -3311,6 +3531,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Eyebite](srd_spells_eyebite.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Transmutation
@@ -3326,6 +3547,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Message](srd_spells_message.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Enchantement
@@ -3342,6 +3564,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Animal Messenger](srd_spells_animal_messenger.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Transmutation
@@ -3357,6 +3580,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Polymorph](srd_spells_polymorph.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Transmutation
@@ -3372,6 +3596,7 @@ SubItems:
   NameLevel: 1
   AltName: '[True Polymorph](srd_spells_true_polymorph.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Illusion
@@ -3387,6 +3612,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mirage Arcane](srd_spells_mirage_arcane.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Enchantement
@@ -3402,6 +3628,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Modify Memory](srd_spells_modify_memory.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -3417,6 +3644,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Alter Self](srd_spells_alter_self.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Illusion
@@ -3433,6 +3661,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Phantom Steed](srd_spells_phantom_steed.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Enchantement
@@ -3448,6 +3677,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Vicious Mockery](srd_spells_vicious_mockery.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -3463,6 +3693,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Healing Word](srd_spells_healing_word.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Évocation
@@ -3478,6 +3709,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mass Healing Word](srd_spells_mass_healing_word.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Enchantement
@@ -3493,6 +3725,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Power Word Stun](srd_spells_power_word_stun.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Enchantement
@@ -3508,6 +3741,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Power Word Kill](srd_spells_power_word_kill.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Invocation
@@ -3523,6 +3757,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Word of Recall](srd_spells_word_of_recall.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Illusion
@@ -3538,6 +3773,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Hypnotic Pattern](srd_spells_hypnotic_pattern.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Invocation
@@ -3553,6 +3789,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Wall of Thorns](srd_spells_wall_of_thorns.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Évocation
@@ -3568,6 +3805,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Wall of Fire](srd_spells_wall_of_fire.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Évocation
@@ -3583,6 +3821,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Wall of Force](srd_spells_wall_of_force.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Évocation
@@ -3598,6 +3837,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Wall of Ice](srd_spells_wall_of_ice.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Évocation
@@ -3613,6 +3853,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Wall of Stone](srd_spells_wall_of_stone.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Évocation
@@ -3628,6 +3869,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Wind Wall](srd_spells_wind_wall.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Abjuration
@@ -3643,6 +3885,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Prismatic Wall](srd_spells_prismatic_wall.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Invocation
@@ -3658,6 +3901,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fog Cloud](srd_spells_fog_cloud.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Abjuration
@@ -3672,6 +3916,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Abjuration
@@ -3687,6 +3932,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Nondetection](srd_spells_nondetection.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Invocation
@@ -3702,6 +3948,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Incendiary Cloud](srd_spells_incendiary_cloud.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Invocation
@@ -3717,6 +3964,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Cloudkill](srd_spells_cloudkill.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Invocation
@@ -3732,6 +3980,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Stinking Cloud](srd_spells_stinking_cloud.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Évocation
@@ -3747,6 +3996,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Meteor Swarm](srd_spells_meteor_swarm.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Invocation
@@ -3761,6 +4011,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Divination
@@ -3776,6 +4027,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Arcane Eye](srd_spells_arcane_eye.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Enchantement
@@ -3790,6 +4042,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Illusion
@@ -3804,6 +4057,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Abjuration
@@ -3818,6 +4072,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Évocation
@@ -3833,6 +4088,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Divine Word](srd_spells_divine_word.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Invocation
@@ -3848,6 +4104,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Misty Step](srd_spells_misty_step.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Invocation
@@ -3862,6 +4119,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Invocation
@@ -3877,6 +4135,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Tree Stride](srd_spells_tree_stride.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Abjuration
@@ -3892,6 +4151,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Pass without Trace](srd_spells_pass_without_trace.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Transmutation
@@ -3907,6 +4167,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Passwall](srd_spells_passwall.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -3922,6 +4183,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Spider Climb](srd_spells_spider_climb.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -3937,6 +4199,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Barkskin](srd_spells_barkskin.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Abjuration
@@ -3952,6 +4215,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Stoneskin](srd_spells_stoneskin.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Évocation
@@ -3968,6 +4232,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Tiny Hut](srd_spells_tiny_hut.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Transmutation
@@ -3983,6 +4248,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Flesh to Stone](srd_spells_flesh_to_stone.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Illusion
@@ -3998,6 +4264,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fear](srd_spells_fear.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Invocation
@@ -4012,6 +4279,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Évocation
@@ -4027,6 +4295,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Shocking Grasp](srd_spells_shocking_grasp.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Invocation
@@ -4041,6 +4310,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Invocation
@@ -4056,6 +4326,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Gate](srd_spells_gate.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Invocation
@@ -4071,6 +4342,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dimension Door](srd_spells_dimension_door.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Abjuration
@@ -4085,6 +4357,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Nécromancie
@@ -4100,6 +4373,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Magic Jar](srd_spells_magic_jar.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Divination
@@ -4115,6 +4389,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Foresight](srd_spells_foresight.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Transmutation
@@ -4130,6 +4405,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Prestidigitation](srd_spells_prestidigitation.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -4145,6 +4421,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Prayer of Healing](srd_spells_prayer_of_healing.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Invocation
@@ -4160,6 +4437,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Produce Flame](srd_spells_produce_flame.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -4175,6 +4453,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Magic Missile](srd_spells_magic_missile.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Invocation
@@ -4189,6 +4468,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Nécromancie
@@ -4204,6 +4484,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Astral Projection](srd_spells_astral_projection.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Abjuration
@@ -4219,6 +4500,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Death Ward](srd_spells_death_ward.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Abjuration
@@ -4234,6 +4516,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Protection from Evil and Good](srd_spells_protection_from_evil_and_good.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Abjuration
@@ -4249,6 +4532,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Protection from Poison](srd_spells_protection_from_poison.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Abjuration
@@ -4264,6 +4548,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Protection from Energy](srd_spells_protection_from_energy.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Abjuration
@@ -4279,6 +4564,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Guards and Wards](srd_spells_guards_and_wards.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Transmutation
@@ -4294,6 +4580,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Purify Food and Drink](srd_spells_purify_food_and_drink.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Nécromancie
@@ -4308,6 +4595,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Nécromancie
@@ -4323,6 +4611,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Raise Dead](srd_spells_raise_dead.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Nécromancie
@@ -4338,6 +4627,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Ray of Enfeeblement](srd_spells_ray_of_enfeeblement.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -4353,6 +4643,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Scorching Ray](srd_spells_scorching_ray.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Évocation
@@ -4368,6 +4659,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Ray of Frost](srd_spells_ray_of_frost.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -4383,6 +4675,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Moonbeam](srd_spells_moonbeam.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Évocation
@@ -4398,6 +4691,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sunbeam](srd_spells_sunbeam.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Transmutation
@@ -4413,6 +4707,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Regenerate](srd_spells_regenerate.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Transmutation
@@ -4428,6 +4723,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Reincarnate](srd_spells_reincarnate.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Transmutation
@@ -4443,6 +4739,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mending](srd_spells_mending.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Transmutation
@@ -4458,6 +4755,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Expeditious Retreat](srd_spells_expeditious_retreat.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -4473,6 +4771,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Hellish Rebuke](srd_spells_hellish_rebuke.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Enchantement
@@ -4488,6 +4787,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Antipathy/Sympathy](srd_spells_antipathysympathy.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Abjuration
@@ -4503,6 +4803,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Resistance](srd_spells_resistance.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -4519,6 +4820,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Water Breathing](srd_spells_water_breathing.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Abjuration
@@ -4534,6 +4836,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lesser Restoration](srd_spells_lesser_restoration.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Abjuration
@@ -4549,6 +4852,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Greater Restoration](srd_spells_greater_restoration.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Nécromancie
@@ -4564,6 +4868,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Resurrection](srd_spells_resurrection.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Nécromancie
@@ -4579,6 +4884,7 @@ SubItems:
   NameLevel: 1
   AltName: '[True Resurrection](srd_spells_true_resurrection.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Illusion
@@ -4594,6 +4900,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dream](srd_spells_dream.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Nécromancie
@@ -4609,6 +4916,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Revivify](srd_spells_revivify.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Évocation
@@ -4624,6 +4932,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Hallow](srd_spells_hallow.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Abjuration
@@ -4639,6 +4948,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sanctuary](srd_spells_sanctuary.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Abjuration
@@ -4654,6 +4964,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Private Sanctum](srd_spells_private_sanctum.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Nécromancie
@@ -4668,6 +4979,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Transmutation
@@ -4683,6 +4995,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Jump](srd_spells_jump.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Divination
@@ -4698,6 +5011,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Scrying](srd_spells_scrying.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Transmutation
@@ -4713,6 +5027,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sequester](srd_spells_sequester.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Invocation
@@ -4729,6 +5044,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Unseen Servant](srd_spells_unseen_servant.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Illusion
@@ -4745,6 +5061,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Silence](srd_spells_silence.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Illusion
@@ -4760,6 +5077,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Simulacrum](srd_spells_simulacrum.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Nécromancie
@@ -4775,6 +5093,7 @@ SubItems:
   NameLevel: 1
   AltName: '[False Life](srd_spells_false_life.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -4790,6 +5109,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Cure Wounds](srd_spells_cure_wounds.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Évocation
@@ -4805,6 +5125,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mass Cure Wounds](srd_spells_mass_cure_wounds.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Enchantement
@@ -4820,6 +5141,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sleep](srd_spells_sleep.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Invocation
@@ -4835,6 +5157,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Wish](srd_spells_wish.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Invocation
@@ -4850,6 +5173,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Flaming Sphere](srd_spells_flaming_sphere.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Évocation
@@ -4865,6 +5189,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Freezing Sphere](srd_spells_freezing_sphere.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Évocation
@@ -4880,6 +5205,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Resilient Sphere](srd_spells_resilient_sphere.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Invocation
@@ -4894,6 +5220,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Invocation
@@ -4908,6 +5235,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Enchantement
@@ -4923,6 +5251,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Suggestion](srd_spells_suggestion.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Enchantement
@@ -4938,6 +5267,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mass Suggestion](srd_spells_mass_suggestion.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Abjuration
@@ -4953,6 +5283,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Symbol](srd_spells_symbol.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Transmutation
@@ -4968,6 +5299,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Telekinesis](srd_spells_telekinesis.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Invocation
@@ -4983,6 +5315,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Teleport](srd_spells_teleport.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 7
   Type: Évocation
@@ -4998,6 +5331,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fire Storm](srd_spells_fire_storm.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Évocation
@@ -5013,6 +5347,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Ice Storm](srd_spells_ice_storm.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Invocation
@@ -5028,6 +5363,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sleet Storm](srd_spells_sleet_storm.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Invocation
@@ -5042,6 +5378,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 9
   Type: Invocation
@@ -5057,6 +5394,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Storm of Vengeance](srd_spells_storm_of_vengeance.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Évocation
@@ -5072,6 +5410,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Darkness](srd_spells_darkness.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Invocation
@@ -5087,6 +5426,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Black Tentacles](srd_spells_black_tentacles.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 4
   Type: Illusion
@@ -5102,6 +5442,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Hallucinatory Terrain](srd_spells_hallucinatory_terrain.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Illusion
@@ -5118,6 +5459,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Illusory Script](srd_spells_illusory_script.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Transmutation
@@ -5133,6 +5475,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Thaumaturgy](srd_spells_thaumaturgy.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Invocation
@@ -5148,6 +5491,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Web](srd_spells_web.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Évocation
@@ -5163,6 +5507,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fire Bolt](srd_spells_fire_bolt.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Invocation
@@ -5177,6 +5522,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Invocation
@@ -5192,6 +5538,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Transport via Plants](srd_spells_transport_via_plants.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 8
   Type: Évocation
@@ -5207,6 +5554,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Earthquake](srd_spells_earthquake.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 5
   Type: Illusion
@@ -5222,6 +5570,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mislead](srd_spells_mislead.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Divination
@@ -5237,6 +5586,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Find Traps](srd_spells_find_traps.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Divination
@@ -5252,6 +5602,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Find the Path](srd_spells_find_the_path.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Invocation
@@ -5267,6 +5618,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Find Steed](srd_spells_find_steed.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 1
   Type: Évocation
@@ -5282,6 +5634,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Thunderwave](srd_spells_thunderwave.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Abjuration
@@ -5297,6 +5650,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Arcane Lock](srd_spells_arcane_lock.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: tour de magie
   Type: Divination
@@ -5312,6 +5666,7 @@ SubItems:
   NameLevel: 1
   AltName: '[True Strike](srd_spells_true_strike.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Transmutation
@@ -5327,6 +5682,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Darkvision](srd_spells_darkvision.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 6
   Type: Divination
@@ -5342,6 +5698,7 @@ SubItems:
   NameLevel: 1
   AltName: '[True Seeing](srd_spells_true_seeing.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Évocation
@@ -5356,6 +5713,7 @@ SubItems:
   ParentName: Sorts
   NameLevel: 1
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Divination
@@ -5371,6 +5729,7 @@ SubItems:
   NameLevel: 1
   AltName: '[See Invisibility](srd_spells_see_invisibility.md)'
   Source: (MDR p)
+  Attributes: {}
 - !SpellHD
   Level: 3
   Type: Transmutation
@@ -5386,6 +5745,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fly](srd_spells_fly.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 - !SpellHD
   Level: 2
   Type: Enchantement
@@ -5401,6 +5761,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Zone of Truth](srd_spells_zone_of_truth.md)'
   Source: (MDR p)(SRD)
+  Attributes: {}
 Id: spells_hd.md#sorts
 RootId: spells_hd.md
 ParentLink: index.md
@@ -5408,6 +5769,7 @@ Name: Sorts
 ParentName: Manuel des règles
 NameLevel: 1
 AltName: '[Spells](srd_spells.md)'
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

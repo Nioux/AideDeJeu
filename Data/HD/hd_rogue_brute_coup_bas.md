@@ -5,6 +5,7 @@ ParentLink: rogue_brute_hd.md#brute
 Name: Coup bas
 ParentName: Brute
 NameLevel: 2
+Attributes: {}
 ---
 > [Brute](hd_rogue_brute.md)
 

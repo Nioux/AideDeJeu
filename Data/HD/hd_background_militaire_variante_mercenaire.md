@@ -1,12 +1,16 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Athlétisme, Supercherie.
+MasteredTools: Véhicules (terrestres), un type de jeu au choix.
+Equipment: Habits courants, paquet de cartes ou dés, objet de valeur récupéré sur un champ de bataille ou lors d'un siège, pierre à affûter, outre de vin, bourse contenant 15 po.
 Id: background_militaire_hd.md#variante--mercenaire
 ParentLink: background_militaire_hd.md#militaire
 Name: 'Variante : Mercenaire'
 ParentName: Militaire
 NameLevel: 3
+Attributes: {}
 ---
-> [Militaire](background_militaire_hd.md#militaire)
+> [Militaire](hd_background_militaire.md)
 
 ---
 

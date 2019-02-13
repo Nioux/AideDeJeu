@@ -8,6 +8,7 @@ ParentName: Nain
 NameLevel: 2
 AltName: Hill Dwarf (SRD p3)
 Source: (MDR p57)
+Attributes: {}
 ---
 > [Nain](hd_dwarf.md)
 

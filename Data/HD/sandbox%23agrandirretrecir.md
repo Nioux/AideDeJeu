@@ -13,6 +13,7 @@ Name: Agrandir/rétrécir
 ParentName: Sandbox
 NameLevel: 1
 AltName: '[Enlarge/Reduce](srd_spells_enlargereduce.md)'
+Attributes: {}
 ---
 > [Sandbox](sandbox.md)
 

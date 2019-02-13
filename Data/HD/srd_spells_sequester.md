@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Séquestration](hd_spells_sequestration.md)'
 Source: (SRD p178)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

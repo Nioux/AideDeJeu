@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Knock](srd_spells_knock.md)'
 Source: (MDR p345)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -1,12 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Collège des hérauts
+Source: (MDR p126)
 Id: bard_heralds_hd.md#collège-des-hérauts
 RootId: bard_heralds_hd.md
 ParentLink: bard_hd.md#collèges-bardiques
-Name: Collège des hérauts
 ParentName: Collèges bardiques
 NameLevel: 1
-Source: (MDR p126)
+Attributes: {}
 ---
 >  [Collèges bardiques](hd_bard_colleges_bardiques.md)
 

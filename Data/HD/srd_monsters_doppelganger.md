@@ -23,6 +23,7 @@ Name: Doppelganger
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Doppleganger](hd_monsters_doppleganger.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

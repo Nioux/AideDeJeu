@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Clone](hd_spells_clone.md)'
 Source: (SRD p125)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

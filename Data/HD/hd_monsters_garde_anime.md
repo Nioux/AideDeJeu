@@ -23,6 +23,7 @@ Name: Garde animé
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Shield Guardian](srd_monsters_shield_guardian.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

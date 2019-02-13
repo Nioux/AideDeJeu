@@ -1,11 +1,16 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Athlétisme, Survie.
+MasteredTools: Véhicules (terrestres).
+MasteredLanguages: Une langue au choix.
+Equipment: Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15 m), bourse contenant 15 po.
 Id: background_explorateur_hd.md#explorateur
 RootId: background_explorateur_hd.md
 ParentLink: backgrounds_hd.md
 Name: Explorateur
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

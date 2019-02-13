@@ -23,6 +23,7 @@ Name: Géant des nuages
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cloud Giant](srd_monsters_cloud_giant.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

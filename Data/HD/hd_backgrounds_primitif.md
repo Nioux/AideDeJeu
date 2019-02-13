@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#primitif
 ParentLink: backgrounds_hd.md#historique
 Name: Primitif
 ParentName: Historique
+Attributes: {}
 ---
 
 

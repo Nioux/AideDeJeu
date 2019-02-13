@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Longstrider](srd_spells_longstrider.md)'
 Source: (MDR p360)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

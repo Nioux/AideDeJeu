@@ -5,6 +5,7 @@ ParentLink: sorcerer_hd.md#ensorceleur
 Name: Sort distant
 ParentName: Ensorceleur
 NameLevel: 2
+Attributes: {}
 ---
 > [Ensorceleur](hd_sorcerer.md)
 

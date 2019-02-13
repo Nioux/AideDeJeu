@@ -22,6 +22,7 @@ Name: Violet Fungus
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Moisissure violette](hd_monsters_moisissure_violette.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

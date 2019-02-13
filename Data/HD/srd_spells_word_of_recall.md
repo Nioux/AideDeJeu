@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Mot de retour](hd_spells_mot_de_retour.md)'
 Source: (SRD p193)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

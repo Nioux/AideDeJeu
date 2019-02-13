@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#miséreux
 ParentLink: backgrounds_hd.md#historique
 Name: Miséreux
 ParentName: Historique
+Attributes: {}
 ---
 
 

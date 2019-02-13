@@ -24,6 +24,7 @@ Name: Jeune dragon noir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Black Dragon](srd_monsters_young_black_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

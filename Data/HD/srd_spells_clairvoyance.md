@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Clairvoyance](hd_spells_clairvoyance.md)'
 Source: (SRD p124)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

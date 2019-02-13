@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Protection contre la mort](hd_spells_protection_contre_la_mort.md)'
 Source: (SRD p133)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

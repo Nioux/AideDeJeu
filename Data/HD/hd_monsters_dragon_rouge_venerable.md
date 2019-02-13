@@ -24,6 +24,7 @@ Name: Dragon rouge vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

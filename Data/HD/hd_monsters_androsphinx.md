@@ -25,6 +25,7 @@ Name: Androsphinx
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Androsphinx](srd_monsters_androsphinx.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

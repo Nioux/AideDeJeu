@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Hideous Laughter](srd_spells_hideous_laughter.md)'
 Source: (MDR p357)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

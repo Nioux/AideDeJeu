@@ -25,6 +25,7 @@ Name: Balor
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Balor](srd_monsters_balor.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

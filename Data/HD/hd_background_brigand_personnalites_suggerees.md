@@ -5,6 +5,7 @@ ParentLink: background_brigand_hd.md#brigand
 Name: Personnalités suggérées
 ParentName: Brigand
 NameLevel: 4
+Attributes: {}
 ---
 > [Brigand](hd_background_brigand.md)
 

@@ -22,6 +22,7 @@ Name: Duergar
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Duergar](srd_monsters_duergar.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

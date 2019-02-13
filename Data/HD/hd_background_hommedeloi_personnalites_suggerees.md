@@ -5,6 +5,7 @@ ParentLink: background_hommedeloi_hd.md#homme-de-loi
 Name: Personnalités suggérées
 ParentName: Homme de loi
 NameLevel: 4
+Attributes: {}
 ---
 > [Homme de loi](hd_background_hommedeloi.md)
 

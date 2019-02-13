@@ -5,6 +5,7 @@ ParentLink: fighter_swordsman_hd.md#bretteur
 Name: Frappe chirurgicale
 ParentName: Bretteur
 NameLevel: 2
+Attributes: {}
 ---
 > [Bretteur](hd_fighter_swordsman.md)
 

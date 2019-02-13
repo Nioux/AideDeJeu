@@ -7,6 +7,7 @@ ParentName: Conditions
 NameLevel: 1
 AltName: '[Assourdi](hd_conditions_assourdi.md)'
 Source: (SRD p358)
+Attributes: {}
 ---
 > [Conditions](srd_conditions.md)
 

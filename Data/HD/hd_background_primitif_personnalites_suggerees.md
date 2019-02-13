@@ -5,6 +5,7 @@ ParentLink: background_primitif_hd.md#primitif
 Name: Personnalités suggérées
 ParentName: Primitif
 NameLevel: 4
+Attributes: {}
 ---
 > [Primitif](hd_background_primitif.md)
 

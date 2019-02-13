@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Frappe lumineuse](hd_spells_frappe_lumineuse.md)'
 Source: (SRD p123)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

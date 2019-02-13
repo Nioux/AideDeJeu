@@ -21,6 +21,7 @@ Name: Chauve-souris géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Bat](srd_monsters_giant_bat.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

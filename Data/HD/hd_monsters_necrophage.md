@@ -25,6 +25,7 @@ Name: Nécrophage
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wight](srd_monsters_wight.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

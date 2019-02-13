@@ -8,6 +8,7 @@ ParentName: Manuel des joueurs
 NameLevel: 1
 AltName: Beyond 1st Level (SRD p56)
 Source: (MDR p32)
+Attributes: {}
 ---
 >  [Manuel des joueurs](index.md)
 

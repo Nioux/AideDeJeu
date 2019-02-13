@@ -23,6 +23,7 @@ Name: Gladiateur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gladiator](srd_monsters_gladiator.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

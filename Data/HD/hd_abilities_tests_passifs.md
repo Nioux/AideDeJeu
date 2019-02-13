@@ -5,6 +5,7 @@ ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: Tests passifs
 ParentName: Utiliser les caractéristiques
 NameLevel: 2
+Attributes: {}
 ---
 > [Utiliser les caractéristiques](hd_abilities.md)
 

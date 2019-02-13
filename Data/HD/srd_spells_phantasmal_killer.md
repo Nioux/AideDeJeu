@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Assassin imaginaire](hd_spells_assassin_imaginaire.md)'
 Source: (SRD p167)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

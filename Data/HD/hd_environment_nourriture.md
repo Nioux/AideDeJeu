@@ -5,6 +5,7 @@ ParentLink: environment_hd.md#l’environnement
 Name: Nourriture
 ParentName: L’environnement
 NameLevel: 2
+Attributes: {}
 ---
 > [L’environnement](hd_environment.md)
 

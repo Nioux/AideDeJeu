@@ -24,6 +24,7 @@ Name: Brass Dragon Wyrmling
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)"
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

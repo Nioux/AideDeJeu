@@ -6,6 +6,7 @@ Name: Les divinités d’Osgild
 ParentName: Panthéons historiques et fantastiques
 NameLevel: 4
 Source: (MDR p416)
+Attributes: {}
 ---
 > [Panthéons historiques et fantastiques](hd_pantheons.md)
 

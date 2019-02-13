@@ -7,6 +7,7 @@ ParentName: Armes
 NameLevel: 5
 AltName: Reach (SRD p65)
 Source: (MDR p226)
+Attributes: {}
 ---
 > [Armes](hd_weapons.md)
 

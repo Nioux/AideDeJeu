@@ -26,6 +26,7 @@ Name: Lich
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Liche](hd_monsters_liche.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

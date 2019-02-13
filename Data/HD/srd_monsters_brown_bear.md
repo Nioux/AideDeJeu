@@ -22,6 +22,7 @@ Name: Brown Bear
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ours brun](hd_monsters_ours_brun.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -7,6 +7,7 @@ ParentName: 'Dégâts et guérison '
 NameLevel: 4
 AltName: Death Saving Throws
 Source: (MDR p298)(SRD p98)
+Attributes: {}
 ---
 > [Dégâts et guérison ](hd_damage_healing.md)
 

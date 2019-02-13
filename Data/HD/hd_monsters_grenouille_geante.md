@@ -22,6 +22,7 @@ Name: Grenouille géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Frog](srd_monsters_giant_frog.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -22,6 +22,7 @@ Name: Drider
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Drider](hd_monsters_drider.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

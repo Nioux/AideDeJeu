@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Tempête de grêle](hd_spells_tempete_de_grele.md)'
 Source: (SRD p155)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -24,6 +24,7 @@ Name: Vampire
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Vampire](srd_monsters_vampire.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

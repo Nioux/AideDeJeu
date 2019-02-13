@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_brigand_hd.md#aptitude--signes-de-piste
 ParentLink: background_brigand_hd.md#brigand
 Name: 'Aptitude : Signes de piste'
 ParentName: Brigand
 NameLevel: 4
+Attributes: {}
 ---
 > [Brigand](hd_background_brigand.md)
 

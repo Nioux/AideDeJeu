@@ -5,6 +5,7 @@ ParentLink: bard_hd.md#barde
 Name: Chant reposant
 ParentName: Barde
 NameLevel: 2
+Attributes: {}
 ---
 > [Barde](hd_bard.md)
 

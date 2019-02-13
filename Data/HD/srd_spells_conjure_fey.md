@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Invoquer une fée](hd_spells_invoquer_une_fee.md)'
 Source: (SRD p128)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

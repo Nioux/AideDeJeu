@@ -5,6 +5,7 @@ ParentLink: druid_seasons_hd.md#cercle-des-saisons
 Name: Printemps
 ParentName: Cercle des saisons
 NameLevel: 2
+Attributes: {}
 ---
 > [Cercle des saisons](hd_druid_seasons.md)
 

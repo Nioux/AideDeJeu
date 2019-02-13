@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Sphère résiliente](hd_spells_sphere_resiliente.md)'
 Source: (SRD p175)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

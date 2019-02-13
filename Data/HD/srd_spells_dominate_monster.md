@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Dominer un monstre](hd_spells_dominer_un_monstre.md)'
 Source: (SRD p137)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

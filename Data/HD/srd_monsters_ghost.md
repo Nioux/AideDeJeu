@@ -24,6 +24,7 @@ Name: Ghost
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Fantôme](hd_monsters_fantome.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

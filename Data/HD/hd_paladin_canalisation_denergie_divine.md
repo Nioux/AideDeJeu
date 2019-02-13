@@ -5,6 +5,7 @@ ParentLink: paladin_hd.md#paladin
 Name: Canalisation d'énergie divine
 ParentName: Paladin
 NameLevel: 2
+Attributes: {}
 ---
 > [Paladin](hd_paladin.md)
 

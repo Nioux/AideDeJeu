@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_explorateur_hd.md#aptitude--estimation
 ParentLink: background_explorateur_hd.md#variante--pilleur-de-ruines
 Name: 'Aptitude : Estimation'
 ParentName: 'Variante : Pilleur de ruines'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Pilleur de ruines](hd_background_explorateur_variante_pilleur_de_ruines.md)
 

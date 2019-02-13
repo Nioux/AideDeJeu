@@ -25,6 +25,7 @@ Name: Liche
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lich](srd_monsters_lich.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

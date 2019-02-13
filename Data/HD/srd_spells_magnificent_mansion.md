@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Manoir somptueux](hd_spells_manoir_somptueux.md)'
 Source: (SRD p162)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

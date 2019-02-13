@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Marque du chasseur](hd_spells_marque_du_chasseur.md)'
 Source: (SRD p155)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

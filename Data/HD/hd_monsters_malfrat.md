@@ -22,6 +22,7 @@ Name: Malfrat
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Thug](srd_monsters_thug.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

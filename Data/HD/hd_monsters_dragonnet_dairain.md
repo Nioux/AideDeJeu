@@ -24,6 +24,7 @@ Name: Dragonnet d'airain
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

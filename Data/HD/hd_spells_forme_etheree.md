@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Etherealness](srd_spells_etherealness.md)'
 Source: (MDR p356)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

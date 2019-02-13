@@ -6,6 +6,7 @@ Name: Présence amicale
 ParentName: Barde des cinq royaumes
 NameLevel: 4
 Source: (L5R p56)
+Attributes: {}
 ---
 > [Barde des cinq royaumes](hd_l5r_bard.md)
 

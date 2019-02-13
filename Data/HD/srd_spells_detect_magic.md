@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Détection de la magie](hd_spells_detection_de_la_magie.md)'
 Source: (SRD p134)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

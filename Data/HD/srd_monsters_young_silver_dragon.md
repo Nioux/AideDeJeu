@@ -24,6 +24,7 @@ Name: Young Silver Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)"
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

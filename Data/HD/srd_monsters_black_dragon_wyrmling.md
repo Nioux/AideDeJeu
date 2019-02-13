@@ -24,6 +24,7 @@ Name: Black Dragon Wyrmling
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragonnet noir](hd_monsters_dragonnet_noir.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

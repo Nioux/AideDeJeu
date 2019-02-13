@@ -23,6 +23,7 @@ Name: Tapis étrangleur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Rug of Smothering](srd_monsters_rug_of_smothering.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

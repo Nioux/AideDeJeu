@@ -6,6 +6,7 @@ Name: À terre
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Prone](srd_conditions_prone.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

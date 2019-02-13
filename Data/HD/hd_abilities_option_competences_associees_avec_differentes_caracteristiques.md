@@ -5,6 +5,7 @@ ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: 'Option : compétences associées avec différentes caractéristiques'
 ParentName: Utiliser les caractéristiques
 NameLevel: 3
+Attributes: {}
 ---
 > [Utiliser les caractéristiques](hd_abilities.md)
 

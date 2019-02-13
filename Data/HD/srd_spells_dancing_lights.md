@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Lumières dansantes](hd_spells_lumieres_dansantes.md)'
 Source: (SRD p133)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

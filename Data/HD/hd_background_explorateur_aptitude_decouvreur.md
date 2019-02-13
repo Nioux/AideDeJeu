@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_explorateur_hd.md#aptitude--découvreur
 ParentLink: background_explorateur_hd.md#explorateur
 Name: 'Aptitude : Découvreur'
 ParentName: Explorateur
 NameLevel: 4
+Attributes: {}
 ---
 > [Explorateur](hd_background_explorateur.md)
 

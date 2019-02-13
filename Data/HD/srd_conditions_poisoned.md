@@ -7,6 +7,7 @@ ParentName: Conditions
 NameLevel: 1
 AltName: '[Empoisonné](hd_conditions_empoisonne.md)'
 Source: (SRD p359)
+Attributes: {}
 ---
 > [Conditions](srd_conditions.md)
 

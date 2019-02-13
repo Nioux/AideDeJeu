@@ -1,10 +1,15 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Histoire, Perspicacité ou Persuasion.
+MasteredTools: Un instrument de musique au choix, un ensemble d'outils d'artisan au choix parmi matériel d'alchimiste, outils de cartographe, matériel de peintre et outils de tisserand.
+MasteredLanguages: Chaque outil peut être remplacé par une langue au choix.
+Equipment: Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse contenant 20 po.
 Id: background_sangbleu_hd.md#variante--noblesse-de-robe
 ParentLink: background_sangbleu_hd.md#sang-bleu
 Name: 'Variante : Noblesse de robe'
 ParentName: Sang bleu
 NameLevel: 3
+Attributes: {}
 ---
 > [Sang bleu](hd_background_sangbleu.md)
 

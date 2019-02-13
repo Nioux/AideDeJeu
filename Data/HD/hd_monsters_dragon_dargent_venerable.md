@@ -24,6 +24,7 @@ Name: Dragon d'argent vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

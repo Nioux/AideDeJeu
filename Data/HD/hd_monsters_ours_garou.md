@@ -23,6 +23,7 @@ Name: Ours-garou
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Werebear](srd_monsters_werebear.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

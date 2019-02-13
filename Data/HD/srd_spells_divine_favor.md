@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Faveur divine](hd_spells_faveur_divine.md)'
 Source: (SRD p136)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

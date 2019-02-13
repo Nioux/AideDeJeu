@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Protection contre les énergies](hd_spells_protection_contre_les_energies.md)'
 Source: (SRD p173)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

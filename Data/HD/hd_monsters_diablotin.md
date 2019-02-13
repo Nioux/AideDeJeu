@@ -25,6 +25,7 @@ Name: Diablotin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Imp](srd_monsters_imp.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

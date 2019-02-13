@@ -8,6 +8,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Lanterne à capote
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

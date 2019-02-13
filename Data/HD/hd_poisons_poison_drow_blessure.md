@@ -5,6 +5,7 @@ ParentLink: poisons_hd.md#les-poisons
 Name: Poison drow (blessure)
 ParentName: Les poisons
 NameLevel: 4
+Attributes: {}
 ---
 > [Les poisons](hd_poisons.md)
 

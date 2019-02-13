@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 2
 AltName: Underwater Combat (SRD p99)
 Source: (MDR p295)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

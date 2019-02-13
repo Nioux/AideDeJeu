@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Delayed Blast Fireball](srd_spells_delayed_blast_fireball.md)'
 Source: (MDR p329)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

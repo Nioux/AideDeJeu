@@ -24,6 +24,7 @@ Name: Guenaude nocturne
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Night Hag](srd_monsters_night_hag.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

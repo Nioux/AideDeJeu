@@ -21,6 +21,7 @@ Name: Riding Horse
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Cheval de selle](hd_monsters_cheval_de_selle.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

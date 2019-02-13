@@ -5,6 +5,7 @@ ParentLink: cleric_priest_hd.md#prêtre
 Name: Liste des domaines
 ParentName: Prêtre
 NameLevel: 2
+Attributes: {}
 ---
 > [Prêtre](hd_cleric_priest.md)
 

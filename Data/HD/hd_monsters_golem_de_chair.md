@@ -23,6 +23,7 @@ Name: Golem de chair
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Flesh Golem](srd_monsters_flesh_golem.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

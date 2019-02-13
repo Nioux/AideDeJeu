@@ -22,6 +22,7 @@ Name: Cube gélatineux
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

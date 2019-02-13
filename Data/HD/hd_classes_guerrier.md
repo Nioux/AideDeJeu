@@ -7,6 +7,7 @@ ParentLink: classes_hd.md#classes
 Name: Guerrier
 ParentName: Classes
 AltName: '[Fighter](#)'
+Attributes: {}
 ---
 
 

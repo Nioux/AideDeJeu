@@ -5,6 +5,7 @@ ParentLink: bard_hd.md#barde
 Name: Source d'inspiration
 ParentName: Barde
 NameLevel: 2
+Attributes: {}
 ---
 > [Barde](hd_bard.md)
 

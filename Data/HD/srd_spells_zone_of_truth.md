@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Zone de vérité](hd_spells_zone_de_verite.md)'
 Source: (SRD p193)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

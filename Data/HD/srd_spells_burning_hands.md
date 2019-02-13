@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Mains brûlantes](hd_spells_mains_brulantes.md)'
 Source: (SRD p123)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

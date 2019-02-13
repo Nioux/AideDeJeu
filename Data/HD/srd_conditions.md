@@ -8,6 +8,7 @@ ParentName: SRD
 NameLevel: 1
 AltName: '[États spéciaux](hd_conditions.md)'
 Source: (SRD p358)
+Attributes: {}
 ---
 >  [SRD](index.md)
 

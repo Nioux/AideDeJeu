@@ -25,6 +25,7 @@ Name: Planétar
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Planetar](srd_monsters_planetar.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

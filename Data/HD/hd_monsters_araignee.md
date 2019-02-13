@@ -22,6 +22,7 @@ Name: Araignée
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Spider](srd_monsters_spider.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

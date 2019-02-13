@@ -25,6 +25,7 @@ Name: Shambling Mound
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Tertre errant](hd_monsters_tertre_errant.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

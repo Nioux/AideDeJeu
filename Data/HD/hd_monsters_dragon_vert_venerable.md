@@ -25,6 +25,7 @@ Name: Dragon vert vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

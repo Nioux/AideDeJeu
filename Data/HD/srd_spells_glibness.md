@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Bagou](hd_spells_bagou.md)'
 Source: (SRD p149)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

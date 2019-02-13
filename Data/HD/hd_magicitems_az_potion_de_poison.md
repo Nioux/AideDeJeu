@@ -9,6 +9,7 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Potion of Poison (SRD p234)
 Source: (COC p178)
+Attributes: {}
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)
 

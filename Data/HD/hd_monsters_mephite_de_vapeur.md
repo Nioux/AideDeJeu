@@ -23,6 +23,7 @@ Name: Méphite de vapeur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Steam Mephit](srd_monsters_steam_mephit.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

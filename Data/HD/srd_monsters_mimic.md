@@ -24,6 +24,7 @@ Name: Mimic
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Mimique](hd_monsters_mimique.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

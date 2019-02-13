@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Arrêt du temps](hd_spells_arret_du_temps.md)'
 Source: (SRD p187)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -21,6 +21,7 @@ Name: Crapaud géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Toad](srd_monsters_giant_toad.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

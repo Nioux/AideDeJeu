@@ -6,6 +6,7 @@ Name: Aveuglé
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Blinded](srd_conditions_blinded.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

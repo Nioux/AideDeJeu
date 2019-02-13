@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Image projetée](hd_spells_image_projetee.md)'
 Source: (SRD p172)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

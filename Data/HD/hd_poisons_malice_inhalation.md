@@ -5,6 +5,7 @@ ParentLink: poisons_hd.md#les-poisons
 Name: Malice (inhalation)
 ParentName: Les poisons
 NameLevel: 4
+Attributes: {}
 ---
 > [Les poisons](hd_poisons.md)
 

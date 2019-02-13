@@ -6,6 +6,7 @@ Id: l5r_index_hd.md#rôdeur-des-cinq-royaumes
 ParentLink: l5r_index_hd.md#les-cinq-royaumes--les-règles-spécifiques
 Name: Rôdeur des Cinq Royaumes
 ParentName: 'Les Cinq Royaumes : Les règles spécifiques'
+Attributes: {}
 ---
 
 

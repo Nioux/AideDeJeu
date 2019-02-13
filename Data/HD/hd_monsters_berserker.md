@@ -21,6 +21,7 @@ Name: Berserker
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Berserker](srd_monsters_berserker.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

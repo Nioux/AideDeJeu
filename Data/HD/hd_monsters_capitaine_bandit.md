@@ -23,6 +23,7 @@ Name: Capitaine bandit
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bandit Captain](srd_monsters_bandit_captain.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

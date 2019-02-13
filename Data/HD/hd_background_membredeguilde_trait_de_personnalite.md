@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityTraitItem
 Id: background_membredeguilde_hd.md#trait-de-personnalité
 ParentLink: background_membredeguilde_hd.md#personnalités-suggérées
 Name: Trait de personnalité
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_membredeguilde_personnalites_suggerees.md)
 

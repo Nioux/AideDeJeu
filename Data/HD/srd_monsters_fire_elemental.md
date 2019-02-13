@@ -24,6 +24,7 @@ Name: Fire Elemental
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Élémentaire du feu](hd_monsters_elementaire_du_feu.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

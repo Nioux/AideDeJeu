@@ -21,6 +21,7 @@ Name: Warhorse
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Cheval de guerre](hd_monsters_cheval_de_guerre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

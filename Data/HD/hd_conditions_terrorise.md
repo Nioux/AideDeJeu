@@ -6,6 +6,7 @@ Name: Terrorisé
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Frightened](srd_conditions_frightened.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

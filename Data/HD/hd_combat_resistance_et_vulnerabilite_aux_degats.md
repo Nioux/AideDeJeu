@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Damage Resistance and Vulnerability (SRD p97)
 Source: (MDR p294)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

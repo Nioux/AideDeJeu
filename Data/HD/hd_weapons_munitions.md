@@ -7,6 +7,7 @@ ParentName: Armes
 NameLevel: 5
 AltName: Ammunition (SRD p64)
 Source: (MDR p227)
+Attributes: {}
 ---
 > [Armes](hd_weapons.md)
 

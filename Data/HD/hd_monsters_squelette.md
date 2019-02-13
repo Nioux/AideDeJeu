@@ -24,6 +24,7 @@ Name: Squelette
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Skeleton](srd_monsters_skeleton.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

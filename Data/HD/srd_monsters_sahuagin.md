@@ -22,6 +22,7 @@ Name: Sahuagin
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Sahuagin](hd_monsters_sahuagin.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

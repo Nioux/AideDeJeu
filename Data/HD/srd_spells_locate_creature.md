@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Localiser une créature](hd_spells_localiser_une_creature.md)'
 Source: (SRD p159)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

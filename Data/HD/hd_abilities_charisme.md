@@ -6,6 +6,7 @@ Id: abilities_hd.md#charisme
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: Charisme
 ParentName: Utiliser les caractéristiques
+Attributes: {}
 ---
 
 

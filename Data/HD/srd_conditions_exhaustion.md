@@ -7,6 +7,7 @@ ParentName: Conditions
 NameLevel: 1
 AltName: '[Fatigue et épuisement](hd_conditions_fatigue_et_epuisement.md)'
 Source: (SRD p358)
+Attributes: {}
 ---
 > [Conditions](srd_conditions.md)
 

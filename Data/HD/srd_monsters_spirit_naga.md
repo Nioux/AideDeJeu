@@ -24,6 +24,7 @@ Name: Spirit Naga
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Naga corrupteur](hd_monsters_naga_corrupteur.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

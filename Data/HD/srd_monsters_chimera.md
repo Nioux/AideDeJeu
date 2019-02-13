@@ -22,6 +22,7 @@ Name: Chimera
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Chimère](hd_monsters_chimere.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -22,6 +22,7 @@ Name: Crocodile géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Crocodile](srd_monsters_giant_crocodile.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityTraitItem
 Id: background_hommedeloi_hd.md#trait-de-personnalité
 ParentLink: background_hommedeloi_hd.md#personnalités-suggérées
 Name: Trait de personnalité
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_hommedeloi_personnalites_suggerees.md)
 

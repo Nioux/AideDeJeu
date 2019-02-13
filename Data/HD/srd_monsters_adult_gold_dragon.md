@@ -24,6 +24,7 @@ Name: Adult Gold Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)"
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

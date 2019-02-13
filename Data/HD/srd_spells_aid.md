@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Aide](hd_spells_aide.md)'
 Source: (SRD p114)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

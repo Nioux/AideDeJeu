@@ -5,6 +5,7 @@ ParentLink: multiclassing_hd.md#multiclassage
 Name: "Incantation multiclasse : nombre d'emplacements de sorts par niveau de sort"
 ParentName: Multiclassage
 NameLevel: 3
+Attributes: {}
 ---
 > [Multiclassage](hd_multiclassing.md)
 

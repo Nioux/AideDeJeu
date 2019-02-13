@@ -21,6 +21,7 @@ Name: Manticore
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Manticore](srd_monsters_manticore.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

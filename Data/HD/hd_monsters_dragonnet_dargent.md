@@ -24,6 +24,7 @@ Name: Dragonnet d'argent
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

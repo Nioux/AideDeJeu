@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Acid Arrow](srd_spells_acid_arrow.md)'
 Source: (MDR p356)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

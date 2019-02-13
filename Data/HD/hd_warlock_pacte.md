@@ -6,6 +6,7 @@ Id: warlock_hd.md#pacte
 ParentLink: warlock_hd.md#sorcier
 Name: Pacte
 ParentName: Sorcier
+Attributes: {}
 ---
 
 

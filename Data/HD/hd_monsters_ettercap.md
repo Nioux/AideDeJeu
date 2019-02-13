@@ -22,6 +22,7 @@ Name: Ettercap
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ettercap](srd_monsters_ettercap.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

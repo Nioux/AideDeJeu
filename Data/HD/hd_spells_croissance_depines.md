@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Spike Growth](srd_spells_spike_growth.md)'
 Source: (MDR p344)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

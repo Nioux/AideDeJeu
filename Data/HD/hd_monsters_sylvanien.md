@@ -23,6 +23,7 @@ Name: Sylvanien
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Treant](srd_monsters_treant.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -6,6 +6,7 @@ Id: personnality_background_hd.md#alignement
 ParentLink: personnality_background_hd.md#personnalité-et-historique
 Name: Alignement
 ParentName: Personnalité et Historique
+Attributes: {}
 ---
 
 

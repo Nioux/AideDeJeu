@@ -5,6 +5,7 @@ ParentLink: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
 Name: Liste de sorts étendue
 ParentName: L'entité extra-dimensionnelle
 NameLevel: 2
+Attributes: {}
 ---
 > [L'entité extra-dimensionnelle](hd_warlock_extradimensional.md)
 

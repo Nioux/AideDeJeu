@@ -5,6 +5,7 @@ ParentLink: barbarian_hd.md#barbare
 Name: Équipement
 ParentName: Barbare
 NameLevel: 2
+Attributes: {}
 ---
 > [Barbare](hd_barbarian.md)
 

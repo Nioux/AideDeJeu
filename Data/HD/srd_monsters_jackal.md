@@ -22,6 +22,7 @@ Name: Jackal
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Chacal](hd_monsters_chacal.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

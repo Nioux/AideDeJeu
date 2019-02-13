@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 2
 AltName: Movement and Position (SRD p91)
 Source: (MDR p286)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

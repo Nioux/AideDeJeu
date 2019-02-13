@@ -5,6 +5,7 @@ ParentLink: abilities_dexterity_hd.md#dextérité
 Name: Jets d'attaque et de dégâts
 ParentName: Dextérité
 NameLevel: 2
+Attributes: {}
 ---
 > [Dextérité](hd_abilities_dexterity.md)
 

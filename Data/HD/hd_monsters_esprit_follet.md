@@ -22,6 +22,7 @@ Name: Esprit follet
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Sprite](srd_monsters_sprite.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

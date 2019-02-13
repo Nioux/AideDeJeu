@@ -5,6 +5,7 @@ ParentLink: rogue_hd.md#roublard
 Name: Talent
 ParentName: Roublard
 NameLevel: 2
+Attributes: {}
 ---
 > [Roublard](hd_rogue.md)
 

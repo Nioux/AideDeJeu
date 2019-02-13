@@ -25,6 +25,7 @@ Name: Méphite de poussière
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Dust Mephit](srd_monsters_dust_mephit.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

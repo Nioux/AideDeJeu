@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Chien de garde](hd_spells_chien_de_garde.md)'
 Source: (SRD p142)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

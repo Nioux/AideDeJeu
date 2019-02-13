@@ -25,6 +25,7 @@ Name: Érinye
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Erinyes](srd_monsters_erinyes.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

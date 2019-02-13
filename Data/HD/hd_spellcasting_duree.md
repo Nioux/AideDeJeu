@@ -7,6 +7,7 @@ ParentName: Lancer des sorts
 NameLevel: 3
 AltName: Duration (SRD p102)
 Source: (MDR p308)
+Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)
 

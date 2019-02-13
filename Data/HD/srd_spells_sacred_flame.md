@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Flamme sacrée](hd_spells_flamme_sacree.md)'
 Source: (SRD p176)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -24,6 +24,7 @@ Name: Lémure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lemure](srd_monsters_lemure.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

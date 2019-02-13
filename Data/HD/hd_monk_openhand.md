@@ -8,6 +8,7 @@ ParentLink: monk_hd.md#traditions-monacales
 ParentName: Traditions monacales
 NameLevel: 1
 AltName: Way of the Open Hand (SRD p28)
+Attributes: {}
 ---
 >  [Traditions monacales](hd_monk_traditions_monacales.md)
 

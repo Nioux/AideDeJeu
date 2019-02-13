@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Langues](hd_spells_langues.md)'
 Source: (SRD p187)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

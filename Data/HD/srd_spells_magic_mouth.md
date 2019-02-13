@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Bouche magique](hd_spells_bouche_magique.md)'
 Source: (SRD p161)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

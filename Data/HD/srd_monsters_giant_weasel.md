@@ -23,6 +23,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Belette géante](hd_monsters_belette_geante.md)'
 Source: (SRD p381)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -6,6 +6,7 @@ Id: l5r_index_hd.md#aller-encore-plus-loin
 ParentLink: l5r_index_hd.md#les-cinq-royaumes--les-règles-spécifiques
 Name: Aller encore plus loin
 ParentName: 'Les Cinq Royaumes : Les règles spécifiques'
+Attributes: {}
 ---
 
 

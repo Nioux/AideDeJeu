@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Mind Blank](srd_spells_mind_blank.md)'
 Source: (MDR p353)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

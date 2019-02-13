@@ -1,10 +1,14 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Persuasion, Supercherie.
+MasteredTools: Deux au choix parmi un type de jeu, accessoires de faussaire, accessoires de déguisement.
+Equipment: Accessoires de faussaire ou jeu, deux ensembles de d'habits courants, bourse contenant 10 po.
 Id: background_crapule_hd.md#variante--escroc
 ParentLink: background_crapule_hd.md#crapule
 Name: 'Variante : Escroc'
 ParentName: Crapule
 NameLevel: 3
+Attributes: {}
 ---
 > [Crapule](hd_background_crapule.md)
 

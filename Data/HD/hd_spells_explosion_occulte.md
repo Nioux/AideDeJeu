@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Eldritch Blast](srd_spells_eldritch_blast.md)'
 Source: (MDR p354)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

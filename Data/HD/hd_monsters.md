@@ -25,6 +25,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Aboleth](srd_monsters_aboleth.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Aberration
   Size: M
@@ -51,6 +52,7 @@ SubItems:
   Name: Abothid
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -76,6 +78,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wraith](srd_monsters_wraith.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Aberration
   Size: M
@@ -98,6 +101,7 @@ SubItems:
   Name: Amphibe
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Céleste
   Size: M
@@ -124,6 +128,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Deva](srd_monsters_deva.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Céleste
   Size: G
@@ -150,6 +155,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Planetar](srd_monsters_planetar.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Céleste
   Size: G
@@ -177,6 +183,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Solar](srd_monsters_solar.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -199,6 +206,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ankheg](srd_monsters_ankheg.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: M
@@ -224,6 +232,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Azer](srd_monsters_azer.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Aberration
   Size: M
@@ -247,6 +256,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gibbering Mouther](srd_monsters_gibbering_mouther.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -269,6 +279,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Basilisk](srd_monsters_basilisk.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: TG
@@ -293,6 +304,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Behir](srd_monsters_behir.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -316,6 +328,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bulette](srd_monsters_bulette.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -339,6 +352,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Centaur](srd_monsters_centaur.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -363,6 +377,7 @@ SubItems:
   Name: Cerbère
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Plante
   Size: M
@@ -386,6 +401,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Shrieker](srd_monsters_shrieker.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Plante
   Size: M
@@ -409,6 +425,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Violet Fungus](srd_monsters_violet_fungus.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -432,6 +449,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Chimera](srd_monsters_chimera.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Aberration
   Size: G
@@ -457,6 +475,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Chuul](srd_monsters_chuul.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: P
@@ -479,6 +498,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cockatrice](srd_monsters_cockatrice.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Céleste
   Size: M
@@ -504,6 +524,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Couatl](srd_monsters_couatl.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (humain)
   Size: M
@@ -527,6 +548,7 @@ SubItems:
   Name: Vétéran demi-dragon rouge
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (démon)
   Size: TG
@@ -553,6 +575,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Balor](srd_monsters_balor.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (démon)
   Size: P
@@ -578,6 +601,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Dretch](srd_monsters_dretch.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (démon)
   Size: G
@@ -604,6 +628,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (démon)
   Size: G
@@ -630,6 +655,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hezrou](srd_monsters_hezrou.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (démon)
   Size: G
@@ -656,6 +682,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Marilith](srd_monsters_marilith.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (démon)
   Size: G
@@ -682,6 +709,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Nalfeshnee](srd_monsters_nalfeshnee.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (démon, métamorphe)
   Size: TP
@@ -708,6 +736,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Quasit](srd_monsters_quasit.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (démon)
   Size: G
@@ -734,6 +763,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Vrock](srd_monsters_vrock.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon
   Size: G
@@ -757,6 +787,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Nightmare](srd_monsters_nightmare.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Aberration
   Size: G
@@ -780,6 +811,7 @@ SubItems:
   Name: Dévoreur arcanique
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (diable)
   Size: M
@@ -807,6 +839,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Barbed Devil](srd_monsters_barbed_devil.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (diable)
   Size: M
@@ -833,6 +866,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bearded Devil](srd_monsters_bearded_devil.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (diable)
   Size: G
@@ -859,6 +893,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Horned Devil](srd_monsters_horned_devil.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (diable)
   Size: G
@@ -885,6 +920,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ice Devil](srd_monsters_ice_devil.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (diable)
   Size: M
@@ -911,6 +947,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Chain Devil](srd_monsters_chain_devil.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (diable)
   Size: G
@@ -938,6 +975,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (diable, métamorphe)
   Size: TP
@@ -964,6 +1002,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Imp](srd_monsters_imp.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (diable)
   Size: G
@@ -990,6 +1029,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Pit Fiend](srd_monsters_pit_fiend.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (diable)
   Size: M
@@ -1016,6 +1056,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Erinyes](srd_monsters_erinyes.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (diable)
   Size: M
@@ -1041,6 +1082,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lemure](srd_monsters_lemure.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Aberration
   Size: G
@@ -1063,6 +1105,7 @@ SubItems:
   Name: Diaspaad
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -1086,6 +1129,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TG
@@ -1108,6 +1152,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Triceratops](srd_monsters_triceratops.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TG
@@ -1131,6 +1176,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse (métamorphe)
   Size: M
@@ -1155,6 +1201,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Doppelganger](srd_monsters_doppelganger.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -1180,6 +1227,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TG
@@ -1205,6 +1253,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult White Dragon](srd_monsters_adult_white_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -1230,6 +1279,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young White Dragon](srd_monsters_young_white_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: M
@@ -1255,6 +1305,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -1280,6 +1331,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TG
@@ -1305,6 +1357,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -1330,6 +1383,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Blue Dragon](srd_monsters_young_blue_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: M
@@ -1355,6 +1409,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -1380,6 +1435,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TG
@@ -1405,6 +1461,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Black Dragon](srd_monsters_adult_black_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -1430,6 +1487,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Black Dragon](srd_monsters_young_black_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: M
@@ -1455,6 +1513,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -1480,6 +1539,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TG
@@ -1505,6 +1565,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -1530,6 +1591,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Red Dragon](srd_monsters_young_red_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: M
@@ -1555,6 +1617,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -1581,6 +1644,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TG
@@ -1607,6 +1671,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Green Dragon](srd_monsters_adult_green_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -1633,6 +1698,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Green Dragon](srd_monsters_young_green_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: M
@@ -1659,6 +1725,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -1684,6 +1751,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TG
@@ -1709,6 +1777,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -1734,6 +1803,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: M
@@ -1759,6 +1829,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -1784,6 +1855,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TG
@@ -1809,6 +1881,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -1834,6 +1907,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Silver Dragon](srd_monsters_young_silver_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: M
@@ -1859,6 +1933,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -1884,6 +1959,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TG
@@ -1909,6 +1985,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -1934,6 +2011,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: M
@@ -1959,6 +2037,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -1984,6 +2063,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TG
@@ -2009,6 +2089,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -2034,6 +2115,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: M
@@ -2059,6 +2141,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -2084,6 +2167,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TG
@@ -2109,6 +2193,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -2134,6 +2219,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Gold Dragon](srd_monsters_young_gold_dragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: M
@@ -2159,6 +2245,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: Gig
@@ -2183,6 +2270,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Dragon Turtle](srd_monsters_dragon_turtle.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon
   Size: TP
@@ -2207,6 +2295,7 @@ SubItems:
   Name: Dref
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -2230,6 +2319,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Drider](srd_monsters_drider.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (elfe)
   Size: M
@@ -2253,6 +2343,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Drow](srd_monsters_drow.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (elfe)
   Size: M
@@ -2278,6 +2369,7 @@ SubItems:
   Name: Drow, prêtresse
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Fée
   Size: M
@@ -2301,6 +2393,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Dryad](srd_monsters_dryad.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (nain)
   Size: M
@@ -2324,6 +2417,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Duergar](srd_monsters_duergar.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: G
@@ -2349,6 +2443,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Air Elemental](srd_monsters_air_elemental.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: G
@@ -2374,6 +2469,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Water Elemental](srd_monsters_water_elemental.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: G
@@ -2399,6 +2495,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: G
@@ -2425,6 +2522,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Earth Elemental](srd_monsters_earth_elemental.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -2448,6 +2546,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Roper](srd_monsters_roper.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fée
   Size: TP
@@ -2471,6 +2570,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Sprite](srd_monsters_sprite.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -2494,6 +2594,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ettercap](srd_monsters_ettercap.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Géant
   Size: G
@@ -2517,6 +2618,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ettin](srd_monsters_ettin.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -2542,6 +2644,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ghost](srd_monsters_ghost.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: TP
@@ -2567,6 +2670,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: "[Will-o'-Wisp](srd_monsters_will_o_wisp.md)"
+  Attributes: {}
 - !MonsterHD
   Type: Créature artificielle
   Size: G
@@ -2591,6 +2695,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Shield Guardian](srd_monsters_shield_guardian.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: M
@@ -2616,6 +2721,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gargoyle](srd_monsters_gargoyle.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Géant
   Size: TG
@@ -2639,6 +2745,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hill Giant](srd_monsters_hill_giant.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Géant
   Size: TG
@@ -2663,6 +2770,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cloud Giant](srd_monsters_cloud_giant.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Géant
   Size: TG
@@ -2687,6 +2795,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Géant
   Size: TG
@@ -2713,6 +2822,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Géant
   Size: TG
@@ -2738,6 +2848,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Fire Giant](srd_monsters_fire_giant.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Géant
   Size: TG
@@ -2763,6 +2874,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Frost Giant](srd_monsters_frost_giant.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: G
@@ -2787,6 +2899,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Djinni](srd_monsters_djinni.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: G
@@ -2811,6 +2924,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Efreeti](srd_monsters_efreeti.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gnoll)
   Size: M
@@ -2833,6 +2947,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gnoll](srd_monsters_gnoll.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gnoll)
   Size: M
@@ -2854,6 +2969,7 @@ SubItems:
   Name: Gnoll, chef de meute
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gnome)
   Size: P
@@ -2877,6 +2993,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: P
@@ -2900,6 +3017,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Goblin](srd_monsters_goblin.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: P
@@ -2922,6 +3040,7 @@ SubItems:
   Name: Gobelin, chaman
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: P
@@ -2945,6 +3064,7 @@ SubItems:
   Name: Gobelin blanc
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: P
@@ -2968,6 +3088,7 @@ SubItems:
   Name: Chaman gobelin blanc
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: M
@@ -2991,6 +3112,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bugbear](srd_monsters_bugbear.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: M
@@ -3013,6 +3135,7 @@ SubItems:
   Name: Gobelours, chef barbare
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Créature artificielle
   Size: G
@@ -3037,6 +3160,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Clay Golem](srd_monsters_clay_golem.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature artificielle
   Size: M
@@ -3061,6 +3185,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Flesh Golem](srd_monsters_flesh_golem.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature artificielle
   Size: G
@@ -3085,6 +3210,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Iron Golem](srd_monsters_iron_golem.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature artificielle
   Size: G
@@ -3109,6 +3235,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Stone Golem](srd_monsters_stone_golem.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -3133,6 +3260,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gorgon](srd_monsters_gorgon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -3157,6 +3285,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ghoul](srd_monsters_ghoul.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -3182,6 +3311,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ghast](srd_monsters_ghast.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -3205,6 +3335,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Grick](srd_monsters_grick.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -3228,6 +3359,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Griffon](srd_monsters_griffon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fée
   Size: M
@@ -3250,6 +3382,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Sea Hag](srd_monsters_sea_hag.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon
   Size: M
@@ -3275,6 +3408,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Night Hag](srd_monsters_night_hag.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fée
   Size: M
@@ -3298,6 +3432,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Green Hag](srd_monsters_green_hag.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -3320,6 +3455,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Harpy](srd_monsters_harpy.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -3343,6 +3479,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Owlbear](srd_monsters_owlbear.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -3366,6 +3503,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hippogriff](srd_monsters_hippogriff.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: M
@@ -3388,6 +3526,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: M
@@ -3409,6 +3548,7 @@ SubItems:
   Name: Hobgobelin, sergent
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (homme-lézard)
   Size: M
@@ -3432,6 +3572,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lizardfolk](srd_monsters_lizardfolk.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (homme-lézard)
   Size: M
@@ -3454,6 +3595,7 @@ SubItems:
   Name: Homme-lézard, champion
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (homme-poisson)
   Size: M
@@ -3477,6 +3619,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Merfolk](srd_monsters_merfolk.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature artificielle
   Size: TP
@@ -3501,6 +3644,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Homunculus](srd_monsters_homunculus.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: TG
@@ -3524,6 +3668,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hydra](srd_monsters_hydra.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (kobold)
   Size: P
@@ -3546,6 +3691,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Kobold](srd_monsters_kobold.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (kobold)
   Size: P
@@ -3567,6 +3713,7 @@ SubItems:
   Name: Kobold, saigneur
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse (titan)
   Size: Gig
@@ -3592,6 +3739,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Kraken](srd_monsters_kraken.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -3615,6 +3763,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lamia](srd_monsters_lamia.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -3641,6 +3790,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lich](srd_monsters_lich.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Céleste
   Size: G
@@ -3665,6 +3815,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Unicorn](srd_monsters_unicorn.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (humain, métamorphe)
   Size: M
@@ -3689,6 +3840,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Werewolf](srd_monsters_werewolf.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (humain, métamorphe)
   Size: M
@@ -3713,6 +3865,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Werebear](srd_monsters_werebear.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (humain, métamorphe)
   Size: M
@@ -3737,6 +3890,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wererat](srd_monsters_wererat.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (humain, métamorphe)
   Size: M
@@ -3761,6 +3915,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wereboar](srd_monsters_wereboar.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (humain, métamorphe)
   Size: M
@@ -3785,6 +3940,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Weretiger](srd_monsters_weretiger.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: P
@@ -3809,6 +3965,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Magmin](srd_monsters_magmin.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Aberration
   Size: G
@@ -3832,6 +3989,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cloaker](srd_monsters_cloaker.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: P
@@ -3855,6 +4013,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Darkmantle](srd_monsters_darkmantle.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -3877,6 +4036,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Manticore](srd_monsters_manticore.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -3900,6 +4060,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Medusa](srd_monsters_medusa.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: P
@@ -3926,6 +4087,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: P
@@ -3952,6 +4114,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Magma Mephit](srd_monsters_magma_mephit.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: P
@@ -3978,6 +4141,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Dust Mephit](srd_monsters_dust_mephit.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: P
@@ -4002,6 +4166,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Steam Mephit](srd_monsters_steam_mephit.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4024,6 +4189,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Merrow](srd_monsters_merrow.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse (métamorphe)
   Size: M
@@ -4049,6 +4215,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mimic](srd_monsters_mimic.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4072,6 +4239,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Minotaur](srd_monsters_minotaur.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon
   Size: M
@@ -4096,6 +4264,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hell Hound](srd_monsters_hell_hound.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4123,6 +4292,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mummy](srd_monsters_mummy.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4150,6 +4320,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mummy Lord](srd_monsters_mummy_lord.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4175,6 +4346,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Spirit Naga](srd_monsters_spirit_naga.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4200,6 +4372,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Guardian Naga](srd_monsters_guardian_naga.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4226,6 +4399,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wight](srd_monsters_wight.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature artificielle
   Size: M
@@ -4250,6 +4424,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Animated Armor](srd_monsters_animated_armor.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature artificielle
   Size: P
@@ -4275,6 +4450,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Flying Sword](srd_monsters_flying_sword.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature artificielle
   Size: G
@@ -4299,6 +4475,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Rug of Smothering](srd_monsters_rug_of_smothering.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Géant
   Size: G
@@ -4321,6 +4498,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ogre](srd_monsters_ogre.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4348,6 +4526,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Shadow](srd_monsters_shadow.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Géant
   Size: G
@@ -4372,6 +4551,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Oni](srd_monsters_oni.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (orc)
   Size: M
@@ -4394,6 +4574,7 @@ SubItems:
   Name: Orc
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (demi-orc)
   Size: M
@@ -4416,6 +4597,7 @@ SubItems:
   Name: Chaman orc
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Aberration
   Size: G
@@ -4439,6 +4621,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Otyugh](srd_monsters_otyugh.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -4461,6 +4644,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Rust Monster](srd_monsters_rust_monster.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Aberration
   Size: TP
@@ -4485,6 +4669,7 @@ SubItems:
   Name: Parasite arcanique
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Céleste
   Size: G
@@ -4509,6 +4694,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Pegasus](srd_monsters_pegasus.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: TP
@@ -4532,6 +4718,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Pseudodragon](srd_monsters_pseudodragon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon
   Size: M
@@ -4557,6 +4744,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Rakshasa](srd_monsters_rakshasa.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: TG
@@ -4579,6 +4767,7 @@ SubItems:
   Name: Remorhaz
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: Gig
@@ -4603,6 +4792,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Roc](srd_monsters_roc.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (sahuagin)
   Size: M
@@ -4626,6 +4816,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Sahuagin](srd_monsters_sahuagin.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (sahuagin)
   Size: M
@@ -4648,6 +4839,7 @@ SubItems:
   Name: Sahuagin, prêtresse de Mikala
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: G
@@ -4673,6 +4865,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Salamander](srd_monsters_salamander.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fée
   Size: M
@@ -4696,6 +4889,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Satyr](srd_monsters_satyr.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Plante
   Size: TG
@@ -4720,6 +4914,7 @@ SubItems:
   Name: Saule étrangleur
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: Gig
@@ -4742,6 +4937,7 @@ SubItems:
   Name: Serpent de mer
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4767,6 +4963,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Specter](srd_monsters_specter.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4793,6 +4990,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Androsphinx](srd_monsters_androsphinx.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4819,6 +5017,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gynosphinx](srd_monsters_gynosphinx.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4844,6 +5043,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Skeleton](srd_monsters_skeleton.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: G
@@ -4869,6 +5069,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: G
@@ -4894,6 +5095,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -4916,6 +5118,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Stirge](srd_monsters_stirge.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fiélon (métamorphe)
   Size: M
@@ -4940,6 +5143,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Succubus](srd_monsters_succubus.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Plante
   Size: TG
@@ -4964,6 +5168,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Treant](srd_monsters_treant.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse (titan)
   Size: Gig
@@ -4989,6 +5194,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Tarrasque](srd_monsters_tarrasque.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -5012,6 +5218,7 @@ SubItems:
   Name: Terreur des roches
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -5035,6 +5242,7 @@ SubItems:
   Name: Larve des roches
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Plante
   Size: G
@@ -5061,6 +5269,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Shambling Mound](srd_monsters_shambling_mound.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (torve)
   Size: M
@@ -5085,6 +5294,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Grimlock](srd_monsters_grimlock.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: M
@@ -5110,6 +5320,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Invisible Stalker](srd_monsters_invisible_stalker.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Géant
   Size: G
@@ -5133,6 +5344,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Troll](srd_monsters_troll.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant (métamorphe)
   Size: M
@@ -5158,6 +5370,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Vampire](srd_monsters_vampire.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -5183,6 +5396,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Vampire Spawn](srd_monsters_vampire_spawn.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Vase
   Size: G
@@ -5206,6 +5420,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Vase
   Size: G
@@ -5231,6 +5446,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ochre Jelly](srd_monsters_ochre_jelly.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Vase
   Size: G
@@ -5255,6 +5471,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Black Pudding](srd_monsters_black_pudding.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Vase
   Size: M
@@ -5280,6 +5497,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gray Ooze](srd_monsters_gray_ooze.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: Gig
@@ -5303,6 +5521,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Purple Worm](srd_monsters_purple_worm.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Dragon
   Size: G
@@ -5326,6 +5545,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wyvern](srd_monsters_wyvern.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Élémentaire
   Size: M
@@ -5350,6 +5570,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Xorn](srd_monsters_xorn.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: M
@@ -5375,6 +5596,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Zombie](srd_monsters_zombie.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Mort-vivant
   Size: G
@@ -5400,6 +5622,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ogre Zombie](srd_monsters_ogre_zombie.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: P
@@ -5423,6 +5646,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Eagle](srd_monsters_eagle.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5446,6 +5670,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Eagle](srd_monsters_giant_eagle.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -5469,6 +5694,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Spider](srd_monsters_spider.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5492,6 +5718,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5515,6 +5742,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -5538,6 +5766,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Plante
   Size: TG
@@ -5562,6 +5791,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Awakened Tree](srd_monsters_awakened_tree.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Plante
   Size: P
@@ -5586,6 +5816,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Awakened Shrub](srd_monsters_awakened_shrub.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: P
@@ -5608,6 +5839,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Baboon](srd_monsters_baboon.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5630,6 +5862,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Axe Beak](srd_monsters_axe_beak.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -5653,6 +5886,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Weasel](srd_monsters_weasel.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -5676,6 +5910,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Weasel](srd_monsters_giant_weasel.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -5698,6 +5933,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Badger](srd_monsters_badger.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -5720,6 +5956,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Badger](srd_monsters_giant_badger.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: P
@@ -5743,6 +5980,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Jackal](srd_monsters_jackal.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5765,6 +6003,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Camel](srd_monsters_camel.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -5788,6 +6027,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cat](srd_monsters_cat.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -5810,6 +6050,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bat](srd_monsters_bat.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5832,6 +6073,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Bat](srd_monsters_giant_bat.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5854,6 +6096,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Warhorse](srd_monsters_warhorse.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5880,6 +6123,7 @@ SubItems:
   Name: Cheval de guerre céleste
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5901,6 +6145,7 @@ SubItems:
   Name: Cheval de guerre lourd
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5923,6 +6168,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Riding Horse](srd_monsters_riding_horse.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5945,6 +6191,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Draft Horse](srd_monsters_draft_horse.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -5967,6 +6214,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Goat](srd_monsters_goat.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -5989,6 +6237,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Goat](srd_monsters_giant_goat.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -6011,6 +6260,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Deer](srd_monsters_deer.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -6034,6 +6284,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Death Dog](srd_monsters_death_dog.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Fée
   Size: M
@@ -6057,6 +6308,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Blink Dog](srd_monsters_blink_dog.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -6080,6 +6332,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Owl](srd_monsters_owl.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6103,6 +6356,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Owl](srd_monsters_giant_owl.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -6126,6 +6380,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Raven](srd_monsters_raven.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -6149,6 +6404,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Crab](srd_monsters_crab.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -6172,6 +6428,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Crab](srd_monsters_giant_crab.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6194,6 +6451,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Toad](srd_monsters_giant_toad.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6217,6 +6475,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Crocodile](srd_monsters_crocodile.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TG
@@ -6240,6 +6499,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Crocodile](srd_monsters_giant_crocodile.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6262,6 +6522,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Elk](srd_monsters_elk.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TG
@@ -6285,6 +6546,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Elk](srd_monsters_giant_elk.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TG
@@ -6307,6 +6569,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Elephant](srd_monsters_elephant.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TG
@@ -6330,6 +6593,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Killer Whale](srd_monsters_killer_whale.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -6353,6 +6617,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hawk](srd_monsters_hawk.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: P
@@ -6376,6 +6641,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Blood Hawk](srd_monsters_blood_hawk.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -6399,6 +6665,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ape](srd_monsters_ape.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -6422,6 +6689,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Frog](srd_monsters_frog.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -6445,6 +6713,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Frog](srd_monsters_giant_frog.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -6467,6 +6736,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Wasp](srd_monsters_giant_wasp.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: P
@@ -6489,6 +6759,7 @@ SubItems:
   Name: Hibou
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6511,6 +6782,7 @@ SubItems:
   Name: Hibou géant
   ParentName: Créatures
   NameLevel: 1
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -6533,6 +6805,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Sea Horse](srd_monsters_sea_horse.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6555,6 +6828,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Sea Horse](srd_monsters_giant_sea_horse.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -6578,6 +6852,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hyena](srd_monsters_hyena.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6601,6 +6876,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Hyena](srd_monsters_giant_hyena.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -6623,6 +6899,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lizard](srd_monsters_lizard.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6645,6 +6922,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6668,6 +6946,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lion](srd_monsters_lion.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -6691,6 +6970,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wolf](srd_monsters_wolf.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -6715,6 +6995,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Winter Wolf](srd_monsters_winter_wolf.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6738,6 +7019,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Dire Wolf](srd_monsters_dire_wolf.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TG
@@ -6760,6 +7042,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mammoth](srd_monsters_mammoth.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -6783,6 +7066,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mastiff](srd_monsters_mastiff.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: P
@@ -6805,6 +7089,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -6827,6 +7112,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mule](srd_monsters_mule.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -6851,6 +7137,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Bats](srd_monsters_swarm_of_bats.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -6876,6 +7163,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -6900,6 +7188,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -6924,6 +7213,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -6948,6 +7238,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -6972,6 +7263,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -6995,6 +7287,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Brown Bear](srd_monsters_brown_bear.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -7018,6 +7311,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Black Bear](srd_monsters_black_bear.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7041,6 +7335,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Polar Bear](srd_monsters_polar_bear.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7064,6 +7359,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Panther](srd_monsters_panther.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: P
@@ -7087,6 +7383,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Octopus](srd_monsters_octopus.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7110,6 +7407,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Octopus](srd_monsters_giant_octopus.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -7132,6 +7430,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Quipper](srd_monsters_quipper.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -7154,6 +7453,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Pony](srd_monsters_pony.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: P
@@ -7176,6 +7476,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -7198,6 +7499,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Rat](srd_monsters_rat.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: P
@@ -7220,6 +7522,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Rat](srd_monsters_giant_rat.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7243,6 +7546,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hunter Shark](srd_monsters_hunter_shark.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -7266,6 +7570,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Reef Shark](srd_monsters_reef_shark.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TG
@@ -7289,6 +7594,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Shark](srd_monsters_giant_shark.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7311,6 +7617,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Rhinoceros](srd_monsters_rhinoceros.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -7333,6 +7640,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Boar](srd_monsters_boar.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7355,6 +7663,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Boar](srd_monsters_giant_boar.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -7377,6 +7686,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Scorpion](srd_monsters_scorpion.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7399,6 +7709,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Scorpion](srd_monsters_giant_scorpion.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7421,6 +7732,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Constrictor Snake](srd_monsters_constrictor_snake.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TG
@@ -7444,6 +7756,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -7466,6 +7779,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Poisonous Snake](srd_monsters_poisonous_snake.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -7489,6 +7803,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TP
@@ -7511,6 +7826,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: TG
@@ -7534,6 +7850,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Ape](srd_monsters_giant_ape.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7557,6 +7874,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Tiger](srd_monsters_tiger.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7580,6 +7898,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: M
@@ -7603,6 +7922,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Vulture](srd_monsters_vulture.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Bête
   Size: G
@@ -7626,6 +7946,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Vulture](srd_monsters_giant_vulture.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -7649,6 +7970,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Worg](srd_monsters_worg.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7672,6 +7994,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Acolyte](srd_monsters_acolyte.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7697,6 +8020,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Archmage](srd_monsters_archmage.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7722,6 +8046,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Assassin](srd_monsters_assassin.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7744,6 +8069,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bandit](srd_monsters_bandit.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7766,6 +8092,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Berserker](srd_monsters_berserker.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7790,6 +8117,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bandit Captain](srd_monsters_bandit_captain.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7813,6 +8141,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Knight](srd_monsters_knight.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7836,6 +8165,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Druid](srd_monsters_druid.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7859,6 +8189,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Priest](srd_monsters_priest.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7882,6 +8213,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Scout](srd_monsters_scout.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7905,6 +8237,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Spy](srd_monsters_spy.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7928,6 +8261,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cult Fanatic](srd_monsters_cult_fanatic.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7951,6 +8285,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Guard](srd_monsters_guard.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7975,6 +8310,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gladiator](srd_monsters_gladiator.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -7997,6 +8333,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Tribal Warrior](srd_monsters_tribal_warrior.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8021,6 +8358,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mage](srd_monsters_mage.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8044,6 +8382,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Thug](srd_monsters_thug.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8067,6 +8406,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cultist](srd_monsters_cultist.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8090,6 +8430,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Noble](srd_monsters_noble.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8112,6 +8453,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Commoner](srd_monsters_commoner.md)'
+  Attributes: {}
 - !MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8135,6 +8477,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Veteran](srd_monsters_veteran.md)'
+  Attributes: {}
 Id: monsters_hd.md#créatures
 RootId: monsters_hd.md
 ParentLink: index.md
@@ -8142,6 +8485,7 @@ Name: Créatures
 ParentName: Créatures et oppositions
 NameLevel: 1
 AltName: '[Monsters](srd_monsters.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

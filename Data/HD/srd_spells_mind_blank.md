@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Esprit impénétrable](hd_spells_esprit_impenetrable.md)'
 Source: (SRD p164)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

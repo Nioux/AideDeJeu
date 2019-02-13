@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_membredeguilde_hd.md#aptitude--marque-de-la-mort
 ParentLink: background_membredeguilde_hd.md#variante--assassin
 Name: 'Aptitude : Marque de la mort'
 ParentName: 'Variante : Assassin'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Assassin](hd_background_membredeguilde_variante_assassin.md)
 

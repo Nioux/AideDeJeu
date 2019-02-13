@@ -22,6 +22,7 @@ Name: Araignée géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

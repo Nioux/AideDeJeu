@@ -8,6 +8,7 @@ ParentName: Personnalité et Historique
 NameLevel: 1
 AltName: Inspiration (SRD p59)
 Source: (MDR p76)
+Attributes: {}
 ---
 >  [Personnalité et Historique](personnality_background_hd.md#)
 

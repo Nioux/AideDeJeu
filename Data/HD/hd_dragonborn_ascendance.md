@@ -5,6 +5,7 @@ ParentLink: dragonborn_hd.md#sangdragon
 Name: Ascendance
 ParentName: Sangdragon
 NameLevel: 3
+Attributes: {}
 ---
 > [Sangdragon](hd_dragonborn.md)
 

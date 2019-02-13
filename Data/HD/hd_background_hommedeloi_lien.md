@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityLinkItem
 Id: background_hommedeloi_hd.md#lien
 ParentLink: background_hommedeloi_hd.md#personnalités-suggérées
 Name: Lien
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_hommedeloi_personnalites_suggerees.md)
 

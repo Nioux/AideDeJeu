@@ -5,6 +5,7 @@ ParentLink: cleric_hd.md#clerc
 Name: Amélioration de caractéristiques
 ParentName: Clerc
 NameLevel: 2
+Attributes: {}
 ---
 > [Clerc](hd_cleric.md)
 

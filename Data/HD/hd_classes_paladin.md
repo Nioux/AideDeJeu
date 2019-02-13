@@ -7,6 +7,7 @@ ParentLink: classes_hd.md#classes
 Name: Paladin
 ParentName: Classes
 AltName: '[Paladin](#)'
+Attributes: {}
 ---
 
 

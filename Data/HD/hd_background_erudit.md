@@ -1,11 +1,16 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Arcanes, Histoire.
+MasteredTools: "Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste."
+MasteredLanguages: Une langue au choix.
+Equipment: Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.
 Id: background_erudit_hd.md#Érudit
 RootId: background_erudit_hd.md
 ParentLink: backgrounds_hd.md
 Name: Érudit
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

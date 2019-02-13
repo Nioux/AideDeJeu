@@ -5,6 +5,7 @@ ParentLink: magicitems_hd.md#objets-magiques
 Name: Les différents types d'objets magiques
 ParentName: Objets magiques
 NameLevel: 3
+Attributes: {}
 ---
 > [Objets magiques](hd_magicitems.md)
 

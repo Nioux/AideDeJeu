@@ -23,6 +23,7 @@ Name: Loup-garou
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Werewolf](srd_monsters_werewolf.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

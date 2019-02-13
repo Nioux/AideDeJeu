@@ -5,6 +5,7 @@ ParentLink: abilities_wisdom_hd.md#sagesse
 Name: Caractéristique d'incantation
 ParentName: Sagesse
 NameLevel: 2
+Attributes: {}
 ---
 > [Sagesse](hd_abilities_wisdom.md)
 

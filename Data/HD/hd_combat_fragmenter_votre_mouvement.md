@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 4
 AltName: Breaking Up Your Move (SRD p91)
 Source: (MDR p286)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

@@ -8,6 +8,7 @@ ParentName: Créatures et oppositions
 NameLevel: 2
 AltName: Madness
 Source: (CEO p380)(SRD p201)
+Attributes: {}
 ---
 >  [Créatures et oppositions](index.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)'
 Source: (SRD p154)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

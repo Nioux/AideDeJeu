@@ -7,6 +7,7 @@ ParentLink: races_hd.md#races
 Name: Sangdragon
 ParentName: Races
 AltName: '[Dragonborn](#)'
+Attributes: {}
 ---
 
 

@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Athlétisme, Survie.
+MasteredTools: Véhicules (terrestres), un type de jeu au choix.
+Equipment: Tenue de voyageur, sac contenant tente et couverture, boîte à amadou, bourse contenant 15 po.
 Id: background_solitaire_hd.md#variante--guide
 ParentLink: background_solitaire_hd.md#solitaire
 Name: 'Variante : Guide'
 ParentName: Solitaire
 NameLevel: 3
+Attributes: {}
 ---
 > [Solitaire](hd_background_solitaire.md)
 

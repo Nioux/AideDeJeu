@@ -23,6 +23,7 @@ Name: Clay Golem
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Golem d'argile](hd_monsters_golem_dargile.md)"
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -22,6 +22,7 @@ Name: Requin géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Shark](srd_monsters_giant_shark.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

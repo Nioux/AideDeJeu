@@ -6,6 +6,7 @@ Name: La confrontation
 ParentName: Lancer un rituel
 NameLevel: 3
 Source: (L5R p73)
+Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)
 

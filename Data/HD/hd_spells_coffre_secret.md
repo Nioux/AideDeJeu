@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Secret Chest](srd_spells_secret_chest.md)'
 Source: (MDR p335)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

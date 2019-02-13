@@ -5,6 +5,7 @@ ParentLink: rogue_hd.md#roublard
 Name: Ruse
 ParentName: Roublard
 NameLevel: 2
+Attributes: {}
 ---
 > [Roublard](hd_rogue.md)
 

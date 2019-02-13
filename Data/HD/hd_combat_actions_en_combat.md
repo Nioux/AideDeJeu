@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 2
 AltName: Actions in Combat (SRD p93)
 Source: (MDR p288)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

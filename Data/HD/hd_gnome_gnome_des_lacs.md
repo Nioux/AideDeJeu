@@ -7,6 +7,7 @@ Name: Gnome des lacs
 ParentName: Gnome
 NameLevel: 2
 Source: (MDR p49)
+Attributes: {}
 ---
 > [Gnome](hd_gnome.md)
 

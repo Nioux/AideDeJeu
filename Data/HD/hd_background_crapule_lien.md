@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityLinkItem
 Id: background_crapule_hd.md#lien
 ParentLink: background_crapule_hd.md#personnalités-suggérées
 Name: Lien
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_crapule_personnalites_suggerees.md)
 

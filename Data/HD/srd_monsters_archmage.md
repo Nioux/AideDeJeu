@@ -25,6 +25,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Archimage](hd_monsters_archimage.md)'
 Source: (SRD p395)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

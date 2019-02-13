@@ -6,6 +6,7 @@ Name: Empoigné
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Grappled](srd_conditions_grappled.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

@@ -6,6 +6,7 @@ Name: Assourdi
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Deafened](srd_conditions_deafened.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

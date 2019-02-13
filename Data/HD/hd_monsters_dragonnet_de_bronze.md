@@ -24,6 +24,7 @@ Name: Dragonnet de bronze
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

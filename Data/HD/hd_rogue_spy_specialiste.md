@@ -5,6 +5,7 @@ ParentLink: rogue_spy_hd.md#espion
 Name: Spécialiste
 ParentName: Espion
 NameLevel: 2
+Attributes: {}
 ---
 > [Espion](hd_rogue_spy.md)
 

@@ -6,6 +6,7 @@ Name: Inconscient
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Unconscious](srd_conditions_unconscious.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Planar Ally](srd_spells_planar_ally.md)'
 Source: (MDR p320)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

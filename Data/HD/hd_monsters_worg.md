@@ -22,6 +22,7 @@ Name: Worg
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Worg](srd_monsters_worg.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

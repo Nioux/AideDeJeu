@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Détection des pensées](hd_spells_detection_des_pensees.md)'
 Source: (SRD p135)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

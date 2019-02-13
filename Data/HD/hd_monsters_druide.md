@@ -22,6 +22,7 @@ Name: Druide
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Druid](srd_monsters_druid.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

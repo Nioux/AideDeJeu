@@ -22,6 +22,7 @@ Name: Mastiff
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mastiff](srd_monsters_mastiff.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

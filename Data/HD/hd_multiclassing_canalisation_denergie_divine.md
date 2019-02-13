@@ -5,6 +5,7 @@ ParentLink: multiclassing_hd.md#multiclassage
 Name: Canalisation d'énergie divine
 ParentName: Multiclassage
 NameLevel: 3
+Attributes: {}
 ---
 > [Multiclassage](hd_multiclassing.md)
 

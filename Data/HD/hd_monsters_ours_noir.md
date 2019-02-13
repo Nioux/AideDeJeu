@@ -22,6 +22,7 @@ Name: Ours noir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Black Bear](srd_monsters_black_bear.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

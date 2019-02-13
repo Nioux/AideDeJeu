@@ -1,11 +1,15 @@
 ﻿---
-!Items
-Id: background_militaire_hd.md#militaireaptitude--position-dautorité
+!BackgroundItem
+Abilities: Athlétisme, Intimidation.
+MasteredTools: Véhicules (terrestres), un type de jeu au choix.
+Equipment: Couverture, habits courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, bourse contenant 15 po.
+Id: background_militaire_hd.md#militaire
 RootId: background_militaire_hd.md
 ParentLink: backgrounds_hd.md
-Name: "MilitaireAptitude : Position d'autorité"
+Name: Militaire
 ParentName: Historique
-NameLevel: 4
+NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 
@@ -45,8 +49,4 @@ Conscrit, soldat de métier ou milicien, vous avez passé une large part de votr
 
 
 ### [Variante : Officier](hd_background_militaire_variante_officier.md)
-
-#### Aptitude : Position d'autorité
-
-Les soldats « amis » reconnaissent votre autorité et votre expérience, et ont tendance à accepter tout naturellement vos ordres et vos directives. En cas de nécessité, dans une ville de votre région d'origine, vous êtes capable de réunir rapidement un petit groupe d'anciens soldats prêts à vous rendre service.
 

@@ -5,6 +5,7 @@ ParentLink: barbarian_berserker_hd.md#voie-du-berserker
 Name: Rage aveugle
 ParentName: Voie du berserker
 NameLevel: 2
+Attributes: {}
 ---
 > [Voie du berserker](hd_barbarian_berserker.md)
 

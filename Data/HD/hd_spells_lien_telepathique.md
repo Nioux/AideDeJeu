@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Telepathic Bond](srd_spells_telepathic_bond.md)'
 Source: (MDR p)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

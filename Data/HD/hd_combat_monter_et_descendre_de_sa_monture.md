@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Mounting and Dismounting (SRD p99)
 Source: (MDR p295)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

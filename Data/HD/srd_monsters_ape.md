@@ -22,6 +22,7 @@ Name: Ape
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Grand singe](hd_monsters_grand_singe.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

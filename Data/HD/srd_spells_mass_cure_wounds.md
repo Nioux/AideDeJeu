@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)'
 Source: (SRD p162)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

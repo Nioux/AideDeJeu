@@ -26,6 +26,7 @@ Name: Solar
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Solar](srd_monsters_solar.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

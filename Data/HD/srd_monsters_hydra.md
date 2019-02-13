@@ -22,6 +22,7 @@ Name: Hydra
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Hydre](hd_monsters_hydre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

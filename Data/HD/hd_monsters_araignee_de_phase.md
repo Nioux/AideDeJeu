@@ -22,6 +22,7 @@ Name: Araignée de phase
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

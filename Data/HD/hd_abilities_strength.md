@@ -8,6 +8,7 @@ ParentName: Caractéristiques
 NameLevel: 1
 AltName: Strength (SRD p79)
 Source: (MDR p262)
+Attributes: {}
 ---
 >  [Caractéristiques](hd_abilities.md)
 

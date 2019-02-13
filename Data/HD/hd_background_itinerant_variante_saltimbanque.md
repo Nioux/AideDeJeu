@@ -1,10 +1,15 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Une compétence dépendant de la spécialité, Représentation.
+MasteredTools: Un instrument de musique au choix, véhicules (terrestres).
+MasteredLanguages: Vous pouvez remplacer l'instrument de musique par une langue au choix.
+Equipment: Tenue de voyageur, costume ou vêtements tape à l'oeil, outils nécessaires à votre art (instrument, animal dressé, outils pour vos jongleries, etc.), sac de voyage, bourse contenant 15 po.
 Id: background_itinerant_hd.md#variante--saltimbanque
 ParentLink: background_itinerant_hd.md#itinérant
 Name: 'Variante : Saltimbanque'
 ParentName: Itinérant
 NameLevel: 3
+Attributes: {}
 ---
 > [Itinérant](hd_background_itinerant.md)
 

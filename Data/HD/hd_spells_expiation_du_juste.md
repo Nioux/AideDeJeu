@@ -13,6 +13,7 @@ Name: Expiation du juste
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p354)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

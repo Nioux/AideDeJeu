@@ -22,6 +22,7 @@ Name: Babélien
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gibbering Mouther](srd_monsters_gibbering_mouther.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

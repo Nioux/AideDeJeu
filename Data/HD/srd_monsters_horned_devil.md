@@ -25,6 +25,7 @@ Name: Horned Devil
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Diable cornu](hd_monsters_diable_cornu.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Doigt de mort](hd_spells_doigt_de_mort.md)'
 Source: (SRD p144)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

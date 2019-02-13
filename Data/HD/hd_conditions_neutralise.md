@@ -6,6 +6,7 @@ Name: Neutralisé
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Incapacitated](srd_conditions_incapacitated.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

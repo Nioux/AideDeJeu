@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Changement de plan](hd_spells_changement_de_plan.md)'
 Source: (SRD p168)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

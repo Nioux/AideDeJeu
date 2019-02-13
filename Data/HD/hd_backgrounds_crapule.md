@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#crapule
 ParentLink: backgrounds_hd.md#historique
 Name: Crapule
 ParentName: Historique
+Attributes: {}
 ---
 
 

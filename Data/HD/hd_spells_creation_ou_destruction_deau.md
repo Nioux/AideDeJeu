@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Create or Destroy Water](srd_spells_create_or_destroy_water.md)'
 Source: (MDR p344)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

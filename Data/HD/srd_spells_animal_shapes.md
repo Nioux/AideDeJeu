@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Formes animales](hd_spells_formes_animales.md)'
 Source: (SRD p115)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

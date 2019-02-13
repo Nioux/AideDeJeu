@@ -5,6 +5,7 @@ ParentLink: warlock_immortal_hd.md#le-seigneur-immortel
 Name: À demi-mort
 ParentName: Le seigneur immortel
 NameLevel: 2
+Attributes: {}
 ---
 > [Le seigneur immortel](hd_warlock_immortal.md)
 

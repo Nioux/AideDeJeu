@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 4
 AltName: Squeezing into a Smaller Space (SRD p92)
 Source: (MDR p288)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

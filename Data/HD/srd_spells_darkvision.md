@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Vision dans le noir](hd_spells_vision_dans_le_noir.md)'
 Source: (SRD p133)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

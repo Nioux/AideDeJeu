@@ -21,6 +21,7 @@ Name: Rhinocéros
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Rhinoceros](srd_monsters_rhinoceros.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

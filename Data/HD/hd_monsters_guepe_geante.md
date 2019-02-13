@@ -21,6 +21,7 @@ Name: Guêpe géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Wasp](srd_monsters_giant_wasp.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

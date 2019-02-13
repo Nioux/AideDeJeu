@@ -23,6 +23,7 @@ Name: Nuée de chauve-souris
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Bats](srd_monsters_swarm_of_bats.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

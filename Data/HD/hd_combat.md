@@ -8,6 +8,7 @@ ParentName: Manuel des règles
 NameLevel: 1
 AltName: The Order of Combat (SRD p90)
 Source: (MDR p283)
+Attributes: {}
 ---
 >  [Manuel des règles](index.md)
 

@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_brigand_hd.md#aptitude--confrérie
 ParentLink: background_brigand_hd.md#variante--pirate
 Name: 'Aptitude : Confrérie'
 ParentName: 'Variante : Pirate'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Pirate](hd_background_brigand_variante_pirate.md)
 

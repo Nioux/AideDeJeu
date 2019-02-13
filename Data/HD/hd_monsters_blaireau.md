@@ -21,6 +21,7 @@ Name: Blaireau
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Badger](srd_monsters_badger.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

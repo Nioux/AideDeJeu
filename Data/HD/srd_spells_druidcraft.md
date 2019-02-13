@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Druidisme](hd_spells_druidisme.md)'
 Source: (SRD p138)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

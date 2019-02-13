@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Briser](hd_spells_briser.md)'
 Source: (SRD p178)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

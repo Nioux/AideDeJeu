@@ -5,6 +5,7 @@ ParentLink: rogue_ombrelame_hd.md#ombrelame
 Name: Maître de l'ombre
 ParentName: Ombrelame
 NameLevel: 2
+Attributes: {}
 ---
 > [Ombrelame](hd_rogue_ombrelame.md)
 

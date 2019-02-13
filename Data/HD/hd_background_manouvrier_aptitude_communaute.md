@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_manouvrier_hd.md#aptitude--communauté
 ParentLink: background_manouvrier_hd.md#manouvrier
 Name: 'Aptitude : Communauté'
 ParentName: Manouvrier
 NameLevel: 4
+Attributes: {}
 ---
 > [Manouvrier](hd_background_manouvrier.md)
 

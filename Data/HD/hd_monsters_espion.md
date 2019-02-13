@@ -22,6 +22,7 @@ Name: Espion
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Spy](srd_monsters_spy.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Invoquer des animaux](hd_spells_invoquer_des_animaux.md)'
 Source: (SRD p127)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

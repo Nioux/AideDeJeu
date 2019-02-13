@@ -1,11 +1,16 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Dressage, Survie.
+MasteredTools: Véhicules (terrestres) ou un ensemble d'outils d'artisan au choix parmi outils de tanneur, de forgeron, de tisserand ou de menuisier.
+MasteredLanguages: Une langue au choix.
+Equipment: Sac contenant tente et couverture, bâton de marche, tenue de voyageur, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
 Id: background_primitif_hd.md#primitif
 RootId: background_primitif_hd.md
 ParentLink: backgrounds_hd.md
 Name: Primitif
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

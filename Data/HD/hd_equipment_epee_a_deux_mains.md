@@ -11,6 +11,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Épée à deux mains
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Texte illusoire](hd_spells_texte_illusoire.md)'
 Source: (SRD p156)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

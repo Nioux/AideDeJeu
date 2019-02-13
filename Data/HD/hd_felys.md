@@ -2,6 +2,12 @@
 !RaceItem
 DexterityBonus: 2
 WisdomBonus: 1
+Age: Les félys atteignent rapidement l'âge adulte, aux alentours de 8 ans environ. Cependant, ils vivent moins longtemps qu'un être humain et il est rare de voir un félys dépasser les 50 ans.
+Alignment: Leur nature féline en fait des êtres indépendants qui tendent souvent vers l'alignement Chaotique.
+Size: Les félys sont plus petits et fins que les humains. Ils mesurent 1,40 à 1,70 mètre pour 25 à 50 kilos. Ils sont de taille moyenne.
+Speed: Votre vitesse au sol de base est de 12 mètres.
+Darkvision: Comme tous les membres de votre race, vous possédez une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
+Languages: Vous pouvez lire, écrire et parler le commun, ainsi qu'une autre langue de votre choix.
 Id: felys_hd.md#félys
 RootId: felys_hd.md
 ParentLink: races_hd.md#
@@ -9,6 +15,7 @@ Name: Félys
 ParentName: Races
 NameLevel: 1
 Source: (MDR p64)
+Attributes: {}
 ---
 >  [Races](races_hd.md#)
 

@@ -6,6 +6,7 @@ ParentLink: index.md
 Name: Gérer la santé
 ParentName: Manuel des règles
 NameLevel: 1
+Attributes: {}
 ---
 >  [Manuel des règles](index.md)
 

@@ -21,6 +21,7 @@ Name: Ogre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ogre](srd_monsters_ogre.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

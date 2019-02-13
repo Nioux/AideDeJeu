@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: "[Heroes' Feast](srd_spells_heroes_feast.md)"
 Source: (MDR p355)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

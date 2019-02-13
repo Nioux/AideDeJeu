@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Repli expéditif](hd_spells_repli_expeditif.md)'
 Source: (SRD p141)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Create Undead](srd_spells_create_undead.md)'
 Source: (MDR p343)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

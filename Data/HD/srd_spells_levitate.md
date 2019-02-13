@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Lévitation](hd_spells_levitation.md)'
 Source: (SRD p158)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

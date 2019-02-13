@@ -1,11 +1,15 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Nature, Survie.
+MasteredTools: Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.
+Equipment: Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po.
 Id: background_solitaire_hd.md#solitaire
 RootId: background_solitaire_hd.md
 ParentLink: backgrounds_hd.md
 Name: Solitaire
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

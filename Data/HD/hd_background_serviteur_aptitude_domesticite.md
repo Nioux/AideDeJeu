@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_serviteur_hd.md#aptitude--domesticité
 ParentLink: background_serviteur_hd.md#serviteur
 Name: 'Aptitude : Domesticité'
 ParentName: Serviteur
 NameLevel: 4
+Attributes: {}
 ---
 > [Serviteur](hd_background_serviteur.md)
 

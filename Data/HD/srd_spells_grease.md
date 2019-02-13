@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Graisse](hd_spells_graisse.md)'
 Source: (SRD p150)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

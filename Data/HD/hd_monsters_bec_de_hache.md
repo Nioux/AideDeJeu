@@ -21,6 +21,7 @@ Name: Bec de hache
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Axe Beak](srd_monsters_axe_beak.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

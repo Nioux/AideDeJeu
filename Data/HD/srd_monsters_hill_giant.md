@@ -22,6 +22,7 @@ Name: Hill Giant
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Géant des collines](hd_monsters_geant_des_collines.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

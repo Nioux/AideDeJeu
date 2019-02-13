@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_itinerant_hd.md#aptitude--spectacle-ambulant
 ParentLink: background_itinerant_hd.md#variante--saltimbanque
 Name: 'Aptitude : Spectacle ambulant'
 ParentName: 'Variante : Saltimbanque'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Saltimbanque](hd_background_itinerant_variante_saltimbanque.md)
 

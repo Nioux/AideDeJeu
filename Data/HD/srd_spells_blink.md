@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Clignotement](hd_spells_clignotement.md)'
 Source: (SRD p122)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

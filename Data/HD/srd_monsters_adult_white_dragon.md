@@ -24,6 +24,7 @@ Name: Adult White Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

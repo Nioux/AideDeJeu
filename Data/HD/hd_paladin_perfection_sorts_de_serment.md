@@ -5,6 +5,7 @@ ParentLink: paladin_perfection_hd.md#serment-de-perfection
 Name: Sorts de serment
 ParentName: Serment de perfection
 NameLevel: 2
+Attributes: {}
 ---
 > [Serment de perfection](hd_paladin_perfection.md)
 

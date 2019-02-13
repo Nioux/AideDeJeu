@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Heat Metal](srd_spells_heat_metal.md)'
 Source: (MDR p334)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

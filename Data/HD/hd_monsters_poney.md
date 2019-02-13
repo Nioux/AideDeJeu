@@ -21,6 +21,7 @@ Name: Poney
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Pony](srd_monsters_pony.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

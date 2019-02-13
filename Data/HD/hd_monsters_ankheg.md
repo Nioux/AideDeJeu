@@ -21,6 +21,7 @@ Name: Ankheg
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ankheg](srd_monsters_ankheg.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

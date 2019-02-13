@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Prismatic Spray](srd_spells_prismatic_spray.md)'
 Source: (MDR p350)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

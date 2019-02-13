@@ -24,6 +24,7 @@ Name: Gargouille
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gargoyle](srd_monsters_gargoyle.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

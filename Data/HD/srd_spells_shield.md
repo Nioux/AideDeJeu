@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Bouclier](hd_spells_bouclier.md)'
 Source: (SRD p179)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

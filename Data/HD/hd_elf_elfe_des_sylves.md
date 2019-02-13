@@ -7,6 +7,7 @@ Name: Elfe des sylves
 ParentName: Elfe
 NameLevel: 2
 Source: (MDR p45)
+Attributes: {}
 ---
 > [Elfe](hd_elf.md)
 

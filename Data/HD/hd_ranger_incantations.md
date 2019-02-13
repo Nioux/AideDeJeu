@@ -5,6 +5,7 @@ ParentLink: ranger_hd.md#rôdeur
 Name: Incantations
 ParentName: Rôdeur
 NameLevel: 1
+Attributes: {}
 ---
 > [Rôdeur](hd_ranger.md)
 

@@ -23,6 +23,7 @@ Name: Salamander
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Salamandre](hd_monsters_salamandre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -7,6 +7,7 @@ ParentName: Conditions
 NameLevel: 1
 AltName: '[Entravé](hd_conditions_entrave.md)'
 Source: (SRD p359)
+Attributes: {}
 ---
 > [Conditions](srd_conditions.md)
 

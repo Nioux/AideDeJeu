@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Passage par les arbres](hd_spells_passage_par_les_arbres.md)'
 Source: (SRD p188)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

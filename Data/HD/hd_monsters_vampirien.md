@@ -24,6 +24,7 @@ Name: Vampirien
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Vampire Spawn](srd_monsters_vampire_spawn.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

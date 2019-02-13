@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Fabrication](hd_spells_fabrication.md)'
 Source: (SRD p141)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

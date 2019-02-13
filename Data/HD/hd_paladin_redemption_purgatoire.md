@@ -5,6 +5,7 @@ ParentLink: paladin_redemption_hd.md#serment-de-rédemption
 Name: Purgatoire
 ParentName: Serment de rédemption
 NameLevel: 2
+Attributes: {}
 ---
 > [Serment de rédemption](hd_paladin_redemption.md)
 

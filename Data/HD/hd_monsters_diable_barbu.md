@@ -25,6 +25,7 @@ Name: Diable barbu
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bearded Devil](srd_monsters_bearded_devil.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

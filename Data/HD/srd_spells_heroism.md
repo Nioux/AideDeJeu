@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Héroïsme](hd_spells_heroisme.md)'
 Source: (SRD p154)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

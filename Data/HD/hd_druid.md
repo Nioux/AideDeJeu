@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Druid (SRD p17)
 Source: (MDR p142)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

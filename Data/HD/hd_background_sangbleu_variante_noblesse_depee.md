@@ -1,10 +1,15 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Athlétisme ou Dressage, Histoire.
+MasteredTools: Véhicules (terrestres).
+MasteredLanguages: Une langue au choix.
+Equipment: Vêtements de qualité, monture, chevalière portant le sceau familial, pierre à affûter, bourse contenant 20 po.
 Id: background_sangbleu_hd.md#variante--noblesse-dépée
 ParentLink: background_sangbleu_hd.md#sang-bleu
 Name: "Variante : Noblesse d'épée"
 ParentName: Sang bleu
 NameLevel: 3
+Attributes: {}
 ---
 > [Sang bleu](hd_background_sangbleu.md)
 

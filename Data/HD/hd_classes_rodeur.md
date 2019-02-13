@@ -7,6 +7,7 @@ ParentLink: classes_hd.md#classes
 Name: Rôdeur
 ParentName: Classes
 AltName: '[Ranger](#)'
+Attributes: {}
 ---
 
 

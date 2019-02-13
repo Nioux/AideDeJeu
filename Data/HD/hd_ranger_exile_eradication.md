@@ -5,6 +5,7 @@ ParentLink: ranger_exile_hd.md#exilé
 Name: Éradication
 ParentName: Exilé
 NameLevel: 2
+Attributes: {}
 ---
 > [Exilé](hd_ranger_exile.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Forme éthérée](hd_spells_forme_etheree.md)'
 Source: (SRD p140)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

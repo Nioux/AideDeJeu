@@ -5,6 +5,7 @@ ParentLink: rogue_thief_hd.md#voleur
 Name: Réflexes de voleur
 ParentName: Voleur
 NameLevel: 2
+Attributes: {}
 ---
 > [Voleur](hd_rogue_thief.md)
 

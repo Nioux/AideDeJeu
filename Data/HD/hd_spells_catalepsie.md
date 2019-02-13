@@ -13,6 +13,7 @@ Name: Catalepsie
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p331)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -6,6 +6,7 @@ Id: races_hd.md#homme-serpent
 ParentLink: races_hd.md#races
 Name: Homme serpent
 ParentName: Races
+Attributes: {}
 ---
 
 

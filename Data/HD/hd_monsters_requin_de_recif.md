@@ -22,6 +22,7 @@ Name: Requin de récif
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Reef Shark](srd_monsters_reef_shark.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

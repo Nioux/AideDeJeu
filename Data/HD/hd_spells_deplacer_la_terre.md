@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Move Earth](srd_spells_move_earth.md)'
 Source: (MDR p345)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

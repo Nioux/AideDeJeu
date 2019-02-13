@@ -22,6 +22,7 @@ Name: Loup
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wolf](srd_monsters_wolf.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

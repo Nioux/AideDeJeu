@@ -22,6 +22,7 @@ Name: Homme-lézard
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lizardfolk](srd_monsters_lizardfolk.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

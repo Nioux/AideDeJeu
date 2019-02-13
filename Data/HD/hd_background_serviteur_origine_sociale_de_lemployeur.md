@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!BackgroundSpecialtyItem
 Id: background_serviteur_hd.md#origine-sociale-de-lemployeur
 ParentLink: background_serviteur_hd.md#serviteur
 Name: Origine sociale de l'employeur
 ParentName: Serviteur
 NameLevel: 4
+Attributes: {}
 ---
 > [Serviteur](hd_background_serviteur.md)
 

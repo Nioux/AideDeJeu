@@ -22,6 +22,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Berserker](hd_monsters_berserker.md)'
 Source: (SRD p397)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

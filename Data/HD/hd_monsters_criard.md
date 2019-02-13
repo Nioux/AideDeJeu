@@ -22,6 +22,7 @@ Name: Criard
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Shrieker](srd_monsters_shrieker.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

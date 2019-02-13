@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Entangle](srd_spells_entangle.md)'
 Source: (MDR p352)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

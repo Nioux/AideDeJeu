@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Call Lightning](srd_spells_call_lightning.md)'
 Source: (MDR p324)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

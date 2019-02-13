@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Athlétisme, Perspicacité.
+MasteredTools: Deux ensembles d'outils d'artisan au choix.
+Equipment: Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.
 Id: background_membredeguilde_hd.md#variante--artisan
 ParentLink: background_membredeguilde_hd.md#membre-de-guilde
 Name: 'Variante : Artisan'
 ParentName: Membre de guilde
 NameLevel: 3
+Attributes: {}
 ---
 > [Membre de guilde](hd_background_membredeguilde.md)
 

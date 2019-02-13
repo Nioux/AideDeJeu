@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Goodberry](srd_spells_goodberry.md)'
 Source: (MDR p326)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

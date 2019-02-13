@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Combat Step by Step (SRD p90)
 Source: (MDR p284)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

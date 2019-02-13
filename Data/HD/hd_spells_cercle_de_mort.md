@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Circle of Death](srd_spells_circle_of_death.md)'
 Source: (MDR p331)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -5,6 +5,7 @@ ParentLink: environment_hd.md#l’environnement
 Name: Interaction avec des objets
 ParentName: L’environnement
 NameLevel: 1
+Attributes: {}
 ---
 > [L’environnement](hd_environment.md)
 

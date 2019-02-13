@@ -23,6 +23,7 @@ Name: Minotaur Skeleton
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Squelette minotaure](hd_monsters_squelette_minotaure.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

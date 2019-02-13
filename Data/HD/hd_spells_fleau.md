@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Bane](srd_spells_bane.md)'
 Source: (MDR p356)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

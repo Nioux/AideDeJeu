@@ -22,6 +22,7 @@ Name: Tyrannosaurus Rex
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Tyrannosaure](hd_monsters_tyrannosaure.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

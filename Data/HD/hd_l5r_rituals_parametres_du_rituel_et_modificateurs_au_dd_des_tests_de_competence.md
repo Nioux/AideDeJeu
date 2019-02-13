@@ -6,6 +6,7 @@ Name: Paramètres du rituel et modificateurs au DD des tests de compétence
 ParentName: Lancer un rituel
 NameLevel: 5
 Source: (L5R p71)
+Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)
 

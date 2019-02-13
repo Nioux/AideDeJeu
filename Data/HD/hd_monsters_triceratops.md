@@ -21,6 +21,7 @@ Name: Tricératops
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Triceratops](srd_monsters_triceratops.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

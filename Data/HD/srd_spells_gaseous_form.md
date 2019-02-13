@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Forme gazeuse](hd_spells_forme_gazeuse.md)'
 Source: (SRD p148)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

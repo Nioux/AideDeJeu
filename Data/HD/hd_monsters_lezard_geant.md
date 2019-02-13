@@ -21,6 +21,7 @@ Name: Lézard géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -22,6 +22,7 @@ Name: Guenaude verte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Green Hag](srd_monsters_green_hag.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

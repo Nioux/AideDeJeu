@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Sorcerer (SRD p41)
 Source: (MDR p152)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

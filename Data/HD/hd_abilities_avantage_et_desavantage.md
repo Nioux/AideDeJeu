@@ -5,6 +5,7 @@ ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: Avantage et désavantage
 ParentName: Utiliser les caractéristiques
 NameLevel: 1
+Attributes: {}
 ---
 > [Utiliser les caractéristiques](hd_abilities.md)
 

@@ -5,6 +5,7 @@ ParentLink: cleric_life_hd.md#domaine-de-la-vie
 Name: Guérisseur béni
 ParentName: Domaine de la Vie
 NameLevel: 2
+Attributes: {}
 ---
 > [Domaine de la Vie](hd_cleric_life.md)
 

@@ -7,6 +7,7 @@ ParentLink: classes_hd.md#classes
 Name: Druide
 ParentName: Classes
 AltName: '[Druid](#)'
+Attributes: {}
 ---
 
 

@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Perspicacité, Persuasion.
+MasteredLanguages: Deux langues au choix.
+Equipment: Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, sceau de la guilde, balance de marchand, livre de comptes, plume et encre, bourse contenant 20 po.
 Id: background_membredeguilde_hd.md#variante--commerçant
 ParentLink: background_membredeguilde_hd.md#membre-de-guilde
 Name: 'Variante : Commerçant'
 ParentName: Membre de guilde
 NameLevel: 3
+Attributes: {}
 ---
 > [Membre de guilde](hd_background_membredeguilde.md)
 

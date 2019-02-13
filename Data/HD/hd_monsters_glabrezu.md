@@ -25,6 +25,7 @@ Name: Glabrezu
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

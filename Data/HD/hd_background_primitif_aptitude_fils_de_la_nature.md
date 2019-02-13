@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_primitif_hd.md#aptitude--fils-de-la-nature
 ParentLink: background_primitif_hd.md#primitif
 Name: 'Aptitude : Fils de la nature'
 ParentName: Primitif
 NameLevel: 4
+Attributes: {}
 ---
 > [Primitif](hd_background_primitif.md)
 

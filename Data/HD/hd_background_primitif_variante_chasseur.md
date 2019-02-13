@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Discrétion, Survie.
+MasteredTools: Un type de jeu au choix, véhicules (terrestres).
+Equipment: Couverture, tenue de voyageur, quelques pièges, peau tannée d'un animal que vous avez tué de vos mains, sacoche contenant des pierres précieuses ou des morceaux d'ivoire pour une valeur de 10 po.
 Id: background_primitif_hd.md#variante--chasseur
 ParentLink: background_primitif_hd.md#primitif
 Name: 'Variante : Chasseur'
 ParentName: Primitif
 NameLevel: 3
+Attributes: {}
 ---
 > [Primitif](hd_background_primitif.md)
 

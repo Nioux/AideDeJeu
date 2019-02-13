@@ -16,6 +16,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Aspersion acide](hd_spells_aspersion_acide.md)'
   Source: (SRD p114)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: abjuration
@@ -31,6 +32,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Aide](hd_spells_aide.md)'
   Source: (SRD p114)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: abjuration
@@ -47,6 +49,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Alarme](hd_spells_alarme.md)'
   Source: (SRD p114)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -62,6 +65,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Modifier son apparence](hd_spells_modifier_son_apparence.md)'
   Source: (SRD p114)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: enchantment
@@ -77,6 +81,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)'
   Source: (SRD p115)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: enchantment
@@ -93,6 +98,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Messager animal](hd_spells_messager_animal.md)'
   Source: (SRD p115)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: transmutation
@@ -108,6 +114,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Formes animales](hd_spells_formes_animales.md)'
   Source: (SRD p115)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: necromancy
@@ -123,6 +130,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Animation des morts](hd_spells_animation_des_morts.md)'
   Source: (SRD p115)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: transmutation
@@ -138,6 +146,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Animation des objets](hd_spells_animation_des_objets.md)'
   Source: (SRD p116)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: abjuration
@@ -153,6 +162,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Coquille antivie](hd_spells_coquille_antivie.md)'
   Source: (SRD p116)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: abjuration
@@ -168,6 +178,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Champ antimagie](hd_spells_champ_antimagie.md)'
   Source: (SRD p117)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: enchantment
@@ -183,6 +194,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Répulsion/attirance](hd_spells_repulsionattirance.md)'
   Source: (SRD p117)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: divination
@@ -198,6 +210,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Oeil magique](hd_spells_oeil_magique.md)'
   Source: (SRD p118)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: abjuration
@@ -213,6 +226,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Verrou magique](hd_spells_verrou_magique.md)'
   Source: (SRD p118)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: necromancy
@@ -228,6 +242,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Projection astrale](hd_spells_projection_astrale.md)'
   Source: (SRD p119)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: divination
@@ -244,6 +259,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Augure](hd_spells_augure.md)'
   Source: (SRD p120)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: transmutation
@@ -259,6 +275,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Éveil](hd_spells_eveil.md)'
   Source: (SRD p120)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: enchantment
@@ -274,6 +291,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fléau](hd_spells_fleau.md)'
   Source: (SRD p120)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: abjuration
@@ -289,6 +307,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bannissement](hd_spells_bannissement.md)'
   Source: (SRD p120)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -304,6 +323,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Peau d'écorce](hd_spells_peau_decorce.md)"
   Source: (SRD p121)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: abjuration
@@ -319,6 +339,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Lueur d'espoir](hd_spells_lueur_despoir.md)"
   Source: (SRD p121)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: necromancy
@@ -334,6 +355,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Jeter une malédiction](hd_spells_jeter_une_malediction.md)'
   Source: (SRD p121)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: evocation
@@ -349,6 +371,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Main magique](hd_spells_main_magique.md)'
   Source: (SRD p118)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: evocation
@@ -364,6 +387,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Barrière de lames](hd_spells_barriere_de_lames.md)'
   Source: (SRD p122)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: enchantment
@@ -379,6 +403,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bénédiction](hd_spells_benediction.md)'
   Source: (SRD p122)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: necromancy
@@ -394,6 +419,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Flétrissement](hd_spells_fletrissement.md)'
   Source: (SRD p122)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: necromancy
@@ -409,6 +435,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Cécité/Surdité](hd_spells_cecitesurdite.md)'
   Source: (SRD p122)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: transmutation
@@ -424,6 +451,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Clignotement](hd_spells_clignotement.md)'
   Source: (SRD p122)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: illusion
@@ -439,6 +467,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Flou](hd_spells_flou.md)'
   Source: (SRD p123)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -454,6 +483,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Frappe lumineuse](hd_spells_frappe_lumineuse.md)'
   Source: (SRD p123)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: evocation
@@ -469,6 +499,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mains brûlantes](hd_spells_mains_brulantes.md)'
   Source: (SRD p123)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: conjuration
@@ -484,6 +515,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Appel de la foudre](hd_spells_appel_de_la_foudre.md)'
   Source: (SRD p123)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: enchantment
@@ -499,6 +531,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Apaisement des émotions](hd_spells_apaisement_des_emotions.md)'
   Source: (SRD p123)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: evocation
@@ -514,6 +547,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Chaîne d'éclairs](hd_spells_chaine_declairs.md)"
   Source: (SRD p124)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: enchantment
@@ -529,6 +563,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Charme-personne](hd_spells_charme_personne.md)'
   Source: (SRD p124)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Necromancy
@@ -544,6 +579,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Contact glacial](hd_spells_contact_glacial.md)'
   Source: (SRD p124)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: necromancy
@@ -559,6 +595,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Cercle de mort](hd_spells_cercle_de_mort.md)'
   Source: (SRD p124)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: divination
@@ -574,6 +611,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Clairvoyance](hd_spells_clairvoyance.md)'
   Source: (SRD p124)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: necromancy
@@ -589,6 +627,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Clone](hd_spells_clone.md)'
   Source: (SRD p125)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: conjuration
@@ -604,6 +643,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Nuage mortel](hd_spells_nuage_mortel.md)'
   Source: (SRD p125)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: illusion
@@ -619,6 +659,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Couleurs dansantes](hd_spells_couleurs_dansantes.md)'
   Source: (SRD p125)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: enchantment
@@ -634,6 +675,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Injonction](hd_spells_injonction.md)'
   Source: (SRD p125)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: divination
@@ -650,6 +692,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Communion](hd_spells_communion.md)'
   Source: (SRD p126)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: divination
@@ -666,6 +709,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Communion avec la nature](hd_spells_communion_avec_la_nature.md)'
   Source: (SRD p126)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: divination
@@ -682,6 +726,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Compréhension des langues](hd_spells_comprehension_des_langues.md)'
   Source: (SRD p126)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: enchantment
@@ -697,6 +742,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Compulsion](hd_spells_compulsion.md)'
   Source: (SRD p126)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: evocation
@@ -712,6 +758,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Cône de froid](hd_spells_cone_de_froid.md)'
   Source: (SRD p127)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: enchantment
@@ -727,6 +774,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Confusion](hd_spells_confusion.md)'
   Source: (SRD p127)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: conjuration
@@ -742,6 +790,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Invoquer des animaux](hd_spells_invoquer_des_animaux.md)'
   Source: (SRD p127)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: conjuration
@@ -757,6 +806,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Invoquer un céleste](hd_spells_invoquer_un_celeste.md)'
   Source: (SRD p127)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: conjuration
@@ -772,6 +822,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)'
   Source: (SRD p128)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: conjuration
@@ -787,6 +838,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Invoquer une fée](hd_spells_invoquer_une_fee.md)'
   Source: (SRD p128)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: conjuration
@@ -802,6 +854,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Invoquer des élémentaires mineurs](hd_spells_invoquer_des_elementaires_mineurs.md)'
   Source: (SRD p128)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: conjuration
@@ -817,6 +870,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)'
   Source: (SRD p129)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: divination
@@ -833,6 +887,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)'
   Source: (SRD p129)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: necromancy
@@ -847,6 +902,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Contagion](hd_spells_contagion.md)'
   Source: (SRD p129)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: evocation
@@ -862,6 +918,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Contingence](hd_spells_contingence.md)'
   Source: (SRD p130)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -877,6 +934,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Flamme éternelle](hd_spells_flamme_eternelle.md)'
   Source: (SRD p130)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: transmutation
@@ -892,6 +950,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Contrôle de l'eau](hd_spells_controle_de_leau.md)"
   Source: (SRD p130)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: transmutation
@@ -907,6 +966,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Contrôle du climat](hd_spells_controle_du_climat.md)'
   Source: (SRD p131)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: abjuration
@@ -922,6 +982,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Contresort](hd_spells_contresort.md)'
   Source: (SRD p131)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: conjuration
@@ -937,6 +998,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)"
   Source: (SRD p131)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: transmutation
@@ -952,6 +1014,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)"
   Source: (SRD p132)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: necromancy
@@ -967,6 +1030,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)'
   Source: (SRD p132)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: illusion
@@ -982,6 +1046,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Création](hd_spells_creation.md)'
   Source: (SRD p132)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: evocation
@@ -997,6 +1062,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Soin des blessures](hd_spells_soin_des_blessures.md)'
   Source: (SRD p132)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Evocation
@@ -1012,6 +1078,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lumières dansantes](hd_spells_lumieres_dansantes.md)'
   Source: (SRD p133)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -1027,6 +1094,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Ténèbres](hd_spells_tenebres.md)'
   Source: (SRD p133)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -1042,6 +1110,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Vision dans le noir](hd_spells_vision_dans_le_noir.md)'
   Source: (SRD p133)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: evocation
@@ -1057,6 +1126,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lumière du jour](hd_spells_lumiere_du_jour.md)'
   Source: (SRD p133)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: abjuration
@@ -1072,6 +1142,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Protection contre la mort](hd_spells_protection_contre_la_mort.md)'
   Source: (SRD p133)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: evocation
@@ -1087,6 +1158,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)'
   Source: (SRD p133)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: conjuration
@@ -1102,6 +1174,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Demi-plan](hd_spells_demi_plan.md)'
   Source: (SRD p134)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: divination
@@ -1117,6 +1190,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)'
   Source: (SRD p134)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: divination
@@ -1133,6 +1207,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Détection de la magie](hd_spells_detection_de_la_magie.md)'
   Source: (SRD p134)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: divination
@@ -1149,6 +1224,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)'
   Source: (SRD p134)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: divination
@@ -1164,6 +1240,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Détection des pensées](hd_spells_detection_des_pensees.md)'
   Source: (SRD p135)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: conjuration
@@ -1179,6 +1256,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)'
   Source: (SRD p135)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: illusion
@@ -1194,6 +1272,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Déguisement](hd_spells_deguisement.md)'
   Source: (SRD p135)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: transmutation
@@ -1209,6 +1288,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Désintégration](hd_spells_desintegration.md)'
   Source: (SRD p135)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: abjuration
@@ -1224,6 +1304,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)'
   Source: (SRD p136)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: abjuration
@@ -1239,6 +1320,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)'
   Source: (SRD p136)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: divination
@@ -1255,6 +1337,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Divination](hd_spells_divination.md)'
   Source: (SRD p136)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: evocation
@@ -1270,6 +1353,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Faveur divine](hd_spells_faveur_divine.md)'
   Source: (SRD p136)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: evocation
@@ -1285,6 +1369,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Parole divine](hd_spells_parole_divine.md)'
   Source: (SRD p137)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: enchantment
@@ -1300,6 +1385,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dominer une bête](hd_spells_dominer_une_bete.md)'
   Source: (SRD p137)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: enchantment
@@ -1315,6 +1401,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dominer un monstre](hd_spells_dominer_un_monstre.md)'
   Source: (SRD p137)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: enchantment
@@ -1330,6 +1417,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)'
   Source: (SRD p138)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: conjuration
@@ -1346,6 +1434,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Convocations instantanées](hd_spells_convocations_instantanees.md)'
   Source: (SRD p157)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: illusion
@@ -1361,6 +1450,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Rêve](hd_spells_reve.md)'
   Source: (SRD p138)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Transmutation
@@ -1376,6 +1466,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Druidisme](hd_spells_druidisme.md)'
   Source: (SRD p138)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: evocation
@@ -1391,6 +1482,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Tremblement de terre](hd_spells_tremblement_de_terre.md)'
   Source: (SRD p139)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Evocation
@@ -1406,6 +1498,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Explosion occulte](hd_spells_explosion_occulte.md)'
   Source: (SRD p139)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -1421,6 +1514,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)'
   Source: (SRD p139)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -1436,6 +1530,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)'
   Source: (SRD p140)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: conjuration
@@ -1451,6 +1546,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Enchevêtrement](hd_spells_enchevetrement.md)'
   Source: (SRD p140)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: enchantment
@@ -1466,6 +1562,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Envoûtement](hd_spells_envoutement.md)'
   Source: (SRD p140)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: transmutation
@@ -1481,6 +1578,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Forme éthérée](hd_spells_forme_etheree.md)'
   Source: (SRD p140)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: conjuration
@@ -1496,6 +1594,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Tentacules noirs](hd_spells_tentacules_noirs.md)'
   Source: (SRD p121)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: transmutation
@@ -1511,6 +1610,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Repli expéditif](hd_spells_repli_expeditif.md)'
   Source: (SRD p141)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: necromancy
@@ -1526,6 +1626,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mauvais oeil](hd_spells_mauvais_oeil.md)'
   Source: (SRD p141)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: transmutation
@@ -1541,6 +1642,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fabrication](hd_spells_fabrication.md)'
   Source: (SRD p141)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: evocation
@@ -1556,6 +1658,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lueurs féeriques](hd_spells_lueurs_feeriques.md)'
   Source: (SRD p141)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: necromancy
@@ -1571,6 +1674,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Simulacre de vie](hd_spells_simulacre_de_vie.md)'
   Source: (SRD p142)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: illusion
@@ -1586,6 +1690,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Peur](hd_spells_peur.md)'
   Source: (SRD p142)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: transmutation
@@ -1601,6 +1706,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Léger comme une plume](hd_spells_leger_comme_une_plume.md)'
   Source: (SRD p142)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: enchantment
@@ -1616,6 +1722,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Esprit faible](hd_spells_esprit_faible.md)'
   Source: (SRD p142)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: conjuration
@@ -1632,6 +1739,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Appel de familier](hd_spells_appel_de_familier.md)'
   Source: (SRD p143)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: conjuration
@@ -1647,6 +1755,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Trouver une monture](hd_spells_trouver_une_monture.md)'
   Source: (SRD p143)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: divination
@@ -1662,6 +1771,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Trouver un chemin](hd_spells_trouver_un_chemin.md)'
   Source: (SRD p143)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: divination
@@ -1677,6 +1787,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Trouver les pièges](hd_spells_trouver_les_pieges.md)'
   Source: (SRD p144)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: necromancy
@@ -1692,6 +1803,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Doigt de mort](hd_spells_doigt_de_mort.md)'
   Source: (SRD p144)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Evocation
@@ -1707,6 +1819,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Trait de feu](hd_spells_trait_de_feu.md)'
   Source: (SRD p144)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: evocation
@@ -1722,6 +1835,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bouclier de feu](hd_spells_bouclier_de_feu.md)'
   Source: (SRD p144)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: evocation
@@ -1737,6 +1851,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Tempête de feu](hd_spells_tempete_de_feu.md)'
   Source: (SRD p145)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: evocation
@@ -1752,6 +1867,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Boule de feu](hd_spells_boule_de_feu.md)'
   Source: (SRD p144)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -1767,6 +1883,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lame de feu](hd_spells_lame_de_feu.md)'
   Source: (SRD p145)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: evocation
@@ -1782,6 +1899,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Colonne de flamme](hd_spells_colonne_de_flamme.md)'
   Source: (SRD p145)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: conjuration
@@ -1797,6 +1915,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sphère de feu](hd_spells_sphere_de_feu.md)'
   Source: (SRD p145)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: transmutation
@@ -1812,6 +1931,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Pétrification](hd_spells_petrification.md)'
   Source: (SRD p145)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: transmutation
@@ -1827,6 +1947,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Vol](hd_spells_vol.md)'
   Source: (SRD p146)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: conjuration
@@ -1842,6 +1963,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Nappe de brouillard](hd_spells_nappe_de_brouillard.md)'
   Source: (SRD p146)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: abjuration
@@ -1858,6 +1980,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Interdiction](hd_spells_interdiction.md)'
   Source: (SRD p146)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: evocation
@@ -1873,6 +1996,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Cage de force](hd_spells_cage_de_force.md)'
   Source: (SRD p147)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: divination
@@ -1888,6 +2012,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Prémonition](hd_spells_premonition.md)'
   Source: (SRD p147)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: abjuration
@@ -1903,6 +2028,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Liberté de mouvement](hd_spells_liberte_de_mouvement.md)'
   Source: (SRD p147)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: transmutation
@@ -1918,6 +2044,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Forme gazeuse](hd_spells_forme_gazeuse.md)'
   Source: (SRD p148)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: conjuration
@@ -1933,6 +2060,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Portail](hd_spells_portail.md)'
   Source: (SRD p148)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: enchantment
@@ -1948,6 +2076,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Coercition mystique](hd_spells_coercition_mystique.md)'
   Source: (SRD p148)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: necromancy
@@ -1964,6 +2093,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Doux repos](hd_spells_doux_repos.md)'
   Source: (SRD p148)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: transmutation
@@ -1979,6 +2109,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Insecte géant](hd_spells_insecte_geant.md)'
   Source: (SRD p149)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: transmutation
@@ -1994,6 +2125,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bagou](hd_spells_bagou.md)'
   Source: (SRD p149)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: abjuration
@@ -2009,6 +2141,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Globe d'invulnérabilité](hd_spells_globe_dinvulnerabilite.md)"
   Source: (SRD p149)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: abjuration
@@ -2024,6 +2157,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Glyphe de protection](hd_spells_glyphe_de_protection.md)'
   Source: (SRD p149)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: transmutation
@@ -2039,6 +2173,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Baies nourricières](hd_spells_baies_nourricieres.md)'
   Source: (SRD p150)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: conjuration
@@ -2054,6 +2189,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Graisse](hd_spells_graisse.md)'
   Source: (SRD p150)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: illusion
@@ -2069,6 +2205,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Invisibilité supérieure](hd_spells_invisibilite_superieure.md)'
   Source: (SRD p150)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: abjuration
@@ -2084,6 +2221,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Restauration supérieure](hd_spells_restauration_superieure.md)'
   Source: (SRD p150)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: conjuration
@@ -2099,6 +2237,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Gardien de la foi](hd_spells_gardien_de_la_foi.md)'
   Source: (SRD p150)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: abjuration
@@ -2114,6 +2253,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Protections et sceaux](hd_spells_protections_et_sceaux.md)'
   Source: (SRD p151)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Divination
@@ -2129,6 +2269,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Assistance](hd_spells_assistance.md)'
   Source: (SRD p151)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: evocation
@@ -2144,6 +2285,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Balisage](hd_spells_balisage.md)'
   Source: (SRD p151)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -2159,6 +2301,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bourrasque](hd_spells_bourrasque.md)'
   Source: (SRD p152)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: evocation
@@ -2174,6 +2317,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sanctification](hd_spells_sanctification.md)'
   Source: (SRD p152)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: illusion
@@ -2189,6 +2333,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)'
   Source: (SRD p152)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: necromancy
@@ -2204,6 +2349,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Contamination](hd_spells_contamination.md)'
   Source: (SRD p153)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: transmutation
@@ -2219,6 +2365,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Hâte](hd_spells_hate.md)'
   Source: (SRD p153)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: evocation
@@ -2234,6 +2381,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Guérison](hd_spells_guerison.md)'
   Source: (SRD p153)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: evocation
@@ -2249,6 +2397,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mot de guérison](hd_spells_mot_de_guerison.md)'
   Source: (SRD p153)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -2264,6 +2413,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Chauffer le métal](hd_spells_chauffer_le_metal.md)'
   Source: (SRD p153)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: evocation
@@ -2279,6 +2429,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Représailles infernales](hd_spells_represailles_infernales.md)'
   Source: (SRD p154)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: conjuration
@@ -2294,6 +2445,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Festin des héros](hd_spells_festin_des_heros.md)'
   Source: (SRD p154)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: enchantment
@@ -2309,6 +2461,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Héroïsme](hd_spells_heroisme.md)'
   Source: (SRD p154)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: enchantment
@@ -2324,6 +2477,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)'
   Source: (SRD p154)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: enchantment
@@ -2339,6 +2493,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)'
   Source: (SRD p154)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: abjuration
@@ -2354,6 +2509,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Aura sacrée](hd_spells_aura_sacree.md)'
   Source: (SRD p155)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: divination
@@ -2369,6 +2525,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Marque du chasseur](hd_spells_marque_du_chasseur.md)'
   Source: (SRD p155)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: illusion
@@ -2384,6 +2541,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Motif hypnotique](hd_spells_motif_hypnotique.md)'
   Source: (SRD p155)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: evocation
@@ -2399,6 +2557,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Tempête de grêle](hd_spells_tempete_de_grele.md)'
   Source: (SRD p155)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: divination
@@ -2415,6 +2574,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Identification](hd_spells_identification.md)'
   Source: (SRD p155)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: illusion
@@ -2431,6 +2591,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Texte illusoire](hd_spells_texte_illusoire.md)'
   Source: (SRD p156)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: abjuration
@@ -2446,6 +2607,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Emprisonnement](hd_spells_emprisonnement.md)'
   Source: (SRD p156)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: conjuration
@@ -2461,6 +2623,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Nuage incendiaire](hd_spells_nuage_incendiaire.md)'
   Source: (SRD p157)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: necromancy
@@ -2476,6 +2639,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Blessure](hd_spells_blessure.md)'
   Source: (SRD p157)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: conjuration
@@ -2491,6 +2655,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Fléau d'insectes](hd_spells_fleau_dinsectes.md)"
   Source: (SRD p157)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: illusion
@@ -2506,6 +2671,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Invisibilité](hd_spells_invisibilite.md)'
   Source: (SRD p157)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: transmutation
@@ -2521,6 +2687,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Saut](hd_spells_saut.md)'
   Source: (SRD p158)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -2536,6 +2703,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Déblocage](hd_spells_deblocage.md)'
   Source: (SRD p158)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: divination
@@ -2551,6 +2719,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Légende](hd_spells_legende.md)'
   Source: (SRD p158)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: conjuration
@@ -2566,6 +2735,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Coffre secret](hd_spells_coffre_secret.md)'
   Source: (SRD p177)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: evocation
@@ -2582,6 +2752,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Petite hutte](hd_spells_petite_hutte.md)'
   Source: (SRD p187)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: abjuration
@@ -2597,6 +2768,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Restauration inférieure](hd_spells_restauration_inferieure.md)'
   Source: (SRD p158)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -2612,6 +2784,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lévitation](hd_spells_levitation.md)'
   Source: (SRD p158)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Evocation
@@ -2627,6 +2800,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lumière](hd_spells_lumiere.md)'
   Source: (SRD p159)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: evocation
@@ -2642,6 +2816,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Éclair](hd_spells_eclair.md)'
   Source: (SRD p159)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: divination
@@ -2658,6 +2833,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)'
   Source: (SRD p159)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: divination
@@ -2673,6 +2849,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Localiser une créature](hd_spells_localiser_une_creature.md)'
   Source: (SRD p159)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: divination
@@ -2688,6 +2865,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Localiser un objet](hd_spells_localiser_un_objet.md)'
   Source: (SRD p159)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: transmutation
@@ -2703,6 +2881,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Grande foulée](hd_spells_grande_foulee.md)'
   Source: (SRD p160)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: abjuration
@@ -2718,6 +2897,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Armure du mage](hd_spells_armure_du_mage.md)'
   Source: (SRD p160)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Conjuration
@@ -2733,6 +2913,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Main du mage](hd_spells_main_du_mage.md)'
   Source: (SRD p160)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: abjuration
@@ -2748,6 +2929,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Cercle magique](hd_spells_cercle_magique.md)'
   Source: (SRD p160)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: necromancy
@@ -2763,6 +2945,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Possession](hd_spells_possession.md)'
   Source: (SRD p160)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: evocation
@@ -2778,6 +2961,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Projectile magique](hd_spells_projectile_magique.md)'
   Source: (SRD p161)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: illusion
@@ -2794,6 +2978,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bouche magique](hd_spells_bouche_magique.md)'
   Source: (SRD p161)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -2809,6 +2994,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Arme magique](hd_spells_arme_magique.md)'
   Source: (SRD p161)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: illusion
@@ -2824,6 +3010,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Image majeure](hd_spells_image_majeure.md)'
   Source: (SRD p162)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: evocation
@@ -2839,6 +3026,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)'
   Source: (SRD p162)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: evocation
@@ -2854,6 +3042,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Guérison de groupe](hd_spells_guerison_de_groupe.md)'
   Source: (SRD p163)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: evocation
@@ -2869,6 +3058,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)'
   Source: (SRD p163)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: enchantment
@@ -2884,6 +3074,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Suggestion de groupe](hd_spells_suggestion_de_groupe.md)'
   Source: (SRD p163)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: conjuration
@@ -2899,6 +3090,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Labyrinthe](hd_spells_labyrinthe.md)'
   Source: (SRD p163)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: transmutation
@@ -2915,6 +3107,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)'
   Source: (SRD p163)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -2930,6 +3123,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Flèche acide](hd_spells_fleche_acide.md)'
   Source: (SRD p114)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Transmutation
@@ -2945,6 +3139,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Réparation](hd_spells_reparation.md)'
   Source: (SRD p164)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Transmutation
@@ -2960,6 +3155,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Message](hd_spells_message.md)'
   Source: (SRD p164)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: evocation
@@ -2975,6 +3171,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Nuée de météores](hd_spells_nuee_de_meteores.md)'
   Source: (SRD p164)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: abjuration
@@ -2990,6 +3187,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Esprit impénétrable](hd_spells_esprit_impenetrable.md)'
   Source: (SRD p164)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Illusion
@@ -3005,6 +3203,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Illusion mineure](hd_spells_illusion_mineure.md)'
   Source: (SRD p164)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: illusion
@@ -3020,6 +3219,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mirage](hd_spells_mirage.md)'
   Source: (SRD p165)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: illusion
@@ -3035,6 +3235,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Image miroir](hd_spells_image_miroir.md)'
   Source: (SRD p165)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: illusion
@@ -3050,6 +3251,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Tromperie](hd_spells_tromperie.md)'
   Source: (SRD p165)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: conjuration
@@ -3065,6 +3267,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Pas brumeux](hd_spells_pas_brumeux.md)'
   Source: (SRD p165)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: enchantment
@@ -3080,6 +3283,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Modification de mémoire](hd_spells_modification_de_memoire.md)'
   Source: (SRD p166)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -3095,6 +3299,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Rayon de lune](hd_spells_rayon_de_lune.md)'
   Source: (SRD p166)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: conjuration
@@ -3110,6 +3315,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Chien de garde](hd_spells_chien_de_garde.md)'
   Source: (SRD p142)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: conjuration
@@ -3125,6 +3331,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Manoir somptueux](hd_spells_manoir_somptueux.md)'
   Source: (SRD p162)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: abjuration
@@ -3140,6 +3347,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sanctuaire privé](hd_spells_sanctuaire_prive.md)'
   Source: (SRD p171)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: evocation
@@ -3155,6 +3363,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Épée magique](hd_spells_epee_magique.md)'
   Source: (SRD p119)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: transmutation
@@ -3170,6 +3379,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Déplacer la terre](hd_spells_deplacer_la_terre.md)'
   Source: (SRD p166)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: abjuration
@@ -3185,6 +3395,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Non-détection](hd_spells_non_detection.md)'
   Source: (SRD p167)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: illusion
@@ -3200,6 +3411,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)"
   Source: (SRD p119)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: evocation
@@ -3215,6 +3427,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sphère glacée](hd_spells_sphere_glacee.md)'
   Source: (SRD p147)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: evocation
@@ -3230,6 +3443,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sphère résiliente](hd_spells_sphere_resiliente.md)'
   Source: (SRD p175)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: enchantment
@@ -3245,6 +3459,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Danse irrésistible](hd_spells_danse_irresistible.md)'
   Source: (SRD p158)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: abjuration
@@ -3260,6 +3475,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Passage sans trace](hd_spells_passage_sans_trace.md)'
   Source: (SRD p167)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: transmutation
@@ -3275,6 +3491,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Passe-muraille](hd_spells_passe_muraille.md)'
   Source: (SRD p167)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: illusion
@@ -3290,6 +3507,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Assassin imaginaire](hd_spells_assassin_imaginaire.md)'
   Source: (SRD p167)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: illusion
@@ -3306,6 +3524,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Monture fantôme](hd_spells_monture_fantome.md)'
   Source: (SRD p167)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: conjuration
@@ -3321,6 +3540,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Allié planaire](hd_spells_allie_planaire.md)'
   Source: (SRD p168)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: abjuration
@@ -3336,6 +3556,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Entrave planaire](hd_spells_entrave_planaire.md)'
   Source: (SRD p168)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: conjuration
@@ -3351,6 +3572,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Changement de plan](hd_spells_changement_de_plan.md)'
   Source: (SRD p168)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: transmutation
@@ -3366,6 +3588,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Croissance végétale](hd_spells_croissance_vegetale.md)'
   Source: (SRD p169)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Conjuration
@@ -3381,6 +3604,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bouffée de poison](hd_spells_bouffee_de_poison.md)'
   Source: (SRD p169)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: transmutation
@@ -3396,6 +3620,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Métamorphose](hd_spells_metamorphose.md)'
   Source: (SRD p169)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: enchantment
@@ -3411,6 +3636,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)'
   Source: (SRD p170)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: enchantment
@@ -3426,6 +3652,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)'
   Source: (SRD p170)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -3441,6 +3668,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Prière de soins](hd_spells_priere_de_soins.md)'
   Source: (SRD p170)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Transmutation
@@ -3456,6 +3684,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Prestidigitation](hd_spells_prestidigitation.md)'
   Source: (SRD p170)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: evocation
@@ -3471,6 +3700,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Embruns prismatiques](hd_spells_embruns_prismatiques.md)'
   Source: (SRD p170)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: abjuration
@@ -3486,6 +3716,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mur prismatique](hd_spells_mur_prismatique.md)'
   Source: (SRD p171)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Conjuration
@@ -3501,6 +3732,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Produire une flamme](hd_spells_produire_une_flamme.md)'
   Source: (SRD p172)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: illusion
@@ -3516,6 +3748,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Illusion programmée](hd_spells_illusion_programmee.md)'
   Source: (SRD p172)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: illusion
@@ -3531,6 +3764,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Image projetée](hd_spells_image_projetee.md)'
   Source: (SRD p172)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: abjuration
@@ -3546,6 +3780,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Protection contre les énergies](hd_spells_protection_contre_les_energies.md)'
   Source: (SRD p173)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: abjuration
@@ -3561,6 +3796,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)'
   Source: (SRD p173)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: abjuration
@@ -3576,6 +3812,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Protection contre le poison](hd_spells_protection_contre_le_poison.md)'
   Source: (SRD p173)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: transmutation
@@ -3592,6 +3829,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)"
   Source: (SRD p173)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: necromancy
@@ -3607,6 +3845,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Rappel à la vie](hd_spells_rappel_a_la_vie.md)'
   Source: (SRD p173)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: divination
@@ -3623,6 +3862,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lien télépathique](hd_spells_lien_telepathique.md)'
   Source: (SRD p185)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: necromancy
@@ -3638,6 +3878,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)'
   Source: (SRD p174)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Evocation
@@ -3653,6 +3894,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Rayon de givre](hd_spells_rayon_de_givre.md)'
   Source: (SRD p174)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: transmutation
@@ -3668,6 +3910,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Régénération](hd_spells_regeneration.md)'
   Source: (SRD p174)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: transmutation
@@ -3683,6 +3926,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Réincarnation](hd_spells_reincarnation.md)'
   Source: (SRD p174)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: abjuration
@@ -3698,6 +3942,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lever une malédiction](hd_spells_lever_une_malediction.md)'
   Source: (SRD p174)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Abjuration
@@ -3713,6 +3958,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Résistance](hd_spells_resistance.md)'
   Source: (SRD p175)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: necromancy
@@ -3728,6 +3974,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Résurrection](hd_spells_resurrection.md)'
   Source: (SRD p175)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: transmutation
@@ -3743,6 +3990,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)'
   Source: (SRD p175)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: necromancy
@@ -3758,6 +4006,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Revigorer](hd_spells_revigorer.md)'
   Source: (SRD p175)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -3773,6 +4022,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Corde enchantée](hd_spells_corde_enchantee.md)'
   Source: (SRD p176)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Evocation
@@ -3788,6 +4038,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Flamme sacrée](hd_spells_flamme_sacree.md)'
   Source: (SRD p176)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: abjuration
@@ -3803,6 +4054,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sanctuaire](hd_spells_sanctuaire.md)'
   Source: (SRD p176)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -3818,6 +4070,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Rayon ardent](hd_spells_rayon_ardent.md)'
   Source: (SRD p176)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: divination
@@ -3833,6 +4086,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Scrutation](hd_spells_scrutation.md)'
   Source: (SRD p176)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: divination
@@ -3848,6 +4102,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Voir l'invisible](hd_spells_voir_linvisible.md)"
   Source: (SRD p177)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: illusion
@@ -3863,6 +4118,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Apparence trompeuse](hd_spells_apparence_trompeuse.md)'
   Source: (SRD p177)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: evocation
@@ -3878,6 +4134,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Envoi de message](hd_spells_envoi_de_message.md)'
   Source: (SRD p177)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: transmutation
@@ -3893,6 +4150,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Séquestration](hd_spells_sequestration.md)'
   Source: (SRD p178)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: transmutation
@@ -3908,6 +4166,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Changement de forme](hd_spells_changement_de_forme.md)'
   Source: (SRD p178)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -3923,6 +4182,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Briser](hd_spells_briser.md)'
   Source: (SRD p178)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: abjuration
@@ -3938,6 +4198,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bouclier](hd_spells_bouclier.md)'
   Source: (SRD p179)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: abjuration
@@ -3953,6 +4214,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)'
   Source: (SRD p179)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Transmutation
@@ -3968,6 +4230,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Gourdin magique](hd_spells_gourdin_magique.md)'
   Source: (SRD p179)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Evocation
@@ -3983,6 +4246,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Poigne électrique](hd_spells_poigne_electrique.md)'
   Source: (SRD p179)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: illusion
@@ -3999,6 +4263,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Silence](hd_spells_silence.md)'
   Source: (SRD p179)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: illusion
@@ -4014,6 +4279,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Image silencieuse](hd_spells_image_silencieuse.md)'
   Source: (SRD p179)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: illusion
@@ -4029,6 +4295,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Simulacre](hd_spells_simulacre.md)'
   Source: (SRD p180)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: enchantment
@@ -4044,6 +4311,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Sommeil](hd_spells_sommeil.md)'
   Source: (SRD p180)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: conjuration
@@ -4059,6 +4327,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Tempête de neige](hd_spells_tempete_de_neige.md)'
   Source: (SRD p180)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: transmutation
@@ -4074,6 +4343,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lenteur](hd_spells_lenteur.md)'
   Source: (SRD p180)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Necromancy
@@ -4089,6 +4359,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Épargner les mourants](hd_spells_epargner_les_mourants.md)'
   Source: (SRD p181)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: divination
@@ -4105,6 +4376,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)'
   Source: (SRD p181)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: necromancy
@@ -4120,6 +4392,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Communication avec les morts](hd_spells_communication_avec_les_morts.md)'
   Source: (SRD p181)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: transmutation
@@ -4135,6 +4408,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)'
   Source: (SRD p181)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -4150,6 +4424,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Pattes d'araignée](hd_spells_pattes_daraignee.md)"
   Source: (SRD p182)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: transmutation
@@ -4165,6 +4440,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Croissance d'épines](hd_spells_croissance_depines.md)"
   Source: (SRD p182)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: conjuration
@@ -4180,6 +4456,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Esprits gardiens](hd_spells_esprits_gardiens.md)'
   Source: (SRD p182)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: evocation
@@ -4195,6 +4472,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Arme spirituelle](hd_spells_arme_spirituelle.md)'
   Source: (SRD p182)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: conjuration
@@ -4210,6 +4488,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Nuage puant](hd_spells_nuage_puant.md)'
   Source: (SRD p182)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: transmutation
@@ -4225,6 +4504,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)'
   Source: (SRD p183)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: abjuration
@@ -4240,6 +4520,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Peau de pierre](hd_spells_peau_de_pierre.md)'
   Source: (SRD p183)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: conjuration
@@ -4255,6 +4536,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Tempête vengeresse](hd_spells_tempete_vengeresse.md)'
   Source: (SRD p183)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: enchantment
@@ -4270,6 +4552,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Suggestion](hd_spells_suggestion.md)'
   Source: (SRD p183)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: evocation
@@ -4285,6 +4568,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Rayon de soleil](hd_spells_rayon_de_soleil.md)'
   Source: (SRD p184)
+  Attributes: {}
 - !SpellVO
   Level: 8
   Type: evocation
@@ -4300,6 +4584,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Éclat du soleil](hd_spells_eclat_du_soleil.md)'
   Source: (SRD p184)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: abjuration
@@ -4315,6 +4600,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Symbole](hd_spells_symbole.md)'
   Source: (SRD p184)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: enchantment
@@ -4330,6 +4616,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Fou rire](hd_spells_fou_rire.md)'
   Source: (SRD p154)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: transmutation
@@ -4345,6 +4632,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Télékinésie](hd_spells_telekinesie.md)'
   Source: (SRD p185)
+  Attributes: {}
 - !SpellVO
   Level: 7
   Type: conjuration
@@ -4360,6 +4648,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Téléportation](hd_spells_teleportation.md)'
   Source: (SRD p185)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: conjuration
@@ -4375,6 +4664,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Cercle de téléportation](hd_spells_cercle_de_teleportation.md)'
   Source: (SRD p186)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: conjuration
@@ -4391,6 +4681,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Disque flottant](hd_spells_disque_flottant.md)'
   Source: (SRD p146)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Transmutation
@@ -4406,6 +4697,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Thaumaturgie](hd_spells_thaumaturgie.md)'
   Source: (SRD p187)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: evocation
@@ -4421,6 +4713,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Vague tonnante](hd_spells_vague_tonnante.md)'
   Source: (SRD p187)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: transmutation
@@ -4436,6 +4729,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Arrêt du temps](hd_spells_arret_du_temps.md)'
   Source: (SRD p187)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: divination
@@ -4451,6 +4745,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Langues](hd_spells_langues.md)'
   Source: (SRD p187)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: conjuration
@@ -4466,6 +4761,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Transport végétal](hd_spells_transport_vegetal.md)'
   Source: (SRD p188)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: conjuration
@@ -4481,6 +4777,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Passage par les arbres](hd_spells_passage_par_les_arbres.md)'
   Source: (SRD p188)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: transmutation
@@ -4496,6 +4793,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Métamorphose suprême](hd_spells_metamorphose_supreme.md)'
   Source: (SRD p188)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: necromancy
@@ -4511,6 +4809,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Résurrection suprême](hd_spells_resurrection_supreme.md)'
   Source: (SRD p189)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: divination
@@ -4526,6 +4825,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Vision suprême](hd_spells_vision_supreme.md)'
   Source: (SRD p189)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Divination
@@ -4541,6 +4841,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Viser juste](hd_spells_viser_juste.md)'
   Source: (SRD p189)
+  Attributes: {}
 - !SpellVO
   Level: 1
   Type: conjuration
@@ -4557,6 +4858,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Serviteur invisible](hd_spells_serviteur_invisible.md)'
   Source: (SRD p189)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: necromancy
@@ -4572,6 +4874,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Caresse du vampire](hd_spells_caresse_du_vampire.md)'
   Source: (SRD p189)
+  Attributes: {}
 - !SpellVO
   Level: cantrip
   Type: Enchantment
@@ -4587,6 +4890,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Moquerie cruelle](hd_spells_moquerie_cruelle.md)'
   Source: (SRD p189)
+  Attributes: {}
 - !SpellVO
   Level: 4
   Type: evocation
@@ -4602,6 +4906,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mur de feu](hd_spells_mur_de_feu.md)'
   Source: (SRD p190)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: evocation
@@ -4617,6 +4922,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mur de force](hd_spells_mur_de_force.md)'
   Source: (SRD p190)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: evocation
@@ -4632,6 +4938,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mur de glace](hd_spells_mur_de_glace.md)'
   Source: (SRD p190)
+  Attributes: {}
 - !SpellVO
   Level: 5
   Type: evocation
@@ -4647,6 +4954,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mur de pierre](hd_spells_mur_de_pierre.md)'
   Source: (SRD p190)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: conjuration
@@ -4662,6 +4970,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Mur d'épines](hd_spells_mur_depines.md)"
   Source: (SRD p191)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: abjuration
@@ -4677,6 +4986,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Lien de protection](hd_spells_lien_de_protection.md)'
   Source: (SRD p191)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: transmutation
@@ -4693,6 +5003,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Respiration aquatique](hd_spells_respiration_aquatique.md)'
   Source: (SRD p191)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: transmutation
@@ -4709,6 +5020,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Marche sur l'eau](hd_spells_marche_sur_leau.md)"
   Source: (SRD p191)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: conjuration
@@ -4724,6 +5036,7 @@ SubItems:
   NameLevel: 1
   AltName: "[Toile d'araignée](hd_spells_toile_daraignee.md)"
   Source: (SRD p192)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: illusion
@@ -4739,6 +5052,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Étrangeté](hd_spells_etrangete.md)'
   Source: (SRD p192)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: transmutation
@@ -4754,6 +5068,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Marche sur le vent](hd_spells_marche_sur_le_vent.md)'
   Source: (SRD p192)
+  Attributes: {}
 - !SpellVO
   Level: 3
   Type: evocation
@@ -4769,6 +5084,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mur de vent](hd_spells_mur_de_vent.md)'
   Source: (SRD p192)
+  Attributes: {}
 - !SpellVO
   Level: 9
   Type: conjuration
@@ -4784,6 +5100,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Souhait](hd_spells_souhait.md)'
   Source: (SRD p193)
+  Attributes: {}
 - !SpellVO
   Level: 6
   Type: conjuration
@@ -4799,6 +5116,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Mot de retour](hd_spells_mot_de_retour.md)'
   Source: (SRD p193)
+  Attributes: {}
 - !SpellVO
   Level: 2
   Type: enchantment
@@ -4814,6 +5132,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Zone de vérité](hd_spells_zone_de_verite.md)'
   Source: (SRD p193)
+  Attributes: {}
 Id: spells_vo.md#spells-srd-p
 RootId: spells_vo.md
 ParentLink: index.md
@@ -4821,6 +5140,7 @@ Name: Spells (SRD p)
 ParentName: SRD
 NameLevel: 1
 AltName: '[Sorts](hd_spells.md)'
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

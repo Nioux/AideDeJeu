@@ -24,6 +24,7 @@ Name: Jeune dragon de bronze
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

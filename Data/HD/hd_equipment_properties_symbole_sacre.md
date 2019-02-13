@@ -7,6 +7,7 @@ ParentName: Équipement
 NameLevel: 2
 AltName: Holy Symbol (SRD p67)
 Source: (MDR p233)
+Attributes: {}
 ---
 > [Équipement](hd_equipment_properties.md)
 

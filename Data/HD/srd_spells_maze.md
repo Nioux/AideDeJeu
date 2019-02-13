@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Labyrinthe](hd_spells_labyrinthe.md)'
 Source: (SRD p163)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

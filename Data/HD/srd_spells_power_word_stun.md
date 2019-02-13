@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)'
 Source: (SRD p170)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

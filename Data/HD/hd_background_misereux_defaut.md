@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityDefectItem
 Id: background_misereux_hd.md#défaut
 ParentLink: background_misereux_hd.md#personnalités-suggérées
 Name: Défaut
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_misereux_personnalites_suggerees.md)
 

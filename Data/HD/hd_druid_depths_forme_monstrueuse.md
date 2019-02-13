@@ -5,6 +5,7 @@ ParentLink: druid_depths_hd.md#cercle-des-profondeurs
 Name: Forme monstrueuse
 ParentName: Cercle des profondeurs
 NameLevel: 2
+Attributes: {}
 ---
 > [Cercle des profondeurs](hd_druid_depths.md)
 

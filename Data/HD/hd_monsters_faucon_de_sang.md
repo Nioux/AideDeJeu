@@ -22,6 +22,7 @@ Name: Faucon de sang
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Blood Hawk](srd_monsters_blood_hawk.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

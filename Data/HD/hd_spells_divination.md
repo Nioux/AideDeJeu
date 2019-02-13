@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Divination](srd_spells_divination.md)'
 Source: (MDR p348)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

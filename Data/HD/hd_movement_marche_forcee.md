@@ -5,6 +5,7 @@ ParentLink: movement_hd.md#déplacement
 Name: Marche forcée
 ParentName: Déplacement
 NameLevel: 2
+Attributes: {}
 ---
 > [Déplacement](hd_movement.md)
 

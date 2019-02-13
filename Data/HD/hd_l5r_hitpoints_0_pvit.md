@@ -6,6 +6,7 @@ Name: 0 PVit
 ParentName: Points de vie et blessures
 NameLevel: 4
 Source: (L5R p43)
+Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)
 

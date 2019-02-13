@@ -24,6 +24,7 @@ Name: Adult Bronze Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

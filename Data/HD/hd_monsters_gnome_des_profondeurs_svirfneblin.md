@@ -22,6 +22,7 @@ Name: Gnome des profondeurs (svirfneblin)
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

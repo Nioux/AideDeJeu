@@ -22,6 +22,7 @@ Name: Méduse
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Medusa](srd_monsters_medusa.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

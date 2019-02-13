@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Blur](srd_spells_blur.md)'
 Source: (MDR p356)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -1,5 +1,5 @@
 
-<!--RaceItem-->
+<!--RaceItem IntelligenceBonus="2"-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 
@@ -14,23 +14,23 @@
 
 Un personnage gnome partage de nombreux traits avec tous les autres gnomes.
 
-**Augmentation de caractéristiques.** Votre valeur d'[Intelligence] augmente de <!--IntelligenceBonus-->2<!--/IntelligenceBonus-->.
+**Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur d'[Intelligence] augmente de 2.<!--/AbilityScoreIncrease-->
 
-**Âge.** Les gnomes grandissent un peu moins vite que les humains et la plupart rentrent dans la vie adulte vers l'âge de 40 ans. Ils peuvent vivre de 350 à presque 500 ans.
+**Âge.** <!--Age-->Les gnomes grandissent un peu moins vite que les humains et la plupart rentrent dans la vie adulte vers l'âge de 40 ans. Ils peuvent vivre de 350 à presque 500 ans.<!--/Age-->
 
-**Alignement.** Les gnomes sont généralement attirés par le Bien. Ceux qui sont attirés par la loi sont des sages, des ingénieurs, des chercheurs, des érudits, des enquêteurs ou des inventeurs. Ceux qui sont plus attirés par le chaos deviennent ménestrels, arnaqueurs, vagabonds ou bijoutiers fantaisistes. Les gnomes ont bon coeur et mêmes les plus filous d'entre eux sont plus taquins que mal intentionnés.
+**Alignement.** <!--Alignment-->Les gnomes sont généralement attirés par le Bien. Ceux qui sont attirés par la loi sont des sages, des ingénieurs, des chercheurs, des érudits, des enquêteurs ou des inventeurs. Ceux qui sont plus attirés par le chaos deviennent ménestrels, arnaqueurs, vagabonds ou bijoutiers fantaisistes. Les gnomes ont bon coeur et mêmes les plus filous d'entre eux sont plus taquins que mal intentionnés.<!--/Alignment-->
 
-**Taille.** Les gnomes mesurent entre 90 centimètres et 1,20 mètre et pèsent en moyenne une vingtaine de kilos. Ils sont de petite taille.
+**Taille.** <!--Size-->Les gnomes mesurent entre 90 centimètres et 1,20 mètre et pèsent en moyenne une vingtaine de kilos. Ils sont de petite taille.<!--/Size-->
 
-**Vitesse.** Votre vitesse au sol de base est de 7,50 mètres.
+**Vitesse.** <!--Speed-->Votre vitesse au sol de base est de 7,50 mètres.<!--/Speed-->
 
-**Vision dans le noir.** Habitué à la vie souterraine, vous avez une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
+**Vision dans le noir.** <!--Darkvision-->Habitué à la vie souterraine, vous avez une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.<!--/Darkvision-->
 
 **Ruse gnome.** Vous bénéficiez d'un avantage pour tous les [jets de sauvegarde] d'[Intelligence], [Sagesse] et [Charisme] contre la magie.
 
-**Langues.** Vous pouvez parler, lire et écrire en commun et en gnome. La langue gnome utilise le même alphabet que les nains (le Runique). Les gnomes sont renommés pour leurs traités techniques et leurs catalogues de connaissances sur la nature.
+**Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en commun et en gnome. La langue gnome utilise le même alphabet que les nains (le Runique). Les gnomes sont renommés pour leurs traités techniques et leurs catalogues de connaissances sur la nature.<!--/Languages-->
 
-<!--SubRaceItem-->
+<!--SubRaceItem ConstitutionBonus="1"-->
 
 ## <!--Name-->Gnome des roches<!--/Name-->
 
@@ -39,7 +39,7 @@ Un personnage gnome partage de nombreux traits avec tous les autres gnomes.
 
 Les gnomes des roches sont naturellement plus inventifs et résistants que les autres gnomes.
 
-**Augmentation de caractéristiques.** Votre valeur de [Constitution] augmente de <!--ConstitutionBonus-->1<!--/ConstitutionBonus-->.
+**Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Constitution] augmente de 1.<!--/AbilityScoreIncrease-->
 
 **Connaissances en ingénierie.** Quand vous faites un test d'[Intelligence (Histoire)] relatif aux objets magiques, alchimiques ou technologiques, et que vous disposez de la maîtrise de cette compétence, vous ajoutez le double de votre bonus de maîtrise au résultat du test au lieu de votre bonus de maîtrise normal.
 
@@ -53,7 +53,7 @@ Quand vous créez un mécanisme, vous avez le choix entre trois options :
 
 <!--/SubRaceItem-->
 
-<!--SubRaceItem-->
+<!--SubRaceItem DexterityBonus="1"-->
 
 ## <!--Name-->Gnome des fées<!--/Name-->
 
@@ -61,7 +61,7 @@ Quand vous créez un mécanisme, vous avez le choix entre trois options :
 
 Les gnomes des fées sont très habiles et leur relation à la nature leur donne une aisance particulière pour le pistage.
 
-**Augmentation de caractéristiques.** Votre valeur de [Dextérité] augmente de <!--DexterityBonus-->1<!--/DexterityBonus-->. 
+**Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Dextérité] augmente de 1.<!--/AbilityScoreIncrease-->
 
 **Sens aiguisés.** Vos sens supérieurs vous permettent de suivre n'importe quelle piste. Vous bénéficiez d'un avantage à tous vos tests de [Sagesse (Survie)] effectués afin de pister une créature.
 
@@ -69,7 +69,7 @@ Les gnomes des fées sont très habiles et leur relation à la nature leur donne
 
 <!--/SubRaceItem-->
 
-<!--SubRaceItem-->
+<!--SubRaceItem WisdomBonus="1"-->
 
 ## <!--Name-->Gnome des lacs<!--/Name-->
 
@@ -77,7 +77,7 @@ Les gnomes des fées sont très habiles et leur relation à la nature leur donne
 
 Les gnomes des lacs sont discrets et manifestent une sagesse supérieure aux autres gnomes. Leurs illusions sont très puissantes et difficiles à déjouer.
 
-**Augmentation de caractéristiques.** Votre valeur de [Sagesse] augmente de <!--WisdomBonus-->1<!--/WisdomBonus-->.
+**Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Sagesse] augmente de 1.<!--/AbilityScoreIncrease-->
 
 **Maître des illusions.** Vous obtenez un avantage sur les [jets de sauvegarde] effectués afin de résister aux sorts d'illusion, ainsi qu'aux tests visant à discerner la présence d'une illusion déjà présente.
 

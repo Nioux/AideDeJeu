@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityIdealItem
 Id: background_erudit_hd.md#idéal
 ParentLink: background_erudit_hd.md#personnalités-suggérées
 Name: Idéal
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_erudit_personnalites_suggerees.md)
 

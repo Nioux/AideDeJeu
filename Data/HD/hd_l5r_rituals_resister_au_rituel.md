@@ -6,6 +6,7 @@ Name: Résister au rituel
 ParentName: Lancer un rituel
 NameLevel: 4
 Source: (L5R p68)
+Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)
 

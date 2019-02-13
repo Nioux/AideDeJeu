@@ -6,6 +6,7 @@ Name: Fantôme insaisissable
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 5
 Source: (L5R p54)
+Attributes: {}
 ---
 > [Rôdeur des cinq Royaumes](hd_l5r_ranger.md)
 

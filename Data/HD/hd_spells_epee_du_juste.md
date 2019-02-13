@@ -13,6 +13,7 @@ Name: Épée du juste
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p353)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

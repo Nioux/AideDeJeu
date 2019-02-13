@@ -21,6 +21,7 @@ Name: Serpent constricteur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Constrictor Snake](srd_monsters_constrictor_snake.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -8,6 +8,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Boîte à amadou
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

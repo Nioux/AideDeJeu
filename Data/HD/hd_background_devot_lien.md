@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!PersonalityLinkItem
 Id: background_devot_hd.md#lien
 ParentLink: background_devot_hd.md#personnalités-suggérées
 Name: Lien
@@ -7,6 +7,7 @@ ParentName: Personnalités suggérées
 NameLevel: 5
 AltName: Bond  (SRD p61)
 Source: (MDR p83)
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_devot_personnalites_suggerees.md)
 

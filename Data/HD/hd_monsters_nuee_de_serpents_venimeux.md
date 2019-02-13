@@ -23,6 +23,7 @@ Name: Nuée de serpents venimeux
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

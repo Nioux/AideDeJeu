@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_primitif_hd.md#aptitude--esprit-protecteur
 ParentLink: background_primitif_hd.md#variante--gardien-tribal
 Name: 'Aptitude : Esprit protecteur'
 ParentName: 'Variante : Gardien tribal'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Gardien tribal](hd_background_primitif_variante_gardien_tribal.md)
 

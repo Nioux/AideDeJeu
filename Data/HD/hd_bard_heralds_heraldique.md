@@ -5,6 +5,7 @@ ParentLink: bard_heralds_hd.md#collège-des-hérauts
 Name: Héraldique
 ParentName: Collège des hérauts
 NameLevel: 2
+Attributes: {}
 ---
 > [Collège des hérauts](hd_bard_heralds.md)
 

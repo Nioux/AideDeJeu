@@ -5,6 +5,7 @@ ParentLink: paladin_hd.md#paladin
 Name: Amélioration de caractéristiques
 ParentName: Paladin
 NameLevel: 2
+Attributes: {}
 ---
 > [Paladin](hd_paladin.md)
 

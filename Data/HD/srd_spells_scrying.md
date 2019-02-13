@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Scrutation](hd_spells_scrutation.md)'
 Source: (SRD p176)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

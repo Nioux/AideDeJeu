@@ -1,5 +1,8 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Perspicacité, Religion.
+MasteredLanguages: Deux langues au choix.
+Equipment: Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, habits courants, bourse contenant 10 po.
 Id: background_devot_hd.md#dévot
 RootId: background_devot_hd.md
 ParentLink: backgrounds_hd.md
@@ -8,6 +11,7 @@ ParentName: Historique
 NameLevel: 1
 AltName: Acolyte (SRD p60)
 Source: (MDR p81)
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

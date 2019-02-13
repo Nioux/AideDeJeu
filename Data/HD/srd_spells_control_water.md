@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Contrôle de l'eau](hd_spells_controle_de_leau.md)"
 Source: (SRD p130)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

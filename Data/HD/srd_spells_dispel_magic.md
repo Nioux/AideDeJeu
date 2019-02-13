@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)'
 Source: (SRD p136)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -22,6 +22,7 @@ Name: Serpent venimeux géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

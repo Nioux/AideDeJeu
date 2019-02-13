@@ -22,6 +22,7 @@ Name: Giant Hyena
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Hyène géante](hd_monsters_hyene_geante.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

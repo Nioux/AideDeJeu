@@ -24,6 +24,7 @@ Name: Kraken
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Kraken](srd_monsters_kraken.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Create Food and Water](srd_spells_create_food_and_water.md)'
 Source: (MDR p344)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

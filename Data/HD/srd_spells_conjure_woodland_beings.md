@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)'
 Source: (SRD p129)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

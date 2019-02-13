@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Unseen Attackers and Targets (SRD p94)
 Source: (MDR p291)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

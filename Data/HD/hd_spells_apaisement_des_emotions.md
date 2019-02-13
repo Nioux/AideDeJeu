@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Calm Emotions](srd_spells_calm_emotions.md)'
 Source: (MDR p322)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

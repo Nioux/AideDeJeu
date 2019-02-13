@@ -25,6 +25,7 @@ Name: Shadow
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ombre](hd_monsters_ombre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

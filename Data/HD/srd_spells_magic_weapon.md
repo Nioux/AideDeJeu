@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Arme magique](hd_spells_arme_magique.md)'
 Source: (SRD p161)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

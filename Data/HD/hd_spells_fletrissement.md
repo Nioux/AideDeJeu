@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Blight](srd_spells_blight.md)'
 Source: (MDR p356)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

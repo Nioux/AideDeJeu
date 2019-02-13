@@ -22,6 +22,7 @@ Name: Octopus
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Pieuvre](hd_monsters_pieuvre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

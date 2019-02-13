@@ -6,6 +6,7 @@ Name: Autre chose ?
 ParentName: Combattre
 NameLevel: 3
 Source: (MDR p290)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

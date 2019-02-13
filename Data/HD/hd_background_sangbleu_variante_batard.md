@@ -1,10 +1,14 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Histoire, Supercherie.
+MasteredTools: Véhicules (terrestres), un ensemble d'outils d'artisan au choix.
+Equipment: Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
 Id: background_sangbleu_hd.md#variante--bâtard
 ParentLink: background_sangbleu_hd.md#sang-bleu
 Name: 'Variante : Bâtard'
 ParentName: Sang bleu
 NameLevel: 3
+Attributes: {}
 ---
 > [Sang bleu](hd_background_sangbleu.md)
 

@@ -24,6 +24,7 @@ Name: Géant du givre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Frost Giant](srd_monsters_frost_giant.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

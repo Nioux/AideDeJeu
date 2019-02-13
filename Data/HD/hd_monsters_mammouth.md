@@ -21,6 +21,7 @@ Name: Mammouth
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mammoth](srd_monsters_mammoth.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

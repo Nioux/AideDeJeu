@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Spirit Guardians](srd_spells_spirit_guardians.md)'
 Source: (MDR p353)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

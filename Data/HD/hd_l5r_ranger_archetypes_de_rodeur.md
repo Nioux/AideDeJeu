@@ -6,6 +6,7 @@ Name: Archétypes de rôdeur
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 3
 Source: (L5R p55)
+Attributes: {}
 ---
 > [Rôdeur des cinq Royaumes](hd_l5r_ranger.md)
 

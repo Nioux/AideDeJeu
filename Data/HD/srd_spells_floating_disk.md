@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Disque flottant](hd_spells_disque_flottant.md)'
 Source: (SRD p146)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

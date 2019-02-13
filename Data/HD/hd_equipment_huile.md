@@ -9,6 +9,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Huile
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

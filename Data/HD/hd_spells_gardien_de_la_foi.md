@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Guardian of Faith](srd_spells_guardian_of_faith.md)'
 Source: (MDR p358)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

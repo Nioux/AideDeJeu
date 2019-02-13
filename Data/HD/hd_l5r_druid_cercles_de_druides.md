@@ -6,6 +6,7 @@ Name: Cercles de druides
 ParentName: Druide des cinq royaumes
 NameLevel: 3
 Source: (L5R p64)
+Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)
 

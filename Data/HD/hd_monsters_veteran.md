@@ -22,6 +22,7 @@ Name: Vétéran
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Veteran](srd_monsters_veteran.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

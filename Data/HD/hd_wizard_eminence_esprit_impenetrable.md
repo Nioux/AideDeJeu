@@ -5,6 +5,7 @@ ParentLink: wizard_eminence_hd.md#Éminence-grise
 Name: Esprit impénétrable
 ParentName: Éminence grise
 NameLevel: 2
+Attributes: {}
 ---
 > [Éminence grise](hd_wizard_eminence.md)
 

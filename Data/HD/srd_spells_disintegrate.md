@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Désintégration](hd_spells_desintegration.md)'
 Source: (SRD p135)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

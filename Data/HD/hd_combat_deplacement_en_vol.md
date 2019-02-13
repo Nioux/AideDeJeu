@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 4
 AltName: Flying Movement (SRD p92)
 Source: (MDR p287)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

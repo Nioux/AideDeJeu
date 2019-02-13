@@ -6,6 +6,7 @@ Name: LYRE DE LA REINE SYLVESTRE
 ParentName: Artefacts
 NameLevel: 2
 Source: (CDC p192)
+Attributes: {}
 ---
 > [Artefacts](hd_artifacts.md)
 

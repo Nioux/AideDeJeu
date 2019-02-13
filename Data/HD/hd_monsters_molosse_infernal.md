@@ -23,6 +23,7 @@ Name: Molosse infernal
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hell Hound](srd_monsters_hell_hound.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!BackgroundSpecialtyItem
 Id: background_erudit_hd.md#domaine-détudes
 ParentLink: background_erudit_hd.md#Érudit
 Name: Domaine d'études
 ParentName: Érudit
 NameLevel: 4
+Attributes: {}
 ---
 > [Érudit](hd_background_erudit.md)
 

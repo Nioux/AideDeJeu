@@ -1,13 +1,14 @@
 ﻿---
 !SubClassItem
+Name: Invocations occultes
+Source: (MDR p213)
 Id: warlock_occultsummons_hd.md#invocations-occultes
 RootId: warlock_occultsummons_hd.md
 ParentLink: warlock_hd.md
-Name: Invocations occultes
 ParentName: Sorcier
 NameLevel: 1
 AltName: Eldritch Invocations (SRD p48)
-Source: (MDR p213)
+Attributes: {}
 ---
 >  [Sorcier](hd_warlock.md)
 

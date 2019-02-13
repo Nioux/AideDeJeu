@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_membredeguilde_hd.md#aptitude--réseau-de-guilde
 ParentLink: background_membredeguilde_hd.md#membre-de-guilde
 Name: 'Aptitude : Réseau de guilde'
 ParentName: Membre de guilde
 NameLevel: 4
+Attributes: {}
 ---
 > [Membre de guilde](hd_background_membredeguilde.md)
 

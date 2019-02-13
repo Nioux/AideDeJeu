@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Gourdin magique](hd_spells_gourdin_magique.md)'
 Source: (SRD p179)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

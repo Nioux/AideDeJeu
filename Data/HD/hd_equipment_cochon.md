@@ -7,6 +7,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Cochon
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

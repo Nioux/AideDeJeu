@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Contingence](hd_spells_contingence.md)'
 Source: (SRD p130)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

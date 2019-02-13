@@ -7,6 +7,7 @@ ParentName: 'Dégâts et guérison '
 NameLevel: 3
 AltName: Healing
 Source: (MDR p298)(SRD p97)
+Attributes: {}
 ---
 > [Dégâts et guérison ](hd_damage_healing.md)
 

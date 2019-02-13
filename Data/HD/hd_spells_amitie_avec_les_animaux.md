@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Animal Friendship](srd_spells_animal_friendship.md)'
 Source: (MDR p321)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

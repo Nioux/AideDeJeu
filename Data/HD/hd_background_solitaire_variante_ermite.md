@@ -1,10 +1,14 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Perspicacité ou Survie, Religion.
+MasteredTools: Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier. Vous pouvez remplacer l'un de ces outils par un instrument de musique rituel ou du matériel d'herboriste.
+Equipment: Habits courants, ensemble d'outils ou instrument de musique parmi ceux maîtrisés, 5 bâtons d'encens, bourse contenant 10 po.
 Id: background_solitaire_hd.md#variante--ermite
 ParentLink: background_solitaire_hd.md#solitaire
 Name: 'Variante : Ermite'
 ParentName: Solitaire
 NameLevel: 3
+Attributes: {}
 ---
 > [Solitaire](hd_background_solitaire.md)
 

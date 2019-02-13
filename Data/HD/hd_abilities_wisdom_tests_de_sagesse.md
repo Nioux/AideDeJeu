@@ -5,6 +5,7 @@ ParentLink: abilities_wisdom_hd.md#sagesse
 Name: Tests de Sagesse
 ParentName: Sagesse
 NameLevel: 2
+Attributes: {}
 ---
 > [Sagesse](hd_abilities_wisdom.md)
 

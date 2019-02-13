@@ -21,6 +21,7 @@ Name: Tribal Warrior
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Guerrier tribal](hd_monsters_guerrier_tribal.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

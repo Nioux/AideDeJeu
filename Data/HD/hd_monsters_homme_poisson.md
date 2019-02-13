@@ -22,6 +22,7 @@ Name: Homme-poisson
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Merfolk](srd_monsters_merfolk.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Clairvoyance](srd_spells_clairvoyance.md)'
 Source: (MDR p334)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

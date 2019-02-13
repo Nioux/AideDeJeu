@@ -6,6 +6,7 @@ Name: Viser où ça fait mal !
 ParentName: Points de vie et blessures
 NameLevel: 4
 Source: (L5R p46)
+Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)
 

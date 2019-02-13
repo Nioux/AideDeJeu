@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Imprisonment](srd_spells_imprisonment.md)'
 Source: (MDR p351)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

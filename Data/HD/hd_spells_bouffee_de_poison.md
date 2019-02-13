@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Poison Spray](srd_spells_poison_spray.md)'
 Source: (MDR p328)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

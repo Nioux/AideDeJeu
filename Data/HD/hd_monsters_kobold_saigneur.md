@@ -20,6 +20,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Kobold, saigneur
 ParentName: Créatures
 NameLevel: 1
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

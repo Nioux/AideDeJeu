@@ -25,6 +25,7 @@ Name: Diantrefosse
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Pit Fiend](srd_monsters_pit_fiend.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

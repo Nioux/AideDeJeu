@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityDefectItem
 Id: background_crapule_hd.md#défaut
 ParentLink: background_crapule_hd.md#personnalités-suggérées
 Name: Défaut
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_crapule_personnalites_suggerees.md)
 

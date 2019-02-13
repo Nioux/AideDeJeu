@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Rayon de lune](hd_spells_rayon_de_lune.md)'
 Source: (SRD p166)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

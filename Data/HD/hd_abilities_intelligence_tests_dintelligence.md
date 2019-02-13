@@ -5,6 +5,7 @@ ParentLink: abilities_intelligence_hd.md#intelligence
 Name: Tests d'Intelligence
 ParentName: Intelligence
 NameLevel: 2
+Attributes: {}
 ---
 > [Intelligence](hd_abilities_intelligence.md)
 

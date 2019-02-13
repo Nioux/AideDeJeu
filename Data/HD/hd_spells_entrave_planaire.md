@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Planar Binding](srd_spells_planar_binding.md)'
 Source: (MDR p352)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

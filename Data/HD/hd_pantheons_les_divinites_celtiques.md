@@ -7,6 +7,7 @@ ParentName: Panthéons historiques et fantastiques
 NameLevel: 4
 AltName: Celtic Deities
 Source: (MDR p414)(SRD p360)
+Attributes: {}
 ---
 > [Panthéons historiques et fantastiques](hd_pantheons.md)
 

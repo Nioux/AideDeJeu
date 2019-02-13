@@ -8,6 +8,7 @@ ParentName: Manuel des règles
 NameLevel: 1
 AltName: Pantheons
 Source: (MDR p413)(SRD p360)
+Attributes: {}
 ---
 >  [Manuel des règles](index.md)
 

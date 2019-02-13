@@ -22,6 +22,7 @@ Name: Griffon
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Griffon](srd_monsters_griffon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

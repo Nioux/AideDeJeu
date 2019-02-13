@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Branding Smite](srd_spells_branding_smite.md)'
 Source: (MDR p358)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

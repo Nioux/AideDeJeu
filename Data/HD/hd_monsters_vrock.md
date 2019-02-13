@@ -25,6 +25,7 @@ Name: Vrock
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Vrock](srd_monsters_vrock.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

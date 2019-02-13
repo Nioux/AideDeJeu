@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Blade Barrier](srd_spells_blade_barrier.md)'
 Source: (MDR p327)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

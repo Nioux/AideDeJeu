@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityLinkItem
 Id: background_solitaire_hd.md#lien
 ParentLink: background_solitaire_hd.md#personnalités-suggérées
 Name: Lien
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_solitaire_personnalites_suggerees.md)
 

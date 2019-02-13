@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Image silencieuse](hd_spells_image_silencieuse.md)'
 Source: (SRD p179)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Apaisement des émotions](hd_spells_apaisement_des_emotions.md)'
 Source: (SRD p123)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

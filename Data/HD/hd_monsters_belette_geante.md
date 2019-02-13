@@ -22,6 +22,7 @@ Name: Belette géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Weasel](srd_monsters_giant_weasel.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

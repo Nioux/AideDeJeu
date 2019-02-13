@@ -23,6 +23,7 @@ Name: Torve
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Grimlock](srd_monsters_grimlock.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Produire une flamme](hd_spells_produire_une_flamme.md)'
 Source: (SRD p172)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

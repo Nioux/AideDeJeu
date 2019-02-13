@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Barbarian (SRD p8)
 Source: (MDR p114)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

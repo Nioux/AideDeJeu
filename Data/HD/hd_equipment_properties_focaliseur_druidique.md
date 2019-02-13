@@ -7,6 +7,7 @@ ParentName: Équipement
 NameLevel: 2
 AltName: Druidic Focus (SRD p67)
 Source: (MDR p230)
+Attributes: {}
 ---
 > [Équipement](hd_equipment_properties.md)
 

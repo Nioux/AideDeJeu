@@ -7,6 +7,7 @@ Name: Halfelin grand-sabot
 ParentName: Halfelin
 NameLevel: 2
 Source: (MDR p52)
+Attributes: {}
 ---
 > [Halfelin](hd_halfling.md)
 

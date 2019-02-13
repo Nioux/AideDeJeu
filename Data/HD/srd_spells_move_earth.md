@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Déplacer la terre](hd_spells_deplacer_la_terre.md)'
 Source: (SRD p166)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Invisibilité](hd_spells_invisibilite.md)'
 Source: (SRD p157)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

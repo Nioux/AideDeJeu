@@ -6,6 +6,7 @@ Name: Domaines de magie
 ParentName: Lancer un rituel
 NameLevel: 3
 Source: (L5R p70)
+Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)
 

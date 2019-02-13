@@ -22,6 +22,7 @@ Name: Acolyte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Acolyte](srd_monsters_acolyte.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

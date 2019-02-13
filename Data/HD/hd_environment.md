@@ -8,6 +8,7 @@ ParentName: Partir à l'aventure
 NameLevel: 1
 AltName: The Environment (SRD p86)
 Source: (MDR p274)
+Attributes: {}
 ---
 >  [Partir à l'aventure](hd_adventure.md)
 

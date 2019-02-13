@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Bourrasque](hd_spells_bourrasque.md)'
 Source: (SRD p152)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

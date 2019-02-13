@@ -5,6 +5,7 @@ ParentLink: sorcerer_hd.md#ensorceleur
 Name: Points de sorcellerie
 ParentName: Ensorceleur
 NameLevel: 2
+Attributes: {}
 ---
 > [Ensorceleur](hd_sorcerer.md)
 

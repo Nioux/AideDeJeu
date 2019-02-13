@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 4
 AltName: Range (SRD p95)
 Source: (MDR p291)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

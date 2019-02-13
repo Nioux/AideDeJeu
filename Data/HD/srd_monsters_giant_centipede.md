@@ -21,6 +21,7 @@ Name: Giant Centipede
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Mille-pattes géant](hd_monsters_mille_pattes_geant.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

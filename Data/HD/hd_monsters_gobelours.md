@@ -22,6 +22,7 @@ Name: Gobelours
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bugbear](srd_monsters_bugbear.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

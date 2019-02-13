@@ -22,6 +22,7 @@ Name: Giant Crab
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Crabe géant](hd_monsters_crabe_geant.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

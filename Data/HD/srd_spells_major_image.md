@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Image majeure](hd_spells_image_majeure.md)'
 Source: (SRD p162)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

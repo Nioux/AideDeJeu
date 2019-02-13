@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Insecte géant](hd_spells_insecte_geant.md)'
 Source: (SRD p149)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

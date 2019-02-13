@@ -26,6 +26,7 @@ Name: Momie auguste
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mummy Lord](srd_monsters_mummy_lord.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

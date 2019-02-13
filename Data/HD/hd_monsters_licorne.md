@@ -23,6 +23,7 @@ Name: Licorne
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Unicorn](srd_monsters_unicorn.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

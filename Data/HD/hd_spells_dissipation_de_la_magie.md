@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Dispel Magic](srd_spells_dispel_magic.md)'
 Source: (MDR p347)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

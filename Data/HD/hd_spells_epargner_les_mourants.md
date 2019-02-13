@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Spare the Dying](srd_spells_spare_the_dying.md)'
 Source: (MDR p352)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Fighter (SRD p24)
 Source: (MDR p160)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

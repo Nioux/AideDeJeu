@@ -6,6 +6,7 @@ Id: manage_health_hd.md#dégâts-et-guérison
 ParentLink: manage_health_hd.md#gérer-la-santé
 Name: Dégâts et guérison
 ParentName: Gérer la santé
+Attributes: {}
 ---
 
 

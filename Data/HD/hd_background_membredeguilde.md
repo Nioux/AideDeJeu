@@ -1,11 +1,16 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Perspicacité, Persuasion.
+MasteredTools: Un ensemble d'outils d'artisan au choix.
+MasteredLanguages: Une langue au choix.
+Equipment: Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, outils d'artisan correspondant à votre métier, sceau de la guilde, étui avec quelques cartes terrestres ou maritimes, bourse contenant 20 po.
 Id: background_membredeguilde_hd.md#membre-de-guilde
 RootId: background_membredeguilde_hd.md
 ParentLink: backgrounds_hd.md
 Name: Membre de guilde
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

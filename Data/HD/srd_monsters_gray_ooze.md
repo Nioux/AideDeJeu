@@ -24,6 +24,7 @@ Name: Gray Ooze
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Vase grise](hd_monsters_vase_grise.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

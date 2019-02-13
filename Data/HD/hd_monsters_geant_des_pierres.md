@@ -23,6 +23,7 @@ Name: Géant des pierres
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

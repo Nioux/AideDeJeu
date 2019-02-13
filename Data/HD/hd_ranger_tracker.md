@@ -1,12 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Traqueur
+Source: (MDR p199)
 Id: ranger_tracker_hd.md#traqueur
 RootId: ranger_tracker_hd.md
 ParentLink: ranger_hd.md#archétypes-de-rôdeurs
-Name: Traqueur
 ParentName: Archétypes de rôdeur
 NameLevel: 1
-Source: (MDR p199)
+Attributes: {}
 ---
 >  [Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)
 

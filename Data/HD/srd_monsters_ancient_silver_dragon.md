@@ -24,6 +24,7 @@ Name: Ancient Silver Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)"
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

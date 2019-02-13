@@ -21,6 +21,7 @@ Name: Rat
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Rat](srd_monsters_rat.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

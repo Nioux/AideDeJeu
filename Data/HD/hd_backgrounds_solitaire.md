@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#solitaire
 ParentLink: backgrounds_hd.md#historique
 Name: Solitaire
 ParentName: Historique
+Attributes: {}
 ---
 
 

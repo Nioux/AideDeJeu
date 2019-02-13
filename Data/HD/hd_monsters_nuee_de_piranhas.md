@@ -23,6 +23,7 @@ Name: Nuée de piranhas
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

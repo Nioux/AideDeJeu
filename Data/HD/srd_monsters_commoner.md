@@ -21,6 +21,7 @@ Name: Commoner
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Roturier](hd_monsters_roturier.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

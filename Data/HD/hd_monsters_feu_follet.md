@@ -24,6 +24,7 @@ Name: Feu follet
 ParentName: Créatures
 NameLevel: 1
 AltName: "[Will-o'-Wisp](srd_monsters_will_o_wisp.md)"
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

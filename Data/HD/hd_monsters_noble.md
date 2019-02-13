@@ -22,6 +22,7 @@ Name: Noble
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Noble](srd_monsters_noble.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

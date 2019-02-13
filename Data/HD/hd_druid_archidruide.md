@@ -5,6 +5,7 @@ ParentLink: druid_hd.md#druide
 Name: Archidruide
 ParentName: Druide
 NameLevel: 2
+Attributes: {}
 ---
 > [Druide](hd_druid.md)
 

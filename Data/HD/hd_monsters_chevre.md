@@ -21,6 +21,7 @@ Name: Chèvre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Goat](srd_monsters_goat.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

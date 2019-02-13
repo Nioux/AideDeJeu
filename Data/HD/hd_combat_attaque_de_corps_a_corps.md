@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Melee Attacks (SRD p95)
 Source: (MDR p291)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

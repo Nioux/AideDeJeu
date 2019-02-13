@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Shillelagh](srd_spells_shillelagh.md)'
 Source: (MDR p360)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -24,6 +24,7 @@ Name: Dragonnet d'or
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

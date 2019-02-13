@@ -21,6 +21,7 @@ Name: Goat
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Chèvre](hd_monsters_chevre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

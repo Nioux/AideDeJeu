@@ -22,6 +22,7 @@ Name: Dryade
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Dryad](srd_monsters_dryad.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -5,6 +5,7 @@ ParentLink: madness_hd.md#la-folie
 Name: Devenir fou
 ParentName: La folie
 NameLevel: 3
+Attributes: {}
 ---
 > [La folie](hd_madness.md)
 

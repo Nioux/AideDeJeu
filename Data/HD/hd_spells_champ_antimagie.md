@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Antimagic Field](srd_spells_antimagic_field.md)'
 Source: (MDR p332)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

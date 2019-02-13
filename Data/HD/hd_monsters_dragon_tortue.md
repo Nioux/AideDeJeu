@@ -23,6 +23,7 @@ Name: Dragon-tortue
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Dragon Turtle](srd_monsters_dragon_turtle.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -24,6 +24,7 @@ Name: Ancient Blue Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

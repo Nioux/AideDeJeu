@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Motif hypnotique](hd_spells_motif_hypnotique.md)'
 Source: (SRD p155)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

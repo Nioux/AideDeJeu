@@ -7,6 +7,7 @@ ParentLink: races_hd.md#races
 Name: Gnome
 ParentName: Races
 AltName: '[Gnome](#)'
+Attributes: {}
 ---
 
 

@@ -13,6 +13,7 @@ Name: Choc des titans
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p334)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -13,6 +13,7 @@ Name: Collet magique
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p336)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

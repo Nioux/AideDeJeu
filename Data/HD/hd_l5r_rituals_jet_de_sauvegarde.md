@@ -6,6 +6,7 @@ Name: Jet de sauvegarde
 ParentName: Lancer un rituel
 NameLevel: 5
 Source: (L5R p72)
+Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)
 

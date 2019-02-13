@@ -23,6 +23,7 @@ Name: Béhir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Behir](srd_monsters_behir.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

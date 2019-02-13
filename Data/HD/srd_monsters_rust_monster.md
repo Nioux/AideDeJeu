@@ -21,6 +21,7 @@ Name: Rust Monster
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Oxydeur](hd_monsters_oxydeur.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

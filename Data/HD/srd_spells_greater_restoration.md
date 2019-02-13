@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Restauration supérieure](hd_spells_restauration_superieure.md)'
 Source: (SRD p150)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

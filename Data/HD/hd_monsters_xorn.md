@@ -23,6 +23,7 @@ Name: Xorn
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Xorn](srd_monsters_xorn.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

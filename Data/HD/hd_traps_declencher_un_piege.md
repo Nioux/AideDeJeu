@@ -5,6 +5,7 @@ ParentLink: traps_hd.md#les-pièges
 Name: Déclencher un piège
 ParentName: Les pièges
 NameLevel: 3
+Attributes: {}
 ---
 > [Les pièges](hd_traps.md)
 

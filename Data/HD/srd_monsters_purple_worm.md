@@ -22,6 +22,7 @@ Name: Purple Worm
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ver pourpre](hd_monsters_ver_pourpre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

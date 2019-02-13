@@ -7,6 +7,7 @@ ParentName: Races
 NameLevel: 3
 AltName: Racial Traits
 Source: (MDR p36)(SRD p3)
+Attributes: {}
 ---
 > [Races](hd_races.md)
 

@@ -5,6 +5,7 @@ ParentLink: bard_knowledge_hd.md#collège-du-savoir
 Name: Compétence hors pair
 ParentName: Collège du savoir
 NameLevel: 2
+Attributes: {}
 ---
 > [Collège du savoir](hd_bard_knowledge.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Demi-plan](hd_spells_demi_plan.md)'
 Source: (SRD p134)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

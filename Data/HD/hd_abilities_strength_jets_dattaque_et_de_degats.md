@@ -5,6 +5,7 @@ ParentLink: abilities_strength_hd.md#force
 Name: Jets d'attaque et de dégâts
 ParentName: Force
 NameLevel: 2
+Attributes: {}
 ---
 > [Force](hd_abilities_strength.md)
 

@@ -5,6 +5,7 @@ ParentLink: wizard_academician_hd.md#académicien
 Name: Maîtrise
 ParentName: Académicien
 NameLevel: 2
+Attributes: {}
 ---
 > [Académicien](hd_wizard_academician.md)
 

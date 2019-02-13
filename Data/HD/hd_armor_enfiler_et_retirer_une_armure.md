@@ -7,6 +7,7 @@ ParentName: Armures
 NameLevel: 3
 AltName: Getting Into and Out of Armor (SRD p64)
 Source: (MDR p225)
+Attributes: {}
 ---
 > [Armures](hd_armor.md)
 

@@ -1,11 +1,15 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Athlétisme, Escamotage.
+MasteredTools: "Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier."
+Equipment: Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.
 Id: background_manouvrier_hd.md#manouvrier
 RootId: background_manouvrier_hd.md
 ParentLink: backgrounds_hd.md
 Name: Manouvrier
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

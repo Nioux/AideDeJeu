@@ -5,6 +5,7 @@ ParentLink: ranger_tracker_hd.md#traqueur
 Name: Maître du terrain
 ParentName: Traqueur
 NameLevel: 2
+Attributes: {}
 ---
 > [Traqueur](hd_ranger_tracker.md)
 

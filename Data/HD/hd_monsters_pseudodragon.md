@@ -22,6 +22,7 @@ Name: Pseudodragon
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Pseudodragon](srd_monsters_pseudodragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

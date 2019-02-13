@@ -6,6 +6,7 @@ Name: Empoisonné
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Poisoned](srd_conditions_poisoned.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

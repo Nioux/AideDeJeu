@@ -5,6 +5,7 @@ ParentLink: warlock_hd.md#sorcier
 Name: Protecteur de l'outre-monde
 ParentName: Sorcier
 NameLevel: 2
+Attributes: {}
 ---
 > [Sorcier](hd_warlock.md)
 

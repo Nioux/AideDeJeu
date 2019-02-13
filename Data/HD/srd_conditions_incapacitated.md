@@ -7,6 +7,7 @@ ParentName: Conditions
 NameLevel: 1
 AltName: '[Neutralisé](hd_conditions_neutralise.md)'
 Source: (SRD p358)
+Attributes: {}
 ---
 > [Conditions](srd_conditions.md)
 

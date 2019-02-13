@@ -7,6 +7,7 @@ ParentName: Dévot
 NameLevel: 4
 AltName: 'Feature: Suggested Characteristics (SRD p61)'
 Source: (MDR p82)
+Attributes: {}
 ---
 > [Dévot](hd_background_devot.md)
 

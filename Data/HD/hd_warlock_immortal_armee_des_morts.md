@@ -5,6 +5,7 @@ ParentLink: warlock_immortal_hd.md#le-seigneur-immortel
 Name: Armée des morts
 ParentName: Le seigneur immortel
 NameLevel: 2
+Attributes: {}
 ---
 > [Le seigneur immortel](hd_warlock_immortal.md)
 

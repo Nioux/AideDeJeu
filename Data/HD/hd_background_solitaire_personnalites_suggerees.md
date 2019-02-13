@@ -5,6 +5,7 @@ ParentLink: background_solitaire_hd.md#solitaire
 Name: Personnalités suggérées
 ParentName: Solitaire
 NameLevel: 4
+Attributes: {}
 ---
 > [Solitaire](hd_background_solitaire.md)
 

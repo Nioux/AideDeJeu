@@ -21,6 +21,7 @@ Name: Chevreuil
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Deer](srd_monsters_deer.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

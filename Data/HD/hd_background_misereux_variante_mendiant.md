@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Escamotage, Supercherie.
+MasteredTools: Un instrument de musique (parmi tambours, flûte, chalumeau), un type de jeu au choix.
+Equipment: Couverture rapiécée, habits courants, instrument de musique parmi ceux maîtrisés, bourse contenant 5 po.
 Id: background_misereux_hd.md#variante--mendiant
 ParentLink: background_misereux_hd.md#miséreux
 Name: 'Variante : Mendiant'
 ParentName: Miséreux
 NameLevel: 3
+Attributes: {}
 ---
 > [Miséreux](hd_background_misereux.md)
 

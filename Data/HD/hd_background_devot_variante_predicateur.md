@@ -1,10 +1,15 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Religion, Représentation.
+MasteredTools: Véhicules (terrestres) ou véhicules (marins).
+MasteredLanguages: Une langue au choix.
+Equipment: Symbole sacré, livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, fiole d'eau bénite, tenue de voyageur, bourse contenant 10 po.
 Id: background_devot_hd.md#variante--prédicateur
 ParentLink: background_devot_hd.md#dévot
 Name: 'Variante : Prédicateur'
 ParentName: Dévot
 NameLevel: 3
+Attributes: {}
 ---
 > [Dévot](hd_background_devot.md)
 

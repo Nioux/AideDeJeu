@@ -5,6 +5,7 @@ ParentLink: human_hd.md#humain
 Name: Variante technique
 ParentName: Humain
 NameLevel: 2
+Attributes: {}
 ---
 > [Humain](hd_human.md)
 

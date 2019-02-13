@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#manouvrier
 ParentLink: backgrounds_hd.md#historique
 Name: Manouvrier
 ParentName: Historique
+Attributes: {}
 ---
 
 

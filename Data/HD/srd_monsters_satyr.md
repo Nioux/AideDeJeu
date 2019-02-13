@@ -22,6 +22,7 @@ Name: Satyr
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Satyre](hd_monsters_satyre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Lumière du jour](hd_spells_lumiere_du_jour.md)'
 Source: (SRD p133)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

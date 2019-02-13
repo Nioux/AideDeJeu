@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)'
 Source: (SRD p181)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

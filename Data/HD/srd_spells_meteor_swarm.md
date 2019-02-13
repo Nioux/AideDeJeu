@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Nuée de météores](hd_spells_nuee_de_meteores.md)'
 Source: (SRD p164)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

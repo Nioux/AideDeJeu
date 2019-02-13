@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityDefectItem
 Id: background_explorateur_hd.md#défaut
 ParentLink: background_explorateur_hd.md#personnalités-suggérées
 Name: Défaut
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_explorateur_personnalites_suggerees.md)
 

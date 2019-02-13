@@ -25,6 +25,7 @@ Name: Diable des chaînes
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Chain Devil](srd_monsters_chain_devil.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

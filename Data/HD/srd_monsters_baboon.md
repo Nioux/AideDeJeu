@@ -22,6 +22,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Babouin](hd_monsters_babouin.md)'
 Source: (SRD p367)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -22,6 +22,7 @@ Name: Faucon
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hawk](srd_monsters_hawk.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

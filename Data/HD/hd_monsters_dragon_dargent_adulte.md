@@ -24,6 +24,7 @@ Name: Dragon d'argent adulte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

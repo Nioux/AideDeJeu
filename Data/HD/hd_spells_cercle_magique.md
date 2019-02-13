@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Magic Circle](srd_spells_magic_circle.md)'
 Source: (MDR p331)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

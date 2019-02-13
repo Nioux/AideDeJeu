@@ -7,6 +7,7 @@ ParentName: Lancer des sorts
 NameLevel: 3
 AltName: Areas of Effect (SRD p102)
 Source: (MDR p309)
+Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)
 

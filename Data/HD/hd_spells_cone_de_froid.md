@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Cone of Cold](srd_spells_cone_of_cold.md)'
 Source: (MDR p338)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

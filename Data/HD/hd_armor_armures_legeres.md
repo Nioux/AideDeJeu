@@ -7,6 +7,7 @@ ParentName: Armures
 NameLevel: 3
 AltName: Light Armor (SRD p63)
 Source: (MDR p223)
+Attributes: {}
 ---
 > [Armures](hd_armor.md)
 

@@ -24,6 +24,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Armure animée](hd_monsters_armure_animee.md)'
 Source: (SRD p263)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

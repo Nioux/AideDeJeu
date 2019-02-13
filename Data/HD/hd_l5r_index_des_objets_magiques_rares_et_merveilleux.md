@@ -6,6 +6,7 @@ Id: l5r_index_hd.md#des-objets-magiques-rares-et-merveilleux
 ParentLink: l5r_index_hd.md#les-cinq-royaumes--les-règles-spécifiques
 Name: Des objets magiques rares et merveilleux
 ParentName: 'Les Cinq Royaumes : Les règles spécifiques'
+Attributes: {}
 ---
 
 

@@ -6,6 +6,7 @@ Name: Manipulation de l'esprit
 ParentName: Barde des cinq royaumes
 NameLevel: 4
 Source: (L5R p57)
+Attributes: {}
 ---
 > [Barde des cinq royaumes](hd_l5r_bard.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Rayon ardent](hd_spells_rayon_ardent.md)'
 Source: (SRD p176)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

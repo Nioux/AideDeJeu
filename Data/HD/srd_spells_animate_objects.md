@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Animation des objets](hd_spells_animation_des_objets.md)'
 Source: (SRD p116)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

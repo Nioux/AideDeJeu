@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Résurrection suprême](hd_spells_resurrection_supreme.md)'
 Source: (SRD p189)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

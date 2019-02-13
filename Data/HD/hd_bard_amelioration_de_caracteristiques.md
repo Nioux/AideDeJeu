@@ -5,6 +5,7 @@ ParentLink: bard_hd.md#barde
 Name: Amélioration de caractéristiques
 ParentName: Barde
 NameLevel: 2
+Attributes: {}
 ---
 > [Barde](hd_bard.md)
 

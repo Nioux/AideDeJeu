@@ -1,10 +1,15 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Intimidation, Religion.
+MasteredTools: Matériel de calligraphie.
+MasteredLanguages: Une langue au choix.
+Equipment: Insigne représentant sa religion et sa fonction, habits de bonne qualité, épais journal vierge pour consigner ses investigations, matériel de calligraphie, bourse contenant 20 po.
 Id: background_hommedeloi_hd.md#variante--inquisiteur
 ParentLink: background_hommedeloi_hd.md#homme-de-loi
 Name: 'Variante : Inquisiteur'
 ParentName: Homme de loi
 NameLevel: 3
+Attributes: {}
 ---
 > [Homme de loi](hd_background_hommedeloi.md)
 

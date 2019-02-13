@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Animate Dead](srd_spells_animate_dead.md)'
 Source: (MDR p321)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

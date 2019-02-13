@@ -5,6 +5,7 @@ ParentLink: cleric_theurgist_hd.md#théurge
 Name: Nombre de sorts de clercs connus
 ParentName: Théurge
 NameLevel: 3
+Attributes: {}
 ---
 > [Théurge](hd_cleric_theurgist.md)
 

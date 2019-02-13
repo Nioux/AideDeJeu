@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Fléau d'insectes](hd_spells_fleau_dinsectes.md)"
 Source: (SRD p157)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

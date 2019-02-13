@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Cercle magique](hd_spells_cercle_magique.md)'
 Source: (SRD p160)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

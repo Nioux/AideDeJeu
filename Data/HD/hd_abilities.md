@@ -8,6 +8,7 @@ ParentName: Manuel des règles
 NameLevel: 1
 AltName: Using Ability Scores (SRD p76)
 Source: (MDR p258)
+Attributes: {}
 ---
 >  [Manuel des règles](index.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Time Stop](srd_spells_time_stop.md)'
 Source: (MDR p325)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

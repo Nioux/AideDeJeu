@@ -6,6 +6,7 @@ Name: Le panthéon d’Osgild
 ParentName: Panthéons historiques et fantastiques
 NameLevel: 3
 Source: (MDR p413)
+Attributes: {}
 ---
 > [Panthéons historiques et fantastiques](hd_pantheons.md)
 

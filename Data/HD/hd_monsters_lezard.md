@@ -21,6 +21,7 @@ Name: Lézard
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lizard](srd_monsters_lizard.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

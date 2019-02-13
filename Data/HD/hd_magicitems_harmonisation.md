@@ -7,6 +7,7 @@ ParentName: Objets magiques
 NameLevel: 3
 AltName: Attunement (SRD p206)
 Source: (CDC p130)
+Attributes: {}
 ---
 > [Objets magiques](hd_magicitems.md)
 

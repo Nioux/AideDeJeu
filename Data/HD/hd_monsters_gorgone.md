@@ -23,6 +23,7 @@ Name: Gorgone
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gorgon](srd_monsters_gorgon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

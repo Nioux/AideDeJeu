@@ -21,6 +21,7 @@ Name: Gnoll
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gnoll](srd_monsters_gnoll.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

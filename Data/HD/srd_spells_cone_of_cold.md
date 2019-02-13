@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Cône de froid](hd_spells_cone_de_froid.md)'
 Source: (SRD p127)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

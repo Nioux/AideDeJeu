@@ -26,6 +26,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Aboleth](hd_monsters_aboleth.md)'
   Source: (SRD p261)
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -50,6 +51,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Acolyte](hd_monsters_acolyte.md)'
   Source: (SRD p395)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Small
@@ -74,6 +76,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Aigle](hd_monsters_aigle.md)'
   Source: (SRD p371)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -98,6 +101,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Aigle géant](hd_monsters_aigle_geant.md)'
   Source: (SRD p375)
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -125,6 +129,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Androsphinx](hd_monsters_androsphinx.md)'
   Source: (SRD p347)
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -148,6 +153,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Ankheg](hd_monsters_ankheg.md)'
   Source: (SRD p264)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -172,6 +178,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Araignée](hd_monsters_araignee.md)'
   Source: (SRD p389)
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -196,6 +203,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Araignée de phase](hd_monsters_araignee_de_phase.md)'
   Source: (SRD p385)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -220,6 +228,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Araignée géante](hd_monsters_araignee_geante.md)'
   Source: (SRD p379)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -244,6 +253,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Araignée-loup géante](hd_monsters_araignee_loup_geante.md)'
   Source: (SRD p381)
+  Attributes: {}
 - !MonsterVO
   Type: plant
   Size: Huge
@@ -268,6 +278,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Arbre éveillé](hd_monsters_arbre_eveille.md)'
   Source: (SRD p366)
+  Attributes: {}
 - !MonsterVO
   Type: plant
   Size: Small
@@ -292,6 +303,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Arbuste éveillé](hd_monsters_arbuste_eveille.md)'
   Source: (SRD p366)
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -318,6 +330,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Archimage](hd_monsters_archimage.md)'
   Source: (SRD p395)
+  Attributes: {}
 - !MonsterVO
   Type: construct
   Size: Medium
@@ -343,6 +356,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Armure animée](hd_monsters_armure_animee.md)'
   Source: (SRD p263)
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -369,6 +383,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Assassin](hd_monsters_assassin.md)'
   Source: (SRD p396)
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Medium
@@ -395,6 +410,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Azer](hd_monsters_azer.md)'
   Source: (SRD p265)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Small
@@ -418,6 +434,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Babouin](hd_monsters_babouin.md)'
   Source: (SRD p367)
+  Attributes: {}
 - !MonsterVO
   Type: aberration
   Size: Medium
@@ -442,6 +459,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Babélien](hd_monsters_babelien.md)'
   Source: (SRD p314)
+  Attributes: {}
 - !MonsterVO
   Type: fiend (demon)
   Size: Huge
@@ -469,6 +487,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Balor](hd_monsters_balor.md)'
   Source: (SRD p270)
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -492,6 +511,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bandit](hd_monsters_bandit.md)'
   Source: (SRD p396)
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -517,6 +537,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Capitaine Bandit](hd_monsters_capitaine_bandit.md)'
   Source: (SRD p397)
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Medium
@@ -540,6 +561,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Basilic](hd_monsters_basilic.md)'
   Source: (SRD p265)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -563,6 +585,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bec de hache](hd_monsters_bec_de_hache.md)'
   Source: (SRD p366)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -587,6 +610,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Belette](hd_monsters_belette.md)'
   Source: (SRD p392)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -611,6 +635,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Belette géante](hd_monsters_belette_geante.md)'
   Source: (SRD p381)
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -634,6 +659,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Berserker](hd_monsters_berserker.md)'
   Source: (SRD p397)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -657,6 +683,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Blaireau](hd_monsters_blaireau.md)'
   Source: (SRD p367)
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -680,6 +707,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Blaireau géant](hd_monsters_blaireau_geant.md)'
   Source: (SRD p373)
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -706,6 +734,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Blême](hd_monsters_bleme.md)'
   Source: (SRD p311)
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -730,6 +759,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Bulette](hd_monsters_bulette.md)'
   Source: (SRD p266)
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Huge
@@ -755,6 +785,7 @@ SubItems:
   NameLevel: 1
   AltName: '[Béhir](hd_monsters_behir.md)'
   Source: (SRD p265)
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -778,6 +809,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Centaure](hd_monsters_centaure.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Small
@@ -801,6 +833,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chacal](hd_monsters_chacal.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -823,6 +856,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chameau](hd_monsters_chameau.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -846,6 +880,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chat](hd_monsters_chat.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -868,6 +903,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chauve-souris](hd_monsters_chauve_souris.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -890,6 +926,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chauve-souris géante](hd_monsters_chauve_souris_geante.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -912,6 +949,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Cheval de guerre](hd_monsters_cheval_de_guerre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -934,6 +972,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Cheval de selle](hd_monsters_cheval_de_selle.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -956,6 +995,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Cheval de trait](hd_monsters_cheval_de_trait.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -979,6 +1019,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chevalier](hd_monsters_chevalier.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -1001,6 +1042,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chevreuil](hd_monsters_chevreuil.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Medium
@@ -1024,6 +1066,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chien du trépas](hd_monsters_chien_du_trepas.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fey
   Size: Medium
@@ -1047,6 +1090,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chien esquiveur](hd_monsters_chien_esquiveur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -1070,6 +1114,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chimère](hd_monsters_chimere.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -1093,6 +1138,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chouette](hd_monsters_chouette.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -1116,6 +1162,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chouette géante](hd_monsters_chouette_geante.md)'
+  Attributes: {}
 - !MonsterVO
   Type: aberration
   Size: Large
@@ -1141,6 +1188,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chuul](hd_monsters_chuul.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -1163,6 +1211,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chèvre](hd_monsters_chevre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -1185,6 +1234,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Chèvre géante](hd_monsters_chevre_geante.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Small
@@ -1207,6 +1257,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Cockatrice](hd_monsters_cockatrice.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -1230,6 +1281,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Corbeau](hd_monsters_corbeau.md)'
+  Attributes: {}
 - !MonsterVO
   Type: celestial
   Size: Medium
@@ -1255,6 +1307,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Couatl](hd_monsters_couatl.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -1278,6 +1331,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Crabe](hd_monsters_crabe.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -1301,6 +1355,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Crabe géant](hd_monsters_crabe_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -1323,6 +1378,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Crapaud géant](hd_monsters_crapaud_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: plant
   Size: Medium
@@ -1346,6 +1402,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Criard](hd_monsters_criard.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -1369,6 +1426,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Crocodile](hd_monsters_crocodile.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Huge
@@ -1392,6 +1450,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Crocodile géant](hd_monsters_crocodile_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: ooze
   Size: Large
@@ -1415,6 +1474,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Cube gélatineux](hd_monsters_cube_gelatineux.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend
   Size: Large
@@ -1438,6 +1498,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Destrier noir](hd_monsters_destrier_noir.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (devil)
   Size: Medium
@@ -1465,6 +1526,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Diable barbelé](hd_monsters_diable_barbele.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (devil)
   Size: Medium
@@ -1491,6 +1553,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Diable barbu](hd_monsters_diable_barbu.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (devil)
   Size: Large
@@ -1517,6 +1580,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Diable cornu](hd_monsters_diable_cornu.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (devil)
   Size: Medium
@@ -1543,6 +1607,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Diable des chaînes](hd_monsters_diable_des_chaines.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (devil)
   Size: Large
@@ -1569,6 +1634,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Diable gelé](hd_monsters_diable_gele.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (devil)
   Size: Large
@@ -1596,6 +1662,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Diable osseux](hd_monsters_diable_osseux.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (devil
   Size: Tiny
@@ -1622,6 +1689,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Diablotin](hd_monsters_diablotin.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (devil)
   Size: Large
@@ -1648,6 +1716,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Diantrefosse](hd_monsters_diantrefosse.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Large
@@ -1672,6 +1741,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Djinn](hd_monsters_djinn.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity (shapechanger)
   Size: Medium
@@ -1696,6 +1766,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Doppleganger](hd_monsters_doppleganger.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Huge
@@ -1721,6 +1792,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -1746,6 +1818,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -1771,6 +1844,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Medium
@@ -1796,6 +1870,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragonnet blanc](hd_monsters_dragonnet_blanc.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Huge
@@ -1821,6 +1896,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -1846,6 +1922,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -1871,6 +1948,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Medium
@@ -1896,6 +1974,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragonnet bleu](hd_monsters_dragonnet_bleu.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Huge
@@ -1921,6 +2000,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -1946,6 +2026,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -1971,6 +2052,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Medium
@@ -1996,6 +2078,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Huge
@@ -2021,6 +2104,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -2046,6 +2130,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -2071,6 +2156,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Medium
@@ -2096,6 +2182,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Huge
@@ -2121,6 +2208,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -2146,6 +2234,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -2171,6 +2260,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Medium
@@ -2196,6 +2286,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Dragonnet d'or](hd_monsters_dragonnet_dor.md)"
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Huge
@@ -2221,6 +2312,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -2246,6 +2338,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -2271,6 +2364,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Medium
@@ -2296,6 +2390,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Huge
@@ -2321,6 +2416,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -2346,6 +2442,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -2371,6 +2468,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Medium
@@ -2396,6 +2494,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Huge
@@ -2421,6 +2520,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -2446,6 +2546,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -2471,6 +2572,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Medium
@@ -2496,6 +2598,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragonnet noir](hd_monsters_dragonnet_noir.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Huge
@@ -2521,6 +2624,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -2546,6 +2650,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -2571,6 +2676,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Medium
@@ -2596,6 +2702,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragonnet rouge](hd_monsters_dragonnet_rouge.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Huge
@@ -2622,6 +2729,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -2648,6 +2756,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -2674,6 +2783,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Medium
@@ -2700,6 +2810,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragonnet vert](hd_monsters_dragonnet_vert.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Gargantuan
@@ -2724,6 +2835,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dragon-tortue](hd_monsters_dragon_tortue.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (demon)
   Size: Small
@@ -2749,6 +2861,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dretch](hd_monsters_dretch.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -2772,6 +2885,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Drider](hd_monsters_drider.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (elf)
   Size: Medium
@@ -2795,6 +2909,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Drow](hd_monsters_drow.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -2818,6 +2933,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Druide](hd_monsters_druide.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fey
   Size: Medium
@@ -2841,6 +2957,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Dryade](hd_monsters_dryade.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (dwarf)
   Size: Medium
@@ -2864,6 +2981,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Duergar](hd_monsters_duergar.md)'
+  Attributes: {}
 - !MonsterVO
   Type: celestial
   Size: Medium
@@ -2890,6 +3008,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Déva](hd_monsters_deva.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -2913,6 +3032,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Ecclésiastique](hd_monsters_ecclesiastique.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -2936,6 +3056,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Enlaceur](hd_monsters_enlaceur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -2959,6 +3080,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Espion](hd_monsters_espion.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fey
   Size: Tiny
@@ -2982,6 +3104,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Esprit follet](hd_monsters_esprit_follet.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Medium
@@ -3005,6 +3128,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Ettercap](hd_monsters_ettercap.md)'
+  Attributes: {}
 - !MonsterVO
   Type: giant
   Size: Large
@@ -3028,6 +3152,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Ettin](hd_monsters_ettin.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -3051,6 +3176,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Fanatique de secte](hd_monsters_fanatique_de_secte.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -3076,6 +3202,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Fantôme](hd_monsters_fantome.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -3099,6 +3226,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Faucon](hd_monsters_faucon.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Small
@@ -3122,6 +3250,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Faucon de sang](hd_monsters_faucon_de_sang.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Tiny
@@ -3147,6 +3276,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Feu follet](hd_monsters_feu_follet.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -3170,6 +3300,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Garde](hd_monsters_garde.md)'
+  Attributes: {}
 - !MonsterVO
   Type: construct
   Size: Large
@@ -3194,6 +3325,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Garde animé](hd_monsters_garde_anime.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Medium
@@ -3219,6 +3351,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Gargouille](hd_monsters_gargouille.md)'
+  Attributes: {}
 - !MonsterVO
   Type: ooze
   Size: Large
@@ -3244,6 +3377,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Gelée ocre](hd_monsters_gelee_ocre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (demon)
   Size: Large
@@ -3270,6 +3404,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Glabrezu](hd_monsters_glabrezu.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -3294,6 +3429,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Gladiateur](hd_monsters_gladiateur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (gnoll)
   Size: Medium
@@ -3316,6 +3452,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Gnoll](hd_monsters_gnoll.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (gnome)
   Size: Small
@@ -3339,6 +3476,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (goblinoid)
   Size: Small
@@ -3362,6 +3500,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Gobelin](hd_monsters_gobelin.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (goblinoid)
   Size: Medium
@@ -3385,6 +3524,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Gobelours](hd_monsters_gobelours.md)'
+  Attributes: {}
 - !MonsterVO
   Type: construct
   Size: Large
@@ -3409,6 +3549,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Golem d'argile](hd_monsters_golem_dargile.md)"
+  Attributes: {}
 - !MonsterVO
   Type: construct
   Size: Medium
@@ -3433,6 +3574,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Golem de chair](hd_monsters_golem_de_chair.md)'
+  Attributes: {}
 - !MonsterVO
   Type: construct
   Size: Large
@@ -3457,6 +3599,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Golem de fer](hd_monsters_golem_de_fer.md)'
+  Attributes: {}
 - !MonsterVO
   Type: construct
   Size: Large
@@ -3481,6 +3624,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Golem de pierre](hd_monsters_golem_de_pierre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -3505,6 +3649,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Gorgone](hd_monsters_gorgone.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -3529,6 +3674,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Goule](hd_monsters_goule.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -3552,6 +3698,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Grand singe](hd_monsters_grand_singe.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -3575,6 +3722,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Grenouille](hd_monsters_grenouille.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -3598,6 +3746,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Grenouille géante](hd_monsters_grenouille_geante.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Medium
@@ -3621,6 +3770,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Grick](hd_monsters_grick.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -3644,6 +3794,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Griffon](hd_monsters_griffon.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fey
   Size: Medium
@@ -3666,6 +3817,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Guenaude aquatique](hd_monsters_guenaude_aquatique.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend
   Size: Medium
@@ -3691,6 +3843,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Guenaude nocturne](hd_monsters_guenaude_nocturne.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fey
   Size: Medium
@@ -3714,6 +3867,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Guenaude verte](hd_monsters_guenaude_verte.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -3736,6 +3890,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Guerrier tribal](hd_monsters_guerrier_tribal.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -3758,6 +3913,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Guêpe géante](hd_monsters_guepe_geante.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -3784,6 +3940,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Gynosphinx](hd_monsters_gynosphinx.md)'
+  Attributes: {}
 - !MonsterVO
   Type: giant
   Size: Huge
@@ -3807,6 +3964,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Géant des collines](hd_monsters_geant_des_collines.md)'
+  Attributes: {}
 - !MonsterVO
   Type: giant
   Size: Huge
@@ -3831,6 +3989,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Géant des nuages](hd_monsters_geant_des_nuages.md)'
+  Attributes: {}
 - !MonsterVO
   Type: giant
   Size: Huge
@@ -3855,6 +4014,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Géant des pierres](hd_monsters_geant_des_pierres.md)'
+  Attributes: {}
 - !MonsterVO
   Type: giant
   Size: Huge
@@ -3881,6 +4041,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Géant des tempêtes](hd_monsters_geant_des_tempetes.md)'
+  Attributes: {}
 - !MonsterVO
   Type: giant
   Size: Huge
@@ -3906,6 +4067,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Géant du feu](hd_monsters_geant_du_feu.md)'
+  Attributes: {}
 - !MonsterVO
   Type: giant
   Size: Huge
@@ -3931,6 +4093,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Géant du givre](hd_monsters_geant_du_givre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Medium
@@ -3953,6 +4116,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Harpie](hd_monsters_harpie.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (demon)
   Size: Large
@@ -3979,6 +4143,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Hezrou](hd_monsters_hezrou.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -4002,6 +4167,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Hibours](hd_monsters_hibours.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -4024,6 +4190,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Hippocampe](hd_monsters_hippocampe.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -4046,6 +4213,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Hippocampe géant](hd_monsters_hippocampe_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -4069,6 +4237,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Hippogriffe](hd_monsters_hippogriffe.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (goblinoid)
   Size: Medium
@@ -4091,6 +4260,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Hobgobelin](hd_monsters_hobgobelin.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (lizardfolk)
   Size: Medium
@@ -4114,6 +4284,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Homme-lézard](hd_monsters_homme_lezard.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (merfolk)
   Size: Medium
@@ -4137,6 +4308,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Homme-poisson](hd_monsters_homme_poisson.md)'
+  Attributes: {}
 - !MonsterVO
   Type: construct
   Size: Tiny
@@ -4161,6 +4333,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Homoncule](hd_monsters_homoncule.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Huge
@@ -4184,6 +4357,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Hydre](hd_monsters_hydre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -4207,6 +4381,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Hyène](hd_monsters_hyene.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -4230,6 +4405,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Hyène géante](hd_monsters_hyene_geante.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (kobold)
   Size: Small
@@ -4252,6 +4428,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Kobold](hd_monsters_kobold.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity (titan)
   Size: Gargantuan
@@ -4277,6 +4454,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Kraken](hd_monsters_kraken.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -4300,6 +4478,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Lamie](hd_monsters_lamie.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -4327,6 +4506,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Liche](hd_monsters_liche.md)'
+  Attributes: {}
 - !MonsterVO
   Type: celestial
   Size: Large
@@ -4351,6 +4531,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Licorne](hd_monsters_licorne.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -4374,6 +4555,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Lion](hd_monsters_lion.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -4397,6 +4579,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Loup](hd_monsters_loup.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -4421,6 +4604,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Loup arctique](hd_monsters_loup_arctique.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -4444,6 +4628,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Loup sanguinaire](hd_monsters_loup_sanguinaire.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (human
   Size: Medium
@@ -4468,6 +4653,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Loup-garou](hd_monsters_loup_garou.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (devil)
   Size: Medium
@@ -4493,6 +4679,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Lémure](hd_monsters_lemure.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -4515,6 +4702,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Lézard](hd_monsters_lezard.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -4537,6 +4725,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Lézard géant](hd_monsters_lezard_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -4561,6 +4750,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Mage](hd_monsters_mage.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Small
@@ -4585,6 +4775,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Magmatique](hd_monsters_magmatique.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -4608,6 +4799,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Malfrat](hd_monsters_malfrat.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Huge
@@ -4630,6 +4822,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Mammouth](hd_monsters_mammouth.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Small
@@ -4653,6 +4846,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Mante obscure](hd_monsters_mante_obscure.md)'
+  Attributes: {}
 - !MonsterVO
   Type: aberration
   Size: Large
@@ -4676,6 +4870,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Manteleur](hd_monsters_manteleur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -4698,6 +4893,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Manticore](hd_monsters_manticore.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (demon)
   Size: Large
@@ -4724,6 +4920,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Marilith](hd_monsters_marilith.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -4747,6 +4944,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Membre de secte](hd_monsters_membre_de_secte.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -4769,6 +4967,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Merrow](hd_monsters_merrow.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Small
@@ -4791,6 +4990,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Mille-pattes géant](hd_monsters_mille_pattes_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity (shapechanger)
   Size: Medium
@@ -4816,6 +5016,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Mimique](hd_monsters_mimique.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -4839,6 +5040,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Minotaure](hd_monsters_minotaure.md)'
+  Attributes: {}
 - !MonsterVO
   Type: plant
   Size: Medium
@@ -4862,6 +5064,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Moisissure violette](hd_monsters_moisissure_violette.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -4885,6 +5088,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Mastiff](hd_monsters_mastiff.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend
   Size: Medium
@@ -4909,6 +5113,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Molosse infernal](hd_monsters_molosse_infernal.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -4935,6 +5140,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Momie](hd_monsters_momie.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -4961,6 +5167,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Momie auguste](hd_monsters_momie_auguste.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -4983,6 +5190,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Mule](hd_monsters_mule.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Medium
@@ -5006,6 +5214,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Méduse](hd_monsters_meduse.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Small
@@ -5031,6 +5240,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Méphite de glace](hd_monsters_mephite_de_glace.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Small
@@ -5056,6 +5266,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Méphite de magma](hd_monsters_mephite_de_magma.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Small
@@ -5081,6 +5292,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Méphite de poussière](hd_monsters_mephite_de_poussiere.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Small
@@ -5105,6 +5317,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -5130,6 +5343,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Naga corrupteur](hd_monsters_naga_corrupteur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -5155,6 +5369,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Naga gardien](hd_monsters_naga_gardien.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (demon)
   Size: Large
@@ -5181,6 +5396,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Nalfeshnie](hd_monsters_nalfeshnie.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -5204,6 +5420,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Noble](hd_monsters_noble.md)'
+  Attributes: {}
 - !MonsterVO
   Type: swarm of Tiny beasts
   Size: Medium
@@ -5228,6 +5445,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Nuée d'insectes](hd_monsters_nuee_dinsectes.md)"
+  Attributes: {}
 - !MonsterVO
   Type: swarm of Tiny beasts
   Size: Medium
@@ -5252,6 +5470,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)'
+  Attributes: {}
 - !MonsterVO
   Type: swarm of Tiny beasts
   Size: Medium
@@ -5277,6 +5496,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)'
+  Attributes: {}
 - !MonsterVO
   Type: swarm of Tiny beasts
   Size: Medium
@@ -5301,6 +5521,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)'
+  Attributes: {}
 - !MonsterVO
   Type: swarm of Tiny beasts
   Size: Medium
@@ -5325,6 +5546,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Nuée de rats](hd_monsters_nuee_de_rats.md)'
+  Attributes: {}
 - !MonsterVO
   Type: swarm of Tiny beasts
   Size: Medium
@@ -5349,6 +5571,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -5375,6 +5598,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Nécrophage](hd_monsters_necrophage.md)'
+  Attributes: {}
 - !MonsterVO
   Type: giant
   Size: Large
@@ -5397,6 +5621,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Ogre](hd_monsters_ogre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -5423,6 +5648,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Ombre](hd_monsters_ombre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: giant
   Size: Large
@@ -5447,6 +5673,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Oni](hd_monsters_oni.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (orc)
   Size: Medium
@@ -5470,6 +5697,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Orc](hd_monsters_orc.md)'
+  Attributes: {}
 - !MonsterVO
   Type: aberration
   Size: Large
@@ -5493,6 +5721,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Otyugh](hd_monsters_otyugh.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -5516,6 +5745,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Ours brun](hd_monsters_ours_brun.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -5539,6 +5769,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Ours noir](hd_monsters_ours_noir.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -5562,6 +5793,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Ours polaire](hd_monsters_ours_polaire.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (human
   Size: Medium
@@ -5586,6 +5818,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Ours-garou](hd_monsters_ours_garou.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Medium
@@ -5608,6 +5841,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Oxydeur](hd_monsters_oxydeur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -5631,6 +5865,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Panthère](hd_monsters_panthere.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Small
@@ -5654,6 +5889,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Pieuvre](hd_monsters_pieuvre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -5677,6 +5913,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Pieuvre géante](hd_monsters_pieuvre_geante.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -5699,6 +5936,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Piranha](hd_monsters_piranha.md)'
+  Attributes: {}
 - !MonsterVO
   Type: celestial
   Size: Large
@@ -5725,6 +5963,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Planétar](hd_monsters_planetar.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -5748,6 +5987,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Plésiosaure](hd_monsters_plesiosaure.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -5770,6 +6010,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Poney](hd_monsters_poney.md)'
+  Attributes: {}
 - !MonsterVO
   Type: ooze
   Size: Large
@@ -5794,6 +6035,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Pouding noir](hd_monsters_pouding_noir.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Tiny
@@ -5817,6 +6059,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Pseudodragon](hd_monsters_pseudodragon.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Small
@@ -5839,6 +6082,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)'
+  Attributes: {}
 - !MonsterVO
   Type: celestial
   Size: Large
@@ -5863,6 +6107,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Pégase](hd_monsters_pegase.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (demon
   Size: Tiny
@@ -5889,6 +6134,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Quasit](hd_monsters_quasit.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend
   Size: Medium
@@ -5913,6 +6159,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Rakshasa](hd_monsters_rakshasa.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -5935,6 +6182,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Rat](hd_monsters_rat.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Small
@@ -5957,6 +6205,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Rat géant](hd_monsters_rat_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (human
   Size: Medium
@@ -5981,6 +6230,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Rat-garou](hd_monsters_rat_garou.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -6004,6 +6254,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Requin de récif](hd_monsters_requin_de_recif.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Huge
@@ -6027,6 +6278,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Requin géant](hd_monsters_requin_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -6050,6 +6302,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Requin chasseur](hd_monsters_requin_chasseur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -6072,6 +6325,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Rhinocéros](hd_monsters_rhinoceros.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Gargantuan
@@ -6096,6 +6350,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Roc](hd_monsters_roc.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -6118,6 +6373,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Roturier](hd_monsters_roturier.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Huge
@@ -6141,6 +6397,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Remorhaz](hd_monsters_remorhaz.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (sahuagin)
   Size: Medium
@@ -6164,6 +6421,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Sahuagin](hd_monsters_sahuagin.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Large
@@ -6188,6 +6446,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Salamandre](hd_monsters_salamandre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -6210,6 +6469,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Sanglier](hd_monsters_sanglier.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -6232,6 +6492,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Sanglier géant](hd_monsters_sanglier_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (human
   Size: Medium
@@ -6256,6 +6517,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Sanglier-garou](hd_monsters_sanglier_garou.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fey
   Size: Medium
@@ -6279,6 +6541,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Satyre](hd_monsters_satyre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -6301,6 +6564,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Scorpion](hd_monsters_scorpion.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -6323,6 +6587,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Scorpion géant](hd_monsters_scorpion_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -6345,6 +6610,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Serpent constricteur](hd_monsters_serpent_constricteur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Huge
@@ -6368,6 +6634,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -6390,6 +6657,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Serpent venimeux](hd_monsters_serpent_venimeux.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -6413,6 +6681,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -6435,6 +6704,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Serpent volant](hd_monsters_serpent_volant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Huge
@@ -6458,6 +6728,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Singe géant](hd_monsters_singe_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: celestial
   Size: Large
@@ -6485,6 +6756,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Solar](hd_monsters_solar.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -6510,6 +6782,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Spectre](hd_monsters_spectre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -6534,6 +6807,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Squelette](hd_monsters_squelette.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Large
@@ -6558,6 +6832,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Large
@@ -6582,6 +6857,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Squelette minotaure](hd_monsters_squelette_minotaure.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Tiny
@@ -6604,6 +6880,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Strige](hd_monsters_strige.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (shapechanger)
   Size: Medium
@@ -6628,6 +6905,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Succube/Incube](hd_monsters_succubeincube.md)'
+  Attributes: {}
 - !MonsterVO
   Type: plant
   Size: Huge
@@ -6651,6 +6929,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Sylvanien](hd_monsters_sylvanien.md)'
+  Attributes: {}
 - !MonsterVO
   Type: construct
   Size: Large
@@ -6675,6 +6954,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Tapis étrangleur](hd_monsters_tapis_etrangleur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity (titan)
   Size: Gargantuan
@@ -6700,6 +6980,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Tarasque](hd_monsters_tarasque.md)'
+  Attributes: {}
 - !MonsterVO
   Type: plant
   Size: Large
@@ -6726,6 +7007,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Tertre errant](hd_monsters_tertre_errant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -6749,6 +7031,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Tigre](hd_monsters_tigre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -6772,6 +7055,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (human
   Size: Medium
@@ -6796,6 +7080,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Tigre-garou](hd_monsters_tigre_garou.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (grimlock)
   Size: Medium
@@ -6820,6 +7105,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Torve](hd_monsters_torve.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Medium
@@ -6846,6 +7132,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Traqueur invisible](hd_monsters_traqueur_invisible.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Huge
@@ -6868,6 +7155,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Tricératops](hd_monsters_triceratops.md)'
+  Attributes: {}
 - !MonsterVO
   Type: giant
   Size: Large
@@ -6891,6 +7179,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Troll](hd_monsters_troll.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Huge
@@ -6914,6 +7203,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Tyrannosaure](hd_monsters_tyrannosaure.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead (shapechanger)
   Size: Medium
@@ -6939,6 +7229,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Vampire](hd_monsters_vampire.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -6964,6 +7255,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Vampirien](hd_monsters_vampirien.md)'
+  Attributes: {}
 - !MonsterVO
   Type: ooze
   Size: Medium
@@ -6989,6 +7281,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Vase grise](hd_monsters_vase_grise.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Medium
@@ -7012,6 +7305,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Vautour](hd_monsters_vautour.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -7035,6 +7329,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Vautour géant](hd_monsters_vautour_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Gargantuan
@@ -7058,6 +7353,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Ver pourpre](hd_monsters_ver_pourpre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: dragon
   Size: Large
@@ -7081,6 +7377,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Vouivre](hd_monsters_vouivre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (demon)
   Size: Large
@@ -7107,6 +7404,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Vrock](hd_monsters_vrock.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -7130,6 +7428,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Vétéran](hd_monsters_veteran.md)'
+  Attributes: {}
 - !MonsterVO
   Type: monstrosity
   Size: Large
@@ -7153,6 +7452,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Worg](hd_monsters_worg.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Medium
@@ -7177,6 +7477,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Xorn](hd_monsters_xorn.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -7202,6 +7503,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Zombi](hd_monsters_zombi.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Large
@@ -7227,6 +7529,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Zombi ogre](hd_monsters_zombi_ogre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: undead
   Size: Medium
@@ -7252,6 +7555,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Âme en peine](hd_monsters_ame_en_peine.md)'
+  Attributes: {}
 - !MonsterVO
   Type: humanoid (any race)
   Size: Medium
@@ -7275,6 +7579,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Éclaireur](hd_monsters_eclaireur.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Large
@@ -7299,6 +7604,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Éfrit](hd_monsters_efrit.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Large
@@ -7321,6 +7627,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Élan](hd_monsters_elan.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Huge
@@ -7344,6 +7651,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Élan géant](hd_monsters_elan_geant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Large
@@ -7369,6 +7677,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)"
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Large
@@ -7394,6 +7703,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: "[Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)"
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Large
@@ -7419,6 +7729,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)'
+  Attributes: {}
 - !MonsterVO
   Type: elemental
   Size: Large
@@ -7444,6 +7755,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Élémentaire du feu](hd_monsters_elementaire_du_feu.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Huge
@@ -7466,6 +7778,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Éléphant](hd_monsters_elephant.md)'
+  Attributes: {}
 - !MonsterVO
   Type: beast
   Size: Huge
@@ -7489,6 +7802,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Épaulard](hd_monsters_epaulard.md)'
+  Attributes: {}
 - !MonsterVO
   Type: construct
   Size: Small
@@ -7514,6 +7828,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Épée volante](hd_monsters_epee_volante.md)'
+  Attributes: {}
 - !MonsterVO
   Type: fiend (devil)
   Size: Medium
@@ -7540,6 +7855,7 @@ SubItems:
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
   AltName: '[Érinye](hd_monsters_erinye.md)'
+  Attributes: {}
 Id: monsters_vo.md#monsters-npc-and-animals
 RootId: monsters_vo.md
 ParentLink: index.md
@@ -7547,6 +7863,7 @@ Name: Monsters, NPC and Animals
 ParentName: SRD
 NameLevel: 1
 AltName: '[Créatures](hd_monsters.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

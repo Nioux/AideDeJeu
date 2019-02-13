@@ -5,6 +5,7 @@ ParentLink: multiclassing_hd.md#multiclassage
 Name: Points de sorcellerie
 ParentName: Multiclassage
 NameLevel: 4
+Attributes: {}
 ---
 > [Multiclassage](hd_multiclassing.md)
 

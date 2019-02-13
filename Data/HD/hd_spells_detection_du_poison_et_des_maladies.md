@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)'
 Source: (MDR p347)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

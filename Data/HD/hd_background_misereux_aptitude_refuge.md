@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_misereux_hd.md#aptitude--refuge
 ParentLink: background_misereux_hd.md#miséreux
 Name: 'Aptitude : Refuge'
 ParentName: Miséreux
 NameLevel: 4
+Attributes: {}
 ---
 > [Miséreux](hd_background_misereux.md)
 

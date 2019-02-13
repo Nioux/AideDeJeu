@@ -5,6 +5,7 @@ ParentLink: abilities_dexterity_hd.md#dextérité
 Name: Escamotage
 ParentName: Dextérité
 NameLevel: 3
+Attributes: {}
 ---
 > [Dextérité](hd_abilities_dexterity.md)
 

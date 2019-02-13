@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Passage sans trace](hd_spells_passage_sans_trace.md)'
 Source: (SRD p167)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

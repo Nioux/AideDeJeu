@@ -7,6 +7,7 @@ ParentLink: races_hd.md#races
 Name: Tieffelin
 ParentName: Races
 AltName: '[Tiefling](#)'
+Attributes: {}
 ---
 
 

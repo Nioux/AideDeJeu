@@ -21,6 +21,7 @@ Name: Blaireau géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Badger](srd_monsters_giant_badger.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -24,6 +24,7 @@ Name: Azer
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Azer](srd_monsters_azer.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

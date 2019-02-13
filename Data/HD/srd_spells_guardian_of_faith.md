@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Gardien de la foi](hd_spells_gardien_de_la_foi.md)'
 Source: (SRD p150)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

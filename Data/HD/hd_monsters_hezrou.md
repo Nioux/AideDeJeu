@@ -25,6 +25,7 @@ Name: Hezrou
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hezrou](srd_monsters_hezrou.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

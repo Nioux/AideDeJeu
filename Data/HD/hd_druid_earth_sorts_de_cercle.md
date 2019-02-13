@@ -5,6 +5,7 @@ ParentLink: druid_earth_hd.md#cercle-de-la-terre
 Name: Sorts de cercle
 ParentName: Cercle de la terre
 NameLevel: 2
+Attributes: {}
 ---
 > [Cercle de la terre](hd_druid_earth.md)
 

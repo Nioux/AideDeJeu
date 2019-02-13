@@ -6,6 +6,7 @@ Name: Option encore plus mortelle
 ParentName: Points de vie et blessures
 NameLevel: 4
 Source: (L5R p44)
+Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)
 

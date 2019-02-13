@@ -13,6 +13,7 @@ Name: Éclat de bois
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p350)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

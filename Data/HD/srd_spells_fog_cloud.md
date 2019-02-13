@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Nappe de brouillard](hd_spells_nappe_de_brouillard.md)'
 Source: (SRD p146)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!BackgroundSpecialtyItem
 Id: background_brigand_hd.md#milieu-naturel-de-prédilection
 ParentLink: background_brigand_hd.md#brigand
 Name: Milieu naturel de prédilection
 ParentName: Brigand
 NameLevel: 4
+Attributes: {}
 ---
 > [Brigand](hd_background_brigand.md)
 

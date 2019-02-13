@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Interacting with Objects Around You (SRD p92)
 Source: (MDR p287)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

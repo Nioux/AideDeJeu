@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Apparence trompeuse](hd_spells_apparence_trompeuse.md)'
 Source: (SRD p177)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#sang-bleu
 ParentLink: backgrounds_hd.md#historique
 Name: Sang bleu
 ParentName: Historique
+Attributes: {}
 ---
 
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Mur d'épines](hd_spells_mur_depines.md)"
 Source: (SRD p191)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

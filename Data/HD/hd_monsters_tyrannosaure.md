@@ -22,6 +22,7 @@ Name: Tyrannosaure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

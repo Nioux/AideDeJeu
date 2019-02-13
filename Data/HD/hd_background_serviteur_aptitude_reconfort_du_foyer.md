@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_serviteur_hd.md#aptitude--réconfort-du-foyer
 ParentLink: background_serviteur_hd.md#variante--cuisinier
 Name: 'Aptitude : Réconfort du foyer'
 ParentName: 'Variante : Cuisinier'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Cuisinier](hd_background_serviteur_variante_cuisinier.md)
 

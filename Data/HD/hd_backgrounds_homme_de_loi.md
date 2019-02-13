@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#homme-de-loi
 ParentLink: backgrounds_hd.md#historique
 Name: Homme de Loi
 ParentName: Historique
+Attributes: {}
 ---
 
 

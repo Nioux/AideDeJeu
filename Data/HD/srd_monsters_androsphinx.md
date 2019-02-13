@@ -26,6 +26,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Androsphinx](hd_monsters_androsphinx.md)'
 Source: (SRD p347)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

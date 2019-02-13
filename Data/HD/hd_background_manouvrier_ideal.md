@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityIdealItem
 Id: background_manouvrier_hd.md#idéal
 ParentLink: background_manouvrier_hd.md#personnalités-suggérées
 Name: Idéal
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_manouvrier_personnalites_suggerees.md)
 

@@ -23,6 +23,7 @@ Name: Goule
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ghoul](srd_monsters_ghoul.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

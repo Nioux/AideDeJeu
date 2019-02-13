@@ -5,6 +5,7 @@ ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
 Name: Création d'objets magiques intelligents
 ParentName: Objets magiques intelligents
 NameLevel: 4
+Attributes: {}
 ---
 > [Objets magiques intelligents](hd_sentient_magicitems.md)
 

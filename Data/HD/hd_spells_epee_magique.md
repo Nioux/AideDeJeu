@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Arcane Sword](srd_spells_arcane_sword.md)'
 Source: (MDR p353)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

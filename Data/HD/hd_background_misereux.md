@@ -1,11 +1,15 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Discrétion, Escamotage.
+MasteredTools: Un type de jeu au choix, outils de voleur.
+Equipment: Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.
 Id: background_misereux_hd.md#miséreux
 RootId: background_misereux_hd.md
 ParentLink: backgrounds_hd.md
 Name: Miséreux
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

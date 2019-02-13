@@ -5,6 +5,7 @@ ParentLink: background_erudit_hd.md#Érudit
 Name: Personnalités suggérées
 ParentName: Érudit
 NameLevel: 4
+Attributes: {}
 ---
 > [Érudit](hd_background_erudit.md)
 

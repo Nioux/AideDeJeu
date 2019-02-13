@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Animation des morts](hd_spells_animation_des_morts.md)'
 Source: (SRD p115)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

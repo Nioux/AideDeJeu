@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Contact glacial](hd_spells_contact_glacial.md)'
 Source: (SRD p124)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

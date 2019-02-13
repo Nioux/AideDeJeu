@@ -7,6 +7,7 @@ ParentName: Lancer des sorts
 NameLevel: 3
 AltName: Combining Magical Effects (SRD p104)
 Source: (MDR p310)
+Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)
 

@@ -22,6 +22,7 @@ Name: Thug
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Malfrat](hd_monsters_malfrat.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

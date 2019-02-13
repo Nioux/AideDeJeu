@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!PersonalityIdealItem
 Id: background_devot_hd.md#idéal
 ParentLink: background_devot_hd.md#personnalités-suggérées
 Name: Idéal
@@ -7,6 +7,7 @@ ParentName: Personnalités suggérées
 NameLevel: 5
 AltName: Ideal  (SRD p61)
 Source: (MDR p83)
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_devot_personnalites_suggerees.md)
 

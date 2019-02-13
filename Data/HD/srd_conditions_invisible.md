@@ -7,6 +7,7 @@ ParentName: Conditions
 NameLevel: 1
 AltName: '[Invisible](hd_conditions_invisible.md)'
 Source: (SRD p358)
+Attributes: {}
 ---
 > [Conditions](srd_conditions.md)
 

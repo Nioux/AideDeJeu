@@ -5,6 +5,7 @@ ParentLink: fighter_spellblade_hd.md#sorcelame
 Name: Initié
 ParentName: Sorcelame
 NameLevel: 2
+Attributes: {}
 ---
 > [Sorcelame](hd_fighter_spellblade.md)
 

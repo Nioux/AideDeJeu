@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Transport végétal](hd_spells_transport_vegetal.md)'
 Source: (SRD p188)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

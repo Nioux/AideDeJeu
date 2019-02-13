@@ -5,6 +5,7 @@ ParentLink: objects_hd.md#les-objets
 Name: Points de vie des objets
 ParentName: Les objets
 NameLevel: 4
+Attributes: {}
 ---
 > [Les objets](hd_objects.md)
 

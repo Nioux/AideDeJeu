@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Esprits gardiens](hd_spells_esprits_gardiens.md)'
 Source: (SRD p182)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

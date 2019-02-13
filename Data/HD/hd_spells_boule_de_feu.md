@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Fireball](srd_spells_fireball.md)'
 Source: (MDR p328)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

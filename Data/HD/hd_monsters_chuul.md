@@ -24,6 +24,7 @@ Name: Chuul
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Chuul](srd_monsters_chuul.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,10 +1,15 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Discrétion, Investigation ou Perspicacité.
+MasteredTools: Matériel d'empoisonneur.
+MasteredLanguages: Une langue au choix.
+Equipment: Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.
 Id: background_membredeguilde_hd.md#variante--assassin
 ParentLink: background_membredeguilde_hd.md#membre-de-guilde
 Name: 'Variante : Assassin'
 ParentName: Membre de guilde
 NameLevel: 3
+Attributes: {}
 ---
 > [Membre de guilde](hd_background_membredeguilde.md)
 

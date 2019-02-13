@@ -5,6 +5,7 @@ ParentLink: background_villageois_hd.md#villageois
 Name: Personnalités suggérées
 ParentName: Villageois
 NameLevel: 4
+Attributes: {}
 ---
 > [Villageois](hd_background_villageois.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Barrière de lames](hd_spells_barriere_de_lames.md)'
 Source: (SRD p122)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

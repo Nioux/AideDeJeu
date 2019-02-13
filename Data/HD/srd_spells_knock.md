@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Déblocage](hd_spells_deblocage.md)'
 Source: (SRD p158)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

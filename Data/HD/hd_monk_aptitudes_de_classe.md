@@ -5,6 +5,7 @@ ParentLink: monk_hd.md#moine
 Name: Aptitudes de classe
 ParentName: Moine
 NameLevel: 1
+Attributes: {}
 ---
 > [Moine](hd_monk.md)
 

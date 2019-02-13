@@ -24,6 +24,7 @@ Name: Chuul
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Chuul](hd_monsters_chuul.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

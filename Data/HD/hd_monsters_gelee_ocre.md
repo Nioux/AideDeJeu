@@ -24,6 +24,7 @@ Name: Gelée ocre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ochre Jelly](srd_monsters_ochre_jelly.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

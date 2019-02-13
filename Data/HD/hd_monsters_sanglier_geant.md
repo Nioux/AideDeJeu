@@ -21,6 +21,7 @@ Name: Sanglier géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Boar](srd_monsters_giant_boar.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

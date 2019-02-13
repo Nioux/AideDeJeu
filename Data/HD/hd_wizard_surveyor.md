@@ -1,12 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Arpenteur
+Source: (MDR p171)
 Id: wizard_surveyor_hd.md#arpenteur
 RootId: wizard_surveyor_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques
-Name: Arpenteur
 ParentName: Traditions arcaniques
 NameLevel: 1
-Source: (MDR p171)
+Attributes: {}
 ---
 >  [Traditions arcaniques](hd_wizard_traditions_arcaniques.md)
 

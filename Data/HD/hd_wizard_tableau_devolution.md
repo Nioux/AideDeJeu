@@ -5,6 +5,7 @@ ParentLink: wizard_hd.md#magicien
 Name: Tableau d'évolution
 ParentName: Magicien
 NameLevel: 1
+Attributes: {}
 ---
 > [Magicien](hd_wizard.md)
 

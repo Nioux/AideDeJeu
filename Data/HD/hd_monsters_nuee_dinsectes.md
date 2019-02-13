@@ -23,6 +23,7 @@ Name: Nuée d'insectes
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

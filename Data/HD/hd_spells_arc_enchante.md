@@ -13,6 +13,7 @@ Name: Arc enchanté
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p324)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

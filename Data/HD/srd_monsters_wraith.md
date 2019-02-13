@@ -24,6 +24,7 @@ Name: Wraith
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Âme en peine](hd_monsters_ame_en_peine.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

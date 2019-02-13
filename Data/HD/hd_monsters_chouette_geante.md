@@ -22,6 +22,7 @@ Name: Chouette géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Owl](srd_monsters_giant_owl.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

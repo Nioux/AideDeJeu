@@ -5,6 +5,7 @@ ParentLink: warlock_hd.md#sorcier
 Name: Magie de pacte
 ParentName: Sorcier
 NameLevel: 1
+Attributes: {}
 ---
 > [Sorcier](hd_warlock.md)
 

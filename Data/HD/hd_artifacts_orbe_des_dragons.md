@@ -7,6 +7,7 @@ ParentName: Artefacts
 NameLevel: 2
 AltName: Orb of Dragonkind (SRD p252)
 Source: (CDC p192)
+Attributes: {}
 ---
 > [Artefacts](hd_artifacts.md)
 

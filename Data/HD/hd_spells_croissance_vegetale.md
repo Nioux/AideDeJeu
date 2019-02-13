@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Plant Growth](srd_spells_plant_growth.md)'
 Source: (MDR p344)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

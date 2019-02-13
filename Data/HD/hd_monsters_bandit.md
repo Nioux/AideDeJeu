@@ -21,6 +21,7 @@ Name: Bandit
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bandit](srd_monsters_bandit.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

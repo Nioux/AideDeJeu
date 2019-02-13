@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Trouver un chemin](hd_spells_trouver_un_chemin.md)'
 Source: (SRD p143)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

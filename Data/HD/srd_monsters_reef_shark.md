@@ -22,6 +22,7 @@ Name: Reef Shark
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Requin de récif](hd_monsters_requin_de_recif.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

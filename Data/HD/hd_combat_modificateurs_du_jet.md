@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 4
 AltName: Modifiers to the Roll (SRD p94)
 Source: (MDR p290)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

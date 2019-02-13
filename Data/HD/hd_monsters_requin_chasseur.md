@@ -22,6 +22,7 @@ Name: Requin chasseur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hunter Shark](srd_monsters_hunter_shark.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

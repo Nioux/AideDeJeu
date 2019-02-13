@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[True Polymorph](srd_spells_true_polymorph.md)'
 Source: (MDR p)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

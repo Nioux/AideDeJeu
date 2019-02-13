@@ -24,6 +24,7 @@ Name: Dust Mephit
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Méphite de poussière](hd_monsters_mephite_de_poussiere.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

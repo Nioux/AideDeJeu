@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Instant Summons](srd_spells_instant_summons.md)'
 Source: (MDR p342)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -24,6 +24,7 @@ Name: Tarasque
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Tarrasque](srd_monsters_tarrasque.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

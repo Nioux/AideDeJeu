@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Disguise Self](srd_spells_disguise_self.md)'
 Source: (MDR p345)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

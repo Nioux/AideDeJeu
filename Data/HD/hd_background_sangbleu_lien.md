@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityLinkItem
 Id: background_sangbleu_hd.md#lien
 ParentLink: background_sangbleu_hd.md#personnalités-suggérées
 Name: Lien
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_sangbleu_personnalites_suggerees.md)
 

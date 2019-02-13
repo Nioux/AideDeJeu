@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Shatter](srd_spells_shatter.md)'
 Source: (MDR p330)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

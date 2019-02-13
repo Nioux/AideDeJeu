@@ -24,6 +24,7 @@ Name: Gold Dragon Wyrmling
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Dragonnet d'or](hd_monsters_dragonnet_dor.md)"
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

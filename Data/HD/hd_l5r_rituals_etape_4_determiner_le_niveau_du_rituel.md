@@ -6,6 +6,7 @@ Name: 'Étape 4 : déterminer le niveau du rituel'
 ParentName: Lancer un rituel
 NameLevel: 4
 Source: (L5R p72)
+Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)
 

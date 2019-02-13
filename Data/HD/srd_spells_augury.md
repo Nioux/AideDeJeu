@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Augure](hd_spells_augure.md)'
 Source: (SRD p120)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

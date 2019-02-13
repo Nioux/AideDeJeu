@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Bouffée de poison](hd_spells_bouffee_de_poison.md)'
 Source: (SRD p169)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

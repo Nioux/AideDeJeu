@@ -5,6 +5,7 @@ ParentLink: magicitems_hd.md#objets-magiques
 Name: Objets magiques 7
 ParentName: Objets magiques
 NameLevel: 4
+Attributes: {}
 ---
 > [Objets magiques](hd_magicitems.md)
 

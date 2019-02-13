@@ -6,6 +6,7 @@ Id: personnality_background_hd.md#inspiration
 ParentLink: personnality_background_hd.md#personnalité-et-historique
 Name: Inspiration
 ParentName: Personnalité et Historique
+Attributes: {}
 ---
 
 

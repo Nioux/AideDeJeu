@@ -24,6 +24,7 @@ Name: Traqueur invisible
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Invisible Stalker](srd_monsters_invisible_stalker.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -23,6 +23,7 @@ Name: Mage
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mage](srd_monsters_mage.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

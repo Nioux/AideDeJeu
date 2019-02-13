@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 4
 AltName: Other Activity on Your Turn (SRD p91)
 Source: (MDR p285)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

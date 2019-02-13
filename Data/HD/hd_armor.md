@@ -8,6 +8,7 @@ ParentName: Équipement
 NameLevel: 1
 AltName: Armor (SRD p62)
 Source: (MDR p223)
+Attributes: {}
 ---
 >  [Équipement](hd_equipment.md)
 

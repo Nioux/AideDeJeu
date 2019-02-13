@@ -5,6 +5,7 @@ ParentLink: paladin_hd.md#paladin
 Name: Incantations
 ParentName: Paladin
 NameLevel: 1
+Attributes: {}
 ---
 > [Paladin](hd_paladin.md)
 

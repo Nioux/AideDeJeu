@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Athlétisme, Survie.
+MasteredTools: "Véhicules (terrestres), un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier."
+Equipment: Habits courants, outre de vin, ensemble d'outils dépendant de son métier, couverture, bourse contenant 10 po.
 Id: background_manouvrier_hd.md#variante--journalier
 ParentLink: background_manouvrier_hd.md#manouvrier
 Name: 'Variante : Journalier'
 ParentName: Manouvrier
 NameLevel: 3
+Attributes: {}
 ---
 > [Manouvrier](hd_background_manouvrier.md)
 

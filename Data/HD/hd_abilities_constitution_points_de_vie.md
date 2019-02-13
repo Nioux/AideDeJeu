@@ -5,6 +5,7 @@ ParentLink: abilities_constitution_hd.md#constitution
 Name: Points de vie
 ParentName: Constitution
 NameLevel: 2
+Attributes: {}
 ---
 > [Constitution](hd_abilities_constitution.md)
 

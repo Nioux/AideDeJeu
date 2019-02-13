@@ -7,6 +7,7 @@ ParentName: Lancer des sorts
 NameLevel: 2
 AltName: What Is a Spell? (SRD p100)
 Source: (MDR p306)
+Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)
 

@@ -24,6 +24,7 @@ Name: Dragon d'airain adulte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

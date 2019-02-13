@@ -23,6 +23,7 @@ Name: Unicorn
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Licorne](hd_monsters_licorne.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

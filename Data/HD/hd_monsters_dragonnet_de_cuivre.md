@@ -24,6 +24,7 @@ Name: Dragonnet de cuivre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

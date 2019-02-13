@@ -23,6 +23,7 @@ Name: Golem de pierre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Stone Golem](srd_monsters_stone_golem.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

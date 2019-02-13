@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Stone Shape](srd_spells_stone_shape.md)'
 Source: (MDR p355)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

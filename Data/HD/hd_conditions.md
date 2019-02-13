@@ -8,6 +8,7 @@ ParentName: Gérer la santé
 NameLevel: 1
 AltName: '[Conditions](srd_conditions.md)'
 Source: (MDR p299)
+Attributes: {}
 ---
 >  [Gérer la santé](hd_manage_health.md)
 

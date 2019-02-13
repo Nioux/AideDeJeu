@@ -22,6 +22,7 @@ Name: Drow
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Drow](srd_monsters_drow.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

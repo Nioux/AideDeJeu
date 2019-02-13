@@ -24,6 +24,7 @@ Name: Jeune dragon d'or
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Gold Dragon](srd_monsters_young_gold_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

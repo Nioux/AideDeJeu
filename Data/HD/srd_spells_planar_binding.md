@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Entrave planaire](hd_spells_entrave_planaire.md)'
 Source: (SRD p168)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

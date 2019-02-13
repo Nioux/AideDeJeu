@@ -6,6 +6,7 @@ Name: Entravé
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Restrained](srd_conditions_restrained.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

@@ -21,6 +21,7 @@ Name: Basilic
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Basilisk](srd_monsters_basilisk.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

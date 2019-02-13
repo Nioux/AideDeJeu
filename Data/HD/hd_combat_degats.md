@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 2
 AltName: Hit Points (SRD p96)
 Source: (MDR p293)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Cercle de téléportation](hd_spells_cercle_de_teleportation.md)'
 Source: (SRD p186)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

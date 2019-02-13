@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Comprehend Languages](srd_spells_comprehend_languages.md)'
 Source: (MDR p338)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

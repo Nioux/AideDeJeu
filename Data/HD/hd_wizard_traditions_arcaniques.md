@@ -5,6 +5,7 @@ ParentLink: wizard_hd.md#magicien
 Name: Traditions arcaniques
 ParentName: Magicien
 NameLevel: 2
+Attributes: {}
 ---
 > [Magicien](hd_wizard.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Éclair](hd_spells_eclair.md)'
 Source: (SRD p159)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

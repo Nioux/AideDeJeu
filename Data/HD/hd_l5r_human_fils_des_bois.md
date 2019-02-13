@@ -6,6 +6,7 @@ Name: Fils des bois
 ParentName: Humain des cinq royaumes
 NameLevel: 4
 Source: (L5R p50)
+Attributes: {}
 ---
 > [Humain des cinq royaumes](hd_l5r_human.md)
 

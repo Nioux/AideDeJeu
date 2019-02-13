@@ -1,12 +1,17 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Athlétisme ou Dressage, Persuasion.
+MasteredTools: Véhicules (terrestres).
+MasteredLanguages: Une langue au choix.
+Equipment: Monture, habits de bonne qualité, insigne ou emblème de votre unité et de votre rang, bourse contenant 15 po.
 Id: background_militaire_hd.md#variante--officier
 ParentLink: background_militaire_hd.md#militaire
 Name: 'Variante : Officier'
 ParentName: Militaire
 NameLevel: 3
+Attributes: {}
 ---
-> [Militaire](background_militaire_hd.md#militaire)
+> [Militaire](hd_background_militaire.md)
 
 ---
 
@@ -21,4 +26,8 @@ Par votre courage ou un hasard des événements, à force de ténacité aussi, v
 **Langues maîtrisées :** Une langue au choix.
 
 **Équipement :** Monture, habits de bonne qualité, insigne ou emblème de votre unité et de votre rang, bourse contenant 15 po.
+
+
+
+#### [Aptitude : Position d'autorité](hd_background_militaire_aptitude_position_dautorite.md)
 

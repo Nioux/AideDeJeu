@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Coquille antivie](hd_spells_coquille_antivie.md)'
 Source: (SRD p116)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

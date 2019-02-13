@@ -6,6 +6,7 @@ Name: Gardien des traditions
 ParentName: Druide des cinq royaumes
 NameLevel: 4
 Source: (L5R p59)
+Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)
 

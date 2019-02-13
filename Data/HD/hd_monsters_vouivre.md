@@ -22,6 +22,7 @@ Name: Vouivre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wyvern](srd_monsters_wyvern.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

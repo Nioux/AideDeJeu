@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Flame Strike](srd_spells_flame_strike.md)'
 Source: (MDR p336)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

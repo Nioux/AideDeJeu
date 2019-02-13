@@ -1,11 +1,15 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Escamotage, Intimidation.
+MasteredTools: Outils de voleur, un type de jeu au choix.
+Equipment: Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.
 Id: background_crapule_hd.md#crapule
 RootId: background_crapule_hd.md
 ParentLink: backgrounds_hd.md
 Name: Crapule
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

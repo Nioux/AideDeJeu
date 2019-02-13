@@ -1,11 +1,16 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Représentation, Survie.
+MasteredTools: Véhicules (terrestres) ou véhicules (marins).
+MasteredLanguages: Une langue au choix.
+Equipment: Tenue de voyageur, costume ou vêtements tape-à-l'oeil, tente pour une personne et couverture, sac de voyage, bourse contenant 10 po.
 Id: background_itinerant_hd.md#itinérant
 RootId: background_itinerant_hd.md
 ParentLink: backgrounds_hd.md
 Name: Itinérant
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

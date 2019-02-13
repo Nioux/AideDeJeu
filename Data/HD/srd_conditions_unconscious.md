@@ -7,6 +7,7 @@ ParentName: Conditions
 NameLevel: 1
 AltName: '[Inconscient](hd_conditions_inconscient.md)'
 Source: (SRD p359)
+Attributes: {}
 ---
 > [Conditions](srd_conditions.md)
 

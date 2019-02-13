@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Insect Plague](srd_spells_insect_plague.md)'
 Source: (MDR p356)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Enlarge/Reduce](srd_spells_enlargereduce.md)'
 Source: (MDR p320)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -22,6 +22,7 @@ Name: Satyre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Satyr](srd_monsters_satyr.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

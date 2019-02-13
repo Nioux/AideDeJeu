@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Chaîne d'éclairs](hd_spells_chaine_declairs.md)"
 Source: (SRD p124)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

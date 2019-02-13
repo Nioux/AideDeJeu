@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Wizard (SRD p52)
 Source: (MDR p166)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

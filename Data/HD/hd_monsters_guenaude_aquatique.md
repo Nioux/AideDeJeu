@@ -21,6 +21,7 @@ Name: Guenaude aquatique
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Sea Hag](srd_monsters_sea_hag.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -21,6 +21,7 @@ Name: Piranha
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Quipper](srd_monsters_quipper.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Champ antimagie](hd_spells_champ_antimagie.md)'
 Source: (SRD p117)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

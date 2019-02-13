@@ -1,11 +1,15 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Discrétion, Survie.
+MasteredTools: Véhicules (terrestres), un type de jeu au choix.
+Equipment: Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.
 Id: background_brigand_hd.md#brigand
 RootId: background_brigand_hd.md
 ParentLink: backgrounds_hd.md
 Name: Brigand
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

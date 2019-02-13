@@ -22,6 +22,7 @@ Name: Serpent constricteur géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

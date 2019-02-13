@@ -5,6 +5,7 @@ ParentLink: background_crapule_hd.md#crapule
 Name: Personnalités suggérées
 ParentName: Crapule
 NameLevel: 4
+Attributes: {}
 ---
 > [Crapule](hd_background_crapule.md)
 

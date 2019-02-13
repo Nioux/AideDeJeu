@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Speak with Dead](srd_spells_speak_with_dead.md)'
 Source: (MDR p336)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

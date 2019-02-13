@@ -22,6 +22,7 @@ Name: Drider
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Drider](srd_monsters_drider.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

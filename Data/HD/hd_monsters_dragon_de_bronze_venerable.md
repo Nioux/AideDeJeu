@@ -24,6 +24,7 @@ Name: Dragon de bronze vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

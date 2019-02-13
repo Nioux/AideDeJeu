@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Awaken](srd_spells_awaken.md)'
 Source: (MDR p354)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

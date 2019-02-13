@@ -22,6 +22,7 @@ Name: Ecclésiastique
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Priest](srd_monsters_priest.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

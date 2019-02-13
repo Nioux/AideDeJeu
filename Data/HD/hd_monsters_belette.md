@@ -22,6 +22,7 @@ Name: Belette
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Weasel](srd_monsters_weasel.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

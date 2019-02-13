@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Compulsion](srd_spells_compulsion.md)'
 Source: (MDR p338)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

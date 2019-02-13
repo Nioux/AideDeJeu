@@ -1,10 +1,15 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Escamotage, Supercherie.
+MasteredTools: Accessoires de déguisement.
+MasteredLanguages: Argot des voleurs.
+Equipment: Vêtements discrets équipés d'une capuche, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.
 Id: background_crapule_hd.md#variante--voleur-à-la-tire
 ParentLink: background_crapule_hd.md#crapule
 Name: 'Variante : Voleur à la tire'
 ParentName: Crapule
 NameLevel: 3
+Attributes: {}
 ---
 > [Crapule](hd_background_crapule.md)
 

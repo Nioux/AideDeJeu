@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Continual Flame](srd_spells_continual_flame.md)'
 Source: (MDR p355)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

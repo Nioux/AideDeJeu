@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Envoi de message](hd_spells_envoi_de_message.md)'
 Source: (SRD p177)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Enthrall](srd_spells_enthrall.md)'
 Source: (MDR p352)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

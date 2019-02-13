@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Caresse du vampire](hd_spells_caresse_du_vampire.md)'
 Source: (SRD p189)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

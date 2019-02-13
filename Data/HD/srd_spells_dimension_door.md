@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)'
 Source: (SRD p135)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

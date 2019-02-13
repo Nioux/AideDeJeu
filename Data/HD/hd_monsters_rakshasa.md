@@ -24,6 +24,7 @@ Name: Rakshasa
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Rakshasa](srd_monsters_rakshasa.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

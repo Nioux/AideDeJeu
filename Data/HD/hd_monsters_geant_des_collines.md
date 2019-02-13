@@ -22,6 +22,7 @@ Name: Géant des collines
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hill Giant](srd_monsters_hill_giant.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

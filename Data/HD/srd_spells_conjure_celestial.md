@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Invoquer un céleste](hd_spells_invoquer_un_celeste.md)'
 Source: (SRD p127)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

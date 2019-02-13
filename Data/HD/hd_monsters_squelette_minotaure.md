@@ -24,6 +24,7 @@ Name: Squelette minotaure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

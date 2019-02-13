@@ -1,10 +1,14 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Médecine, Nature ou Religion.
+MasteredTools: Deux au choix parmi matériel d'herboriste, d'empoisonneur et d'alchimiste.
+Equipment: Habits courants, bâton, des grisgris ou des fioles contenant d'étranges décoctions, bourse contenant 10 po.
 Id: background_villageois_hd.md#variante--rebouteux
 ParentLink: background_villageois_hd.md#villageois
 Name: 'Variante : Rebouteux'
 ParentName: Villageois
 NameLevel: 3
+Attributes: {}
 ---
 > [Villageois](hd_background_villageois.md)
 

@@ -22,6 +22,7 @@ Name: Lizardfolk
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Homme-lézard](hd_monsters_homme_lezard.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -21,6 +21,7 @@ Name: Elephant
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Éléphant](hd_monsters_elephant.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

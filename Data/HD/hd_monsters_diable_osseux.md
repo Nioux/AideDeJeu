@@ -26,6 +26,7 @@ Name: Diable osseux
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

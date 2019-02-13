@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Gust of Wind](srd_spells_gust_of_wind.md)'
 Source: (MDR p329)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

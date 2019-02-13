@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)'
 Source: (SRD p129)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)'
 Source: (SRD p183)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_solitaire_hd.md#aptitude--révélation
 ParentLink: background_solitaire_hd.md#variante--ermite
 Name: 'Aptitude : Révélation'
 ParentName: 'Variante : Ermite'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Ermite](hd_background_solitaire_variante_ermite.md)
 

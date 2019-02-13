@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Floating Disk](srd_spells_floating_disk.md)'
 Source: (MDR p347)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -7,6 +7,7 @@ ParentName: Conditions
 NameLevel: 1
 AltName: '[Étourdi](hd_conditions_etourdi.md)'
 Source: (SRD p359)
+Attributes: {}
 ---
 > [Conditions](srd_conditions.md)
 

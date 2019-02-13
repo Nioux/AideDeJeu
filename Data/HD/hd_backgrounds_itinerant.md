@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#itinérant
 ParentLink: backgrounds_hd.md#historique
 Name: Itinérant
 ParentName: Historique
+Attributes: {}
 ---
 
 

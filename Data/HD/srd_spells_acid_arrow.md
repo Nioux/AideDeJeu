@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Flèche acide](hd_spells_fleche_acide.md)'
 Source: (SRD p114)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

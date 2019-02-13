@@ -6,6 +6,7 @@ Name: Invisible
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Invisible](srd_conditions_invisible.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

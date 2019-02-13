@@ -1,10 +1,15 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Discrétion, Survie.
+MasteredTools: Accessoires de déguisement.
+MasteredLanguages: Une langue au choix.
+Equipment: Tenue de voyageur, sac contenant couverture et tente, outre d'eau, accessoires de déguisement, bourse contenant 15 po.
 Id: background_explorateur_hd.md#variante--Éclaireur
 ParentLink: background_explorateur_hd.md#explorateur
 Name: 'Variante : Éclaireur'
 ParentName: Explorateur
 NameLevel: 3
+Attributes: {}
 ---
 > [Explorateur](hd_background_explorateur.md)
 

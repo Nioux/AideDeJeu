@@ -23,6 +23,7 @@ Name: Nuée de rats
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

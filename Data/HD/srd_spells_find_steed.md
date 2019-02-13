@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Trouver une monture](hd_spells_trouver_une_monture.md)'
 Source: (SRD p143)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

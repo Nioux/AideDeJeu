@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Dominate Monster](srd_spells_dominate_monster.md)'
 Source: (MDR p349)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

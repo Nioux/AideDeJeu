@@ -5,6 +5,7 @@ ParentLink: traps_hd.md#les-pièges
 Name: Zone de gravité inversée
 ParentName: Les pièges
 NameLevel: 4
+Attributes: {}
 ---
 > [Les pièges](hd_traps.md)
 

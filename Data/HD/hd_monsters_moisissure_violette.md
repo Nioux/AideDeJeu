@@ -22,6 +22,7 @@ Name: Moisissure violette
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Violet Fungus](srd_monsters_violet_fungus.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

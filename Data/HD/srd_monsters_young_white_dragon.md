@@ -24,6 +24,7 @@ Name: Young White Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

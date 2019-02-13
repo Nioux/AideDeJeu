@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Commune with Nature](srd_spells_commune_with_nature.md)'
 Source: (MDR p337)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -5,6 +5,7 @@ ParentLink: madness_hd.md#la-folie
 Name: Folie à durée illimitée
 ParentName: La folie
 NameLevel: 4
+Attributes: {}
 ---
 > [La folie](hd_madness.md)
 

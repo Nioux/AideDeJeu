@@ -8,6 +8,7 @@ ParentLink: paladin_hd.md#serments-sacrés
 ParentName: Serments sacrés
 NameLevel: 1
 AltName: Oath of Devotion (SRD p32)
+Attributes: {}
 ---
 >  [Serments sacrés](hd_paladin_serments_sacres.md)
 

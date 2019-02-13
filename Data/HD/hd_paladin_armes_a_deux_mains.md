@@ -5,6 +5,7 @@ ParentLink: paladin_hd.md#paladin
 Name: Armes à deux mains
 ParentName: Paladin
 NameLevel: 2
+Attributes: {}
 ---
 > [Paladin](hd_paladin.md)
 

@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Difficult Terrain (SRD p91)
 Source: (MDR p286)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

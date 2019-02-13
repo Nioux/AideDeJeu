@@ -5,6 +5,7 @@ ParentLink: barbarian_howling_hd.md#voie-du-hurlement
 Name: Scarification rituelle
 ParentName: Voie du hurlement
 NameLevel: 2
+Attributes: {}
 ---
 > [Voie du hurlement](hd_barbarian_howling.md)
 

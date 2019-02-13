@@ -8,6 +8,7 @@ ParentName: Caractéristiques
 NameLevel: 1
 AltName: Wisdom (SRD p82)
 Source: (MDR p265)
+Attributes: {}
 ---
 >  [Caractéristiques](hd_abilities.md)
 

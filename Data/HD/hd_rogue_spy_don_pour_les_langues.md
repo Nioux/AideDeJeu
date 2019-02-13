@@ -5,6 +5,7 @@ ParentLink: rogue_spy_hd.md#espion
 Name: Don pour les langues
 ParentName: Espion
 NameLevel: 2
+Attributes: {}
 ---
 > [Espion](hd_rogue_spy.md)
 

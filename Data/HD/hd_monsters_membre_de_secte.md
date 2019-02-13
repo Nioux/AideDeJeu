@@ -22,6 +22,7 @@ Name: Membre de secte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cultist](srd_monsters_cultist.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -23,6 +23,7 @@ Name: Golem d'argile
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Clay Golem](srd_monsters_clay_golem.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

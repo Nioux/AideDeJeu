@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Poigne électrique](hd_spells_poigne_electrique.md)'
 Source: (SRD p179)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

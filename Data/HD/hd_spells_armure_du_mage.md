@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Mage Armor](srd_spells_mage_armor.md)'
 Source: (MDR p324)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

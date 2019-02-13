@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Cleric (SRD p15)
 Source: (MDR p129)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

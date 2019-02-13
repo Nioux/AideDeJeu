@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)"
 Source: (SRD p132)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

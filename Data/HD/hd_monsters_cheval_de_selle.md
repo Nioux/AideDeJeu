@@ -21,6 +21,7 @@ Name: Cheval de selle
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Riding Horse](srd_monsters_riding_horse.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

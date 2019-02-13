@@ -22,6 +22,7 @@ Name: Ours brun
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Brown Bear](srd_monsters_brown_bear.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

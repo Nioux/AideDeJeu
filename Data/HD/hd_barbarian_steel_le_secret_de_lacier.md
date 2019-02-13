@@ -5,6 +5,7 @@ ParentLink: barbarian_steel_hd.md#voie-de-lacier
 Name: Le secret de l'acier
 ParentName: Voie de l'acier
 NameLevel: 2
+Attributes: {}
 ---
 > [Voie de l'acier](hd_barbarian_steel.md)
 

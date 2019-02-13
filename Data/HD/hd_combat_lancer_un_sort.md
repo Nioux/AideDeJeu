@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 3
 AltName: Cast a Spell (SRD p93)
 Source: (MDR p288)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

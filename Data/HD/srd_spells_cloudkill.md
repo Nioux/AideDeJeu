@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Nuage mortel](hd_spells_nuage_mortel.md)'
 Source: (SRD p125)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

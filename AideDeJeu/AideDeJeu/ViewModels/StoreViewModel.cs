@@ -224,8 +224,9 @@ namespace AideDeJeu.ViewModels
                 {
                     if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
-                        var name = $"AideDeJeuLib.{tag.Substring(4, tag.Length - 7)}, AideDeJeu";
-                        if(CheckNewItem(name))
+                        //var name = $"AideDeJeuLib.{tag.Substring(4, tag.Length - 7)}, AideDeJeu";
+                        var name = tag.Substring(4, tag.Length - 7);
+                        if (CheckNewItem(name))
                         {
                             return true;
                         }
@@ -240,20 +241,30 @@ namespace AideDeJeu.ViewModels
             return false;
         }
 
+        public class ParsedComment
+        {
+            public string Name { get; set; }
+            public Dictionary<string, string> Attributes { get; set; }
+
+            public ParsedComment(string comment)
+            {
+                var regex = new Regex("(?<item>\\w+)(\\s+((?<name>\\w+)=\"(?<value>.*?)\"))*");
+                var match = regex.Match(comment);
+                Name = match.Groups["item"].Value;
+                var names = match.Groups["name"].Captures;
+                var values = match.Groups["value"].Captures;
+                Attributes = new Dictionary<string, string>();
+                for (int i = 0; i < names.Count; i++)
+                {
+                    Attributes[names[i].Value] = values[i].Value;
+                }
+            }
+        }
+
         bool CheckNewItem(string itemString)
         {
-            itemString = "MonsterHD Strength=\"10\" Wisdom=\"18\"";
-            var regex = new Regex("(?<item>\\w+)(\\s+((?<name>\\w+)=\"(?<value>.*?)\"))*");
-            var match = regex.Match(itemString);
-            var itemName = match.Groups["item"].Value;
-            var dico = new Dictionary<string, string>();
-            var names = match.Groups["name"].Captures;
-            var values = match.Groups["value"].Captures;
-            for(int i = 0; i<names.Count; i++)
-            {
-                dico[names[i].Value] = values[i].Value;
-            }
-            var name = itemString;
+            var parsedComment = new ParsedComment(itemString);
+            var name = $"AideDeJeuLib.{parsedComment.Name}, AideDeJeu";
             var type = Type.GetType(name);
             if (type != null)
             {
@@ -264,13 +275,25 @@ namespace AideDeJeu.ViewModels
 
         Item CreateNewItem(string itemString)
         {
-            var regex = new Regex("(?<item>\\w+)(\\s+((?<name>\\w+)=\"(?<value>.*)\"))*");
-            var name = itemString;
+            var parsedComment = new ParsedComment(itemString);
+            var name = $"AideDeJeuLib.{parsedComment.Name}, AideDeJeu";
             var type = Type.GetType(name);
             if (type != null)
             {
-                var instance = Activator.CreateInstance(type) as Item;
-                return instance;
+                var item = Activator.CreateInstance(type) as Item;
+                foreach (var attribute in parsedComment.Attributes)
+                {
+                    var prop = item.GetType().GetProperty(attribute.Key, BindingFlags.Public | BindingFlags.Instance);
+                    if (prop?.CanWrite == true)
+                    {
+                        prop.SetValue(item, prop.GetValue(item) + attribute.Value, null);
+                    }
+                    else
+                    {
+                        item.Attributes[attribute.Key] = attribute.Value;
+                    }
+                }
+                return item;
             }
             return null;
         }
@@ -302,7 +325,8 @@ namespace AideDeJeu.ViewModels
                 {
                     if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
-                        var name = $"AideDeJeuLib.{tag.Substring(4, tag.Length - 7)}, AideDeJeu";
+                        //var name = $"AideDeJeuLib.{tag.Substring(4, tag.Length - 7)}, AideDeJeu";
+                        var name = tag.Substring(4, tag.Length - 7);
                         var instance = CreateNewItem(name);
                         if(instance != null)
                         {

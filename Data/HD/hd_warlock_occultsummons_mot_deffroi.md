@@ -5,6 +5,7 @@ ParentLink: warlock_occultsummons_hd.md#invocations-occultes
 Name: Mot d'effroi
 ParentName: Invocations occultes
 NameLevel: 2
+Attributes: {}
 ---
 > [Invocations occultes](hd_warlock_occultsummons.md)
 

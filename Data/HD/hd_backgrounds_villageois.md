@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#villageois
 ParentLink: backgrounds_hd.md#historique
 Name: Villageois
 ParentName: Historique
+Attributes: {}
 ---
 
 

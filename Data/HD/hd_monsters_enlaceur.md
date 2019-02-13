@@ -22,6 +22,7 @@ Name: Enlaceur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Roper](srd_monsters_roper.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

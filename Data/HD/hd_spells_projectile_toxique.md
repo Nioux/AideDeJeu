@@ -13,6 +13,7 @@ Name: Projectile toxique
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

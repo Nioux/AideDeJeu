@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)'
 Source: (SRD p159)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Speak with Plants](srd_spells_speak_with_plants.md)'
 Source: (MDR p337)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

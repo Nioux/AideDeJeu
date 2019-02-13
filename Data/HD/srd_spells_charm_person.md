@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Charme-personne](hd_spells_charme_personne.md)'
 Source: (SRD p124)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

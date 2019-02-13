@@ -7,6 +7,7 @@ ParentLink: races_hd.md#races
 Name: Humain
 ParentName: Races
 AltName: '[Human](#)'
+Attributes: {}
 ---
 
 

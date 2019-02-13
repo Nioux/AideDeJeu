@@ -25,6 +25,7 @@ Name: Méphite de glace
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

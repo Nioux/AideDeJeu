@@ -12,6 +12,7 @@ SubItems:
   Name: Armure matelassée
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure légère
   Price: 10 po
@@ -22,6 +23,7 @@ SubItems:
   Name: Armure de cuir
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure légère
   Price: 45 po
@@ -32,6 +34,7 @@ SubItems:
   Name: Armure de cuir clouté
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure intermédiaire
   Price: 10 po
@@ -42,6 +45,7 @@ SubItems:
   Name: Armure de peau
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure intermédiaire
   Price: 50 po
@@ -52,6 +56,7 @@ SubItems:
   Name: Chemise de mailles
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure intermédiaire
   Price: 50 po
@@ -63,6 +68,7 @@ SubItems:
   Name: Armure d'écailles
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure intermédiaire
   Price: 400 po
@@ -73,6 +79,7 @@ SubItems:
   Name: Cuirasse
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure intermédiaire
   Price: 750 po
@@ -84,6 +91,7 @@ SubItems:
   Name: Armure de demi-plate
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure lourde
   Price: 30 po
@@ -95,6 +103,7 @@ SubItems:
   Name: Armure annelée (Broigne)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure lourde
   Price: 75 po
@@ -107,6 +116,7 @@ SubItems:
   Name: Cotte de mailles
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure lourde
   Price: 200 po
@@ -119,6 +129,7 @@ SubItems:
   Name: Clibanion
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Armure lourde
   Price: 1 500 po
@@ -131,6 +142,7 @@ SubItems:
   Name: Harnois
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Bouclier
   Price: 10 po
@@ -141,6 +153,7 @@ SubItems:
   Name: Bouclier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 2 pa
@@ -153,6 +166,7 @@ SubItems:
   Name: Bâton
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 2 po
@@ -165,6 +179,7 @@ SubItems:
   Name: Dague
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 1 pa
@@ -177,6 +192,7 @@ SubItems:
   Name: Gourdin
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 5 po
@@ -189,6 +205,7 @@ SubItems:
   Name: Hachette
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 5 pa
@@ -201,6 +218,7 @@ SubItems:
   Name: Javeline
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 1 po
@@ -213,6 +231,7 @@ SubItems:
   Name: Lance
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 2 po
@@ -225,6 +244,7 @@ SubItems:
   Name: Marteau léger
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 5 po
@@ -237,6 +257,7 @@ SubItems:
   Name: Masse d'armes
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 2 pa
@@ -249,6 +270,7 @@ SubItems:
   Name: Massue
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 1 po
@@ -261,6 +283,7 @@ SubItems:
   Name: Serpe
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme à distance
   Price: 25 po
@@ -273,6 +296,7 @@ SubItems:
   Name: Arbalète légère
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme à distance
   Price: 25 po
@@ -285,6 +309,7 @@ SubItems:
   Name: Arc court
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme à distance
   Price: 5 pc
@@ -297,6 +322,7 @@ SubItems:
   Name: Fléchette
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme à distance
   Price: 1 pa
@@ -309,6 +335,7 @@ SubItems:
   Name: Fronde
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 25 po
@@ -321,6 +348,7 @@ SubItems:
   Name: Cimeterre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 20 po
@@ -333,6 +361,7 @@ SubItems:
   Name: Coutille
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 50 po
@@ -345,6 +374,7 @@ SubItems:
   Name: Épée à deux mains
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 10 po
@@ -357,6 +387,7 @@ SubItems:
   Name: Épée courte
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 15 po
@@ -369,6 +400,7 @@ SubItems:
   Name: Épée longue
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 10 po
@@ -381,6 +413,7 @@ SubItems:
   Name: Fléau
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 2 po
@@ -393,6 +426,7 @@ SubItems:
   Name: Fouet
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 30 po
@@ -405,6 +439,7 @@ SubItems:
   Name: Hache à deux mains
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 10 po
@@ -417,6 +452,7 @@ SubItems:
   Name: Hache d'armes
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 20 po
@@ -429,6 +465,7 @@ SubItems:
   Name: Hallebarde
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 10 po
@@ -441,6 +478,7 @@ SubItems:
   Name: Lance d'arçon
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 5 po
@@ -453,6 +491,7 @@ SubItems:
   Name: Pic de guerre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 15 po
@@ -465,6 +504,7 @@ SubItems:
   Name: Marteau de guerre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 10 po
@@ -477,6 +517,7 @@ SubItems:
   Name: Merlin
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 15 po
@@ -489,6 +530,7 @@ SubItems:
   Name: Morgenstern
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 5 po
@@ -501,6 +543,7 @@ SubItems:
   Name: Pique
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 25 po
@@ -513,6 +556,7 @@ SubItems:
   Name: Rapière
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme de corps-à-corps
   Price: 5 po
@@ -525,6 +569,7 @@ SubItems:
   Name: Trident
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme à distance
   Price: 75 po
@@ -537,6 +582,7 @@ SubItems:
   Name: Arbalète de poing
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme à distance
   Price: 50 po
@@ -549,6 +595,7 @@ SubItems:
   Name: Arbalète lourde
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme à distance
   Price: 50 po
@@ -561,6 +608,7 @@ SubItems:
   Name: Arc long
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme à distance
   Price: 1 po
@@ -573,6 +621,7 @@ SubItems:
   Name: Filet
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Arme à distance
   Price: 10 po
@@ -585,6 +634,7 @@ SubItems:
   Name: Sarbacane
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 25 po
@@ -595,6 +645,7 @@ SubItems:
   Name: Acide
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 50 po
@@ -605,6 +656,7 @@ SubItems:
   Name: Antitoxine
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 po
@@ -614,6 +666,7 @@ SubItems:
   Name: Balance de marchand
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurierÉquipement d'aventurier
   Price: 4 po
@@ -623,6 +676,7 @@ SubItems:
   Name: Bélier portatif
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -633,6 +687,7 @@ SubItems:
   Name: Billes
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -642,6 +697,7 @@ SubItems:
   Name: Boîte à amadou
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 pc
@@ -651,6 +707,7 @@ SubItems:
   Name: Bougie
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -660,6 +717,7 @@ SubItems:
   Name: Boulier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -670,6 +728,7 @@ SubItems:
   Name: Bouteille en verre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 10 po
@@ -679,6 +738,7 @@ SubItems:
   Name: Cadenas
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -688,6 +748,7 @@ SubItems:
   Name: Carquois
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 po
@@ -698,6 +759,7 @@ SubItems:
   Name: Chaîne
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -708,6 +770,7 @@ SubItems:
   Name: Chausse-trappes
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 po
@@ -717,6 +780,7 @@ SubItems:
   Name: Chevalière
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -726,6 +790,7 @@ SubItems:
   Name: Cire à cacheter
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -735,6 +800,7 @@ SubItems:
   Name: Cloche
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 po
@@ -745,6 +811,7 @@ SubItems:
   Name: Coffre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -755,6 +822,7 @@ SubItems:
   Name: Corde en chanvre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 10 po
@@ -765,6 +833,7 @@ SubItems:
   Name: Corde en soie
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -774,6 +843,7 @@ SubItems:
   Name: Couverture
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 pc
@@ -784,6 +854,7 @@ SubItems:
   Name: Craie
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 pc
@@ -794,6 +865,7 @@ SubItems:
   Name: Cruche ou pichet
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 25 po
@@ -804,6 +876,7 @@ SubItems:
   Name: Eau bénite
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 pa
@@ -814,6 +887,7 @@ SubItems:
   Name: Échelle
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 10 po
@@ -824,6 +898,7 @@ SubItems:
   Name: Encre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 25 po
@@ -833,6 +908,7 @@ SubItems:
   Name: Équipement d'escalade
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -842,6 +918,7 @@ SubItems:
   Name: Étui pour carreaux
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -851,6 +928,7 @@ SubItems:
   Name: Étui pour cartes ou parchemins
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 50 po
@@ -861,6 +939,7 @@ SubItems:
   Name: Feu grégeois
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -871,6 +950,7 @@ SubItems:
   Name: Fiole
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 pc
@@ -881,6 +961,7 @@ SubItems:
   Name: Flasque ou chope
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 10 po
@@ -890,6 +971,7 @@ SubItems:
   Name: Cristal (focaliseur arcanique)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 20 po
@@ -899,6 +981,7 @@ SubItems:
   Name: Orbe (focaliseur arcanique)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 10 po
@@ -908,6 +991,7 @@ SubItems:
   Name: Sceptre (focaliseur arcanique)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 5 po
@@ -917,6 +1001,7 @@ SubItems:
   Name: Bâton (focaliseur arcanique)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 10 po
@@ -926,6 +1011,7 @@ SubItems:
   Name: Baguette (focaliseur arcanique)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 1 po
@@ -935,6 +1021,7 @@ SubItems:
   Name: Branche de houx (focaliseur druidique)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 1 po
@@ -944,6 +1031,7 @@ SubItems:
   Name: Totem (focaliseur druidique)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 5 po
@@ -953,6 +1041,7 @@ SubItems:
   Name: Bâton (focaliseur druidique)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 10 po
@@ -962,6 +1051,7 @@ SubItems:
   Name: Baguette d'if (focaliseur druidique)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 pa
@@ -971,6 +1061,7 @@ SubItems:
   Name: Gamelle
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -980,6 +1071,7 @@ SubItems:
   Name: Grappin
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 50 po
@@ -989,6 +1081,7 @@ SubItems:
   Name: Grimoire
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 pa
@@ -999,6 +1092,7 @@ SubItems:
   Name: Huile
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -1008,6 +1102,7 @@ SubItems:
   Name: Lampe
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 po
@@ -1017,6 +1112,7 @@ SubItems:
   Name: Lanterne à capote
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 10 po
@@ -1026,6 +1122,7 @@ SubItems:
   Name: Lanterne sourde
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 25 po
@@ -1035,6 +1132,7 @@ SubItems:
   Name: Livre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 000 po
@@ -1044,6 +1142,7 @@ SubItems:
   Name: Longue-vue
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 100 po
@@ -1053,6 +1152,7 @@ SubItems:
   Name: Loupe
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -1062,6 +1162,7 @@ SubItems:
   Name: Marteau
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1071,6 +1172,7 @@ SubItems:
   Name: Masse
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -1080,6 +1182,7 @@ SubItems:
   Name: Matériel de pêche
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1089,6 +1192,7 @@ SubItems:
   Name: Menottes
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 po
@@ -1098,6 +1202,7 @@ SubItems:
   Name: Miroir en acier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Munitions
   Price: 1 po
@@ -1108,6 +1213,7 @@ SubItems:
   Name: Flèches
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Munitions
   Price: 1 po
@@ -1118,6 +1224,7 @@ SubItems:
   Name: Dards de sarbacane
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Munitions
   Price: 1 po
@@ -1128,6 +1235,7 @@ SubItems:
   Name: Carreaux d'arbalète
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Munitions
   Price: 4 pc
@@ -1138,6 +1246,7 @@ SubItems:
   Name: Billes de fronde
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 pa
@@ -1148,6 +1257,7 @@ SubItems:
   Name: Outre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -1157,6 +1267,7 @@ SubItems:
   Name: Palan
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 4 pa
@@ -1167,6 +1278,7 @@ SubItems:
   Name: Panier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 pa
@@ -1177,6 +1289,7 @@ SubItems:
   Name: Papier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 pa
@@ -1187,6 +1300,7 @@ SubItems:
   Name: Parchemin
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 po
@@ -1197,6 +1311,7 @@ SubItems:
   Name: Parfum
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1206,6 +1321,7 @@ SubItems:
   Name: Pelle
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 pc
@@ -1216,6 +1332,7 @@ SubItems:
   Name: Perche
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -1226,6 +1343,7 @@ SubItems:
   Name: Pics en fer
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1235,6 +1353,7 @@ SubItems:
   Name: Pied-de-biche
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 po
@@ -1244,6 +1363,7 @@ SubItems:
   Name: Piège à mâchoires
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 pc
@@ -1253,6 +1373,7 @@ SubItems:
   Name: Pierre à affûter
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1262,6 +1383,7 @@ SubItems:
   Name: Pioche de mineur
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 pc
@@ -1271,6 +1393,7 @@ SubItems:
   Name: Piton
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 100 po
@@ -1281,6 +1404,7 @@ SubItems:
   Name: Poison
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 pc
@@ -1290,6 +1414,7 @@ SubItems:
   Name: Porte-plume
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1300,6 +1425,7 @@ SubItems:
   Name: Pot en fer
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 50 po
@@ -1309,6 +1435,7 @@ SubItems:
   Name: Potion de soins
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -1319,6 +1446,7 @@ SubItems:
   Name: Rations
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 25 po
@@ -1328,6 +1456,7 @@ SubItems:
   Name: Sablier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 pc
@@ -1338,6 +1467,7 @@ SubItems:
   Name: Sac
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1348,6 +1478,7 @@ SubItems:
   Name: Sac à dos
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 po
@@ -1357,6 +1488,7 @@ SubItems:
   Name: Sac de couchage
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -1367,6 +1499,7 @@ SubItems:
   Name: Sacoche
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 25 po
@@ -1376,6 +1509,7 @@ SubItems:
   Name: Sacoche à composantes
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 pc
@@ -1385,6 +1519,7 @@ SubItems:
   Name: Savon
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 pc
@@ -1395,6 +1530,7 @@ SubItems:
   Name: Seau
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 pc
@@ -1404,6 +1540,7 @@ SubItems:
   Name: Siflet
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Symbole sacré
   Price: 5 po
@@ -1413,6 +1550,7 @@ SubItems:
   Name: Amulette
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Symbole sacré
   Price: 5 po
@@ -1422,6 +1560,7 @@ SubItems:
   Name: Emblème
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Symbole sacré
   Price: 5 po
@@ -1431,6 +1570,7 @@ SubItems:
   Name: Reliquaire
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1441,6 +1581,7 @@ SubItems:
   Name: Tente
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1451,6 +1592,7 @@ SubItems:
   Name: Tonneau
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 1 pc
@@ -1460,6 +1602,7 @@ SubItems:
   Name: Torche
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier
   Price: 5 po
@@ -1469,6 +1612,7 @@ SubItems:
   Name: Trousse de soins
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Vêtements
   Price: 5 po
@@ -1478,6 +1622,7 @@ SubItems:
   Name: Costume
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Vêtements
   Price: 5 pa
@@ -1487,6 +1632,7 @@ SubItems:
   Name: Habits courants
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Vêtements
   Price: 15 po
@@ -1496,6 +1642,7 @@ SubItems:
   Name: Habits de bonne qualité
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Vêtements
   Price: 1 po
@@ -1505,6 +1652,7 @@ SubItems:
   Name: Robes
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement d'aventurier / Vêtements
   Price: 2 po
@@ -1514,6 +1662,7 @@ SubItems:
   Name: Tenue de voyageur
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Instrument de musique
   Price: 2 po
@@ -1523,6 +1672,7 @@ SubItems:
   Name: Chalemie
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Instrument de musique
   Price: 3 po
@@ -1532,6 +1682,7 @@ SubItems:
   Name: Cor
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Instrument de musique
   Price: 30 po
@@ -1541,6 +1692,7 @@ SubItems:
   Name: Cornemuse
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Instrument de musique
   Price: 2 po
@@ -1550,6 +1702,7 @@ SubItems:
   Name: Flûte
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Instrument de musique
   Price: 12 po
@@ -1559,6 +1712,7 @@ SubItems:
   Name: Flûte de pan
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Instrument de musique
   Price: 35 po
@@ -1568,6 +1722,7 @@ SubItems:
   Name: Luth
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Instrument de musique
   Price: 30 po
@@ -1577,6 +1732,7 @@ SubItems:
   Name: Lyre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Instrument de musique
   Price: 6 po
@@ -1586,6 +1742,7 @@ SubItems:
   Name: Tambour
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Instrument de musique
   Price: 25 po
@@ -1595,6 +1752,7 @@ SubItems:
   Name: Tympanon
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Instrument de musique
   Price: 30 po
@@ -1604,6 +1762,7 @@ SubItems:
   Name: Viole
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil
   Price: 25 po
@@ -1613,6 +1772,7 @@ SubItems:
   Name: Instruments de navigation
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Jeu
   Price: 1 pa
@@ -1622,6 +1782,7 @@ SubItems:
   Name: Dés
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil - Jeu
   Price: 5 pa
@@ -1631,6 +1792,7 @@ SubItems:
   Name: Jeu de cartes
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil
   Price: 50 po
@@ -1640,6 +1802,7 @@ SubItems:
   Name: Matériel d'empoisonneur
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil
   Price: 5 po
@@ -1649,6 +1812,7 @@ SubItems:
   Name: Matériel d'herboriste
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 50 po
@@ -1658,6 +1822,7 @@ SubItems:
   Name: Matériel d'alchimiste
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 20 po
@@ -1667,6 +1832,7 @@ SubItems:
   Name: Matériel de brasseur
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 50 po
@@ -1676,6 +1842,7 @@ SubItems:
   Name: Outils de bricoleur
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 10 po
@@ -1685,6 +1852,7 @@ SubItems:
   Name: Matériel de calligraphie
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 15 po
@@ -1694,6 +1862,7 @@ SubItems:
   Name: Outils de cartographe
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 8 po
@@ -1703,6 +1872,7 @@ SubItems:
   Name: Outils de charpentier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 5 po
@@ -1712,6 +1882,7 @@ SubItems:
   Name: Outils de cordonnier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 1 po
@@ -1721,6 +1892,7 @@ SubItems:
   Name: Ustensiles de cuisinier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 25 po
@@ -1730,6 +1902,7 @@ SubItems:
   Name: Accessoires de déguisement
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 15 po
@@ -1739,6 +1912,7 @@ SubItems:
   Name: Accessoires de faussaire
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 20 po
@@ -1748,6 +1922,7 @@ SubItems:
   Name: Outils de forgeron
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 25 po
@@ -1757,6 +1932,7 @@ SubItems:
   Name: Outils de joaillier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 10 po
@@ -1766,6 +1942,7 @@ SubItems:
   Name: Outils de maçon
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 1 po
@@ -1775,6 +1952,7 @@ SubItems:
   Name: Outils de menuisier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 10 po
@@ -1784,6 +1962,7 @@ SubItems:
   Name: Matériel de peintre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 10 po
@@ -1793,6 +1972,7 @@ SubItems:
   Name: Outils de potier
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 30 po
@@ -1802,6 +1982,7 @@ SubItems:
   Name: Outils de soufeur de verre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 5 po
@@ -1811,6 +1992,7 @@ SubItems:
   Name: Outils de tanneur
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 1 po
@@ -1820,6 +2002,7 @@ SubItems:
   Name: Outils de tisserand
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Outil d'artisan
   Price: 25 po
@@ -1829,6 +2012,7 @@ SubItems:
   Name: Outils de voleur
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Monture
   Price: 8 po
@@ -1839,6 +2023,7 @@ SubItems:
   Name: Âne ou mule
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Monture
   Price: 50 po
@@ -1849,6 +2034,7 @@ SubItems:
   Name: Chameau
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Monture
   Price: 400 po
@@ -1859,6 +2045,7 @@ SubItems:
   Name: Cheval de guerre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Monture
   Price: 75 po
@@ -1869,6 +2056,7 @@ SubItems:
   Name: Cheval de selle
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Monture
   Price: 50 po
@@ -1879,6 +2067,7 @@ SubItems:
   Name: Cheval de trait
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Monture
   Price: 200 po
@@ -1889,6 +2078,7 @@ SubItems:
   Name: Éléphant
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Monture
   Price: 25 po
@@ -1899,6 +2089,7 @@ SubItems:
   Name: Molosse
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Monture
   Price: 30 po
@@ -1909,6 +2100,7 @@ SubItems:
   Name: Poney
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: x 4
@@ -1918,6 +2110,7 @@ SubItems:
   Name: Barde
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 100 po
@@ -1927,6 +2120,7 @@ SubItems:
   Name: Calèche
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 250 po
@@ -1936,6 +2130,7 @@ SubItems:
   Name: Carriole
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 35 po
@@ -1945,6 +2140,7 @@ SubItems:
   Name: Chariot
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 15 po
@@ -1954,6 +2150,7 @@ SubItems:
   Name: Charrette
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 5 pa
@@ -1964,6 +2161,7 @@ SubItems:
   Name: Écurie
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 4 po
@@ -1973,6 +2171,7 @@ SubItems:
   Name: Fontes
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 5 pc
@@ -1983,6 +2182,7 @@ SubItems:
   Name: Fourrage
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 2 po
@@ -1992,6 +2192,7 @@ SubItems:
   Name: Mors et bride
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 5 po
@@ -2001,6 +2202,7 @@ SubItems:
   Name: Selle de bât
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 10 po
@@ -2010,6 +2212,7 @@ SubItems:
   Name: Selle d'équitation
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 60 po
@@ -2019,6 +2222,7 @@ SubItems:
   Name: Selle exotique
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 20 po
@@ -2028,6 +2232,7 @@ SubItems:
   Name: Selle militaire
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Équipement, sellerie et véhicules à traction
   Price: 20 po
@@ -2037,6 +2242,7 @@ SubItems:
   Name: Traîneau
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Bateau
   Price: 3 000 po
@@ -2046,6 +2252,7 @@ SubItems:
   Name: Barge
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Bateau
   Price: 50 po
@@ -2055,6 +2262,7 @@ SubItems:
   Name: Barque
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Bateau
   Price: 10 000 po
@@ -2064,6 +2272,7 @@ SubItems:
   Name: Bateau à voiles
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Bateau
   Price: 10 000 po
@@ -2073,6 +2282,7 @@ SubItems:
   Name: Drakkar
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Bateau
   Price: 30 000 po
@@ -2082,6 +2292,7 @@ SubItems:
   Name: Galère
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Bateau
   Price: 25 000 po
@@ -2091,6 +2302,7 @@ SubItems:
   Name: Navire de guerre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 1 pc
@@ -2100,6 +2312,7 @@ SubItems:
   Name: Blé
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 2 pc
@@ -2109,6 +2322,7 @@ SubItems:
   Name: Farine
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 2 pc
@@ -2117,6 +2331,7 @@ SubItems:
   Name: Poulet
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 5 pc
@@ -2126,6 +2341,7 @@ SubItems:
   Name: Sel
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 1 pa
@@ -2135,6 +2351,7 @@ SubItems:
   Name: Fer
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 1 pa
@@ -2144,6 +2361,7 @@ SubItems:
   Name: Toile
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 5 pa
@@ -2153,6 +2371,7 @@ SubItems:
   Name: Cuivre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 5 pa
@@ -2162,6 +2381,7 @@ SubItems:
   Name: Tissu en coton
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 1 po
@@ -2171,6 +2391,7 @@ SubItems:
   Name: Gingembre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 1 po
@@ -2179,6 +2400,7 @@ SubItems:
   Name: Chèvre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 2 po
@@ -2188,6 +2410,7 @@ SubItems:
   Name: Cannelle
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 2 po
@@ -2197,6 +2420,7 @@ SubItems:
   Name: Poivre
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 2 po
@@ -2205,6 +2429,7 @@ SubItems:
   Name: Mouton
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 3 po
@@ -2214,6 +2439,7 @@ SubItems:
   Name: Clous de girofle
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 3 po
@@ -2222,6 +2448,7 @@ SubItems:
   Name: Cochon
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 5 po
@@ -2231,6 +2458,7 @@ SubItems:
   Name: Argent
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 5 po
@@ -2240,6 +2468,7 @@ SubItems:
   Name: Lin
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 10 po
@@ -2249,6 +2478,7 @@ SubItems:
   Name: Soie
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 10 po
@@ -2257,6 +2487,7 @@ SubItems:
   Name: Vache
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 15 po
@@ -2266,6 +2497,7 @@ SubItems:
   Name: Safran
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 15 po
@@ -2274,6 +2506,7 @@ SubItems:
   Name: Boeuf
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 50 po
@@ -2283,6 +2516,7 @@ SubItems:
   Name: Or
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Marchandise
   Price: 500 po
@@ -2292,6 +2526,7 @@ SubItems:
   Name: Platine
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Service
   Price: 2 pa
@@ -2301,6 +2536,7 @@ SubItems:
   Name: Employé non-qualifé
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Service
   Price: 2 po
@@ -2310,6 +2546,7 @@ SubItems:
   Name: Employé qualifé
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Service
   Price: 2 pc
@@ -2319,6 +2556,7 @@ SubItems:
   Name: Messager
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Service
   Price: 1 pc
@@ -2328,6 +2566,7 @@ SubItems:
   Name: Péage
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Service
   Price: 1 pc
@@ -2336,6 +2575,7 @@ SubItems:
   Name: Transport dans une ville
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Service
   Price: 2 pc
@@ -2345,6 +2585,7 @@ SubItems:
   Name: Transport entre deux villes
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Service
   Price: 7 pc
@@ -2354,6 +2595,7 @@ SubItems:
   Name: Voyage maritime
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 10 po
@@ -2363,6 +2605,7 @@ SubItems:
   Name: Banquet
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 4 pc
@@ -2372,6 +2615,7 @@ SubItems:
   Name: Bière (chope)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 2 pa
@@ -2381,6 +2625,7 @@ SubItems:
   Name: Bière (cruche)
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 1 pa
@@ -2390,6 +2635,7 @@ SubItems:
   Name: Fromage
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 7 pc
@@ -2399,6 +2645,7 @@ SubItems:
   Name: "Hébergement à l'auberge : Misérable"
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 1 pa
@@ -2408,6 +2655,7 @@ SubItems:
   Name: "Hébergement à l'auberge : Pauvre"
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 5 pa
@@ -2417,6 +2665,7 @@ SubItems:
   Name: "Hébergement à l'auberge : Modeste"
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 8 pa
@@ -2426,6 +2675,7 @@ SubItems:
   Name: "Hébergement à l'auberge : Confortable"
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 2 po
@@ -2435,6 +2685,7 @@ SubItems:
   Name: "Hébergement à l'auberge : Riche"
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 4 po
@@ -2444,6 +2695,7 @@ SubItems:
   Name: "Hébergement à l'auberge : Aristocratique"
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 2 pc
@@ -2453,6 +2705,7 @@ SubItems:
   Name: Pain
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 3 pc
@@ -2462,6 +2715,7 @@ SubItems:
   Name: 'Repas : Misérable'
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 6 pc
@@ -2471,6 +2725,7 @@ SubItems:
   Name: 'Repas : Pauvre'
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 3 pa
@@ -2480,6 +2735,7 @@ SubItems:
   Name: 'Repas : Modeste'
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 5 pa
@@ -2489,6 +2745,7 @@ SubItems:
   Name: 'Repas : Confortable'
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 8 pa
@@ -2498,6 +2755,7 @@ SubItems:
   Name: 'Repas : Riche'
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 2 po
@@ -2507,6 +2765,7 @@ SubItems:
   Name: 'Repas : Aristocratique'
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 3 pa
@@ -2516,6 +2775,7 @@ SubItems:
   Name: Viande
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 2 pa
@@ -2525,6 +2785,7 @@ SubItems:
   Name: Vin ordinaire
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 - !Equipment
   Type: Nourriture, boisson et logement
   Price: 10 po
@@ -2534,12 +2795,14 @@ SubItems:
   Name: Vin rafiné
   ParentName: Équipement
   NameLevel: 1
+  Attributes: {}
 Id: equipment_hd.md#Équipement
 RootId: equipment_hd.md
 ParentLink: index.md
 Name: Équipement
 ParentName: Manuel des règles
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

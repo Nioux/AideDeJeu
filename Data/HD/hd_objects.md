@@ -8,6 +8,7 @@ ParentName: Créatures et oppositions
 NameLevel: 2
 AltName: 'Objects '
 Source: (CEO p380)(SRD p203)
+Attributes: {}
 ---
 >  [Créatures et oppositions](index.md)
 

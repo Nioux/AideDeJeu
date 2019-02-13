@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Cage de force](hd_spells_cage_de_force.md)'
 Source: (SRD p147)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

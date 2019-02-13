@@ -6,6 +6,7 @@ Name: Fils du vent
 ParentName: Humain des cinq royaumes
 NameLevel: 4
 Source: (L5R p51)
+Attributes: {}
 ---
 > [Humain des cinq royaumes](hd_l5r_human.md)
 

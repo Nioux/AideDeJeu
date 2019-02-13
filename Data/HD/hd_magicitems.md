@@ -8,6 +8,7 @@ ParentName: Cadre de campagne
 NameLevel: 1
 AltName: Magic Items (SRD p206)
 Source: (CDC p129)
+Attributes: {}
 ---
 >  [Cadre de campagne](index.md)
 

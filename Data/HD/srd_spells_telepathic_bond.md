@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Lien télépathique](hd_spells_lien_telepathique.md)'
 Source: (SRD p185)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

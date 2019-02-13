@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Appel de la foudre](hd_spells_appel_de_la_foudre.md)'
 Source: (SRD p123)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

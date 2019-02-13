@@ -21,6 +21,7 @@ Name: Merrow
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Merrow](srd_monsters_merrow.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

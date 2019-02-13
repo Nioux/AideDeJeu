@@ -5,6 +5,7 @@ ParentLink: barbarian_spirits_hd.md#voie-des-esprits
 Name: Incarnation
 ParentName: Voie des esprits
 NameLevel: 2
+Attributes: {}
 ---
 > [Voie des esprits](hd_barbarian_spirits.md)
 

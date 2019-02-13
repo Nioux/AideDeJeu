@@ -22,6 +22,7 @@ Name: Vautour géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Vulture](srd_monsters_giant_vulture.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -7,6 +7,7 @@ ParentName: Lancer des sorts
 NameLevel: 3
 AltName: Casting in Armor (SRD p100)
 Source: (MDR p307)
+Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)
 

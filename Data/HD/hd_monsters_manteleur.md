@@ -22,6 +22,7 @@ Name: Manteleur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cloaker](srd_monsters_cloaker.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

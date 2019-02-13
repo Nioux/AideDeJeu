@@ -1,12 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Gardien des traditions
+Source: (MDR p137)
 Id: cleric_traditions_hd.md#gardien-des-traditions
 RootId: cleric_traditions_hd.md
 ParentLink: cleric_hd.md#domaines-divins
-Name: Gardien des traditions
 ParentName: Domaines divins
 NameLevel: 1
-Source: (MDR p137)
+Attributes: {}
 ---
 >  [Domaines divins](hd_cleric_domaines_divins.md)
 

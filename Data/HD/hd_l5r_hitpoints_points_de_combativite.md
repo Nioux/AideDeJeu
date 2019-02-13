@@ -6,6 +6,7 @@ Name: Points de combativité
 ParentName: Points de vie et blessures
 NameLevel: 3
 Source: (L5R p42)
+Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)
 

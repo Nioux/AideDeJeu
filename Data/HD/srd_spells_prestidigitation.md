@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Prestidigitation](hd_spells_prestidigitation.md)'
 Source: (SRD p170)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

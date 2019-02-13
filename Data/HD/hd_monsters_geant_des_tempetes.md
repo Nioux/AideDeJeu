@@ -25,6 +25,7 @@ Name: Géant des tempêtes
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

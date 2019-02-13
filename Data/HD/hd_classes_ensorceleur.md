@@ -7,6 +7,7 @@ ParentLink: classes_hd.md#classes
 Name: Ensorceleur
 ParentName: Classes
 AltName: '[Sorcerer](#)'
+Attributes: {}
 ---
 
 

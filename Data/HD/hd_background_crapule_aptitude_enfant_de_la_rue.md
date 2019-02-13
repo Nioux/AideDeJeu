@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_crapule_hd.md#aptitude--enfant-de-la-rue
 ParentLink: background_crapule_hd.md#crapule
 Name: 'Aptitude : Enfant de la rue'
 ParentName: Crapule
 NameLevel: 4
+Attributes: {}
 ---
 > [Crapule](hd_background_crapule.md)
 

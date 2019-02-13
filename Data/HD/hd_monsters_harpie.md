@@ -21,6 +21,7 @@ Name: Harpie
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Harpy](srd_monsters_harpy.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

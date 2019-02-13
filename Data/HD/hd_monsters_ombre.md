@@ -26,6 +26,7 @@ Name: Ombre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Shadow](srd_monsters_shadow.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

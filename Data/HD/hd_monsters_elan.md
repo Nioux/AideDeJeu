@@ -21,6 +21,7 @@ Name: Élan
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Elk](srd_monsters_elk.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

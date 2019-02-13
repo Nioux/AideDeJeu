@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Protections et sceaux](hd_spells_protections_et_sceaux.md)'
 Source: (SRD p151)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

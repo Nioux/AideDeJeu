@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Communion](hd_spells_communion.md)'
 Source: (SRD p126)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

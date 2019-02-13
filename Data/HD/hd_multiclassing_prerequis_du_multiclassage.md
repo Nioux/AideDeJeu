@@ -5,6 +5,7 @@ ParentLink: multiclassing_hd.md#multiclassage
 Name: Prérequis du multiclassage
 ParentName: Multiclassage
 NameLevel: 2
+Attributes: {}
 ---
 > [Multiclassage](hd_multiclassing.md)
 

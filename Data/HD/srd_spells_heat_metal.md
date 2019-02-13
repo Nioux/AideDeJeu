@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Chauffer le métal](hd_spells_chauffer_le_metal.md)'
 Source: (SRD p153)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Inflict Wounds](srd_spells_inflict_wounds.md)'
 Source: (MDR p327)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -8,6 +8,7 @@ ParentName: Gérer la santé
 NameLevel: 2
 AltName: Damage and Healing
 Source: (MDR p298)(SRD p96)
+Attributes: {}
 ---
 >  [Gérer la santé](hd_manage_health.md)
 

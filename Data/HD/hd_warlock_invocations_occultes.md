@@ -6,6 +6,7 @@ Id: warlock_hd.md#invocations-occultes
 ParentLink: warlock_hd.md#sorcier
 Name: Invocations occultes
 ParentName: Sorcier
+Attributes: {}
 ---
 
 

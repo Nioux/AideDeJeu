@@ -24,6 +24,7 @@ Name: Vase grise
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gray Ooze](srd_monsters_gray_ooze.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

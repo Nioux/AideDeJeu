@@ -5,6 +5,7 @@ ParentLink: alignment_hd.md#alignement
 Name: L'alignement dans le multivers
 ParentName: Alignement
 NameLevel: 3
+Attributes: {}
 ---
 > [Alignement](hd_alignment.md)
 

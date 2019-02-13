@@ -5,6 +5,7 @@ ParentLink: background_manouvrier_hd.md#manouvrier
 Name: Personnalités suggérées
 ParentName: Manouvrier
 NameLevel: 4
+Attributes: {}
 ---
 > [Manouvrier](hd_background_manouvrier.md)
 

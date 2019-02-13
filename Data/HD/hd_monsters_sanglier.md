@@ -21,6 +21,7 @@ Name: Sanglier
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Boar](srd_monsters_boar.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

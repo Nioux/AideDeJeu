@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Magic Weapon](srd_spells_magic_weapon.md)'
 Source: (MDR p324)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

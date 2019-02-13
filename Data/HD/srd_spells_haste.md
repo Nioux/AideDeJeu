@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Hâte](hd_spells_hate.md)'
 Source: (SRD p153)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

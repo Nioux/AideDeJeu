@@ -5,6 +5,7 @@ ParentLink: multiclassing_hd.md#multiclassage
 Name: Incantations
 ParentName: Multiclassage
 NameLevel: 3
+Attributes: {}
 ---
 > [Multiclassage](hd_multiclassing.md)
 

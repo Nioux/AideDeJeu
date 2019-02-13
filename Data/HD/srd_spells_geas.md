@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Coercition mystique](hd_spells_coercition_mystique.md)'
 Source: (SRD p148)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

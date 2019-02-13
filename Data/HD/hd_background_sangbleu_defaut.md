@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!PersonalityDefectItem
 Id: background_sangbleu_hd.md#défaut
 ParentLink: background_sangbleu_hd.md#personnalités-suggérées
 Name: Défaut
 ParentName: Personnalités suggérées
 NameLevel: 5
+Attributes: {}
 ---
 > [Personnalités suggérées](hd_background_sangbleu_personnalites_suggerees.md)
 

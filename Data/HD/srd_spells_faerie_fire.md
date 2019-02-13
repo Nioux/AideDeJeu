@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Lueurs féeriques](hd_spells_lueurs_feeriques.md)'
 Source: (SRD p141)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

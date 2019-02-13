@@ -23,6 +23,7 @@ Name: Armure animée
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Animated Armor](srd_monsters_animated_armor.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

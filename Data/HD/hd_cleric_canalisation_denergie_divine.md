@@ -5,6 +5,7 @@ ParentLink: cleric_hd.md#clerc
 Name: Canalisation d'énergie divine
 ParentName: Clerc
 NameLevel: 2
+Attributes: {}
 ---
 > [Clerc](hd_cleric.md)
 

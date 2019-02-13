@@ -21,6 +21,7 @@ Name: Chèvre géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Goat](srd_monsters_giant_goat.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

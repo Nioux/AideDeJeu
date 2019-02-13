@@ -24,6 +24,7 @@ Name: Jeune dragon blanc
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young White Dragon](srd_monsters_young_white_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

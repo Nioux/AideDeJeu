@@ -22,6 +22,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ankheg](hd_monsters_ankheg.md)'
 Source: (SRD p264)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

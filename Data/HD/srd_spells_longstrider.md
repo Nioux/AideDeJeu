@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Grande foulée](hd_spells_grande_foulee.md)'
 Source: (SRD p160)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

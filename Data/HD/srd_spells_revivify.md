@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Revigorer](hd_spells_revigorer.md)'
 Source: (SRD p175)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

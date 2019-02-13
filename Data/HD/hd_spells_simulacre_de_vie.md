@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[False Life](srd_spells_false_life.md)'
 Source: (MDR p)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

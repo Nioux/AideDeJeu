@@ -1,10 +1,14 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Athlétisme, Supercherie.
+MasteredTools: Instruments de navigation, véhicules (marins).
+Equipment: Couverture, tenue de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.
 Id: background_brigand_hd.md#variante--pirate
 ParentLink: background_brigand_hd.md#brigand
 Name: 'Variante : Pirate'
 ParentName: Brigand
 NameLevel: 3
+Attributes: {}
 ---
 > [Brigand](hd_background_brigand.md)
 

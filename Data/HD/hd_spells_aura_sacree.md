@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Holy Aura](srd_spells_holy_aura.md)'
 Source: (MDR p326)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

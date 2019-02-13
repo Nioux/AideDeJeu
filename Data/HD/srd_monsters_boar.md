@@ -21,6 +21,7 @@ Name: Boar
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Sanglier](hd_monsters_sanglier.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

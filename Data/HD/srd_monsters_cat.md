@@ -22,6 +22,7 @@ Name: Cat
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Chat](hd_monsters_chat.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

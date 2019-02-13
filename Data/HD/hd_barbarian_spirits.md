@@ -1,12 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Voie des esprits
+Source: (MDR p117)
 Id: barbarian_spirits_hd.md#voie-des-esprits
 RootId: barbarian_spirits_hd.md
 ParentLink: barbarian_hd.md#voies-primitives
-Name: Voie des esprits
 ParentName: Voies primitives
 NameLevel: 1
-Source: (MDR p117)
+Attributes: {}
 ---
 >  [Voies primitives](hd_barbarian_voies_primitives.md)
 

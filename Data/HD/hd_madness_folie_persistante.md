@@ -5,6 +5,7 @@ ParentLink: madness_hd.md#la-folie
 Name: Folie persistante
 ParentName: La folie
 NameLevel: 4
+Attributes: {}
 ---
 > [La folie](hd_madness.md)
 

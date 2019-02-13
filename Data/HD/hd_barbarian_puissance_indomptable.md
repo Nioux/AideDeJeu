@@ -5,6 +5,7 @@ ParentLink: barbarian_hd.md#barbare
 Name: Puissance indomptable
 ParentName: Barbare
 NameLevel: 2
+Attributes: {}
 ---
 > [Barbare](hd_barbarian.md)
 

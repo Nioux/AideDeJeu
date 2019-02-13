@@ -23,6 +23,7 @@ Name: Steam Mephit
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

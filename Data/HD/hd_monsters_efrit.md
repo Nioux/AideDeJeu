@@ -23,6 +23,7 @@ Name: Éfrit
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Efreeti](srd_monsters_efreeti.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

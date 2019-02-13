@@ -8,6 +8,7 @@ ParentName: Options de personnalisation
 NameLevel: 1
 AltName: Feats (SRD p75)
 Source: (MDR p245)
+Attributes: {}
 ---
 >  [Options de personnalisation](hd_custom_options.md)
 

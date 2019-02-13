@@ -22,6 +22,7 @@ Name: Nightmare
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Destrier noir](hd_monsters_destrier_noir.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

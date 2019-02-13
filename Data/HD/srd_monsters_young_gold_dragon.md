@@ -24,6 +24,7 @@ Name: Young Gold Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)"
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

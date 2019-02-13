@@ -5,6 +5,7 @@ ParentLink: ranger_hd.md#rôdeur
 Name: Traversée des terrains
 ParentName: Rôdeur
 NameLevel: 2
+Attributes: {}
 ---
 > [Rôdeur](hd_ranger.md)
 

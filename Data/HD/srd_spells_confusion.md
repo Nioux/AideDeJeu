@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Confusion](hd_spells_confusion.md)'
 Source: (SRD p127)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

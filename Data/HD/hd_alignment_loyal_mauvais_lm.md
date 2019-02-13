@@ -5,6 +5,7 @@ ParentLink: alignment_hd.md#alignement
 Name: Loyal Mauvais (LM)
 ParentName: Alignement
 NameLevel: 4
+Attributes: {}
 ---
 > [Alignement](hd_alignment.md)
 

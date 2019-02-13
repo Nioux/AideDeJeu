@@ -5,6 +5,7 @@ ParentLink: background_misereux_hd.md#miséreux
 Name: Personnalités suggérées
 ParentName: Miséreux
 NameLevel: 4
+Attributes: {}
 ---
 > [Miséreux](hd_background_misereux.md)
 

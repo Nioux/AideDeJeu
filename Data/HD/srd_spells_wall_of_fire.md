@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Mur de feu](hd_spells_mur_de_feu.md)'
 Source: (SRD p190)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

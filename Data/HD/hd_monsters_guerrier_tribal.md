@@ -21,6 +21,7 @@ Name: Guerrier tribal
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Tribal Warrior](srd_monsters_tribal_warrior.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

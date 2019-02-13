@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Nuage incendiaire](hd_spells_nuage_incendiaire.md)'
 Source: (SRD p157)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

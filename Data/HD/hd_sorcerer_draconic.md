@@ -1,13 +1,14 @@
 ﻿---
 !SubClassItem
+Name: Lignée draconique
+Source: (MDR p155)
 Id: sorcerer_draconic_hd.md#lignée-draconique
 RootId: sorcerer_draconic_hd.md
 ParentLink: sorcerer_hd.md#origines-magiques
-Name: Lignée draconique
 ParentName: Origines magiques
 NameLevel: 1
 AltName: Draconic Bloodline (SRD p44)
-Source: (MDR p155)
+Attributes: {}
 ---
 >  [Origines magiques](hd_sorcerer_origines_magiques.md)
 

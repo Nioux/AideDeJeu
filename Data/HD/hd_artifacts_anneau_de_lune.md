@@ -6,6 +6,7 @@ Name: ANNEAU DE LUNE
 ParentName: Artefacts
 NameLevel: 2
 Source: (CDC p191)
+Attributes: {}
 ---
 > [Artefacts](hd_artifacts.md)
 

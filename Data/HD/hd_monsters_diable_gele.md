@@ -25,6 +25,7 @@ Name: Diable gelé
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ice Devil](srd_monsters_ice_devil.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

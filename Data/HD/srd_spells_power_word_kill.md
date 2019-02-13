@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)'
 Source: (SRD p170)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

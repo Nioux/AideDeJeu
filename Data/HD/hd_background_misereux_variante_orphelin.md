@@ -1,10 +1,14 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Acrobaties ou Discrétion, Escamotage.
+MasteredTools: Un type de jeu au choix, accessoires de déguisement.
+Equipment: Habits courants, paquet de cartes ou dés, quelques chausse-trappes, colifichet vous rappelant votre enfance et – si vous les avez connus – vos parents, bourse contenant 5 po.
 Id: background_misereux_hd.md#variante--orphelin
 ParentLink: background_misereux_hd.md#miséreux
 Name: 'Variante : Orphelin'
 ParentName: Miséreux
 NameLevel: 3
+Attributes: {}
 ---
 > [Miséreux](hd_background_misereux.md)
 

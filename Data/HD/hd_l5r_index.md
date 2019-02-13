@@ -7,6 +7,7 @@ Name: 'Les Cinq Royaumes : Les règles spécifiques'
 ParentName: Les Cinq Royaumes
 NameLevel: 1
 Source: (L5R p42)
+Attributes: {}
 ---
 >  [Les Cinq Royaumes](index.md)
 

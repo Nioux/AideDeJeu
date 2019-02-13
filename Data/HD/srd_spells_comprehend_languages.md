@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Compréhension des langues](hd_spells_comprehension_des_langues.md)'
 Source: (SRD p126)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

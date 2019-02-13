@@ -21,6 +21,7 @@ Name: Kobold
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Kobold](srd_monsters_kobold.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

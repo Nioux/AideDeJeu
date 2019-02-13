@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!BackgroundSpecialtyItem
 Id: background_manouvrier_hd.md#signe-du-destin
 ParentLink: background_manouvrier_hd.md#manouvrier
 Name: Signe du destin
 ParentName: Manouvrier
 NameLevel: 4
+Attributes: {}
 ---
 > [Manouvrier](hd_background_manouvrier.md)
 

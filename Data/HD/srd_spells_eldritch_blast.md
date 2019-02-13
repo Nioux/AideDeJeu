@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Explosion occulte](hd_spells_explosion_occulte.md)'
 Source: (SRD p139)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

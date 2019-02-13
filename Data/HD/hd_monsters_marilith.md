@@ -25,6 +25,7 @@ Name: Marilith
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Marilith](srd_monsters_marilith.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

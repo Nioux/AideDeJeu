@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Rogue (SRD p39)
 Source: (MDR p202)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

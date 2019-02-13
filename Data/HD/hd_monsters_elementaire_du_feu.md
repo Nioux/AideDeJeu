@@ -24,6 +24,7 @@ Name: Élémentaire du feu
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,10 +1,14 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Religion, Supercherie.
+MasteredTools: Accessoires de déguisement, Véhicules (terrestres).
+Equipment: Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, habits courants, bourse contenant 10 po.
 Id: background_devot_hd.md#variante--repenti
 ParentLink: background_devot_hd.md#dévot
 Name: 'Variante : Repenti'
 ParentName: Dévot
 NameLevel: 3
+Attributes: {}
 ---
 > [Dévot](hd_background_devot.md)
 

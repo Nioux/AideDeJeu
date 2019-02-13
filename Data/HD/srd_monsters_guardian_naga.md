@@ -24,6 +24,7 @@ Name: Guardian Naga
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Naga gardien](hd_monsters_naga_gardien.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

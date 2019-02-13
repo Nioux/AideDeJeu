@@ -21,6 +21,7 @@ Name: Hippocampe géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Sea Horse](srd_monsters_giant_sea_horse.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -7,6 +7,7 @@ ParentName: Lancer des sorts
 NameLevel: 3
 AltName: Casting Time (SRD p101)
 Source: (MDR p307)
+Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)
 

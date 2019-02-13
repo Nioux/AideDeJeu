@@ -5,6 +5,7 @@ ParentLink: abilities_wisdom_hd.md#sagesse
 Name: Survie
 ParentName: Sagesse
 NameLevel: 3
+Attributes: {}
 ---
 > [Sagesse](hd_abilities_wisdom.md)
 

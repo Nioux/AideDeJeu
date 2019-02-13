@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Guidance](srd_spells_guidance.md)'
 Source: (MDR p325)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

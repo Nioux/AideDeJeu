@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_erudit_hd.md#aptitude--culture-générale
 ParentLink: background_erudit_hd.md#Érudit
 Name: 'Aptitude : Culture générale'
 ParentName: Érudit
 NameLevel: 4
+Attributes: {}
 ---
 > [Érudit](hd_background_erudit.md)
 

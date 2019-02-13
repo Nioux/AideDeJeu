@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Gaseous Form](srd_spells_gaseous_form.md)'
 Source: (MDR p357)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

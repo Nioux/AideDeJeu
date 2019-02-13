@@ -24,6 +24,7 @@ Name: Ancient Copper Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

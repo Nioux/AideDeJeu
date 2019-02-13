@@ -5,6 +5,7 @@ ParentLink: diseases_hd.md#les-maladies
 Name: Exemples de maladies
 ParentName: Les maladies
 NameLevel: 3
+Attributes: {}
 ---
 > [Les maladies](hd_diseases.md)
 

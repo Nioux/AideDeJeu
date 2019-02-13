@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Possession](hd_spells_possession.md)'
 Source: (SRD p160)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -23,6 +23,7 @@ Name: Succube/Incube
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Succubus](srd_monsters_succubus.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

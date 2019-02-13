@@ -22,6 +22,7 @@ Name: Spy
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Espion](hd_monsters_espion.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

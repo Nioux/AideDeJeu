@@ -1,12 +1,13 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_militaire_hd.md#aptitude--frères-darmes
 ParentLink: background_militaire_hd.md#militaire
 Name: "Aptitude : Frères d'armes"
 ParentName: Militaire
 NameLevel: 4
+Attributes: {}
 ---
-> [Militaire](background_militaire_hd.md#militaire)
+> [Militaire](hd_background_militaire.md)
 
 ---
 

@@ -5,6 +5,7 @@ ParentLink: cleric_life_hd.md#domaine-de-la-vie
 Name: 'Canalisation d’énergie divine : préserver la vie'
 ParentName: Domaine de la Vie
 NameLevel: 2
+Attributes: {}
 ---
 > [Domaine de la Vie](hd_cleric_life.md)
 

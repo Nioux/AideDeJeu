@@ -7,6 +7,7 @@ ParentName: Armes
 NameLevel: 5
 AltName: Special (SRD p65)
 Source: (MDR p228)
+Attributes: {}
 ---
 > [Armes](hd_weapons.md)
 

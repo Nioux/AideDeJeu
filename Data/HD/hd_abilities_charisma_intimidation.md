@@ -5,6 +5,7 @@ ParentLink: abilities_charisma_hd.md#charisme
 Name: Intimidation
 ParentName: Charisme
 NameLevel: 3
+Attributes: {}
 ---
 > [Charisme](hd_abilities_charisma.md)
 

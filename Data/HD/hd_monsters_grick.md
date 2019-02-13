@@ -22,6 +22,7 @@ Name: Grick
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Grick](srd_monsters_grick.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

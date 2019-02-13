@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Symbole](hd_spells_symbole.md)'
 Source: (SRD p184)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -5,6 +5,7 @@ ParentLink: environment_hd.md#l’environnement
 Name: Vision aveugle
 ParentName: L’environnement
 NameLevel: 2
+Attributes: {}
 ---
 > [L’environnement](hd_environment.md)
 

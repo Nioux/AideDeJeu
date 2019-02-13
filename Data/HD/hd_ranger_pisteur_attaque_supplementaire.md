@@ -5,6 +5,7 @@ ParentLink: ranger_pisteur_hd.md#pisteur--un-rôdeur-alternatif
 Name: Attaque supplémentaire
 ParentName: 'Pisteur : un rôdeur alternatif'
 NameLevel: 2
+Attributes: {}
 ---
 > [Pisteur : un rôdeur alternatif](hd_ranger_pisteur.md)
 

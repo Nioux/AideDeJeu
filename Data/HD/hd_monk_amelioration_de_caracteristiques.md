@@ -5,6 +5,7 @@ ParentLink: monk_hd.md#moine
 Name: Amélioration de caractéristiques
 ParentName: Moine
 NameLevel: 2
+Attributes: {}
 ---
 > [Moine](hd_monk.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Mot de guérison](hd_spells_mot_de_guerison.md)'
 Source: (SRD p153)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

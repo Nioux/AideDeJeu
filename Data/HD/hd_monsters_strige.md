@@ -21,6 +21,7 @@ Name: Strige
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Stirge](srd_monsters_stirge.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

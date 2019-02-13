@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Flamme éternelle](hd_spells_flamme_eternelle.md)'
 Source: (SRD p130)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

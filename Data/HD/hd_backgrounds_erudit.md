@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#Érudit
 ParentLink: backgrounds_hd.md#historique
 Name: Érudit
 ParentName: Historique
+Attributes: {}
 ---
 
 

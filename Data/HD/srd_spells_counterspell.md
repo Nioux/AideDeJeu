@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Contresort](hd_spells_contresort.md)'
 Source: (SRD p131)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

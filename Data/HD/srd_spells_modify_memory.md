@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Modification de mémoire](hd_spells_modification_de_memoire.md)'
 Source: (SRD p166)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

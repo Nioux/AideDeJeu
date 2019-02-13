@@ -26,6 +26,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Balor](hd_monsters_balor.md)'
 Source: (SRD p270)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

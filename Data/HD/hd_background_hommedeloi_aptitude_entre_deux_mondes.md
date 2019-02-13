@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_hommedeloi_hd.md#aptitude--entre-deux-mondes
 ParentLink: background_hommedeloi_hd.md#variante--limier
 Name: 'Aptitude : Entre deux mondes'
 ParentName: 'Variante : Limier'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Limier](hd_background_hommedeloi_variante_limier.md)
 

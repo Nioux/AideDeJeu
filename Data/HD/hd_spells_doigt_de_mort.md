@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Finger of Death](srd_spells_finger_of_death.md)'
 Source: (MDR p348)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

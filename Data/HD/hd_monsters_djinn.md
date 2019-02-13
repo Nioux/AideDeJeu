@@ -23,6 +23,7 @@ Name: Djinn
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Djinni](srd_monsters_djinni.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

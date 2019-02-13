@@ -22,6 +22,7 @@ Name: Sahuagin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Sahuagin](srd_monsters_sahuagin.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

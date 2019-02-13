@@ -5,6 +5,7 @@ ParentLink: monk_hd.md#moine
 Name: Tableau d'évolution
 ParentName: Moine
 NameLevel: 1
+Attributes: {}
 ---
 > [Moine](hd_monk.md)
 

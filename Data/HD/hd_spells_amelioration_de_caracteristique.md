@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Enhance Ability](srd_spells_enhance_ability.md)'
 Source: (MDR p321)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

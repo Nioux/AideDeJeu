@@ -13,6 +13,7 @@ Name: Frappe du juste
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p358)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

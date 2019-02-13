@@ -1,10 +1,15 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Escamotage, Survie.
+MasteredTools: Matériel d'herboriste.
+MasteredLanguages: Une langue au choix.
+Equipment: Couverture, habits courants, matériel d'herboriste, bourse contenant 5 po.
 Id: background_misereux_hd.md#variante--vagabond
 ParentLink: background_misereux_hd.md#miséreux
 Name: 'Variante : Vagabond'
 ParentName: Miséreux
 NameLevel: 3
+Attributes: {}
 ---
 > [Miséreux](hd_background_misereux.md)
 

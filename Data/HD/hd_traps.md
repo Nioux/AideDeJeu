@@ -8,6 +8,7 @@ ParentName: Créatures et oppositions
 NameLevel: 2
 AltName: 'Traps '
 Source: (CEO 374)(SRD p195)
+Attributes: {}
 ---
 >  [Créatures et oppositions](index.md)
 

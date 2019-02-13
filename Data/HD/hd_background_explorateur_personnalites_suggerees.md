@@ -5,6 +5,7 @@ ParentLink: background_explorateur_hd.md#explorateur
 Name: Personnalités suggérées
 ParentName: Explorateur
 NameLevel: 4
+Attributes: {}
 ---
 > [Explorateur](hd_background_explorateur.md)
 

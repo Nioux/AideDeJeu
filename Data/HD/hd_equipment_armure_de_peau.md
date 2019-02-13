@@ -9,6 +9,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Armure de peau
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

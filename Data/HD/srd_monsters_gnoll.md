@@ -21,6 +21,7 @@ Name: Gnoll
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Gnoll](hd_monsters_gnoll.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

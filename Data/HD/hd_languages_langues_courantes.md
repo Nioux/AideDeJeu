@@ -5,6 +5,7 @@ ParentLink: languages_hd.md#langues
 Name: Langues courantes
 ParentName: Langues
 NameLevel: 2
+Attributes: {}
 ---
 > [Langues](hd_languages.md)
 

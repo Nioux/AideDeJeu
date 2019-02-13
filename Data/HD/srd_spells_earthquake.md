@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Tremblement de terre](hd_spells_tremblement_de_terre.md)'
 Source: (SRD p139)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -23,6 +23,7 @@ Name: Magmatique
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Magmin](srd_monsters_magmin.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

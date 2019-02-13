@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Vol](hd_spells_vol.md)'
 Source: (SRD p146)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

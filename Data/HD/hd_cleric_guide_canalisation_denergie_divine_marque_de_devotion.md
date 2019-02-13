@@ -5,6 +5,7 @@ ParentLink: cleric_guide_hd.md#guide-spirituel
 Name: "Canalisation d'énergie divine : Marque de dévotion"
 ParentName: Guide spirituel
 NameLevel: 2
+Attributes: {}
 ---
 > [Guide spirituel](hd_cleric_guide.md)
 

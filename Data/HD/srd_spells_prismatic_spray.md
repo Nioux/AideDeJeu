@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Embruns prismatiques](hd_spells_embruns_prismatiques.md)'
 Source: (SRD p170)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

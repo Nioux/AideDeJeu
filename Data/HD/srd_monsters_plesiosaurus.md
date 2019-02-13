@@ -22,6 +22,7 @@ Name: Plesiosaurus
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Plésiosaure](hd_monsters_plesiosaure.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

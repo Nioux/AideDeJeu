@@ -5,6 +5,7 @@ ParentLink: wizard_surveyor_hd.md#arpenteur
 Name: Magie confinée
 ParentName: Arpenteur
 NameLevel: 2
+Attributes: {}
 ---
 > [Arpenteur](hd_wizard_surveyor.md)
 

@@ -23,6 +23,7 @@ Name: Sanglier-garou
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wereboar](srd_monsters_wereboar.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -22,6 +22,7 @@ Name: Vautour
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Vulture](srd_monsters_vulture.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

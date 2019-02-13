@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Discrétion, Survie.
+MasteredTools: Un type de jeu, un ensemble d'outils d'artisans au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.
+Equipment: Tenue de voyageur, couverture, boîte à amadou, fourrure d'un animal que vous avez tué et qui vous sert de couverture, piège à mâchoires, bourse contenant 10 po.
 Id: background_solitaire_hd.md#variante--trappeur
 ParentLink: background_solitaire_hd.md#solitaire
 Name: 'Variante : Trappeur'
 ParentName: Solitaire
 NameLevel: 3
+Attributes: {}
 ---
 > [Solitaire](hd_background_solitaire.md)
 

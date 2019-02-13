@@ -24,6 +24,7 @@ Name: Tarrasque
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Tarasque](hd_monsters_tarasque.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

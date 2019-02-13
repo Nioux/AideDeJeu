@@ -1,10 +1,15 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Histoire, Investigation.
+MasteredTools: Outils de voleur.
+MasteredLanguages: Une langue au choix.
+Equipment: Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.
 Id: background_explorateur_hd.md#variante--pilleur-de-ruines
 ParentLink: background_explorateur_hd.md#explorateur
 Name: 'Variante : Pilleur de ruines'
 ParentName: Explorateur
 NameLevel: 3
+Attributes: {}
 ---
 > [Explorateur](hd_background_explorateur.md)
 

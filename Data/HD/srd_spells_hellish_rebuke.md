@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Représailles infernales](hd_spells_represailles_infernales.md)'
 Source: (SRD p154)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

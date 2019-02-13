@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_misereux_hd.md#aptitude--mouches-des-rues
 ParentLink: background_misereux_hd.md#variante--orphelin
 Name: 'Aptitude : Mouches des rues'
 ParentName: 'Variante : Orphelin'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Orphelin](hd_background_misereux_variante_orphelin.md)
 

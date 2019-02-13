@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Médecine, Nature.
+MasteredTools: Matériel d'herboriste, matériel d'empoisonneur.
+Equipment: Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.
 Id: background_erudit_hd.md#variante--médecin
 ParentLink: background_erudit_hd.md#Érudit
 Name: 'Variante : Médecin'
 ParentName: Érudit
 NameLevel: 3
+Attributes: {}
 ---
 > [Érudit](hd_background_erudit.md)
 

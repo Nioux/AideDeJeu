@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Dominate Person](srd_spells_dominate_person.md)'
 Source: (MDR p348)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

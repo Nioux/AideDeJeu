@@ -22,6 +22,7 @@ Name: Crabe géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Crab](srd_monsters_giant_crab.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

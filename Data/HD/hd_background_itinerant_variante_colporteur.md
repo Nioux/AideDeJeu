@@ -1,10 +1,15 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Persuasion, Survie.
+MasteredTools: Véhicules (terrestres) ou véhicules (marins).
+MasteredLanguages: Une langue au choix.
+Equipment: Tenue de voyageur équipés d'une capuche, panier, tente pour une personne et couverture, bourse contenant 10 po.
 Id: background_itinerant_hd.md#variante--colporteur
 ParentLink: background_itinerant_hd.md#itinérant
 Name: 'Variante : Colporteur'
 ParentName: Itinérant
 NameLevel: 3
+Attributes: {}
 ---
 > [Itinérant](hd_background_itinerant.md)
 

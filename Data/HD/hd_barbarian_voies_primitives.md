@@ -5,6 +5,7 @@ ParentLink: barbarian_hd.md#barbare
 Name: Voies primitives
 ParentName: Barbare
 NameLevel: 1
+Attributes: {}
 ---
 > [Barbare](hd_barbarian.md)
 

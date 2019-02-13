@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Coffre secret](hd_spells_coffre_secret.md)'
 Source: (SRD p177)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

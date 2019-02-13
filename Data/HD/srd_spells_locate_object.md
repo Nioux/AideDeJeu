@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Localiser un objet](hd_spells_localiser_un_objet.md)'
 Source: (SRD p159)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

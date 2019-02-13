@@ -7,6 +7,7 @@ Name: Nain des pierres
 ParentName: Nain
 NameLevel: 2
 Source: (MDR p57)
+Attributes: {}
 ---
 > [Nain](hd_dwarf.md)
 

@@ -22,6 +22,7 @@ Name: Destrier noir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Nightmare](srd_monsters_nightmare.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

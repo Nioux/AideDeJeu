@@ -24,6 +24,7 @@ Name: Géant du feu
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Fire Giant](srd_monsters_fire_giant.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

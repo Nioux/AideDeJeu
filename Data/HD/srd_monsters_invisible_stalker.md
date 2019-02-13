@@ -25,6 +25,7 @@ Name: Invisible Stalker
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Traqueur invisible](hd_monsters_traqueur_invisible.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

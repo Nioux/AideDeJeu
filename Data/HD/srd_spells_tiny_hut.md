@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Petite hutte](hd_spells_petite_hutte.md)'
 Source: (SRD p187)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

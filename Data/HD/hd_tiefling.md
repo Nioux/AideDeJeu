@@ -2,6 +2,12 @@
 !RaceItem
 IntelligenceBonus: 1
 CharismaBonus: 2
+Age: Les tieffelins vieillissent à une vitesse comparable aux humains, mais ils vivent quelques années supplémentaires.
+Alignment: Les tieffelins ont beau ne pas être naturellement attirés vers le mal, la plupart d'entre eux sont quand même d'alignement Mauvais. Mais qu'ils soient mauvais ou non, leur nature indépendante les pousse généralement à un comportement chaotique.
+Size: Les tieffelins sont de taille et de corpulence comparable aux humains. Ils sont de taille moyenne.
+Speed: Votre vitesse au sol de base est de 9 mètres.
+Darkvision: Grâce à votre ascendance infernale, vous avez hérité d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
+Languages: Vous pouvez parler, lire et écrire en commun et en infernal.
 Id: tiefling_hd.md#tieffelin
 RootId: tiefling_hd.md
 ParentLink: races_hd.md#
@@ -10,6 +16,7 @@ ParentName: Races
 NameLevel: 1
 AltName: Tiefling (SRD p7)
 Source: (MDR p71)
+Attributes: {}
 ---
 >  [Races](races_hd.md#)
 

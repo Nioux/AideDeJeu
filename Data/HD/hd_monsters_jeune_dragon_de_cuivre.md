@@ -24,6 +24,7 @@ Name: Jeune dragon de cuivre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

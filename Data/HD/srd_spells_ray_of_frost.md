@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Rayon de givre](hd_spells_rayon_de_givre.md)'
 Source: (SRD p174)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

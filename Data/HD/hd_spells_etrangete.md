@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Weird](srd_spells_weird.md)'
 Source: (MDR p354)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

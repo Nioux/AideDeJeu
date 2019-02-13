@@ -21,6 +21,7 @@ Name: Serpent volant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

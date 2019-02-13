@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Croissance végétale](hd_spells_croissance_vegetale.md)'
 Source: (SRD p169)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

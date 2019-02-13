@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Lueur d'espoir](hd_spells_lueur_despoir.md)"
 Source: (SRD p121)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

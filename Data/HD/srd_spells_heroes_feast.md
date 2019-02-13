@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Festin des héros](hd_spells_festin_des_heros.md)'
 Source: (SRD p154)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

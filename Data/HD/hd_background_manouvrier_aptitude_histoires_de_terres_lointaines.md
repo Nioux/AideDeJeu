@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_manouvrier_hd.md#aptitude--histoires-de-terres-lointaines
 ParentLink: background_manouvrier_hd.md#variante--serveur
 Name: 'Aptitude : Histoires de terres lointaines'
 ParentName: 'Variante : Serveur'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Serveur](hd_background_manouvrier_variante_serveur.md)
 

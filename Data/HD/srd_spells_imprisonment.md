@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Emprisonnement](hd_spells_emprisonnement.md)'
 Source: (SRD p156)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

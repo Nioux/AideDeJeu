@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Glibness](srd_spells_glibness.md)'
 Source: (MDR p326)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

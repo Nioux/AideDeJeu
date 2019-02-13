@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Thaumaturgie](hd_spells_thaumaturgie.md)'
 Source: (SRD p187)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

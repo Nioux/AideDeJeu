@@ -1,10 +1,15 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Intimidation, Survie.
+MasteredTools: Véhicules (terrestres).
+MasteredLanguages: Une langue au choix.
+Equipment: Couverture, tenue de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.
 Id: background_brigand_hd.md#variante--bandit-de-grand-chemin
 ParentLink: background_brigand_hd.md#brigand
 Name: 'Variante : Bandit de grand chemin'
 ParentName: Brigand
 NameLevel: 3
+Attributes: {}
 ---
 > [Brigand](hd_background_brigand.md)
 

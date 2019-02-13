@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Épée magique](hd_spells_epee_magique.md)'
 Source: (SRD p119)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

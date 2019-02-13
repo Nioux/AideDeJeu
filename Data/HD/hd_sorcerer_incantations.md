@@ -5,6 +5,7 @@ ParentLink: sorcerer_hd.md#ensorceleur
 Name: Incantations
 ParentName: Ensorceleur
 NameLevel: 1
+Attributes: {}
 ---
 > [Ensorceleur](hd_sorcerer.md)
 

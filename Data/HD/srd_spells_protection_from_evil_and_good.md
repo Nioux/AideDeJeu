@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)'
 Source: (SRD p173)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

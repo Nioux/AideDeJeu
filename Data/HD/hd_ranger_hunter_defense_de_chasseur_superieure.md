@@ -5,6 +5,7 @@ ParentLink: ranger_hunter_hd.md#chasseur
 Name: Défense de chasseur supérieure
 ParentName: Chasseur
 NameLevel: 2
+Attributes: {}
 ---
 > [Chasseur](hd_ranger_hunter.md)
 

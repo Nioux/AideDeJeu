@@ -15,6 +15,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: "[Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)"
 Source: (SRD p173)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

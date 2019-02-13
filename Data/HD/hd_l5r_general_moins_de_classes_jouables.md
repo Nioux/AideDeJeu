@@ -6,6 +6,7 @@ Name: Moins de classes jouables
 ParentName: Règles générales
 NameLevel: 3
 Source: (L5R p42)
+Attributes: {}
 ---
 > [Règles générales](hd_l5r_general.md)
 

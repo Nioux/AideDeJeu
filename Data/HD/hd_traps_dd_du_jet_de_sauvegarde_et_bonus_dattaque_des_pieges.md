@@ -5,6 +5,7 @@ ParentLink: traps_hd.md#les-pièges
 Name: DD du jet de sauvegarde et bonus d'attaque des pièges
 ParentName: Les pièges
 NameLevel: 4
+Attributes: {}
 ---
 > [Les pièges](hd_traps.md)
 

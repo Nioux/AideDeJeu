@@ -13,6 +13,7 @@ Name: Aura de force
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p325)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

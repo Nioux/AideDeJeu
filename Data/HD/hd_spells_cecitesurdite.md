@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Blindness/Deafness](srd_spells_blindnessdeafness.md)'
 Source: (MDR p331)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

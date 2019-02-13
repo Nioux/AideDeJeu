@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Detect Magic](srd_spells_detect_magic.md)'
 Source: (MDR p346)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

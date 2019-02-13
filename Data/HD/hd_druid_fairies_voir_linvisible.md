@@ -5,6 +5,7 @@ ParentLink: druid_fairies_hd.md#cercle-des-fées
 Name: Voir l'invisible
 ParentName: Cercle des fées
 NameLevel: 2
+Attributes: {}
 ---
 > [Cercle des fées](hd_druid_fairies.md)
 

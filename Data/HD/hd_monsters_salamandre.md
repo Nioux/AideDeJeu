@@ -24,6 +24,7 @@ Name: Salamandre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Salamander](srd_monsters_salamander.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

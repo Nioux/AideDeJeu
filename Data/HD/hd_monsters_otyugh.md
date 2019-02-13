@@ -22,6 +22,7 @@ Name: Otyugh
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Otyugh](srd_monsters_otyugh.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

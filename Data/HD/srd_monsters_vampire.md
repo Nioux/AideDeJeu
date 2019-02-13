@@ -24,6 +24,7 @@ Name: Vampire
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Vampire](hd_monsters_vampire.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

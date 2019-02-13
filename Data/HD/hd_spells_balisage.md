@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Guiding Bolt](srd_spells_guiding_bolt.md)'
 Source: (MDR p327)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

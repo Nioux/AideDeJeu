@@ -22,6 +22,7 @@ Name: Gobelin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Goblin](srd_monsters_goblin.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

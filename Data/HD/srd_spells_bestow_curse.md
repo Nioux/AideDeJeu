@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Jeter une malédiction](hd_spells_jeter_une_malediction.md)'
 Source: (SRD p121)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

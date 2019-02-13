@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)'
 Source: (SRD p115)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

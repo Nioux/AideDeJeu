@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Viser juste](hd_spells_viser_juste.md)'
 Source: (SRD p189)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

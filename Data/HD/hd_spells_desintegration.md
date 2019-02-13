@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Disintegrate](srd_spells_disintegrate.md)'
 Source: (MDR p346)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_hommedeloi_hd.md#aptitude--position-dautorité
 ParentLink: background_hommedeloi_hd.md#homme-de-loi
 Name: "Aptitude : Position d'autorité"
 ParentName: Homme de loi
 NameLevel: 4
+Attributes: {}
 ---
 > [Homme de loi](hd_background_hommedeloi.md)
 

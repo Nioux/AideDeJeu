@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Vampiric Touch](srd_spells_vampiric_touch.md)'
 Source: (MDR p330)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

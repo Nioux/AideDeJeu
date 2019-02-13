@@ -23,6 +23,7 @@ Name: Aboleth
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Aboleth](srd_monsters_aboleth.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

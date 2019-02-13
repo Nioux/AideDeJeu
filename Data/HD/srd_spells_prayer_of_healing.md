@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Prière de soins](hd_spells_priere_de_soins.md)'
 Source: (SRD p170)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

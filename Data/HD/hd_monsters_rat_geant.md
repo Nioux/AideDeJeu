@@ -21,6 +21,7 @@ Name: Rat géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Rat](srd_monsters_giant_rat.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

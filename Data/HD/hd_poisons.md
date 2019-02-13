@@ -7,6 +7,7 @@ Name: Les poisons
 ParentName: Créatures et oppositions
 NameLevel: 2
 AltName: Poisons
+Attributes: {}
 ---
 >  [Créatures et oppositions](index.md)
 

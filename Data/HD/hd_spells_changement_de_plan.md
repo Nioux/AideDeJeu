@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Plane Shift](srd_spells_plane_shift.md)'
 Source: (MDR p333)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

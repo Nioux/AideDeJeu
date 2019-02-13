@@ -24,6 +24,7 @@ Name: Dragonnet blanc
 ParentName: Créatures
 NameLevel: 1
 AltName: '[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

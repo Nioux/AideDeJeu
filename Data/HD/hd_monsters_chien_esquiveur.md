@@ -22,6 +22,7 @@ Name: Chien esquiveur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Blink Dog](srd_monsters_blink_dog.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

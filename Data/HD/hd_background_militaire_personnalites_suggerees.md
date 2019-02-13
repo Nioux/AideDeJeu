@@ -5,8 +5,9 @@ ParentLink: background_militaire_hd.md#militaire
 Name: Personnalités suggérées
 ParentName: Militaire
 NameLevel: 4
+Attributes: {}
 ---
-> [Militaire](background_militaire_hd.md#militaire)
+> [Militaire](hd_background_militaire.md)
 
 ---
 

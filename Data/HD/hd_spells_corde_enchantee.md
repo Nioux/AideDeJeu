@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Rope Trick](srd_spells_rope_trick.md)'
 Source: (MDR p342)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Colonne de flamme](hd_spells_colonne_de_flamme.md)'
 Source: (SRD p145)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

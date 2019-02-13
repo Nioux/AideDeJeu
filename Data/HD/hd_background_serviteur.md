@@ -1,11 +1,16 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Discrétion, Perspicacité.
+MasteredTools: Outils de tisserand.
+MasteredLanguages: Une langue au choix.
+Equipment: Vêtements de bonne qualité, 2 bougies, morceau de savon, colifichet signe de l'affection que vous portait votre employeur, bourse contenant 15 po.
 Id: background_serviteur_hd.md#serviteur
 RootId: background_serviteur_hd.md
 ParentLink: backgrounds_hd.md
 Name: Serviteur
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

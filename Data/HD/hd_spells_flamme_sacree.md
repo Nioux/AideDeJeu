@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Sacred Flame](srd_spells_sacred_flame.md)'
 Source: (MDR p355)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

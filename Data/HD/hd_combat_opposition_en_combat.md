@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 4
 AltName: Contests in Combat (SRD p96)
 Source: (MDR p292)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

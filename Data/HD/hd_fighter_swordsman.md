@@ -1,12 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Bretteur
+Source: (MDR p162)
 Id: fighter_swordsman_hd.md#bretteur
 RootId: fighter_swordsman_hd.md
 ParentLink: fighter_hd.md#archétypes-martiaux
-Name: Bretteur
 ParentName: Archétypes martiaux
 NameLevel: 1
-Source: (MDR p162)
+Attributes: {}
 ---
 >  [Archétypes martiaux](hd_fighter_archetypes_martiaux.md)
 

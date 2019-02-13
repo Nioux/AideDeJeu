@@ -5,6 +5,7 @@ ParentLink: sorcerer_celestial_hd.md#lignée-céleste
 Name: Prière de soins
 ParentName: Lignée céleste
 NameLevel: 2
+Attributes: {}
 ---
 > [Lignée céleste](hd_sorcerer_celestial.md)
 

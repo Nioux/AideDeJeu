@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_sangbleu_hd.md#aptitude--ni-noble-ni-homme-du-peuple
 ParentLink: background_sangbleu_hd.md#variante--bâtard
 Name: 'Aptitude : Ni noble, ni homme du peuple'
 ParentName: 'Variante : Bâtard'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Bâtard](hd_background_sangbleu_variante_batard.md)
 

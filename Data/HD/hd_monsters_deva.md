@@ -25,6 +25,7 @@ Name: Déva
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Deva](srd_monsters_deva.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -22,6 +22,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Blaireau géant](hd_monsters_blaireau_geant.md)'
 Source: (SRD p373)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

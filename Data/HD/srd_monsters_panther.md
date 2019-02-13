@@ -22,6 +22,7 @@ Name: Panther
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Panthère](hd_monsters_panthere.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -24,6 +24,7 @@ Name: Dragonnet noir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

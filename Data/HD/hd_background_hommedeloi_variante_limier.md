@@ -1,10 +1,14 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Investigation ou Perspicacité, Supercherie.
+MasteredTools: Accessoires de déguisement, outils de voleur.
+Equipment: Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.
 Id: background_hommedeloi_hd.md#variante--limier
 ParentLink: background_hommedeloi_hd.md#homme-de-loi
 Name: 'Variante : Limier'
 ParentName: Homme de loi
 NameLevel: 3
+Attributes: {}
 ---
 > [Homme de loi](hd_background_hommedeloi.md)
 

@@ -24,6 +24,7 @@ Name: Spectre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Specter](srd_monsters_specter.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

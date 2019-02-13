@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Chill Touch](srd_spells_chill_touch.md)'
 Source: (MDR p339)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

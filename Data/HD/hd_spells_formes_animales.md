@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Animal Shapes](srd_spells_animal_shapes.md)'
 Source: (MDR p357)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

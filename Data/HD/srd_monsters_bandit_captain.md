@@ -24,6 +24,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Capitaine Bandit](hd_monsters_capitaine_bandit.md)'
 Source: (SRD p397)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

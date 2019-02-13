@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Pétrification](hd_spells_petrification.md)'
 Source: (SRD p145)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

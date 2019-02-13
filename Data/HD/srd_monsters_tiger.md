@@ -22,6 +22,7 @@ Name: Tiger
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Tigre](hd_monsters_tigre.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

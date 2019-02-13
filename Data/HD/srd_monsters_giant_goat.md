@@ -21,6 +21,7 @@ Name: Giant Goat
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Chèvre géante](hd_monsters_chevre_geante.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

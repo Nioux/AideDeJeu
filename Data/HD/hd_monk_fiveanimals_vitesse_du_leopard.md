@@ -5,6 +5,7 @@ ParentLink: monk_fiveanimals_hd.md#voie-des-cinq-animaux
 Name: Vitesse du léopard
 ParentName: Voie des cinq animaux
 NameLevel: 2
+Attributes: {}
 ---
 > [Voie des cinq animaux](hd_monk_fiveanimals.md)
 

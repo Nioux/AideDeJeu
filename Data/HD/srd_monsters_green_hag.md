@@ -22,6 +22,7 @@ Name: Green Hag
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Guenaude verte](hd_monsters_guenaude_verte.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

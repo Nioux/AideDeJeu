@@ -21,6 +21,7 @@ Name: Mule
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Mule](hd_monsters_mule.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

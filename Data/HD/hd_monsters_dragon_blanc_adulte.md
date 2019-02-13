@@ -24,6 +24,7 @@ Name: Dragon blanc adulte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Adult White Dragon](srd_monsters_adult_white_dragon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -23,6 +23,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Babélien](hd_monsters_babelien.md)'
 Source: (SRD p314)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

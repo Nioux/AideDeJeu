@@ -5,6 +5,7 @@ ParentLink: alignment_hd.md#alignement
 Name: Chaotique Mauvais (CM)
 ParentName: Alignement
 NameLevel: 4
+Attributes: {}
 ---
 > [Alignement](hd_alignment.md)
 

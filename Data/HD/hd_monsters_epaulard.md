@@ -22,6 +22,7 @@ Name: Épaulard
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Killer Whale](srd_monsters_killer_whale.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

@@ -21,6 +21,7 @@ Name: Hobgobelin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

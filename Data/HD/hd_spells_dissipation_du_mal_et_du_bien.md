@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Dispel Evil and Good](srd_spells_dispel_evil_and_good.md)'
 Source: (MDR p347)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

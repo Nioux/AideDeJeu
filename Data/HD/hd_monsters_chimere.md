@@ -22,6 +22,7 @@ Name: Chimère
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Chimera](srd_monsters_chimera.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

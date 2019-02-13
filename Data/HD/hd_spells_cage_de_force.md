@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Forcecage](srd_spells_forcecage.md)'
 Source: (MDR p330)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

@@ -5,6 +5,7 @@ ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 Name: Séquelles
 ParentName: Points de vie et blessures
 NameLevel: 4
+Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)
 

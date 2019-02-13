@@ -7,6 +7,7 @@ ParentLink: classes_hd.md#classes
 Name: Barbare
 ParentName: Classes
 AltName: '[Barbarian](#)'
+Attributes: {}
 ---
 
 

@@ -8,6 +8,7 @@ ParentName: Cadre de campagne
 NameLevel: 2
 AltName: 'Planes '
 Source: (CDC p120)(SRD p363)
+Attributes: {}
 ---
 >  [Cadre de campagne](index.md)
 

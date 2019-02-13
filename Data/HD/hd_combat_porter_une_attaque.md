@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 2
 AltName: Making an Attack (SRD p94)
 Source: (MDR p290)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

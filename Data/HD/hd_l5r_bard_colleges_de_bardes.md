@@ -6,6 +6,7 @@ Name: Collèges de bardes
 ParentName: Barde des cinq royaumes
 NameLevel: 3
 Source: (L5R p58)
+Attributes: {}
 ---
 > [Barde des cinq royaumes](hd_l5r_bard.md)
 

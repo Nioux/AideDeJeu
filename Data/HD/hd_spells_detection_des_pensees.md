@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Detect Thoughts](srd_spells_detect_thoughts.md)'
 Source: (MDR p346)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

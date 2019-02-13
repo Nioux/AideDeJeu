@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Cercle de mort](hd_spells_cercle_de_mort.md)'
 Source: (SRD p124)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

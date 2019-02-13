@@ -22,6 +22,7 @@ Name: Shrieker
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Criard](hd_monsters_criard.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -21,6 +21,7 @@ Name: Babouin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Baboon](srd_monsters_baboon.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

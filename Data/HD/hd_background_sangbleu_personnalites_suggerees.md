@@ -5,6 +5,7 @@ ParentLink: background_sangbleu_hd.md#sang-bleu
 Name: Personnalités suggérées
 ParentName: Sang bleu
 NameLevel: 4
+Attributes: {}
 ---
 > [Sang bleu](hd_background_sangbleu.md)
 

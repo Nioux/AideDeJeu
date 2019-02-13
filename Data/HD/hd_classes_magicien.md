@@ -7,6 +7,7 @@ ParentLink: classes_hd.md#classes
 Name: Magicien
 ParentName: Classes
 AltName: '[Wizard](#)'
+Attributes: {}
 ---
 
 

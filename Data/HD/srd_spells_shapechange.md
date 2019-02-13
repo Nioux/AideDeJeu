@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Changement de forme](hd_spells_changement_de_forme.md)'
 Source: (SRD p178)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

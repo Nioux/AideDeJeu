@@ -7,6 +7,7 @@ Name: Elfe de fer
 ParentName: Elfe
 NameLevel: 2
 Source: (MDR p45)
+Attributes: {}
 ---
 > [Elfe](hd_elf.md)
 

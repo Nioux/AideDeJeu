@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)'
 Source: (SRD p132)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

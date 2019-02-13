@@ -5,6 +5,7 @@ ParentLink: bard_diplomats_hd.md#collège-des-diplomates
 Name: Orateur exceptionnel
 ParentName: Collège des diplomates
 NameLevel: 2
+Attributes: {}
 ---
 > [Collège des diplomates](hd_bard_diplomats.md)
 

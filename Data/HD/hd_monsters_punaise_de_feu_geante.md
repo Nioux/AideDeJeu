@@ -21,6 +21,7 @@ Name: Punaise de feu géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

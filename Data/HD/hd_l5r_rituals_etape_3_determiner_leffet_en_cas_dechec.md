@@ -6,6 +6,7 @@ Name: "Étape 3 : déterminer l'effet en cas d'échec"
 ParentName: Lancer un rituel
 NameLevel: 4
 Source: (L5R p70)
+Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)
 

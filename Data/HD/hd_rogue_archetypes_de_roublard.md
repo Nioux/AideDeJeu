@@ -5,6 +5,7 @@ ParentLink: rogue_hd.md#roublard
 Name: Archétypes de roublard
 ParentName: Roublard
 NameLevel: 1
+Attributes: {}
 ---
 > [Roublard](hd_rogue.md)
 

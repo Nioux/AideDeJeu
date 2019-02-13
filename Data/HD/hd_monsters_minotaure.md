@@ -22,6 +22,7 @@ Name: Minotaure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Minotaur](srd_monsters_minotaur.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

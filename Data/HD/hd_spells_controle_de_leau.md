@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Control Water](srd_spells_control_water.md)'
 Source: (MDR p340)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

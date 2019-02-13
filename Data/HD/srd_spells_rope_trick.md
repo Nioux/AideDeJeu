@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Corde enchantée](hd_spells_corde_enchantee.md)'
 Source: (SRD p176)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

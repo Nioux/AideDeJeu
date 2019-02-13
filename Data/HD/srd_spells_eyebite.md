@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Mauvais oeil](hd_spells_mauvais_oeil.md)'
 Source: (SRD p141)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

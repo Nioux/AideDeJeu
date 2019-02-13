@@ -24,6 +24,7 @@ Name: Couatl
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Couatl](srd_monsters_couatl.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

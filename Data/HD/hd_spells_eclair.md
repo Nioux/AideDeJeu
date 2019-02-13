@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Lightning Bolt](srd_spells_lightning_bolt.md)'
 Source: (MDR p350)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

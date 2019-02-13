@@ -13,6 +13,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Contagion](hd_spells_contagion.md)'
 Source: (SRD p129)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

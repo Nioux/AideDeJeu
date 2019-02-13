@@ -7,6 +7,7 @@ ParentLink: races_hd.md#races
 Name: Demi-elfe
 ParentName: Races
 AltName: '[Half-Elf](#)'
+Attributes: {}
 ---
 
 

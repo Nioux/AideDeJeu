@@ -22,6 +22,7 @@ Name: Hibours
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Owlbear](srd_monsters_owlbear.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

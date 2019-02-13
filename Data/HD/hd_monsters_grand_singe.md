@@ -22,6 +22,7 @@ Name: Grand singe
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ape](srd_monsters_ape.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

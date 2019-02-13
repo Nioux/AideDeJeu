@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Tromperie](hd_spells_tromperie.md)'
 Source: (SRD p165)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

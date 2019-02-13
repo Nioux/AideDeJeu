@@ -23,6 +23,7 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Araignée géante](hd_monsters_araignee_geante.md)'
 Source: (SRD p379)
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

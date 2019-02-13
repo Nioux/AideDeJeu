@@ -15,6 +15,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Find Familiar](srd_spells_find_familiar.md)'
 Source: (MDR p323)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

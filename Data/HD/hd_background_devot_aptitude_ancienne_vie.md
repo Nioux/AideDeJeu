@@ -1,10 +1,11 @@
 ﻿---
-!Generic
+!SkillItem
 Id: background_devot_hd.md#aptitude--ancienne-vie
 ParentLink: background_devot_hd.md#variante--repenti
 Name: 'Aptitude : Ancienne vie'
 ParentName: 'Variante : Repenti'
 NameLevel: 4
+Attributes: {}
 ---
 > [Variante : Repenti](hd_background_devot_variante_repenti.md)
 

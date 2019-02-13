@@ -23,6 +23,7 @@ Name: Homoncule
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Homunculus](srd_monsters_homunculus.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

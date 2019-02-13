@@ -5,6 +5,7 @@ ParentLink: druid_hd.md#druide
 Name: Tableau d'évolution
 ParentName: Druide
 NameLevel: 1
+Attributes: {}
 ---
 > [Druide](hd_druid.md)
 

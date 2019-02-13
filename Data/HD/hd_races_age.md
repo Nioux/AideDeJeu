@@ -7,6 +7,7 @@ ParentName: Traits raciaux
 NameLevel: 4
 AltName: Age
 Source: (MDR p36)(SRD p3)
+Attributes: {}
 ---
 > [Traits raciaux](hd_races_traits_raciaux.md)
 

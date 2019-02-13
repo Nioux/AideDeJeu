@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Sphère glacée](hd_spells_sphere_glacee.md)'
 Source: (SRD p147)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

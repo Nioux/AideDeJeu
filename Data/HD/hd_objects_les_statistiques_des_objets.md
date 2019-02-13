@@ -5,6 +5,7 @@ ParentLink: objects_hd.md#les-objets
 Name: Les statistiques des objets
 ParentName: Les objets
 NameLevel: 3
+Attributes: {}
 ---
 > [Les objets](hd_objects.md)
 

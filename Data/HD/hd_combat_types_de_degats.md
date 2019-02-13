@@ -7,6 +7,7 @@ ParentName: Combattre
 NameLevel: 4
 AltName: Damage Types (SRD p97)
 Source: (MDR p294)
+Attributes: {}
 ---
 > [Combattre](hd_combat.md)
 

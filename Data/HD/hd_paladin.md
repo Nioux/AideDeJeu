@@ -8,6 +8,7 @@ ParentName: Classes
 NameLevel: 1
 AltName: Paladin (SRD p30)
 Source: (MDR p183)
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 

@@ -23,6 +23,7 @@ Name: Tigre-garou
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Weretiger](srd_monsters_weretiger.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

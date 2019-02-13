@@ -5,6 +5,7 @@ ParentLink: fighter_defender_hd.md#défenseur
 Name: Bloquer un adversaire
 ParentName: Défenseur
 NameLevel: 2
+Attributes: {}
 ---
 > [Défenseur](hd_fighter_defender.md)
 

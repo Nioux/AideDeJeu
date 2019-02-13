@@ -5,6 +5,7 @@ ParentLink: fighter_hd.md#guerrier
 Name: Second souffle
 ParentName: Guerrier
 NameLevel: 1
+Attributes: {}
 ---
 > [Guerrier](hd_fighter.md)
 

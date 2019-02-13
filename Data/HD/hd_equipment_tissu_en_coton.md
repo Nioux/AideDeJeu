@@ -8,6 +8,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Tissu en coton
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

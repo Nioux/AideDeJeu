@@ -1,10 +1,14 @@
 ﻿---
-!Items
+!SubBackgroundItem
+Abilities: Perspicacité, Survie.
+MasteredTools: Véhicules (terrestres), un instrument de musique au choix.
+Equipment: Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
 Id: background_primitif_hd.md#variante--gardien-tribal
 ParentLink: background_primitif_hd.md#primitif
 Name: 'Variante : Gardien tribal'
 ParentName: Primitif
 NameLevel: 3
+Attributes: {}
 ---
 > [Primitif](hd_background_primitif.md)
 

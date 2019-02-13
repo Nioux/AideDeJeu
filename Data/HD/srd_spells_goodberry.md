@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Baies nourricières](hd_spells_baies_nourricieres.md)'
 Source: (SRD p150)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

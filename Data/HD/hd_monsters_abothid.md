@@ -25,6 +25,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Abothid
 ParentName: Créatures
 NameLevel: 1
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

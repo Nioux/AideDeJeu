@@ -21,6 +21,7 @@ Name: Giant Wasp
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Guêpe géante](hd_monsters_guepe_geante.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

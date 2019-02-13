@@ -24,6 +24,7 @@ Name: Adult Red Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

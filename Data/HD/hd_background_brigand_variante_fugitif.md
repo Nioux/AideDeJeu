@@ -1,10 +1,14 @@
 ﻿---
-!Generic
+!SubBackgroundItem
+Abilities: Supercherie, Survie.
+MasteredTools: Un type de jeu au choix, un ensemble d'outils d'artisan au choix, vestiges de sa vie passée.
+Equipment: Sac avec tente et couverture, tenue de voyageur, outils d'artisan, boîte à amadou, outre d'eau, bourse contenant 10 po.
 Id: background_brigand_hd.md#variante--fugitif
 ParentLink: background_brigand_hd.md#brigand
 Name: 'Variante : Fugitif'
 ParentName: Brigand
 NameLevel: 3
+Attributes: {}
 ---
 > [Brigand](hd_background_brigand.md)
 

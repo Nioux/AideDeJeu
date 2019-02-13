@@ -1,13 +1,14 @@
 ﻿---
 !SubClassItem
+Name: Chasseur
+Source: (MDR p198)
 Id: ranger_hunter_hd.md#chasseur
 RootId: ranger_hunter_hd.md
 ParentLink: ranger_hd.md#archétypes-de-rôdeurs
-Name: Chasseur
 ParentName: Archétypes de rôdeur
 NameLevel: 1
 AltName: Hunter (SRD p37)
-Source: (MDR p198)
+Attributes: {}
 ---
 >  [Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)
 

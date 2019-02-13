@@ -8,6 +8,7 @@ ParentLink: equipment_hd.md#Équipement
 Name: Sablier
 ParentName: Équipement
 NameLevel: 1
+Attributes: {}
 ---
 > [Équipement](hd_equipment.md)
 

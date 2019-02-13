@@ -7,6 +7,7 @@ ParentName: Armes
 NameLevel: 4
 AltName: Improvised Weapons (SRD p65)
 Source: (MDR p228)
+Attributes: {}
 ---
 > [Armes](hd_weapons.md)
 

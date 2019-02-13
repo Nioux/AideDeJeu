@@ -24,6 +24,7 @@ Name: Swarm of Ravens
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

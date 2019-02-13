@@ -5,6 +5,7 @@ ParentLink: cleric_guide_hd.md#guide-spirituel
 Name: Soutien étendu
 ParentName: Guide spirituel
 NameLevel: 2
+Attributes: {}
 ---
 > [Guide spirituel](hd_cleric_guide.md)
 

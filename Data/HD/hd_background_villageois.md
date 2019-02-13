@@ -1,11 +1,15 @@
 ﻿---
-!Items
+!BackgroundItem
+Abilities: Dressage, Nature.
+MasteredTools: Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.
+Equipment: Ensemble d'outils d'artisan, vêtements courants, objet hérité de l'un de vos parents et dont la valeur est sentimentale, bourse contenant 10 po.
 Id: background_villageois_hd.md#villageois
 RootId: background_villageois_hd.md
 ParentLink: backgrounds_hd.md
 Name: Villageois
 ParentName: Historique
 NameLevel: 1
+Attributes: {}
 ---
 >  [Historique](hd_backgrounds.md)
 

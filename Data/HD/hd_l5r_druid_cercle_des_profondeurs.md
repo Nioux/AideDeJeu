@@ -6,6 +6,7 @@ Name: Cercle des profondeurs
 ParentName: Druide des cinq royaumes
 NameLevel: 4
 Source: (L5R p64)
+Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)
 

@@ -5,6 +5,7 @@ ParentLink: wizard_elementalist_hd.md#Élémentaliste
 Name: Maîtrise élémentaire
 ParentName: Élémentaliste
 NameLevel: 2
+Attributes: {}
 ---
 > [Élémentaliste](hd_wizard_elementalist.md)
 

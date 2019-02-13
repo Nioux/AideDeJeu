@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Lien de protection](hd_spells_lien_de_protection.md)'
 Source: (SRD p191)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -22,6 +22,7 @@ Name: Loup sanguinaire
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Dire Wolf](srd_monsters_dire_wolf.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

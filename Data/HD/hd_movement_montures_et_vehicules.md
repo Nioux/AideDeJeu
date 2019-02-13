@@ -5,6 +5,7 @@ ParentLink: movement_hd.md#déplacement
 Name: Montures et véhicules
 ParentName: Déplacement
 NameLevel: 2
+Attributes: {}
 ---
 > [Déplacement](hd_movement.md)
 

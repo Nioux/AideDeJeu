@@ -6,6 +6,7 @@ Name: Sourcelin
 ParentName: Lancer un rituel
 NameLevel: 2
 Source: (L5R p75)
+Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)
 

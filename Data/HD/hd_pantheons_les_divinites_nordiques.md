@@ -7,6 +7,7 @@ ParentName: Panthéons historiques et fantastiques
 NameLevel: 4
 AltName: Norse Deities
 Source: (MDR p415)(SRD p361)
+Attributes: {}
 ---
 > [Panthéons historiques et fantastiques](hd_pantheons.md)
 

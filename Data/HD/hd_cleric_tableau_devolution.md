@@ -5,6 +5,7 @@ ParentLink: cleric_hd.md#clerc
 Name: Tableau d'évolution
 ParentName: Clerc
 NameLevel: 1
+Attributes: {}
 ---
 > [Clerc](hd_cleric.md)
 

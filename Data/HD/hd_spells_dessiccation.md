@@ -13,6 +13,7 @@ Name: Dessiccation
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p346)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

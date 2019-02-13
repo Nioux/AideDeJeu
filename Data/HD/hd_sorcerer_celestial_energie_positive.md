@@ -5,6 +5,7 @@ ParentLink: sorcerer_celestial_hd.md#lignée-céleste
 Name: Énergie positive
 ParentName: Lignée céleste
 NameLevel: 2
+Attributes: {}
 ---
 > [Lignée céleste](hd_sorcerer_celestial.md)
 

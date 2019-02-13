@@ -6,6 +6,7 @@ Id: backgrounds_hd.md#membre-de-guilde
 ParentLink: backgrounds_hd.md#historique
 Name: Membre de guilde
 ParentName: Historique
+Attributes: {}
 ---
 
 

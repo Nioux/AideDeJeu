@@ -25,6 +25,7 @@ Name: Quasit
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Quasit](srd_monsters_quasit.md)'
+Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
 

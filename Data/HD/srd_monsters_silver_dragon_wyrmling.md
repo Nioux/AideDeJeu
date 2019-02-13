@@ -24,6 +24,7 @@ Name: Silver Dragon Wyrmling
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)"
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

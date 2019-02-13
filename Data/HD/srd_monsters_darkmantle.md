@@ -22,6 +22,7 @@ Name: Darkmantle
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Mante obscure](hd_monsters_mante_obscure.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

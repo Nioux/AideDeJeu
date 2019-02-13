@@ -23,6 +23,7 @@ Name: Swarm of Rats
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Nuée de rats](hd_monsters_nuee_de_rats.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

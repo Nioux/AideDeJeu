@@ -6,6 +6,7 @@ Name: Paralysé
 ParentName: États spéciaux
 NameLevel: 1
 AltName: '[Paralyzed](srd_conditions_paralyzed.md)'
+Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)
 

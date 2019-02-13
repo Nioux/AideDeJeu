@@ -13,6 +13,7 @@ Name: Compagnon animal
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p337)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

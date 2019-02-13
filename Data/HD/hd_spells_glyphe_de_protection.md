@@ -14,6 +14,7 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Glyph of Warding](srd_spells_glyph_of_warding.md)'
 Source: (MDR p359)(SRD)
+Attributes: {}
 ---
 > [Sorts](hd_spells.md)
 

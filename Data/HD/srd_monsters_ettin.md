@@ -22,6 +22,7 @@ Name: Ettin
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ettin](hd_monsters_ettin.md)'
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

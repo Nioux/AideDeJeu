@@ -24,6 +24,7 @@ Name: Air Elemental
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)"
+Attributes: {}
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

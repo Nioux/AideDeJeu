@@ -5,6 +5,7 @@ ParentLink: ranger_hd.md#rôdeur
 Name: Tueur d'ennemis
 ParentName: Rôdeur
 NameLevel: 2
+Attributes: {}
 ---
 > [Rôdeur](hd_ranger.md)
 

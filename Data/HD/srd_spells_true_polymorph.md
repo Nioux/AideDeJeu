@@ -14,6 +14,7 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Métamorphose suprême](hd_spells_metamorphose_supreme.md)'
 Source: (SRD p188)
+Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)
 
