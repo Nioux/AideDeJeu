@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_monk.md
 Id: monk_enlightenment_hd.md#voie-de-lillumination
 RootId: monk_enlightenment_hd.md
 ParentLink: monk_hd.md#traditions-monacales

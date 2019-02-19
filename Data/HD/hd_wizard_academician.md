@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_wizard.md
 Id: wizard_academician_hd.md#académicien
 RootId: wizard_academician_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques

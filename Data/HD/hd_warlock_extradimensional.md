@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_warlock.md
 Id: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
 RootId: warlock_extradimensional_hd.md
 ParentLink: warlock_hd.md#protecteurs-doutre-monde

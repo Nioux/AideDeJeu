@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_bard.md
 Id: bard_knowledge_hd.md#collège-du-savoir
 RootId: bard_knowledge_hd.md
 ParentLink: bard_hd.md#collèges-bardiques

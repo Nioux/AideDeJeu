@@ -1,5 +1,7 @@
 ﻿---
 !RaceItem
+FullName: Nain
+HasSubRaces: true
 ConstitutionBonus: 2
 Age: Les nains deviennent matures au même rythme que les humains, mais ils se considèrent encore jeunes jusqu'à l'âge de 50 ans. Ils vivent en moyenne 350 ans.
 Alignment: La majorité des nains est d'alignement Loyal et croit profondément aux bienfaits d'une société organisée. Les nains sont plutôt attirés vers le bien, ont un sens inné de ce qui est juste et sont convaincus que tout le monde mérite de partager les bienfaits de l'ordre et de la justice.

@@ -1,5 +1,7 @@
 ﻿---
 !SubRaceItem
+ParentRaceId: hd_dwarf.md
+FullName: Nain - Nain des tertres
 WisdomBonus: 1
 Id: dwarf_hd.md#nain-des-tertres
 ParentLink: dwarf_hd.md#nain

@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+FullName: Félys
 DexterityBonus: 2
 WisdomBonus: 1
 Age: Les félys atteignent rapidement l'âge adulte, aux alentours de 8 ans environ. Cependant, ils vivent moins longtemps qu'un être humain et il est rare de voir un félys dépasser les 50 ans.

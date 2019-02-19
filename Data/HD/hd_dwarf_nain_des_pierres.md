@@ -1,5 +1,7 @@
 ﻿---
 !SubRaceItem
+ParentRaceId: hd_dwarf.md
+FullName: Nain - Nain des pierres
 IntelligenceBonus: 1
 Id: dwarf_hd.md#nain-des-pierres
 ParentLink: dwarf_hd.md#nain

@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_barbarian.md
 Id: barbarian_berserker_hd.md#voie-du-berserker
 RootId: barbarian_berserker_hd.md
 ParentLink: barbarian_hd.md#voies-primitives

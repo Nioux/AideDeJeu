@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+FullName: Demi-elfe
 CharismaBonus: 2
 AnyAbilityBonus: 2
 Age: Les demi-elfes grandissent au même rythme que les [humains] et atteignent leur maturité vers 20 ans. Par contre, ils vivent bien plus longtemps que les [humains] et il n'est pas rare qu'ils dépassent 180 ans.

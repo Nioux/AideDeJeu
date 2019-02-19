@@ -1,5 +1,7 @@
 ﻿---
 !RaceItem
+FullName: Halfelin
+HasSubRaces: true
 DexterityBonus: 2
 Age: Un halfelin atteint la maturité vers 20 ans et vit généralement 150 ans.
 Alignment: La majorité des halfelins est d'alignement Loyal Bon. Ce sont par nature des êtres qui ont un bon coeur et qui sont affables. Ils détestent voir les autres créatures souffrir et ne tolèrent pas l'oppression. Ils sont aussi très organisés et respectueux des traditions. Ils se reposent beaucoup sur leur communauté et le confort apporté par leurs coutumes.

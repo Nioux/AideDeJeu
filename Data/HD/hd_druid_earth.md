@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_druid.md
 Id: druid_earth_hd.md#cercle-de-la-terre
 RootId: druid_earth_hd.md
 ParentLink: druid_hd.md#cercles-druidiques

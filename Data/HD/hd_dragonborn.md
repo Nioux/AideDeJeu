@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+FullName: Sangdragon
 StrengthBonus: 2
 CharismaBonus: 1
 Age: Les sangdragons grandissent vite. Une fois qu'ils ont éclos, il ne leur faut que quelques heures pour savoir marcher. Ils atteignent une taille et un niveau de développement équivalent à un humain de 10 ans en seulement 3 ans. Ils atteignent l'âge adulte vers 15 ans et ils vivent environ 80 ans.

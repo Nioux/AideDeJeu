@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_rogue.md
 Id: rogue_thief_hd.md#voleur
 RootId: rogue_thief_hd.md
 ParentLink: rogue_hd.md#archétypes-de-roublard

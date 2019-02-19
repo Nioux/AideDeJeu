@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_bard.md
 Id: bard_heralds_hd.md#collège-des-hérauts
 RootId: bard_heralds_hd.md
 ParentLink: bard_hd.md#collèges-bardiques

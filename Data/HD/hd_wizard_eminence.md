@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_wizard.md
 Id: wizard_eminence_hd.md#Éminence-grise
 RootId: wizard_eminence_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques

@@ -1,5 +1,7 @@
 ﻿---
 !SubRaceItem
+ParentRaceId: hd_elf.md
+FullName: Elfe - Elfe des sylves
 WisdomBonus: 1
 Id: elf_hd.md#elfe-des-sylves
 ParentLink: elf_hd.md#elfe

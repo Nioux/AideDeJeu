@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_wizard.md
 Id: wizard_evocation_hd.md#École-dévocation
 RootId: wizard_evocation_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques

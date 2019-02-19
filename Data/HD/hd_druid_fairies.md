@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_druid.md
 Id: druid_fairies_hd.md#cercle-des-fées
 RootId: druid_fairies_hd.md
 ParentLink: druid_hd.md#cercles-druidiques

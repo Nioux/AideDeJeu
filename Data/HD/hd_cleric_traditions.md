@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_cleric.md
 Id: cleric_traditions_hd.md#gardien-des-traditions
 RootId: cleric_traditions_hd.md
 ParentLink: cleric_hd.md#domaines-divins

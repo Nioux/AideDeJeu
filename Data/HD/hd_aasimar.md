@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+FullName: Aasimar
 WisdomBonus: 1
 CharismaBonus: 2
 Age: Les aasimars vieillissent à un rythme comparable à celui des humains. Leur espérance de vie est cependant supérieure, et ils peuvent dépasser les 120 ans.

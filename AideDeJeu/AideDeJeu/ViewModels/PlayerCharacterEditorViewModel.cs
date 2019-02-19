@@ -111,8 +111,8 @@ namespace AideDeJeu.ViewModels
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                Races = await context.Races.Where(r => r.GetType() == typeof(RaceItem)).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync();
-                Classes = await context.Classes.Where(c => c.GetType() == typeof(ClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).ToListAsync();
+                Races = await context.Races.Where(r => !r.HasSubRaces).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync();
+                Classes = await context.Classes.Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).ToListAsync();
                 Backgrounds = await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync();
             }
         }

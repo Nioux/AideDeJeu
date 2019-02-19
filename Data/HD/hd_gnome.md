@@ -1,5 +1,7 @@
 ﻿---
 !RaceItem
+FullName: Gnome
+HasSubRaces: true
 IntelligenceBonus: 2
 Age: Les gnomes grandissent un peu moins vite que les humains et la plupart rentrent dans la vie adulte vers l'âge de 40 ans. Ils peuvent vivre de 350 à presque 500 ans.
 Alignment: Les gnomes sont généralement attirés par le Bien. Ceux qui sont attirés par la loi sont des sages, des ingénieurs, des chercheurs, des érudits, des enquêteurs ou des inventeurs. Ceux qui sont plus attirés par le chaos deviennent ménestrels, arnaqueurs, vagabonds ou bijoutiers fantaisistes. Les gnomes ont bon coeur et mêmes les plus filous d'entre eux sont plus taquins que mal intentionnés.

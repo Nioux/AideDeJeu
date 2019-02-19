@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_warlock.md
 Id: warlock_depths_hd.md#la-puissance-des-profondeurs
 RootId: warlock_depths_hd.md
 ParentLink: warlock_hd.md#protecteurs-doutre-monde

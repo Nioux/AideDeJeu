@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_bard.md
 Id: bard_diplomats_hd.md#collège-des-diplomates
 RootId: bard_diplomats_hd.md
 ParentLink: bard_hd.md#collèges-bardiques

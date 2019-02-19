@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_rogue.md
 Id: rogue_spy_hd.md#espion
 RootId: rogue_spy_hd.md
 ParentLink: rogue_hd.md#archétypes-de-roublard

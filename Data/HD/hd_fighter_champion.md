@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_fighter.md
 Id: fighter_champion_hd.md#champion
 RootId: fighter_champion_hd.md
 ParentLink: fighter_hd.md#archétypes-martiaux

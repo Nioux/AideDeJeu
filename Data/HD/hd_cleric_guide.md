@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_cleric.md
 Id: cleric_guide_hd.md#guide-spirituel
 RootId: cleric_guide_hd.md
 ParentLink: cleric_hd.md#domaines-divins

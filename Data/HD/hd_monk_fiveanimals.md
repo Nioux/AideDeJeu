@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_monk.md
 Id: monk_fiveanimals_hd.md#voie-des-cinq-animaux
 RootId: monk_fiveanimals_hd.md
 ParentLink: monk_hd.md#traditions-monacales

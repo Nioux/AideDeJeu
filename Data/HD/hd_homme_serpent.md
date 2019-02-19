@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+FullName: Homme serpent
 WisdomBonus: 2
 CharismaBonus: 1
 Age: Les hommes serpents peuvent vivre bien plus longtemps qu'un être humain. Ils atteignent leur maturité à l'âge de 13 ans environ, mais peuvent vivre jusqu'à 150 ans. Cependant, ils peuvent prolonger leur durée de vie en se plongeant dans de longues hibernations qui leur permettent de survivre des dizaines, parfois des centaines d'années avant de se réveiller de nouveau. Cependant, seuls les plus sages des hommes-serpents sont capables d'un tel exploit.

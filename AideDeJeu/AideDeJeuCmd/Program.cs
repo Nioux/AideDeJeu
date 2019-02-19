@@ -348,7 +348,14 @@ namespace AideDeJeuCmd
 
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                await context.Database.EnsureDeletedAsync();
+                try
+                {
+                    await context.Database.EnsureDeletedAsync();
+                }
+                catch
+                {
+
+                }
                 await context.Database.EnsureCreatedAsync();
 
                 await context.Items.AddRangeAsync(store._AllItems.Values);
@@ -364,7 +371,7 @@ namespace AideDeJeuCmd
                 var backgrounds = await context.Backgrounds.ToListAsync();
                 var items = await context.Items.ToListAsync();
 
-                foreach (var c in classes)
+                foreach (ClassItem c in classes)
                 {
                     var parent = items.Where(it => it.Id == c.ParentLink).FirstOrDefault();
                     if (parent != null)
@@ -372,20 +379,34 @@ namespace AideDeJeuCmd
                         var pparent = items.Where(iit => iit.Id == parent.ParentLink).FirstOrDefault();
                         if(pparent != null && pparent is ClassItem)
                         {
+                            var sc = c as SubClassItem;
+                            sc.ParentClassId = pparent.NewId;
                             Console.WriteLine($"{pparent.Name} - {c.Name}");
+                        }
+                        else
+                        {
                         }
                     }
                 }
 
-                foreach(var r in races)
+                foreach (var r in races)
+                {
+                    r.HasSubRaces = false;
+                }
+                foreach (var r in races)
                 {
                     var parent = items.Where(it => it.Id == r.ParentLink).FirstOrDefault();
                     if(parent != null && parent is RaceItem)
                     {
-                        Console.WriteLine($"{parent.Name} - {r.Name}");
+                        var sr = r as SubRaceItem;
+                        sr.FullName = $"{parent.Name} - {r.Name}";
+                        sr.ParentRaceId = parent.NewId;
+                        (parent as RaceItem).HasSubRaces = true;
+                        Console.WriteLine(sr.FullName);
                     }
                     else
                     {
+                        r.FullName = r.Name;
                         Console.WriteLine($"{r.Name}");
                     }
                 }
@@ -454,6 +475,7 @@ namespace AideDeJeuCmd
                     }
                 }
                 int i = 1;
+                await context.SaveChangesAsync();
 
                 //var serializer = new SerializerBuilder()
                 //    .WithTagMapping("!MonsterHD", typeof(MonsterHD))

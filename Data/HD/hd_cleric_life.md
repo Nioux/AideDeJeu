@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_cleric.md
 Id: cleric_life_hd.md#domaine-de-la-vie
 RootId: cleric_life_hd.md
 ParentLink: cleric_hd.md#domaines-divins

@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_barbarian.md
 Id: barbarian_howling_hd.md#voie-du-hurlement
 RootId: barbarian_howling_hd.md
 ParentLink: barbarian_hd.md#voies-primitives

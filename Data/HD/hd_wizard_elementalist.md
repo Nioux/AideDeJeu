@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_wizard.md
 Id: wizard_elementalist_hd.md#Élémentaliste
 RootId: wizard_elementalist_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques

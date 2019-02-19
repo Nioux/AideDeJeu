@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_cleric.md
 Id: cleric_theurgist_hd.md#théurge
 RootId: cleric_theurgist_hd.md
 ParentLink: cleric_hd.md#domaines-divins

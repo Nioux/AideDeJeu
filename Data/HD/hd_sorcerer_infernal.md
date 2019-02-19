@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_sorcerer.md
 Id: sorcerer_infernal_hd.md#lignée-infernale
 RootId: sorcerer_infernal_hd.md
 ParentLink: sorcerer_hd.md#origines-magiques

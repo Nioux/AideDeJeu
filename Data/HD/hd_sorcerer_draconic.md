@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_sorcerer.md
 Id: sorcerer_draconic_hd.md#lignée-draconique
 RootId: sorcerer_draconic_hd.md
 ParentLink: sorcerer_hd.md#origines-magiques

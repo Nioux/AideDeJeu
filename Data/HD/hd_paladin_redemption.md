@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_paladin.md
 Id: paladin_redemption_hd.md#serment-de-rédemption
 RootId: paladin_redemption_hd.md
 ParentLink: paladin_hd.md#serments-sacrés

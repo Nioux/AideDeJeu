@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_fighter.md
 Id: fighter_swordsman_hd.md#bretteur
 RootId: fighter_swordsman_hd.md
 ParentLink: fighter_hd.md#archétypes-martiaux

@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+FullName: Humain
 StrengthBonus: 1
 DexterityBonus: 1
 ConstitutionBonus: 1

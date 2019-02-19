@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_monk.md
 Id: monk_flexibility_hd.md#voie-de-la-souplesse
 RootId: monk_flexibility_hd.md
 ParentLink: monk_hd.md#traditions-monacales

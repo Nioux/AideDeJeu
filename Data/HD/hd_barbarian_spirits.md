@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_barbarian.md
 Id: barbarian_spirits_hd.md#voie-des-esprits
 RootId: barbarian_spirits_hd.md
 ParentLink: barbarian_hd.md#voies-primitives

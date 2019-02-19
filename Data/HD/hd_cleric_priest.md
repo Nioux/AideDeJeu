@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_cleric.md
 Id: cleric_priest_hd.md#prêtre
 RootId: cleric_priest_hd.md
 ParentLink: cleric_hd.md#domaines-divins

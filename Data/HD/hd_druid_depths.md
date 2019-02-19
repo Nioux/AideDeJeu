@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_druid.md
 Id: druid_depths_hd.md#cercle-des-profondeurs
 RootId: druid_depths_hd.md
 ParentLink: druid_hd.md#cercles-druidiques

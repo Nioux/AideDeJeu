@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_rogue.md
 Id: rogue_ombrelame_hd.md#ombrelame
 RootId: rogue_ombrelame_hd.md
 ParentLink: rogue_hd.md#archétypes-de-roublard

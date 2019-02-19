@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_sorcerer.md
 Id: sorcerer_celestial_hd.md#lignée-céleste
 RootId: sorcerer_celestial_hd.md
 ParentLink: sorcerer_hd.md#origines-magiques

@@ -12,6 +12,11 @@ namespace AideDeJeuLib
     public class RaceItem : Item
     {
         [DataMember]
+        public string FullName { get; set; }
+        [DataMember]
+        public bool HasSubRaces { get; set; }
+
+        [DataMember]
         public string StrengthBonus { get; set; }
         [DataMember]
         public string DexterityBonus { get; set; }

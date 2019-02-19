@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_sorcerer.md
 Id: sorcerer_fairy_hd.md#lignée-féerique
 RootId: sorcerer_fairy_hd.md
 ParentLink: sorcerer_hd.md#origines-magiques

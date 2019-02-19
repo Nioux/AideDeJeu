@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_warlock.md
 Id: warlock_immortal_hd.md#le-seigneur-immortel
 RootId: warlock_immortal_hd.md
 ParentLink: warlock_hd.md#protecteurs-doutre-monde

@@ -1,5 +1,7 @@
 ﻿---
 !RaceItem
+FullName: Elfe
+HasSubRaces: true
 DexterityBonus: 2
 Age: Bien que les elfes atteignent leur maturité physique environ au même âge que les humains, ils considèrent qu'être un adulte dépasse ce simple aspect et prend en compte l'expérience de la vie. Un elfe se déclare généralement adulte vers 100 ans et choisit à ce moment-là son nom d'adulte. Les elfes peuvent vivre jusqu'à 750 ans.
 Alignment: Les elfes sont épris de liberté, de diversité et d'expression individuelle. C'est pourquoi ils tendent fortement vers les aspects les plus modérés du chaos. La liberté des autres a autant de valeur à leurs yeux que la leur et ils sont plutôt enclins à faire le bien. Les elfes de sang sont une exception. Leur exil les a rendus vicieux et dangereux et, en ce qui les concerne, ils sont plutôt enclins à faire le mal.

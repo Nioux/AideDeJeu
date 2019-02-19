@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_bard.md
 Id: bard_acrobats_hd.md#collège-des-saltimbanques
 RootId: bard_acrobats_hd.md
 ParentLink: bard_hd.md#collèges-bardiques

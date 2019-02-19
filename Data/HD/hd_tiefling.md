@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+FullName: Tieffelin
 IntelligenceBonus: 1
 CharismaBonus: 2
 Age: Les tieffelins vieillissent à une vitesse comparable aux humains, mais ils vivent quelques années supplémentaires.

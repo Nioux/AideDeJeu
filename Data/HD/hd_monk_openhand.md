@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_monk.md
 Id: monk_openhand_hd.md#voie-de-la-main-ouverte
 RootId: monk_openhand_hd.md
 ParentLink: monk_hd.md#traditions-monacales

@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+FullName: Demi-ogre
 StrengthBonus: 2
 ConstitutionBonus: 2
 Age: Les demi-ogres arrivent rapidement à l'âge adulte, à l'âge de 10 ans. Cependant, une fois leur maturité atteinte, ils vieillissent légèrement plus lentement que les êtres humains. Ainsi, un demi-ogre peut vivre jusqu'à un âge de 125 ans, voire plus, pour peu qu'il ait l'incroyable (et rare) chance de ne pas être mort de manière violente auparavant.

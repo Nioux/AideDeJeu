@@ -1,5 +1,7 @@
 ﻿---
 !SubRaceItem
+ParentRaceId: hd_elf.md
+FullName: Elfe - Elfe d'aether
 IntelligenceBonus: 1
 Id: elf_hd.md#elfe-daether
 ParentLink: elf_hd.md#elfe

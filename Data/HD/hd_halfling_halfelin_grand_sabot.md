@@ -1,5 +1,7 @@
 ﻿---
 !SubRaceItem
+ParentRaceId: hd_halfling.md
+FullName: Halfelin - Halfelin grand-sabot
 ConstitutionBonus: 1
 Id: halfling_hd.md#halfelin-grand-sabot
 ParentLink: halfling_hd.md#halfelin

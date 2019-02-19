@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_barbarian.md
 Id: barbarian_steel_hd.md#voie-de-lacier
 RootId: barbarian_steel_hd.md
 ParentLink: barbarian_hd.md#voies-primitives

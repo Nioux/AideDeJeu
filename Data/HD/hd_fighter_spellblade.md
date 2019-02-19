@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_fighter.md
 Id: fighter_spellblade_hd.md#sorcelame
 RootId: fighter_spellblade_hd.md
 ParentLink: fighter_hd.md#archétypes-martiaux

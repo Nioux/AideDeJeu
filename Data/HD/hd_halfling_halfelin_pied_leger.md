@@ -1,5 +1,7 @@
 ﻿---
 !SubRaceItem
+ParentRaceId: hd_halfling.md
+FullName: Halfelin - Halfelin pied-léger
 CharismaBonus: 1
 Id: halfling_hd.md#halfelin-pied-léger
 ParentLink: halfling_hd.md#halfelin

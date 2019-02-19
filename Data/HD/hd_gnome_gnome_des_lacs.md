@@ -1,5 +1,7 @@
 ﻿---
 !SubRaceItem
+ParentRaceId: hd_gnome.md
+FullName: Gnome - Gnome des lacs
 WisdomBonus: 1
 Id: gnome_hd.md#gnome-des-lacs
 ParentLink: gnome_hd.md#gnome

@@ -1,5 +1,6 @@
 ﻿---
 !RaceItem
+FullName: Demi-orc
 StrengthBonus: 2
 ConstitutionBonus: 1
 Age: Les demi-orcs deviennent matures un peu plus vite que les humains. Ils sont considérés comme adultes vers 14 ans. Par contre, ils vieillissent plus vite et vivent rarement plus de 75 ans.

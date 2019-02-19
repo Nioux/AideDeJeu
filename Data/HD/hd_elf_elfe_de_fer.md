@@ -1,5 +1,7 @@
 ﻿---
 !SubRaceItem
+ParentRaceId: hd_elf.md
+FullName: Elfe - Elfe de fer
 CharismaBonus: 1
 Id: elf_hd.md#elfe-de-fer
 ParentLink: elf_hd.md#elfe

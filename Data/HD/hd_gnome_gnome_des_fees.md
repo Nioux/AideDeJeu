@@ -1,5 +1,7 @@
 ﻿---
 !SubRaceItem
+ParentRaceId: hd_gnome.md
+FullName: Gnome - Gnome des fées
 DexterityBonus: 1
 Id: gnome_hd.md#gnome-des-fées
 ParentLink: gnome_hd.md#gnome

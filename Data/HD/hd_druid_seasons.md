@@ -1,5 +1,6 @@
 ﻿---
 !SubClassItem
+ParentClassId: hd_druid.md
 Id: druid_seasons_hd.md#cercle-des-saisons
 RootId: druid_seasons_hd.md
 ParentLink: druid_hd.md#cercles-druidiques
