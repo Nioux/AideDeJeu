@@ -12,69 +12,69 @@
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
-    <TableView>
+    <TableView Margin="10,0">
         <TableRoot>
             <TableSection Title="Généralités">
                 <ViewCell>
                     <StackLayout Orientation="Horizontal">
-                        <Label Text="Niveau" />
-                        <Picker HorizontalOptions="EndAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding}" />
+                        <Label Text="Niveau" WidthRequest="100" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding}" />
                     </StackLayout>
                 </ViewCell>
                 <ViewCell>
                     <StackLayout Orientation="Horizontal">
-                        <Label Text="Race" />
-                        <Picker HorizontalOptions="EndAndExpand" ItemsSource="{Binding Races}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}" />
+                        <Label Text="Race" WidthRequest="100" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Races}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}" />
                     </StackLayout>
                 </ViewCell>
                 <ViewCell>
                     <StackLayout Orientation="Horizontal">
-                        <Label Text="Classe" />
-                        <Picker HorizontalOptions="EndAndExpand" ItemsSource="{Binding Classes}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />
+                        <Label Text="Classe" WidthRequest="100" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />
                     </StackLayout>
                 </ViewCell>
                 <ViewCell>
                     <StackLayout Orientation="Horizontal">
-                        <Label Text="Historique" />
-                        <Picker HorizontalOptions="EndAndExpand" Grid.ColumnSpan="2" ItemsSource="{Binding Backgrounds}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />
+                        <Label Text="Historique" WidthRequest="100" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Backgrounds}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />
                     </StackLayout>
                 </ViewCell>
             </TableSection>
             <TableSection Title="Caractéristiques">
                 <ViewCell>
                     <StackLayout Orientation="Horizontal">
-                        <Label Text="Force" />
-                        <Picker HorizontalOptions="EndAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
+                        <Label Text="Force" WidthRequest="100" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
                     </StackLayout>
                 </ViewCell>
                 <ViewCell>
                     <StackLayout Orientation="Horizontal">
-                        <Label Text="Dextérité" />
-                        <Picker HorizontalOptions="EndAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
+                        <Label Text="Dextérité" WidthRequest="100" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
                     </StackLayout>
                 </ViewCell>
                 <ViewCell>
                     <StackLayout Orientation="Horizontal">
-                        <Label Text="Constitution" />
-                        <Picker HorizontalOptions="EndAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
+                        <Label Text="Constitution" WidthRequest="100" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
                     </StackLayout>
                 </ViewCell>
                 <ViewCell>
                     <StackLayout Orientation="Horizontal">
-                        <Label Text="Intelligence" />
-                        <Picker HorizontalOptions="EndAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
+                        <Label Text="Intelligence" WidthRequest="100" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
                     </StackLayout>
                 </ViewCell>
                 <ViewCell>
                     <StackLayout Orientation="Horizontal">
-                        <Label Text="Sagesse" />
-                        <Picker HorizontalOptions="EndAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
+                        <Label Text="Sagesse" WidthRequest="100" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
                     </StackLayout>
                 </ViewCell>
                 <ViewCell>
                     <StackLayout Orientation="Horizontal">
-                        <Label Text="Charisme" />
-                        <Picker HorizontalOptions="EndAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
+                        <Label Text="Charisme" WidthRequest="100" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
                     </StackLayout>
                 </ViewCell>
             </TableSection>
