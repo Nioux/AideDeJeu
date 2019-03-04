@@ -7249,7 +7249,7 @@ Vous pouvez protéger une structure en permanence si vous lancez ce sort tous le
 
 - SRD: <!--AltName-->[Purify Food and Drink](spells_vo.md#purify-food-and-drink)<!--/AltName-->
 
--  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+-  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->3 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
