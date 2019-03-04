@@ -20,19 +20,23 @@ namespace AideDeJeu
             DependencyService.Register<BookmarksViewModel>();
             DependencyService.Register<StoreViewModel>();
             var vm = DependencyService.Get<MainViewModel>();
-
-            MainPage = new PlayerCharacterEditorPage();
-            return;
-
-            var tabbeddPage = new AideDeJeu.Views.MainTabbedPage();
-            //var mainPage = new ItemDetailPage(new ItemDetailViewModel(new HomeItem()) { Title = "Haches & Dés" });
             var titlered = (Color)Resources["HDRed"];
             var bgtan = (Color)Resources["HDWhite"];
-            //var navigationPage = new MainNavigationPage(mainPage) { BarBackgroundColor = titlered, BarTextColor = bgtan };
-            //tabbeddPage.MainNavigationPage = navigationPage;
-            var navigationPage = tabbeddPage.MainNavigationPage;
-            vm.Navigator = new Navigator(navigationPage.Navigation);
-            MainPage = tabbeddPage;
+
+
+            var mainNavigationPage = new MainNavigationPage();
+            
+            //MainPage = new PlayerCharacterEditorPage();
+            //MainPage = new MainPage();
+
+            //var tabbeddPage = new AideDeJeu.Views.MainTabbedPage();
+
+
+
+            //var navigationPage = tabbeddPage.MainNavigationPage;
+            vm.Navigator = new Navigator(mainNavigationPage.Navigation);
+            MainPage = mainNavigationPage;
+            mainNavigationPage.Navigation.PushAsync(new MainPage());
 
         }
 

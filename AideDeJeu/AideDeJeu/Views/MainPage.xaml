@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AideDeJeu.Views.MainPage">
+    <ContentPage.Content>
+        <!--<CollectionView ItemsSource="{Binding tralala}">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical" Span="2" />
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                
+            </CollectionView.ItemTemplate>
+        </CollectionView>-->
+        <ScrollView>
+            <FlexLayout Wrap="Wrap" JustifyContent="SpaceEvenly">
+                <ImageButton Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}"/>
+                <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand}" />
+                <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand}" />
+                <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
+                <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
+            </FlexLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

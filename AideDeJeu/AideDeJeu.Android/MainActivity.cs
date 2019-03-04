@@ -24,6 +24,8 @@ namespace AideDeJeu.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
             SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
+            Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
+
             LoadApplication(new App());
         }
 

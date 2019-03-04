@@ -39,6 +39,50 @@ namespace AideDeJeu.ViewModels
             await Navigation.PushAsync(new Views.AboutPage());
         }
 
+        private Command _LibraryCommand = null;
+        public Command LibraryCommand
+        {
+            get
+            {
+                return _LibraryCommand ?? (_LibraryCommand = new Command(async () => await GotoLibraryPageAsync()));
+            }
+        }
+
+        public async Task GotoLibraryPageAsync()
+        {
+            await Navigation.PushAsync(new Views.ItemDetailPage());
+        }
+
+        private Command _BookmarksCommand = null;
+        public Command BookmarksCommand
+        {
+            get
+            {
+                return _BookmarksCommand ?? (_BookmarksCommand = new Command(async () => await GotoBookmarksPageAsync()));
+            }
+        }
+
+        public async Task GotoBookmarksPageAsync()
+        {
+            await Navigation.PushAsync(new Views.BookmarksPage());
+        }
+
+
+
+        private Command _PlayerCharacterEditorCommand = null;
+        public Command PlayerCharacterEditorCommand
+        {
+            get
+            {
+                return _PlayerCharacterEditorCommand ?? (_PlayerCharacterEditorCommand = new Command(async () => await GotoPlayerCharacterEditorPageAsync()));
+            }
+        }
+
+        public async Task GotoPlayerCharacterEditorPageAsync()
+        {
+            await Navigation.PushAsync(new Views.PlayerCharacterEditorPage());
+        }
+
         private Command _DeepSearchCommand = null;
         public Command DeepSearchCommand
         {
@@ -119,8 +163,11 @@ namespace AideDeJeu.ViewModels
         public void SwitchToMainTab()
         {
             var tabbedPage = App.Current.MainPage as MainTabbedPage;
-            tabbedPage.SelectedItem = null;
-            tabbedPage.SelectedItem = tabbedPage.MainNavigationPage;
+            if (tabbedPage != null)
+            {
+                tabbedPage.SelectedItem = null;
+                tabbedPage.SelectedItem = tabbedPage.MainNavigationPage;
+            }
         }
 
         public async Task GotoItemsPageAsync(ItemsViewModel itemsVM)
