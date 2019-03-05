@@ -5,6 +5,7 @@
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
             xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
             x:Name="This"
+             Title="Création de personnage"
             >
     <ContentPage.Resources>
         <ResourceDictionary>
