@@ -26,7 +26,7 @@ namespace AideDeJeu.iOS
 
             global::Xamarin.Forms.Forms.Init();
             SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_sqlite3());
-            Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
+            //Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
 
             LoadApplication(new App());
 
