@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 3
 Type: Illusion
 CastingTime: 1 action

@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 7
 Type: Illusion
 CastingTime: 12 heures

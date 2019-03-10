@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 4
 Type: Divination
 Ritual: rituel

@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 1
 Type: divination
 Ritual: ritual

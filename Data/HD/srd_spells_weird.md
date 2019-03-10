@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 9
 Type: illusion
 CastingTime: 1 action

@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 3
 Type: transmutation
 Ritual: ritual

@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: tour de magie
 Type: Évocation
 CastingTime: 1 action

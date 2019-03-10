@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 6
 Type: Abjuration
 CastingTime: 1 action

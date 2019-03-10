@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 4
 Type: illusion
 CastingTime: 10 minutes

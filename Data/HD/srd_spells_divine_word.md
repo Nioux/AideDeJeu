@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 7
 Type: evocation
 CastingTime: 1 bonus action

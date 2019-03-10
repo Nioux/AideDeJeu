@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 6
 Type: conjuration
 CastingTime: 1 action

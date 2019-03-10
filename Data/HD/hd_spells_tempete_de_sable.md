@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 8
 Type: Invocation
 CastingTime: 1 action

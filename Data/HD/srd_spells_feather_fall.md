@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 1
 Type: transmutation
 CastingTime: 1 reaction, which you take when you or a creature within 60 feet of you falls

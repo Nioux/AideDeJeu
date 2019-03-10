@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 4
 Type: necromancy
 CastingTime: 1 action

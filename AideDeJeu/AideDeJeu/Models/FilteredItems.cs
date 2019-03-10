@@ -11,6 +11,8 @@ namespace AideDeJeuLib
 
     public class FilteredItems : Items
     {
+        public string Family { get; set; }
+
         [IgnoreDataMember]
         [YamlMember]
         public List<Item> SubItems

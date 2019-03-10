@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 1
 Type: Transmutation
 CastingTime: 1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain

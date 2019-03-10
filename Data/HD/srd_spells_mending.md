@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: cantrip
 Type: Transmutation
 CastingTime: 1 minute

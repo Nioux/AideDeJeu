@@ -1,5 +1,5 @@
 
-<!--SpellsVO-->
+<!--Spells Family="SpellVO" Classes="Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard, Warlock" Levels="Cantrip, Level 1, Level 2, Level 3, Level 4, Level 5, Level 6, Level 7, Level 8, Level 9" Schools="Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, Transmutation" Rituals="Ritual" Sources="SRD"-->
 
 > <!--ParentNameLink-->[SRD](index.md)<!--/ParentNameLink-->
 
@@ -10,7 +10,7 @@
 - MDR: <!--AltName-->[Sorts](spells_hd.md)<!--/AltName-->
 
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Acid Splash<!--/Name-->
 
@@ -32,9 +32,9 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 [Aspersion acide]: spells_hd.md#aspersion-acide
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Aid<!--/Name-->
 
@@ -56,9 +56,9 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 [Aide]: spells_hd.md#aide
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Alarm<!--/Name-->
 
@@ -80,9 +80,9 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 [Alarme]: spells_hd.md#alarme
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Alter Self<!--/Name-->
 
@@ -108,9 +108,9 @@ You assume a different form. When you cast the spell, choose one of the followin
 [Modifier son apparence]: spells_hd.md#modifier-son-apparence
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Animal Friendship<!--/Name-->
 
@@ -132,9 +132,9 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 [Amitié avec les animaux]: spells_hd.md#amitié-avec-les-animaux
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Animal Messenger<!--/Name-->
 
@@ -158,9 +158,9 @@ When the messenger arrives, it delivers your message to the creature that you de
 [Messager animal]: spells_hd.md#messager-animal
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Animal Shapes<!--/Name-->
 
@@ -184,9 +184,9 @@ The target's gear melds into the new form. The target can't activate, wield, or 
 [Formes animales]: spells_hd.md#formes-animales
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Animate Dead<!--/Name-->
 
@@ -212,9 +212,9 @@ The creature is under your control for 24 hours, after which it stops obeying an
 [Animation des morts]: spells_hd.md#animation-des-morts
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Animate Objects<!--/Name-->
 
@@ -250,9 +250,9 @@ If you command an object to attack, it can make a single melee attack against a 
 [Animation des objets]: spells_hd.md#animation-des-objets
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Antilife Shell<!--/Name-->
 
@@ -276,9 +276,9 @@ If you move so that an affected creature is forced to pass through the barrier, 
 [Coquille antivie]: spells_hd.md#coquille-antivie
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Antimagic Field<!--/Name-->
 
@@ -316,9 +316,9 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 [Champ antimagie]: spells_hd.md#champ-antimagie
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Antipathy/Sympathy<!--/Name-->
 
@@ -348,9 +348,9 @@ A creature that successfully saves against this effect is immune to it for 1 min
 [Répulsion/attirance]: spells_hd.md#répulsionattirance
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Arcane Eye<!--/Name-->
 
@@ -374,9 +374,9 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 [Oeil magique]: spells_hd.md#oeil-magique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Arcane Lock<!--/Name-->
 
@@ -398,9 +398,9 @@ While affected by this spell, the object is more difficult to break or force ope
 [Verrou magique]: spells_hd.md#verrou-magique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Astral Projection<!--/Name-->
 
@@ -430,9 +430,9 @@ If you are returned to your body prematurely, your companions remain in their as
 [Projection astrale]: spells_hd.md#projection-astrale
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Augury<!--/Name-->
 
@@ -464,9 +464,9 @@ If you cast the spell two or more times before completing your next long rest, t
 [Augure]: spells_hd.md#augure
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Awaken<!--/Name-->
 
@@ -488,9 +488,9 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 [Éveil]: spells_hd.md#Éveil
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Bane<!--/Name-->
 
@@ -512,9 +512,9 @@ Up to three creatures of your choice that you can see within range must make Cha
 [Fléau]: spells_hd.md#fléau
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Banishment<!--/Name-->
 
@@ -540,9 +540,9 @@ If the target is native to a different plane of existence than the one you're on
 [Bannissement]: spells_hd.md#bannissement
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Barkskin<!--/Name-->
 
@@ -562,9 +562,9 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 [Peau d'écorce]: spells_hd.md#peau-décorce
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Beacon of Hope<!--/Name-->
 
@@ -584,9 +584,9 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 [Lueur d'espoir]: spells_hd.md#lueur-despoir
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Bestow curse<!--/Name-->
 
@@ -618,9 +618,9 @@ A _[remove curse]_ spell ends this effect. At the DM's option, you may choose an
 [Jeter une malédiction]: spells_hd.md#jeter-une-malédiction
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Arcane Hand<!--/Name-->
 
@@ -654,9 +654,9 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 [Main magique]: spells_hd.md#main-magique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Blade Barrier<!--/Name-->
 
@@ -678,9 +678,9 @@ When a creature enters the wall's area for the first time on a turn or starts it
 [Barrière de lames]: spells_hd.md#barrière-de-lames
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Bless<!--/Name-->
 
@@ -702,9 +702,9 @@ You bless up to three creatures of your choice within range. Whenever a target m
 [Bénédiction]: spells_hd.md#bénédiction
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Blight<!--/Name-->
 
@@ -728,9 +728,9 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 [Flétrissement]: spells_hd.md#flétrissement
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Blindness/Deafness<!--/Name-->
 
@@ -752,9 +752,9 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 [Cécité/Surdité]: spells_hd.md#cécitésurdité
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Blink<!--/Name-->
 
@@ -776,9 +776,9 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 [Clignotement]: spells_hd.md#clignotement
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Blur<!--/Name-->
 
@@ -798,9 +798,9 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 [Flou]: spells_hd.md#flou
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Branding Smite<!--/Name-->
 
@@ -822,9 +822,9 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 [Frappe lumineuse]: spells_hd.md#frappe-lumineuse
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Burning Hands<!--/Name-->
 
@@ -848,9 +848,9 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 [Mains brûlantes]: spells_hd.md#mains-brûlantes
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Call Lightning<!--/Name-->
 
@@ -876,9 +876,9 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 [Appel de la foudre]: spells_hd.md#appel-de-la-foudre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Calm Emotions<!--/Name-->
 
@@ -902,9 +902,9 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 [Apaisement des émotions]: spells_hd.md#apaisement-des-émotions
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Chain Lightning<!--/Name-->
 
@@ -928,9 +928,9 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 [Chaîne d'éclairs]: spells_hd.md#chaîne-déclairs
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Charm Person<!--/Name-->
 
@@ -952,9 +952,9 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 [Charme-personne]: spells_hd.md#charme-personne
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Chill Touch<!--/Name-->
 
@@ -976,9 +976,9 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 [Contact glacial]: spells_hd.md#contact-glacial
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Circle of Death<!--/Name-->
 
@@ -1000,9 +1000,9 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 [Cercle de mort]: spells_hd.md#cercle-de-mort
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Clairvoyance<!--/Name-->
 
@@ -1026,9 +1026,9 @@ A creature that can see the sensor (such as a creature benefiting from _see invi
 [Clairvoyance]: spells_hd.md#clairvoyance
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Clone<!--/Name-->
 
@@ -1052,9 +1052,9 @@ The clone is physically identical to the original and has the same personality, 
 [Clone]: spells_hd.md#clone
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Cloudkill<!--/Name-->
 
@@ -1080,9 +1080,9 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 [Nuage mortel]: spells_hd.md#nuage-mortel
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Color Spray<!--/Name-->
 
@@ -1106,9 +1106,9 @@ Starting with the creature that has the lowest current hit points, each creature
 [Couleurs dansantes]: spells_hd.md#couleurs-dansantes
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Command<!--/Name-->
 
@@ -1142,9 +1142,9 @@ Some typical commands and their effects follow. You might issue a command other 
 [Injonction]: spells_hd.md#injonction
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Commune<!--/Name-->
 
@@ -1168,9 +1168,9 @@ If you cast the spell two or more times before finishing your next long rest, th
 [Communion]: spells_hd.md#communion
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Commune with Nature<!--/Name-->
 
@@ -1204,9 +1204,9 @@ For example, you could determine the location of powerful undead in the area, th
 [Communion avec la nature]: spells_hd.md#communion-avec-la-nature
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Comprehend Languages<!--/Name-->
 
@@ -1228,9 +1228,9 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 [Compréhension des langues]: spells_hd.md#compréhension-des-langues
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Compulsion<!--/Name-->
 
@@ -1252,9 +1252,9 @@ A target isn't compelled to move into an obviously deadly hazard, such as a fire
 [Compulsion]: spells_hd.md#compulsion
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Cone of Cold<!--/Name-->
 
@@ -1278,9 +1278,9 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 [Cône de froid]: spells_hd.md#cône-de-froid
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Confusion<!--/Name-->
 
@@ -1313,9 +1313,9 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 [Confusion]: spells_hd.md#confusion
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Conjure Animals<!--/Name-->
 
@@ -1347,9 +1347,9 @@ Each beast is also considered fey, and it disappears when it drops to 0 hit poin
 [Invoquer des animaux]: spells_hd.md#invoquer-des-animaux
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Conjure Celestial<!--/Name-->
 
@@ -1375,9 +1375,9 @@ The DM has the celestial's statistics.
 [Invoquer un céleste]: spells_hd.md#invoquer-un-céleste
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Conjure Elemental<!--/Name-->
 
@@ -1401,9 +1401,9 @@ If your concentration is broken, the elemental doesn't disappear. Instead, you l
 [Invoquer un élémentaire]: spells_hd.md#invoquer-un-élémentaire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Conjure Fey<!--/Name-->
 
@@ -1431,9 +1431,9 @@ The DM has the fey creature's statistics.
 [Invoquer une fée]: spells_hd.md#invoquer-une-fée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Conjure Minor Elementals<!--/Name-->
 
@@ -1469,9 +1469,9 @@ The DM has the creatures' statistics.
 [Invoquer des élémentaires mineurs]: spells_hd.md#invoquer-des-élémentaires-mineurs
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Conjure Woodland Beings<!--/Name-->
 
@@ -1507,9 +1507,9 @@ The DM has the creatures' statistics.
 [Invoquer des êtres des bois]: spells_hd.md#invoquer-des-êtres-des-bois
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Contact Other Plane<!--/Name-->
 
@@ -1531,9 +1531,9 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 [Contacter un autre plan]: spells_hd.md#contacter-un-autre-plan
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Contagion<!--/Name-->
 
@@ -1571,9 +1571,9 @@ Since this spell induces a natural disease in its target, any effect that remove
 [Contagion]: spells_hd.md#contagion
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Contingency<!--/Name-->
 
@@ -1597,9 +1597,9 @@ The contingent spell takes effect only on you, even if it can normally target ot
 [Contingence]: spells_hd.md#contingence
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Continual Flame<!--/Name-->
 
@@ -1619,9 +1619,9 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 [Flamme éternelle]: spells_hd.md#flamme-éternelle
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Control Water<!--/Name-->
 
@@ -1653,9 +1653,9 @@ The first time each turn that an object enters the vortex, the object takes 2d8 
 [Contrôle de l'eau]: spells_hd.md#contrôle-de-leau
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Control Weather<!--/Name-->
 
@@ -1709,9 +1709,9 @@ Wind
 [Contrôle du climat]: spells_hd.md#contrôle-du-climat
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Counterspell<!--/Name-->
 
@@ -1733,9 +1733,9 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 [Contresort]: spells_hd.md#contresort
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Create Food and Water<!--/Name-->
 
@@ -1755,9 +1755,9 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 [Création de nourriture et d'eau]: spells_hd.md#création-de-nourriture-et-deau
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Create or Destroy Water<!--/Name-->
 
@@ -1783,9 +1783,9 @@ You either create or destroy water.
 [Création ou destruction d'eau]: spells_hd.md#création-ou-destruction-deau
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Create Undead<!--/Name-->
 
@@ -1811,9 +1811,9 @@ The creature is under your control for 24 hours, after which it stops obeying an
 [Création de mort-vivant]: spells_hd.md#création-de-mort-vivant
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Creation<!--/Name-->
 
@@ -1847,9 +1847,9 @@ Using any material created by this spell as another spell's material component c
 [Création]: spells_hd.md#création
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Cure Wounds<!--/Name-->
 
@@ -1871,9 +1871,9 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 [Soin des blessures]: spells_hd.md#soin-des-blessures
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Dancing Lights<!--/Name-->
 
@@ -1895,9 +1895,9 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 [Lumières dansantes]: spells_hd.md#lumières-dansantes
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Darkness<!--/Name-->
 
@@ -1921,9 +1921,9 @@ If any of this spell's area overlaps with an area of light created by a spell of
 [Ténèbres]: spells_hd.md#ténèbres
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Darkvision<!--/Name-->
 
@@ -1943,9 +1943,9 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 [Vision dans le noir]: spells_hd.md#vision-dans-le-noir
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Daylight<!--/Name-->
 
@@ -1969,9 +1969,9 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 [Lumière du jour]: spells_hd.md#lumière-du-jour
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Death Ward<!--/Name-->
 
@@ -1995,9 +1995,9 @@ If the spell is still in effect when the target is subjected to an effect that w
 [Protection contre la mort]: spells_hd.md#protection-contre-la-mort
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Delayed Blast Fireball<!--/Name-->
 
@@ -2025,9 +2025,9 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 [Boule de feu à explosion retardée]: spells_hd.md#boule-de-feu-à-explosion-retardée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Demiplane<!--/Name-->
 
@@ -2049,9 +2049,9 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 [Demi-plan]: spells_hd.md#demi-plan
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Detect Evil and Good<!--/Name-->
 
@@ -2073,9 +2073,9 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 [Détection du mal et du bien]: spells_hd.md#détection-du-mal-et-du-bien
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Detect Magic<!--/Name-->
 
@@ -2097,9 +2097,9 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 [Détection de la magie]: spells_hd.md#détection-de-la-magie
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Detect Poison and Disease<!--/Name-->
 
@@ -2121,9 +2121,9 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 [Détection du poison et des maladies]: spells_hd.md#détection-du-poison-et-des-maladies
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Detect Thoughts<!--/Name-->
 
@@ -2151,9 +2151,9 @@ Once you detect the presence of a creature in this way, you can read its thought
 [Détection des pensées]: spells_hd.md#détection-des-pensées
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Dimension Door<!--/Name-->
 
@@ -2177,9 +2177,9 @@ If you would arrive in a place already occupied by an object or a creature, you 
 [Porte dimensionnelle]: spells_hd.md#porte-dimensionnelle
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Disguise Self<!--/Name-->
 
@@ -2203,9 +2203,9 @@ To discern that you are disguised, a creature can use its action to inspect your
 [Déguisement]: spells_hd.md#déguisement
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Disintegrate<!--/Name-->
 
@@ -2233,9 +2233,9 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 [Désintégration]: spells_hd.md#désintégration
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Dispel Evil and Good<!--/Name-->
 
@@ -2261,9 +2261,9 @@ You can end the spell early by using either of the following special functions.
 [Dissipation du mal et du bien]: spells_hd.md#dissipation-du-mal-et-du-bien
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Dispel Magic<!--/Name-->
 
@@ -2285,9 +2285,9 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 [Dissipation de la magie]: spells_hd.md#dissipation-de-la-magie
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Divination<!--/Name-->
 
@@ -2311,9 +2311,9 @@ If you cast the spell two or more times before finishing your next long rest, th
 [Divination]: spells_hd.md#divination
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Divine Favor<!--/Name-->
 
@@ -2333,9 +2333,9 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 [Faveur divine]: spells_hd.md#faveur-divine
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Divine Word<!--/Name-->
 
@@ -2365,9 +2365,9 @@ Regardless of its current hit points, a celestial, an elemental, a fey, or a fie
 [Parole divine]: spells_hd.md#parole-divine
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Dominate Beast<!--/Name-->
 
@@ -2393,9 +2393,9 @@ You can use your action to take total and precise control of the target. Until t
 [Dominer une bête]: spells_hd.md#dominer-une-bête
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Dominate Monster<!--/Name-->
 
@@ -2423,9 +2423,9 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 [Dominer un monstre]: spells_hd.md#dominer-un-monstre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Dominate Person<!--/Name-->
 
@@ -2455,9 +2455,9 @@ Wisdom saving throw against the spell. If the saving throw succeeds, the spell e
 [Dominer un humanoïde]: spells_hd.md#dominer-un-humanoïde
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Instant Summons<!--/Name-->
 
@@ -2483,9 +2483,9 @@ _[dispel magic]_ or a similar effect successfully applied to the sapphire ends t
 [Convocations instantanées]: spells_hd.md#convocations-instantanées
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Dream<!--/Name-->
 
@@ -2511,9 +2511,9 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 [Rêve]: spells_hd.md#rêve
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Druidcraft<!--/Name-->
 
@@ -2541,9 +2541,9 @@ Whispering to the spirits of nature, you create one of the following effects wit
 [Druidisme]: spells_hd.md#druidisme
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Earthquake<!--/Name-->
 
@@ -2575,9 +2575,9 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 [Tremblement de terre]: spells_hd.md#tremblement-de-terre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Eldritch Blast<!--/Name-->
 
@@ -2599,9 +2599,9 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 [Explosion occulte]: spells_hd.md#explosion-occulte
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Enhance Ability<!--/Name-->
 
@@ -2635,9 +2635,9 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 [Amélioration de caractéristique]: spells_hd.md#amélioration-de-caractéristique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Enlarge/Reduce<!--/Name-->
 
@@ -2663,9 +2663,9 @@ If the target is a creature, everything it is wearing and carrying changes size 
 [Agrandir/Rétrécir]: spells_hd.md#agrandirrétrécir
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Entangle<!--/Name-->
 
@@ -2689,9 +2689,9 @@ When the spell ends, the conjured plants wilt away.
 [Enchevêtrement]: spells_hd.md#enchevêtrement
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Enthrall<!--/Name-->
 
@@ -2711,9 +2711,9 @@ You weave a distracting string of words, causing creatures of your choice that y
 [Envoûtement]: spells_hd.md#envoûtement
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Etherealness<!--/Name-->
 
@@ -2743,9 +2743,9 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 [Forme éthérée]: spells_hd.md#forme-éthérée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Black Tentacles<!--/Name-->
 
@@ -2769,9 +2769,9 @@ A creature restrained by the tentacles can use its action to make a Strength or 
 [Tentacules noirs]: spells_hd.md#tentacules-noirs
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Expeditious Retreat<!--/Name-->
 
@@ -2791,9 +2791,9 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 [Repli expéditif]: spells_hd.md#repli-expéditif
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Eyebite<!--/Name-->
 
@@ -2819,9 +2819,9 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 [Mauvais oeil]: spells_hd.md#mauvais-oeil
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Fabricate<!--/Name-->
 
@@ -2845,9 +2845,9 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 [Fabrication]: spells_hd.md#fabrication
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Faerie Fire<!--/Name-->
 
@@ -2869,9 +2869,9 @@ Any attack roll against an affected creature or object has advantage if the atta
 [Lueurs féeriques]: spells_hd.md#lueurs-féeriques
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->False Life<!--/Name-->
 
@@ -2893,9 +2893,9 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 [Simulacre de vie]: spells_hd.md#simulacre-de-vie
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Fear<!--/Name-->
 
@@ -2915,9 +2915,9 @@ You project a phantasmal image of a creature's worst fears. Each creature in a 3
 [Peur]: spells_hd.md#peur
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Feather Fall<!--/Name-->
 
@@ -2937,9 +2937,9 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 [Léger comme une plume]: spells_hd.md#léger-comme-une-plume
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Feeblemind<!--/Name-->
 
@@ -2965,9 +2965,9 @@ The spell can also be ended by _[greater restoration], [heal]_, or _[wish]_.
 [Esprit faible]: spells_hd.md#esprit-faible
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Find Familiar<!--/Name-->
 
@@ -2999,9 +2999,9 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 [Appel de familier]: spells_hd.md#appel-de-familier
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Find Steed<!--/Name-->
 
@@ -3029,9 +3029,9 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 [Trouver une monture]: spells_hd.md#trouver-une-monture
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Find the Path<!--/Name-->
 
@@ -3053,9 +3053,9 @@ For the duration, as long as you are on the same plane of existence as the desti
 [Trouver un chemin]: spells_hd.md#trouver-un-chemin
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Find Traps<!--/Name-->
 
@@ -3077,9 +3077,9 @@ This spell merely reveals that a trap is present. You don't learn the location o
 [Trouver les pièges]: spells_hd.md#trouver-les-pièges
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Finger of Death<!--/Name-->
 
@@ -3101,9 +3101,9 @@ A humanoid killed by this spell rises at the start of your next turn as a zombie
 [Doigt de mort]: spells_hd.md#doigt-de-mort
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Fire Bolt<!--/Name-->
 
@@ -3125,9 +3125,9 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 [Trait de feu]: spells_hd.md#trait-de-feu
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Fire Shield<!--/Name-->
 
@@ -3151,9 +3151,9 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 [Bouclier de feu]: spells_hd.md#bouclier-de-feu
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Fire Storm<!--/Name-->
 
@@ -3175,9 +3175,9 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 [Tempête de feu]: spells_hd.md#tempête-de-feu
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Fireball<!--/Name-->
 
@@ -3201,9 +3201,9 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 [Boule de feu]: spells_hd.md#boule-de-feu
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Flame Blade<!--/Name-->
 
@@ -3229,9 +3229,9 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 [Lame de feu]: spells_hd.md#lame-de-feu
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Flame Strike<!--/Name-->
 
@@ -3253,9 +3253,9 @@ A vertical column of divine fire roars down from the heavens in a location you s
 [Colonne de flamme]: spells_hd.md#colonne-de-flamme
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Flaming Sphere<!--/Name-->
 
@@ -3281,9 +3281,9 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 [Sphère de feu]: spells_hd.md#sphère-de-feu
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Flesh to Stone<!--/Name-->
 
@@ -3309,9 +3309,9 @@ If you maintain your concentration on this spell for the entire possible duratio
 [Pétrification]: spells_hd.md#pétrification
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Fly<!--/Name-->
 
@@ -3333,9 +3333,9 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 [Vol]: spells_hd.md#vol
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Fog Cloud<!--/Name-->
 
@@ -3357,9 +3357,9 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 [Nappe de brouillard]: spells_hd.md#nappe-de-brouillard
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Forbiddance<!--/Name-->
 
@@ -3385,9 +3385,9 @@ The spell's area can't overlap with the area of another forbiddance spell. If yo
 [Interdiction]: spells_hd.md#interdiction
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Forcecage<!--/Name-->
 
@@ -3417,9 +3417,9 @@ This spell can't be dispelled by _[dispel magic]_.
 [Cage de force]: spells_hd.md#cage-de-force
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Foresight<!--/Name-->
 
@@ -3441,9 +3441,9 @@ This spell immediately ends if you cast it again before its duration ends.
 [Prémonition]: spells_hd.md#prémonition
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Freedom of Movement<!--/Name-->
 
@@ -3465,9 +3465,9 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 [Liberté de mouvement]: spells_hd.md#liberté-de-mouvement
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Gaseous Form<!--/Name-->
 
@@ -3491,9 +3491,9 @@ While in the form of a misty cloud, the target can't talk or manipulate objects,
 [Forme gazeuse]: spells_hd.md#forme-gazeuse
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Gate<!--/Name-->
 
@@ -3519,9 +3519,9 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 [Portail]: spells_hd.md#portail
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Geas<!--/Name-->
 
@@ -3547,9 +3547,9 @@ You can end the spell early by using an action to dismiss it. A _[remove curse],
 [Coercition mystique]: spells_hd.md#coercition-mystique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Gentle Repose<!--/Name-->
 
@@ -3571,9 +3571,9 @@ The spell also effectively extends the time limit on raising the target from the
 [Doux repos]: spells_hd.md#doux-repos
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Giant Insect<!--/Name-->
 
@@ -3599,9 +3599,9 @@ The DM might allow you to choose different targets. For example, if you transfor
 [Insecte géant]: spells_hd.md#insecte-géant
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Glibness<!--/Name-->
 
@@ -3621,9 +3621,9 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 [Bagou]: spells_hd.md#bagou
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Globe of Invulnerability<!--/Name-->
 
@@ -3647,9 +3647,9 @@ Any spell of 5th level or lower cast from outside the barrier can't affect creat
 [Globe d'invulnérabilité]: spells_hd.md#globe-dinvulnérabilité
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Glyph of Warding<!--/Name-->
 
@@ -3683,9 +3683,9 @@ When you inscribe the glyph, choose _explosive runes_ or a _spell glyph_.
 [Glyphe de protection]: spells_hd.md#glyphe-de-protection
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Goodberry<!--/Name-->
 
@@ -3707,9 +3707,9 @@ The berries lose their potency if they have not been consumed within 24 hours of
 [Baies nourricières]: spells_hd.md#baies-nourricières
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Grease<!--/Name-->
 
@@ -3731,9 +3731,9 @@ When the grease appears, each creature standing in its area must succeed on a De
 [Graisse]: spells_hd.md#graisse
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Greater Invisibility<!--/Name-->
 
@@ -3753,9 +3753,9 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 [Invisibilité supérieure]: spells_hd.md#invisibilité-supérieure
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Greater Restoration<!--/Name-->
 
@@ -3783,9 +3783,9 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 [Restauration supérieure]: spells_hd.md#restauration-supérieure
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Guardian of Faith<!--/Name-->
 
@@ -3807,9 +3807,9 @@ Any creature hostile to you that moves to a space within 10 feet of the guardian
 [Gardien de la foi]: spells_hd.md#gardien-de-la-foi
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Guards and Wards<!--/Name-->
 
@@ -3855,9 +3855,9 @@ You can create a permanently guarded and warded structure by casting this spell 
 [Protections et sceaux]: spells_hd.md#protections-et-sceaux
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Guidance<!--/Name-->
 
@@ -3877,9 +3877,9 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 [Assistance]: spells_hd.md#assistance
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Guiding Bolt<!--/Name-->
 
@@ -3901,9 +3901,9 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 [Balisage]: spells_hd.md#balisage
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Gust of Wind<!--/Name-->
 
@@ -3929,9 +3929,9 @@ As a bonus action on each of your turns before the spell ends, you can change th
 [Bourrasque]: spells_hd.md#bourrasque
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Hallow<!--/Name-->
 
@@ -3975,9 +3975,9 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 [Sanctification]: spells_hd.md#sanctification
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Hallucinatory Terrain<!--/Name-->
 
@@ -3999,9 +3999,9 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 [Terrain hallucinatoire]: spells_hd.md#terrain-hallucinatoire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Harm<!--/Name-->
 
@@ -4021,9 +4021,9 @@ You unleash a virulent disease on a creature that you can see within range. The 
 [Contamination]: spells_hd.md#contamination
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Haste<!--/Name-->
 
@@ -4045,9 +4045,9 @@ When the spell ends, the target can't move or take actions until after its next 
 [Hâte]: spells_hd.md#hâte
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Heal<!--/Name-->
 
@@ -4069,9 +4069,9 @@ Choose a creature that you can see within range. A surge of positive energy wash
 [Guérison]: spells_hd.md#guérison
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Healing Word<!--/Name-->
 
@@ -4093,9 +4093,9 @@ A creature of your choice that you can see within range regains hit points equal
 [Mot de guérison]: spells_hd.md#mot-de-guérison
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Heat Metal<!--/Name-->
 
@@ -4119,9 +4119,9 @@ If a creature is holding or wearing the object and takes the damage from it, the
 [Chauffer le métal]: spells_hd.md#chauffer-le-métal
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Hellish Rebuke<!--/Name-->
 
@@ -4143,9 +4143,9 @@ You point your finger, and the creature that damaged you is momentarily surround
 [Représailles infernales]: spells_hd.md#représailles-infernales
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Heroes' Feast<!--/Name-->
 
@@ -4167,9 +4167,9 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 [Festin des héros]: spells_hd.md#festin-des-héros
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Heroism<!--/Name-->
 
@@ -4191,9 +4191,9 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 [Héroïsme]: spells_hd.md#héroïsme
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Hold Monster<!--/Name-->
 
@@ -4215,9 +4215,9 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 [Immobiliser un monstre]: spells_hd.md#immobiliser-un-monstre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Hold Person<!--/Name-->
 
@@ -4239,9 +4239,9 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 [Immobiliser un humanoïde]: spells_hd.md#immobiliser-un-humanoïde
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Holy Aura<!--/Name-->
 
@@ -4261,9 +4261,9 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 [Aura sacrée]: spells_hd.md#aura-sacrée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Hunter's Mark<!--/Name-->
 
@@ -4285,9 +4285,9 @@ You choose a creature you can see within range and mystically mark it as your qu
 [Marque du chasseur]: spells_hd.md#marque-du-chasseur
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Hypnotic Pattern<!--/Name-->
 
@@ -4307,9 +4307,9 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 [Motif hypnotique]: spells_hd.md#motif-hypnotique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Ice Storm<!--/Name-->
 
@@ -4333,9 +4333,9 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 [Tempête de grêle]: spells_hd.md#tempête-de-grêle
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Identify<!--/Name-->
 
@@ -4357,9 +4357,9 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 [Identification]: spells_hd.md#identification
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Illusory Script<!--/Name-->
 
@@ -4385,9 +4385,9 @@ A creature with truesight can read the hidden message.
 [Texte illusoire]: spells_hd.md#texte-illusoire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Imprisonment<!--/Name-->
 
@@ -4435,9 +4435,9 @@ You can use a particular special component to create only one prison at a time. 
 [Emprisonnement]: spells_hd.md#emprisonnement
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Incendiary Cloud<!--/Name-->
 
@@ -4461,9 +4461,9 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 [Nuage incendiaire]: spells_hd.md#nuage-incendiaire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Inflict Wounds<!--/Name-->
 
@@ -4485,9 +4485,9 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 [Blessure]: spells_hd.md#blessure
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Insect Plague<!--/Name-->
 
@@ -4511,9 +4511,9 @@ When the area appears, each creature in it must make a Constitution saving throw
 [Fléau d'insectes]: spells_hd.md#fléau-dinsectes
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Invisibility<!--/Name-->
 
@@ -4535,9 +4535,9 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 [Invisibilité]: spells_hd.md#invisibilité
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Jump<!--/Name-->
 
@@ -4557,9 +4557,9 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 [Saut]: spells_hd.md#saut
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Knock<!--/Name-->
 
@@ -4585,9 +4585,9 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 [Déblocage]: spells_hd.md#déblocage
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Legend Lore<!--/Name-->
 
@@ -4609,9 +4609,9 @@ The information you learn is accurate but might be couched in figurative languag
 [Légende]: spells_hd.md#légende
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Secret Chest<!--/Name-->
 
@@ -4635,9 +4635,9 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 [Coffre secret]: spells_hd.md#coffre-secret
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Tiny Hut<!--/Name-->
 
@@ -4661,9 +4661,9 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 [Petite hutte]: spells_hd.md#petite-hutte
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Lesser Restoration<!--/Name-->
 
@@ -4683,9 +4683,9 @@ You touch a creature and can end either one disease or one condition afflicting 
 [Restauration inférieure]: spells_hd.md#restauration-inférieure
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Levitate<!--/Name-->
 
@@ -4709,9 +4709,9 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 [Lévitation]: spells_hd.md#lévitation
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Light<!--/Name-->
 
@@ -4733,9 +4733,9 @@ If you target an object held or worn by a hostile creature, that creature must s
 [Lumière]: spells_hd.md#lumière
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Lightning Bolt<!--/Name-->
 
@@ -4759,9 +4759,9 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 [Éclair]: spells_hd.md#Éclair
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Locate Animals or Plants<!--/Name-->
 
@@ -4781,9 +4781,9 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 [Localiser des animaux ou des plantes]: spells_hd.md#localiser-des-animaux-ou-des-plantes
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Locate Creature<!--/Name-->
 
@@ -4807,9 +4807,9 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 [Localiser une créature]: spells_hd.md#localiser-une-créature
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Locate Object<!--/Name-->
 
@@ -4833,9 +4833,9 @@ This spell can't locate an object if any thickness of lead, even a thin sheet, b
 [Localiser un objet]: spells_hd.md#localiser-un-objet
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Longstrider<!--/Name-->
 
@@ -4857,9 +4857,9 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 [Grande foulée]: spells_hd.md#grande-foulée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mage Armor<!--/Name-->
 
@@ -4879,9 +4879,9 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 [Armure du mage]: spells_hd.md#armure-du-mage
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mage Hand<!--/Name-->
 
@@ -4905,9 +4905,9 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 [Main du mage]: spells_hd.md#main-du-mage
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Magic Circle<!--/Name-->
 
@@ -4939,9 +4939,9 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 [Cercle magique]: spells_hd.md#cercle-magique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Magic Jar<!--/Name-->
 
@@ -4973,9 +4973,9 @@ When the spell ends, the container is destroyed.
 [Possession]: spells_hd.md#possession
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Magic Missile<!--/Name-->
 
@@ -4997,9 +4997,9 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 [Projectile magique]: spells_hd.md#projectile-magique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Magic Mouth<!--/Name-->
 
@@ -5023,9 +5023,9 @@ The triggering circumstance can be as general or as detailed as you like, though
 [Bouche magique]: spells_hd.md#bouche-magique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Magic Weapon<!--/Name-->
 
@@ -5047,9 +5047,9 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 [Arme magique]: spells_hd.md#arme-magique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Major Image<!--/Name-->
 
@@ -5075,9 +5075,9 @@ Physical interaction with the image reveals it to be an illusion, because things
 [Image majeure]: spells_hd.md#image-majeure
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mass Cure Wounds<!--/Name-->
 
@@ -5099,9 +5099,9 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 [Soin des blessures de groupe]: spells_hd.md#soin-des-blessures-de-groupe
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mass Heal<!--/Name-->
 
@@ -5121,9 +5121,9 @@ A flood of healing energy flows from you into injured creatures around you. You 
 [Guérison de groupe]: spells_hd.md#guérison-de-groupe
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mass Healing Word<!--/Name-->
 
@@ -5145,9 +5145,9 @@ As you call out words of restoration, up to six creatures of your choice that yo
 [Mot de guérison de groupe]: spells_hd.md#mot-de-guérison-de-groupe
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mass Suggestion<!--/Name-->
 
@@ -5175,9 +5175,9 @@ If you or any of your companions damage a creature affected by this spell, the s
 [Suggestion de groupe]: spells_hd.md#suggestion-de-groupe
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Maze<!--/Name-->
 
@@ -5201,9 +5201,9 @@ When the spell ends, the target reappears in the space it left or, if that space
 [Labyrinthe]: spells_hd.md#labyrinthe
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Meld into Stone<!--/Name-->
 
@@ -5227,9 +5227,9 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 [Fusion dans la pierre]: spells_hd.md#fusion-dans-la-pierre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Acid Arrow<!--/Name-->
 
@@ -5251,9 +5251,9 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 [Flèche acide]: spells_hd.md#flèche-acide
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mending<!--/Name-->
 
@@ -5273,9 +5273,9 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 [Réparation]: spells_hd.md#réparation
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Message<!--/Name-->
 
@@ -5297,9 +5297,9 @@ You can cast this spell through solid objects if you re familiar with the target
 [Message]: spells_hd.md#message
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Meteor Swarm<!--/Name-->
 
@@ -5321,9 +5321,9 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 [Nuée de météores]: spells_hd.md#nuée-de-météores
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mind Blank<!--/Name-->
 
@@ -5343,9 +5343,9 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 [Esprit impénétrable]: spells_hd.md#esprit-impénétrable
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Minor Illusion<!--/Name-->
 
@@ -5371,9 +5371,9 @@ If a creature uses its action to examine the sound or image, the creature can de
 [Illusion mineure]: spells_hd.md#illusion-mineure
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mirage Arcane<!--/Name-->
 
@@ -5399,9 +5399,9 @@ Creatures with truesight can see through the illusion to the terrain's true form
 [Mirage]: spells_hd.md#mirage
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mirror Image<!--/Name-->
 
@@ -5429,9 +5429,9 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 [Image miroir]: spells_hd.md#image-miroir
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Mislead<!--/Name-->
 
@@ -5455,9 +5455,9 @@ You can see through its eyes and hear through its ears as if you were located wh
 [Tromperie]: spells_hd.md#tromperie
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Misty Step<!--/Name-->
 
@@ -5477,9 +5477,9 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 [Pas brumeux]: spells_hd.md#pas-brumeux
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Modify Memory<!--/Name-->
 
@@ -5509,9 +5509,9 @@ A _[remove curse]_ or _[greater restoration]_ spell cast on the target restores 
 [Modification de mémoire]: spells_hd.md#modification-de-mémoire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Moonbeam<!--/Name-->
 
@@ -5539,9 +5539,9 @@ On each of your turns after you cast this spell, you can use an action to move t
 [Rayon de lune]: spells_hd.md#rayon-de-lune
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Faithful Hound<!--/Name-->
 
@@ -5565,9 +5565,9 @@ At the start of each of your turns, the hound attempts to bite one creature with
 [Chien de garde]: spells_hd.md#chien-de-garde
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Magnificent Mansion<!--/Name-->
 
@@ -5591,9 +5591,9 @@ You can create any floor plan you like, but the space can't exceed 50 cubes, eac
 [Manoir somptueux]: spells_hd.md#manoir-somptueux
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Private Sanctum<!--/Name-->
 
@@ -5631,9 +5631,9 @@ Casting this spell on the same spot every day for a year makes this effect perma
 [Sanctuaire privé]: spells_hd.md#sanctuaire-privé
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Arcane Sword<!--/Name-->
 
@@ -5655,9 +5655,9 @@ When the sword appears, you make a melee spell attack against a target of your c
 [Épée magique]: spells_hd.md#Épée-magique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Move Earth<!--/Name-->
 
@@ -5685,9 +5685,9 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 [Déplacer la terre]: spells_hd.md#déplacer-la-terre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Nondetection<!--/Name-->
 
@@ -5707,9 +5707,9 @@ For the duration, you hide a target that you touch from divination magic. The ta
 [Non-détection]: spells_hd.md#non-détection
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Arcanist's Magic Aura<!--/Name-->
 
@@ -5735,9 +5735,9 @@ When you cast the spell, choose one or both of the following effects. The effect
 [Aura magique de l'arcaniste]: spells_hd.md#aura-magique-de-larcaniste
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Freezing Sphere<!--/Name-->
 
@@ -5763,9 +5763,9 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 [Sphère glacée]: spells_hd.md#sphère-glacée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Resilient Sphere<!--/Name-->
 
@@ -5791,9 +5791,9 @@ A _[disintegrate]_ spell targeting the globe destroys it without harming anythin
 [Sphère résiliente]: spells_hd.md#sphère-résiliente
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Irresistible Dance<!--/Name-->
 
@@ -5815,9 +5815,9 @@ A dancing creature must use all its movement to dance without leaving its space 
 [Danse irrésistible]: spells_hd.md#danse-irrésistible
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Pass without Trace<!--/Name-->
 
@@ -5837,9 +5837,9 @@ A veil of shadows and silence radiates from you, masking you and your companions
 [Passage sans trace]: spells_hd.md#passage-sans-trace
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Passwall<!--/Name-->
 
@@ -5861,9 +5861,9 @@ When the opening disappears, any creatures or objects still in the passage creat
 [Passe-muraille]: spells_hd.md#passe-muraille
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Phantasmal Killer<!--/Name-->
 
@@ -5885,9 +5885,9 @@ You tap into the nightmares of a creature you can see within range and create an
 [Assassin imaginaire]: spells_hd.md#assassin-imaginaire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Phantom Steed<!--/Name-->
 
@@ -5909,9 +5909,9 @@ For the duration, you or a creature you choose can ride the steed. The creature 
 [Monture fantôme]: spells_hd.md#monture-fantôme
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Planar Ally<!--/Name-->
 
@@ -5943,9 +5943,9 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 [Allié planaire]: spells_hd.md#allié-planaire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Planar Binding<!--/Name-->
 
@@ -5969,9 +5969,9 @@ A bound creature must follow your instructions to the best of its ability. You m
 [Entrave planaire]: spells_hd.md#entrave-planaire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Plane Shift<!--/Name-->
 
@@ -5995,9 +5995,9 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 [Changement de plan]: spells_hd.md#changement-de-plan
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Plant Growth<!--/Name-->
 
@@ -6023,9 +6023,9 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 [Croissance végétale]: spells_hd.md#croissance-végétale
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Poison Spray<!--/Name-->
 
@@ -6047,9 +6047,9 @@ This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th leve
 [Bouffée de poison]: spells_hd.md#bouffée-de-poison
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Polymorph<!--/Name-->
 
@@ -6077,9 +6077,9 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 [Métamorphose]: spells_hd.md#métamorphose
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Power Word Kill<!--/Name-->
 
@@ -6099,9 +6099,9 @@ You utter a word of power that can compel one creature you can see within range 
 [Mot de pouvoir mortel]: spells_hd.md#mot-de-pouvoir-mortel
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Power Word Stun<!--/Name-->
 
@@ -6123,9 +6123,9 @@ The stunned target must make a Constitution saving throw at the end of each of i
 [Mot de pouvoir étourdissant]: spells_hd.md#mot-de-pouvoir-étourdissant
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Prayer of Healing<!--/Name-->
 
@@ -6147,9 +6147,9 @@ Up to six creatures of your choice that you can see within range each regain hit
 [Prière de soins]: spells_hd.md#prière-de-soins
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Prestidigitation<!--/Name-->
 
@@ -6183,9 +6183,9 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 [Prestidigitation]: spells_hd.md#prestidigitation
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Prismatic Spray<!--/Name-->
 
@@ -6221,9 +6221,9 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 [Embruns prismatiques]: spells_hd.md#embruns-prismatiques
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Prismatic Wall<!--/Name-->
 
@@ -6265,9 +6265,9 @@ While this layer is in place, spells can't be cast through the wall. The layer i
 [Mur prismatique]: spells_hd.md#mur-prismatique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Produce Flame<!--/Name-->
 
@@ -6291,9 +6291,9 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 [Produire une flamme]: spells_hd.md#produire-une-flamme
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Programmed Illusion<!--/Name-->
 
@@ -6319,9 +6319,9 @@ Physical interaction with the image reveals it to be an illusion, because things
 [Illusion programmée]: spells_hd.md#illusion-programmée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Project Image<!--/Name-->
 
@@ -6347,9 +6347,9 @@ Physical interaction with the image reveals it to be an illusion, because things
 [Image projetée]: spells_hd.md#image-projetée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Protection from Energy<!--/Name-->
 
@@ -6369,9 +6369,9 @@ For the duration, the willing creature you touch has resistance to one damage ty
 [Protection contre les énergies]: spells_hd.md#protection-contre-les-énergies
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Protection from Evil and Good<!--/Name-->
 
@@ -6393,9 +6393,9 @@ The protection grants several benefits. Creatures of those types have disadvanta
 [Protection contre le mal et le bien]: spells_hd.md#protection-contre-le-mal-et-le-bien
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Protection from Poison<!--/Name-->
 
@@ -6417,9 +6417,9 @@ For the duration, the target has advantage on saving throws against being poison
 [Protection contre le poison]: spells_hd.md#protection-contre-le-poison
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Purify Food and Drink<!--/Name-->
 
@@ -6439,9 +6439,9 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 [Purification de la nourriture et de l'eau]: spells_hd.md#purification-de-la-nourriture-et-de-leau
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Raise Dead<!--/Name-->
 
@@ -6467,9 +6467,9 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to all att
 [Rappel à la vie]: spells_hd.md#rappel-à-la-vie
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Telepathic Bond<!--/Name-->
 
@@ -6491,9 +6491,9 @@ Until the spell ends, the targets can communicate telepathically through the bon
 [Lien télépathique]: spells_hd.md#lien-télépathique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Ray of Enfeeblement<!--/Name-->
 
@@ -6515,9 +6515,9 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 [Rayon affaiblissant]: spells_hd.md#rayon-affaiblissant
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Ray of Frost<!--/Name-->
 
@@ -6539,9 +6539,9 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 [Rayon de givre]: spells_hd.md#rayon-de-givre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Regenerate<!--/Name-->
 
@@ -6563,9 +6563,9 @@ The target's severed body members (fingers, legs, tails, and so on), if any, are
 [Régénération]: spells_hd.md#régénération
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Reincarnate<!--/Name-->
 
@@ -6608,9 +6608,9 @@ The reincarnated creature recalls its former life and experiences. It retains th
 [Réincarnation]: spells_hd.md#réincarnation
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Remove Curse<!--/Name-->
 
@@ -6630,9 +6630,9 @@ At your touch, all curses affecting one creature or object end. If the object is
 [Lever une malédiction]: spells_hd.md#lever-une-malédiction
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Resistance<!--/Name-->
 
@@ -6652,9 +6652,9 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 [Résistance]: spells_hd.md#résistance
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Resurrection<!--/Name-->
 
@@ -6682,9 +6682,9 @@ Casting this spell to restore life to a creature that has been dead for one year
 [Résurrection]: spells_hd.md#résurrection
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Reverse Gravity<!--/Name-->
 
@@ -6708,9 +6708,9 @@ At the end of the duration, affected objects and creatures fall back down.
 [Inversion de la gravité]: spells_hd.md#inversion-de-la-gravité
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Revivify<!--/Name-->
 
@@ -6730,9 +6730,9 @@ You touch a creature that has died within the last minute. That creature returns
 [Revigorer]: spells_hd.md#revigorer
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Rope Trick<!--/Name-->
 
@@ -6758,9 +6758,9 @@ Anything inside the extradimensional space drops out when the spell ends.
 [Corde enchantée]: spells_hd.md#corde-enchantée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Sacred Flame<!--/Name-->
 
@@ -6782,9 +6782,9 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 [Flamme sacrée]: spells_hd.md#flamme-sacrée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Sanctuary<!--/Name-->
 
@@ -6806,9 +6806,9 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 [Sanctuaire]: spells_hd.md#sanctuaire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Scorching Ray<!--/Name-->
 
@@ -6832,9 +6832,9 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 [Rayon ardent]: spells_hd.md#rayon-ardent
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Scrying<!--/Name-->
 
@@ -6868,9 +6868,9 @@ On a successful save, the target isn't affected, and you can't use this spell ag
 [Scrutation]: spells_hd.md#scrutation
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->See Invisibility<!--/Name-->
 
@@ -6890,9 +6890,9 @@ For the duration, you see invisible creatures and objects as if they were visibl
 [Voir l'invisible]: spells_hd.md#voir-linvisible
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Seeming<!--/Name-->
 
@@ -6918,9 +6918,9 @@ A creature can use its action to inspect a target and make an Intelligence (Inve
 [Apparence trompeuse]: spells_hd.md#apparence-trompeuse
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Sending<!--/Name-->
 
@@ -6942,9 +6942,9 @@ You can send the message across any distance and even to other planes of existen
 [Envoi de message]: spells_hd.md#envoi-de-message
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Sequester<!--/Name-->
 
@@ -6968,9 +6968,9 @@ You can set a condition for the spell to end early. The condition can be anythin
 [Séquestration]: spells_hd.md#séquestration
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Shapechange<!--/Name-->
 
@@ -7000,9 +7000,9 @@ During this spell's duration, you can use your action to assume a different form
 [Changement de forme]: spells_hd.md#changement-de-forme
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Shatter<!--/Name-->
 
@@ -7026,9 +7026,9 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 [Briser]: spells_hd.md#briser
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Shield<!--/Name-->
 
@@ -7048,9 +7048,9 @@ An invisible barrier of magical force appears and protects you. Until the start 
 [Bouclier]: spells_hd.md#bouclier
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Shield of Faith<!--/Name-->
 
@@ -7070,9 +7070,9 @@ A shimmering field appears and surrounds a creature of your choice within range,
 [Bouclier de la foi]: spells_hd.md#bouclier-de-la-foi
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Shillelagh<!--/Name-->
 
@@ -7092,9 +7092,9 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 [Gourdin magique]: spells_hd.md#gourdin-magique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Shocking Grasp<!--/Name-->
 
@@ -7116,9 +7116,9 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 [Poigne électrique]: spells_hd.md#poigne-électrique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Silence<!--/Name-->
 
@@ -7140,9 +7140,9 @@ Casting a spell that includes a verbal component is impossible there.
 [Silence]: spells_hd.md#silence
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Silent Image<!--/Name-->
 
@@ -7166,9 +7166,9 @@ Physical interaction with the image reveals it to be an illusion, because things
 [Image silencieuse]: spells_hd.md#image-silencieuse
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Simulacrum<!--/Name-->
 
@@ -7194,9 +7194,9 @@ If you cast this spell again, any currently active duplicates you created with t
 [Simulacre]: spells_hd.md#simulacre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Sleep<!--/Name-->
 
@@ -7222,9 +7222,9 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 [Sommeil]: spells_hd.md#sommeil
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Sleet Storm<!--/Name-->
 
@@ -7248,9 +7248,9 @@ If a creature is concentrating in the spell's area, the creature must make a suc
 [Tempête de neige]: spells_hd.md#tempête-de-neige
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Slow<!--/Name-->
 
@@ -7276,9 +7276,9 @@ A creature affected by this spell makes another Wisdom saving throw at the end o
 [Lenteur]: spells_hd.md#lenteur
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Spare the Dying<!--/Name-->
 
@@ -7298,9 +7298,9 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 [Épargner les mourants]: spells_hd.md#Épargner-les-mourants
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Speak with Animals<!--/Name-->
 
@@ -7320,9 +7320,9 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 [Communication avec les animaux]: spells_hd.md#communication-avec-les-animaux
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Speak with Dead<!--/Name-->
 
@@ -7344,9 +7344,9 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 [Communication avec les morts]: spells_hd.md#communication-avec-les-morts
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Speak with Plants<!--/Name-->
 
@@ -7374,9 +7374,9 @@ This spell can cause the plants created by the _[entangle]_ spell to release a r
 [Communication avec les plantes]: spells_hd.md#communication-avec-les-plantes
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Spider Climb<!--/Name-->
 
@@ -7396,9 +7396,9 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 [Pattes d'araignée]: spells_hd.md#pattes-daraignée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Spike Growth<!--/Name-->
 
@@ -7420,9 +7420,9 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 [Croissance d'épines]: spells_hd.md#croissance-dépines
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Spirit Guardians<!--/Name-->
 
@@ -7446,9 +7446,9 @@ When you cast this spell, you can designate any number of creatures you can see 
 [Esprits gardiens]: spells_hd.md#esprits-gardiens
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Spiritual Weapon<!--/Name-->
 
@@ -7474,9 +7474,9 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 [Arme spirituelle]: spells_hd.md#arme-spirituelle
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Stinking Cloud<!--/Name-->
 
@@ -7500,9 +7500,9 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 [Nuage puant]: spells_hd.md#nuage-puant
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Stone Shape<!--/Name-->
 
@@ -7522,9 +7522,9 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 [Façonnage de la pierre]: spells_hd.md#façonnage-de-la-pierre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Stoneskin<!--/Name-->
 
@@ -7544,9 +7544,9 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 [Peau de pierre]: spells_hd.md#peau-de-pierre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Storm of Vengeance<!--/Name-->
 
@@ -7576,9 +7576,9 @@ Each round you maintain concentration on this spell, the storm produces addition
 [Tempête vengeresse]: spells_hd.md#tempête-vengeresse
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Suggestion<!--/Name-->
 
@@ -7604,9 +7604,9 @@ If you or any of your companions damage the target, the spell ends.
 [Suggestion]: spells_hd.md#suggestion
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Sunbeam<!--/Name-->
 
@@ -7630,9 +7630,9 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 [Rayon de soleil]: spells_hd.md#rayon-de-soleil
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Sunburst<!--/Name-->
 
@@ -7656,9 +7656,9 @@ This spell dispels any darkness in its area that was created by a spell.
 [Éclat du soleil]: spells_hd.md#Éclat-du-soleil
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Symbol<!--/Name-->
 
@@ -7702,9 +7702,9 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 [Symbole]: spells_hd.md#symbole
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Hideous Laughter<!--/Name-->
 
@@ -7726,9 +7726,9 @@ At the end of each of its turns, and each time it takes damage, the target can m
 [Fou rire]: spells_hd.md#fou-rire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Telekinesis<!--/Name-->
 
@@ -7754,9 +7754,9 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 [Télékinésie]: spells_hd.md#télékinésie
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Teleport<!--/Name-->
 
@@ -7810,9 +7810,9 @@ The destination you choose must be known to you, and it must be on the same plan
 [Téléportation]: spells_hd.md#téléportation
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Teleportation Circle<!--/Name-->
 
@@ -7836,9 +7836,9 @@ You can create a permanent teleportation circle by casting this spell in the sam
 [Cercle de téléportation]: spells_hd.md#cercle-de-téléportation
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Floating Disk<!--/Name-->
 
@@ -7862,9 +7862,9 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 [Disque flottant]: spells_hd.md#disque-flottant
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Thaumaturgy<!--/Name-->
 
@@ -7898,9 +7898,9 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 [Thaumaturgie]: spells_hd.md#thaumaturgie
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Thunderwave<!--/Name-->
 
@@ -7924,9 +7924,9 @@ In addition, unsecured objects that are completely within the area of effect are
 [Vague tonnante]: spells_hd.md#vague-tonnante
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Time Stop<!--/Name-->
 
@@ -7948,9 +7948,9 @@ This spell ends if one of the actions you use during this period, or any effects
 [Arrêt du temps]: spells_hd.md#arrêt-du-temps
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Tongues<!--/Name-->
 
@@ -7970,9 +7970,9 @@ This spell grants the creature you touch the ability to understand any spoken la
 [Langues]: spells_hd.md#langues
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Transport via Plants<!--/Name-->
 
@@ -7992,9 +7992,9 @@ This spell creates a magical link between a Large or larger inanimate plant with
 [Transport végétal]: spells_hd.md#transport-végétal
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Tree Stride<!--/Name-->
 
@@ -8016,9 +8016,9 @@ You can use this transportation ability once per round for the duration. You mus
 [Passage par les arbres]: spells_hd.md#passage-par-les-arbres
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->True Polymorph<!--/Name-->
 
@@ -8054,9 +8054,9 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 [Métamorphose suprême]: spells_hd.md#métamorphose-suprême
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->True Resurrection<!--/Name-->
 
@@ -8080,9 +8080,9 @@ The spell can even provide a new body if the original no longer exists, in which
 [Résurrection suprême]: spells_hd.md#résurrection-suprême
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->True Seeing<!--/Name-->
 
@@ -8102,9 +8102,9 @@ This spell gives the willing creature you touch the ability to see things as the
 [Vision suprême]: spells_hd.md#vision-suprême
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->True Strike<!--/Name-->
 
@@ -8124,9 +8124,9 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 [Viser juste]: spells_hd.md#viser-juste
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Unseen Servant<!--/Name-->
 
@@ -8150,9 +8150,9 @@ If you command the servant to perform a task that would move it more than 60 fee
 [Serviteur invisible]: spells_hd.md#serviteur-invisible
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Vampiric Touch<!--/Name-->
 
@@ -8174,9 +8174,9 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 [Caresse du vampire]: spells_hd.md#caresse-du-vampire
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Vicious Mockery<!--/Name-->
 
@@ -8198,9 +8198,9 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 [Moquerie cruelle]: spells_hd.md#moquerie-cruelle
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Wall of Fire<!--/Name-->
 
@@ -8228,9 +8228,9 @@ The other side of the wall deals no damage.
 [Mur de feu]: spells_hd.md#mur-de-feu
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Wall of Force<!--/Name-->
 
@@ -8252,9 +8252,9 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 [Mur de force]: spells_hd.md#mur-de-force
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Wall of Ice<!--/Name-->
 
@@ -8280,9 +8280,9 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 [Mur de glace]: spells_hd.md#mur-de-glace
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Wall of Stone<!--/Name-->
 
@@ -8312,9 +8312,9 @@ If you maintain your concentration on this spell for its whole duration, the wal
 [Mur de pierre]: spells_hd.md#mur-de-pierre
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Wall of Thorns<!--/Name-->
 
@@ -8340,9 +8340,9 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 [Mur d'épines]: spells_hd.md#mur-dépines
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Warding Bond<!--/Name-->
 
@@ -8364,9 +8364,9 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 [Lien de protection]: spells_hd.md#lien-de-protection
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Water Breathing<!--/Name-->
 
@@ -8386,9 +8386,9 @@ This spell grants up to ten willing creatures you can see within range the abili
 [Respiration aquatique]: spells_hd.md#respiration-aquatique
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Water Walk<!--/Name-->
 
@@ -8410,9 +8410,9 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 [Marche sur l'eau]: spells_hd.md#marche-sur-leau
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Web<!--/Name-->
 
@@ -8440,9 +8440,9 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 [Toile d'araignée]: spells_hd.md#toile-daraignée
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Weird<!--/Name-->
 
@@ -8462,9 +8462,9 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 [Étrangeté]: spells_hd.md#Étrangeté
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Wind Walk<!--/Name-->
 
@@ -8486,9 +8486,9 @@ If a creature is in cloud form and flying when the effect ends, the creature des
 [Marche sur le vent]: spells_hd.md#marche-sur-le-vent
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Wind Wall<!--/Name-->
 
@@ -8512,9 +8512,9 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 [Mur de vent]: spells_hd.md#mur-de-vent
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Wish<!--/Name-->
 
@@ -8552,9 +8552,9 @@ The stress of casting this spell to produce any effect other than duplicating an
 [Souhait]: spells_hd.md#souhait
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Word of Recall<!--/Name-->
 
@@ -8576,9 +8576,9 @@ You must designate a sanctuary by casting this spell within a location, such as 
 [Mot de retour]: spells_hd.md#mot-de-retour
 
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--SpellVO-->
+<!--Spell Family="SpellVO"-->
 
 # <!--Name-->Zone of Truth<!--/Name-->
 
@@ -8599,9 +8599,9 @@ An affected creature is aware of the spell and can thus avoid answering question
 
 [Zone de vérité]: spells_hd.md#zone-de-vérité
 
-<!--/SpellVO-->
+<!--/Spell-->
 
-<!--/SpellsVO-->
+<!--/Spells-->
 
 [antimagic field]: spells_vo.hd#antimagic-field
 [arcane lock]: spells_vo.hd#arcane-lock

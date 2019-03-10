@@ -5,7 +5,6 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Input;
-using static AideDeJeu.ViewModels.StoreViewModel;
 
 namespace AideDeJeu.ViewModels
 {
@@ -178,7 +177,7 @@ namespace AideDeJeu.ViewModels
 
 
     #region Spells
-    public abstract class SpellFilterViewModel : FilterViewModel
+    public class SpellFilterViewModel : FilterViewModel
     {
         private IEnumerable<Filter> _Filters = null;
         public override IEnumerable<Filter> Filters
@@ -191,7 +190,7 @@ namespace AideDeJeu.ViewModels
                     {
                         new Filter() { Key = FilterKeys.Class, Name = "Classe", KeyValues = Classes, _Index = 0 },
                         new Filter() { Key = FilterKeys.MinLevel, Name = "Niveau Minimum", KeyValues = Niveaux, _Index = 0 },
-                        new Filter() { Key = FilterKeys.MaxLevel, Name = "Niveau Maximum", KeyValues = Niveaux, _Index = 9 },
+                        new Filter() { Key = FilterKeys.MaxLevel, Name = "Niveau Maximum", KeyValues = Niveaux, _Index = 0 },
                         new Filter() { Key = FilterKeys.School, Name = "École", KeyValues = Ecoles, _Index = 0 },
                         new Filter() { Key = FilterKeys.Ritual, Name = "Rituel", KeyValues = Rituels, _Index = 0 },
                         new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, _Index = 0 },
@@ -199,6 +198,68 @@ namespace AideDeJeu.ViewModels
                     RegisterFilters();
                 }
                 return _Filters;
+            }
+        }
+
+        public string Family { get; set; }
+        public SpellFilterViewModel(
+            string family,
+            List<KeyValuePair<string, string>> classes,
+            List<KeyValuePair<string, string>> levels,
+            List<KeyValuePair<string, string>> schools,
+            List<KeyValuePair<string, string>> rituals,
+            List<KeyValuePair<string, string>> sources)
+        {
+            this.Family = family;
+            this.Classes = classes;
+            this.Niveaux = levels;
+            this.Ecoles = schools;
+            this.Rituels = rituals;
+            this.Sources = sources;
+        }
+
+        public string LevelConverter(string level)
+        {
+            if (level == "") return null;
+            if (level.StartsWith("Niveau ")) return level.Substring(7);
+            if (level.StartsWith("Level ")) return level.Substring(6);
+            return "0";
+        }
+        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
+        {
+            var levelComparer = new LevelComparer();
+            var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
+            var niveauMin = LevelConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey) ?? "0";
+            var niveauMax = LevelConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey) ?? "9";
+            var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
+            var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
+            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+            try
+            {
+                await StoreViewModel.SemaphoreLibrary.WaitAsync();
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
+                {
+                    return context.Spells.Where(spell =>
+                        spell.Family == this.Family &&
+                        levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
+                        levelComparer.Compare(spell.Level, niveauMax) <= 0 &&
+                        spell.Type.ToLower().Contains(ecole.ToLower()) &&
+                        (spell.Source != null && spell.Source.Contains(source)) &&
+                        (spell.Classes != null && spell.Classes.Contains(classe)) &&
+                        (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
+                        (
+                            (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                            (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                        )).OrderBy(spell => spell.Name).ToList();
+                }
+            }
+            catch
+            {
+                return new List<Item>();
+            }
+            finally
+            {
+                StoreViewModel.SemaphoreLibrary.Release();
             }
         }
 
@@ -234,18 +295,19 @@ namespace AideDeJeu.ViewModels
 
         //}
 
-        public abstract List<KeyValuePair<string, string>> Classes { get; }
+        public List<KeyValuePair<string, string>> Classes { get; }
 
-        public abstract List<KeyValuePair<string, string>> Niveaux { get; }
+        public List<KeyValuePair<string, string>> Niveaux { get; }
 
-        public abstract List<KeyValuePair<string, string>> Ecoles { get; }
+        public List<KeyValuePair<string, string>> Ecoles { get; }
 
-        public abstract List<KeyValuePair<string, string>> Rituels { get; }
+        public List<KeyValuePair<string, string>> Rituels { get; }
 
-        public abstract List<KeyValuePair<string, string>> Sources { get; }
+        public List<KeyValuePair<string, string>> Sources { get; }
 
     }
 
+    /*
     public class VFSpellFilterViewModel : SpellFilterViewModel
     {
         public override Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken cancellationToken = default)
@@ -400,12 +462,33 @@ namespace AideDeJeu.ViewModels
 
     public class HDSpellFilterViewModel : SpellFilterViewModel
     {
+        public HDSpellFilterViewModel(
+            string parent,
+            List<KeyValuePair<string, string>> classes,
+            List<KeyValuePair<string, string>> levels,
+            List<KeyValuePair<string, string>> schools,
+            List<KeyValuePair<string, string>> rituals,
+            List<KeyValuePair<string, string>> sources)
+        {
+            this.Classes = classes;
+            this.Niveaux = levels;
+            this.Ecoles = schools;
+            this.Rituels = rituals;
+            this.Sources = sources;
+        }
+
+        public string LevelConverter(string level)
+        {
+            if (level == "-") return null;
+            if (level.StartsWith("Niveau ")) return level.Substring(7);
+            return "0";
+        }
         public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
             var levelComparer = new LevelComparer();
             var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
-            var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
-            var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
+            var niveauMin = LevelConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey) ?? "0";
+            var niveauMax = LevelConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey) ?? "9";
             var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
             var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
@@ -490,7 +573,7 @@ namespace AideDeJeu.ViewModels
             new KeyValuePair<string, string>("(SRD", "SRD"),
             new KeyValuePair<string, string>("(MDR", "MDR (H&D)"),
         };
-    }
+    }*/
     #endregion Spells
 
     #region Monsters

@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 7
 Type: Évocation
 CastingTime: 1 action

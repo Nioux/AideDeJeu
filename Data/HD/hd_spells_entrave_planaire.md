@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 5
 Type: Abjuration
 CastingTime: 1 heure

@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 5
 Type: Divination
 CastingTime: 10 minutes

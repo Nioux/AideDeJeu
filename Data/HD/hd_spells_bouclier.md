@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 1
 Type: Abjuration
 CastingTime: 1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de _[projectile magique](hd_spells_projectile_magique.md)_

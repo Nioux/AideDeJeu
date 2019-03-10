@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: cantrip
 Type: Conjuration
 CastingTime: 1 action

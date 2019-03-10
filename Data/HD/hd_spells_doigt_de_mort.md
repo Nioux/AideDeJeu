@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 7
 Type: Nécromancie
 CastingTime: 1 action

@@ -1,7 +1,9 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 1
 Type: Transmutation
+Ritual: rituel
 CastingTime: 1 action
 Range: 3 mètres
 Components: V, S
@@ -24,7 +26,7 @@ Attributes: {}
 
 - SRD: [Purify Food and Drink](srd_spells_purify_food_and_drink.md)
 
--  Transmutation de niveau 1
+-  Transmutation de niveau 1 (rituel)
 
 - **Temps d'incantation :** 1 action
 

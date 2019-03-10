@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 4
 Type: Évocation
 CastingTime: 1 action bonus

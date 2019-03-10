@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 2
 Type: Nécromancie
 Ritual: rituel

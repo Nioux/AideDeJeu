@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 6
 Type: evocation
 CastingTime: 10 minutes

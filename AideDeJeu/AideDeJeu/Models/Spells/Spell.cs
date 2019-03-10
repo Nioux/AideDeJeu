@@ -12,6 +12,7 @@ namespace AideDeJeuLib
 {
     public class Spell : Item
     {
+        public string Family { get; set; }
         public string Level { get; set; }
         public string Type { get; set; }
         public string Concentration { get; set; }

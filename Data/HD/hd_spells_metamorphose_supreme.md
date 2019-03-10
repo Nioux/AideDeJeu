@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 9
 Type: Transmutation
 CastingTime: 1 action

@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 1
 Type: transmutation
 CastingTime: 1 bonus action

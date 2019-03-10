@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: cantrip
 Type: Enchantment
 CastingTime: 1 action

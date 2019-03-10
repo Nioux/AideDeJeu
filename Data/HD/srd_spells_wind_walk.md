@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 6
 Type: transmutation
 CastingTime: 1 minute

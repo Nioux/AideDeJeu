@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 5
 Type: divination
 CastingTime: 10 minutes

@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 5
 Type: Évocation
 CastingTime: 24 heures

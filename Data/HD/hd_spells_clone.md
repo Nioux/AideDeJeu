@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 8
 Type: Nécromancie
 CastingTime: 1 heure

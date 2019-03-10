@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: cantrip
 Type: Necromancy
 CastingTime: 1 action

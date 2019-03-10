@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 3
 Type: abjuration
 CastingTime: 1 reaction, which you take when you see a creature within 60 feet of you casting a spell

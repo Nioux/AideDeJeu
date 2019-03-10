@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 7
 Type: abjuration
 CastingTime: 1 minute

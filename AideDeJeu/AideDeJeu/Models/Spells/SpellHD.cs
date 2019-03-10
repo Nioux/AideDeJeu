@@ -10,7 +10,7 @@ using System.Xml.Serialization;
 
 namespace AideDeJeuLib
 {
-    public class SpellHD : Spell
-    {
-    }
+    //public class SpellHD : Spell
+    //{
+    //}
 }

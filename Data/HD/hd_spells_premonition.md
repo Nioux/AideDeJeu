@@ -1,5 +1,6 @@
 ﻿---
-!SpellHD
+!Spell
+Family: SpellHD
 Level: 9
 Type: Divination
 CastingTime: 1 minute

@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 1
 Type: evocation
 CastingTime: 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see

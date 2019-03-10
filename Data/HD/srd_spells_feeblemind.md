@@ -1,5 +1,6 @@
 ﻿---
-!SpellVO
+!Spell
+Family: SpellVO
 Level: 8
 Type: enchantment
 CastingTime: 1 action
