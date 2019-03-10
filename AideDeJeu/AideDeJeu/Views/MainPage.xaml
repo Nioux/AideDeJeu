@@ -3,22 +3,42 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AideDeJeu.Views.MainPage"
              Title="Haches &amp; Dés">
+    <ContentPage.Resources>
+        <StyleSheet>
+            <![CDATA[
+            ^contentpage {
+                background-color: lightgray;
+            }
+            stacklayout label {
+                text-align: center;
+                font-family: arial;
+            }
+            ]]>
+        </StyleSheet>
+    </ContentPage.Resources>
     <ContentPage.Content>
-        <!--<CollectionView ItemsSource="{Binding tralala}">
-            <CollectionView.ItemsLayout>
-                <GridItemsLayout Orientation="Vertical" Span="2" />
-            </CollectionView.ItemsLayout>
-            <CollectionView.ItemTemplate>
-                
-            </CollectionView.ItemTemplate>
-        </CollectionView>-->
         <ScrollView>
             <FlexLayout Wrap="Wrap" AlignContent="Start" AlignItems="Start" Direction="Row" FlowDirection="LeftToRight" JustifyContent="SpaceEvenly">
-                <ImageButton BackgroundColor="White" Padding="30" Source="battle_axe.png" WidthRequest="150" HeightRequest="150" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}"/>
-                <ImageButton BackgroundColor="White" Padding="30" Source="spell_book.png" WidthRequest="150" HeightRequest="150" Command="{Binding Main.Navigator.LibraryCommand}" />
-                <ImageButton BackgroundColor="White" Padding="30" Source="stars_stack.png" WidthRequest="150" HeightRequest="150" Command="{Binding Main.Navigator.BookmarksCommand}" />
-                <ImageButton BackgroundColor="White" Padding="30" Source="crystal_ball.png" WidthRequest="150" HeightRequest="150" Command="{Binding Main.Navigator.DeepSearchCommand}" />
-                <ImageButton BackgroundColor="White" Padding="30" Source="wooden_sign.png" WidthRequest="150" HeightRequest="150" Command="{Binding Main.Navigator.AboutCommand}" />
+                <StackLayout Orientation="Vertical">
+                    <ImageButton BackgroundColor="White" Padding="30" Source="battle_axe.png" WidthRequest="150" HeightRequest="150" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}"/>
+                    <Label Text="Personnages" />
+                </StackLayout>
+                <StackLayout Orientation="Vertical">
+                    <ImageButton BackgroundColor="White" Padding="30" Source="spell_book.png" WidthRequest="150" HeightRequest="150" Command="{Binding Main.Navigator.LibraryCommand}" />
+                    <Label Text="Bibliothèque" />
+                </StackLayout>
+                <StackLayout Orientation="Vertical">
+                    <ImageButton BackgroundColor="White" Padding="30" Source="stars_stack.png" WidthRequest="150" HeightRequest="150" Command="{Binding Main.Navigator.BookmarksCommand}" />
+                    <Label Text="Favoris" />
+                </StackLayout>
+                <StackLayout Orientation="Vertical">
+                    <ImageButton BackgroundColor="White" Padding="30" Source="crystal_ball.png" WidthRequest="150" HeightRequest="150" Command="{Binding Main.Navigator.DeepSearchCommand}" />
+                    <Label Text="Recherche" />
+                </StackLayout>
+                <StackLayout Orientation="Vertical">
+                    <ImageButton BackgroundColor="White" Padding="30" Source="wooden_sign.png" WidthRequest="150" HeightRequest="150" Command="{Binding Main.Navigator.AboutCommand}" />
+                    <Label Text="A propos de..." />
+                </StackLayout>
             </FlexLayout>
         </ScrollView>
     </ContentPage.Content>
