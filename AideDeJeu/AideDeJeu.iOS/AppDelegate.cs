@@ -5,6 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
+[assembly: Preserve(typeof(System.DateTime), AllMembers = true)]
 namespace AideDeJeu.iOS
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the 

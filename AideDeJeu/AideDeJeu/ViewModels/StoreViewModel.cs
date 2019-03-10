@@ -7,6 +7,7 @@ using Markdig.Syntax.Inlines;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Reflection;
 using System.Text;
@@ -519,6 +520,7 @@ namespace AideDeJeu.ViewModels
             }
             catch(Exception ex)
             {
+                Debug.WriteLine(ex.StackTrace);
                 await App.Current.MainPage.DisplayAlert("Lien invalide", ex.Message, "OK");
                 return null;
             }
