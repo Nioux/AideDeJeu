@@ -1,5 +1,5 @@
 
-<!--MonstersVO-->
+<!--MonstersVO Types="Humanoid, Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Monstrosity, Ooze, Plant, Undead" Powers="0 (0 XP), 1/8 (25 XP), 1/4 (50 XP), 1/2 (100 XP), 1 (200 XP), 2 (450 XP), 3 (700 XP), 4 (1100 XP), 5 (1800 XP), 6 (2300 XP), 7 (2900 XP), 8 (3900 XP), 9 (5000 XP), 10 (5900 XP), 11 (7200 XP), 12 (8400 XP), 13 (10000 XP), 14 (11500 XP), 15 (13000 XP), 16 (15000 XP), 17 (18000 XP), 18 (20000 XP), 19 (22000 XP), 20 (25000 XP), 21 (33000 XP), 22 (41000 XP), 23 (50000 XP), 24 (62000 XP), 30 (155000 XP)" Sizes="Tiny, Small, Medium, Large, Huge, Gargantuan" Sources="SRD"-->
 
 > <!--ParentNameLink-->[SRD](index.md)<!--/ParentNameLink-->
 

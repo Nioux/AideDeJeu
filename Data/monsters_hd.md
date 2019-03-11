@@ -1,5 +1,5 @@
 
-<!--MonstersHD-->
+<!--MonstersHD Types="Humanoïde, Aberration, Bête, Céleste, Créature artificielle, Créature monstrueuse, Dragon, Élémentaire, Fée, Fiélon, Géant, Mort-vivant, Plante, Vase" Powers="0 (0 PX), 1/8 (25 PX), 1/4 (50 PX), 1/2 (100 PX), 1 (200 PX), 2 (450 PX), 3 (700 PX), 4 (1100 PX), 5 (1800 PX), 6 (2300 PX), 7 (2900 PX), 8 (3900 PX), 9 (5000 PX), 10 (5900 PX), 11 (7200 PX), 12 (8400 PX), 13 (10000 PX), 14 (11500 PX), 15 (13000 PX), 16 (15000 PX), 17 (18000 PX), 18 (20000 PX), 19 (22000 PX), 20 (25000 PX), 21 (33000 PX), 22 (41000 PX), 23 (50000 PX), 24 (62000 PX), 30 (155000 PX)" Sizes="Très petite, Petite, Moyenne, Grande, Très grande, Gigantesque" Sources="CEO, SRD"-->
 
 > <!--ParentNameLink-->[Créatures et oppositions](index.md)<!--/ParentNameLink-->
 
