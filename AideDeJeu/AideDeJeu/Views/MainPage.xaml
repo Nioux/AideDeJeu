@@ -18,52 +18,42 @@
             grid label {
                 text-align: center;
                 font-family: LinuxLibertineCapitalsBold;
+                -xf-vertical-text-alignment: end;
+                vertical-align: end;
+            }
+            flexlayout {
+                flex-wrap: wrap;
+                align-content: start;
+                align-items: start;
+                flex-direction: row;
+                direction: ltr;
+                justify-content: spaceevenly;
             }
             ]]>
         </StyleSheet>
     </ContentPage.Resources>
     <ContentPage.Content>
         <ScrollView>
-            <FlexLayout Wrap="Wrap" AlignContent="Start" AlignItems="Start" Direction="Row" FlowDirection="LeftToRight" JustifyContent="SpaceEvenly">
+            <FlexLayout>
                 <Grid>
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="auto" />
-                    </Grid.RowDefinitions>
-                    <Label Grid.Row="1" Text="Personnages" />
-                    <ImageButton Grid.RowSpan="2" Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}"/>
+                    <Label Text="Personnages" />
+                    <ImageButton Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}"/>
                 </Grid>
                 <Grid>
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="auto" />
-                    </Grid.RowDefinitions>
-                    <Label Grid.Row="1" Text="Bibliothèque" />
-                    <ImageButton Grid.RowSpan="2" Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand}" />
+                    <Label Text="Bibliothèque" />
+                    <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand}" />
                 </Grid>
                 <Grid>
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="auto" />
-                    </Grid.RowDefinitions>
-                    <Label Grid.Row="1" Text="Favoris" />
-                    <ImageButton Grid.RowSpan="2" Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand}" />
+                    <Label Text="Favoris" />
+                    <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand}" />
                 </Grid>
                 <Grid>
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="auto" />
-                    </Grid.RowDefinitions>
-                    <Label Grid.Row="1" Text="Recherche" />
-                    <ImageButton Grid.RowSpan="2" Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
+                    <Label Text="Recherche" />
+                    <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
                 </Grid>
                 <Grid>
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="auto" />
-                    </Grid.RowDefinitions>
-                    <Label Grid.Row="1" Text="A propos de..." />
-                    <ImageButton Grid.RowSpan="2" Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
+                    <Label Text="A propos de..." />
+                    <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
                 </Grid>
             </FlexLayout>
         </ScrollView>
