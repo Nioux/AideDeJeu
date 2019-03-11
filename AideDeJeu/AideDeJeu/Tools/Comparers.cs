@@ -12,7 +12,7 @@ namespace AideDeJeu.Tools
         }
     }
 
-    public class PowerComparer : Comparer<string>
+    public class ChallengeComparer : Comparer<string>
     {
         public override int Compare(string x, string y)
         {

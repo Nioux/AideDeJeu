@@ -88,8 +88,8 @@ namespace AideDeJeu.ViewModels
         Source,
         Category,
         Type,
-        MinPower,
-        MaxPower,
+        MinChallenge,
+        MaxChallenge,
         Size,
         Legendary,
         MinPrice,
@@ -189,10 +189,10 @@ namespace AideDeJeu.ViewModels
                     _Filters = new List<Filter>()
                     {
                         new Filter() { Key = FilterKeys.Class, Name = "Classe", KeyValues = Classes, _Index = 0 },
-                        new Filter() { Key = FilterKeys.MinLevel, Name = "Niveau Minimum", KeyValues = Niveaux, _Index = 0 },
-                        new Filter() { Key = FilterKeys.MaxLevel, Name = "Niveau Maximum", KeyValues = Niveaux, _Index = 0 },
-                        new Filter() { Key = FilterKeys.School, Name = "École", KeyValues = Ecoles, _Index = 0 },
-                        new Filter() { Key = FilterKeys.Ritual, Name = "Rituel", KeyValues = Rituels, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MinLevel, Name = "Niveau Minimum", KeyValues = Levels, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MaxLevel, Name = "Niveau Maximum", KeyValues = Levels, _Index = 0 },
+                        new Filter() { Key = FilterKeys.School, Name = "École", KeyValues = Schools, _Index = 0 },
+                        new Filter() { Key = FilterKeys.Ritual, Name = "Rituel", KeyValues = Rituals, _Index = 0 },
                         new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, _Index = 0 },
                     };
                     RegisterFilters();
@@ -213,9 +213,9 @@ namespace AideDeJeu.ViewModels
         {
             this.Family = family;
             this.Classes = classes;
-            this.Niveaux = levels;
-            this.Ecoles = schools;
-            this.Rituels = rituals;
+            this.Levels = levels;
+            this.Schools = schools;
+            this.Rituals = rituals;
             this.Sources = sources;
         }
 
@@ -230,9 +230,9 @@ namespace AideDeJeu.ViewModels
         {
             var levelComparer = new LevelComparer();
             var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
-            var niveauMin = LevelConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey) ?? "0";
-            var niveauMax = LevelConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey) ?? "9";
-            var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
+            var levelMin = LevelConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey) ?? "0";
+            var levelMax = LevelConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey) ?? "9";
+            var school = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
             var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
             try
@@ -242,9 +242,9 @@ namespace AideDeJeu.ViewModels
                 {
                     return context.Spells.Where(spell =>
                         spell.Family == this.Family &&
-                        levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
-                        levelComparer.Compare(spell.Level, niveauMax) <= 0 &&
-                        spell.Type.ToLower().Contains(ecole.ToLower()) &&
+                        levelComparer.Compare(spell.Level, levelMin) >= 0 &&
+                        levelComparer.Compare(spell.Level, levelMax) <= 0 &&
+                        spell.Type.ToLower().Contains(school.ToLower()) &&
                         (spell.Source != null && spell.Source.Contains(source)) &&
                         (spell.Classes != null && spell.Classes.Contains(classe)) &&
                         (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
@@ -266,11 +266,11 @@ namespace AideDeJeu.ViewModels
         
         public List<KeyValuePair<string, string>> Classes { get; }
 
-        public List<KeyValuePair<string, string>> Niveaux { get; }
+        public List<KeyValuePair<string, string>> Levels { get; }
 
-        public List<KeyValuePair<string, string>> Ecoles { get; }
+        public List<KeyValuePair<string, string>> Schools { get; }
 
-        public List<KeyValuePair<string, string>> Rituels { get; }
+        public List<KeyValuePair<string, string>> Rituals { get; }
 
         public List<KeyValuePair<string, string>> Sources { get; }
 
@@ -292,8 +292,8 @@ namespace AideDeJeu.ViewModels
                     {
                         //new Filter() { Key = FilterKeys.Category, Name = "Catégories", KeyValues = Categories, _Index = 0 },
                         new Filter() { Key = FilterKeys.Type, Name = "Type", KeyValues = Types, _Index = 0 },
-                        new Filter() { Key = FilterKeys.MinPower, Name = "FP Minimum", KeyValues = Powers, _Index = 0 },
-                        new Filter() { Key = FilterKeys.MaxPower, Name = "FP Maximum", KeyValues = Powers, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MinChallenge, Name = "FP Minimum", KeyValues = Challenges, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MaxChallenge, Name = "FP Maximum", KeyValues = Challenges, _Index = 0 },
                         new Filter() { Key = FilterKeys.Size, Name = "Taille", KeyValues = Sizes, _Index = 0 },
                         //new Filter() { Key = FilterKeys.Legendary, Name = "Légendaire", KeyValues = Legendaries, _Index = 0 },
                         new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, _Index = 0 },
@@ -315,7 +315,7 @@ namespace AideDeJeu.ViewModels
         {
             this.Family = family;
             this.Types = types;
-            this.Powers = challenges;
+            this.Challenges = challenges;
             this.Sizes = sizes;
             this.Sources = sources;
         }
@@ -324,7 +324,7 @@ namespace AideDeJeu.ViewModels
 
         public List<KeyValuePair<string, string>> Types { get; }
 
-        public List<KeyValuePair<string, string>> Powers { get; }
+        public List<KeyValuePair<string, string>> Challenges { get; }
 
         public List<KeyValuePair<string, string>> Sizes { get; }
 
@@ -339,11 +339,11 @@ namespace AideDeJeu.ViewModels
         }
         public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
-            var powerComparer = new PowerComparer();
+            var challengeComparer = new ChallengeComparer();
 
             var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-            var minPower = ChallengeConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey) ?? "0 (0 PX)";
-            var maxPower = ChallengeConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey) ?? "30 (155000 PX)";
+            var minChallenge = ChallengeConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinChallenge).SelectedKey) ?? "0 (0 PX)";
+            var maxChallenge = ChallengeConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxChallenge).SelectedKey) ?? "30 (155000 PX)";
             var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
             token.ThrowIfCancellationRequested();
@@ -359,8 +359,8 @@ namespace AideDeJeu.ViewModels
                         monster.Type.Contains(type) &&
                         (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
                         (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
-                        powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
-                        powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
+                        challengeComparer.Compare(monster.Challenge, minChallenge) >= 0 &&
+                        challengeComparer.Compare(monster.Challenge, maxChallenge) <= 0 &&
                         (
                             (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
@@ -379,352 +379,6 @@ namespace AideDeJeu.ViewModels
         }
 
     }
-    /*
-    public class VFMonsterFilterViewModel : MonsterFilterViewModel
-    {
-
-        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
-        {
-            throw new System.Exception();
-        }
-        public override List<KeyValuePair<string, string>> Categories { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes" ),
-            new KeyValuePair<string, string>("M", "Monstres" ),
-            new KeyValuePair<string, string>("A", "Animaux" ),
-            new KeyValuePair<string, string>("P", "PNJ" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Types { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Tous" ),
-            new KeyValuePair<string, string>("Humanoïde", "Humanoïde"),
-            new KeyValuePair<string, string>("Aberration", "Aberration"),
-            new KeyValuePair<string, string>("Bête", "Bête"),
-            new KeyValuePair<string, string>("Céleste", "Céleste"),
-            new KeyValuePair<string, string>("Créature artificielle", "Créature artificielle"),
-            new KeyValuePair<string, string>("Créature monstrueuse", "Créature monstrueuse"),
-            new KeyValuePair<string, string>("Dragon", "Dragon"),
-            new KeyValuePair<string, string>("Élémentaire", "Élémentaire"),
-            new KeyValuePair<string, string>("Fée", "Fée"),
-            new KeyValuePair<string, string>("Fiélon", "Fiélon"),
-            new KeyValuePair<string, string>("Géant", "Géant"),
-            new KeyValuePair<string, string>("Mort-vivant", "Mort-vivant"),
-            new KeyValuePair<string, string>("Plante", "Plante"),
-            new KeyValuePair<string, string>("Vase", "Vase"),
-        };
-
-        public override List<KeyValuePair<string, string>> Powers { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>(" 0 (0 PX)", "0" ),
-            new KeyValuePair<string, string>(" 1/8 (25 PX)", "1/8" ),
-            new KeyValuePair<string, string>(" 1/4 (50 PX)", "1/4" ),
-            new KeyValuePair<string, string>(" 1/2 (100 PX)", "1/2" ),
-            new KeyValuePair<string, string>(" 1 (200 PX)", "1" ),
-            new KeyValuePair<string, string>(" 2 (450 PX)", "2" ),
-            new KeyValuePair<string, string>(" 3 (700 PX)", "3" ),
-            new KeyValuePair<string, string>(" 4 (1100 PX)", "4" ),
-            new KeyValuePair<string, string>(" 5 (1800 PX)", "5" ),
-            new KeyValuePair<string, string>(" 6 (2300 PX)", "6" ),
-            new KeyValuePair<string, string>(" 7 (2900 PX)", "7" ),
-            new KeyValuePair<string, string>(" 8 (3900 PX)", "8" ),
-            new KeyValuePair<string, string>(" 9 (5000 PX)", "9" ),
-            new KeyValuePair<string, string>(" 10 (5900 PX)", "10" ),
-            new KeyValuePair<string, string>(" 11 (7200 PX)", "11" ),
-            new KeyValuePair<string, string>(" 12 (8400 PX)", "12" ),
-            new KeyValuePair<string, string>(" 13 (10000 PX)", "13" ),
-            new KeyValuePair<string, string>(" 14 (11500 PX)", "14" ),
-            new KeyValuePair<string, string>(" 15 (13000 PX)", "15" ),
-            new KeyValuePair<string, string>(" 16 (15000 PX)", "16" ),
-            new KeyValuePair<string, string>(" 17 (18000 PX)", "17" ),
-            new KeyValuePair<string, string>(" 18 (20000 PX)", "18" ),
-            new KeyValuePair<string, string>(" 19 (22000 PX)", "19" ),
-            new KeyValuePair<string, string>(" 20 (25000 PX)", "20" ),
-            new KeyValuePair<string, string>(" 21 (33000 PX)", "21" ),
-            new KeyValuePair<string, string>(" 22 (41000 PX)", "22" ),
-            new KeyValuePair<string, string>(" 23 (50000 PX)", "23" ),
-            new KeyValuePair<string, string>(" 24 (62000 PX)", "24" ),
-            new KeyValuePair<string, string>(" 30 (155000 PX)", "30" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Sizes { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("TP", "Très petite"),
-            new KeyValuePair<string, string>("P", "Petite"),
-            new KeyValuePair<string, string>("M", "Moyenne"),
-            new KeyValuePair<string, string>("G", "Grande"),
-            new KeyValuePair<string, string>("TG", "Très grande"),
-            new KeyValuePair<string, string>("Gig", "Gigantesque"),
-        };
-
-        public override List<KeyValuePair<string, string>> Legendaries { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("si", "Si"),
-            new KeyValuePair<string, string>("no", "Non"),
-        };
-
-        public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("(SRD", "SRD"),
-        };
-    }
-
-    public class VOMonsterFilterViewModel : MonsterFilterViewModel
-    {
-        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
-        {
-            var powerComparer = new PowerComparer();
-
-            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-            var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
-            var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
-            var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
-            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-            token.ThrowIfCancellationRequested();
-
-            try
-            {
-                await StoreViewModel.SemaphoreLibrary.WaitAsync();
-                using (var context = await StoreViewModel.GetLibraryContextAsync())
-                {
-                    return context.MonstersVO.Where(monster =>
-                                            monster != null &&
-                        monster.Type.Contains(type) &&
-                        (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
-                        (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
-                        powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
-                        powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
-                        (
-                            (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )
-                    ).OrderBy(monster => monster.Name).ToList();
-                }
-            }
-            catch
-            {
-                return new List<Item>();
-            }
-            finally
-            {
-                StoreViewModel.SemaphoreLibrary.Release();
-            }
-        }
-
-        public override List<KeyValuePair<string, string>> Categories { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes" ),
-            new KeyValuePair<string, string>("M", "Monstres" ),
-            new KeyValuePair<string, string>("A", "Animaux" ),
-            new KeyValuePair<string, string>("P", "PNJ" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Types { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "All" ),
-            new KeyValuePair<string, string>("humanoid", "Humanoid"),
-            new KeyValuePair<string, string>("aberration", "Aberration"),
-            new KeyValuePair<string, string>("beast", "Beast"),
-            new KeyValuePair<string, string>("celestial", "Celestial"),
-            new KeyValuePair<string, string>("construct", "Construct"),
-            new KeyValuePair<string, string>("dragon", "Dragon"),
-            new KeyValuePair<string, string>("elemental", "Elemental"),
-            new KeyValuePair<string, string>("fey", "Fey"),
-            new KeyValuePair<string, string>("fiend", "Fiend"),
-            new KeyValuePair<string, string>("giant", "Giant"),
-            new KeyValuePair<string, string>("monstrosity", "Monstrosity"),
-            new KeyValuePair<string, string>("ooze", "Ooze"),
-            new KeyValuePair<string, string>("plant", "Plant"),
-            new KeyValuePair<string, string>("undead", "Undead"),
-        };
-
-        public override List<KeyValuePair<string, string>> Powers { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>(" 0 (0 XP)", "0" ),
-            new KeyValuePair<string, string>(" 1/8 (25 XP)", "1/8" ),
-            new KeyValuePair<string, string>(" 1/4 (50 XP)", "1/4" ),
-            new KeyValuePair<string, string>(" 1/2 (100 XP)", "1/2" ),
-            new KeyValuePair<string, string>(" 1 (200 XP)", "1" ),
-            new KeyValuePair<string, string>(" 2 (450 XP)", "2" ),
-            new KeyValuePair<string, string>(" 3 (700 XP)", "3" ),
-            new KeyValuePair<string, string>(" 4 (1100 XP)", "4" ),
-            new KeyValuePair<string, string>(" 5 (1800 XP)", "5" ),
-            new KeyValuePair<string, string>(" 6 (2300 XP)", "6" ),
-            new KeyValuePair<string, string>(" 7 (2900 XP)", "7" ),
-            new KeyValuePair<string, string>(" 8 (3900 XP)", "8" ),
-            new KeyValuePair<string, string>(" 9 (5000 XP)", "9" ),
-            new KeyValuePair<string, string>(" 10 (5900 XP)", "10" ),
-            new KeyValuePair<string, string>(" 11 (7200 XP)", "11" ),
-            new KeyValuePair<string, string>(" 12 (8400 XP)", "12" ),
-            new KeyValuePair<string, string>(" 13 (10000 XP)", "13" ),
-            new KeyValuePair<string, string>(" 14 (11500 XP)", "14" ),
-            new KeyValuePair<string, string>(" 15 (13000 XP)", "15" ),
-            new KeyValuePair<string, string>(" 16 (15000 XP)", "16" ),
-            new KeyValuePair<string, string>(" 17 (18000 XP)", "17" ),
-            new KeyValuePair<string, string>(" 18 (20000 XP)", "18" ),
-            new KeyValuePair<string, string>(" 19 (22000 XP)", "19" ),
-            new KeyValuePair<string, string>(" 20 (25000 XP)", "20" ),
-            new KeyValuePair<string, string>(" 21 (33000 XP)", "21" ),
-            new KeyValuePair<string, string>(" 22 (41000 XP)", "22" ),
-            new KeyValuePair<string, string>(" 23 (50000 XP)", "23" ),
-            new KeyValuePair<string, string>(" 24 (62000 XP)", "24" ),
-            new KeyValuePair<string, string>(" 30 (155000 XP)", "30" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Sizes { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "All"),
-            new KeyValuePair<string, string>("Tiny", "Tiny"),
-            new KeyValuePair<string, string>("Small", "Small"),
-            new KeyValuePair<string, string>("Medium", "Medium"),
-            new KeyValuePair<string, string>("Large", "Large"),
-            new KeyValuePair<string, string>("Huge", "Huge"),
-            new KeyValuePair<string, string>("Gargantuan", "Gargantuan"),
-        };
-
-        public override List<KeyValuePair<string, string>> Legendaries { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "All"),
-            new KeyValuePair<string, string>("si", "Si"),
-            new KeyValuePair<string, string>("no", "Non"),
-        };
-
-        public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "All"),
-            new KeyValuePair<string, string>("(SRD", "SRD"),
-        };
-    }
-
-    public class HDMonsterFilterViewModel : MonsterFilterViewModel
-    {
-        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
-        {
-            var powerComparer = new PowerComparer();
-
-            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-            var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
-            var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
-            var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
-            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-            token.ThrowIfCancellationRequested();
-
-            try
-            {
-                await StoreViewModel.SemaphoreLibrary.WaitAsync();
-                using (var context = await StoreViewModel.GetLibraryContextAsync())
-                {
-                    return context.MonstersHD.Where(monster =>
-                                            monster != null &&
-                        monster.Type.Contains(type) &&
-                        (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
-                        (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
-                        powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
-                        powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
-                        (
-                            (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )
-                    ).OrderBy(monster => monster.Name).ToList();
-                }
-            }
-            catch
-            {
-                return new List<Item>();
-            }
-            finally
-            {
-                StoreViewModel.SemaphoreLibrary.Release();
-            }
-        }
-        public override List<KeyValuePair<string, string>> Categories { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes" ),
-            new KeyValuePair<string, string>("M", "Monstres" ),
-            new KeyValuePair<string, string>("A", "Animaux" ),
-            new KeyValuePair<string, string>("P", "PNJ" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Types { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Tous" ),
-            new KeyValuePair<string, string>("Humanoïde", "Humanoïde"),
-            new KeyValuePair<string, string>("Aberration", "Aberration"),
-            new KeyValuePair<string, string>("Bête", "Bête"),
-            new KeyValuePair<string, string>("Céleste", "Céleste"),
-            new KeyValuePair<string, string>("Créature artificielle", "Créature artificielle"),
-            new KeyValuePair<string, string>("Créature monstrueuse", "Créature monstrueuse"),
-            new KeyValuePair<string, string>("Dragon", "Dragon"),
-            new KeyValuePair<string, string>("Élémentaire", "Élémentaire"),
-            new KeyValuePair<string, string>("Fée", "Fée"),
-            new KeyValuePair<string, string>("Fiélon", "Fiélon"),
-            new KeyValuePair<string, string>("Géant", "Géant"),
-            new KeyValuePair<string, string>("Mort-vivant", "Mort-vivant"),
-            new KeyValuePair<string, string>("Plante", "Plante"),
-            new KeyValuePair<string, string>("Vase", "Vase"),
-        };
-
-        public override List<KeyValuePair<string, string>> Powers { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>(" 0 (0 PX)", "0" ),
-            new KeyValuePair<string, string>(" 1/8 (25 PX)", "1/8" ),
-            new KeyValuePair<string, string>(" 1/4 (50 PX)", "1/4" ),
-            new KeyValuePair<string, string>(" 1/2 (100 PX)", "1/2" ),
-            new KeyValuePair<string, string>(" 1 (200 PX)", "1" ),
-            new KeyValuePair<string, string>(" 2 (450 PX)", "2" ),
-            new KeyValuePair<string, string>(" 3 (700 PX)", "3" ),
-            new KeyValuePair<string, string>(" 4 (1100 PX)", "4" ),
-            new KeyValuePair<string, string>(" 5 (1800 PX)", "5" ),
-            new KeyValuePair<string, string>(" 6 (2300 PX)", "6" ),
-            new KeyValuePair<string, string>(" 7 (2900 PX)", "7" ),
-            new KeyValuePair<string, string>(" 8 (3900 PX)", "8" ),
-            new KeyValuePair<string, string>(" 9 (5000 PX)", "9" ),
-            new KeyValuePair<string, string>(" 10 (5900 PX)", "10" ),
-            new KeyValuePair<string, string>(" 11 (7200 PX)", "11" ),
-            new KeyValuePair<string, string>(" 12 (8400 PX)", "12" ),
-            new KeyValuePair<string, string>(" 13 (10000 PX)", "13" ),
-            new KeyValuePair<string, string>(" 14 (11500 PX)", "14" ),
-            new KeyValuePair<string, string>(" 15 (13000 PX)", "15" ),
-            new KeyValuePair<string, string>(" 16 (15000 PX)", "16" ),
-            new KeyValuePair<string, string>(" 17 (18000 PX)", "17" ),
-            new KeyValuePair<string, string>(" 18 (20000 PX)", "18" ),
-            new KeyValuePair<string, string>(" 19 (22000 PX)", "19" ),
-            new KeyValuePair<string, string>(" 20 (25000 PX)", "20" ),
-            new KeyValuePair<string, string>(" 21 (33000 PX)", "21" ),
-            new KeyValuePair<string, string>(" 22 (41000 PX)", "22" ),
-            new KeyValuePair<string, string>(" 23 (50000 PX)", "23" ),
-            new KeyValuePair<string, string>(" 24 (62000 PX)", "24" ),
-            new KeyValuePair<string, string>(" 30 (155000 PX)", "30" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Sizes { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("TP", "Très petite"),
-            new KeyValuePair<string, string>("P", "Petite"),
-            new KeyValuePair<string, string>("M", "Moyenne"),
-            new KeyValuePair<string, string>("G", "Grande"),
-            new KeyValuePair<string, string>("TG", "Très grande"),
-            new KeyValuePair<string, string>("Gig", "Gigantesque"),
-        };
-
-        public override List<KeyValuePair<string, string>> Legendaries { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("si", "Si"),
-            new KeyValuePair<string, string>("no", "Non"),
-        };
-
-        public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("(SRD", "SRD"),
-            new KeyValuePair<string, string>("(CEO", "CEO (H&D)"),
-        };
-    }*/
     #endregion Monsters
 
     #region Equipments
