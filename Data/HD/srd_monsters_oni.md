@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: giant
 Size: Large
 Alignment: lawful evil

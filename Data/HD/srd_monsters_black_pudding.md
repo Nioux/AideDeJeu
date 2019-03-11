@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: ooze
 Size: Large
 Alignment: unaligned

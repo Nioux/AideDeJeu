@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: humanoid (gnome)
 Size: Small
 Alignment: neutral good

@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: humanoid (dwarf)
 Size: Medium
 Alignment: lawful evil

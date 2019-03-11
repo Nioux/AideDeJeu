@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: monstrosity (titan)
 Size: Gargantuan
 Alignment: unaligned

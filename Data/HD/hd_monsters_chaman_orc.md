@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Humanoïde (demi-orc)
 Size: M
 Alignment: Neutre Mauvais

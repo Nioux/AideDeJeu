@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: monstrosity
 Size: Huge
 Alignment: unaligned

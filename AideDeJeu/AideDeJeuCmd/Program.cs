@@ -363,8 +363,8 @@ namespace AideDeJeuCmd
 
                 var itemsSRD = await context.Items.Where(item => (item.Source != null && item.Source.Contains("SRD"))).ToListAsync();
                 var monsters = await context.Monsters.ToListAsync();
-                var monstersHD = await context.MonstersHD.ToListAsync();
-                var monstersVO = await context.MonstersVO.ToListAsync();
+                //var monstersHD = await context.MonstersHD.ToListAsync();
+                //var monstersVO = await context.MonstersVO.ToListAsync();
                 var spells = await context.Spells.ToListAsync();
                 var classes = await context.Classes.ToListAsync();
                 var races = await context.Races.ToListAsync();

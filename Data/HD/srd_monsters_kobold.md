@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: humanoid (kobold)
 Size: Small
 Alignment: lawful evil

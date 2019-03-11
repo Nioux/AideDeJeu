@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Plante
 Size: P
 Alignment: non-alignée

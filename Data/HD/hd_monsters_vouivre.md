@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Dragon
 Size: G
 Alignment: non-alignée

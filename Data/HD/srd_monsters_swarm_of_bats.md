@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: swarm of Tiny beasts
 Size: Medium
 Alignment: unaligned

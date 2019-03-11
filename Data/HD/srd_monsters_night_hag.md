@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: fiend
 Size: Medium
 Alignment: neutral evil

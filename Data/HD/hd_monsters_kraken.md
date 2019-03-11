@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Créature monstrueuse (titan)
 Size: Gig
 Alignment: Chaotique Mauvais

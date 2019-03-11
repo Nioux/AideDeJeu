@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: humanoid (elf)
 Size: Medium
 Alignment: neutral evil

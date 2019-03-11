@@ -12,6 +12,7 @@ namespace AideDeJeuLib
 {
     public class Monster : Item
     {
+        public string Family { get; set; }
         public string Type { get; set; }
         public string Size { get; set; }
         public string Alignment { get; set; }

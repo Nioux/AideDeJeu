@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Humanoïde (sahuagin)
 Size: M
 Alignment: Loyal Mauvais

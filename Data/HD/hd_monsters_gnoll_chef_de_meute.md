@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Humanoïde (gnoll)
 Size: M
 Alignment: Chaotique Mauvais

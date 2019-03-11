@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Fiélon (démon, métamorphe)
 Size: TP
 Alignment: Chaotique Mauvais

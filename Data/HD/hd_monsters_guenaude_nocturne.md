@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Fiélon
 Size: M
 Alignment: Neutre Mauvais

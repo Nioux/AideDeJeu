@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Plante
 Size: TG
 Alignment: Chaotique Bonne

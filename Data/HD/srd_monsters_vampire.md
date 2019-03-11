@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: undead (shapechanger)
 Size: Medium
 Alignment: lawful evil

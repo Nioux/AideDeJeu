@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Humanoïde (orc)
 Size: M
 Alignment: Chaotique Mauvais

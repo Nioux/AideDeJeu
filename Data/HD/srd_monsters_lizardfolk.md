@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: humanoid (lizardfolk)
 Size: Medium
 Alignment: neutral

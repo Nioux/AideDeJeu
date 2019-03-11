@@ -1,5 +1,5 @@
 ﻿
-<!--Spells Family="SpellHD" Classes="Barde, Clerc, Druide, Ensorceleur, Magicien, Ombrelame, Paladin, Rôdeur, Sorcier" Levels="Sorts mineurs, Niveau 1, Niveau 2, Niveau 3, Niveau 4, Niveau 5, Niveau 6, Niveau 7, Niveau 8, Niveau 9" Schools="Abjuration, Divination, Enchantement, Évocation, Illusion, Invocation, Nécromancie, Transmutation" Rituals="Rituel" Sources="SRD, MDR"-->
+<!--Spells Family="SpellHD" Classes="Barde|Clerc|Druide|Ensorceleur|Magicien|Ombrelame|Paladin|Rôdeur|Sorcier" Levels="Sorts mineurs|Niveau 1|Niveau 2|Niveau 3|Niveau 4|Niveau 5|Niveau 6|Niveau 7|Niveau 8|Niveau 9" Schools="Abjuration|Divination|Enchantement|Évocation|Illusion|Invocation|Nécromancie|Transmutation" Rituals="Rituel" Sources="SRD|MDR"-->
 
 > <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
 

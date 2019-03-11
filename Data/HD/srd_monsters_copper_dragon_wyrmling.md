@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: dragon
 Size: Medium
 Alignment: chaotic good

@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Dragon
 Size: Gig
 Alignment: Chaotique Bon

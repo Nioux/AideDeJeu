@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: humanoid (sahuagin)
 Size: Medium
 Alignment: lawful evil

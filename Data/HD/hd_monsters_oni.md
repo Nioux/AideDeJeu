@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Géant
 Size: G
 Alignment: Loyal Mauvais

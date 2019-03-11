@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: monstrosity (shapechanger)
 Size: Medium
 Alignment: neutral

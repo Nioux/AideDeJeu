@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Nuée
 Size: M composée de bêtes de taille TP
 Alignment: non-alignée

@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: dragon
 Size: Gargantuan
 Alignment: lawful evil

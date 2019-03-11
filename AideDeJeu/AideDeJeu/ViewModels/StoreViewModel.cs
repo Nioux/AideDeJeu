@@ -462,9 +462,9 @@ namespace AideDeJeu.ViewModels
             public DbSet<Spell> Spells { get; set; }
             public DbSet<Monster> Monsters { get; set; }
             //public DbSet<Spell> Spells { get; set; }
-            public DbSet<MonsterHD> MonstersHD { get; set; }
+            //public DbSet<MonsterHD> MonstersHD { get; set; }
             //public DbSet<SpellVO> SpellsVO { get; set; }
-            public DbSet<MonsterVO> MonstersVO { get; set; }
+            //public DbSet<MonsterVO> MonstersVO { get; set; }
             public DbSet<RaceItem> Races { get; set; }
             public DbSet<ClassItem> Classes { get; set; }
             public DbSet<SubRaceItem> SubRaces { get; set; }
@@ -485,8 +485,8 @@ namespace AideDeJeu.ViewModels
             protected override void OnModelCreating(ModelBuilder modelBuilder)
             {
                 base.OnModelCreating(modelBuilder);
-                modelBuilder.Entity<MonstersHD>();
-                modelBuilder.Entity<MonstersVO>();
+                modelBuilder.Entity<Monsters>();
+                //modelBuilder.Entity<MonstersVO>();
                 //modelBuilder.Entity<SpellsHD>().HasBaseType<Spells>();
                 //modelBuilder.Entity<SpellsVO>().HasBaseType<Spells>();
                 modelBuilder.Entity<Spells>();

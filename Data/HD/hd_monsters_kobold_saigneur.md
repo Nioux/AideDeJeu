@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Humanoïde (kobold)
 Size: P
 Alignment: Neutre Mauvais

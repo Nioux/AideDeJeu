@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Géant
 Size: TG
 Alignment: Neutre Bon (50 %) ou Neutre Mauvais (50 %)

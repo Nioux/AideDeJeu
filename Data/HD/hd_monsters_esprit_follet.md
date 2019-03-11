@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Fée
 Size: TP
 Alignment: Neutre Bonne

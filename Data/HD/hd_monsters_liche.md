@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Mort-vivant
 Size: M
 Alignment: alignement Mauvais

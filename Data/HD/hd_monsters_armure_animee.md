@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Créature artificielle
 Size: M
 Alignment: non-alignée

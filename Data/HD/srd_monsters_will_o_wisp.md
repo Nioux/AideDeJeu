@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: undead
 Size: Tiny
 Alignment: chaotic evil

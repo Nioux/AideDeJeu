@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: humanoid (gnoll)
 Size: Medium
 Alignment: chaotic evil

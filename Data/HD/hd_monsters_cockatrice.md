@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Créature monstrueuse
 Size: P
 Alignment: non-alignée

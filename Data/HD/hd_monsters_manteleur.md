@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Aberration
 Size: G
 Alignment: Chaotique Neutre

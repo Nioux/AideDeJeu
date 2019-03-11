@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Céleste
 Size: G
 Alignment: Chaotique Bon

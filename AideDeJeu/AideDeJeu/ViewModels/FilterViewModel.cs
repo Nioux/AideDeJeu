@@ -202,6 +202,7 @@ namespace AideDeJeu.ViewModels
         }
 
         public string Family { get; set; }
+
         public SpellFilterViewModel(
             string family,
             List<KeyValuePair<string, string>> classes,
@@ -262,39 +263,7 @@ namespace AideDeJeu.ViewModels
                 StoreViewModel.SemaphoreLibrary.Release();
             }
         }
-
-        //public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
-        //{
-        //    return await Task.Run(() =>
-        //    {
-        //        var levelComparer = new LevelComparer();
-        //        var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
-        //        var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
-        //        var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
-        //        var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
-        //        var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
-        //        var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-        //        //token.ThrowIfCancellationRequested();
-        //        return items.Where(item =>
-        //        {
-        //            var spell = item as Spell;
-        //            return
-        //                levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
-        //                levelComparer.Compare(spell.Level, niveauMax) <= 0 &&
-        //                spell.Type.ToLower().Contains(ecole.ToLower()) &&
-        //                (spell.Source != null && spell.Source.Contains(source)) &&
-        //                (spell.Classes != null && spell.Classes.Contains(classe)) &&
-        //                (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
-        //                (
-        //                    (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-        //                    (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-        //                );
-        //        }).OrderBy(spell => spell.Name)
-        //                    .AsEnumerable();
-        //    }, token);
-
-        //}
-
+        
         public List<KeyValuePair<string, string>> Classes { get; }
 
         public List<KeyValuePair<string, string>> Niveaux { get; }
@@ -306,278 +275,11 @@ namespace AideDeJeu.ViewModels
         public List<KeyValuePair<string, string>> Sources { get; }
 
     }
-
-    /*
-    public class VFSpellFilterViewModel : SpellFilterViewModel
-    {
-        public override Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken cancellationToken = default)
-        {
-            throw new System.NotImplementedException();
-        }
-
-        public override List<KeyValuePair<string, string>> Classes { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes" ),
-            new KeyValuePair<string, string>("Barde", "Barde" ),
-            new KeyValuePair<string, string>("Clerc", "Clerc" ),
-            new KeyValuePair<string, string>("Druide", "Druide" ),
-            new KeyValuePair<string, string>("Ensorceleur", "Ensorceleur" ),
-            new KeyValuePair<string, string>("Magicien", "Magicien" ),
-            new KeyValuePair<string, string>("Paladin", "Paladin" ),
-            new KeyValuePair<string, string>("Rôdeur", "Rôdeur" ),
-            new KeyValuePair<string, string>("Sorcier", "Sorcier" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Niveaux { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("0", "Sorts mineurs"),
-            new KeyValuePair<string, string>("1", "Niveau 1"),
-            new KeyValuePair<string, string>("2", "Niveau 2"),
-            new KeyValuePair<string, string>("3", "Niveau 3"),
-            new KeyValuePair<string, string>("4", "Niveau 4"),
-            new KeyValuePair<string, string>("5", "Niveau 5"),
-            new KeyValuePair<string, string>("6", "Niveau 6"),
-            new KeyValuePair<string, string>("7", "Niveau 7"),
-            new KeyValuePair<string, string>("8", "Niveau 8"),
-            new KeyValuePair<string, string>("9", "Niveau 9"),
-        };
-
-        public override List<KeyValuePair<string, string>> Ecoles { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("abjuration", "Abjuration"),
-            new KeyValuePair<string, string>("divination", "Divination"),
-            new KeyValuePair<string, string>("enchantement", "Enchantement"),
-            new KeyValuePair<string, string>("évocation", "Évocation"),
-            new KeyValuePair<string, string>("illusion", "Illusion"),
-            new KeyValuePair<string, string>("invocation", "Invocation"),
-            new KeyValuePair<string, string>("cromancie", "Nécromancie"),
-            new KeyValuePair<string, string>("transmutation", "Transmutation"),
-        };
-
-        public override List<KeyValuePair<string, string>> Rituels { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Tous"),
-            new KeyValuePair<string, string>("rituel", "Rituel"),
-        };
-
-        public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("(SRD", "SRD"),
-        };
-    }
-
-    public class VOSpellFilterViewModel : SpellFilterViewModel
-    {
-        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
-        {
-            var levelComparer = new LevelComparer();
-            var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
-            var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
-            var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
-            var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
-            var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
-            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-            try
-            {
-                await StoreViewModel.SemaphoreLibrary.WaitAsync();
-                using (var context = await StoreViewModel.GetLibraryContextAsync())
-                {
-                    return context.SpellsVO.Where(spell =>
-                                            levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
-                        levelComparer.Compare(spell.Level, niveauMax) <= 0 &&
-                        spell.Type.ToLower().Contains(ecole.ToLower()) &&
-                        (spell.Source != null && spell.Source.Contains(source)) &&
-                        (spell.Classes != null && spell.Classes.Contains(classe)) &&
-                        (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
-                        (
-                            (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )).OrderBy(spell => spell.Name).ToList();
-                }
-            }
-            catch
-            {
-                return new List<Item>();
-            }
-            finally
-            {
-                StoreViewModel.SemaphoreLibrary.Release();
-            }
-        }
-
-        public override List<KeyValuePair<string, string>> Classes { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "All" ),
-            new KeyValuePair<string, string>("Bard", "Bard" ),
-            new KeyValuePair<string, string>("Cleric", "Cleric" ),
-            new KeyValuePair<string, string>("Druid", "Druid" ),
-            new KeyValuePair<string, string>("Sorcerer", "Sorcerer" ),
-            new KeyValuePair<string, string>("Paladin", "Paladin" ),
-            new KeyValuePair<string, string>("Ranger", "Ranger" ),
-            new KeyValuePair<string, string>("Warlock", "Warlock" ),
-            new KeyValuePair<string, string>("Wizard", "Wizard" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Niveaux { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("0", "Sorts mineurs"),
-            new KeyValuePair<string, string>("1", "Level 1"),
-            new KeyValuePair<string, string>("2", "Level 2"),
-            new KeyValuePair<string, string>("3", "Level 3"),
-            new KeyValuePair<string, string>("4", "Level 4"),
-            new KeyValuePair<string, string>("5", "Level 5"),
-            new KeyValuePair<string, string>("6", "Level 6"),
-            new KeyValuePair<string, string>("7", "Level 7"),
-            new KeyValuePair<string, string>("8", "Level 8"),
-            new KeyValuePair<string, string>("9", "Level 9"),
-        };
-
-        public override List<KeyValuePair<string, string>> Ecoles { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "All"),
-            new KeyValuePair<string, string>("abjuration", "Abjuration"),
-            new KeyValuePair<string, string>("conjuration", "Conjuration"),
-            new KeyValuePair<string, string>("divination", "Divination"),
-            new KeyValuePair<string, string>("enchantment", "Enchantment"),
-            new KeyValuePair<string, string>("evocation", "Evocation"),
-            new KeyValuePair<string, string>("illusion", "Illusion"),
-            new KeyValuePair<string, string>("necromancy", "Necromancy"),
-            new KeyValuePair<string, string>("transmutation", "Transmutation"),
-        };
-
-        public override List<KeyValuePair<string, string>> Rituels { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "All"),
-            new KeyValuePair<string, string>("(ritual)", "Ritual"),
-        };
-
-        public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "All"),
-            new KeyValuePair<string, string>("(SRD", "SRD"),
-        };
-    }
-
-    public class HDSpellFilterViewModel : SpellFilterViewModel
-    {
-        public HDSpellFilterViewModel(
-            string parent,
-            List<KeyValuePair<string, string>> classes,
-            List<KeyValuePair<string, string>> levels,
-            List<KeyValuePair<string, string>> schools,
-            List<KeyValuePair<string, string>> rituals,
-            List<KeyValuePair<string, string>> sources)
-        {
-            this.Classes = classes;
-            this.Niveaux = levels;
-            this.Ecoles = schools;
-            this.Rituels = rituals;
-            this.Sources = sources;
-        }
-
-        public string LevelConverter(string level)
-        {
-            if (level == "-") return null;
-            if (level.StartsWith("Niveau ")) return level.Substring(7);
-            return "0";
-        }
-        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
-        {
-            var levelComparer = new LevelComparer();
-            var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
-            var niveauMin = LevelConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey) ?? "0";
-            var niveauMax = LevelConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey) ?? "9";
-            var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
-            var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
-            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-            try
-            {
-                await StoreViewModel.SemaphoreLibrary.WaitAsync();
-                using (var context = await StoreViewModel.GetLibraryContextAsync())
-                {
-                    return context.SpellsHD.Where(spell =>
-                                            levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
-                        levelComparer.Compare(spell.Level, niveauMax) <= 0 &&
-                        spell.Type.ToLower().Contains(ecole.ToLower()) &&
-                        (spell.Source != null && spell.Source.Contains(source)) &&
-                        (spell.Classes != null && spell.Classes.Contains(classe)) &&
-                        (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
-                        (
-                            (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )).OrderBy(spell => spell.Name).ToList();
-                }
-            }
-            catch
-            {
-                return new List<Item>();
-            }
-            finally
-            {
-                StoreViewModel.SemaphoreLibrary.Release();
-            }
-        }
-
-        public override List<KeyValuePair<string, string>> Classes { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes" ),
-            new KeyValuePair<string, string>("Barde", "Barde" ),
-            new KeyValuePair<string, string>("Clerc", "Clerc" ),
-            new KeyValuePair<string, string>("Druide", "Druide" ),
-            new KeyValuePair<string, string>("Ensorceleur", "Ensorceleur" ),
-            new KeyValuePair<string, string>("Magicien", "Magicien" ),
-            new KeyValuePair<string, string>("Ombrelame", "Ombrelame" ),
-            new KeyValuePair<string, string>("Paladin", "Paladin" ),
-            new KeyValuePair<string, string>("Rôdeur", "Rôdeur" ),
-            new KeyValuePair<string, string>("Sorcier", "Sorcier" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Niveaux { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("0", "Sorts mineurs"),
-            new KeyValuePair<string, string>("1", "Niveau 1"),
-            new KeyValuePair<string, string>("2", "Niveau 2"),
-            new KeyValuePair<string, string>("3", "Niveau 3"),
-            new KeyValuePair<string, string>("4", "Niveau 4"),
-            new KeyValuePair<string, string>("5", "Niveau 5"),
-            new KeyValuePair<string, string>("6", "Niveau 6"),
-            new KeyValuePair<string, string>("7", "Niveau 7"),
-            new KeyValuePair<string, string>("8", "Niveau 8"),
-            new KeyValuePair<string, string>("9", "Niveau 9"),
-        };
-
-        public override List<KeyValuePair<string, string>> Ecoles { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("abjuration", "Abjuration"),
-            new KeyValuePair<string, string>("divination", "Divination"),
-            new KeyValuePair<string, string>("enchantement", "Enchantement"),
-            new KeyValuePair<string, string>("évocation", "Évocation"),
-            new KeyValuePair<string, string>("illusion", "Illusion"),
-            new KeyValuePair<string, string>("invocation", "Invocation"),
-            new KeyValuePair<string, string>("cromancie", "Nécromancie"),
-            new KeyValuePair<string, string>("transmutation", "Transmutation"),
-        };
-
-        public override List<KeyValuePair<string, string>> Rituels { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Tous"),
-            new KeyValuePair<string, string>("rituel", "Rituel"),
-        };
-
-        public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("(SRD", "SRD"),
-            new KeyValuePair<string, string>("(MDR", "MDR (H&D)"),
-        };
-    }*/
+    
     #endregion Spells
 
     #region Monsters
-    public abstract class MonsterFilterViewModel : FilterViewModel
+    public class MonsterFilterViewModel : FilterViewModel
     {
         private IEnumerable<Filter> _Filters = null;
         public override IEnumerable<Filter> Filters
@@ -591,7 +293,7 @@ namespace AideDeJeu.ViewModels
                         //new Filter() { Key = FilterKeys.Category, Name = "Catégories", KeyValues = Categories, _Index = 0 },
                         new Filter() { Key = FilterKeys.Type, Name = "Type", KeyValues = Types, _Index = 0 },
                         new Filter() { Key = FilterKeys.MinPower, Name = "FP Minimum", KeyValues = Powers, _Index = 0 },
-                        new Filter() { Key = FilterKeys.MaxPower, Name = "FP Maximum", KeyValues = Powers, _Index = 28 },
+                        new Filter() { Key = FilterKeys.MaxPower, Name = "FP Maximum", KeyValues = Powers, _Index = 0 },
                         new Filter() { Key = FilterKeys.Size, Name = "Taille", KeyValues = Sizes, _Index = 0 },
                         //new Filter() { Key = FilterKeys.Legendary, Name = "Légendaire", KeyValues = Legendaries, _Index = 0 },
                         new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, _Index = 0 },
@@ -602,64 +304,82 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        //public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
-        //{
-        //    return await Task.Run(() =>
-        //    {
-        //        var powerComparer = new PowerComparer();
+        public string Family { get; set; }
 
-        //        //var category = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Category).SelectedKey ?? "";
-        //        var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-        //        //token.ThrowIfCancellationRequested();
+        public MonsterFilterViewModel(
+            string family,
+            List<KeyValuePair<string, string>> types,
+            List<KeyValuePair<string, string>> challenges,
+            List<KeyValuePair<string, string>> sizes,
+            List<KeyValuePair<string, string>> sources)
+        {
+            this.Family = family;
+            this.Types = types;
+            this.Powers = challenges;
+            this.Sizes = sizes;
+            this.Sources = sources;
+        }
 
-        //        var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
-        //        //token.ThrowIfCancellationRequested();
+        public List<KeyValuePair<string, string>> Categories { get; }
 
-        //        var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
-        //        //token.ThrowIfCancellationRequested();
+        public List<KeyValuePair<string, string>> Types { get; }
 
-        //        var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
-        //        //token.ThrowIfCancellationRequested();
-        //        //var legendary = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Legendary).SelectedKey ?? "";
+        public List<KeyValuePair<string, string>> Powers { get; }
 
-        //        var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-        //        token.ThrowIfCancellationRequested();
+        public List<KeyValuePair<string, string>> Sizes { get; }
 
-        //        return items.Where(item =>
-        //        {
-        //            var monster = item as Monster;
-        //            return 
-        //                monster != null &&
-        //                monster.Type.Contains(type) &&
-        //                (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
-        //                (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
-        //                powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
-        //                powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
-        //                (
-        //                    (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-        //                    (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-        //                );
-        //        })
-        //            .OrderBy(monster => monster.Name)
-        //                    .AsEnumerable();
-        //    }, token);
+        public List<KeyValuePair<string, string>> Legendaries { get; }
 
-        //}
+        public List<KeyValuePair<string, string>> Sources { get; }
 
-        public abstract List<KeyValuePair<string, string>> Categories { get; }
+        public string ChallengeConverter(string challenge)
+        {
+            if (challenge == "") return null;
+            return challenge;
+        }
+        public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
+        {
+            var powerComparer = new PowerComparer();
 
-        public abstract List<KeyValuePair<string, string>> Types { get; }
+            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
+            var minPower = ChallengeConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey) ?? "0 (0 PX)";
+            var maxPower = ChallengeConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey) ?? "30 (155000 PX)";
+            var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
+            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+            token.ThrowIfCancellationRequested();
 
-        public abstract List<KeyValuePair<string, string>> Powers { get; }
-
-        public abstract List<KeyValuePair<string, string>> Sizes { get; }
-
-        public abstract List<KeyValuePair<string, string>> Legendaries { get; }
-
-        public abstract List<KeyValuePair<string, string>> Sources { get; }
+            try
+            {
+                await StoreViewModel.SemaphoreLibrary.WaitAsync();
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
+                {
+                    return context.Monsters.Where(monster =>
+                        monster != null &&
+                        monster.Family == this.Family &&
+                        monster.Type.Contains(type) &&
+                        (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
+                        (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
+                        powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
+                        powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
+                        (
+                            (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                            (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                        )
+                    ).OrderBy(monster => monster.Name).ToList();
+                }
+            }
+            catch
+            {
+                return new List<Item>();
+            }
+            finally
+            {
+                StoreViewModel.SemaphoreLibrary.Release();
+            }
+        }
 
     }
-
+    /*
     public class VFMonsterFilterViewModel : MonsterFilterViewModel
     {
 
@@ -1004,7 +724,7 @@ namespace AideDeJeu.ViewModels
             new KeyValuePair<string, string>("(SRD", "SRD"),
             new KeyValuePair<string, string>("(CEO", "CEO (H&D)"),
         };
-    }
+    }*/
     #endregion Monsters
 
     #region Equipments

@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Élémentaire
 Size: M
 Alignment: Chaotique Mauvais

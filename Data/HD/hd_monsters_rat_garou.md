@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Humanoïde (humain, métamorphe)
 Size: M
 Alignment: Loyal Mauvais

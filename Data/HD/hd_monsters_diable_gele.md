@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Fiélon (diable)
 Size: G
 Alignment: Loyal Mauvais

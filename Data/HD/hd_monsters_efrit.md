@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Élémentaire
 Size: G
 Alignment: Loyal Mauvais

@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Fée
 Size: M
 Alignment: Chaotique Mauvais

@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: humanoid (human
 Size: Medium
 Alignment: shapechanger), lawful evil

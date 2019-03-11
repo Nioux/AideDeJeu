@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Humanoïde (elfe)
 Size: M
 Alignment: Neutre Mauvais

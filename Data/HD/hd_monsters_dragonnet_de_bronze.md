@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Dragon
 Size: M
 Alignment: Loyal Bon

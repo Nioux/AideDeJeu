@@ -16,13 +16,6 @@ namespace AideDeJeuLib
         public string Rituals { get; set; }
         public string Sources { get; set; }
 
-        public List<KeyValuePair<string, string>> Split(string collapsed)
-        {
-            if (collapsed == null) return new List<KeyValuePair<string, string>>();
-            var split = collapsed.Split(new string[] { ", " }, StringSplitOptions.None).Select(s => new KeyValuePair<string, string>(s, s)).ToList();
-            split.Insert(0, new KeyValuePair<string, string>("", "-"));
-            return split;
-        }
         public override FilterViewModel GetNewFilterViewModel()
         {
             return new SpellFilterViewModel(Family,
@@ -34,4 +27,4 @@ namespace AideDeJeuLib
             );
         }
     }
-    }
+}

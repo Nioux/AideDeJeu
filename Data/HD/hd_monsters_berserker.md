@@ -1,5 +1,6 @@
 ﻿---
-!MonsterHD
+!Monster
+Family: MonsterHD
 Type: Humanoïde (n'importe quelle race)
 Size: M
 Alignment: n'importe quel alignement Chaotique

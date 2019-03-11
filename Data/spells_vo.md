@@ -1,5 +1,5 @@
 
-<!--Spells Family="SpellVO" Classes="Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard, Warlock" Levels="Cantrip, Level 1, Level 2, Level 3, Level 4, Level 5, Level 6, Level 7, Level 8, Level 9" Schools="Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, Transmutation" Rituals="Ritual" Sources="SRD"-->
+<!--Spells Family="SpellVO" Classes="Bard|Cleric|Druid|Paladin|Ranger|Sorcerer|Wizard|Warlock" Levels="Cantrip|Level 1|Level 2|Level 3|Level 4|Level 5|Level 6|Level 7|Level 8|Level 9" Schools="Abjuration|Conjuration|Divination|Enchantment|Evocation|Illusion|Necromancy|Transmutation" Rituals="Ritual" Sources="SRD"-->
 
 > <!--ParentNameLink-->[SRD](index.md)<!--/ParentNameLink-->
 

@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: humanoid (any race)
 Size: Medium
 Alignment: any chaotic alignment

@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: aberration
 Size: Large
 Alignment: lawful evil
@@ -531,4 +532,4 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 [wish]: spells_vo.md#wish
 [zone of truth]: spells_vo.md#zone-of-truth
 [MonstersVO]: #
-[MonsterVO]: #
+[Monster]: #

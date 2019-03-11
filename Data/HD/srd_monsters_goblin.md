@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: humanoid (goblinoid)
 Size: Small
 Alignment: neutral evil

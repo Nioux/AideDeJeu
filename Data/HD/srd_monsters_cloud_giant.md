@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: giant
 Size: Huge
 Alignment: neutral good (50 %) or neutral evil (50 %)

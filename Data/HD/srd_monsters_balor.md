@@ -1,5 +1,6 @@
 ﻿---
-!MonsterVO
+!Monster
+Family: MonsterVO
 Type: fiend (demon)
 Size: Huge
 Alignment: chaotic evil
