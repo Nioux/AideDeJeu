@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Chaman orc
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Chaman orc
 
+- Source: (CEO p)
 -  Humanoïde (demi-orc) de taille M, Neutre Mauvais
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 33 (6d8+6)

@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Gobelin, chaman
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Gobelin, chaman
 
+- Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 27 (6d6+6)

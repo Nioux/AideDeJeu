@@ -24,6 +24,7 @@ Name: Armure animée
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Animated Armor](srd_monsters_animated_armor.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Armure animée
 
+- Source: (CEO p)(SRD p)
 - SRD: [Animated Armor](srd_monsters_animated_armor.md)
 -  Créature artificielle de taille M, non-alignée
 - **Classe d'armure** 18 (armure naturelle)

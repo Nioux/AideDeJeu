@@ -22,6 +22,7 @@ Name: Blaireau géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Badger](srd_monsters_giant_badger.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Blaireau géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Badger](srd_monsters_giant_badger.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 10

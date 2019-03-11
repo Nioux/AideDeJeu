@@ -22,6 +22,7 @@ Name: Kobold
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Kobold](srd_monsters_kobold.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Kobold
 
+- Source: (CEO p)(SRD p)
 - SRD: [Kobold](srd_monsters_kobold.md)
 -  Humanoïde (kobold) de taille P, Loyal Mauvais
 - **Classe d'armure** 12

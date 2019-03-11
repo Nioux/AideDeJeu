@@ -24,6 +24,7 @@ Name: Nuée de serpents venimeux
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Nuée de serpents venimeux
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 14

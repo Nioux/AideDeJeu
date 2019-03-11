@@ -25,6 +25,7 @@ Name: Zombi ogre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ogre Zombie](srd_monsters_ogre_zombie.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Zombi ogre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ogre Zombie](srd_monsters_ogre_zombie.md)
 -  Mort-vivant de taille G, Neutre Mauvais
 - **Classe d'armure** 8

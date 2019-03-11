@@ -27,6 +27,7 @@ Name: Momie
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mummy](srd_monsters_mummy.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -35,6 +36,7 @@ Attributes: {}
 
 # Momie
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mummy](srd_monsters_mummy.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Classe d'armure** 11 (armure naturelle)

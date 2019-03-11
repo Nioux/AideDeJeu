@@ -25,6 +25,7 @@ Name: Dragonnet bleu
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragonnet bleu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)

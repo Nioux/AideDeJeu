@@ -22,6 +22,7 @@ Name: Oxydeur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Rust Monster](srd_monsters_rust_monster.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Oxydeur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Rust Monster](srd_monsters_rust_monster.md)
 -  Créature monstrueuse de taille M, non-alignée
 - **Classe d'armure** 14 (armure naturelle)

@@ -22,6 +22,7 @@ Name: Élan
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Elk](srd_monsters_elk.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Élan
 
+- Source: (CEO p)(SRD p)
 - SRD: [Elk](srd_monsters_elk.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 10

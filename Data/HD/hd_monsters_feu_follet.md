@@ -25,6 +25,7 @@ Name: Feu follet
 ParentName: Créatures
 NameLevel: 1
 AltName: "[Will-o'-Wisp](srd_monsters_will_o_wisp.md)"
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Feu follet
 
+- Source: (CEO p)(SRD p)
 - SRD: [Will-o'-Wisp](srd_monsters_will_o_wisp.md)
 -  Mort-vivant de taille TP, Chaotique Mauvais
 - **Classe d'armure** 19

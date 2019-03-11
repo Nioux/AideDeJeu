@@ -23,6 +23,7 @@ Name: Fanatique de secte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cult Fanatic](srd_monsters_cult_fanatic.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Fanatique de secte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cult Fanatic](srd_monsters_cult_fanatic.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 13 (armure de cuir)

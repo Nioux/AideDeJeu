@@ -26,6 +26,7 @@ Name: Diable cornu
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Horned Devil](srd_monsters_horned_devil.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Diable cornu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Horned Devil](srd_monsters_horned_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)

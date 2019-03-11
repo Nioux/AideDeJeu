@@ -24,6 +24,7 @@ Name: Doppleganger
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Doppelganger](srd_monsters_doppelganger.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Doppleganger
 
+- Source: (CEO p)(SRD p)
 - SRD: [Doppelganger](srd_monsters_doppelganger.md)
 -  Créature monstrueuse (métamorphe) de taille M, neutre
 - **Classe d'armure** 14

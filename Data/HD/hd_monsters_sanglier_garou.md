@@ -24,6 +24,7 @@ Name: Sanglier-garou
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wereboar](srd_monsters_wereboar.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Sanglier-garou
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wereboar](srd_monsters_wereboar.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Mauvais
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier

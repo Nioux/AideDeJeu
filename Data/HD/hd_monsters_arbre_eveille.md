@@ -24,6 +24,7 @@ Name: Arbre éveillé
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Awakened Tree](srd_monsters_awakened_tree.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Arbre éveillé
 
+- Source: (CEO p)(SRD p)
 - SRD: [Awakened Tree](srd_monsters_awakened_tree.md)
 -  Plante de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

@@ -26,6 +26,7 @@ Name: Androsphinx
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Androsphinx](srd_monsters_androsphinx.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Androsphinx
 
+- Source: (CEO p)(SRD p)
 - SRD: [Androsphinx](srd_monsters_androsphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
 - **Classe d'armure** 17 (armure naturelle)

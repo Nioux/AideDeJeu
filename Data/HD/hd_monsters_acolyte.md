@@ -23,6 +23,7 @@ Name: Acolyte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Acolyte](srd_monsters_acolyte.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Acolyte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Acolyte](srd_monsters_acolyte.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 10

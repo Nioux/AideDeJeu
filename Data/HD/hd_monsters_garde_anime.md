@@ -24,6 +24,7 @@ Name: Garde animé
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Shield Guardian](srd_monsters_shield_guardian.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Garde animé
 
+- Source: (CEO p)(SRD p)
 - SRD: [Shield Guardian](srd_monsters_shield_guardian.md)
 -  Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 17 (armure naturelle)

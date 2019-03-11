@@ -22,6 +22,7 @@ Name: Scorpion géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Scorpion](srd_monsters_giant_scorpion.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Scorpion géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Scorpion](srd_monsters_giant_scorpion.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 15 (armure naturelle)

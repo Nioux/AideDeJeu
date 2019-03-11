@@ -25,6 +25,7 @@ Name: Vampirien
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Vampire Spawn](srd_monsters_vampire_spawn.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Vampirien
 
+- Source: (CEO p)(SRD p)
 - SRD: [Vampire Spawn](srd_monsters_vampire_spawn.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)

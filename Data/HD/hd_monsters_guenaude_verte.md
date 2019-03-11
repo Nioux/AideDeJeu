@@ -23,6 +23,7 @@ Name: Guenaude verte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Green Hag](srd_monsters_green_hag.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Guenaude verte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Green Hag](srd_monsters_green_hag.md)
 -  Fée de taille M, Neutre Mauvais
 - **Classe d'armure** 17 (armure naturelle)

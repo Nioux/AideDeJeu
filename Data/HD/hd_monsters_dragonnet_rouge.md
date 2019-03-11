@@ -25,6 +25,7 @@ Name: Dragonnet rouge
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragonnet rouge
 
+- Source: (CEO p)(SRD p)
 - SRD: [Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)

@@ -21,6 +21,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Hobgobelin, sergent
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -29,6 +30,7 @@ Attributes: {}
 
 # Hobgobelin, sergent
 
+- Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
 - **Classe d'armure** 18 (bouclier, cotte de mailles)
 - **Points de vie** 29 (5d8+7)

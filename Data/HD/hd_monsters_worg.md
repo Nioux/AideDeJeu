@@ -23,6 +23,7 @@ Name: Worg
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Worg](srd_monsters_worg.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Worg
 
+- Source: (CEO p)(SRD p)
 - SRD: [Worg](srd_monsters_worg.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)

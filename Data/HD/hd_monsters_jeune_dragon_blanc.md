@@ -25,6 +25,7 @@ Name: Jeune dragon blanc
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young White Dragon](srd_monsters_young_white_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Jeune dragon blanc
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young White Dragon](srd_monsters_young_white_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)

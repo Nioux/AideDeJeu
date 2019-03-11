@@ -23,6 +23,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Larve des roches
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Larve des roches
 
+- Source: (CEO p)
 -  Créature monstrueuse de taille M, Neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 32 (5d8+10)

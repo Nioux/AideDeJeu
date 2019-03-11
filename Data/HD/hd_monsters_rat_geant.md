@@ -22,6 +22,7 @@ Name: Rat géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Rat](srd_monsters_giant_rat.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Rat géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Rat](srd_monsters_giant_rat.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12

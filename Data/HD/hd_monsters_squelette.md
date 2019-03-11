@@ -25,6 +25,7 @@ Name: Squelette
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Skeleton](srd_monsters_skeleton.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Squelette
 
+- Source: (CEO p)(SRD p)
 - SRD: [Skeleton](srd_monsters_skeleton.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Classe d'armure** 13 (débris d'armure)

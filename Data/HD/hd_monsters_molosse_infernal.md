@@ -24,6 +24,7 @@ Name: Molosse infernal
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hell Hound](srd_monsters_hell_hound.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Molosse infernal
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hell Hound](srd_monsters_hell_hound.md)
 -  Fiélon de taille M, Loyal Mauvais
 - **Classe d'armure** 15 (armure naturelle)

@@ -25,6 +25,7 @@ Name: Vase grise
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gray Ooze](srd_monsters_gray_ooze.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Vase grise
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gray Ooze](srd_monsters_gray_ooze.md)
 -  Vase de taille M, non-alignée
 - **Classe d'armure** 8

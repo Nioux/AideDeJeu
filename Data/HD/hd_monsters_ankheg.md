@@ -22,6 +22,7 @@ Name: Ankheg
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ankheg](srd_monsters_ankheg.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Ankheg
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ankheg](srd_monsters_ankheg.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle), 11 quand il est [à terre](hd_conditions_a_terre.md)

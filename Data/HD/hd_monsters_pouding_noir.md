@@ -24,6 +24,7 @@ Name: Pouding noir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Black Pudding](srd_monsters_black_pudding.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Pouding noir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Black Pudding](srd_monsters_black_pudding.md)
 -  Vase de taille G, non-alignée
 - **Classe d'armure** 7

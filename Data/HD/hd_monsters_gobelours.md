@@ -23,6 +23,7 @@ Name: Gobelours
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bugbear](srd_monsters_bugbear.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Gobelours
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bugbear](srd_monsters_bugbear.md)
 -  Humanoïde (gobelinoïde) de taille M, Chaotique Mauvais
 - **Classe d'armure** 16 (armure de peau, bouclier)

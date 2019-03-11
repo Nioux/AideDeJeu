@@ -21,6 +21,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Cheval de guerre lourd
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -29,6 +30,7 @@ Attributes: {}
 
 # Cheval de guerre lourd
 
+- Source: (CEO p)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 37 (5d10+10)

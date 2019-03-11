@@ -23,6 +23,7 @@ Name: Malfrat
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Thug](srd_monsters_thug.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Malfrat
 
+- Source: (CEO p)(SRD p)
 - SRD: [Thug](srd_monsters_thug.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que bon
 - **Classe d'armure** 11 (armure de cuir)

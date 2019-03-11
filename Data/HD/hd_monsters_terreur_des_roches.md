@@ -23,6 +23,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Terreur des roches
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Terreur des roches
 
+- Source: (CEO p)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 102 (12d10+36)

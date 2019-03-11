@@ -22,6 +22,7 @@ Name: Cheval de selle
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Riding Horse](srd_monsters_riding_horse.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Cheval de selle
 
+- Source: (CEO p)(SRD p)
 - SRD: [Riding Horse](srd_monsters_riding_horse.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 10

@@ -23,6 +23,7 @@ Name: Chacal
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Jackal](srd_monsters_jackal.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Chacal
 
+- Source: (CEO p)(SRD p)
 - SRD: [Jackal](srd_monsters_jackal.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12

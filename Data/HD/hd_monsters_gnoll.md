@@ -22,6 +22,7 @@ Name: Gnoll
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gnoll](srd_monsters_gnoll.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Gnoll
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gnoll](srd_monsters_gnoll.md)
 -  Humanoïde (gnoll) de taille M, Chaotique Mauvais
 - **Classe d'armure** 15 (armure de peau, bouclier)

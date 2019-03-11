@@ -26,6 +26,7 @@ Name: Tertre errant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Shambling Mound](srd_monsters_shambling_mound.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Tertre errant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Shambling Mound](srd_monsters_shambling_mound.md)
 -  Plante de taille G, non-alignée
 - **Classe d'armure** 15 (armure naturelle)

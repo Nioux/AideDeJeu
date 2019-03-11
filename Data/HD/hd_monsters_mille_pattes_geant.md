@@ -22,6 +22,7 @@ Name: Mille-pattes géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Mille-pattes géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Centipede](srd_monsters_giant_centipede.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

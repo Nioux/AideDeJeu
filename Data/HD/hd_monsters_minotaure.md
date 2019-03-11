@@ -23,6 +23,7 @@ Name: Minotaure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Minotaur](srd_monsters_minotaur.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Minotaure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Minotaur](srd_monsters_minotaur.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 14 (armure naturelle)

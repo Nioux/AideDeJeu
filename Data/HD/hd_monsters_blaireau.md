@@ -22,6 +22,7 @@ Name: Blaireau
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Badger](srd_monsters_badger.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Blaireau
 
+- Source: (CEO p)(SRD p)
 - SRD: [Badger](srd_monsters_badger.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 10

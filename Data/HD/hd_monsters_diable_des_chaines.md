@@ -26,6 +26,7 @@ Name: Diable des chaînes
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Chain Devil](srd_monsters_chain_devil.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Diable des chaînes
 
+- Source: (CEO p)(SRD p)
 - SRD: [Chain Devil](srd_monsters_chain_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure naturelle)

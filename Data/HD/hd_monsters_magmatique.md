@@ -24,6 +24,7 @@ Name: Magmatique
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Magmin](srd_monsters_magmin.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Magmatique
 
+- Source: (CEO p)(SRD p)
 - SRD: [Magmin](srd_monsters_magmin.md)
 -  Élémentaire de taille P, Chaotique Neutre
 - **Classe d'armure** 14 (armure naturelle)

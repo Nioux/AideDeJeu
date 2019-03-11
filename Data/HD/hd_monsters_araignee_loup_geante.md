@@ -23,6 +23,7 @@ Name: Araignée-loup géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Araignée-loup géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 13

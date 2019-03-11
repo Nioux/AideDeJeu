@@ -23,6 +23,7 @@ Name: Serpent venimeux géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Serpent venimeux géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 14

@@ -24,6 +24,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Cerbère
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Cerbère
 
+- Source: (CEO p)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 102 (12d10+36)

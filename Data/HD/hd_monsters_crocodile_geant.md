@@ -23,6 +23,7 @@ Name: Crocodile géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Crocodile](srd_monsters_giant_crocodile.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Crocodile géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Crocodile](srd_monsters_giant_crocodile.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 14 (armure naturelle)

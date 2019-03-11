@@ -25,6 +25,7 @@ Name: Jeune dragon de cuivre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Jeune dragon de cuivre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Copper Dragon](srd_monsters_young_copper_dragon.md)
 -  Dragon de taille G, Chaotique Bon
 - **Classe d'armure** 17 (armure naturelle)

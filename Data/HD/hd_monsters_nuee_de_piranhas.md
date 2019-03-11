@@ -24,6 +24,7 @@ Name: Nuée de piranhas
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Nuée de piranhas
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Quippers](srd_monsters_swarm_of_quippers.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 13

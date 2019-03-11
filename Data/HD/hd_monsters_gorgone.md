@@ -24,6 +24,7 @@ Name: Gorgone
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gorgon](srd_monsters_gorgon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Gorgone
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gorgon](srd_monsters_gorgon.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 19 (armure naturelle)

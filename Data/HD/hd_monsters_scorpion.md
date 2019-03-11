@@ -22,6 +22,7 @@ Name: Scorpion
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Scorpion](srd_monsters_scorpion.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Scorpion
 
+- Source: (CEO p)(SRD p)
 - SRD: [Scorpion](srd_monsters_scorpion.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 11 (armure naturelle)

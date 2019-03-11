@@ -24,6 +24,7 @@ Name: Goule
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ghoul](srd_monsters_ghoul.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Goule
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ghoul](srd_monsters_ghoul.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 12

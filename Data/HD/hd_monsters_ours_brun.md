@@ -23,6 +23,7 @@ Name: Ours brun
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Brown Bear](srd_monsters_brown_bear.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Ours brun
 
+- Source: (CEO p)(SRD p)
 - SRD: [Brown Bear](srd_monsters_brown_bear.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11 (armure naturelle)

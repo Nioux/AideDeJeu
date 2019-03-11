@@ -22,6 +22,7 @@ Name: Roturier
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Commoner](srd_monsters_commoner.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Roturier
 
+- Source: (CEO p)(SRD p)
 - SRD: [Commoner](srd_monsters_commoner.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 10

@@ -21,6 +21,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Kobold, saigneur
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -29,6 +30,7 @@ Attributes: {}
 
 # Kobold, saigneur
 
+- Source: (CEO p)
 -  Humanoïde (kobold) de taille P, Neutre Mauvais
 - **Classe d'armure** 13
 - **Points de vie** 17 (5d6)

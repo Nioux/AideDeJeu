@@ -25,6 +25,7 @@ Name: Dragon blanc vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragon blanc vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient White Dragon](srd_monsters_ancient_white_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 20 (armure naturelle)

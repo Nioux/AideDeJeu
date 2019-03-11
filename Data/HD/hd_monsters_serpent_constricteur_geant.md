@@ -23,6 +23,7 @@ Name: Serpent constricteur géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Serpent constricteur géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 12

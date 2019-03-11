@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Remorhaz
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Remorhaz
 
+- Source: (CEO p)
 -  Créature monstrueuse de taille TG, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 195 (17d12+85)

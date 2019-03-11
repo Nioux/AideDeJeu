@@ -23,6 +23,7 @@ Name: Pieuvre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Octopus](srd_monsters_octopus.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Pieuvre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Octopus](srd_monsters_octopus.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12

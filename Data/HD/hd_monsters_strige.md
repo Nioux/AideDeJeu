@@ -22,6 +22,7 @@ Name: Strige
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Stirge](srd_monsters_stirge.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Strige
 
+- Source: (CEO p)(SRD p)
 - SRD: [Stirge](srd_monsters_stirge.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 14 (armure naturelle)

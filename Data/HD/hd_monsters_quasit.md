@@ -26,6 +26,7 @@ Name: Quasit
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Quasit](srd_monsters_quasit.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Quasit
 
+- Source: (CEO p)(SRD p)
 - SRD: [Quasit](srd_monsters_quasit.md)
 -  Fiélon (démon, métamorphe) de taille TP, Chaotique Mauvais
 - **Classe d'armure** 13

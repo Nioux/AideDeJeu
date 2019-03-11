@@ -25,6 +25,7 @@ Name: Dragonnet d'or
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragonnet d'or
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)

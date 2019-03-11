@@ -26,6 +26,7 @@ Name: Élémentaire de la terre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Earth Elemental](srd_monsters_earth_elemental.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Élémentaire de la terre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Earth Elemental](srd_monsters_earth_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Classe d'armure** 17 (armure naturelle)

@@ -24,6 +24,7 @@ Name: Succube/Incube
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Succubus](srd_monsters_succubus.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Succube/Incube
 
+- Source: (CEO p)(SRD p)
 - SRD: [Succubus](srd_monsters_succubus.md)
 -  Fiélon (métamorphe) de taille M, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)

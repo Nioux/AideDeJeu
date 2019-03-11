@@ -24,6 +24,7 @@ Name: Mage
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mage](srd_monsters_mage.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Mage
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mage](srd_monsters_mage.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12 (15 avec armure du mage)

@@ -23,6 +23,7 @@ Name: Tigre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Tiger](srd_monsters_tiger.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Tigre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Tiger](srd_monsters_tiger.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12

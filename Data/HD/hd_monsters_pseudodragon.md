@@ -23,6 +23,7 @@ Name: Pseudodragon
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Pseudodragon](srd_monsters_pseudodragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Pseudodragon
 
+- Source: (CEO p)(SRD p)
 - SRD: [Pseudodragon](srd_monsters_pseudodragon.md)
 -  Dragon de taille TP, Neutre Bon
 - **Classe d'armure** 13 (armure naturelle)

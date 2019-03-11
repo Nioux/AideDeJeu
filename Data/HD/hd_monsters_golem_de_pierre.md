@@ -24,6 +24,7 @@ Name: Golem de pierre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Stone Golem](srd_monsters_stone_golem.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Golem de pierre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Stone Golem](srd_monsters_stone_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 17 (armure naturelle)

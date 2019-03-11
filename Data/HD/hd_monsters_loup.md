@@ -23,6 +23,7 @@ Name: Loup
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wolf](srd_monsters_wolf.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Loup
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wolf](srd_monsters_wolf.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

@@ -22,6 +22,7 @@ Name: Chevreuil
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Deer](srd_monsters_deer.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Chevreuil
 
+- Source: (CEO p)(SRD p)
 - SRD: [Deer](srd_monsters_deer.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 13

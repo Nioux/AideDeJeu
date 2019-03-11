@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Gobelours, chef barbare
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Gobelours, chef barbare
 
+- Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille M, chaotique mauvais
 - **Classe d'armure** 16 (armure de peau, bouclier)
 - **Points de vie** 55 (10d8+10)

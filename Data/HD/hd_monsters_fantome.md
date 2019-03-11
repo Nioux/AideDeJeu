@@ -25,6 +25,7 @@ Name: Fantôme
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ghost](srd_monsters_ghost.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Fantôme
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ghost](srd_monsters_ghost.md)
 -  Mort-vivant de taille M, n'importe quel alignement
 - **Classe d'armure** 11

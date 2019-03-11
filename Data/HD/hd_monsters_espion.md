@@ -23,6 +23,7 @@ Name: Espion
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Spy](srd_monsters_spy.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Espion
 
+- Source: (CEO p)(SRD p)
 - SRD: [Spy](srd_monsters_spy.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12

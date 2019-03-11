@@ -26,6 +26,7 @@ Name: Déva
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Deva](srd_monsters_deva.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Déva
 
+- Source: (CEO p)(SRD p)
 - SRD: [Deva](srd_monsters_deva.md)
 -  Céleste de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)

@@ -23,6 +23,7 @@ Name: Hydre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hydra](srd_monsters_hydra.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Hydre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hydra](srd_monsters_hydra.md)
 -  Créature monstrueuse de taille TG, non-alignée
 - **Classe d'armure** 15 (armure naturelle)

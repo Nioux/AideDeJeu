@@ -22,6 +22,7 @@ Name: Harpie
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Harpy](srd_monsters_harpy.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Harpie
 
+- Source: (CEO p)(SRD p)
 - SRD: [Harpy](srd_monsters_harpy.md)
 -  Créature monstrueuse de taille M, Chaotique Mauvais
 - **Classe d'armure** 11

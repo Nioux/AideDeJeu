@@ -23,6 +23,7 @@ Name: Géant des collines
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hill Giant](srd_monsters_hill_giant.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Géant des collines
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hill Giant](srd_monsters_hill_giant.md)
 -  Géant de taille TG, Chaotique Mauvais
 - **Classe d'armure** 13 (armure naturelle)

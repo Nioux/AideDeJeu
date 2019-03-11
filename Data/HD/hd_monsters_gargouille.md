@@ -25,6 +25,7 @@ Name: Gargouille
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gargoyle](srd_monsters_gargoyle.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Gargouille
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gargoyle](srd_monsters_gargoyle.md)
 -  Élémentaire de taille M, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)

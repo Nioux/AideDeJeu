@@ -25,6 +25,7 @@ Name: Nuée de corbeaux
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Nuée de corbeaux
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Ravens](srd_monsters_swarm_of_ravens.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 12

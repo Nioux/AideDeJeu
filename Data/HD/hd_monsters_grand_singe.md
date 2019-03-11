@@ -23,6 +23,7 @@ Name: Grand singe
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ape](srd_monsters_ape.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Grand singe
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ape](srd_monsters_ape.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 12

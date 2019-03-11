@@ -23,6 +23,7 @@ Name: Tigre à dents de sabre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Tigre à dents de sabre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12

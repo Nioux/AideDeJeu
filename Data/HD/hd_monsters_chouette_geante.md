@@ -23,6 +23,7 @@ Name: Chouette géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Owl](srd_monsters_giant_owl.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Chouette géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Owl](srd_monsters_giant_owl.md)
 -  Bête de taille G, neutre
 - **Classe d'armure** 12

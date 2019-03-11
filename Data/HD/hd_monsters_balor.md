@@ -26,6 +26,7 @@ Name: Balor
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Balor](srd_monsters_balor.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Balor
 
+- Source: (CEO p)(SRD p)
 - SRD: [Balor](srd_monsters_balor.md)
 -  Fiélon (démon) de taille TG, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)

@@ -22,6 +22,7 @@ Name: Serpent constricteur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Constrictor Snake](srd_monsters_constrictor_snake.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Serpent constricteur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Constrictor Snake](srd_monsters_constrictor_snake.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12

@@ -23,6 +23,7 @@ Name: Drider
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Drider](srd_monsters_drider.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Drider
 
+- Source: (CEO p)(SRD p)
 - SRD: [Drider](srd_monsters_drider.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)

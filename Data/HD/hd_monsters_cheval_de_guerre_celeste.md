@@ -26,6 +26,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Cheval de guerre céleste
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Cheval de guerre céleste
 
+- Source: (CEO p)
 -  Bête de taille G, Loyal Bon
 - **Classe d'armure** 13
 - **Points de vie** 59 (7d10+21)

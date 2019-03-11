@@ -26,6 +26,7 @@ Name: Dragon vert adulte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Adult Green Dragon](srd_monsters_adult_green_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Dragon vert adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Green Dragon](srd_monsters_adult_green_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)

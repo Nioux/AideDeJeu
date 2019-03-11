@@ -24,6 +24,7 @@ Name: Ours-garou
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Werebear](srd_monsters_werebear.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Ours-garou
 
+- Source: (CEO p)(SRD p)
 - SRD: [Werebear](srd_monsters_werebear.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Bon
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours

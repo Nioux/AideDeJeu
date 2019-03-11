@@ -26,6 +26,7 @@ Name: Érinye
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Erinyes](srd_monsters_erinyes.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Érinye
 
+- Source: (CEO p)(SRD p)
 - SRD: [Erinyes](srd_monsters_erinyes.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 18 (harnois)

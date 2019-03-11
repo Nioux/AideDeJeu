@@ -24,6 +24,7 @@ Name: Golem de fer
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Iron Golem](srd_monsters_iron_golem.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Golem de fer
 
+- Source: (CEO p)(SRD p)
 - SRD: [Iron Golem](srd_monsters_iron_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 20 (armure naturelle)

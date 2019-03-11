@@ -25,6 +25,7 @@ Name: Assassin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Assassin](srd_monsters_assassin.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Assassin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Assassin](srd_monsters_assassin.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 15 (armure de cuir clouté)

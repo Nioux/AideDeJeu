@@ -23,6 +23,7 @@ Name: Babélien
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gibbering Mouther](srd_monsters_gibbering_mouther.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Babélien
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gibbering Mouther](srd_monsters_gibbering_mouther.md)
 -  Aberration de taille M, neutre
 - **Classe d'armure** 9

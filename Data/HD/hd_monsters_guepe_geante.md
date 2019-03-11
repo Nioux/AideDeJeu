@@ -22,6 +22,7 @@ Name: Guêpe géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Wasp](srd_monsters_giant_wasp.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Guêpe géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Wasp](srd_monsters_giant_wasp.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 12

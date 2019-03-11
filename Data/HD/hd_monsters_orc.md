@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Orc
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Orc
 
+- Source: (CEO p)
 -  Humanoïde (orc) de taille M, Chaotique Mauvais
 - **Classe d'armure** 13 (armure de peau)
 - **Points de vie** 15 (2d8+6)

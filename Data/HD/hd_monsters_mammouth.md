@@ -22,6 +22,7 @@ Name: Mammouth
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mammoth](srd_monsters_mammoth.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Mammouth
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mammoth](srd_monsters_mammoth.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

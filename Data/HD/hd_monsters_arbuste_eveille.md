@@ -24,6 +24,7 @@ Name: Arbuste éveillé
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Awakened Shrub](srd_monsters_awakened_shrub.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Arbuste éveillé
 
+- Source: (CEO p)(SRD p)
 - SRD: [Awakened Shrub](srd_monsters_awakened_shrub.md)
 -  Plante de taille P, non-alignée
 - **Classe d'armure** 9

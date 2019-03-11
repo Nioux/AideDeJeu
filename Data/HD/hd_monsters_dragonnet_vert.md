@@ -26,6 +26,7 @@ Name: Dragonnet vert
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Dragonnet vert
 
+- Source: (CEO p)(SRD p)
 - SRD: [Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)

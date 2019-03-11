@@ -23,6 +23,7 @@ Name: Requin géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Shark](srd_monsters_giant_shark.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Requin géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Shark](srd_monsters_giant_shark.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

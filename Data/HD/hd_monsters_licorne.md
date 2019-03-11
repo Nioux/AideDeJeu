@@ -24,6 +24,7 @@ Name: Licorne
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Unicorn](srd_monsters_unicorn.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Licorne
 
+- Source: (CEO p)(SRD p)
 - SRD: [Unicorn](srd_monsters_unicorn.md)
 -  Céleste de taille G, Loyal Bon
 - **Classe d'armure** 12

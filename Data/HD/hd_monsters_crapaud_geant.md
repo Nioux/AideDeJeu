@@ -22,6 +22,7 @@ Name: Crapaud géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Toad](srd_monsters_giant_toad.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Crapaud géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Toad](srd_monsters_giant_toad.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11

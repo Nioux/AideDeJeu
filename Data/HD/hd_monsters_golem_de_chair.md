@@ -24,6 +24,7 @@ Name: Golem de chair
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Flesh Golem](srd_monsters_flesh_golem.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Golem de chair
 
+- Source: (CEO p)(SRD p)
 - SRD: [Flesh Golem](srd_monsters_flesh_golem.md)
 -  Créature artificielle de taille M, neutre
 - **Classe d'armure** 9

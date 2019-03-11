@@ -23,6 +23,7 @@ Name: Cube gélatineux
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Cube gélatineux
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gelatinous Cube](srd_monsters_gelatinous_cube.md)
 -  Vase de taille G, non-alignée
 - **Classe d'armure** 6

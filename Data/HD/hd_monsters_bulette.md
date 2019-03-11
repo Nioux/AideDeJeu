@@ -23,6 +23,7 @@ Name: Bulette
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bulette](srd_monsters_bulette.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Bulette
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bulette](srd_monsters_bulette.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 17 (armure naturelle)

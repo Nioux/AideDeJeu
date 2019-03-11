@@ -23,6 +23,7 @@ Name: Criard
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Shrieker](srd_monsters_shrieker.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Criard
 
+- Source: (CEO p)(SRD p)
 - SRD: [Shrieker](srd_monsters_shrieker.md)
 -  Plante de taille M, non-alignée
 - **Classe d'armure** 5

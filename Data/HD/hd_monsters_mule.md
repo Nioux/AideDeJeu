@@ -22,6 +22,7 @@ Name: Mule
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mule](srd_monsters_mule.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Mule
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mule](srd_monsters_mule.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 10

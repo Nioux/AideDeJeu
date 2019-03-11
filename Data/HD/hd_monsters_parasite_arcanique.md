@@ -24,6 +24,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Parasite arcanique
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Parasite arcanique
 
+- Source: (CEO p)
 -  Aberration de taille TP, Neutre
 - **Classe d'armure** 12
 - **Points de vie** 7 (2d6)

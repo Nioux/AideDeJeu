@@ -25,6 +25,7 @@ Name: Gelée ocre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ochre Jelly](srd_monsters_ochre_jelly.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Gelée ocre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ochre Jelly](srd_monsters_ochre_jelly.md)
 -  Vase de taille G, non-alignée
 - **Classe d'armure** 8

@@ -23,6 +23,7 @@ Name: Crabe géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Crab](srd_monsters_giant_crab.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Crabe géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Crab](srd_monsters_giant_crab.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 15 (armure naturelle)

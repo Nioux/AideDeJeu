@@ -24,6 +24,7 @@ Name: Dragon-tortue
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Dragon Turtle](srd_monsters_dragon_turtle.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Dragon-tortue
 
+- Source: (CEO p)(SRD p)
 - SRD: [Dragon Turtle](srd_monsters_dragon_turtle.md)
 -  Dragon de taille Gig, neutre
 - **Classe d'armure** 20 (armure naturelle)

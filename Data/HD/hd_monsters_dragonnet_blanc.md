@@ -25,6 +25,7 @@ Name: Dragonnet blanc
 ParentName: Créatures
 NameLevel: 1
 AltName: '[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragonnet blanc
 
+- Source: (CEO p)(SRD p)
 - SRD: [White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 16 (armure naturelle)

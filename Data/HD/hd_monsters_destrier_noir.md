@@ -23,6 +23,7 @@ Name: Destrier noir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Nightmare](srd_monsters_nightmare.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Destrier noir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Nightmare](srd_monsters_nightmare.md)
 -  Fiélon de taille G, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)

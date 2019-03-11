@@ -23,6 +23,7 @@ Name: Faucon de sang
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Blood Hawk](srd_monsters_blood_hawk.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Faucon de sang
 
+- Source: (CEO p)(SRD p)
 - SRD: [Blood Hawk](srd_monsters_blood_hawk.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12

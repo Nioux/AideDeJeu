@@ -22,6 +22,7 @@ Name: Rhinocéros
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Rhinoceros](srd_monsters_rhinoceros.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Rhinocéros
 
+- Source: (CEO p)(SRD p)
 - SRD: [Rhinoceros](srd_monsters_rhinoceros.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11 (armure naturelle)

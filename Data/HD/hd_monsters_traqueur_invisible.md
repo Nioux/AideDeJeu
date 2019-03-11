@@ -25,6 +25,7 @@ Name: Traqueur invisible
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Invisible Stalker](srd_monsters_invisible_stalker.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Traqueur invisible
 
+- Source: (CEO p)(SRD p)
 - SRD: [Invisible Stalker](srd_monsters_invisible_stalker.md)
 -  Élémentaire de taille M, neutre
 - **Classe d'armure** 14

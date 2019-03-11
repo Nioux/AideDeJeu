@@ -22,6 +22,7 @@ Name: Chèvre géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Goat](srd_monsters_giant_goat.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Chèvre géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Goat](srd_monsters_giant_goat.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11 (armure naturelle)

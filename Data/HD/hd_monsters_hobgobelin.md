@@ -22,6 +22,7 @@ Name: Hobgobelin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Hobgobelin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hobgoblin](srd_monsters_hobgoblin.md)
 -  Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
 - **Classe d'armure** 18 (bouclier, cotte de mailles)

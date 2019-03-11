@@ -23,6 +23,7 @@ Name: Panthère
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Panther](srd_monsters_panther.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Panthère
 
+- Source: (CEO p)(SRD p)
 - SRD: [Panther](srd_monsters_panther.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12

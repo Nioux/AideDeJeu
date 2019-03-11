@@ -24,6 +24,7 @@ Name: Gladiateur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gladiator](srd_monsters_gladiator.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Gladiateur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gladiator](srd_monsters_gladiator.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 16 (armure de cuir clouté, bouclier)

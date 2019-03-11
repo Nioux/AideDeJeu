@@ -23,6 +23,7 @@ Name: Grenouille géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Frog](srd_monsters_giant_frog.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Grenouille géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Frog](srd_monsters_giant_frog.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 11

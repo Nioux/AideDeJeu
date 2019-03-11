@@ -22,6 +22,7 @@ Name: Bec de hache
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Axe Beak](srd_monsters_axe_beak.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Bec de hache
 
+- Source: (CEO p)(SRD p)
 - SRD: [Axe Beak](srd_monsters_axe_beak.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11

@@ -23,6 +23,7 @@ Name: Chien du trépas
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Death Dog](srd_monsters_death_dog.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Chien du trépas
 
+- Source: (CEO p)(SRD p)
 - SRD: [Death Dog](srd_monsters_death_dog.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
 - **Classe d'armure** 12

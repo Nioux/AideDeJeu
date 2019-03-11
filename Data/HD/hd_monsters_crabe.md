@@ -23,6 +23,7 @@ Name: Crabe
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Crab](srd_monsters_crab.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Crabe
 
+- Source: (CEO p)(SRD p)
 - SRD: [Crab](srd_monsters_crab.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 11 (armure naturelle)

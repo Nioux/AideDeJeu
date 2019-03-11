@@ -25,6 +25,7 @@ Name: Dragon noir adulte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Adult Black Dragon](srd_monsters_adult_black_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragon noir adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Black Dragon](srd_monsters_adult_black_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)

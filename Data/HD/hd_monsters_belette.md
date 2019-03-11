@@ -23,6 +23,7 @@ Name: Belette
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Weasel](srd_monsters_weasel.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Belette
 
+- Source: (CEO p)(SRD p)
 - SRD: [Weasel](srd_monsters_weasel.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 13

@@ -22,6 +22,7 @@ Name: Serpent venimeux
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Poisonous Snake](srd_monsters_poisonous_snake.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Serpent venimeux
 
+- Source: (CEO p)(SRD p)
 - SRD: [Poisonous Snake](srd_monsters_poisonous_snake.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 13

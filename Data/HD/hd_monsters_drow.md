@@ -23,6 +23,7 @@ Name: Drow
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Drow](srd_monsters_drow.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Drow
 
+- Source: (CEO p)(SRD p)
 - SRD: [Drow](srd_monsters_drow.md)
 -  Humanoïde (elfe) de taille M, Neutre Mauvais
 - **Classe d'armure** 15 (chemise de mailles)

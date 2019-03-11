@@ -23,6 +23,7 @@ Name: Enlaceur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Roper](srd_monsters_roper.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Enlaceur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Roper](srd_monsters_roper.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 20 (armure naturelle)

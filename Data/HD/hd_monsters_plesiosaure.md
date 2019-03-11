@@ -23,6 +23,7 @@ Name: Plésiosaure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Plésiosaure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Plesiosaurus](srd_monsters_plesiosaurus.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

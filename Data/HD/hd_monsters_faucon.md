@@ -23,6 +23,7 @@ Name: Faucon
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hawk](srd_monsters_hawk.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Faucon
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hawk](srd_monsters_hawk.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 13

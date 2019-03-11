@@ -23,6 +23,7 @@ Name: Requin de récif
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Reef Shark](srd_monsters_reef_shark.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Requin de récif
 
+- Source: (CEO p)(SRD p)
 - SRD: [Reef Shark](srd_monsters_reef_shark.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 12 (armure naturelle)

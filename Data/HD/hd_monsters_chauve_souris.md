@@ -22,6 +22,7 @@ Name: Chauve-souris
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bat](srd_monsters_bat.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Chauve-souris
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bat](srd_monsters_bat.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 12

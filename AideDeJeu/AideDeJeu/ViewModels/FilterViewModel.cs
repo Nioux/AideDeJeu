@@ -251,7 +251,7 @@ namespace AideDeJeu.ViewModels
                         (
                             (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )).OrderBy(spell => spell.Name).ToList();
+                        )).OrderBy(spell => Helpers.RemoveDiacritics(spell.Name)).ToList();
                 }
             }
             catch
@@ -365,7 +365,7 @@ namespace AideDeJeu.ViewModels
                             (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
                         )
-                    ).OrderBy(monster => monster.Name).ToList();
+                    ).OrderBy(monster => Helpers.RemoveDiacritics(monster.Name)).ToList();
                 }
             }
             catch

@@ -23,6 +23,7 @@ Name: Dryade
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Dryad](srd_monsters_dryad.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Dryade
 
+- Source: (CEO p)(SRD p)
 - SRD: [Dryad](srd_monsters_dryad.md)
 -  Fée de taille M, neutre
 - **Classe d'armure** 11 (16 avec peau d'écorce)

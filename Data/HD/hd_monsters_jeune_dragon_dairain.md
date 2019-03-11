@@ -25,6 +25,7 @@ Name: Jeune dragon d'airain
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Jeune dragon d'airain
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Brass Dragon](srd_monsters_young_brass_dragon.md)
 -  Dragon de taille G, Chaotique Bon
 - **Classe d'armure** 17 (armure naturelle)

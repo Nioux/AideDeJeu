@@ -25,6 +25,7 @@ Name: Squelette cheval de guerre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Squelette cheval de guerre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
 - **Classe d'armure** 13 (débris de barde)

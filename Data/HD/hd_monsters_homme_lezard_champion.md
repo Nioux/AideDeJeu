@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Homme-lézard, champion
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Homme-lézard, champion
 
+- Source: (CEO p)
 -  Humanoïde (homme-lézard) de taille M, Neutre
 - **Classe d'armure** 15 (armure naturelle, bouclier)
 - **Points de vie** 44 (8d8+8)

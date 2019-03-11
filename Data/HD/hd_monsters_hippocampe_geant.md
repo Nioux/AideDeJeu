@@ -22,6 +22,7 @@ Name: Hippocampe géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Sea Horse](srd_monsters_giant_sea_horse.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Hippocampe géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Sea Horse](srd_monsters_giant_sea_horse.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

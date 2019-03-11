@@ -23,6 +23,7 @@ Name: Belette géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Weasel](srd_monsters_giant_weasel.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Belette géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Weasel](srd_monsters_giant_weasel.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 13

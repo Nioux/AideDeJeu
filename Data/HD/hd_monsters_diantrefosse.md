@@ -26,6 +26,7 @@ Name: Diantrefosse
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Pit Fiend](srd_monsters_pit_fiend.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Diantrefosse
 
+- Source: (CEO p)(SRD p)
 - SRD: [Pit Fiend](srd_monsters_pit_fiend.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)

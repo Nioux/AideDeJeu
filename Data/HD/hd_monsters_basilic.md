@@ -22,6 +22,7 @@ Name: Basilic
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Basilisk](srd_monsters_basilisk.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Basilic
 
+- Source: (CEO p)(SRD p)
 - SRD: [Basilisk](srd_monsters_basilisk.md)
 -  Créature monstrueuse de taille M, non-alignée
 - **Classe d'armure** 15 (armure naturelle)

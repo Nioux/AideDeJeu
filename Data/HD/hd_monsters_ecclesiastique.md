@@ -23,6 +23,7 @@ Name: Ecclésiastique
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Priest](srd_monsters_priest.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Ecclésiastique
 
+- Source: (CEO p)(SRD p)
 - SRD: [Priest](srd_monsters_priest.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 13 (chemise de mailles)

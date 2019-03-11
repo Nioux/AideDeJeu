@@ -23,6 +23,7 @@ Name: Chien esquiveur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Blink Dog](srd_monsters_blink_dog.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Chien esquiveur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Blink Dog](srd_monsters_blink_dog.md)
 -  Fée de taille M, Loyal Bon
 - **Classe d'armure** 13

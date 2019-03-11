@@ -25,6 +25,7 @@ Name: Spectre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Specter](srd_monsters_specter.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Spectre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Specter](srd_monsters_specter.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 12

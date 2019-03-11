@@ -25,6 +25,7 @@ Name: Guenaude nocturne
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Night Hag](srd_monsters_night_hag.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Guenaude nocturne
 
+- Source: (CEO p)(SRD p)
 - SRD: [Night Hag](srd_monsters_night_hag.md)
 -  Fiélon de taille M, Neutre Mauvais
 - **Classe d'armure** 17 (armure naturelle)

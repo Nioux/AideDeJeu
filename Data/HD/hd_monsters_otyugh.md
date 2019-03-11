@@ -23,6 +23,7 @@ Name: Otyugh
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Otyugh](srd_monsters_otyugh.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Otyugh
 
+- Source: (CEO p)(SRD p)
 - SRD: [Otyugh](srd_monsters_otyugh.md)
 -  Aberration de taille G, Neutre
 - **Classe d'armure** 14 (armure naturelle)

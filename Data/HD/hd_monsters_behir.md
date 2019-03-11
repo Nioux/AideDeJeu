@@ -24,6 +24,7 @@ Name: Béhir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Behir](srd_monsters_behir.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Béhir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Behir](srd_monsters_behir.md)
 -  Créature monstrueuse de taille TG, Neutre Mauvais
 - **Classe d'armure** 17 (armure naturelle)

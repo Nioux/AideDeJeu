@@ -25,6 +25,7 @@ Name: Dragon de cuivre vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragon de cuivre vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
 - **Classe d'armure** 21 (armure naturelle)

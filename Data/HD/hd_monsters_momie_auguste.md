@@ -27,6 +27,7 @@ Name: Momie auguste
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mummy Lord](srd_monsters_mummy_lord.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -35,6 +36,7 @@ Attributes: {}
 
 # Momie auguste
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mummy Lord](srd_monsters_mummy_lord.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)

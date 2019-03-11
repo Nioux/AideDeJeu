@@ -25,6 +25,7 @@ Name: Naga gardien
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Guardian Naga](srd_monsters_guardian_naga.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Naga gardien
 
+- Source: (CEO p)(SRD p)
 - SRD: [Guardian Naga](srd_monsters_guardian_naga.md)
 -  Créature monstrueuse de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)

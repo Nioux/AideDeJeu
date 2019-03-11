@@ -26,6 +26,7 @@ Name: Diablotin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Imp](srd_monsters_imp.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Diablotin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Imp](srd_monsters_imp.md)
 -  Fiélon (diable, métamorphe) de taille TP, Loyal Mauvais
 - **Classe d'armure** 13

@@ -23,6 +23,7 @@ Name: Vautour géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Vulture](srd_monsters_giant_vulture.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Vautour géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Vulture](srd_monsters_giant_vulture.md)
 -  Bête de taille G, Neutre Mauvais
 - **Classe d'armure** 10

@@ -23,6 +23,7 @@ Name: Membre de secte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cultist](srd_monsters_cultist.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Membre de secte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cultist](srd_monsters_cultist.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 12 (armure de cuir)

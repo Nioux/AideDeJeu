@@ -23,6 +23,7 @@ Name: Homme-lézard
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lizardfolk](srd_monsters_lizardfolk.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Homme-lézard
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lizardfolk](srd_monsters_lizardfolk.md)
 -  Humanoïde (homme-lézard) de taille M, Neutre
 - **Classe d'armure** 15 (armure naturelle, bouclier)

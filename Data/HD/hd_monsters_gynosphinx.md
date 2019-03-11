@@ -26,6 +26,7 @@ Name: Gynosphinx
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Gynosphinx](srd_monsters_gynosphinx.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Gynosphinx
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gynosphinx](srd_monsters_gynosphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
 - **Classe d'armure** 17 (armure naturelle)

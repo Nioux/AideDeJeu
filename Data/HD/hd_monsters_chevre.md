@@ -22,6 +22,7 @@ Name: Chèvre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Goat](srd_monsters_goat.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Chèvre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Goat](srd_monsters_goat.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 10

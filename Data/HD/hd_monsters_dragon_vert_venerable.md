@@ -26,6 +26,7 @@ Name: Dragon vert vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Dragon vert vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
 - **Classe d'armure** 21 (armure naturelle)

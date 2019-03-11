@@ -25,6 +25,7 @@ Name: Dragon de bronze adulte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragon de bronze adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)

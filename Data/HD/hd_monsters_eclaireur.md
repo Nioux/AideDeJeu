@@ -23,6 +23,7 @@ Name: Éclaireur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Scout](srd_monsters_scout.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Éclaireur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Scout](srd_monsters_scout.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 13 (armure de cuir)

@@ -24,6 +24,7 @@ Name: Golem d'argile
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Clay Golem](srd_monsters_clay_golem.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Golem d'argile
 
+- Source: (CEO p)(SRD p)
 - SRD: [Clay Golem](srd_monsters_clay_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle)

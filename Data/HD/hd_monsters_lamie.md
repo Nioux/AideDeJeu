@@ -23,6 +23,7 @@ Name: Lamie
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lamia](srd_monsters_lamia.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Lamie
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lamia](srd_monsters_lamia.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 13 (armure naturelle)

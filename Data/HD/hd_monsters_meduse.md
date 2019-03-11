@@ -23,6 +23,7 @@ Name: Méduse
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Medusa](srd_monsters_medusa.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Méduse
 
+- Source: (CEO p)(SRD p)
 - SRD: [Medusa](srd_monsters_medusa.md)
 -  Créature monstrueuse de taille M, Loyal Mauvais
 - **Classe d'armure** 15 (armure naturelle)

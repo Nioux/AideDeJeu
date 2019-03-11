@@ -31,6 +31,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Aboleth](srd_monsters_aboleth.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -59,6 +60,7 @@ SubItems:
   Name: Abothid
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -86,6 +88,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wraith](srd_monsters_wraith.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -110,6 +113,7 @@ SubItems:
   Name: Amphibe
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -138,6 +142,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Deva](srd_monsters_deva.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -166,6 +171,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Planetar](srd_monsters_planetar.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -195,6 +201,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Solar](srd_monsters_solar.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -219,6 +226,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ankheg](srd_monsters_ankheg.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -246,6 +254,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Azer](srd_monsters_azer.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -271,6 +280,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gibbering Mouther](srd_monsters_gibbering_mouther.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -295,6 +305,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Basilisk](srd_monsters_basilisk.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -321,6 +332,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Behir](srd_monsters_behir.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -346,6 +358,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bulette](srd_monsters_bulette.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -371,6 +384,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Centaur](srd_monsters_centaur.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -397,6 +411,7 @@ SubItems:
   Name: Cerbère
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -422,6 +437,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Shrieker](srd_monsters_shrieker.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -447,6 +463,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Violet Fungus](srd_monsters_violet_fungus.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -472,6 +489,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Chimera](srd_monsters_chimera.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -499,6 +517,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Chuul](srd_monsters_chuul.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -523,6 +542,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cockatrice](srd_monsters_cockatrice.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -550,6 +570,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Couatl](srd_monsters_couatl.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -575,6 +596,7 @@ SubItems:
   Name: Vétéran demi-dragon rouge
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -603,6 +625,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Balor](srd_monsters_balor.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -630,6 +653,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Dretch](srd_monsters_dretch.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -658,6 +682,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -686,6 +711,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hezrou](srd_monsters_hezrou.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -714,6 +740,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Marilith](srd_monsters_marilith.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -742,6 +769,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Nalfeshnee](srd_monsters_nalfeshnee.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -770,6 +798,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Quasit](srd_monsters_quasit.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -798,6 +827,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Vrock](srd_monsters_vrock.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -823,6 +853,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Nightmare](srd_monsters_nightmare.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -848,6 +879,7 @@ SubItems:
   Name: Dévoreur arcanique
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -877,6 +909,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Barbed Devil](srd_monsters_barbed_devil.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -905,6 +938,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bearded Devil](srd_monsters_bearded_devil.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -933,6 +967,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Horned Devil](srd_monsters_horned_devil.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -961,6 +996,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ice Devil](srd_monsters_ice_devil.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -989,6 +1025,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Chain Devil](srd_monsters_chain_devil.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1018,6 +1055,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1046,6 +1084,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Imp](srd_monsters_imp.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1074,6 +1113,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Pit Fiend](srd_monsters_pit_fiend.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1102,6 +1142,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Erinyes](srd_monsters_erinyes.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1129,6 +1170,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lemure](srd_monsters_lemure.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1153,6 +1195,7 @@ SubItems:
   Name: Diaspaad
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1178,6 +1221,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1202,6 +1246,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Triceratops](srd_monsters_triceratops.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1227,6 +1272,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1253,6 +1299,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Doppelganger](srd_monsters_doppelganger.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1280,6 +1327,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1307,6 +1355,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult White Dragon](srd_monsters_adult_white_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1334,6 +1383,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young White Dragon](srd_monsters_young_white_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1361,6 +1411,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1388,6 +1439,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1415,6 +1467,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1442,6 +1495,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Blue Dragon](srd_monsters_young_blue_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1469,6 +1523,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1496,6 +1551,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1523,6 +1579,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Black Dragon](srd_monsters_adult_black_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1550,6 +1607,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Black Dragon](srd_monsters_young_black_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1577,6 +1635,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1604,6 +1663,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1631,6 +1691,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1658,6 +1719,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Red Dragon](srd_monsters_young_red_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1685,6 +1747,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1713,6 +1776,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1741,6 +1805,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Green Dragon](srd_monsters_adult_green_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1769,6 +1834,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Green Dragon](srd_monsters_young_green_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1797,6 +1863,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1824,6 +1891,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1851,6 +1919,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1878,6 +1947,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1905,6 +1975,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1932,6 +2003,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1959,6 +2031,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -1986,6 +2059,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Silver Dragon](srd_monsters_young_silver_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2013,6 +2087,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2040,6 +2115,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2067,6 +2143,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2094,6 +2171,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2121,6 +2199,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2148,6 +2227,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2175,6 +2255,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2202,6 +2283,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2229,6 +2311,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2256,6 +2339,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2283,6 +2367,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2310,6 +2395,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Young Gold Dragon](srd_monsters_young_gold_dragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2337,6 +2423,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2363,6 +2450,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Dragon Turtle](srd_monsters_dragon_turtle.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2389,6 +2477,7 @@ SubItems:
   Name: Dref
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2414,6 +2503,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Drider](srd_monsters_drider.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2439,6 +2529,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Drow](srd_monsters_drow.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2466,6 +2557,7 @@ SubItems:
   Name: Drow, prêtresse
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2491,6 +2583,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Dryad](srd_monsters_dryad.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2516,6 +2609,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Duergar](srd_monsters_duergar.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2543,6 +2637,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Air Elemental](srd_monsters_air_elemental.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2570,6 +2665,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Water Elemental](srd_monsters_water_elemental.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2597,6 +2693,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2625,6 +2722,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Earth Elemental](srd_monsters_earth_elemental.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2650,6 +2748,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Roper](srd_monsters_roper.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2675,6 +2774,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Sprite](srd_monsters_sprite.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2700,6 +2800,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ettercap](srd_monsters_ettercap.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2725,6 +2826,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ettin](srd_monsters_ettin.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2752,6 +2854,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ghost](srd_monsters_ghost.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2779,6 +2882,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: "[Will-o'-Wisp](srd_monsters_will_o_wisp.md)"
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2805,6 +2909,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Shield Guardian](srd_monsters_shield_guardian.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2832,6 +2937,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gargoyle](srd_monsters_gargoyle.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2857,6 +2963,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hill Giant](srd_monsters_hill_giant.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2883,6 +2990,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cloud Giant](srd_monsters_cloud_giant.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2909,6 +3017,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2937,6 +3046,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2964,6 +3074,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Fire Giant](srd_monsters_fire_giant.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -2991,6 +3102,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Frost Giant](srd_monsters_frost_giant.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3017,6 +3129,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Djinni](srd_monsters_djinni.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3043,6 +3156,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Efreeti](srd_monsters_efreeti.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3067,6 +3181,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gnoll](srd_monsters_gnoll.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3090,6 +3205,7 @@ SubItems:
   Name: Gnoll, chef de meute
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3115,6 +3231,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3140,6 +3257,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Goblin](srd_monsters_goblin.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3164,6 +3282,7 @@ SubItems:
   Name: Gobelin, chaman
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3189,6 +3308,7 @@ SubItems:
   Name: Gobelin blanc
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3214,6 +3334,7 @@ SubItems:
   Name: Chaman gobelin blanc
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3239,6 +3360,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bugbear](srd_monsters_bugbear.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3263,6 +3385,7 @@ SubItems:
   Name: Gobelours, chef barbare
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3289,6 +3412,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Clay Golem](srd_monsters_clay_golem.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3315,6 +3439,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Flesh Golem](srd_monsters_flesh_golem.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3341,6 +3466,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Iron Golem](srd_monsters_iron_golem.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3367,6 +3493,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Stone Golem](srd_monsters_stone_golem.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3393,6 +3520,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gorgon](srd_monsters_gorgon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3419,6 +3547,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ghoul](srd_monsters_ghoul.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3446,6 +3575,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ghast](srd_monsters_ghast.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3471,6 +3601,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Grick](srd_monsters_grick.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3496,6 +3627,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Griffon](srd_monsters_griffon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3520,6 +3652,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Sea Hag](srd_monsters_sea_hag.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3547,6 +3680,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Night Hag](srd_monsters_night_hag.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3572,6 +3706,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Green Hag](srd_monsters_green_hag.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3596,6 +3731,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Harpy](srd_monsters_harpy.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3621,6 +3757,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Owlbear](srd_monsters_owlbear.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3646,6 +3783,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hippogriff](srd_monsters_hippogriff.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3670,6 +3808,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3693,6 +3832,7 @@ SubItems:
   Name: Hobgobelin, sergent
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3718,6 +3858,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lizardfolk](srd_monsters_lizardfolk.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3742,6 +3883,7 @@ SubItems:
   Name: Homme-lézard, champion
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3767,6 +3909,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Merfolk](srd_monsters_merfolk.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3793,6 +3936,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Homunculus](srd_monsters_homunculus.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3818,6 +3962,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hydra](srd_monsters_hydra.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3842,6 +3987,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Kobold](srd_monsters_kobold.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3865,6 +4011,7 @@ SubItems:
   Name: Kobold, saigneur
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3892,6 +4039,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Kraken](srd_monsters_kraken.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3917,6 +4065,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lamia](srd_monsters_lamia.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3945,6 +4094,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lich](srd_monsters_lich.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3971,6 +4121,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Unicorn](srd_monsters_unicorn.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -3997,6 +4148,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Werewolf](srd_monsters_werewolf.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4023,6 +4175,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Werebear](srd_monsters_werebear.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4049,6 +4202,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wererat](srd_monsters_wererat.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4075,6 +4229,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wereboar](srd_monsters_wereboar.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4101,6 +4256,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Weretiger](srd_monsters_weretiger.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4127,6 +4283,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Magmin](srd_monsters_magmin.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4152,6 +4309,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cloaker](srd_monsters_cloaker.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4177,6 +4335,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Darkmantle](srd_monsters_darkmantle.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4201,6 +4360,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Manticore](srd_monsters_manticore.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4226,6 +4386,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Medusa](srd_monsters_medusa.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4254,6 +4415,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4282,6 +4444,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Magma Mephit](srd_monsters_magma_mephit.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4310,6 +4473,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Dust Mephit](srd_monsters_dust_mephit.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4336,6 +4500,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Steam Mephit](srd_monsters_steam_mephit.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4360,6 +4525,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Merrow](srd_monsters_merrow.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4387,6 +4553,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mimic](srd_monsters_mimic.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4412,6 +4579,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Minotaur](srd_monsters_minotaur.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4438,6 +4606,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hell Hound](srd_monsters_hell_hound.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4467,6 +4636,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mummy](srd_monsters_mummy.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4496,6 +4666,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mummy Lord](srd_monsters_mummy_lord.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4523,6 +4694,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Spirit Naga](srd_monsters_spirit_naga.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4550,6 +4722,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Guardian Naga](srd_monsters_guardian_naga.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4578,6 +4751,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wight](srd_monsters_wight.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4604,6 +4778,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Animated Armor](srd_monsters_animated_armor.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4631,6 +4806,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Flying Sword](srd_monsters_flying_sword.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4657,6 +4833,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Rug of Smothering](srd_monsters_rug_of_smothering.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4681,6 +4858,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ogre](srd_monsters_ogre.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4710,6 +4888,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Shadow](srd_monsters_shadow.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4736,6 +4915,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Oni](srd_monsters_oni.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4760,6 +4940,7 @@ SubItems:
   Name: Orc
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4784,6 +4965,7 @@ SubItems:
   Name: Chaman orc
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4809,6 +4991,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Otyugh](srd_monsters_otyugh.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4833,6 +5016,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Rust Monster](srd_monsters_rust_monster.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4859,6 +5043,7 @@ SubItems:
   Name: Parasite arcanique
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4885,6 +5070,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Pegasus](srd_monsters_pegasus.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4910,6 +5096,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Pseudodragon](srd_monsters_pseudodragon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4937,6 +5124,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Rakshasa](srd_monsters_rakshasa.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4961,6 +5149,7 @@ SubItems:
   Name: Remorhaz
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -4987,6 +5176,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Roc](srd_monsters_roc.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5012,6 +5202,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Sahuagin](srd_monsters_sahuagin.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5036,6 +5227,7 @@ SubItems:
   Name: Sahuagin, prêtresse de Mikala
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5063,6 +5255,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Salamander](srd_monsters_salamander.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5088,6 +5281,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Satyr](srd_monsters_satyr.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5114,6 +5308,7 @@ SubItems:
   Name: Saule étrangleur
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5138,6 +5333,7 @@ SubItems:
   Name: Serpent de mer
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5165,6 +5361,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Specter](srd_monsters_specter.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5193,6 +5390,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Androsphinx](srd_monsters_androsphinx.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5221,6 +5419,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gynosphinx](srd_monsters_gynosphinx.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5248,6 +5447,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Skeleton](srd_monsters_skeleton.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5275,6 +5475,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5302,6 +5503,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5326,6 +5528,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Stirge](srd_monsters_stirge.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5352,6 +5555,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Succubus](srd_monsters_succubus.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5378,6 +5582,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Treant](srd_monsters_treant.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5405,6 +5610,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Tarrasque](srd_monsters_tarrasque.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5430,6 +5636,7 @@ SubItems:
   Name: Terreur des roches
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5455,6 +5662,7 @@ SubItems:
   Name: Larve des roches
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5483,6 +5691,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Shambling Mound](srd_monsters_shambling_mound.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5509,6 +5718,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Grimlock](srd_monsters_grimlock.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5536,6 +5746,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Invisible Stalker](srd_monsters_invisible_stalker.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5561,6 +5772,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Troll](srd_monsters_troll.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5588,6 +5800,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Vampire](srd_monsters_vampire.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5615,6 +5828,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Vampire Spawn](srd_monsters_vampire_spawn.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5640,6 +5854,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5667,6 +5882,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ochre Jelly](srd_monsters_ochre_jelly.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5693,6 +5909,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Black Pudding](srd_monsters_black_pudding.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5720,6 +5937,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gray Ooze](srd_monsters_gray_ooze.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5745,6 +5963,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Purple Worm](srd_monsters_purple_worm.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5770,6 +5989,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wyvern](srd_monsters_wyvern.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5796,6 +6016,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Xorn](srd_monsters_xorn.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5823,6 +6044,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Zombie](srd_monsters_zombie.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5850,6 +6072,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ogre Zombie](srd_monsters_ogre_zombie.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5875,6 +6098,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Eagle](srd_monsters_eagle.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5900,6 +6124,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Eagle](srd_monsters_giant_eagle.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5925,6 +6150,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Spider](srd_monsters_spider.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5950,6 +6176,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -5975,6 +6202,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6000,6 +6228,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6026,6 +6255,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Awakened Tree](srd_monsters_awakened_tree.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6052,6 +6282,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Awakened Shrub](srd_monsters_awakened_shrub.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6076,6 +6307,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Baboon](srd_monsters_baboon.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6100,6 +6332,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Axe Beak](srd_monsters_axe_beak.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6125,6 +6358,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Weasel](srd_monsters_weasel.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6150,6 +6384,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Weasel](srd_monsters_giant_weasel.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6174,6 +6409,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Badger](srd_monsters_badger.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6198,6 +6434,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Badger](srd_monsters_giant_badger.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6223,6 +6460,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Jackal](srd_monsters_jackal.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6247,6 +6485,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Camel](srd_monsters_camel.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6272,6 +6511,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cat](srd_monsters_cat.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6296,6 +6536,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bat](srd_monsters_bat.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6320,6 +6561,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Bat](srd_monsters_giant_bat.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6344,6 +6586,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Warhorse](srd_monsters_warhorse.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6372,6 +6615,7 @@ SubItems:
   Name: Cheval de guerre céleste
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6395,6 +6639,7 @@ SubItems:
   Name: Cheval de guerre lourd
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6419,6 +6664,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Riding Horse](srd_monsters_riding_horse.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6443,6 +6689,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Draft Horse](srd_monsters_draft_horse.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6467,6 +6714,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Goat](srd_monsters_goat.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6491,6 +6739,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Goat](srd_monsters_giant_goat.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6515,6 +6764,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Deer](srd_monsters_deer.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6540,6 +6790,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Death Dog](srd_monsters_death_dog.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6565,6 +6816,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Blink Dog](srd_monsters_blink_dog.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6590,6 +6842,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Owl](srd_monsters_owl.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6615,6 +6868,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Owl](srd_monsters_giant_owl.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6640,6 +6894,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Raven](srd_monsters_raven.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6665,6 +6920,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Crab](srd_monsters_crab.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6690,6 +6946,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Crab](srd_monsters_giant_crab.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6714,6 +6971,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Toad](srd_monsters_giant_toad.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6739,6 +6997,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Crocodile](srd_monsters_crocodile.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6764,6 +7023,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Crocodile](srd_monsters_giant_crocodile.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6788,6 +7048,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Elk](srd_monsters_elk.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6813,6 +7074,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Elk](srd_monsters_giant_elk.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6837,6 +7099,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Elephant](srd_monsters_elephant.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6862,6 +7125,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Killer Whale](srd_monsters_killer_whale.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6887,6 +7151,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hawk](srd_monsters_hawk.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6912,6 +7177,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Blood Hawk](srd_monsters_blood_hawk.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6937,6 +7203,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ape](srd_monsters_ape.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6962,6 +7229,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Frog](srd_monsters_frog.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -6987,6 +7255,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Frog](srd_monsters_giant_frog.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7011,6 +7280,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Wasp](srd_monsters_giant_wasp.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7035,6 +7305,7 @@ SubItems:
   Name: Hibou
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7059,6 +7330,7 @@ SubItems:
   Name: Hibou géant
   ParentName: Créatures
   NameLevel: 1
+  Source: (CEO p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7083,6 +7355,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Sea Horse](srd_monsters_sea_horse.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7107,6 +7380,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Sea Horse](srd_monsters_giant_sea_horse.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7132,6 +7406,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hyena](srd_monsters_hyena.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7157,6 +7432,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Hyena](srd_monsters_giant_hyena.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7181,6 +7457,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lizard](srd_monsters_lizard.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7205,6 +7482,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7230,6 +7508,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Lion](srd_monsters_lion.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7255,6 +7534,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Wolf](srd_monsters_wolf.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7281,6 +7561,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Winter Wolf](srd_monsters_winter_wolf.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7306,6 +7587,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Dire Wolf](srd_monsters_dire_wolf.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7330,6 +7612,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mammoth](srd_monsters_mammoth.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7355,6 +7638,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mastiff](srd_monsters_mastiff.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7379,6 +7663,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7403,6 +7688,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mule](srd_monsters_mule.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7429,6 +7715,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Bats](srd_monsters_swarm_of_bats.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7456,6 +7743,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7482,6 +7770,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7508,6 +7797,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7534,6 +7824,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7560,6 +7851,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7585,6 +7877,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Brown Bear](srd_monsters_brown_bear.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7610,6 +7903,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Black Bear](srd_monsters_black_bear.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7635,6 +7929,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Polar Bear](srd_monsters_polar_bear.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7660,6 +7955,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Panther](srd_monsters_panther.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7685,6 +7981,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Octopus](srd_monsters_octopus.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7710,6 +8007,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Octopus](srd_monsters_giant_octopus.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7734,6 +8032,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Quipper](srd_monsters_quipper.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7758,6 +8057,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Pony](srd_monsters_pony.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7782,6 +8082,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7806,6 +8107,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Rat](srd_monsters_rat.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7830,6 +8132,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Rat](srd_monsters_giant_rat.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7855,6 +8158,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Hunter Shark](srd_monsters_hunter_shark.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7880,6 +8184,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Reef Shark](srd_monsters_reef_shark.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7905,6 +8210,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Shark](srd_monsters_giant_shark.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7929,6 +8235,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Rhinoceros](srd_monsters_rhinoceros.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7953,6 +8260,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Boar](srd_monsters_boar.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -7977,6 +8285,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Boar](srd_monsters_giant_boar.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8001,6 +8310,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Scorpion](srd_monsters_scorpion.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8025,6 +8335,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Scorpion](srd_monsters_giant_scorpion.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8049,6 +8360,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Constrictor Snake](srd_monsters_constrictor_snake.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8074,6 +8386,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8098,6 +8411,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Poisonous Snake](srd_monsters_poisonous_snake.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8123,6 +8437,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8147,6 +8462,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8172,6 +8488,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Ape](srd_monsters_giant_ape.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8197,6 +8514,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Tiger](srd_monsters_tiger.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8222,6 +8540,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8247,6 +8566,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Vulture](srd_monsters_vulture.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8272,6 +8592,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Giant Vulture](srd_monsters_giant_vulture.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8297,6 +8618,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Worg](srd_monsters_worg.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8322,6 +8644,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Acolyte](srd_monsters_acolyte.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8349,6 +8672,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Archmage](srd_monsters_archmage.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8376,6 +8700,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Assassin](srd_monsters_assassin.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8400,6 +8725,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bandit](srd_monsters_bandit.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8424,6 +8750,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Berserker](srd_monsters_berserker.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8450,6 +8777,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Bandit Captain](srd_monsters_bandit_captain.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8475,6 +8803,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Knight](srd_monsters_knight.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8500,6 +8829,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Druid](srd_monsters_druid.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8525,6 +8855,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Priest](srd_monsters_priest.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8550,6 +8881,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Scout](srd_monsters_scout.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8575,6 +8907,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Spy](srd_monsters_spy.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8600,6 +8933,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cult Fanatic](srd_monsters_cult_fanatic.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8625,6 +8959,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Guard](srd_monsters_guard.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8651,6 +8986,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Gladiator](srd_monsters_gladiator.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8675,6 +9011,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Tribal Warrior](srd_monsters_tribal_warrior.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8701,6 +9038,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Mage](srd_monsters_mage.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8726,6 +9064,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Thug](srd_monsters_thug.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8751,6 +9090,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Cultist](srd_monsters_cultist.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8776,6 +9116,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Noble](srd_monsters_noble.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8800,6 +9141,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Commoner](srd_monsters_commoner.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 - !Monster
   Family: MonsterHD
@@ -8825,6 +9167,7 @@ SubItems:
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Veteran](srd_monsters_veteran.md)'
+  Source: (CEO p)(SRD p)
   Attributes: {}
 Id: monsters_hd.md#créatures
 RootId: monsters_hd.md
@@ -8833,6 +9176,7 @@ Name: Créatures
 ParentName: Créatures et oppositions
 NameLevel: 1
 AltName: '[Monsters](srd_monsters.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -8841,6 +9185,7 @@ Attributes: {}
 
 # Aboleth
 
+- Source: (CEO p)(SRD p)
 - SRD: [Aboleth](srd_monsters_aboleth.md)
 -  Aberration de taille G, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -8895,6 +9240,7 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Abothid
 
+- Source: (CEO p)
 -  Aberration de taille M, loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 104 (16d8+32)
@@ -8947,6 +9293,7 @@ Chaque fois que la cible [charmée](hd_conditions_charme.md) subit des dégâts,
 
 # Âme-en-peine
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wraith](srd_monsters_wraith.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 13
@@ -8984,6 +9331,7 @@ _Touché :_ 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un [jet de 
 
 # Amphibe
 
+- Source: (CEO p)
 -  Aberration de taille M, loyal mauvais
 - **Classe d'armure** 12
 - **Points de vie** 71 (13d8+13)
@@ -9024,6 +9372,7 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 
 # Déva
 
+- Source: (CEO p)(SRD p)
 - SRD: [Deva](srd_monsters_deva.md)
 -  Céleste de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
@@ -9074,6 +9423,7 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 # Planétar
 
+- Source: (CEO p)(SRD p)
 - SRD: [Planetar](srd_monsters_planetar.md)
 -  Céleste de taille G, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
@@ -9124,6 +9474,7 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 
 # Solar
 
+- Source: (CEO p)(SRD p)
 - SRD: [Solar](srd_monsters_solar.md)
 -  Céleste de taille G, Loyal Bon
 - **Classe d'armure** 21 (armure naturelle)
@@ -9193,6 +9544,7 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 
 # Ankheg
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ankheg](srd_monsters_ankheg.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle), 11 quand il est [à terre](hd_conditions_a_terre.md)
@@ -9221,6 +9573,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 
 # Azer
 
+- Source: (CEO p)(SRD p)
 - SRD: [Azer](srd_monsters_azer.md)
 -  Élémentaire de taille M, Loyal Neutre
 - **Classe d'armure** 17 (armure naturelle, bouclier)
@@ -9258,6 +9611,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 
 # Babélien
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gibbering Mouther](srd_monsters_gibbering_mouther.md)
 -  Aberration de taille M, neutre
 - **Classe d'armure** 9
@@ -9295,6 +9649,7 @@ _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus pe
 
 # Basilic
 
+- Source: (CEO p)(SRD p)
 - SRD: [Basilisk](srd_monsters_basilisk.md)
 -  Créature monstrueuse de taille M, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
@@ -9329,6 +9684,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 
 # Béhir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Behir](srd_monsters_behir.md)
 -  Créature monstrueuse de taille TG, Neutre Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -9369,6 +9725,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 
 # Bulette
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bulette](srd_monsters_bulette.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
@@ -9404,6 +9761,7 @@ Chacune de ces créatures doit réussir un [jet de sauvegarde](hd_abilities_jets
 
 # Centaure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Centaur](srd_monsters_centaur.md)
 -  Créature monstrueuse de taille G, Neutre Bon
 - **Classe d'armure** 12
@@ -9445,6 +9803,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 # Cerbère
 
+- Source: (CEO p)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
@@ -9481,6 +9840,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 
 # Criard
 
+- Source: (CEO p)(SRD p)
 - SRD: [Shrieker](srd_monsters_shrieker.md)
 -  Plante de taille M, non-alignée
 - **Classe d'armure** 5
@@ -9510,6 +9870,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 
 # Moisissure violette
 
+- Source: (CEO p)(SRD p)
 - SRD: [Violet Fungus](srd_monsters_violet_fungus.md)
 -  Plante de taille M, non-alignée
 - **Classe d'armure** 5
@@ -9543,6 +9904,7 @@ _Touché :_ 4 (1d8) dégâts nécrotiques.
 
 # Chimère
 
+- Source: (CEO p)(SRD p)
 - SRD: [Chimera](srd_monsters_chimera.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 14 (armure naturelle)
@@ -9582,6 +9944,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 # Chuul
 
+- Source: (CEO p)(SRD p)
 - SRD: [Chuul](srd_monsters_chuul.md)
 -  Aberration de taille G, Chaotique Mauvais
 - **Classe d'armure** 16 (armure naturelle)
@@ -9623,6 +9986,7 @@ La cible est [paralysée](hd_conditions_paralyse.md) tant que ce poison fait eff
 
 # Cockatrice
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cockatrice](srd_monsters_cockatrice.md)
 -  Créature monstrueuse de taille P, non-alignée
 - **Classe d'armure** 11
@@ -9649,6 +10013,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un [jet de s
 
 # Couatl
 
+- Source: (CEO p)(SRD p)
 - SRD: [Couatl](srd_monsters_couatl.md)
 -  Céleste de taille M, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
@@ -9704,6 +10069,7 @@ Une autre créature peut effectuer une action pour secouer la cible afin qu'elle
 
 # Vétéran demi-dragon rouge
 
+- Source: (CEO p)
 -  Humanoïde (humain) de taille M, n'importe quel alignement
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 65 (10d8+20)
@@ -9743,6 +10109,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 
 # Balor
 
+- Source: (CEO p)(SRD p)
 - SRD: [Balor](srd_monsters_balor.md)
 -  Fiélon (démon) de taille TG, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)
@@ -9791,6 +10158,7 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 
 # Dretch
 
+- Source: (CEO p)(SRD p)
 - SRD: [Dretch](srd_monsters_dretch.md)
 -  Fiélon (démon) de taille P, Chaotique Mauvais
 - **Classe d'armure** 11 (armure naturelle)
@@ -9828,6 +10196,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 
 # Glabrezu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Glabrezu](srd_monsters_glabrezu.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -9874,6 +10243,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 
 # Hezrou
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hezrou](srd_monsters_hezrou.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 16 (armure naturelle)
@@ -9918,6 +10288,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants.
 
 # Marilith
 
+- Source: (CEO p)(SRD p)
 - SRD: [Marilith](srd_monsters_marilith.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
@@ -9970,6 +10341,7 @@ Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir p
 
 # Nalfeshnie
 
+- Source: (CEO p)(SRD p)
 - SRD: [Nalfeshnee](srd_monsters_nalfeshnee.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
@@ -10018,6 +10390,7 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 
 # Quasit
 
+- Source: (CEO p)(SRD p)
 - SRD: [Quasit](srd_monsters_quasit.md)
 -  Fiélon (démon, métamorphe) de taille TP, Chaotique Mauvais
 - **Classe d'armure** 13
@@ -10062,6 +10435,7 @@ La cible peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md
 
 # Vrock
 
+- Source: (CEO p)(SRD p)
 - SRD: [Vrock](srd_monsters_vrock.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -10108,6 +10482,7 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 
 # Destrier noir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Nightmare](srd_monsters_nightmare.md)
 -  Fiélon de taille G, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)
@@ -10143,6 +10518,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants plus 7 (2d6) dégâts de feu.
 
 # Dévoreur arcanique
 
+- Source: (CEO p)
 -  Aberration de taille G, Neutre Mauvais
 - **Classe d'armure** 15
 - **Points de vie** 212 (25d10+75)
@@ -10216,6 +10592,7 @@ Relancez deux fois le dé et rejouez tous les 8.
 
 # Diable barbelé
 
+- Source: (CEO p)(SRD p)
 - SRD: [Barbed Devil](srd_monsters_barbed_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -10265,6 +10642,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 
 # Diable barbu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bearded Devil](srd_monsters_bearded_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 13 (armure naturelle)
@@ -10309,6 +10687,7 @@ _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 
 # Diable cornu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Horned Devil](srd_monsters_horned_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)
@@ -10355,6 +10734,7 @@ _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant
 
 # Diable gelé
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ice Devil](srd_monsters_ice_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)
@@ -10415,6 +10795,7 @@ _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 
 # Diable des chaînes
 
+- Source: (CEO p)(SRD p)
 - SRD: [Chain Devil](srd_monsters_chain_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure naturelle)
@@ -10463,6 +10844,7 @@ Si celle-ci peut voir le diable, elle doit réussir un [jet de sauvegarde](hd_ab
 
 # Diable osseux
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bone Devil](srd_monsters_bone_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)
@@ -10506,6 +10888,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 # Diablotin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Imp](srd_monsters_imp.md)
 -  Fiélon (diable, métamorphe) de taille TP, Loyal Mauvais
 - **Classe d'armure** 13
@@ -10548,6 +10931,7 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 
 # Diantrefosse
 
+- Source: (CEO p)(SRD p)
 - SRD: [Pit Fiend](srd_monsters_pit_fiend.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)
@@ -10606,6 +10990,7 @@ _Touché :_ 24 (3d10+8) dégâts contondants.
 
 # Érinye
 
+- Source: (CEO p)(SRD p)
 - SRD: [Erinyes](srd_monsters_erinyes.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 18 (harnois)
@@ -10652,6 +11037,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 
 # Lémure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lemure](srd_monsters_lemure.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 7
@@ -10687,6 +11073,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 # Diaspaad
 
+- Source: (CEO p)
 -  Aberration de taille G, Chaotique Neutre
 - **Classe d'armure** 14
 - **Points de vie** 199 (19d12+76)
@@ -10729,6 +11116,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 
 # Plésiosaure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Plesiosaurus](srd_monsters_plesiosaurus.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -10760,6 +11148,7 @@ _Touché :_ 14 (3d6+4) dégâts perforants.
 
 # Tricératops
 
+- Source: (CEO p)(SRD p)
 - SRD: [Triceratops](srd_monsters_triceratops.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -10794,6 +11183,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 
 # Tyrannosaure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -10827,6 +11217,7 @@ _Touché :_ 20 (3d8+7) dégâts contondants.
 
 # Doppleganger
 
+- Source: (CEO p)(SRD p)
 - SRD: [Doppelganger](srd_monsters_doppelganger.md)
 -  Créature monstrueuse (métamorphe) de taille M, neutre
 - **Classe d'armure** 14
@@ -10869,6 +11260,7 @@ Tant que la créature est à portée, le doppleganger peut continuer à lire ses
 
 # Dragon blanc vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient White Dragon](srd_monsters_ancient_white_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 20 (armure naturelle)
@@ -10928,6 +11320,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Dragon blanc adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult White Dragon](srd_monsters_adult_white_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
@@ -10987,6 +11380,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Jeune dragon blanc
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young White Dragon](srd_monsters_young_white_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -11028,6 +11422,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 
 # Dragonnet blanc
 
+- Source: (CEO p)(SRD p)
 - SRD: [White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 16 (armure naturelle)
@@ -11059,6 +11454,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 
 # Dragon bleu vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
 - **Classe d'armure** 22 (armure naturelle)
@@ -11116,6 +11512,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Dragon bleu adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)
@@ -11173,6 +11570,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Jeune dragon bleu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Blue Dragon](srd_monsters_young_blue_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)
@@ -11210,6 +11608,7 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 
 # Dragonnet bleu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -11241,6 +11640,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 
 # Dragon noir vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 22 (armure naturelle)
@@ -11298,6 +11698,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Dragon noir adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Black Dragon](srd_monsters_adult_black_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)
@@ -11357,6 +11758,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Jeune dragon noir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Black Dragon](srd_monsters_young_black_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
@@ -11398,6 +11800,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 
 # Dragonnet noir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -11433,6 +11836,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 
 # Dragon rouge vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 22 (armure naturelle)
@@ -11490,6 +11894,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Dragon rouge adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Red Dragon](srd_monsters_adult_red_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)
@@ -11547,6 +11952,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Jeune dragon rouge
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Red Dragon](srd_monsters_young_red_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
@@ -11584,6 +11990,7 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 
 # Dragonnet rouge
 
+- Source: (CEO p)(SRD p)
 - SRD: [Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -11615,6 +12022,7 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 
 # Dragon vert vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
 - **Classe d'armure** 21 (armure naturelle)
@@ -11677,6 +12085,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Dragon vert adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Green Dragon](srd_monsters_adult_green_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)
@@ -11737,6 +12146,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Jeune dragon vert
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Green Dragon](srd_monsters_young_green_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)
@@ -11779,6 +12189,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 
 # Dragonnet vert
 
+- Source: (CEO p)(SRD p)
 - SRD: [Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -11815,6 +12226,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 
 # Dragon d'airain vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
 - **Classe d'armure** 20 (armure naturelle)
@@ -11882,6 +12294,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Dragon d'airain adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
 - **Classe d'armure** 18 (armure naturelle)
@@ -11943,6 +12356,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Jeune dragon d'airain
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Brass Dragon](srd_monsters_young_brass_dragon.md)
 -  Dragon de taille G, Chaotique Bon
 - **Classe d'armure** 17 (armure naturelle)
@@ -11984,6 +12398,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 m�
 
 # Dragonnet d'airain
 
+- Source: (CEO p)(SRD p)
 - SRD: [Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
 - **Classe d'armure** 16 (armure naturelle)
@@ -12019,6 +12434,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50
 
 # Dragon d'argent vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
 - **Classe d'armure** 22 (armure naturelle)
@@ -12084,6 +12500,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Dragon d'argent adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
@@ -12151,6 +12568,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Jeune dragon d'argent
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Silver Dragon](srd_monsters_young_silver_dragon.md)
 -  Dragon de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
@@ -12192,6 +12610,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mèt
 
 # Dragonnet d'argent
 
+- Source: (CEO p)(SRD p)
 - SRD: [Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
@@ -12227,6 +12646,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 m
 
 # Dragon de bronze vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
 - **Classe d'armure** 22 (armure naturelle)
@@ -12294,6 +12714,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Dragon de bronze adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
@@ -12363,6 +12784,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Jeune dragon de bronze
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)
 -  Dragon de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
@@ -12408,6 +12830,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 
 # Dragonnet de bronze
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
@@ -12447,6 +12870,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 
 # Dragon de cuivre vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
 - **Classe d'armure** 21 (armure naturelle)
@@ -12516,6 +12940,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Dragon de cuivre adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
 - **Classe d'armure** 18 (armure naturelle)
@@ -12579,6 +13004,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Jeune dragon de cuivre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Copper Dragon](srd_monsters_young_copper_dragon.md)
 -  Dragon de taille G, Chaotique Bon
 - **Classe d'armure** 17 (armure naturelle)
@@ -12624,6 +13050,7 @@ Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegard
 
 # Dragonnet de cuivre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
 - **Classe d'armure** 16 (armure naturelle)
@@ -12659,6 +13086,7 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. L
 
 # Dragon d'or vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
 - **Classe d'armure** 22 (armure naturelle)
@@ -12726,6 +13154,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Dragon d'or adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
@@ -12795,6 +13224,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Jeune dragon d'or
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Gold Dragon](srd_monsters_young_gold_dragon.md)
 -  Dragon de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
@@ -12840,6 +13270,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créat
 
 # Dragonnet d'or
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
@@ -12879,6 +13310,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les cr�
 
 # Dragon-tortue
 
+- Source: (CEO p)(SRD p)
 - SRD: [Dragon Turtle](srd_monsters_dragon_turtle.md)
 -  Dragon de taille Gig, neutre
 - **Classe d'armure** 20 (armure naturelle)
@@ -12923,6 +13355,7 @@ _Touché :_ 26 (3d12+7) dégâts contondants. Si la cible est une créature, ell
 
 # Dref
 
+- Source: (CEO p)
 -  Fiélon de taille TP, chaotique neutre
 - **Classe d'armure** 13
 - **Points de vie** 7 (2d4+2)
@@ -12963,6 +13396,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 # Drider
 
+- Source: (CEO p)(SRD p)
 - SRD: [Drider](srd_monsters_drider.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)
@@ -13016,6 +13450,7 @@ _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 
 # Drow
 
+- Source: (CEO p)(SRD p)
 - SRD: [Drow](srd_monsters_drow.md)
 -  Humanoïde (elfe) de taille M, Neutre Mauvais
 - **Classe d'armure** 15 (chemise de mailles)
@@ -13061,6 +13496,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Drow, prêtresse
 
+- Source: (CEO p)
 -  Humanoïde (elfe) de taille M, neutre mauvais
 - **Classe d'armure** 18 (cuirasse +2)
 - **Points de vie** 58 (9d8+18)
@@ -13124,6 +13560,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 # Dryade
 
+- Source: (CEO p)(SRD p)
 - SRD: [Dryad](srd_monsters_dryad.md)
 -  Fée de taille M, neutre
 - **Classe d'armure** 11 (16 avec peau d'écorce)
@@ -13173,6 +13610,7 @@ _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec
 
 # Duergar
 
+- Source: (CEO p)(SRD p)
 - SRD: [Duergar](srd_monsters_duergar.md)
 -  Humanoïde (nain) de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure d'écailles, bouclier)
@@ -13216,6 +13654,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il
 
 # Élémentaire de l'air
 
+- Source: (CEO p)(SRD p)
 - SRD: [Air Elemental](srd_monsters_air_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Classe d'armure** 15
@@ -13257,6 +13696,7 @@ Si le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) est réussi, la ci
 
 # Élémentaire de l'eau
 
+- Source: (CEO p)(SRD p)
 - SRD: [Water Elemental](srd_monsters_water_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Classe d'armure** 14 (armure naturelle)
@@ -13298,6 +13738,7 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 
 # Élémentaire du feu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Fire Elemental](srd_monsters_fire_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Classe d'armure** 13
@@ -13337,6 +13778,7 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 
 # Élémentaire de la terre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Earth Elemental](srd_monsters_earth_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Classe d'armure** 17 (armure naturelle)
@@ -13375,6 +13817,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 
 # Enlaceur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Roper](srd_monsters_roper.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 20 (armure naturelle)
@@ -13420,6 +13863,7 @@ _Touché :_ 22 (4d8+4) dégâts perforants.
 
 # Esprit follet
 
+- Source: (CEO p)(SRD p)
 - SRD: [Sprite](srd_monsters_sprite.md)
 -  Fée de taille TP, Neutre Bonne
 - **Classe d'armure** 15 (armure de cuir)
@@ -13455,6 +13899,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 
 # Ettercap
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ettercap](srd_monsters_ettercap.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)
@@ -13500,6 +13945,7 @@ _Touché :_ la créature est [entravée](hd_conditions_entrave.md) par la toile.
 
 # Ettin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ettin](srd_monsters_ettin.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Classe d'armure** 12 (armure naturelle)
@@ -13539,6 +13985,7 @@ _Touché :_ 14 (2d8+5) dégâts perforants.
 
 # Fantôme
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ghost](srd_monsters_ghost.md)
 -  Mort-vivant de taille M, n'importe quel alignement
 - **Classe d'armure** 11
@@ -13584,6 +14031,7 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 
 # Feu follet
 
+- Source: (CEO p)(SRD p)
 - SRD: [Will-o'-Wisp](srd_monsters_will_o_wisp.md)
 -  Mort-vivant de taille TP, Chaotique Mauvais
 - **Classe d'armure** 19
@@ -13625,6 +14073,7 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 
 # Garde animé
 
+- Source: (CEO p)(SRD p)
 - SRD: [Shield Guardian](srd_monsters_shield_guardian.md)
 -  Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
@@ -13667,6 +14116,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 # Gargouille
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gargoyle](srd_monsters_gargoyle.md)
 -  Élémentaire de taille M, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -13706,6 +14156,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Géant des collines
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hill Giant](srd_monsters_hill_giant.md)
 -  Géant de taille TG, Chaotique Mauvais
 - **Classe d'armure** 13 (armure naturelle)
@@ -13739,6 +14190,7 @@ _Touché :_ 21 (3d10+5) dégâts contondants.
 
 # Géant des nuages
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cloud Giant](srd_monsters_cloud_giant.md)
 -  Géant de taille TG, Neutre Bon (50 %) ou Neutre Mauvais (50 %)
 - **Classe d'armure** 14 (armure naturelle)
@@ -13785,6 +14237,7 @@ _Touché :_ 30 (4d10+8) dégâts contondants.
 
 # Géant des pierres
 
+- Source: (CEO p)(SRD p)
 - SRD: [Stone Giant](srd_monsters_stone_giant.md)
 -  Géant de taille TG, neutre
 - **Classe d'armure** 17 (armure naturelle)
@@ -13823,6 +14276,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, ell
 
 # Géant des tempêtes
 
+- Source: (CEO p)(SRD p)
 - SRD: [Storm Giant](srd_monsters_storm_giant.md)
 -  Géant de taille TG, Chaotique Bon
 - **Classe d'armure** 16 (armure d'écailles)
@@ -13871,6 +14325,7 @@ _Touché :_ 35 (4d12+9) dégâts contondants.
 
 # Géant du feu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Fire Giant](srd_monsters_fire_giant.md)
 -  Géant de taille TG, Loyal Mauvais
 - **Classe d'armure** 18 (harnois)
@@ -13906,6 +14361,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 
 # Géant du givre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Frost Giant](srd_monsters_frost_giant.md)
 -  Géant de taille TG, Neutre Mauvais
 - **Classe d'armure** 15 (armure composite)
@@ -13941,6 +14397,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants.
 
 # Djinn
 
+- Source: (CEO p)(SRD p)
 - SRD: [Djinni](srd_monsters_djinni.md)
 -  Élémentaire de taille G, Chaotique Bon
 - **Classe d'armure** 17 (armure naturelle)
@@ -13989,6 +14446,7 @@ Si le test est réussi, la créature n'est plus [entravée](hd_conditions_entrav
 
 # Éfrit
 
+- Source: (CEO p)(SRD p)
 - SRD: [Efreeti](srd_monsters_efreeti.md)
 -  Élémentaire de taille G, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -14035,6 +14493,7 @@ _Touché :_ 17 (5d6) dégâts de feu.
 
 # Gnoll
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gnoll](srd_monsters_gnoll.md)
 -  Humanoïde (gnoll) de taille M, Chaotique Mauvais
 - **Classe d'armure** 15 (armure de peau, bouclier)
@@ -14073,6 +14532,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 # Gnoll, chef de meute
 
+- Source: (CEO p)
 -  Humanoïde (gnoll) de taille M, Chaotique Mauvais
 - **Classe d'armure** 15 (armure de peau, bouclier)
 - **Points de vie** 44 (8d8+8)
@@ -14114,6 +14574,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 # Gnome des profondeurs (svirfneblin)
 
+- Source: (CEO p)(SRD p)
 - SRD: [Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)
 -  Humanoïde (gnome) de taille P, Neutre Bon
 - **Classe d'armure** 15 (chemise de mailles)
@@ -14157,6 +14618,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 # Gobelin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Goblin](srd_monsters_goblin.md)
 -  Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
 - **Classe d'armure** 15 (armure de cuir, bouclier)
@@ -14192,6 +14654,7 @@ _Touché :_ 5 (1d6+2) dégâts tranchants.
 
 # Gobelin, chaman
 
+- Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 27 (6d6+6)
@@ -14232,6 +14695,7 @@ _Touché :_ 3 (1d4) dégâts contondants.
 
 # Gobelin blanc
 
+- Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille P, neutre mauvais
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 13 (3d6+3)
@@ -14279,6 +14743,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 
 # Chaman gobelin blanc
 
+- Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille P, neutre mauvais
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 22 (5d6+5)
@@ -14326,6 +14791,7 @@ _Touché :_ 5 (1d8+1) dégâts contondants.
 
 # Gobelours
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bugbear](srd_monsters_bugbear.md)
 -  Humanoïde (gobelinoïde) de taille M, Chaotique Mauvais
 - **Classe d'armure** 16 (armure de peau, bouclier)
@@ -14363,6 +14829,7 @@ _Touché :_ 11 (2d8+2) dégâts perforants.
 
 # Gobelours, chef barbare
 
+- Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille M, chaotique mauvais
 - **Classe d'armure** 16 (armure de peau, bouclier)
 - **Points de vie** 55 (10d8+10)
@@ -14407,6 +14874,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâ
 
 # Golem d'argile
 
+- Source: (CEO p)(SRD p)
 - SRD: [Clay Golem](srd_monsters_clay_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
@@ -14455,6 +14923,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 
 # Golem de chair
 
+- Source: (CEO p)(SRD p)
 - SRD: [Flesh Golem](srd_monsters_flesh_golem.md)
 -  Créature artificielle de taille M, neutre
 - **Classe d'armure** 9
@@ -14509,6 +14978,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 # Golem de fer
 
+- Source: (CEO p)(SRD p)
 - SRD: [Iron Golem](srd_monsters_iron_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 20 (armure naturelle)
@@ -14555,6 +15025,7 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 
 # Golem de pierre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Stone Golem](srd_monsters_stone_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
@@ -14595,6 +15066,7 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 
 # Gorgone
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gorgon](srd_monsters_gorgon.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 19 (armure naturelle)
@@ -14635,6 +15107,7 @@ Les créatures situées dans cette zone doivent chacune effectuer un [jet de sau
 
 # Goule
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ghoul](srd_monsters_ghoul.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 12
@@ -14667,6 +15140,7 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 
 # Blême
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ghast](srd_monsters_ghast.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 13
@@ -14706,6 +15180,7 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 
 # Grick
 
+- Source: (CEO p)(SRD p)
 - SRD: [Grick](srd_monsters_grick.md)
 -  Créature monstrueuse de taille M, neutre
 - **Classe d'armure** 14 (armure naturelle)
@@ -14743,6 +15218,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 # Griffon
 
+- Source: (CEO p)(SRD p)
 - SRD: [Griffon](srd_monsters_griffon.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 12
@@ -14780,6 +15256,7 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 # Guenaude aquatique
 
+- Source: (CEO p)(SRD p)
 - SRD: [Sea Hag](srd_monsters_sea_hag.md)
 -  Fée de taille M, Chaotique Mauvais
 - **Classe d'armure** 14 (armure naturelle)
@@ -14820,6 +15297,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 # Guenaude nocturne
 
+- Source: (CEO p)(SRD p)
 - SRD: [Night Hag](srd_monsters_night_hag.md)
 -  Fiélon de taille M, Neutre Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -14867,6 +15345,7 @@ Un sort de protection contre le mal et le bien lancé sur la cible, tout comme u
 
 # Guenaude verte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Green Hag](srd_monsters_green_hag.md)
 -  Fée de taille M, Neutre Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -14912,6 +15391,7 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 
 # Harpie
 
+- Source: (CEO p)(SRD p)
 - SRD: [Harpy](srd_monsters_harpy.md)
 -  Créature monstrueuse de taille M, Chaotique Mauvais
 - **Classe d'armure** 11
@@ -14952,6 +15432,7 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 
 # Hibours
 
+- Source: (CEO p)(SRD p)
 - SRD: [Owlbear](srd_monsters_owlbear.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -14989,6 +15470,7 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 
 # Hippogriffe
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hippogriff](srd_monsters_hippogriff.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 11
@@ -15026,6 +15508,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 # Hobgobelin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hobgoblin](srd_monsters_hobgoblin.md)
 -  Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
 - **Classe d'armure** 18 (bouclier, cotte de mailles)
@@ -15060,6 +15543,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 
 # Hobgobelin, sergent
 
+- Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
 - **Classe d'armure** 18 (bouclier, cotte de mailles)
 - **Points de vie** 29 (5d8+7)
@@ -15097,6 +15581,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 
 # Homme-lézard
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lizardfolk](srd_monsters_lizardfolk.md)
 -  Humanoïde (homme-lézard) de taille M, Neutre
 - **Classe d'armure** 15 (armure naturelle, bouclier)
@@ -15142,6 +15627,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Homme-lézard, champion
 
+- Source: (CEO p)
 -  Humanoïde (homme-lézard) de taille M, Neutre
 - **Classe d'armure** 15 (armure naturelle, bouclier)
 - **Points de vie** 44 (8d8+8)
@@ -15186,6 +15672,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 # Homme-poisson
 
+- Source: (CEO p)(SRD p)
 - SRD: [Merfolk](srd_monsters_merfolk.md)
 -  Humanoïde (homme-poisson) de taille M, Neutre
 - **Classe d'armure** 11
@@ -15217,6 +15704,7 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 
 # Homoncule
 
+- Source: (CEO p)(SRD p)
 - SRD: [Homunculus](srd_monsters_homunculus.md)
 -  Créature artificielle de taille TP, neutre
 - **Classe d'armure** 13 (armure naturelle)
@@ -15249,6 +15737,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 
 # Hydre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hydra](srd_monsters_hydra.md)
 -  Créature monstrueuse de taille TG, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
@@ -15292,6 +15781,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 
 # Kobold
 
+- Source: (CEO p)(SRD p)
 - SRD: [Kobold](srd_monsters_kobold.md)
 -  Humanoïde (kobold) de taille P, Loyal Mauvais
 - **Classe d'armure** 12
@@ -15328,6 +15818,7 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 
 # Kobold, saigneur
 
+- Source: (CEO p)
 -  Humanoïde (kobold) de taille P, Neutre Mauvais
 - **Classe d'armure** 13
 - **Points de vie** 17 (5d6)
@@ -15367,6 +15858,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants.
 
 # Kraken
 
+- Source: (CEO p)(SRD p)
 - SRD: [Kraken](srd_monsters_kraken.md)
 -  Créature monstrueuse (titan) de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
@@ -15426,6 +15918,7 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Lamie
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lamia](srd_monsters_lamia.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 13 (armure naturelle)
@@ -15473,6 +15966,7 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 
 # Liche
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lich](srd_monsters_lich.md)
 -  Mort-vivant de taille M, alignement Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -15545,6 +16039,7 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 
 # Licorne
 
+- Source: (CEO p)(SRD p)
 - SRD: [Unicorn](srd_monsters_unicorn.md)
 -  Céleste de taille G, Loyal Bon
 - **Classe d'armure** 12
@@ -15607,6 +16102,7 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 
 # Loup-garou
 
+- Source: (CEO p)(SRD p)
 - SRD: [Werewolf](srd_monsters_werewolf.md)
 -  Humanoïde (humain, métamorphe) de taille M, Chaotique Mauvais
 - **Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
@@ -15651,6 +16147,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle d
 
 # Ours-garou
 
+- Source: (CEO p)(SRD p)
 - SRD: [Werebear](srd_monsters_werebear.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Bon
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
@@ -15695,6 +16192,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle
 
 # Rat-garou
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wererat](srd_monsters_wererat.md)
 -  Humanoïde (humain, métamorphe) de taille M, Loyal Mauvais
 - **Classe d'armure** 12
@@ -15739,6 +16237,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle d
 
 # Sanglier-garou
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wereboar](srd_monsters_wereboar.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Mauvais
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier
@@ -15781,6 +16280,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 
 # Tigre-garou
 
+- Source: (CEO p)(SRD p)
 - SRD: [Weretiger](srd_monsters_weretiger.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre
 - **Classe d'armure** 12
@@ -15831,6 +16331,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle 
 
 # Magmatique
 
+- Source: (CEO p)(SRD p)
 - SRD: [Magmin](srd_monsters_magmin.md)
 -  Élémentaire de taille P, Chaotique Neutre
 - **Classe d'armure** 14 (armure naturelle)
@@ -15869,6 +16370,7 @@ Jusqu'au moment où une créature consacre une action à étouffer les flammes, 
 
 # Manteleur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cloaker](srd_monsters_cloaker.md)
 -  Aberration de taille G, Chaotique Neutre
 - **Classe d'armure** 14 (armure naturelle)
@@ -15920,6 +16422,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 
 # Mante obscure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Darkmantle](srd_monsters_darkmantle.md)
 -  Créature monstrueuse de taille P, non-alignée
 - **Classe d'armure** 11
@@ -15961,6 +16464,7 @@ Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1
 
 # Manticore
 
+- Source: (CEO p)(SRD p)
 - SRD: [Manticore](srd_monsters_manticore.md)
 -  Créature monstrueuse de taille G, Loyal Mauvais
 - **Classe d'armure** 14 (armure naturelle)
@@ -16001,6 +16505,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 
 # Méduse
 
+- Source: (CEO p)(SRD p)
 - SRD: [Medusa](srd_monsters_medusa.md)
 -  Créature monstrueuse de taille M, Loyal Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -16046,6 +16551,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Méphite de glace
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ice Mephit](srd_monsters_ice_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Classe d'armure** 11
@@ -16088,6 +16594,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 
 # Méphite de magma
 
+- Source: (CEO p)(SRD p)
 - SRD: [Magma Mephit](srd_monsters_magma_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Classe d'armure** 11
@@ -16128,6 +16635,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 
 # Méphite de poussière
 
+- Source: (CEO p)(SRD p)
 - SRD: [Dust Mephit](srd_monsters_dust_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Classe d'armure** 12
@@ -16168,6 +16676,7 @@ Une créature peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegar
 
 # Méphite de vapeur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Steam Mephit](srd_monsters_steam_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Classe d'armure** 10
@@ -16206,6 +16715,7 @@ Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde](h
 
 # Merrow
 
+- Source: (CEO p)(SRD p)
 - SRD: [Merrow](srd_monsters_merrow.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 13 (armure naturelle)
@@ -16248,6 +16758,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 
 # Mimique
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mimic](srd_monsters_mimic.md)
 -  Créature monstrueuse (métamorphe) de taille M, Neutre
 - **Classe d'armure** 12 (armure naturelle)
@@ -16293,6 +16804,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet
 
 # Minotaure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Minotaur](srd_monsters_minotaur.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 14 (armure naturelle)
@@ -16334,6 +16846,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 # Molosse infernal
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hell Hound](srd_monsters_hell_hound.md)
 -  Fiélon de taille M, Loyal Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -16370,6 +16883,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 
 # Momie
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mummy](srd_monsters_mummy.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Classe d'armure** 11 (armure naturelle)
@@ -16407,6 +16921,7 @@ Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde](hd_abi
 
 # Momie auguste
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mummy Lord](srd_monsters_mummy_lord.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
@@ -16484,6 +16999,7 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 
 # Naga corrupteur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Spirit Naga](srd_monsters_spirit_naga.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -16531,6 +17047,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un [jet de 
 
 # Naga gardien
 
+- Source: (CEO p)(SRD p)
 - SRD: [Guardian Naga](srd_monsters_guardian_naga.md)
 -  Créature monstrueuse de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
@@ -16584,6 +17101,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un [jet de 
 
 # Nécrophage
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wight](srd_monsters_wight.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 14 (armure de cuir clouté)
@@ -16630,6 +17148,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 
 # Armure animée
 
+- Source: (CEO p)(SRD p)
 - SRD: [Animated Armor](srd_monsters_animated_armor.md)
 -  Créature artificielle de taille M, non-alignée
 - **Classe d'armure** 18 (armure naturelle)
@@ -16666,6 +17185,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 
 # Épée volante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Flying Sword](srd_monsters_flying_sword.md)
 -  Créature artificielle de taille P, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
@@ -16701,6 +17221,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants.
 
 # Tapis étrangleur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Rug of Smothering](srd_monsters_rug_of_smothering.md)
 -  Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 12
@@ -16741,6 +17262,7 @@ De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) d�
 
 # Ogre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ogre](srd_monsters_ogre.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Classe d'armure** 11 (armure de peau)
@@ -16771,6 +17293,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 # Ombre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Shadow](srd_monsters_shadow.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 12
@@ -16812,6 +17335,7 @@ Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre
 
 # Oni
 
+- Source: (CEO p)(SRD p)
 - SRD: [Oni](srd_monsters_oni.md)
 -  Géant de taille G, Loyal Mauvais
 - **Classe d'armure** 16 (cotte de mailles)
@@ -16860,6 +17384,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 # Orc
 
+- Source: (CEO p)
 -  Humanoïde (orc) de taille M, Chaotique Mauvais
 - **Classe d'armure** 13 (armure de peau)
 - **Points de vie** 15 (2d8+6)
@@ -16894,6 +17419,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 # Chaman orc
 
+- Source: (CEO p)
 -  Humanoïde (demi-orc) de taille M, Neutre Mauvais
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 33 (6d8+6)
@@ -16934,6 +17460,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 
 # Otyugh
 
+- Source: (CEO p)(SRD p)
 - SRD: [Otyugh](srd_monsters_otyugh.md)
 -  Aberration de taille G, Neutre
 - **Classe d'armure** 14 (armure naturelle)
@@ -16977,6 +17504,7 @@ L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 
 # Oxydeur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Rust Monster](srd_monsters_rust_monster.md)
 -  Créature monstrueuse de taille M, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
@@ -17015,6 +17543,7 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 
 # Parasite arcanique
 
+- Source: (CEO p)
 -  Aberration de taille TP, Neutre
 - **Classe d'armure** 12
 - **Points de vie** 7 (2d6)
@@ -17064,6 +17593,7 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 
 # Pégase
 
+- Source: (CEO p)(SRD p)
 - SRD: [Pegasus](srd_monsters_pegasus.md)
 -  Céleste de taille G, Chaotique Bon
 - **Classe d'armure** 12
@@ -17092,6 +17622,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 # Pseudodragon
 
+- Source: (CEO p)(SRD p)
 - SRD: [Pseudodragon](srd_monsters_pseudodragon.md)
 -  Dragon de taille TP, Neutre Bon
 - **Classe d'armure** 13 (armure naturelle)
@@ -17131,6 +17662,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 # Rakshasa
 
+- Source: (CEO p)(SRD p)
 - SRD: [Rakshasa](srd_monsters_rakshasa.md)
 -  Fiélon de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure naturelle)
@@ -17176,6 +17708,7 @@ La malédiction magique prend effet chaque fois que la cible prend un repos cour
 
 # Remorhaz
 
+- Source: (CEO p)
 -  Créature monstrueuse de taille TG, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 195 (17d12+85)
@@ -17212,6 +17745,7 @@ _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la 
 
 # Roc
 
+- Source: (CEO p)(SRD p)
 - SRD: [Roc](srd_monsters_roc.md)
 -  Créature monstrueuse de taille Gig, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
@@ -17250,6 +17784,7 @@ _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée](hd_condi
 
 # Sahuagin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Sahuagin](srd_monsters_sahuagin.md)
 -  Humanoïde (sahuagin) de taille M, Loyal Mauvais
 - **Classe d'armure** 12 (armure naturelle)
@@ -17295,6 +17830,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 # Sahuagin, prêtresse de Mikala
 
+- Source: (CEO p)
 -  Humanoïde (sahuagin) de taille M, Loyal Mauvais
 - **Classe d'armure** 14 (armure de coquillages)
 - **Points de vie** 50 (9d8+9)
@@ -17351,6 +17887,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 # Salamandre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Salamander](srd_monsters_salamander.md)
 -  Élémentaire de taille G, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -17392,6 +17929,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la c
 
 # Satyre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Satyr](srd_monsters_satyr.md)
 -  Fée de taille M, Chaotique Neutre
 - **Classe d'armure** 14 (armure de cuir)
@@ -17431,6 +17969,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 # Saule étrangleur
 
+- Source: (CEO p)
 -  Plante de taille TG, non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 115 (10d12+50)
@@ -17469,6 +18008,7 @@ _Touché :_ 9 (1d8+5) dégâts contondants et la cible est [empoignée](hd_condi
 
 # Serpent de mer
 
+- Source: (CEO p)
 -  Créature monstrueuse de taille Gig, non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 231 (14d20+84)
@@ -17519,6 +18059,7 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 
 # Spectre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Specter](srd_monsters_specter.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 12
@@ -17554,6 +18095,7 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sa
 
 # Androsphinx
 
+- Source: (CEO p)(SRD p)
 - SRD: [Androsphinx](srd_monsters_androsphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
 - **Classe d'armure** 17 (armure naturelle)
@@ -17626,6 +18168,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Gynosphinx
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gynosphinx](srd_monsters_gynosphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
 - **Classe d'armure** 17 (armure naturelle)
@@ -17688,6 +18231,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Squelette
 
+- Source: (CEO p)(SRD p)
 - SRD: [Skeleton](srd_monsters_skeleton.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Classe d'armure** 13 (débris d'armure)
@@ -17721,6 +18265,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Squelette cheval de guerre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
 - **Classe d'armure** 13 (débris de barde)
@@ -17750,6 +18295,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 # Squelette minotaure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
 - **Classe d'armure** 12 (armure naturelle)
@@ -17787,6 +18333,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 # Strige
 
+- Source: (CEO p)(SRD p)
 - SRD: [Stirge](srd_monsters_stirge.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
@@ -17817,6 +18364,7 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 
 # Succube/Incube
 
+- Source: (CEO p)(SRD p)
 - SRD: [Succubus](srd_monsters_succubus.md)
 -  Fiélon (métamorphe) de taille M, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -17861,6 +18409,7 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 
 # Sylvanien
 
+- Source: (CEO p)(SRD p)
 - SRD: [Treant](srd_monsters_treant.md)
 -  Plante de taille TG, Chaotique Bonne
 - **Classe d'armure** 15 (armure naturelle)
@@ -17903,6 +18452,7 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 
 # Tarasque
 
+- Source: (CEO p)(SRD p)
 - SRD: [Tarrasque](srd_monsters_tarrasque.md)
 -  Créature monstrueuse (titan) de taille Gig, non-alignée
 - **Classe d'armure** 25 (armure naturelle)
@@ -17976,6 +18526,7 @@ La tarasque peut effectuer 3 actions légendaires qu'elle choisit parmi celles d
 
 # Terreur des roches
 
+- Source: (CEO p)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
@@ -18015,6 +18566,7 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 # Larve des roches
 
+- Source: (CEO p)
 -  Créature monstrueuse de taille M, Neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
@@ -18044,6 +18596,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 # Tertre errant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Shambling Mound](srd_monsters_shambling_mound.md)
 -  Plante de taille G, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
@@ -18082,6 +18635,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 # Torve
 
+- Source: (CEO p)(SRD p)
 - SRD: [Grimlock](srd_monsters_grimlock.md)
 -  Humanoïde (torve) de taille M, Neutre Mauvais
 - **Classe d'armure** 11
@@ -18118,6 +18672,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 
 # Traqueur invisible
 
+- Source: (CEO p)(SRD p)
 - SRD: [Invisible Stalker](srd_monsters_invisible_stalker.md)
 -  Élémentaire de taille M, neutre
 - **Classe d'armure** 14
@@ -18155,6 +18710,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 
 # Troll
 
+- Source: (CEO p)(SRD p)
 - SRD: [Troll](srd_monsters_troll.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -18194,6 +18750,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants.
 
 # Vampire
 
+- Source: (CEO p)(SRD p)
 - SRD: [Vampire](srd_monsters_vampire.md)
 -  Mort-vivant (métamorphe) de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure naturelle)
@@ -18277,6 +18834,7 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 
 # Vampirien
 
+- Source: (CEO p)(SRD p)
 - SRD: [Vampire Spawn](srd_monsters_vampire_spawn.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -18330,6 +18888,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le
 
 # Cube gélatineux
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gelatinous Cube](srd_monsters_gelatinous_cube.md)
 -  Vase de taille G, non-alignée
 - **Classe d'armure** 6
@@ -18379,6 +18938,7 @@ _Touché :_ 10 (3d6) dégâts d'acide.
 
 # Gelée ocre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ochre Jelly](srd_monsters_ochre_jelly.md)
 -  Vase de taille G, non-alignée
 - **Classe d'armure** 8
@@ -18418,6 +18978,7 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 
 # Pouding noir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Black Pudding](srd_monsters_black_pudding.md)
 -  Vase de taille G, non-alignée
 - **Classe d'armure** 7
@@ -18460,6 +19021,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 
 # Vase grise
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gray Ooze](srd_monsters_gray_ooze.md)
 -  Vase de taille M, non-alignée
 - **Classe d'armure** 8
@@ -18501,6 +19063,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si 
 
 # Ver pourpre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Purple Worm](srd_monsters_purple_worm.md)
 -  Créature monstrueuse de taille Gig, non-alignée
 - **Classe d'armure** 18 (armure naturelle)
@@ -18542,6 +19105,7 @@ Si le ver meurt, les créatures avalées ne sont plus [entravées](hd_conditions
 
 # Vouivre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wyvern](srd_monsters_wyvern.md)
 -  Dragon de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -18579,6 +19143,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 # Xorn
 
+- Source: (CEO p)(SRD p)
 - SRD: [Xorn](srd_monsters_xorn.md)
 -  Élémentaire de taille M, Neutre
 - **Classe d'armure** 19 (armure naturelle)
@@ -18621,6 +19186,7 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 
 # Zombi
 
+- Source: (CEO p)(SRD p)
 - SRD: [Zombie](srd_monsters_zombie.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 8
@@ -18654,6 +19220,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 
 # Zombi ogre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ogre Zombie](srd_monsters_ogre_zombie.md)
 -  Mort-vivant de taille G, Neutre Mauvais
 - **Classe d'armure** 8
@@ -18687,6 +19254,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 # Aigle
 
+- Source: (CEO p)(SRD p)
 - SRD: [Eagle](srd_monsters_eagle.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12
@@ -18718,6 +19286,7 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 # Aigle géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Eagle](srd_monsters_giant_eagle.md)
 -  Bête de taille G, neutre bon
 - **Classe d'armure** 13
@@ -18755,6 +19324,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 # Araignée
 
+- Source: (CEO p)(SRD p)
 - SRD: [Spider](srd_monsters_spider.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 12
@@ -18790,6 +19360,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 
 # Araignée de phase
 
+- Source: (CEO p)(SRD p)
 - SRD: [Phase Spider](srd_monsters_phase_spider.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -18825,6 +19396,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de
 
 # Araignée géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Spider](srd_monsters_giant_spider.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
@@ -18864,6 +19436,7 @@ _Touché :_ la cible est [entravée](hd_conditions_entrave.md) par la toile. Par
 
 # Araignée-loup géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 13
@@ -18899,6 +19472,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de 
 
 # Arbre éveillé
 
+- Source: (CEO p)(SRD p)
 - SRD: [Awakened Tree](srd_monsters_awakened_tree.md)
 -  Plante de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -18931,6 +19505,7 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 
 # Arbuste éveillé
 
+- Source: (CEO p)(SRD p)
 - SRD: [Awakened Shrub](srd_monsters_awakened_shrub.md)
 -  Plante de taille P, non-alignée
 - **Classe d'armure** 9
@@ -18963,6 +19538,7 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 
 # Babouin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Baboon](srd_monsters_baboon.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12
@@ -18993,6 +19569,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 
 # Bec de hache
 
+- Source: (CEO p)(SRD p)
 - SRD: [Axe Beak](srd_monsters_axe_beak.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11
@@ -19019,6 +19596,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 
 # Belette
 
+- Source: (CEO p)(SRD p)
 - SRD: [Weasel](srd_monsters_weasel.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 13
@@ -19050,6 +19628,7 @@ _Touché :_ 1 dégât perforant.
 
 # Belette géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Weasel](srd_monsters_giant_weasel.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 13
@@ -19081,6 +19660,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 # Blaireau
 
+- Source: (CEO p)(SRD p)
 - SRD: [Badger](srd_monsters_badger.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 10
@@ -19111,6 +19691,7 @@ _Touché :_ 1 dégât perforant.
 
 # Blaireau géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Badger](srd_monsters_giant_badger.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 10
@@ -19147,6 +19728,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 
 # Chacal
 
+- Source: (CEO p)(SRD p)
 - SRD: [Jackal](srd_monsters_jackal.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12
@@ -19180,6 +19762,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 
 # Chameau
 
+- Source: (CEO p)(SRD p)
 - SRD: [Camel](srd_monsters_camel.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 9
@@ -19206,6 +19789,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 # Chat
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cat](srd_monsters_cat.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 12
@@ -19237,6 +19821,7 @@ _Touché :_ 1 dégât tranchant.
 
 # Chauve-souris
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bat](srd_monsters_bat.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 12
@@ -19269,6 +19854,7 @@ _Touché :_ 1 dégât perforant.
 
 # Chauve-souris géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Bat](srd_monsters_giant_bat.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 13
@@ -19301,6 +19887,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Cheval de guerre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Warhorse](srd_monsters_warhorse.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11
@@ -19331,6 +19918,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 # Cheval de guerre céleste
 
+- Source: (CEO p)
 -  Bête de taille G, Loyal Bon
 - **Classe d'armure** 13
 - **Points de vie** 59 (7d10+21)
@@ -19371,6 +19959,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 # Cheval de guerre lourd
 
+- Source: (CEO p)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 37 (5d10+10)
@@ -19402,6 +19991,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 # Cheval de selle
 
+- Source: (CEO p)(SRD p)
 - SRD: [Riding Horse](srd_monsters_riding_horse.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 10
@@ -19428,6 +20018,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 
 # Cheval de trait
 
+- Source: (CEO p)(SRD p)
 - SRD: [Draft Horse](srd_monsters_draft_horse.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 10
@@ -19454,6 +20045,7 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 
 # Chèvre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Goat](srd_monsters_goat.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 10
@@ -19486,6 +20078,7 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 
 # Chèvre géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Goat](srd_monsters_giant_goat.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
@@ -19518,6 +20111,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 
 # Chevreuil
 
+- Source: (CEO p)(SRD p)
 - SRD: [Deer](srd_monsters_deer.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 13
@@ -19544,6 +20138,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 
 # Chien du trépas
 
+- Source: (CEO p)(SRD p)
 - SRD: [Death Dog](srd_monsters_death_dog.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
 - **Classe d'armure** 12
@@ -19577,6 +20172,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle d
 
 # Chien esquiveur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Blink Dog](srd_monsters_blink_dog.md)
 -  Fée de taille M, Loyal Bon
 - **Classe d'armure** 13
@@ -19610,6 +20206,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 
 # Chouette
 
+- Source: (CEO p)(SRD p)
 - SRD: [Owl](srd_monsters_owl.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 11
@@ -19643,6 +20240,7 @@ _Touché :_ 1 dégât tranchant.
 
 # Chouette géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Owl](srd_monsters_giant_owl.md)
 -  Bête de taille G, neutre
 - **Classe d'armure** 12
@@ -19676,6 +20274,7 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 
 # Corbeau
 
+- Source: (CEO p)(SRD p)
 - SRD: [Raven](srd_monsters_raven.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 12
@@ -19707,6 +20306,7 @@ _Touché :_ 1 dégât perforant.
 
 # Crabe
 
+- Source: (CEO p)(SRD p)
 - SRD: [Crab](srd_monsters_crab.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
@@ -19738,6 +20338,7 @@ _Touché :_ 1 dégât contondant.
 
 # Crabe géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Crab](srd_monsters_giant_crab.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
@@ -19769,6 +20370,7 @@ _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée](hd_conditi
 
 # Crapaud géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Toad](srd_monsters_giant_toad.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11
@@ -19805,6 +20407,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 
 # Crocodile
 
+- Source: (CEO p)(SRD p)
 - SRD: [Crocodile](srd_monsters_crocodile.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
@@ -19836,6 +20439,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée](hd_condi
 
 # Crocodile géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Crocodile](srd_monsters_giant_crocodile.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
@@ -19873,6 +20477,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle
 
 # Élan
 
+- Source: (CEO p)(SRD p)
 - SRD: [Elk](srd_monsters_elk.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 10
@@ -19907,6 +20512,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 
 # Élan géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Elk](srd_monsters_giant_elk.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
@@ -19942,6 +20548,7 @@ _Touché :_ 22 (4d8+4) dégâts contondants.
 
 # Éléphant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Elephant](srd_monsters_elephant.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
@@ -19976,6 +20583,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 
 # Épaulard
 
+- Source: (CEO p)(SRD p)
 - SRD: [Killer Whale](srd_monsters_killer_whale.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
@@ -20011,6 +20619,7 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 
 # Faucon
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hawk](srd_monsters_hawk.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 13
@@ -20042,6 +20651,7 @@ _Touché :_ 1 dégât tranchant.
 
 # Faucon de sang
 
+- Source: (CEO p)(SRD p)
 - SRD: [Blood Hawk](srd_monsters_blood_hawk.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12
@@ -20075,6 +20685,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 # Grand singe
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ape](srd_monsters_ape.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 12
@@ -20108,6 +20719,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 
 # Grenouille
 
+- Source: (CEO p)(SRD p)
 - SRD: [Frog](srd_monsters_frog.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 11
@@ -20135,6 +20747,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 
 # Grenouille géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Frog](srd_monsters_giant_frog.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 11
@@ -20172,6 +20785,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée](hd_condit
 
 # Guêpe géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Wasp](srd_monsters_giant_wasp.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 12
@@ -20198,6 +20812,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un [jet de 
 
 # Hibou
 
+- Source: (CEO p)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
@@ -20228,6 +20843,7 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 # Hibou géant
 
+- Source: (CEO p)
 -  Bête de taille G, neutre bon
 - **Classe d'armure** 13
 - **Points de vie** 26 (4d10+4)
@@ -20264,6 +20880,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 # Hippocampe
 
+- Source: (CEO p)(SRD p)
 - SRD: [Sea Horse](srd_monsters_sea_horse.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 11
@@ -20288,6 +20905,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 # Hippocampe géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Sea Horse](srd_monsters_giant_sea_horse.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -20320,6 +20938,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 
 # Hyène
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hyena](srd_monsters_hyena.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 11
@@ -20351,6 +20970,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 
 # Hyène géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Hyena](srd_monsters_giant_hyena.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12
@@ -20382,6 +21002,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 
 # Lézard
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lizard](srd_monsters_lizard.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 10
@@ -20408,6 +21029,7 @@ _Touché :_ 1 dégât perforant.
 
 # Lézard géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Lizard](srd_monsters_giant_lizard.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
@@ -20434,6 +21056,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 # Lion
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lion](srd_monsters_lion.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12
@@ -20473,6 +21096,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 
 # Loup
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wolf](srd_monsters_wolf.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -20506,6 +21130,7 @@ _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle d
 
 # Loup arctique
 
+- Source: (CEO p)(SRD p)
 - SRD: [Winter Wolf](srd_monsters_winter_wolf.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)
@@ -20546,6 +21171,7 @@ Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](hd_
 
 # Loup sanguinaire
 
+- Source: (CEO p)(SRD p)
 - SRD: [Dire Wolf](srd_monsters_dire_wolf.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
@@ -20579,6 +21205,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 
 # Mammouth
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mammoth](srd_monsters_mammoth.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -20613,6 +21240,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 
 # Mastiff
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mastiff](srd_monsters_mastiff.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 12
@@ -20644,6 +21272,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 
 # Mille-pattes géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Centipede](srd_monsters_giant_centipede.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -20670,6 +21299,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 
 # Mule
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mule](srd_monsters_mule.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 10
@@ -20702,6 +21332,7 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 
 # Nuée de chauve-souris
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Bats](srd_monsters_swarm_of_bats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 12
@@ -20738,6 +21369,7 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 
 # Nuée de corbeaux
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Ravens](srd_monsters_swarm_of_ravens.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 12
@@ -20771,6 +21403,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 
 # Nuée de piranhas
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Quippers](srd_monsters_swarm_of_quippers.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 13
@@ -20807,6 +21440,7 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 
 # Nuée de rats
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Rats](srd_monsters_swarm_of_rats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 10
@@ -20841,6 +21475,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 
 # Nuée de serpents venimeux
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 14
@@ -20873,6 +21508,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 
 # Nuée d'insectes
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Insects](srd_monsters_swarm_of_insects.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
@@ -20921,6 +21557,7 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 
 # Ours brun
 
+- Source: (CEO p)(SRD p)
 - SRD: [Brown Bear](srd_monsters_brown_bear.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
@@ -20958,6 +21595,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 
 # Ours noir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Black Bear](srd_monsters_black_bear.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
@@ -20995,6 +21633,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Ours polaire
 
+- Source: (CEO p)(SRD p)
 - SRD: [Polar Bear](srd_monsters_polar_bear.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
@@ -21032,6 +21671,7 @@ _Touché :_ 9 (1d8+5) dégâts perforants.
 
 # Panthère
 
+- Source: (CEO p)(SRD p)
 - SRD: [Panther](srd_monsters_panther.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12
@@ -21069,6 +21709,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Pieuvre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Octopus](srd_monsters_octopus.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12
@@ -21106,6 +21747,7 @@ _Touché :_ 1 dégât contondant et la cible est [empoignée](hd_conditions_empo
 
 # Pieuvre géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Octopus](srd_monsters_giant_octopus.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11
@@ -21145,6 +21787,7 @@ Jusqu'au terme de cette empoignade, la cible est [entravée](hd_conditions_entra
 
 # Piranha
 
+- Source: (CEO p)(SRD p)
 - SRD: [Quipper](srd_monsters_quipper.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 13
@@ -21177,6 +21820,7 @@ _Touché :_ 1 dégât perforant.
 
 # Poney
 
+- Source: (CEO p)(SRD p)
 - SRD: [Pony](srd_monsters_pony.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 10
@@ -21203,6 +21847,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 
 # Punaise de feu géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -21233,6 +21878,7 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 
 # Rat
 
+- Source: (CEO p)(SRD p)
 - SRD: [Rat](srd_monsters_rat.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 10
@@ -21263,6 +21909,7 @@ _Touché :_ 1 dégât perforant.
 
 # Rat géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Rat](srd_monsters_giant_rat.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12
@@ -21303,6 +21950,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 
 # Requin chasseur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hunter Shark](srd_monsters_hunter_shark.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
@@ -21336,6 +21984,7 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 
 # Requin de récif
 
+- Source: (CEO p)(SRD p)
 - SRD: [Reef Shark](srd_monsters_reef_shark.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
@@ -21369,6 +22018,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 # Requin géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Shark](srd_monsters_giant_shark.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
@@ -21402,6 +22052,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 
 # Rhinocéros
 
+- Source: (CEO p)(SRD p)
 - SRD: [Rhinoceros](srd_monsters_rhinoceros.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
@@ -21434,6 +22085,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 
 # Sanglier
 
+- Source: (CEO p)(SRD p)
 - SRD: [Boar](srd_monsters_boar.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
@@ -21466,6 +22118,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 # Sanglier géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Boar](srd_monsters_giant_boar.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
@@ -21498,6 +22151,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 # Scorpion
 
+- Source: (CEO p)(SRD p)
 - SRD: [Scorpion](srd_monsters_scorpion.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
@@ -21524,6 +22178,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 
 # Scorpion géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Scorpion](srd_monsters_giant_scorpion.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
@@ -21556,6 +22211,7 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée](hd_condi
 
 # Serpent constricteur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Constrictor Snake](srd_monsters_constrictor_snake.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12
@@ -21586,6 +22242,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Serpent constricteur géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 12
@@ -21617,6 +22274,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 # Serpent venimeux
 
+- Source: (CEO p)(SRD p)
 - SRD: [Poisonous Snake](srd_monsters_poisonous_snake.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 13
@@ -21643,6 +22301,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 
 # Serpent venimeux géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 14
@@ -21672,6 +22331,7 @@ Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde](hd_abilitie
 
 # Serpent volant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Flying Snake](srd_monsters_flying_snake.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 14
@@ -21702,6 +22362,7 @@ _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 
 # Singe géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Ape](srd_monsters_giant_ape.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 12
@@ -21735,6 +22396,7 @@ _Touché :_ 30 (7d6+6) dégâts contondants.
 
 # Tigre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Tiger](srd_monsters_tiger.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12
@@ -21772,6 +22434,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 
 # Tigre à dents de sabre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12
@@ -21809,6 +22472,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 
 # Vautour
 
+- Source: (CEO p)(SRD p)
 - SRD: [Vulture](srd_monsters_vulture.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 10
@@ -21842,6 +22506,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 
 # Vautour géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Vulture](srd_monsters_giant_vulture.md)
 -  Bête de taille G, Neutre Mauvais
 - **Classe d'armure** 10
@@ -21881,6 +22546,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 # Worg
 
+- Source: (CEO p)(SRD p)
 - SRD: [Worg](srd_monsters_worg.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)
@@ -21912,6 +22578,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 
 # Acolyte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Acolyte](srd_monsters_acolyte.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 10
@@ -21947,6 +22614,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 # Archimage
 
+- Source: (CEO p)(SRD p)
 - SRD: [Archmage](srd_monsters_archmage.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12 (15 avec armure du mage)
@@ -22006,6 +22674,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 # Assassin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Assassin](srd_monsters_assassin.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 15 (armure de cuir clouté)
@@ -22049,6 +22718,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un [jet de 
 
 # Bandit
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bandit](srd_monsters_bandit.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
 - **Classe d'armure** 12 (armure de cuir)
@@ -22079,6 +22749,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 # Berserker
 
+- Source: (CEO p)(SRD p)
 - SRD: [Berserker](srd_monsters_berserker.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
 - **Classe d'armure** 13 (armure de peau)
@@ -22109,6 +22780,7 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 
 # Capitaine bandit
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bandit Captain](srd_monsters_bandit_captain.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
 - **Classe d'armure** 15 (armure de cuir clouté)
@@ -22147,6 +22819,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 # Chevalier
 
+- Source: (CEO p)(SRD p)
 - SRD: [Knight](srd_monsters_knight.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 18 (harnois)
@@ -22190,6 +22863,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 # Druide
 
+- Source: (CEO p)(SRD p)
 - SRD: [Druid](srd_monsters_druid.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 11 (16 avec peau d'écorce)
@@ -22227,6 +22901,7 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 
 # Ecclésiastique
 
+- Source: (CEO p)(SRD p)
 - SRD: [Priest](srd_monsters_priest.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 13 (chemise de mailles)
@@ -22270,6 +22945,7 @@ _Touché :_ 3 (1d6) dégâts contondants.
 
 # Éclaireur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Scout](srd_monsters_scout.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 13 (armure de cuir)
@@ -22307,6 +22983,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Espion
 
+- Source: (CEO p)(SRD p)
 - SRD: [Spy](srd_monsters_spy.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12
@@ -22346,6 +23023,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 # Fanatique de secte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cult Fanatic](srd_monsters_cult_fanatic.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 13 (armure de cuir)
@@ -22387,6 +23065,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 # Garde
 
+- Source: (CEO p)(SRD p)
 - SRD: [Guard](srd_monsters_guard.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 16 (bouclier, chemise de mailles)
@@ -22414,6 +23093,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 
 # Gladiateur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Gladiator](srd_monsters_gladiator.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 16 (armure de cuir clouté, bouclier)
@@ -22460,6 +23140,7 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 
 # Guerrier tribal
 
+- Source: (CEO p)(SRD p)
 - SRD: [Tribal Warrior](srd_monsters_tribal_warrior.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12 (armure de peau)
@@ -22490,6 +23171,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 
 # Mage
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mage](srd_monsters_mage.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12 (15 avec armure du mage)
@@ -22534,6 +23216,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 # Malfrat
 
+- Source: (CEO p)(SRD p)
 - SRD: [Thug](srd_monsters_thug.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que bon
 - **Classe d'armure** 11 (armure de cuir)
@@ -22573,6 +23256,7 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 
 # Membre de secte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cultist](srd_monsters_cultist.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 12 (armure de cuir)
@@ -22604,6 +23288,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 # Noble
 
+- Source: (CEO p)(SRD p)
 - SRD: [Noble](srd_monsters_noble.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 15 (cuirasse)
@@ -22635,6 +23320,7 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 
 # Roturier
 
+- Source: (CEO p)(SRD p)
 - SRD: [Commoner](srd_monsters_commoner.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 10
@@ -22661,6 +23347,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 # Vétéran
 
+- Source: (CEO p)(SRD p)
 - SRD: [Veteran](srd_monsters_veteran.md)
 -  Humanoïde (n'importe quelle race) de taille M, alignement quelconque
 - **Classe d'armure** 17 (clibanion)

@@ -25,6 +25,7 @@ Name: Squelette minotaure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Squelette minotaure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
 - **Classe d'armure** 12 (armure naturelle)

@@ -23,6 +23,7 @@ Name: Élan géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Elk](srd_monsters_giant_elk.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Élan géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Elk](srd_monsters_giant_elk.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 14 (armure naturelle)

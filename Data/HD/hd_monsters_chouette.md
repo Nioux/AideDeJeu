@@ -23,6 +23,7 @@ Name: Chouette
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Owl](srd_monsters_owl.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Chouette
 
+- Source: (CEO p)(SRD p)
 - SRD: [Owl](srd_monsters_owl.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 11

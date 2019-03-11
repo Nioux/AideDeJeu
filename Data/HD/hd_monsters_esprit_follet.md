@@ -23,6 +23,7 @@ Name: Esprit follet
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Sprite](srd_monsters_sprite.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Esprit follet
 
+- Source: (CEO p)(SRD p)
 - SRD: [Sprite](srd_monsters_sprite.md)
 -  Fée de taille TP, Neutre Bonne
 - **Classe d'armure** 15 (armure de cuir)

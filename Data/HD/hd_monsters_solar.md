@@ -27,6 +27,7 @@ Name: Solar
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Solar](srd_monsters_solar.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -35,6 +36,7 @@ Attributes: {}
 
 # Solar
 
+- Source: (CEO p)(SRD p)
 - SRD: [Solar](srd_monsters_solar.md)
 -  Céleste de taille G, Loyal Bon
 - **Classe d'armure** 21 (armure naturelle)

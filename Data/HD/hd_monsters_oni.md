@@ -24,6 +24,7 @@ Name: Oni
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Oni](srd_monsters_oni.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Oni
 
+- Source: (CEO p)(SRD p)
 - SRD: [Oni](srd_monsters_oni.md)
 -  Géant de taille G, Loyal Mauvais
 - **Classe d'armure** 16 (cotte de mailles)

@@ -26,6 +26,7 @@ Name: Géant des tempêtes
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Géant des tempêtes
 
+- Source: (CEO p)(SRD p)
 - SRD: [Storm Giant](srd_monsters_storm_giant.md)
 -  Géant de taille TG, Chaotique Bon
 - **Classe d'armure** 16 (armure d'écailles)

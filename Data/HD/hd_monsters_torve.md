@@ -24,6 +24,7 @@ Name: Torve
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Grimlock](srd_monsters_grimlock.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Torve
 
+- Source: (CEO p)(SRD p)
 - SRD: [Grimlock](srd_monsters_grimlock.md)
 -  Humanoïde (torve) de taille M, Neutre Mauvais
 - **Classe d'armure** 11

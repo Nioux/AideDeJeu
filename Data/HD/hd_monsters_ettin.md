@@ -23,6 +23,7 @@ Name: Ettin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ettin](srd_monsters_ettin.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Ettin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ettin](srd_monsters_ettin.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Classe d'armure** 12 (armure naturelle)

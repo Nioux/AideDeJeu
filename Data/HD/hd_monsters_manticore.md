@@ -22,6 +22,7 @@ Name: Manticore
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Manticore](srd_monsters_manticore.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Manticore
 
+- Source: (CEO p)(SRD p)
 - SRD: [Manticore](srd_monsters_manticore.md)
 -  Créature monstrueuse de taille G, Loyal Mauvais
 - **Classe d'armure** 14 (armure naturelle)

@@ -23,6 +23,7 @@ Name: Singe géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Ape](srd_monsters_giant_ape.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Singe géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Ape](srd_monsters_giant_ape.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 12

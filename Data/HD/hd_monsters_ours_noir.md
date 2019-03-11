@@ -23,6 +23,7 @@ Name: Ours noir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Black Bear](srd_monsters_black_bear.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Ours noir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Black Bear](srd_monsters_black_bear.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 11 (armure naturelle)

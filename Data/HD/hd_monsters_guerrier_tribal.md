@@ -22,6 +22,7 @@ Name: Guerrier tribal
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Tribal Warrior](srd_monsters_tribal_warrior.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Guerrier tribal
 
+- Source: (CEO p)(SRD p)
 - SRD: [Tribal Warrior](srd_monsters_tribal_warrior.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12 (armure de peau)

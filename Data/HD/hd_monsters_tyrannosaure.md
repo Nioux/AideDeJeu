@@ -23,6 +23,7 @@ Name: Tyrannosaure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Tyrannosaure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

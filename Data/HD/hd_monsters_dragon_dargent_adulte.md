@@ -25,6 +25,7 @@ Name: Dragon d'argent adulte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragon d'argent adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)

@@ -24,6 +24,7 @@ Name: Géant des nuages
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cloud Giant](srd_monsters_cloud_giant.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Géant des nuages
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cloud Giant](srd_monsters_cloud_giant.md)
 -  Géant de taille TG, Neutre Bon (50 %) ou Neutre Mauvais (50 %)
 - **Classe d'armure** 14 (armure naturelle)

@@ -23,6 +23,7 @@ Name: Vétéran
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Veteran](srd_monsters_veteran.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Vétéran
 
+- Source: (CEO p)(SRD p)
 - SRD: [Veteran](srd_monsters_veteran.md)
 -  Humanoïde (n'importe quelle race) de taille M, alignement quelconque
 - **Classe d'armure** 17 (clibanion)

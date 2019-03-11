@@ -22,6 +22,7 @@ Name: Chameau
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Camel](srd_monsters_camel.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Chameau
 
+- Source: (CEO p)(SRD p)
 - SRD: [Camel](srd_monsters_camel.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 9

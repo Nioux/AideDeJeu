@@ -22,6 +22,7 @@ Name: Sanglier
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Boar](srd_monsters_boar.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Sanglier
 
+- Source: (CEO p)(SRD p)
 - SRD: [Boar](srd_monsters_boar.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 11 (armure naturelle)

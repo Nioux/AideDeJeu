@@ -24,6 +24,7 @@ Name: Rat-garou
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wererat](srd_monsters_wererat.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Rat-garou
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wererat](srd_monsters_wererat.md)
 -  Humanoïde (humain, métamorphe) de taille M, Loyal Mauvais
 - **Classe d'armure** 12

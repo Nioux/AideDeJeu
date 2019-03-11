@@ -23,6 +23,7 @@ Name: Moisissure violette
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Violet Fungus](srd_monsters_violet_fungus.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Moisissure violette
 
+- Source: (CEO p)(SRD p)
 - SRD: [Violet Fungus](srd_monsters_violet_fungus.md)
 -  Plante de taille M, non-alignée
 - **Classe d'armure** 5

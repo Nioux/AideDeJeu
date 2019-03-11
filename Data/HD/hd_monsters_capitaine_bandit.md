@@ -24,6 +24,7 @@ Name: Capitaine bandit
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bandit Captain](srd_monsters_bandit_captain.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Capitaine bandit
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bandit Captain](srd_monsters_bandit_captain.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
 - **Classe d'armure** 15 (armure de cuir clouté)

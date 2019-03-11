@@ -25,6 +25,7 @@ Name: Lémure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lemure](srd_monsters_lemure.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Lémure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lemure](srd_monsters_lemure.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 7

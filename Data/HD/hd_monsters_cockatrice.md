@@ -22,6 +22,7 @@ Name: Cockatrice
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cockatrice](srd_monsters_cockatrice.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Cockatrice
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cockatrice](srd_monsters_cockatrice.md)
 -  Créature monstrueuse de taille P, non-alignée
 - **Classe d'armure** 11

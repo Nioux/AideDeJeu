@@ -25,6 +25,7 @@ Name: Jeune dragon bleu
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Blue Dragon](srd_monsters_young_blue_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Jeune dragon bleu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Blue Dragon](srd_monsters_young_blue_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)

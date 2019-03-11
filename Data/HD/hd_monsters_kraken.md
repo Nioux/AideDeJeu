@@ -25,6 +25,7 @@ Name: Kraken
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Kraken](srd_monsters_kraken.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Kraken
 
+- Source: (CEO p)(SRD p)
 - SRD: [Kraken](srd_monsters_kraken.md)
 -  Créature monstrueuse (titan) de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)

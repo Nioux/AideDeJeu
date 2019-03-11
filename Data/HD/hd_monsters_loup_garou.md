@@ -24,6 +24,7 @@ Name: Loup-garou
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Werewolf](srd_monsters_werewolf.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Loup-garou
 
+- Source: (CEO p)(SRD p)
 - SRD: [Werewolf](srd_monsters_werewolf.md)
 -  Humanoïde (humain, métamorphe) de taille M, Chaotique Mauvais
 - **Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup

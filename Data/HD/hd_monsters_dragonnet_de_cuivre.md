@@ -25,6 +25,7 @@ Name: Dragonnet de cuivre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragonnet de cuivre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
 - **Classe d'armure** 16 (armure naturelle)

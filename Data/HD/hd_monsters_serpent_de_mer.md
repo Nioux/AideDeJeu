@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Serpent de mer
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Serpent de mer
 
+- Source: (CEO p)
 -  Créature monstrueuse de taille Gig, non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 231 (14d20+84)

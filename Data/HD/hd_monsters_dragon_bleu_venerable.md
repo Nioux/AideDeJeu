@@ -25,6 +25,7 @@ Name: Dragon bleu vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragon bleu vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
 - **Classe d'armure** 22 (armure naturelle)

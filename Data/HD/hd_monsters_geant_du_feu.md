@@ -25,6 +25,7 @@ Name: Géant du feu
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Fire Giant](srd_monsters_fire_giant.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Géant du feu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Fire Giant](srd_monsters_fire_giant.md)
 -  Géant de taille TG, Loyal Mauvais
 - **Classe d'armure** 18 (harnois)

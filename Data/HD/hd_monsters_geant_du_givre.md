@@ -25,6 +25,7 @@ Name: Géant du givre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Frost Giant](srd_monsters_frost_giant.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Géant du givre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Frost Giant](srd_monsters_frost_giant.md)
 -  Géant de taille TG, Neutre Mauvais
 - **Classe d'armure** 15 (armure composite)

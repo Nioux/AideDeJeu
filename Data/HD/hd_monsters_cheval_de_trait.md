@@ -22,6 +22,7 @@ Name: Cheval de trait
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Draft Horse](srd_monsters_draft_horse.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Cheval de trait
 
+- Source: (CEO p)(SRD p)
 - SRD: [Draft Horse](srd_monsters_draft_horse.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 10

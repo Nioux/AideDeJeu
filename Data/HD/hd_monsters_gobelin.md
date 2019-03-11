@@ -23,6 +23,7 @@ Name: Gobelin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Goblin](srd_monsters_goblin.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Gobelin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Goblin](srd_monsters_goblin.md)
 -  Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
 - **Classe d'armure** 15 (armure de cuir, bouclier)

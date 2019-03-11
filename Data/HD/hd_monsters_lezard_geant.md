@@ -22,6 +22,7 @@ Name: Lézard géant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Lézard géant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Lizard](srd_monsters_giant_lizard.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)

@@ -26,6 +26,7 @@ Name: Diable gelé
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ice Devil](srd_monsters_ice_devil.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Diable gelé
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ice Devil](srd_monsters_ice_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)

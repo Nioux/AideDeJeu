@@ -23,6 +23,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Dévoreur arcanique
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Dévoreur arcanique
 
+- Source: (CEO p)
 -  Aberration de taille G, Neutre Mauvais
 - **Classe d'armure** 15
 - **Points de vie** 212 (25d10+75)

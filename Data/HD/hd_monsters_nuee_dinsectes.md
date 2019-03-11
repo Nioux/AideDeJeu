@@ -24,6 +24,7 @@ Name: Nuée d'insectes
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Nuée d'insectes
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Insects](srd_monsters_swarm_of_insects.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 12 (armure naturelle)

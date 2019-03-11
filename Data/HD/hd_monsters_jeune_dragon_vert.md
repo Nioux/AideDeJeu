@@ -26,6 +26,7 @@ Name: Jeune dragon vert
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Green Dragon](srd_monsters_young_green_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Jeune dragon vert
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Green Dragon](srd_monsters_young_green_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)

@@ -24,6 +24,7 @@ Name: Roc
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Roc](srd_monsters_roc.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Roc
 
+- Source: (CEO p)(SRD p)
 - SRD: [Roc](srd_monsters_roc.md)
 -  Créature monstrueuse de taille Gig, non-alignée
 - **Classe d'armure** 15 (armure naturelle)

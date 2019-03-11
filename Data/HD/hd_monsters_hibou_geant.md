@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Hibou géant
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Hibou géant
 
+- Source: (CEO p)
 -  Bête de taille G, neutre bon
 - **Classe d'armure** 13
 - **Points de vie** 26 (4d10+4)

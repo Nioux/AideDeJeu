@@ -25,6 +25,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Drow, prêtresse
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Drow, prêtresse
 
+- Source: (CEO p)
 -  Humanoïde (elfe) de taille M, neutre mauvais
 - **Classe d'armure** 18 (cuirasse +2)
 - **Points de vie** 58 (9d8+18)

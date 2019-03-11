@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Diaspaad
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Diaspaad
 
+- Source: (CEO p)
 -  Aberration de taille G, Chaotique Neutre
 - **Classe d'armure** 14
 - **Points de vie** 199 (19d12+76)

@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Hibou
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Hibou
 
+- Source: (CEO p)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)

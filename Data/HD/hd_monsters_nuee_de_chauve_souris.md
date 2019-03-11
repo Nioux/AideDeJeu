@@ -24,6 +24,7 @@ Name: Nuée de chauve-souris
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Bats](srd_monsters_swarm_of_bats.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Nuée de chauve-souris
 
+- Source: (CEO p)(SRD p)
 - SRD: [Swarm of Bats](srd_monsters_swarm_of_bats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 12

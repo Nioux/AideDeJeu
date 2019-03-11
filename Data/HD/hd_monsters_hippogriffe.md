@@ -23,6 +23,7 @@ Name: Hippogriffe
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hippogriff](srd_monsters_hippogriff.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Hippogriffe
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hippogriff](srd_monsters_hippogriff.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 11

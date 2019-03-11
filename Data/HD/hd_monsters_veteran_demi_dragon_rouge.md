@@ -23,6 +23,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Vétéran demi-dragon rouge
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Vétéran demi-dragon rouge
 
+- Source: (CEO p)
 -  Humanoïde (humain) de taille M, n'importe quel alignement
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 65 (10d8+20)

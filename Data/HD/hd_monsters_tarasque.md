@@ -25,6 +25,7 @@ Name: Tarasque
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Tarrasque](srd_monsters_tarrasque.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Tarasque
 
+- Source: (CEO p)(SRD p)
 - SRD: [Tarrasque](srd_monsters_tarrasque.md)
 -  Créature monstrueuse (titan) de taille Gig, non-alignée
 - **Classe d'armure** 25 (armure naturelle)

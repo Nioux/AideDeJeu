@@ -23,6 +23,7 @@ Name: Chimère
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Chimera](srd_monsters_chimera.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Chimère
 
+- Source: (CEO p)(SRD p)
 - SRD: [Chimera](srd_monsters_chimera.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 14 (armure naturelle)

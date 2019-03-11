@@ -23,6 +23,7 @@ Name: Noble
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Noble](srd_monsters_noble.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Noble
 
+- Source: (CEO p)(SRD p)
 - SRD: [Noble](srd_monsters_noble.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 15 (cuirasse)

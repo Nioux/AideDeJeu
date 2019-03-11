@@ -23,6 +23,7 @@ Name: Grenouille
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Frog](srd_monsters_frog.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Grenouille
 
+- Source: (CEO p)(SRD p)
 - SRD: [Frog](srd_monsters_frog.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 11

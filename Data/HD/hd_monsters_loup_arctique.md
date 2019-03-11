@@ -24,6 +24,7 @@ Name: Loup arctique
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Winter Wolf](srd_monsters_winter_wolf.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Loup arctique
 
+- Source: (CEO p)(SRD p)
 - SRD: [Winter Wolf](srd_monsters_winter_wolf.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)

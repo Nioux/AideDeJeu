@@ -26,6 +26,7 @@ Name: Liche
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lich](srd_monsters_lich.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Liche
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lich](srd_monsters_lich.md)
 -  Mort-vivant de taille M, alignement Mauvais
 - **Classe d'armure** 17 (armure naturelle)

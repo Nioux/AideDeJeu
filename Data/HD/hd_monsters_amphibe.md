@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Amphibe
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Amphibe
 
+- Source: (CEO p)
 -  Aberration de taille M, loyal mauvais
 - **Classe d'armure** 12
 - **Points de vie** 71 (13d8+13)

@@ -23,6 +23,7 @@ Name: Duergar
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Duergar](srd_monsters_duergar.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Duergar
 
+- Source: (CEO p)(SRD p)
 - SRD: [Duergar](srd_monsters_duergar.md)
 -  Humanoïde (nain) de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure d'écailles, bouclier)

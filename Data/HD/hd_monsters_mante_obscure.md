@@ -23,6 +23,7 @@ Name: Mante obscure
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Darkmantle](srd_monsters_darkmantle.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Mante obscure
 
+- Source: (CEO p)(SRD p)
 - SRD: [Darkmantle](srd_monsters_darkmantle.md)
 -  Créature monstrueuse de taille P, non-alignée
 - **Classe d'armure** 11

@@ -23,6 +23,7 @@ Name: Aigle
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Eagle](srd_monsters_eagle.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Aigle
 
+- Source: (CEO p)(SRD p)
 - SRD: [Eagle](srd_monsters_eagle.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12

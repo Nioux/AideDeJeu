@@ -23,6 +23,7 @@ Name: Mastiff
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mastiff](srd_monsters_mastiff.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Mastiff
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mastiff](srd_monsters_mastiff.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 12

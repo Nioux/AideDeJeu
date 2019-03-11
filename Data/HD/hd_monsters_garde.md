@@ -23,6 +23,7 @@ Name: Garde
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Guard](srd_monsters_guard.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Garde
 
+- Source: (CEO p)(SRD p)
 - SRD: [Guard](srd_monsters_guard.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 16 (bouclier, chemise de mailles)

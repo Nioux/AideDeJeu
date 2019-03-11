@@ -21,6 +21,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Gnoll, chef de meute
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -29,6 +30,7 @@ Attributes: {}
 
 # Gnoll, chef de meute
 
+- Source: (CEO p)
 -  Humanoïde (gnoll) de taille M, Chaotique Mauvais
 - **Classe d'armure** 15 (armure de peau, bouclier)
 - **Points de vie** 44 (8d8+8)

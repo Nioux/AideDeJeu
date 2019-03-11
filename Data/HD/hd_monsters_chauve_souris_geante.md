@@ -22,6 +22,7 @@ Name: Chauve-souris géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Bat](srd_monsters_giant_bat.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Chauve-souris géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Bat](srd_monsters_giant_bat.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 13

@@ -23,6 +23,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Chaman gobelin blanc
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Chaman gobelin blanc
 
+- Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille P, neutre mauvais
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 22 (5d6+5)

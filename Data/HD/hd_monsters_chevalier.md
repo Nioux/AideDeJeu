@@ -23,6 +23,7 @@ Name: Chevalier
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Knight](srd_monsters_knight.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Chevalier
 
+- Source: (CEO p)(SRD p)
 - SRD: [Knight](srd_monsters_knight.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 18 (harnois)

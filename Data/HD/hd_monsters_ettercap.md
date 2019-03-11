@@ -23,6 +23,7 @@ Name: Ettercap
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ettercap](srd_monsters_ettercap.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Ettercap
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ettercap](srd_monsters_ettercap.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)

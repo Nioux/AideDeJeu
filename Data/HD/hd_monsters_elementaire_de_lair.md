@@ -25,6 +25,7 @@ Name: Élémentaire de l'air
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Air Elemental](srd_monsters_air_elemental.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Élémentaire de l'air
 
+- Source: (CEO p)(SRD p)
 - SRD: [Air Elemental](srd_monsters_air_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Classe d'armure** 15

@@ -23,6 +23,7 @@ Name: Hyène géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Hyena](srd_monsters_giant_hyena.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Hyène géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Hyena](srd_monsters_giant_hyena.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12

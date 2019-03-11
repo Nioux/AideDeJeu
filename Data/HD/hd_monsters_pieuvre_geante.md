@@ -23,6 +23,7 @@ Name: Pieuvre géante
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Octopus](srd_monsters_giant_octopus.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Pieuvre géante
 
+- Source: (CEO p)(SRD p)
 - SRD: [Giant Octopus](srd_monsters_giant_octopus.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11

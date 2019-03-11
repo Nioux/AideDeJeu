@@ -22,6 +22,7 @@ Name: Babouin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Baboon](srd_monsters_baboon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Babouin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Baboon](srd_monsters_baboon.md)
 -  Bête de taille P, non-alignée
 - **Classe d'armure** 12

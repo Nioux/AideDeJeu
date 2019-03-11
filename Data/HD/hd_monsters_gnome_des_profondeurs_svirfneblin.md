@@ -23,6 +23,7 @@ Name: Gnome des profondeurs (svirfneblin)
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Gnome des profondeurs (svirfneblin)
 
+- Source: (CEO p)(SRD p)
 - SRD: [Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)
 -  Humanoïde (gnome) de taille P, Neutre Bon
 - **Classe d'armure** 15 (chemise de mailles)

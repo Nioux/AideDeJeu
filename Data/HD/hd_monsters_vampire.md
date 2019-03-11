@@ -25,6 +25,7 @@ Name: Vampire
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Vampire](srd_monsters_vampire.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Vampire
 
+- Source: (CEO p)(SRD p)
 - SRD: [Vampire](srd_monsters_vampire.md)
 -  Mort-vivant (métamorphe) de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure naturelle)

@@ -24,6 +24,7 @@ Name: Éfrit
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Efreeti](srd_monsters_efreeti.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Éfrit
 
+- Source: (CEO p)(SRD p)
 - SRD: [Efreeti](srd_monsters_efreeti.md)
 -  Élémentaire de taille G, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)

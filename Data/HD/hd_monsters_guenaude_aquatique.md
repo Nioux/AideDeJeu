@@ -22,6 +22,7 @@ Name: Guenaude aquatique
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Sea Hag](srd_monsters_sea_hag.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Guenaude aquatique
 
+- Source: (CEO p)(SRD p)
 - SRD: [Sea Hag](srd_monsters_sea_hag.md)
 -  Fée de taille M, Chaotique Mauvais
 - **Classe d'armure** 14 (armure naturelle)

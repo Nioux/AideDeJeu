@@ -23,6 +23,7 @@ Name: Crocodile
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Crocodile](srd_monsters_crocodile.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Crocodile
 
+- Source: (CEO p)(SRD p)
 - SRD: [Crocodile](srd_monsters_crocodile.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)

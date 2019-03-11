@@ -25,6 +25,7 @@ Name: Dragonnet de bronze
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragonnet de bronze
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)

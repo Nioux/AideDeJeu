@@ -25,6 +25,7 @@ Name: Dragon d'airain vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragon d'airain vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
 - **Classe d'armure** 20 (armure naturelle)

@@ -25,6 +25,7 @@ Name: Rakshasa
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Rakshasa](srd_monsters_rakshasa.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Rakshasa
 
+- Source: (CEO p)(SRD p)
 - SRD: [Rakshasa](srd_monsters_rakshasa.md)
 -  Fiélon de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure naturelle)

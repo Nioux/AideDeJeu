@@ -22,6 +22,7 @@ Name: Cheval de guerre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Warhorse](srd_monsters_warhorse.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Cheval de guerre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Warhorse](srd_monsters_warhorse.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 11

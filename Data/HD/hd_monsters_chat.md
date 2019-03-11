@@ -23,6 +23,7 @@ Name: Chat
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Cat](srd_monsters_cat.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Chat
 
+- Source: (CEO p)(SRD p)
 - SRD: [Cat](srd_monsters_cat.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 12

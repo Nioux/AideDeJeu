@@ -23,6 +23,7 @@ Name: Requin chasseur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Hunter Shark](srd_monsters_hunter_shark.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Requin chasseur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Hunter Shark](srd_monsters_hunter_shark.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)

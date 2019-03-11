@@ -22,6 +22,7 @@ Name: Piranha
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Quipper](srd_monsters_quipper.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Piranha
 
+- Source: (CEO p)(SRD p)
 - SRD: [Quipper](srd_monsters_quipper.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 13

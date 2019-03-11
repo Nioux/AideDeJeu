@@ -22,6 +22,7 @@ Name: Poney
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Pony](srd_monsters_pony.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Poney
 
+- Source: (CEO p)(SRD p)
 - SRD: [Pony](srd_monsters_pony.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 10

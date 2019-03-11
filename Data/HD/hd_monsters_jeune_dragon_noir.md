@@ -25,6 +25,7 @@ Name: Jeune dragon noir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Black Dragon](srd_monsters_young_black_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Jeune dragon noir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Black Dragon](srd_monsters_young_black_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)

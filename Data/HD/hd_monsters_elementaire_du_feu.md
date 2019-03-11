@@ -25,6 +25,7 @@ Name: Élémentaire du feu
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Élémentaire du feu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Fire Elemental](srd_monsters_fire_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Classe d'armure** 13

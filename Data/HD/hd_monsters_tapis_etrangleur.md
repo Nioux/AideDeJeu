@@ -24,6 +24,7 @@ Name: Tapis étrangleur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Rug of Smothering](srd_monsters_rug_of_smothering.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Tapis étrangleur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Rug of Smothering](srd_monsters_rug_of_smothering.md)
 -  Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 12

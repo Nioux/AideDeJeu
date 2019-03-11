@@ -23,6 +23,7 @@ Name: Ver pourpre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Purple Worm](srd_monsters_purple_worm.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Ver pourpre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Purple Worm](srd_monsters_purple_worm.md)
 -  Créature monstrueuse de taille Gig, non-alignée
 - **Classe d'armure** 18 (armure naturelle)

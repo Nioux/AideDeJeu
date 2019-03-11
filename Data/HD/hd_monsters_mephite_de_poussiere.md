@@ -26,6 +26,7 @@ Name: Méphite de poussière
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Dust Mephit](srd_monsters_dust_mephit.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Méphite de poussière
 
+- Source: (CEO p)(SRD p)
 - SRD: [Dust Mephit](srd_monsters_dust_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Classe d'armure** 12

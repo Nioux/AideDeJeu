@@ -22,6 +22,7 @@ Name: Rat
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Rat](srd_monsters_rat.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Rat
 
+- Source: (CEO p)(SRD p)
 - SRD: [Rat](srd_monsters_rat.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 10

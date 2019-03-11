@@ -26,6 +26,7 @@ Name: Nécrophage
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wight](srd_monsters_wight.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Nécrophage
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wight](srd_monsters_wight.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 14 (armure de cuir clouté)

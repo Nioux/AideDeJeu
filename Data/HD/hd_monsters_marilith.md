@@ -26,6 +26,7 @@ Name: Marilith
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Marilith](srd_monsters_marilith.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Marilith
 
+- Source: (CEO p)(SRD p)
 - SRD: [Marilith](srd_monsters_marilith.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)

@@ -23,6 +23,7 @@ Name: Lion
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Lion](srd_monsters_lion.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Lion
 
+- Source: (CEO p)(SRD p)
 - SRD: [Lion](srd_monsters_lion.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12

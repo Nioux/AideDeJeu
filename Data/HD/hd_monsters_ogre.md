@@ -22,6 +22,7 @@ Name: Ogre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ogre](srd_monsters_ogre.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Ogre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ogre](srd_monsters_ogre.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Classe d'armure** 11 (armure de peau)

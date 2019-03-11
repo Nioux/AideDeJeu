@@ -26,6 +26,7 @@ Name: Diable barbu
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bearded Devil](srd_monsters_bearded_devil.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Diable barbu
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bearded Devil](srd_monsters_bearded_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 13 (armure naturelle)

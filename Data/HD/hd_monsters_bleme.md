@@ -25,6 +25,7 @@ Name: Blême
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ghast](srd_monsters_ghast.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Blême
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ghast](srd_monsters_ghast.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 13

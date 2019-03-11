@@ -22,6 +22,7 @@ Name: Éléphant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Elephant](srd_monsters_elephant.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Éléphant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Elephant](srd_monsters_elephant.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 12 (armure naturelle)

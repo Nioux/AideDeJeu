@@ -23,6 +23,7 @@ Name: Ours polaire
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Polar Bear](srd_monsters_polar_bear.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Ours polaire
 
+- Source: (CEO p)(SRD p)
 - SRD: [Polar Bear](srd_monsters_polar_bear.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)

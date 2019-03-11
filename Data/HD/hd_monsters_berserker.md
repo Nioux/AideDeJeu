@@ -22,6 +22,7 @@ Name: Berserker
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Berserker](srd_monsters_berserker.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Berserker
 
+- Source: (CEO p)(SRD p)
 - SRD: [Berserker](srd_monsters_berserker.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
 - **Classe d'armure** 13 (armure de peau)

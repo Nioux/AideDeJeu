@@ -23,6 +23,7 @@ Name: Sahuagin
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Sahuagin](srd_monsters_sahuagin.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Sahuagin
 
+- Source: (CEO p)(SRD p)
 - SRD: [Sahuagin](srd_monsters_sahuagin.md)
 -  Humanoïde (sahuagin) de taille M, Loyal Mauvais
 - **Classe d'armure** 12 (armure naturelle)

@@ -25,6 +25,7 @@ Name: Dragon d'or vénérable
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragon d'or vénérable
 
+- Source: (CEO p)(SRD p)
 - SRD: [Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
 - **Classe d'armure** 22 (armure naturelle)

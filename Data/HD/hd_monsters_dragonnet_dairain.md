@@ -25,6 +25,7 @@ Name: Dragonnet d'airain
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragonnet d'airain
 
+- Source: (CEO p)(SRD p)
 - SRD: [Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
 - **Classe d'armure** 16 (armure naturelle)

@@ -22,6 +22,7 @@ Name: Serpent volant
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Serpent volant
 
+- Source: (CEO p)(SRD p)
 - SRD: [Flying Snake](srd_monsters_flying_snake.md)
 -  Bête de taille TP, non-alignée
 - **Classe d'armure** 14

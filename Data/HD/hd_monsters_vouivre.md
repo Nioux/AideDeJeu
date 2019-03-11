@@ -23,6 +23,7 @@ Name: Vouivre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Wyvern](srd_monsters_wyvern.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Vouivre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Wyvern](srd_monsters_wyvern.md)
 -  Dragon de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

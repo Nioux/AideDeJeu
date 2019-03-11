@@ -22,6 +22,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Sahuagin, prêtresse de Mikala
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Sahuagin, prêtresse de Mikala
 
+- Source: (CEO p)
 -  Humanoïde (sahuagin) de taille M, Loyal Mauvais
 - **Classe d'armure** 14 (armure de coquillages)
 - **Points de vie** 50 (9d8+9)

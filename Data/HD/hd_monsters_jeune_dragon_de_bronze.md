@@ -25,6 +25,7 @@ Name: Jeune dragon de bronze
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Jeune dragon de bronze
 
+- Source: (CEO p)(SRD p)
 - SRD: [Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)
 -  Dragon de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)

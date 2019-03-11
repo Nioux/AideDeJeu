@@ -26,6 +26,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Abothid
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Abothid
 
+- Source: (CEO p)
 -  Aberration de taille M, loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 104 (16d8+32)

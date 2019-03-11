@@ -24,6 +24,7 @@ ParentLink: monsters_hd.md#créatures
 Name: Saule étrangleur
 ParentName: Créatures
 NameLevel: 1
+Source: (CEO p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Saule étrangleur
 
+- Source: (CEO p)
 -  Plante de taille TG, non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 115 (10d12+50)

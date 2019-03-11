@@ -23,6 +23,7 @@ Name: Hibours
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Owlbear](srd_monsters_owlbear.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Hibours
 
+- Source: (CEO p)(SRD p)
 - SRD: [Owlbear](srd_monsters_owlbear.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

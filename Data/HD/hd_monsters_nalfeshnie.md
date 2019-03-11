@@ -26,6 +26,7 @@ Name: Nalfeshnie
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Nalfeshnee](srd_monsters_nalfeshnee.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Nalfeshnie
 
+- Source: (CEO p)(SRD p)
 - SRD: [Nalfeshnee](srd_monsters_nalfeshnee.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)

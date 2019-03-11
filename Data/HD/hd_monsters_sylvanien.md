@@ -24,6 +24,7 @@ Name: Sylvanien
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Treant](srd_monsters_treant.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Sylvanien
 
+- Source: (CEO p)(SRD p)
 - SRD: [Treant](srd_monsters_treant.md)
 -  Plante de taille TG, Chaotique Bonne
 - **Classe d'armure** 15 (armure naturelle)

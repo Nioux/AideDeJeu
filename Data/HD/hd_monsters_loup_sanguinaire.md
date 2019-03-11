@@ -23,6 +23,7 @@ Name: Loup sanguinaire
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Dire Wolf](srd_monsters_dire_wolf.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Loup sanguinaire
 
+- Source: (CEO p)(SRD p)
 - SRD: [Dire Wolf](srd_monsters_dire_wolf.md)
 -  Bête de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle)

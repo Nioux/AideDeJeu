@@ -23,6 +23,7 @@ Name: Druide
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Druid](srd_monsters_druid.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Druide
 
+- Source: (CEO p)(SRD p)
 - SRD: [Druid](srd_monsters_druid.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 11 (16 avec peau d'écorce)

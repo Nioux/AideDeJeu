@@ -25,6 +25,7 @@ Name: Dragon de cuivre adulte
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragon de cuivre adulte
 
+- Source: (CEO p)(SRD p)
 - SRD: [Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
 - **Classe d'armure** 18 (armure naturelle)

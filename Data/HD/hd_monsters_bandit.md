@@ -22,6 +22,7 @@ Name: Bandit
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Bandit](srd_monsters_bandit.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Bandit
 
+- Source: (CEO p)(SRD p)
 - SRD: [Bandit](srd_monsters_bandit.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
 - **Classe d'armure** 12 (armure de cuir)

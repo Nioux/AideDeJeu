@@ -24,6 +24,7 @@ Name: Méphite de vapeur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Steam Mephit](srd_monsters_steam_mephit.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Méphite de vapeur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Steam Mephit](srd_monsters_steam_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Classe d'armure** 10

@@ -27,6 +27,7 @@ Name: Ombre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Shadow](srd_monsters_shadow.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -35,6 +36,7 @@ Attributes: {}
 
 # Ombre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Shadow](srd_monsters_shadow.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 12

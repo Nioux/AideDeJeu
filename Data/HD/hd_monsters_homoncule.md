@@ -24,6 +24,7 @@ Name: Homoncule
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Homunculus](srd_monsters_homunculus.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Homoncule
 
+- Source: (CEO p)(SRD p)
 - SRD: [Homunculus](srd_monsters_homunculus.md)
 -  Créature artificielle de taille TP, neutre
 - **Classe d'armure** 13 (armure naturelle)

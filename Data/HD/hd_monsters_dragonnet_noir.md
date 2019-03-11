@@ -25,6 +25,7 @@ Name: Dragonnet noir
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Dragonnet noir
 
+- Source: (CEO p)(SRD p)
 - SRD: [Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)

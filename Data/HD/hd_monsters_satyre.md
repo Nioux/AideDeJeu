@@ -23,6 +23,7 @@ Name: Satyre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Satyr](srd_monsters_satyr.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Satyre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Satyr](srd_monsters_satyr.md)
 -  Fée de taille M, Chaotique Neutre
 - **Classe d'armure** 14 (armure de cuir)

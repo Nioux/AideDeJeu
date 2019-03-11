@@ -23,6 +23,7 @@ Name: Vautour
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Vulture](srd_monsters_vulture.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Vautour
 
+- Source: (CEO p)(SRD p)
 - SRD: [Vulture](srd_monsters_vulture.md)
 -  Bête de taille M, non-alignée
 - **Classe d'armure** 10

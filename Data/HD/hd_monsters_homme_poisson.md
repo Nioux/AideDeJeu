@@ -23,6 +23,7 @@ Name: Homme-poisson
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Merfolk](srd_monsters_merfolk.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Homme-poisson
 
+- Source: (CEO p)(SRD p)
 - SRD: [Merfolk](srd_monsters_merfolk.md)
 -  Humanoïde (homme-poisson) de taille M, Neutre
 - **Classe d'armure** 11

@@ -24,6 +24,7 @@ Name: Aboleth
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Aboleth](srd_monsters_aboleth.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Aboleth
 
+- Source: (CEO p)(SRD p)
 - SRD: [Aboleth](srd_monsters_aboleth.md)
 -  Aberration de taille G, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)

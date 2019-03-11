@@ -25,6 +25,7 @@ Name: Azer
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Azer](srd_monsters_azer.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Azer
 
+- Source: (CEO p)(SRD p)
 - SRD: [Azer](srd_monsters_azer.md)
 -  Élémentaire de taille M, Loyal Neutre
 - **Classe d'armure** 17 (armure naturelle, bouclier)

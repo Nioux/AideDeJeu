@@ -25,6 +25,7 @@ Name: Salamandre
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Salamander](srd_monsters_salamander.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Salamandre
 
+- Source: (CEO p)(SRD p)
 - SRD: [Salamander](srd_monsters_salamander.md)
 -  Élémentaire de taille G, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)

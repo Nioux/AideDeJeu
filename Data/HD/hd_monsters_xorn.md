@@ -24,6 +24,7 @@ Name: Xorn
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Xorn](srd_monsters_xorn.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -32,6 +33,7 @@ Attributes: {}
 
 # Xorn
 
+- Source: (CEO p)(SRD p)
 - SRD: [Xorn](srd_monsters_xorn.md)
 -  Élémentaire de taille M, Neutre
 - **Classe d'armure** 19 (armure naturelle)

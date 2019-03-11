@@ -25,6 +25,7 @@ Name: Naga corrupteur
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Spirit Naga](srd_monsters_spirit_naga.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Naga corrupteur
 
+- Source: (CEO p)(SRD p)
 - SRD: [Spirit Naga](srd_monsters_spirit_naga.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)

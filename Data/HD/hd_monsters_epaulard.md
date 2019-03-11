@@ -23,6 +23,7 @@ Name: Épaulard
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Killer Whale](srd_monsters_killer_whale.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -31,6 +32,7 @@ Attributes: {}
 
 # Épaulard
 
+- Source: (CEO p)(SRD p)
 - SRD: [Killer Whale](srd_monsters_killer_whale.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 12 (armure naturelle)

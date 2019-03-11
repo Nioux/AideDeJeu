@@ -26,6 +26,7 @@ Name: Vrock
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Vrock](srd_monsters_vrock.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -34,6 +35,7 @@ Attributes: {}
 
 # Vrock
 
+- Source: (CEO p)(SRD p)
 - SRD: [Vrock](srd_monsters_vrock.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)

@@ -25,6 +25,7 @@ Name: Mimique
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Mimic](srd_monsters_mimic.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Mimique
 
+- Source: (CEO p)(SRD p)
 - SRD: [Mimic](srd_monsters_mimic.md)
 -  Créature monstrueuse (métamorphe) de taille M, Neutre
 - **Classe d'armure** 12 (armure naturelle)

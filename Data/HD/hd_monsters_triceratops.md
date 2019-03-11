@@ -22,6 +22,7 @@ Name: Tricératops
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Triceratops](srd_monsters_triceratops.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Tricératops
 
+- Source: (CEO p)(SRD p)
 - SRD: [Triceratops](srd_monsters_triceratops.md)
 -  Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)

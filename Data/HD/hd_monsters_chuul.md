@@ -25,6 +25,7 @@ Name: Chuul
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Chuul](srd_monsters_chuul.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -33,6 +34,7 @@ Attributes: {}
 
 # Chuul
 
+- Source: (CEO p)(SRD p)
 - SRD: [Chuul](srd_monsters_chuul.md)
 -  Aberration de taille G, Chaotique Mauvais
 - **Classe d'armure** 16 (armure naturelle)

@@ -27,6 +27,7 @@ Name: Diable barbelé
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Barbed Devil](srd_monsters_barbed_devil.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -35,6 +36,7 @@ Attributes: {}
 
 # Diable barbelé
 
+- Source: (CEO p)(SRD p)
 - SRD: [Barbed Devil](srd_monsters_barbed_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 15 (armure naturelle)

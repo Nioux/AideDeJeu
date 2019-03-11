@@ -22,6 +22,7 @@ Name: Merrow
 ParentName: Créatures
 NameLevel: 1
 AltName: '[Merrow](srd_monsters_merrow.md)'
+Source: (CEO p)(SRD p)
 Attributes: {}
 ---
 > [Créatures](hd_monsters.md)
@@ -30,6 +31,7 @@ Attributes: {}
 
 # Merrow
 
+- Source: (CEO p)(SRD p)
 - SRD: [Merrow](srd_monsters_merrow.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 13 (armure naturelle)
