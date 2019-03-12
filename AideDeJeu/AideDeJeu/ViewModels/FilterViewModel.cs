@@ -382,7 +382,7 @@ namespace AideDeJeu.ViewModels
     #endregion Monsters
 
     #region Equipments
-    public abstract class EquipmentFilterViewModel : FilterViewModel
+    public class EquipmentFilterViewModel : FilterViewModel
     {
         private IEnumerable<Filter> _Filters = null;
         public override IEnumerable<Filter> Filters
@@ -395,7 +395,7 @@ namespace AideDeJeu.ViewModels
                     {
                         new Filter() { Key = FilterKeys.Type, Name = "Type", KeyValues = Types, _Index = 0 },
                         new Filter() { Key = FilterKeys.MinPrice, Name = "Prix Minimum", KeyValues = Prices, _Index = 0 },
-                        new Filter() { Key = FilterKeys.MaxPrice, Name = "Prix Maximum", KeyValues = Prices, _Index = 9 },
+                        new Filter() { Key = FilterKeys.MaxPrice, Name = "Prix Maximum", KeyValues = Prices, _Index = 0 },
                     };
                     RegisterFilters();
                 }
@@ -403,12 +403,23 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public EquipmentFilterViewModel(string family, List<KeyValuePair<string, string>> types, List<KeyValuePair<string, string>> prices)
+        {
+            this.Types = types;
+            this.Prices = prices;
+        }
+
+        public string PriceConverter(string price)
+        {
+            if (price == "") return null;
+            return price;
+        }
         public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
             var priceComparer = new PriceComparer();
             var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-            var minPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey ?? "0 pc";
-            var maxPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey ?? "1 000 000 po";
+            var minPrice = PriceConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey) ?? "0 pc";
+            var maxPrice = PriceConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey) ?? "1 000 000 po";
 
             try
             {
@@ -437,62 +448,14 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public abstract List<KeyValuePair<string, string>> Types { get; }
+        public List<KeyValuePair<string, string>> Types { get; }
 
-        public abstract List<KeyValuePair<string, string>> Prices { get; }
+        public List<KeyValuePair<string, string>> Prices { get; }
     }
-
-    public class VFEquipmentFilterViewModel : EquipmentFilterViewModel
-    {
-
-        public override List<KeyValuePair<string, string>> Types { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Tous" ),
-            new KeyValuePair<string, string>("Armure", "Armure" ),
-            new KeyValuePair<string, string>("Armure légère", "    Armure légère" ),
-            new KeyValuePair<string, string>("Armure intermédiaire", "    Armure intermédiaire" ),
-            new KeyValuePair<string, string>("Armure lourde", "    Armure lourde" ),
-            new KeyValuePair<string, string>("Bouclier", "    Bouclier" ),
-            new KeyValuePair<string, string>("Arme", "Arme" ),
-            new KeyValuePair<string, string>("Arme de corps-à-corps", "    Arme de corps-à-corps" ),
-            new KeyValuePair<string, string>("Arme à distance", "    Arme à distance" ),
-            new KeyValuePair<string, string>("Équipement d'aventurier", "Équipement d'aventurier" ),
-            new KeyValuePair<string, string>("Focaliseur arcanique", "    Focaliseur arcanique" ),
-            new KeyValuePair<string, string>("Focaliseur druidique", "    Focaliseur druidique" ),
-            new KeyValuePair<string, string>("Munitions", "    Munitions" ),
-            new KeyValuePair<string, string>("Symbole sacré", "    Symbole sacré" ),
-            new KeyValuePair<string, string>("Vêtements", "    Vêtements" ),
-            new KeyValuePair<string, string>("Outil", "Outil" ),
-            new KeyValuePair<string, string>("Instrument de musique", "    Instrument de musique" ),
-            new KeyValuePair<string, string>("Jeu", "    Jeu" ),
-            new KeyValuePair<string, string>("Outil d'artisan", "    Outil d'artisan" ),
-            new KeyValuePair<string, string>("Monture", "Monture" ),
-            new KeyValuePair<string, string>("Équipement, sellerie et véhicules à traction", "Équipement, sellerie et véhicules à traction" ),
-            new KeyValuePair<string, string>("Bateau", "Bateau" ),
-            new KeyValuePair<string, string>("Marchandise", "Marchandise" ),
-            new KeyValuePair<string, string>("Service", "Service" ),
-            new KeyValuePair<string, string>("Nourriture, boisson et logement", "Nourriture, boisson et logement" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Prices { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("0 pc", "0 pc" ),
-            new KeyValuePair<string, string>("1 pc", "1 pc" ),
-            new KeyValuePair<string, string>("1 pa", "1 pa" ),
-            new KeyValuePair<string, string>("1 po", "1 po" ),
-            new KeyValuePair<string, string>("10 po", "10 po" ),
-            new KeyValuePair<string, string>("100 po", "100 po" ),
-            new KeyValuePair<string, string>("1 000 po", "1 000 po" ),
-            new KeyValuePair<string, string>("10 000 po", "10 000 po" ),
-            new KeyValuePair<string, string>("100 000 po", "100 000 po" ),
-            new KeyValuePair<string, string>("1 000 000 po", "1 000 000 po" ),
-        };
-    }
-
     #endregion Equipments
 
     #region Magic Items
-    public abstract class MagicItemFilterViewModel : FilterViewModel
+    public class MagicItemFilterViewModel : FilterViewModel
     {
         private IEnumerable<Filter> _Filters = null;
         public override IEnumerable<Filter> Filters
@@ -504,8 +467,8 @@ namespace AideDeJeu.ViewModels
                     _Filters = new List<Filter>()
                     {
                         new Filter() { Key = FilterKeys.Type, Name = "Type", KeyValues = Types, _Index = 0 },
-                        new Filter() { Key = FilterKeys.Rarity, Name = "Rareté", KeyValues = Rarity, _Index = 0 },
-                        new Filter() { Key = FilterKeys.Attunement, Name = "Harmonisation", KeyValues = Attunement, _Index = 0 },
+                        new Filter() { Key = FilterKeys.Rarity, Name = "Rareté", KeyValues = Rarities, _Index = 0 },
+                        new Filter() { Key = FilterKeys.Attunement, Name = "Harmonisation", KeyValues = Attunements, _Index = 0 },
                         //new Filter() { Key = FilterKeys.MinPrice, Name = "Prix Minimum", KeyValues = Prices, _Index = 0 },
                         //new Filter() { Key = FilterKeys.MaxPrice, Name = "Prix Maximum", KeyValues = Prices, _Index = 9 },
                     };
@@ -515,9 +478,15 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public MagicItemFilterViewModel(string family, List<KeyValuePair<string, string>> types, List<KeyValuePair<string, string>> rarities, List<KeyValuePair<string, string>> attunements)
+        {
+            this.Types = types;
+            this.Rarities = rarities;
+            this.Attunements = attunements;
+        }
+
         public override async Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken token = default)
         {
-            var priceComparer = new PriceComparer();
             var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
             var rarity = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Rarity).SelectedKey ?? "";
             var attunement = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Attunement).SelectedKey ?? "";
@@ -545,57 +514,11 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public abstract List<KeyValuePair<string, string>> Types { get; }
+        public List<KeyValuePair<string, string>> Types { get; }
 
-        public abstract List<KeyValuePair<string, string>> Rarity { get; }
+        public List<KeyValuePair<string, string>> Rarities { get; }
 
-        public abstract List<KeyValuePair<string, string>> Attunement { get; }
+        public List<KeyValuePair<string, string>> Attunements { get; }
     }
-
-    public class VFMagicItemFilterViewModel : MagicItemFilterViewModel
-    {
-
-        public override List<KeyValuePair<string, string>> Types { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Tous" ),
-            new KeyValuePair<string, string>("Anneau", "Anneau" ),
-            new KeyValuePair<string, string>("Arme", "Arme" ),
-            new KeyValuePair<string, string>("Armure", "Armure" ),
-            new KeyValuePair<string, string>("Baguette", "Baguette" ),
-            new KeyValuePair<string, string>("Bâton", "Bâton" ),
-            new KeyValuePair<string, string>("Objet merveilleux", "Objet merveilleux" ),
-            new KeyValuePair<string, string>("Parchemin", "Parchemin" ),
-            new KeyValuePair<string, string>("Potion", "Potion" ),
-            new KeyValuePair<string, string>("Sceptre", "Sceptre" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Rarity { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Toutes" ),
-            new KeyValuePair<string, string>("peu courant", "Peu courant" ),
-            new KeyValuePair<string, string>("rare", "Rare" ),
-            new KeyValuePair<string, string>("très rare", "Très rare" ),
-            new KeyValuePair<string, string>("légendaire", "Légendaire" ),
-            new KeyValuePair<string, string>("rareté variable", "Rareté variable" ),
-        };
-
-        public override List<KeyValuePair<string, string>> Attunement { get; } = new List<KeyValuePair<string, string>>()
-        {
-            new KeyValuePair<string, string>("", "Tout" ),
-            new KeyValuePair<string, string>("requise", "Requise" ),
-            new KeyValuePair<string, string>("lanceur de sorts", "Lanceur de sorts" ),
-            new KeyValuePair<string, string>("barde", "  Barde" ),
-            new KeyValuePair<string, string>("clerc", "  Clerc" ),
-            new KeyValuePair<string, string>("druide", "  Druide" ),
-            new KeyValuePair<string, string>("ensorceleur", "  Ensorceleur" ),
-            new KeyValuePair<string, string>("magicien", "  Magicien" ),
-            new KeyValuePair<string, string>("sorcier", "  Sorcier" ),
-            new KeyValuePair<string, string>("paladin", "  Paladin" ),
-            new KeyValuePair<string, string>("alignement bon", "Alignement bon" ),
-            new KeyValuePair<string, string>("alignement mauvais", "Alignement mauvais" ),
-            new KeyValuePair<string, string>("nain", "Nain" ),
-        };
-    }
-
     #endregion Equipments
 }

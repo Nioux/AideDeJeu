@@ -1,5 +1,8 @@
 ﻿---
 !MagicItems
+Types: Anneau|Arme|Armure|Baguette|Bâton|Objet merveilleux|Parchemin|Potion|Sceptre
+Rarities: Peu courant|Rare|Très rare|Légendaire|Rareté variable
+Attunements: Requise|Lanceur de sorts|Barde|Clerc|Druide|Ensorceleur|Magicien|Sorcier|Paladin|Alignement bon|Alignement mauvais|Nain
 SubItems:
 - !MagicItem
   Type: Objet merveilleux

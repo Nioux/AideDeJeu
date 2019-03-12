@@ -1,13 +1,13 @@
 ﻿---
 !ClassItem
+Name: Clerc
+AltName: Cleric (SRD p15)
+Source: (MDR p129)
 Id: cleric_hd.md#clerc
 RootId: cleric_hd.md
 ParentLink: classes_hd.md
-Name: Clerc
 ParentName: Classes
 NameLevel: 1
-AltName: Cleric (SRD p15)
-Source: (MDR p129)
 Attributes: {}
 ---
 >  [Classes](hd_classes.md)
