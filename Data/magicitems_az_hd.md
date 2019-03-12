@@ -12,7 +12,7 @@
 
 Les objets magiques sont présentés ici dans l'ordre alphabétique. Le descriptif de chacun comprend son nom, sa catégorie, sa rareté et ses propriétés magiques.
 
-<!--MagicItems-->
+<!--MagicItems Types="Anneau|Arme|Armure|Baguette|Bâton|Objet merveilleux|Parchemin|Potion|Sceptre" Rarities="Peu courant|Rare|Très rare|Légendaire|Rareté variable" Attunements="Requise|Lanceur de sorts|Barde|Clerc|Druide|Ensorceleur|Magicien|Sorcier|Paladin|Alignement bon|Alignement mauvais|Nain"-->
 
 ## <!--Name-->Les objets magiques de A à Z<!--/Name-->
 

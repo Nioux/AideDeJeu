@@ -1,5 +1,5 @@
 
-<!--Equipments-->
+<!--Equipments Types="Armure|Armure légère|Armure intermédiaire|Armure lourde|Bouclier|Arme|Arme de corps-à-corps|Arme à distance|Équipement d'aventurier|Focaliseur arcanique|Focaliseur druidique|Munitions|Symbole sacré|Vêtements|Outil|Instrument de musique|Jeu|Outil d'artisan|Monture|Équipement, sellerie et véhicules à traction|Bateau|Marchandise|Service|Nourriture, boisson et logement" Prices="0 pc|1 pc|1 pa|1 po|10 po|100 po|1 000 po|10 000 po|100 000 po|1 000 000 po"-->
 
 > <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
 
