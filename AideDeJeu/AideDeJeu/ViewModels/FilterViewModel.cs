@@ -11,7 +11,7 @@ namespace AideDeJeu.ViewModels
     public abstract class FilterViewModel : BaseViewModel
     {
         public ICommand LoadItemsCommand { get; set; }
-        public abstract Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken cancellationToken = default);
+        public abstract Task<IEnumerable<Item>> GetFilteredItemsAsync(CancellationToken cancellationToken = default(CancellationToken));
         public abstract IEnumerable<Filter> Filters { get; }
         private string _SearchText = "";
         public string SearchText

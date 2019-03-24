@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="32" android:versionName="1.32" package="com.nioux.aidedejeu" android:installLocation="preferExternal">
-	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="27" />
-	<uses-permission android:name="android.permission.INTERNET" />
-	<application android:label="Haches &amp; Dés" android:icon="@drawable/battle_axe"></application>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nioux.aidedejeu" android:installLocation="preferExternal" android:versionCode="33" android:versionName="1.33">
+	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="28" />
+	<application android:label="Beta Haches &amp; Dés"></application>
 </manifest>
