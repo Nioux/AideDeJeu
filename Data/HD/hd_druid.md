@@ -1,13 +1,13 @@
 ﻿---
 !ClassItem
-Name: Druide
-AltName: Druid (SRD p17)
-Source: (MDR p142)
 Id: druid_hd.md#druide
 RootId: druid_hd.md
 ParentLink: classes_hd.md
+Name: Druide
 ParentName: Classes
 NameLevel: 1
+AltName: Druid (SRD p17)
+Source: (MDR p142)
 Attributes: {}
 ---
 >  [Classes](hd_classes.md)

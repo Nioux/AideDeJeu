@@ -1,6 +1,5 @@
 ﻿---
 !SubClassItem
-ParentClassId: hd_barbarian.md
 Id: barbarian_berserker_hd.md#voie-du-berserker
 RootId: barbarian_berserker_hd.md
 ParentLink: barbarian_hd.md#voies-primitives
@@ -11,7 +10,7 @@ AltName: Wisdom (SRD p9)
 Source: (MDR p116)
 Attributes: {}
 ---
->  [Voies primitives](hd_barbarian_voies_primitives.md)
+>  [Voies primitives](barbarian_hd.md#voies-primitives)
 
 ---
 

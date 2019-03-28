@@ -110,21 +110,22 @@ namespace AideDeJeuLib
         //    throw new NotImplementedException();
         //}
 
-        [DataMember]
+        [DataMember(Name = "Item_Id", Order = 0)]
         [PrimaryKey]
         public virtual string Id { get; set; }
-        [DataMember]
+
+        [DataMember(Name = "Item_RootId", Order = 1)]
         [Indexed]
         public string RootId { get; set; }
 
-        [DataMember]
+        [DataMember(Name = "Item_ParentLink", Order = 2)]
         [Indexed]
         public string ParentLink { get; set; }
 
-        [DataMember]
+        [DataMember(Name = "Item_Name", Order = 3)]
         public string Name { get; set; }
 
-        [DataMember]
+        [DataMember(Name = "Item_ParentName", Order = 4)]
         public string ParentName { get; set; }
 
         [YamlIgnore]
@@ -152,9 +153,9 @@ namespace AideDeJeuLib
             }
         }
 
-        [DataMember]
+        [DataMember(Name = "Item_NameLevel", Order = 5)]
         public int NameLevel { get; set; }
-        [DataMember]
+        [DataMember(Name = "Item_AltName", Order = 6)]
         public string AltName { get; set; }
 
         [YamlIgnore]
@@ -181,13 +182,13 @@ namespace AideDeJeuLib
                 }
             }
         }
-        [DataMember]
+        [DataMember(Name = "Item_Source", Order = 7)]
         public string Source { get; set; }
 
         [YamlIgnore]
-        [DataMember]
+        [DataMember(Name = "Item_Markdown", Order = 8)]
         public virtual string Markdown { get; set; }
-        [DataMember]
+        [DataMember(Name = "Item_FullText", Order = 9)]
         public string FullText { get; set; }
 
         [IgnoreDataMember]
