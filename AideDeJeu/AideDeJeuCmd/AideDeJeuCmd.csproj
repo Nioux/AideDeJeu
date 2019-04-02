@@ -12,9 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="2.2.3" />
-    <PackageReference Include="sqlite-net-pcl" Version="1.5.231" />
-    <PackageReference Include="Xamarin.Forms" Version="3.6.0.264807" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="3.0.0-preview3.19153.1" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.6.258-beta" />
+    <PackageReference Include="Xamarin.Forms" Version="4.0.0.250467-pre7" />
   </ItemGroup>
 
   <ItemGroup>

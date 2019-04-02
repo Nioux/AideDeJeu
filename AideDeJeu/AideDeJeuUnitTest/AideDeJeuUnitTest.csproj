@@ -8,12 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="2.2.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="3.0.0-preview3.19153.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.0.1" />
-    <PackageReference Include="MSTest.TestAdapter" Version="1.4.0" />
-    <PackageReference Include="MSTest.TestFramework" Version="1.4.0" />
-    <PackageReference Include="sqlite-net-pcl" Version="1.5.231" />
-    <PackageReference Include="Xamarin.Forms" Version="3.6.0.264807" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.0.0-beta2" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.0.0-beta2" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.6.258-beta" />
+    <PackageReference Include="Xamarin.Forms" Version="4.0.0.250467-pre7" />
   </ItemGroup>
 
   <ItemGroup>
