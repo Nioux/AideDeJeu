@@ -559,7 +559,7 @@
                     };
 
                 case EmphasisInline emphasis:
-                    var childAttributes = attributes | (emphasis.IsDouble ? FontAttributes.Bold : FontAttributes.Italic);
+                    var childAttributes = attributes | (emphasis.DelimiterCount == 2 /*.IsDouble*/ ? FontAttributes.Bold : FontAttributes.Italic);
                     return emphasis.SelectMany(x => CreateSpans(x, family, childAttributes, foregroundColor, backgroundColor, size)).ToArray();
 
                 case LineBreakInline breakline:

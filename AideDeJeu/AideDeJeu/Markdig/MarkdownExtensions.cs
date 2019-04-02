@@ -354,7 +354,7 @@ namespace AideDeJeu.Tools
             {
                 var emphasisInline = inline as Markdig.Syntax.Inlines.EmphasisInline;
                 var delimiterChar = emphasisInline.DelimiterChar.ToString();
-                if (emphasisInline.IsDouble)
+                if (emphasisInline.DelimiterCount == 2) //.IsDouble)
                 {
                     delimiterChar += delimiterChar;
                 }
