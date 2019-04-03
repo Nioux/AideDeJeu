@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: warlock_hd.md#maître-de-locculte
 ParentLink: warlock_hd.md#sorcier
 Name: Maître de l'occulte

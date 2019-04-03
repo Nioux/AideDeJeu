@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: druid_hd.md#amélioration-de-caractéristiques
 ParentLink: druid_hd.md#druide
 Name: Amélioration de caractéristiques

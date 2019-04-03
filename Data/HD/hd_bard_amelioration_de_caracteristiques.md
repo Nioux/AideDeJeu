@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: bard_hd.md#amélioration-de-caractéristiques
 ParentLink: bard_hd.md#barde
 Name: Amélioration de caractéristiques

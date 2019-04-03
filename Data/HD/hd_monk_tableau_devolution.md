@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: monk_hd.md#tableau-dévolution
 ParentLink: monk_hd.md#moine
 Name: Tableau d'évolution

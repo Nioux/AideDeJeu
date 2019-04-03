@@ -492,6 +492,42 @@ namespace AideDeJeu.ViewModels
                 modelBuilder.Entity<Spells>();
                 modelBuilder.Entity<Equipments>();
                 modelBuilder.Entity<MagicItems>();
+
+
+
+                modelBuilder.Entity<Generic>();
+                modelBuilder.Entity<Monster>();
+                modelBuilder.Entity<Monsters>();
+                modelBuilder.Entity<Spell>();
+                modelBuilder.Entity<Spells>();
+                modelBuilder.Entity<Equipment>();
+                modelBuilder.Entity<Equipments>();
+                modelBuilder.Entity<LinkItem>();
+                modelBuilder.Entity<MagicItem>();
+                modelBuilder.Entity<MagicItems>();
+                modelBuilder.Entity<PageItem>();
+                modelBuilder.Entity<SubRaceItem>();
+                modelBuilder.Entity<SubClassItem>();
+                modelBuilder.Entity<SubBackgroundItem>();
+                modelBuilder.Entity<RaceItem>();
+                modelBuilder.Entity<ClassItem>();
+                modelBuilder.Entity<FeatItem>();
+                modelBuilder.Entity<PersonalityTraitItem>();
+                modelBuilder.Entity<PersonalityIdealItem>();
+                modelBuilder.Entity<PersonalityLinkItem>();
+                modelBuilder.Entity<PersonalityDefectItem>();
+                modelBuilder.Entity<BackgroundSpecialtyItem>();
+                modelBuilder.Entity<BackgroundItem>();
+                modelBuilder.Entity<SkillItem>();
+                modelBuilder.Entity<ClassEquipmentItem>();
+                modelBuilder.Entity<ClassEvolutionItem>();
+                modelBuilder.Entity<ClassFeatureItem>();
+                modelBuilder.Entity<ClassHitPointsItem>();
+                modelBuilder.Entity<ClassProficienciesItem>();
+                
+                modelBuilder.Entity<Items>();
+                modelBuilder.Entity<Item>();
+
             }
         }
 

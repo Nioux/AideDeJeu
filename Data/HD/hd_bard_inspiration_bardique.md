@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: bard_hd.md#inspiration-bardique
 ParentLink: bard_hd.md#barde
 Name: Inspiration bardique

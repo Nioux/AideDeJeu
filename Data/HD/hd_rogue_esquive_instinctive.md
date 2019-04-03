@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: rogue_hd.md#esquive-instinctive
 ParentLink: rogue_hd.md#roublard
 Name: Esquive instinctive

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: sorcerer_hd.md#incantations
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Incantations

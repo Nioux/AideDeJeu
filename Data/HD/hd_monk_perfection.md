@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#perfection
 ParentLink: monk_hd.md#moine
 Name: Perfection

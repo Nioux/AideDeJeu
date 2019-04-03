@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: sorcerer_hd.md#amélioration-de-caractéristiques
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Amélioration de caractéristiques

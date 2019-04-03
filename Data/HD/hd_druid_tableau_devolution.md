@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: druid_hd.md#tableau-dévolution
 ParentLink: druid_hd.md#druide
 Name: Tableau d'évolution

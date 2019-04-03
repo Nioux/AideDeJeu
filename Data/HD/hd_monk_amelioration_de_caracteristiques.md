@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#amélioration-de-caractéristiques
 ParentLink: monk_hd.md#moine
 Name: Amélioration de caractéristiques

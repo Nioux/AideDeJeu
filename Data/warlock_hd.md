@@ -10,27 +10,33 @@
 - AltName: <!--AltName-->Warlock (SRD p46)<!--/AltName-->
 - Source: <!--Source-->(MDR p209)<!--/Source-->
 
-<!--Generic-->
-
-# <!--Name-->Aptitudes de classe<!--/Name-->
-
 En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
 
-## Points de vie
+<!--ClassHitPointsItem-->
 
-**Dés de vie :** 1d8 par niveau de sorcier
-**Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
-**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de [Constitution] par niveau de sorcier après le niveau 1
+## <!--Name-->Points de vie<!--/Name-->
 
-## Maîtrises
+**Dés de vie :** <!--HitDice-->1d8 par niveau de sorcier<!--/HitDice-->
+**Points de vie au niveau 1 :** <!--HitPointsAt1stLevel-->8 + votre modificateur de [Constitution]<!--/HitPointsAt1stLevel-->
+**Points de vie aux niveaux supérieurs :** <!--HitPointsAtHigherLevels-->1d8 (ou 5) + votre modificateur de [Constitution] par niveau de sorcier après le niveau 1<!--/HitPointsAtHigherLevels-->
 
-**Armures :** [armures légères]
-**Armes :** [armes courantes]
-**Outils :** aucun
-**Jets de sauvegarde :** [Sagesse], [Charisme]
-**Compétences :** choisissez deux compétences parmi les suivantes : [Arcanes], [Histoire], [Intimidation], [Investigation], [Nature], [Religion] et [Supercherie]
+<!--/ClassHitPointsItem-->
 
-## Équipement
+<!--ClassProficienciesItem-->
+
+## <!--Name-->Maîtrises<!--/Name-->
+
+**Armures :** <!--Armor-->[armures légères]<!--/Armor-->
+**Armes :** <!--Weapons-->[armes courantes]<!--/Weapons-->
+**Outils :** <!--Tools-->aucun<!--/Tools-->
+**Jets de sauvegarde :** <!--SavingThrows-->[Sagesse], [Charisme]<!--/SavingThrows-->
+**Compétences :** <!--Skills-->choisissez deux compétences parmi les suivantes : [Arcanes], [Histoire], [Intimidation], [Investigation], [Nature], [Religion] et [Supercherie]<!--/Skills-->
+
+<!--/ClassProficienciesItem-->
+
+<!--ClassEquipmentItem-->
+
+## <!--Name-->Équipement<!--/Name-->
 
 Vous commencez avec l'équipement suivant, en plus de celui accordé par votre historique :
 
@@ -39,11 +45,9 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 * (a) un [paquetage d'érudit] ou (b) un [paquetage d'exploration souterraine]
 * une [armure de cuir], n'importe quelle [arme courante] et deux [dagues]
 
+<!--/ClassEquipmentItem-->
 
-
-<!--/Generic-->
-
-<!--Generic-->
+<!--ClassEvolutionItem-->
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
@@ -70,18 +74,17 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 |19|+6|[Amélioration de caractéristiques]|4|15|4|5|8|
 |20|+6|[Maître de l'occulte]|4|15|4|5|8|
 
+<!--/ClassEvolutionItem-->
 
-<!--/Generic-->
-
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Protecteur de l'outre-monde<!--/Name-->
 
 Au niveau 1, vous avez passé un pacte avec un être de l'outre-monde de votre choix : un fiélon, un seigneur immortel, une puissance des profondeurs ou une entité extra-dimensionnelle. Chacun est détaillé à la fin de la section consacrée à cette classe. Ce choix vous permet de bénéficier de certaines aptitudes particulières au niveau 1 puis aux niveaux 6, 10 et 14.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Magie de pacte<!--/Name-->
 
@@ -123,9 +126,9 @@ Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur d
 
 Vous pouvez utiliser un focaliseur arcanique comme focaliseur d'incantation pour vos sorts de sorcier.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Invocations occultes<!--/Name-->
 
@@ -137,7 +140,7 @@ Une fois que vous atteignez certains niveaux de sorcier, vous pouvez apprendre d
 
 De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir une invocation que vous connaissez et la remplacer par une autre que vous pouvez apprendre à ce niveau.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
 <!--LinkItem-->
 
@@ -145,15 +148,15 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir une 
 
 <!--/LinkItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Arcanum mystique<!--/Name-->
 
@@ -163,15 +166,15 @@ Vous pouvez lancer votre sort d'arcanum une fois sans utiliser d'emplacement de 
 
 Au fil de votre progression, vous obtenez de nouveaux sorts de sorciers de votre choix que vous pouvez lancer ainsi : un sort de niveau 7 quand vous atteignez le niveau 13, un sort de niveau 8 quand vous atteignez le niveau 15 et un sort de niveau 9 quand vous atteignez le niveau 17. Il vous suffit d'un repos long pour regagner la possibilité d'utiliser tous vos sorts d'arcanum.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Maître de l'occulte<!--/Name-->
 
 Au niveau 20, vous pouvez puiser dans vos réserves d'énergie mystique et demander à votre protecteur de regagner vos emplacements de sorts utilisés. Vous passez 1 minute à demander l'aide de votre protecteur pour qu'il vous fasse regagner tous les emplacements de sorts liés à votre aptitude magie de pacte. Dès que vous avez utilisé cette aptitude pour regagner vos emplacements de sorts, vous devrez attendre d'avoir terminé un repos long avant de pouvoir de nouveau faire appel à votre protecteur de la sorte.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
 <!--LinkItem-->
 

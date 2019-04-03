@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Warlock (SRD p46)
 - Source: (MDR p209)
 
+En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
 
 
-# [Aptitudes de classe](hd_warlock_aptitudes_de_classe.md)
+
+## [Points de vie](hd_warlock_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_warlock_maitrises.md)
+
+
+
+## [Équipement](hd_warlock_equipement.md)
 
 
 

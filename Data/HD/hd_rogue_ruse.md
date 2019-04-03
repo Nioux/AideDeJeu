@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: rogue_hd.md#ruse
 ParentLink: rogue_hd.md#roublard
 Name: Ruse

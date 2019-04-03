@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: rogue_hd.md#expertise
 ParentLink: rogue_hd.md#roublard
 Name: Expertise

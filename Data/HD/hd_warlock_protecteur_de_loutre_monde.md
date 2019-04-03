@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: warlock_hd.md#protecteur-de-loutre-monde
 ParentLink: warlock_hd.md#sorcier
 Name: Protecteur de l'outre-monde

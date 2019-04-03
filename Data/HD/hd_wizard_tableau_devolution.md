@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: wizard_hd.md#tableau-dévolution
 ParentLink: wizard_hd.md#magicien
 Name: Tableau d'évolution

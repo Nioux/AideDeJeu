@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#style-de-combat
 ParentLink: ranger_hd.md#rôdeur
 Name: Style de combat

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#incantations
 ParentLink: ranger_hd.md#rôdeur
 Name: Incantations

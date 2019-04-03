@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#disparition
 ParentLink: ranger_hd.md#rôdeur
 Name: Disparition

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: fighter_hd.md#second-souffle
 ParentLink: fighter_hd.md#guerrier
 Name: Second souffle

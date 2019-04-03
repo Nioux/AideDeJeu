@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: sorcerer_hd.md#source-de-magie
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Source de magie

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: bard_hd.md#expertise
 ParentLink: bard_hd.md#barde
 Name: Expertise

@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Ranger (SRD p35)
 - Source: (MDR p194)
 
+En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
 
 
-# [Aptitudes de classe](hd_ranger_aptitudes_de_classe.md)
+
+## [Points de vie](hd_ranger_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_ranger_maitrises.md)
+
+
+
+## [Équipement](hd_ranger_equipement.md)
 
 
 

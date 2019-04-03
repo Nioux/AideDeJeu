@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#Âme-de-diamant
 ParentLink: monk_hd.md#moine
 Name: Âme de diamant

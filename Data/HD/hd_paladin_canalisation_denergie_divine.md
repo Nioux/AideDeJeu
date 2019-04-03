@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: paladin_hd.md#canalisation-dénergie-divine
 ParentLink: paladin_hd.md#paladin
 Name: Canalisation d'énergie divine

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: cleric_hd.md#tableau-dévolution
 ParentLink: cleric_hd.md#clerc
 Name: Tableau d'évolution

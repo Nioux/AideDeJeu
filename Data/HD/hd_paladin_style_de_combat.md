@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: paladin_hd.md#style-de-combat
 ParentLink: paladin_hd.md#paladin
 Name: Style de combat

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: cleric_hd.md#incantations
 ParentLink: cleric_hd.md#clerc
 Name: Incantations

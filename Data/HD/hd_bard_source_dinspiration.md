@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: bard_hd.md#source-dinspiration
 ParentLink: bard_hd.md#barde
 Name: Source d'inspiration

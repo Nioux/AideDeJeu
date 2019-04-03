@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#amélioration-de-caractéristiques
 ParentLink: ranger_hd.md#rôdeur
 Name: Amélioration de caractéristiques

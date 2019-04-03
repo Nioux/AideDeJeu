@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: sorcerer_hd.md#métamagie
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Métamagie

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#attaque-supplémentaire
 ParentLink: monk_hd.md#moine
 Name: Attaque supplémentaire

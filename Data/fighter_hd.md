@@ -10,27 +10,33 @@
 - AltName: <!--AltName-->Fighter (SRD p24)<!--/AltName-->
 - Source: <!--Source-->(MDR p160)<!--/Source-->
 
-<!--Generic-->
-
-# <!--Name-->Aptitudes de classe<!--/Name-->
-
 En tant que guerrier, vous bénéficiez des aptitudes de classe suivantes.
 
-## Points de vie
+<!--ClassHitPointsItem-->
 
-**Dés de vie :** 1d10 par niveau de guerrier
-**Points de vie au niveau 1 :** 10 + votre modificateur de [Constitution]
-**Points de vie aux niveaux supérieurs :** 1d10 (ou 6) + votre modificateur de [Constitution] par niveau de guerrier après le niveau 1
+## <!--Name-->Points de vie<!--/Name-->
 
-## Maîtrises
+**Dés de vie :** <!--HitDice-->1d10 par niveau de guerrier<!--/HitDice-->
+**Points de vie au niveau 1 :** <!--HitPointsAt1stLevel-->10 + votre modificateur de [Constitution]<!--/HitPointsAt1stLevel-->
+**Points de vie aux niveaux supérieurs :** <!--HitPointsAtHigherLevels-->1d10 (ou 6) + votre modificateur de [Constitution] par niveau de guerrier après le niveau 1<!--/HitPointsAtHigherLevels-->
 
-**Armures :** toutes les [armures], [boucliers]
-**Armes :** [armes courantes], [armes de guerre]
-**Outils :** aucuns
-**Jets de sauvegarde :** [Force], [Constitution]
-**Compétences :** choisissez deux compétences parmi les suivantes : [Acrobaties], [Athlétisme], [Dressage], [Histoire], [Intimidation], [Perception], [Perspicacité] et [Survie]
+<!--/ClassHitPointsItem-->
 
-## Équipement
+<!--ClassProficienciesItem-->
+
+## <!--Name-->Maîtrises<!--/Name-->
+
+**Armures :** <!--Armor-->toutes les [armures], [boucliers]<!--/Armor-->
+**Armes :** <!--Weapons-->[armes courantes], [armes de guerre]<!--/Weapons-->
+**Outils :** <!--Tools-->aucuns<!--/Tools-->
+**Jets de sauvegarde :** <!--SavingThrows-->[Force], [Constitution]<!--/SavingThrows-->
+**Compétences :** <!--Skills-->choisissez deux compétences parmi les suivantes : [Acrobaties], [Athlétisme], [Dressage], [Histoire], [Intimidation], [Perception], [Perspicacité] et [Survie]<!--/Skills-->
+
+<!--/ClassProficienciesItem-->
+
+<!--ClassEquipmentItem-->
+
+## <!--Name-->Équipement<!--/Name-->
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
@@ -39,11 +45,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) une [arbalète légère] avec vingt [carreaux] ou (b) deux [hachettes]
 * (a) un [paquetage d'exploration souterraine] ou (b) un [paquetage d'explorateur]
 
+<!--/ClassEquipmentItem-->
 
-
-<!--/Generic-->
-
-<!--Generic-->
+<!--ClassEvolutionItem-->
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
@@ -70,11 +74,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 |19|+6|[Amélioration de caractéristiques]|
 |20|+6|[Attaque supplémentaire] (3)|
 
+<!--/ClassEvolutionItem-->
 
-
-<!--/Generic-->
-
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Style de combat<!--/Name-->
 
@@ -106,9 +108,9 @@ Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, v
 
 Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Second souffle<!--/Name-->
 
@@ -116,9 +118,9 @@ Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puis
 
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de l'utiliser de nouveau.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Sursaut d'activité<!--/Name-->
 
@@ -126,25 +128,25 @@ Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court 
 
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Archétype martial<!--/Name-->
 
 Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des archétypes martiaux disponibles : champion, bretteur, défenseur et sorcelame. En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
 Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Attaque supplémentaire<!--/Name-->
 
@@ -152,9 +154,9 @@ Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmente
 
 Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 11, puis à quatre quand vous atteignez le niveau 20 de cette classe.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Indomptable<!--/Name-->
 
@@ -162,7 +164,7 @@ Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez 
 
 À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux repos longs et trois fois à partir du niveau 17.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
 <!--Generic-->
 

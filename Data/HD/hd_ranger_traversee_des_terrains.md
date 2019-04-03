@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#traversée-des-terrains
 ParentLink: ranger_hd.md#rôdeur
 Name: Traversée des terrains

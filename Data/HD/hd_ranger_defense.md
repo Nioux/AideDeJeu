@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#défense
 ParentLink: ranger_hd.md#rôdeur
 Name: Défense

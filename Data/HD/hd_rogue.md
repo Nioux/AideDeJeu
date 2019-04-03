@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Rogue (SRD p39)
 - Source: (MDR p202)
 
+En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
 
 
-# [Aptitudes de classe](hd_rogue_aptitudes_de_classe.md)
+
+## [Points de vie](hd_rogue_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_rogue_maitrises.md)
+
+
+
+## [Équipement](hd_rogue_equipement.md)
 
 
 

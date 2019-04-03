@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: fighter_hd.md#amélioration-de-caractéristiques
 ParentLink: fighter_hd.md#guerrier
 Name: Amélioration de caractéristiques

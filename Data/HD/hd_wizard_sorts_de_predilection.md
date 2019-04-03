@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: wizard_hd.md#sorts-de-prédilection
 ParentLink: wizard_hd.md#magicien
 Name: Sorts de prédilection

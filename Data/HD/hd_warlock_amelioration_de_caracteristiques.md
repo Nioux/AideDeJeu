@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: warlock_hd.md#amélioration-de-caractéristiques
 ParentLink: warlock_hd.md#sorcier
 Name: Amélioration de caractéristiques

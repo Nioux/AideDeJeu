@@ -10,27 +10,33 @@
 - AltName: <!--AltName-->Sorcerer (SRD p41)<!--/AltName-->
 - Source: <!--Source-->(MDR p152)<!--/Source-->
 
-<!--Generic-->
-
-# <!--Name-->Aptitudes de classe<!--/Name-->
-
 En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
 
-## Points de vie
+<!--ClassHitPointsItem-->
 
-**Dés de vie :** 1d6 par niveau d'ensorceleur
-**Points de vie au niveau 1 :** 6 + votre modificateur de [Constitution]
-**Points de vie aux niveaux supérieurs :** 1d6 (ou 4) + votre modificateur de [Constitution] par niveau d'ensorceleur après le niveau 1
+## <!--Name-->Points de vie<!--/Name-->
 
-## Maîtrises
+**Dés de vie :** <!--HitDice-->1d6 par niveau d'ensorceleur<!--/HitDice-->
+**Points de vie au niveau 1 :** <!--HitPointsAt1stLevel-->6 + votre modificateur de [Constitution]<!--/HitPointsAt1stLevel-->
+**Points de vie aux niveaux supérieurs :** <!--HitPointsAtHigherLevels-->1d6 (ou 4) + votre modificateur de [Constitution] par niveau d'ensorceleur après le niveau 1<!--/HitPointsAtHigherLevels-->
 
-**Armures :** aucune
-**Armes :** [dagues], [fléchettes], [frondes], [bâtons], [arbalètes légères]
-**Outils :** aucun
-**Jets de sauvegarde :** [Constitution], [Charisme]
-**Compétences :** choisissez deux compétences parmi les suivantes : [Arcanes], [Intimidation], [Perspicacité], [Persuasion], [Religion] et [Supercherie]
+<!--/ClassHitPointsItem-->
 
-## Équipement
+<!--ClassProficienciesItem-->
+
+## <!--Name-->Maîtrises<!--/Name-->
+
+**Armures :** <!--Armor-->aucune<!--/Armor-->
+**Armes :** <!--Weapons-->[dagues], [fléchettes], [frondes], [bâtons], [arbalètes légères]<!--/Weapons-->
+**Outils :** <!--Tools-->aucun<!--/Tools-->
+**Jets de sauvegarde :** <!--SavingThrows-->[Constitution], [Charisme]<!--/SavingThrows-->
+**Compétences :** <!--Skills-->choisissez deux compétences parmi les suivantes : [Arcanes], [Intimidation], [Perspicacité], [Persuasion], [Religion] et [Supercherie]<!--/Skills-->
+
+<!--/ClassProficienciesItem-->
+
+<!--ClassEquipmentItem-->
+
+## <!--Name-->Équipement<!--/Name-->
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
@@ -39,10 +45,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) un [paquetage d'exploration souterraine] ou (b) un [paquetage d'explorateur]
 * deux [dagues]
 
+<!--/ClassEquipmentItem-->
 
-<!--/Generic-->
-
-<!--Generic-->
+<!--ClassEvolutionItem-->
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
@@ -71,10 +76,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 (* Emplacement de sorts par niveau de sort)
 
+<!--/ClassEvolutionItem-->
 
-<!--/Generic-->
-
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 # <!--Name-->Incantations<!--/Name-->
 
@@ -114,9 +118,9 @@ Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur d
 
 Vous pouvez utiliser un focaliseur arcanique comme focaliseur d'incantation pour vos sorts d'ensorceleur
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Origine magique<!--/Name-->
 
@@ -124,25 +128,25 @@ Choisissez une origine qui explique la source de vos pouvoirs magiques innés : 
 
 Votre choix vous permet d'accéder à certaines aptitudes particulières quand vous le choisissez au niveau 1 puis aux niveaux 6, 14 et 18.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Source de magie<!--/Name-->
 
 Au niveau 2, vous pouvez puiser dans la profonde réserve de magie qui réside en vous. Cette source de magie est représentée par les points de sorcellerie qui vous permettent de créer de nombreux effets magiques.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Points de sorcellerie<!--/Name-->
 
 Vous commencez avec 2 points de sorcellerie et vous en gagnez d'autres en progressant dans cette classe, comme vous pouvez le constater dans la colonne points de sorcellerie du tableau d'évolution de l'ensorceleur. Vous ne pouvez jamais avoir plus de points de sorcellerie que ceux indiqués par le tableau pour votre niveau. Vous regagnez vos points de sorcellerie après un repos long.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Flexibilité incantatoire<!--/Name-->
 
@@ -152,9 +156,9 @@ Créer des emplacements de sorts. Lors de votre tour, vous pouvez utiliser une a
 
 Tout emplacement de sort que vous avez créé grâce à cette méthode disparaît à la fin d'un repos long.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Création d'emplacements de sorts<!--/Name-->
 
@@ -168,9 +172,9 @@ Tout emplacement de sort que vous avez créé grâce à cette méthode disparaî
 
 Convertir un emplacement de sort en points de sorcellerie. Lors de votre tour, vous pouvez utiliser une action bonus pour utiliser un emplacement de sort et gagner un nombre de points de sorcellerie équivalent au niveau de l'emplacement de sort que vous avez utilisé.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Métamagie<!--/Name-->
 
@@ -180,9 +184,9 @@ Vous en gagnerez une nouvelle au niveau 10 et une dernière au niveau 17.
 
 Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous le lancez, sauf mention contraire.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Invocation prudente<!--/Name-->
 
@@ -190,9 +194,9 @@ Quand vous lancez un sort qui force d'autres créatures à faire un [jet de sauv
 
 Les créatures désignées réussissent automatiquement leur [jet de sauvegarde] contre ce sort.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Sort distant<!--/Name-->
 
@@ -200,9 +204,9 @@ Quand vous lancez un sort qui a une portée de 1,50 mètre ou plus, vous pouvez 
 
 Quand vous lancez un sort de contact, vous pouvez dépenser 1 point de sorcellerie pour en modifier la portée à 9 mètres.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Sort puissant<!--/Name-->
 
@@ -210,63 +214,63 @@ Quand vous lancez les dés de dégâts d'un sort, vous pouvez dépenser 1 point 
 
 Vous pouvez utiliser sort puissant même si vous avez déjà utilisé une autre option de métamagie pour modifier ce sort.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Sort étendu<!--/Name-->
 
 Quand vous lancez un sort qui dure 1 minute ou plus, vous pouvez dépenser 1 point de sorcellerie pour doubler sa durée jusqu'à un maximum de 24 heures.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Sort intense<!--/Name-->
 
 Quand vous lancez un sort qui force une créature à faire un [jet de sauvegarde] pour résister à ses effets, vous pouvez dépenser 3 points de sorcellerie pour infliger un désavantage à la cible lors de son premier [jet de sauvegarde] contre le sort.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Sort accéléré<!--/Name-->
 
 Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pouvez dépenser 2 points de sorcellerie pour transformer ce temps d'incantation en une action bonus pour cette fois-ci.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Sort subtil<!--/Name-->
 
 Quand vous lancez un sort, vous pouvez dépenser 1 point de sorcellerie pour le lancer sans utiliser de composante verbale ni somatique.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Sort jumeau<!--/Name-->
 
 Quand vous lancez un sort qui a pour cible une seule créature et dont la portée n'est pas personnelle, vous pouvez dépenser un nombre de points de sorcellerie égal au niveau du sort pour cibler une seconde créature qui se trouve à portée avec le même sort (1 point de sorcellerie s'il s'agit d'un tour de magie).
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Régénération de l'ensorceleur<!--/Name-->
 
 Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
 <!--Generic-->
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: fighter_hd.md#sursaut-dactivité
 ParentLink: fighter_hd.md#guerrier
 Name: Sursaut d'activité

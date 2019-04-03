@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: wizard_hd.md#maîtrise-des-sorts
 ParentLink: wizard_hd.md#magicien
 Name: Maîtrise des sorts

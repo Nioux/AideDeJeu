@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Sorcerer (SRD p41)
 - Source: (MDR p152)
 
+En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
 
 
-# [Aptitudes de classe](hd_sorcerer_aptitudes_de_classe.md)
+
+## [Points de vie](hd_sorcerer_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_sorcerer_maitrises.md)
+
+
+
+## [Équipement](hd_sorcerer_equipement.md)
 
 
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: cleric_hd.md#domaine-divin
 ParentLink: cleric_hd.md#clerc
 Name: Domaine divin

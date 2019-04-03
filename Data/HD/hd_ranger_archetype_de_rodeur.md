@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#archétype-de-rôdeur
 ParentLink: ranger_hd.md#rôdeur
 Name: Archétype de rôdeur

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: paladin_hd.md#auras
 ParentLink: paladin_hd.md#paladin
 Name: Auras

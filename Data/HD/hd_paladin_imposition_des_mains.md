@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: paladin_hd.md#imposition-des-mains
 ParentLink: paladin_hd.md#paladin
 Name: Imposition des mains

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: fighter_hd.md#archétype-martial
 ParentLink: fighter_hd.md#guerrier
 Name: Archétype martial

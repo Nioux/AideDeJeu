@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#arts-martiaux
 ParentLink: monk_hd.md#moine
 Name: Arts martiaux

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: wizard_hd.md#incantations
 ParentLink: wizard_hd.md#magicien
 Name: Incantations

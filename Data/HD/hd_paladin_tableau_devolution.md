@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: paladin_hd.md#tableau-dévolution
 ParentLink: paladin_hd.md#paladin
 Name: Tableau d'évolution

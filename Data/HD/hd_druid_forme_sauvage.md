@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: druid_hd.md#forme-sauvage
 ParentLink: druid_hd.md#druide
 Name: Forme sauvage

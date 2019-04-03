@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#vigilance-primitive
 ParentLink: ranger_hd.md#rôdeur
 Name: Vigilance primitive

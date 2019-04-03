@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: ranger_hd.md#tableau-dévolution
 ParentLink: ranger_hd.md#rôdeur
 Name: Tableau d'évolution

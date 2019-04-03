@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: cleric_hd.md#sorts-de-domaines
 ParentLink: cleric_hd.md#clerc
 Name: Sorts de domaines

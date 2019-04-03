@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: sorcerer_hd.md#invocation-prudente
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Invocation prudente

@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Cleric (SRD p15)
 - Source: (MDR p129)
 
+En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
 
 
-# [Aptitudes de classe](hd_cleric_aptitudes_de_classe.md)
+
+## [Points de vie](hd_cleric_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_cleric_maitrises.md)
+
+
+
+## [Équipement](hd_cleric_equipement.md)
 
 
 

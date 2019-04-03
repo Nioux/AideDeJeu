@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#frappe-de-ki
 ParentLink: monk_hd.md#moine
 Name: Frappe de ki

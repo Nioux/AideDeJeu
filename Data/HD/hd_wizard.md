@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Wizard (SRD p52)
 - Source: (MDR p166)
 
+En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
 
 
-## [Aptitudes de classe](hd_wizard_aptitudes_de_classe.md)
+
+## [Points de vie](hd_wizard_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_wizard_maitrises.md)
+
+
+
+## [Équipement](hd_wizard_equipement.md)
 
 
 

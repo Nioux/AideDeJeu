@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: fighter_hd.md#style-de-combat
 ParentLink: fighter_hd.md#guerrier
 Name: Style de combat

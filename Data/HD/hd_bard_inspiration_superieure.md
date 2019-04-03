@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: bard_hd.md#inspiration-supérieure
 ParentLink: bard_hd.md#barde
 Name: Inspiration supérieure

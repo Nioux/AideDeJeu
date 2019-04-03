@@ -10,27 +10,33 @@
 - AltName: <!--AltName-->Bard (SRD p11)<!--/AltName-->
 - Source: <!--Source-->(MDR p121)<!--/Source-->
 
-<!--Generic-->
-
-# <!--Name-->Aptitudes de classe<!--/Name-->
-
 En tant que barde, vous bénéficiez des aptitudes de classe suivantes.
 
-## Points de vie
+<!--ClassHitPointsItem-->
 
-**Dés de vie :** 1d8 par niveau de barde
-**Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
-**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de [Constitution] par niveau de barde après le niveau 1
+## <!--Name-->Points de vie<!--/Name-->
 
-## Maîtrises
+**Dés de vie :** <!--HitDice-->1d8 par niveau de barde<!--/HitDice-->
+**Points de vie au niveau 1 :** <!--HitPointsAt1stLevel-->8 + votre modificateur de [Constitution]<!--/HitPointsAt1stLevel-->
+**Points de vie aux niveaux supérieurs :** <!--HitPointsAtHigherLevels-->1d8 (ou 5) + votre modificateur de [Constitution] par niveau de barde après le niveau 1<!--/HitPointsAtHigherLevels-->
 
-**Armures :** armures légères
-**Armes :** armes courantes, arbalète de poing, épée longue, rapière, épée courte
-**Outils :** trois instruments de musique de votre choix
-**Jets de sauvegarde :** [Dextérité], [Charisme]
-**Compétences :** trois au choix
+<!--/ClassHitPointsItem-->
 
-## Équipement
+<!--ClassProficienciesItem-->
+
+## <!--Name-->Maîtrises<!--/Name-->
+
+**Armures :** <!--Armor-->armures légères<!--/Armor-->
+**Armes :** <!--Weapons-->armes courantes, arbalète de poing, épée longue, rapière, épée courte<!--/Weapons-->
+**Outils :** <!--Tools-->trois instruments de musique de votre choix<!--/Tools-->
+**Jets de sauvegarde :** <!--SavingThrows-->[Dextérité], [Charisme]<!--/SavingThrows-->
+**Compétences :** <!--Skills-->trois au choix<!--/Skills-->
+
+<!--/ClassProficienciesItem-->
+
+<!--ClassEquipmentItem-->
+
+## <!--Name-->Équipement<!--/Name-->
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
@@ -39,10 +45,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) un luth ou (b) n'importe quel autre instrument
 * une armure de cuir et une dague
 
+<!--/ClassEquipmentItem-->
 
-<!--/Generic-->
-
-<!--Generic-->
+<!--ClassEvolutionItem-->
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
@@ -71,9 +76,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 (* Emplacement de sorts par niveau de sort)
 
-<!--/Generic-->
+<!--/ClassEvolutionItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Incantations<!--/Name-->
 
@@ -115,9 +120,9 @@ Vous pouvez lancer tous les [sorts de barde] que vous connaissez sous la forme d
 
 Vous pouvez utiliser un [instrument de musique] (voir le chapitre 5, Équipement, page 236) comme [focaliseur d'incantation] pour vos [sorts de barde].
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Inspiration bardique<!--/Name-->
 
@@ -129,17 +134,17 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 Votre dé d'inspiration bardique évolue avec votre niveau de barde et il devient un d8 au niveau 5, un d10 au niveau 10 et un d12 au niveau 15.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Touche-à-tout<!--/Name-->
 
 À partir du niveau 2, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au chiffre inférieur) à tous vos tests de caractéristiques qui ne prennent pas déjà en compte votre bonus de maîtrise.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Chant reposant<!--/Name-->
 
@@ -147,17 +152,17 @@ Votre dé d'inspiration bardique évolue avec votre niveau de barde et il devien
 
 Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 1d8 au niveau 9, 1d10 au niveau 13 et 1d12 au niveau 17.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Collège bardique<!--/Name-->
 
 Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir], le [collège des diplomates], le [collège des hérauts] ou le [collège des saltimbanques]. L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Expertise<!--/Name-->
 
@@ -165,33 +170,33 @@ Au niveau 3, sélectionnez deux compétences que vous maîtrisez. À chaque fois
 
 Au niveau 10, vous pouvez choisir deux compétences supplémentaires et les utiliser de la même manière.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Source d'inspiration<!--/Name-->
 
 Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Contre-charme<!--/Name-->
 
 Au niveau 6, vous gagnez la capacité d'utiliser des notes de musique ou des mots de pouvoir pour interrompre des effets qui affectent la pensée d'une créature. Vous pouvez utiliser une action pour vous lancer dans une performance qui durera jusqu'à la fin de votre prochain tour. Pendant le temps que dure votre performance, vous et toute créature amicale dans un rayon de 9 mètres obtenez un avantage sur les [jets de sauvegarde] contre les effets terrorisé et charmé. Une créature qui veut en bénéficier doit être en mesure de vous entendre. La performance est interrompue si vous êtes neutralisé, réduit au silence ou si vous décidez d'y mettre fin volontairement (cela ne nécessite pas d'action).
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Secrets magiques<!--/Name-->
 
@@ -203,15 +208,15 @@ Les sorts que vous choisissez fonctionnent pour vous comme des [sorts de barde] 
 
 Vous pouvez apprendre de la même manière deux sorts supplémentaires de la classe de votre choix au niveau 14 et deux autres au niveau 18.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Inspiration supérieure<!--/Name-->
 
 Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative et que vous n'avez plus aucune inspiration bardique disponible, vous en regagnez une.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
 <!--Generic-->
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#pureté-du-corps
 ParentLink: monk_hd.md#moine
 Name: Pureté du corps

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: paladin_hd.md#santé-divine
 ParentLink: paladin_hd.md#paladin
 Name: Santé divine

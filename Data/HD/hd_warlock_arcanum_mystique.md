@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: warlock_hd.md#arcanum-mystique
 ParentLink: warlock_hd.md#sorcier
 Name: Arcanum mystique

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: bard_hd.md#touche-à-tout
 ParentLink: bard_hd.md#barde
 Name: Touche-à-tout

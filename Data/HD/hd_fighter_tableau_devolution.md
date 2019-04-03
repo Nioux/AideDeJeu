@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: fighter_hd.md#tableau-dévolution
 ParentLink: fighter_hd.md#guerrier
 Name: Tableau d'évolution

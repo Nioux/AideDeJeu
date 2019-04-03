@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Druid (SRD p17)
 - Source: (MDR p142)
 
+En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
 
 
-# [Aptitudes de classe](hd_druid_aptitudes_de_classe.md)
+
+## [Points de vie](hd_druid_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_druid_maitrises.md)
+
+
+
+## [Équipement](hd_druid_equipement.md)
 
 
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: rogue_hd.md#tableau-dévolution
 ParentLink: rogue_hd.md#roublard
 Name: Tableau d'évolution

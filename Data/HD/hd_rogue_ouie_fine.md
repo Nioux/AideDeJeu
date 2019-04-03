@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: rogue_hd.md#ouïe-fine
 ParentLink: rogue_hd.md#roublard
 Name: Ouïe fine

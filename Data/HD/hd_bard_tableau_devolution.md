@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: bard_hd.md#tableau-dévolution
 ParentLink: bard_hd.md#barde
 Name: Tableau d'évolution

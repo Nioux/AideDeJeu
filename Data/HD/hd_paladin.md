@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Paladin (SRD p30)
 - Source: (MDR p183)
 
+En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
 
 
-# [Aptitudes de classe](hd_paladin_aptitudes_de_classe.md)
+
+## [Points de vie](hd_paladin_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_paladin_maitrises.md)
+
+
+
+## [Équipement](hd_paladin_equipement.md)
 
 
 

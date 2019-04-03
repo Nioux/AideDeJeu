@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: rogue_hd.md#insaisissable
 ParentLink: rogue_hd.md#roublard
 Name: Insaisissable

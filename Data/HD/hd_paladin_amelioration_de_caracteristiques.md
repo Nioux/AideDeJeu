@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: paladin_hd.md#amélioration-de-caractéristiques
 ParentLink: paladin_hd.md#paladin
 Name: Amélioration de caractéristiques

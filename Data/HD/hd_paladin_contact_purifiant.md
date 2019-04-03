@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: paladin_hd.md#contact-purifiant
 ParentLink: paladin_hd.md#paladin
 Name: Contact purifiant

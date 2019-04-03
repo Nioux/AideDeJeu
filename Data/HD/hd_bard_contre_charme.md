@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: bard_hd.md#contre-charme
 ParentLink: bard_hd.md#barde
 Name: Contre-charme

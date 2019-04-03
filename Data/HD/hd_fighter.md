@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Fighter (SRD p24)
 - Source: (MDR p160)
 
+En tant que guerrier, vous bénéficiez des aptitudes de classe suivantes.
 
 
-# [Aptitudes de classe](hd_fighter_aptitudes_de_classe.md)
+
+## [Points de vie](hd_fighter_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_fighter_maitrises.md)
+
+
+
+## [Équipement](hd_fighter_equipement.md)
 
 
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: rogue_hd.md#attaque-sournoise
 ParentLink: rogue_hd.md#roublard
 Name: Attaque sournoise

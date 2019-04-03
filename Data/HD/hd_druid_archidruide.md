@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: druid_hd.md#archidruide
 ParentLink: druid_hd.md#druide
 Name: Archidruide

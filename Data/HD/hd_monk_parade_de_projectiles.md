@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#parade-de-projectiles
 ParentLink: monk_hd.md#moine
 Name: Parade de projectiles

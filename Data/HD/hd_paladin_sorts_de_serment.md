@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: paladin_hd.md#sorts-de-serment
 ParentLink: paladin_hd.md#paladin
 Name: Sorts de serment

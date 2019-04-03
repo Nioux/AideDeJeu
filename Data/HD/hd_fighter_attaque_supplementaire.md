@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: fighter_hd.md#attaque-supplémentaire
 ParentLink: fighter_hd.md#guerrier
 Name: Attaque supplémentaire

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: sorcerer_hd.md#sort-jumeau
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Sort jumeau

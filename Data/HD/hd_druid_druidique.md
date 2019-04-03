@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: druid_hd.md#druidique
 ParentLink: druid_hd.md#druide
 Name: Druidique

@@ -10,27 +10,33 @@
 - AltName: <!--AltName-->Rogue (SRD p39)<!--/AltName-->
 - Source: <!--Source-->(MDR p202)<!--/Source-->
 
-<!--Generic-->
-
-# <!--Name-->Aptitudes de classe<!--/Name-->
-
 En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
 
-## Points de vie
+<!--ClassHitPointsItem-->
 
-**Dés de vie :** 1d8 par niveau de roublard
-**Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
-**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de [Constitution] par niveau de roublard après le niveau 1
+## <!--Name-->Points de vie<!--/Name-->
 
-## Maîtrises
+**Dés de vie :** <!--HitDice-->1d8 par niveau de roublard<!--/HitDice-->
+**Points de vie au niveau 1 :** <!--HitPointsAt1stLevel-->8 + votre modificateur de [Constitution]<!--/HitPointsAt1stLevel-->
+**Points de vie aux niveaux supérieurs :** <!--HitPointsAtHigherLevels-->1d8 (ou 5) + votre modificateur de [Constitution] par niveau de roublard après le niveau 1<!--/HitPointsAtHigherLevels-->
 
-**Armures :** armures légères
-**Armes :** armes courantes, arbalètes de poing, épées longues, rapières, épées courtes
-**Outils :** outils de voleur
-**Jets de sauvegarde :** [Dextérité], [Intelligence]
-**Compétences :** choisissez quatre compétences parmi [Acrobaties], [Athlétisme], [Discrétion], [Escamotage], [Intimidation], [Investigation], [Perception], [Perspicacité], [Persuasion], [Représentation] et [Supercherie]
+<!--/ClassHitPointsItem-->
 
-## Équipement
+<!--ClassProficienciesItem-->
+
+## <!--Name-->Maîtrises<!--/Name-->
+
+**Armures :** <!--Armor-->armures légères<!--/Armor-->
+**Armes :** <!--Weapons-->armes courantes, arbalètes de poing, épées longues, rapières, épées courtes<!--/Weapons-->
+**Outils :** <!--Tools-->outils de voleur<!--/Tools-->
+**Jets de sauvegarde :** <!--SavingThrows-->[Dextérité], [Intelligence]<!--/SavingThrows-->
+**Compétences :** <!--Skills-->choisissez quatre compétences parmi [Acrobaties], [Athlétisme], [Discrétion], [Escamotage], [Intimidation], [Investigation], [Perception], [Perspicacité], [Persuasion], [Représentation] et [Supercherie]<!--/Skills-->
+
+<!--/ClassProficienciesItem-->
+
+<!--ClassEquipmentItem-->
+
+## <!--Name-->Équipement<!--/Name-->
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
@@ -39,11 +45,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) un paquetage de cambrioleur, (b) un paquetage d'exploration souterraine, ou (c) un paquetage d'explorateur
 * (a) une armure de cuir, deux dagues et des outils de voleur
 
+<!--/ClassEquipmentItem-->
 
-
-<!--/Generic-->
-
-<!--Generic-->
+<!--ClassEvolutionItem-->
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
@@ -70,10 +74,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 |19|+6|10d6|[Amélioration de caractéristiques]|
 |20|+6|10d6|[Coup de chance]|
 
+<!--/ClassEvolutionItem-->
 
-<!--/Generic-->
-
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Expertise<!--/Name-->
 
@@ -81,9 +84,9 @@ Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence
 
 Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Attaque sournoise<!--/Name-->
 
@@ -95,9 +98,9 @@ Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre enne
 
 Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous pouvez le voir dans la colonne attaque sournoise du tableau d'évolution du roublard.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Argot des voleurs<!--/Name-->
 
@@ -107,17 +110,17 @@ Seule une autre créature qui connaît l'argot des voleurs peut comprendre de te
 
 De plus, vous comprenez un ensemble de signes et de symboles qui permettent de transmettre des messages courts et simples, comme par exemple indiquer si une zone est dangereuse, si vous entrez sur le territoire d'une guilde des voleurs, si un trésor se trouve à proximité, si des personnes qui habitent dans le coin sont des proies faciles ou si elles accepteront de cacher des voleurs en fuite.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Ruse<!--/Name-->
 
 À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Archétype de roublard<!--/Name-->
 
@@ -125,57 +128,57 @@ Au niveau 3, vous choisissez un archétype auquel vous vous efforcer d'adhérer 
 
 Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
 Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Esquive instinctive<!--/Name-->
 
 À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Dérobade<!--/Name-->
 
 À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet, comme celles du souffle enflammé d'un dragon rouge ou d'un sort de tempête de grêle. Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde] de [Dextérité] pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Talent<!--/Name-->
 
 Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de d20 est inférieur ou égal à 9, vous le transformez en 10.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Ouïe fine<!--/Name-->
 
 À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature invisible ou cachée qui se trouve dans un rayon de 3 mètres.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Esprit impénétrable<!--/Name-->
 
 Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les [jets de sauvegarde] de [Sagesse].
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Insaisissable<!--/Name-->
 
@@ -183,9 +186,9 @@ Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus 
 
 Tant que vous n'êtes pas neutralisé, aucun jet d'attaque qui vous cible ne peut bénéficier d'un avantage.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Coup de chance<!--/Name-->
 
@@ -195,7 +198,7 @@ Si vous attaquez une cible qui se trouve à votre portée et que vous échouez �
 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un repos long avant de pouvoir l'utiliser de nouveau.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
 <!--Generic-->
 

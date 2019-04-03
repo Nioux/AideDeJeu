@@ -10,27 +10,33 @@
 - AltName: <!--AltName-->Druid (SRD p17)<!--/AltName-->
 - Source: <!--Source-->(MDR p142)<!--/Source-->
 
-<!--Generic-->
-
-# <!--Name-->Aptitudes de classe<!--/Name-->
-
 En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
 
-## Points de vie
+<!--ClassHitPointsItem-->
 
-**Dés de vie :** 1d8 par niveau de druide
-**Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
-**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre niveau de [Constitution] par niveau de druide après le premier niveau
+## <!--Name-->Points de vie<!--/Name-->
 
-## Maîtrises
+**Dés de vie :** <!--HitDice-->1d8 par niveau de druide<!--/HitDice-->
+**Points de vie au niveau 1 :** <!--HitPointsAt1stLevel-->8 + votre modificateur de [Constitution]<!--/HitPointsAt1stLevel-->
+**Points de vie aux niveaux supérieurs :** <!--HitPointsAtHigherLevels-->1d8 (ou 5) + votre niveau de [Constitution] par niveau de druide après le premier niveau<!--/HitPointsAtHigherLevels-->
 
-**Armures :** [armures légères], [armures intermédiaires], [boucliers] (les druides n'utilisent pas d'armure ou de bouclier faits en métal)
-**Armes :** [gourdins], [dagues], [fléchettes], [javelines], [massues], [bâtons], [cimeterres], [serpes], [frondes], [lances]
-**Outils :** [matériel d'herboriste]
-**Jets de sauvegarde :** [Intelligence], [Sagesse]
-**Compétences :** choisissez deux compétences parmi les suivantes : [Arcanes], [Dressage], [Médecine], [Nature], [Perception], [Perspicacité], [Religion] et [Survie]
+<!--/ClassHitPointsItem-->
 
-## Équipement
+<!--ClassProficienciesItem-->
+
+## <!--Name-->Maîtrises<!--/Name-->
+
+**Armures :** <!--Armor-->[armures légères], [armures intermédiaires], [boucliers] (les druides n'utilisent pas d'armure ou de bouclier faits en métal)<!--/Armor-->
+**Armes :** <!--Weapons-->[gourdins], [dagues], [fléchettes], [javelines], [massues], [bâtons], [cimeterres], [serpes], [frondes], [lances]<!--/Weapons-->
+**Outils :** <!--Tools-->[matériel d'herboriste]<!--/Tools-->
+**Jets de sauvegarde :** <!--SavingThrows-->[Intelligence], [Sagesse]<!--/SavingThrows-->
+**Compétences :** <!--Skills-->choisissez deux compétences parmi les suivantes : [Arcanes], [Dressage], [Médecine], [Nature], [Perception], [Perspicacité], [Religion] et [Survie]<!--/Skills-->
+
+<!--/ClassProficienciesItem-->
+
+<!--ClassEquipmentItem-->
+
+## <!--Name-->Équipement<!--/Name-->
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
@@ -38,11 +44,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) un [cimeterre] ou (b) n'importe quelle [arme de corps-à-corps courante].
 * une [armure de cuir], un [paquetage d'explorateur] et un [focaliseur druidique]
 
+<!--/ClassEquipmentItem-->
 
-
-<!--/Generic-->
-
-<!--Generic-->
+<!--ClassEvolutionItem-->
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
@@ -71,17 +75,17 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 (* Emplacement de sorts par niveau de sort)
 
-<!--/Generic-->
+<!--/ClassEvolutionItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Druidique<!--/Name-->
 
 Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de [Sagesse (Perception)] DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Incantations<!--/Name-->
 
@@ -117,9 +121,9 @@ Vous pouvez lancer un sort de druide que vous connaissez et que vous avez prépa
 
 Vous pouvez utiliser un focaliseur druidique (voir le chapitre 5, Équipement, page 230) comme focaliseur d'incantation pour vos sorts de druide.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Forme sauvage<!--/Name-->
 
@@ -145,41 +149,41 @@ Pendant que vous êtes transformé, les règles suivantes s'appliquent :
 * Vous conservez les bénéfices de toute aptitude propre à votre classe, à votre race ou de toute autre source. Vous pouvez les utiliser dans la mesure où votre forme sauvage vous le permet. Néanmoins, vous ne pouvez utiliser vos sens spéciaux, comme la vision dans le noir, que si votre nouvelle forme possède elle aussi ce sens.
 * Vous choisissez quelle partie de votre équipement tombe sur le sol sur l'emplacement que vous occupez et quelle partie fusionne avec votre nouvelle forme ou est portée par celle-ci. L'équipement que vous portez sur vous fonctionne normalement, mais le MJ doit décider si une pièce particulière d'équipement peut être portée de manière pratique par l'animal dont vous prenez la forme (en fonction de la forme et de la taille de la créature). Votre équipement lui-même ne se transforme pas pour s'adapter à votre nouvelle forme et toute pièce d'équipement qui ne peut pas être portée par cette créature tombe sur le sol ou fusionne avec vous au moment de votre transformation. L'équipement qui fusionne avec vous sous votre forme sauvage n'a aucun effet jusqu'à ce que vous retrouviez votre forme normale.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Cercle druidique<!--/Name-->
 
 Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un cercle druidique : le cercle de la terre, le cercle des saisons, le cercle des fées ou le cercle des profondeurs. Tous sont détaillés à la fin de la section consacrée à cette classe. En fonction de votre choix, vous avez accès à différentes aptitudes aux niveaux 2, 6, 10 et 14.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Jeunesse éternelle<!--/Name-->
 
 À partir du niveau 18, la magie primitive que vous maniez vous permet de vieillir plus lentement. Pour chaque décennie qui passe, votre corps ne vieillit que d'un an.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Incantation animale<!--/Name-->
 
 À partir du niveau 18, vous pouvez lancer la plupart de vos sorts de druide quelle que soit la forme que vous prenez grâce à l'aptitude forme sauvage. Vous pouvez accomplir les composantes verbales et somatiques d'un sort de druide pendant que vous avez une forme sauvage, mais vous ne pouvez pas utiliser de composantes matérielles.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--ClassFeatureItem-->
 
 ## <!--Name-->Archidruide<!--/Name-->
 
@@ -187,7 +191,7 @@ Au niveau 20, vous pouvez utiliser votre forme sauvage autant de fois que vous l
 
 De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de druide ainsi que les composantes matérielles qui n'ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.
 
-<!--/Generic-->
+<!--/ClassFeatureItem-->
 
 <!--Generic-->
 

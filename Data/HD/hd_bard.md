@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Bard (SRD p11)
 - Source: (MDR p121)
 
+En tant que barde, vous bénéficiez des aptitudes de classe suivantes.
 
 
-# [Aptitudes de classe](hd_bard_aptitudes_de_classe.md)
+
+## [Points de vie](hd_bard_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_bard_maitrises.md)
+
+
+
+## [Équipement](hd_bard_equipement.md)
 
 
 

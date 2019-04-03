@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: wizard_hd.md#restauration-magique
 ParentLink: wizard_hd.md#magicien
 Name: Restauration magique

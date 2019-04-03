@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: druid_hd.md#incantation-animale
 ParentLink: druid_hd.md#druide
 Name: Incantation animale

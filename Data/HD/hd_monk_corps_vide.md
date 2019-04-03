@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#corps-vide
 ParentLink: monk_hd.md#moine
 Name: Corps vide

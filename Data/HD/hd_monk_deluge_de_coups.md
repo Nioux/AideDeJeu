@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#déluge-de-coups
 ParentLink: monk_hd.md#moine
 Name: Déluge de coups

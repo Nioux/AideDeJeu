@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#langage-du-soleil-et-de-la-lune
 ParentLink: monk_hd.md#moine
 Name: Langage du Soleil et de la Lune

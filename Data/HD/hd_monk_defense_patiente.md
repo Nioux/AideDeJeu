@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: monk_hd.md#défense-patiente
 ParentLink: monk_hd.md#moine
 Name: Défense patiente

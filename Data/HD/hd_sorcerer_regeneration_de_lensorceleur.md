@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: sorcerer_hd.md#régénération-de-lensorceleur
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Régénération de l'ensorceleur

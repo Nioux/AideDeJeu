@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: rogue_hd.md#esprit-impénétrable
 ParentLink: rogue_hd.md#roublard
 Name: Esprit impénétrable

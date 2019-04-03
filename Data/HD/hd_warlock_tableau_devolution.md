@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: warlock_hd.md#tableau-dévolution
 ParentLink: warlock_hd.md#sorcier
 Name: Tableau d'évolution

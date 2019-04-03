@@ -20,9 +20,19 @@ Attributes: {}
 - AltName: Monk (SRD p26)
 - Source: (MDR p176)
 
+En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
 
 
-# [Aptitudes de classe](hd_monk_aptitudes_de_classe.md)
+
+## [Points de vie](hd_monk_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_monk_maitrises.md)
+
+
+
+## [Équipement](hd_monk_equipement.md)
 
 
 

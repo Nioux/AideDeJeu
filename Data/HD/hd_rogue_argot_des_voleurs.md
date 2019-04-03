@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: rogue_hd.md#argot-des-voleurs
 ParentLink: rogue_hd.md#roublard
 Name: Argot des voleurs

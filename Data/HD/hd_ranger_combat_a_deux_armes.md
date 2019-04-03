@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#combat-à-deux-armes
 ParentLink: ranger_hd.md#rôdeur
 Name: Combat à deux armes

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: sorcerer_hd.md#tableau-dévolution
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Tableau d'évolution

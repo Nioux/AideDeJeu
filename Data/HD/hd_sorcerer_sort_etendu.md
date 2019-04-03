@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: sorcerer_hd.md#sort-étendu
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Sort étendu

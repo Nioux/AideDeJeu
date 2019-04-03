@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: bard_hd.md#chant-reposant
 ParentLink: bard_hd.md#barde
 Name: Chant reposant

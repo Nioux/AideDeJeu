@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#ennemi-juré
 ParentLink: ranger_hd.md#rôdeur
 Name: Ennemi juré

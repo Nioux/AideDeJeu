@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: ranger_hd.md#camouflage-naturel
 ParentLink: ranger_hd.md#rôdeur
 Name: Camouflage naturel

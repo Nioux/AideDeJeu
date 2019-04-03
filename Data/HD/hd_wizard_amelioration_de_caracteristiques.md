@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: wizard_hd.md#amélioration-de-caractéristiques
 ParentLink: wizard_hd.md#magicien
 Name: Amélioration de caractéristiques

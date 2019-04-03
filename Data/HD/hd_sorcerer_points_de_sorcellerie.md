@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: sorcerer_hd.md#points-de-sorcellerie
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Points de sorcellerie

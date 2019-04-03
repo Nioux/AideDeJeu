@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: sorcerer_hd.md#flexibilité-incantatoire
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Flexibilité incantatoire

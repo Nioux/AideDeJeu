@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: paladin_hd.md#armes-à-deux-mains
 ParentLink: paladin_hd.md#paladin
 Name: Armes à deux mains

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: druid_hd.md#jeunesse-éternelle
 ParentLink: druid_hd.md#druide
 Name: Jeunesse éternelle

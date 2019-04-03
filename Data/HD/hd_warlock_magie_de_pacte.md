@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: warlock_hd.md#magie-de-pacte
 ParentLink: warlock_hd.md#sorcier
 Name: Magie de pacte

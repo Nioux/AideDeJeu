@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: paladin_hd.md#serment-sacré
 ParentLink: paladin_hd.md#paladin
 Name: Serment sacré
