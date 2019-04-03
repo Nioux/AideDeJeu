@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#rage-implacable
 ParentLink: barbarian_hd.md#barbare
 Name: Rage implacable

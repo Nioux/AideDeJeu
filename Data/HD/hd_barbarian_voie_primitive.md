@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#voie-primitive
 ParentLink: barbarian_hd.md#barbare
 Name: Voie primitive

@@ -1,6 +1,4 @@
-﻿using AideDeJeuLib;
-
-namespace AideDeJeu.Models
+﻿namespace AideDeJeuLib
 {
     public class ClassHitPointsItem : Item
     {

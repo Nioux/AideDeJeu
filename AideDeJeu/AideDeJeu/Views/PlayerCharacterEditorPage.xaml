@@ -5,7 +5,6 @@
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
             xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
             x:Name="This"
-             Visual="Material"
              Title="Création de personnage"
             >
     <ContentPage.Resources>
@@ -15,71 +14,40 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <StackLayout Orientation="Vertical">
-        <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding}" />
         <TableView Margin="10,0">
             <TableRoot>
                 <TableSection Title="Généralités">
                     <ViewCell Height="50">
-                        <!--<StackLayout Orientation="Horizontal">
-                        <Label Text="Niveau" WidthRequest="100" />-->
-                        <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding}" />
-                        <!--</StackLayout>-->
+                        <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
                     </ViewCell>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                            <Label Text="Race" WidthRequest="100" />
-                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Races}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}" />
-                        </StackLayout>
+                        <Picker Title="Race" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Races}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}" />
                     </ViewCell>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                            <Label Text="Classe" WidthRequest="100" />
-                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />
-                        </StackLayout>
+                        <Picker Title="Classe" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />
                     </ViewCell>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                            <Label Text="Historique" WidthRequest="100" />
-                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Backgrounds}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />
-                        </StackLayout>
+                        <Picker Title="Historique" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Backgrounds}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />
                     </ViewCell>
                 </TableSection>
                 <TableSection Title="Caractéristiques">
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                            <Label Text="Force" WidthRequest="100" />
-                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
-                        </StackLayout>
+                        <Picker Title="Force" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Force : {0}'}" />
                     </ViewCell>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                            <Label Text="Dextérité" WidthRequest="100" />
-                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
-                        </StackLayout>
+                        <Picker Title="Dextérité" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Dextérité : {0}'}" />
                     </ViewCell>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                            <Label Text="Constitution" WidthRequest="100" />
-                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
-                        </StackLayout>
+                        <Picker Title="Constitution" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Constitution : {0}'}" />
                     </ViewCell>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                            <Label Text="Intelligence" WidthRequest="100" />
-                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
-                        </StackLayout>
+                        <Picker Title="Intelligence" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Intelligence : {0}'}" />
                     </ViewCell>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                            <Label Text="Sagesse" WidthRequest="100" />
-                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
-                        </StackLayout>
+                        <Picker Title="Sagesse" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Sagesse : {0}'}" />
                     </ViewCell>
                     <ViewCell>
-                        <StackLayout Orientation="Horizontal">
-                            <Label Text="Charisme" WidthRequest="100" />
-                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding}" />
-                        </StackLayout>
+                        <Picker Title="Charisme" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Charisme : {0}'}" />
                     </ViewCell>
                 </TableSection>
             </TableRoot>

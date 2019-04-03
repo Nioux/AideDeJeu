@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEvolutionItem
 Id: barbarian_hd.md#tableau-dévolution
 ParentLink: barbarian_hd.md#barbare
 Name: Tableau d'évolution

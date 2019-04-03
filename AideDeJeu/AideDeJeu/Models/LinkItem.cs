@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Text.RegularExpressions;
-using AideDeJeu.Tools;
-using Markdig.Syntax;
+﻿using System.Text.RegularExpressions;
 
 namespace AideDeJeuLib
 {

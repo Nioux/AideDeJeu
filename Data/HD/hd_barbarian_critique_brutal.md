@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#critique-brutal
 ParentLink: barbarian_hd.md#barbare
 Name: Critique brutal

@@ -2,14 +2,12 @@
 using AideDeJeu.ViewModels;
 using SQLite;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using System.Xml;
 using YamlDotNet.Core;
 using YamlDotNet.Core.Events;
 using YamlDotNet.Serialization;
@@ -197,17 +195,9 @@ namespace AideDeJeuLib
         {
             { "Generic", typeof(Generic) },
             { "Monster", typeof(Monster) },
-            //{ "MonsterHD", typeof(MonsterHD) },
-            //{ "MonsterVO", typeof(MonsterVO) },
             { "Monsters", typeof(Monsters) },
-            //{ "MonstersHD", typeof(MonstersHD) },
-            //{ "MonstersVO", typeof(MonstersVO) },
             { "Spell", typeof(Spell) },
-            //{ "SpellHD", typeof(SpellHD) },
-            //{ "SpellVO", typeof(SpellVO) },
             { "Spells", typeof(Spells) },
-            //{ "SpellsHD", typeof(SpellsHD) },
-            //{ "SpellsVO", typeof(SpellsVO) },
             { "Equipment", typeof(Equipment) },
             { "Equipments", typeof(Equipments) },
             { "LinkItem", typeof(LinkItem) },
@@ -228,6 +218,12 @@ namespace AideDeJeuLib
             { "BackgroundSpecialtyItem", typeof(BackgroundSpecialtyItem) },
             { "BackgroundItem", typeof(BackgroundItem) },
             { "SkillItem", typeof(SkillItem) },
+            { "ClassEquipmentItem", typeof(ClassEquipmentItem) },
+            { "ClassEvolutionItem", typeof(ClassEvolutionItem) },
+            { "ClassFeatureItem", typeof(ClassFeatureItem) },
+            { "ClassHitPointsItem", typeof(ClassHitPointsItem) },
+            { "ClassProficienciesItem", typeof(ClassProficienciesItem) },
+
             { "Items", typeof(Items) },
             { "Item", typeof(Item) },
         };

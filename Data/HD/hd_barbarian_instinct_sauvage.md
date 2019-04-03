@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#instinct-sauvage
 ParentLink: barbarian_hd.md#barbare
 Name: Instinct sauvage

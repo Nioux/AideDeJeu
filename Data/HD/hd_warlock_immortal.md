@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Le seigneur immortel
+Source: (MDR p215)
 ParentClassId: hd_warlock.md
 Id: warlock_immortal_hd.md#le-seigneur-immortel
 RootId: warlock_immortal_hd.md
 ParentLink: warlock_hd.md#protecteurs-doutre-monde
-Name: Le seigneur immortel
 ParentName: Protecteurs d'outre-monde
 NameLevel: 1
-Source: (MDR p215)
 Attributes: {}
 ---
 >  [Protecteurs d'outre-monde](hd_warlock_protecteurs_doutre_monde.md)

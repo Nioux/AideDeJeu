@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#témérité
 ParentLink: barbarian_hd.md#barbare
 Name: Témérité

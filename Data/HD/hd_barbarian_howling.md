@@ -1,15 +1,16 @@
 ﻿---
 !SubClassItem
+Name: Voie du hurlement
+Source: (MDR p118)
+ParentClassId: hd_barbarian.md
 Id: barbarian_howling_hd.md#voie-du-hurlement
 RootId: barbarian_howling_hd.md
 ParentLink: barbarian_hd.md#voies-primitives
-Name: Voie du hurlement
 ParentName: Voies primitives
 NameLevel: 1
-Source: (MDR p118)
 Attributes: {}
 ---
->  [Voies primitives](barbarian_hd.md#voies-primitives)
+>  [Voies primitives](hd_barbarian_voies_primitives.md)
 
 ---
 

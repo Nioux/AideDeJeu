@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassEquipmentItem
 Id: barbarian_hd.md#Équipement
 ParentLink: barbarian_hd.md#barbare
 Name: Équipement

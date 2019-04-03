@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Lignée féerique
+Source: (MDR p157)
 ParentClassId: hd_sorcerer.md
 Id: sorcerer_fairy_hd.md#lignée-féerique
 RootId: sorcerer_fairy_hd.md
 ParentLink: sorcerer_hd.md#origines-magiques
-Name: Lignée féerique
 ParentName: Origines magiques
 NameLevel: 1
-Source: (MDR p157)
 Attributes: {}
 ---
 >  [Origines magiques](hd_sorcerer_origines_magiques.md)

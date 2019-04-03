@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#attaque-supplémentaire
 ParentLink: barbarian_hd.md#barbare
 Name: Attaque supplémentaire

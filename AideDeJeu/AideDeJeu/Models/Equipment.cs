@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Text.RegularExpressions;
-using AideDeJeu.Tools;
-using Markdig.Syntax;
-
-namespace AideDeJeuLib
+﻿namespace AideDeJeuLib
 {
     public class Equipment : Item
     {

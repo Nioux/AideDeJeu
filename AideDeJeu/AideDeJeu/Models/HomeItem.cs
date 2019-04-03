@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Runtime.Serialization;
-using System.Text;
-using Markdig.Syntax;
+﻿using System.Runtime.Serialization;
 
 namespace AideDeJeuLib
 {

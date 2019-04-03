@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#déplacement-rapide
 ParentLink: barbarian_hd.md#barbare
 Name: Déplacement rapide

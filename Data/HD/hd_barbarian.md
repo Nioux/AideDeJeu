@@ -1,17 +1,14 @@
 ﻿---
 !ClassItem
-Id: barbarian_hd.md#barbarepoints-de-vie
+Id: barbarian_hd.md#barbare
 RootId: barbarian_hd.md
 ParentLink: classes_hd.md
-Name: BarbarePoints de vie
+Name: Barbare
 ParentName: Classes
-NameLevel: 2
+NameLevel: 1
 AltName: Barbarian (SRD p8)
 Source: (MDR p114)
-Attributes:
-  HitDice: 1d12 par niveau de barbare
-  HitPointsAt1stLevel: 12 + votre modificateur de [Constitution](hd_abilities_constitution.md)
-  HitPointsAtHigherLevels: 1d12 (ou 7) + votre modificateur de [Constitution](hd_abilities_constitution.md) par niveau de barbare après le premier niveau
+Attributes: {}
 ---
 >  [Classes](hd_classes.md)
 
@@ -26,9 +23,78 @@ Attributes:
 En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 
 
-## Points de vie
 
-**Dés de vie :** 1d12 par niveau de barbare
-**Points de vie au niveau 1 :** 12 + votre modificateur de [Constitution](hd_abilities_constitution.md)
-**Points de vie aux niveaux supérieurs :** 1d12 (ou 7) + votre modificateur de [Constitution](hd_abilities_constitution.md) par niveau de barbare après le premier niveau
+## [Points de vie](hd_barbarian_points_de_vie.md)
+
+
+
+## [Maîtrises](hd_barbarian_maitrises.md)
+
+
+
+## [Équipement](hd_barbarian_equipement.md)
+
+
+
+# [Tableau d'évolution](hd_barbarian_tableau_devolution.md)
+
+
+
+## [Rage](hd_barbarian_rage.md)
+
+
+
+## [Défense sans armure](hd_barbarian_defense_sans_armure.md)
+
+
+
+## [Témérité](hd_barbarian_temerite.md)
+
+
+
+## [Sens du danger](hd_barbarian_sens_du_danger.md)
+
+
+
+## [Voie primitive](hd_barbarian_voie_primitive.md)
+
+
+
+## [Amélioration de caractéristiques](hd_barbarian_amelioration_de_caracteristiques.md)
+
+
+
+## [Attaque supplémentaire](hd_barbarian_attaque_supplementaire.md)
+
+
+
+## [Déplacement rapide](hd_barbarian_deplacement_rapide.md)
+
+
+
+## [Instinct sauvage](hd_barbarian_instinct_sauvage.md)
+
+
+
+## [Critique brutal](hd_barbarian_critique_brutal.md)
+
+
+
+## [Rage implacable](hd_barbarian_rage_implacable.md)
+
+
+
+## [Rage ininterrompue](hd_barbarian_rage_ininterrompue.md)
+
+
+
+## [Puissance indomptable](hd_barbarian_puissance_indomptable.md)
+
+
+
+## [Champion primitif](hd_barbarian_champion_primitif.md)
+
+
+
+# [Voies primitives](hd_barbarian_voies_primitives.md)
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#rage-ininterrompue
 ParentLink: barbarian_hd.md#barbare
 Name: Rage ininterrompue

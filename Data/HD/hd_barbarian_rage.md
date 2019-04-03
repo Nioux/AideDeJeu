@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#rage
 ParentLink: barbarian_hd.md#barbare
 Name: Rage

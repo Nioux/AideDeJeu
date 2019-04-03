@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#défense-sans-armure
 ParentLink: barbarian_hd.md#barbare
 Name: Défense sans armure

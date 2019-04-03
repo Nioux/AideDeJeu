@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!ClassFeatureItem
 Id: barbarian_hd.md#champion-primitif
 ParentLink: barbarian_hd.md#barbare
 Name: Champion primitif
