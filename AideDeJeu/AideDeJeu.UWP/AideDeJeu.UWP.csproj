@@ -213,10 +213,10 @@
       <Version>1.6.258-beta</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
-      <Version>4.0.0.250467-pre7</Version>
+      <Version>4.0.0.304370-pre8</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms.Visual.Material">
-      <Version>4.0.0.250467-pre7</Version>
+      <Version>4.0.0.304370-pre8</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>

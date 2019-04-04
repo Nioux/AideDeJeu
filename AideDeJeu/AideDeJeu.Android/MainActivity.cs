@@ -22,10 +22,10 @@ namespace AideDeJeu.Droid
 
             Rg.Plugins.Popup.Popup.Init(this, bundle);
 
-            Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
-            Xamarin.Forms.Forms.SetFlags("Shell_Experimental");
+            global::Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
+            global::Xamarin.Forms.Forms.SetFlags("Shell_Experimental");
             global::Xamarin.Forms.Forms.Init(this, bundle);
-            Xamarin.Forms.FormsMaterial.Init(this, bundle);
+            global::Xamarin.Forms.FormsMaterial.Init(this, bundle);
             SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
 
             LoadApplication(new App());

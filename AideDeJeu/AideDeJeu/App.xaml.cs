@@ -24,16 +24,8 @@ namespace AideDeJeu
             var bgtan = (Color)Resources["HDWhite"];
 
 
+            //MainPage = new MainShell();
             var mainNavigationPage = new MainNavigationPage();
-            
-            //MainPage = new PlayerCharacterEditorPage();
-            //MainPage = new MainPage();
-
-            //var tabbeddPage = new AideDeJeu.Views.MainTabbedPage();
-
-
-
-            //var navigationPage = tabbeddPage.MainNavigationPage;
             vm.Navigator = new Navigator(mainNavigationPage.Navigation);
             MainPage = mainNavigationPage;
             mainNavigationPage.Navigation.PushAsync(new MainPage());

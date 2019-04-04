@@ -15,6 +15,10 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
+                if(_Races == null || _Races.Count == 0)
+                {
+                    Task.Run(() => LoadRacesAsync().ConfigureAwait(false));
+                }
                 return _Races;
             }
             set
@@ -32,7 +36,10 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _RaceSelectedIndex, value);
-                SelectedPlayerCharacter.Race = Races[_RaceSelectedIndex];
+                if (Races.Count > _RaceSelectedIndex && _RaceSelectedIndex >= 0)
+                {
+                    SelectedPlayerCharacter.Race = Races[_RaceSelectedIndex];
+                }
             }
         }
         private List<ClassItem> _Classes = new List<ClassItem>();
@@ -40,6 +47,10 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
+                if (_Classes == null || _Classes.Count == 0)
+                {
+                    Task.Run(() => LoadClassesAsync().ConfigureAwait(false));
+                }
                 return _Classes;
             }
             set
@@ -65,6 +76,10 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
+                if (_Backgrounds == null || _Backgrounds.Count == 0)
+                {
+                    Task.Run(() => LoadBackgroundsAsync().ConfigureAwait(false));
+                }
                 return _Backgrounds;
             }
             set
@@ -107,14 +122,35 @@ namespace AideDeJeu.ViewModels
             "1", //"2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"
         };
 
-        public async Task InitAsync()
+        public async Task LoadRacesAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 Races = await context.Races.Where(r => !r.HasSubRaces).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync();
+            }
+        }
+        public async Task LoadClassesAsync()
+        {
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
+            {
                 Classes = await context.Classes.Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).ToListAsync();
+            }
+        }
+        public async Task LoadBackgroundsAsync()
+        {
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
+            {
                 Backgrounds = await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync();
             }
+        }
+        public async Task InitAsync()
+        {
+            //    using (var context = await StoreViewModel.GetLibraryContextAsync())
+            //    {
+            //        Races = await context.Races.Where(r => !r.HasSubRaces).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync();
+            //        Classes = await context.Classes.Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).ToListAsync();
+            //        Backgrounds = await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync();
+            //    }
         }
     }
 }
