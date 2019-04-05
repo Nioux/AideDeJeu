@@ -109,14 +109,5 @@ namespace AideDeJeu.ViewModels
                 return await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync().ConfigureAwait(false);
             }
         }
-        public async Task InitAsync()
-        {
-            //    using (var context = await StoreViewModel.GetLibraryContextAsync())
-            //    {
-            //        Races = await context.Races.Where(r => !r.HasSubRaces).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync();
-            //        Classes = await context.Classes.Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).ToListAsync();
-            //        Backgrounds = await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync();
-            //    }
-        }
     }
 }

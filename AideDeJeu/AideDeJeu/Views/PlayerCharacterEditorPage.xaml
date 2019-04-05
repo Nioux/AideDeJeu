@@ -1,19 +1,73 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-            x:Class="AideDeJeu.Views.PlayerCharacterEditorPage"
-             xmlns:tools="clr-namespace:AideDeJeu.Tools"
-            xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
-            x:Name="This"
-             Title="Création de personnage"
-            >
-    <ContentPage.Resources>
+<TabbedPage 
+        xmlns="http://xamarin.com/schemas/2014/forms"
+        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+        x:Class="AideDeJeu.Views.PlayerCharacterEditorPage"
+        xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
+        xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+        xmlns:tools="clr-namespace:AideDeJeu.Tools"
+        xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
+        x:Name="This"
+        Title="Création de personnage"
+        android:TabbedPage.ToolbarPlacement="Bottom"
+        android:TabbedPage.IsSwipePagingEnabled="True"
+        android:TabbedPage.BarItemColor="{StaticResource HDMidGrey}"
+        android:TabbedPage.BarSelectedItemColor="{StaticResource HDRed}"
+        windows:TabbedPage.HeaderIconsEnabled="true">
+    <windows:TabbedPage.HeaderIconsSize>
+        <Size>
+            <x:Arguments>
+                <x:Double>48</x:Double>
+                <x:Double>48</x:Double>
+            </x:Arguments>
+        </Size>
+    </windows:TabbedPage.HeaderIconsSize>
+    <TabbedPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
-    </ContentPage.Resources>
-    <StackLayout Orientation="Vertical">
+    </TabbedPage.Resources>
+    <ContentPage Title="Niveau">
+        <StackLayout>
+            <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Race">
+        <StackLayout>
+            <Picker Title="Race" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" ItemsSource="{Binding Races.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}" />
+            <ScrollView Orientation="Vertical">
+                <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Race.Markdown}" />
+            </ScrollView>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Classe">
+        <StackLayout>
+            <Picker Title="Classe" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Classes.IsSuccessfullyCompleted}" ItemsSource="{Binding Classes.Result}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />
+            <ScrollView Orientation="Vertical">
+                <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" />
+            </ScrollView>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Historique">
+        <StackLayout>
+            <Picker Title="Historique" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Backgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding Backgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />
+            <ScrollView Orientation="Vertical">
+                <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
+            </ScrollView>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Caractéristiques">
+        <StackLayout>
+            <Picker Title="Force" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Force : {0}'}" />
+            <Picker Title="Dextérité" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Dextérité : {0}'}" />
+            <Picker Title="Constitution" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Constitution : {0}'}" />
+            <Picker Title="Intelligence" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Intelligence : {0}'}" />
+            <Picker Title="Sagesse" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Sagesse : {0}'}" />
+            <Picker Title="Charisme" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Charisme : {0}'}" />
+        </StackLayout>
+    </ContentPage>
+    <!--<StackLayout Orientation="Vertical">
         <TableView Margin="10,0">
             <TableRoot>
                 <TableSection Title="Généralités">
@@ -52,5 +106,5 @@
                 </TableSection>
             </TableRoot>
         </TableView>
-    </StackLayout>
-</ContentPage>
+    </StackLayout>-->
+</TabbedPage>
