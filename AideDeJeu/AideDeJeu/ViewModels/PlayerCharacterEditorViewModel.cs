@@ -1,4 +1,5 @@
-﻿using AideDeJeuLib;
+﻿using AideDeJeu.Tools;
+using AideDeJeuLib;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,22 +11,14 @@ namespace AideDeJeu.ViewModels
 {
     public class PlayerCharacterEditorViewModel : BaseViewModel
     {
-        private List<RaceItem> _Races = new List<RaceItem>();
-        public List<RaceItem> Races
+        public PlayerCharacterEditorViewModel()
         {
-            get
-            {
-                if(_Races == null || _Races.Count == 0)
-                {
-                    Task.Run(() => LoadRacesAsync().ConfigureAwait(false));
-                }
-                return _Races;
-            }
-            set
-            {
-                SetProperty(ref _Races, value);
-            }
+            Races = new NotifyTaskCompletion<List<RaceItem>>(Task.Run(() => LoadRacesAsync()));
+            Classes = new NotifyTaskCompletion<List<ClassItem>>(Task.Run(() => LoadClassesAsync()));
+            Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
         }
+
+        public NotifyTaskCompletion<List<RaceItem>> Races { get; private set; }
         private int _RaceSelectedIndex = 0;
         public int RaceSelectedIndex
         {
@@ -36,28 +29,14 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _RaceSelectedIndex, value);
-                if (Races.Count > _RaceSelectedIndex && _RaceSelectedIndex >= 0)
+                if (Races.Result.Count > _RaceSelectedIndex && _RaceSelectedIndex >= 0)
                 {
-                    SelectedPlayerCharacter.Race = Races[_RaceSelectedIndex];
+                    SelectedPlayerCharacter.Race = Races.Result[_RaceSelectedIndex];
                 }
             }
         }
-        private List<ClassItem> _Classes = new List<ClassItem>();
-        public List<ClassItem> Classes
-        {
-            get
-            {
-                if (_Classes == null || _Classes.Count == 0)
-                {
-                    Task.Run(() => LoadClassesAsync().ConfigureAwait(false));
-                }
-                return _Classes;
-            }
-            set
-            {
-                SetProperty(ref _Classes, value);
-            }
-        }
+        public NotifyTaskCompletion<List<ClassItem>> Classes { get; private set; }
+
         private int _ClassSelectedIndex = 0;
         public int ClassSelectedIndex
         {
@@ -68,25 +47,12 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _ClassSelectedIndex, value);
-                SelectedPlayerCharacter.Class = Classes[_ClassSelectedIndex];
+                SelectedPlayerCharacter.Class = Classes.Result[_ClassSelectedIndex];
             }
         }
-        private List<BackgroundItem> _Backgrounds = new List<BackgroundItem>();
-        public List<BackgroundItem> Backgrounds
-        {
-            get
-            {
-                if (_Backgrounds == null || _Backgrounds.Count == 0)
-                {
-                    Task.Run(() => LoadBackgroundsAsync().ConfigureAwait(false));
-                }
-                return _Backgrounds;
-            }
-            set
-            {
-                SetProperty(ref _Backgrounds, value);
-            }
-        }
+
+        public NotifyTaskCompletion<List<BackgroundItem>> Backgrounds { get; private set; }
+
         private int _BackgroundSelectedIndex = 0;
         public int BackgroundSelectedIndex
         {
@@ -97,7 +63,7 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _BackgroundSelectedIndex, value);
-                SelectedPlayerCharacter.Background = Backgrounds[_BackgroundSelectedIndex];
+                SelectedPlayerCharacter.Background = Backgrounds.Result[_BackgroundSelectedIndex];
             }
         }
         private PlayerCharacterViewModel _SelectedPlayerCharacter = new PlayerCharacterViewModel();
@@ -122,25 +88,25 @@ namespace AideDeJeu.ViewModels
             "1", //"2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"
         };
 
-        public async Task LoadRacesAsync()
+        public async Task<List<RaceItem>> LoadRacesAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                Races = await context.Races.Where(r => !r.HasSubRaces).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync();
+                return await context.Races.Where(r => !r.HasSubRaces).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync().ConfigureAwait(false);
             }
         }
-        public async Task LoadClassesAsync()
+        public async Task<List<ClassItem>> LoadClassesAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                Classes = await context.Classes.Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).ToListAsync();
+                return await context.Classes.Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).ToListAsync().ConfigureAwait(false);
             }
         }
-        public async Task LoadBackgroundsAsync()
+        public async Task<List<BackgroundItem>> LoadBackgroundsAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                Backgrounds = await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync();
+                return await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync().ConfigureAwait(false);
             }
         }
         public async Task InitAsync()
