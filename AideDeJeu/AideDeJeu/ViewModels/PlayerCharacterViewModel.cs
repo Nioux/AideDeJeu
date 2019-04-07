@@ -43,5 +43,17 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _Background, value);
             }
         }
+        private SubBackgroundItem _SubBackground = null;
+        public SubBackgroundItem SubBackground
+        {
+            get
+            {
+                return _SubBackground;
+            }
+            set
+            {
+                SetProperty(ref _SubBackground, value);
+            }
+        }
     }
 }

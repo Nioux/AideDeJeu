@@ -53,8 +53,12 @@
     <ContentPage Title="Historique">
         <StackLayout>
             <Picker Title="Historique" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Backgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding Backgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />
+            <Picker Title="Variante" HorizontalOptions="FillAndExpand" IsEnabled="{Binding SubBackgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding SubBackgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding SubBackgroundSelectedIndex, Mode=TwoWay}" />
             <ScrollView Orientation="Vertical">
-                <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
+                <StackLayout>
+                    <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
+                    <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Markdown}" />
+                </StackLayout>
             </ScrollView>
         </StackLayout>
     </ContentPage>

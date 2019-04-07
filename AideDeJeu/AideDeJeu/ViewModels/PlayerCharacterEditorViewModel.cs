@@ -16,6 +16,7 @@ namespace AideDeJeu.ViewModels
             Races = new NotifyTaskCompletion<List<RaceItem>>(Task.Run(() => LoadRacesAsync()));
             Classes = new NotifyTaskCompletion<List<ClassItem>>(Task.Run(() => LoadClassesAsync()));
             Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
+            SubBackgrounds = new NotifyTaskCompletion<List<SubBackgroundItem>>(null);
         }
 
         public NotifyTaskCompletion<List<RaceItem>> Races { get; private set; }
@@ -64,8 +65,45 @@ namespace AideDeJeu.ViewModels
             {
                 SetProperty(ref _BackgroundSelectedIndex, value);
                 SelectedPlayerCharacter.Background = Backgrounds.Result[_BackgroundSelectedIndex];
+                SubBackgrounds = new NotifyTaskCompletion<List<SubBackgroundItem>>(Task.Run(() => LoadSubBackgroundsAsync(SelectedPlayerCharacter.Background)));
             }
         }
+
+        private NotifyTaskCompletion<List<SubBackgroundItem>> _SubBackgrounds = null;
+        public NotifyTaskCompletion<List<SubBackgroundItem>> SubBackgrounds
+        {
+            get
+            {
+                return _SubBackgrounds;
+            }
+            private set
+            {
+                SetProperty(ref _SubBackgrounds, value);
+            }
+        }
+
+        private int _SubBackgroundSelectedIndex = 0;
+        public int SubBackgroundSelectedIndex
+        {
+            get
+            {
+                return _SubBackgroundSelectedIndex;
+            }
+            set
+            {
+                SetProperty(ref _SubBackgroundSelectedIndex, value);
+                if(_SubBackgroundSelectedIndex == 0)
+                {
+                    SelectedPlayerCharacter.SubBackground = null;
+                    SubBackgroundSelectedIndex = -1;
+                }
+                else if(_SubBackgroundSelectedIndex > 0)
+                {
+                    SelectedPlayerCharacter.SubBackground = SubBackgrounds.Result[_SubBackgroundSelectedIndex];
+                }
+            }
+        }
+
         private PlayerCharacterViewModel _SelectedPlayerCharacter = new PlayerCharacterViewModel();
         public PlayerCharacterViewModel SelectedPlayerCharacter
         {
@@ -107,6 +145,23 @@ namespace AideDeJeu.ViewModels
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 return await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync().ConfigureAwait(false);
+            }
+        }
+
+        public async Task<List<SubBackgroundItem>> LoadSubBackgroundsAsync(BackgroundItem background)
+        {
+            if (background != null)
+            {
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
+                {
+                    var list = await context.SubBackgrounds.Where(item => item.ParentLink == background.Id).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync().ConfigureAwait(false);
+                    list.Insert(0, null);
+                    return list;
+                }
+            }
+            else
+            {
+                return new List<SubBackgroundItem>();
             }
         }
     }
