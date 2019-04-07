@@ -66,6 +66,7 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _BackgroundSelectedIndex, value);
                 SelectedPlayerCharacter.Background = Backgrounds.Result[_BackgroundSelectedIndex];
                 SubBackgrounds = new NotifyTaskCompletion<List<SubBackgroundItem>>(Task.Run(() => LoadSubBackgroundsAsync(SelectedPlayerCharacter.Background)));
+                SelectedPlayerCharacter.SubBackground = null;
             }
         }
 
