@@ -156,7 +156,7 @@ namespace AideDeJeu.ViewModels
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
                     var list = await context.SubBackgrounds.Where(item => item.ParentLink == background.Id).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync().ConfigureAwait(false);
-                    list.Insert(0, null);
+                    list.Insert(0, new SubBackgroundItem() { Name = "-" });
                     return list;
                 }
             }
