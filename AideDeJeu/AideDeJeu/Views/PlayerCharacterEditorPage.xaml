@@ -9,27 +9,28 @@
         xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
         x:Name="This"
         Title="Création de personnage"
-        android:TabbedPage.ToolbarPlacement="Bottom"
-        android:TabbedPage.IsSwipePagingEnabled="True"
-        android:TabbedPage.BarItemColor="{StaticResource HDMidGrey}"
-        android:TabbedPage.BarSelectedItemColor="{StaticResource HDRed}"
-        windows:TabbedPage.HeaderIconsEnabled="true">
-    <windows:TabbedPage.HeaderIconsSize>
-        <Size>
-            <x:Arguments>
-                <x:Double>48</x:Double>
-                <x:Double>48</x:Double>
-            </x:Arguments>
-        </Size>
-    </windows:TabbedPage.HeaderIconsSize>
+        SelectedTabColor="{StaticResource HDRed}"
+        UnselectedTabColor="{StaticResource HDMidGrey}"
+        android:TabbedPage.IsSwipePagingEnabled="True">
     <TabbedPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </TabbedPage.Resources>
-    <ContentPage Title="Niveau">
+    <ContentPage Title="Généralités">
         <StackLayout>
+            <Entry Placeholder="Nom" Text="{Binding Name}" />
+            <Picker Title="Genre" HorizontalOptions="FillAndExpand">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Autre</x:String>
+                        <x:String>Féminin</x:String>
+                        <x:String>Masculin</x:String>
+                        <x:String>Non précisé</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
             <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
         </StackLayout>
     </ContentPage>
@@ -65,6 +66,14 @@
             <Picker Title="Intelligence" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Intelligence : {0}'}" />
             <Picker Title="Sagesse" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Sagesse : {0}'}" />
             <Picker Title="Charisme" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Charisme : {0}'}" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Equipement">
+        <StackLayout>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Résumé">
+        <StackLayout>
         </StackLayout>
     </ContentPage>
     <!--<StackLayout Orientation="Vertical">
