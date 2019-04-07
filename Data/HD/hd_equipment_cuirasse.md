@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Armure intermédiaire
 Price: 400 po
 ArmorClass: 14 + modifcateur de Dex (max 2)

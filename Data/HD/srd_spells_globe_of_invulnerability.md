@@ -1,5 +1,5 @@
 ﻿---
-!Spell
+!SpellItem
 Family: SpellVO
 Level: 6
 Type: abjuration

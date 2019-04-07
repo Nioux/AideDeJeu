@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Arme à distance
 Price: 5 pc
 Weight: 0,1 kg

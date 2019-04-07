@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Arme de corps-à-corps
 Price: 2 pa
 Weight: 2 kg

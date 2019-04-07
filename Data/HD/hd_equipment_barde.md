@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement, sellerie et véhicules à traction
 Price: x 4
 Weight: x 2

@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Outil - Instrument de musique
 Price: 25 po
 Weight: 5 kg

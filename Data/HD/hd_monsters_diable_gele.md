@@ -1,5 +1,5 @@
 ﻿---
-!Monster
+!MonsterItem
 Family: MonsterHD
 Type: Fiélon (diable)
 Size: G

@@ -1,5 +1,5 @@
 ﻿---
-!Monster
+!MonsterItem
 Family: MonsterHD
 Type: Céleste
 Size: G

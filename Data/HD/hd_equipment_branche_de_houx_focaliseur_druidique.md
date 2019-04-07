@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurier / Focaliseur druidique
 Price: 1 po
 Weight: _

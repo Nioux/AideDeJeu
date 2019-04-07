@@ -1,5 +1,5 @@
 ﻿---
-!Monster
+!MonsterItem
 Family: MonsterVO
 Type: undead (shapechanger)
 Size: Medium

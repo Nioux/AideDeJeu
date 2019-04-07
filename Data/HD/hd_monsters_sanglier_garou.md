@@ -1,5 +1,5 @@
 ﻿---
-!Monster
+!MonsterItem
 Family: MonsterHD
 Type: Humanoïde (humain, métamorphe)
 Size: M

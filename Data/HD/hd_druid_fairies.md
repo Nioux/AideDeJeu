@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
-Name: Cercle des fées
-Source: (MDR p149)
 ParentClassId: hd_druid.md
 Id: druid_fairies_hd.md#cercle-des-fées
 RootId: druid_fairies_hd.md
 ParentLink: druid_hd.md#cercles-druidiques
+Name: Cercle des fées
 ParentName: Cercles druidiques
 NameLevel: 1
+Source: (MDR p149)
 Attributes: {}
 ---
 >  [Cercles druidiques](hd_druid_cercles_druidiques.md)

@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurier
 Price: 2 pa
 Weight: _

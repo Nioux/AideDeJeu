@@ -1,5 +1,5 @@
 ﻿---
-!Spell
+!SpellItem
 Family: SpellHD
 Level: 2
 Type: Abjuration

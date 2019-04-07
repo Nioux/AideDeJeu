@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Marchandise
 Price: 2 pc
 Id: equipment_hd.md#poulet

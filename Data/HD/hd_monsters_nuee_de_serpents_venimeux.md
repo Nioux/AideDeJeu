@@ -1,5 +1,5 @@
 ﻿---
-!Monster
+!MonsterItem
 Family: MonsterHD
 Type: Nuée
 Size: M composée de bêtes de taille TP

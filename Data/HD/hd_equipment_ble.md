@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Marchandise
 Price: 1 pc
 Unity: 1 livre

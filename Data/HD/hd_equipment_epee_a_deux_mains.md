@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Arme de corps-à-corps
 Price: 50 po
 Weight: 3 kg

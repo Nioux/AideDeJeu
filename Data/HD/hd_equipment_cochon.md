@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Marchandise
 Price: 3 po
 Id: equipment_hd.md#cochon

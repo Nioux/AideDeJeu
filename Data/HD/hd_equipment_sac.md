@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurier
 Price: 1 pc
 Weight: 0,25 kg

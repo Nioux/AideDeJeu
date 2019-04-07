@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Monture
 Price: 8 po
 WeightCapacity: 210 kg

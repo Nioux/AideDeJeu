@@ -19,15 +19,15 @@ namespace AideDeJeuWeb.Controllers
             //var items = AideDeJeu.Tools.Helpers.GetResourceObject<IEnumerable<Spell>>("AideDeJeu.Data.spells_vf.json");
             var md = await AideDeJeu.Tools.Helpers.GetResourceStringAsync("AideDeJeu.Data.spells_hd.md");
             var store = new StoreViewModel();
-            var item = store.ToItem(null, md);
+            var item = store.ToItem(null, md, null);
             var items = await item.GetChildrenAsync();
 
-            var fitems = items.Where(it => (it as Spell).Source.Contains(classe)).OrderBy(it => (it as Spell).Level).ThenBy(it => it.Name);
+            var fitems = items.Where(it => (it as SpellItem).Source.Contains(classe)).OrderBy(it => (it as SpellItem).Level).ThenBy(it => it.Name);
 
             var cardDatas = new List<CardData>();
             foreach (var spell in fitems)
             {
-                cardDatas.AddRange(Converters.ToCardDatas(spell as Spell));
+                cardDatas.AddRange(Converters.ToCardDatas(spell as SpellItem));
             }
             return cardDatas;
         }

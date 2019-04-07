@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Marchandise
 Price: 10 po
 Unity: 1 m2

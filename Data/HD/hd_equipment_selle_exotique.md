@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement, sellerie et véhicules à traction
 Price: 60 po
 Weight: 20 kg

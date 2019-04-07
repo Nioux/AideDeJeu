@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurier
 Price: 1 pa
 Weight: 0,5 kg

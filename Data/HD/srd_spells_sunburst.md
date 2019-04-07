@@ -1,5 +1,5 @@
 ﻿---
-!Spell
+!SpellItem
 Family: SpellVO
 Level: 8
 Type: evocation

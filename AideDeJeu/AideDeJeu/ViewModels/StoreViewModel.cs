@@ -457,10 +457,10 @@ namespace AideDeJeu.ViewModels
         {
             public string DbPath { get; set; }
             public DbSet<Item> Items { get; set; }
-            public DbSet<Equipment> Equipments { get; set; }
+            public DbSet<EquipmentItem> Equipments { get; set; }
             public DbSet<MagicItem> MagicItems { get; set; }
-            public DbSet<Spell> Spells { get; set; }
-            public DbSet<Monster> Monsters { get; set; }
+            public DbSet<SpellItem> Spells { get; set; }
+            public DbSet<MonsterItem> Monsters { get; set; }
             //public DbSet<Spell> Spells { get; set; }
             //public DbSet<MonsterHD> MonstersHD { get; set; }
             //public DbSet<SpellVO> SpellsVO { get; set; }
@@ -485,23 +485,23 @@ namespace AideDeJeu.ViewModels
             protected override void OnModelCreating(ModelBuilder modelBuilder)
             {
                 base.OnModelCreating(modelBuilder);
-                modelBuilder.Entity<Monsters>();
+                modelBuilder.Entity<MonsterItems>();
                 //modelBuilder.Entity<MonstersVO>();
                 //modelBuilder.Entity<SpellsHD>().HasBaseType<Spells>();
                 //modelBuilder.Entity<SpellsVO>().HasBaseType<Spells>();
-                modelBuilder.Entity<Spells>();
-                modelBuilder.Entity<Equipments>();
+                modelBuilder.Entity<SpellItems>();
+                modelBuilder.Entity<EquipmentItems>();
                 modelBuilder.Entity<MagicItems>();
 
 
 
                 modelBuilder.Entity<Generic>();
-                modelBuilder.Entity<Monster>();
-                modelBuilder.Entity<Monsters>();
-                modelBuilder.Entity<Spell>();
-                modelBuilder.Entity<Spells>();
-                modelBuilder.Entity<Equipment>();
-                modelBuilder.Entity<Equipments>();
+                modelBuilder.Entity<MonsterItem>();
+                modelBuilder.Entity<MonsterItems>();
+                modelBuilder.Entity<SpellItem>();
+                modelBuilder.Entity<SpellItems>();
+                modelBuilder.Entity<EquipmentItem>();
+                modelBuilder.Entity<EquipmentItems>();
                 modelBuilder.Entity<LinkItem>();
                 modelBuilder.Entity<MagicItem>();
                 modelBuilder.Entity<MagicItems>();

@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Marchandise
 Price: 2 po
 Id: equipment_hd.md#mouton

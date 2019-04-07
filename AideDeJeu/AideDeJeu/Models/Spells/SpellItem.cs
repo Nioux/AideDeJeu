@@ -10,7 +10,7 @@ using System.Xml.Serialization;
 
 namespace AideDeJeuLib
 {
-    public class Spell : Item
+    public class SpellItem : Item
     {
         public string Family { get; set; }
         public string Level { get; set; }

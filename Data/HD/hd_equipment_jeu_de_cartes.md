@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Outil - Jeu
 Price: 5 pa
 Weight: _

@@ -1,12 +1,12 @@
 ﻿---
-!Monsters
+!MonsterItems
 Types: Humanoïde|Aberration|Bête|Céleste|Créature artificielle|Créature monstrueuse|Dragon|Élémentaire|Fée|Fiélon|Géant|Mort-vivant|Plante|Vase
 Challenges: 0 (0 PX)|1/8 (25 PX)|1/4 (50 PX)|1/2 (100 PX)|1 (200 PX)|2 (450 PX)|3 (700 PX)|4 (1100 PX)|5 (1800 PX)|6 (2300 PX)|7 (2900 PX)|8 (3900 PX)|9 (5000 PX)|10 (5900 PX)|11 (7200 PX)|12 (8400 PX)|13 (10000 PX)|14 (11500 PX)|15 (13000 PX)|16 (15000 PX)|17 (18000 PX)|18 (20000 PX)|19 (22000 PX)|20 (25000 PX)|21 (33000 PX)|22 (41000 PX)|23 (50000 PX)|24 (62000 PX)|30 (155000 PX)
 Sizes: TP|P|M|G|TG|Gig
 Sources: CEO|SRD
 Family: MonsterHD
 SubItems:
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Aberration
   Size: G
@@ -33,7 +33,7 @@ SubItems:
   AltName: '[Aboleth](srd_monsters_aboleth.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Aberration
   Size: M
@@ -62,7 +62,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -90,7 +90,7 @@ SubItems:
   AltName: '[Wraith](srd_monsters_wraith.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Aberration
   Size: M
@@ -115,7 +115,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Céleste
   Size: M
@@ -144,7 +144,7 @@ SubItems:
   AltName: '[Deva](srd_monsters_deva.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Céleste
   Size: G
@@ -173,7 +173,7 @@ SubItems:
   AltName: '[Planetar](srd_monsters_planetar.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Céleste
   Size: G
@@ -203,7 +203,7 @@ SubItems:
   AltName: '[Solar](srd_monsters_solar.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -228,7 +228,7 @@ SubItems:
   AltName: '[Ankheg](srd_monsters_ankheg.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: M
@@ -256,7 +256,7 @@ SubItems:
   AltName: '[Azer](srd_monsters_azer.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Aberration
   Size: M
@@ -282,7 +282,7 @@ SubItems:
   AltName: '[Gibbering Mouther](srd_monsters_gibbering_mouther.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -307,7 +307,7 @@ SubItems:
   AltName: '[Basilisk](srd_monsters_basilisk.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: TG
@@ -334,7 +334,7 @@ SubItems:
   AltName: '[Behir](srd_monsters_behir.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -360,7 +360,7 @@ SubItems:
   AltName: '[Bulette](srd_monsters_bulette.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -386,7 +386,7 @@ SubItems:
   AltName: '[Centaur](srd_monsters_centaur.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -413,7 +413,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Plante
   Size: M
@@ -439,7 +439,7 @@ SubItems:
   AltName: '[Shrieker](srd_monsters_shrieker.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Plante
   Size: M
@@ -465,7 +465,7 @@ SubItems:
   AltName: '[Violet Fungus](srd_monsters_violet_fungus.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -491,7 +491,7 @@ SubItems:
   AltName: '[Chimera](srd_monsters_chimera.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Aberration
   Size: G
@@ -519,7 +519,7 @@ SubItems:
   AltName: '[Chuul](srd_monsters_chuul.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: P
@@ -544,7 +544,7 @@ SubItems:
   AltName: '[Cockatrice](srd_monsters_cockatrice.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Céleste
   Size: M
@@ -572,7 +572,7 @@ SubItems:
   AltName: '[Couatl](srd_monsters_couatl.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (humain)
   Size: M
@@ -598,7 +598,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (démon)
   Size: TG
@@ -627,7 +627,7 @@ SubItems:
   AltName: '[Balor](srd_monsters_balor.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (démon)
   Size: P
@@ -655,7 +655,7 @@ SubItems:
   AltName: '[Dretch](srd_monsters_dretch.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (démon)
   Size: G
@@ -684,7 +684,7 @@ SubItems:
   AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (démon)
   Size: G
@@ -713,7 +713,7 @@ SubItems:
   AltName: '[Hezrou](srd_monsters_hezrou.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (démon)
   Size: G
@@ -742,7 +742,7 @@ SubItems:
   AltName: '[Marilith](srd_monsters_marilith.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (démon)
   Size: G
@@ -771,7 +771,7 @@ SubItems:
   AltName: '[Nalfeshnee](srd_monsters_nalfeshnee.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (démon, métamorphe)
   Size: TP
@@ -800,7 +800,7 @@ SubItems:
   AltName: '[Quasit](srd_monsters_quasit.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (démon)
   Size: G
@@ -829,7 +829,7 @@ SubItems:
   AltName: '[Vrock](srd_monsters_vrock.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon
   Size: G
@@ -855,7 +855,7 @@ SubItems:
   AltName: '[Nightmare](srd_monsters_nightmare.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Aberration
   Size: G
@@ -881,7 +881,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (diable)
   Size: M
@@ -911,7 +911,7 @@ SubItems:
   AltName: '[Barbed Devil](srd_monsters_barbed_devil.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (diable)
   Size: M
@@ -940,7 +940,7 @@ SubItems:
   AltName: '[Bearded Devil](srd_monsters_bearded_devil.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (diable)
   Size: G
@@ -969,7 +969,7 @@ SubItems:
   AltName: '[Horned Devil](srd_monsters_horned_devil.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (diable)
   Size: G
@@ -998,7 +998,7 @@ SubItems:
   AltName: '[Ice Devil](srd_monsters_ice_devil.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (diable)
   Size: M
@@ -1027,7 +1027,7 @@ SubItems:
   AltName: '[Chain Devil](srd_monsters_chain_devil.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (diable)
   Size: G
@@ -1057,7 +1057,7 @@ SubItems:
   AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (diable, métamorphe)
   Size: TP
@@ -1086,7 +1086,7 @@ SubItems:
   AltName: '[Imp](srd_monsters_imp.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (diable)
   Size: G
@@ -1115,7 +1115,7 @@ SubItems:
   AltName: '[Pit Fiend](srd_monsters_pit_fiend.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (diable)
   Size: M
@@ -1144,7 +1144,7 @@ SubItems:
   AltName: '[Erinyes](srd_monsters_erinyes.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (diable)
   Size: M
@@ -1172,7 +1172,7 @@ SubItems:
   AltName: '[Lemure](srd_monsters_lemure.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Aberration
   Size: G
@@ -1197,7 +1197,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -1223,7 +1223,7 @@ SubItems:
   AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TG
@@ -1248,7 +1248,7 @@ SubItems:
   AltName: '[Triceratops](srd_monsters_triceratops.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TG
@@ -1274,7 +1274,7 @@ SubItems:
   AltName: '[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse (métamorphe)
   Size: M
@@ -1301,7 +1301,7 @@ SubItems:
   AltName: '[Doppelganger](srd_monsters_doppelganger.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -1329,7 +1329,7 @@ SubItems:
   AltName: '[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TG
@@ -1357,7 +1357,7 @@ SubItems:
   AltName: '[Adult White Dragon](srd_monsters_adult_white_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -1385,7 +1385,7 @@ SubItems:
   AltName: '[Young White Dragon](srd_monsters_young_white_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: M
@@ -1413,7 +1413,7 @@ SubItems:
   AltName: '[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -1441,7 +1441,7 @@ SubItems:
   AltName: '[Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TG
@@ -1469,7 +1469,7 @@ SubItems:
   AltName: '[Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -1497,7 +1497,7 @@ SubItems:
   AltName: '[Young Blue Dragon](srd_monsters_young_blue_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: M
@@ -1525,7 +1525,7 @@ SubItems:
   AltName: '[Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -1553,7 +1553,7 @@ SubItems:
   AltName: '[Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TG
@@ -1581,7 +1581,7 @@ SubItems:
   AltName: '[Adult Black Dragon](srd_monsters_adult_black_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -1609,7 +1609,7 @@ SubItems:
   AltName: '[Young Black Dragon](srd_monsters_young_black_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: M
@@ -1637,7 +1637,7 @@ SubItems:
   AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -1665,7 +1665,7 @@ SubItems:
   AltName: '[Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TG
@@ -1693,7 +1693,7 @@ SubItems:
   AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -1721,7 +1721,7 @@ SubItems:
   AltName: '[Young Red Dragon](srd_monsters_young_red_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: M
@@ -1749,7 +1749,7 @@ SubItems:
   AltName: '[Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -1778,7 +1778,7 @@ SubItems:
   AltName: '[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TG
@@ -1807,7 +1807,7 @@ SubItems:
   AltName: '[Adult Green Dragon](srd_monsters_adult_green_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -1836,7 +1836,7 @@ SubItems:
   AltName: '[Young Green Dragon](srd_monsters_young_green_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: M
@@ -1865,7 +1865,7 @@ SubItems:
   AltName: '[Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -1893,7 +1893,7 @@ SubItems:
   AltName: '[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TG
@@ -1921,7 +1921,7 @@ SubItems:
   AltName: '[Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -1949,7 +1949,7 @@ SubItems:
   AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: M
@@ -1977,7 +1977,7 @@ SubItems:
   AltName: '[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -2005,7 +2005,7 @@ SubItems:
   AltName: '[Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TG
@@ -2033,7 +2033,7 @@ SubItems:
   AltName: '[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -2061,7 +2061,7 @@ SubItems:
   AltName: '[Young Silver Dragon](srd_monsters_young_silver_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: M
@@ -2089,7 +2089,7 @@ SubItems:
   AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -2117,7 +2117,7 @@ SubItems:
   AltName: '[Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TG
@@ -2145,7 +2145,7 @@ SubItems:
   AltName: '[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -2173,7 +2173,7 @@ SubItems:
   AltName: '[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: M
@@ -2201,7 +2201,7 @@ SubItems:
   AltName: '[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -2229,7 +2229,7 @@ SubItems:
   AltName: '[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TG
@@ -2257,7 +2257,7 @@ SubItems:
   AltName: '[Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -2285,7 +2285,7 @@ SubItems:
   AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: M
@@ -2313,7 +2313,7 @@ SubItems:
   AltName: '[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -2341,7 +2341,7 @@ SubItems:
   AltName: '[Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TG
@@ -2369,7 +2369,7 @@ SubItems:
   AltName: '[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -2397,7 +2397,7 @@ SubItems:
   AltName: '[Young Gold Dragon](srd_monsters_young_gold_dragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: M
@@ -2425,7 +2425,7 @@ SubItems:
   AltName: '[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: Gig
@@ -2452,7 +2452,7 @@ SubItems:
   AltName: '[Dragon Turtle](srd_monsters_dragon_turtle.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon
   Size: TP
@@ -2479,7 +2479,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -2505,7 +2505,7 @@ SubItems:
   AltName: '[Drider](srd_monsters_drider.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (elfe)
   Size: M
@@ -2531,7 +2531,7 @@ SubItems:
   AltName: '[Drow](srd_monsters_drow.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (elfe)
   Size: M
@@ -2559,7 +2559,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fée
   Size: M
@@ -2585,7 +2585,7 @@ SubItems:
   AltName: '[Dryad](srd_monsters_dryad.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (nain)
   Size: M
@@ -2611,7 +2611,7 @@ SubItems:
   AltName: '[Duergar](srd_monsters_duergar.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: G
@@ -2639,7 +2639,7 @@ SubItems:
   AltName: '[Air Elemental](srd_monsters_air_elemental.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: G
@@ -2667,7 +2667,7 @@ SubItems:
   AltName: '[Water Elemental](srd_monsters_water_elemental.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: G
@@ -2695,7 +2695,7 @@ SubItems:
   AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: G
@@ -2724,7 +2724,7 @@ SubItems:
   AltName: '[Earth Elemental](srd_monsters_earth_elemental.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -2750,7 +2750,7 @@ SubItems:
   AltName: '[Roper](srd_monsters_roper.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fée
   Size: TP
@@ -2776,7 +2776,7 @@ SubItems:
   AltName: '[Sprite](srd_monsters_sprite.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -2802,7 +2802,7 @@ SubItems:
   AltName: '[Ettercap](srd_monsters_ettercap.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Géant
   Size: G
@@ -2828,7 +2828,7 @@ SubItems:
   AltName: '[Ettin](srd_monsters_ettin.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -2856,7 +2856,7 @@ SubItems:
   AltName: '[Ghost](srd_monsters_ghost.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: TP
@@ -2884,7 +2884,7 @@ SubItems:
   AltName: "[Will-o'-Wisp](srd_monsters_will_o_wisp.md)"
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature artificielle
   Size: G
@@ -2911,7 +2911,7 @@ SubItems:
   AltName: '[Shield Guardian](srd_monsters_shield_guardian.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: M
@@ -2939,7 +2939,7 @@ SubItems:
   AltName: '[Gargoyle](srd_monsters_gargoyle.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Géant
   Size: TG
@@ -2965,7 +2965,7 @@ SubItems:
   AltName: '[Hill Giant](srd_monsters_hill_giant.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Géant
   Size: TG
@@ -2992,7 +2992,7 @@ SubItems:
   AltName: '[Cloud Giant](srd_monsters_cloud_giant.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Géant
   Size: TG
@@ -3019,7 +3019,7 @@ SubItems:
   AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Géant
   Size: TG
@@ -3048,7 +3048,7 @@ SubItems:
   AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Géant
   Size: TG
@@ -3076,7 +3076,7 @@ SubItems:
   AltName: '[Fire Giant](srd_monsters_fire_giant.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Géant
   Size: TG
@@ -3104,7 +3104,7 @@ SubItems:
   AltName: '[Frost Giant](srd_monsters_frost_giant.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: G
@@ -3131,7 +3131,7 @@ SubItems:
   AltName: '[Djinni](srd_monsters_djinni.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: G
@@ -3158,7 +3158,7 @@ SubItems:
   AltName: '[Efreeti](srd_monsters_efreeti.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gnoll)
   Size: M
@@ -3183,7 +3183,7 @@ SubItems:
   AltName: '[Gnoll](srd_monsters_gnoll.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gnoll)
   Size: M
@@ -3207,7 +3207,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gnome)
   Size: P
@@ -3233,7 +3233,7 @@ SubItems:
   AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: P
@@ -3259,7 +3259,7 @@ SubItems:
   AltName: '[Goblin](srd_monsters_goblin.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: P
@@ -3284,7 +3284,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: P
@@ -3310,7 +3310,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: P
@@ -3336,7 +3336,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: M
@@ -3362,7 +3362,7 @@ SubItems:
   AltName: '[Bugbear](srd_monsters_bugbear.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: M
@@ -3387,7 +3387,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature artificielle
   Size: G
@@ -3414,7 +3414,7 @@ SubItems:
   AltName: '[Clay Golem](srd_monsters_clay_golem.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature artificielle
   Size: M
@@ -3441,7 +3441,7 @@ SubItems:
   AltName: '[Flesh Golem](srd_monsters_flesh_golem.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature artificielle
   Size: G
@@ -3468,7 +3468,7 @@ SubItems:
   AltName: '[Iron Golem](srd_monsters_iron_golem.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature artificielle
   Size: G
@@ -3495,7 +3495,7 @@ SubItems:
   AltName: '[Stone Golem](srd_monsters_stone_golem.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -3522,7 +3522,7 @@ SubItems:
   AltName: '[Gorgon](srd_monsters_gorgon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -3549,7 +3549,7 @@ SubItems:
   AltName: '[Ghoul](srd_monsters_ghoul.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -3577,7 +3577,7 @@ SubItems:
   AltName: '[Ghast](srd_monsters_ghast.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -3603,7 +3603,7 @@ SubItems:
   AltName: '[Grick](srd_monsters_grick.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -3629,7 +3629,7 @@ SubItems:
   AltName: '[Griffon](srd_monsters_griffon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fée
   Size: M
@@ -3654,7 +3654,7 @@ SubItems:
   AltName: '[Sea Hag](srd_monsters_sea_hag.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon
   Size: M
@@ -3682,7 +3682,7 @@ SubItems:
   AltName: '[Night Hag](srd_monsters_night_hag.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fée
   Size: M
@@ -3708,7 +3708,7 @@ SubItems:
   AltName: '[Green Hag](srd_monsters_green_hag.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -3733,7 +3733,7 @@ SubItems:
   AltName: '[Harpy](srd_monsters_harpy.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -3759,7 +3759,7 @@ SubItems:
   AltName: '[Owlbear](srd_monsters_owlbear.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -3785,7 +3785,7 @@ SubItems:
   AltName: '[Hippogriff](srd_monsters_hippogriff.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: M
@@ -3810,7 +3810,7 @@ SubItems:
   AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (gobelinoïde)
   Size: M
@@ -3834,7 +3834,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (homme-lézard)
   Size: M
@@ -3860,7 +3860,7 @@ SubItems:
   AltName: '[Lizardfolk](srd_monsters_lizardfolk.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (homme-lézard)
   Size: M
@@ -3885,7 +3885,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (homme-poisson)
   Size: M
@@ -3911,7 +3911,7 @@ SubItems:
   AltName: '[Merfolk](srd_monsters_merfolk.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature artificielle
   Size: TP
@@ -3938,7 +3938,7 @@ SubItems:
   AltName: '[Homunculus](srd_monsters_homunculus.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: TG
@@ -3964,7 +3964,7 @@ SubItems:
   AltName: '[Hydra](srd_monsters_hydra.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (kobold)
   Size: P
@@ -3989,7 +3989,7 @@ SubItems:
   AltName: '[Kobold](srd_monsters_kobold.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (kobold)
   Size: P
@@ -4013,7 +4013,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse (titan)
   Size: Gig
@@ -4041,7 +4041,7 @@ SubItems:
   AltName: '[Kraken](srd_monsters_kraken.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4067,7 +4067,7 @@ SubItems:
   AltName: '[Lamia](srd_monsters_lamia.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4096,7 +4096,7 @@ SubItems:
   AltName: '[Lich](srd_monsters_lich.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Céleste
   Size: G
@@ -4123,7 +4123,7 @@ SubItems:
   AltName: '[Unicorn](srd_monsters_unicorn.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (humain, métamorphe)
   Size: M
@@ -4150,7 +4150,7 @@ SubItems:
   AltName: '[Werewolf](srd_monsters_werewolf.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (humain, métamorphe)
   Size: M
@@ -4177,7 +4177,7 @@ SubItems:
   AltName: '[Werebear](srd_monsters_werebear.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (humain, métamorphe)
   Size: M
@@ -4204,7 +4204,7 @@ SubItems:
   AltName: '[Wererat](srd_monsters_wererat.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (humain, métamorphe)
   Size: M
@@ -4231,7 +4231,7 @@ SubItems:
   AltName: '[Wereboar](srd_monsters_wereboar.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (humain, métamorphe)
   Size: M
@@ -4258,7 +4258,7 @@ SubItems:
   AltName: '[Weretiger](srd_monsters_weretiger.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: P
@@ -4285,7 +4285,7 @@ SubItems:
   AltName: '[Magmin](srd_monsters_magmin.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Aberration
   Size: G
@@ -4311,7 +4311,7 @@ SubItems:
   AltName: '[Cloaker](srd_monsters_cloaker.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: P
@@ -4337,7 +4337,7 @@ SubItems:
   AltName: '[Darkmantle](srd_monsters_darkmantle.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4362,7 +4362,7 @@ SubItems:
   AltName: '[Manticore](srd_monsters_manticore.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -4388,7 +4388,7 @@ SubItems:
   AltName: '[Medusa](srd_monsters_medusa.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: P
@@ -4417,7 +4417,7 @@ SubItems:
   AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: P
@@ -4446,7 +4446,7 @@ SubItems:
   AltName: '[Magma Mephit](srd_monsters_magma_mephit.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: P
@@ -4475,7 +4475,7 @@ SubItems:
   AltName: '[Dust Mephit](srd_monsters_dust_mephit.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: P
@@ -4502,7 +4502,7 @@ SubItems:
   AltName: '[Steam Mephit](srd_monsters_steam_mephit.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4527,7 +4527,7 @@ SubItems:
   AltName: '[Merrow](srd_monsters_merrow.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse (métamorphe)
   Size: M
@@ -4555,7 +4555,7 @@ SubItems:
   AltName: '[Mimic](srd_monsters_mimic.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4581,7 +4581,7 @@ SubItems:
   AltName: '[Minotaur](srd_monsters_minotaur.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon
   Size: M
@@ -4608,7 +4608,7 @@ SubItems:
   AltName: '[Hell Hound](srd_monsters_hell_hound.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4638,7 +4638,7 @@ SubItems:
   AltName: '[Mummy](srd_monsters_mummy.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4668,7 +4668,7 @@ SubItems:
   AltName: '[Mummy Lord](srd_monsters_mummy_lord.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4696,7 +4696,7 @@ SubItems:
   AltName: '[Spirit Naga](srd_monsters_spirit_naga.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -4724,7 +4724,7 @@ SubItems:
   AltName: '[Guardian Naga](srd_monsters_guardian_naga.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4753,7 +4753,7 @@ SubItems:
   AltName: '[Wight](srd_monsters_wight.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature artificielle
   Size: M
@@ -4780,7 +4780,7 @@ SubItems:
   AltName: '[Animated Armor](srd_monsters_animated_armor.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature artificielle
   Size: P
@@ -4808,7 +4808,7 @@ SubItems:
   AltName: '[Flying Sword](srd_monsters_flying_sword.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature artificielle
   Size: G
@@ -4835,7 +4835,7 @@ SubItems:
   AltName: '[Rug of Smothering](srd_monsters_rug_of_smothering.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Géant
   Size: G
@@ -4860,7 +4860,7 @@ SubItems:
   AltName: '[Ogre](srd_monsters_ogre.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -4890,7 +4890,7 @@ SubItems:
   AltName: '[Shadow](srd_monsters_shadow.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Géant
   Size: G
@@ -4917,7 +4917,7 @@ SubItems:
   AltName: '[Oni](srd_monsters_oni.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (orc)
   Size: M
@@ -4942,7 +4942,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (demi-orc)
   Size: M
@@ -4967,7 +4967,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Aberration
   Size: G
@@ -4993,7 +4993,7 @@ SubItems:
   AltName: '[Otyugh](srd_monsters_otyugh.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -5018,7 +5018,7 @@ SubItems:
   AltName: '[Rust Monster](srd_monsters_rust_monster.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Aberration
   Size: TP
@@ -5045,7 +5045,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Céleste
   Size: G
@@ -5072,7 +5072,7 @@ SubItems:
   AltName: '[Pegasus](srd_monsters_pegasus.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: TP
@@ -5098,7 +5098,7 @@ SubItems:
   AltName: '[Pseudodragon](srd_monsters_pseudodragon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon
   Size: M
@@ -5126,7 +5126,7 @@ SubItems:
   AltName: '[Rakshasa](srd_monsters_rakshasa.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: TG
@@ -5151,7 +5151,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: Gig
@@ -5178,7 +5178,7 @@ SubItems:
   AltName: '[Roc](srd_monsters_roc.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (sahuagin)
   Size: M
@@ -5204,7 +5204,7 @@ SubItems:
   AltName: '[Sahuagin](srd_monsters_sahuagin.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (sahuagin)
   Size: M
@@ -5229,7 +5229,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: G
@@ -5257,7 +5257,7 @@ SubItems:
   AltName: '[Salamander](srd_monsters_salamander.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fée
   Size: M
@@ -5283,7 +5283,7 @@ SubItems:
   AltName: '[Satyr](srd_monsters_satyr.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Plante
   Size: TG
@@ -5310,7 +5310,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: Gig
@@ -5335,7 +5335,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -5363,7 +5363,7 @@ SubItems:
   AltName: '[Specter](srd_monsters_specter.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -5392,7 +5392,7 @@ SubItems:
   AltName: '[Androsphinx](srd_monsters_androsphinx.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -5421,7 +5421,7 @@ SubItems:
   AltName: '[Gynosphinx](srd_monsters_gynosphinx.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -5449,7 +5449,7 @@ SubItems:
   AltName: '[Skeleton](srd_monsters_skeleton.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: G
@@ -5477,7 +5477,7 @@ SubItems:
   AltName: '[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: G
@@ -5505,7 +5505,7 @@ SubItems:
   AltName: '[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -5530,7 +5530,7 @@ SubItems:
   AltName: '[Stirge](srd_monsters_stirge.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fiélon (métamorphe)
   Size: M
@@ -5557,7 +5557,7 @@ SubItems:
   AltName: '[Succubus](srd_monsters_succubus.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Plante
   Size: TG
@@ -5584,7 +5584,7 @@ SubItems:
   AltName: '[Treant](srd_monsters_treant.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse (titan)
   Size: Gig
@@ -5612,7 +5612,7 @@ SubItems:
   AltName: '[Tarrasque](srd_monsters_tarrasque.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -5638,7 +5638,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -5664,7 +5664,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Plante
   Size: G
@@ -5693,7 +5693,7 @@ SubItems:
   AltName: '[Shambling Mound](srd_monsters_shambling_mound.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (torve)
   Size: M
@@ -5720,7 +5720,7 @@ SubItems:
   AltName: '[Grimlock](srd_monsters_grimlock.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: M
@@ -5748,7 +5748,7 @@ SubItems:
   AltName: '[Invisible Stalker](srd_monsters_invisible_stalker.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Géant
   Size: G
@@ -5774,7 +5774,7 @@ SubItems:
   AltName: '[Troll](srd_monsters_troll.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant (métamorphe)
   Size: M
@@ -5802,7 +5802,7 @@ SubItems:
   AltName: '[Vampire](srd_monsters_vampire.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -5830,7 +5830,7 @@ SubItems:
   AltName: '[Vampire Spawn](srd_monsters_vampire_spawn.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Vase
   Size: G
@@ -5856,7 +5856,7 @@ SubItems:
   AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Vase
   Size: G
@@ -5884,7 +5884,7 @@ SubItems:
   AltName: '[Ochre Jelly](srd_monsters_ochre_jelly.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Vase
   Size: G
@@ -5911,7 +5911,7 @@ SubItems:
   AltName: '[Black Pudding](srd_monsters_black_pudding.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Vase
   Size: M
@@ -5939,7 +5939,7 @@ SubItems:
   AltName: '[Gray Ooze](srd_monsters_gray_ooze.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: Gig
@@ -5965,7 +5965,7 @@ SubItems:
   AltName: '[Purple Worm](srd_monsters_purple_worm.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Dragon
   Size: G
@@ -5991,7 +5991,7 @@ SubItems:
   AltName: '[Wyvern](srd_monsters_wyvern.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Élémentaire
   Size: M
@@ -6018,7 +6018,7 @@ SubItems:
   AltName: '[Xorn](srd_monsters_xorn.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: M
@@ -6046,7 +6046,7 @@ SubItems:
   AltName: '[Zombie](srd_monsters_zombie.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Mort-vivant
   Size: G
@@ -6074,7 +6074,7 @@ SubItems:
   AltName: '[Ogre Zombie](srd_monsters_ogre_zombie.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: P
@@ -6100,7 +6100,7 @@ SubItems:
   AltName: '[Eagle](srd_monsters_eagle.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6126,7 +6126,7 @@ SubItems:
   AltName: '[Giant Eagle](srd_monsters_giant_eagle.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -6152,7 +6152,7 @@ SubItems:
   AltName: '[Spider](srd_monsters_spider.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6178,7 +6178,7 @@ SubItems:
   AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6204,7 +6204,7 @@ SubItems:
   AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -6230,7 +6230,7 @@ SubItems:
   AltName: '[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Plante
   Size: TG
@@ -6257,7 +6257,7 @@ SubItems:
   AltName: '[Awakened Tree](srd_monsters_awakened_tree.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Plante
   Size: P
@@ -6284,7 +6284,7 @@ SubItems:
   AltName: '[Awakened Shrub](srd_monsters_awakened_shrub.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: P
@@ -6309,7 +6309,7 @@ SubItems:
   AltName: '[Baboon](srd_monsters_baboon.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6334,7 +6334,7 @@ SubItems:
   AltName: '[Axe Beak](srd_monsters_axe_beak.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -6360,7 +6360,7 @@ SubItems:
   AltName: '[Weasel](srd_monsters_weasel.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -6386,7 +6386,7 @@ SubItems:
   AltName: '[Giant Weasel](srd_monsters_giant_weasel.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -6411,7 +6411,7 @@ SubItems:
   AltName: '[Badger](srd_monsters_badger.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -6436,7 +6436,7 @@ SubItems:
   AltName: '[Giant Badger](srd_monsters_giant_badger.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: P
@@ -6462,7 +6462,7 @@ SubItems:
   AltName: '[Jackal](srd_monsters_jackal.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6487,7 +6487,7 @@ SubItems:
   AltName: '[Camel](srd_monsters_camel.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -6513,7 +6513,7 @@ SubItems:
   AltName: '[Cat](srd_monsters_cat.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -6538,7 +6538,7 @@ SubItems:
   AltName: '[Bat](srd_monsters_bat.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6563,7 +6563,7 @@ SubItems:
   AltName: '[Giant Bat](srd_monsters_giant_bat.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6588,7 +6588,7 @@ SubItems:
   AltName: '[Warhorse](srd_monsters_warhorse.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6617,7 +6617,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6641,7 +6641,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6666,7 +6666,7 @@ SubItems:
   AltName: '[Riding Horse](srd_monsters_riding_horse.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6691,7 +6691,7 @@ SubItems:
   AltName: '[Draft Horse](srd_monsters_draft_horse.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -6716,7 +6716,7 @@ SubItems:
   AltName: '[Goat](srd_monsters_goat.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6741,7 +6741,7 @@ SubItems:
   AltName: '[Giant Goat](srd_monsters_giant_goat.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -6766,7 +6766,7 @@ SubItems:
   AltName: '[Deer](srd_monsters_deer.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: M
@@ -6792,7 +6792,7 @@ SubItems:
   AltName: '[Death Dog](srd_monsters_death_dog.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Fée
   Size: M
@@ -6818,7 +6818,7 @@ SubItems:
   AltName: '[Blink Dog](srd_monsters_blink_dog.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -6844,7 +6844,7 @@ SubItems:
   AltName: '[Owl](srd_monsters_owl.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6870,7 +6870,7 @@ SubItems:
   AltName: '[Giant Owl](srd_monsters_giant_owl.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -6896,7 +6896,7 @@ SubItems:
   AltName: '[Raven](srd_monsters_raven.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -6922,7 +6922,7 @@ SubItems:
   AltName: '[Crab](srd_monsters_crab.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -6948,7 +6948,7 @@ SubItems:
   AltName: '[Giant Crab](srd_monsters_giant_crab.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6973,7 +6973,7 @@ SubItems:
   AltName: '[Giant Toad](srd_monsters_giant_toad.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -6999,7 +6999,7 @@ SubItems:
   AltName: '[Crocodile](srd_monsters_crocodile.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TG
@@ -7025,7 +7025,7 @@ SubItems:
   AltName: '[Giant Crocodile](srd_monsters_giant_crocodile.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -7050,7 +7050,7 @@ SubItems:
   AltName: '[Elk](srd_monsters_elk.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TG
@@ -7076,7 +7076,7 @@ SubItems:
   AltName: '[Giant Elk](srd_monsters_giant_elk.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TG
@@ -7101,7 +7101,7 @@ SubItems:
   AltName: '[Elephant](srd_monsters_elephant.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TG
@@ -7127,7 +7127,7 @@ SubItems:
   AltName: '[Killer Whale](srd_monsters_killer_whale.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -7153,7 +7153,7 @@ SubItems:
   AltName: '[Hawk](srd_monsters_hawk.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: P
@@ -7179,7 +7179,7 @@ SubItems:
   AltName: '[Blood Hawk](srd_monsters_blood_hawk.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -7205,7 +7205,7 @@ SubItems:
   AltName: '[Ape](srd_monsters_ape.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -7231,7 +7231,7 @@ SubItems:
   AltName: '[Frog](srd_monsters_frog.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -7257,7 +7257,7 @@ SubItems:
   AltName: '[Giant Frog](srd_monsters_giant_frog.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -7282,7 +7282,7 @@ SubItems:
   AltName: '[Giant Wasp](srd_monsters_giant_wasp.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: P
@@ -7307,7 +7307,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -7332,7 +7332,7 @@ SubItems:
   NameLevel: 1
   Source: (CEO p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -7357,7 +7357,7 @@ SubItems:
   AltName: '[Sea Horse](srd_monsters_sea_horse.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -7382,7 +7382,7 @@ SubItems:
   AltName: '[Giant Sea Horse](srd_monsters_giant_sea_horse.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -7408,7 +7408,7 @@ SubItems:
   AltName: '[Hyena](srd_monsters_hyena.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -7434,7 +7434,7 @@ SubItems:
   AltName: '[Giant Hyena](srd_monsters_giant_hyena.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -7459,7 +7459,7 @@ SubItems:
   AltName: '[Lizard](srd_monsters_lizard.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -7484,7 +7484,7 @@ SubItems:
   AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -7510,7 +7510,7 @@ SubItems:
   AltName: '[Lion](srd_monsters_lion.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -7536,7 +7536,7 @@ SubItems:
   AltName: '[Wolf](srd_monsters_wolf.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -7563,7 +7563,7 @@ SubItems:
   AltName: '[Winter Wolf](srd_monsters_winter_wolf.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -7589,7 +7589,7 @@ SubItems:
   AltName: '[Dire Wolf](srd_monsters_dire_wolf.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TG
@@ -7614,7 +7614,7 @@ SubItems:
   AltName: '[Mammoth](srd_monsters_mammoth.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -7640,7 +7640,7 @@ SubItems:
   AltName: '[Mastiff](srd_monsters_mastiff.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: P
@@ -7665,7 +7665,7 @@ SubItems:
   AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -7690,7 +7690,7 @@ SubItems:
   AltName: '[Mule](srd_monsters_mule.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -7717,7 +7717,7 @@ SubItems:
   AltName: '[Swarm of Bats](srd_monsters_swarm_of_bats.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -7745,7 +7745,7 @@ SubItems:
   AltName: '[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -7772,7 +7772,7 @@ SubItems:
   AltName: '[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -7799,7 +7799,7 @@ SubItems:
   AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -7826,7 +7826,7 @@ SubItems:
   AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Nuée
   Size: M composée de bêtes de taille TP
@@ -7853,7 +7853,7 @@ SubItems:
   AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -7879,7 +7879,7 @@ SubItems:
   AltName: '[Brown Bear](srd_monsters_brown_bear.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -7905,7 +7905,7 @@ SubItems:
   AltName: '[Black Bear](srd_monsters_black_bear.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -7931,7 +7931,7 @@ SubItems:
   AltName: '[Polar Bear](srd_monsters_polar_bear.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -7957,7 +7957,7 @@ SubItems:
   AltName: '[Panther](srd_monsters_panther.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: P
@@ -7983,7 +7983,7 @@ SubItems:
   AltName: '[Octopus](srd_monsters_octopus.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -8009,7 +8009,7 @@ SubItems:
   AltName: '[Giant Octopus](srd_monsters_giant_octopus.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -8034,7 +8034,7 @@ SubItems:
   AltName: '[Quipper](srd_monsters_quipper.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -8059,7 +8059,7 @@ SubItems:
   AltName: '[Pony](srd_monsters_pony.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: P
@@ -8084,7 +8084,7 @@ SubItems:
   AltName: '[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -8109,7 +8109,7 @@ SubItems:
   AltName: '[Rat](srd_monsters_rat.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: P
@@ -8134,7 +8134,7 @@ SubItems:
   AltName: '[Giant Rat](srd_monsters_giant_rat.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -8160,7 +8160,7 @@ SubItems:
   AltName: '[Hunter Shark](srd_monsters_hunter_shark.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -8186,7 +8186,7 @@ SubItems:
   AltName: '[Reef Shark](srd_monsters_reef_shark.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TG
@@ -8212,7 +8212,7 @@ SubItems:
   AltName: '[Giant Shark](srd_monsters_giant_shark.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -8237,7 +8237,7 @@ SubItems:
   AltName: '[Rhinoceros](srd_monsters_rhinoceros.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -8262,7 +8262,7 @@ SubItems:
   AltName: '[Boar](srd_monsters_boar.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -8287,7 +8287,7 @@ SubItems:
   AltName: '[Giant Boar](srd_monsters_giant_boar.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -8312,7 +8312,7 @@ SubItems:
   AltName: '[Scorpion](srd_monsters_scorpion.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -8337,7 +8337,7 @@ SubItems:
   AltName: '[Giant Scorpion](srd_monsters_giant_scorpion.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -8362,7 +8362,7 @@ SubItems:
   AltName: '[Constrictor Snake](srd_monsters_constrictor_snake.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TG
@@ -8388,7 +8388,7 @@ SubItems:
   AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -8413,7 +8413,7 @@ SubItems:
   AltName: '[Poisonous Snake](srd_monsters_poisonous_snake.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -8439,7 +8439,7 @@ SubItems:
   AltName: '[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TP
@@ -8464,7 +8464,7 @@ SubItems:
   AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: TG
@@ -8490,7 +8490,7 @@ SubItems:
   AltName: '[Giant Ape](srd_monsters_giant_ape.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -8516,7 +8516,7 @@ SubItems:
   AltName: '[Tiger](srd_monsters_tiger.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -8542,7 +8542,7 @@ SubItems:
   AltName: '[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: M
@@ -8568,7 +8568,7 @@ SubItems:
   AltName: '[Vulture](srd_monsters_vulture.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Bête
   Size: G
@@ -8594,7 +8594,7 @@ SubItems:
   AltName: '[Giant Vulture](srd_monsters_giant_vulture.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Créature monstrueuse
   Size: G
@@ -8620,7 +8620,7 @@ SubItems:
   AltName: '[Worg](srd_monsters_worg.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8646,7 +8646,7 @@ SubItems:
   AltName: '[Acolyte](srd_monsters_acolyte.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8674,7 +8674,7 @@ SubItems:
   AltName: '[Archmage](srd_monsters_archmage.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8702,7 +8702,7 @@ SubItems:
   AltName: '[Assassin](srd_monsters_assassin.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8727,7 +8727,7 @@ SubItems:
   AltName: '[Bandit](srd_monsters_bandit.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8752,7 +8752,7 @@ SubItems:
   AltName: '[Berserker](srd_monsters_berserker.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8779,7 +8779,7 @@ SubItems:
   AltName: '[Bandit Captain](srd_monsters_bandit_captain.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8805,7 +8805,7 @@ SubItems:
   AltName: '[Knight](srd_monsters_knight.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8831,7 +8831,7 @@ SubItems:
   AltName: '[Druid](srd_monsters_druid.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8857,7 +8857,7 @@ SubItems:
   AltName: '[Priest](srd_monsters_priest.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8883,7 +8883,7 @@ SubItems:
   AltName: '[Scout](srd_monsters_scout.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8909,7 +8909,7 @@ SubItems:
   AltName: '[Spy](srd_monsters_spy.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8935,7 +8935,7 @@ SubItems:
   AltName: '[Cult Fanatic](srd_monsters_cult_fanatic.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8961,7 +8961,7 @@ SubItems:
   AltName: '[Guard](srd_monsters_guard.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -8988,7 +8988,7 @@ SubItems:
   AltName: '[Gladiator](srd_monsters_gladiator.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -9013,7 +9013,7 @@ SubItems:
   AltName: '[Tribal Warrior](srd_monsters_tribal_warrior.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -9040,7 +9040,7 @@ SubItems:
   AltName: '[Mage](srd_monsters_mage.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -9066,7 +9066,7 @@ SubItems:
   AltName: '[Thug](srd_monsters_thug.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -9092,7 +9092,7 @@ SubItems:
   AltName: '[Cultist](srd_monsters_cultist.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -9118,7 +9118,7 @@ SubItems:
   AltName: '[Noble](srd_monsters_noble.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M
@@ -9143,7 +9143,7 @@ SubItems:
   AltName: '[Commoner](srd_monsters_commoner.md)'
   Source: (CEO p)(SRD p)
   Attributes: {}
-- !Monster
+- !MonsterItem
   Family: MonsterHD
   Type: Humanoïde (n'importe quelle race)
   Size: M

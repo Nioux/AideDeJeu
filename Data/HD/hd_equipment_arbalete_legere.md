@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Arme à distance
 Price: 25 po
 Weight: 2,5 kg

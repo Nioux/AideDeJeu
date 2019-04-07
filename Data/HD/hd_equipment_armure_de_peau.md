@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Armure intermédiaire
 Price: 10 po
 ArmorClass: 12 + modifcateur de Dex (max 2)

@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Outil
 Price: 25 po
 Weight: 1 kg

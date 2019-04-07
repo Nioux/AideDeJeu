@@ -5,7 +5,7 @@ using System.Text;
 
 namespace AideDeJeuLib
 {
-    public class Monsters : FilteredItems
+    public class MonsterItems : FilteredItems
     {
         public string Types { get; set; }
         public string Challenges { get; set; }

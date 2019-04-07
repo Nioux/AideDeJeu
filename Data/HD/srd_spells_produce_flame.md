@@ -1,5 +1,5 @@
 ﻿---
-!Spell
+!SpellItem
 Family: SpellVO
 Level: cantrip
 Type: Conjuration

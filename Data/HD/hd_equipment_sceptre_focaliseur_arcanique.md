@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurier / Focaliseur arcanique
 Price: 10 po
 Weight: 1 kg

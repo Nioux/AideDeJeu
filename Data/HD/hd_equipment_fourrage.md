@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement, sellerie et véhicules à traction
 Price: 5 pc
 Weight: 5 kg

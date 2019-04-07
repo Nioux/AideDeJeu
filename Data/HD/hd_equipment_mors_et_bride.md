@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement, sellerie et véhicules à traction
 Price: 2 po
 Weight: 0,5 kg

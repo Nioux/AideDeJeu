@@ -1,5 +1,5 @@
 ﻿---
-!Monster
+!MonsterItem
 Family: MonsterVO
 Type: dragon
 Size: Gargantuan

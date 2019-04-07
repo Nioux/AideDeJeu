@@ -1,5 +1,5 @@
 ﻿---
-!Spell
+!SpellItem
 Family: SpellHD
 Level: tour de magie
 Type: Nécromancie

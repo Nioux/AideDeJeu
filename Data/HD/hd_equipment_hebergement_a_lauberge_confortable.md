@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Nourriture, boisson et logement
 Price: 8 pa
 Unity: par jour

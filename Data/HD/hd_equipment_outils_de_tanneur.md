@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Outil d'artisan
 Price: 5 po
 Weight: 2,5 kg

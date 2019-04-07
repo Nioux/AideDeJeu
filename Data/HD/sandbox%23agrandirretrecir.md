@@ -1,5 +1,5 @@
 ﻿---
-!Spell
+!SpellItem
 Level: 2
 Type: Transmutation
 CastingTime: 1 action

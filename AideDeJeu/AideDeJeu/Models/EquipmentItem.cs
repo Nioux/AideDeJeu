@@ -1,6 +1,6 @@
 ﻿namespace AideDeJeuLib
 {
-    public class Equipment : Item
+    public class EquipmentItem : Item
     {
         public string Type { get; set; }
         public string Price { get; set; }

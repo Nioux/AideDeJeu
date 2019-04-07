@@ -105,7 +105,7 @@ namespace AideDeJeuLib.Cards
             return contents.ToArray();
         }
 
-        public static CardData ToBaseCardData(Spell spell)
+        public static CardData ToBaseCardData(SpellItem spell)
         {
             //string color = context["color"];
             //string backgroundImage = context["background_image"];
@@ -125,7 +125,7 @@ namespace AideDeJeuLib.Cards
             //};
             return cardData;
         }
-        public static CardData[] ToCardDatas(Spell spell)
+        public static CardData[] ToCardDatas(SpellItem spell)
         {
             var cardDatas = new List<CardData>();
             var cardData = ToBaseCardData(spell);

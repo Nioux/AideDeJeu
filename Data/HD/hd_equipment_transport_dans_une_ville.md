@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Service
 Price: 1 pc
 Id: equipment_hd.md#transport-dans-une-ville

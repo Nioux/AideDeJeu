@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Bouclier
 Price: 10 po
 ArmorClass: +2

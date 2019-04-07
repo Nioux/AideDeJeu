@@ -41,7 +41,7 @@ namespace AideDeJeuCmd
         //    }
         //}
 
-        static async Task<IEnumerable<Monster>> TestMarkdownMonsters(string filename)
+        static async Task<IEnumerable<MonsterItem>> TestMarkdownMonsters(string filename)
         {
             using (var sr = new StreamReader(filename))
             {
@@ -52,7 +52,7 @@ namespace AideDeJeuCmd
                     .Build();
                 //var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
                 //DumpMarkdownDocument(document);
-                var monsters = DependencyService.Get<StoreViewModel>().ToItem(filename, md, null) as IEnumerable<Monster>; // document.ToMonsters<MonsterHD>();
+                var monsters = DependencyService.Get<StoreViewModel>().ToItem(filename, md, null) as IEnumerable<MonsterItem>; // document.ToMonsters<MonsterHD>();
                 //document.Dump();
                 Console.WriteLine("ok");
                 //var md2 = monsters.ToMarkdownString();
@@ -70,7 +70,7 @@ namespace AideDeJeuCmd
 
             var result = string.Empty;
             var md = await LoadStringAsync(dataDir + "spells_hd.md");
-            var items = DependencyService.Get<StoreViewModel>().ToItem("spells_hd", md, null) as IEnumerable<Spell>;
+            var items = DependencyService.Get<StoreViewModel>().ToItem("spells_hd", md, null) as IEnumerable<SpellItem>;
 
             var classes = new string[]
             {
@@ -439,7 +439,7 @@ namespace AideDeJeuCmd
                 foreach (var item in await context.Items.ToListAsync())
                 {
                     //await item.LoadFilteredItemsAsync();
-                    if(item is Spells)
+                    if(item is SpellItems)
                     {
                         int iii = 1;
                     }

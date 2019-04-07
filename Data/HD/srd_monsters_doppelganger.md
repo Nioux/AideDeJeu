@@ -1,5 +1,5 @@
 ﻿---
-!Monster
+!MonsterItem
 Family: MonsterVO
 Type: monstrosity (shapechanger)
 Size: Medium

@@ -1,5 +1,5 @@
 ﻿---
-!Monster
+!MonsterItem
 Family: MonsterVO
 Type: humanoid (sahuagin)
 Size: Medium

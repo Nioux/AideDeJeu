@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Armure lourde
 Price: 1 500 po
 ArmorClass: 18

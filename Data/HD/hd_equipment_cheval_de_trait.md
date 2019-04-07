@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Monture
 Price: 50 po
 WeightCapacity: 270 kg

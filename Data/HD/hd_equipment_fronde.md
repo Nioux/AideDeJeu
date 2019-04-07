@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Arme à distance
 Price: 1 pa
 Weight: _

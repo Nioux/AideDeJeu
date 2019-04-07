@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurier / Symbole sacré
 Price: 5 po
 Weight: 1 kg

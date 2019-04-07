@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Service
 Price: 2 pc
 Unity: par kilomètre

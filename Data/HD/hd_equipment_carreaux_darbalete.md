@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurier / Munitions
 Price: 1 po
 Weight: 0,75 kg

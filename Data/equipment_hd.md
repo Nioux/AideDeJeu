@@ -1,5 +1,5 @@
 
-<!--Equipments Types="Armure|Armure légère|Armure intermédiaire|Armure lourde|Bouclier|Arme|Arme de corps-à-corps|Arme à distance|Équipement d'aventurier|Focaliseur arcanique|Focaliseur druidique|Munitions|Symbole sacré|Vêtements|Outil|Instrument de musique|Jeu|Outil d'artisan|Monture|Équipement, sellerie et véhicules à traction|Bateau|Marchandise|Service|Nourriture, boisson et logement" Prices="0 pc|1 pc|1 pa|1 po|10 po|100 po|1 000 po|10 000 po|100 000 po|1 000 000 po"-->
+<!--EquipmentItems Types="Armure|Armure légère|Armure intermédiaire|Armure lourde|Bouclier|Arme|Arme de corps-à-corps|Arme à distance|Équipement d'aventurier|Focaliseur arcanique|Focaliseur druidique|Munitions|Symbole sacré|Vêtements|Outil|Instrument de musique|Jeu|Outil d'artisan|Monture|Équipement, sellerie et véhicules à traction|Bateau|Marchandise|Service|Nourriture, boisson et logement" Prices="0 pc|1 pc|1 pa|1 po|10 po|100 po|1 000 po|10 000 po|100 000 po|1 000 000 po"-->
 
 > <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
 
@@ -7,7 +7,7 @@
 
 # <!--Name-->Équipement<!--/Name-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Armure matelassée<!--/Name-->
 
@@ -19,9 +19,9 @@
 
 Une armure matelassée est faite de couches de tissu rembourrées.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Armure de cuir<!--/Name-->
 
@@ -32,9 +32,9 @@ Une armure matelassée est faite de couches de tissu rembourrées.
 
 La cuirasse et les spalières de cette armure sont en cuir bouilli dans l'huile pour le durcir. Le reste de l'armure est composé de matériaux plus souples et plus flexibles.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Armure de cuir clouté<!--/Name-->
 
@@ -45,9 +45,9 @@ La cuirasse et les spalières de cette armure sont en cuir bouilli dans l'huile 
 
 Cette armure est faite d'un cuir résistant mais souple, piqueté de rivets à intervalles réguliers.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Armure de peau<!--/Name-->
 
@@ -58,9 +58,9 @@ Cette armure est faite d'un cuir résistant mais souple, piqueté de rivets à i
 
 Cette armure fruste est composée d'épaisses fourrures et de peaux de bêtes. Elle est généralement portée par les tribus barbares, les humanoïdes maléfques et autres personnes qui n'ont pas accès aux outils et matériaux nécessaires pour fabriquer de meilleures armures
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Chemise de mailles<!--/Name-->
 
@@ -71,9 +71,9 @@ Cette armure fruste est composée d'épaisses fourrures et de peaux de bêtes. E
 
 Une chemise de mailles est faite d'anneaux métalliques reliés entre eux. Elle est portée entre plusieurs couches de tissu ou de cuir. Cette armure offre une modeste protection au tronc de son porteur et le crissement des anneaux est étouffé par les couches qui les recouvrent.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Armure d'écailles<!--/Name-->
 
@@ -85,9 +85,9 @@ Une chemise de mailles est faite d'anneaux métalliques reliés entre eux. Elle 
 
 Cette armure se compose d'un manteau et d'un pantalon (et parfois d'une jupe séparée) de cuir recouverts de plaques de métal qui se superposent, un peu comme les écailles d'un poisson. Des gantelets viennent compléter l'ensemble.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cuirasse<!--/Name-->
 
@@ -98,9 +98,9 @@ Cette armure se compose d'un manteau et d'un pantalon (et parfois d'une jupe sé
 
 Cette armure consiste en une pièce de métal qui couvre le buste, complétée de cuir souple. Bien que les bras et les jambes de son porteur soient peu protégés, cette armure permet de protéger efficacement les organes vitaux sans réduire la liberté de mouvement de son porteur.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Armure de demi-plate<!--/Name-->
 
@@ -112,9 +112,9 @@ Cette armure consiste en une pièce de métal qui couvre le buste, complétée d
 
 Cette armure se compose de plaques de métal qui couvrent la majorité du haut du corps de son porteur. Par contre, ses jambes sont seulement protégées par des grèves attachées par des lanières de cuir.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Armure annelée (Broigne)<!--/Name-->
 
@@ -126,9 +126,9 @@ Cette armure se compose de plaques de métal qui couvrent la majorité du haut d
 
 Il s'agit d'une armure de cuir sur laquelle sont cousus de lourds anneaux. Ces anneaux permettent de renforcer l'armure et d'offrir une protection contre les coups d'épée et de hache. Une broigne est de qualité inférieure à une cotte de mailles et est généralement portée par ceux qui n'ont pas les moyens de s'offrir une meilleure armure.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cotte de mailles<!--/Name-->
 
@@ -141,9 +141,9 @@ Il s'agit d'une armure de cuir sur laquelle sont cousus de lourds anneaux. Ces a
 
 Une cotte de mailles est faite d'anneaux de métal entrecroisés. Elle se porte sur une couche de tissu renforcé afn d'éviter les frottements et d'amortir les coups. L'armure comporte des gantelets.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Clibanion<!--/Name-->
 
@@ -156,9 +156,9 @@ Une cotte de mailles est faite d'anneaux de métal entrecroisés. Elle se porte 
 
 Cette armure est faite d'étroites plaques de métal rivetées à un support de cuir porté sur un vêtement rembourré. Les articulations sont protégées par des pièces de cotte de mailles plus souples.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Harnois<!--/Name-->
 
@@ -171,9 +171,9 @@ Cette armure est faite d'étroites plaques de métal rivetées à un support de 
 
 Le harnois, ou armure de plates, est constitué de plaques de métal superposées qui couvrent l'ensemble du corps. L'armure inclut des gantelets lourds, de lourdes bottes de cuir, un casque avec une visière et plusieurs épaisseurs de rembourrage sous l'armure. Des sangles permettent de répartir le poids sur tout le corps.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Bouclier<!--/Name-->
 
@@ -186,9 +186,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Bâton<!--/Name-->
 
@@ -199,9 +199,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->2 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Polyvalente] (1d8)<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Dague<!--/Name-->
 
@@ -212,9 +212,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Finesse], [légère], [lancer] (portée 6/18)<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Gourdin<!--/Name-->
 
@@ -225,9 +225,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Légère]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Hachette<!--/Name-->
 
@@ -238,9 +238,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Légère], [lancer] (portée 6/18)<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Javeline<!--/Name-->
 
@@ -251,9 +251,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Lancer] (portée 9/36)<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Lance<!--/Name-->
 
@@ -264,9 +264,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Lancer] (portée 6/18), [polyvalente] (1d8)<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Marteau léger<!--/Name-->
 
@@ -277,9 +277,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Légère], [lancer] (6/18)<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Masse d'armes<!--/Name-->
 
@@ -290,9 +290,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->2 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->_<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Massue<!--/Name-->
 
@@ -303,9 +303,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->5 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[À deux mains]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Serpe<!--/Name-->
 
@@ -317,9 +317,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Propriétés** <!--Properties-->[Légère]<!--/Properties-->
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Arbalète légère<!--/Name-->
 
@@ -330,9 +330,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Munitions] (portée 24/96), [chargement], [à deux mains]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Arc court<!--/Name-->
 
@@ -343,9 +343,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Munitions] (portée 24/96), [à deux mains]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Fléchette<!--/Name-->
 
@@ -356,9 +356,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->0,1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Finesse], [lancer] (portée 6/18)<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Fronde<!--/Name-->
 
@@ -370,9 +370,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Propriétés** <!--Properties-->[Munitions] (portée 9/36)<!--/Properties-->
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cimeterre<!--/Name-->
 
@@ -383,9 +383,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Finesse], [légère]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Coutille<!--/Name-->
 
@@ -396,9 +396,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->3 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Lourde], [allonge], [à deux mains]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Épée à deux mains<!--/Name-->
 
@@ -409,9 +409,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->3 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Lourde], [à deux mains]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Épée courte<!--/Name-->
 
@@ -422,9 +422,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Finesse], [légère]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Épée longue<!--/Name-->
 
@@ -435,9 +435,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Polyvalente] (1d10)<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Fléau<!--/Name-->
 
@@ -448,9 +448,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->_<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Fouet<!--/Name-->
 
@@ -461,9 +461,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Finesse], [allonge]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Hache à deux mains<!--/Name-->
 
@@ -474,9 +474,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->3,5 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Lourde], [à deux mains]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Hache d'armes<!--/Name-->
 
@@ -487,9 +487,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->2 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Polyvalente] (1d10)<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Hallebarde<!--/Name-->
 
@@ -500,9 +500,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** <!--Weight-->3 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Lourde], [allonge], [à deux mains]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Lance d'arçon<!--/Name-->
 
@@ -515,9 +515,9 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 
 Vous subissez un désavantage si vous utilisez une lance d'arçon contre une créature qui se trouve dans un rayon de 1,50 mètre autour de vous ou moins. Cette arme se manie à deux mains quand vous n'êtes pas sur une monture.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Pic de guerre<!--/Name-->
 
@@ -528,9 +528,9 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->_<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Marteau de guerre<!--/Name-->
 
@@ -541,9 +541,9 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Polyvalente] (1d10)<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Merlin<!--/Name-->
 
@@ -554,9 +554,9 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Poids** <!--Weight-->5 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Lourde], [à deux mains]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Morgenstern<!--/Name-->
 
@@ -567,9 +567,9 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Poids** <!--Weight-->2 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->_<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Pique<!--/Name-->
 
@@ -580,9 +580,9 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Poids** <!--Weight-->9 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Lourde], [allonge], [à deux mains]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Rapière<!--/Name-->
 
@@ -593,9 +593,9 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Finesse]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Trident<!--/Name-->
 
@@ -607,9 +607,9 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Propriétés** <!--Properties-->[Lancer] (portée 6/18), [polyvalente] (1d8)<!--/Properties-->
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Arbalète de poing<!--/Name-->
 
@@ -620,9 +620,9 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Munitions] (portée 9/36), [légère], [chargement]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Arbalète lourde<!--/Name-->
 
@@ -633,9 +633,9 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Poids** <!--Weight-->9 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Munitions] (portée 30/120), [lourde], [chargement], [à deux mains]<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Arc long<!--/Name-->
 
@@ -646,9 +646,9 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Propriétés** <!--Properties-->[Munitions] (portée 45/180), [lourde], [à deux mains].<!--/Properties-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Filet<!--/Name-->
 
@@ -663,9 +663,9 @@ Une créature de taille G ou moins contre qui vous réussissez une attaque avec 
 
 Quand vous utilisez une action, une action bonus ou une réaction pour attaquer à l'aide d'un filet, vous ne pouvez faire qu'une seule attaque, peu importe le nombre d'attaques que vous pouvez normalement faire.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Sarbacane<!--/Name-->
 
@@ -678,9 +678,9 @@ Quand vous utilisez une action, une action bonus ou une réaction pour attaquer 
 
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Acide<!--/Name-->
 
@@ -691,9 +691,9 @@ Quand vous utilisez une action, une action bonus ou une réaction pour attaquer 
 
 Vous pouvez utiliser une action pour asperger une créature qui se trouve dans un rayon de 1,50 mètre autour de vous avec le contenu de cette fiole ou bien la lancer jusqu'à une distance de 6 mètres. La fiole se brise à l'impact. Dans les deux cas, il s'agit d'une attaque à distance contre une créature, et l'acide doit être considéré comme une arme improvisée. Si vous touchez votre cible, celle-ci reçoit 2d6 dégâts acides.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Antitoxine<!--/Name-->
 
@@ -704,9 +704,9 @@ Vous pouvez utiliser une action pour asperger une créature qui se trouve dans u
 
 Une créature qui boit cette fiole de liquide obtient un avantage sur les jets de sauvegarde contre le poison pendant 1 heure. Cet objet n'a aucun effet sur les morts-vivants et les créatures artificielles.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Balance de marchand<!--/Name-->
 
@@ -716,9 +716,9 @@ Une créature qui boit cette fiole de liquide obtient un avantage sur les jets d
 
 Cet appareil de mesure se présente sous la forme d'une petite balance, de plateaux et d'un assortiment de poids qui vont jusqu'à 1 kilogramme. Elle permet de mesurer le poids exact de petits objets, comme des métaux précieux ou des denrées courantes, afin de déterminer leur valeur.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Bélier portatif<!--/Name-->
 
@@ -730,9 +730,9 @@ Cet appareil de mesure se présente sous la forme d'une petite balance, de plate
 
 Vous pouvez utiliser un bélier portable pour enfoncer des portes. Vous gagnez dans ce cas un bonus de +4 à vos tests de Force. Si un autre personnage vous aide à utiliser le bélier, vous obtenez un avantage lors de ce test.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Billes<!--/Name-->
 
@@ -743,9 +743,9 @@ Vous pouvez utiliser un bélier portable pour enfoncer des portes. Vous gagnez d
 
 Vous pouvez utiliser une action pour répandre ces petites billes de métal sur une surface plane de 3 mètres de côté. Une créature qui traverse cette surface doit réussir un jet de sauvegarde de Dextérité DD 10 ou tomber à terre. Une créature peut traverser la zone sans avoir besoin de faire un jet de sauvegarde si elle se déplace à la moitié de sa vitesse.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Boîte à amadou<!--/Name-->
 
@@ -755,9 +755,9 @@ Vous pouvez utiliser une action pour répandre ces petites billes de métal sur 
 
 Cette petite boîte contient tout ce qu'il faut pour faire un feu : un silex, un briquet métallique et de l'amadou (généralement des morceaux de tissu imbibés d'huile). Utiliser la boîte à amadou pour allumer une torche ou quoi que ce soit d'autre qui se présente avec assez de combustible prend 1 action. Allumer un autre type de feu prend 1 minute.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Bougie<!--/Name-->
 
@@ -767,9 +767,9 @@ Cette petite boîte contient tout ce qu'il faut pour faire un feu : un silex, un
 
 Pendant 1 heure, une bougie diffuse une lumière vive dans une zone de 1,50 mètre et une lumière faible dans un rayon de 1,50 mètre supplémentaire. 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Boulier<!--/Name-->
 
@@ -777,9 +777,9 @@ Pendant 1 heure, une bougie diffuse une lumière vive dans une zone de 1,50 mèt
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Bouteille en verre<!--/Name-->
 
@@ -788,9 +788,9 @@ Pendant 1 heure, une bougie diffuse une lumière vive dans une zone de 1,50 mèt
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Capacité** <!--Capacity-->0,75 L de liquide<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cadenas<!--/Name-->
 
@@ -800,9 +800,9 @@ Pendant 1 heure, une bougie diffuse une lumière vive dans une zone de 1,50 mèt
 
 Ce cadenas est accompagné d'une clef. Si elle n'a pas la clef, une créature qui maîtrise les outils de voleur peut crocheter le cadenas en réussissant un test de Dextérité DD 15. Votre MJ peut décider que de meilleurs cadenas sont disponibles pour un prix plus élevé.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Carquois<!--/Name-->
 
@@ -812,9 +812,9 @@ Ce cadenas est accompagné d'une clef. Si elle n'a pas la clef, une créature qu
 
 Un carquois peut contenir jusqu'à vingt flèches.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Chaîne<!--/Name-->
 
@@ -825,9 +825,9 @@ Un carquois peut contenir jusqu'à vingt flèches.
 
 Une chaîne a 10 points de vie. Elle peut être brisée en réussissant un test de Force DD 20.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Chausse-trappes<!--/Name-->
 
@@ -838,9 +838,9 @@ Une chaîne a 10 points de vie. Elle peut être brisée en réussissant un test 
 
 Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une surface de 1,50 mètre de côté. Une créature qui traverse cette surface doit réussir un jet de sauvegarde de Dextérité DD 15 ou arrêter de se déplacer jusqu'à la fin de son tour et subir 1 dégât perforant. Si elle subit ce dégât, la vitesse de cette créature est réduite de 3 mètres jusqu'à ce qu'elle regagne au moins 1 point de vie. Une créature peut traverser la zone sans avoir besoin de faire un jet de sauvegarde si elle se déplace à la moitié de sa vitesse.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Chevalière<!--/Name-->
 
@@ -848,9 +848,9 @@ Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cire à cacheter<!--/Name-->
 
@@ -858,9 +858,9 @@ Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une
 - **Prix** <!--Price-->5 pa<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cloche<!--/Name-->
 
@@ -868,9 +868,9 @@ Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une
 - **Prix** <!--Price-->1 po<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Coffre<!--/Name-->
 
@@ -879,9 +879,9 @@ Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une
 - **Poids** <!--Weight-->12,5 kg<!--/Weight-->
 - **Capacité** <!--Capacity-->350 L/150 kg d'équipement<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Corde en chanvre<!--/Name-->
 
@@ -892,9 +892,9 @@ Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une
 
 Une corde a 2 points de vie et peut être rompue en réussissant un test de Force DD 17.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Corde en soie<!--/Name-->
 
@@ -905,9 +905,9 @@ Une corde a 2 points de vie et peut être rompue en réussissant un test de Forc
 
 Une corde a 2 points de vie et peut être rompue en réussissant un test de Force DD 17.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Couverture<!--/Name-->
 
@@ -915,9 +915,9 @@ Une corde a 2 points de vie et peut être rompue en réussissant un test de Forc
 - **Prix** <!--Price-->5 pa<!--/Price-->
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Craie<!--/Name-->
 
@@ -926,9 +926,9 @@ Une corde a 2 points de vie et peut être rompue en réussissant un test de Forc
 - **Poids** <!--Weight-->_<!--/Weight-->
 - **Unité** <!--Unity-->1 morceau<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cruche ou pichet<!--/Name-->
 
@@ -937,9 +937,9 @@ Une corde a 2 points de vie et peut être rompue en réussissant un test de Forc
 - **Poids** <!--Weight-->2 kg<!--/Weight-->
 - **Capacité** <!--Capacity-->3,5 L de liquide<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Eau bénite<!--/Name-->
 
@@ -952,9 +952,9 @@ Vous pouvez utiliser une action pour asperger d'eau bénite une créature qui se
 
 Un clerc ou un paladin peut créer de l'eau bénite, de quoi remplir une flasque, en accomplissant un rituel spécifique. Ce rituel dure 1 heure, consomme pour 25 po de poudre d'argent et requiert du lanceur de sort qu'il utilise un emplacement de sort de niveau 1.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Échelle<!--/Name-->
 
@@ -963,9 +963,9 @@ Un clerc ou un paladin peut créer de l'eau bénite, de quoi remplir une flasque
 - **Poids** <!--Weight-->12,5 kg<!--/Weight-->
 - **Unité** <!--Unity-->3 mètres<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Encre<!--/Name-->
 
@@ -974,9 +974,9 @@ Un clerc ou un paladin peut créer de l'eau bénite, de quoi remplir une flasque
 - **Poids** <!--Weight-->_<!--/Weight-->
 - **Unité** <!--Unity-->bouteille de 30 grammes<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Équipement d'escalade<!--/Name-->
 
@@ -986,9 +986,9 @@ Un clerc ou un paladin peut créer de l'eau bénite, de quoi remplir une flasque
 
 Le matériel d'escalade comprend des pitons spéciaux, des pointes pour chaussures, des gants et un harnais. Vous pouvez utiliser le matériel d'escalade lors d'une action pour vous accrocher à une paroi. Vous ne pouvez alors plus chuter de plus de 7,50 mètres depuis votre point d'ancrage, mais vous devez vous décrocher si vous voulez vous éloigner de plus de 7,50 mètres de ce point.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Étui pour carreaux<!--/Name-->
 
@@ -998,9 +998,9 @@ Le matériel d'escalade comprend des pitons spéciaux, des pointes pour chaussur
 
 Cet étui de bois peut contenir jusqu'à vingt carreaux d'arbalète.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Étui pour cartes ou parchemins<!--/Name-->
 
@@ -1010,9 +1010,9 @@ Cet étui de bois peut contenir jusqu'à vingt carreaux d'arbalète.
 
 Cet étui cylindrique de cuir peut contenir jusqu'à dix feuilles de papier roulées ou cinq feuilles de parchemin roulées.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Feu grégeois<!--/Name-->
 
@@ -1023,9 +1023,9 @@ Cet étui cylindrique de cuir peut contenir jusqu'à dix feuilles de papier roul
 
 Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utiliser une action pour lancer la flasque jusqu'à une distance de 6 mètres. La flasque se brise à l'impact. Il s'agit d'une attaque à distance contre une créature ou un objet, et vous devez considérer le feu grégeois comme une arme improvisée. Si vous touchez votre cible, celle-ci subit 1d4 dégâts de feu au début de chacun de ses tours. La cible peut mettre fin à cet effet et tenter d'éteindre les flammes en utilisant son action pour faire un test de Dextérité DD 10.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Fiole<!--/Name-->
 
@@ -1034,9 +1034,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Poids** <!--Weight-->_<!--/Weight-->
 - **Capacité** <!--Capacity-->100 g de liquide<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Flasque ou chope<!--/Name-->
 
@@ -1045,9 +1045,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 - **Capacité** <!--Capacity-->0,5 L de liquide<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cristal (focaliseur arcanique)<!--/Name-->
 
@@ -1055,9 +1055,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Orbe (focaliseur arcanique)<!--/Name-->
 
@@ -1065,9 +1065,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Prix** <!--Price-->20 po<!--/Price-->
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Sceptre (focaliseur arcanique)<!--/Name-->
 
@@ -1075,9 +1075,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Bâton (focaliseur arcanique)<!--/Name-->
 
@@ -1085,9 +1085,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->2 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Baguette (focaliseur arcanique)<!--/Name-->
 
@@ -1095,9 +1095,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Branche de houx (focaliseur druidique)<!--/Name-->
 
@@ -1105,9 +1105,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Prix** <!--Price-->1 po<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Totem (focaliseur druidique)<!--/Name-->
 
@@ -1115,9 +1115,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Prix** <!--Price-->1 po<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Bâton (focaliseur druidique)<!--/Name-->
 
@@ -1125,9 +1125,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->2 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Baguette d'if (focaliseur druidique)<!--/Name-->
 
@@ -1135,9 +1135,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Gamelle<!--/Name-->
 
@@ -1147,9 +1147,9 @@ Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utilise
 
 Cette boîte métallique contient un gobelet et des couverts simples. La boîte est composée de deux parties qui s'assemblent. Un côté peut être utilisé pour cuire les aliments et l'autre comme une assiette creuse.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Grappin<!--/Name-->
 
@@ -1157,9 +1157,9 @@ Cette boîte métallique contient un gobelet et des couverts simples. La boîte 
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Poids** <!--Weight-->2 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Grimoire<!--/Name-->
 
@@ -1169,9 +1169,9 @@ Cette boîte métallique contient un gobelet et des couverts simples. La boîte 
 
 Un grimoire est un outil indispensable pour un magicien. Il s'agit d'un livre relié en cuir avec cent pages de vélin blanc dans lequel il écrit des sorts.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Huile<!--/Name-->
 
@@ -1182,9 +1182,9 @@ Un grimoire est un outil indispensable pour un magicien. Il s'agit d'un livre re
 
 L'huile est généralement vendue dans des flasques d'argile de 0,5 litre. Vous pouvez utiliser une action pour asperger une créature qui se trouve dans un rayon de 1,50 mètre autour de vous ou pour lancer la flasque jusqu'à une distance de 6 mètres. La flasque se brise à l'impact. Dans les deux cas, il s'agit d'une attaque à distance contre une créature ou un objet et l'huile doit être considérée comme une arme improvisée. Si vous touchez votre cible, elle est couverte d'huile et, si elle subit au moins 1 dégât de feu avant que l'huile ne sèche (après 1 minute), la cible subit 5 dégâts de feu supplémentaires causés par l'huile enflammée. Vous pouvez aussi verser le contenu de la flasque d'huile sur une surface plane afin de recouvrir une surface de 1,50 mètre de côté. Si vous y mettez le feu, l'huile brûle pendant 2 rounds et inflige 5 dégâts de feu à toute créature qui pénètre dans la zone ou y termine son tour. Une créature ne peut subir ces dégâts qu'une fois par tour.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Lampe<!--/Name-->
 
@@ -1194,9 +1194,9 @@ L'huile est généralement vendue dans des flasques d'argile de 0,5 litre. Vous 
 
 Une lampe dégage une lumière vive dans un rayon de 4,50 mètres et une lumière faible sur 9 mètres supplémentaires. Une fois qu'elle est allumée, elle brûle pendant 6 heures et consomme une flasque (0,5 litre) d'huile.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Lanterne à capote<!--/Name-->
 
@@ -1206,9 +1206,9 @@ Une lampe dégage une lumière vive dans un rayon de 4,50 mètres et une lumièr
 
 Une lanterne à capote dégage une lumière vive sur un rayon de 9 mètres et une lumière faible sur 9 mètres supplémentaires. Une fois allumée, elle brûle pendant 6 heures et consomme une flasque (0,5 litre) d'huile. Vous pouvez utiliser une action pour abaisser la capote de la lanterne afin qu'elle ne dégage plus qu'une lumière faible sur un rayon de 1,50 mètre.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Lanterne sourde<!--/Name-->
 
@@ -1218,9 +1218,9 @@ Une lanterne à capote dégage une lumière vive sur un rayon de 9 mètres et un
 
 Une lanterne sourde dégage une lumière vive sur un cône de 18 mètres et une lumière faible sur 18 mètres supplémentaires. Une fois allumée, elle brûle pendant 6 heures et consomme une flasque (0,5 litre) d'huile.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Livre<!--/Name-->
 
@@ -1230,9 +1230,9 @@ Une lanterne sourde dégage une lumière vive sur un cône de 18 mètres et une 
 
 Un livre peut contenir de la poésie, des récits historiques, des informations relatives à un domaine particulier de connaissance, des diagrammes et des notes sur des inventions gnomes, ou tout ce qui peut être représenté grâce à du texte ou des images. Un livre de sorts est appelé un grimoire (ses particularités sont décrites plus haut dans cette section).
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Longue-vue<!--/Name-->
 
@@ -1242,9 +1242,9 @@ Un livre peut contenir de la poésie, des récits historiques, des informations 
 
 Une longue-vue permet de grossir jusqu'à deux fois les objets que vous voyez à distance.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Loupe<!--/Name-->
 
@@ -1254,9 +1254,9 @@ Une longue-vue permet de grossir jusqu'à deux fois les objets que vous voyez à
 
 Cette lentille permet d'examiner de près les petits objets. Elle peut également remplacer un briquet à silex pour allumer un feu. Allumer un feu à l'aide d'une loupe nécessite d'avoir une lumière aussi vive que celle du soleil afin de faire prendre l'amadou et environ 5 minutes pour que le feu prenne. Une loupe confère un avantage pour les tests de caractéristique faits dans le but d'inspecter ou d'estimer la valeur d'un objet petit ou très détaillé.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Marteau<!--/Name-->
 
@@ -1264,9 +1264,9 @@ Cette lentille permet d'examiner de près les petits objets. Elle peut égalemen
 - **Prix** <!--Price-->1 po<!--/Price-->
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Masse<!--/Name-->
 
@@ -1274,9 +1274,9 @@ Cette lentille permet d'examiner de près les petits objets. Elle peut égalemen
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Poids** <!--Weight-->5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Matériel de pêche<!--/Name-->
 
@@ -1286,9 +1286,9 @@ Cette lentille permet d'examiner de près les petits objets. Elle peut égalemen
 
 Le matériel de pêche se compose d'une canne de bois, d'un fil de soie, de bouchons en liège, d'hameçons métalliques, de plombs, d'appâts de velours et d'un petit filet.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Menottes<!--/Name-->
 
@@ -1298,9 +1298,9 @@ Le matériel de pêche se compose d'une canne de bois, d'un fil de soie, de bouc
 
 Ces menottes métalliques peuvent être utilisées sur une créature de taille P ou M. Pour s'en échapper, une créature doit réussir un test de Dextérité DD 20. Pour les briser, elle doit réussir un test de Force DD 20. Chaque paire de menotte est accompagnée d'une clef. Une créature qui n'a pas la clef mais qui maîtrise les outils de voleur peut crocheter la serrure des menottes en réussissant un test de Dextérité DD 15. Les menottes ont 15 points de vie.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Miroir en acier<!--/Name-->
 
@@ -1308,9 +1308,9 @@ Ces menottes métalliques peuvent être utilisées sur une créature de taille P
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->0,25 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Flèches<!--/Name-->
 
@@ -1319,9 +1319,9 @@ Ces menottes métalliques peuvent être utilisées sur une créature de taille P
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 - **Unité** <!--Unity-->20<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Dards de sarbacane<!--/Name-->
 
@@ -1330,9 +1330,9 @@ Ces menottes métalliques peuvent être utilisées sur une créature de taille P
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 - **Unité** <!--Unity-->50<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Carreaux d'arbalète<!--/Name-->
 
@@ -1341,9 +1341,9 @@ Ces menottes métalliques peuvent être utilisées sur une créature de taille P
 - **Poids** <!--Weight-->0,75 kg<!--/Weight-->
 - **Unité** <!--Unity-->20<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Billes de fronde<!--/Name-->
 
@@ -1352,9 +1352,9 @@ Ces menottes métalliques peuvent être utilisées sur une créature de taille P
 - **Poids** <!--Weight-->0,75 kg<!--/Weight-->
 - **Unité** <!--Unity-->20<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outre<!--/Name-->
 
@@ -1363,9 +1363,9 @@ Ces menottes métalliques peuvent être utilisées sur une créature de taille P
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 - **Capacité** <!--Capacity-->2 L de liquide<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Palan<!--/Name-->
 
@@ -1375,9 +1375,9 @@ Ces menottes métalliques peuvent être utilisées sur une créature de taille P
 
 Un palan est un système de poulies avec un câble et un crochet qui vous permet de soulever jusqu'à quatre fois le poids que vous pouvez normalement porter.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Panier<!--/Name-->
 
@@ -1386,9 +1386,9 @@ Un palan est un système de poulies avec un câble et un crochet qui vous permet
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Capacité** <!--Capacity-->60 L/20 kg d'équipement<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Papier<!--/Name-->
 
@@ -1397,9 +1397,9 @@ Un palan est un système de poulies avec un câble et un crochet qui vous permet
 - **Poids** <!--Weight-->_<!--/Weight-->
 - **Unité** <!--Unity-->1 feuille<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Parchemin<!--/Name-->
 
@@ -1408,9 +1408,9 @@ Un palan est un système de poulies avec un câble et un crochet qui vous permet
 - **Poids** <!--Weight-->_<!--/Weight-->
 - **Unité** <!--Unity-->1 feuille<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Parfum<!--/Name-->
 
@@ -1419,9 +1419,9 @@ Un palan est un système de poulies avec un câble et un crochet qui vous permet
 - **Poids** <!--Weight-->_<!--/Weight-->
 - **Unité** <!--Unity-->fiole<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Pelle<!--/Name-->
 
@@ -1429,9 +1429,9 @@ Un palan est un système de poulies avec un câble et un crochet qui vous permet
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Perche<!--/Name-->
 
@@ -1440,9 +1440,9 @@ Un palan est un système de poulies avec un câble et un crochet qui vous permet
 - **Poids** <!--Weight-->3,5 kg<!--/Weight-->
 - **Unité** <!--Unity-->3 mètres<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Pics en fer<!--/Name-->
 
@@ -1451,9 +1451,9 @@ Un palan est un système de poulies avec un câble et un crochet qui vous permet
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 - **Unité** <!--Unity-->10<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Pied-de-biche<!--/Name-->
 
@@ -1463,9 +1463,9 @@ Un palan est un système de poulies avec un câble et un crochet qui vous permet
 
 Utiliser un pied-de-biche vous donne un avantage aux tests de Force quand le pied-debiche est utilisé pour faire levier.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Piège à mâchoires<!--/Name-->
 
@@ -1475,9 +1475,9 @@ Utiliser un pied-de-biche vous donne un avantage aux tests de Force quand le pie
 
 Vous pouvez utiliser une action pour installer ce piège, qui se présente sous la forme d'un anneau d'acier dentelé qui se referme violemment quand une créature marche sur la plaque de pression qui se trouve en son centre. Le piège est ancré à un objet immobile, comme un arbre ou un piquet enfoncé dans le sol, grâce à une lourde chaîne. Une créature qui marche sur la plaque doit réussir un jet de sauvegarde de Dextérité DD 13 pour éviter de subir 1d4 dégâts perforants et être immobilisée. Si elle échoue, tant que la créature est prise au piège, son déplacement est limité par la longueur de la chaîne (qui fait généralement 1 mètre de long). Une créature peut utiliser une action pour faire un test de Force DD 13 afin de tenter de se libérer elle-même ou une autre créature qui se trouve à sa portée. À chaque échec, la créature prise au piège subit 1 dégât perforant.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Pierre à affûter<!--/Name-->
 
@@ -1485,9 +1485,9 @@ Vous pouvez utiliser une action pour installer ce piège, qui se présente sous 
 - **Prix** <!--Price-->1 pc<!--/Price-->
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Pioche de mineur<!--/Name-->
 
@@ -1495,9 +1495,9 @@ Vous pouvez utiliser une action pour installer ce piège, qui se présente sous 
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Poids** <!--Weight-->5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Piton<!--/Name-->
 
@@ -1505,9 +1505,9 @@ Vous pouvez utiliser une action pour installer ce piège, qui se présente sous 
 - **Prix** <!--Price-->5 pc<!--/Price-->
 - **Poids** <!--Weight-->125 g<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Poison<!--/Name-->
 
@@ -1518,9 +1518,9 @@ Vous pouvez utiliser une action pour installer ce piège, qui se présente sous 
 
 Un personnage peut utiliser le poison qui se trouve dans cette fiole pour enduire la lame d'une arme tranchante ou perforante, ou jusqu'à trois munitions. Il vous faut utiliser une action pour appliquer le poison. Une créature touchée par l'arme ou la munition empoisonnée doit faire un jet de sauvegarde de Constitution DD 10 ou subir 1d4 dégâts de poison. Une fois qu'il est appliqué, le poison reste efficace pendant 1 minute avant de sécher.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Porte-plume<!--/Name-->
 
@@ -1528,9 +1528,9 @@ Un personnage peut utiliser le poison qui se trouve dans cette fiole pour enduir
 - **Prix** <!--Price-->2 pc<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Pot en fer<!--/Name-->
 
@@ -1539,9 +1539,9 @@ Un personnage peut utiliser le poison qui se trouve dans cette fiole pour enduir
 - **Poids** <!--Weight-->5 kg<!--/Weight-->
 - **Capacité** <!--Capacity-->3,5 L de liquide<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Potion de soins<!--/Name-->
 
@@ -1551,9 +1551,9 @@ Un personnage peut utiliser le poison qui se trouve dans cette fiole pour enduir
 
 Un personnage qui boit le liquide magique rouge qui se trouve dans cette fiole regagne 2d4+2 points de vie. Une action est nécessaire pour boire ou administrer la potion.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Rations<!--/Name-->
 
@@ -1564,9 +1564,9 @@ Un personnage qui boit le liquide magique rouge qui se trouve dans cette fiole r
 
 Les rations sont des aliments séchés (viande séchée, biscuits, noix…) utilisés pour de longs voyages.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Sablier<!--/Name-->
 
@@ -1574,9 +1574,9 @@ Les rations sont des aliments séchés (viande séchée, biscuits, noix…) util
 - **Prix** <!--Price-->25 po<!--/Price-->
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Sac<!--/Name-->
 
@@ -1585,9 +1585,9 @@ Les rations sont des aliments séchés (viande séchée, biscuits, noix…) util
 - **Poids** <!--Weight-->0,25 kg<!--/Weight-->
 - **Capacité** <!--Capacity-->30 L/15 kg d'équipement<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Sac à dos<!--/Name-->
 
@@ -1598,9 +1598,9 @@ Les rations sont des aliments séchés (viande séchée, biscuits, noix…) util
 
 Vous pouvez aussi attacher des objets comme un sac de couchage ou un rouleau de corde sur le sac à dos
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Sac de couchage<!--/Name-->
 
@@ -1608,9 +1608,9 @@ Vous pouvez aussi attacher des objets comme un sac de couchage ou un rouleau de 
 - **Prix** <!--Price-->1 po<!--/Price-->
 - **Poids** <!--Weight-->3,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Sacoche<!--/Name-->
 
@@ -1621,9 +1621,9 @@ Vous pouvez aussi attacher des objets comme un sac de couchage ou un rouleau de 
 
 Une bourse en tissu ou en cuir peut notamment contenir jusqu'à vingt billes de fronde ou cinquante dards de sarbacane. Une sacoche à compartiments qui est utilisée pour stocker les composantes de sorts s'appelle une sacoche à composantes (voir ci-dessous).
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Sacoche à composantes<!--/Name-->
 
@@ -1633,9 +1633,9 @@ Une bourse en tissu ou en cuir peut notamment contenir jusqu'à vingt billes de 
 
 Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à la ceinture et qui possède plusieurs compartiments permettant de stocker toutes les composantes matérielles et autres objets spéciaux qui vous servent à lancer un sort, à l'exception des composantes qui ont un coût spécifique (ainsi qu'il est indiqué dans la description d'un sort).
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Savon<!--/Name-->
 
@@ -1643,9 +1643,9 @@ Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à
 - **Prix** <!--Price-->2 pc<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Seau<!--/Name-->
 
@@ -1654,9 +1654,9 @@ Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 - **Capacité** <!--Capacity-->10 L de liquide, 15 L de solide<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Siflet<!--/Name-->
 
@@ -1664,9 +1664,9 @@ Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à
 - **Prix** <!--Price-->5 pc<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Amulette<!--/Name-->
 
@@ -1674,9 +1674,9 @@ Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Emblème<!--/Name-->
 
@@ -1684,9 +1684,9 @@ Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Reliquaire<!--/Name-->
 
@@ -1694,9 +1694,9 @@ Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Tente<!--/Name-->
 
@@ -1707,9 +1707,9 @@ Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à
 
 Un abri de toile simple et portable, qui peut accueillir deux personnes.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Tonneau<!--/Name-->
 
@@ -1718,9 +1718,9 @@ Un abri de toile simple et portable, qui peut accueillir deux personnes.
 - **Poids** <!--Weight-->35 kg<!--/Weight-->
 - **Capacité** <!--Capacity-->140 L de liquide, 120 L de solide<!--/Capacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Torche<!--/Name-->
 
@@ -1730,9 +1730,9 @@ Un abri de toile simple et portable, qui peut accueillir deux personnes.
 
 Une torche brûle pendant 1 heure et dégage une lumière vive dans un rayon de 6 mètres et une lumière faible dans un rayon supplémentaire de 6 mètres. Si vous réussissez une attaque de corps-à-corps avec une torche, celle-ci inflige 1 dégât de feu à votre cible.
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Trousse de soins<!--/Name-->
 
@@ -1743,9 +1743,9 @@ Une torche brûle pendant 1 heure et dégage une lumière vive dans un rayon de 
 Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents et des attelles. La trousse peut être utilisée dix fois. Vous pouvez utiliser une action pour stabiliser une créature qui se trouve à 0 point de vie à l'aide de la trousse de soin sans que cela ne nécessite un test de [Sagesse (Médecine)].
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Costume<!--/Name-->
 
@@ -1753,9 +1753,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->2 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Habits courants<!--/Name-->
 
@@ -1763,9 +1763,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 pa<!--/Price-->
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Habits de bonne qualité<!--/Name-->
 
@@ -1773,9 +1773,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->15 po<!--/Price-->
 - **Poids** <!--Weight-->3 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Robes<!--/Name-->
 
@@ -1783,9 +1783,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 po<!--/Price-->
 - **Poids** <!--Weight-->2 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Tenue de voyageur<!--/Name-->
 
@@ -1798,9 +1798,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Chalemie<!--/Name-->
 
@@ -1808,9 +1808,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cor<!--/Name-->
 
@@ -1818,9 +1818,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->3 po<!--/Price-->
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cornemuse<!--/Name-->
 
@@ -1828,9 +1828,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->30 po<!--/Price-->
 - **Poids** <!--Weight-->3 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Flûte<!--/Name-->
 
@@ -1838,9 +1838,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Flûte de pan<!--/Name-->
 
@@ -1848,9 +1848,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->12 po<!--/Price-->
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Luth<!--/Name-->
 
@@ -1858,9 +1858,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->35 po<!--/Price-->
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Lyre<!--/Name-->
 
@@ -1868,9 +1868,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->30 po<!--/Price-->
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Tambour<!--/Name-->
 
@@ -1878,9 +1878,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->6 po<!--/Price-->
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Tympanon<!--/Name-->
 
@@ -1888,9 +1888,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->25 po<!--/Price-->
 - **Poids** <!--Weight-->5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Viole<!--/Name-->
 
@@ -1898,9 +1898,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->30 po<!--/Price-->
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Instruments de navigation<!--/Name-->
 
@@ -1908,9 +1908,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->25 po<!--/Price-->
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Dés<!--/Name-->
 
@@ -1918,9 +1918,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 pa<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Jeu de cartes<!--/Name-->
 
@@ -1928,9 +1928,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 pa<!--/Price-->
 - **Poids** <!--Weight-->_<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Matériel d'empoisonneur<!--/Name-->
 
@@ -1938,9 +1938,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->50 po<!--/Price-->
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Matériel d'herboriste<!--/Name-->
 
@@ -1948,9 +1948,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Matériel d'alchimiste<!--/Name-->
 
@@ -1958,9 +1958,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->50 po<!--/Price-->
 - **Poids** <!--Weight-->4 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Matériel de brasseur<!--/Name-->
 
@@ -1968,9 +1968,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->20 po<!--/Price-->
 - **Poids** <!--Weight-->4,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de bricoleur<!--/Name-->
 
@@ -1978,9 +1978,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->50 po<!--/Price-->
 - **Poids** <!--Weight-->5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Matériel de calligraphie<!--/Name-->
 
@@ -1988,9 +1988,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de cartographe<!--/Name-->
 
@@ -1998,9 +1998,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->15 po<!--/Price-->
 - **Poids** <!--Weight-->3 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de charpentier<!--/Name-->
 
@@ -2008,9 +2008,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->8 po<!--/Price-->
 - **Poids** <!--Weight-->3 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de cordonnier<!--/Name-->
 
@@ -2018,9 +2018,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Ustensiles de cuisinier<!--/Name-->
 
@@ -2028,9 +2028,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 po<!--/Price-->
 - **Poids** <!--Weight-->4 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Accessoires de déguisement<!--/Name-->
 
@@ -2038,9 +2038,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->25 po<!--/Price-->
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Accessoires de faussaire<!--/Name-->
 
@@ -2048,9 +2048,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->15 po<!--/Price-->
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de forgeron<!--/Name-->
 
@@ -2058,9 +2058,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->20 po<!--/Price-->
 - **Poids** <!--Weight-->4 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de joaillier<!--/Name-->
 
@@ -2068,9 +2068,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->25 po<!--/Price-->
 - **Poids** <!--Weight-->1 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de maçon<!--/Name-->
 
@@ -2078,9 +2078,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Poids** <!--Weight-->4 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de menuisier<!--/Name-->
 
@@ -2088,9 +2088,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 po<!--/Price-->
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Matériel de peintre<!--/Name-->
 
@@ -2098,9 +2098,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de potier<!--/Name-->
 
@@ -2108,9 +2108,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de soufeur de verre<!--/Name-->
 
@@ -2118,9 +2118,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->30 po<!--/Price-->
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de tanneur<!--/Name-->
 
@@ -2128,9 +2128,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de tisserand<!--/Name-->
 
@@ -2138,9 +2138,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 po<!--/Price-->
 - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Outils de voleur<!--/Name-->
 
@@ -2153,9 +2153,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Âne ou mule<!--/Name-->
 
@@ -2164,9 +2164,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
 - **Capacité de charge** <!--WeightCapacity-->210 kg<!--/WeightCapacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Chameau<!--/Name-->
 
@@ -2175,9 +2175,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
 - **Capacité de charge** <!--WeightCapacity-->240 kg<!--/WeightCapacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cheval de guerre<!--/Name-->
 
@@ -2186,9 +2186,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Vitesse** <!--Speed-->18 m<!--/Speed-->
 - **Capacité de charge** <!--WeightCapacity-->270 kg<!--/WeightCapacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cheval de selle<!--/Name-->
 
@@ -2197,9 +2197,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Vitesse** <!--Speed-->18 m<!--/Speed-->
 - **Capacité de charge** <!--WeightCapacity-->240 kg<!--/WeightCapacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cheval de trait<!--/Name-->
 
@@ -2208,9 +2208,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
 - **Capacité de charge** <!--WeightCapacity-->270 kg<!--/WeightCapacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Éléphant<!--/Name-->
 
@@ -2219,9 +2219,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
 - **Capacité de charge** <!--WeightCapacity-->660 kg<!--/WeightCapacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Molosse<!--/Name-->
 
@@ -2230,9 +2230,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
 - **Capacité de charge** <!--WeightCapacity-->97,5 kg<!--/WeightCapacity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Poney<!--/Name-->
 
@@ -2244,9 +2244,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Barde<!--/Name-->
 
@@ -2254,9 +2254,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->x 4<!--/Price-->
 - **Poids** <!--Weight-->x 2<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Calèche<!--/Name-->
 
@@ -2264,9 +2264,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->100 po<!--/Price-->
 - **Poids** <!--Weight-->300 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Carriole<!--/Name-->
 
@@ -2274,9 +2274,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->250 po<!--/Price-->
 - **Poids** <!--Weight-->50 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Chariot<!--/Name-->
 
@@ -2284,9 +2284,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->35 po<!--/Price-->
 - **Poids** <!--Weight-->200 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Charrette<!--/Name-->
 
@@ -2294,9 +2294,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->15 po<!--/Price-->
 - **Poids** <!--Weight-->100 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Écurie<!--/Name-->
 
@@ -2305,9 +2305,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Poids** <!--Weight-->_<!--/Weight-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Fontes<!--/Name-->
 
@@ -2315,9 +2315,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->4 po<!--/Price-->
 - **Poids** <!--Weight-->4 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Fourrage<!--/Name-->
 
@@ -2326,9 +2326,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Poids** <!--Weight-->5 kg<!--/Weight-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Mors et bride<!--/Name-->
 
@@ -2336,9 +2336,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Selle de bât<!--/Name-->
 
@@ -2346,9 +2346,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Poids** <!--Weight-->7,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Selle d'équitation<!--/Name-->
 
@@ -2356,9 +2356,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Poids** <!--Weight-->12,5 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Selle exotique<!--/Name-->
 
@@ -2366,9 +2366,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->60 po<!--/Price-->
 - **Poids** <!--Weight-->20 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Selle militaire<!--/Name-->
 
@@ -2376,9 +2376,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->20 po<!--/Price-->
 - **Poids** <!--Weight-->15 kg<!--/Weight-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Traîneau<!--/Name-->
 
@@ -2389,9 +2389,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Barge<!--/Name-->
 
@@ -2399,9 +2399,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->3 000 po<!--/Price-->
 - **Vitesse** <!--Speed-->1,4 km/h<!--/Speed-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Barque<!--/Name-->
 
@@ -2409,9 +2409,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->50 po<!--/Price-->
 - **Vitesse** <!--Speed-->2,5 km/h<!--/Speed-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Bateau à voiles<!--/Name-->
 
@@ -2419,9 +2419,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->10 000 po<!--/Price-->
 - **Vitesse** <!--Speed-->3 km/h<!--/Speed-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Drakkar<!--/Name-->
 
@@ -2429,9 +2429,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->10 000 po<!--/Price-->
 - **Vitesse** <!--Speed-->5 km/h<!--/Speed-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Galère<!--/Name-->
 
@@ -2439,9 +2439,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->30 000 po<!--/Price-->
 - **Vitesse** <!--Speed-->6,5 km/h<!--/Speed-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Navire de guerre<!--/Name-->
 
@@ -2452,9 +2452,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Blé<!--/Name-->
 
@@ -2462,9 +2462,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 pc<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Farine<!--/Name-->
 
@@ -2472,18 +2472,18 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 pc<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Poulet<!--/Name-->
 
 - **Type** <!--Type-->Marchandise<!--/Type-->
 - **Prix** <!--Price-->2 pc<!--/Price-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Sel<!--/Name-->
 
@@ -2491,9 +2491,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 pc<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Fer<!--/Name-->
 
@@ -2501,9 +2501,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 pa<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Toile<!--/Name-->
 
@@ -2511,9 +2511,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 pa<!--/Price-->
 - **Unité** <!--Unity-->1 m2<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cuivre<!--/Name-->
 
@@ -2521,9 +2521,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 pa<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Tissu en coton<!--/Name-->
 
@@ -2531,9 +2531,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 pa<!--/Price-->
 - **Unité** <!--Unity-->1 m2<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Gingembre<!--/Name-->
 
@@ -2541,18 +2541,18 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 po<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Chèvre<!--/Name-->
 
 - **Type** <!--Type-->Marchandise<!--/Type-->
 - **Prix** <!--Price-->1 po<!--/Price-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cannelle<!--/Name-->
 
@@ -2560,9 +2560,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Poivre<!--/Name-->
 
@@ -2570,18 +2570,18 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Mouton<!--/Name-->
 
 - **Type** <!--Type-->Marchandise<!--/Type-->
 - **Prix** <!--Price-->2 po<!--/Price-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Clous de girofle<!--/Name-->
 
@@ -2589,18 +2589,18 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->3 po<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Cochon<!--/Name-->
 
 - **Type** <!--Type-->Marchandise<!--/Type-->
 - **Prix** <!--Price-->3 po<!--/Price-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Argent<!--/Name-->
 
@@ -2608,9 +2608,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Lin<!--/Name-->
 
@@ -2618,9 +2618,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 po<!--/Price-->
 - **Unité** <!--Unity-->1 m2<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Soie<!--/Name-->
 
@@ -2628,18 +2628,18 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Unité** <!--Unity-->1 m2<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Vache<!--/Name-->
 
 - **Type** <!--Type-->Marchandise<!--/Type-->
 - **Prix** <!--Price-->10 po<!--/Price-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Safran<!--/Name-->
 
@@ -2647,18 +2647,18 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->15 po<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Boeuf<!--/Name-->
 
 - **Type** <!--Type-->Marchandise<!--/Type-->
 - **Prix** <!--Price-->15 po<!--/Price-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Or<!--/Name-->
 
@@ -2666,9 +2666,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->50 po<!--/Price-->
 - **Unité** <!--Unity-->1 livre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Platine<!--/Name-->
 
@@ -2678,9 +2678,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Employé non-qualifé<!--/Name-->
 
@@ -2688,9 +2688,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 pa<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Employé qualifé<!--/Name-->
 
@@ -2698,9 +2698,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Messager<!--/Name-->
 
@@ -2708,9 +2708,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 pc<!--/Price-->
 - **Unité** <!--Unity-->par kilomètre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Péage<!--/Name-->
 
@@ -2718,18 +2718,18 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 pc<!--/Price-->
 - **Unité** <!--Unity-->route ou porte<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Transport dans une ville<!--/Name-->
 
 - **Type** <!--Type-->Service<!--/Type-->
 - **Prix** <!--Price-->1 pc<!--/Price-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Transport entre deux villes<!--/Name-->
 
@@ -2737,9 +2737,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 pc<!--/Price-->
 - **Unité** <!--Unity-->par kilomètre<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Voyage maritime<!--/Name-->
 
@@ -2750,9 +2750,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Banquet<!--/Name-->
 
@@ -2760,9 +2760,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Unité** <!--Unity-->par personne<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Bière (chope)<!--/Name-->
 
@@ -2770,9 +2770,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->4 pc<!--/Price-->
 - **Unité** <!--Unity-->chope<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Bière (cruche)<!--/Name-->
 
@@ -2780,9 +2780,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 pa<!--/Price-->
 - **Unité** <!--Unity-->cruche<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Fromage<!--/Name-->
 
@@ -2790,9 +2790,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 pa<!--/Price-->
 - **Unité** <!--Unity-->gros morceau<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Hébergement à l'auberge : Misérable<!--/Name-->
 
@@ -2800,9 +2800,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->7 pc<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Hébergement à l'auberge : Pauvre<!--/Name-->
 
@@ -2810,9 +2810,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->1 pa<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Hébergement à l'auberge : Modeste<!--/Name-->
 
@@ -2820,9 +2820,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 pa<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Hébergement à l'auberge : Confortable<!--/Name-->
 
@@ -2830,9 +2830,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->8 pa<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Hébergement à l'auberge : Riche<!--/Name-->
 
@@ -2840,9 +2840,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Hébergement à l'auberge : Aristocratique<!--/Name-->
 
@@ -2850,9 +2850,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->4 po<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Pain<!--/Name-->
 
@@ -2860,9 +2860,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 pc<!--/Price-->
 - **Unité** <!--Unity-->miche<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Repas : Misérable<!--/Name-->
 
@@ -2870,9 +2870,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->3 pc<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Repas : Pauvre<!--/Name-->
 
@@ -2880,9 +2880,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->6 pc<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Repas : Modeste<!--/Name-->
 
@@ -2890,9 +2890,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->3 pa<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Repas : Confortable<!--/Name-->
 
@@ -2900,9 +2900,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->5 pa<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Repas : Riche<!--/Name-->
 
@@ -2910,9 +2910,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->8 pa<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Repas : Aristocratique<!--/Name-->
 
@@ -2920,9 +2920,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 po<!--/Price-->
 - **Unité** <!--Unity-->par jour<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Viande<!--/Name-->
 
@@ -2930,9 +2930,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->3 pa<!--/Price-->
 - **Unité** <!--Unity-->gros morceau<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Vin ordinaire<!--/Name-->
 
@@ -2940,9 +2940,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->2 pa<!--/Price-->
 - **Unité** <!--Unity-->cruche<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--Equipment-->
+<!--EquipmentItem-->
 
 # <!--Name-->Vin rafiné<!--/Name-->
 
@@ -2950,9 +2950,9 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** <!--Price-->10 po<!--/Price-->
 - **Unité** <!--Unity-->bouteille<!--/Unity-->
 
-<!--/Equipment-->
+<!--/EquipmentItem-->
 
-<!--/Equipments-->
+<!--/EquipmentItems-->
 
 [à deux mains]: weapons_hd.md#À-deux-mains
 [À deux mains]: weapons_hd.md#À-deux-mains

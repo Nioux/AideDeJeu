@@ -1,9 +1,9 @@
 ﻿---
-!Equipments
+!EquipmentItems
 Types: Armure|Armure légère|Armure intermédiaire|Armure lourde|Bouclier|Arme|Arme de corps-à-corps|Arme à distance|Équipement d'aventurier|Focaliseur arcanique|Focaliseur druidique|Munitions|Symbole sacré|Vêtements|Outil|Instrument de musique|Jeu|Outil d'artisan|Monture|Équipement, sellerie et véhicules à traction|Bateau|Marchandise|Service|Nourriture, boisson et logement
 Prices: 0 pc|1 pc|1 pa|1 po|10 po|100 po|1 000 po|10 000 po|100 000 po|1 000 000 po
 SubItems:
-- !Equipment
+- !EquipmentItem
   Type: Armure légère
   Price: 5 po
   ArmorClass: 11 + modifcateur de Dex
@@ -15,7 +15,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure légère
   Price: 10 po
   ArmorClass: 11 + modifcateur de Dex
@@ -26,7 +26,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure légère
   Price: 45 po
   ArmorClass: 12 + modifcateur de Dex
@@ -37,7 +37,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure intermédiaire
   Price: 10 po
   ArmorClass: 12 + modifcateur de Dex (max 2)
@@ -48,7 +48,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure intermédiaire
   Price: 50 po
   ArmorClass: 13 + modifcateur de Dex (max 2)
@@ -59,7 +59,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure intermédiaire
   Price: 50 po
   ArmorClass: 14 + modifcateur de Dex (max 2)
@@ -71,7 +71,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure intermédiaire
   Price: 400 po
   ArmorClass: 14 + modifcateur de Dex (max 2)
@@ -82,7 +82,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure intermédiaire
   Price: 750 po
   ArmorClass: 15 + modifcateur de Dex (max 2)
@@ -94,7 +94,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure lourde
   Price: 30 po
   ArmorClass: 14
@@ -106,7 +106,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure lourde
   Price: 75 po
   ArmorClass: 16
@@ -119,7 +119,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure lourde
   Price: 200 po
   ArmorClass: 17
@@ -132,7 +132,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Armure lourde
   Price: 1 500 po
   ArmorClass: 18
@@ -145,7 +145,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Bouclier
   Price: 10 po
   ArmorClass: +2
@@ -156,7 +156,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 2 pa
   Weight: 2 kg
@@ -169,7 +169,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 2 po
   Weight: 0,5 kg
@@ -182,7 +182,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 1 pa
   Weight: 1 kg
@@ -195,7 +195,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 po
   Weight: 1 kg
@@ -208,7 +208,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 pa
   Weight: 1 kg
@@ -221,7 +221,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 1 po
   Weight: 1,5 kg
@@ -234,7 +234,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 2 po
   Weight: 1 kg
@@ -247,7 +247,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 po
   Weight: 2 kg
@@ -260,7 +260,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 2 pa
   Weight: 5 kg
@@ -273,7 +273,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 1 po
   Weight: 1 kg
@@ -286,7 +286,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme à distance
   Price: 25 po
   Weight: 2,5 kg
@@ -299,7 +299,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme à distance
   Price: 25 po
   Weight: 1 kg
@@ -312,7 +312,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme à distance
   Price: 5 pc
   Weight: 0,1 kg
@@ -325,7 +325,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme à distance
   Price: 1 pa
   Weight: _
@@ -338,7 +338,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 25 po
   Weight: 1,5 kg
@@ -351,7 +351,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 20 po
   Weight: 3 kg
@@ -364,7 +364,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 50 po
   Weight: 3 kg
@@ -377,7 +377,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 10 po
   Weight: 1 kg
@@ -390,7 +390,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 15 po
   Weight: 1,5 kg
@@ -403,7 +403,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 10 po
   Weight: 1 kg
@@ -416,7 +416,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 2 po
   Weight: 1,5 kg
@@ -429,7 +429,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 30 po
   Weight: 3,5 kg
@@ -442,7 +442,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 10 po
   Weight: 2 kg
@@ -455,7 +455,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 20 po
   Weight: 3 kg
@@ -468,7 +468,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 10 po
   Weight: 3 kg
@@ -481,7 +481,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 po
   Weight: 1 kg
@@ -494,7 +494,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 15 po
   Weight: 1 kg
@@ -507,7 +507,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 10 po
   Weight: 5 kg
@@ -520,7 +520,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 15 po
   Weight: 2 kg
@@ -533,7 +533,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 po
   Weight: 9 kg
@@ -546,7 +546,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 25 po
   Weight: 1 kg
@@ -559,7 +559,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 po
   Weight: 2 kg
@@ -572,7 +572,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme à distance
   Price: 75 po
   Weight: 1,5 kg
@@ -585,7 +585,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme à distance
   Price: 50 po
   Weight: 9 kg
@@ -598,7 +598,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme à distance
   Price: 50 po
   Weight: 1 kg
@@ -611,7 +611,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme à distance
   Price: 1 po
   Weight: 1,5 kg
@@ -624,7 +624,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Arme à distance
   Price: 10 po
   Weight: 0,5 kg
@@ -637,7 +637,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
   Weight: 0,5 kg
@@ -648,7 +648,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 50 po
   Weight: _
@@ -659,7 +659,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
   Weight: 1,5 kg
@@ -669,7 +669,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurierÉquipement d'aventurier
   Price: 4 po
   Weight: 17,5 kg
@@ -679,7 +679,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 1 kg
@@ -690,7 +690,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
   Weight: 0,5 kg
@@ -700,7 +700,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pc
   Weight: _
@@ -710,7 +710,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 1 kg
@@ -720,7 +720,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 1 kg
@@ -731,7 +731,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 10 po
   Weight: 0,5 kg
@@ -741,7 +741,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 0,5 kg
@@ -751,7 +751,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
   Weight: 5 kg
@@ -762,7 +762,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 1 kg
@@ -773,7 +773,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
   Weight: _
@@ -783,7 +783,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
   Weight: _
@@ -793,7 +793,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: _
@@ -803,7 +803,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
   Weight: 12,5 kg
@@ -814,7 +814,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 5 kg
@@ -825,7 +825,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 10 po
   Weight: 2,5 kg
@@ -836,7 +836,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
   Weight: 1,5 kg
@@ -846,7 +846,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pc
   Weight: _
@@ -857,7 +857,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pc
   Weight: 2 kg
@@ -868,7 +868,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
   Weight: 0,5 kg
@@ -879,7 +879,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pa
   Weight: 12,5 kg
@@ -890,7 +890,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 10 po
   Weight: _
@@ -901,7 +901,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
   Weight: 6 kg
@@ -911,7 +911,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 0,5 kg
@@ -921,7 +921,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 0,5 kg
@@ -931,7 +931,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 50 po
   Weight: 0,5 kg
@@ -942,7 +942,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: _
@@ -953,7 +953,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pc
   Weight: 0,5 kg
@@ -964,7 +964,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 10 po
   Weight: 0,5 kg
@@ -974,7 +974,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 20 po
   Weight: 1,5 kg
@@ -984,7 +984,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 10 po
   Weight: 1 kg
@@ -994,7 +994,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 5 po
   Weight: 2 kg
@@ -1004,7 +1004,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 10 po
   Weight: 0,5 kg
@@ -1014,7 +1014,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 1 po
   Weight: _
@@ -1024,7 +1024,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 1 po
   Weight: _
@@ -1034,7 +1034,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 5 po
   Weight: 2 kg
@@ -1044,7 +1044,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 10 po
   Weight: 0,5 kg
@@ -1054,7 +1054,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pa
   Weight: 0,5 kg
@@ -1064,7 +1064,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 2 kg
@@ -1074,7 +1074,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 50 po
   Weight: 1,5 kg
@@ -1084,7 +1084,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pa
   Weight: 0,5 kg
@@ -1095,7 +1095,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
   Weight: 0,5 kg
@@ -1105,7 +1105,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
   Weight: 1 kg
@@ -1115,7 +1115,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 10 po
   Weight: 1 kg
@@ -1125,7 +1125,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
   Weight: 2,5 kg
@@ -1135,7 +1135,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 000 po
   Weight: 0,5 kg
@@ -1145,7 +1145,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 100 po
   Weight: _
@@ -1155,7 +1155,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 1,5 kg
@@ -1165,7 +1165,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 5 kg
@@ -1175,7 +1175,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 2 kg
@@ -1185,7 +1185,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 3 kg
@@ -1195,7 +1195,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
   Weight: 0,25 kg
@@ -1205,7 +1205,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Munitions
   Price: 1 po
   Weight: 0,5 kg
@@ -1216,7 +1216,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Munitions
   Price: 1 po
   Weight: 0,5 kg
@@ -1227,7 +1227,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Munitions
   Price: 1 po
   Weight: 0,75 kg
@@ -1238,7 +1238,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Munitions
   Price: 4 pc
   Weight: 0,75 kg
@@ -1249,7 +1249,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pa
   Weight: 2,5 kg
@@ -1260,7 +1260,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 2,5 kg
@@ -1270,7 +1270,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 4 pa
   Weight: 1 kg
@@ -1281,7 +1281,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pa
   Weight: _
@@ -1292,7 +1292,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pa
   Weight: _
@@ -1303,7 +1303,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
   Weight: _
@@ -1314,7 +1314,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 2,5 kg
@@ -1324,7 +1324,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pc
   Weight: 3,5 kg
@@ -1335,7 +1335,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 2,5 kg
@@ -1346,7 +1346,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 2,5 kg
@@ -1356,7 +1356,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
   Weight: 12,5 kg
@@ -1366,7 +1366,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pc
   Weight: 0,5 kg
@@ -1376,7 +1376,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 5 kg
@@ -1386,7 +1386,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pc
   Weight: 125 g
@@ -1396,7 +1396,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 100 po
   Weight: _
@@ -1407,7 +1407,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pc
   Weight: _
@@ -1417,7 +1417,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 5 kg
@@ -1428,7 +1428,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 50 po
   Weight: 0,25 kg
@@ -1438,7 +1438,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
   Weight: 1 kg
@@ -1449,7 +1449,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
   Weight: 0,5 kg
@@ -1459,7 +1459,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pc
   Weight: 0,25 kg
@@ -1470,7 +1470,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 2,5 kg
@@ -1481,7 +1481,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
   Weight: 3,5 kg
@@ -1491,7 +1491,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
   Weight: 0,5 kg
@@ -1502,7 +1502,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
   Weight: 1 kg
@@ -1512,7 +1512,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pc
   Weight: _
@@ -1522,7 +1522,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pc
   Weight: 1 kg
@@ -1533,7 +1533,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pc
   Weight: _
@@ -1543,7 +1543,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Symbole sacré
   Price: 5 po
   Weight: 0,5 kg
@@ -1553,7 +1553,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Symbole sacré
   Price: 5 po
   Weight: _
@@ -1563,7 +1563,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Symbole sacré
   Price: 5 po
   Weight: 1 kg
@@ -1573,7 +1573,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 10 kg
@@ -1584,7 +1584,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
   Weight: 35 kg
@@ -1595,7 +1595,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pc
   Weight: 0,5 kg
@@ -1605,7 +1605,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
   Weight: 1,5 kg
@@ -1615,7 +1615,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Vêtements
   Price: 5 po
   Weight: 2 kg
@@ -1625,7 +1625,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Vêtements
   Price: 5 pa
   Weight: 1,5 kg
@@ -1635,7 +1635,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Vêtements
   Price: 15 po
   Weight: 3 kg
@@ -1645,7 +1645,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Vêtements
   Price: 1 po
   Weight: 2 kg
@@ -1655,7 +1655,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement d'aventurier / Vêtements
   Price: 2 po
   Weight: 2 kg
@@ -1665,7 +1665,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 2 po
   Weight: 0,5 kg
@@ -1675,7 +1675,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 3 po
   Weight: 1 kg
@@ -1685,7 +1685,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 30 po
   Weight: 3 kg
@@ -1695,7 +1695,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 2 po
   Weight: 0,5 kg
@@ -1705,7 +1705,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 12 po
   Weight: 1 kg
@@ -1715,7 +1715,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 35 po
   Weight: 1 kg
@@ -1725,7 +1725,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 30 po
   Weight: 1 kg
@@ -1735,7 +1735,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 6 po
   Weight: 1,5 kg
@@ -1745,7 +1745,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 25 po
   Weight: 5 kg
@@ -1755,7 +1755,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 30 po
   Weight: 0,5 kg
@@ -1765,7 +1765,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil
   Price: 25 po
   Weight: 1 kg
@@ -1775,7 +1775,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Jeu
   Price: 1 pa
   Weight: _
@@ -1785,7 +1785,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil - Jeu
   Price: 5 pa
   Weight: _
@@ -1795,7 +1795,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil
   Price: 50 po
   Weight: 1 kg
@@ -1805,7 +1805,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil
   Price: 5 po
   Weight: 1,5 kg
@@ -1815,7 +1815,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 50 po
   Weight: 4 kg
@@ -1825,7 +1825,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 20 po
   Weight: 4,5 kg
@@ -1835,7 +1835,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 50 po
   Weight: 5 kg
@@ -1845,7 +1845,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 10 po
   Weight: 2,5 kg
@@ -1855,7 +1855,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 15 po
   Weight: 3 kg
@@ -1865,7 +1865,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 8 po
   Weight: 3 kg
@@ -1875,7 +1875,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 5 po
   Weight: 2,5 kg
@@ -1885,7 +1885,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 1 po
   Weight: 4 kg
@@ -1895,7 +1895,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 25 po
   Weight: 1,5 kg
@@ -1905,7 +1905,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 15 po
   Weight: 2,5 kg
@@ -1915,7 +1915,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 20 po
   Weight: 4 kg
@@ -1925,7 +1925,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 25 po
   Weight: 1 kg
@@ -1935,7 +1935,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 10 po
   Weight: 4 kg
@@ -1945,7 +1945,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 1 po
   Weight: 2,5 kg
@@ -1955,7 +1955,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 10 po
   Weight: 2,5 kg
@@ -1965,7 +1965,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 10 po
   Weight: 1,5 kg
@@ -1975,7 +1975,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 30 po
   Weight: 2,5 kg
@@ -1985,7 +1985,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 5 po
   Weight: 2,5 kg
@@ -1995,7 +1995,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 1 po
   Weight: 2,5 kg
@@ -2005,7 +2005,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Outil d'artisan
   Price: 25 po
   Weight: 0,5 kg
@@ -2015,7 +2015,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Monture
   Price: 8 po
   WeightCapacity: 210 kg
@@ -2026,7 +2026,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Monture
   Price: 50 po
   WeightCapacity: 240 kg
@@ -2037,7 +2037,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Monture
   Price: 400 po
   WeightCapacity: 270 kg
@@ -2048,7 +2048,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Monture
   Price: 75 po
   WeightCapacity: 240 kg
@@ -2059,7 +2059,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Monture
   Price: 50 po
   WeightCapacity: 270 kg
@@ -2070,7 +2070,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Monture
   Price: 200 po
   WeightCapacity: 660 kg
@@ -2081,7 +2081,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Monture
   Price: 25 po
   WeightCapacity: 97,5 kg
@@ -2092,7 +2092,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Monture
   Price: 30 po
   WeightCapacity: 112,5 kg
@@ -2103,7 +2103,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: x 4
   Weight: x 2
@@ -2113,7 +2113,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 100 po
   Weight: 300 kg
@@ -2123,7 +2123,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 250 po
   Weight: 50 kg
@@ -2133,7 +2133,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 35 po
   Weight: 200 kg
@@ -2143,7 +2143,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 15 po
   Weight: 100 kg
@@ -2153,7 +2153,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 5 pa
   Weight: _
@@ -2164,7 +2164,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 4 po
   Weight: 4 kg
@@ -2174,7 +2174,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 5 pc
   Weight: 5 kg
@@ -2185,7 +2185,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 2 po
   Weight: 0,5 kg
@@ -2195,7 +2195,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 5 po
   Weight: 7,5 kg
@@ -2205,7 +2205,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 10 po
   Weight: 12,5 kg
@@ -2215,7 +2215,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 60 po
   Weight: 20 kg
@@ -2225,7 +2225,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 20 po
   Weight: 15 kg
@@ -2235,7 +2235,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 20 po
   Weight: 150 kg
@@ -2245,7 +2245,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Bateau
   Price: 3 000 po
   Speed: 1,4 km/h
@@ -2255,7 +2255,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Bateau
   Price: 50 po
   Speed: 2,5 km/h
@@ -2265,7 +2265,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Bateau
   Price: 10 000 po
   Speed: 3 km/h
@@ -2275,7 +2275,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Bateau
   Price: 10 000 po
   Speed: 5 km/h
@@ -2285,7 +2285,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Bateau
   Price: 30 000 po
   Speed: 6,5 km/h
@@ -2295,7 +2295,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Bateau
   Price: 25 000 po
   Speed: 4 km/h
@@ -2305,7 +2305,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 1 pc
   Unity: 1 livre
@@ -2315,7 +2315,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 2 pc
   Unity: 1 livre
@@ -2325,7 +2325,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 2 pc
   Id: equipment_hd.md#poulet
@@ -2334,7 +2334,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 5 pc
   Unity: 1 livre
@@ -2344,7 +2344,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 1 pa
   Unity: 1 livre
@@ -2354,7 +2354,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 1 pa
   Unity: 1 m2
@@ -2364,7 +2364,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 5 pa
   Unity: 1 livre
@@ -2374,7 +2374,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 5 pa
   Unity: 1 m2
@@ -2384,7 +2384,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 1 po
   Unity: 1 livre
@@ -2394,7 +2394,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 1 po
   Id: equipment_hd.md#chèvre
@@ -2403,7 +2403,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 2 po
   Unity: 1 livre
@@ -2413,7 +2413,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 2 po
   Unity: 1 livre
@@ -2423,7 +2423,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 2 po
   Id: equipment_hd.md#mouton
@@ -2432,7 +2432,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 3 po
   Unity: 1 livre
@@ -2442,7 +2442,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 3 po
   Id: equipment_hd.md#cochon
@@ -2451,7 +2451,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 5 po
   Unity: 1 livre
@@ -2461,7 +2461,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 5 po
   Unity: 1 m2
@@ -2471,7 +2471,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 10 po
   Unity: 1 m2
@@ -2481,7 +2481,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 10 po
   Id: equipment_hd.md#vache
@@ -2490,7 +2490,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 15 po
   Unity: 1 livre
@@ -2500,7 +2500,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 15 po
   Id: equipment_hd.md#boeuf
@@ -2509,7 +2509,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 50 po
   Unity: 1 livre
@@ -2519,7 +2519,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Marchandise
   Price: 500 po
   Unity: 1 livre
@@ -2529,7 +2529,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Service
   Price: 2 pa
   Unity: par jour
@@ -2539,7 +2539,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Service
   Price: 2 po
   Unity: par jour
@@ -2549,7 +2549,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Service
   Price: 2 pc
   Unity: par kilomètre
@@ -2559,7 +2559,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Service
   Price: 1 pc
   Unity: route ou porte
@@ -2569,7 +2569,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Service
   Price: 1 pc
   Id: equipment_hd.md#transport-dans-une-ville
@@ -2578,7 +2578,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Service
   Price: 2 pc
   Unity: par kilomètre
@@ -2588,7 +2588,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Service
   Price: 7 pc
   Unity: par kilomètre
@@ -2598,7 +2598,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 10 po
   Unity: par personne
@@ -2608,7 +2608,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 4 pc
   Unity: chope
@@ -2618,7 +2618,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 2 pa
   Unity: cruche
@@ -2628,7 +2628,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 1 pa
   Unity: gros morceau
@@ -2638,7 +2638,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 7 pc
   Unity: par jour
@@ -2648,7 +2648,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 1 pa
   Unity: par jour
@@ -2658,7 +2658,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 5 pa
   Unity: par jour
@@ -2668,7 +2668,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 8 pa
   Unity: par jour
@@ -2678,7 +2678,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 2 po
   Unity: par jour
@@ -2688,7 +2688,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 4 po
   Unity: par jour
@@ -2698,7 +2698,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 2 pc
   Unity: miche
@@ -2708,7 +2708,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 3 pc
   Unity: par jour
@@ -2718,7 +2718,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 6 pc
   Unity: par jour
@@ -2728,7 +2728,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 3 pa
   Unity: par jour
@@ -2738,7 +2738,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 5 pa
   Unity: par jour
@@ -2748,7 +2748,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 8 pa
   Unity: par jour
@@ -2758,7 +2758,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 2 po
   Unity: par jour
@@ -2768,7 +2768,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 3 pa
   Unity: gros morceau
@@ -2778,7 +2778,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 2 pa
   Unity: cruche
@@ -2788,7 +2788,7 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
-- !Equipment
+- !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 10 po
   Unity: bouteille

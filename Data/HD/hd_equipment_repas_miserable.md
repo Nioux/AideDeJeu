@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Nourriture, boisson et logement
 Price: 3 pc
 Unity: par jour

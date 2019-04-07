@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Nourriture, boisson et logement
 Price: 10 po
 Unity: par personne

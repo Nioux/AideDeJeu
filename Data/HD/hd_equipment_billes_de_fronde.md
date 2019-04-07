@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurier / Munitions
 Price: 4 pc
 Weight: 0,75 kg

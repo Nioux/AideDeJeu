@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Armure légère
 Price: 45 po
 ArmorClass: 12 + modifcateur de Dex

@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurier / Focaliseur druidique
 Price: 5 po
 Weight: 2 kg

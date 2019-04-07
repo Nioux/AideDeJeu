@@ -2,7 +2,7 @@
 
 namespace AideDeJeuLib
 {
-    public class Equipments : FilteredItems
+    public class EquipmentItems : FilteredItems
     {
         public string Types { get; set; }
         public string Prices { get; set; }

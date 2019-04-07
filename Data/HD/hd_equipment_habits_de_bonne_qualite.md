@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurier / Vêtements
 Price: 15 po
 Weight: 3 kg

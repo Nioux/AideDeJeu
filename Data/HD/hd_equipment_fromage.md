@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Nourriture, boisson et logement
 Price: 1 pa
 Unity: gros morceau

@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Bateau
 Price: 10 000 po
 Speed: 5 km/h

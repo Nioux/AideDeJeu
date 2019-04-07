@@ -8,7 +8,7 @@ using System.Linq;
 
 namespace AideDeJeuLib
 {
-    public class Spells : FilteredItems
+    public class SpellItems : FilteredItems
     {
         public string Classes { get; set; }
         public string Levels { get; set; }

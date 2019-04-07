@@ -1,5 +1,5 @@
 ﻿---
-!Equipment
+!EquipmentItem
 Type: Équipement d'aventurierÉquipement d'aventurier
 Price: 4 po
 Weight: 17,5 kg

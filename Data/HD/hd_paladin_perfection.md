@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
-Name: Serment de perfection
-Source: (MDR p189)
 ParentClassId: hd_paladin.md
 Id: paladin_perfection_hd.md#serment-de-perfection
 RootId: paladin_perfection_hd.md
 ParentLink: paladin_hd.md#serments-sacrés
+Name: Serment de perfection
 ParentName: Serments sacrés
 NameLevel: 1
+Source: (MDR p189)
 Attributes: {}
 ---
 >  [Serments sacrés](hd_paladin_serments_sacres.md)
