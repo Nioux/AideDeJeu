@@ -56,6 +56,7 @@
             <Picker Title="Variante" HorizontalOptions="FillAndExpand" IsEnabled="{Binding SubBackgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding SubBackgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding SubBackgroundSelectedIndex, Mode=TwoWay}" />
             <ScrollView Orientation="Vertical">
                 <StackLayout>
+                    <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Description}" />
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Markdown}" />
                 </StackLayout>

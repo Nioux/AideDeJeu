@@ -373,14 +373,7 @@ namespace AideDeJeuCmd
                     flags[it.Id] = true;
                 }
                 await context.Items.AddRangeAsync(store._AllItems.Values);
-                try
-                {
-                    await context.SaveChangesAsync();
-                }
-                catch(Exception ex)
-                {
-                    Debug.WriteLine(ex);
-                }
+                await context.SaveChangesAsync();
 
                 var itemsSRD = await context.Items.Where(item => (item.Source != null && item.Source.Contains("SRD"))).ToListAsync();
                 var monsters = await context.Monsters.ToListAsync();

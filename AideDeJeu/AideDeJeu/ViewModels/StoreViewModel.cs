@@ -55,6 +55,7 @@ namespace AideDeJeu.ViewModels
         public Item ParseItem(string source, ref ContainerBlock.Enumerator enumerator, Dictionary<string, Item> allItems)
         {
             var currentItem = GetNewItem(enumerator.Current);
+            PropertyInfo currentProp = null;
 
             if (currentItem != null)
             {
@@ -65,66 +66,114 @@ namespace AideDeJeu.ViewModels
 
                     if (block is HtmlBlock)
                     {
-                        if (IsClosingItem(block))
+                        var htmlBlock = block as HtmlBlock;
+                        if (htmlBlock.Type == HtmlBlockType.Comment)
                         {
-                            currentItem.Id = GetNewAnchorId(source, currentItem.Name, allItems);
-                            if (currentItem.Id != null && allItems != null)
-                            {
-                                allItems[currentItem.Id] = currentItem;
-                            }
-                            return currentItem;
-                        }
-                        else if (IsNewItem(block))
-                        {
-                            var subItem = ParseItem(source, ref enumerator, allItems);
-                            subItem.ParentLink = GetNewAnchorId(source, currentItem.Name, allItems);
-                            subItem.ParentName = currentItem.Name;
-                            subItem.Markdown = $"> {subItem.ParentNameLink}\n\n---\n\n{subItem.Markdown}";
+                            var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
+                            var parsedComment = new ParsedComment(tag, withSigns: true);
 
-                            var propertyName = subItem.GetType().Name;
-
-                            if (currentItem.GetType().GetProperty(propertyName) != null)
+                            if (parsedComment.Type == ParsedCommentType.Item)
                             {
-                                PropertyInfo prop = currentItem.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
-                                if (null != prop && prop.CanWrite)
+                                if (parsedComment.IsClosing)
                                 {
-                                    prop.SetValue(currentItem, subItem, null);
-                                }
-                            }
-                            else //if (currentItem is Items)
-                            {
-                                if (allItems != null && currentItem.GetNewFilterViewModel() == null)
-                                {
-                                    var name = subItem.Name;
-                                    var level = Math.Max(1, Math.Min(6, subItem.NameLevel));
-                                    var link = (subItem is LinkItem ? (subItem as LinkItem).Link : subItem.Id);
-                                    currentItem.Markdown += $"\n\n{new String('#', level)} [{name}]({link})";
-                                    if(!string.IsNullOrEmpty(subItem.AltNameText))
+                                    currentItem.Id = GetNewAnchorId(source, currentItem.Name, allItems);
+                                    if (currentItem.Id != null && allItems != null)
                                     {
-                                        var altname = subItem.AltNameText;
-                                        var altlevel = Math.Max(1, Math.Min(6, subItem.NameLevel + 3));
-                                        currentItem.Markdown += $"\n\n{new String('#', altlevel)} _[{altname}]({link})_";
+                                        allItems[currentItem.Id] = currentItem;
                                     }
-                                    currentItem.Markdown += "\n\n";
+                                    return currentItem;
                                 }
                                 else
                                 {
-                                    var items = currentItem; // as Items;
-                                    items.AddChild(subItem);
+                                    var subItem = ParseItem(source, ref enumerator, allItems);
+                                    subItem.ParentLink = GetNewAnchorId(source, currentItem.Name, allItems);
+                                    subItem.ParentName = currentItem.Name;
+                                    subItem.Markdown = $"> {subItem.ParentNameLink}\n\n---\n\n{subItem.Markdown}";
+
+                                    var propertyName = subItem.GetType().Name;
+
+                                    if (currentItem.GetType().GetProperty(propertyName) != null)
+                                    {
+                                        PropertyInfo prop = currentItem.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
+                                        if (null != prop && prop.CanWrite)
+                                        {
+                                            prop.SetValue(currentItem, subItem, null);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        if (allItems != null && currentItem.GetNewFilterViewModel() == null)
+                                        {
+                                            var name = subItem.Name;
+                                            var level = Math.Max(1, Math.Min(6, subItem.NameLevel));
+                                            var link = (subItem is LinkItem ? (subItem as LinkItem).Link : subItem.Id);
+                                            currentItem.Markdown += $"\n\n{new String('#', level)} [{name}]({link})";
+                                            if (!string.IsNullOrEmpty(subItem.AltNameText))
+                                            {
+                                                var altname = subItem.AltNameText;
+                                                var altlevel = Math.Max(1, Math.Min(6, subItem.NameLevel + 3));
+                                                currentItem.Markdown += $"\n\n{new String('#', altlevel)} _[{altname}]({link})_";
+                                            }
+                                            currentItem.Markdown += "\n\n";
+                                        }
+                                        else
+                                        {
+                                            var items = currentItem; // as Items;
+                                            items.AddChild(subItem);
+                                        }
+                                    }
+                                    enumerator.MoveNext();
                                 }
+                            }
+                            else if (parsedComment.Type == ParsedCommentType.Property)
+                            {
+                                if (!parsedComment.IsClosing)
+                                {
+                                    PropertyInfo prop = currentItem.GetType().GetProperty(parsedComment.Name, BindingFlags.Public | BindingFlags.Instance);
+                                    if (null != prop && prop.CanWrite)
+                                    {
+                                        prop.SetValue(currentItem, "", null);
+                                        currentProp = prop;
+                                    }
+                                    enumerator.MoveNext();
+                                }
+                                else
+                                {
+                                    currentProp = null;
+                                    enumerator.MoveNext();
+                                }
+                            }
+                            else // comment html différent de item et property
+                            {
+                                var md = enumerator.Current.ToMarkdownString();
+                                currentItem.Markdown += md;
+                                if (currentProp != null)
+                                {
+                                    currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
+                                }
+                                enumerator.MoveNext();
+                            }
+                        }
+                        else // autre chose qu'un comment html
+                        {
+                            var md = enumerator.Current.ToMarkdownString();
+                            currentItem.Markdown += md;
+                            if (currentProp != null)
+                            {
+                                currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
                             }
                             enumerator.MoveNext();
                         }
-                        else
-                        {
-                            currentItem.Markdown += enumerator.Current.ToMarkdownString();
-                            enumerator.MoveNext();
-                        }
                     }
-                    else
+                    else // autre chose qu'un block html
                     {
                         ParseItemProperties(source, currentItem, block);
-                        currentItem.Markdown += enumerator.Current.ToMarkdownString();
+                        var md = enumerator.Current.ToMarkdownString();
+                        currentItem.Markdown += md;
+                        if (currentProp != null)
+                        {
+                            currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
+                        }
                         enumerator.MoveNext();
                     }
                 }
@@ -259,16 +308,27 @@ namespace AideDeJeu.ViewModels
             return false;
         }
 
+        public enum ParsedCommentType
+        {
+            Item,
+            Property,
+            None,
+        }
         public class ParsedComment
         {
-            public string Name { get; set; }
-            public Dictionary<string, string> Attributes { get; set; }
+            public string Name { get; private set; }
+            public ParsedCommentType Type { get; private set; }
+            public bool IsClosing { get; private set; }
+            public Dictionary<string, string> Attributes { get; private set; }
 
-            public ParsedComment(string comment)
+            public ParsedComment(string tag, bool withSigns = false)
             {
-                var regex = new Regex("(?<item>\\w+)(\\s+((?<name>\\w+)=\"(?<value>.*?)\"))*");
+                var comment = withSigns ? tag.Substring(4, tag.Length - 7) : tag;
+                var regex = new Regex("(?<closing>/?)(?<item>\\w+)(\\s+((?<name>\\w+)=\"(?<value>.*?)\"))*");
                 var match = regex.Match(comment);
                 Name = match.Groups["item"].Value;
+                Type = Name.EndsWith("Item") || Name.EndsWith("Items") ? ParsedCommentType.Item : Name != "br" ? ParsedCommentType.Property : ParsedCommentType.None;
+                IsClosing = !string.IsNullOrEmpty(match.Groups["closing"].Value);
                 var names = match.Groups["name"].Captures;
                 var values = match.Groups["value"].Captures;
                 Attributes = new Dictionary<string, string>();
@@ -282,7 +342,7 @@ namespace AideDeJeu.ViewModels
         bool CheckNewItem(string itemString)
         {
             var parsedComment = new ParsedComment(itemString);
-            if (parsedComment.Name.EndsWith("Item") || parsedComment.Name.EndsWith("Items"))
+            if (parsedComment.Type == ParsedCommentType.Item)
             {
                 var name = $"AideDeJeuLib.{parsedComment.Name}, AideDeJeu";
                 var type = Type.GetType(name);
@@ -291,7 +351,7 @@ namespace AideDeJeu.ViewModels
                     return true;
                 }
             }
-            else if(parsedComment.Name != "br")
+            else if(parsedComment.Type == ParsedCommentType.Property)
             {
                 Debug.WriteLine(parsedComment.Name);
             }
@@ -346,6 +406,19 @@ namespace AideDeJeu.ViewModels
                         }
                     }
                 }
+            }
+            return false;
+        }
+
+        public bool IsClosingProperty(Block block)
+        {
+            var htmlBlock = block as HtmlBlock;
+            if (htmlBlock.Type == HtmlBlockType.Comment)
+            {
+                var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
+                var comment = tag.Substring(4, tag.Length - 7);
+                var parsedComment = new ParsedComment(comment);
+                return parsedComment.IsClosing && parsedComment.Type == ParsedCommentType.Property;
             }
             return false;
         }
