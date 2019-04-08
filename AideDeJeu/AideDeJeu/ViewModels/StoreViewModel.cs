@@ -287,6 +287,10 @@ namespace AideDeJeu.ViewModels
                     return true;
                 }
             }
+            else
+            {
+                Debug.WriteLine(parsedComment.Name);
+            }
             return false;
         }
 
