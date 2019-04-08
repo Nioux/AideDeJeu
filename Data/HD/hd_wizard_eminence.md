@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Éminence grise
+Source: (MDR p174)
 ParentClassId: hd_wizard.md
 Id: wizard_eminence_hd.md#Éminence-grise
 RootId: wizard_eminence_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques
-Name: Éminence grise
 ParentName: Traditions arcaniques
 NameLevel: 1
-Source: (MDR p174)
 Attributes: {}
 ---
 >  [Traditions arcaniques](hd_wizard_traditions_arcaniques.md)

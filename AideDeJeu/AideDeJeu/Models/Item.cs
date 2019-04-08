@@ -344,5 +344,8 @@ namespace AideDeJeuLib
         [NotMapped]
         [IgnoreDataMember]
         public Dictionary<string, string> Attributes { get; set; } = new Dictionary<string, string>();
+
+        [DataMember]
+        public string Description { get; set; }
     }
 }

@@ -9,6 +9,9 @@ Name: 'Variante : Fugitif'
 ParentName: Brigand
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs se regroupent et se réfugient loin de ceux qui les pourchassent, en essayant de recréer dans la nature un semblant de leur vie passée.
+
 ---
 > [Brigand](hd_background_brigand.md)
 

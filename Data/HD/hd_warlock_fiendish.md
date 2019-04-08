@@ -1,14 +1,14 @@
 ﻿---
 !SubClassItem
+Name: Le fiélon
+Source: (MDR p215)
 ParentClassId: hd_warlock.md
 Id: warlock_fiendish_hd.md#le-fiélon
 RootId: warlock_fiendish_hd.md
 ParentLink: warlock_hd.md#protecteurs-doutre-monde
-Name: Le fiélon
 ParentName: Protecteurs d'outre-monde
 NameLevel: 1
 AltName: The Fiend (SRD p50)
-Source: (MDR p215)
 Attributes: {}
 ---
 >  [Protecteurs d'outre-monde](hd_warlock_protecteurs_doutre_monde.md)

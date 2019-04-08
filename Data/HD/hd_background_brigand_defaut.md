@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityDefectItem
+Table: >+
+  |d6|Défaut|
+
+  |---|---|
+
+  |1|Je ne pardonne jamais une offense ou une <!--br-->trahison.|
+
+  |2|Par ignorance ou par mépris des conventions, <!--br-->j'apparais souvent comme un rustre.|
+
+  |3|J'ai tendance à penser que ma solution est <!--br-->toujours la meilleure.|
+
+  |4|Je parle souvent avant de réfléchir.|
+
+  |5|Je n'accorde aucun crédit aux citadins et aux <!--br-->nantis.|
+
+  |6|J'ai une confiance excessive en mes propres <!--br-->capacités.|
+
 Id: background_brigand_hd.md#défaut
 ParentLink: background_brigand_hd.md#personnalités-suggérées
 Name: Défaut

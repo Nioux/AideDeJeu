@@ -9,6 +9,9 @@ Name: 'Variante : Pirate'
 ParentName: Brigand
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se retrouvent sur toutes les mers et les voies navigables au sein d'une confrérie étrange faite de violence, de sens de l'honneur et d'un goût prononcé pour la liberté.
+
 ---
 > [Brigand](hd_background_brigand.md)
 

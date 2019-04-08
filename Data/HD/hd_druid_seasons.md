@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Cercle des saisons
+Source: (MDR p147)
 ParentClassId: hd_druid.md
 Id: druid_seasons_hd.md#cercle-des-saisons
 RootId: druid_seasons_hd.md
 ParentLink: druid_hd.md#cercles-druidiques
-Name: Cercle des saisons
 ParentName: Cercles druidiques
 NameLevel: 1
-Source: (MDR p147)
 Attributes: {}
 ---
 >  [Cercles druidiques](hd_druid_cercles_druidiques.md)

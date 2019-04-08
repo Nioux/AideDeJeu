@@ -23,7 +23,13 @@ Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en m
 
 #### <!--Name-->Milieu naturel de prédilection<!--/Name-->
 
+<!--Description-->
+
 Vous avez une affinité avec un milieu naturel en particulier, où vous avez vécu et avez appris à survivre et à prospérer. Même si vous êtes capable de survivre dans des environnements variés, c'est là que vous vous sentez réellement chez vous. Lancez un dé ou sélectionnez l'un des choix suivants.
+
+<!--/Description-->
+
+<!--Table-->
 
 |d8|Milieu naturel de prédilection|
 |---|---|
@@ -36,13 +42,19 @@ Vous avez une affinité avec un milieu naturel en particulier, où vous avez vé
 |7|Toundra|
 |8|Steppe|
 
+<!--/Table-->
+
 <!--/BackgroundSpecialtyItem-->
 
 <!--SkillItem-->
 
 #### <!--Name-->Aptitude : Signes de piste<!--/Name-->
 
+<!--Description-->
+
 Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lire les multiples signes de la nature qui sont invisibles à un oeil moins averti que le vôtre. De plus, vous pratiquez un langage codé qui permet de laisser des indices à ceux qui, comme vous, ont embrassé le brigandage. Cela vous permet d'éviter la plupart des dangers et des embûches qui guettent souvent le voyageur dans les régions les moins civilisées du monde, et de communiquer avec d'autres brigands sans attirer l'attention.
+
+<!--/Description-->
 
 <!--/SkillItem-->
 
@@ -50,11 +62,17 @@ Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lir
 
 #### <!--Name-->Personnalités suggérées<!--/Name-->
 
+<!--Description-->
+
 Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de la société et de la vie bien réglée des citadins ou des villageois. Souvent considérés comme des individus dangereux ou peu recommandables, les brigands se concentrent avant tout sur l'instant présent et sur la survie de leur communauté.
+
+<!--/Description-->
 
 <!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+<!--Table-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -67,11 +85,15 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 |7|Je protège les miens comme une mère protège <!--br-->ses petits.|
 |8|Je suis aussi impitoyable que la nature peut <!--br-->l'être. La survie est à ce prix.|
 
+<!--/Table-->
+
 <!--/PersonalityTraitItem-->
 
 <!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
+
+<!--Table-->
 
 |d6|Idéal|
 |---|---|
@@ -82,11 +104,15 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 |5|**Liberté.** La vie en société est faite de chaînes <!--br-->et de restrictions et vous ne comptez pas vous <!--br-->laisser emprisonner. (Chaotique)|
 |6|**Autonomie.** Chacun doit pouvoir être en <!--br-->mesure d'assurer sa propre survie. (Neutre)|
 
+<!--/Table-->
+
 <!--/PersonalityIdealItem-->
 
 <!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
+
+<!--Table-->
 
 |d6|Lien|
 |---|---|
@@ -97,11 +123,15 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 |5|Ma région a été frappée par un désastre, et <!--br-->c'est à moi qu'il revient de trouver le moyen de <!--br-->restaurer ce qui peut l'être.|
 |6|J'ai déniché une information capitale <!--br-->(secret, carte au trésor, etc.) qui pourrait <!--br-->assurer définitivement la prospérité de ma <!--br-->communauté, et je compte bien en profiter.|
 
+<!--/Table-->
+
 <!--/PersonalityLinkItem-->
 
 <!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
+
+<!--Table-->
 
 |d6|Défaut|
 |---|---|
@@ -112,6 +142,8 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 |5|Je n'accorde aucun crédit aux citadins et aux <!--br-->nantis.|
 |6|J'ai une confiance excessive en mes propres <!--br-->capacités.|
 
+<!--/Table-->
+
 <!--/PersonalityDefectItem-->
 
 <!--/Items-->
@@ -120,7 +152,11 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 
 ### <!--Name-->Variante : Bandit de grand chemin<!--/Name-->
 
+<!--Description-->
+
 Les bandits vivent en marge des principaux axes de communication, et s'en prennent en bande aux voyageurs et aux commerçants, qu'ils détroussent en un tournemain avant de se réfugier dans des repaires isolés et difficiles d'accès.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Intimidation, Survie.<!--/Abilities-->
 
@@ -136,7 +172,11 @@ Les bandits vivent en marge des principaux axes de communication, et s'en prenne
 
 ### <!--Name-->Variante : Fugitif<!--/Name-->
 
+<!--Description-->
+
 Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs se regroupent et se réfugient loin de ceux qui les pourchassent, en essayant de recréer dans la nature un semblant de leur vie passée.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Supercherie, Survie.<!--/Abilities-->
 
@@ -150,7 +190,11 @@ Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs
 
 ### <!--Name-->Variante : Pirate<!--/Name-->
 
+<!--Description-->
+
 Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se retrouvent sur toutes les mers et les voies navigables au sein d'une confrérie étrange faite de violence, de sens de l'honneur et d'un goût prononcé pour la liberté.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Athlétisme, Supercherie.<!--/Abilities-->
 
@@ -162,7 +206,11 @@ Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se r
 
 #### <!--Name-->Aptitude : Confrérie<!--/Name-->
 
+<!--Description-->
+
 Vous appartenez à une confrérie universelle qui possède ses propres usages et ses propres codes. Quel que soit le port dans lequel vous vous trouvez, vous êtes capables de dénicher une auberge ou une taverne fréquentée par les vôtres, qui en cas de besoin peut servir de refuge ou d'endroit idéal pour dénicher des informations.
+
+<!--/Description-->
 
 <!--/SkillItem-->
 

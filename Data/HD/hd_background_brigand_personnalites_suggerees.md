@@ -6,6 +6,9 @@ Name: Personnalités suggérées
 ParentName: Brigand
 NameLevel: 4
 Attributes: {}
+Description: >+
+  Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de la société et de la vie bien réglée des citadins ou des villageois. Souvent considérés comme des individus dangereux ou peu recommandables, les brigands se concentrent avant tout sur l'instant présent et sur la survie de leur communauté.
+
 ---
 > [Brigand](hd_background_brigand.md)
 

@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityIdealItem
+Table: >+
+  |d6|Idéal|
+
+  |---|---|
+
+  |1|**Honneur.** La société peut penser ce qu'elle veut <!--br-->de vous. Ce qui vous importe avant tout, c'est <!--br-->votre conscience. (Loyal)|
+
+  |2|**Pouvoir.** Vous faites ce qui vous chante et <!--br-->prenez ce dont vous avez besoin quand vous en <!--br-->avez besoin. (Mauvais)|
+
+  |3|**Nature.** Vous avez développé un lien <!--br-->particulier avec la nature et souhaitez la <!--br-->préserver de la corruption de la civilisation. <!--br-->(Neutre)|
+
+  |4|**Bien commun.** Vous avez développé un sens <!--br-->élevé du partage, et vous mettez souvent <!--br-->l'intérêt de la communauté avant le vôtre. <!--br-->(Bon)|
+
+  |5|**Liberté.** La vie en société est faite de chaînes <!--br-->et de restrictions et vous ne comptez pas vous <!--br-->laisser emprisonner. (Chaotique)|
+
+  |6|**Autonomie.** Chacun doit pouvoir être en <!--br-->mesure d'assurer sa propre survie. (Neutre)|
+
 Id: background_brigand_hd.md#idéal
 ParentLink: background_brigand_hd.md#personnalités-suggérées
 Name: Idéal
