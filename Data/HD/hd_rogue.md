@@ -1,13 +1,13 @@
 ﻿---
 !ClassItem
-Name: Roublard
-AltName: Rogue (SRD p39)
-Source: (MDR p202)
 Id: rogue_hd.md#roublard
 RootId: rogue_hd.md
 ParentLink: classes_hd.md
+Name: Roublard
 ParentName: Classes
 NameLevel: 1
+AltName: Rogue (SRD p39)
+Source: (MDR p202)
 Attributes: {}
 ---
 >  [Classes](hd_classes.md)

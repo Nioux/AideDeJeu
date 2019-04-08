@@ -5,6 +5,7 @@ using Markdig;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Globalization;
 using System.IO;
 using System.Linq;
@@ -317,6 +318,10 @@ namespace AideDeJeuCmd
                             var item = store.ToItem(source, md, store._AllItems);
                             if (item != null)
                             {
+                                if(item.NewId == "hd_aasimar_aasimar.md")
+                                {
+                                    Debug.WriteLine("");
+                                }
                                 var anchors = new Dictionary<string, Item>();
                                 //MakeAnchors(source, anchors, item);
                                 item.RootId = $"{source}.md";
@@ -358,8 +363,24 @@ namespace AideDeJeuCmd
                 }
                 await context.Database.EnsureCreatedAsync();
 
+                var flags = new Dictionary<string, bool>();
+                foreach(var it in store._AllItems.Values)
+                {
+                    if(flags.ContainsKey(it.Id))
+                    {
+                        Debug.WriteLine(it);
+                    }
+                    flags[it.Id] = true;
+                }
                 await context.Items.AddRangeAsync(store._AllItems.Values);
-                await context.SaveChangesAsync();
+                try
+                {
+                    await context.SaveChangesAsync();
+                }
+                catch(Exception ex)
+                {
+                    Debug.WriteLine(ex);
+                }
 
                 var itemsSRD = await context.Items.Where(item => (item.Source != null && item.Source.Contains("SRD"))).ToListAsync();
                 var monsters = await context.Monsters.ToListAsync();

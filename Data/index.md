@@ -1,9 +1,9 @@
 
 <!--GenericItem-->
 
-# Manuel des règles
+# <!--Name-->Manuel des règles<!--/Name-->
 
-<!-- ## [Création du personnage] -->
+## [Création du personnage](beyond1stlevel_hd.md)
 
 ## [Races](races_hd.md)
 
@@ -29,7 +29,7 @@
 
 ## [Panthéons](pantheons_hd.md)
 
-<br>
+<!--br-->
 
 # Cadre de campagne
 
@@ -43,7 +43,7 @@
 
 ## [Jouer dans un multivers](planes_hd.md)
 
-<br>
+<!--br-->
 
 # Créatures et oppositions
 
@@ -59,11 +59,11 @@
 
 ## [Poisons](poisons_hd.md)
 
-<br>
+<!--br-->
 
 # [Les Cinq Royaumes](l5r_index_hd.md)
 
-<br>
+<!--br-->
 
 # SRD
 
@@ -72,7 +72,5 @@
 ## [Spells](spells_vo.md)
 
 ## [Monsters, Animals and NPC](monsters_vo.md)
-
-<!--  <br># [Sandbox](sandbox.md) -->
 
 <!--/GenericItem-->

@@ -244,6 +244,10 @@ namespace AideDeJeu.ViewModels
                         {
                             return true;
                         }
+                        else
+                        {
+                            Debug.WriteLine(tag);
+                        }
                         //var type = Type.GetType(name);
                         //if (type != null)
                         //{
@@ -287,7 +291,7 @@ namespace AideDeJeu.ViewModels
                     return true;
                 }
             }
-            else
+            else if(parsedComment.Name != "br")
             {
                 Debug.WriteLine(parsedComment.Name);
             }
@@ -335,6 +339,10 @@ namespace AideDeJeu.ViewModels
                         if (tag.EndsWith("Item-->") || tag.EndsWith("Items-->"))
                         {
                             return true;
+                        }
+                        else
+                        {
+                            Debug.WriteLine(tag);
                         }
                     }
                 }
