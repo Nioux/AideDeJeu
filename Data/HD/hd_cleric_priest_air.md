@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_priest_hd.md#air
 ParentLink: cleric_priest_hd.md#liste-des-domaines
 Name: Air

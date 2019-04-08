@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_redemption_hd.md#expiation
 ParentLink: paladin_redemption_hd.md#serment-de-rédemption
 Name: Expiation

@@ -9,7 +9,7 @@
 
 - Source: <!--Source-->(L5R p52)<!--/Source-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Aptitudes de classe<!--/Name-->
 
@@ -18,9 +18,9 @@
 Comme le rôdeur du livre de règles de Héros & Dragons. Cependant, les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras dans le tableau ci-contre sont nouvelles et détaillées par la suite. Les autres correspondent aux capacités du rôdeur de Héros & Dragons.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Tableau d'évolution<!--/Name-->
 
@@ -50,9 +50,9 @@ Comme le rôdeur du livre de règles de Héros & Dragons. Cependant, les aptitud
 |20|+6|[Tueur d'ennemis]|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Fils de la nature<!--/Name-->
 
@@ -60,9 +60,9 @@ Comme le rôdeur du livre de règles de Héros & Dragons. Cependant, les aptitud
 
 Vous ne faites plus qu'un avec la nature. En raison de votre enfance ou d'un entraînement intensif, vous savez comment survivre, vous soigner, et bien d'autres choses encore. Au niveau 2, vous gagnez l'une des capacités suivantes. Vous en gagnez une nouvelle aux niveaux 5, 9, 13 et 17. Une fois que l'une de ces capacités a été utilisée, il vous faut un repos long afin de pouvoir l'utiliser de nouveau, à moins que le texte de la capacité ne dise le contraire.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Onguents<!--/Name-->
 
@@ -76,9 +76,9 @@ Au niveau 9, vos contrepoisons peuvent contrer les poisons mortels.
 
 Au niveau 13, vos remèdes peuvent contrer tous types de maladies non-magiques.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Apaisement des animaux<!--/Name-->
 
@@ -96,9 +96,9 @@ Au niveau 17, vous pouvez utiliser cette capacité une fois entre deux repos cou
 
 De plus, dès le niveau 2 et de manière permanente, lorsque vous effectuez un test de Sagesse (Dressage), vous avez automatiquement l'[avantage]. Il en va de même pour tous les tests destinés à comprendre le comportement d'un animal.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Chasseur émérite<!--/Name-->
 
@@ -106,9 +106,9 @@ De plus, dès le niveau 2 et de manière permanente, lorsque vous effectuez un t
 
 Vous savez comment tirer avantage du terrain et vos attaques peuvent être mortelles. Quand vous êtes caché au début d'un combat, lors de votre toute première attaque, vous obtenez un bonus de 1d6 de dommages par point de bonus de maîtrise. Une fois votre première attaque passée, vous ne pouvez plus vous servir de cette capacité. Au niveau 17, sur cette attaque uniquement, si vous obtenez une réussite critique, l'intégralité des dommages issus de ces d6 bonus sont infligés aux points de vitalité de la cible (et non la moitié). Vous pouvez vous servir de cette capacité à chaque combat, si les circonstances le permettent.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Sens aiguisés<!--/Name-->
 
@@ -122,9 +122,9 @@ Au niveau 13, vous obtenez [Vision aveugle] pour une minute, plus un round par n
 
 Au niveau 17, vous êtes désormais capable d'utiliser cette capacité entre deux repos courts. Utiliser cette capacité au niveau 13 ([Vision aveugle]) demande de maintenir sa Concentration.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Fantôme insaisissable<!--/Name-->
 
@@ -134,9 +134,9 @@ Lorsque vous êtes en pleine nature, il est presque impossible de vous repérer.
 
 Au niveau 9, lorsque vous activez cette capacité, vous ne faites plus aucun bruit en vous déplaçant.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Constitution hors norme<!--/Name-->
 
@@ -146,9 +146,9 @@ Le temps passé en pleine nature et les morsures de bêtes venimeuses ou les piq
 
 Au niveau 9, vous êtes immunisé aux poisons non-magiques ne pouvant pas être mortels (les poisons infligeant des dégâts sont donc considérés comme potentiellement mortels) ainsi qu'aux maladies naturelles bénignes.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Compagnon spirituel<!--/Name-->
 
@@ -160,9 +160,9 @@ Au niveau 9, la créature peut être sanguinaire et avoir un Indice de Dangerosi
 
 Au niveau 17, la créature peut devenir une créature avec un Indice de Dangerosité 2, mais elle doit rester animale et naturelle.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Sens du danger<!--/Name-->
 
@@ -170,9 +170,9 @@ Au niveau 17, la créature peut devenir une créature avec un Indice de Dangeros
 
 Au niveau 3, vos sens deviennent si aiguisés qu'il est difficile de vous surprendre. Vous obtenez l'[avantage] sur vos jets de sauvegarde de Dextérité contre les dangers que vous pouvez voir arriver (pièges ou effets magiques physiques). De plus, lors d'un test d'Initiative, si vous obtenez un résultat inférieur à 10 sur le d20, considérez que vous avez obtenu 10. Vous ne pouvez utiliser cette aptitude si vous êtes [assourdi], [aveuglé] ou [neutralisé].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Archétypes de rôdeur<!--/Name-->
 
@@ -180,9 +180,9 @@ Au niveau 3, vos sens deviennent si aiguisés qu'il est difficile de vous surpre
 
 Tous les archétypes de rôdeur s'appliquent au rôdeur des cinq royaumes. Cependant, l'archer arcanique propose une version plus magique et nous vous conseillons soit de l'ignorer, soit de ne l'autoriser qu'à un rôdeur possédant la capacité [compagnon spirituel] (et ayant donc touché du doigt la magie du monde), ou à un personnage ayant eu une expérience particulière avec la magie ou les puissances faëriques.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Exilé<!--/Name-->
 
@@ -192,9 +192,9 @@ Certaines capacités de l'exilé semblent faire doublon avec la capacité [Ongue
 
 Voir [Exilé].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Traqueur<!--/Name-->
 
@@ -204,9 +204,9 @@ Cet archétype reste le même.
 
 Voir [Traqueur].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Pisteur<!--/Name-->
 
@@ -215,7 +215,7 @@ Voir [Traqueur].
 Cette option ne s'applique pas aux cinq royaumes.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

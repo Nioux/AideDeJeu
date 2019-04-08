@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#attaquants-et-cibles-invisibles
 ParentLink: combat_hd.md#combattre
 Name: Attaquants et cibles invisibles

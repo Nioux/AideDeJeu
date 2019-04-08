@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rituals_hd.md#Étape-2--modifier-le-degré-de-difficulté
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 Name: 'Étape 2 : Modifier le degré de difficulté'

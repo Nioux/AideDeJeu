@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: beyond1stlevel_hd.md#Évolution-des-personnages
 ParentLink: beyond1stlevel_hd.md#au-delà-du-niveau-1
 Name: Évolution des personnages

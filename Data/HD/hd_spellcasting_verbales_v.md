@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#verbales-v
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Verbales (V)

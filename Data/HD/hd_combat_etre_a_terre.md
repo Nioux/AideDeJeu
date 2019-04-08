@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#Être-à-terre
 ParentLink: combat_hd.md#combattre
 Name: Être à terre

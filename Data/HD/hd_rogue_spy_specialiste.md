@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_spy_hd.md#spécialiste
 ParentLink: rogue_spy_hd.md#espion
 Name: Spécialiste

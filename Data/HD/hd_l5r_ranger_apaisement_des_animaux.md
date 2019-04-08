@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_ranger_hd.md#apaisement-des-animaux
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
 Name: Apaisement des animaux

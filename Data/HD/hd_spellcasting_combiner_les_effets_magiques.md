@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#combiner-les-effets-magiques
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Combiner les effets magiques

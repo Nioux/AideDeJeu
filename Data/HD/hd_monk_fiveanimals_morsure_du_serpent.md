@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_fiveanimals_hd.md#morsure-du-serpent
 ParentLink: monk_fiveanimals_hd.md#voie-des-cinq-animaux
 Name: Morsure du serpent

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: multiclassing_hd.md#défense-sans-armure
 ParentLink: multiclassing_hd.md#multiclassage
 Name: Défense sans armure

@@ -13,23 +13,23 @@ Le druide du cercle des fées a appris les secrets du petit peuple des bois et d
 
 Les druides du cercle des fées sont parfois considérés comme des extrémistes par leurs pairs, ce sont ceux qui supportent le moins la destruction des milieux naturels.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Ami des fées<!--/Name-->
 
 Au niveau 2, lorsque vous choisissez le cercle des fées, vous apprenez le langage sylvain (langue exotique). De plus, vous bénéficiez d'un avantage à tous les tests de [Charisme] que vous effectuez pour interagir avec des créatures de la catégorie des fées.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Magie des fées<!--/Name-->
 
 Également au niveau 2, vous apprenez les tours de magie illusion mineure et lumières dansantes. De plus, vous pouvez dépenser une utilisation de votre forme sauvage pour lancer un sort féerique sans dépenser d'emplacement de sort.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Sorts féeriques<!--/Name-->
 
@@ -48,9 +48,9 @@ Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont 
 |8|terrain hallucinatoire|
 |9|tromperie|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Disparition instinctive<!--/Name-->
 
@@ -60,17 +60,17 @@ Vous savez passer dans le monde invisible en un instant.
 
 Vous pouvez utiliser cette réaction dès qu'un adversaire prend une action dans votre champ de vision. À partir du niveau 10, vous pouvez lancer le sort porte dimensionnelle en utilisant une action bonus, et une réaction suffit à partir du niveau 14. De plus, vous pouvez lancer ces sorts, toujours en action bonus ou en réaction, même lorsque vous êtes en forme sauvage (éventuellement en utilisant votre aptitude de magie des fées).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Voir l'invisible<!--/Name-->
 
 Toujours au niveau 6, votre habitude des tours de magie des fées vous permet de lancer le sort vision de l'invisible en dépensant une action bonus et sans utiliser d'emplacement de sort, même en forme sauvage. Vous devez terminer un repos court avant de pouvoir utiliser à nouveau cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Forme féerique<!--/Name-->
 
@@ -78,9 +78,9 @@ Certains tertres et palais féeriques par-delà le voile n'ont pas des dimension
 
 Lorsque vous êtes sous la forme d'un esprit-follet, vous pouvez lancer vos sorts normalement et vous conservez vos propres points de vie. Toutefois, notez à part les points de vie perdus sous cette forme. Lorsque vous reprenez votre forme originale, vous récupérez la moitié des points de vie perdus sous la forme d'esprit-follet. Si vous tombez à 0 point de vie, vous reprenez votre forme normale avec la moitié de vos points de vie au moment de la transformation, moins les dégâts subis au-delà de 0 point de vie.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Sorcellerie féerique<!--/Name-->
 
@@ -90,7 +90,7 @@ Vous maîtrisez à présent la plus puissante magie des fées.
 
 Également au niveau 14, vous devenez capable de prendre la forme d'un arbre éveillé en sacrifiant deux utilisations de votre aptitude de forme sauvage.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

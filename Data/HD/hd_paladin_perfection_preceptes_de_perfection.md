@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_perfection_hd.md#préceptes-de-perfection
 ParentLink: paladin_perfection_hd.md#serment-de-perfection
 Name: Préceptes de perfection

@@ -36,7 +36,7 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 
 **Langue.** <!--Languages-->Vous pouvez parler, lire et écrire en commun et en draconique. Le draconique est considéré comme une des langues les plus anciennes et est souvent utilisé pour étudier la magie. C'est une langue composée de consonnes dures et de sifflement, qui semble rude à la plupart des autres créatures.<!--/Languages-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Ascendance<!--/Name-->
 
@@ -54,7 +54,7 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 |Vert|Poison|Cône de 4,50 m|[Constitution]|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/RaceItem-->
 

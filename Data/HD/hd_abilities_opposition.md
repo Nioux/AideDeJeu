@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_hd.md#opposition
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: Opposition

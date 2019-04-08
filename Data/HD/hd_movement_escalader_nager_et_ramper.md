@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: movement_hd.md#escalader-nager-et-ramper
 ParentLink: movement_hd.md#déplacement
 Name: Escalader, nager et ramper

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_hitpoints_hd.md#option--un-peu-moins-de-mortalité-
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 Name: 'Option : un peu moins de mortalité '

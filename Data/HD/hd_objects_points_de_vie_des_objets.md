@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: objects_hd.md#points-de-vie-des-objets
 ParentLink: objects_hd.md#les-objets
 Name: Points de vie des objets

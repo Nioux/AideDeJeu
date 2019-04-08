@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: madness_hd.md#devenir-fou
 ParentLink: madness_hd.md#la-folie
 Name: Devenir fou

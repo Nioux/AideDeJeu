@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_hitpoints_hd.md#Éviter-la-mort
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 Name: Éviter la mort

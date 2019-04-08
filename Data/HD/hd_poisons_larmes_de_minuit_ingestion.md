@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#larmes-de-minuit-ingestion
 ParentLink: poisons_hd.md#les-poisons
 Name: Larmes de minuit (ingestion)

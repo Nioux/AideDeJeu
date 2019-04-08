@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#les-écoles-de-magie
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Les écoles de magie

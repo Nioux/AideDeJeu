@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: artifacts_hd.md#perle-des-profondeurs
 ParentLink: artifacts_hd.md#artefacts
 Name: PERLE DES PROFONDEURS

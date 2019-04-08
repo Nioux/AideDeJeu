@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_flexibility_hd.md#Étreinte-mortelle
 ParentLink: monk_flexibility_hd.md#voie-de-la-souplesse
 Name: Étreinte mortelle

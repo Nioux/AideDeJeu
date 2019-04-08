@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#empoignade
 ParentLink: combat_hd.md#combattre
 Name: Empoignade

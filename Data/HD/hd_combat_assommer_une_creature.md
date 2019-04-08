@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#assommer-une-créature
 ParentLink: combat_hd.md#combattre
 Name: Assommer une créature

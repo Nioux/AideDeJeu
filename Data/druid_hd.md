@@ -193,7 +193,7 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Cercles druidiques<!--/Name-->
 
@@ -205,7 +205,7 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 
 ## [Cercle des profondeurs]
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

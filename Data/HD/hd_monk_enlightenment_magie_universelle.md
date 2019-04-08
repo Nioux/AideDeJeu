@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_enlightenment_hd.md#magie-universelle
 ParentLink: monk_enlightenment_hd.md#voie-de-lillumination
 Name: Magie universelle

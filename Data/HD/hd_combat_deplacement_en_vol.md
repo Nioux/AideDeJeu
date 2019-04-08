@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#déplacement-en-vol
 ParentLink: combat_hd.md#combattre
 Name: Déplacement en vol

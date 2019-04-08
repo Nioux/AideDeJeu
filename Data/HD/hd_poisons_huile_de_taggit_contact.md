@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#huile-de-taggit-contact
 ParentLink: poisons_hd.md#les-poisons
 Name: Huile de taggit (contact)

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_swordsman_hd.md#jeu-de-jambes
 ParentLink: fighter_swordsman_hd.md#bretteur
 Name: Jeu de jambes

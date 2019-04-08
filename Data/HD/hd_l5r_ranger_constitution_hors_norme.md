@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_ranger_hd.md#constitution-hors-norme
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
 Name: Constitution hors norme

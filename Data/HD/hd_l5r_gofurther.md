@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_gofurther_hd.md#aller-encore-plus-loin-?
 RootId: l5r_gofurther_hd.md
 ParentLink: l5r_index_hd.md

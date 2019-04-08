@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_fiendish_hd.md#traversée-des-enfers
 ParentLink: warlock_fiendish_hd.md#le-fiélon
 Name: Traversée des Enfers

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#venin-de-serpent-blessure
 ParentLink: poisons_hd.md#les-poisons
 Name: Venin de serpent (blessure)

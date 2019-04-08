@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rituals_hd.md#paramètres-du-rituel-et-modificateurs-au-dd-des-tests-de-compétence
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 Name: Paramètres du rituel et modificateurs au DD des tests de compétence

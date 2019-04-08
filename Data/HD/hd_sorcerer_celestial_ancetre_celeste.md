@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sorcerer_celestial_hd.md#ancêtre-céleste
 ParentLink: sorcerer_celestial_hd.md#lignée-céleste
 Name: Ancêtre céleste

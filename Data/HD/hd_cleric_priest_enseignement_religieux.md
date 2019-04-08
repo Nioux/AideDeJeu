@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_priest_hd.md#enseignement-religieux
 ParentLink: cleric_priest_hd.md#prêtre
 Name: Enseignement religieux

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#bousculer-une-créature
 ParentLink: combat_hd.md#combattre
 Name: Bousculer une créature

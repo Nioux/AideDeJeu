@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#objets-appariés
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Objets appariés

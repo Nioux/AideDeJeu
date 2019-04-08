@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_fiveanimals_hd.md#vitesse-du-léopard
 ParentLink: monk_fiveanimals_hd.md#voie-des-cinq-animaux
 Name: Vitesse du léopard

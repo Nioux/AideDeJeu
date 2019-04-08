@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: armor_hd.md#armures-intermédiaires
 ParentLink: armor_hd.md#armures
 Name: Armures intermédiaires

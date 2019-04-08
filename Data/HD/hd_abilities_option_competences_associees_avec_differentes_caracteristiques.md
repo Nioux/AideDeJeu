@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_hd.md#option--compétences-associées-avec-différentes-caractéristiques
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: 'Option : compétences associées avec différentes caractéristiques'

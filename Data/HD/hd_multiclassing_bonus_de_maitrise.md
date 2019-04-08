@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: multiclassing_hd.md#bonus-de-maîtrise
 ParentLink: multiclassing_hd.md#multiclassage
 Name: Bonus de maîtrise

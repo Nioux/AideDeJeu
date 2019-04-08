@@ -13,7 +13,7 @@ Certains magiciens sont attirés par le pouvoir terrestre plus que par le pouvoi
 
 Cela fait d'eux des magiciens parfaitement adaptés aux opérations sous couverture, capables d'oeuvrer dans des régions ou des cultures où la magie est contrôlée voire interdite.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Politicien<!--/Name-->
 
@@ -23,17 +23,17 @@ Interprète
 
 Toujours au niveau 2, vous apprenez le sort [compréhension des langues]. Vous le lancez sans utiliser d'emplacement, comme s'il s'agissait d'un tour de magie. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Imposture<!--/Name-->
 
 Au niveau 6, vous apprenez le sort [déguisement], et vous le lancez sans utiliser d'emplacement. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer. Lorsque vous êtes déguisé de façon à ce que votre cible puisse vous confondre avec un allié, vous obtenez un avantage sur votre premier jet d'attaque contre cette cible. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Tour silencieux<!--/Name-->
 
@@ -41,17 +41,17 @@ Vous préférez éviter l'emploi de la violence pour régler vos affaires. Toute
 
 Au niveau 10, ce bonus passe à 2d6 dégâts et au niveau 14 à 3d6. Les dégâts sont du même type que ceux du sort.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Historiographe<!--/Name-->
 
 Au niveau 10, vous obtenez un avantage aux tests d'[Intelligence (Histoire)], lorsqu'ils concernent les lignées royales ou l'histoire des nations.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Influence<!--/Name-->
 
@@ -59,17 +59,17 @@ Au niveau 10 encore, vous apprenez le sort [apaisement des émotions] et pouvez 
 
 Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Esprit impénétrable<!--/Name-->
 
 Au niveau 14, vous apprenez le sort [non-détection] et pouvez le lancer sans utiliser d'emplacement. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer.Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Incantation discrète<!--/Name-->
 
@@ -77,7 +77,7 @@ Enfin, également au niveau 14, vous devenez capable de lancer des sorts sans vo
 
 Vous pouvez lancer vos quatre sorts privilégiés ([compréhension des langues], [déguisement], [apaisement des émotions] et [non-détection]) sans composante vocale ni somatique sans augmenter le niveau du sort utilisé.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

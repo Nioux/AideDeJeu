@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_priest_hd.md#sorts-de-domaine
 ParentLink: cleric_priest_hd.md#prêtre
 Name: Sorts de domaine

@@ -10,7 +10,7 @@
 - SRD: <!--AltName-->Races<!--/AltName-->
 - Source: <!--Source-->(MDR p36)(SRD p3)<!--/Source-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Traits raciaux<!--/Name-->
 
@@ -19,7 +19,7 @@
 
 Chaque race possède des traits raciaux communs à tous ses membres. Vous pourrez trouver la terminologie suivante parmi les traits de la plupart des races.
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Augmentation de caractéristiques<!--/Name-->
 
@@ -28,9 +28,9 @@ Chaque race possède des traits raciaux communs à tous ses membres. Vous pourre
 
 Chaque race accorde un bonus à une ou plusieurs caractéristiques du personnage.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Âge<!--/Name-->
 
@@ -39,9 +39,9 @@ Chaque race accorde un bonus à une ou plusieurs caractéristiques du personnage
 
 Cette entrée indique l’âge à partir duquel un individu est considéré comme un adulte ainsi que la longévité moyenne des représentants de cette race. Cette information peut vous aider à choisir l’âge de votre personnage au début du jeu. Vous êtes libre de lui donner l’âge de votre choix. Ce dernier peut expliquer la répartition de vos valeurs de caractéristiques. Par exemple, si vous jouez un personnage jeune ou très vieux, votre âge pourra expliquer des valeurs de Force et Constitution particulièrement basses, et un âge avancé pourra justifier de bonnes valeurs d’Intelligence et de Sagesse.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Alignement<!--/Name-->
 
@@ -50,9 +50,9 @@ Cette entrée indique l’âge à partir duquel un individu est considéré comm
 
 La plupart des races tendent naturellement vers un alignement donné, mentionné dans cette entrée. L’alignement est indiqué à titre informatif et les joueurs ne sont pas obligés de l’adopter, mais si vous vous demandez pourquoi votre nain est d’alignement Chaotique, en rébellion par rapport à une société naine plutôt Loyale, par exemple, cela peut vous aider à mieux déterminer son comportement.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Taille<!--/Name-->
 
@@ -61,9 +61,9 @@ La plupart des races tendent naturellement vers un alignement donné, mentionné
 
 Les personnages de la plupart des races sont de taille moyenne, une catégorie qui regroupe les créatures qui se situent entre 1,20 mètre et 2,40 mètres. Les membres de certaines races sont de taille petite (60 centimètres à 1,20 mètre), ce qui signifie que certaines règles du jeu ne les affecteront pas de la même manière que les autres. La règle la plus importante pour les petites créatures est qu’elles ont des difficultés à manier les armes lourdes, comme cela est expliqué au chapitre 5, Équipement, page 227.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Vitesse<!--/Name-->
 
@@ -72,9 +72,9 @@ Les personnages de la plupart des races sont de taille moyenne, une catégorie q
 
 Votre vitesse correspond à la distance que vous pouvez parcourir quand vous voyagez (voir le chapitre 8, Partir à l’aventure, pages 269-281) ou quand vous combattez (voir le chapitre 9, Combattre, pages 282-295).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Langues<!--/Name-->
 
@@ -83,9 +83,9 @@ Votre vitesse correspond à la distance que vous pouvez parcourir quand vous voy
 
 Le fait d’appartenir à une race donnée vous permet de parler, lire et écrire certaines langues.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Peuples<!--/Name-->
 
@@ -94,9 +94,9 @@ Le fait d’appartenir à une race donnée vous permet de parler, lire et écrir
 
 Certaines races se divisent en plusieurs peuples avec des différences culturelles et parfois physiques. Les membres de chaque peuple possèdent les traits de la race dont ils sont issus, ainsi que ceux du peuple auquel ils appartiennent. Les relations entre les diverses populations d’une même race peuvent varier énormément d’une race ou d’un monde à l’autre.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--LinkItem-->
 

@@ -9,7 +9,7 @@
 
 - Source: <!--Source-->(L5R p42)<!--/Source-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Niveau maximum optimal<!--/Name-->
 
@@ -19,9 +19,9 @@ Dans l'univers des cinq royaumes, on ne trouve pas une tour de mage dans chaque 
 
 Le niveau maximal optimal pour une campagne au sein des cinq royaumes devrait être de 12 à 14. Les personnages peuvent exister au-delà mais seront particulièrement fragiles. Ainsi, nous vous déconseillons d'utiliser des créatures au-delà de l'ID 12 ou 14. De même, les PNJ humains ne devraient pas dépasser un ID de 9 ou 10. Les créatures à l'ID élevé devraient donc être affaiblies avant d'être affrontées via une quête, un rituel, un objet magique ou autre.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Moins de classes jouables<!--/Name-->
 
@@ -34,7 +34,7 @@ Les classes jouables sont : barbare, barde, druide, guerrier, rôdeur et roublar
 Le barde et le rôdeur ne lancent plus de sorts. Le druide est donc le dernier lanceur de sorts disponible dans les cinq royaumes. Cependant, il fonctionne légèrement différemment. Ces trois classes ont été transformées ou reconstruites pour mieux s'adapter à l'ambiance de l'univers (voir p.52, 57 et 59).
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

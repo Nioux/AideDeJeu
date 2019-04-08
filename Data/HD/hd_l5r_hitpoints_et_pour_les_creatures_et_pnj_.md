@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_hitpoints_hd.md#et-pour-les-créatures-et-pnj-?
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 Name: Et pour les créatures et PNJ ?

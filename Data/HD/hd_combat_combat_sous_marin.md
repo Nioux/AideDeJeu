@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#combat-sous-marin
 ParentLink: combat_hd.md#combattre
 Name: Combat sous-marin

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_human_hd.md#traits-de-base-des-humains
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
 Name: Traits de base des humains

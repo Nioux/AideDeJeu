@@ -13,15 +13,15 @@ Le hurlement est un exutoire à la rage qui gronde dans les entrailles du barbar
 
 Le barbare qui choisit la voie du hurlement suit une tradition ancienne perpétuée depuis de nombreuses générations au sein de son clan. Ceux qui pratiquent l'art du hurlement marquent leur statut dans leur peau et leurs chairs afin de se distinguer des autres membres du clan, mais aussi pour effrayer leurs adversaires par une apparence féroce qui contribue à leur réputation. Cela prend généralement la forme de tatouages, de coiffures originales (crâne à demi rasé, tresses), de piercings et de scarifications (cicatrices rituelles). À chaque fois que vous obtenez une nouvelle aptitude de la voie du hurlement, vous devrez ajouter une modification corporelle supplémentaire à votre apparence afin de marquer votre changement de statut.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Intimidant<!--/Name-->
 
 Dès le niveau 3, votre apparence est si inhabituelle et effrayante que vous bénéficiez d'un avantage à tous les tests de [Charisme (Intimidation)] ou de [Force (Intimidation)].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Scarification rituelle<!--/Name-->
 
@@ -31,9 +31,9 @@ Pour utiliser votre action à ce tour, vous perdez un point de vie et vous entre
 
 À chaque fois que vous entrez en rage, vous pouvez choisir d'utiliser ou non cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Hurlement du tonnerre<!--/Name-->
 
@@ -41,23 +41,23 @@ Pour utiliser votre action à ce tour, vous perdez un point de vie et vous entre
 
 Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Cri sauvage<!--/Name-->
 
 Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous poussez lorsque vous frappez un ennemi de toutes vos forces. À partir du niveau 10, lorsque vous choisissez d'utiliser votre aptitude témérité, vous pouvez dépenser une action bonus pour pousser un cri sauvage et obtenir un bonus de 1d6 aux dégâts infligés par une attaque au corps-à-corps à votre tour. Si vous êtes à ce moment-là en rage, vous ajoutez 1d8 aux dégâts de l'attaque au lieu de 1d6.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Hurlement terrifiant<!--/Name-->
 
 À partir du niveau 14, vous pouvez pousser un terrible hurlement qui effraye vos ennemis. Vous utilisez votre action à ce round, et tous vos adversaires dans un rayon de 9 mètres autour de vous doivent réussir un [jet de sauvegarde] de [Sagesse] ou de [Force] au choix (difficulté 8 + modificateur de [Force] + bonus de maîtrise) ou être terrorisés pendant 1 minute. Si vous êtes en rage, les cibles subissent un désavantage à leur [jet de sauvegarde]. Vous devez terminer un repos court avant d'utiliser à nouveau cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

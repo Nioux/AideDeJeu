@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_occultsummons_hd.md#visions-embrumées
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
 Name: Visions embrumées

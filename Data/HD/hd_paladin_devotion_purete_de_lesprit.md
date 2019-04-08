@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_devotion_hd.md#pureté-de-lesprit
 ParentLink: paladin_devotion_hd.md#serment-de-dévotion
 Name: Pureté de l'esprit

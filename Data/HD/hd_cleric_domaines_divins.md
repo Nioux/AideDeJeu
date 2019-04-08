@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_hd.md#domaines-divins
 ParentLink: cleric_hd.md#clerc
 Name: Domaines divins

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#teinture-pâle-ingestion
 ParentLink: poisons_hd.md#les-poisons
 Name: Teinture pâle (ingestion)

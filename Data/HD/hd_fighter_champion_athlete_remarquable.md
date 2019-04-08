@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_champion_hd.md#athlète-remarquable
 ParentLink: fighter_champion_hd.md#champion
 Name: Athlète remarquable

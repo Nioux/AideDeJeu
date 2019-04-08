@@ -15,7 +15,7 @@ Généralement, les ensorceleurs issus de cette origine peuvent retracer leur as
 
 Bien entendu, les tieffelins eux-mêmes sont particulièrement adaptés à une telle lignée.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Ancêtre fiélon<!--/Name-->
 
@@ -23,9 +23,9 @@ Vous pouvez parler, lire et écrire en infernal ou en abyssal selon que votre li
 
 De plus, à chaque fois que vous faites un test de [Charisme] alors que vous interagissez avec des fiélons, votre bonus de maîtrise est doublé s'il s'applique.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Résistance des fiélons<!--/Name-->
 
@@ -33,25 +33,25 @@ Au niveau 1, vous obtenez la résistance aux dégâts de poison et un avantage �
 
 En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résistance au dégâts contondants, perforants et tranchants infligés par des attaques non magiques pendant un nombre de rounds égal à votre bonus de maîtrise.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Magie du sang<!--/Name-->
 
 À partir du niveau 6, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points de vie et vous gagnez immédiatement 1 point de sorcellerie que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de vie supplémentaires pour chaque point de sorcellerie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux repos courts ou longs.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Résistance supérieure<!--/Name-->
 
 À mesure que la magie de votre lignée coule dans vos veines, elle fait émerger la résistance des fiélons aux agressions élémentaires. Au niveau 14, en dépensant 1point de sorcellerie et une action bonus, vous obtenez la résistance aux dégâts de feu, de foudre et de froid pendant un nombre de minutes égal à votre bonus de maîtrise.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Forme infernale<!--/Name-->
 
@@ -59,7 +59,7 @@ En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résis
 
 La transformation vous coûte un nombre de points de sorcellerie égal à l'indice de dangerosité du démon ou du diable choisi. Chaque fois que vous souhaitez changer de forme, vous devez à nouveau payer le coût en points de sorcellerie. Vous ne pouvez pas utiliser l'aptitude magie du sang lorsque vous êtes sous les effets de forme infernale.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

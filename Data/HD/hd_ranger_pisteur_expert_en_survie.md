@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: ranger_pisteur_hd.md#expert-en-survie
 ParentLink: ranger_pisteur_hd.md#pisteur--un-rôdeur-alternatif
 Name: Expert en survie

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_brute_hd.md#regard-noir
 ParentLink: rogue_brute_hd.md#brute
 Name: Regard noir

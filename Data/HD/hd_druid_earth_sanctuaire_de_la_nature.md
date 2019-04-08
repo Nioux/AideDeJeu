@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: druid_earth_hd.md#sanctuaire-de-la-nature
 ParentLink: druid_earth_hd.md#cercle-de-la-terre
 Name: Sanctuaire de la nature

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_charisma_hd.md#intimidation
 ParentLink: abilities_charisma_hd.md#charisme
 Name: Intimidation

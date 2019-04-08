@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: resting_hd.md#repos-long
 ParentLink: resting_hd.md#repos
 Name: Repos long

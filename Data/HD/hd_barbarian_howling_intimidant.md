@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: barbarian_howling_hd.md#intimidant
 ParentLink: barbarian_howling_hd.md#voie-du-hurlement
 Name: Intimidant

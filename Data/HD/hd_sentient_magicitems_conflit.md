@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sentient_magicitems_hd.md#conflit
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
 Name: Conflit

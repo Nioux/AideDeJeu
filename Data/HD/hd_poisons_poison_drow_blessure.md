@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#poison-drow-blessure
 ParentLink: poisons_hd.md#les-poisons
 Name: Poison drow (blessure)

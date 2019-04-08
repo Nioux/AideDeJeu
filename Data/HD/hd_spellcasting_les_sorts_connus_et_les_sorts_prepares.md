@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#les-sorts-connus-et-les-sorts-préparés
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Les sorts connus et les sorts préparés

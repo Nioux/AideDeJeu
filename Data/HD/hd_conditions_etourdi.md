@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: conditions_hd.md#Étourdi
 ParentLink: conditions_hd.md#États-spéciaux
 Name: Étourdi

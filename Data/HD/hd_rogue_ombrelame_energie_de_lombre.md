@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_ombrelame_hd.md#Énergie-de-lombre
 ParentLink: rogue_ombrelame_hd.md#ombrelame
 Name: Énergie de l'ombre

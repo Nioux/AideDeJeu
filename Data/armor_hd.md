@@ -24,7 +24,7 @@ Le tableau des armures indique le prix, le poids et toute autre propriété des 
 
 **Maîtrise des armures.** Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouclier, mais seuls ceux qui ont la maîtrise des armures savent comment en exploiter toutes les spécificités. Votre classe vous permet de maîtriser certains types d'armures. Si vous portez une armure que vous ne maîtrisez pas, vous subissez un désavantage pour tous les tests de caractéristique, jets de sauvegarde ou d'attaque qui prennent en compte la Force ou la Dextérité, et vous ne pouvez pas lancer de sort.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Armures légères<!--/Name-->
 
@@ -33,9 +33,9 @@ Le tableau des armures indique le prix, le poids et toute autre propriété des 
 
 Les armures légères sont faites de matériaux souples et fins. Elles sont adaptées aux aventuriers agiles dans la mesure où elles offrent une protection sans sacrifier leur mobilité. Si vous portez une armure légère, vous ajoutez votre modificateur de Dextérité à la valeur de base de votre armure pour déterminer votre classe d'armure.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Armures intermédiaires<!--/Name-->
 
@@ -44,9 +44,9 @@ Les armures légères sont faites de matériaux souples et fins. Elles sont adap
 
 Une armure intermédiaire protège plus qu'une armure légère mais, en contrepartie, elle gène davantage les mouvements. Si vous portez une armure intermédiaire, ajoutez votre modificateur de Dextérité jusqu'à un maximum de +2 à la valeur de base de votre armure afin de déterminer votre classe d'armure.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Armures lourdes<!--/Name-->
 
@@ -57,9 +57,9 @@ Parmi toutes les catégories d'armures, ce sont les armures lourdes qui offrent 
 
 Les armures lourdes ne vous permettent pas d'ajouter votre modificateur de Dextérité à votre classe d'armure, mais elles ne vous pénalisent pas non plus si votre modificateur de Dextérité est négatif.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Enfiler et retirer une armure<!--/Name-->
 
@@ -82,7 +82,7 @@ Enfiler et retirer une armure
 |[Bouclier]|1 action|1 action|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

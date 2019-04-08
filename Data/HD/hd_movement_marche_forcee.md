@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: movement_hd.md#marche-forcée
 ParentLink: movement_hd.md#déplacement
 Name: Marche forcée

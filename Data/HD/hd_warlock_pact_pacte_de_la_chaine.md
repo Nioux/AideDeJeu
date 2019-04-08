@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_pact_hd.md#pacte-de-la-chaîne
 ParentLink: warlock_pact_hd.md#pacte
 Name: Pacte de la chaîne

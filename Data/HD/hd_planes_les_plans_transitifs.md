@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: planes_hd.md#les-plans-transitifs
 ParentLink: planes_hd.md#jouer-dans-un-multivers
 Name: Les plans transitifs

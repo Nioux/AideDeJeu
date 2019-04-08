@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: druid_hd.md#cercles-druidiques
 ParentLink: druid_hd.md#druide
 Name: Cercles druidiques

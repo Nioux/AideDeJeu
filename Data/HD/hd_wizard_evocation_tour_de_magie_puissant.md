@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_evocation_hd.md#tour-de-magie-puissant
 ParentLink: wizard_evocation_hd.md#École-dévocation
 Name: Tour de magie puissant

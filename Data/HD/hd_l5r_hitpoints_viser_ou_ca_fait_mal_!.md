@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_hitpoints_hd.md#viser-où-ça-fait-mal-!
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 Name: Viser où ça fait mal !

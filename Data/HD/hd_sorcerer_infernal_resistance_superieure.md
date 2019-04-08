@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sorcerer_infernal_hd.md#résistance-supérieure
 ParentLink: sorcerer_infernal_hd.md#lignée-infernale
 Name: Résistance supérieure

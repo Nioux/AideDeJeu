@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_druid_hd.md#tableau-dévolution
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 Name: Tableau d'évolution

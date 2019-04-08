@@ -278,11 +278,14 @@ namespace AideDeJeu.ViewModels
         bool CheckNewItem(string itemString)
         {
             var parsedComment = new ParsedComment(itemString);
-            var name = $"AideDeJeuLib.{parsedComment.Name}, AideDeJeu";
-            var type = Type.GetType(name);
-            if (type != null)
+            if (parsedComment.Name.EndsWith("Item") || parsedComment.Name.EndsWith("Items"))
             {
-                return true;
+                var name = $"AideDeJeuLib.{parsedComment.Name}, AideDeJeu";
+                var type = Type.GetType(name);
+                if (type != null)
+                {
+                    return true;
+                }
             }
             return false;
         }
@@ -290,24 +293,27 @@ namespace AideDeJeu.ViewModels
         Item CreateNewItem(string itemString)
         {
             var parsedComment = new ParsedComment(itemString);
-            var name = $"AideDeJeuLib.{parsedComment.Name}, AideDeJeu";
-            var type = Type.GetType(name);
-            if (type != null)
+            if (parsedComment.Name.EndsWith("Item") || parsedComment.Name.EndsWith("Items"))
             {
-                var item = Activator.CreateInstance(type) as Item;
-                foreach (var attribute in parsedComment.Attributes)
+                var name = $"AideDeJeuLib.{parsedComment.Name}, AideDeJeu";
+                var type = Type.GetType(name);
+                if (type != null)
                 {
-                    var prop = item.GetType().GetProperty(attribute.Key, BindingFlags.Public | BindingFlags.Instance);
-                    if (prop?.CanWrite == true)
+                    var item = Activator.CreateInstance(type) as Item;
+                    foreach (var attribute in parsedComment.Attributes)
                     {
-                        prop.SetValue(item, prop.GetValue(item) + attribute.Value, null);
+                        var prop = item.GetType().GetProperty(attribute.Key, BindingFlags.Public | BindingFlags.Instance);
+                        if (prop?.CanWrite == true)
+                        {
+                            prop.SetValue(item, prop.GetValue(item) + attribute.Value, null);
+                        }
+                        else
+                        {
+                            item.Attributes[attribute.Key] = attribute.Value;
+                        }
                     }
-                    else
-                    {
-                        item.Attributes[attribute.Key] = attribute.Value;
-                    }
+                    return item;
                 }
-                return item;
             }
             return null;
         }
@@ -322,7 +328,10 @@ namespace AideDeJeu.ViewModels
                 {
                     if (tag.StartsWith("<!--/"))
                     {
-                        return true;
+                        if (tag.EndsWith("Item-->") || tag.EndsWith("Items-->"))
+                        {
+                            return true;
+                        }
                     }
                 }
             }
@@ -495,7 +504,7 @@ namespace AideDeJeu.ViewModels
 
 
 
-                modelBuilder.Entity<Generic>();
+                modelBuilder.Entity<GenericItem>();
                 modelBuilder.Entity<MonsterItem>();
                 modelBuilder.Entity<MonsterItems>();
                 modelBuilder.Entity<SpellItem>();

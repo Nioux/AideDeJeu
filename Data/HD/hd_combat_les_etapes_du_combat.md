@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#les-étapes-du-combat
 ParentLink: combat_hd.md#combattre
 Name: Les étapes du combat

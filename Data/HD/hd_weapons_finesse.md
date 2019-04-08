@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: weapons_hd.md#finesse
 ParentLink: weapons_hd.md#armes
 Name: Finesse

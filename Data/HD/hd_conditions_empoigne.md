@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: conditions_hd.md#empoigné
 ParentLink: conditions_hd.md#États-spéciaux
 Name: Empoigné

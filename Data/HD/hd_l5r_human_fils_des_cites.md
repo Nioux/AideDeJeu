@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_human_hd.md#fils-des-cités
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
 Name: Fils des cités

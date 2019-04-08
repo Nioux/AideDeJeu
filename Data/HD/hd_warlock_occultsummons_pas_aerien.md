@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_occultsummons_hd.md#pas-aérien
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
 Name: Pas aérien

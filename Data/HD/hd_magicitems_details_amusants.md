@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#détails-amusants
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Détails amusants

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: barbarian_howling_hd.md#hurlement-du-tonnerre
 ParentLink: barbarian_howling_hd.md#voie-du-hurlement
 Name: Hurlement du tonnerre

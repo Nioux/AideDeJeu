@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_occultsummons_hd.md#livre-des-secrets-anciens
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
 Name: Livre des secrets anciens

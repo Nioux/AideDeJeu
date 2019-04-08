@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_traditions_hd.md#canalisation-dénergie-divine--pouvoir-des-anciens
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
 Name: "Canalisation d'énergie divine : Pouvoir des anciens"

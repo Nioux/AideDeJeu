@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rogue_hd.md#insaisissable-devient-révélation-améliorée
 ParentLink: l5r_rogue_hd.md#le-savant
 Name: Insaisissable devient révélation améliorée

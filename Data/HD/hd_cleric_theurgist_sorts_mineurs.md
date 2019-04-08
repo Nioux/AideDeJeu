@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_theurgist_hd.md#sorts-mineurs
 ParentLink: cleric_theurgist_hd.md#théurge
 Name: Sorts mineurs

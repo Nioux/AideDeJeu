@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_swordsman_hd.md#parade
 ParentLink: fighter_swordsman_hd.md#bretteur
 Name: Parade

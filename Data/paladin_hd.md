@@ -292,7 +292,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Serments sacrés<!--/Name-->
 
@@ -308,7 +308,7 @@ Pour devenir un paladin, vous devez prêter un serment qui vous engage à servir
 
 ## [Serment de rédemption]
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

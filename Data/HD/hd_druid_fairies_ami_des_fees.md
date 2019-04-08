@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: druid_fairies_hd.md#ami-des-fées
 ParentLink: druid_fairies_hd.md#cercle-des-fées
 Name: Ami des fées

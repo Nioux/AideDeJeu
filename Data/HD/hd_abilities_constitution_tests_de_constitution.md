@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_constitution_hd.md#tests-de-constitution
 ParentLink: abilities_constitution_hd.md#constitution
 Name: Tests de Constitution

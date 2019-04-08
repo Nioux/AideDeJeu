@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sorcerer_fairy_hd.md#forme-animale
 ParentLink: sorcerer_fairy_hd.md#lignée-féerique
 Name: Forme animale

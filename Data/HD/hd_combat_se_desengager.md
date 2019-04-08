@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#se-désengager
 ParentLink: combat_hd.md#combattre
 Name: Se désengager

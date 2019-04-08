@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_general_hd.md#moins-de-classes-jouables
 ParentLink: l5r_general_hd.md#règles-générales
 Name: Moins de classes jouables

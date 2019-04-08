@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_openhand_hd.md#technique-de-la-main-ouverte
 ParentLink: monk_openhand_hd.md#voie-de-la-main-ouverte
 Name: Technique de la main ouverte

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: ranger_hunter_hd.md#tactiques-défensives
 ParentLink: ranger_hunter_hd.md#chasseur
 Name: Tactiques défensives

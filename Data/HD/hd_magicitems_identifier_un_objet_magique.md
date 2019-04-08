@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#identifier-un-objet-magique
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Identifier un objet magique

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_elementalist_hd.md#maître-des-éléments
 ParentLink: wizard_elementalist_hd.md#Élémentaliste
 Name: Maître des éléments

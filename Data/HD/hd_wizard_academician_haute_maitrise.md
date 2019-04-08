@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_academician_hd.md#haute-maîtrise
 ParentLink: wizard_academician_hd.md#académicien
 Name: Haute maîtrise

@@ -12,7 +12,7 @@
 
 Dans l’univers fantastique de Héros & Dragons, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d’un dragon, les griffes d’un troll, le poison d’un ennemi, un carreau d’arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Points de vie<!--/Name-->
 
@@ -25,9 +25,9 @@ Les points de vie actuels d’une créature (généralement appelés simplement 
 
 Quand une créature subit des dégâts, ceux-ci sont ôtés de son total actuel de points de vie. Perdre des points de vie n’a pas d’effet sur les capacités d’une créature tant que ses points de vie n’atteignent pas 0.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Soins<!--/Name-->
 
@@ -40,9 +40,9 @@ Quand une créature reçoit des soins de quelque sorte qu’ils soient, les poin
 
 Une créature morte ne peut pas regagner de point de vie avant d’avoir été ramenée à la vie, par exemple avec un sort comme revigorer.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Tomber à 0 point de vie<!--/Name-->
 
@@ -51,9 +51,9 @@ Une créature morte ne peut pas regagner de point de vie avant d’avoir été r
 
 Quand vous atteignez 0 point de vie, vous pouvez soit mourir, soit perdre conscience. Les différents cas de figure sont expliqués dans les sections ci-dessous.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Mort instantanée<!--/Name-->
 
@@ -64,9 +64,9 @@ Des dégâts trop importants peuvent vous tuer sur le coup. Pour que cette chose
 
 Par exemple, une clerc a un nombre de points de vie maximum de 12. Il lui reste actuellement 6 points de vie. Si elle subit 18 dégâts suite à une attaque, elle tombe à 0 point de vie, mais il reste 12 dégâts supplémentaires. Comme ce reliquat de dégâts est égal à son maximum de points de vie (12), la prêtresse meurt sur le coup.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Perdre conscience<!--/Name-->
 
@@ -75,9 +75,9 @@ Par exemple, une clerc a un nombre de points de vie maximum de 12. Il lui reste 
 
 Si les dégâts que vous subissez vous font tomber à 0 point de vie mais ne vous tuent pas, vous êtes inconscient (voir la section États spéciaux page 301). Vous ne pouvez reprendre conscience que si vous regagnez des points de vie.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Jets de sauvegarde contre la mort<!--/Name-->
 
@@ -92,9 +92,9 @@ Faire 1 ou 20. Si vous faites 1 avec le d20 lors d’un jet de sauvegarde contre
 
 Dégâts à 0 point de vie. Si vous subissez des dégâts alors que vous êtes déjà à 0 point de vie, vous devez ajouter un échec à votre compteur de jets de sauvegarde contre la mort. Si ces dégâts ont été causés par un coup critique, ils comptent comme deux échecs. Et si le total de ces dégâts est supérieur ou égal à votre maximum de points de vie, vous mourez instantanément.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Stabiliser une créature<!--/Name-->
 
@@ -107,9 +107,9 @@ Vous pouvez utiliser une action pour administrer les premiers soins à une créa
 
 Une créature stabilisée n’a pas besoin de faire de jet de sauvegarde contre la mort, même si elle est à 0 point de vie. Cependant, elle reste inconsciente. Si la créature subit de nouveaux dégâts, elle n’est plus considérée comme stabilisée et doit recommencer à faire des jets de sauvegarde contre la mort. Si elle n’est pas soignée, une créature stabilisée regagne 1 point de vie au bout de 1d4 heures.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Les monstres et la mort<!--/Name-->
 
@@ -120,9 +120,9 @@ La plupart des MJ font mourir les monstres dès qu’ils atteignent 0 point de v
 
 Les principaux adversaires et personnages nonjoueurs spéciaux constituent une exception courante. Le MJ peut les considérer inconscients et suivre les mêmes règles que pour les personnages des joueurs.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Points de vie temporaires<!--/Name-->
 
@@ -141,7 +141,7 @@ Si vous êtes à 0 point de vie, recevoir des points de vie temporaires ne vous 
 
 Vos points de vie temporaires subsistent jusqu’à ce qu’ils servent à encaisser des dégâts ou jusqu’au terme d’un repos long. Il existe des exceptions à cette règle, dans le cas par exemple d’une aptitude qui vous permet d’obtenir des points de vie temporaires et qui précise combien de temps vous pouvez les conserver.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

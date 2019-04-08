@@ -9,7 +9,7 @@
 
 - Source: <!--Source-->(L5R p59)<!--/Source-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Aptitudes de classe<!--/Name-->
 
@@ -17,9 +17,9 @@
 
 Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras dans le tableau page suivante sont nouvelles et détaillées par la suite. Les autres correspondent aux capacités du druide de Héros & Dragons.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Tableau d'évolution<!--/Name-->
 
@@ -48,9 +48,9 @@ Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras da
 |19|+6|[Amélioration de <!--br-->caractéristique]|
 |20|+6|**[Archidruide]**|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Gardien des traditions<!--/Name-->
 
@@ -62,9 +62,9 @@ Aux niveaux 5, 9, 13 et 17, vous apprenez un secret supplémentaire. Il vous fau
 
 Vous pouvez utiliser chaque secret (et une seule des actions permises par celui-ci) une fois seulement entre deux repos longs, à moins que le secret concerné ne spécifie autre chose.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Baies apaisantes<!--/Name-->
 
@@ -80,9 +80,9 @@ Au niveau 13, consommer en une fois toutes les baies que vous avez créées lors
 
 Au niveau 17, le rituel permet également de guérir d'une maladie magique ou d'une maladie naturelle incurable.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Parler aux arbres<!--/Name-->
 
@@ -100,9 +100,9 @@ Au niveau 17, vous pouvez éveiller un arbre vénérable qui devient un [sylvani
 
 Ces créatures ne vous obéissent pas : vous devez négocier avec elles. Mais elles possèdent de fait un _a priori_ positif sur vous.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Maître des bêtes<!--/Name-->
 
@@ -114,9 +114,9 @@ Au niveau 9, vous pouvez utiliser ce pouvoir entre deux repos courts.
 
 Au niveau 13, quand vous communiquez avec eux, vous êtes capable d'éveiller les animaux pour le temps de leur dialogue avec vous : ils obtiennent alors une intelligence de 8.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Maître des brumes<!--/Name-->
 
@@ -126,9 +126,9 @@ Vous passez une heure à psalmodier dans la langue du dragon puis vous canalisez
 
 Au niveau 9, cette brume devient magique et ne peut plus être dissipée, sauf par un vent magique.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Maître des hommes<!--/Name-->
 
@@ -142,9 +142,9 @@ Au niveau 13, cette capacité fonctionne sur une phrase plus complexe et dure un
 
 Au niveau 17, vous pouvez utiliser cette capacité entre deux repos courts.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Maître des vents<!--/Name-->
 
@@ -158,9 +158,9 @@ Au niveau 13, vous pouvez décider de réduire la vitesse de moitié, mais de l'
 
 Au niveau 17, vous soulevez une véritable tempête, et lorsque le vent dépasse les 80 km/h, le jet de sauvegarde de Force ou de Dextérité subit un désavantage.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Voyageur des terres<!--/Name-->
 
@@ -174,9 +174,9 @@ Au niveau 13, vous devenez capable, en utilisant ce pouvoir, de fusionner un ins
 
 Au niveau 17, vous pouvez utiliser un arbre ancien comme un portail. En une heure, vous parcourez un nombre de kilomètres égal à votre niveau, empruntant un chemin entre les mondes. Mais ce chemin est dangereux, et l'on y croise parfois des esprits prédateurs étranges.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Colère de la nature<!--/Name-->
 
@@ -190,9 +190,9 @@ Au niveau 13, votre bâton peut se transformer en un serpent géant (cf. Créatu
 
 Au niveau 17, la zone sur laquelle vous animez racines et arbustes s'étend à 50m de rayon. De plus, le centre de la zone n'est plus nécessairement déterminé à partir de votre position. Vous pouvez centrer la zone où bon vous semble, à condition que vous puissiez voir l'endroit qui deviendra le centre de la zone.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Secrets ancestraux<!--/Name-->
 
@@ -202,9 +202,9 @@ Au niveau 3, choisissez une compétence liée à l'Intelligence. Quand vous effe
 
 Aux niveaux 9 et 15, choisissez une nouvelle compétence liée à l'Intelligence.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Bénédiction de Cernunos<!--/Name-->
 
@@ -212,9 +212,9 @@ Aux niveaux 9 et 15, choisissez une nouvelle compétence liée à l'Intelligence
 
 Au niveau 3, vous devenez capable de favoriser la fertilité des êtres et des plantes. En effectuant un rituel du crépuscule jusqu'à l'aube, vous pouvez bénir un champ ou une femme enceinte. Le champ sera aussi fertile que possible pour l'année à venir ; l'enfant naîtra sans difformité, ni maladie… Si la mère ou l'enfant à naître devaient être soumis à une malédiction, vous devez réussir un test de Sagesse (en y ajoutant votre bonus de maîtrise) contre une difficulté de **8** + \[**bonus de maîtrise**\] + \[**modificateur de caractéristique approprié à la créature qui les a maudit**\].)
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Le souffle du dragon<!--/Name-->
 
@@ -228,9 +228,9 @@ Au niveau 7, vous apprenez à faire appel à la colère du dragon, aux flammes q
 
 Au niveau 11, vous pouvez faire appel à l'esprit du dragon. La puissance spirituelle du dragon permet de tromper même le plus perspicace des hommes. Vous entamez un long rituel au coeur d'une zone sauvage ou sacrée. et ne peut être mené à nouveau qu'au crépuscule suivant. Vous pouvez ensorceler un être humain qui doit être présent avec vous quand le rituel commence. Pour toute la nuit, la créature ciblée peut alors revêtir l'apparence d'un autre être humain : il en prend le corps, les vêtements, mais aussi la voix. Il n'en obtient, en revanche, aucune connaissance. Tant que l'effet du rituel est actif, vous devez continuer d'incanter. Ce n'est qu'une fois le soleil levé que le rituel ainsi que l'effet de ce dernier prennent fin. Une fois le rituel accompli, la cible du rituel et vousmême ne pouvez dormir. Vous subissez deux niveaux de fatigue. De plus, ce rituel est coûteux : on ne peut l'effectuer qu'une fois l'an sans conséquences graves. Si vous deviez l'effectuer plus souvent, vous subiriez, pour chaque nouveau rituel, une blessure grave.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Forme animale<!--/Name-->
 
@@ -238,9 +238,9 @@ Au niveau 11, vous pouvez faire appel à l'esprit du dragon. La puissance spirit
 
 Dans les cinq royaumes, l'aptitude [forme animale] subit quelques limitations. Ainsi, quand le druide acquiert cette aptitude, il doit choisir deux formes qu'il peut adopter en utilisant ce pouvoir. S'il désire acquérir des formes supplémentaires, il doit alors traquer l'animal dont il désire prendre la forme et passer une semaine entière à l'étudier. Ceci requiert un jet de Survie réussi contre une difficulté de 14 + \[valeur de Perception de l'animal\]. Si le jet échoue, le druide doit reprendre à zéro. Un druide ne peut posséder un nombre de formes animales mémorisées supérieur à son modificateur de Sagesse + 1.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Archidruide<!--/Name-->
 
@@ -248,9 +248,9 @@ Dans les cinq royaumes, l'aptitude [forme animale] subit quelques limitations. A
 
 Dans les cinq royaumes, l'aptitude [archidruide][archidruide Druide] est légèrement modifiée dans son fonctionnement. L'aptitude permettant d'ignorer les composantes verbales, somatiques et matérielles devient obsolète. À la place, tous les pouvoirs issus de l'aptitude [Gardien des traditions] peuvent désormais être lancés entre deux repos courts.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Cercles de druides<!--/Name-->
 
@@ -258,9 +258,9 @@ Dans les cinq royaumes, l'aptitude [archidruide][archidruide Druide] est légèr
 
 Tous les cercles issus du livre de base de Héros & Dragons sont utilisables avec le druide des cinq royaumes, mais certaines capacités demandent à être expliquées ou légèrement modifiées. De plus, les listes de sorts bonus de chaque cercle ne s'appliquent pas au druide des cinq royaumes, ce dernier ne lançant pas de sorts de manière traditionnelle.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Cercle des fées<!--/Name-->
 
@@ -272,9 +272,9 @@ Tour de magie bonus devient [secret ancestral bonus]. Quand vous sélectionnez c
 
 La capacité [disparition instinctive] vous permet de disparaître et de devenir invisible en vous enveloppant du Voile entre les deux mondes. Il vous permet une fois entre chaque repos long de lancer l'équivalent du sort [invisibilité]. Au niveau 10 il peut être lancé une fois entre chaque repos court, mais le sort [porte dimensionnelle] n'est pas accessible.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Cercle de la Terre<!--/Name-->
 
@@ -286,9 +286,9 @@ Tour de magie bonus devient [secret ancestral bonus]. Quand vous sélectionnez c
 
 Récupération naturelle devient [sens de la terre]. Vous posez vos deux mains à même la terre (en pleine nature) et passez une minute à vous concentrer. Vous devenez capable de sentir les formes de vie et autres créatures présentes dans un rayon égal, en mètres, à votre niveau multiplié par 20. Vous ne distinguez rien de précis, seulement leur type et leur taille. Si ces créatures se trouvent dans une construction, vous ne distinguez alors plus que leur type. Vous ne pouvez utiliser cette capacité qu'une fois entre deux repos longs.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Cercle des Saisons<!--/Name-->
 
@@ -296,9 +296,9 @@ Récupération naturelle devient [sens de la terre]. Vous posez vos deux mains �
 
 Le fonctionnement de ce Cercle reste le même. Cependant, l'aptitude "Tours de magie bonus" devient [secret ancestral bonus]. Quand vous sélectionnez ce cercle au niveau 2, choisissez une compétence d'Intelligence supplémentaire et appliquez-lui le bonus de l'aptitude de classe secrets ancestraux
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Cercle des profondeurs<!--/Name-->
 
@@ -307,7 +307,7 @@ Le fonctionnement de ce Cercle reste le même. Cependant, l'aptitude "Tours de m
 L'aptitude [Magie des profondeurs] fonctionne normalement. Cependant, ne pouvant dépenser d'emplacement de sorts afin d'effectuer des dégâts supplémentaires, vous devez désormais dépenser des dés de vie afin de rajouter 2d4 dégâts par dé de vie dépensé. Vous pouvez, à la place d'un dé de vie, décider de dépenser un niveau de fatigue.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

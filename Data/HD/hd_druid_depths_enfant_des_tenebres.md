@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: druid_depths_hd.md#enfant-des-ténèbres
 ParentLink: druid_depths_hd.md#cercle-des-profondeurs
 Name: Enfant des ténèbres

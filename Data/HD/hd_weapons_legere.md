@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: weapons_hd.md#légère
 ParentLink: weapons_hd.md#armes
 Name: Légère

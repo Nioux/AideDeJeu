@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_academician_hd.md#maîtrise
 ParentLink: wizard_academician_hd.md#académicien
 Name: Maîtrise

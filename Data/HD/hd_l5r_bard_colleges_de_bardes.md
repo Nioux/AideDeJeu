@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_bard_hd.md#collèges-de-bardes
 ParentLink: l5r_bard_hd.md#barde-des-cinq-royaumes
 Name: Collèges de bardes

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rituals_hd.md#don-spécifique
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 Name: Don spécifique

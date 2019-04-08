@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: conditions_hd.md#inconscient
 ParentLink: conditions_hd.md#États-spéciaux
 Name: Inconscient

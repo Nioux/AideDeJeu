@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: barbarian_spirits_hd.md#initiation
 ParentLink: barbarian_spirits_hd.md#voie-des-esprits
 Name: Initiation

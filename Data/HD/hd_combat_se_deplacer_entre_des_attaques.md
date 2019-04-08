@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#se-déplacer-entre-des-attaques
 ParentLink: combat_hd.md#combattre
 Name: Se déplacer entre des attaques

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_devotion_hd.md#sorts-de-serment
 ParentLink: paladin_devotion_hd.md#serment-de-dévotion
 Name: Sorts de serment

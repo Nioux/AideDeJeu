@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#qui-la-créé-?
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Qui l'a créé ?

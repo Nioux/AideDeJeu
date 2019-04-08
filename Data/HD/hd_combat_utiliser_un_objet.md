@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#utiliser-un-objet
 ParentLink: combat_hd.md#combattre
 Name: Utiliser un objet

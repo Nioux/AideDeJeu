@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: weapons_hd.md#propriétés-des-armes
 ParentLink: weapons_hd.md#armes
 Name: Propriétés des armes

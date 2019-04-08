@@ -14,7 +14,7 @@ Même si les aventuriers sont des héros, il est impossible de passer ses journ�
 
 Au cours d’une journée, les aventuriers peuvent observer des périodes de repos court. À la fin d’une journée, on parle d’une période de repos long. Il est aussi possible de choisir de récupérer pendant un moment de répit (voir Entre les aventures, page 278 du chapitre 8).
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Repos court<!--/Name-->
 
@@ -26,9 +26,9 @@ Cette dernière est égale à son niveau. Il peut lancer un ou plusieurs dés de
 
 Un personnage regagne une partie des dés de vie utilisés après un repos long, comme expliqué ci-dessous.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Repos long<!--/Name-->
 
@@ -40,7 +40,7 @@ Par exemple, si un personnage possède 8 dés de vie, il peut en regagner 4 au m
 
 Un personnage ne peut profiter qu’une fois par période de 24 heures des bénéfices conférés par un repos long et, pour cela, il doit avoir au moins 1 point de vie au début de cette période de repos.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

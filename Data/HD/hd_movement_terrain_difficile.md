@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: movement_hd.md#terrain-difficile
 ParentLink: movement_hd.md#déplacement
 Name: Terrain difficile

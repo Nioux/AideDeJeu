@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: races_hd.md#traits-raciaux
 ParentLink: races_hd.md#races
 Name: Traits raciaux

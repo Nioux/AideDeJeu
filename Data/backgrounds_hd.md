@@ -16,7 +16,7 @@ Choisir un historique vous permet d'obtenir de nombreux indices sur l'identité 
 
 Vous trouverez dans ce chapitre des exemples d'historiques de personnages concrets (aptitudes, maîtrises et langues) et des suggestions d'interprétation.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Maîtrises<!--/Name-->
 
@@ -25,9 +25,9 @@ Vous trouverez dans ce chapitre des exemples d'historiques de personnages concre
 
 Chaque historique confère à un personnage la maîtrise de deux compétences. Ces compétences sont décrites dans le chapitre 7, Utiliser les caractéristiques, pages 257-267. En plus de cela, la plupart des historiques permettent à un personnage d'acquérir la maîtrise d'un ou plusieurs outils. Ces outils sont décrits dans le chapitre 5, Équipement, pages 236-237. Si un personnage gagne une même maîtrise de deux sources différentes, il peut choisir une maîtrise différente du même type (compétence ou outil) à la place.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Langues<!--/Name-->
 
@@ -36,9 +36,9 @@ Chaque historique confère à un personnage la maîtrise de deux compétences. C
 
 Le passé de certains personnages leur donne la capacité de pratiquer des langues supplémentaires à celles accordées par leur race. Reportez-vous à la section Langues du présent chapitre.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Équipement<!--/Name-->
 
@@ -47,9 +47,9 @@ Le passé de certains personnages leur donne la capacité de pratiquer des langu
 
 Chaque historique donne accès à un équipement de départ. Si vous utilisez la règle optionnelle qui vous permet à la place d'acheter votre propre équipement, vous ne recevez aucun équipement lié à votre historique. Cette option est décrite dans le chapitre 1, Création du personnage, page 30.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Suggestions de personnalités<!--/Name-->
 
@@ -59,9 +59,9 @@ Chaque historique donne accès à un équipement de départ. Si vous utilisez la
 Chaque historique vous suggère des traits de personnalité liés à l'histoire de votre personnage. Vous pouvez les sélectionner, lancer des dés pour laisser le hasard décider, ou utiliser ces suggestions pour inventer vousmême les spécificités de votre personnage.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Personnaliser votre historique<!--/Name-->
 
@@ -71,7 +71,7 @@ Chaque historique vous suggère des traits de personnalité liés à l'histoire 
 Vous voudrez peut-être adapter certains détails d'un historique pour qu'il corresponde mieux à votre personnage ou au cadre de la campagne. Afin de le personnaliser, vous pouvez remplacer une aptitude par une autre, choisir deux compétences et un total de deux maîtrises d'outils ou de deux langues parmi les historiques qui vous sont proposés ici. Vous pouvez choisir d'utiliser l'équipement de départ proposé ou d'acheter vous-même votre équipement, comme expliqué au chapitre 1, Création du personnage, page 30. Enfin, vous pouvez choisir deux traits de personnalité, un idéal, un lien et un défaut. Si vous n'arrivez pas à trouver d'option qui corresponde à l'historique que vous voulez donner à votre personnage, vous pouvez collaborer avec le MJ pour en créer une.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--LinkItem-->
 

@@ -12,7 +12,7 @@
 
 Les panthéons celtique, égyptien, grec et nordique sont des interprétations fantastiques des religions historiques de l’aube de la civilisation occidentale. Ils présentent des divinités parfaitement adaptées au jeu, séparées de leur contexte historique dans le monde réel et réunies dans des panthéons servant les besoins du jeu.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Le panthéon celtique<!--/Name-->
 
@@ -23,9 +23,9 @@ On dit que chaque âme recèle une fibre sauvage, qui vibre à l’appel d’une
 
 Les dieux celtiques ont autant de druides que de clercs à leur service, car ils sont très proches des forces de la nature que les druides révèrent tant.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Les divinités celtiques<!--/Name-->
 
@@ -50,9 +50,9 @@ Les dieux celtiques ont autant de druides que de clercs à leur service, car ils
 |Silvanus, dieu de la nature et des forêts|N|Nature|Chêne en été|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Le panthéon grec<!--/Name-->
 
@@ -61,9 +61,9 @@ Les dieux celtiques ont autant de druides que de clercs à leur service, car ils
 
 Les dieux de l’Olympe font connaître leur présence dans le doux clapotis des vagues sur le rivage et le fracas du tonnerre sur les pics enveloppés de nuées d’orage. Les bois grouillants de gibier et les collines arides couvertes d’oliviers portent les traces de leur passage. Leur présence résonne dans chaque aspect de la nature et ils se sont aussi taillé une place dans le coeur des humains.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Les divinités grecques<!--/Name-->
 
@@ -93,9 +93,9 @@ Les dieux de l’Olympe font connaître leur présence dans le doux clapotis des
 |Tyché, déesse de la bonne fortune|N|Duperie|Pentagramme rouge|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Le panthéon égyptien<!--/Name-->
 
@@ -106,9 +106,9 @@ Ces dieux forment une jeune dynastie au sein d’une antique famille divine, hé
 
 Le panthéon égyptien est assez inhabituel en ce qu’il a trois dieux responsables de la mort, tous dotés d’un alignement différent. Anubis est le dieu Loyal Neutre de l’après-vie, celui qui juge les âmes des morts. Set est le dieu Chaotique Mauvais du meurtre et peut-être est-ce pour le meurtre de son frère, Osiris, qu’il est le plus connu. Enfin, Nephthys est la déesse Chaotique Bonne du deuil.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Les divinités égyptiennes<!--/Name-->
 
@@ -133,9 +133,9 @@ Le panthéon égyptien est assez inhabituel en ce qu’il a trois dieux responsa
 |Thoth, dieu du savoir et de la sagesse|N|Connaissance, Temps|Ibis|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Le panthéon nordique<!--/Name-->
 
@@ -146,9 +146,9 @@ Là où le paysage plonge depuis les collines enneigées vers des fjords glacés
 
 Le panthéon nordique comprend deux grandes familles, les ases (les divinités de la guerre et du destin) et les vanes (les dieux de la fertilité et de la prospérité). Ces familles étaient autrefois ennemies, mais elles sont devenues de proches alliées dans leur combat contre leurs ennemis commun, les géants (y compris les dieux Surtur et Thrym).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Les divinités nordiques<!--/Name-->
 
@@ -179,9 +179,9 @@ Le panthéon nordique comprend deux grandes familles, les ases (les divinités d
 |Ull, dieu de la chasse et de l’hiver|CN|Nature, Froid|Arc long|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Le panthéon d’Osgild<!--/Name-->
 
@@ -194,9 +194,9 @@ Au premier âge, avant l’arrivée des hommes, les peuples anciens (elfes, nain
 Le second âge débuta avec la chute des Pierres du Ciel (Kaer Ouros) et il marqua l’avènement des humains et des nouveaux dieux, c’est du moins ainsi que les Premiers Nés (les elfes) les nomment. Mais ce n’est qu’au troisième âge, initié par un autre cataclysme qui mit fin à l’hégémonie des elfes, que débuta la domination des nouveaux dieux sur les terres d’Osgild. À l’image des humains, les nouveaux dieux sont nombreux et variés. Bien qu’importante, la liste que nous vous fournissons n’est donc pas exhaustive et elle laisse la place à des cultes locaux.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Les divinités d’Osgild<!--/Name-->
 
@@ -253,7 +253,7 @@ Le second âge débuta avec la chute des Pierres du Ciel (Kaer Ouros) et il marq
 |Tyriolith, dieu du Combat contre le Chaos et du Feu purificateur|LB|Guerre, Feu|Flamme|
 |Vorona, déesse de la Justice et de la Loi|LN|Justice|Balance|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

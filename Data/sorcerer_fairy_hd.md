@@ -13,7 +13,7 @@ Les fées sont des créatures magiques étroitement liées à la nature, et votr
 
 Les ensorceleurs de lignée féerique descendent de héros, lanceurs de sorts ou non, qui ont conclu des pactes avec une cour féerique ou ont vécu une idylle amoureuse et enchanteresse avec une créature féerique (dryade, satyre, nymphe, etc.). La magie conférée par cette lignée a pu rester dormante pendant plusieurs générations et se révéler soudainement. Cependant, la plupart du temps, lorsqu'un jeune enfant révèle brusquement des pouvoirs magiques étranges, ses parents soupçonnent le petit peuple d'avoir échangé leur nouveau- né avec un bâtard féerique. À tort ou à raison ?
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Ancêtre féerique<!--/Name-->
 
@@ -21,9 +21,9 @@ Vous pouvez parler, lire et écrire en sylvain.
 
 De plus, à chaque fois que vous faites un test de [Charisme] alors que vous interagissez avec des fées, votre bonus de maîtrise est doublé s'il s'applique.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Héritage féerique<!--/Name-->
 
@@ -31,9 +31,9 @@ Vous avez hérité de la beauté éthérée des fées. Dès le niveau 1, vous b�
 
 De plus, vous avez une affinité pour les armes de la forêt, au premier niveau vous acquérez la maîtrise de l'arc court et de la lance.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Magie féerique<!--/Name-->
 
@@ -41,9 +41,9 @@ La magie des fées est subtile et adaptable, vous apprenez une option de métama
 
 À partir de huit sorts, vous gagnez 1 nouveau point de sorcellerie supplémentaire pour un total de 2 et si vous connaissez douze sorts d'ensorceleur, issus des écoles d'illusion ou d'enchantement, vous gagnez encore un point de plus pour un total de 3 points de sorcellerie supplémentaires.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Charme intense<!--/Name-->
 
@@ -51,9 +51,9 @@ Au niveau 14, lorsque vous lancez un sort de l'école d'enchantement, vous pouve
 
 De plus, vous bénéficiez d'un avantage aux [jets de sauvegarde] contre tous les sorts et les pouvoirs de charme ou d'enchantement.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Forme animale<!--/Name-->
 
@@ -61,7 +61,7 @@ De plus, vous bénéficiez d'un avantage aux [jets de sauvegarde] contre tous le
 
 Vous pouvez y mettre fin à tout moment en utilisant une action.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

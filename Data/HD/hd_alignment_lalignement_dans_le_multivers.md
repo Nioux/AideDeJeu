@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: alignment_hd.md#lalignement-dans-le-multivers
 ParentLink: alignment_hd.md#alignement
 Name: L'alignement dans le multivers

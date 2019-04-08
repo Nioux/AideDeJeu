@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#le-commerce-des-objets-magiques
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Le commerce des objets magiques

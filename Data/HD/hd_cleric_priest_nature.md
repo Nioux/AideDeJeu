@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_priest_hd.md#nature
 ParentLink: cleric_priest_hd.md#liste-des-domaines
 Name: Nature

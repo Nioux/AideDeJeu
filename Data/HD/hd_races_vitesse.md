@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: races_hd.md#vitesse
 ParentLink: races_hd.md#traits-raciaux
 Name: Vitesse

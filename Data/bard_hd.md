@@ -218,7 +218,7 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Collèges bardiques<!--/Name-->
 
@@ -230,7 +230,7 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 
 ## [Collège des saltimbanques]
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

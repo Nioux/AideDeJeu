@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_intelligence_hd.md#autres-tests-dintelligence
 ParentLink: abilities_intelligence_hd.md#intelligence
 Name: Autres tests d'Intelligence

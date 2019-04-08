@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: pantheons_hd.md#le-panthéon-nordique
 ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
 Name: Le panthéon nordique

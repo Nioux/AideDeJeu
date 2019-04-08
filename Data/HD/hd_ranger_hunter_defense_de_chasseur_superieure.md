@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: ranger_hunter_hd.md#défense-de-chasseur-supérieure
 ParentLink: ranger_hunter_hd.md#chasseur
 Name: Défense de chasseur supérieure

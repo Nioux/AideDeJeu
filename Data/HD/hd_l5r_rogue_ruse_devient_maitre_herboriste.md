@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rogue_hd.md#ruse-devient-maître-herboriste
 ParentLink: l5r_rogue_hd.md#le-savant
 Name: Ruse devient maître herboriste

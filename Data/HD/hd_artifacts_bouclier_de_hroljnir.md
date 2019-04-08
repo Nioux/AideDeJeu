@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: artifacts_hd.md#bouclier-de-hroljnir
 ParentLink: artifacts_hd.md#artefacts
 Name: BOUCLIER DE HROLJNIR

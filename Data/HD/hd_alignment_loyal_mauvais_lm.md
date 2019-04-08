@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: alignment_hd.md#loyal-mauvais-lm
 ParentLink: alignment_hd.md#alignement
 Name: Loyal Mauvais (LM)

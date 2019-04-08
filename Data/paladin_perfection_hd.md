@@ -11,7 +11,7 @@
 
 Le paladin qui choisit le serment de perfection poursuit un idéal de noblesse à travers la confrontation avec ses pairs lors de joutes ou de tournois, mais aussi un idéal de beauté et de romance à travers l'art de l'amour courtois. Ce chevalier correspond à l'image d'Épinal du chevalier en armure brillante, voire dorée, qui agit autant pour la gloire que pour le bien commun. Parfois aussi appelé chevalier de la rose, il prête généralement allégeance à une personne de sang noble dont il défend les couleurs lors des tournois. En son nom, il parcourt le monde sur sa fidèle monture, afin de réaliser des exploits, prouver sa bravoure et combattre le mal. Cette personne peut être une femme ou un homme dont il cherche à conquérir le coeur, mais ce peut aussi être une personnalité importante, comme un roi ou une reine dont il se fait le champion de façon à défendre son honneur et couvrir son nom de gloire.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Préceptes de perfection<!--/Name-->
 
@@ -27,9 +27,9 @@ Destrier. Prenez soin de votre monture comme vous prendriez soin d'un ami. Elle 
 
 Élégance. Soyez toujours un modèle pour les autres, tant par vos actes que vos paroles ou votre apparence.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Sorts de serment<!--/Name-->
 
@@ -43,9 +43,9 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 |13|bouclier de feu, protection contre la mort|
 |17|lien télépathique, festin des héros|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Canalisation d'énergie divine<!--/Name-->
 
@@ -57,9 +57,9 @@ Vous ne bénéficiez de cet avantage que si la jeune personne en détresse accep
 
 Héros. En dépensant une réaction et votre canalisation d'énergie divine, vous lancez le sort héroïsme sans utiliser d'emplacement de sort. Vous obtenez un avantage à tous les tests de concentration pour maintenir le sort actif. Ce sort s'applique aussi à votre monture lorsque le lancez sur vous-même, aussi bien grâce à cette aptitude que de façon normale.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Chevalier émérite<!--/Name-->
 
@@ -67,9 +67,9 @@ Au niveau 7, lorsque vous utilisez le sort trouver une monture, vous pouvez appe
 
 De plus, lorsque vous utilisez une lance à dos de monture, vous obtenez un avantage en attaque sur chaque attaque effectuée après un déplacement d'au moins 6 mètres et, si vous blessez une créature, elle doit réaliser un [jet de sauvegarde] de [Force] ou se retrouver [à terre] (voir la section Combat monté, au chapitre 9 page 295 si la cible est elle-même sur une monture).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Chevalier prestigieux<!--/Name-->
 
@@ -77,9 +77,9 @@ De plus, lorsque vous utilisez une lance à dos de monture, vous obtenez un avan
 
 De plus, lorsque vous contrôlez une monture, vous pouvez lui faire utiliser son action pour attaquer.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Parangon héroïque<!--/Name-->
 
@@ -87,7 +87,7 @@ Au niveau 20, au prix d'une action, vous pouvez devenir un parangon d'héroïsme
 
 De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un avantage à toutes vos attaques au corps-à-corps, ainsi que vos tests de [Force], de [Constitution], de [Sagesse] et de [Charisme] ([jets de sauvegarde] et tests de compétence). Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

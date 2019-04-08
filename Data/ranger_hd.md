@@ -267,7 +267,7 @@ Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos en
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Archétypes de rôdeur<!--/Name-->
 
@@ -283,7 +283,7 @@ Les idéaux du rôdeur se déclinent en quatre types de spécialisations : l'arc
 
 ## [Pisteur]
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

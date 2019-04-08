@@ -15,15 +15,15 @@ Pour survivre, votre peuple a appris à communier avec la nature et à tisser de
 
 Lorsque vous choisissez la voie des esprits, vous obtenez une valeur de lien spirituel égal à votre bonus de maîtrise (deux points au troisième niveau). Vous récupérez vos points de lien spirituel après avoir terminé un repos long. Tous les sorts lancés grâce à l'utilisation de ces points le sont à leur niveau minimum, et la caractéristique utilisée pour lancer des sorts est la [Sagesse] (difficulté des [jets de sauvegarde] égale à 8 + bonus de maîtrise + modificateur de [Sagesse]).
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Né dans la nature<!--/Name-->
 
 Au niveau 3, vous bénéficiez d'un avantage aux tests de [Sagesse (Perception)] effectués en milieu naturel (+5 pour le valeur passive) et aux tests de [Sagesse (Survie)].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Initiation<!--/Name-->
 
@@ -33,9 +33,9 @@ En dépensant un point de lien spirituel, vous pouvez utiliser sur vous-même le
 
 Vous êtes capable de maintenir une concentration lorsque vous êtes sous les effets de la rage ; toutefois, cela ne concerne que les sorts obtenus par la voie des esprits.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Incarnation<!--/Name-->
 
@@ -47,9 +47,9 @@ Vous pouvez réaliser une attaque de griffes ou de morsure au lieu d'utiliser un
 
 À partir du niveau 6, en dépensant un point de lien spirituel, vous pouvez utiliser un sort de votre choix parmi : [amitié avec les animaux], [baies nourricières], [communication avec les animaux], [druidisme], [grande foulée], [localiser des animaux ou des plantes], [passage sans trace].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Communion<!--/Name-->
 
@@ -59,9 +59,9 @@ En dépensant un point de lien spirituel, vous pouvez utiliser un sort de votre 
 
 Désormais, vous ajoutez la moitié de votre modificateur de [Sagesse], s'il est positif (arrondi à l'inférieur) à votre valeur de lien spirituel.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Élévation<!--/Name-->
 
@@ -71,7 +71,7 @@ En dépensant deux points de lien spirituel, vous pouvez utiliser un sort de vot
 
 Désormais, lorsque vous terminez un repos court, vous récupérez un point de lien spirituel.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

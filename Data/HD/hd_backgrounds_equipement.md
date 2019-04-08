@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: backgrounds_hd.md#Équipement
 ParentLink: backgrounds_hd.md#historique
 Name: Équipement

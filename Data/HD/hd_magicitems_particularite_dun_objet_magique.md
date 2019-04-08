@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#particularité-dun-objet-magique
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Particularité d'un objet magique

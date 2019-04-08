@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#long-temps-dincantation
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Long temps d'incantation

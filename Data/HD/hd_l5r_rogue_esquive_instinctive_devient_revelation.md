@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rogue_hd.md#esquive-instinctive-devient-révélation
 ParentLink: l5r_rogue_hd.md#le-savant
 Name: Esquive instinctive devient révélation

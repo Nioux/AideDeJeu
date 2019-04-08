@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#jets-de-sauvegarde
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Jets de sauvegarde

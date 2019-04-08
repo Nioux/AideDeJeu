@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#autres-activités-pendant-votre-tour
 ParentLink: combat_hd.md#combattre
 Name: Autres activités pendant votre tour

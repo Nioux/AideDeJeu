@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_wisdom_hd.md#survie
 ParentLink: abilities_wisdom_hd.md#sagesse
 Name: Survie

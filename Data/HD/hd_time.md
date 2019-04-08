@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: time_hd.md#Écoulement-du-temps
 RootId: time_hd.md
 ParentLink: adventure_hd.md

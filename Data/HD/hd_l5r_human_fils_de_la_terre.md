@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_human_hd.md#fils-de-la-terre
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
 Name: Fils de la terre

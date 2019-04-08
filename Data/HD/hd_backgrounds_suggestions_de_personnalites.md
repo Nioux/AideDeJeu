@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: backgrounds_hd.md#suggestions-de-personnalités
 ParentLink: backgrounds_hd.md#historique
 Name: Suggestions de personnalités

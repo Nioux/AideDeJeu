@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_hitpoints_hd.md#points-de-combativité
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 Name: Points de combativité

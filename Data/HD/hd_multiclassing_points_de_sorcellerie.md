@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: multiclassing_hd.md#points-de-sorcellerie
 ParentLink: multiclassing_hd.md#multiclassage
 Name: Points de sorcellerie

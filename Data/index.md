@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--GenericItem-->
 
 # Manuel des règles
 
@@ -75,4 +75,4 @@
 
 <!--  <br># [Sandbox](sandbox.md) -->
 
-<!--/Generic-->
+<!--/GenericItem-->

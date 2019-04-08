@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rituals_hd.md#quelques-exemples-de-rituel
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 Name: Quelques exemples de rituel

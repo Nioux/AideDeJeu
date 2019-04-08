@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: armor_hd.md#armures-lourdes
 ParentLink: armor_hd.md#armures
 Name: Armures lourdes

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_hitpoints_hd.md#regagner-ses-points-de-vitalité
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 Name: Regagner ses points de vitalité

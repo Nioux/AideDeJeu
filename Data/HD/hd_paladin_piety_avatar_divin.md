@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_piety_hd.md#avatar-divin
 ParentLink: paladin_piety_hd.md#serment-de-piété
 Name: Avatar divin

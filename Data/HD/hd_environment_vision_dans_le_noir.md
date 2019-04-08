@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: environment_hd.md#vision-dans-le-noir
 ParentLink: environment_hd.md#l’environnement
 Name: Vision dans le noir

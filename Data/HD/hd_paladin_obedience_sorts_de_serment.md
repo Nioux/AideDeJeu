@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_obedience_hd.md#sorts-de-serment
 ParentLink: paladin_obedience_hd.md#serment-dobédience
 Name: Sorts de serment

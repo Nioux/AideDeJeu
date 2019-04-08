@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: movement_hd.md#montures-et-véhicules
 ParentLink: movement_hd.md#déplacement
 Name: Montures et véhicules

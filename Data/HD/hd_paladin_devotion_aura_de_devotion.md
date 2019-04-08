@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_devotion_hd.md#aura-de-dévotion
 ParentLink: paladin_devotion_hd.md#serment-de-dévotion
 Name: Aura de dévotion

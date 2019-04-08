@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: races_hd.md#langues
 ParentLink: races_hd.md#traits-raciaux
 Name: Langues

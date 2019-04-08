@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_surveyor_hd.md#incantation-réflexe
 ParentLink: wizard_surveyor_hd.md#arpenteur
 Name: Incantation réflexe

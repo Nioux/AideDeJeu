@@ -12,15 +12,15 @@
 
 Le cercle de la terre réunit des mystiques et des sages qui perpétuent d'antiques connaissances et rites grâce à une tradition orale très développée. Ces druides se rassemblent dans des cercles d'arbres sacrés ou de pierres dressées pour se murmurer des secrets primordiaux en druidique. Les membres les plus sages du cercle font office de grands prêtres dans les communautés qui respectent encore l'antique religion, et conseillent leurs dirigeants. En tant que membre du cercle, votre magie est influencée par le type de terrain sur lequel vous avez été initié aux rites mystérieux du cercle.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Tour de magie bonus<!--/Name-->
 
 Quand vous choisissez ce cercle au niveau 2, vous pouvez apprendre un tour de magie de druide supplémentaire de votre choix.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Récupération naturelle<!--/Name-->
 
@@ -30,9 +30,9 @@ Ces emplacements de sorts doivent avoir un niveau combiné inférieur ou égal �
 
 Par exemple, si vous êtes un druide de niveau 4, vous pouvez récupérer un équivalent de deux niveaux d'emplacements de sorts, donc soit un emplacement de niveau 2, soit deux emplacements de niveau 1.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Sorts de cercle<!--/Name-->
 
@@ -41,9 +41,9 @@ Votre connexion mystique avec la terre vous donne la capacité de lancer certain
 Une fois que vous avez appris un sort de cercle, il est toujours considéré comme préparé et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour. Si vous apprenez un sort qui n'apparaît pas dans la liste de sorts de druide, considérez-le quand même comme un sort de druide.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Arctique<!--/Name-->
 
@@ -54,9 +54,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 7|liberté de mouvement, tempête de grêle|
 9|communion avec la nature, cône de froid|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Littoral<!--/Name-->
 
@@ -67,9 +67,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|contrôle de l'eau, liberté de mouvement|
 |9|invoquer un élémentaire, scrutation|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Désert<!--/Name-->
 
@@ -80,9 +80,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|flétrissement, terrain hallucinatoire|
 |9|fléau d'insectes, mur de pierre|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Forêt<!--/Name-->
 
@@ -93,9 +93,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|divination, liberté de mouvement|
 |9|communion avec la nature, passage par les arbres|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Plaine<!--/Name-->
 
@@ -106,9 +106,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|divination, liberté de mouvement|
 |9|rêve, fléau d'insectes|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Montagne<!--/Name-->
 
@@ -119,9 +119,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|façonnage de la pierre, peau de pierre|
 |9|passe-muraille, mur de pierre|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Marais<!--/Name-->
 
@@ -132,9 +132,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|liberté de mouvement, localiser une créature|
 |9|fléau d'insectes, scrutation|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Traversée des terrains<!--/Name-->
 
@@ -144,17 +144,17 @@ Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralent
 
 En plus de cela, vous bénéficiez d'un avantage sur les [jets de sauvegarde] contre les plantes créées par magie ou manipulées pour gêner les déplacements, comme celles créées par le sort [enchevêtrement].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Enfant de la nature<!--/Name-->
 
 Quand vous atteignez le niveau 10, vous ne pouvez pas être charmé ou terrorisé par les élémentaires ou les fées, et vous êtes immunisé contre les poisons et les maladies.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Sanctuaire de la nature<!--/Name-->
 
@@ -164,7 +164,7 @@ Si elle réussit, la créature est immunisée à cet effet pendant 24 heures.
 
 La créature est consciente de cet effet avant de vous attaquer.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

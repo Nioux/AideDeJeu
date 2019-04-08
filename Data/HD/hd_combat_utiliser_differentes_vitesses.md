@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#utiliser-différentes-vitesses
 ParentLink: combat_hd.md#combattre
 Name: Utiliser différentes vitesses

@@ -11,7 +11,7 @@
 
 Le roi est la terre. La terre est le roi. Plusieurs paladins sont convaincus que, quelque part, un royaume terrestre doit émerger, prenant comme modèle le royaume divin, avec à sa tête un roi sage et généreux qui fera régner l'ordre et la paix. Ce serment et cette quête sont ceux des paladins qui espèrent brandir haut la bannière de ce royaume et qui cherchent sans relâche celui ou celle qui sera digne de leur fidélité. Le paladin lie bien souvent son existence à celle d'une nation, d'un royaume ou d'une cité, et aux idéaux que reflète cette entité, en même temps qu'à ses gouvernants, qu'ils soient roi, prince, simple baron ou conseil élu. Si de nombreux paladins de ce type deviennent tôt ou tard des officiers respectés dans les armées du royaume ou de la cité, il n'en est pas toujours de même. Certains prennent ainsi fait et cause pour le peuple opprimé d'un ancien royaume contre un conquérant ou un tyran. D'autres tiennent à faire resurgir le souvenir lointain d'une nation disparue. Tous ont à l'esprit le royaume idéal dont ils sont les champions.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Préceptes d'obédience<!--/Name-->
 
@@ -27,9 +27,9 @@ Tempérance. Lorsque vous rendez la justice, soyez justes et équitables, que ce
 
 Droiture. Ne vous abaissez pas à vous compromettre dans les jeux politiques.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Sorts de serment<!--/Name-->
 
@@ -43,9 +43,9 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 |13|liberté de mouvement, terrain hallucinatoire|
 |17|communion avec la nature, soin des blessures de groupe|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Canalisation d'énergie divine<!--/Name-->
 
@@ -57,17 +57,17 @@ Si vous n'avez pas subi de dégât pendant le round précédent, vous obtenez un
 
 Tacticien. Au prix d'une action bonus, vous procurez à tous vos alliés situés dans un rayon de 9 mètres autour de vous ainsi qu'à vous-même, un avantage sur la prochaine attaque réalisée avant le début de votre prochain tour. Toutes les attaques réussies bénéficient d'un bonus aux dégâts égal à votre modificateur de [Charisme].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Cri de ralliement<!--/Name-->
 
 À partir du niveau 7, vous pouvez haranguer vos compagnons et les exhorter à faire de leur mieux. Tous vos alliés dans un rayon de 9 mètres autour de vous récupèrent 1d6 + votre modificateur de [Charisme] points de vie. De plus, tous ceux qui étaient charmés, terrorisés ou paralysés suite à un [jet de sauvegarde] raté peuvent tenter un nouveau [jet de sauvegarde] (avec le même DD) afin de se libérer de leur condition. Ils obtiennent un avantage sur ce [jet de sauvegarde]. Vous devez terminer un repos court ou long avant de pouvoir de nouveau utiliser cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Charge héroïque<!--/Name-->
 
@@ -75,9 +75,9 @@ Tacticien. Au prix d'une action bonus, vous procurez à tous vos alliés situés
 
 Utilisez une action pour charger un ennemi situé à 6 mètres au moins de vous, et jusqu'à 6 mètres en plus de votre déplacement normal, puis portez une attaque pour laquelle vous obtenez un avantage. Si cette attaque atteint sa cible, jusqu'à votre prochain tour tous vos alliés dans un rayon de 9 mètres autour de la cible de votre charge peuvent utiliser une action bonus afin de porter une attaque. Si l'ennemi que vous chargiez est mort ou inconscient suite à votre charge héroïque, cette attaque bonus se fait avec un avantage. Vous ne pouvez pas vous déplacer avant ou après une charge héroïque. Vous devez terminer un repos court ou long avant de pouvoir de nouveau utiliser cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Héros de guerre<!--/Name-->
 
@@ -90,7 +90,7 @@ Au niveau 20, vous pouvez prendre la forme d'une des figures mythiques de votre 
 
 Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

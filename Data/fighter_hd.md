@@ -166,7 +166,7 @@ Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez 
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Archétypes martiaux<!--/Name-->
 
@@ -180,7 +180,7 @@ Chaque guerrier a sa propre approche du combat et de la façon de se perfectionn
 
 ## [Sorcelame]
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

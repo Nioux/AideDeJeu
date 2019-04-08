@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_druid_hd.md#le-souffle-du-dragon
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 Name: Le souffle du dragon

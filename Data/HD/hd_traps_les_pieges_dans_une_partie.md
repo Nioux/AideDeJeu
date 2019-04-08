@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#les-pièges-dans-une-partie
 ParentLink: traps_hd.md#les-pièges
 Name: Les pièges dans une partie

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: pantheons_hd.md#le-panthéon-d’osgild
 ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
 Name: Le panthéon d’Osgild

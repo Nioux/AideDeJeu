@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_obedience_hd.md#préceptes-dobédience
 ParentLink: paladin_obedience_hd.md#serment-dobédience
 Name: Préceptes d'obédience

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_flexibility_hd.md#absorber-les-coups
 ParentLink: monk_flexibility_hd.md#voie-de-la-souplesse
 Name: Absorber les coups

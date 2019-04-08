@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#les-effets-des-pièges
 ParentLink: traps_hd.md#les-pièges
 Name: Les effets des pièges

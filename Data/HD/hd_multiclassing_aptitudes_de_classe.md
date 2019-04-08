@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: multiclassing_hd.md#aptitudes-de-classe
 ParentLink: multiclassing_hd.md#multiclassage
 Name: Aptitudes de classe

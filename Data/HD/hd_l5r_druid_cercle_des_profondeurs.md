@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_druid_hd.md#cercle-des-profondeurs
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 Name: Cercle des profondeurs

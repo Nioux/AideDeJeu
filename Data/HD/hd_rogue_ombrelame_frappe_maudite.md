@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_ombrelame_hd.md#frappe-maudite
 ParentLink: rogue_ombrelame_hd.md#ombrelame
 Name: Frappe maudite

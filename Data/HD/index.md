@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: index.md
 RootId: index.md
 Name: Bibliothèque

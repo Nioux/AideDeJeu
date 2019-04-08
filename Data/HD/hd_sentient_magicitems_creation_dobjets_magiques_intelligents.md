@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sentient_magicitems_hd.md#création-dobjets-magiques-intelligents
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
 Name: Création d'objets magiques intelligents

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_elementalist_hd.md#puissance-élémentaire
 ParentLink: wizard_elementalist_hd.md#Élémentaliste
 Name: Puissance élémentaire

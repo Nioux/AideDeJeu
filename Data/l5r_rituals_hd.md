@@ -11,7 +11,7 @@
 
 Tout le monde est capable de tenter de réaliser un rituel, mais il faut un certain degré de compétence pour le réussir pleinement. Les compétences les plus communé- ment utilisées sont Intelligence (Arcanes), Intelligence (Religion) ou Intelligence (Nature), en fonction de l'origine du rituel. La personne qui mène le rituel est appelé l'invocateur.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Tests de compétence<!--/Name-->
 
@@ -21,9 +21,9 @@ Pour chaque rituel, il est nécessaire de réussir un certain nombre de tests de
 
 Chaque test demande, par défaut, dix minutes. Certains rituels demandent plus de temps entre chaque test. Cela dépend des paramètres établis lors de sa création. Quand un rituel est proposé, dans ce livre ou ailleurs, c'est alors spécifié dans sa description. Chaque échec sur un test étend donc, par défaut, la durée du rituel de dix minutes. Si deux tests d'affilée sont ratés, alors c'est le rituel tout entier qui échoue.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Assistants<!--/Name-->
 
@@ -35,9 +35,9 @@ Malgré la présence d'assistants, c'est toujours l'invocateur qui effectue les 
 
 Avoir plus d'assistants que nécessaire ne change rien au rituel.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Résister au rituel<!--/Name-->
 
@@ -45,9 +45,9 @@ Avoir plus d'assistants que nécessaire ne change rien au rituel.
 
 Comme pour tout sort de Héros & Dragons, on peut parfois résister à un rituel. Certains impliquent que la cible (ou les cibles) effectue un jet de sauvegarde. Le DD de ce jet de sauvegarde dépend du rituel, comme indiqué à l'étape 4 de la section Créer son rituel.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Composantes<!--/Name-->
 
@@ -57,9 +57,9 @@ Tous les rituels, ou presque, nécessitent l'utilisation de diverses composantes
 
 D'autres rituels réclament des assistants. Quand un rituel est proposé, dans ce livre ou ailleurs, les assistants sont nommés AS dans la ligne des composantes du sort, et l'éventualité d'un contrecoup est noté CC.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Echec du rituel<!--/Name-->
 
@@ -71,9 +71,9 @@ Beaucoup de rituels engendrent un contrecoup. Ce dernier est un effet négatif q
 
 Lorsqu'un invocateur (ou ses assistants) échoue à deux tests de compétence de suite, le rituel échoue pour de bon. Si le rituel déclenche un effet en cas d'échec, c'est la personne ayant échoué au dernier test qui le subit (cf. ci-dessus).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Corruption<!--/Name-->
 
@@ -81,9 +81,9 @@ Lorsqu'un invocateur (ou ses assistants) échoue à deux tests de compétence de
 
 La magie corrompt l'âme autant que le corps. Trop y recourir affecte petit à petit l'esprit et le corps. Chaque fois que, lors d'un rituel, l'un des tests de compétence obtient un 1 ou un 20 naturel, le corps ou l'esprit du personnage qui a effectué le jet s'altère légèrement. Ses yeux prennent une couleur étrange, son corps exhale une odeur bizarre, son esprit se transforme, devenant de plus en plus froid et mauvais. Cette corruption n'est pas mécanique (même si, au bout d'un temps, vous pourriez vous permettre de changer d'un cran l'alignement du personnage pour refléter le processus). Ces transformations devraient être subtiles et progressives. Il est important notamment que les joueurs ne s'en rendent pas compte au départ. Ne dites rien au joueur du personnage mais glissez par exemple quelques informations aux autres joueurs. Au final, les personnages affectés ressembleront de plus en plus à l'image d'Épinal que l'on peut avoir des êtres maléfiques ou des sorciers.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Domaines de magie<!--/Name-->
 
@@ -91,9 +91,9 @@ La magie corrompt l'âme autant que le corps. Trop y recourir affecte petit à p
 
 Afin de simplifier ce système de magie et sa formalisation, nous utilisons les écoles de magies de Héros & Dragons et les renommons « domaines ». Consultez le Manuel des règles de Héros & Dragons page 169 pour plus d'informations sur ce que recouvrent ces écoles.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Étape 1 : déterminer le domaine et le degré de difficulté de base<!--/Name-->
 
@@ -123,9 +123,9 @@ Le DD d'un test de compétence à effectuer dans le cadre d'un rituel ne devrait
 
 **Transmutation.** DD 32 ; Portée : moyenne ; Cible : une créature ou 0,6 m3 de matière ; Durée : rounds ; Jet de sauvegarde : Constitution (1/2 dégâts ou annule).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Étape 2 : Modifier le degré de difficulté<!--/Name-->
 
@@ -133,9 +133,9 @@ Le DD d'un test de compétence à effectuer dans le cadre d'un rituel ne devrait
 
 Il s'agit ensuite de déterminer les modifications au DD de base en rajoutant des éléments au rituel : utilisation de diverses compétences supplémentaires, temps d'incantation augmenté, portée augmentée ou réduite, etc. Souvenez-vous que la ligne "Contrecoup" du tableau correspond à un effet que l'invocateur (et éventuellement les autres participants au rituel) subit, et ce que le rituel réussisse ou échoue. Le tableau ci-contre permet donc de modifier les paramètres du rituel. Partez de la base proposée par le domaine que vous avez choisi et rajoutez des éléments. Vous pouvez restreindre les moments auquel réaliser le rituel, réduire ou augmenter sa portée, son nombre de cibles, sa zone d'effet, etc. Chaque ligne propose un ajustement de ces paramètres et une réduction ou une augmentation du DD de tous les tests de compétence à effectuer afin de réussir le rituel. Une fois chaque paramètre déterminé, faites la somme des modificateurs et ajoutez tout cela au DD proposé par le domaine choisi : vous obtenez le DD aux tests de compétence pour ce rituel. Ce DD n'est pas variable, à moins que vous l'ayez prévu (en permettant de rajouter des assistants par exemple). Un rituel est un tout immuable et les invocateurs ne peuvent rajouter de leur chef des conditions et d'en changer les paramètres afin de réduire encore le DD. Le tableau qui suit ne concerne donc que la création du rituel en lui-même.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Paramètres du rituel et modificateurs au DD des tests de compétence<!--/Name-->
 
@@ -197,9 +197,9 @@ Il s'agit ensuite de déterminer les modifications au DD de base en rajoutant de
 
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Étape 3 : déterminer l'effet en cas d'échec<!--/Name-->
 
@@ -207,9 +207,9 @@ Il s'agit ensuite de déterminer les modifications au DD de base en rajoutant de
 
 En cas d'échec, un rituel peut avoir des effets plus ou moins désastreux et plus ou moins immédiats. Plus le rituel viole l'ordre naturel, plus il fait appel à des puissances issues d'autres réalités, et plus les conséquences sont désastreuses en cas d'échec. Voici quelques exemples. Cette liste est non-exhaustive et vous êtes libre d'en inventer d'autres.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Attaque<!--/Name-->
 
@@ -217,9 +217,9 @@ En cas d'échec, un rituel peut avoir des effets plus ou moins désastreux et pl
 
 Une créature apparaît et elle attaque l'invocateur, ainsi qu'éventuellement ses assistants ou même tous les témoins. Il s'agit d'une créature correspondant à ce que le rituel propose de faire. Par exemple : un rituel de nécromancie peut faire apparaître un spectre, un rituel démoniste peut faire apparaître un démon, un rituel en lien avec la nature peut faire accourir des animaux sauvages, etc. Quand un rituel est proposé, dans ce livre ou ailleurs, le type de créature, sa puissance et son comportement sont indiqués dans la description du rituel.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Augmentation/Réduction<!--/Name-->
 
@@ -227,9 +227,9 @@ Une créature apparaît et elle attaque l'invocateur, ainsi qu'éventuellement s
 
 Le rituel devait affaiblir la cible mais il la rend plus puissante. Ou au contraire, il devait la rendre plus forte et l'affaiblit. Cela peut prendre la forme d'une guérison, de dégâts ou d'une augmentation de puissance brute.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Changement de personnalité<!--/Name-->
 
@@ -239,9 +239,9 @@ Le rituel semble avoir réussi. Cependant, la cible (ou le lanceur, ou ses assis
 
 Cette liste n'est pas exhaustive, n'hésitez pas à en créer d'autres, et à les habiller pour leur donner du corps. Ces conséquences ne devraient jamais être connues des personnages avant de lancer le rituel, au moins pour les plus pernicieux d'entre eux : conservez la surprise.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Dégâts<!--/Name-->
 
@@ -249,9 +249,9 @@ Cette liste n'est pas exhaustive, n'hésitez pas à en créer d'autres, et à le
 
 L'invocateur ou la cible du rituel (ou les deux) subit des dégâts.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Fausse vérité<!--/Name-->
 
@@ -259,9 +259,9 @@ L'invocateur ou la cible du rituel (ou les deux) subit des dégâts.
 
 Ceci s'applique en général aux rituels divinatoires. L'invocateur obtient une réponse à sa question, mais elle est fausse. Il croit cependant qu'elle est vraie.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Illusion<!--/Name-->
 
@@ -269,9 +269,9 @@ Ceci s'applique en général aux rituels divinatoires. L'invocateur obtient une 
 
 L'invocateur, ainsi que ses assistants éventuellement, est persuadé que le rituel a eu l'effet escompté. En réalité, il n'a eu aucun effet, ou un effet tout à fait différent. L'illusion peut aussi sembler projeter l'invocateur dans un monde totalement différent ou faire apparaître des choses fascinantes, étranges ou effrayantes.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Inversion<!--/Name-->
 
@@ -279,9 +279,9 @@ L'invocateur, ainsi que ses assistants éventuellement, est persuadé que le rit
 
 Le rituel a l'effet inverse de celui escompté.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Magie hostile<!--/Name-->
 
@@ -289,9 +289,9 @@ Le rituel a l'effet inverse de celui escompté.
 
 L'invocateur et/ou ses assistants sont affectés par un effet magique hostile (une explosion magique, une illusion, une suggestion magique, etc.). Pour déterminer la difficulté du jet de sauvegarde, référez-vous à l'étape 4. Quand un rituel est proposé, dans ce livre ou ailleurs, la description du rituel indique l'effet hostile ainsi que le DD pour y résister.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Mort<!--/Name-->
 
@@ -299,9 +299,9 @@ L'invocateur et/ou ses assistants sont affectés par un effet magique hostile (u
 
 La personne ayant échoué au dernier test de compétence, l'invocateur ou la cible, meurt. Ceci peut éventuellement s'étendre à toute l'assemblée.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Renversement<!--/Name-->
 
@@ -309,9 +309,9 @@ La personne ayant échoué au dernier test de compétence, l'invocateur ou la ci
 
 Le rituel affecte l'invocateur et non la cible.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Étape 4 : déterminer le niveau du rituel<!--/Name-->
 
@@ -319,9 +319,9 @@ Le rituel affecte l'invocateur et non la cible.
 
 Enfin, il va vous falloir déterminer le niveau du rituel (de 1 à 9). Plus un rituel est puissant, plus il permet de contourner les lois naturelles, plus ses conséquences sont importantes sur l'histoire et le monde, plus son niveau doit être élevé. Le niveau permet aussi de déterminer la difficulté qu'il y a à le mener à bien. En effet, grâce au niveau, on détermine le nombre de succès à obtenir sur les tests de compétence à effectuer, le DD du jet de sauvegarde contre les effets du rituel et parfois même la portée et la durée.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Nombre de succès<!--/Name-->
 
@@ -329,9 +329,9 @@ Enfin, il va vous falloir déterminer le niveau du rituel (de 1 à 9). Plus un r
 
 Le nombre de succès à obtenir est égal au niveau du rituel.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Jet de sauvegarde<!--/Name-->
 
@@ -339,9 +339,9 @@ Le nombre de succès à obtenir est égal au niveau du rituel.
 
 La difficulté du jet de sauvegarde est égale à 8 + Niveau effectif du rituel + Modificateur de Charisme de l'invocateur.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Durée et portée<!--/Name-->
 
@@ -357,9 +357,9 @@ La portée, quant à elle, est définie de la manière suivante :
 
 **Longue** = 500 + (50 x [niveau du rituel x 2]) mètres
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Quelques exemples de rituel<!--/Name-->
 
@@ -367,9 +367,9 @@ La portée, quant à elle, est définie de la manière suivante :
 
 Les rituels qui suivent ont été créés à l'aide du tableau ci-dessus. Ils démontrent comment les rituels peuvent tout autant être un vecteur d'ambiance que de scénario, d'histoire et de quêtes
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Chasse ancestrale<!--/Name-->
 
@@ -413,9 +413,9 @@ Des heures durant, l'invocateur récite d'anciennes litanies, entrant petit à p
 
 **Participants supplémentaires.** Le lanceur de sort peut mettre à contribution de 2 à 10 participants. Le degré de difficulté des tests est alors réduit de 2 par participants.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->La confrontation<!--/Name-->
 
@@ -459,9 +459,9 @@ Cependant, chaque traqueur possède un trait singulier et étrange : reflets d'u
 
 **Contrecoup.** 3 niveaux d'épuisement pour ceux qui ingèrent le mélange ainsi que l'invocateur.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Perce-rêves<!--/Name-->
 
@@ -505,9 +505,9 @@ Une fois la porte trouvée, à la fin du rituel, le personnage se réveille.
 
 **Contrecoup.** L'invocateur subit 3 niveaux d'épuisement.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Don spécifique<!--/Name-->
 
@@ -517,9 +517,9 @@ La magie se manifeste rarement dans les cinq royaumes. Mais parfois, un enfant n
 
 Dans les cinq royaumes, les dons liés à la magie classique n'existent pas. Il n'en existe qu'un seul : [sourcelin]. Ce dernier est cependant optionnel. Il permet aux MJ désirant mettre un peu plus de magie dans l'univers de jeu de le faire sans pour autant briser sa cohérence. _Cependant, cela rend l'univers un peu plus magique là où les sourcelins sont, d'habitude, des PNJ rares et étranges._ Ne prenez pas l'intégration de ce don **optionnel** à la légère.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Sourcelin<!--/Name-->
 
@@ -537,7 +537,7 @@ Vous obtenez la capacité de lancer deux tours de magie. Une fois un tour de mag
 
 Option : si vous désirez permettre au sourcelin d'être plus offensif, permettez-lui aussi de choisir entre Trait de feu et Bouffée de poison. Mais que ces sorts puissants (surtout dans un univers sans magie) soient impressionnants et posent des soucis quand ils sont utilisés !
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

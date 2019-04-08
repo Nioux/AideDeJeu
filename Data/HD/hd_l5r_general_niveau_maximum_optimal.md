@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_general_hd.md#niveau-maximum-optimal
 ParentLink: l5r_general_hd.md#règles-générales
 Name: Niveau maximum optimal

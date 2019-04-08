@@ -11,7 +11,7 @@
 
 La magie est présente partout de façon diffuse, dans chaque être, dans chaque chose. À travers l'exercice de leur art guerrier, certains combattants réussissent à prendre conscience que l'étincelle de magie est intimement liée au sang, au corps et à la vie de chaque créature. Que ce soit grâce à l'enseignement d'un maître ou que cette aptitude dormait déjà au plus profond de leur sang, ils développent alors des techniques de combat spécifiques qui leur permettent d'absorber l'étincelle de magie des créatures qu'ils réussissent à vaincre. Ils utilisent ensuite des chorégraphies martiales complexes qui leurs permettent de libérer cette magie sous forme de sorts. Ces guerriers suivent un chemin long et complexe, mais au final, ceux qui réussissent à s'astreindre à la discipline nécessaire deviennent des adversaires redoutables, imprévisibles et particulièrement polyvalents.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Initié<!--/Name-->
 
@@ -30,9 +30,9 @@ Lorsque vous lancez un sort, vous dépensez un nombre de points de sorcellerie i
 
 Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la liste de sorts d'ensorceleur. À chaque fois que vous gagnez un niveau pair (4, 6, etc.), vous apprenez un nouveau sort d'ensorceleur (mais pas un tour de magie) d'un niveau que vous êtes en mesure de lancer.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Incantations<!--/Name-->
 
@@ -44,9 +44,9 @@ Modificateur d'attaque des sorts = bonus de maîtrise + modificateur de [Charism
 
 Vous pouvez utiliser une arme de corps-à-corps comme focaliseur d'incantation pour vos sorts d'ensorceleur.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Drain d'énergie<!--/Name-->
 
@@ -58,17 +58,17 @@ Si l'indice de dangerosité de la créature est inférieur à 1, il s'agit en fa
 
 Vous devez terminer un repos court ou long avant de pouvoir à nouveau utiliser cette aptitude.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Frappe des arcanes<!--/Name-->
 
 À partir du niveau 7, vous pouvez dépenser 1 point de sorcellerie et une action bonus pour charger votre arme de l'énergie de la magie. Vous ajoutez 1d4 dégâts de force à tous vos jets de dégâts avec cette arme pendant ce round. Les dégâts infligés avec l'arme sont considérés comme des dégâts magiques lorsque vous êtes confronté à des résistances ou des immunités aux attaques et aux dégâts non magiques Si vous utilisez, dans le même round, la capacité Sursaut d'activité, vous devez dépenser 1 point de sorcellerie supplémentaire afin de bénéficier de cette capacité.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Résistance des arcanes<!--/Name-->
 
@@ -76,9 +76,9 @@ Au niveau 10, vous pouvez dépenser votre réaction et 1 point de sorcellerie po
 
 À ce niveau, en plus du sort que vous apprenez normalement, vous apprenez un troisième tour de magie de la liste d'ensorceleur.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Frappe des arcanes majeure<!--/Name-->
 
@@ -86,9 +86,9 @@ Au niveau 10, vous pouvez dépenser votre réaction et 1 point de sorcellerie po
 
 Si vous utilisez, dans le même round, la capacité Sursaut d'activité, vous devez dépenser 2 points de sorcellerie supplémentaire afin de bénéficier de cette capacité.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Sort rapide<!--/Name-->
 
@@ -96,7 +96,7 @@ Lorsque vous atteignez le niveau 18, vous pouvez lancer un sort dont le temps d'
 
 À ce niveau, en plus du sort que vous apprenez normalement, vous apprenez un quatrième tour de magie de la liste d'ensorceleur.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#lancer-un-sort-via-un-emplacement-de-niveau-supérieur
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Lancer un sort via un emplacement de niveau supérieur

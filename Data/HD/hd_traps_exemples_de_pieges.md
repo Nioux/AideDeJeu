@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#exemples-de-pièges
 ParentLink: traps_hd.md#les-pièges
 Name: Exemples de pièges

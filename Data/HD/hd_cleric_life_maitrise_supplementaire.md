@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_life_hd.md#maîtrise-supplémentaire
 ParentLink: cleric_life_hd.md#domaine-de-la-vie
 Name: Maîtrise supplémentaire

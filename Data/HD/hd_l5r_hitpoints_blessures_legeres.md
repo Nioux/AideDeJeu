@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_hitpoints_hd.md#blessures-légères
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 Name: Blessures légères

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: damage_healing_hd.md#tomber-à-0-point-de-vie
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 Name: Tomber à 0 point de vie

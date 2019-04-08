@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_fiveanimals_hd.md#griffe-du-tigre
 ParentLink: monk_fiveanimals_hd.md#voie-des-cinq-animaux
 Name: Griffe du tigre

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_immortal_hd.md#pacte-avec-la-mort
 ParentLink: warlock_immortal_hd.md#le-seigneur-immortel
 Name: Pacte avec la Mort

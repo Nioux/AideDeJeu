@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: environment_hd.md#chute
 ParentLink: environment_hd.md#l’environnement
 Name: Chute

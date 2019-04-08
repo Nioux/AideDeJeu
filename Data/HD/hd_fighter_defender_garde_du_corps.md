@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_defender_hd.md#garde-du-corps
 ParentLink: fighter_defender_hd.md#défenseur
 Name: Garde du corps

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#faire-1-ou-20
 ParentLink: combat_hd.md#combattre
 Name: Faire 1 ou 20

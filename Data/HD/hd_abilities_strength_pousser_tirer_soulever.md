@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_strength_hd.md#pousser-tirer-soulever
 ParentLink: abilities_strength_hd.md#force
 Name: Pousser, tirer, soulever

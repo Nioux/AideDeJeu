@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_defender_hd.md#posture-défensive
 ParentLink: fighter_defender_hd.md#défenseur
 Name: Posture défensive

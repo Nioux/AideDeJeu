@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_thief_hd.md#monte-en-lair
 ParentLink: rogue_thief_hd.md#voleur
 Name: Monte-en-l'air

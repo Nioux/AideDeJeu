@@ -10,7 +10,7 @@
 - AltName: <!--AltName-->The Order of Combat (SRD p90)<!--/AltName-->
 - Source: <!--Source-->(MDR p283)<!--/Source-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Ordre de combat<!--/Name-->
 
@@ -19,9 +19,9 @@
 
 Un combat typique est la rencontre brutale de deux camps qui s'opposent. Un tourbillon de violence constitué de coups, de feintes, de parades, de sorts qui fusent entre des adversaires toujours en mouvement. Dans le cadre du jeu, le chaos du combat est organisé en un cycle de rounds et de tours. Un round est une période de 6 secondes dans le monde du jeu. Pendant un round, chaque créature qui participe au combat se voit attribuer un tour. L'ordre des tours de toutes les créatures présentes est déterminé au début du combat par les jets d'initiative. Une fois que chaque créature a agi lors de son tour, si aucun des camps n'a vaincu l'autre et si aucun des camps ne souhaite rompre l'affrontement, le combat continue pendant un nouveau round.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Les étapes du combat<!--/Name-->
 
@@ -35,9 +35,9 @@ Un combat typique est la rencontre brutale de deux camps qui s'opposent. Un tour
 5. Nouveau round. Quand toutes les créatures qui participent au combat ont agi, le round prend fin. Répétez alors la quatrième étape jusqu'à la fin du combat.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Surprise<!--/Name-->
 
@@ -50,9 +50,9 @@ Le MJ détermine qui est susceptible d'être pris par surprise. Si aucun des deu
 
 Si vous êtes surpris, vous ne pouvez pas bouger ou accomplir d'action lors de votre premier tour de combat, et vous ne pouvez pas non plus réagir jusqu'à la fin de ce tour. Il est possible qu'un seul membre d'un groupe soit surpris et pas les autres.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Initiative<!--/Name-->
 
@@ -65,9 +65,9 @@ Le MJ classe les combattants par ordre de Dextérité, en commençant par celui 
 
 En cas d'égalité, s'il s'agit de créatures contrôlées par le MJ, ce dernier choisit quelle créature agira avant l'autre. Si l'égalité concerne les héros, c'est aux joueurs de décider quel personnage agira le premier. Si un monstre et le personnage d'un joueur se trouvent à égalité, le MJ peut décider de l'ordre. Le MJ peut aussi décider que les personnages et monstres à égalité résolvent la situation par un nouveau jet de d20, auquel cas la créature qui a le résultat le plus haut agira avant l'autre.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Votre tour<!--/Name-->
 
@@ -84,9 +84,9 @@ La section Déplacement et position vous explique les règles de déplacement.
 
 Vous pouvez décider de ne pas vous déplacer, ne pas agir, ou même de ne rien faire pendant votre tour. Si vous ne savez pas quoi faire pendant votre tour, vous pouvez envisager de choisir les actions esquiver ou se tenir prêt, décrites dans la section Actions en combat.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Action bonus<!--/Name-->
 
@@ -99,9 +99,9 @@ Vous ne pouvez accomplir qu'une seule action bonus pendant votre tour. Si vous a
 
 Vous devez attendre votre tour pour accomplir une action bonus, sauf si celle-ci se déroule à un moment bien précis indiqué alors dans son descriptif. Tout effet qui vous empêche d'accomplir des actions vous empêche également d'accomplir des actions bonus.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Autres activités pendant votre tour<!--/Name-->
 
@@ -120,9 +120,9 @@ Pour utiliser certains objets magiques et autres objets spéciaux, vous devrez t
 
 Le MJ peut vous demander d'utiliser une action pour n'importe quelle activité qui requiert une attention particulière ou lorsque vous vous trouvez face à un obstacle inhabituel. Par exemple, le MJ peut raisonnablement vous demander d'utiliser une action pour forcer une porte coincée ou pour tourner une manivelle qui fera descendre un pont-levis.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Réaction<!--/Name-->
 
@@ -133,9 +133,9 @@ Certaines capacités spéciales, sorts ou situations permettent à votre personn
 
 Quand vous réagissez, vous ne pouvez pas réagir de nouveau avant le début de votre prochain tour. Si la réaction interrompt le tour d'une autre créature, celleci finit son tour normalement après la résolution de la réaction.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Déplacement et position<!--/Name-->
 
@@ -148,9 +148,9 @@ Lors de votre tour, vous pouvez vous déplacer d'une distance inférieure ou ég
 
 Dans le cadre de votre mouvement, vous pouvez sauter, escalader et nager. Ces différents modes de déplacement peuvent être combinés avec la marche ou constituer l'ensemble de votre déplacement. Quelle que soit la manière dont vous vous déplacez, vous devez déduire de votre vitesse la distance utilisée par chacun de vos modes de déplacement jusqu'à ce que vous ayez épuisé votre jauge de déplacement ou que vous ayez décidé de vous arrêter.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Fragmenter votre mouvement<!--/Name-->
 
@@ -159,9 +159,9 @@ Dans le cadre de votre mouvement, vous pouvez sauter, escalader et nager. Ces di
 
 Pendant votre tour, vous pouvez fragmenter votre déplacement et utiliser une partie de votre déplacement avant votre action et le reste après celle-ci. Par exemple, si votre vitesse est de 9 mètres, vous pouvez vous déplacer de 3 mètres, faire une action, puis parcourir les 6 mètres restant.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Se déplacer entre des attaques<!--/Name-->
 
@@ -170,9 +170,9 @@ Pendant votre tour, vous pouvez fragmenter votre déplacement et utiliser une pa
 
 Si vous utilisez une action qui vous permet de porter plusieurs attaques avec une arme, vous pouvez fragmenter encore plus votre déplacement et vous déplacer entre ces attaques. Par exemple, un guerrier qui peut porter deux attaques grâce à l'aptitude attaque supplémentaire et qui a une vitesse de 7,50 mètres peut se déplacer de 3 mètres, porter sa première attaque, se déplacer de 4,50 mètres supplémentaires et porter sa seconde attaque.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Utiliser différentes vitesses<!--/Name-->
 
@@ -183,9 +183,9 @@ Si vous avez la capacité de vous déplacer à plusieurs vitesses, comme une vit
 
 Par exemple, si votre vitesse est de 9 mètres et qu'un magicien vous a lancé un sort de vol qui vous permet d'avoir une vitesse en vol de 18 mètres, vous pouvez voler sur une distance de 6 mètres, marcher 3 mètres, puis bondir dans les airs pour voler sur 9 mètres supplémentaires.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Terrain difficile<!--/Name-->
 
@@ -198,9 +198,9 @@ Chaque mètre parcouru sur un terrain difficile coûte un mètre de déplacement
 
 Des meubles bas, des gravats, des buissons, des escaliers raides, de la neige ou des fondrières sont autant d'exemples de terrains difficiles. L'emplacement occupé par une autre créature est également considéré comme un terrain difficile.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Être à terre<!--/Name-->
 
@@ -215,9 +215,9 @@ Par exemple, si votre vitesse est de 9 mètres, vous devez utiliser 4,50 mètres
 
 Pour vous déplacer quand vous êtes à terre, vous devez ramper ou utiliser une magie comme la téléportation. Quand vous rampez, chaque mètre parcouru vous coûte 1 mètre supplémentaire. Votre vitesse de déplacement est donc divisée par deux. De plus, si vous rampez sur 1 mètre en terrain difficile, cela vous coûte en réalité 3 mètres de déplacement, votre vitesse est donc divisée par trois.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Interagir avec les objets alentours<!--/Name-->
 
@@ -248,9 +248,9 @@ Voici quelques exemples de ce que vous pouvez accomplir librement, en même temp
 * Frapper le sol avec un bâton de 3 mètres
 * Tendre un objet à un autre personnage
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Se déplacer au milieu d'autres créatures<!--/Name-->
 
@@ -263,9 +263,9 @@ Qu'une créature soit amie ou ennemie, vous ne pouvez pas volontairement vous ar
 
 Si vous vous mettez hors de portée de la capacité d'allonge d'une créature pendant votre déplacement, vous provoquez une attaque d'opportunité, ainsi qu'expliqué plus loin dans ce chapitre.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Déplacement en vol<!--/Name-->
 
@@ -274,9 +274,9 @@ Si vous vous mettez hors de portée de la capacité d'allonge d'une créature pe
 
 Les créatures volantes bénéficient d'une grande mobilité. En revanche elles doivent également composer avec le risque de tomber. Si une créature volante est jetée à terre, voit sa vitesse réduite à 0 ou se retrouve d'une manière ou d'une autre dans l'incapacité de bouger, elle chute, à moins d'être en mesure de faire du vol stationnaire ou d'être maintenue dans les airs par magie grâce au sort vol, par exemple.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Taille des créatures<!--/Name-->
 
@@ -294,9 +294,9 @@ Chaque créature occupe une surface plus ou moins importante en fonction de sa t
 |Très grand|TG|Carré de 4,50 mètres de côté|
 |Gigantesque|Gig|Carré de 6 mètres de côté|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Emplacement<!--/Name-->
 
@@ -309,9 +309,9 @@ L'emplacement occupé par une créature donne aussi la taille de l'espace qu'il 
 
 Les créatures plus grandes occupent un emplacement plus important. Et le nombre maximum d'entre elles qui permet d'encercler en même temps une créature est donc plus réduit. Par exemple, si des grandes créatures veulent encercler une créature de taille moyenne ou plus petite, le chiffre maximum est alors de cinq. En revanche, une créature gigantesque peut être encerclée par vingt créatures de taille moyenne.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Se faufiler dans un espace réduit<!--/Name-->
 
@@ -320,9 +320,9 @@ Les créatures plus grandes occupent un emplacement plus important. Et le nombre
 
 Une créature peut se faufiler dans un espace minimum d'une taille égale à l'espace contrôlé par une créature de la catégorie de taille inférieure à la sienne. Ainsi, une grande créature peut se faufiler dans un passage qui ne fait que 1,50 mètre de large. Mais en se faufilant dans un tel espace, chaque mètre parcouru par la créature lui coûte 1 mètre de déplacement supplémentaire et elle subit un désavantage sur les jets d'attaque et les jets de sauvegarde de Dextérité. À l'inverse, toute créature qui attaque celle qui se faufile obtient l'avantage sur ses jets d'attaque tant que sa cible se trouve dans un espace trop petit pour elle.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Actions en combat<!--/Name-->
 
@@ -333,9 +333,9 @@ Quand vous accomplissez une action lors de votre tour, vous avez le choix entre 
 
 Quand vous décrivez une action qui n'est pas présentée dans les règles, c'est au MJ de décider si vous pouvez accomplir cette action et si vous devez faire un jet de dés spécifique pour déterminer votre succès ou votre échec.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Aider<!--/Name-->
 
@@ -346,9 +346,9 @@ Vous pouvez apporter votre aide à une autre créature pour réaliser une tâche
 
 Vous pouvez aussi aider une créature amicale qui veut attaquer une autre créature qui se trouve dans un rayon de 1,50 mètre de vous. Vous faites une feinte, tentez de distraire la cible ou participez d'une manière ou d'une autre afin de rendre l'attaque de votre allié plus efficace. Si votre allié attaque la cible avant le début de votre prochain tour, il obtient un avantage sur son premier jet d'attaque.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Attaquer<!--/Name-->
 
@@ -361,9 +361,9 @@ Cette action vous permet de réaliser une attaque de corps-à-corps ou à distan
 
 Certaines aptitudes, comme l'attaque supplémentaire du guerrier, permettent à votre personnage de porter plus d'une attaque avec cette action.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Chercher<!--/Name-->
 
@@ -372,9 +372,9 @@ Certaines aptitudes, comme l'attaque supplémentaire du guerrier, permettent à 
 
 Quand vous choisissez l'action chercher, toute votre attention est tournée vers l'objet de votre recherche. En fonction de ce que vous cherchez, le MJ peut vous demander de faire un test de Sagesse (Perception) ou un d'Intelligence (Investigation).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Esquiver<!--/Name-->
 
@@ -383,9 +383,9 @@ Quand vous choisissez l'action chercher, toute votre attention est tournée vers
 
 Quand vous choisissez l'action esquiver, votre unique objectif est d'éviter les attaques. Jusqu'au début de votre tour suivant, tout jet d'attaque qui vous prend pour cible subit un désavantage si vous pouvez voir l'attaquant, et vous bénéficiez d'un avantage pour tout jet de sauvegarde de Dextérité. Vous perdez les bénéfices de cette action si vous êtes neutralisé (voir page 302) ou si votre vitesse est réduite à 0.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Lancer un sort<!--/Name-->
 
@@ -394,9 +394,9 @@ Quand vous choisissez l'action esquiver, votre unique objectif est d'éviter les
 
 Les lanceurs de sort, comme les magiciens et les clercs ainsi que de nombreux monstres, ont accès à des sorts qu'ils peuvent utiliser avec une redoutable efficacité en combat. À chaque sort correspond un temps d'incantation : le descriptif du sort indique si le lancement du sort nécessite d'utiliser une action ou une réaction, ou doit être préparé pendant plusieurs minutes ou heures. Lancer un sort n'est donc pas nécessairement une action. La plupart des sorts ont un temps d'incantation d'une action, un lanceur de sort utilisera à ce moment une action de combat pour lancer un tel sort.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Se cacher<!--/Name-->
 
@@ -405,9 +405,9 @@ Les lanceurs de sort, comme les magiciens et les clercs ainsi que de nombreux mo
 
 Quand vous choisissez l'action se cacher, vous devez faire un test de Dextérité (Discrétion) pour tenter de vous cacher en suivant les règles appropriées. Si vous réussissez, vous gagnez certains des bénéfices associés à cet état, tels qu'ils sont décrits dans la section Attaquants et cibles invisibles.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Se désengager<!--/Name-->
 
@@ -416,9 +416,9 @@ Quand vous choisissez l'action se cacher, vous devez faire un test de Dextérit�
 
 Si vous choisissez l'action se désengager, vous pouvez vous déplacer sans risquer de créer des attaques d'opportunités jusqu'à la fin du tour.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Se précipiter<!--/Name-->
 
@@ -429,9 +429,9 @@ Quand vous choisissez l'action se précipiter, la distance que vous pouvez parco
 
 Tout effet qui a une incidence positive ou négative sur votre vitesse a le même effet sur votre bonus de déplacement. Par exemple, si votre vitesse est de 9 mètres et qu'elle se trouve réduite à 4,50 mètres, vous ne pourrez parcourir que 9 mètres lors de votre tour en utilisant l'action se précipiter.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Se tenir prêt<!--/Name-->
 
@@ -446,9 +446,9 @@ Quand l'événement déclencheur se produit, vous pouvez choisir entre réagir i
 
 De la même manière, quand vous choisissez l'action se tenir prêt avec un sort, vous le lancez normalement mais vous contenez son énergie, que vous ne relâcherez grâce à votre réaction qu'après que le déclencheur se soit produit. Pour pouvoir être lancé de la sorte, un sort doit avoir un temps d'incantation d'une action et il est impératif de rester concentré pour en contenir l'énergie magique jusqu'au moment où il est finalement lancé. Si votre état de concentration est interrompu, le sort se dissipe et n'a aucun effet. Par exemple, si vous vous concentrez pour contenir le sort toile d'araignée et que vous préparez ensuite le sort projectile magique, le sort toile d'araignée se dissipe. Et si vous subissez des dégâts avant d'avoir lancé projectile magique avec votre réaction, cela risque de briser votre concentration.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Utiliser un objet<!--/Name-->
 
@@ -457,9 +457,9 @@ De la même manière, quand vous choisissez l'action se tenir prêt avec un sort
 
 Normalement, vous interagissez avec un objet en faisant quelque chose d'autre, par exemple quand vous dégainez votre épée dans le cadre de l'action attaquer. Quand un objet nécessite une action pour que vous puissiez l'utiliser, vous choisissez l'action utiliser un objet. Cette action se montre aussi pratique quand vous voulez interagir avec plus d'un objet pendant votre tour.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Autre chose ?<!--/Name-->
 
@@ -467,9 +467,9 @@ Normalement, vous interagissez avec un objet en faisant quelque chose d'autre, p
 
 Dans Héros & Dragons, la seule limite au jeu est votre imagination. Les précédentes actions résument les principales possibilités qui s'offrent à votre héros lors d'une scène de combat. Mais rien ne vous empêche de faire autre chose : tenter de faire rire votre adversaire, tenter de casser une fiole à sa ceinture, tout est possible. C'est alors au MJ de déterminer les chances de réussite de votre action et de vous demander, s'il le souhaite, un lancer de dés.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Porter une attaque<!--/Name-->
 
@@ -484,9 +484,9 @@ Que vous portiez une attaque avec une arme de corpsà- corps, une arme à distan
 
 Si vous vous demandez si une action que vous êtes en train de faire peut être considérée comme une attaque, rappelez-vous une règle simple : si vous faites un jet d'attaque, c'est que vous être en train de faire une attaque.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Jets d'attaque<!--/Name-->
 
@@ -495,9 +495,9 @@ Si vous vous demandez si une action que vous êtes en train de faire peut être 
 
 Quand vous faites une attaque, votre jet d'attaque permet de déterminer si vous touchez votre cible ou non. Pour faire un jet d'attaque, lancez un d20 et ajoutez les modificateurs appropriés. Si le total du dé et des modificateurs est supérieur ou égal à la classe d'armure (CA) de votre cible, votre attaque est réussie. La CA d'un personnage est déterminée au moment de sa création, tandis que la CA d'un monstre est indiquée dans ses statistiques.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Modificateurs du jet<!--/Name-->
 
@@ -512,9 +512,9 @@ Un jet d'attaque peut être demandé pour lancer certains sorts. Le modificateur
 
 Bonus de maîtrise. Quand vous faites une attaque en utilisant une arme que vous maîtrisez, vous ajoutez votre bonus de maîtrise à votre jet d'attaque. Il en va de même pour les sorts.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Faire 1 ou 20<!--/Name-->
 
@@ -527,9 +527,9 @@ Si le d20 lancé pour un jet d'attaque donne un résultat de 20, l'attaque réus
 
 Si le d20 lancé pour un jet d'attaque donne un résultat de 1, l'attaque échoue automatiquement, peu importent les modificateurs ou la CA de la cible.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Attaquants et cibles invisibles<!--/Name-->
 
@@ -542,9 +542,9 @@ Quand vous attaquez une cible que vous ne pouvez pas voir, vous subissez un dés
 
 Quand une créature ne peut pas vous voir, vous bénéficiez d'un avantage quand vous faites un jet d'attaque la ciblant. Si vous étiez caché (qu'elle ne vous voit pas et ne vous entend pas) et que vous attaquez, quel que soit le résultat de votre attaque, votre position est immédiatement révélée au moment de la résolution de l'attaque.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Attaque à distance<!--/Name-->
 
@@ -553,9 +553,9 @@ Quand une créature ne peut pas vous voir, vous bénéficiez d'un avantage quand
 
 Vous faites une attaque à distance quand vous utilisez une arme ou un projectile quelconque qui permet de toucher un ennemi qui se trouve à distance, comme un arc, une arbalète ou une hachette que vous lancez. Un monstre qui projette des épines avec sa queue fait lui aussi une attaque à distance. De nombreux sorts sont également considérés comme des attaques à distance.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Portée<!--/Name-->
 
@@ -568,9 +568,9 @@ Si seule une portée est indiquée pour une attaque à distance, comme dans la d
 
 Certaines attaques à distance, comme celles faites avec un arc long ou un arc court, ont deux portées qui leurs sont associées. Le plus petit nombre indiqué correspond à la portée normale de l'attaque et le plus grand à la longue portée. Si votre cible se trouve au-delà de la portée normale de votre arme (le petit nombre), vous subissez un désavantage sur votre jet d'attaque. Vous ne pouvez pas attaquer une cible qui se trouve au-delà de la longue portée (le plus grand nombre).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Attaque à distance dans un combat au corps-à-corps<!--/Name-->
 
@@ -579,9 +579,9 @@ Certaines attaques à distance, comme celles faites avec un arc long ou un arc c
 
 Il est plus difficile de faire une attaque à distance si un ennemi est à côté de vous. Quand vous faites une attaque à distance en utilisant une arme, un sort, ou par un autre moyen, vous subissez un désavantage sur votre jet d'attaque si vous vous trouvez dans un rayon de 1,50 mètre d'une créature hostile qui se trouve dans votre champ de vision et qui n'est pas neutralisée.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Attaque de corps-à-corps<!--/Name-->
 
@@ -594,9 +594,9 @@ La majorité des créatures possède une allonge de 1,50 mètre. Elles peuvent d
 
 Quand vous êtes au corps-à-corps, vous pouvez aussi porter une attaque à mains nues au lieu d'utiliser une arme : un coup de poing, de pied, de tête ou un coup similaire (aucune de ces parties du corps n'étant considérée comme une arme). Si vous réussissez, votre attaque à mains nues inflige un nombre de dégâts égal à 1 + votre modificateur de Force. Vous maîtrisez automatiquement les attaques à mains nues.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Attaque d'opportunité<!--/Name-->
 
@@ -609,9 +609,9 @@ Vous pouvez porter une attaque d'opportunité quand une créature hostile qui se
 
 Vous pouvez éviter de provoquer une attaque d'opportunité en utilisant l'action se désengager. Vous n'en provoquez pas non plus si vous vous téléportez ou si quelqu'un ou quelque chose vous fait vous déplacer sans que vous utilisiez votre déplacement, une action ou une réaction. Par exemple, si une explosion vous projette hors de portée d'un ennemi ou si la gravité vous fait chuter à côté d'un ennemi, ces déplacements ne provoquent pas d'attaque d'opportunité de sa part.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Combat à deux armes<!--/Name-->
 
@@ -622,9 +622,9 @@ Quand vous choisissez l'action attaquer et que vous utilisez pour attaquer une a
 
 Si l'une ou l'autre des deux armes possède la propriété lancer, vous pouvez la lancer au lieu de l'utiliser pour faire une attaque de corps-à-corps.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Opposition en combat<!--/Name-->
 
@@ -633,9 +633,9 @@ Si l'une ou l'autre des deux armes possède la propriété lancer, vous pouvez l
 
 Au cours d'une bataille, vos prouesses ne valent que si elles sont supérieures à celles de votre ennemi. Une telle compétition est représentée par une opposition. Cette section présente les oppositions les plus courantes en combat qui nécessitent d'utiliser une action : empoigner ou bousculer une créature. Le MJ peut s'inspirer de ces règles pour improviser d'autres oppositions.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Empoignade<!--/Name-->
 
@@ -650,9 +650,9 @@ La cible de votre empoignade ne doit pas faire plus d'une taille de plus que vou
 
 Déplacer une créature empoignée. Quand vous vous déplacez, vous pouvez traîner ou porter la créature que vous avez empoignée, mais votre vitesse est divisée par deux, sauf si la créature fait au moins deux tailles de moins que vous.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Bousculer une créature<!--/Name-->
 
@@ -663,9 +663,9 @@ Vous pouvez utiliser l'action attaquer pour porter une attaque de corps-à-corps
 
 La cible ne doit pas faire plus d'une taille de plus que vous et doit se trouver à portée de votre allonge. Au lieu de faire un jet d'attaque, vous faites un test de Force (Athlétisme) opposé à un test de Force (Athlétisme) ou à un test de Dextérité (Acrobaties) de la cible (celle-ci choisit la caractéristique qu'elle préfère utiliser). Si vous remportez la confrontation, vous avez le choix entre faire tomber votre cible à terre ou la repousser d'1,50 mètre loin de vous.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Abri<!--/Name-->
 
@@ -682,9 +682,9 @@ Une cible qui bénéficie d'un abri important applique un bonus de +5 à sa CA e
 
 Une cible qui bénéficie d'un abri total ne peut pas être ciblée directement par des attaques ou des sorts. Cela dit, elle peut être affectée par certains sorts qui ont une zone d'effet. Une cible bénéficie d'un abri total si elle est complètement dissimulée par un obstacle.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Dégâts<!--/Name-->
 
@@ -693,9 +693,9 @@ Une cible qui bénéficie d'un abri total ne peut pas être ciblée directement 
 
 Lorsqu'une attaque est réussie, la créature ciblée subit des dégâts. Certaines capacités ou un coup critique peuvent altérer la quantité de dégâts infligés.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Jets de dégâts<!--/Name-->
 
@@ -708,9 +708,9 @@ Quand vous utilisez une arme pour attaquer, vous ajoutez votre modificateur de c
 
 Si un sort ou un effet inflige des dégâts à plus d'une créature au même moment, les dégâts sont lancés une seule fois pour toutes les créatures. Par exemple, quand un magicien lance une boule de feu ou qu'un clerc lance colonne de flammes, les dégâts infligés par le sort sont lancés une seule fois pour toutes les créatures qui sont prises dans l'explosion.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Coups critiques<!--/Name-->
 
@@ -721,9 +721,9 @@ Si vous réussissez un coup critique contre une cible, vous pouvez lancer des d�
 
 Par exemple, si vous réussissez un coup critique avec une dague, vous devez lancer 2d4 de dégâts au lieu de 1d4 puis ajouter le modificateur de caractéristique approprié. Si vous devez lancer des dés de dégâts supplémentaires, comme c'est le cas avec l'aptitude attaque sournoise du roublard, il faut aussi lancer ces dés deux fois.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Types de dégâts<!--/Name-->
 
@@ -760,9 +760,9 @@ Tonnerre. Un bruit commotionnant, comme l'effet du sort vague tonnante, inflige 
 
 Tranchant. Les épées, les haches et les griffes des monstres infligent des dégâts tranchants.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Résistance et vulnérabilité aux dégâts<!--/Name-->
 
@@ -778,9 +778,9 @@ La résistance puis la vulnérabilité sont appliqués après tous les autres mo
 
 Si une créature ou un objet possède plusieurs fois une résistance ou une vulnérabilité à un même type de dégât, cette spécificité n'est prise en compte qu'une seule fois. Par exemple, si une créature possède une résistance aux dégâts de feu ainsi qu'une résistance à tous les dégâts non-magiques, les dégâts qu'elle subit d'un feu non-magique sont réduits de moitié et non de trois quarts.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Assommer une créature<!--/Name-->
 
@@ -789,9 +789,9 @@ Si une créature ou un objet possède plusieurs fois une résistance ou une vuln
 
 Parfois, un attaquant souhaite neutraliser une ennemi plutôt que le tuer. Quand il réussit à faire tomber cette créature à 0 point de vie suite à une attaque de corps-àcorps, il a la possibilité de l'assommer. L'attaquant peut faire ce choix au moment d'infliger les dégâts. La créature est inconsciente et est considérée comme stabilisée.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Combat monté<!--/Name-->
 
@@ -802,9 +802,9 @@ Un chevalier qui charge en plein coeur de la bataille sur son cheval de guerre, 
 
 Une créature consentante qui fait au minimum une taille de plus qu'un personnage et qui a une anatomie appropriée peut être utilisée comme monture en suivant les règles suivantes.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Monter et descendre de sa monture<!--/Name-->
 
@@ -817,9 +817,9 @@ Si un effet a pour conséquence de faire se déplacer votre monture contre sa vo
 
 Si votre monture est jetée à terre, vous pouvez utiliser votre réaction pour en descendre et retomber sur vos pieds pendant qu'elle chute. Sinon, vous démontez de votre monture et tombez à terre dans un rayon de 1,50 mètre autour de votre monture.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Contrôler sa monture<!--/Name-->
 
@@ -834,9 +834,9 @@ Une monture indépendante conserve une place propre dans l'ordre d'initiative. L
 
 Dans tous les cas, si votre monture provoque une attaque d'opportunité pendant que vous êtes sur son dos, l'attaquant peut choisir de vous cibler ou de cibler votre monture.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Combat sous-marin<!--/Name-->
 
@@ -849,7 +849,7 @@ Quand elle porte une attaque de corps-à-corps, une créature qui n'a pas de vit
 
 Une attaque à distance manque automatiquement une cible qui se trouve au-delà de la portée normale de l'arme. Et même contre une cible qui se trouve à portée normale de l'arme, le jet d'attaque de la créature attaquante subit un désavantage, sauf si elle utilise une arbalète, un filet ou une arme de lancer comme une javeline (ou une lance, un trident ou une fléchette). Les créatures et les objets complètement immergés sont résistants aux dégâts de feu.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

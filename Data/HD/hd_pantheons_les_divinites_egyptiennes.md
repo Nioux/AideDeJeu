@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: pantheons_hd.md#les-divinités-égyptiennes
 ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
 Name: Les divinités égyptiennes

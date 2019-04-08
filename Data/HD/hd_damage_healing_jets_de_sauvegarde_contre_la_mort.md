@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: damage_healing_hd.md#jets-de-sauvegarde-contre-la-mort
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 Name: Jets de sauvegarde contre la mort

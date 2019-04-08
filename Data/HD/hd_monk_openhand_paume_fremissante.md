@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_openhand_hd.md#paume-frémissante
 ParentLink: monk_openhand_hd.md#voie-de-la-main-ouverte
 Name: Paume frémissante

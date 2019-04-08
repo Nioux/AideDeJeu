@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sorcerer_celestial_hd.md#prière-de-soins
 ParentLink: sorcerer_celestial_hd.md#lignée-céleste
 Name: Prière de soins

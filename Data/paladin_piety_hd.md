@@ -15,7 +15,7 @@ Qu'ils soient en première ligne des éventuelles guerres saintes dans lesquelle
 
 Ces cas sont toutefois exceptionnels et amènent bien souvent le paladin sur une voie hasardeuse où ses idéaux personnels sont mis à mal par la dure réalité des conflits divins.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Préceptes de piété<!--/Name-->
 
@@ -29,9 +29,9 @@ Humilité. Ne cherchez pas le renom pour vousmême, et vantez la gloire de votre
 
 Courage. Soyez prêt à tous les sacrifices pour votre foi. Détermination. Ne laissez pas de place au doute dans votre coeur.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Sorts de serment<!--/Name-->
 
@@ -45,9 +45,9 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 |13|divination, gardien de la foi|
 |17|communion, rappel à la vie|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Canalisation d'énergie divine<!--/Name-->
 
@@ -61,25 +61,25 @@ Guerrier saint. Par une action, vous tenez votre symbole sacré contre votre coe
 
 L'effet prend fin si vous êtes inconscient ou terrorisé.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Aura de piété<!--/Name-->
 
 À partir du niveau 7, la puissance de votre divinité forme une protection sainte autour de vous. Vous et vos alliés dans un rayon de 3 mètres gagnez la résistance aux dégâts causés par les sorts (après éventuelle réduction des dégâts grâce à une sauvegarde réussie), y compris pour les effets de zone tels ceux d'une boule de feu. Au niveau 18, le rayon passe à 9 mètres.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Pureté de la lame<!--/Name-->
 
 À partir du niveau 15, vous êtes en permanence sous l'effet d'un sort de faveur divine.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Avatar divin<!--/Name-->
 
@@ -95,7 +95,7 @@ Pendant ce temps, vous obtenez les bénéfices suivants :
 
 Vous devez terminer un repos long avant de pouvoir utiliser cette aptitude à nouveau.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

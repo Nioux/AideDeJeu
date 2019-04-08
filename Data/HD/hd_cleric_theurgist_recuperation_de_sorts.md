@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_theurgist_hd.md#récupération-de-sorts
 ParentLink: cleric_theurgist_hd.md#théurge
 Name: Récupération de sorts

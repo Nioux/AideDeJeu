@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_theurgist_hd.md#magie-universelle
 ParentLink: cleric_theurgist_hd.md#théurge
 Name: Magie universelle

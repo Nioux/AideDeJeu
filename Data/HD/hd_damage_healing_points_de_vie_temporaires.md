@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: damage_healing_hd.md#points-de-vie-temporaires
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 Name: Points de vie temporaires

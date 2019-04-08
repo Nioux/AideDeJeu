@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: alignment_hd.md#loyal-bon-lb
 ParentLink: alignment_hd.md#alignement
 Name: Loyal Bon (LB)

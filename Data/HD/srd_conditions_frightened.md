@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: conditions_vo.md#frightened
 ParentLink: conditions_vo.md#conditions
 Name: Frightened

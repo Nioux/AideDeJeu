@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rituals_hd.md#Étape-3--déterminer-leffet-en-cas-déchec
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 Name: "Étape 3 : déterminer l'effet en cas d'échec"

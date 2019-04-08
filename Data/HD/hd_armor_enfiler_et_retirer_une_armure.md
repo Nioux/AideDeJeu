@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: armor_hd.md#enfiler-et-retirer-une-armure
 ParentLink: armor_hd.md#armures
 Name: Enfiler et retirer une armure

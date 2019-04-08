@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_human_hd.md#bâtard
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
 Name: Bâtard

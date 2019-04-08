@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_champion_hd.md#critique-supérieur
 ParentLink: fighter_champion_hd.md#champion
 Name: Critique supérieur

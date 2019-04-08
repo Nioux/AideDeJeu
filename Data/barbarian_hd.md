@@ -206,7 +206,7 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Voies primitives<!--/Name-->
 
@@ -218,7 +218,7 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 
 ## [Voie du hurlement] 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_intelligence_hd.md#caractéristique-dincantation
 ParentLink: abilities_intelligence_hd.md#intelligence
 Name: Caractéristique d'incantation

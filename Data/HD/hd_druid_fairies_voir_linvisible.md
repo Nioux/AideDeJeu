@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: druid_fairies_hd.md#voir-linvisible
 ParentLink: druid_fairies_hd.md#cercle-des-fées
 Name: Voir l'invisible

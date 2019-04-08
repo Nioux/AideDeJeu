@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#harmonisation
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Harmonisation

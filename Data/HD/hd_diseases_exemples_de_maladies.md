@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: diseases_hd.md#exemples-de-maladies
 ParentLink: diseases_hd.md#les-maladies
 Name: Exemples de maladies

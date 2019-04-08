@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_hd.md#votre-pacte
 ParentLink: warlock_hd.md#sorcier
 Name: Votre pacte

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_redemption_hd.md#esprit-de-la-rédemption
 ParentLink: paladin_redemption_hd.md#serment-de-rédemption
 Name: Esprit de la rédemption

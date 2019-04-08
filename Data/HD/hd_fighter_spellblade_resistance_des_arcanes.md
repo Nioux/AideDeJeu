@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_spellblade_hd.md#résistance-des-arcanes
 ParentLink: fighter_spellblade_hd.md#sorcelame
 Name: Résistance des arcanes

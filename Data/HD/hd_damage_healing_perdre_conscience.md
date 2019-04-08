@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: damage_healing_hd.md#perdre-conscience
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 Name: Perdre conscience

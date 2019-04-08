@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_surveyor_hd.md#endurci
 ParentLink: wizard_surveyor_hd.md#arpenteur
 Name: Endurci

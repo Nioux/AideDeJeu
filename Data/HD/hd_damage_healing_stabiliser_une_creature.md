@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: damage_healing_hd.md#stabiliser-une-créature
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 Name: Stabiliser une créature

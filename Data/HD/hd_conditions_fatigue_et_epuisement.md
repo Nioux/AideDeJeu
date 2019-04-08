@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: conditions_hd.md#fatigue-et-épuisement
 ParentLink: conditions_hd.md#États-spéciaux
 Name: Fatigue et épuisement

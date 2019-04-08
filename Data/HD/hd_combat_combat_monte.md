@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#combat-monté
 ParentLink: combat_hd.md#combattre
 Name: Combat monté

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_brute_hd.md#dur-à-cuire
 ParentLink: rogue_brute_hd.md#brute
 Name: Dur à cuire

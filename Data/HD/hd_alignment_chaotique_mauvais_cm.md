@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: alignment_hd.md#chaotique-mauvais-cm
 ParentLink: alignment_hd.md#alignement
 Name: Chaotique Mauvais (CM)

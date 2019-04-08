@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#coups-critiques
 ParentLink: combat_hd.md#combattre
 Name: Coups critiques

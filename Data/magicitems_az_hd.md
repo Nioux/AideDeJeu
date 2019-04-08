@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--GenericItem-->
 
 > <!--ParentNameLink-->[Cadre de campagne](index.md)<!--/ParentNameLink-->
 
@@ -3993,7 +3993,7 @@ L'épée possède 1d8+1 charges. Si vous réussissez un coup critique contre une
 
 <!--/MagicItems-->
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 [ceinturon de force de géant]: magicitems_az_hd.md#ceinturon-de-force-de-géant
 [gantelets de puissance d'ogre]: magicitems_az_hd.md#gantelets-de-puissance-dogre

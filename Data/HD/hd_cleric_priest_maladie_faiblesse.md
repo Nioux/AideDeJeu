@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_priest_hd.md#maladie-faiblesse
 ParentLink: cleric_priest_hd.md#liste-des-domaines
 Name: Maladie, Faiblesse

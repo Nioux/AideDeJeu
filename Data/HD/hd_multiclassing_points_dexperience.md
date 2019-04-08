@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: multiclassing_hd.md#points-dexpérience
 ParentLink: multiclassing_hd.md#multiclassage
 Name: Points d'expérience

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_hd.md#traditions-monacales
 ParentLink: monk_hd.md#moine
 Name: Traditions monacales

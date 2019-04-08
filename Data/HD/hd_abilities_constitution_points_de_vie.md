@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_constitution_hd.md#points-de-vie
 ParentLink: abilities_constitution_hd.md#constitution
 Name: Points de vie

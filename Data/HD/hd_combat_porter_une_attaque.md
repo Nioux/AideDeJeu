@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#porter-une-attaque
 ParentLink: combat_hd.md#combattre
 Name: Porter une attaque

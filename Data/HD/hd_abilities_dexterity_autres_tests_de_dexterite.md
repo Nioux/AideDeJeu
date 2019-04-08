@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_dexterity_hd.md#autres-tests-de-dextérité
 ParentLink: abilities_dexterity_hd.md#dextérité
 Name: Autres tests de Dextérité

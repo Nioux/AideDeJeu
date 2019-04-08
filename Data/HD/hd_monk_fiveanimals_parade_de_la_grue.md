@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_fiveanimals_hd.md#parade-de-la-grue
 ParentLink: monk_fiveanimals_hd.md#voie-des-cinq-animaux
 Name: Parade de la grue

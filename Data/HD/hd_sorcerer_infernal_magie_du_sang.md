@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sorcerer_infernal_hd.md#magie-du-sang
 ParentLink: sorcerer_infernal_hd.md#lignée-infernale
 Name: Magie du sang

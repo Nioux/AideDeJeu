@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: backgrounds_hd.md#langues
 ParentLink: backgrounds_hd.md#historique
 Name: Langues

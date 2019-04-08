@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: diseases_hd.md#la-fièvre-rieuse
 ParentLink: diseases_hd.md#les-maladies
 Name: La fièvre rieuse

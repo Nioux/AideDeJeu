@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: ranger_exile_hd.md#Éradication
 ParentLink: ranger_exile_hd.md#exilé
 Name: Éradication

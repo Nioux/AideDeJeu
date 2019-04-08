@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_champion_hd.md#style-de-combat-supplémentaire
 ParentLink: fighter_champion_hd.md#champion
 Name: Style de combat supplémentaire

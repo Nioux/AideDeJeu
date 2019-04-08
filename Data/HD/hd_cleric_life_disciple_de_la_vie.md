@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_life_hd.md#disciple-de-la-vie
 ParentLink: cleric_life_hd.md#domaine-de-la-vie
 Name: Disciple de la vie

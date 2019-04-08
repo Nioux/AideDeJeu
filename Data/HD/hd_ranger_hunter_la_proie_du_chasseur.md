@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: ranger_hunter_hd.md#la-proie-du-chasseur
 ParentLink: ranger_hunter_hd.md#chasseur
 Name: La proie du chasseur

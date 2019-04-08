@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#ordre-de-combat
 ParentLink: combat_hd.md#combattre
 Name: Ordre de combat

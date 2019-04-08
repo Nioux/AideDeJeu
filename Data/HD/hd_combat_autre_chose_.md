@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#autre-chose-?
 ParentLink: combat_hd.md#combattre
 Name: Autre chose ?

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#exemples-de-poisons
 ParentLink: poisons_hd.md#les-poisons
 Name: Exemples de poisons

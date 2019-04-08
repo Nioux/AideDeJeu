@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: artifacts_hd.md#anneau-de-lune
 ParentLink: artifacts_hd.md#artefacts
 Name: ANNEAU DE LUNE

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_surveyor_hd.md#aguerri
 ParentLink: wizard_surveyor_hd.md#arpenteur
 Name: Aguerri

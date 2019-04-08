@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#portée
 ParentLink: combat_hd.md#combattre
 Name: Portée

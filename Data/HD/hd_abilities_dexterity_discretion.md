@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_dexterity_hd.md#discrétion
 ParentLink: abilities_dexterity_hd.md#dextérité
 Name: Discrétion

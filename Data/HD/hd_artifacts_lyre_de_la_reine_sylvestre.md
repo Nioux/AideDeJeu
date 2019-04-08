@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: artifacts_hd.md#lyre-de-la-reine-sylvestre
 ParentLink: artifacts_hd.md#artefacts
 Name: LYRE DE LA REINE SYLVESTRE

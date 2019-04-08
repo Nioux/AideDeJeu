@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_eminence_hd.md#politicien
 ParentLink: wizard_eminence_hd.md#Éminence-grise
 Name: Politicien

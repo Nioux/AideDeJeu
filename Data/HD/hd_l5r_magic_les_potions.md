@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_magic_hd.md#les-potions
 ParentLink: l5r_magic_hd.md#des-objets-magiques-rares-et-merveilleux
 Name: Les potions

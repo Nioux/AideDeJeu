@@ -20,7 +20,7 @@ Quand votre modificateur de Constitution augmente de 1, votre maximum de points 
 
 Le tableau d’évolution des personnages ci-contre ou ci-après vous indique le nombre de points d’expérience nécessaire pour évoluer du niveau 1 au niveau 20 et le bonus de maîtrise correspondant à chaque niveau. Consultez la description de classe de votre personnage pour savoir ce qu’il gagne à chaque niveau.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Évolution des personnages<!--/Name-->
 
@@ -47,6 +47,6 @@ Le tableau d’évolution des personnages ci-contre ou ci-après vous indique le
 |305 000|19|+6|
 |355 000|20|+6|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->

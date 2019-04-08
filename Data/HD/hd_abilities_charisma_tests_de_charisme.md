@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_charisma_hd.md#tests-de-charisme
 ParentLink: abilities_charisma_hd.md#charisme
 Name: Tests de Charisme

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: barbarian_howling_hd.md#scarification-rituelle
 ParentLink: barbarian_howling_hd.md#voie-du-hurlement
 Name: Scarification rituelle

@@ -12,7 +12,7 @@
 
 Dans une campagne ordinaire, il est bien rare que les personnages deviennent fous à force d'affronter de multiples horreurs et de se livrer à maints carnages, cependant, parfois, le stress de la vie d'aventurier devient un poids trop lourd à porter. Si l'horreur tient une place de choix parmi les thèmes de votre campagne, vous pouvez utiliser la folie pour lui donner encore plus d'importance et mettre en valeur la nature horrifiante hors du commun des dangers à surmonter.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Devenir fou<!--/Name-->
 
@@ -20,9 +20,9 @@ Divers effets magiques sont capables de plonger un esprit normalement stable dan
 
 Pour résister à un effet entraînant la démence, il faut généralement réussir un jet de sauvegarde de Charisme ou de Sagesse.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Les effets de la folie<!--/Name-->
 
@@ -34,9 +34,9 @@ Un personnage victime d'une **folie persistante** est sujet à un effet tiré de
 
 Un personnage victime d'une **folie à durée illimitée** acquiert un défaut tiré de la table de la [Folie à durée illimitée] qu'il conserve jusqu'à ce que quelqu'un le soigne.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Soigner la folie<!--/Name-->
 
@@ -44,9 +44,9 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Folie passagère<!--/Name-->
 
@@ -64,9 +64,9 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 |91-100|Le personnage tombe inconscient.|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Folie persistante<!--/Name-->
 
@@ -86,9 +86,9 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 |96-100|Le personnage tombe inconscient. Il est impossible de le réveiller en le secouant ou même en lui infligeant des dégâts.|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Folie à durée illimitée<!--/Name-->
 
@@ -107,7 +107,7 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 |86-95|« Je suis incapable de prendre quelque chose au sérieux. Plus la situation est grave, plus je la trouve marrante. »|
 |96-100|« Je viens de découvrir que j'adore tuer des gens. »|
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

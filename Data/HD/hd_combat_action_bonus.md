@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#action-bonus
 ParentLink: combat_hd.md#combattre
 Name: Action bonus

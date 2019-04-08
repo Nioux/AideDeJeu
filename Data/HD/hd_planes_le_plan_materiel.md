@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: planes_hd.md#le-plan-matériel
 ParentLink: planes_hd.md#jouer-dans-un-multivers
 Name: Le plan matériel

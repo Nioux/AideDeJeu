@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_hitpoints_hd.md#les-créatures-sont-vraiment-dangereuses-alors-?
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 Name: Les créatures sont vraiment dangereuses alors ?

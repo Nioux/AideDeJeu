@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rogue_hd.md#points-de-combativité
 ParentLink: l5r_rogue_hd.md#le-savant
 Name: Points de combativité

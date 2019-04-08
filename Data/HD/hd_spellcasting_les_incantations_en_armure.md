@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#les-incantations-en-armure
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Les incantations en armure

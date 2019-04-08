@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_spy_hd.md#séducteur-hors-pair
 ParentLink: rogue_spy_hd.md#espion
 Name: Séducteur hors pair

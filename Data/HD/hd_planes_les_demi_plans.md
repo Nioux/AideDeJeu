@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: planes_hd.md#les-demi-plans
 ParentLink: planes_hd.md#jouer-dans-un-multivers
 Name: Les demi-plans

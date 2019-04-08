@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_hd.md#serments-sacrés
 ParentLink: paladin_hd.md#paladin
 Name: Serments sacrés

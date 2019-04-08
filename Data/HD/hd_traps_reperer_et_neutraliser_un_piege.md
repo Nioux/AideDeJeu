@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#repérer-et-neutraliser-un-piège
 ParentLink: traps_hd.md#les-pièges
 Name: Repérer et neutraliser un piège

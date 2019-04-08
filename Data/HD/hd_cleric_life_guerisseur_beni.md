@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_life_hd.md#guérisseur-béni
 ParentLink: cleric_life_hd.md#domaine-de-la-vie
 Name: Guérisseur béni

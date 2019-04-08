@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--GenericItem-->
 
 > <!--ParentNameLink-->[Personnalité et Historique](personnality_background_hd.md#)<!--/ParentNameLink-->
 
@@ -24,5 +24,5 @@ Si vous êtes sous le coup de l'inspiration, vous pouvez l'utiliser pour faire u
 
 De plus, si vous êtes sous le coup de l'inspiration, vous pouvez récompenser un autre joueur pour son jeu, sa perspicacité, ou simplement pour avoir rendu la partie plus intéressante par ses actions. Quand le personnage de ce joueur fait quelque chose qui contribue à l'histoire de manière intéressante et drôle, vous pouvez décider de lui céder votre inspiration.
 
-<!--/Generic-->
+<!--/GenericItem-->
 

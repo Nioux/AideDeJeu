@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_spellblade_hd.md#incantations
 ParentLink: fighter_spellblade_hd.md#sorcelame
 Name: Incantations

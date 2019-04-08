@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_evocation_hd.md#surcharge-magique
 ParentLink: wizard_evocation_hd.md#École-dévocation
 Name: Surcharge magique

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_piety_hd.md#sorts-de-serment
 ParentLink: paladin_piety_hd.md#serment-de-piété
 Name: Sorts de serment

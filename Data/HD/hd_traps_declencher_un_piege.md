@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#déclencher-un-piège
 ParentLink: traps_hd.md#les-pièges
 Name: Déclencher un piège

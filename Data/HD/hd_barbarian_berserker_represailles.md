@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: barbarian_berserker_hd.md#représailles
 ParentLink: barbarian_berserker_hd.md#voie-du-berserker
 Name: Représailles

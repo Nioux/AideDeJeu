@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_ranger_hd.md#onguents
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
 Name: Onguents

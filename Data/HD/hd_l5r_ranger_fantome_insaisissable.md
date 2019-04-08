@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_ranger_hd.md#fantôme-insaisissable
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
 Name: Fantôme insaisissable

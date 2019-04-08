@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_hd.md#votre-grimoire
 ParentLink: wizard_hd.md#magicien
 Name: Votre grimoire

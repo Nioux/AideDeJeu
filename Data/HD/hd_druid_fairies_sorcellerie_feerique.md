@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: druid_fairies_hd.md#sorcellerie-féerique
 ParentLink: druid_fairies_hd.md#cercle-des-fées
 Name: Sorcellerie féerique

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: diseases_hd.md#la-peste-des-égouts
 ParentLink: diseases_hd.md#les-maladies
 Name: La peste des égouts

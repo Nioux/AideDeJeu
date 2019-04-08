@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#actions-en-combat
 ParentLink: combat_hd.md#combattre
 Name: Actions en combat

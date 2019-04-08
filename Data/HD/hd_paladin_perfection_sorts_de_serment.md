@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_perfection_hd.md#sorts-de-serment
 ParentLink: paladin_perfection_hd.md#serment-de-perfection
 Name: Sorts de serment

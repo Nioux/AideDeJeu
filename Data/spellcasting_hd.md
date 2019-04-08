@@ -14,7 +14,7 @@ La magie imprègne les mondes de Héros & Dragons et se présente souvent sous f
 
 Ce chapitre vous propose des règles pour lancer des sorts. Les personnages ont différentes manières de préparer et de lancer leurs sorts, en fonction de leur classe. Quant aux monstres, ils les utilisent à leur propre manière. Mais quoi qu'il en soit, un sort répond toujours aux règles suivantes.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Qu'est-ce qu'un sort ?<!--/Name-->
 
@@ -27,9 +27,9 @@ Les sorts font des outils, des armes et des sceaux de protection très polyvalen
 
 D'innombrables sorts ont été inventés au fil des millénaires, dans toute l'histoire du multivers, et beaucoup ont été oubliés. Certains gisent dans des grimoires vermoulus dissimulés dans d'antiques ruines ou sont restés prisonniers de l'esprit de dieux décédés. Mais il se peut qu'un jour, un personnage ayant accumulé assez de puissance et de sagesse les réinvente.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Niveau de sort<!--/Name-->
 
@@ -40,9 +40,9 @@ Tout sort s'accompagne d'un niveau, allant de 0 à 9. Ce niveau est une indicati
 
 Les niveaux du sort ne correspondent pas directement au niveau du personnage : bien souvent, un personnage doit avoir atteint le niveau 17 et non le niveau 9 pour lancer un sort de niveau 9.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Les sorts connus et les sorts préparés<!--/Name-->
 
@@ -53,9 +53,9 @@ Avant de pouvoir incanter, le lanceur de sorts doit avoir fermement ancré le so
 
 Dans tous les cas, le nombre de sorts qu'un personnage peut garder à l'esprit à un moment donné dépend de son niveau.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Emplacements de sorts<!--/Name-->
 
@@ -70,9 +70,9 @@ Un repos long restaure tous les emplacements de sort dépensés.
 
 Certains monstres et personnages disposent de pouvoirs spéciaux qui leur permettent de lancer des sorts sans utiliser d'emplacement. C'est le cas d'un sorcier qui opte pour certaines invocations occultes et d'un diantrefosse des neuf enfers, par exemple.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Lancer un sort via un emplacement de niveau supérieur<!--/Name-->
 
@@ -83,9 +83,9 @@ Quand un lanceur de sorts utilise un emplacement d'un niveau supérieur à celui
 
 Certains sorts, comme projectile magique et soins, ont un effet plus puissant quand ils sont lancés avec un niveau supérieur, comme expliqué dans leur description.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Les incantations en armure<!--/Name-->
 
@@ -94,9 +94,9 @@ Certains sorts, comme projectile magique et soins, ont un effet plus puissant qu
 
 Pour incanter, il faut se concentrer intensément et exécuter des gestes précis, c'est pourquoi le personnage doit impérativement maîtriser le port de l'armure dont il est vêtu, sans quoi cette dernière le distrait et le gêne trop dans ses mouvements pour lui permettre de lancer un sort.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Les tours de magie<!--/Name-->
 
@@ -105,9 +105,9 @@ Pour incanter, il faut se concentrer intensément et exécuter des gestes préci
 
 Un tour de magie est un sort que l'on peut lancer à volonté, sans le préparer à l'avance ni dépenser d'emplacement de sort. Des exercices répétés ont fini par fixer le sort dans l'esprit du lanceur de sorts et l'ont imprégné de la magie nécessaire pour générer ses effets, encore et encore. Un tour de magie est un sort de niveau 0.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Les rituels<!--/Name-->
 
@@ -118,9 +118,9 @@ Certains sorts portent une mention spéciale : rituel. On peut les lancer en sui
 
 Pour lancer un sort sous forme de rituel, le lanceur de sorts doit disposer d'un pouvoir qui lui permet de le faire. C'est par exemple le cas des clercs et des druides. Il doit aussi avoir préparé le sort ou l'avoir dans sa liste de sorts connus, à moins que son pouvoir de rituel ne précise le contraire, comme chez le magicien.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Lancer un sort<!--/Name-->
 
@@ -131,9 +131,9 @@ Quand un personnage lance un sort, il suit toujours les mêmes règles de base, 
 
 Chaque description de sort présenté dans le chapitre 11, Lancer des sorts - Description des sorts, pages 320-413, commence par un bloc d'information : le nom du sort, son niveau, son école, son temps d'incantation, sa portée, ses composantes et sa zone d'effet. Le reste de la section décrit les effets particuliers du sort.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Temps d'incantation<!--/Name-->
 
@@ -142,9 +142,9 @@ Chaque description de sort présenté dans le chapitre 11, Lancer des sorts - De
 
 Généralement, un sort se lance par une seule action, mais certains exigent une action bonus, une réaction ou encore plus de temps.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Action bonus<!--/Name-->
 
@@ -153,9 +153,9 @@ Généralement, un sort se lance par une seule action, mais certains exigent une
 
 Un sort qui se lance par une action bonus est particulièrement rapide. Pour le lancer, il faut dépenser une action bonus à son tour, à condition de ne pas avoir déjà effectué une telle action au cours de ce tour. Impossible de lancer un autre sort lors de ce tour, à moins qu'il ne s'agisse d'un tour de magie avec un temps d'incantation d'une action.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Réaction<!--/Name-->
 
@@ -164,9 +164,9 @@ Un sort qui se lance par une action bonus est particulièrement rapide. Pour le 
 
 Certains sorts se lancent sous forme de réaction. Il faut juste une fraction de seconde pour les faire naître et ils se lancent en réponse à un événement. Si un sort peut se lancer ainsi, sa description précise exactement dans quelles conditions.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Long temps d'incantation<!--/Name-->
 
@@ -175,9 +175,9 @@ Certains sorts se lancent sous forme de réaction. Il faut juste une fraction de
 
 Certains sorts (dont les rituels) exigent une période d'incantation supérieure, allant de quelques minutes à quelques heures. Quand un sort avec un temps d'incantation supérieur à une seule action ou une réaction est lancé, il impose au lanceur de consacrer à chaque tour son action à l'incantation et, pendant tout ce temps, à maintenir sa concentration (voir Concentration, plus bas). Si elle vole en éclats, le sort échoue mais il ne perd pas l'emplacement de sort concerné. S'il veut recommencer l'incantation, il doit la reprendre à zéro.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Portée<!--/Name-->
 
@@ -192,9 +192,9 @@ Les sorts qui génèrent un cône ou une ligne comme effet et prennent leur orig
 
 Une fois le sort lancé, ses effets ne sont pas limités par sa portée, à moins que sa description n'indique le contraire.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Composantes<!--/Name-->
 
@@ -203,9 +203,9 @@ Une fois le sort lancé, ses effets ne sont pas limités par sa portée, à moin
 
 Les composantes du sort représentent les éléments physiques indispensables à l'incantation. La description du sort indique s'il nécessite des composantes verbales (V), somatiques (S) ou matérielles (M). Si le lanceur de sorts est incapable de fournir une ou plusieurs de ces composantes, il ne peut pas lancer le sort.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Verbales (V)<!--/Name-->
 
@@ -214,9 +214,9 @@ Les composantes du sort représentent les éléments physiques indispensables à
 
 Pour lancer la plupart des sorts, il faut entonner des paroles mystiques. Ces mots ne constituent pas la source de puissance du sort, ce sont plutôt des combinaisons de sons, prononcées avec un timbre et une résonance spécifiques, qui animent des filaments de magie. Ainsi, un personnage bâillonné ou englobé dans une zone de silence comme celle résultant du sort silence ne peut pas lancer de sort à composante verbale.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Somatiques (S)<!--/Name-->
 
@@ -225,9 +225,9 @@ Pour lancer la plupart des sorts, il faut entonner des paroles mystiques. Ces mo
 
 Les gestes à exécuter lors de l'incantation se traduisent par force gesticulations ou par un ensemble de mouvements complexes. Si un sort exige une composante somatique, le lanceur doit avoir au moins une main libre pour accomplir les mouvements nécessaires.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Matérielles (M)<!--/Name-->
 
@@ -240,9 +240,9 @@ S'il est noté que le sort consomme la composante matérielle utilisée, le lanc
 
 Le lanceur de sorts doit avoir une main libre pour accéder à sa composante matérielle (ou pour tenir son focaliseur d'incantation), mais ce peut être la même main que celle utilisée pour accomplir la composante somatique du sort.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Durée<!--/Name-->
 
@@ -251,9 +251,9 @@ Le lanceur de sorts doit avoir une main libre pour accéder à sa composante mat
 
 La durée du sort correspond à la période pendant laquelle le sort fait effet. Elle s'exprime en rounds, minutes, heures ou même en années. Certains sorts précisent que leurs effets persistent jusqu'à ce que quelqu'un les dissipe ou les détruise.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Instantanée<!--/Name-->
 
@@ -262,9 +262,9 @@ La durée du sort correspond à la période pendant laquelle le sort fait effet.
 
 De nombreux sorts sont instantanés, ils blessent, soignent, créent ou modifient une créature ou un objet sans qu'il soit possible de les dissiper car leur magie existe seulement l'espace d'un bref instant.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Concentration<!--/Name-->
 
@@ -285,9 +285,9 @@ Les activités normales, comme les déplacements et les attaques, n'interfèrent
 
 Le MJ peut aussi décider que certains phénomènes environnementaux, comme une vague s'abattant sur le lanceur de sorts alors qu'il se trouve sur un bateau en pleine tempête, l'obligent à réussir un jet de sauvegarde de Constitution DD 10 s'il veut continuer à se concentrer sur son sort.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Cibles<!--/Name-->
 
@@ -298,9 +298,9 @@ Un sort exige généralement que son lanceur choisisse une ou plusieurs cibles q
 
 À moins que le sort n'ait un effet perceptible, la créature visée ne sait pas forcément qu'elle a été la cible d'un sort. Un effet provoquant un éclair de lumière se remarque certainement, mais un effet plus subtil, comme une tentative de lecture des pensées, passe souvent inaperçu, à moins que la description du sort ne précise le contraire.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Un chemin dégagé jusqu'à la cible<!--/Name-->
 
@@ -311,9 +311,9 @@ Pour viser quelque chose, le lanceur de sorts doit avoir un itinéraire dégagé
 
 Si le lanceur de sorts positionne une zone d'effet en un point qu'il ne voit pas et qu'un obstacle, comme un mur, se dresse entre ce point et lui, le point d'origine de l'effet se retrouve automatiquement du côté de l'obstacle le plus proche du lanceur.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Se prendre pour cible<!--/Name-->
 
@@ -322,9 +322,9 @@ Si le lanceur de sorts positionne une zone d'effet en un point qu'il ne voit pas
 
 Si le sort vise une cible au choix du lanceur de sorts, ce dernier peut se prendre pour cible, sauf si la cible doit impérativement être hostile ou qu'il est spécifié que ce ne peut pas être le lanceur. S'il se trouve dans la zone d'effet d'un sort qu'il lance, il peut se prendre pour cible.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Zone d'effet<!--/Name-->
 
@@ -337,9 +337,9 @@ L'aspect de la zone d'effet figure dans la description du sort et se présente g
 
 L'effet de sort s'étend en lignes droites depuis son point d'origine. Si aucune ligne droite ne relie le point d'origine à un emplacement de la zone d'effet, cet emplacement n'est pas compris dans la zone d'effet du sort. Pour bloquer l'une de ces lignes imaginaires, un obstacle doit fournir un abri total.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Cône<!--/Name-->
 
@@ -350,9 +350,9 @@ Un cône s'étend dans la direction de votre choix, à partir de son point d'ori
 
 Le point d'origine d'un cône n'est pas inclus dans sa zone d'effet, à moins que le lanceur de sorts n'en décide autrement.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Cube<!--/Name-->
 
@@ -363,9 +363,9 @@ Le lanceur de sorts choisit le point d'origine du cube, qui se trouve n'importe 
 
 Le point d'origine du cube n'est pas inclus dans sa zone d'effet, à moins que le lanceur de sorts n'en décide autrement.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Cylindre<!--/Name-->
 
@@ -376,9 +376,9 @@ Le point d'origine d'un cylindre est le centre d'un cercle du rayon du cylindre,
 
 Le point d'origine d'un cylindre est inclus dans sa zone d'effet.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Ligne<!--/Name-->
 
@@ -389,9 +389,9 @@ Une ligne s'étend depuis son point d'origine en ligne droite sur toute sa longu
 
 Le point d'origine d'une ligne n'est pas inclus dans sa zone d'effet, à moins que le lanceur de sorts n'en décide autrement.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Sphère<!--/Name-->
 
@@ -402,9 +402,9 @@ Le lanceur de sorts choisit le point d'origine de la sphère qui s'étend depuis
 
 Le point d'origine de la sphère est inclus dans sa zone d'effet.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Jets de sauvegarde<!--/Name-->
 
@@ -415,9 +415,9 @@ De nombreux sorts précisent que la cible a droit à un jet de sauvegarde pour �
 
 Le DD pour résister à un sort est de 8 + modificateur de la caractéristique d'incantation + bonus de maîtrise + modificateurs spéciaux.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Jets d'attaque<!--/Name-->
 
@@ -428,9 +428,9 @@ Dans certains cas, le lanceur de sorts doit faire un jet d'attaque pour savoir s
 
 La plupart des sorts s'accompagnant d'un jet d'attaque exigent une attaque à distance. N'oubliez pas que le personnage qui lance un sort subit un désavantage lors d'un jet d'attaque à distance s'il se trouve dans un rayon de 1,50 mètre autour d'une créature hostile qui peut le voir et n'est pas neutralisée.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Combiner les effets magiques<!--/Name-->
 
@@ -442,9 +442,9 @@ Les effets de différents sorts s'additionnent quand leurs durées se superposen
 Par exemple, si deux clerc lancent bénédiction sur une même cible, cette dernière bénéficie des effets d'un seul de ces sorts, elle ne lance pas deux dés supplémentaires.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Les écoles de magie<!--/Name-->
 
@@ -471,7 +471,7 @@ Les sorts de **nécromancie** manipulent les énergies de la vie et de la mort. 
 
 Les sorts de **transmutation** modifient les propriétés d'une créature, d'un objet ou d'un environnement. Ils peuvent transformer un ennemi en créature inoffensive, renforcer un allié, faire bouger un objet sur une simple injonction ou améliorer les capacités curatives innées d'une créature pour qu'elle se remette plus vite de ses blessures.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

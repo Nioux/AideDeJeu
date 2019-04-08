@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#combat-à-deux-armes
 ParentLink: combat_hd.md#combattre
 Name: Combat à deux armes

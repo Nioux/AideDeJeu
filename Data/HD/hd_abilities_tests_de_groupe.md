@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_hd.md#tests-de-groupe
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: Tests de groupe

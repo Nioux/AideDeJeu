@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_occultsummons_hd.md#onde-de-choc
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
 Name: Onde de choc

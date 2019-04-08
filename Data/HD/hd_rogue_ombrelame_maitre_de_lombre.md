@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_ombrelame_hd.md#maître-de-lombre
 ParentLink: rogue_ombrelame_hd.md#ombrelame
 Name: Maître de l'ombre

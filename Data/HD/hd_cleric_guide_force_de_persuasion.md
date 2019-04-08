@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_guide_hd.md#force-de-persuasion
 ParentLink: cleric_guide_hd.md#guide-spirituel
 Name: Force de persuasion

@@ -200,7 +200,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Archétypes de roublard<!--/Name-->
 
@@ -216,7 +216,7 @@ Il ne s'agit pas nécessairement de votre profession, mais d'une description des
 
 ## [Ombrelame]
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

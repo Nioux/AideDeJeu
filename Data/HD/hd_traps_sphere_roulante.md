@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#sphère-roulante
 ParentLink: traps_hd.md#les-pièges
 Name: Sphère roulante

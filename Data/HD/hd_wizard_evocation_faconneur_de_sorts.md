@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_evocation_hd.md#façonneur-de-sorts
 ParentLink: wizard_evocation_hd.md#École-dévocation
 Name: Façonneur de sorts

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#interagir-avec-les-objets-alentours
 ParentLink: combat_hd.md#combattre
 Name: Interagir avec les objets alentours

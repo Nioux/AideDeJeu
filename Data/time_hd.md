@@ -1,5 +1,5 @@
 
-<!--Generic-->
+<!--GenericItem-->
 
 > <!--ParentNameLink-->[Partir à l'aventure](adventure_hd.md)<!--/ParentNameLink-->
 
@@ -22,7 +22,7 @@ Puis, tout à coup, une violente attaque d’orcs sauvages les oblige à se batt
 
 Dans le cadre des combats et d’autres situations de jeu où l’action se déroule très vite et où chaque instant peut être crucial, le jeu utilise un système de rounds, le round étant une unité de temps qui dure 6 secondes.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 [Acrobaties]: abilities_dexterity_hd.md#acrobaties
 [Athlétisme]: abilities_strength_hd.md#athlétisme

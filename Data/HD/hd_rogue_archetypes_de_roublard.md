@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_hd.md#archétypes-de-roublard
 ParentLink: rogue_hd.md#roublard
 Name: Archétypes de roublard

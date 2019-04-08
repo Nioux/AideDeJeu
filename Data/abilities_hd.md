@@ -25,7 +25,7 @@ La valeur de ses caractéristiques permet de déterminer ces qualités, les forc
 
 Les trois jets de dés principaux du jeu (le test de caractéristique, le [jet de sauvegarde] et le jet d'attaque) se basent sur les valeurs de ces six caractéristiques. L'introduction de ce livre décrit les règles de base régissant ces jets de dés : lancez un d20, ajoutez le modificateur de caractéristique correspondant à la valeur de l'une des six caractéristiques et comparez le résultat au nombre cible.
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Valeurs de caractéristiques et modificateurs<!--/Name-->
 
@@ -60,9 +60,9 @@ Pour déterminer un modificateur de caractéristique sans consulter le tableau, 
 
 Les modificateurs de caractéristique interviennent dans presque tous les jets d'attaque, tests de caractéristique et [jets de sauvegarde]. Ils sont donc utilisés bien plus souvent que les valeurs dont ils dépendent.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Avantage et désavantage<!--/Name-->
 
@@ -76,9 +76,9 @@ Quand vous bénéficiez d'un avantage ou subissez un désavantage et qu'un élé
 
 Vous obtenez généralement un avantage ou subissez un désavantage grâce à des capacités spéciales, des actions ou des sorts. L'inspiration peut aussi conférer un avantage à un personnage. Le MJ peut également décider que les circonstances influencent un jet de dé dans une direction ou une autre et choisir d'accorder un avantage ou d'imposer un désavantage en conséquence.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Bonus de maîtrise<!--/Name-->
 
@@ -92,9 +92,9 @@ De la même manière, si une aptitude ou un effet vous permet de multiplier votr
 
 En règle générale, vous ne multipliez pas votre bonus de maîtrise pour les jets d'attaque ou les [jets de sauvegarde], mais si une aptitude ou un effet vous permet de le faire, ces mêmes règles s'appliquent.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Tests de caractéristique<!--/Name-->
 
@@ -115,9 +115,9 @@ Degrés de difficulté typiques
 
 Pour faire un test de caractéristique, lancez un d20 et ajoutez le modificateur de caractéristique approprié. Comme pour tous les autres jets de d20, appliquez les bonus et malus et comparez le total au DD. Si le total est supérieur ou égal au DD, le test de caractéristique est un succès : la créature a réussi à surmonter le défi auquel elle était confrontée. Sinon, c'est un échec, ce qui signifie que le personnage ou le monstre ne progresse pas vers son objectif ou qu'il progresse, mais avec un effet négatif déterminé par le MJ.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Opposition<!--/Name-->
 
@@ -127,9 +127,9 @@ Les deux créatures qui s'opposent font un test de caractéristique correspondan
 
 Si les résultats des tests sont identiques, la situation n'évolue pas et reste la même qu'auparavant. Une des deux créatures peut donc gagner par défaut. Si deux personnages s'opposent pour tenter d'attraper un anneau qui est tombé par terre se retrouvent à égalité, aucun ne réussit à l'attraper. Si un monstre qui cherche à ouvrir de force une porte s'oppose à un aventurier qui essaie de la garder fermée et qu'ils se retrouvent à égalité, cela signifie que la porte reste fermée.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Compétences<!--/Name-->
 
@@ -171,9 +171,9 @@ Il peut arriver que le MJ demande un test de caractéristique lié à une compé
 
 Par exemple, si un personnage tente d'escalader une falaise escarpée, le MJ peut lui demander de faire un test de [Force (Athlétisme)]. Si le personnage maîtrise la compétence [Athlétisme], il ajoute son bonus de maîtrise à son test de [Force]. S'il ne maîtrise pas cette compétence, il réalise simplement un test de [Force].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Option : compétences associées avec différentes caractéristiques<!--/Name-->
 
@@ -183,9 +183,9 @@ Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison 
 
 De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de [Force] (Intimidation), même si la compétence [Intimidation] est normalement associée au [Charisme].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Tests passifs<!--/Name-->
 
@@ -201,9 +201,9 @@ Par exemple, si un personnage de niveau 1 a une valeur de [Sagesse] de 15 et ma�
 
 Les règles pour se cacher, dans la section [Dextérité] ciaprès, et les règles d'exploration décrites dans le chapitre 8, Partir à l'aventure, pages 269-281, se basent sur des tests passifs.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Travailler ensemble<!--/Name-->
 
@@ -213,9 +213,9 @@ Un personnage peut seulement apporter son aide s'il serait en mesure d'accomplir
 
 Certaines tâches, comme enfiler un fil dans le chas d'une aiguille, ne sont pas simplifiées parce qu'on vous aide.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Tests de groupe<!--/Name-->
 
@@ -225,9 +225,9 @@ Pour faire un test de caractéristique de groupe, tous les membres du groupe con
 
 Les tests de groupe ne sont pas fréquents. Ils interviennent quand tous les personnages réussissent ou échouent ensemble. Par exemple, quand les aventuriers traversent un marais, le MJ peut leur demander de réaliser un test de caractéristique de groupe de [Sagesse (Survie)] afin de vérifier s'ils évitent les sables mouvants, les trous d'eau ou tout autre danger naturel qui se trouve dans leur environnement. Si au moins la moitié du groupe réussit, les personnages qui ont réussi leur test aident les autres à éviter les dangers. Sinon, l'ensemble du groupe tombe dans l'un de ces pièges.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Utiliser chaque caractéristique<!--/Name-->
 
@@ -235,7 +235,7 @@ Chaque action qu'un personnage ou un monstre tente de réaliser dans le jeu fait
 
 Vous trouverez dans cette section une présentation de chacune de ces caractéristiques et de la façon dont elles sont utilisées dans le cadre du jeu.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--LinkItem-->
 
@@ -273,7 +273,7 @@ Vous trouverez dans cette section une présentation de chacune de ces caractéri
 
 <!--/LinkItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Jets de sauvegarde<!--/Name-->
 
@@ -293,7 +293,7 @@ Le degré de difficulté d'un jet de sauvegarde dépend de l'effet qui en est la
 
 Le résultat d'un jet de sauvegarde réussi ou raté est indiqué dans la description de l'effet à l'origine du jet de sauvegarde. D'habitude, un jet de sauvegarde réussi signifie qu'une créature n'est pas blessée, ou moins qu'elle aurait dû, par un effet.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

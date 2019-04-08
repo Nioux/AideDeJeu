@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_devotion_hd.md#halo-sacré
 ParentLink: paladin_devotion_hd.md#serment-de-dévotion
 Name: Halo sacré

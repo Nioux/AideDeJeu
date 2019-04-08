@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: barbarian_steel_hd.md#sens-de-la-magie
 ParentLink: barbarian_steel_hd.md#voie-de-lacier
 Name: Sens de la magie

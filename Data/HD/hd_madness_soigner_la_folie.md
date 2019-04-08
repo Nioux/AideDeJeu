@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: madness_hd.md#soigner-la-folie
 ParentLink: madness_hd.md#la-folie
 Name: Soigner la folie

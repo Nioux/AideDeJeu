@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_hd.md#jets-de-sauvegarde
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: Jets de sauvegarde

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: multiclassing_hd.md#points-de-vie-et-dés-de-vie
 ParentLink: multiclassing_hd.md#multiclassage
 Name: Points de vie et dés de vie

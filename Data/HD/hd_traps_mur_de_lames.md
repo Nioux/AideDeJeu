@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#mur-de-lames
 ParentLink: traps_hd.md#les-pièges
 Name: Mur de lames

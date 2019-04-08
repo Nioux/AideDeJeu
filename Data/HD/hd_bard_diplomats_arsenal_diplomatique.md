@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: bard_diplomats_hd.md#arsenal-diplomatique
 ParentLink: bard_diplomats_hd.md#collège-des-diplomates
 Name: Arsenal diplomatique

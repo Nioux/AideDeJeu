@@ -11,7 +11,7 @@
 
 Il s'agit en réalité d'une variante de la classe de roublard dont il partage un certain nombre de caractéristiques. Vous pourrez d'ailleurs sans peine utiliser les archétypes de roublard avec ce savant. Modifiez la classe de roublard comme suit.
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Points de combativité<!--/Name-->
 
@@ -21,9 +21,9 @@ Il s'agit en réalité d'une variante de la classe de roublard dont il partage u
 **Points de combativité au niveau 1** : 6 + votre modificateur de Constitution
 **Points de combativité par niveau** : 1d6 (ou 3)
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Maîtrises<!--/Name-->
 
@@ -39,9 +39,9 @@ Il s'agit en réalité d'une variante de la classe de roublard dont il partage u
 
 **Compétences** : Choisissez-en quatre entre [Arcanes], [Histoire], [Religion], [Nature], [Investigation], [Supercherie], [Persuasion], [Médecine], [Perception] et [Perspicacité].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Attaque sournoise devient Tome des mystères<!--/Name-->
 
@@ -51,9 +51,9 @@ Vous compilez l'ensemble de vos connaissances dans un tome, un grimoire, des rou
 
 Vous devez passer une heure chaque soir à compiler vos notes de la journée. Si vous ne le faites pas, vous ne pourrez pas vous servir de votre Tome des mystères jusqu'à ce que vous ayez consacré un nombre d'heures suffisant à compiler les notes manquantes (une heure par jour).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Argot des voleurs devient don des langues<!--/Name-->
 
@@ -61,9 +61,9 @@ Vous devez passer une heure chaque soir à compiler vos notes de la journée. Si
 
 Vous avez voyagé, vous avez étudié… Peu importe le pourquoi du comment, laissé à votre discrétion, le résultat est le même : vous connaissez bien des langues. Vous ne les parlez pas vraiment, évidemment, mais vous arrivez toujours à vous faire comprendre en baragouinant quelques mots bien choisis. Vous ne pouvez pas vous lancer dans de grands discours, ni manier des concepts complexes, mais lors des interactions sociales de base (baratiner un garde, obtenir une information, etc.) vous obtenez l'[avantage] à vos tests de Charisme. De plus, quand vous maîtrisez une langue qui n'est pas la vôtre, vous la parlez avec tant d'aise que votre accent est presque indétectable.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Ruse devient maître herboriste<!--/Name-->
 
@@ -71,9 +71,9 @@ Vous avez voyagé, vous avez étudié… Peu importe le pourquoi du comment, lai
 
 Au niveau 2, vous apprenez comment maîtriser l'art de créer potions et poisons. Vous devenez très compétent avec le matériel d'herboriste et le matériel d'empoisonneur. Quand vous les utilisez afin de créer une potion de soin, un poison pouvant affecter une créature inhumaine ou un contrepoison, si vous obtenez pour ce jet un résultat sur le dé inférieur à 10, vous pouvez ignorer le résultat du dé. Considérez que le résultat du dé est alors de 10.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Esquive instinctive devient révélation<!--/Name-->
 
@@ -85,9 +85,9 @@ Cette capacité ne peut être utilisée qu'une fois entre deux repos longs. Elle
 
 Au niveau 13, les dés de point faible deviennent des d8.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Insaisissable devient révélation améliorée<!--/Name-->
 
@@ -96,7 +96,7 @@ Au niveau 13, les dés de point faible deviennent des d8.
 Désormais, vous obtenez un nombre de dés de point faible égal à votre modifcateur d’Intelligence multiplié par 3. Ces dés deviennent des d10.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_depths_hd.md#maître-des-cauchemars
 ParentLink: warlock_depths_hd.md#la-puissance-des-profondeurs
 Name: Maître des cauchemars

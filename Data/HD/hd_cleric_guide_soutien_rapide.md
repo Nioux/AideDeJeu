@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_guide_hd.md#soutien-rapide
 ParentLink: cleric_guide_hd.md#guide-spirituel
 Name: Soutien rapide

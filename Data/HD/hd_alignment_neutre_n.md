@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: alignment_hd.md#neutre-n
 ParentLink: alignment_hd.md#alignement
 Name: Neutre (N)

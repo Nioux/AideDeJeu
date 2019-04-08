@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rituals_hd.md#Étape-1--déterminer-le-domaine-et-le-degré-de-difficulté-de-base
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 Name: 'Étape 1 : déterminer le domaine et le degré de difficulté de base'

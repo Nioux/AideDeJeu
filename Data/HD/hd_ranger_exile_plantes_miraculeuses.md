@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: ranger_exile_hd.md#plantes-miraculeuses
 ParentLink: ranger_exile_hd.md#exilé
 Name: Plantes miraculeuses

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#attaque-à-distance-dans-un-combat-au-corps-à-corps
 ParentLink: combat_hd.md#combattre
 Name: Attaque à distance dans un combat au corps-à-corps

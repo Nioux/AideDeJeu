@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_occultsummons_hd.md#murmures-doutre-tombe
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
 Name: Murmures d'outre-tombe

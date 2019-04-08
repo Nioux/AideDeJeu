@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: madness_hd.md#folie-passagère
 ParentLink: madness_hd.md#la-folie
 Name: Folie passagère

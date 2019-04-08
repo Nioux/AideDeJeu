@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sentient_magicitems_hd.md#communication
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
 Name: Communication

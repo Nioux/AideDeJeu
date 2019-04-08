@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: environment_hd.md#interaction-avec-des-objets
 ParentLink: environment_hd.md#l’environnement
 Name: Interaction avec des objets

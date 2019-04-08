@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_strength_hd.md#tests-de-force
 ParentLink: abilities_strength_hd.md#force
 Name: Tests de Force

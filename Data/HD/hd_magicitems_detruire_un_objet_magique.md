@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#détruire-un-objet-magique
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Détruire un objet magique

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#zone-de-gravité-inversée
 ParentLink: traps_hd.md#les-pièges
 Name: Zone de gravité inversée

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_thief_hd.md#utilisation-dobjets-magiques
 ParentLink: rogue_thief_hd.md#voleur
 Name: Utilisation d'objets magiques

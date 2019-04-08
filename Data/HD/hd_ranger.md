@@ -1,13 +1,13 @@
 ﻿---
 !ClassItem
+Name: Rôdeur
+AltName: Ranger (SRD p35)
+Source: (MDR p194)
 Id: ranger_hd.md#rôdeur
 RootId: ranger_hd.md
 ParentLink: classes_hd.md
-Name: Rôdeur
 ParentName: Classes
 NameLevel: 1
-AltName: Ranger (SRD p35)
-Source: (MDR p194)
 Attributes: {}
 ---
 >  [Classes](hd_classes.md)

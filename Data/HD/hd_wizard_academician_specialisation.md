@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_academician_hd.md#spécialisation
 ParentLink: wizard_academician_hd.md#académicien
 Name: Spécialisation

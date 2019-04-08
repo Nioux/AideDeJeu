@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_occultsummons_hd.md#voleur-des-cinq-destinées
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
 Name: Voleur des cinq destinées

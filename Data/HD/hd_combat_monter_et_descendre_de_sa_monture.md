@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#monter-et-descendre-de-sa-monture
 ParentLink: combat_hd.md#combattre
 Name: Monter et descendre de sa monture

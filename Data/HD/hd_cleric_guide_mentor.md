@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_guide_hd.md#mentor
 ParentLink: cleric_guide_hd.md#guide-spirituel
 Name: Mentor

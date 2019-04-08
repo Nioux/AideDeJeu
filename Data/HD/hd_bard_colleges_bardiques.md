@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: bard_hd.md#collèges-bardiques
 ParentLink: bard_hd.md#barde
 Name: Collèges bardiques

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: conditions_vo.md#grappled
 ParentLink: conditions_vo.md#conditions
 Name: Grappled

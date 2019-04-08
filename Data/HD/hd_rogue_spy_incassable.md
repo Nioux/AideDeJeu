@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_spy_hd.md#incassable
 ParentLink: rogue_spy_hd.md#espion
 Name: Incassable

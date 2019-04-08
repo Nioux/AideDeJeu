@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_piety_hd.md#aura-de-piété
 ParentLink: paladin_piety_hd.md#serment-de-piété
 Name: Aura de piété

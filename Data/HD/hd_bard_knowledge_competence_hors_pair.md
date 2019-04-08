@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: bard_knowledge_hd.md#compétence-hors-pair
 ParentLink: bard_knowledge_hd.md#collège-du-savoir
 Name: Compétence hors pair

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_traditions_hd.md#magie-ancestrale
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
 Name: Magie ancestrale

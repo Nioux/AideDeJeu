@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#objets-à-utilisation-unique
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Objets à utilisation unique

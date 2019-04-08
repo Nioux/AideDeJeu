@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_spy_hd.md#lire-sur-les-lèvres
 ParentLink: rogue_spy_hd.md#espion
 Name: Lire sur les lèvres

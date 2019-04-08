@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#mot-de-commande
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Mot de commande

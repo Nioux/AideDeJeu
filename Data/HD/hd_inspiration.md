@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: inspiration_hd.md#inspiration
 RootId: inspiration_hd.md
 ParentLink: personnality_background_hd.md#

@@ -9,7 +9,7 @@
 
 - Source: <!--Source-->(L5R p49)<!--/Source-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Traits de base des humains<!--/Name-->
 
@@ -21,9 +21,9 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Langues.** Vous pouvez parler, lire et écrire la langue d'or, ainsi qu'une autre langue (souvent la langue de votre royaume d'origine).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Fils de la terre<!--/Name-->
 
@@ -35,9 +35,9 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Maîtrises supplémentaires.** Vous obtenez la maîtrise d'un outil d'artisan parmi les suivants : les outils de charpentier, de forgeron, de brasseur, les ustensiles de cuisine, les outils de maçon ou les outils de menuisier.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Fils du sel<!--/Name-->
 
@@ -49,9 +49,9 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Marin né.** Vous maîtrisez particulièrement bien les embarcations aquatiques. Quand vous utilisez un tel moyen de transport, vous avez l'avantage pour le piloter.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Fils des bois<!--/Name-->
 
@@ -63,9 +63,9 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Inébranlable.** Vous avez l'[avantage] sur les jets de sauvegarde effectués afin de résister à la peur.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Fils des cités<!--/Name-->
 
@@ -77,9 +77,9 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Langues.** Vous maîtrisez une langue supplémentaire.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Fils du vent<!--/Name-->
 
@@ -91,9 +91,9 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Débrouillard.** Vous maîtrisez deux compétences supplémentaires.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Fils du roc<!--/Name-->
 
@@ -105,9 +105,9 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Résistant.** Vous possédez un point de combativité supplémentaire. Chaque fois que vous gagnez un niveau, vous gagnez un point de combativité supplémentaire par rapport aux autres.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Gwynnddaerain<!--/Name-->
 
@@ -119,9 +119,9 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Autorité de la tradition.** Votre origine vous a apporté une confiance telle en votre légitimité que vous dégagez une confiance naturelle sans limite. Quand vous tentez de vous imposer, que cela soit pour calmer une assemblée ou pour faire valoir la légitimité de vos arguments (moraux, politiques ou religieux), vous avez l'[avantage].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Fils des terres sauvages<!--/Name-->
 
@@ -133,9 +133,9 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Immunités naturelles.** Vous avez l'[avantage] sur les jets de sauvegarde contre les poisons, et possédez la Résistance contre les dommages dus aux poisons.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Bâtard<!--/Name-->
 
@@ -149,7 +149,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Vulnérabilité ancestrale.** Malheureusement, vous êtes affligé d'une Vulnérabilité au Fer Froid. Mais pire que les faës, votre héritage humain vous a aussi rendu plus faible face aux armes d'acier. Quand vous êtes touché par une arme en acier, un des points de dégâts est toujours infligé à vos points de vitalité.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: multiclassing_hd.md#attaque-supplémentaire
 ParentLink: multiclassing_hd.md#multiclassage
 Name: Attaque supplémentaire

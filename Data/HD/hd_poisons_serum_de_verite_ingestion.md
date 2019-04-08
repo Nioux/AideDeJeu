@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#sérum-de-vérité-ingestion
 ParentLink: poisons_hd.md#les-poisons
 Name: Sérum de vérité (ingestion)

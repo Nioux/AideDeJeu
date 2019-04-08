@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: madness_hd.md#les-effets-de-la-folie
 ParentLink: madness_hd.md#la-folie
 Name: Les effets de la folie

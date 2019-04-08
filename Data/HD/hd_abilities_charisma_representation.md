@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_charisma_hd.md#représentation
 ParentLink: abilities_charisma_hd.md#charisme
 Name: Représentation

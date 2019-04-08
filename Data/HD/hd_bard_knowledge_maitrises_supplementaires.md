@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: bard_knowledge_hd.md#maîtrises-supplémentaires
 ParentLink: bard_knowledge_hd.md#collège-du-savoir
 Name: Maîtrises supplémentaires

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: resting_hd.md#repos-court
 ParentLink: resting_hd.md#repos
 Name: Repos court

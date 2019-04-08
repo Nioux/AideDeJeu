@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: environment_hd.md#vision-et-lumière
 ParentLink: environment_hd.md#l’environnement
 Name: Vision et lumière

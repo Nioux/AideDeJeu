@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#quest-ce-quun-sort-?
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Qu'est-ce qu'un sort ?

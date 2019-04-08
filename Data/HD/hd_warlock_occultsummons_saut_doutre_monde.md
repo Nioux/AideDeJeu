@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_occultsummons_hd.md#saut-doutre-monde
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
 Name: Saut d'outre-monde

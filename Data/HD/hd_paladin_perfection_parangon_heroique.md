@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_perfection_hd.md#parangon-héroïque
 ParentLink: paladin_perfection_hd.md#serment-de-perfection
 Name: Parangon héroïque

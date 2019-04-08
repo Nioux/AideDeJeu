@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#les-rituels
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Les rituels

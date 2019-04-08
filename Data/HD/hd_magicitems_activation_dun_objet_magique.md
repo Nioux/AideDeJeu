@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#activation-dun-objet-magique
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Activation d'un objet magique

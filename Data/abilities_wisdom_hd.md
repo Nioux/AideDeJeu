@@ -12,55 +12,55 @@
 
 La Sagesse représente votre sensibilité au monde qui vous entoure, votre perspicacité et votre intuition.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Tests de Sagesse<!--/Name-->
 
 Un test de Sagesse peut refléter une tentative de décrypter le langage corporel d'une créature, de comprendre les sentiments de quelqu'un, de remarquer des éléments dans votre environnement ou de prendre soin d'une personne blessée. Les compétences [Dressage], [Perspicacité], [Médecine], [Perception] et [Survie] représentent des facettes de cette caractéristique utilisées pour certains tests de Sagesse.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Dressage<!--/Name-->
 
 Le MJ peut vous demander de faire un test de Sagesse (Dressage) pour savoir si vous parvenez à calmer un animal domestique, à empêcher une monture de s'affoler ou à deviner les intentions d'un animal. Vous devez aussi faire un test de Sagesse (Dressage) pour contrôler votre monture lors d'une manoeuvre risquée.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Médecine<!--/Name-->
 
 Un test de Sagesse (Médecine) vous permet de tenter de stabiliser un compagnon à l'agonie ou de diagnostiquer une maladie.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Perception<!--/Name-->
 
 Vous faites un test de Sagesse (Perception) afin de repérer, entendre ou détecter d'une manière ou d'une autre une présence. Ce test permet de tester votre attention et votre sensibilité à votre environnement et la finesse de vos sens. Par exemple, vous pouvez tenter d'écouter une conversation à travers une porte fermée ou par une fenêtre entrouverte, ou bien d'entendre des monstres qui se déplacent furtivement dans une forêt. Ou vous pouvez tenter de repérer des choses dissimulées ou difficiles à remarquer, comme des orcs en embuscade le long d'une route, des brigands qui se cachent dans les ombres d'une ruelle ou la lumière d'une bougie visible dans les interstices d'une porte secrète.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Perspicacité<!--/Name-->
 
 Un test de Sagesse (Perspicacité) permet de déterminer si vous parvenez à discerner les véritables intentions d'une créature, par exemple quand vous cherchez à deviner si une personne ment ou que vous tentez de prédire ce qu'elle va faire. Pour y arriver, vous devez percevoir des indices dans son langage corporel, sa manière de parler et son comportement. 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Survie<!--/Name-->
 
 Le MJ peut vous demander de faire un test de [Sagesse (Survie)] si vous tentez de suivre une piste, de chasser du gibier, de guider votre groupe à travers un désert glacé, d'identifier des signes montrant que vous êtes sur le territoire d'un hibours, de prévoir le temps qu'il fera ou encore d'éviter des sables mouvants ou d'autres dangers naturels.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Autres tests de Sagesse<!--/Name-->
 
@@ -69,15 +69,15 @@ Le MJ peut vous demander de faire un test de [Sagesse] quand vous tentez d'accom
 * Avoir une intuition qui vous aide à faire un choix.
 * Discerner si une créature qui semble morte ou vivante est un mort-vivant.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Caractéristique d'incantation<!--/Name-->
 
 Les [clercs], les [druides] et les [rôdeurs] utilisent la [Sagesse] comme caractéristique d'incantation et afin de déterminer les DD des [jets de sauvegarde] de leurs sorts.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

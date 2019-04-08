@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: ranger_pisteur_hd.md#style-de-combat-supplémentaire
 ParentLink: ranger_pisteur_hd.md#pisteur--un-rôdeur-alternatif
 Name: Style de combat supplémentaire

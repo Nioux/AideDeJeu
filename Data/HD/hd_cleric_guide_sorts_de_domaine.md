@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_guide_hd.md#sorts-de-domaine
 ParentLink: cleric_guide_hd.md#guide-spirituel
 Name: Sorts de domaine

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: barbarian_spirits_hd.md#communion
 ParentLink: barbarian_spirits_hd.md#voie-des-esprits
 Name: Communion

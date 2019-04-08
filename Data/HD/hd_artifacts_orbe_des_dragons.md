@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: artifacts_hd.md#orbe-des-dragons
 ParentLink: artifacts_hd.md#artefacts
 Name: ORBE DES DRAGONS

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_life_hd.md#canalisation-d’énergie-divine--préserver-la-vie
 ParentLink: cleric_life_hd.md#domaine-de-la-vie
 Name: 'Canalisation d’énergie divine : préserver la vie'

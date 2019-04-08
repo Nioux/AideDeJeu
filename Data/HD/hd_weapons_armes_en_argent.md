@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: weapons_hd.md#armes-en-argent
 ParentLink: weapons_hd.md#armes
 Name: Armes en argent

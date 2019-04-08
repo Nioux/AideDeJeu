@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_perfection_hd.md#chevalier-prestigieux
 ParentLink: paladin_perfection_hd.md#serment-de-perfection
 Name: Chevalier prestigieux

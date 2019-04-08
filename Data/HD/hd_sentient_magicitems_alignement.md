@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sentient_magicitems_hd.md#alignement
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
 Name: Alignement

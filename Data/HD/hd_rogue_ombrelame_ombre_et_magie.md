@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_ombrelame_hd.md#ombre-et-magie
 ParentLink: rogue_ombrelame_hd.md#ombrelame
 Name: Ombre et magie

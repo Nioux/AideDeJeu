@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_extradimensional_hd.md#duo-dimension
 ParentLink: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
 Name: Duo-dimension

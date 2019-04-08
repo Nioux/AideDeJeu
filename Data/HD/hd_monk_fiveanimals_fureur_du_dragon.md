@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: monk_fiveanimals_hd.md#fureur-du-dragon
 ParentLink: monk_fiveanimals_hd.md#voie-des-cinq-animaux
 Name: Fureur du dragon

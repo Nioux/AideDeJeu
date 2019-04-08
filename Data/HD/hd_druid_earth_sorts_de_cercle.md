@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: druid_earth_hd.md#sorts-de-cercle
 ParentLink: druid_earth_hd.md#cercle-de-la-terre
 Name: Sorts de cercle

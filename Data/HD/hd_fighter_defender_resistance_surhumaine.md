@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_defender_hd.md#résistance-surhumaine
 ParentLink: fighter_defender_hd.md#défenseur
 Name: Résistance surhumaine

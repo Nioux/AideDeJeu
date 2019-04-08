@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sorcerer_draconic_hd.md#ancêtre-dragon
 ParentLink: sorcerer_draconic_hd.md#lignée-draconique
 Name: Ancêtre dragon

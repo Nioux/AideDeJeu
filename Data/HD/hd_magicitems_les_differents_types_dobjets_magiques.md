@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#les-différents-types-dobjets-magiques
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Les différents types d'objets magiques

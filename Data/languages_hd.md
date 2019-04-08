@@ -17,7 +17,7 @@ Choisissez vos langues dans le tableau ci-dessous, ou une langue couramment util
 Certaines de ces langues sont en réalité une famille de langues comportant plusieurs dialectes. Par exemple, les langues primordiales sont constituées de quatre dialectes (aérien, aquatique, ignée et terreux), un pour chaque plan élémentaire. Des créatures qui parlent des dialectes différents issus d'une même langue d'origine peuvent communiquer entre elles.
 
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Langues courantes<!--/Name-->
 
@@ -33,9 +33,9 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 |Orc|Orcs|Runique|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Langues exotiques<!--/Name-->
 
@@ -52,7 +52,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 |Sylvestre|Fées|Elfique|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

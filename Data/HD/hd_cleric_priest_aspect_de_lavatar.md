@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_priest_hd.md#aspect-de-lavatar
 ParentLink: cleric_priest_hd.md#prêtre
 Name: Aspect de l'avatar

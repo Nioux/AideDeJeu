@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#porter-et-ma-nier-des-objets-magiques
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Porter et ma nier des objets magiques

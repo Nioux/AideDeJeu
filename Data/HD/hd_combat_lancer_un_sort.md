@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#lancer-un-sort
 ParentLink: combat_hd.md#combattre
 Name: Lancer un sort

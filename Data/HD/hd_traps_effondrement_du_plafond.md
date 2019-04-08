@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#effondrement-du-plafond
 ParentLink: traps_hd.md#les-pièges
 Name: Effondrement du plafond

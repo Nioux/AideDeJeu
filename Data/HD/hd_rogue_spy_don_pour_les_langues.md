@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_spy_hd.md#don-pour-les-langues
 ParentLink: rogue_spy_hd.md#espion
 Name: Don pour les langues

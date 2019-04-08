@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: human_hd.md#variante-technique
 ParentLink: human_hd.md#humain
 Name: Variante technique

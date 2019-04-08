@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#résistance-et-vulnérabilité-aux-dégâts
 ParentLink: combat_hd.md#combattre
 Name: Résistance et vulnérabilité aux dégâts

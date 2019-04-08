@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_druid_hd.md#cercles-de-druides
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 Name: Cercles de druides

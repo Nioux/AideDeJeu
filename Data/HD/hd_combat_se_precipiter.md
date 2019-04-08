@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#se-précipiter
 ParentLink: combat_hd.md#combattre
 Name: Se précipiter

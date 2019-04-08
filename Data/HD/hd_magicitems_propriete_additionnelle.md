@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#propriété-additionnelle
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Propriété additionnelle

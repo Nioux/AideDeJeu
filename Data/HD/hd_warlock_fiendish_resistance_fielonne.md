@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_fiendish_hd.md#résistance-fiélonne
 ParentLink: warlock_fiendish_hd.md#le-fiélon
 Name: Résistance fiélonne

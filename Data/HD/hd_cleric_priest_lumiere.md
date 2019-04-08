@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_priest_hd.md#lumière
 ParentLink: cleric_priest_hd.md#liste-des-domaines
 Name: Lumière

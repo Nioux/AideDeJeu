@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_traditions_hd.md#maître-des-traditions
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
 Name: Maître des traditions

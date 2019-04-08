@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_theurgist_hd.md#Études-académiques
 ParentLink: cleric_theurgist_hd.md#théurge
 Name: Études académiques

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: objects_hd.md#les-statistiques-des-objets
 ParentLink: objects_hd.md#les-objets
 Name: Les statistiques des objets

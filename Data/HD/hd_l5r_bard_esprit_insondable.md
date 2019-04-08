@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_bard_hd.md#esprit-insondable
 ParentLink: l5r_bard_hd.md#barde-des-cinq-royaumes
 Name: Esprit insondable

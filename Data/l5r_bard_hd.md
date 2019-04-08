@@ -9,7 +9,7 @@
 
 - Source: <!--Source-->(L5R p55)<!--/Source-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Aptitudes de classe<!--/Name-->
 
@@ -17,9 +17,9 @@
 
 Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras dans le tableau page suivante sont nouvelles et détaillées par la suite. Les autres correspondent aux capacités du barde de Héros & Dragons.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Tableau d'évolution<!--/Name-->
 
@@ -49,9 +49,9 @@ Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras da
 |20|+6|[Inspiration supérieure]|
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Maître des ombres<!--/Name-->
 
@@ -63,9 +63,9 @@ De plus, vous êtes capable, en passant une dizaine de minutes à parler avec un
 
 Au niveau 7, vous devenez capable de créer de petits fumigènes explosifs. Une heure de préparation vous permet d'en fabriquer un nombre égal à votre modificateur de Charisme +1. Ce nombre détermine également le nombre maximum de fumigènes que vous pouvez transporter. Enfin, vous seul êtes capable de les utiliser avec efficacité. Chaque fumigène coûte 10 Po à fabriquer. Quand vous lancez un fumigène au sol, il explose en un éclair aveuglant et vous disparaissez alors dans un nuage de fumée. Vous vous retrouvez instantanément dans un espace inoccupé de votre choix, dans un rayon de 12m.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Présence amicale<!--/Name-->
 
@@ -79,9 +79,9 @@ Vous devez effectuer un repos long entre deux utilisations de l'un ou l'autre de
 
 Au niveau 9, vous devez désormais effectuer un simple repos court entre deux utilisations de cette capacité.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Esprit insondable<!--/Name-->
 
@@ -89,9 +89,9 @@ Au niveau 9, vous devez désormais effectuer un simple repos court entre deux ut
 
 Au niveau 5, vous obtenez l'[avantage] sur vos jets de sauvegarde de Sagesse et de Charisme.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Distraction<!--/Name-->
 
@@ -103,9 +103,9 @@ Si vous désirez que l'effet dure, il faut alors continuer à invectiver la cré
 
 Vous devez effectuer un repos long entre deux utilisations de cette capacité.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Maître espion<!--/Name-->
 
@@ -117,9 +117,9 @@ Au niveau 14, vous pouvez choisir deux nouvelles compétences ou outils dans la 
 
 Au niveau 18, vous pouvez utiliser cette capacité deux fois entre deux repos courts pour chaque compétence concernée.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Manipulation de l'esprit<!--/Name-->
 
@@ -133,9 +133,9 @@ Vous devez effectuer un repos long entre deux utilisations de l'une ou l'autre d
 
 Au niveau 18, vous devez désormais effectuer un simple repos court entre deux utilisations de l'une ou l'autre de ces capacités.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Collèges de bardes<!--/Name-->
 
@@ -143,9 +143,9 @@ Au niveau 18, vous devez désormais effectuer un simple repos court entre deux u
 
 Tous les collèges issus du livre de base de Héros & Dragons sont compatibles avec cette version du barde, mais certaines capacités demandent modification.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Collège du savoir<!--/Name-->
 
@@ -153,9 +153,9 @@ Tous les collèges issus du livre de base de Héros & Dragons sont compatibles a
 
 La capacité [secrets magiques supplémentaires] est remplacée par [maître espion aguerri]. Choisissez deux compétences ou outils supplémentaires dans la liste de [maître espion] et appliquez-leur cette dernière aptitude. Lorsque vous arrivez au niveau 10 et que vous obtenez la capacité Maître espion, choisissez les compétences et outils normalement.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Collège des saltimbanques<!--/Name-->
 
@@ -167,9 +167,9 @@ La capacité s'active : vous revenez au début de la scène (à un moment défni
 
 Au niveau 14, la capacité [Prouesse de cirque du Bouffon] est modifiée de la manière suivante : désormais, lorsque vous utilisez votre aptitude [Manipulation de l'Esprit], vos cibles ont un [désavantage] sur leur jet de sauvegarde. De plus, lorsque vous effectuez un test sur la compétence Persuasion, si vous obtenez moins de 10 sur le d20, vous pouvez ignorer le résultat du dé. Considérez que le résultat du dé est alors de 10. Si vous possédez déjà cette capacité via l'aptitude Maître espion, alors vous obtenez l'[avantage] sur votre test.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Collège des diplomates<!--/Name-->
 
@@ -181,7 +181,7 @@ Au niveau 6, la capacité [manipulateur redoutable] est modifiée de la manière
 
 Au niveau 14, la capacité [manipulateur subtil] est modifiée de la manière suivante : il ne vous faut désormais qu'une minute pour utiliser l'équivalent de [charme personne] grâce à votre aptitude présence amicale. De plus, quand vous utilisez votre aptitude de [manipulation de l'esprit], vous pouvez désormais bénéficier de votre dé d'Inspiration bardique. Dépensez un dé d'Inspiration et ajoutez son résultat à la difficulté du jet de sauvegarde que votre cible doit effectuer. De plus, votre cible subit un [désavantage] sur son jet de sauvegarde.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

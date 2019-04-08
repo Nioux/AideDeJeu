@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_fiendish_hd.md#liste-de-sorts-étendue
 ParentLink: warlock_fiendish_hd.md#le-fiélon
 Name: Liste de sorts étendue

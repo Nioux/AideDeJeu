@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_druid_hd.md#gardien-des-traditions
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 Name: Gardien des traditions

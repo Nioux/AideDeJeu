@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_extradimensional_hd.md#magie-extra-dimensionnelle
 ParentLink: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
 Name: Magie extra-dimensionnelle

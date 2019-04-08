@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_hd.md#traditions-arcaniques
 ParentLink: wizard_hd.md#magicien
 Name: Traditions arcaniques

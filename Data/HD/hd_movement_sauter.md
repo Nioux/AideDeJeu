@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: movement_hd.md#sauter
 ParentLink: movement_hd.md#déplacement
 Name: Sauter

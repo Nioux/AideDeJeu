@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: druid_earth_hd.md#tour-de-magie-bonus
 ParentLink: druid_earth_hd.md#cercle-de-la-terre
 Name: Tour de magie bonus

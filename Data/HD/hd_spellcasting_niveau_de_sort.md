@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#niveau-de-sort
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Niveau de sort

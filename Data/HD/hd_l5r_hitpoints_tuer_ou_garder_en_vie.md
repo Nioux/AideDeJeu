@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_hitpoints_hd.md#tuer-ou-garder-en-vie
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 Name: Tuer ou garder en vie

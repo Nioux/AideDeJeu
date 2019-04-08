@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#action-bonus
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Action bonus

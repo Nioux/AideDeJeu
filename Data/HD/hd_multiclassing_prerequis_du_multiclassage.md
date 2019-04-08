@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: multiclassing_hd.md#prérequis-du-multiclassage
 ParentLink: multiclassing_hd.md#multiclassage
 Name: Prérequis du multiclassage

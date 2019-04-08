@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_traditions_hd.md#tradition-orale
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
 Name: Tradition orale

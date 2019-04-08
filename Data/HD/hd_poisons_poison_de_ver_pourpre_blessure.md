@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#poison-de-ver-pourpre-blessure
 ParentLink: poisons_hd.md#les-poisons
 Name: Poison de ver pourpre (blessure)

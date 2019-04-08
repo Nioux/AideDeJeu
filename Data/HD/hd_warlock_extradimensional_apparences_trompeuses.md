@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_extradimensional_hd.md#apparences-trompeuses
 ParentLink: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
 Name: Apparences trompeuses

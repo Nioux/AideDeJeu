@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#objets-maudits
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Objets maudits

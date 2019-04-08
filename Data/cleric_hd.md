@@ -199,7 +199,7 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Domaines divins<!--/Name-->
 
@@ -213,7 +213,7 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 
 ## [Domaine de la vie]
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

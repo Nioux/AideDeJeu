@@ -193,7 +193,7 @@ namespace AideDeJeuLib
         [YamlIgnore]
         public static Dictionary<string, Type> ClassMapping = new Dictionary<string, Type>()
         {
-            { "Generic", typeof(Generic) },
+            { "GenericItem", typeof(GenericItem) },
             { "MonsterItem", typeof(MonsterItem) },
             { "MonsterItems", typeof(MonsterItems) },
             { "SpellItem", typeof(SpellItem) },

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#fosse
 ParentLink: traps_hd.md#les-pièges
 Name: Fosse

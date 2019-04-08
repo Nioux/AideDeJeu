@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_ombrelame_hd.md#incantations
 ParentLink: rogue_ombrelame_hd.md#ombrelame
 Name: Incantations

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rituals_hd.md#inversion
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 Name: Inversion

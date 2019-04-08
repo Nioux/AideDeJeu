@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_defender_hd.md#bloquer-un-adversaire
 ParentLink: fighter_defender_hd.md#défenseur
 Name: Bloquer un adversaire

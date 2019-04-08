@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: races_hd.md#augmentation-de-caractéristiques
 ParentLink: races_hd.md#traits-raciaux
 Name: Augmentation de caractéristiques

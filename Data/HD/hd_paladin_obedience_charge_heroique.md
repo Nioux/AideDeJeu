@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_obedience_hd.md#charge-héroïque
 ParentLink: paladin_obedience_hd.md#serment-dobédience
 Name: Charge héroïque

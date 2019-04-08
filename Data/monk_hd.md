@@ -281,7 +281,7 @@ Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de p
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Traditions monacales<!--/Name-->
 
@@ -295,7 +295,7 @@ Il est possible de suivre quatre traditions monacales différentes dans les mona
 
 ## [Voie de la souplesse]
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

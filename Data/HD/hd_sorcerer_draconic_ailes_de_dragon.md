@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sorcerer_draconic_hd.md#ailes-de-dragon
 ParentLink: sorcerer_draconic_hd.md#lignée-draconique
 Name: Ailes de dragon

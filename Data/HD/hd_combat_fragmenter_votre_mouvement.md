@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#fragmenter-votre-mouvement
 ParentLink: combat_hd.md#combattre
 Name: Fragmenter votre mouvement

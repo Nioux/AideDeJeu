@@ -24,7 +24,7 @@ Lorsque vous choisissez cette voie au niveau 2, vous déterminez quel est votre 
 - **Feu.** Vous êtes le maître de l'élément le plus spectaculaire et le plus destructeur de tous. Vous voyez autour de vous un monde destiné à brûler, et vous pouvez manipuler ce feu pour qu'il consume vos ennemis. Vous avez également appris que le feu peut purifier et protéger s'il est bien contrôlé. Les élémentalistes du feu méprisent généralement les pouvoirs de l'eau qui, le plus souvent, apaisent et refroidissent.
 - **Terre.** Vous domptez le pouvoir de la terre qui vous entoure, solide et implacable. Le sol tremble sur une simple commande, un nuage d'acide surgit du sol, de la terre se matérialise pour ensevelir vos adversaires. Vous apprenez à la façonner, à la briser et à la soumettre à votre volonté. Vous pouvez l'utiliser pour vous défendre ou la soulever pour écraser vos ennemis. L'air étant l'antithèse de la terre, vous ne préférez pas employer des sorts s'appuyant sur cet élément.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Spécialisation élémentaire<!--/Name-->
 
@@ -34,9 +34,9 @@ De plus, lorsque vous lancez un sort dont les dégâts correspondent à votre é
 
 En revanche, lorsque vous lancez un sort qui inflige des dégâts correspondant à votre élément opposé – feu est opposé à froid (eau), acide (terre) opposé à foudre (air) – les cibles obtiennent un avantage à leurs [jets de sauvegarde].
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Puissance élémentaire<!--/Name-->
 
@@ -88,9 +88,9 @@ _Secousse sismique._ En utilisant une action, vous frappez le sol pour générer
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Résistance élémentaire<!--/Name-->
 
@@ -101,9 +101,9 @@ Au niveau 6, vous gagnez une résistance à un type de dégâts lié à votre é
 - **Feu.** Résistance aux dégâts de feu.
 - **Terre.** Résistance aux dégâts d'acide.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Maître des éléments<!--/Name-->
 
@@ -117,9 +117,9 @@ Vous gagnez l'aptitude puissance élémentaire correspondant à ce nouvel élém
 
 En revanche, vous ne pouvez pas apprendre de sort de niveau 4 ou supérieur des écoles d'enchantement, d'illusion et de nécromancie. Vous pouvez toujours utiliser des parchemins comportant des sorts de ces écoles.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Déplacement élémentaire<!--/Name-->
 
@@ -130,9 +130,9 @@ Au niveau 10 vous gagnez l'aptitude suivante liée à votre élément de prédil
 - **Feu.** En remplacement de votre déplacement normal, vous pouvez vous téléporter comme une flamme dansante à une distance égale à la moitié de votre vitesse de déplacement dans un espace que vous pouvez voir. Si vous arrivez dans un espace déjà occupé par un objet ou une créature, la créature et vous-même subissez 4d6 dégâts contondants et la téléportation échoue.
 - **Terre.** Tel un animal fouisseur, vous pouvez vous déplacer dans la terre d'un sol naturel à la moitié de votre vitesse de déplacement. De plus, vous gagnez le sens Perception des vibrations (9 mètres) lorsque vous vous déplacez de cette façon. Vous devez terminer votre déplacement à l'air libre ou subir 4d6 dégâts contondants.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Immunité élémentaire<!--/Name-->
 
@@ -143,15 +143,15 @@ Au niveau 14, vous gagnez une immunité au type de dégâts lié à votre élém
 - **Feu.** Immunité aux dégâts de feu.
 - **Terre.** Immunité aux dégâts d'acide.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Maîtrise élémentaire<!--/Name-->
 
 Au niveau 14, vous pouvez dépenser une action bonus pour augmenter de 2 niveaux l'emplacement d'un sort de votre élément de prédilection, y compris au-delà de votre niveau maximum (mais jamais au-dessus du niveau 9). Ainsi une boule de feu lancée avec un emplacement de niveau 3 infligera 10d6 dégâts. De plus, vous gagnez le second pouvoir de votre aptitude de puissance élémentaire associé à votre élément de prédilection. Chaque pouvoir élémentaire peut être utilisé une fois avant de devoir prendre un repos court ou long.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

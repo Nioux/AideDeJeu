@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_occultsummons_hd.md#maître-des-ombres
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
 Name: Maître des ombres

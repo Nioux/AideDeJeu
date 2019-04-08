@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_traditions_hd.md#sorts-de-domaine
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
 Name: Sorts de domaine

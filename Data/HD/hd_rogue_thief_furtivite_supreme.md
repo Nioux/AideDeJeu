@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_thief_hd.md#furtivité-suprême
 ParentLink: rogue_thief_hd.md#voleur
 Name: Furtivité suprême

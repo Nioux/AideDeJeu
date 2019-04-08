@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: barbarian_steel_hd.md#rage-froide
 ParentLink: barbarian_steel_hd.md#voie-de-lacier
 Name: Rage froide

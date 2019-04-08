@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#aiguille-empoisonnée
 ParentLink: traps_hd.md#les-pièges
 Name: Aiguille empoisonnée

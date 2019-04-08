@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: damage_healing_hd.md#les-monstres-et-la-mort
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 Name: Les monstres et la mort

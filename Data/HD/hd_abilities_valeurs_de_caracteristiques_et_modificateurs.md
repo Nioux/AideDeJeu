@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_hd.md#valeurs-de-caractéristiques-et-modificateurs
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: Valeurs de caractéristiques et modificateurs

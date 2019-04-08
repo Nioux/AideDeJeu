@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_wisdom_hd.md#tests-de-sagesse
 ParentLink: abilities_wisdom_hd.md#sagesse
 Name: Tests de Sagesse

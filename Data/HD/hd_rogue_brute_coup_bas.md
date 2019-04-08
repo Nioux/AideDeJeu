@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_brute_hd.md#coup-bas
 ParentLink: rogue_brute_hd.md#brute
 Name: Coup bas

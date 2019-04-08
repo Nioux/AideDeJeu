@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_immortal_hd.md#À-demi-mort
 ParentLink: warlock_immortal_hd.md#le-seigneur-immortel
 Name: À demi-mort

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: weapons_hd.md#À-deux-mains
 ParentLink: weapons_hd.md#armes
 Name: À deux mains

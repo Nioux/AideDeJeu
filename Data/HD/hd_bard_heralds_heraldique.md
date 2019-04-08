@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: bard_heralds_hd.md#héraldique
 ParentLink: bard_heralds_hd.md#collège-des-hérauts
 Name: Héraldique

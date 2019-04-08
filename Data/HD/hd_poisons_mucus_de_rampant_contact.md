@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#mucus-de-rampant-contact
 ParentLink: poisons_hd.md#les-poisons
 Name: Mucus de rampant (contact)

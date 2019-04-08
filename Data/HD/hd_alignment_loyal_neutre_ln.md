@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: alignment_hd.md#loyal-neutre-ln
 ParentLink: alignment_hd.md#alignement
 Name: Loyal Neutre (LN)

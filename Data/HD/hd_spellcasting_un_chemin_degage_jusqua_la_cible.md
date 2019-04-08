@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#un-chemin-dégagé-jusquà-la-cible
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Un chemin dégagé jusqu'à la cible

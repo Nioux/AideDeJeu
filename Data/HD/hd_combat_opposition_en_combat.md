@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#opposition-en-combat
 ParentLink: combat_hd.md#combattre
 Name: Opposition en combat

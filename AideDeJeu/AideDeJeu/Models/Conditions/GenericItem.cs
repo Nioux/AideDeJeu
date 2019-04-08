@@ -10,7 +10,7 @@ using Markdig.Syntax;
 
 namespace AideDeJeuLib
 {
-    public class Generic : Item
+    public class GenericItem : Item
     {
     }
 }

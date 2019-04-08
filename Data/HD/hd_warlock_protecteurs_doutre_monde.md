@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_hd.md#protecteurs-doutre-monde
 ParentLink: warlock_hd.md#sorcier
 Name: Protecteurs d'outre-monde

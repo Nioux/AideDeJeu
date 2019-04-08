@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#se-déplacer-au-milieu-dautres-créatures
 ParentLink: combat_hd.md#combattre
 Name: Se déplacer au milieu d'autres créatures

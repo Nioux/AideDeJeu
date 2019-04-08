@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_druid_hd.md#bénédiction-de-cernunos
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 Name: Bénédiction de Cernunos

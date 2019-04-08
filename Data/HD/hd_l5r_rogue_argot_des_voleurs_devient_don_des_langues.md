@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rogue_hd.md#argot-des-voleurs-devient-don-des-langues
 ParentLink: l5r_rogue_hd.md#le-savant
 Name: Argot des voleurs devient don des langues

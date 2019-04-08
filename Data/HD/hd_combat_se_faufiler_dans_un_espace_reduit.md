@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#se-faufiler-dans-un-espace-réduit
 ParentLink: combat_hd.md#combattre
 Name: Se faufiler dans un espace réduit

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: bard_acrobats_hd.md#esprit-déquipe
 ParentLink: bard_acrobats_hd.md#collège-des-saltimbanques
 Name: Esprit d'équipe

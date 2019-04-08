@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: languages_hd.md#langues-exotiques
 ParentLink: languages_hd.md#langues
 Name: Langues exotiques

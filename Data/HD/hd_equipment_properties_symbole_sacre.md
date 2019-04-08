@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: equipment_properties_hd.md#symbole-sacré
 ParentLink: equipment_properties_hd.md#Équipement
 Name: Symbole sacré

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_guide_hd.md#soutien-étendu
 ParentLink: cleric_guide_hd.md#guide-spirituel
 Name: Soutien étendu

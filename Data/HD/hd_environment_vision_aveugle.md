@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: environment_hd.md#vision-aveugle
 ParentLink: environment_hd.md#l’environnement
 Name: Vision aveugle

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: backgrounds_hd.md#personnaliser-votre-historique
 ParentLink: backgrounds_hd.md#historique
 Name: Personnaliser votre historique

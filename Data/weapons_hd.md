@@ -14,7 +14,7 @@ Votre classe vous donne la maîtrise de certaines armes, qui sont représentativ
 
 Le tableau des armes vous présente les armes les plus couramment rencontrées dans l'univers du jeu, leur prix et leur poids, les dégâts qu'elles infligent et les propriétés spéciales dont elles disposent. Les armes sont classées en fonction de deux grandes catégories : corps-à-corps ou à distance. Une arme de corps-à-corps vous permet d'attaquer une cible qui se trouve dans un rayon de 1,50 mètre autour de vous et une arme à distance vous permet d'attaquer une cible qui se trouve loin de vous.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Maîtrise des armes<!--/Name-->
 
@@ -25,9 +25,9 @@ Votre race, votre classe et vos dons peuvent vous donner la maîtrise de certain
 
 Maîtriser une arme vous permet d'ajouter votre bonus de maîtrise au jet d'attaque à chaque fois que vous attaquez avec cette arme. Si vous utilisez une arme que vous ne maîtrisez pas, vous n'ajoutez pas votre bonus de maîtrise au jet d'attaque.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ### <!--Name-->Propriétés des armes<!--/Name-->
 
@@ -36,9 +36,9 @@ Maîtriser une arme vous permet d'ajouter votre bonus de maîtrise au jet d'atta
 
 De nombreuses armes ont des propriétés spéciales liées à leur utilisation, ainsi que vous pourrez le voir dans le tableau des armes.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->À deux mains<!--/Name-->
 
@@ -47,9 +47,9 @@ De nombreuses armes ont des propriétés spéciales liées à leur utilisation, 
 
 Vous devez manier cette arme à deux mains pour effectuer une attaque.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Allonge<!--/Name-->
 
@@ -58,9 +58,9 @@ Vous devez manier cette arme à deux mains pour effectuer une attaque.
 
 Ce type d'arme vous permet de gagner 1,50 mètre d'allonge supplémentaire quand vous l'utilisez et quand vous déterminez votre allonge pour effectuer une attaque d'opportunité.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Chargement<!--/Name-->
 
@@ -69,9 +69,9 @@ Ce type d'arme vous permet de gagner 1,50 mètre d'allonge supplémentaire quand
 
 Cette arme nécessite un temps de chargement long qui ne vous permet de tirer qu'une seule fois quand vous utilisez une action, une action bonus ou une réaction, peu importe le nombre d'attaques que vous pouvez normalement faire.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Finesse<!--/Name-->
 
@@ -80,9 +80,9 @@ Cette arme nécessite un temps de chargement long qui ne vous permet de tirer qu
 
 Quand vous attaquez avec une arme dotée de la propriété finesse, vous pouvez choisir d'ajouter votre modificateur de Force ou de Dextérité aux jets d'attaques et de dégâts. Par contre, vous devez utiliser le même modificateur pour les deux jets.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Lancer<!--/Name-->
 
@@ -91,9 +91,9 @@ Quand vous attaquez avec une arme dotée de la propriété finesse, vous pouvez 
 
 Si une arme possède la propriété lancer, vous pouvez la lancer pour faire une attaque à distance. S'il s'agit d'une arme de corps-à-corps, vous utilisez le même modificateur de caractéristique que pour le jet d'attaque et de dégâts d'une attaque de corps-à-corps avec cette arme. Par exemple, si vous lancez une hachette, vous utilisez votre Force ; si vous lancez une dague, vous avez le choix entre utiliser votre Force ou votre Dextérité, dans la mesure où la dague possède aussi la propriété finesse.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Légère<!--/Name-->
 
@@ -102,9 +102,9 @@ Si une arme possède la propriété lancer, vous pouvez la lancer pour faire une
 
 Une arme légère est petite et facile à manier, ce qui la rend idéale pour le combat à deux armes.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Lourde<!--/Name-->
 
@@ -113,9 +113,9 @@ Une arme légère est petite et facile à manier, ce qui la rend idéale pour le
 
 Les créatures de petite taille subissent un désavantage sur les jets d'attaque quand elles manient des armes lourdes. La taille et le poids de celles-ci les leur rendent en effet difficiles à manier.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Munitions<!--/Name-->
 
@@ -126,9 +126,9 @@ Vous ne pouvez utiliser une arme qui a la propriété munitions pour faire une a
 
 Si vous utilisez une arme qui a la propriété munitions pour faire une attaque de corps-à-corps, cette arme est considérée comme une arme improvisée (voir la section Armes improvisées plus loin dans ce chapitre). Cela dit, une arme comme une fronde doit quand même être chargée pour faire des dégâts si vous l'utilisez comme arme improvisée.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Polyvalente<!--/Name-->
 
@@ -137,9 +137,9 @@ Si vous utilisez une arme qui a la propriété munitions pour faire une attaque 
 
 Une telle arme peut être utilisée avec une ou deux mains. À côté de la propriété, une valeur est indiquée entre parenthèses : il s'agit des dégâts infligés quand l'arme est tenue à deux mains.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Portée<!--/Name-->
 
@@ -148,9 +148,9 @@ Une telle arme peut être utilisée avec une ou deux mains. À côté de la prop
 
 Une arme qui peut être utilisée pour faire des attaques à distance affiche une portée indiquée entre parenthèses après la propriété munitions ou lancer. La portée consiste en deux nombres. Le premier indique la portée normale de l'arme en mètres et le second indique sa portée longue. Quand vous attaquez une cible qui se trouve hors de la portée normale de votre arme, vous subissez un désavantage sur le jet d'attaque. Vous ne pouvez pas attaquer une cible qui se trouve au-delà de la portée longue de votre arme.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ##### <!--Name-->Spéciale<!--/Name-->
 
@@ -159,9 +159,9 @@ Une arme qui peut être utilisée pour faire des attaques à distance affiche un
 
 Une arme qui possède la propriété spéciale utilise des règles de fonctionnement spécifiques qui sont expliquées dans la description de l'arme (voir la section Armes spéciales plus loin dans ce chapitre).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Armes improvisées<!--/Name-->
 
@@ -174,9 +174,9 @@ Une arme improvisée ressemble souvent à une arme réelle et elle peut être tr
 
 Un objet qui ne ressemble à aucune arme inflige 1d4 dégâts (le MJ décide d'un type de dégât approprié en fonction de l'objet). Si un personnage utilise une [arme à distance] pour faire une attaque de corps-à-corps ou lance une arme de corps-à-corps qui ne possède pas la propriété [lancer], cette arme inflige aussi 1d4 dégâts. Une arme de [lancer] improvisée a une portée normale de 6 mètres et une portée longue de 18 mètres.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 #### <!--Name-->Armes en argent<!--/Name-->
 
@@ -185,7 +185,7 @@ Un objet qui ne ressemble à aucune arme inflige 1d4 dégâts (le MJ décide d'u
 
 Certains monstres qui possèdent une immunité ou une résistance aux armes non-magiques sont vulnérables aux armes en argent. Les aventuriers prudents n'hésitent donc pas à dépenser quelques pièces supplémentaires pour plaquer leurs armes avec de l'argent. Un personnage peut plaquer une arme unique ou dix munitions avec de l'argent pour 100 po. Ce tarif prend en compte non seulement le prix de l'argent, mais aussi celui de l'expertise nécessaire pour plaquer l'argent sur une arme sans lui faire perdre en efficacité.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

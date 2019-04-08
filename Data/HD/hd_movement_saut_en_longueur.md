@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: movement_hd.md#saut-en-longueur
 ParentLink: movement_hd.md#déplacement
 Name: Saut en longueur

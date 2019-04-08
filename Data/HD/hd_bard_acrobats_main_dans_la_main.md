@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: bard_acrobats_hd.md#main-dans-la-main
 ParentLink: bard_acrobats_hd.md#collège-des-saltimbanques
 Name: Main dans la main

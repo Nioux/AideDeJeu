@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_guide_hd.md#haranguer-les-foules
 ParentLink: cleric_guide_hd.md#guide-spirituel
 Name: Haranguer les foules

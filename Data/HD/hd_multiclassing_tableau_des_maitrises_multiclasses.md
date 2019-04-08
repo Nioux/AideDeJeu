@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: multiclassing_hd.md#tableau-des-maîtrises-multiclasses
 ParentLink: multiclassing_hd.md#multiclassage
 Name: Tableau des maîtrises multiclasses

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_evocation_hd.md#Évocation-améliorée
 ParentLink: wizard_evocation_hd.md#École-dévocation
 Name: Évocation améliorée

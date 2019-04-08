@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_immortal_hd.md#relique
 ParentLink: warlock_immortal_hd.md#le-seigneur-immortel
 Name: Relique

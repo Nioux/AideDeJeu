@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: ranger_tracker_hd.md#terrain-de-prédilection
 ParentLink: ranger_tracker_hd.md#traqueur
 Name: Terrain de prédilection

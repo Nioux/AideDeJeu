@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: druid_seasons_hd.md#prédateur-de-lhiver
 ParentLink: druid_seasons_hd.md#cercle-des-saisons
 Name: Prédateur de l'hiver

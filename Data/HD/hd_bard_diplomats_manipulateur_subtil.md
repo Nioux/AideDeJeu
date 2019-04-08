@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: bard_diplomats_hd.md#manipulateur-subtil
 ParentLink: bard_diplomats_hd.md#collège-des-diplomates
 Name: Manipulateur subtil

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#esquiver
 ParentLink: combat_hd.md#combattre
 Name: Esquiver

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: equipment_properties_hd.md#focaliseur-druidique
 ParentLink: equipment_properties_hd.md#Équipement
 Name: Focaliseur druidique

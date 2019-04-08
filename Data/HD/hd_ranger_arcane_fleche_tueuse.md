@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: ranger_arcane_hd.md#flèche-tueuse
 ParentLink: ranger_arcane_hd.md#archer-arcanique
 Name: Flèche tueuse

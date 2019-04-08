@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_rogue_hd.md#attaque-sournoise-devient-tome-des-mystères
 ParentLink: l5r_rogue_hd.md#le-savant
 Name: Attaque sournoise devient Tome des mystères

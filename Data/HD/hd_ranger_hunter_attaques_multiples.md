@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: ranger_hunter_hd.md#attaques-multiples
 ParentLink: ranger_hunter_hd.md#chasseur
 Name: Attaques multiples

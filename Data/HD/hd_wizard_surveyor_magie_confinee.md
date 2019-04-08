@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_surveyor_hd.md#magie-confinée
 ParentLink: wizard_surveyor_hd.md#arpenteur
 Name: Magie confinée

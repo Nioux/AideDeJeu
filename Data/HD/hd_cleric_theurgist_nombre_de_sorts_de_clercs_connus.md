@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_theurgist_hd.md#nombre-de-sorts-de-clercs-connus
 ParentLink: cleric_theurgist_hd.md#théurge
 Name: Nombre de sorts de clercs connus

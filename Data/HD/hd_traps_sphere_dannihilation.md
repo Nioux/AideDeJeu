@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#sphère-dannihilation
 ParentLink: traps_hd.md#les-pièges
 Name: Sphère d'annihilation

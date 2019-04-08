@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: movement_hd.md#rythme-de-déplacement
 ParentLink: movement_hd.md#déplacement
 Name: Rythme de déplacement

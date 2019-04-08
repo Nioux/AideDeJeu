@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: wizard_evocation_hd.md#Évocateur-érudit
 ParentLink: wizard_evocation_hd.md#École-dévocation
 Name: Évocateur érudit

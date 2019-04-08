@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_ranger_hd.md#tableau-dévolution
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
 Name: Tableau d'évolution

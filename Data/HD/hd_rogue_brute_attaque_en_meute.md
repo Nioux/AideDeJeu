@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_brute_hd.md#attaque-en-meute
 ParentLink: rogue_brute_hd.md#brute
 Name: Attaque en meute

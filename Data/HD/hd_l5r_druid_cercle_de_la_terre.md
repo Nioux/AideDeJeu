@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: l5r_druid_hd.md#cercle-de-la-terre
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 Name: Cercle de la Terre

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_obedience_hd.md#héros-de-guerre
 ParentLink: paladin_obedience_hd.md#serment-dobédience
 Name: Héros de guerre

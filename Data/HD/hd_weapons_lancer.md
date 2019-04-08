@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: weapons_hd.md#lancer
 ParentLink: weapons_hd.md#armes
 Name: Lancer

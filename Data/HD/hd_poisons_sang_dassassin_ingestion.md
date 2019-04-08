@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#sang-dassassin-ingestion
 ParentLink: poisons_hd.md#les-poisons
 Name: Sang d'assassin (ingestion)

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: fighter_spellblade_hd.md#frappe-des-arcanes-majeure
 ParentLink: fighter_spellblade_hd.md#sorcelame
 Name: Frappe des arcanes majeure

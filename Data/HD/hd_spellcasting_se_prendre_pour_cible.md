@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#se-prendre-pour-cible
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Se prendre pour cible

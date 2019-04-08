@@ -19,7 +19,7 @@ If multiple effects impose the same condition on a creature, each instance of th
 The following definitions specify what happens to a creature while it is subjected to a condition.
 
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Blinded<!--/Name-->
 
@@ -31,9 +31,9 @@ The following definitions specify what happens to a creature while it is subject
 * Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Charmed<!--/Name-->
 
@@ -45,9 +45,9 @@ The following definitions specify what happens to a creature while it is subject
 * The charmer has advantage on any ability check to interact socially with the creature.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Deafened<!--/Name-->
 
@@ -57,9 +57,9 @@ The following definitions specify what happens to a creature while it is subject
 * A deafened creature can't hear and automatically fails any ability check that requires hearing.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Exhaustion<!--/Name-->
 
@@ -88,9 +88,9 @@ An effect that removes exhaustion reduces its level as specified in the effect's
 Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Frightened<!--/Name-->
 
@@ -102,9 +102,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 * The creature can't willingly move closer to the source of its fear.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Grappled<!--/Name-->
 
@@ -118,9 +118,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 * The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [thunder-wave](spells_vo.md#thunderwave) spell.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Incapacitated<!--/Name-->
 
@@ -130,9 +130,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 * An incapacitated creature can't take actions or reactions.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Invisible<!--/Name-->
 
@@ -144,9 +144,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 * Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Paralyzed<!--/Name-->
 
@@ -162,9 +162,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Petrified<!--/Name-->
 
@@ -184,9 +184,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 * The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Poisoned<!--/Name-->
 
@@ -196,9 +196,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 * A poisoned creature has disadvantage on attack rolls and ability checks.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Prone<!--/Name-->
 
@@ -212,9 +212,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 * An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Restrained<!--/Name-->
 
@@ -228,9 +228,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 * The creature has disadvantage on Dexterity saving throws.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Stunned<!--/Name-->
 
@@ -244,9 +244,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 * Attack rolls against the creature have advantage.
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Unconscious<!--/Name-->
 
@@ -263,7 +263,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/Items-->
 

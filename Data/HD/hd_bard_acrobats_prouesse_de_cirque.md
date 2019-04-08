@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: bard_acrobats_hd.md#prouesse-de-cirque
 ParentLink: bard_acrobats_hd.md#collège-des-saltimbanques
 Name: Prouesse de cirque

@@ -178,7 +178,7 @@ Si vous voulez lancer un de ces sorts à un niveau supérieur, vous êtes soumis
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Traditions arcaniques<!--/Name-->
 
@@ -198,9 +198,9 @@ Et même les magiciens qui forment des apprentis dans la solitude de leurs tours
 
 ## [École d'évocation]
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Votre grimoire<!--/Name-->
 
@@ -220,7 +220,7 @@ Si vous perdez votre grimoire, vous pouvez utiliser le même processus pour tran
 
 L'apparence de votre grimoire. Votre grimoire est une compilation unique de sorts avec ses propres enluminures et notes dans la marge. Il peut se présenter sous la forme d'un livre simple et fonctionnel avec une reliure de cuir donné par votre maître, ou comme un tome à la tranche dorée que vous avez trouvé dans une antique bibliothèque, ou encore simplement un ensemble épars de notes réunies à la va-vite après la perte de votre précédent grimoire suite à une mésaventure.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: backgrounds_hd.md#maîtrises
 ParentLink: backgrounds_hd.md#historique
 Name: Maîtrises

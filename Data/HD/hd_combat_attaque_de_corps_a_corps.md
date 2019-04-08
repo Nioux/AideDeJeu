@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#attaque-de-corps-à-corps
 ParentLink: combat_hd.md#combattre
 Name: Attaque de corps-à-corps

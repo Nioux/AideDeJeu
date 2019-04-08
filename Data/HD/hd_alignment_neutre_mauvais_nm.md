@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: alignment_hd.md#neutre-mauvais-nm
 ParentLink: alignment_hd.md#alignement
 Name: Neutre Mauvais (NM)

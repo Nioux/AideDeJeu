@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#fléchettes-empoisonnées
 ParentLink: traps_hd.md#les-pièges
 Name: Fléchettes empoisonnées

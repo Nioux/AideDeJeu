@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: barbarian_spirits_hd.md#né-dans-la-nature
 ParentLink: barbarian_spirits_hd.md#voie-des-esprits
 Name: Né dans la nature

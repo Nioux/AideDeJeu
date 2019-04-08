@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#cylindre
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Cylindre

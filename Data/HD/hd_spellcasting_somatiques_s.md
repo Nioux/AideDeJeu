@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: spellcasting_hd.md#somatiques-s
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Somatiques (S)

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_az_hd.md#les-objets-magiques
 RootId: magicitems_az_hd.md
 ParentLink: index.md

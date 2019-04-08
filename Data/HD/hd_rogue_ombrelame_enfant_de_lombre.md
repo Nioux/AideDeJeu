@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: rogue_ombrelame_hd.md#enfant-de-lombre
 ParentLink: rogue_ombrelame_hd.md#ombrelame
 Name: Enfant de l'ombre

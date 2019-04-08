@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_strength_hd.md#capacité-de-charge
 ParentLink: abilities_strength_hd.md#force
 Name: Capacité de charge

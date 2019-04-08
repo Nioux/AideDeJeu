@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#modificateurs-du-jet
 ParentLink: combat_hd.md#combattre
 Name: Modificateurs du jet

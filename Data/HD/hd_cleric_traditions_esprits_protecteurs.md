@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: cleric_traditions_hd.md#esprits-protecteurs
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
 Name: Esprits protecteurs

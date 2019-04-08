@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: druid_seasons_hd.md#tour-de-magie-bonus
 ParentLink: druid_seasons_hd.md#cercle-des-saisons
 Name: Tour de magie bonus

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#taille-des-créatures
 ParentLink: combat_hd.md#combattre
 Name: Taille des créatures

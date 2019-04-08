@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_intelligence_hd.md#histoire
 ParentLink: abilities_intelligence_hd.md#intelligence
 Name: Histoire

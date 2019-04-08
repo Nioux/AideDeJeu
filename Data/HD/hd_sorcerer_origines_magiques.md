@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: sorcerer_hd.md#origines-magiques
 ParentLink: sorcerer_hd.md#ensorceleur
 Name: Origines magiques

@@ -272,7 +272,7 @@ Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
 
 <!--/ClassFeatureItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Origines magiques<!--/Name-->
 
@@ -286,7 +286,7 @@ La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si d
 
 ## [Lignée infernale]
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

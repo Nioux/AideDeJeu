@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#détail-historique
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Détail historique

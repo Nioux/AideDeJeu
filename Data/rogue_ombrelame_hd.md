@@ -13,7 +13,7 @@ Si la plupart des roublards cultivent la discrétion et la manipulation, se fond
 
 Ceux-ci semblent avoir une connexion surnaturelle avec le monde des ombres et de l'obscurité, quelque chose d'inexplicable qui coule dans leur sang et leur donne accès à une magie étrange et inquiétante, parfois sombre et mortelle.
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Initié<!--/Name-->
 
@@ -34,9 +34,9 @@ Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la
 
 À chaque fois que vous gagnez un niveau pair de roublard (4, 6, etc.), vous apprenez un nouveau sort de cette liste (mais pas un tour de magie).
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Incantations<!--/Name-->
 
@@ -46,9 +46,9 @@ Modificateur d'attaque des sorts = bonus de maîtrise + modificateur de [Charism
 
 Vous pouvez utiliser votre propre ombre comme focaliseur d'incantation pour vos sorts d'ombrelame.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Enfant de l'ombre<!--/Name-->
 
@@ -58,9 +58,9 @@ Par exemple, une torche voit sa zone de lumière vive réduite à 3 mètres, mai
 
 De plus, vous obtenez un avantage aux tests de [Dextérité (Discrétion)] que vous effectuez dans une zone de lumière faible.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Énergie de l'ombre<!--/Name-->
 
@@ -68,17 +68,17 @@ Lorsque vous atteignez le niveau 9, vous pouvez récupérer un nombre de points 
 
 Vous devez passer l'intégralité de votre repos court dans un lieu éclairé au maximum par une lumière faible. Vous ne pouvez bénéficier de cette aptitude qu'une seule fois entre deux repos long.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Frappe maudite<!--/Name-->
 
 Également au niveau 9, lorsque vous réussissez une attaque sournoise, vous pouvez dépenser 1 point de sorcellerie pour transformer les dégâts infligés par votre attaque sournoise en dégâts nécrotiques (mais pas les dégâts de l'arme). Les dégâts infligés par l'arme sont considérés comme des dégâts magiques.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Ombre et magie<!--/Name-->
 
@@ -86,9 +86,9 @@ Vous devez passer l'intégralité de votre repos court dans un lieu éclairé au
 
 Vous n'avez pas besoin de connaître ce sort et, si vous l'aviez appris, vous pouvez apprendre un autre sort à sa place. Vous apprenez en outre un troisième tour de magie.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 ## <!--Name-->Maître de l'ombre<!--/Name-->
 
@@ -96,7 +96,7 @@ Au niveau 17, vous pouvez dépenser 5 points de sorcellerie pour lancer un des s
 
 Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une seconde fois entre deux repos longs.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/SubClassItem-->
 

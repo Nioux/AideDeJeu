@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: alignment_hd.md#chaotique-bon-cb
 ParentLink: alignment_hd.md#alignement
 Name: Chaotique Bon (CB)

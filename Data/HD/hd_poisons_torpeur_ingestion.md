@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: poisons_hd.md#torpeur-ingestion
 ParentLink: poisons_hd.md#les-poisons
 Name: Torpeur (ingestion)

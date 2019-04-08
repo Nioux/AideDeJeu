@@ -182,7 +182,7 @@ Au niveau 20, vous pouvez puiser dans vos réserves d'énergie mystique et deman
 
 <!--/LinkItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Protecteurs d'outre-monde<!--/Name-->
 
@@ -201,9 +201,9 @@ Des sorciers qui servent un même protecteur peuvent se voir comme des alliés, 
 ## [L'entité extra-dimensionnelle]
 
 
-<!--/Generic-->
+<!--/GenericItem-->
 
-<!--Generic-->
+<!--GenericItem-->
 
 # <!--Name-->Votre pacte<!--/Name-->
 
@@ -215,7 +215,7 @@ Pacte de la lame. Si votre protecteur est le seigneur immortel, votre arme corre
 
 Pacte du grimoire. Votre livre des ombres peut être un ouvrage très ancien, noir et or, hérité du seigneur immortel. Mais il s'agit peutêtre aussi d'un lourd grimoire relié avec du cuir de démon et garni de clous de fers contenant des sorts d'invocation et une grande quantité de connaissances interdites sur les régions les plus sinistres du cosmos, qui vous a été offert par le fiélon. Le grimoire de la puissance des profondeurs peut être un simple rouleau de papyrus d'un âge incroyable ou une tablette de pierre ornée de hyéroglyphes changeants. Enfin, celui de l'entité extra-dimensionnelle prend probablement la forme d'un cristal translucide ou d'un cube de métal sur lequel seul un initié peut faire apparaître les runes étranges qui véhiculent les secrets de votre magie.
 
-<!--/Generic-->
+<!--/GenericItem-->
 
 <!--/ClassItem-->
 

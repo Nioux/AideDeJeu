@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#jets-de-dégâts
 ParentLink: combat_hd.md#combattre
 Name: Jets de dégâts

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: magicitems_hd.md#objets-magiques-6
 ParentLink: magicitems_hd.md#objets-magiques
 Name: Objets magiques 6

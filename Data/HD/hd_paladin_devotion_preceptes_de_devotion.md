@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_devotion_hd.md#préceptes-de-dévotion
 ParentLink: paladin_devotion_hd.md#serment-de-dévotion
 Name: Préceptes de dévotion

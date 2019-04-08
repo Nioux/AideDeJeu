@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#attaque-dopportunité
 ParentLink: combat_hd.md#combattre
 Name: Attaque d'opportunité

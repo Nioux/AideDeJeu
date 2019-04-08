@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: diseases_hd.md#pourriture-oculaire
 ParentLink: diseases_hd.md#les-maladies
 Name: Pourriture oculaire

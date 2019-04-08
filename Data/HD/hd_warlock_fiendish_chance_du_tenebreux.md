@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: warlock_fiendish_hd.md#chance-du-ténébreux
 ParentLink: warlock_fiendish_hd.md#le-fiélon
 Name: Chance du ténébreux

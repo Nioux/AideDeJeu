@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: multiclassing_hd.md#emplacements-de-sorts
 ParentLink: multiclassing_hd.md#multiclassage
 Name: Emplacements de sorts

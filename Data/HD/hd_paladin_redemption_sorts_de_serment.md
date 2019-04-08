@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: paladin_redemption_hd.md#sorts-de-serment
 ParentLink: paladin_redemption_hd.md#serment-de-rédemption
 Name: Sorts de serment

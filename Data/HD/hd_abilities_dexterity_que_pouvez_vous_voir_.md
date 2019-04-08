@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: abilities_dexterity_hd.md#que-pouvez-vous-voir-?
 ParentLink: abilities_dexterity_hd.md#dextérité
 Name: Que pouvez-vous voir ?

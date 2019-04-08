@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#terrain-difficile
 ParentLink: combat_hd.md#combattre
 Name: Terrain difficile

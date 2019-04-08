@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: conditions_hd.md#terrorisé
 ParentLink: conditions_hd.md#États-spéciaux
 Name: Terrorisé

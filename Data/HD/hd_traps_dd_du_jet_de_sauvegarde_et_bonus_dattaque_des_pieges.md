@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#dd-du-jet-de-sauvegarde-et-bonus-dattaque-des-pièges
 ParentLink: traps_hd.md#les-pièges
 Name: DD du jet de sauvegarde et bonus d'attaque des pièges

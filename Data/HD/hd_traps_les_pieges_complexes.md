@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: traps_hd.md#les-pièges-complexes
 ParentLink: traps_hd.md#les-pièges
 Name: Les pièges complexes

@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: races_hd.md#taille
 ParentLink: races_hd.md#traits-raciaux
 Name: Taille

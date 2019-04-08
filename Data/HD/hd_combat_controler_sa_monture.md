@@ -1,5 +1,5 @@
 ﻿---
-!Generic
+!GenericItem
 Id: combat_hd.md#contrôler-sa-monture
 ParentLink: combat_hd.md#combattre
 Name: Contrôler sa monture
