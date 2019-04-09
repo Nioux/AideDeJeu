@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Visions de royaumes lointains
 Id: warlock_occultsummons_hd.md#visions-de-royaumes-lointains
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Visions de royaumes lointains
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes: {}

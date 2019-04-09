@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Résistance et vulnérabilité aux dégâts
-AltName: Damage Resistance and Vulnerability (SRD p97)
-Source: (MDR p294)
 Id: combat_hd.md#résistance-et-vulnérabilité-aux-dégâts
 ParentLink: combat_hd.md#combattre
+Name: Résistance et vulnérabilité aux dégâts
 ParentName: Combattre
 NameLevel: 3
+AltName: Damage Resistance and Vulnerability (SRD p97)
+Source: (MDR p294)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

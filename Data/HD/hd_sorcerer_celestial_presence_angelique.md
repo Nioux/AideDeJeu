@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Présence angélique
 Id: sorcerer_celestial_hd.md#présence-angélique
 ParentLink: sorcerer_celestial_hd.md#lignée-céleste
+Name: Présence angélique
 ParentName: Lignée céleste
 NameLevel: 2
 Attributes: {}

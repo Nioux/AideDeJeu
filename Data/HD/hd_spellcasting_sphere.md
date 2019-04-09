@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Sphère
-AltName: Sphere (SRD p103)
-Source: (MDR p309)
 Id: spellcasting_hd.md#sphère
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Sphère
 ParentName: Lancer des sorts
 NameLevel: 4
+AltName: Sphere (SRD p103)
+Source: (MDR p309)
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

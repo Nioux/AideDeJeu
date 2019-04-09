@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Maîtrise supplémentaire
 Id: cleric_life_hd.md#maîtrise-supplémentaire
 ParentLink: cleric_life_hd.md#domaine-de-la-vie
+Name: Maîtrise supplémentaire
 ParentName: Domaine de la Vie
 NameLevel: 2
 Attributes: {}

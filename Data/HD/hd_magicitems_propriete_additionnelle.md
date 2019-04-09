@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Propriété additionnelle
 Id: magicitems_hd.md#propriété-additionnelle
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Propriété additionnelle
 ParentName: Objets magiques
 NameLevel: 4
 Attributes: {}

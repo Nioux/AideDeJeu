@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Aveuglé
-AltName: '[Blinded](srd_conditions_blinded.md)'
 Id: conditions_hd.md#aveuglé
 ParentLink: conditions_hd.md#États-spéciaux
+Name: Aveuglé
 ParentName: États spéciaux
 NameLevel: 1
+AltName: '[Blinded](srd_conditions_blinded.md)'
 Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)

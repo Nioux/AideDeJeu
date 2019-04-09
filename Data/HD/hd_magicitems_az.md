@@ -1,13 +1,13 @@
 ﻿---
 !GenericItem
-Name: Les objets magiques
-AltName: Magic Items A-Z (SRD p207)
-Source: (COC p138)
 Id: magicitems_az_hd.md#les-objets-magiques
 RootId: magicitems_az_hd.md
 ParentLink: index.md
+Name: Les objets magiques
 ParentName: Cadre de campagne
 NameLevel: 2
+AltName: Magic Items A-Z (SRD p207)
+Source: (COC p138)
 Attributes: {}
 ---
 >  [Cadre de campagne](index.md)

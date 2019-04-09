@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Objets maudits
 Id: magicitems_hd.md#objets-maudits
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Objets maudits
 ParentName: Objets magiques
 NameLevel: 3
 Attributes: {}

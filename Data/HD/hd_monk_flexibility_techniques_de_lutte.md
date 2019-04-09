@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Techniques de lutte
 Id: monk_flexibility_hd.md#techniques-de-lutte
 ParentLink: monk_flexibility_hd.md#voie-de-la-souplesse
+Name: Techniques de lutte
 ParentName: Voie de la souplesse
 NameLevel: 2
 Attributes: {}

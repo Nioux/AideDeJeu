@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Maître des vents
-Source: (L5R p61)
 Id: l5r_druid_hd.md#maître-des-vents
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
+Name: Maître des vents
 ParentName: Druide des cinq royaumes
 NameLevel: 5
+Source: (L5R p61)
 Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)

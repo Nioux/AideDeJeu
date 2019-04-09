@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Classe d'armure
 Id: abilities_dexterity_hd.md#classe-darmure
 ParentLink: abilities_dexterity_hd.md#dextérité
+Name: Classe d'armure
 ParentName: Dextérité
 NameLevel: 2
 Attributes: {}

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Prone
-AltName: '[À terre](hd_conditions_a_terre.md)'
-Source: (SRD p359)
 Id: conditions_vo.md#prone
 ParentLink: conditions_vo.md#conditions
+Name: Prone
 ParentName: Conditions
 NameLevel: 1
+AltName: '[À terre](hd_conditions_a_terre.md)'
+Source: (SRD p359)
 Attributes: {}
 ---
 > [Conditions](srd_conditions.md)

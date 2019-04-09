@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Le panthéon égyptien
-AltName: 'Pantheons '
-Source: (MDR p413)(SRD p360)
 Id: pantheons_hd.md#le-panthéon-égyptien
 ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
+Name: Le panthéon égyptien
 ParentName: Panthéons historiques et fantastiques
 NameLevel: 3
+AltName: 'Pantheons '
+Source: (MDR p413)(SRD p360)
 Attributes: {}
 ---
 > [Panthéons historiques et fantastiques](hd_pantheons.md)

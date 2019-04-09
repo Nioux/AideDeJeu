@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Le panthéon d’Osgild
-Source: (MDR p413)
 Id: pantheons_hd.md#le-panthéon-d’osgild
 ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
+Name: Le panthéon d’Osgild
 ParentName: Panthéons historiques et fantastiques
 NameLevel: 3
+Source: (MDR p413)
 Attributes: {}
 ---
 > [Panthéons historiques et fantastiques](hd_pantheons.md)

@@ -1,14 +1,14 @@
 ﻿---
 !SubClassItem
-Name: École d'évocation
-Source: (MDR p419)
-AltName: School of Evocation (SRD p54)
 ParentClassId: hd_wizard.md
 Id: wizard_evocation_hd.md#École-dévocation
 RootId: wizard_evocation_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques
+Name: École d'évocation
 ParentName: Traditions arcaniques
 NameLevel: 1
+AltName: School of Evocation (SRD p54)
+Source: (MDR p419)
 Attributes: {}
 ---
 >  [Traditions arcaniques](hd_wizard_traditions_arcaniques.md)

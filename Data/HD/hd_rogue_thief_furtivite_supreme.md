@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Furtivité suprême
 Id: rogue_thief_hd.md#furtivité-suprême
 ParentLink: rogue_thief_hd.md#voleur
+Name: Furtivité suprême
 ParentName: Voleur
 NameLevel: 2
 Attributes: {}

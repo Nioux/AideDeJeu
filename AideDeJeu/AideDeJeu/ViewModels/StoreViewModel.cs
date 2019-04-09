@@ -43,7 +43,10 @@ namespace AideDeJeu.ViewModels
                     }
                     enumerator.MoveNext();
                 }
-
+            }
+            catch(Exception ex)
+            {
+                Debug.WriteLine(ex);
             }
             finally
             {
@@ -55,9 +58,8 @@ namespace AideDeJeu.ViewModels
         public Item ParseItem(string source, ref ContainerBlock.Enumerator enumerator, Dictionary<string, Item> allItems)
         {
             var currentItem = GetNewItem(enumerator.Current);
+            var currentProps = new Dictionary<string, PropertyInfo>();
             currentItem.Markdown = string.Empty;
-            PropertyInfo currentProp = null;
-            Dictionary<string, PropertyInfo> currentProps = new Dictionary<string, PropertyInfo>();
             currentProps["Markdown"] = currentItem.GetType().GetProperty("Markdown", BindingFlags.Public | BindingFlags.Instance);
 
             if (currentItem != null)
@@ -121,8 +123,7 @@ namespace AideDeJeu.ViewModels
                                         }
                                         else
                                         {
-                                            var items = currentItem; // as Items;
-                                            items.AddChild(subItem);
+                                            currentItem.AddChild(subItem);
                                         }
                                     }
                                     enumerator.MoveNext();
@@ -135,15 +136,13 @@ namespace AideDeJeu.ViewModels
                                     PropertyInfo prop = currentItem.GetType().GetProperty(parsedComment.Name, BindingFlags.Public | BindingFlags.Instance);
                                     if (null != prop && prop.CanWrite)
                                     {
-                                        prop.SetValue(currentItem, "", null);
-                                        currentProp = prop;
+                                        prop.SetValue(currentItem, string.Empty, null);
                                         currentProps[parsedComment.Name] = prop;
                                     }
                                     enumerator.MoveNext();
                                 }
                                 else
                                 {
-                                    currentProp = null;
                                     currentProps.Remove(parsedComment.Name);
                                     enumerator.MoveNext();
                                 }
@@ -151,23 +150,12 @@ namespace AideDeJeu.ViewModels
                             else // comment html différent de item et property
                             {
                                 AddBlockContent(currentItem, currentProps, enumerator.Current);
-                                //currentItem.Markdown += md;
-                                //if (currentProp != null)
-                                //{
-                                //    currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
-                                //}
                                 enumerator.MoveNext();
                             }
                         }
                         else // autre chose qu'un comment html
                         {
                             AddBlockContent(currentItem, currentProps, enumerator.Current);
-                            //var md = enumerator.Current.ToMarkdownString();
-                            //currentItem.Markdown += md;
-                            //if (currentProp != null)
-                            //{
-                            //    currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
-                            //}
                             enumerator.MoveNext();
                         }
                     }
@@ -175,12 +163,6 @@ namespace AideDeJeu.ViewModels
                     {
                         ParseItemProperties(source, currentItem, block);
                         AddBlockContent(currentItem, currentProps, enumerator.Current);
-                        //var md = enumerator.Current.ToMarkdownString();
-                        //currentItem.Markdown += md;
-                        //if (currentProp != null)
-                        //{
-                        //    currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
-                        //}
                         enumerator.MoveNext();
                     }
                 }
@@ -205,52 +187,38 @@ namespace AideDeJeu.ViewModels
         }
 
 
-        public bool ParseItemProperties(string source, Item item, Block block)
+        public void ParseItemProperties(string source, Item item, Block block)
         {
             switch (block)
             {
                 case Markdig.Extensions.Tables.Table table:
-                    return ParseItemProperties(source, item, table);
+                    ParseItemProperties(source, item, table);
+                    break;
                 case ContainerBlock blocks:
-                    return ParseItemProperties(source, item, blocks);
+                    ParseItemProperties(source, item, blocks);
+                    break;
                 case HeadingBlock heading:
-                    bool isnamee = ParseItemProperties(source, item, heading.Inline, heading);
-                    if (isnamee)
-                    {
-                        //item.NameLevel = heading.Level;
-                    }
-                    return isnamee;
+                    ParseItemProperties(source, item, heading.Inline, heading);
+                    break;
                 case LeafBlock leaf:
-                    bool isname = ParseItemProperties(source, item, leaf.Inline);
-                    if(isname)
-                    {
-                        if(leaf is HeadingBlock)
-                        {
-                            var headingBlock = leaf as HeadingBlock;
-                            //item.NameLevel = headingBlock.Level;
-                        }
-                    }
-                    return isname;
+                    ParseItemProperties(source, item, leaf.Inline);
+                    break;
             }
-            return false;
         }
 
-        public bool ParseItemProperties(string source, Item item, ContainerBlock blocks)
+        public void ParseItemProperties(string source, Item item, ContainerBlock blocks)
         {
-            bool isname = false;
             foreach (var block in blocks)
             {
-                isname |= ParseItemProperties(source, item, block);
+                ParseItemProperties(source, item, block);
             }
-            return isname;
         }
 
-        public bool ParseItemProperties(string source, Item item, ContainerInline inlines, HeadingBlock headingBlock = null)
+        public void ParseItemProperties(string source, Item item, ContainerInline inlines, HeadingBlock headingBlock = null)
         {
-            bool isname = false;
             if (inlines == null)
             {
-                return isname;
+                return;
             }
             PropertyInfo prop = null;
             string propertyName = null;
@@ -273,7 +241,6 @@ namespace AideDeJeu.ViewModels
                         propertyName = tag.Substring(4, tag.Length - 7);
                         if(propertyName == "Name")
                         {
-                            isname = true;
                             if (headingBlock != null)
                             {
                                 item.NameLevel = headingBlock.Level;
@@ -301,7 +268,6 @@ namespace AideDeJeu.ViewModels
                     }
                 }
             }
-            return isname;
         }
 
 

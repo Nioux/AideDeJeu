@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Maître des ombres
 Id: warlock_occultsummons_hd.md#maître-des-ombres
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Maître des ombres
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes: {}

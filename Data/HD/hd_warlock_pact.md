@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
-Name: Pacte
-Source: (MDR p211)
-AltName: Pact Boon (SRD p47)
 Id: warlock_pact_hd.md#pacte
 RootId: warlock_pact_hd.md
 ParentLink: warlock_hd.md
+Name: Pacte
 ParentName: Sorcier
 NameLevel: 1
+AltName: Pact Boon (SRD p47)
+Source: (MDR p211)
 Attributes: {}
 ---
 >  [Sorcier](hd_warlock.md)

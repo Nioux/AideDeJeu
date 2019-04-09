@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Paralyzed
-AltName: '[Paralysé](hd_conditions_paralyse.md)'
-Source: (SRD p358)
 Id: conditions_vo.md#paralyzed
 ParentLink: conditions_vo.md#conditions
+Name: Paralyzed
 ParentName: Conditions
 NameLevel: 1
+AltName: '[Paralysé](hd_conditions_paralyse.md)'
+Source: (SRD p358)
 Attributes: {}
 ---
 > [Conditions](srd_conditions.md)

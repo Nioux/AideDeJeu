@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Tests de Charisme
 Id: abilities_charisma_hd.md#tests-de-charisme
 ParentLink: abilities_charisma_hd.md#charisme
+Name: Tests de Charisme
 ParentName: Charisme
 NameLevel: 2
 Attributes: {}

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Se faufiler dans un espace réduit
-AltName: Squeezing into a Smaller Space (SRD p92)
-Source: (MDR p288)
 Id: combat_hd.md#se-faufiler-dans-un-espace-réduit
 ParentLink: combat_hd.md#combattre
+Name: Se faufiler dans un espace réduit
 ParentName: Combattre
 NameLevel: 4
+AltName: Squeezing into a Smaller Space (SRD p92)
+Source: (MDR p288)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

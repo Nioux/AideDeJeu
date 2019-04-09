@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Blessures sérieuses
-Source: (L5R p45)
 Id: l5r_hitpoints_hd.md#blessures-sérieuses
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
+Name: Blessures sérieuses
 ParentName: Points de vie et blessures
 NameLevel: 4
+Source: (L5R p45)
 Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)

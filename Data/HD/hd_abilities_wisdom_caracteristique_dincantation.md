@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Caractéristique d'incantation
 Id: abilities_wisdom_hd.md#caractéristique-dincantation
 ParentLink: abilities_wisdom_hd.md#sagesse
+Name: Caractéristique d'incantation
 ParentName: Sagesse
 NameLevel: 2
 Attributes: {}

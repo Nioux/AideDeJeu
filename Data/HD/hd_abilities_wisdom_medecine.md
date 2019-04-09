@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Médecine
 Id: abilities_wisdom_hd.md#médecine
 ParentLink: abilities_wisdom_hd.md#sagesse
+Name: Médecine
 ParentName: Sagesse
 NameLevel: 3
 Attributes: {}

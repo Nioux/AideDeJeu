@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Le commerce des objets magiques
 Id: magicitems_hd.md#le-commerce-des-objets-magiques
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Le commerce des objets magiques
 ParentName: Objets magiques
 NameLevel: 3
 Attributes: {}

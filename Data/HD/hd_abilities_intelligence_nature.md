@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Nature
 Id: abilities_intelligence_hd.md#nature
 ParentLink: abilities_intelligence_hd.md#intelligence
+Name: Nature
 ParentName: Intelligence
 NameLevel: 3
 Attributes: {}

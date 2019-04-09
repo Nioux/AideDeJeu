@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sorts de domaine
 Id: cleric_theurgist_hd.md#sorts-de-domaine
 ParentLink: cleric_theurgist_hd.md#théurge
+Name: Sorts de domaine
 ParentName: Théurge
 NameLevel: 2
 Attributes: {}

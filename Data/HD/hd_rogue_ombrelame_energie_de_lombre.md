@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Énergie de l'ombre
 Id: rogue_ombrelame_hd.md#Énergie-de-lombre
 ParentLink: rogue_ombrelame_hd.md#ombrelame
+Name: Énergie de l'ombre
 ParentName: Ombrelame
 NameLevel: 2
 Attributes: {}

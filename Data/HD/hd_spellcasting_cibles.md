@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Cibles
-AltName: Targets (SRD p102)
-Source: (MDR p308)
 Id: spellcasting_hd.md#cibles
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Cibles
 ParentName: Lancer des sorts
 NameLevel: 3
+AltName: Targets (SRD p102)
+Source: (MDR p308)
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

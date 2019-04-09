@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Attaque en meute
 Id: rogue_brute_hd.md#attaque-en-meute
 ParentLink: rogue_brute_hd.md#brute
+Name: Attaque en meute
 ParentName: Brute
 NameLevel: 2
 Attributes: {}

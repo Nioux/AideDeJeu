@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Griffe du tigre
 Id: monk_fiveanimals_hd.md#griffe-du-tigre
 ParentLink: monk_fiveanimals_hd.md#voie-des-cinq-animaux
+Name: Griffe du tigre
 ParentName: Voie des cinq animaux
 NameLevel: 2
 Attributes: {}

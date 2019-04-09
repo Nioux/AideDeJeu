@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Se déplacer entre des attaques
-AltName: Moving between Attacks (SRD p91)
-Source: (MDR p286)
 Id: combat_hd.md#se-déplacer-entre-des-attaques
 ParentLink: combat_hd.md#combattre
+Name: Se déplacer entre des attaques
 ParentName: Combattre
 NameLevel: 4
+AltName: Moving between Attacks (SRD p91)
+Source: (MDR p286)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Initié
 Id: rogue_ombrelame_hd.md#initié
 ParentLink: rogue_ombrelame_hd.md#ombrelame
+Name: Initié
 ParentName: Ombrelame
 NameLevel: 2
 Attributes: {}

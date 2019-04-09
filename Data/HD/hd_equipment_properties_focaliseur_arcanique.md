@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Focaliseur arcanique
-AltName: Arcane Focus (SRD p66)
-Source: (MDR p230)
 Id: equipment_properties_hd.md#focaliseur-arcanique
 ParentLink: equipment_properties_hd.md#Équipement
+Name: Focaliseur arcanique
 ParentName: Équipement
 NameLevel: 2
+AltName: Arcane Focus (SRD p66)
+Source: (MDR p230)
 Attributes: {}
 ---
 > [Équipement](hd_equipment_properties.md)

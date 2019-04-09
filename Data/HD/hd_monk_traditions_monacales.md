@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Traditions monacales
 Id: monk_hd.md#traditions-monacales
 ParentLink: monk_hd.md#moine
+Name: Traditions monacales
 ParentName: Moine
 NameLevel: 1
 Attributes: {}

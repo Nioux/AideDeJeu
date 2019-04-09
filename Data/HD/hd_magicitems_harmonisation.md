@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Harmonisation
-AltName: Attunement (SRD p206)
-Source: (CDC p130)
 Id: magicitems_hd.md#harmonisation
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Harmonisation
 ParentName: Objets magiques
 NameLevel: 3
+AltName: Attunement (SRD p206)
+Source: (CDC p130)
 Attributes: {}
 ---
 > [Objets magiques](hd_magicitems.md)

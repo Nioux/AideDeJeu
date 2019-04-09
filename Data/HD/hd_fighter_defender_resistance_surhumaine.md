@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Résistance surhumaine
 Id: fighter_defender_hd.md#résistance-surhumaine
 ParentLink: fighter_defender_hd.md#défenseur
+Name: Résistance surhumaine
 ParentName: Défenseur
 NameLevel: 2
 Attributes: {}

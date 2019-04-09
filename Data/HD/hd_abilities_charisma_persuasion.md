@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Persuasion
 Id: abilities_charisma_hd.md#persuasion
 ParentLink: abilities_charisma_hd.md#charisme
+Name: Persuasion
 ParentName: Charisme
 NameLevel: 3
 Attributes: {}

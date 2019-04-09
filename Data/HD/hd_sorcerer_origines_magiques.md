@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Origines magiques
 Id: sorcerer_hd.md#origines-magiques
 ParentLink: sorcerer_hd.md#ensorceleur
+Name: Origines magiques
 ParentName: Ensorceleur
 NameLevel: 1
 Attributes: {}

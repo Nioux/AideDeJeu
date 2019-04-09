@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Cercle de la Terre
-Source: (L5R p64)
 Id: l5r_druid_hd.md#cercle-de-la-terre
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
+Name: Cercle de la Terre
 ParentName: Druide des cinq royaumes
 NameLevel: 4
+Source: (L5R p64)
 Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)

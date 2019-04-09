@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sbires du chaos
 Id: warlock_occultsummons_hd.md#sbires-du-chaos
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Sbires du chaos
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes: {}

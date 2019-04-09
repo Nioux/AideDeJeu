@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Énergie positive
 Id: sorcerer_celestial_hd.md#Énergie-positive
 ParentLink: sorcerer_celestial_hd.md#lignée-céleste
+Name: Énergie positive
 ParentName: Lignée céleste
 NameLevel: 2
 Attributes: {}

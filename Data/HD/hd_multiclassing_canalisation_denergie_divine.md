@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Canalisation d'énergie divine
 Id: multiclassing_hd.md#canalisation-dénergie-divine
 ParentLink: multiclassing_hd.md#multiclassage
+Name: Canalisation d'énergie divine
 ParentName: Multiclassage
 NameLevel: 3
 Attributes: {}

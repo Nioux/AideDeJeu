@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Pacte avec la Mort
 Id: warlock_immortal_hd.md#pacte-avec-la-mort
 ParentLink: warlock_immortal_hd.md#le-seigneur-immortel
+Name: Pacte avec la Mort
 ParentName: Le seigneur immortel
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Pouvoir des profondeurs
 Id: druid_depths_hd.md#pouvoir-des-profondeurs
 ParentLink: druid_depths_hd.md#cercle-des-profondeurs
+Name: Pouvoir des profondeurs
 ParentName: Cercle des profondeurs
 NameLevel: 2
 Attributes: {}

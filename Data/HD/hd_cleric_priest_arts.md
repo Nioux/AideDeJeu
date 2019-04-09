@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Arts
 Id: cleric_priest_hd.md#arts
 ParentLink: cleric_priest_hd.md#liste-des-domaines
+Name: Arts
 ParentName: Liste des domaines
 NameLevel: 4
 Attributes: {}

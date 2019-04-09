@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Classe d'armure des objets
 Id: objects_hd.md#classe-darmure-des-objets
 ParentLink: objects_hd.md#les-objets
+Name: Classe d'armure des objets
 ParentName: Les objets
 NameLevel: 4
 Attributes: {}

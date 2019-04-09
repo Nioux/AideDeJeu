@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Loyal Bon (LB)
 Id: alignment_hd.md#loyal-bon-lb
 ParentLink: alignment_hd.md#alignement
+Name: Loyal Bon (LB)
 ParentName: Alignement
 NameLevel: 4
 Attributes: {}

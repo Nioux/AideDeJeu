@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Spéciale
-AltName: Special (SRD p65)
-Source: (MDR p228)
 Id: weapons_hd.md#spéciale
 ParentLink: weapons_hd.md#armes
+Name: Spéciale
 ParentName: Armes
 NameLevel: 5
+AltName: Special (SRD p65)
+Source: (MDR p228)
 Attributes: {}
 ---
 > [Armes](hd_weapons.md)

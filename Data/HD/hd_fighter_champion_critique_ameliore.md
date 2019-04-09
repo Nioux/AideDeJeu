@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Critique amélioré
 Id: fighter_champion_hd.md#critique-amélioré
 ParentLink: fighter_champion_hd.md#champion
+Name: Critique amélioré
 ParentName: Champion
 NameLevel: 2
 Attributes: {}

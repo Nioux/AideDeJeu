@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Discrétion
 Id: abilities_dexterity_hd.md#discrétion
 ParentLink: abilities_dexterity_hd.md#dextérité
+Name: Discrétion
 ParentName: Dextérité
 NameLevel: 3
 Attributes: {}

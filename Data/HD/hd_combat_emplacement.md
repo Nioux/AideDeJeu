@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Emplacement
-AltName: Space (SRD p92)
-Source: (MDR p287)
 Id: combat_hd.md#emplacement
 ParentLink: combat_hd.md#combattre
+Name: Emplacement
 ParentName: Combattre
 NameLevel: 4
+AltName: Space (SRD p92)
+Source: (MDR p287)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

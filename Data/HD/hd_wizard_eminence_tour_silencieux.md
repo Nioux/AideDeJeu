@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Tour silencieux
 Id: wizard_eminence_hd.md#tour-silencieux
 ParentLink: wizard_eminence_hd.md#Éminence-grise
+Name: Tour silencieux
 ParentName: Éminence grise
 NameLevel: 2
 Attributes: {}

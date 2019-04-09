@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Affinité élémentaire
 Id: sorcerer_draconic_hd.md#affinité-élémentaire
 ParentLink: sorcerer_draconic_hd.md#lignée-draconique
+Name: Affinité élémentaire
 ParentName: Lignée draconique
 NameLevel: 2
 Attributes: {}

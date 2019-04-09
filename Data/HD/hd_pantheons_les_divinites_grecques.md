@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Les divinités grecques
-AltName: Greek Deities
-Source: (MDR p414)(SRD p361)
 Id: pantheons_hd.md#les-divinités-grecques
 ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
+Name: Les divinités grecques
 ParentName: Panthéons historiques et fantastiques
 NameLevel: 4
+AltName: Greek Deities
+Source: (MDR p414)(SRD p361)
 Attributes: {}
 ---
 > [Panthéons historiques et fantastiques](hd_pantheons.md)

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Serments sacrés
 Id: paladin_hd.md#serments-sacrés
 ParentLink: paladin_hd.md#paladin
+Name: Serments sacrés
 ParentName: Paladin
 NameLevel: 1
 Attributes: {}

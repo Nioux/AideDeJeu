@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Relique
 Id: warlock_immortal_hd.md#relique
 ParentLink: warlock_immortal_hd.md#le-seigneur-immortel
+Name: Relique
 ParentName: Le seigneur immortel
 NameLevel: 2
 Attributes: {}

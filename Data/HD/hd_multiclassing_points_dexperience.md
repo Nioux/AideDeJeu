@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Points d'expérience
 Id: multiclassing_hd.md#points-dexpérience
 ParentLink: multiclassing_hd.md#multiclassage
+Name: Points d'expérience
 ParentName: Multiclassage
 NameLevel: 2
 Attributes: {}

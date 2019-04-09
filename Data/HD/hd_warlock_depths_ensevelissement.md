@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Ensevelissement
 Id: warlock_depths_hd.md#ensevelissement
 ParentLink: warlock_depths_hd.md#la-puissance-des-profondeurs
+Name: Ensevelissement
 ParentName: La puissance des profondeurs
 NameLevel: 2
 Attributes: {}

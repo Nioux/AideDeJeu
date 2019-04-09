@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Suggestions de personnalités
-AltName: Suggested Characteristics (SRD p60)
-Source: (MDR p77)
 Id: backgrounds_hd.md#suggestions-de-personnalités
 ParentLink: backgrounds_hd.md#historique
+Name: Suggestions de personnalités
 ParentName: Historique
 NameLevel: 3
+AltName: Suggested Characteristics (SRD p60)
+Source: (MDR p77)
 Attributes: {}
 ---
 > [Historique](hd_backgrounds.md)

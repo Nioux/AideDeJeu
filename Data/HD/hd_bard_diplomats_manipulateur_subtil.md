@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Manipulateur subtil
 Id: bard_diplomats_hd.md#manipulateur-subtil
 ParentLink: bard_diplomats_hd.md#collège-des-diplomates
+Name: Manipulateur subtil
 ParentName: Collège des diplomates
 NameLevel: 2
 Attributes: {}

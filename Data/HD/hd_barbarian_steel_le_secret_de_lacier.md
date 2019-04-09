@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Le secret de l'acier
 Id: barbarian_steel_hd.md#le-secret-de-lacier
 ParentLink: barbarian_steel_hd.md#voie-de-lacier
+Name: Le secret de l'acier
 ParentName: Voie de l'acier
 NameLevel: 2
 Attributes: {}

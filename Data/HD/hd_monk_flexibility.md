@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
-Name: Voie de la souplesse
-Source: (MDR p181)
 ParentClassId: hd_monk.md
 Id: monk_flexibility_hd.md#voie-de-la-souplesse
 RootId: monk_flexibility_hd.md
 ParentLink: monk_hd.md#traditions-monacales
+Name: Voie de la souplesse
 ParentName: Traditions monacales
 NameLevel: 1
+Source: (MDR p181)
 Attributes: {}
 ---
 >  [Traditions monacales](hd_monk_traditions_monacales.md)

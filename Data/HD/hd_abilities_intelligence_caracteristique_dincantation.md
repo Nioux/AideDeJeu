@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Caractéristique d'incantation
 Id: abilities_intelligence_hd.md#caractéristique-dincantation
 ParentLink: abilities_intelligence_hd.md#intelligence
+Name: Caractéristique d'incantation
 ParentName: Intelligence
 NameLevel: 2
 Attributes: {}

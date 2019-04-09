@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Actions en combat
-AltName: Actions in Combat (SRD p93)
-Source: (MDR p288)
 Id: combat_hd.md#actions-en-combat
 ParentLink: combat_hd.md#combattre
+Name: Actions en combat
 ParentName: Combattre
 NameLevel: 2
+AltName: Actions in Combat (SRD p93)
+Source: (MDR p288)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

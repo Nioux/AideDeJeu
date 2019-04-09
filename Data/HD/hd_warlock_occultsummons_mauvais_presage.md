@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Mauvais présage
 Id: warlock_occultsummons_hd.md#mauvais-présage
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Mauvais présage
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes: {}

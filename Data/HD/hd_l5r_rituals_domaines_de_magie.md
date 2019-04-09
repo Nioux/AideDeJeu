@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Domaines de magie
-Source: (L5R p70)
 Id: l5r_rituals_hd.md#domaines-de-magie
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: Domaines de magie
 ParentName: Lancer un rituel
 NameLevel: 3
+Source: (L5R p70)
 Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

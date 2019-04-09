@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Mot de commande
 Id: magicitems_hd.md#mot-de-commande
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Mot de commande
 ParentName: Objets magiques
 NameLevel: 4
 Attributes: {}

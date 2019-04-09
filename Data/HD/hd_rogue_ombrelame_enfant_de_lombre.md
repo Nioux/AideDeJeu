@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Enfant de l'ombre
 Id: rogue_ombrelame_hd.md#enfant-de-lombre
 ParentLink: rogue_ombrelame_hd.md#ombrelame
+Name: Enfant de l'ombre
 ParentName: Ombrelame
 NameLevel: 2
 Attributes: {}

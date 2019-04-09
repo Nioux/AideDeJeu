@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Cylindre
-AltName: Cylinder (SRD p103)
-Source: (MDR p309)
 Id: spellcasting_hd.md#cylindre
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Cylindre
 ParentName: Lancer des sorts
 NameLevel: 4
+AltName: Cylinder (SRD p103)
+Source: (MDR p309)
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

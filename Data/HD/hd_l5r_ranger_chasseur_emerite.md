@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Chasseur émérite
-Source: (L5R p53)
 Id: l5r_ranger_hd.md#chasseur-émérite
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
+Name: Chasseur émérite
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 5
+Source: (L5R p53)
 Attributes: {}
 ---
 > [Rôdeur des cinq Royaumes](hd_l5r_ranger.md)

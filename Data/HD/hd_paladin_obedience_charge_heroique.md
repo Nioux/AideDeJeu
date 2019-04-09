@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Charge héroïque
 Id: paladin_obedience_hd.md#charge-héroïque
 ParentLink: paladin_obedience_hd.md#serment-dobédience
+Name: Charge héroïque
 ParentName: Serment d'obédience
 NameLevel: 2
 Attributes: {}

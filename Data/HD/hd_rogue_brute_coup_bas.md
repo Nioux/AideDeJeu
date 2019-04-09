@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Coup bas
 Id: rogue_brute_hd.md#coup-bas
 ParentLink: rogue_brute_hd.md#brute
+Name: Coup bas
 ParentName: Brute
 NameLevel: 2
 Attributes: {}

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Lancer
-AltName: Thrown (SRD p65)
-Source: (MDR p227)
 Id: weapons_hd.md#lancer
 ParentLink: weapons_hd.md#armes
+Name: Lancer
 ParentName: Armes
 NameLevel: 5
+AltName: Thrown (SRD p65)
+Source: (MDR p227)
 Attributes: {}
 ---
 > [Armes](hd_weapons.md)

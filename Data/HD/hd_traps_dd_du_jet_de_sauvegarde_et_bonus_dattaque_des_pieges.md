@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: DD du jet de sauvegarde et bonus d'attaque des pièges
 Id: traps_hd.md#dd-du-jet-de-sauvegarde-et-bonus-dattaque-des-pièges
 ParentLink: traps_hd.md#les-pièges
+Name: DD du jet de sauvegarde et bonus d'attaque des pièges
 ParentName: Les pièges
 NameLevel: 4
 Attributes: {}

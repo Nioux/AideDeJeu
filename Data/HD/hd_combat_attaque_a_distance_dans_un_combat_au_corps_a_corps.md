@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Attaque à distance dans un combat au corps-à-corps
-AltName: Ranged Attacks in Close Combat (SRD p95)
-Source: (MDR p291)
 Id: combat_hd.md#attaque-à-distance-dans-un-combat-au-corps-à-corps
 ParentLink: combat_hd.md#combattre
+Name: Attaque à distance dans un combat au corps-à-corps
 ParentName: Combattre
 NameLevel: 4
+AltName: Ranged Attacks in Close Combat (SRD p95)
+Source: (MDR p291)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

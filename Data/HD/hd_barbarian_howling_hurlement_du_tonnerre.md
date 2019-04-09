@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Hurlement du tonnerre
 Id: barbarian_howling_hd.md#hurlement-du-tonnerre
 ParentLink: barbarian_howling_hd.md#voie-du-hurlement
+Name: Hurlement du tonnerre
 ParentName: Voie du hurlement
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Jets d'attaque et de dégâts
 Id: abilities_dexterity_hd.md#jets-dattaque-et-de-dégâts
 ParentLink: abilities_dexterity_hd.md#dextérité
+Name: Jets d'attaque et de dégâts
 ParentName: Dextérité
 NameLevel: 2
 Attributes: {}

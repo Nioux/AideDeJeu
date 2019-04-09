@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Combiner les effets magiques
-AltName: Combining Magical Effects (SRD p104)
-Source: (MDR p310)
 Id: spellcasting_hd.md#combiner-les-effets-magiques
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Combiner les effets magiques
 ParentName: Lancer des sorts
 NameLevel: 3
+AltName: Combining Magical Effects (SRD p104)
+Source: (MDR p310)
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

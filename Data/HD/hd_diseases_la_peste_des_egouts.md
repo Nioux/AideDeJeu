@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: La peste des égouts
 Id: diseases_hd.md#la-peste-des-égouts
 ParentLink: diseases_hd.md#les-maladies
+Name: La peste des égouts
 ParentName: Les maladies
 NameLevel: 4
 Attributes: {}

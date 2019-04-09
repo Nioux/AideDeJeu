@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
-Name: Collège des diplomates
-Source: (MDR p125)
 ParentClassId: hd_bard.md
 Id: bard_diplomats_hd.md#collège-des-diplomates
 RootId: bard_diplomats_hd.md
 ParentLink: bard_hd.md#collèges-bardiques
+Name: Collège des diplomates
 ParentName: Collèges bardiques
 NameLevel: 1
+Source: (MDR p125)
 Attributes: {}
 ---
 >  [Collèges bardiques](hd_bard_colleges_bardiques.md)

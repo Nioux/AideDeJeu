@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Traditions arcaniques
 Id: wizard_hd.md#traditions-arcaniques
 ParentLink: wizard_hd.md#magicien
+Name: Traditions arcaniques
 ParentName: Magicien
 NameLevel: 2
 Attributes: {}

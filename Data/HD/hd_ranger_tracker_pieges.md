@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Pièges
 Id: ranger_tracker_hd.md#pièges
 ParentLink: ranger_tracker_hd.md#traqueur
+Name: Pièges
 ParentName: Traqueur
 NameLevel: 2
 Attributes: {}

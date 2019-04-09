@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Soutien puissant
 Id: cleric_guide_hd.md#soutien-puissant
 ParentLink: cleric_guide_hd.md#guide-spirituel
+Name: Soutien puissant
 ParentName: Guide spirituel
 NameLevel: 2
 Attributes: {}

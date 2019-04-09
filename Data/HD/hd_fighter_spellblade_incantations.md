@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Incantations
 Id: fighter_spellblade_hd.md#incantations
 ParentLink: fighter_spellblade_hd.md#sorcelame
+Name: Incantations
 ParentName: Sorcelame
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Avatar divin
 Id: paladin_piety_hd.md#avatar-divin
 ParentLink: paladin_piety_hd.md#serment-de-piété
+Name: Avatar divin
 ParentName: Serment de piété
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Valeurs de caractéristiques et modificateurs
 Id: abilities_hd.md#valeurs-de-caractéristiques-et-modificateurs
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
+Name: Valeurs de caractéristiques et modificateurs
 ParentName: Utiliser les caractéristiques
 NameLevel: 1
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Purgatoire
 Id: paladin_redemption_hd.md#purgatoire
 ParentLink: paladin_redemption_hd.md#serment-de-rédemption
+Name: Purgatoire
 ParentName: Serment de rédemption
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Foi élargie
 Id: cleric_traditions_hd.md#foi-élargie
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
+Name: Foi élargie
 ParentName: Gardien des traditions
 NameLevel: 2
 Attributes: {}

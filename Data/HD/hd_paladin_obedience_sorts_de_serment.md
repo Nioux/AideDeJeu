@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sorts de serment
 Id: paladin_obedience_hd.md#sorts-de-serment
 ParentLink: paladin_obedience_hd.md#serment-dobédience
+Name: Sorts de serment
 ParentName: Serment d'obédience
 NameLevel: 2
 Attributes: {}

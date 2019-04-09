@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Neutre Mauvais (NM)
 Id: alignment_hd.md#neutre-mauvais-nm
 ParentLink: alignment_hd.md#alignement
+Name: Neutre Mauvais (NM)
 ParentName: Alignement
 NameLevel: 4
 Attributes: {}

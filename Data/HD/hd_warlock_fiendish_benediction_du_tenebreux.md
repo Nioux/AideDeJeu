@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Bénédiction du ténébreux
 Id: warlock_fiendish_hd.md#bénédiction-du-ténébreux
 ParentLink: warlock_fiendish_hd.md#le-fiélon
+Name: Bénédiction du ténébreux
 ParentName: Le fiélon
 NameLevel: 2
 Attributes: {}

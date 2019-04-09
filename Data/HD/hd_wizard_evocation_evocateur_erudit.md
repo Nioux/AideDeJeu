@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Évocateur érudit
 Id: wizard_evocation_hd.md#Évocateur-érudit
 ParentLink: wizard_evocation_hd.md#École-dévocation
+Name: Évocateur érudit
 ParentName: École d'évocation
 NameLevel: 2
 Attributes: {}

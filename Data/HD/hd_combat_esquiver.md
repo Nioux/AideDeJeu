@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Esquiver
-AltName: Dodge (SRD p93)
-Source: (MDR p288)
 Id: combat_hd.md#esquiver
 ParentLink: combat_hd.md#combattre
+Name: Esquiver
 ParentName: Combattre
 NameLevel: 3
+AltName: Dodge (SRD p93)
+Source: (MDR p288)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

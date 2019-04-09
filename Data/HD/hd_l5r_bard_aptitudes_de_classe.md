@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Aptitudes de classe
-Source: (L5R p56)
 Id: l5r_bard_hd.md#aptitudes-de-classe
 ParentLink: l5r_bard_hd.md#barde-des-cinq-royaumes
+Name: Aptitudes de classe
 ParentName: Barde des cinq royaumes
 NameLevel: 3
+Source: (L5R p56)
 Attributes: {}
 ---
 > [Barde des cinq royaumes](hd_l5r_bard.md)

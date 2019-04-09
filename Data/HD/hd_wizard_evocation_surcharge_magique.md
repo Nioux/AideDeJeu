@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Surcharge magique
 Id: wizard_evocation_hd.md#surcharge-magique
 ParentLink: wizard_evocation_hd.md#École-dévocation
+Name: Surcharge magique
 ParentName: École d'évocation
 NameLevel: 2
 Attributes: {}

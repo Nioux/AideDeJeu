@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Larmes de minuit (ingestion)
 Id: poisons_hd.md#larmes-de-minuit-ingestion
 ParentLink: poisons_hd.md#les-poisons
+Name: Larmes de minuit (ingestion)
 ParentName: Les poisons
 NameLevel: 4
 Attributes: {}

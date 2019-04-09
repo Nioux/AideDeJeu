@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Chaotique Mauvais (CM)
 Id: alignment_hd.md#chaotique-mauvais-cm
 ParentLink: alignment_hd.md#alignement
+Name: Chaotique Mauvais (CM)
 ParentName: Alignement
 NameLevel: 4
 Attributes: {}

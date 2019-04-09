@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Don spécifique
-Source: (L5R p75)
 Id: l5r_rituals_hd.md#don-spécifique
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: Don spécifique
 ParentName: Lancer un rituel
 NameLevel: 3
+Source: (L5R p75)
 Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

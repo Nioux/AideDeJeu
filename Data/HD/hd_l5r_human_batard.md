@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Bâtard
-Source: (L5R p52)
 Id: l5r_human_hd.md#bâtard
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
+Name: Bâtard
 ParentName: Humain des cinq royaumes
 NameLevel: 4
+Source: (L5R p52)
 Attributes: {}
 ---
 > [Humain des cinq royaumes](hd_l5r_human.md)

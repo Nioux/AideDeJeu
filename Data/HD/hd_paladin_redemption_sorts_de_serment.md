@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sorts de serment
 Id: paladin_redemption_hd.md#sorts-de-serment
 ParentLink: paladin_redemption_hd.md#serment-de-rédemption
+Name: Sorts de serment
 ParentName: Serment de rédemption
 NameLevel: 2
 Attributes: {}

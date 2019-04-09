@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Religion
 Id: abilities_intelligence_hd.md#religion
 ParentLink: abilities_intelligence_hd.md#intelligence
+Name: Religion
 ParentName: Intelligence
 NameLevel: 3
 Attributes: {}

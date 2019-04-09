@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Imposture
 Id: wizard_eminence_hd.md#imposture
 ParentLink: wizard_eminence_hd.md#Éminence-grise
+Name: Imposture
 ParentName: Éminence grise
 NameLevel: 2
 Attributes: {}

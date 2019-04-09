@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Esprit impénétrable
 Id: wizard_eminence_hd.md#esprit-impénétrable
 ParentLink: wizard_eminence_hd.md#Éminence-grise
+Name: Esprit impénétrable
 ParentName: Éminence grise
 NameLevel: 2
 Attributes: {}

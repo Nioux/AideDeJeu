@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Analyse des faiblesses
 Id: cleric_guide_hd.md#analyse-des-faiblesses
 ParentLink: cleric_guide_hd.md#guide-spirituel
+Name: Analyse des faiblesses
 ParentName: Guide spirituel
 NameLevel: 2
 Attributes: {}

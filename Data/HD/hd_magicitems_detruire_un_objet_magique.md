@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Détruire un objet magique
 Id: magicitems_hd.md#détruire-un-objet-magique
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Détruire un objet magique
 ParentName: Objets magiques
 NameLevel: 3
 Attributes: {}

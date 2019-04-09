@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Maîtrise des armes
-AltName: Weapon Proficiency (SRD p64)
-Source: (MDR p226)
 Id: weapons_hd.md#maîtrise-des-armes
 ParentLink: weapons_hd.md#armes
+Name: Maîtrise des armes
 ParentName: Armes
 NameLevel: 3
+AltName: Weapon Proficiency (SRD p64)
+Source: (MDR p226)
 Attributes: {}
 ---
 > [Armes](hd_weapons.md)

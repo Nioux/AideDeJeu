@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Tour de magie puissant
 Id: wizard_evocation_hd.md#tour-de-magie-puissant
 ParentLink: wizard_evocation_hd.md#École-dévocation
+Name: Tour de magie puissant
 ParentName: École d'évocation
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Détail historique
 Id: magicitems_hd.md#détail-historique
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Détail historique
 ParentName: Objets magiques
 NameLevel: 4
 Attributes: {}

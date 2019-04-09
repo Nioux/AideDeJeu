@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Petrified
-AltName: '[Pétrifié](hd_conditions_petrifie.md)'
-Source: (SRD p359)
 Id: conditions_vo.md#petrified
 ParentLink: conditions_vo.md#conditions
+Name: Petrified
 ParentName: Conditions
 NameLevel: 1
+AltName: '[Pétrifié](hd_conditions_petrifie.md)'
+Source: (SRD p359)
 Attributes: {}
 ---
 > [Conditions](srd_conditions.md)

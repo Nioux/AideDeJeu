@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Spécialiste
 Id: rogue_spy_hd.md#spécialiste
 ParentLink: rogue_spy_hd.md#espion
+Name: Spécialiste
 ParentName: Espion
 NameLevel: 2
 Attributes: {}

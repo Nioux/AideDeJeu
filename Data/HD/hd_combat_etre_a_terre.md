@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Être à terre
-AltName: Being Prone (SRD p91)
-Source: (MDR p286)
 Id: combat_hd.md#Être-à-terre
 ParentLink: combat_hd.md#combattre
+Name: Être à terre
 ParentName: Combattre
 NameLevel: 3
+AltName: Being Prone (SRD p91)
+Source: (MDR p286)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)
