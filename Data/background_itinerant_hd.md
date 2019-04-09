@@ -7,7 +7,11 @@
 
 # <!--Name-->Itinérant<!--/Name-->
 
+<!--Description-->
+
 Vous avez vécu toute votre vie sur les routes. Vous n'avez connu que la vie nomade, vous déplaçant de village en village, de cité en cité, et vendant vos services ou vos talents. Que vous soyez un artiste, un camelot itinérant ou simplement un membre de la communauté des gens du voyage, la route est votre maison et vous avez toujours appris à vous contenter de peu. Vous préférez regarder le ciel étoilé et le voir comme la plus grande des richesses, plutôt que de compter les pièces de monnaie enfermé dans un manoir qui ne vous semble être qu'une prison dorée.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Représentation, Survie.<!--/Abilities-->
 
@@ -21,7 +25,11 @@ Vous avez vécu toute votre vie sur les routes. Vous n'avez connu que la vie nom
 
 #### <!--Name-->Aptitude : Voyageur<!--/Name-->
 
+<!--Description-->
+
 Vous connaissez les coutumes des petites communautés et des villages que vous traversez. Vous avez compris comment faire en sorte que l'on vous accepte sans pour autant vous imposer trop longtemps. Vous êtes capable de repérer la présence d'une communauté civilisée à plusieurs kilomètres, sachant où en trouver les traces. De plus, on vous offre toujours le gîte et le couvert, pour une nuit tout du moins.
+
+<!--/Description-->
 
 <!--/SkillItem-->
 
@@ -29,11 +37,17 @@ Vous connaissez les coutumes des petites communautés et des villages que vous t
 
 #### <!--Name-->Personnalités suggérées<!--/Name-->
 
+<!--Description-->
+
 Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vous n'avez jamais eu de demeure où retourner. Votre foyer, votre chez vous, est partout. Il est auprès des autres, auprès des vôtres, auprès de ceux que vous chérissez le plus. Pour rien au monde vous ne pourriez envisager de vous installer durablement quelque part. À moins que cette vie de voyage vous ait épuisé et que vous sentiez qu'il est désormais temps de vous arrêter.
+
+<!--/Description-->
 
 <!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+<!--Table-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -46,11 +60,15 @@ Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vo
 |7|Je déteste qu'on ne me prête pas attention. <!--br-->D'aucun disent que je suis une diva.|
 |8|J'écoute plus que je ne parle. Mais quand je <!--br-->parle, ça n'est jamais pour ne rien dire.|
 
+<!--/Table-->
+
 <!--/PersonalityTraitItem-->
 
 <!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
+
+<!--Table-->
 
 |d6|Idéal|
 |---|---|
@@ -61,11 +79,15 @@ Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vo
 |5|**Liberté.** Ce qui compte plus que tout, c'est <!--br-->de voyager. Je ne permettrai à quiconque <!--br-->d'empêcher qui que ce soit de partir où il veut. <!--br-->(Chaotique)|
 |6|**Transmission.** Tout ce que je fais, je le fais pour <!--br-->voir le visage des gens s'illuminer de plaisir. <!--br-->Rien d'autre ne m'importe. (Bon)|
 
+<!--/Table-->
+
 <!--/PersonalityIdealItem-->
 
 <!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
+
+<!--Table-->
 
 |d6|Lien|
 |---|---|
@@ -76,11 +98,15 @@ Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vo
 |5|J'ai un puissant protecteur (ou mécène) mais je <!--br-->ne peux entacher son honneur et son nom.|
 |6|Une personne que j'aimais est morte à cause de <!--br-->moi. Je dois me racheter.|
 
+<!--/Table-->
+
 <!--/PersonalityLinkItem-->
 
 <!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
+
+<!--Table-->
 
 |d6|Défaut|
 |---|---|
@@ -91,6 +117,8 @@ Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vo
 |5|À un moment ou à un autre, je déçois toujours <!--br-->mes amis et mes alliés.|
 |6|J'ai un vice que j'ai toujours du mal à ne pas <!--br-->vouloir satisfaire, qu'il s'agisse des plaisirs de <!--br-->la chair, de l'alcool ou du jeu.|
 
+<!--/Table-->
+
 <!--/PersonalityDefectItem-->
 
 <!--/Items-->
@@ -99,7 +127,11 @@ Vous avez toujours voyagé. Vous n'avez jamais connu le confort d'une maison, vo
 
 ### <!--Name-->Variante : Colporteur<!--/Name-->
 
+<!--Description-->
+
 Vous avez fait votre vie en voyageant de communauté en communauté et en vendant des biens. Vous avez toujours servi de lien entre les communautés et, au-delà de votre métier, vous avez rapidement compris que c'était aussi par vous que l'information voyageait à travers le royaume.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Persuasion, Survie.<!--/Abilities-->
 
@@ -115,7 +147,11 @@ Vous avez fait votre vie en voyageant de communauté en communauté et en vendan
 
 ### <!--Name-->Variante : Gens du voyage<!--/Name-->
 
+<!--Description-->
+
 On vous a toujours regardé de travers. Vous avez vécu toute votre vie au sein d'un clan soudé, allant de communauté en communauté, vous installant aux abords de la ville. Toute votre vie, on vous a pris pour des voleurs de poule et des sorcières. Mais peu importe, ils n'ont finalement peut-être pas totalement tort… et puis, ce qui compte vraiment, ce sont les vôtres.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Deux au choix parmi Intimidation, Représentation, Supercherie.<!--/Abilities-->
 
@@ -129,7 +165,11 @@ On vous a toujours regardé de travers. Vous avez vécu toute votre vie au sein 
 
 ### <!--Name-->Variante : Saltimbanque<!--/Name-->
 
+<!--Description-->
+
 Le spectacle est votre vie. Que vous ayez fait partie d'une troupe ou que vous ayez décidé de parcourir les routes seul, vous êtes un artiste. Vous vous produisez devant les seigneurs tout autant que le petit peuple, il faut bien vivre.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Une compétence dépendant de la spécialité, Représentation.<!--/Abilities-->
 
@@ -143,7 +183,13 @@ Le spectacle est votre vie. Que vous ayez fait partie d'une troupe ou que vous a
 
 #### <!--Name-->Spécialité<!--/Name-->
 
+<!--Description-->
+
 Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner votre vie. Ce dernier vous ouvre l'accès à la maîtrise d'une compétence spécifique.
+
+<!--/Description-->
+
+<!--Table-->
 
 |d6|Spécialité|
 |---|---|
@@ -154,13 +200,19 @@ Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner vo
 |5|Montreur d'animaux (Dressage)|
 |6|Diseuse de bonne aventure (Perspicacité)|
 
+<!--/Table-->
+
 <!--/BackgroundSpecialtyItem-->
 
 <!--SkillItem-->
 
 #### <!--Name-->Aptitude : Spectacle ambulant<!--/Name-->
 
+<!--Description-->
+
 Votre art vous apporte bien des inconvénients, mais il a aussi ses bénéfices. Vous trouvez toujours un lieu où l'on vous offre le gîte et le couvert en échange d'une représentation pour égayer l'ambiance. Tant que vous prenez la peine de vous produire au moins une fois par jour (quand les clients sont nombreux), on vous fournit un logement et une nourriture aussi décente que possible. De plus, vous vous attirez les bonnes grâces de la foule, qui vous perçoit avec un excellent a priori. Cependant, vous ne passez jamais vraiment inaperçu, et plus vous restez dans une ville, plus on vous reconnaît.
+
+<!--/Description-->
 
 <!--/SkillItem-->
 

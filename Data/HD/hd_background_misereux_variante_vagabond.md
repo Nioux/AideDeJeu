@@ -10,6 +10,9 @@ Name: 'Variante : Vagabond'
 ParentName: Miséreux
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Vous avez choisi de quitter les villes et de vivre votre errance dans la nature, en quêtant votre pain quotidien de village en village, ou en vous abritant dans les ruines de fermes abandonnées.
+
 ---
 > [Miséreux](hd_background_misereux.md)
 

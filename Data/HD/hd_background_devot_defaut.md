@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityDefectItem
+Table: >+
+  |d6|Défaut|
+
+  |---|---|
+
+  |1|Je juge les autres sévèrement, mais je me juge <!--br-->encore plus durement.|
+
+  |2|J'accorde trop de confiance à ceux qui <!--br-->détiennent le pouvoir dans la hiérarchie de <!--br-->mon temple.|
+
+  |3|Ma piété me pousse parfois à croire <!--br-->aveuglément ceux qui professent croire en <!--br-->mon dieu.|
+
+  |4|Je n'ai aucune flexibilité dans ma manière de <!--br-->penser.|
+
+  |5|Je ne fais pas confiance aux étrangers et je <!--br-->m'attends au pire de leur part.|
+
+  |6|Une fois que je me suis fixé un objectif, je <!--br-->deviens obsédé par celui-ci au détriment de <!--br-->tout le reste.|
+
 Id: background_devot_hd.md#défaut
 ParentLink: background_devot_hd.md#personnalités-suggérées
 Name: Défaut

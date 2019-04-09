@@ -7,7 +7,11 @@
 
 # <!--Name-->Serviteur<!--/Name-->
 
+<!--Description-->
+
 Vous avez mis vos simples talents au service d'un personnage illustre ou d'un notable. Né ou devenu serviteur, vous avez démontré pendant longtemps une loyauté sans faille à votre maître ou votre maîtresse, en échange de quoi elle ou il vous fournissait abri, nourriture et sécurité. Il est même possible que vous ayez développé une relation ou une affection particulière, devenant un aide de camp ou un confident. Vous vous êtes épanoui pendant longtemps dans cette vie entre deux mondes, la haute société à laquelle appartenait votre employeur et celle, plus commune, des serviteurs.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Discrétion, Perspicacité.<!--/Abilities-->
 
@@ -21,7 +25,13 @@ Vous avez mis vos simples talents au service d'un personnage illustre ou d'un no
 
 #### <!--Name-->Origine sociale de l'employeur<!--/Name-->
 
+<!--Description-->
+
 Les serviteurs tirent une grande fierté de l'origine et de la classe sociale de leur maître ou de leur maîtresse. Déterminez la classe sociale de la personne que vous serviez avec votre MJ, ou déterminez-la aléatoirement grâce à la table suivante.
+
+<!--/Description-->
+
+<!--Table-->
 
 |d6|Origine sociale de l'employeur|
 |---|---|
@@ -32,13 +42,19 @@ Les serviteurs tirent une grande fierté de l'origine et de la classe sociale de
 |5|Artisan|
 |6|Artiste|
 
+<!--/Table-->
+
 <!--/BackgroundSpecialtyItem-->
 
 <!--SkillItem-->
 
 #### <!--Name-->Aptitude : Domesticité<!--/Name-->
 
+<!--Description-->
+
 Vous avez l'habitude du fonctionnement général des maisons avec domestiques. De ce fait, vous êtes capable de dénicher facilement certaines informations à propos de la maîtresse ou du maître de maison sans alerter qui que ce soit sur vos intentions. De plus, dans votre région d'origine et le milieu social dans lequel vous travailliez, vous connaissez la plupart des individus importants, au moins de nom.
+
+<!--/Description-->
 
 <!--/SkillItem-->
 
@@ -46,11 +62,17 @@ Vous avez l'habitude du fonctionnement général des maisons avec domestiques. D
 
 #### <!--Name-->Personnalités suggérées<!--/Name-->
 
+<!--Description-->
+
 Les serviteurs sont des individus de l'ombre, qui font souvent une grande différence dans la maisonnée à laquelle ils sont rattachés. Ils considèrent la loyauté comme une vertu cardinale, à la fois du serviteur au maître, et du maître au serviteur. Et bien des fortunes ont été faites ou défaites par leur truchement.
+
+<!--/Description-->
 
 <!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+<!--Table-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -63,11 +85,15 @@ Les serviteurs sont des individus de l'ombre, qui font souvent une grande diffé
 |7|Je suis une source intarissable d'anecdotes <!--br-->amusantes, que je prends un malin plaisir à <!--br-->distiller au moment opportun.|
 |8|Quelle que soit la situation, je reste souriant et <!--br-->enjoué.|
 
+<!--/Table-->
+
 <!--/PersonalityTraitItem-->
 
 <!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
+
+<!--Table-->
 
 |d6|Idéal|
 |---|---|
@@ -78,11 +104,15 @@ Les serviteurs sont des individus de l'ombre, qui font souvent une grande diffé
 |5|**Pouvoir.** Le vrai pouvoir n'est pas dans la <!--br-->lumières et les parures. Il est dans l'ombre des <!--br-->alcôves. (Mauvais)|
 |6|**Ambition.** L'important n'est pas tant ce que l'on <!--br-->fait que ce que l'on ambitionne de faire. (Tous)|
 
+<!--/Table-->
+
 <!--/PersonalityIdealItem-->
 
 <!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
+
+<!--Table-->
 
 |d6|Lien|
 |---|---|
@@ -93,11 +123,15 @@ Les serviteurs sont des individus de l'ombre, qui font souvent une grande diffé
 |5|J'ai fui le service de mes maîtres et je suis <!--br-->pourchassé depuis.|
 |6|Je reste farouchement loyal à la famille de mon <!--br-->ancien seigneur.|
 
+<!--/Table-->
+
 <!--/PersonalityLinkItem-->
 
 <!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
+
+<!--Table-->
 
 |d6|Défaut|
 |---|---|
@@ -108,6 +142,8 @@ Les serviteurs sont des individus de l'ombre, qui font souvent une grande diffé
 |5|Je suis d'un naturel obséquieux, même dans <!--br-->des circonstances qui ne l'exigent pas.|
 |6|Je porte en moi un profond sentiment <!--br-->d'infériorité, et je me dévalorise sans cesse.|
 
+<!--/Table-->
+
 <!--/PersonalityDefectItem-->
 
 <!--/Items-->
@@ -116,7 +152,11 @@ Les serviteurs sont des individus de l'ombre, qui font souvent une grande diffé
 
 ### <!--Name-->Variante : Cuisinier<!--/Name-->
 
+<!--Description-->
+
 Vous avez trimé pendant de longues années en cuisine. D'abord simple commis, vous avez gravi les échelons jusqu'à diriger la cuisine de votre seigneur et obtenir sa pleine confiance pour gérer à la fois sa nourriture et celle de ses nombreux invités.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Discrétion, Perspicacité.<!--/Abilities-->
 
@@ -130,7 +170,11 @@ Vous avez trimé pendant de longues années en cuisine. D'abord simple commis, v
 
 #### <!--Name-->Aptitude : Réconfort du foyer<!--/Name-->
 
+<!--Description-->
+
 À partir du moment où vous disposez d'un feu et de quelques aliments et ustensiles de base, vous êtes capable de préparer un repas revigorant qui saura contenter les estomacs vides et faire oublier les rigueurs d'un long voyage. Vous avez toujours sur vous les quelques épices indispensables pour ce faire.
+
+<!--/Description-->
 
 <!--/SkillItem-->
 
@@ -140,7 +184,11 @@ Vous avez trimé pendant de longues années en cuisine. D'abord simple commis, v
 
 ### <!--Name-->Variante : Palefrenier<!--/Name-->
 
+<!--Description-->
+
 Dans une maisonnée, un palefrenier est le petit seigneur des écuries. Il se charge de soigner et nourrir les chevaux, et de nettoyer les écuries. Aucun chevalier digne de ce nom ne peut se passer d'un palefrenier compétent, car de bons chevaux signifient puissance et prestige.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Dressage, Perspicacité.<!--Abilities-->
 
@@ -154,7 +202,11 @@ Dans une maisonnée, un palefrenier est le petit seigneur des écuries. Il se ch
 
 ### <!--Name-->Variante : Précepteur<!--/Name-->
 
+<!--Description-->
+
 Vous aviez été engagé pour veiller à l'éducation des enfants de la maisonnée. Votre principale relation s'est nouée pendant l'enfance et l'adolescence des jeunes seigneurs. Devenus adultes, ils se souviennent souvent avec émotion des professeurs qui ont guidé leur apprentissage.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Histoire, Perspicacité.<!--/Abilities-->
 

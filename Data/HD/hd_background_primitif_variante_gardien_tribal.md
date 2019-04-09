@@ -9,6 +9,9 @@ Name: 'Variante : Gardien tribal'
 ParentName: Primitif
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre deux mondes. Vous connaissez le monde des esprits et préservez la tribu ou le clan des dangers physiques et spirituels. Certains pensent que vous comprenez les animaux ou que vous entendez la voix de la terre. Mais vous n'êtes que le garant des traditions, et le gardien de l'équilibre, ainsi que le défenseur de votre peuple.
+
 ---
 > [Primitif](hd_background_primitif.md)
 

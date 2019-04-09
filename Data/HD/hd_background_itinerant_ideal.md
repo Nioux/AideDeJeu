@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityIdealItem
+Table: >+
+  |d6|Idéal|
+
+  |---|---|
+
+  |1|**Richesse.** Plus que la gloire, je veux mon poids <!--br-->en pièces sonnantes et trébuchantes. (Mauvais)|
+
+  |2|**Honnêteté.** Je déteste ceux qui profitent des <!--br-->autres. (Bon)|
+
+  |3|**Tradition.** Je suis le porteur d'une mission <!--br-->ancestrale. Par moi passent les récits issus du <!--br-->passé (ou les récits venus d'autres lieux). Ma <!--br-->mission est de les transmettre, tels qu'ils sont, <!--br-->et non tels que l'on veut les entendre. (Neutre)|
+
+  |4|**Vérité.** Je n'ai jamais pu me résoudre à recourir <!--br-->au mensonge. (Loyal)|
+
+  |5|**Liberté.** Ce qui compte plus que tout, c'est <!--br-->de voyager. Je ne permettrai à quiconque <!--br-->d'empêcher qui que ce soit de partir où il veut. <!--br-->(Chaotique)|
+
+  |6|**Transmission.** Tout ce que je fais, je le fais pour <!--br-->voir le visage des gens s'illuminer de plaisir. <!--br-->Rien d'autre ne m'importe. (Bon)|
+
 Id: background_itinerant_hd.md#idéal
 ParentLink: background_itinerant_hd.md#personnalités-suggérées
 Name: Idéal

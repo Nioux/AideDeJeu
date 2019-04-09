@@ -1,5 +1,26 @@
 ﻿---
 !PersonalityTraitItem
+Table: >+
+  |d8|Trait de personnalité|
+
+  |---|---|
+
+  |1|Je parle beaucoup et fort, même quand je suis <!--br-->seul.|
+
+  |2|Je me sens plus en sécurité dans le recoin <!--br-->sombre d'une pièce non loin de la sortie que <!--br-->dans un lit chaud.|
+
+  |3|Je ne m'encombre de rien que je ne sois capable <!--br-->de porter moi-même.|
+
+  |4|Je dis franchement ce que je pense, sans <!--br-->m'embarrasser des sentiments des autres.|
+
+  |5|Je déteste être le centre d'attention, et préfère <!--br-->toujours rester en retrait.|
+
+  |6|Lorsque j'ai de la nourriture ou de l'or, je ne <!--br-->peux m'empêcher de tout avaler ou dépenser <!--br-->aussi vite que possible, par peur d'être volé.|
+
+  |7|Je ne soigne pas mon apparence, et je m'amuse <!--br-->des réactions à mon égard.|
+
+  |8|Quand j'en ai, je cache quelques pièces dans les <!--br-->doublures de mes vêtements.|
+
 Id: background_misereux_hd.md#trait-de-personnalité
 ParentLink: background_misereux_hd.md#personnalités-suggérées
 Name: Trait de personnalité

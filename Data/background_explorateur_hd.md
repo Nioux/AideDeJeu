@@ -7,7 +7,11 @@
 
 # <!--Name-->Explorateur<!--/Name-->
 
+<!--Description-->
+
 Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côté de la prochaine forêt, de la prochaine chaîne de montagnes ou du prochain désert. L'aventure passait pour vous par le voyage et le fait de repousser sans cesse les limites connues. Vous avez maintes fois mis votre vie en danger : les rudesses du climat, les animaux sauvages ou les créatures qui hantent les abords du monde ont été vos fidèles ennemis.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Athlétisme, Survie.<!--/Abilities-->
 
@@ -21,7 +25,11 @@ Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côt
 
 #### <!--Name-->Aptitude : Découvreur<!--/Name-->
 
+<!--Description-->
+
 Même dans une région qui vous est inconnue, vous êtes capable de déterminer la meilleure route à suivre pour relier un point à un autre, en fonction du climat et du terrain. Toutefois, vos choix ne tiennent pas forcément compte des particularités locales, comme des prédateurs ou des tribus hostiles. Dans un territoire déjà visité, vous êtes capable de dénicher une solution de transport qui vous permet de rallier votre destination. Selon les cas, il peut s'agir d'une caravane, d'un bateau, ou d'un simple chariot emprunté à un paysan. Ce ne sera pas forcément la solution la plus rapide ou la plus confortable, mais elle sera généralement sûre et vous mènera à bon port.
+
+<!--/Description-->
 
 <!--/SkillItem-->
 
@@ -29,11 +37,17 @@ Même dans une région qui vous est inconnue, vous êtes capable de déterminer 
 
 #### <!--Name-->Personnalités suggérées<!--/Name-->
 
+<!--Description-->
+
 Les explorateurs se laissent souvent porter par leur goût du risque et de l'inconnu. Ils sont entreprenants, aventureux et résolus à profiter de leur existence au maximum. Ils n'accordent pas beaucoup de valeur aux notions de confort et de sécurité si chères à la plupart de leurs congénères.
+
+<!--/Description-->
 
 <!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+<!--Table-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -46,11 +60,15 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 |7|Un étranger est un ami qui m'est encore <!--br-->inconnu.|
 |8|Je ne refuse jamais un nouveau défi.|
 
+<!--/Table-->
+
 <!--/PersonalityTraitItem-->
 
 <!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
+
+<!--Table-->
 
 |d6|Idéal|
 |---|---|
@@ -61,11 +79,15 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 |5|**Civilisation.** Explorer l'inconnu, c'est tracer un <!--br-->chemin pour la civilisation. (Loyal)|
 |6|**Nature.** Rien n'égale l'attrait d'un paysage <!--br-->sauvage et vierge de la civilisation. (Neutre)|
 
+<!--/Table-->
+
 <!--/PersonalityIdealItem-->
 
 <!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
+
+<!--Table-->
 
 |d6|Lien|
 |---|---|
@@ -76,11 +98,15 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 |5|Au cours de mes voyages, j'ai été sauvé et <!--br-->adopté par un clan ou une tribu isolée. Après <!--br-->plusieurs mois passés parmi eux, j'ai appris à <!--br-->les considérer comme ma famille et j'ai juré de <!--br-->faire mon possible pour les protéger.|
 |6|J'ai un(e) rival(e), et je cherche par tous les <!--br-->moyens à prouver que je suis meilleur que lui/ <!--br-->elle.|
 
+<!--/Table-->
+
 <!--/PersonalityLinkItem-->
 
 <!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
+
+<!--Table-->
 
 |d6|Défaut|
 |---|---|
@@ -91,6 +117,8 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 |5|Je vois rouge lorsqu'on met en doute mon <!--br-->courage.|
 |6|Je ne supporte pas qu'on me donne des ordres.|
 
+<!--/Table-->
+
 <!--/PersonalityDefectItem-->
 
 <!--/Items-->
@@ -99,7 +127,11 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 
 ### <!--Name-->Variante : Éclaireur<!--/Name-->
 
+<!--Description-->
+
 Vous avez employé vos dons dans un contexte militaire ou guerrier. Sans être un soldat à part entière, vous étiez employé afin d'explorer (et d'espionner) des contrées ennemies ou inconnues et de fournir des informations à une armée d'invasion.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Discrétion, Survie.<!--/Abilities-->
 
@@ -115,7 +147,11 @@ Vous avez employé vos dons dans un contexte militaire ou guerrier. Sans être u
 
 ### <!--Name-->Variante : Matelot<!--/Name-->
 
+<!--Description-->
+
 Vous avez fait partie d'un équipage, voguant sur les mers et les océans à la recherche de denrées rares et précieuses, ou de continents inexplorés. Vous avez affronté les dangers si particuliers de la navigation, et en êtes ressorti plus humble et plus sage.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Acrobaties, Athlétisme.<!--/Abilities-->
 
@@ -129,7 +165,11 @@ Vous avez fait partie d'un équipage, voguant sur les mers et les océans à la 
 
 ### <!--Name-->Variante : Pilleur de ruines<!--/Name-->
 
+<!--Description-->
+
 Vous erriez à la recherche des trésors, des cités perdues et de secrets enfouis des temps anciens. Aventurier sans foi ni loi, pilleur de tombes, archéologue, vous avez été tout cela à la fois, et plus encore !
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Histoire, Investigation.<!--/Abilities-->
 
@@ -143,7 +183,11 @@ Vous erriez à la recherche des trésors, des cités perdues et de secrets enfou
 
 #### <!--Name-->Aptitude : Estimation<!--/Name-->
 
+<!--Description-->
+
 Vous êtes capable d'évaluer en quelques secondes la valeur approximative d'un trésor, d'un artefact ancien ou de pierres précieuses. Vous ne disposez pas d'une évaluation précise, et il vous arrive exceptionnellement de vous tromper, mais vous avez assez l'habitude de ce genre de choses pour distinguer en très peu de temps les objets qui ont une réelle valeur, et séparer le bon grain de l'ivraie.
+
+<!--/Description-->
 
 <!--/SkillItem-->
 

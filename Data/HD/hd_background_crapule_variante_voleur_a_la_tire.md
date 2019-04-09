@@ -10,6 +10,9 @@ Name: 'Variante : Voleur à la tire'
 ParentName: Crapule
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Vous avez des doigts de fée. Vous faisiez vos premiers tours de passe-passe avant même de marcher. C'est tout naturellement que, afin de survivre (ou sous la contrainte d'un parent ou d'un tuteur), vous avez appris à utiliser vos dons pour délester les autres de leurs bourses trop bien remplies.
+
 ---
 > [Crapule](hd_background_crapule.md)
 

@@ -1,5 +1,26 @@
 ﻿---
 !PersonalityTraitItem
+Table: >+
+  |d8|Trait de personnalité|
+
+  |---|---|
+
+  |1|Je regarde tous ceux que je considère comme <!--br-->étant de rang inférieur avec mépris, mais <!--br-->gagnez mon respect, et je vous verrai comme <!--br-->mon pair.|
+
+  |2|Les gens du peuple méritent ma bienveillance.|
+
+  |3|J'ai toujours une anecdote concernant l'un de <!--br-->mes ancêtres appropriée à la situation.|
+
+  |4|Ce n'est pas à moi de faire le sale travail. Il y a <!--br-->bien des gens pour ça.|
+
+  |5|Quand je parle, on réalise immédiatement que <!--br-->je suis d'un rang supérieur.|
+
+  |6|Ma naissance ne m'octroie pas le droit de <!--br-->traiter différemment ceux qui sont au-dessous <!--br-->de moi. Je leur dois le respect.|
+
+  |7|Tout affront doit être réparé. Dans le sang si <!--br-->nécessaire.|
+
+  |8|Je ne refuse jamais un défi, il en va de mon <!--br-->honneur.|
+
 Id: background_sangbleu_hd.md#trait-de-personnalité
 ParentLink: background_sangbleu_hd.md#personnalités-suggérées
 Name: Trait de personnalité

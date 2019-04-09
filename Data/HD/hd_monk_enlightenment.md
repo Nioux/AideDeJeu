@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
-Name: Voie de l'illumination
-Source: (MDR p180)
 ParentClassId: hd_monk.md
 Id: monk_enlightenment_hd.md#voie-de-lillumination
 RootId: monk_enlightenment_hd.md
 ParentLink: monk_hd.md#traditions-monacales
+Name: Voie de l'illumination
 ParentName: Traditions monacales
 NameLevel: 1
+Source: (MDR p180)
 Attributes: {}
 ---
 >  [Traditions monacales](hd_monk_traditions_monacales.md)

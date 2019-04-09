@@ -9,6 +9,9 @@ Name: 'Variante : Mercenaire'
 ParentName: Militaire
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Vous avez fait partie d'une compagnie de mercenaires vendant ses services au plus offrant. Vous avez combattu avec et contre la plupart des seigneurs locaux, au gré des fortunes des uns et des autres. Pour vous, la guerre était avant tout une source de profit.
+
 ---
 > [Militaire](hd_background_militaire.md)
 

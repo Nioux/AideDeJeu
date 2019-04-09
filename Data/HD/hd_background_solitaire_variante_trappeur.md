@@ -9,6 +9,9 @@ Name: 'Variante : Trappeur'
 ParentName: Solitaire
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Vous vivez de la chasse. La plupart du temps vous êtes seul, dans votre cabane au milieu de la nature sauvage. Mais vous revenez régulièrement dans un village non loin, afin de vendre le produit de votre chasse. Malgré votre isolement, vous faites tout de même partie de la communauté que vous rejoignez parfois.
+
 ---
 > [Solitaire](hd_background_solitaire.md)
 

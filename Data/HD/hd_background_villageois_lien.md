@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityLinkItem
+Table: >+
+  |d6|Lien|
+
+  |---|---|
+
+  |1|Tout ce que je fais, je le fais par amour. Un jour <!--br-->je reviendrai auprès de l'être aimé en lui ayant <!--br-->prouvé ma valeur.|
+
+  |2|Rien n'est plus important à mes yeux que les <!--br-->terres qui m'ont vu naître.|
+
+  |3|Par ma faute, les habitants de mon village ont <!--br-->été massacrés ou réduits à l'esclavage. J'ai juré <!--br-->de rectifier les choses.|
+
+  |4|J'ai été spolié par mon seigneur. Il m'a tout pris, <!--br-->mais je reprendrai ce qui était à moi.|
+
+  |5|Je suis parti loin de ma famille pour la protéger. <!--br-->Mais elle reste constamment présente dans <!--br-->mon coeur et mon esprit.|
+
+  |6|Le peuple a besoin d'être protégé. C'est la <!--br-->mission que je me suis fixée.|
+
 Id: background_villageois_hd.md#lien
 ParentLink: background_villageois_hd.md#personnalités-suggérées
 Name: Lien

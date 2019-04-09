@@ -9,6 +9,9 @@ Name: 'Variante : Ermite'
 ParentName: Solitaire
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Quelle qu'en soit la raison, vous avez décidé de vous retirer du monde. Vous vivez seul, loin de tous, et c'est un choix. Vous ne revenez dans les communautés civilisées que lorsque vous en avez réellement besoin et préférez la compagnie des animaux, le murmure de la nature et le chant du vent dans les arbres. Une vie sans les fioritures de la ville, vous contentant de peu afin de méditer. Votre isolement est une quête spirituelle avant tout.
+
 ---
 > [Solitaire](hd_background_solitaire.md)
 

@@ -1,5 +1,20 @@
 ﻿---
 !PersonalityDefectItem
+Table: >+
+  |d6|Défaut|
+
+  |1|Je passe beaucoup de temps absorbé par mes <!--br-->pensées, ce qui me rend parfois distrait ou peu <!--br-->attentif à ce qui m'entoure.|
+
+  |2|J'ignore le concept même de danger contre la <!--br-->promesse de nouvelles connaissances.|
+
+  |3|J'ai tendance à privilégier des solutions plus <!--br-->complexes ou plus élaborées, même face à un <!--br-->problème simple.|
+
+  |4|Il m'arrive souvent de passer trop de temps <!--br-->à analyser un problème, et pas assez à le <!--br-->résoudre.|
+
+  |5|Je suis un incorrigible gaffeur, et je suis bien <!--br-->incapable de tenir ma langue.|
+
+  |6|J'estime qu'un texte dans un grimoire ancien <!--br-->vaut souvent mieux qu'une opinion, même <!--br-->avertie.|
+
 Id: background_erudit_hd.md#défaut
 ParentLink: background_erudit_hd.md#personnalités-suggérées
 Name: Défaut

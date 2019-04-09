@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityLinkItem
+Table: >+
+  |d6|Lien|
+
+  |---|---|
+
+  |1|Je suis prêt à mourir en tentant de récupérer <!--br-->une ancienne relique liée à ma foi et qui a été <!--br-->perdue il y a très longtemps.|
+
+  |2|Un jour, je me vengerai de la hiérarchie <!--br-->corrompue qui m'a accusé d'être un hérétique.|
+
+  |3|Je dois ma vie au clerc qui m'a recueilli après la <!--br-->mort de mes parents.|
+
+  |4|Tout ce que je fais, je le fais pour le peuple.|
+
+  |5|Je suis prêt à tout pour protéger le temple dans <!--br-->lequel j'ai servi.|
+
+  |6|Je dois protéger un texte sacré que mes <!--br-->ennemis considèrent hérétique et cherchent à <!--br-->détruire.|
+
 Id: background_devot_hd.md#lien
 ParentLink: background_devot_hd.md#personnalités-suggérées
 Name: Lien

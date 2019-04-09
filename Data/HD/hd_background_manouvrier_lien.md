@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityLinkItem
+Table: >+
+  |d6|Lien|
+
+  |---|---|
+
+  |1|Un ancien collègue a subi un grave accident en <!--br-->me sauvant d'une mort certaine, et je fais mon <!--br-->possible pour subvenir à ses besoins.|
+
+  |2|J'ai une famille et des bouches à nourrir, même <!--br-->si elles sont loin de moi.|
+
+  |3|J'ai juré de me venger d'un chef de chantier <!--br-->particulièrement cruel.|
+
+  |4|J'ai participé à une bagarre générale qui a <!--br-->causé de gros dégâts, et je dois depuis de <!--br-->l'argent au patron de la taverne.|
+
+  |5|J'ai été déclaré hérétique par les prêtres d'un <!--br-->temple qui n'étaient pas satisfaits de mes <!--br-->services.|
+
+  |6|Brièvement engagé de force dans une armée, <!--br-->j'ai déserté et suis depuis recherché.|
+
 Id: background_manouvrier_hd.md#lien
 ParentLink: background_manouvrier_hd.md#personnalités-suggérées
 Name: Lien

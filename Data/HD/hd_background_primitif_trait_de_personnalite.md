@@ -1,5 +1,26 @@
 ﻿---
 !PersonalityTraitItem
+Table: >+
+  |d8|Trait de personnalité|
+
+  |---|---|
+
+  |1|Les gens me voient comme un sauvage, et <!--br-->j'aime entrer dans leur jeu.|
+
+  |2|Rien ne me plaît plus que de regarder les étoiles <!--br-->la nuit, d'écouter le vent dans les arbres et <!--br-->d'entendre le chant de la terre.|
+
+  |3|Rien ne peut me retenir, ni clan, ni maison.|
+
+  |4|Je veille toujours sur mes compagnons : tel est <!--br-->le prix de la survie.|
+
+  |5|Je me sens toujours mal à l'aise quand je <!--br-->pénètre dans les villes, et cela se voit sur mon <!--br-->visage.|
+
+  |6|Les animaux sont de meilleure compagnie que <!--br-->les êtres soi-disant civilisés.|
+
+  |7|Je ferais tout pour mon clan, quitte à en mourir.|
+
+  |8|Je n'accorde aucune valeur aux pierres <!--br-->précieuses et aux métaux. C'est une obsession <!--br-->de citadin.|
+
 Id: background_primitif_hd.md#trait-de-personnalité
 ParentLink: background_primitif_hd.md#personnalités-suggérées
 Name: Trait de personnalité

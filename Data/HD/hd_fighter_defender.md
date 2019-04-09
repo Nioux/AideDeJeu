@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
-Name: Défenseur
-Source: (MDR p163)
 ParentClassId: hd_fighter.md
 Id: fighter_defender_hd.md#défenseur
 RootId: fighter_defender_hd.md
 ParentLink: fighter_hd.md#archétypes-martiaux
+Name: Défenseur
 ParentName: Archétypes martiaux
 NameLevel: 1
+Source: (MDR p163)
 Attributes: {}
 ---
 >  [Archétypes martiaux](hd_fighter_archetypes_martiaux.md)

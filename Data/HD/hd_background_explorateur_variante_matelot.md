@@ -9,6 +9,9 @@ Name: 'Variante : Matelot'
 ParentName: Explorateur
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Vous avez fait partie d'un équipage, voguant sur les mers et les océans à la recherche de denrées rares et précieuses, ou de continents inexplorés. Vous avez affronté les dangers si particuliers de la navigation, et en êtes ressorti plus humble et plus sage.
+
 ---
 > [Explorateur](hd_background_explorateur.md)
 

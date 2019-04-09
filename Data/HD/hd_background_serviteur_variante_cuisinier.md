@@ -10,6 +10,9 @@ Name: 'Variante : Cuisinier'
 ParentName: Serviteur
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Vous avez trimé pendant de longues années en cuisine. D'abord simple commis, vous avez gravi les échelons jusqu'à diriger la cuisine de votre seigneur et obtenir sa pleine confiance pour gérer à la fois sa nourriture et celle de ses nombreux invités.
+
 ---
 > [Serviteur](hd_background_serviteur.md)
 

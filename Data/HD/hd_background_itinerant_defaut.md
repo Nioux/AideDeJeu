@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityDefectItem
+Table: >+
+  |d6|Défaut|
+
+  |---|---|
+
+  |1|J'aime bien emprunter des souvenirs des lieux <!--br-->et personnes que je visite.|
+
+  |2|Je fuis un ennemi puissant, et il veut ma peau.|
+
+  |3|Je ferais n'importe quoi pour que l'on se <!--br-->souvienne de moi.|
+
+  |4|J'ai toujours du mal à cacher ce que je pense. <!--br-->On dit que je parle trop.|
+
+  |5|À un moment ou à un autre, je déçois toujours <!--br-->mes amis et mes alliés.|
+
+  |6|J'ai un vice que j'ai toujours du mal à ne pas <!--br-->vouloir satisfaire, qu'il s'agisse des plaisirs de <!--br-->la chair, de l'alcool ou du jeu.|
+
 Id: background_itinerant_hd.md#défaut
 ParentLink: background_itinerant_hd.md#personnalités-suggérées
 Name: Défaut

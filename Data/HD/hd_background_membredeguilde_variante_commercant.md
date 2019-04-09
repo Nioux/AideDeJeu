@@ -9,6 +9,9 @@ Name: 'Variante : Commerçant'
 ParentName: Membre de guilde
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Les commerçants forment la colonne vertébrale de la vie urbaine médiévale, en achetant et en vendant des denrées, provenant parfois de contrées lointaines. Ils ont mauvaise réputation auprès des classes sociales les plus élevées, sont méprisés par le clergé, mais ont su rendre leur présence indispensable et accroître leur pouvoir. En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégories suivantes pour déterminer le négoce principal de votre guilde.
+
 ---
 > [Membre de guilde](hd_background_membredeguilde.md)
 

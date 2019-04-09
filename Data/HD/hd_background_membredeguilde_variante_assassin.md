@@ -10,6 +10,9 @@ Name: 'Variante : Assassin'
 ParentName: Membre de guilde
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Tous les royaumes, tous les États abritent en leur sein la lie de la civilisation. Des êtres abjects qui n'hésitent pas à éliminer une vie humaine pour quelques pièces d'or. Cependant, c'est une carrière dangereuse, et il n'est pas rare que les employeurs d'hier soient les ennemis de demain. L'existence d'une guilde d'assassins, même informelle, est une garantie de relative sécurité pour ses membres, et d'efficacité pour les clients potentiels.
+
 ---
 > [Membre de guilde](hd_background_membredeguilde.md)
 

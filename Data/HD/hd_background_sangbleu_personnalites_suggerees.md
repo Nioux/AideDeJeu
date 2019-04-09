@@ -6,6 +6,9 @@ Name: Personnalités suggérées
 ParentName: Sang bleu
 NameLevel: 4
 Attributes: {}
+Description: >+
+  Être un sang bleu est certes un privilège, mais cela s'accompagne toujours de grandes responsabilités et d'immenses devoirs, envers votre famille, ses alliés, votre contrée et votre suzerain, mais aussi envers ceux qui servent votre famille.
+
 ---
 > [Sang bleu](hd_background_sangbleu.md)
 

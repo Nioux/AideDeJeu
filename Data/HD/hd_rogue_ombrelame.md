@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
-Name: Ombrelame
-Source: (MDR p206)
 ParentClassId: hd_rogue.md
 Id: rogue_ombrelame_hd.md#ombrelame
 RootId: rogue_ombrelame_hd.md
 ParentLink: rogue_hd.md#archétypes-de-roublard
+Name: Ombrelame
 ParentName: Archétypes de roublard
 NameLevel: 1
+Source: (MDR p206)
 Attributes: {}
 ---
 >  [Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)

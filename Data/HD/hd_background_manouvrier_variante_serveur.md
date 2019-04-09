@@ -10,6 +10,9 @@ Name: 'Variante : Serveur'
 ParentName: Manouvrier
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes tavernes où artisans, ouvriers et autres bourgeois se rencontrent autour d'une chope et d'une assiette bien remplie. Vous avez longtemps travaillé dans ce type d'établissements, servant à boire et nettoyant les tables en écoutant les multiples histoires des clients.
+
 ---
 > [Manouvrier](hd_background_manouvrier.md)
 

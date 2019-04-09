@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityLinkItem
+Table: >+
+  |d6|Lien|
+
+  |---|---|
+
+  |1|Le sort de mes gens dépend de moi, et de mes <!--br-->décisions.|
+
+  |2|Mon titre m'impose ma conduite. Je ne peux <!--br-->me permettre de le salir.|
+
+  |3|Je dois mon rang à mon roi, et son mot est mon <!--br-->ordre.|
+
+  |4|Ma famille est mon pilier et cela m'impose un <!--br-->ensemble de devoirs importants.|
+
+  |5|Je suis promis à une personne issue d'une autre <!--br-->famille, et je ne peux salir son nom, ni la mettre <!--br-->en danger, par mes actes.|
+
+  |6|Je suis amoureux d'une personne dont la <!--br-->position n'est pas conciliable avec mon rang, <!--br-->ou mon nom.|
+
 Id: background_sangbleu_hd.md#lien
 ParentLink: background_sangbleu_hd.md#personnalités-suggérées
 Name: Lien

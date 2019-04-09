@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityDefectItem
+Table: >+
+  |d6|Défaut|
+
+  |---|---|
+
+  |1|J'aime les ragots et les rumeurs, et je ne peux <!--br-->m'empêcher de les colporter.|
+
+  |2|J'ai tendance à dérober de petits objets de <!--br-->valeur quand l'occasion se présente.|
+
+  |3|J'ai une fascination excessive pour les dorures, <!--br-->les parures, et les atours du pouvoir.|
+
+  |4|Je ne fais jamais confiance à une personne d'un <!--br-->statut social supérieur au mien.|
+
+  |5|Je suis d'un naturel obséquieux, même dans <!--br-->des circonstances qui ne l'exigent pas.|
+
+  |6|Je porte en moi un profond sentiment <!--br-->d'infériorité, et je me dévalorise sans cesse.|
+
 Id: background_serviteur_hd.md#défaut
 ParentLink: background_serviteur_hd.md#personnalités-suggérées
 Name: Défaut

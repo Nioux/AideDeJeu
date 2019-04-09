@@ -6,6 +6,9 @@ Name: "Aptitude : Position d'autorité"
 ParentName: 'Variante : Officier'
 NameLevel: 4
 Attributes: {}
+Description: >+
+  Les soldats « amis » reconnaissent votre autorité et votre expérience, et ont tendance à accepter tout naturellement vos ordres et vos directives. En cas de nécessité, dans une ville de votre région d'origine, vous êtes capable de réunir rapidement un petit groupe d'anciens soldats prêts à vous rendre service.
+
 ---
 > [Variante : Officier](hd_background_militaire_variante_officier.md)
 

@@ -10,6 +10,9 @@ Name: 'Variante : Officier'
 ParentName: Militaire
 NameLevel: 3
 Attributes: {}
+Description: >+
+  Par votre courage ou un hasard des événements, à force de ténacité aussi, vous avez gravi quelques échelons dans la hiérarchie militaire, devenant sergent, enseigne, lieutenant ou même capitaine d'une compagnie. Vos hommes vous respectaient d'autant plus que votre statut n'avait rien à voir avec votre naissance.
+
 ---
 > [Militaire](hd_background_militaire.md)
 

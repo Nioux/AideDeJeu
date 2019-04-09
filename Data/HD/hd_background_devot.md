@@ -12,6 +12,12 @@ NameLevel: 1
 AltName: Acolyte (SRD p60)
 Source: (MDR p81)
 Attributes: {}
+Description: >+
+  Vous avez passé votre vie au service d'un temple dédié à un dieu particulier ou à un panthéon de dieux. Vous serviez d'intermédiaire entre le domaine du sacré et le monde mortel. Vous accomplissiez les rites sacrés et faisiez les sacrifices nécessaires qui permettent de mettre les fidèles en présence du divin. Vous n'étiez pas nécessairement un clerc (accomplir des rites sacrés n'est pas la même chose que canaliser la puissance divine).
+
+
+  Choisissez un dieu, un panthéon de dieux ou un être semi-divin parmi la liste proposée dans l'appendice A, Panthéons historiques et fantastiques, page 414, ou par- mi ceux proposés par votre MJ, avec qui vous déterminerez la nature exacte de vos tâches religieuses. Étiezvous un petit acolyte dans la hiérarchie du temple, élevé depuis l'enfance pour assister les prêtres lors des rites sacrés ? Ou le leader d'un culte qui a soudain ressenti le besoin de servir son dieu différemment ? Peut-être étiez-vous à la tête d'un culte indépendant non affilié à un quelconque temple, ou faisiez-vous partie d'un groupe occulte au service d'un maître démoniaque que vous avez renié.
+
 ---
 >  [Historique](hd_backgrounds.md)
 

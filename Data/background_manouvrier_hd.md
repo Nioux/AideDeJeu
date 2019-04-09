@@ -7,7 +7,11 @@
 
 # <!--Name-->Manouvrier<!--/Name-->
 
+<!--Description-->
+
 Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et votre endurance. Vous arpentiez les rues de votre cité en vous levant à l'aube, afin de vendre vos services à la journée, parfois pour quelques jours. Votre vie n'a pas toujours été simple, et vous avez souvent flirté avec la mendicité ou la délinquance pour gagner votre pain. Par un coup de pouce du hasard, vous avez pu échapper à cette vie. Vous en concevez une volonté inébranlable et la conscience aiguë d'une main invisible qui veille sur votre destinée.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Athlétisme, Escamotage.<!--/Abilities-->
 
@@ -19,7 +23,13 @@ Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et vo
 
 #### <!--Name-->Signe du destin<!--/Name-->
 
+<!--Description-->
+
 Un événement est survenu dans votre vie, qui a radicalement altéré votre destin. Choisissez ou déterminez aléatoirement ce signe parmi les événements suivants. Précisez ensuite avec votre MJ les détails correspondant.
+
+<!--/Description-->
+
+<!--Table-->
 
 |d6|Signe du destin|
 |---|---|
@@ -30,13 +40,19 @@ Un événement est survenu dans votre vie, qui a radicalement altéré votre des
 |5|Vous êtes parvenu à sauver des villageois d'une <!--br-->mort certaine en bravant les éléments.|
 |6|Vous avez trouvé une arme ou un symbole qui <!--br-->vous a mené sur votre nouvelle voie.|
 
+<!--/Table-->
+
 <!--/BackgroundSpecialtyItem-->
 
 <!--SkillItem-->
 
 #### <!--Name-->Aptitude : Communauté<!--/Name-->
 
+<!--Description-->
+
 Les manouvriers et journaliers forment une communauté soudée qui se serre les coudes en période de vaches maigres, et qui sait que les quelques pièces obtenues du travail d'une journée peuvent parfois faire la différence entre la vie et la mort. En cas de besoin, vous savez faire appel à la solidarité de vos anciens collègues pour obtenir des informations, un peu d'aide ou l'hospitalité.
+
+<!--/Description-->
 
 <!--/SkillItem-->
 
@@ -44,11 +60,17 @@ Les manouvriers et journaliers forment une communauté soudée qui se serre les 
 
 #### <!--Name-->Personnalités suggérées<!--/Name-->
 
+<!--Description-->
+
 Les manouvriers constituent une large part de la main d'oeuvre bon marché dans les villes et les cités, où les chantiers, les artisans et les commerçants font appel à eux pour des tâches ponctuelles. Une volonté de fer, un fort sens de la débrouillardise et un dos d'airain sont les principaux atouts de ces travailleurs de l'ombre, qui parviennent parfois à élever leur condition, à force de sacrifices, de talent et de travail.
+
+<!--/Description-->
 
 <!--PersonalityTraitItem-->
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+<!--Table-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -61,11 +83,15 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 |7|Je m'emporte facilement, et je pardonne encore <!--br-->plus facilement.|
 |8|Je m'arrange toujours pour travailler moins <!--br-->que les autres.|
 
+<!--/Table-->
+
 <!--/PersonalityTraitItem-->
 
 <!--PersonalityIdealItem-->
 
 ##### <!--Name-->Idéal<!--/Name-->
+
+<!--Table-->
 
 |d6|Idéal|
 |---|---|
@@ -76,11 +102,15 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 |5|**Indépendance.** Le travail devrait être un <!--br-->moyen de gagner sa liberté. (Chaotique)|
 |6|**Ambition.** Les événements m'ont prouvé que je <!--br-->valais mieux que ce que je pensais. (Tous)|
 
+<!--/Table-->
+
 <!--/PersonalityIdealItem-->
 
 <!--PersonalityLinkItem-->
 
 ##### <!--Name-->Lien<!--/Name-->
+
+<!--Table-->
 
 |d6|Lien|
 |---|---|
@@ -91,11 +121,15 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 |5|J'ai été déclaré hérétique par les prêtres d'un <!--br-->temple qui n'étaient pas satisfaits de mes <!--br-->services.|
 |6|Brièvement engagé de force dans une armée, <!--br-->j'ai déserté et suis depuis recherché.|
 
+<!--/Table-->
+
 <!--/PersonalityLinkItem-->
 
 <!--PersonalityDefectItem-->
 
 ##### <!--Name-->Défaut<!--/Name-->
+
+<!--Table-->
 
 |d6|Défaut|
 |---|---|
@@ -106,6 +140,8 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 |5|Je suis extrêmement crédule, pour peu qu'on <!--br-->me témoigne du respect.|
 |6|Je ne supporte pas de rester enfermé.|
 
+<!--/Table-->
+
 <!--/PersonalityDefectItem-->
 
 <!--/Items-->
@@ -114,7 +150,11 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 
 ### <!--Name-->Variante : Serveur<!--/Name-->
 
+<!--Description-->
+
 Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes tavernes où artisans, ouvriers et autres bourgeois se rencontrent autour d'une chope et d'une assiette bien remplie. Vous avez longtemps travaillé dans ce type d'établissements, servant à boire et nettoyant les tables en écoutant les multiples histoires des clients.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Athlétisme, Représentation.<!--/Abilities-->
 
@@ -128,7 +168,11 @@ Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes t
 
 #### <!--Name-->Aptitude : Histoires de terres lointaines<!--/Name-->
 
+<!--Description-->
+
 Vous ne comptez plus le nombre d'histoires de terres inconnues et lointaines que vous avez entendues alors que vous alliez et veniez entre les tables. Même si vous n'avez jamais vu aucune de ces régions mystérieuses, vous avez l'impression d'en connaître certaines intimement. Lorsque vous voyagez vers une contrée inconnue, vous pouvez demander au MJ de vous fournir des informations de base sur votre destination. De plus, lorsque vous et vos compagnons vous trouvez dans une taverne ou une auberge, vous pouvez vous attirer les faveurs du tenancier et de quelques clients en racontant vos histoires ou en profitant de votre expérience. Cela peut vous permettre de glaner quelques informations ou une aide ponctuelle.
+
+<!--/Description-->
 
 <!--/SkillItem-->
 
@@ -138,7 +182,11 @@ Vous ne comptez plus le nombre d'histoires de terres inconnues et lointaines que
 
 ### <!--Name-->Variante : Journalier<!--/Name-->
 
+<!--Description-->
+
 Les journaliers proposent leurs services dans les villages et les campagnes. Ils y sont coutumiers des travaux agricoles, d'un petit artisanat d'appoint dans les villages, et du transport de quelques biens indispensables entre les différentes communautés. Les plus chanceux trouvent des travaux saisonniers pendant lesquels ils sont nourris et logés à la ferme, et n'ont pas à se demander – au moins pendant quelques semaines – de quoi le lendemain sera fait.
+
+<!--/Description-->
 
 **Compétences :** <!--Abilities-->Athlétisme, Survie.<!--/Abilities-->
 

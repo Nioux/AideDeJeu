@@ -1,5 +1,22 @@
 ﻿---
 !PersonalityDefectItem
+Table: >+
+  |d6|Défaut|
+
+  |---|---|
+
+  |1|J'ai pris goût au jeu, et notamment au jeu <!--br-->d'argent, pour meubler les journées sans <!--br-->travail.|
+
+  |2|Je ne termine jamais une journée sans une ou <!--br-->plusieurs bonnes pintes.|
+
+  |3|J'ai aisément recours à la violence lorsque les <!--br-->choses ne se passent pas comme je l'espère.|
+
+  |4|Je me plains des agissements des chefs de <!--br-->chantier et des puissants, mais je serais sans <!--br-->doute pire encore si j'étais à leur place.|
+
+  |5|Je suis extrêmement crédule, pour peu qu'on <!--br-->me témoigne du respect.|
+
+  |6|Je ne supporte pas de rester enfermé.|
+
 Id: background_manouvrier_hd.md#défaut
 ParentLink: background_manouvrier_hd.md#personnalités-suggérées
 Name: Défaut
