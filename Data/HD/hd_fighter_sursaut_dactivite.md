@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Sursaut d'activité
 Id: fighter_hd.md#sursaut-dactivité
 ParentLink: fighter_hd.md#guerrier
-Name: Sursaut d'activité
 ParentName: Guerrier
 NameLevel: 1
 Attributes: {}

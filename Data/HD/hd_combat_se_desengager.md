@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#se-désengager
-ParentLink: combat_hd.md#combattre
 Name: Se désengager
-ParentName: Combattre
-NameLevel: 3
 AltName: Disengage (SRD p93)
 Source: (MDR p288)
+Id: combat_hd.md#se-désengager
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 3
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

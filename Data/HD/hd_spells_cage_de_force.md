@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Cage de force
-AltName: '[Forcecage](srd_spells_forcecage.md)'
-Type: Évocation
 Level: 7
+Type: Évocation
 CastingTime: 1 action
 Range: 30 mètres
 Components: V, S, M (poussière de rubis d'une valeur de 1 500 po)
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p330)(SRD)
 Id: spells_hd.md#cage-de-force
 ParentLink: spells_hd.md#sorts
+Name: Cage de force
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Forcecage](srd_spells_forcecage.md)'
+Source: (MDR p330)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

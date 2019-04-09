@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Stalagmites fulgurantes
-Type: Invocation
 Level: 2
+Type: Invocation
 CastingTime: 1 action
 Range: 30 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute.
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p)
 Id: spells_hd.md#stalagmites-fulgurantes
 ParentLink: spells_hd.md#sorts
+Name: Stalagmites fulgurantes
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

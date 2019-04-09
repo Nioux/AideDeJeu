@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#combat-sous-marin
-ParentLink: combat_hd.md#combattre
 Name: Combat sous-marin
-ParentName: Combattre
-NameLevel: 2
 AltName: Underwater Combat (SRD p99)
 Source: (MDR p295)
+Id: combat_hd.md#combat-sous-marin
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 2
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

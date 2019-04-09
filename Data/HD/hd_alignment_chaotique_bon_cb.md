@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Chaotique Bon (CB)
 Id: alignment_hd.md#chaotique-bon-cb
 ParentLink: alignment_hd.md#alignement
-Name: Chaotique Bon (CB)
 ParentName: Alignement
 NameLevel: 4
 Attributes: {}

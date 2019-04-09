@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Défense sans armure
 Id: barbarian_hd.md#défense-sans-armure
 ParentLink: barbarian_hd.md#barbare
-Name: Défense sans armure
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

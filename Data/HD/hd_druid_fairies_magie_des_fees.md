@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Magie des fées
 Id: druid_fairies_hd.md#magie-des-fées
 ParentLink: druid_fairies_hd.md#cercle-des-fées
-Name: Magie des fées
 ParentName: Cercle des fées
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Chance du ténébreux
 Id: warlock_fiendish_hd.md#chance-du-ténébreux
 ParentLink: warlock_fiendish_hd.md#le-fiélon
-Name: Chance du ténébreux
 ParentName: Le fiélon
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Dérobade
 Id: rogue_hd.md#dérobade
 ParentLink: rogue_hd.md#roublard
-Name: Dérobade
 ParentName: Roublard
 NameLevel: 2
 Attributes: {}

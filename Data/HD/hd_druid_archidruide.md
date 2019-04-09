@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Archidruide
 Id: druid_hd.md#archidruide
 ParentLink: druid_hd.md#druide
-Name: Archidruide
 ParentName: Druide
 NameLevel: 2
 Attributes: {}

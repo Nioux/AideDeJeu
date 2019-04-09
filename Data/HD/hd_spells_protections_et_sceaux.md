@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Protections et sceaux
-AltName: '[Guards and Wards](srd_spells_guards_and_wards.md)'
-Type: Abjuration
 Level: 6
+Type: Abjuration
 CastingTime: 10 minutes
 Range: contact
 Components: V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)
 Duration: 24 heures
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#protections-et-sceaux
 ParentLink: spells_hd.md#sorts
+Name: Protections et sceaux
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Guards and Wards](srd_spells_guards_and_wards.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Séquelles
 Id: l5r_hitpoints_hd.md#séquelles
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
-Name: Séquelles
 ParentName: Points de vie et blessures
 NameLevel: 4
 Attributes: {}

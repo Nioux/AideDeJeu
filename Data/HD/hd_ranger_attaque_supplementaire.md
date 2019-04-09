@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Attaque supplémentaire
 Id: ranger_hd.md#attaque-supplémentaire
 ParentLink: ranger_hd.md#rôdeur
-Name: Attaque supplémentaire
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

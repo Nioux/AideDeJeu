@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Aspect de l'avatar
 Id: cleric_priest_hd.md#aspect-de-lavatar
 ParentLink: cleric_priest_hd.md#prêtre
-Name: Aspect de l'avatar
 ParentName: Prêtre
 NameLevel: 2
 Attributes: {}

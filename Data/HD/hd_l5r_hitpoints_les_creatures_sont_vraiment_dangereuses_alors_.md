@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Les créatures sont vraiment dangereuses alors ?
+Source: (L5R p47)
 Id: l5r_hitpoints_hd.md#les-créatures-sont-vraiment-dangereuses-alors-?
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
-Name: Les créatures sont vraiment dangereuses alors ?
 ParentName: Points de vie et blessures
 NameLevel: 4
-Source: (L5R p47)
 Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)

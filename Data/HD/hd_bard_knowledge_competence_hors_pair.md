@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Compétence hors pair
 Id: bard_knowledge_hd.md#compétence-hors-pair
 ParentLink: bard_knowledge_hd.md#collège-du-savoir
-Name: Compétence hors pair
 ParentName: Collège du savoir
 NameLevel: 2
 Attributes: {}

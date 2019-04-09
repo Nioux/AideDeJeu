@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Particularité d'un objet magique
 Id: magicitems_hd.md#particularité-dun-objet-magique
 ParentLink: magicitems_hd.md#objets-magiques
-Name: Particularité d'un objet magique
 ParentName: Objets magiques
 NameLevel: 3
 Attributes: {}

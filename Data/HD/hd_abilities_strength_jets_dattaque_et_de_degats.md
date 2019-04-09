@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Jets d'attaque et de dégâts
 Id: abilities_strength_hd.md#jets-dattaque-et-de-dégâts
 ParentLink: abilities_strength_hd.md#force
-Name: Jets d'attaque et de dégâts
 ParentName: Force
 NameLevel: 2
 Attributes: {}

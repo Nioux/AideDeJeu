@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Incantations
 Id: ranger_hd.md#incantations
 ParentLink: ranger_hd.md#rôdeur
-Name: Incantations
 ParentName: Rôdeur
 NameLevel: 1
 Attributes: {}

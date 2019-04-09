@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Désintégration
-AltName: '[Disintegrate](srd_spells_disintegrate.md)'
-Type: Transmutation
 Level: 6
+Type: Transmutation
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (de la magnétite et une pincée de poussière)
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Source: (MDR p346)(SRD)
 Id: spells_hd.md#désintégration
 ParentLink: spells_hd.md#sorts
+Name: Désintégration
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Disintegrate](srd_spells_disintegrate.md)'
+Source: (MDR p346)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

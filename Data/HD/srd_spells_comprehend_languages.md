@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Comprehend Languages
-AltName: '[Compréhension des langues](hd_spells_comprehension_des_langues.md)'
-Type: divination
 Level: 1
+Type: divination
+Ritual: ritual
 CastingTime: 1 action
 Range: Self
 Components: V, S, M (a pinch of soot and salt)
 Duration: 1 hour
 Classes: Bard, Sorcerer, Warlock, Wizard
-Source: (SRD p126)
-Ritual: ritual
 Id: spells_vo.md#comprehend-languages
 ParentLink: spells_vo.md#spells-srd-p
+Name: Comprehend Languages
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Compréhension des langues](hd_spells_comprehension_des_langues.md)'
+Source: (SRD p126)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#déplacement-en-vol
-ParentLink: combat_hd.md#combattre
 Name: Déplacement en vol
-ParentName: Combattre
-NameLevel: 4
 AltName: Flying Movement (SRD p92)
 Source: (MDR p287)
+Id: combat_hd.md#déplacement-en-vol
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 4
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Flamme éternelle
-AltName: '[Continual Flame](srd_spells_continual_flame.md)'
-Type: Évocation
 Level: 2
+Type: Évocation
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)
 Duration: jusqu'à dissipation
 Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-Source: (MDR p355)(SRD)
 Id: spells_hd.md#flamme-éternelle
 ParentLink: spells_hd.md#sorts
+Name: Flamme éternelle
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Continual Flame](srd_spells_continual_flame.md)'
+Source: (MDR p355)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

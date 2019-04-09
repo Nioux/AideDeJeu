@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Ombre et magie
 Id: rogue_ombrelame_hd.md#ombre-et-magie
 ParentLink: rogue_ombrelame_hd.md#ombrelame
-Name: Ombre et magie
 ParentName: Ombrelame
 NameLevel: 2
 Attributes: {}

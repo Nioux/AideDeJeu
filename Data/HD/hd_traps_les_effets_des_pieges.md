@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Les effets des pièges
 Id: traps_hd.md#les-effets-des-pièges
 ParentLink: traps_hd.md#les-pièges
-Name: Les effets des pièges
 ParentName: Les pièges
 NameLevel: 3
 Attributes: {}

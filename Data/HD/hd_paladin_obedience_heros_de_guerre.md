@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Héros de guerre
 Id: paladin_obedience_hd.md#héros-de-guerre
 ParentLink: paladin_obedience_hd.md#serment-dobédience
-Name: Héros de guerre
 ParentName: Serment d'obédience
 NameLevel: 2
 Attributes: {}

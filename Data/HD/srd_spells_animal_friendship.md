@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Animal Friendship
-AltName: '[Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)'
-Type: enchantment
 Level: 1
+Type: enchantment
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S, M (a morsel of food)
 Duration: 24 hours
 Classes: Bard, Druid, Ranger
-Source: (SRD p115)
 Id: spells_vo.md#animal-friendship
 ParentLink: spells_vo.md#spells-srd-p
+Name: Animal Friendship
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)'
+Source: (SRD p115)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

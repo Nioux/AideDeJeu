@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Oeil magique
-AltName: '[Arcane Eye](srd_spells_arcane_eye.md)'
-Type: Divination
 Level: 4
+Type: Divination
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (des poils de chauve-souris)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#oeil-magique
 ParentLink: spells_hd.md#sorts
+Name: Oeil magique
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Arcane Eye](srd_spells_arcane_eye.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

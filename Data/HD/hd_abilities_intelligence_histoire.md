@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Histoire
 Id: abilities_intelligence_hd.md#histoire
 ParentLink: abilities_intelligence_hd.md#intelligence
-Name: Histoire
 ParentName: Intelligence
 NameLevel: 3
 Attributes: {}

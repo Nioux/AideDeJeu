@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Identify
-AltName: '[Identification](hd_spells_identification.md)'
-Type: divination
 Level: 1
+Type: divination
+Ritual: ritual
 CastingTime: 1 minute
 Range: Touch
 Components: V, S, M (a pearl worth at least 100 gp and an owl feather)
 Duration: Instantaneous
 Classes: Bard, Wizard
-Source: (SRD p155)
-Ritual: ritual
 Id: spells_vo.md#identify
 ParentLink: spells_vo.md#spells-srd-p
+Name: Identify
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Identification](hd_spells_identification.md)'
+Source: (SRD p155)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

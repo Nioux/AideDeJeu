@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Appel de familier
-AltName: '[Find Familiar](srd_spells_find_familiar.md)'
-Type: Invocation
 Level: 1
+Type: Invocation
+Ritual: rituel
 CastingTime: 1 heure
 Range: 3 mètres
 Components: V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
 Duration: instantanée
 Classes: '[Magicien](hd_wizard.md)'
-Source: (MDR p323)(SRD)
-Ritual: rituel
 Id: spells_hd.md#appel-de-familier
 ParentLink: spells_hd.md#sorts
+Name: Appel de familier
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Find Familiar](srd_spells_find_familiar.md)'
+Source: (MDR p323)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

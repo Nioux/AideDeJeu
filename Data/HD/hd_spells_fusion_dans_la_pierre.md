@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Fusion dans la pierre
-AltName: '[Meld into Stone](srd_spells_meld_into_stone.md)'
-Type: Transmutation
 Level: 3
+Type: Transmutation
+Ritual: rituel
 CastingTime: 1 action
 Range: contact
 Components: V, S
 Duration: 8 heures
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-Source: (MDR p358)(SRD)
-Ritual: rituel
 Id: spells_hd.md#fusion-dans-la-pierre
 ParentLink: spells_hd.md#sorts
+Name: Fusion dans la pierre
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Meld into Stone](srd_spells_meld_into_stone.md)'
+Source: (MDR p358)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

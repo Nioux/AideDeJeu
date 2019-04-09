@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Combat à deux armes
 Id: ranger_hd.md#combat-à-deux-armes
 ParentLink: ranger_hd.md#rôdeur
-Name: Combat à deux armes
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

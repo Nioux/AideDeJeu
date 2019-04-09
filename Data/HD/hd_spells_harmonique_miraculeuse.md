@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Harmonique miraculeuse
-Type: Évocation
 Level: 9
+Type: Évocation
 CastingTime: 1 action
 Range: 12 mètres
 Components: V, S, M (un verre en cristal d'une valeur de 500 po)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md)'
-Source: (MDR p)
 Id: spells_hd.md#harmonique-miraculeuse
 ParentLink: spells_hd.md#sorts
+Name: Harmonique miraculeuse
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Persécuter
 Id: rogue_brute_hd.md#persécuter
 ParentLink: rogue_brute_hd.md#brute
-Name: Persécuter
 ParentName: Brute
 NameLevel: 2
 Attributes: {}

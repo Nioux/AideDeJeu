@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Devenir fou
 Id: madness_hd.md#devenir-fou
 ParentLink: madness_hd.md#la-folie
-Name: Devenir fou
 ParentName: La folie
 NameLevel: 3
 Attributes: {}

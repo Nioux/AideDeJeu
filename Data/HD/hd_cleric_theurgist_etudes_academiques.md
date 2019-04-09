@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Études académiques
 Id: cleric_theurgist_hd.md#Études-académiques
 ParentLink: cleric_theurgist_hd.md#théurge
-Name: Études académiques
 ParentName: Théurge
 NameLevel: 2
 Attributes: {}

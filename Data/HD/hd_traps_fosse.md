@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Fosse
 Id: traps_hd.md#fosse
 ParentLink: traps_hd.md#les-pièges
-Name: Fosse
 ParentName: Les pièges
 NameLevel: 4
 Attributes: {}

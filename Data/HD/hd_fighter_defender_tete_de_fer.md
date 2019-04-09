@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Tête de fer
 Id: fighter_defender_hd.md#tête-de-fer
 ParentLink: fighter_defender_hd.md#défenseur
-Name: Tête de fer
 ParentName: Défenseur
 NameLevel: 2
 Attributes: {}

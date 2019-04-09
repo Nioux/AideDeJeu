@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Archétype martial
 Id: fighter_hd.md#archétype-martial
 ParentLink: fighter_hd.md#guerrier
-Name: Archétype martial
 ParentName: Guerrier
 NameLevel: 1
 Attributes: {}

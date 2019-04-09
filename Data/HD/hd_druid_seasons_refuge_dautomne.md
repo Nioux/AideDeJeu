@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Refuge d'automne
 Id: druid_seasons_hd.md#refuge-dautomne
 ParentLink: druid_seasons_hd.md#cercle-des-saisons
-Name: Refuge d'automne
 ParentName: Cercle des saisons
 NameLevel: 2
 Attributes: {}

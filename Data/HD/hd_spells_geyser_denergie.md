@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Geyser d'énergie
-Type: Évocation
 Level: 1
+Type: Évocation
 CastingTime: 1 action
 Range: 27 mètres
 Components: V, S, M (une petite poire remplie d'air)
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md)'
-Source: (MDR p359)
 Id: spells_hd.md#geyser-dénergie
 ParentLink: spells_hd.md#sorts
+Name: Geyser d'énergie
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p359)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

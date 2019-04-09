@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Sunburst
-AltName: '[Éclat du soleil](hd_spells_eclat_du_soleil.md)'
-Type: evocation
 Level: 8
+Type: evocation
 CastingTime: 1 action
 Range: 150 feet
 Components: V, S, M (fire and a piece of sunstone)
 Duration: Instantaneous
 Classes: Druid, Sorcerer, Wizard
-Source: (SRD p184)
 Id: spells_vo.md#sunburst
 ParentLink: spells_vo.md#spells-srd-p
+Name: Sunburst
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Éclat du soleil](hd_spells_eclat_du_soleil.md)'
+Source: (SRD p184)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

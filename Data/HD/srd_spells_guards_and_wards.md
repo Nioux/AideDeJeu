@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Guards and Wards
-AltName: '[Protections et sceaux](hd_spells_protections_et_sceaux.md)'
-Type: abjuration
 Level: 6
+Type: abjuration
 CastingTime: 10 minutes
 Range: Touch
 Components: V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)
 Duration: 24 hours
 Classes: Bard, Wizard
-Source: (SRD p151)
 Id: spells_vo.md#guards-and-wards
 ParentLink: spells_vo.md#spells-srd-p
+Name: Guards and Wards
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Protections et sceaux](hd_spells_protections_et_sceaux.md)'
+Source: (SRD p151)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

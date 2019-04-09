@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Sequester
-AltName: '[Séquestration](hd_spells_sequestration.md)'
-Type: transmutation
 Level: 7
+Type: transmutation
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)
 Duration: Until dispelled
 Classes: Wizard
-Source: (SRD p178)
 Id: spells_vo.md#sequester
 ParentLink: spells_vo.md#spells-srd-p
+Name: Sequester
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Séquestration](hd_spells_sequestration.md)'
+Source: (SRD p178)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

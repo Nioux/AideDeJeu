@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: La confrontation
+Source: (L5R p73)
 Id: l5r_rituals_hd.md#la-confrontation
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
-Name: La confrontation
 ParentName: Lancer un rituel
 NameLevel: 3
-Source: (L5R p73)
 Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

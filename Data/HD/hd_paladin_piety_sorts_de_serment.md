@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sorts de serment
 Id: paladin_piety_hd.md#sorts-de-serment
 ParentLink: paladin_piety_hd.md#serment-de-piété
-Name: Sorts de serment
 ParentName: Serment de piété
 NameLevel: 2
 Attributes: {}

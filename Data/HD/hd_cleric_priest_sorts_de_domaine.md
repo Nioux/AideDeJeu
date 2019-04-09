@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sorts de domaine
 Id: cleric_priest_hd.md#sorts-de-domaine
 ParentLink: cleric_priest_hd.md#prêtre
-Name: Sorts de domaine
 ParentName: Prêtre
 NameLevel: 2
 Attributes: {}

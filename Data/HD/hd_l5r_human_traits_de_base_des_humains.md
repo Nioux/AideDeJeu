@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Traits de base des humains
+Source: (L5R p49)
 Id: l5r_human_hd.md#traits-de-base-des-humains
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
-Name: Traits de base des humains
 ParentName: Humain des cinq royaumes
 NameLevel: 3
-Source: (L5R p49)
 Attributes: {}
 ---
 > [Humain des cinq royaumes](hd_l5r_human.md)

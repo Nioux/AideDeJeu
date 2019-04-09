@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Puissance indomptable
 Id: barbarian_hd.md#puissance-indomptable
 ParentLink: barbarian_hd.md#barbare
-Name: Puissance indomptable
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

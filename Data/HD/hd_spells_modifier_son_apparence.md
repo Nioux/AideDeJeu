@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Modifier son apparence
-AltName: '[Alter Self](srd_spells_alter_self.md)'
-Type: Transmutation
 Level: 2
+Type: Transmutation
 CastingTime: 1 action
 Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#modifier-son-apparence
 ParentLink: spells_hd.md#sorts
+Name: Modifier son apparence
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Alter Self](srd_spells_alter_self.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

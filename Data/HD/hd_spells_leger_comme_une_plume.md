@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Léger comme une plume
-AltName: '[Feather Fall](srd_spells_feather_fall.md)'
-Type: Transmutation
 Level: 1
+Type: Transmutation
 CastingTime: 1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain
 Range: 18 mètres
 Components: V, M (une petite plume ou un peu de duvet)
 Duration: 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#léger-comme-une-plume
 ParentLink: spells_hd.md#sorts
+Name: Léger comme une plume
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Feather Fall](srd_spells_feather_fall.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

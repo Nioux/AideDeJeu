@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Beacon of Hope
-AltName: "[Lueur d'espoir](hd_spells_lueur_despoir.md)"
-Type: abjuration
 Level: 3
+Type: abjuration
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Cleric
-Source: (SRD p121)
 Id: spells_vo.md#beacon-of-hope
 ParentLink: spells_vo.md#spells-srd-p
+Name: Beacon of Hope
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: "[Lueur d'espoir](hd_spells_lueur_despoir.md)"
+Source: (SRD p121)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

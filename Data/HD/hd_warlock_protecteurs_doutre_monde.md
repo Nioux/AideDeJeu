@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Protecteurs d'outre-monde
 Id: warlock_hd.md#protecteurs-doutre-monde
 ParentLink: warlock_hd.md#sorcier
-Name: Protecteurs d'outre-monde
 ParentName: Sorcier
 NameLevel: 1
 Attributes: {}

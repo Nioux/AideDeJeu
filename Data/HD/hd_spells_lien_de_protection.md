@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Lien de protection
-AltName: '[Warding Bond](srd_spells_warding_bond.md)'
-Type: Abjuration
 Level: 2
+Type: Abjuration
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
 Duration: 1 heure
 Classes: '[Clerc](hd_cleric.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#lien-de-protection
 ParentLink: spells_hd.md#sorts
+Name: Lien de protection
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Warding Bond](srd_spells_warding_bond.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

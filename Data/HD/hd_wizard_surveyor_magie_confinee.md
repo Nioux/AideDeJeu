@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Magie confinée
 Id: wizard_surveyor_hd.md#magie-confinée
 ParentLink: wizard_surveyor_hd.md#arpenteur
-Name: Magie confinée
 ParentName: Arpenteur
 NameLevel: 2
 Attributes: {}

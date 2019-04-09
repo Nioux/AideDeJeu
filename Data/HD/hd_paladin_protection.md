@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Protection
 Id: paladin_hd.md#protection
 ParentLink: paladin_hd.md#paladin
-Name: Protection
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

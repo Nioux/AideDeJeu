@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Silence
-AltName: '[Silence](hd_spells_silence.md)'
-Type: illusion
 Level: 2
+Type: illusion
+Ritual: ritual
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S
 Duration: Concentration, up to 10 minutes
 Classes: Bard, Cleric, Ranger
-Source: (SRD p179)
-Ritual: ritual
 Id: spells_vo.md#silence
 ParentLink: spells_vo.md#spells-srd-p
+Name: Silence
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Silence](hd_spells_silence.md)'
+Source: (SRD p179)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

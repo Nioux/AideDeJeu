@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Protection contre le poison
-AltName: '[Protection from Poison](srd_spells_protection_from_poison.md)'
-Type: Abjuration
 Level: 2
+Type: Abjuration
 CastingTime: 1 action
 Range: contact
 Components: V, S
 Duration: 1 heure
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#protection-contre-le-poison
 ParentLink: spells_hd.md#sorts
+Name: Protection contre le poison
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Protection from Poison](srd_spells_protection_from_poison.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

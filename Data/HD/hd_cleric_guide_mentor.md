@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Mentor
 Id: cleric_guide_hd.md#mentor
 ParentLink: cleric_guide_hd.md#guide-spirituel
-Name: Mentor
 ParentName: Guide spirituel
 NameLevel: 2
 Attributes: {}

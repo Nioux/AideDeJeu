@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Inspiration bardique
 Id: bard_hd.md#inspiration-bardique
 ParentLink: bard_hd.md#barde
-Name: Inspiration bardique
 ParentName: Barde
 NameLevel: 2
 Attributes: {}

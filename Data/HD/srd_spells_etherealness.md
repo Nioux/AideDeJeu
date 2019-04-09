@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Etherealness
-AltName: '[Forme éthérée](hd_spells_forme_etheree.md)'
-Type: transmutation
 Level: 7
+Type: transmutation
 CastingTime: 1 action
 Range: Self
 Components: V, S
 Duration: Up to 8 hours
 Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
-Source: (SRD p140)
 Id: spells_vo.md#etherealness
 ParentLink: spells_vo.md#spells-srd-p
+Name: Etherealness
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Forme éthérée](hd_spells_forme_etheree.md)'
+Source: (SRD p140)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

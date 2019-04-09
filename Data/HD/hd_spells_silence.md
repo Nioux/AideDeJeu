@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Silence
-AltName: '[Silence](srd_spells_silence.md)'
-Type: Illusion
 Level: 2
+Type: Illusion
+Ritual: rituel
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Rôdeur](hd_ranger.md)'
-Source: (MDR p)(SRD)
-Ritual: rituel
 Id: spells_hd.md#silence
 ParentLink: spells_hd.md#sorts
+Name: Silence
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Silence](srd_spells_silence.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Tradition arcanique
 Id: wizard_hd.md#tradition-arcanique
 ParentLink: wizard_hd.md#magicien
-Name: Tradition arcanique
 ParentName: Magicien
 NameLevel: 2
 Attributes: {}

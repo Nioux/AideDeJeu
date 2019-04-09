@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: True Seeing
-AltName: '[Vision suprême](hd_spells_vision_supreme.md)'
-Type: divination
 Level: 6
+Type: divination
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)
 Duration: 1 hour
 Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
-Source: (SRD p189)
 Id: spells_vo.md#true-seeing
 ParentLink: spells_vo.md#spells-srd-p
+Name: True Seeing
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Vision suprême](hd_spells_vision_supreme.md)'
+Source: (SRD p189)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

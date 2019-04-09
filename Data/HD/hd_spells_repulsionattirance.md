@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Répulsion/attirance
-AltName: '[Antipathy/Sympathy](srd_spells_antipathysympathy.md)'
-Type: Enchantement
 Level: 8
+Type: Enchantement
 CastingTime: 1 heure
 Range: 18 mètres
 Components: V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
 Duration: 10 jours
 Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#répulsionattirance
 ParentLink: spells_hd.md#sorts
+Name: Répulsion/attirance
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Antipathy/Sympathy](srd_spells_antipathysympathy.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

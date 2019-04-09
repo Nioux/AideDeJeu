@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Résistance fiélonne
 Id: warlock_fiendish_hd.md#résistance-fiélonne
 ParentLink: warlock_fiendish_hd.md#le-fiélon
-Name: Résistance fiélonne
 ParentName: Le fiélon
 NameLevel: 2
 Attributes: {}

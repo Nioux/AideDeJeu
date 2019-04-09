@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Chaotique Neutre (CN)
 Id: alignment_hd.md#chaotique-neutre-cn
 ParentLink: alignment_hd.md#alignement
-Name: Chaotique Neutre (CN)
 ParentName: Alignement
 NameLevel: 4
 Attributes: {}

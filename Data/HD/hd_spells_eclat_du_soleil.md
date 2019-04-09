@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Éclat du soleil
-AltName: '[Sunburst](srd_spells_sunburst.md)'
-Type: Évocation
 Level: 8
+Type: Évocation
 CastingTime: 1 action
 Range: 45 mètres
 Components: V, S, M (du feu et un éclat d'héliotrope)
 Duration: instantanée
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Source: (MDR p350)(SRD)
 Id: spells_hd.md#Éclat-du-soleil
 ParentLink: spells_hd.md#sorts
+Name: Éclat du soleil
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Sunburst](srd_spells_sunburst.md)'
+Source: (MDR p350)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

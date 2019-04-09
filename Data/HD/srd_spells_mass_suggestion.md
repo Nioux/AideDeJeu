@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Mass Suggestion
-AltName: '[Suggestion de groupe](hd_spells_suggestion_de_groupe.md)'
-Type: enchantment
 Level: 6
+Type: enchantment
 CastingTime: 1 action
 Range: 60 feet
 Components: V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
 Duration: 24 hours
 Classes: Bard, Sorcerer, Warlock, Wizard
-Source: (SRD p163)
 Id: spells_vo.md#mass-suggestion
 ParentLink: spells_vo.md#spells-srd-p
+Name: Mass Suggestion
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Suggestion de groupe](hd_spells_suggestion_de_groupe.md)'
+Source: (SRD p163)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

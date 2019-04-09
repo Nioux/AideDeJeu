@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Cercle des profondeurs
+Source: (MDR p150)
 ParentClassId: hd_druid.md
 Id: druid_depths_hd.md#cercle-des-profondeurs
 RootId: druid_depths_hd.md
 ParentLink: druid_hd.md#cercles-druidiques
-Name: Cercle des profondeurs
 ParentName: Cercles druidiques
 NameLevel: 1
-Source: (MDR p150)
 Attributes: {}
 ---
 >  [Cercles druidiques](hd_druid_cercles_druidiques.md)

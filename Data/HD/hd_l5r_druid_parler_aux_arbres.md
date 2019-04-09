@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Parler aux arbres
+Source: (L5R p60)
 Id: l5r_druid_hd.md#parler-aux-arbres
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
-Name: Parler aux arbres
 ParentName: Druide des cinq royaumes
 NameLevel: 5
-Source: (L5R p60)
 Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)

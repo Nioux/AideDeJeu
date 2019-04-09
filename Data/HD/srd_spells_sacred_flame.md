@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Sacred Flame
-AltName: '[Flamme sacrée](hd_spells_flamme_sacree.md)'
-Type: Evocation
 Level: cantrip
+Type: Evocation
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric
-Source: (SRD p176)
 Id: spells_vo.md#sacred-flame
 ParentLink: spells_vo.md#spells-srd-p
+Name: Sacred Flame
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Flamme sacrée](hd_spells_flamme_sacree.md)'
+Source: (SRD p176)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

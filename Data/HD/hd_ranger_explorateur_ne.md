@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Explorateur-né
 Id: ranger_hd.md#explorateur-né
 ParentLink: ranger_hd.md#rôdeur
-Name: Explorateur-né
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

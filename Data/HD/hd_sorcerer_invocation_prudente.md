@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Invocation prudente
 Id: sorcerer_hd.md#invocation-prudente
 ParentLink: sorcerer_hd.md#ensorceleur
-Name: Invocation prudente
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

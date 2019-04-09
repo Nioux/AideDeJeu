@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Rappel à la vie
-AltName: '[Raise Dead](srd_spells_raise_dead.md)'
-Type: Nécromancie
 Level: 5
+Type: Nécromancie
 CastingTime: 1 heure
 Range: contact
 Components: V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-Source: (MDR p)
 Id: spells_hd.md#rappel-à-la-vie
 ParentLink: spells_hd.md#sorts
+Name: Rappel à la vie
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Raise Dead](srd_spells_raise_dead.md)'
+Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

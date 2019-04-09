@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Poison Spray
-AltName: '[Bouffée de poison](hd_spells_bouffee_de_poison.md)'
-Type: Conjuration
 Level: cantrip
+Type: Conjuration
 CastingTime: 1 action
 Range: 10 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Druid, Sorcerer, Warlock, Wizard
-Source: (SRD p169)
 Id: spells_vo.md#poison-spray
 ParentLink: spells_vo.md#spells-srd-p
+Name: Poison Spray
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Bouffée de poison](hd_spells_bouffee_de_poison.md)'
+Source: (SRD p169)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Constitution hors norme
+Source: (L5R p54)
 Id: l5r_ranger_hd.md#constitution-hors-norme
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
-Name: Constitution hors norme
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 5
-Source: (L5R p54)
 Attributes: {}
 ---
 > [Rôdeur des cinq Royaumes](hd_l5r_ranger.md)

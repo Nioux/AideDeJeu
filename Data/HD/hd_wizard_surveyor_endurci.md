@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Endurci
 Id: wizard_surveyor_hd.md#endurci
 ParentLink: wizard_surveyor_hd.md#arpenteur
-Name: Endurci
 ParentName: Arpenteur
 NameLevel: 2
 Attributes: {}

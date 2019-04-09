@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Se cacher
 Id: abilities_dexterity_hd.md#se-cacher
 ParentLink: abilities_dexterity_hd.md#dextérité
-Name: Se cacher
 ParentName: Dextérité
 NameLevel: 2
 Attributes: {}

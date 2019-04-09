@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Amélioration de caractéristiques
 Id: monk_hd.md#amélioration-de-caractéristiques
 ParentLink: monk_hd.md#moine
-Name: Amélioration de caractéristiques
 ParentName: Moine
 NameLevel: 2
 Attributes: {}

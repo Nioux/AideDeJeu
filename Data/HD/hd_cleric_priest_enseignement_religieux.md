@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Enseignement religieux
 Id: cleric_priest_hd.md#enseignement-religieux
 ParentLink: cleric_priest_hd.md#prêtre
-Name: Enseignement religieux
 ParentName: Prêtre
 NameLevel: 2
 Attributes: {}

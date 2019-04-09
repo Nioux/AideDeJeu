@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Faveur divine
-AltName: '[Divine Favor](srd_spells_divine_favor.md)'
-Type: Évocation
 Level: 1
+Type: Évocation
 CastingTime: 1 action bonus
 Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Paladin](hd_paladin.md)'
-Source: (MDR p355)(SRD)
 Id: spells_hd.md#faveur-divine
 ParentLink: spells_hd.md#sorts
+Name: Faveur divine
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Divine Favor](srd_spells_divine_favor.md)'
+Source: (MDR p355)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

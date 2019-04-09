@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Contingency
-AltName: '[Contingence](hd_spells_contingence.md)'
-Type: evocation
 Level: 6
+Type: evocation
 CastingTime: 10 minutes
 Range: Self
 Components: V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)
 Duration: 10 days
 Classes: Wizard
-Source: (SRD p130)
 Id: spells_vo.md#contingency
 ParentLink: spells_vo.md#spells-srd-p
+Name: Contingency
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Contingence](hd_spells_contingence.md)'
+Source: (SRD p130)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

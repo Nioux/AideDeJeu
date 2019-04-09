@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: "Canalisation d'énergie divine : Marque de dévotion"
 Id: cleric_guide_hd.md#canalisation-dénergie-divine--marque-de-dévotion
 ParentLink: cleric_guide_hd.md#guide-spirituel
-Name: "Canalisation d'énergie divine : Marque de dévotion"
 ParentName: Guide spirituel
 NameLevel: 2
 Attributes: {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Inflict Wounds
-AltName: '[Blessure](hd_spells_blessure.md)'
-Type: necromancy
 Level: 1
+Type: necromancy
 CastingTime: 1 action
 Range: Touch
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric
-Source: (SRD p157)
 Id: spells_vo.md#inflict-wounds
 ParentLink: spells_vo.md#spells-srd-p
+Name: Inflict Wounds
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Blessure](hd_spells_blessure.md)'
+Source: (SRD p157)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

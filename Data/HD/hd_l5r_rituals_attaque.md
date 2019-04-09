@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Attaque
+Source: (L5R p70)
 Id: l5r_rituals_hd.md#attaque
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
-Name: Attaque
 ParentName: Lancer un rituel
 NameLevel: 5
-Source: (L5R p70)
 Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

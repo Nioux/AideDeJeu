@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Fou rire
-AltName: '[Hideous Laughter](srd_spells_hideous_laughter.md)'
-Type: Enchantement
 Level: 1
+Type: Enchantement
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (de minuscules tartes et une plume à agiter dans les airs)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-Source: (MDR p357)
 Id: spells_hd.md#fou-rire
 ParentLink: spells_hd.md#sorts
+Name: Fou rire
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Hideous Laughter](srd_spells_hideous_laughter.md)'
+Source: (MDR p357)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

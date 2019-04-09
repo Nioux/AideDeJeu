@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Disintegrate
-AltName: '[Désintégration](hd_spells_desintegration.md)'
-Type: transmutation
 Level: 6
+Type: transmutation
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (a lodestone and a pinch of dust)
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
-Source: (SRD p135)
 Id: spells_vo.md#disintegrate
 ParentLink: spells_vo.md#spells-srd-p
+Name: Disintegrate
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Désintégration](hd_spells_desintegration.md)'
+Source: (SRD p135)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

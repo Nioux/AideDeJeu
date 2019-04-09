@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Aid
-AltName: '[Aide](hd_spells_aide.md)'
-Type: abjuration
 Level: 2
+Type: abjuration
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S, M (a tiny strip of white cloth)
 Duration: 8 hours
 Classes: Cleric, Paladin
-Source: (SRD p114)
 Id: spells_vo.md#aid
 ParentLink: spells_vo.md#spells-srd-p
+Name: Aid
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Aide](hd_spells_aide.md)'
+Source: (SRD p114)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

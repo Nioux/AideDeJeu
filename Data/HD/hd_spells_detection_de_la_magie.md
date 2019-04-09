@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Détection de la magie
-AltName: '[Detect Magic](srd_spells_detect_magic.md)'
-Type: Divination
 Level: 1
+Type: Divination
+Ritual: rituel
 CastingTime: 1 action
 Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-Source: (MDR p346)(SRD)
-Ritual: rituel
 Id: spells_hd.md#détection-de-la-magie
 ParentLink: spells_hd.md#sorts
+Name: Détection de la magie
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Detect Magic](srd_spells_detect_magic.md)'
+Source: (MDR p346)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

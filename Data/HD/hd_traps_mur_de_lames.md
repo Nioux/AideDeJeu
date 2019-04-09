@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Mur de lames
 Id: traps_hd.md#mur-de-lames
 ParentLink: traps_hd.md#les-pièges
-Name: Mur de lames
 ParentName: Les pièges
 NameLevel: 4
 Attributes: {}

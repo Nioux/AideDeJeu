@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Sorts de serment
 Id: paladin_hd.md#sorts-de-serment
 ParentLink: paladin_hd.md#paladin
-Name: Sorts de serment
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Mains lestes
 Id: rogue_thief_hd.md#mains-lestes
 ParentLink: rogue_thief_hd.md#voleur
-Name: Mains lestes
 ParentName: Voleur
 NameLevel: 2
 Attributes: {}

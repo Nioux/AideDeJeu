@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#long-temps-dincantation
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Long temps d'incantation
-ParentName: Lancer des sorts
-NameLevel: 4
 AltName: Longer Casting Times (SRD p101)
 Source: (MDR p307)
+Id: spellcasting_hd.md#long-temps-dincantation
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 4
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

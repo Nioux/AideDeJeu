@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Objets magiques 6
 Id: magicitems_hd.md#objets-magiques-6
 ParentLink: magicitems_hd.md#objets-magiques
-Name: Objets magiques 6
 ParentName: Objets magiques
 NameLevel: 4
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Collèges bardiques
 Id: bard_hd.md#collèges-bardiques
 ParentLink: bard_hd.md#barde
-Name: Collèges bardiques
 ParentName: Barde
 NameLevel: 1
 Attributes: {}

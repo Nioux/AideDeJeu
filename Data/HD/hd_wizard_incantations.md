@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Incantations
 Id: wizard_hd.md#incantations
 ParentLink: wizard_hd.md#magicien
-Name: Incantations
 ParentName: Magicien
 NameLevel: 2
 Attributes: {}

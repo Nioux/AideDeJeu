@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Perfection
 Id: monk_hd.md#perfection
 ParentLink: monk_hd.md#moine
-Name: Perfection
 ParentName: Moine
 NameLevel: 2
 Attributes: {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Irresistible Dance
-AltName: '[Danse irrésistible](hd_spells_danse_irresistible.md)'
-Type: enchantment
 Level: 6
+Type: enchantment
 CastingTime: 1 action
 Range: 30 feet
 Components: V
 Duration: Concentration, up to 1 minute
 Classes: Bard, Wizard
-Source: (SRD p158)
 Id: spells_vo.md#irresistible-dance
 ParentLink: spells_vo.md#spells-srd-p
+Name: Irresistible Dance
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Danse irrésistible](hd_spells_danse_irresistible.md)'
+Source: (SRD p158)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

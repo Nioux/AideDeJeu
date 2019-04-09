@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Feather Fall
-AltName: '[Léger comme une plume](hd_spells_leger_comme_une_plume.md)'
-Type: transmutation
 Level: 1
+Type: transmutation
 CastingTime: 1 reaction, which you take when you or a creature within 60 feet of you falls
 Range: 60 feet
 Components: V, M (a small feather or piece of down)
 Duration: 1 minute
 Classes: Bard, Sorcerer, Wizard
-Source: (SRD p142)
 Id: spells_vo.md#feather-fall
 ParentLink: spells_vo.md#spells-srd-p
+Name: Feather Fall
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Léger comme une plume](hd_spells_leger_comme_une_plume.md)'
+Source: (SRD p142)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Pacte de la chaîne
 Id: warlock_pact_hd.md#pacte-de-la-chaîne
 ParentLink: warlock_pact_hd.md#pacte
-Name: Pacte de la chaîne
 ParentName: Pacte
 NameLevel: 2
 Attributes: {}

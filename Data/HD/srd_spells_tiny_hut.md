@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Tiny Hut
-AltName: '[Petite hutte](hd_spells_petite_hutte.md)'
-Type: evocation
 Level: 3
+Type: evocation
+Ritual: ritual
 CastingTime: 1 minute
 Range: Self (10-foot-radius hemisphere)
 Components: V, S, M (a small crystal bead)
 Duration: 8 hours
 Classes: Bard, Wizard
-Source: (SRD p187)
-Ritual: ritual
 Id: spells_vo.md#tiny-hut
 ParentLink: spells_vo.md#spells-srd-p
+Name: Tiny Hut
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Petite hutte](hd_spells_petite_hutte.md)'
+Source: (SRD p187)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

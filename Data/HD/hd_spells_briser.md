@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Briser
-AltName: '[Shatter](srd_spells_shatter.md)'
-Type: Évocation
 Level: 2
+Type: Évocation
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (un éclat de mica)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p330)(SRD)
 Id: spells_hd.md#briser
 ParentLink: spells_hd.md#sorts
+Name: Briser
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Shatter](srd_spells_shatter.md)'
+Source: (MDR p330)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

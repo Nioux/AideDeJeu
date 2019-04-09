@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Défense patiente
 Id: monk_hd.md#défense-patiente
 ParentLink: monk_hd.md#moine
-Name: Défense patiente
 ParentName: Moine
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Bonus de maîtrise
 Id: multiclassing_hd.md#bonus-de-maîtrise
 ParentLink: multiclassing_hd.md#multiclassage
-Name: Bonus de maîtrise
 ParentName: Multiclassage
 NameLevel: 2
 Attributes: {}

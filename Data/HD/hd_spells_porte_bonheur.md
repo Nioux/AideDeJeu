@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Porte-bonheur
-Type: Abjuration
 Level: tour de magie
+Type: Abjuration
 CastingTime: 1 action
 Range: personnel
 Components: V, S, M (objet porte-bonheur)
 Duration: 1 round
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p)
 Id: spells_hd.md#porte-bonheur
 ParentLink: spells_hd.md#sorts
+Name: Porte-bonheur
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

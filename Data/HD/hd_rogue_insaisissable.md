@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Insaisissable
 Id: rogue_hd.md#insaisissable
 ParentLink: rogue_hd.md#roublard
-Name: Insaisissable
 ParentName: Roublard
 NameLevel: 2
 Attributes: {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Longstrider
-AltName: '[Grande foulée](hd_spells_grande_foulee.md)'
-Type: transmutation
 Level: 1
+Type: transmutation
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (a pinch of dirt)
 Duration: 1 hour
 Classes: Bard, Druid, Ranger, Wizard
-Source: (SRD p160)
 Id: spells_vo.md#longstrider
 ParentLink: spells_vo.md#spells-srd-p
+Name: Longstrider
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Grande foulée](hd_spells_grande_foulee.md)'
+Source: (SRD p160)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

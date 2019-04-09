@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Voix du maître des chaînes
 Id: warlock_occultsummons_hd.md#voix-du-maître-des-chaînes
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Voix du maître des chaînes
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes: {}

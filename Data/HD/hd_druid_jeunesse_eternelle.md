@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Jeunesse éternelle
 Id: druid_hd.md#jeunesse-éternelle
 ParentLink: druid_hd.md#druide
-Name: Jeunesse éternelle
 ParentName: Druide
 NameLevel: 2
 Attributes: {}

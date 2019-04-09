@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Manipulateur redoutable
 Id: bard_diplomats_hd.md#manipulateur-redoutable
 ParentLink: bard_diplomats_hd.md#collège-des-diplomates
-Name: Manipulateur redoutable
 ParentName: Collège des diplomates
 NameLevel: 2
 Attributes: {}

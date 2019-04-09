@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Jugement dernier
-Type: Nécromancie
 Level: 5
+Type: Nécromancie
 CastingTime: 1 action
 Range: 9 m
 Components: V, S
 Duration: instantanée
 Classes: '[Paladin](hd_paladin.md)'
-Source: (MDR p)
 Id: spells_hd.md#jugement-dernier
 ParentLink: spells_hd.md#sorts
+Name: Jugement dernier
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

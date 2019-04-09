@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Autre chose ?
+Source: (MDR p290)
 Id: combat_hd.md#autre-chose-?
 ParentLink: combat_hd.md#combattre
-Name: Autre chose ?
 ParentName: Combattre
 NameLevel: 3
-Source: (MDR p290)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

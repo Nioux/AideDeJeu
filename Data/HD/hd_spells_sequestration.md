@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Séquestration
-AltName: '[Sequester](srd_spells_sequester.md)'
-Type: Transmutation
 Level: 7
+Type: Transmutation
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
 Duration: jusqu'à dissipation
 Classes: '[Magicien](hd_wizard.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#séquestration
 ParentLink: spells_hd.md#sorts
+Name: Séquestration
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Sequester](srd_spells_sequester.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

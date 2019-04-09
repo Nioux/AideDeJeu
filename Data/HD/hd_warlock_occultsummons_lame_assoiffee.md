@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Lame assoiffée
 Id: warlock_occultsummons_hd.md#lame-assoiffée
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Lame assoiffée
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes: {}

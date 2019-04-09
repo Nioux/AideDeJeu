@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Globe d'invulnérabilité
-AltName: '[Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)'
-Type: Abjuration
 Level: 6
+Type: Abjuration
 CastingTime: 1 action
 Range: personnelle (3 mètres de rayon)
 Components: V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Source: (MDR p359)
 Id: spells_hd.md#globe-dinvulnérabilité
 ParentLink: spells_hd.md#sorts
+Name: Globe d'invulnérabilité
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)'
+Source: (MDR p359)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

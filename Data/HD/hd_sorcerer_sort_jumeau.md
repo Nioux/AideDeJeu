@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Sort jumeau
 Id: sorcerer_hd.md#sort-jumeau
 ParentLink: sorcerer_hd.md#ensorceleur
-Name: Sort jumeau
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

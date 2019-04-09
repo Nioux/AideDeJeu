@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Inspiration supérieure
 Id: bard_hd.md#inspiration-supérieure
 ParentLink: bard_hd.md#barde
-Name: Inspiration supérieure
 ParentName: Barde
 NameLevel: 2
 Attributes: {}

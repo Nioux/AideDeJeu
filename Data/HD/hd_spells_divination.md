@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Divination
-AltName: '[Divination](srd_spells_divination.md)'
-Type: Divination
 Level: 4
+Type: Divination
+Ritual: rituel
 CastingTime: 1 action
 Range: personnelle
 Components: V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
-Source: (MDR p348)(SRD)
-Ritual: rituel
 Id: spells_hd.md#divination
 ParentLink: spells_hd.md#sorts
+Name: Divination
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Divination](srd_spells_divination.md)'
+Source: (MDR p348)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

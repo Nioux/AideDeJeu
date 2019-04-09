@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Pas de magie divine ?
+Source: (L5R p48)
 Id: l5r_magic_hd.md#pas-de-magie-divine-?
 ParentLink: l5r_magic_hd.md#des-objets-magiques-rares-et-merveilleux
-Name: Pas de magie divine ?
 ParentName: Des objets magiques rares et merveilleux
 NameLevel: 4
-Source: (L5R p48)
 Attributes: {}
 ---
 > [Des objets magiques rares et merveilleux](hd_l5r_magic.md)

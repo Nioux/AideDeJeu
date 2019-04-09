@@ -213,6 +213,13 @@ namespace AideDeJeu.ViewModels
                     return ParseItemProperties(source, item, table);
                 case ContainerBlock blocks:
                     return ParseItemProperties(source, item, blocks);
+                case HeadingBlock heading:
+                    bool isnamee = ParseItemProperties(source, item, heading.Inline, heading);
+                    if (isnamee)
+                    {
+                        //item.NameLevel = heading.Level;
+                    }
+                    return isnamee;
                 case LeafBlock leaf:
                     bool isname = ParseItemProperties(source, item, leaf.Inline);
                     if(isname)
@@ -220,7 +227,7 @@ namespace AideDeJeu.ViewModels
                         if(leaf is HeadingBlock)
                         {
                             var headingBlock = leaf as HeadingBlock;
-                            item.NameLevel = headingBlock.Level;
+                            //item.NameLevel = headingBlock.Level;
                         }
                     }
                     return isname;
@@ -238,7 +245,7 @@ namespace AideDeJeu.ViewModels
             return isname;
         }
 
-        public bool ParseItemProperties(string source, Item item, ContainerInline inlines)
+        public bool ParseItemProperties(string source, Item item, ContainerInline inlines, HeadingBlock headingBlock = null)
         {
             bool isname = false;
             if (inlines == null)
@@ -267,6 +274,10 @@ namespace AideDeJeu.ViewModels
                         if(propertyName == "Name")
                         {
                             isname = true;
+                            if (headingBlock != null)
+                            {
+                                item.NameLevel = headingBlock.Level;
+                            }
                         }
                         prop = item.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
                     }

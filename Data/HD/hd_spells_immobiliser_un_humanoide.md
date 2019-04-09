@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Immobiliser un humanoïde
-AltName: '[Hold Person](srd_spells_hold_person.md)'
-Type: Enchantement
 Level: 2
+Type: Enchantement
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (un petit morceau de fer bien droit)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#immobiliser-un-humanoïde
 ParentLink: spells_hd.md#sorts
+Name: Immobiliser un humanoïde
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Hold Person](srd_spells_hold_person.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

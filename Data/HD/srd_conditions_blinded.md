@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: conditions_vo.md#blinded
-ParentLink: conditions_vo.md#conditions
 Name: Blinded
-ParentName: Conditions
-NameLevel: 1
 AltName: '[Aveuglé](hd_conditions_aveugle.md)'
 Source: (SRD p358)
+Id: conditions_vo.md#blinded
+ParentLink: conditions_vo.md#conditions
+ParentName: Conditions
+NameLevel: 1
 Attributes: {}
 ---
 > [Conditions](srd_conditions.md)

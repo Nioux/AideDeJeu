@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Collèges de bardes
+Source: (L5R p58)
 Id: l5r_bard_hd.md#collèges-de-bardes
 ParentLink: l5r_bard_hd.md#barde-des-cinq-royaumes
-Name: Collèges de bardes
 ParentName: Barde des cinq royaumes
 NameLevel: 3
-Source: (L5R p58)
 Attributes: {}
 ---
 > [Barde des cinq royaumes](hd_l5r_bard.md)

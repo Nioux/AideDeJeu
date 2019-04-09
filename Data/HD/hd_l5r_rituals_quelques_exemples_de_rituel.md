@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Quelques exemples de rituel
+Source: (L5R p72)
 Id: l5r_rituals_hd.md#quelques-exemples-de-rituel
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
-Name: Quelques exemples de rituel
 ParentName: Lancer un rituel
 NameLevel: 2
-Source: (L5R p72)
 Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

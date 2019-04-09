@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Sorts de prédilection
 Id: wizard_hd.md#sorts-de-prédilection
 ParentLink: wizard_hd.md#magicien
-Name: Sorts de prédilection
 ParentName: Magicien
 NameLevel: 2
 Attributes: {}

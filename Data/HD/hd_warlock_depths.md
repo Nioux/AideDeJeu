@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
+Name: La puissance des profondeurs
+Source: (MDR p216)
 ParentClassId: hd_warlock.md
 Id: warlock_depths_hd.md#la-puissance-des-profondeurs
 RootId: warlock_depths_hd.md
 ParentLink: warlock_hd.md#protecteurs-doutre-monde
-Name: La puissance des profondeurs
 ParentName: Protecteurs d'outre-monde
 NameLevel: 1
-Source: (MDR p216)
 Attributes: {}
 ---
 >  [Protecteurs d'outre-monde](hd_warlock_protecteurs_doutre_monde.md)

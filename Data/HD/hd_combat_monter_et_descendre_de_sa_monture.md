@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#monter-et-descendre-de-sa-monture
-ParentLink: combat_hd.md#combattre
 Name: Monter et descendre de sa monture
-ParentName: Combattre
-NameLevel: 3
 AltName: Mounting and Dismounting (SRD p99)
 Source: (MDR p295)
+Id: combat_hd.md#monter-et-descendre-de-sa-monture
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 3
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

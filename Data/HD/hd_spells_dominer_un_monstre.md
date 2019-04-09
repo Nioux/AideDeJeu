@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Dominer un monstre
-AltName: '[Dominate Monster](srd_spells_dominate_monster.md)'
-Type: Enchantement
 Level: 8
+Type: Enchantement
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p349)(SRD)
 Id: spells_hd.md#dominer-un-monstre
 ParentLink: spells_hd.md#sorts
+Name: Dominer un monstre
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Dominate Monster](srd_spells_dominate_monster.md)'
+Source: (MDR p349)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Tueur d'ennemis
 Id: ranger_hd.md#tueur-dennemis
 ParentLink: ranger_hd.md#rôdeur
-Name: Tueur d'ennemis
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

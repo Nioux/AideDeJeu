@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Non-détection
-AltName: '[Nondetection](srd_spells_nondetection.md)'
-Type: Abjuration
 Level: 3
+Type: Abjuration
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)
 Duration: 8 heures
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#non-détection
 ParentLink: spells_hd.md#sorts
+Name: Non-détection
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Nondetection](srd_spells_nondetection.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

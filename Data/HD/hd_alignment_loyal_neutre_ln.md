@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Loyal Neutre (LN)
 Id: alignment_hd.md#loyal-neutre-ln
 ParentLink: alignment_hd.md#alignement
-Name: Loyal Neutre (LN)
 ParentName: Alignement
 NameLevel: 4
 Attributes: {}

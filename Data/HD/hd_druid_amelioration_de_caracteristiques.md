@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Amélioration de caractéristiques
 Id: druid_hd.md#amélioration-de-caractéristiques
 ParentLink: druid_hd.md#druide
-Name: Amélioration de caractéristiques
 ParentName: Druide
 NameLevel: 2
 Attributes: {}

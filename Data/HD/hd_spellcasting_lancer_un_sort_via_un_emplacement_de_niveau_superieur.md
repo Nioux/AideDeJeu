@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#lancer-un-sort-via-un-emplacement-de-niveau-supérieur
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Lancer un sort via un emplacement de niveau supérieur
-ParentName: Lancer des sorts
-NameLevel: 4
 AltName: Casting a Spell at a Higher Level (SRD p100)
 Source: (MDR p306)
+Id: spellcasting_hd.md#lancer-un-sort-via-un-emplacement-de-niveau-supérieur
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 4
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

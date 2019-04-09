@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#autres-activités-pendant-votre-tour
-ParentLink: combat_hd.md#combattre
 Name: Autres activités pendant votre tour
-ParentName: Combattre
-NameLevel: 4
 AltName: Other Activity on Your Turn (SRD p91)
 Source: (MDR p285)
+Id: combat_hd.md#autres-activités-pendant-votre-tour
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 4
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

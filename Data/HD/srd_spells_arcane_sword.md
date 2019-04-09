@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Arcane Sword
-AltName: '[Épée magique](hd_spells_epee_magique.md)'
-Type: evocation
 Level: 7
+Type: evocation
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Wizard
-Source: (SRD p119)
 Id: spells_vo.md#arcane-sword
 ParentLink: spells_vo.md#spells-srd-p
+Name: Arcane Sword
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Épée magique](hd_spells_epee_magique.md)'
+Source: (SRD p119)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Points de sorcellerie
 Id: multiclassing_hd.md#points-de-sorcellerie
 ParentLink: multiclassing_hd.md#multiclassage
-Name: Points de sorcellerie
 ParentName: Multiclassage
 NameLevel: 4
 Attributes: {}

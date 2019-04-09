@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Lame de feu
-AltName: '[Flame Blade](srd_spells_flame_blade.md)'
-Type: Évocation
 Level: 2
+Type: Évocation
 CastingTime: 1 action bonus
 Range: personnelle
 Components: V, S, M (feuille de sumac)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Druide](hd_druid.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#lame-de-feu
 ParentLink: spells_hd.md#sorts
+Name: Lame de feu
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Flame Blade](srd_spells_flame_blade.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

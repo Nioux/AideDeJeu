@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#interagir-avec-les-objets-alentours
-ParentLink: combat_hd.md#combattre
 Name: Interagir avec les objets alentours
-ParentName: Combattre
-NameLevel: 3
 AltName: Interacting with Objects Around You (SRD p92)
 Source: (MDR p287)
+Id: combat_hd.md#interagir-avec-les-objets-alentours
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 3
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Gentle Repose
-AltName: '[Doux repos](hd_spells_doux_repos.md)'
-Type: necromancy
 Level: 2
+Type: necromancy
+Ritual: ritual
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration
 Duration: 10 days
 Classes: Cleric, Wizard
-Source: (SRD p148)
-Ritual: ritual
 Id: spells_vo.md#gentle-repose
 ParentLink: spells_vo.md#spells-srd-p
+Name: Gentle Repose
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Doux repos](hd_spells_doux_repos.md)'
+Source: (SRD p148)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Wall of Ice
-AltName: '[Mur de glace](hd_spells_mur_de_glace.md)'
-Type: evocation
 Level: 6
+Type: evocation
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S, M (a small piece of quartz)
 Duration: Concentration, up to 10 minutes
 Classes: Wizard
-Source: (SRD p190)
 Id: spells_vo.md#wall-of-ice
 ParentLink: spells_vo.md#spells-srd-p
+Name: Wall of Ice
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Mur de glace](hd_spells_mur_de_glace.md)'
+Source: (SRD p190)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

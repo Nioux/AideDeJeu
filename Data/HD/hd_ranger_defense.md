@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Défense
 Id: ranger_hd.md#défense
 ParentLink: ranger_hd.md#rôdeur
-Name: Défense
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

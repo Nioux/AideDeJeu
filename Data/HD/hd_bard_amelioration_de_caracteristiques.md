@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Amélioration de caractéristiques
 Id: bard_hd.md#amélioration-de-caractéristiques
 ParentLink: bard_hd.md#barde
-Name: Amélioration de caractéristiques
 ParentName: Barde
 NameLevel: 2
 Attributes: {}

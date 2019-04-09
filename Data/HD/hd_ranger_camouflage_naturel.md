@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Camouflage naturel
 Id: ranger_hd.md#camouflage-naturel
 ParentLink: ranger_hd.md#rôdeur
-Name: Camouflage naturel
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}
