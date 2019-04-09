@@ -54,10 +54,19 @@
         <StackLayout>
             <Picker Title="Historique" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Backgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding Backgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />
             <Picker Title="Variante" HorizontalOptions="FillAndExpand" IsEnabled="{Binding SubBackgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding SubBackgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding SubBackgroundSelectedIndex, Mode=TwoWay}" />
-            <ScrollView Orientation="Vertical">
-                <StackLayout>
+            <ScrollView Orientation="Vertical" HorizontalOptions="FillAndExpand" >
+                <StackLayout HorizontalOptions="FillAndExpand" >
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Description}" />
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Description}" />
+                    <ListView HorizontalOptions="FillAndExpand" ItemsSource="{Binding PersonalityTraits.Result}">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding}" />
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Markdown}" />
                 </StackLayout>

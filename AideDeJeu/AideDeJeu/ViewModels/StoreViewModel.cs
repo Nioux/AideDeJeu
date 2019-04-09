@@ -560,6 +560,7 @@ namespace AideDeJeu.ViewModels
             public DbSet<SubClassItem> SubClasses { get; set; }
             public DbSet<BackgroundItem> Backgrounds { get; set; }
             public DbSet<SubBackgroundItem> SubBackgrounds { get; set; }
+            public DbSet<PersonalityTraitItem> PersonalityTraits { get; set; }
 
             public AideDeJeuContext(string dbPath)
             {

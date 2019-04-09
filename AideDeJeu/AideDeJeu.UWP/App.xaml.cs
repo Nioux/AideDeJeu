@@ -55,6 +55,7 @@ namespace AideDeJeu.UWP
                 Rg.Plugins.Popup.Popup.Init();
 
                 //Xamarin.Forms.Forms.Init(e);
+                //Xamarin.Forms.SetFlags("CollectionView_Experimental");
                 //Xamarin.Forms.SetFlags("Shell_Experimental");
                 Xamarin.Forms.Forms.Init(e, Rg.Plugins.Popup.Popup.GetExtraAssemblies());
                 SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
