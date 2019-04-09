@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
@@ -16,6 +17,7 @@ namespace AideDeJeu.ViewModels
     {
         public PlayerCharacterEditorViewModel()
         {
+            ResetAlignments();
             Races = new NotifyTaskCompletion<List<RaceItem>>(Task.Run(() => LoadRacesAsync()));
             Classes = new NotifyTaskCompletion<List<ClassItem>>(Task.Run(() => LoadClassesAsync()));
 
@@ -42,9 +44,59 @@ namespace AideDeJeu.ViewModels
         }
         #endregion Selected PC
 
+        #region Alignment
+        private List<string> _AllAllignments = new List<string>()
+            {
+                "Loyal Bon",
+                "Loyal Neutre",
+                "Loyal Mauvais",
+                "Neutre Bon",
+                "Neutre",
+                "Neutre Mauvais",
+                "Chaotique Bon",
+                "Chaotique Neutre",
+                "Chaotique Mauvais"
+            };
+
+        private List<string> _Alignments = null;
+        public List<string> Alignments
+        {
+            get
+            {
+                return _Alignments;
+            }
+            set
+            {
+                SetProperty(ref _Alignments, value);
+            }
+        }
+
+        private void ResetAlignments()
+        {
+            if (!string.IsNullOrEmpty(SelectedPlayerCharacter.PersonalityIdeal))
+            {
+                var regex = new Regex(".*\\((?<alignment>.*?)\\)$");
+                var match = regex.Match(SelectedPlayerCharacter.PersonalityIdeal);
+                var alignment = match.Groups["alignment"].Value;
+                if (!string.IsNullOrEmpty(alignment))
+                {
+                    Alignments = _AllAllignments.Where(a => a.ToLower().Contains(alignment.ToLower())).ToList();
+                }
+                else
+                {
+                    Alignments = _AllAllignments;
+                }
+            }
+            else
+            {
+                Alignments = _AllAllignments;
+            }
+        }
+        #endregion Alignment
+
         #region Race
         public NotifyTaskCompletion<List<RaceItem>> Races { get; private set; }
-        private int _RaceSelectedIndex = 0;
+        private int _RaceSelectedIndex = -1;
         public int RaceSelectedIndex
         {
             get
@@ -73,7 +125,7 @@ namespace AideDeJeu.ViewModels
         #region Class
         public NotifyTaskCompletion<List<ClassItem>> Classes { get; private set; }
 
-        private int _ClassSelectedIndex = 0;
+        private int _ClassSelectedIndex = -1;
         public int ClassSelectedIndex
         {
             get
@@ -99,7 +151,7 @@ namespace AideDeJeu.ViewModels
         #region Background
         public NotifyTaskCompletion<List<BackgroundItem>> Backgrounds { get; private set; }
 
-        private int _BackgroundSelectedIndex = 0;
+        private int _BackgroundSelectedIndex = -1;
         public int BackgroundSelectedIndex
         {
             get
@@ -120,6 +172,7 @@ namespace AideDeJeu.ViewModels
                 SelectedPlayerCharacter.PersonalityIdeal = null;
                 SelectedPlayerCharacter.PersonalityLink = null;
                 SelectedPlayerCharacter.PersonalityDefect = null;
+                ResetAlignments();
             }
         }
 
@@ -136,7 +189,7 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        private int _SubBackgroundSelectedIndex = 0;
+        private int _SubBackgroundSelectedIndex = -1;
         public int SubBackgroundSelectedIndex
         {
             get
@@ -324,7 +377,29 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                return new Command<List<string>>(async (strings) => SelectedPlayerCharacter.PersonalityIdeal = await ExecuteStringPickerCommandAsync(strings));
+                return new Command<List<string>>(async (strings) =>
+                    {
+                        SelectedPlayerCharacter.PersonalityIdeal = await ExecuteStringPickerCommandAsync(strings);
+                        if (!string.IsNullOrEmpty(SelectedPlayerCharacter.PersonalityIdeal))
+                        {
+                            var regex = new Regex(".*\\((?<alignment>.*?)\\)$");
+                            var match = regex.Match(SelectedPlayerCharacter.PersonalityIdeal);
+                            var alignment = match.Groups["alignment"].Value;
+                            if (!string.IsNullOrEmpty(alignment))
+                            {
+                                Alignments = _AllAllignments.Where(a => a.ToLower().Contains(alignment.ToLower())).ToList();
+                            }
+                            else
+                            {
+                                Alignments = _AllAllignments;
+                            }
+                        }
+                        else
+                        {
+                            Alignments = _AllAllignments;
+                        }
+                    }
+                );
             }
         }
         public ICommand PersonalityLinkPickerCommand
@@ -346,7 +421,6 @@ namespace AideDeJeu.ViewModels
         {
             var picker = new Views.StringPicker();
             var vm = picker.ViewModel;
-            vm.Title = "Trait de personnalité";
             vm.Items = strings;
             await Main.Navigator.Navigation.PushModalAsync(picker, true);
             var result = await vm.PickValueAsync();
