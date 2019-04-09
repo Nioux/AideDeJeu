@@ -20,7 +20,7 @@
     </TabbedPage.Resources>
     <ContentPage Title="Généralités">
         <StackLayout>
-            <Entry Placeholder="Nom" Text="{Binding Name}" />
+            <Entry Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
             <Picker Title="Alignement" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Alignments}" ItemDisplayBinding="{Binding StringFormat='Alignement : {0}'}" />
             <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
         </StackLayout>
