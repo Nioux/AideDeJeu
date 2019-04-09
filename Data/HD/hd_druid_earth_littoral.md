@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Littoral
 Id: druid_earth_hd.md#littoral
 ParentLink: druid_earth_hd.md#cercle-de-la-terre
-Name: Littoral
 ParentName: Cercle de la terre
 NameLevel: 2
 Attributes: {}

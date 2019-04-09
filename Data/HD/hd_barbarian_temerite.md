@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Témérité
 Id: barbarian_hd.md#témérité
 ParentLink: barbarian_hd.md#barbare
+Name: Témérité
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

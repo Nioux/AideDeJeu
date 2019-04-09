@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#portée
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Portée
-ParentName: Lancer des sorts
-NameLevel: 3
 AltName: Range (SRD p101)
 Source: (MDR p307)
+Id: spellcasting_hd.md#portée
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 3
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

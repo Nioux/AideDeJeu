@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Attaque supplémentaire
 Id: barbarian_hd.md#attaque-supplémentaire
 ParentLink: barbarian_hd.md#barbare
+Name: Attaque supplémentaire
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

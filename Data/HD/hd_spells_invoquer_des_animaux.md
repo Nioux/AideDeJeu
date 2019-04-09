@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 3
+Name: Invoquer des animaux
+AltName: '[Conjure Animals](srd_spells_conjure_animals.md)'
 Type: Invocation
+Level: 3
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
+Source: (MDR p)(SRD)
 Id: spells_hd.md#invoquer-des-animaux
 ParentLink: spells_hd.md#sorts
-Name: Invoquer des animaux
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Conjure Animals](srd_spells_conjure_animals.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: Charisme
+AltName: Charisma (SRD p82)
+Source: (MDR p265)
 Id: abilities_charisma_hd.md#charisme
 RootId: abilities_charisma_hd.md
 ParentLink: abilities_hd.md
-Name: Charisme
 ParentName: Caractéristiques
 NameLevel: 1
-AltName: Charisma (SRD p82)
-Source: (MDR p265)
 Attributes: {}
 ---
 >  [Caractéristiques](hd_abilities.md)

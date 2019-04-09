@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: damage_healing_hd.md#les-monstres-et-la-mort
-ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 Name: Les monstres et la mort
-ParentName: 'Dégâts et guérison '
-NameLevel: 4
 AltName: Monsters and Death
 Source: (MDR p299)(SRD p98)
+Id: damage_healing_hd.md#les-monstres-et-la-mort
+ParentLink: damage_healing_hd.md#dégâts-et-guérison-
+ParentName: 'Dégâts et guérison '
+NameLevel: 4
 Attributes: {}
 ---
 > [Dégâts et guérison ](hd_damage_healing.md)

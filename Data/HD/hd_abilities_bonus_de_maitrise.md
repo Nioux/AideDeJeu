@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Bonus de maîtrise
 Id: abilities_hd.md#bonus-de-maîtrise
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
-Name: Bonus de maîtrise
 ParentName: Utiliser les caractéristiques
 NameLevel: 1
 Attributes: {}

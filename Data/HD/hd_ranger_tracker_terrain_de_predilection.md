@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Terrain de prédilection
 Id: ranger_tracker_hd.md#terrain-de-prédilection
 ParentLink: ranger_tracker_hd.md#traqueur
-Name: Terrain de prédilection
 ParentName: Traqueur
 NameLevel: 2
 Attributes: {}

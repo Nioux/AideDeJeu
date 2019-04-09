@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Compétences
 Id: abilities_hd.md#compétences
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
-Name: Compétences
 ParentName: Utiliser les caractéristiques
 NameLevel: 2
 Attributes: {}

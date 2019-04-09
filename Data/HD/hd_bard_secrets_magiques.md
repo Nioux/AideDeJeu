@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Secrets magiques
 Id: bard_hd.md#secrets-magiques
 ParentLink: bard_hd.md#barde
+Name: Secrets magiques
 ParentName: Barde
 NameLevel: 2
 Attributes: {}

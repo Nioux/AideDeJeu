@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Sort accéléré
 Id: sorcerer_hd.md#sort-accéléré
 ParentLink: sorcerer_hd.md#ensorceleur
+Name: Sort accéléré
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

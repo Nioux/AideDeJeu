@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#matérielles-m
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Matérielles (M)
-ParentName: Lancer des sorts
-NameLevel: 4
 AltName: Material (M) (SRD p102)
 Source: (MDR p308)
+Id: spellcasting_hd.md#matérielles-m
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 4
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

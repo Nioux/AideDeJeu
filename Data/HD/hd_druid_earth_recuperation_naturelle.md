@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Récupération naturelle
 Id: druid_earth_hd.md#récupération-naturelle
 ParentLink: druid_earth_hd.md#cercle-de-la-terre
-Name: Récupération naturelle
 ParentName: Cercle de la terre
 NameLevel: 2
 Attributes: {}

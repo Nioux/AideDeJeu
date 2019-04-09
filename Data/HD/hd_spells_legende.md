@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 5
+Name: Légende
+AltName: '[Legend Lore](srd_spells_legend_lore.md)'
 Type: Divination
+Level: 5
 CastingTime: 10 minutes
 Range: personnelle
 Components: V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
+Source: (MDR p)(SRD)
 Id: spells_hd.md#légende
 ParentLink: spells_hd.md#sorts
-Name: Légende
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Legend Lore](srd_spells_legend_lore.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

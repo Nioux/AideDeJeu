@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 1
+Name: Graisse
+AltName: '[Grease](srd_spells_grease.md)'
 Type: Invocation
+Level: 1
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (de la couenne de porc ou du beurre)
 Duration: 1 minute
 Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+Family: SpellHD
+Source: (MDR p360)(SRD)
 Id: spells_hd.md#graisse
 ParentLink: spells_hd.md#sorts
-Name: Graisse
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Grease](srd_spells_grease.md)'
-Source: (MDR p360)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

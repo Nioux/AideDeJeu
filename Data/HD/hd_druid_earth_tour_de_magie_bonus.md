@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Tour de magie bonus
 Id: druid_earth_hd.md#tour-de-magie-bonus
 ParentLink: druid_earth_hd.md#cercle-de-la-terre
-Name: Tour de magie bonus
 ParentName: Cercle de la terre
 NameLevel: 2
 Attributes: {}

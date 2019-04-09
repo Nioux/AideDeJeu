@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Déluge de coups
 Id: monk_hd.md#déluge-de-coups
 ParentLink: monk_hd.md#moine
+Name: Déluge de coups
 ParentName: Moine
 NameLevel: 2
 Attributes: {}

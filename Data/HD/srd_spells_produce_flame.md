@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: cantrip
+Name: Produce Flame
+AltName: '[Produire une flamme](hd_spells_produire_une_flamme.md)'
 Type: Conjuration
+Level: cantrip
 CastingTime: 1 action
 Range: Self
 Components: V, S
 Duration: 10 minutes
 Classes: Druid
+Family: SpellVO
+Source: (SRD p172)
 Id: spells_vo.md#produce-flame
 ParentLink: spells_vo.md#spells-srd-p
-Name: Produce Flame
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Produire une flamme](hd_spells_produire_une_flamme.md)'
-Source: (SRD p172)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

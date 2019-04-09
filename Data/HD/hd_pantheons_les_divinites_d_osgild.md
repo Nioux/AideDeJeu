@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Les divinités d’Osgild
+Source: (MDR p416)
 Id: pantheons_hd.md#les-divinités-d’osgild
 ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
-Name: Les divinités d’Osgild
 ParentName: Panthéons historiques et fantastiques
 NameLevel: 4
-Source: (MDR p416)
 Attributes: {}
 ---
 > [Panthéons historiques et fantastiques](hd_pantheons.md)

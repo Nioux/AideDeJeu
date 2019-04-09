@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Style de combat
 Id: ranger_hd.md#style-de-combat
 ParentLink: ranger_hd.md#rôdeur
+Name: Style de combat
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

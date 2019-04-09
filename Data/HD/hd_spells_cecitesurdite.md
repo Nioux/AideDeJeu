@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 2
+Name: Cécité/surdité
+AltName: '[Blindness/Deafness](srd_spells_blindnessdeafness.md)'
 Type: Nécromancie
+Level: 2
 CastingTime: 1 action
 Range: 9 mètres
 Components: V
 Duration: 1 minute
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
+Source: (MDR p331)(SRD)
 Id: spells_hd.md#cécitésurdité
 ParentLink: spells_hd.md#sorts
-Name: Cécité/surdité
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Blindness/Deafness](srd_spells_blindnessdeafness.md)'
-Source: (MDR p331)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 3
+Name: Respiration aquatique
+AltName: '[Water Breathing](srd_spells_water_breathing.md)'
 Type: Transmutation
-Ritual: rituel
+Level: 3
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (un petit roseau ou un brin de paille)
 Duration: 24 heures
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
+Source: (MDR p)(SRD)
+Ritual: rituel
 Id: spells_hd.md#respiration-aquatique
 ParentLink: spells_hd.md#sorts
-Name: Respiration aquatique
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Water Breathing](srd_spells_water_breathing.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

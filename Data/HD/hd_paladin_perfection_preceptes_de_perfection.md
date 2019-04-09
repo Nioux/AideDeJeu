@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Préceptes de perfection
 Id: paladin_perfection_hd.md#préceptes-de-perfection
 ParentLink: paladin_perfection_hd.md#serment-de-perfection
-Name: Préceptes de perfection
 ParentName: Serment de perfection
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Incantations
 Id: paladin_hd.md#incantations
 ParentLink: paladin_hd.md#paladin
+Name: Incantations
 ParentName: Paladin
 NameLevel: 1
 Attributes: {}

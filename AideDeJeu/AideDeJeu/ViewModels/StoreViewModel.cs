@@ -561,6 +561,9 @@ namespace AideDeJeu.ViewModels
             public DbSet<BackgroundItem> Backgrounds { get; set; }
             public DbSet<SubBackgroundItem> SubBackgrounds { get; set; }
             public DbSet<PersonalityTraitItem> PersonalityTraits { get; set; }
+            public DbSet<PersonalityIdealItem> PersonalityIdeals { get; set; }
+            public DbSet<PersonalityLinkItem> PersonalityLinks { get; set; }
+            public DbSet<PersonalityDefectItem> PersonalityDefects { get; set; }
 
             public AideDeJeuContext(string dbPath)
             {

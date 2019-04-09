@@ -67,5 +67,41 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _PersonalityTrait, value);
             }
         }
+        private string _PersonalityIdeal = null;
+        public string PersonalityIdeal
+        {
+            get
+            {
+                return _PersonalityIdeal;
+            }
+            set
+            {
+                SetProperty(ref _PersonalityIdeal, value);
+            }
+        }
+        private string _PersonalityLink = null;
+        public string PersonalityLink
+        {
+            get
+            {
+                return _PersonalityLink;
+            }
+            set
+            {
+                SetProperty(ref _PersonalityLink, value);
+            }
+        }
+        private string _PersonalityDefect = null;
+        public string PersonalityDefect
+        {
+            get
+            {
+                return _PersonalityDefect;
+            }
+            set
+            {
+                SetProperty(ref _PersonalityDefect, value);
+            }
+        }
     }
 }

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sphère roulante
 Id: traps_hd.md#sphère-roulante
 ParentLink: traps_hd.md#les-pièges
-Name: Sphère roulante
 ParentName: Les pièges
 NameLevel: 4
 Attributes: {}

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#types-de-dégâts
-ParentLink: combat_hd.md#combattre
 Name: Types de dégâts
-ParentName: Combattre
-NameLevel: 4
 AltName: Damage Types (SRD p97)
 Source: (MDR p294)
+Id: combat_hd.md#types-de-dégâts
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 4
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

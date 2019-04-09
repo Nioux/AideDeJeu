@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 4
+Name: Liane chasseresse
 Type: Invocation
+Level: 4
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
+Source: (MDR p)
 Id: spells_hd.md#liane-chasseresse
 ParentLink: spells_hd.md#sorts
-Name: Liane chasseresse
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

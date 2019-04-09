@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Pureté de la lame
 Id: paladin_piety_hd.md#pureté-de-la-lame
 ParentLink: paladin_piety_hd.md#serment-de-piété
-Name: Pureté de la lame
 ParentName: Serment de piété
 NameLevel: 2
 Attributes: {}

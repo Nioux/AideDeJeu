@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Communication
 Id: sentient_magicitems_hd.md#communication
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
-Name: Communication
 ParentName: Objets magiques intelligents
 NameLevel: 5
 Attributes: {}

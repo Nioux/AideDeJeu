@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 2
+Name: Aide
+AltName: '[Aid](srd_spells_aid.md)'
 Type: Abjuration
+Level: 2
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (une minuscule bandelette de tissu blanc)
 Duration: 8 heures
 Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
+Family: SpellHD
+Source: (MDR p320)(SRD)
 Id: spells_hd.md#aide
 ParentLink: spells_hd.md#sorts
-Name: Aide
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Aid](srd_spells_aid.md)'
-Source: (MDR p320)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

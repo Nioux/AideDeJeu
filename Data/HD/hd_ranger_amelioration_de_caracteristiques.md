@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Amélioration de caractéristiques
 Id: ranger_hd.md#amélioration-de-caractéristiques
 ParentLink: ranger_hd.md#rôdeur
+Name: Amélioration de caractéristiques
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

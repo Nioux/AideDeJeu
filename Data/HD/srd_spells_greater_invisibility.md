@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 4
+Name: Greater Invisibility
+AltName: '[Invisibilité supérieure](hd_spells_invisibilite_superieure.md)'
 Type: illusion
+Level: 4
 CastingTime: 1 action
 Range: Touch
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Wizard
+Family: SpellVO
+Source: (SRD p150)
 Id: spells_vo.md#greater-invisibility
 ParentLink: spells_vo.md#spells-srd-p
-Name: Greater Invisibility
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Invisibilité supérieure](hd_spells_invisibilite_superieure.md)'
-Source: (SRD p150)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

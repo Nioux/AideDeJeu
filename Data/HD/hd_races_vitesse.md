@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: races_hd.md#vitesse
-ParentLink: races_hd.md#traits-raciaux
 Name: Vitesse
-ParentName: Traits raciaux
-NameLevel: 4
 AltName: Speed
 Source: (MDR p37)(SRD p3)
+Id: races_hd.md#vitesse
+ParentLink: races_hd.md#traits-raciaux
+ParentName: Traits raciaux
+NameLevel: 4
 Attributes: {}
 ---
 > [Traits raciaux](hd_races_traits_raciaux.md)

@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Baies apaisantes
+Source: (L5R p59)
 Id: l5r_druid_hd.md#baies-apaisantes
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
-Name: Baies apaisantes
 ParentName: Druide des cinq royaumes
 NameLevel: 5
-Source: (L5R p59)
 Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)

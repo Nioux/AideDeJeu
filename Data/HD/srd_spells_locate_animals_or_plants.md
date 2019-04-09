@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 2
+Name: Locate Animals or Plants
+AltName: '[Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)'
 Type: divination
-Ritual: ritual
+Level: 2
 CastingTime: 1 action
 Range: Self
 Components: V, S, M (a bit of fur from a bloodhound)
 Duration: Instantaneous
 Classes: Bard, Druid, Ranger
+Family: SpellVO
+Source: (SRD p159)
+Ritual: ritual
 Id: spells_vo.md#locate-animals-or-plants
 ParentLink: spells_vo.md#spells-srd-p
-Name: Locate Animals or Plants
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)'
-Source: (SRD p159)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

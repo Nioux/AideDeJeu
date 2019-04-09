@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Sort distant
 Id: sorcerer_hd.md#sort-distant
 ParentLink: sorcerer_hd.md#ensorceleur
+Name: Sort distant
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

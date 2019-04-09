@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Rage ininterrompue
 Id: barbarian_hd.md#rage-ininterrompue
 ParentLink: barbarian_hd.md#barbare
+Name: Rage ininterrompue
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

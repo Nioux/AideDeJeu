@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Destruction des morts-vivants
 Id: cleric_hd.md#destruction-des-morts-vivants
 ParentLink: cleric_hd.md#clerc
+Name: Destruction des morts-vivants
 ParentName: Clerc
 NameLevel: 2
 Attributes: {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 3
+Name: Glyph of Warding
+AltName: '[Glyphe de protection](hd_spells_glyphe_de_protection.md)'
 Type: abjuration
+Level: 3
 CastingTime: 1 hour
 Range: Touch
 Components: V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)
 Duration: Until dispelled or triggered
 Classes: Bard, Cleric, Wizard
+Family: SpellVO
+Source: (SRD p149)
 Id: spells_vo.md#glyph-of-warding
 ParentLink: spells_vo.md#spells-srd-p
-Name: Glyph of Warding
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Glyphe de protection](hd_spells_glyphe_de_protection.md)'
-Source: (SRD p149)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Magie de pacte
 Id: multiclassing_hd.md#magie-de-pacte
 ParentLink: multiclassing_hd.md#multiclassage
-Name: Magie de pacte
 ParentName: Multiclassage
 NameLevel: 4
 Attributes: {}

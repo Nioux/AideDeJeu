@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Préceptes de dévotion
 Id: paladin_devotion_hd.md#préceptes-de-dévotion
 ParentLink: paladin_devotion_hd.md#serment-de-dévotion
-Name: Préceptes de dévotion
 ParentName: Serment de dévotion
 NameLevel: 2
 Attributes: {}

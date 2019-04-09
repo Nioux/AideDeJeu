@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 5
+Name: Colonne de flamme
+AltName: '[Flame Strike](srd_spells_flame_strike.md)'
 Type: Évocation
+Level: 5
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (une pincée de soufre)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Family: SpellHD
+Source: (MDR p336)(SRD)
 Id: spells_hd.md#colonne-de-flamme
 ParentLink: spells_hd.md#sorts
-Name: Colonne de flamme
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Flame Strike](srd_spells_flame_strike.md)'
-Source: (MDR p336)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

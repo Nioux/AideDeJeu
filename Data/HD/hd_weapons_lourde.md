@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: weapons_hd.md#lourde
-ParentLink: weapons_hd.md#armes
 Name: Lourde
-ParentName: Armes
-NameLevel: 5
 AltName: Heavy (SRD p65)
 Source: (MDR p227)
+Id: weapons_hd.md#lourde
+ParentLink: weapons_hd.md#armes
+ParentName: Armes
+NameLevel: 5
 Attributes: {}
 ---
 > [Armes](hd_weapons.md)

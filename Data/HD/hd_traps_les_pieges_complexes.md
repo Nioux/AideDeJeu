@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Les pièges complexes
 Id: traps_hd.md#les-pièges-complexes
 ParentLink: traps_hd.md#les-pièges
-Name: Les pièges complexes
 ParentName: Les pièges
 NameLevel: 2
 Attributes: {}

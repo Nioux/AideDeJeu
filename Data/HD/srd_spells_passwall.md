@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 5
+Name: Passwall
+AltName: '[Passe-muraille](hd_spells_passe_muraille.md)'
 Type: transmutation
+Level: 5
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S, M (a pinch of sesame seeds)
 Duration: 1 hour
 Classes: Wizard
+Family: SpellVO
+Source: (SRD p167)
 Id: spells_vo.md#passwall
 ParentLink: spells_vo.md#spells-srd-p
-Name: Passwall
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Passe-muraille](hd_spells_passe_muraille.md)'
-Source: (SRD p167)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

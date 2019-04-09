@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Canalisation d'énergie divine
 Id: paladin_obedience_hd.md#canalisation-dénergie-divine
 ParentLink: paladin_obedience_hd.md#serment-dobédience
-Name: Canalisation d'énergie divine
 ParentName: Serment d'obédience
 NameLevel: 2
 Attributes: {}

@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: "Étape 3 : déterminer l'effet en cas d'échec"
+Source: (L5R p70)
 Id: l5r_rituals_hd.md#Étape-3--déterminer-leffet-en-cas-déchec
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
-Name: "Étape 3 : déterminer l'effet en cas d'échec"
 ParentName: Lancer un rituel
 NameLevel: 4
-Source: (L5R p70)
 Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

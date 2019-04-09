@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: Repos
+AltName: Resting (SRD p87)
+Source: (MDR p303)
 Id: resting_hd.md#repos
 RootId: resting_hd.md
 ParentLink: manage_health_hd.md
-Name: Repos
 ParentName: Gérer la santé
 NameLevel: 1
-AltName: Resting (SRD p87)
-Source: (MDR p303)
 Attributes: {}
 ---
 >  [Gérer la santé](hd_manage_health.md)

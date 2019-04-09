@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Dessein spécial
 Id: sentient_magicitems_hd.md#dessein-spécial
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
-Name: Dessein spécial
 ParentName: Objets magiques intelligents
 NameLevel: 5
 Attributes: {}

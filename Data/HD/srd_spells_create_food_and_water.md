@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 3
+Name: Create Food and Water
+AltName: "[Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)"
 Type: conjuration
+Level: 3
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric, Paladin
+Family: SpellVO
+Source: (SRD p131)
 Id: spells_vo.md#create-food-and-water
 ParentLink: spells_vo.md#spells-srd-p
-Name: Create Food and Water
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: "[Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)"
-Source: (SRD p131)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

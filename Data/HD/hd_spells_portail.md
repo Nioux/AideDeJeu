@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 9
+Name: Portail
+AltName: '[Gate](srd_spells_gate.md)'
 Type: Invocation
+Level: 9
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (un diamant d'une valeur minimale de 5 000 po)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
+Source: (MDR p)(SRD)
 Id: spells_hd.md#portail
 ParentLink: spells_hd.md#sorts
-Name: Portail
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Gate](srd_spells_gate.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

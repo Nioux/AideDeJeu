@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Vigilance primitive
 Id: ranger_hd.md#vigilance-primitive
 ParentLink: ranger_hd.md#rôdeur
+Name: Vigilance primitive
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

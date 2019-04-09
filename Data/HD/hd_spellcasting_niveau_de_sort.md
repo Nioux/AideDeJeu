@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#niveau-de-sort
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Niveau de sort
-ParentName: Lancer des sorts
-NameLevel: 3
 AltName: Spell Level (SRD p100)
 Source: (MDR p306)
+Id: spellcasting_hd.md#niveau-de-sort
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 3
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

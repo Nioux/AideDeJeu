@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Serment sacré
 Id: paladin_hd.md#serment-sacré
 ParentLink: paladin_hd.md#paladin
+Name: Serment sacré
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

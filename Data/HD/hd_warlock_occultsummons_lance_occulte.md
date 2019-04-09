@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Lance occulte
 Id: warlock_occultsummons_hd.md#lance-occulte
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Lance occulte
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes: {}

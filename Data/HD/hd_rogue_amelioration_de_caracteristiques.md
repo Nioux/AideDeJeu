@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Amélioration de caractéristiques
 Id: rogue_hd.md#amélioration-de-caractéristiques
 ParentLink: rogue_hd.md#roublard
+Name: Amélioration de caractéristiques
 ParentName: Roublard
 NameLevel: 2
 Attributes: {}

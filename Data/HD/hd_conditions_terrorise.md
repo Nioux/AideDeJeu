@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Terrorisé
+AltName: '[Frightened](srd_conditions_frightened.md)'
 Id: conditions_hd.md#terrorisé
 ParentLink: conditions_hd.md#États-spéciaux
-Name: Terrorisé
 ParentName: États spéciaux
 NameLevel: 1
-AltName: '[Frightened](srd_conditions_frightened.md)'
 Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)

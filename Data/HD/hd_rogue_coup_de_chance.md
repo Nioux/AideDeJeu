@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Coup de chance
 Id: rogue_hd.md#coup-de-chance
 ParentLink: rogue_hd.md#roublard
+Name: Coup de chance
 ParentName: Roublard
 NameLevel: 2
 Attributes: {}

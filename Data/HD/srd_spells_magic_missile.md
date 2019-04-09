@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 1
+Name: Magic Missile
+AltName: '[Projectile magique](hd_spells_projectile_magique.md)'
 Type: evocation
+Level: 1
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Family: SpellVO
+Source: (SRD p161)
 Id: spells_vo.md#magic-missile
 ParentLink: spells_vo.md#spells-srd-p
-Name: Magic Missile
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Projectile magique](hd_spells_projectile_magique.md)'
-Source: (SRD p161)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

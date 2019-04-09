@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Traversée des Enfers
 Id: warlock_fiendish_hd.md#traversée-des-enfers
 ParentLink: warlock_fiendish_hd.md#le-fiélon
-Name: Traversée des Enfers
 ParentName: Le fiélon
 NameLevel: 2
 Attributes: {}

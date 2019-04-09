@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Esquive instinctive devient révélation
+Source: (L5R p66)
 Id: l5r_rogue_hd.md#esquive-instinctive-devient-révélation
 ParentLink: l5r_rogue_hd.md#le-savant
-Name: Esquive instinctive devient révélation
 ParentName: Le savant
 NameLevel: 4
-Source: (L5R p66)
 Attributes: {}
 ---
 > [Le savant](hd_l5r_rogue.md)

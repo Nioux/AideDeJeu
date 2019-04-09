@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Arcanum mystique
 Id: warlock_hd.md#arcanum-mystique
 ParentLink: warlock_hd.md#sorcier
+Name: Arcanum mystique
 ParentName: Sorcier
 NameLevel: 1
 Attributes: {}

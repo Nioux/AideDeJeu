@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Cri de ralliement
 Id: paladin_obedience_hd.md#cri-de-ralliement
 ParentLink: paladin_obedience_hd.md#serment-dobédience
-Name: Cri de ralliement
 ParentName: Serment d'obédience
 NameLevel: 2
 Attributes: {}

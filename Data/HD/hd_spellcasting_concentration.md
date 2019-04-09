@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#concentration
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Concentration
-ParentName: Lancer des sorts
-NameLevel: 4
 AltName: Concentration (SRD p102)
 Source: (MDR p308)
+Id: spellcasting_hd.md#concentration
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 4
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Amélioration de caractéristiques
 Id: barbarian_hd.md#amélioration-de-caractéristiques
 ParentLink: barbarian_hd.md#barbare
+Name: Amélioration de caractéristiques
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Voie primitive
 Id: barbarian_hd.md#voie-primitive
 ParentLink: barbarian_hd.md#barbare
+Name: Voie primitive
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

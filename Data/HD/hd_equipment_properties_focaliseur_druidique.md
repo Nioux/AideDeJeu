@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: equipment_properties_hd.md#focaliseur-druidique
-ParentLink: equipment_properties_hd.md#Équipement
 Name: Focaliseur druidique
-ParentName: Équipement
-NameLevel: 2
 AltName: Druidic Focus (SRD p67)
 Source: (MDR p230)
+Id: equipment_properties_hd.md#focaliseur-druidique
+ParentLink: equipment_properties_hd.md#Équipement
+ParentName: Équipement
+NameLevel: 2
 Attributes: {}
 ---
 > [Équipement](hd_equipment_properties.md)

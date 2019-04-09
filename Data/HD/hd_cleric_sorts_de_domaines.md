@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Sorts de domaines
 Id: cleric_hd.md#sorts-de-domaines
 ParentLink: cleric_hd.md#clerc
+Name: Sorts de domaines
 ParentName: Clerc
 NameLevel: 2
 Attributes: {}

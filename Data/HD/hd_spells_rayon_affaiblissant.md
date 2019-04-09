@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 2
+Name: Rayon affaiblissant
+AltName: '[Ray of Enfeeblement](srd_spells_ray_of_enfeeblement.md)'
 Type: Nécromancie
+Level: 2
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
+Source: (MDR p)(SRD)
 Id: spells_hd.md#rayon-affaiblissant
 ParentLink: spells_hd.md#sorts
-Name: Rayon affaiblissant
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Ray of Enfeeblement](srd_spells_ray_of_enfeeblement.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

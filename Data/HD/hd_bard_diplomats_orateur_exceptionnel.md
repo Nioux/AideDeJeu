@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Orateur exceptionnel
 Id: bard_diplomats_hd.md#orateur-exceptionnel
 ParentLink: bard_diplomats_hd.md#collège-des-diplomates
-Name: Orateur exceptionnel
 ParentName: Collège des diplomates
 NameLevel: 2
 Attributes: {}

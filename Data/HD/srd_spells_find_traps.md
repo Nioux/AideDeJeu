@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 2
+Name: Find Traps
+AltName: '[Trouver les pièges](hd_spells_trouver_les_pieges.md)'
 Type: divination
+Level: 2
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric, Druid, Ranger
+Family: SpellVO
+Source: (SRD p144)
 Id: spells_vo.md#find-traps
 ParentLink: spells_vo.md#spells-srd-p
-Name: Find Traps
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Trouver les pièges](hd_spells_trouver_les_pieges.md)'
-Source: (SRD p144)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

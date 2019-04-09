@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 2
+Name: Rayon ardent
+AltName: '[Scorching Ray](srd_spells_scorching_ray.md)'
 Type: Évocation
+Level: 2
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
+Source: (MDR p)(SRD)
 Id: spells_hd.md#rayon-ardent
 ParentLink: spells_hd.md#sorts
-Name: Rayon ardent
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Scorching Ray](srd_spells_scorching_ray.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Expertise
 Id: bard_hd.md#expertise
 ParentLink: bard_hd.md#barde
+Name: Expertise
 ParentName: Barde
 NameLevel: 2
 Attributes: {}

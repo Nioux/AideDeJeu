@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Ancêtre fiélon
 Id: sorcerer_infernal_hd.md#ancêtre-fiélon
 ParentLink: sorcerer_infernal_hd.md#lignée-infernale
-Name: Ancêtre fiélon
 ParentName: Lignée infernale
 NameLevel: 2
 Attributes: {}

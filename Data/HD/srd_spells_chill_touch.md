@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: cantrip
+Name: Chill Touch
+AltName: '[Contact glacial](hd_spells_contact_glacial.md)'
 Type: Necromancy
+Level: cantrip
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S
 Duration: 1 round
 Classes: Sorcerer, Warlock, Wizard
+Family: SpellVO
+Source: (SRD p124)
 Id: spells_vo.md#chill-touch
 ParentLink: spells_vo.md#spells-srd-p
-Name: Chill Touch
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Contact glacial](hd_spells_contact_glacial.md)'
-Source: (SRD p124)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

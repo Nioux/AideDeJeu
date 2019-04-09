@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Maître de l'occulte
 Id: warlock_hd.md#maître-de-locculte
 ParentLink: warlock_hd.md#sorcier
+Name: Maître de l'occulte
 ParentName: Sorcier
 NameLevel: 1
 Attributes: {}

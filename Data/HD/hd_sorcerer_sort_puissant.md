@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Sort puissant
 Id: sorcerer_hd.md#sort-puissant
 ParentLink: sorcerer_hd.md#ensorceleur
+Name: Sort puissant
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

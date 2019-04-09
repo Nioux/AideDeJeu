@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 6
+Name: Invoquer une fée
+AltName: '[Conjure Fey](srd_spells_conjure_fey.md)'
 Type: Invocation
+Level: 6
 CastingTime: 1 minute
 Range: 27 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
+Source: (MDR p)(SRD)
 Id: spells_hd.md#invoquer-une-fée
 ParentLink: spells_hd.md#sorts
-Name: Invoquer une fée
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Conjure Fey](srd_spells_conjure_fey.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

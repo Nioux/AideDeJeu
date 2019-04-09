@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 1
+Name: Hunter's Mark
+AltName: '[Marque du chasseur](hd_spells_marque_du_chasseur.md)'
 Type: divination
+Level: 1
 CastingTime: 1 bonus action
 Range: 90 feet
 Components: V
 Duration: Concentration, up to 1 hour
 Classes: Ranger
+Family: SpellVO
+Source: (SRD p155)
 Id: spells_vo.md#hunters-mark
 ParentLink: spells_vo.md#spells-srd-p
-Name: Hunter's Mark
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Marque du chasseur](hd_spells_marque_du_chasseur.md)'
-Source: (SRD p155)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

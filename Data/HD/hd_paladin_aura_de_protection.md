@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Aura de protection
 Id: paladin_hd.md#aura-de-protection
 ParentLink: paladin_hd.md#paladin
+Name: Aura de protection
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

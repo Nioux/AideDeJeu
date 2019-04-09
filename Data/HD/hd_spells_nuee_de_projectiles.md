@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 5
+Name: Nuée de projectiles
 Type: Invocation
+Level: 5
 CastingTime: 1 action bonus
 Range: selon l'arme utilisée
 Components: V, S, M (un projectile)
 Duration: instantané
 Classes: '[Rôdeur](hd_ranger.md)'
+Family: SpellHD
+Source: (MDR p)
 Id: spells_hd.md#nuée-de-projectiles
 ParentLink: spells_hd.md#sorts
-Name: Nuée de projectiles
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

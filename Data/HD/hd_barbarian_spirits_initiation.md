@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Initiation
 Id: barbarian_spirits_hd.md#initiation
 ParentLink: barbarian_spirits_hd.md#voie-des-esprits
-Name: Initiation
 ParentName: Voie des esprits
 NameLevel: 2
 Attributes: {}

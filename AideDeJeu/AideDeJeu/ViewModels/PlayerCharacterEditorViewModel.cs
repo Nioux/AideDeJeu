@@ -22,6 +22,9 @@ namespace AideDeJeu.ViewModels
             Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
             SubBackgrounds = new NotifyTaskCompletion<List<SubBackgroundItem>>(null);
             PersonalityTraits = new NotifyTaskCompletion<List<string>>(null);
+            PersonalityIdeals = new NotifyTaskCompletion<List<string>>(null);
+            PersonalityLinks = new NotifyTaskCompletion<List<string>>(null);
+            PersonalityDefects = new NotifyTaskCompletion<List<string>>(null);
         }
 
         #region Selected PC
@@ -109,7 +112,14 @@ namespace AideDeJeu.ViewModels
                 SelectedPlayerCharacter.Background = Backgrounds.Result[_BackgroundSelectedIndex];
                 SubBackgrounds = new NotifyTaskCompletion<List<SubBackgroundItem>>(Task.Run(() => LoadSubBackgroundsAsync(SelectedPlayerCharacter.Background)));
                 PersonalityTraits = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityTraitsAsync(SelectedPlayerCharacter.Background)));
+                PersonalityIdeals = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityIdealsAsync(SelectedPlayerCharacter.Background)));
+                PersonalityLinks = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityLinksAsync(SelectedPlayerCharacter.Background)));
+                PersonalityDefects = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityDefectsAsync(SelectedPlayerCharacter.Background)));
                 SelectedPlayerCharacter.SubBackground = null;
+                SelectedPlayerCharacter.PersonalityTrait = null;
+                SelectedPlayerCharacter.PersonalityIdeal = null;
+                SelectedPlayerCharacter.PersonalityLink = null;
+                SelectedPlayerCharacter.PersonalityDefect = null;
             }
         }
 
@@ -160,6 +170,42 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _PersonalityTraits, value);
             }
         }
+        private NotifyTaskCompletion<List<string>> _PersonalityIdeals = null;
+        public NotifyTaskCompletion<List<string>> PersonalityIdeals
+        {
+            get
+            {
+                return _PersonalityIdeals;
+            }
+            private set
+            {
+                SetProperty(ref _PersonalityIdeals, value);
+            }
+        }
+        private NotifyTaskCompletion<List<string>> _PersonalityLinks = null;
+        public NotifyTaskCompletion<List<string>> PersonalityLinks
+        {
+            get
+            {
+                return _PersonalityLinks;
+            }
+            private set
+            {
+                SetProperty(ref _PersonalityLinks, value);
+            }
+        }
+        private NotifyTaskCompletion<List<string>> _PersonalityDefects = null;
+        public NotifyTaskCompletion<List<string>> PersonalityDefects
+        {
+            get
+            {
+                return _PersonalityDefects;
+            }
+            private set
+            {
+                SetProperty(ref _PersonalityDefects, value);
+            }
+        }
 
         public async Task<List<BackgroundItem>> LoadBackgroundsAsync()
         {
@@ -170,27 +216,78 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public List<string> ExtractSimpleTable(string table)
+        {
+            var lines = table.Split('\n');
+            var result = new List<string>();
+            foreach (var line in lines.Skip(2))
+            {
+                if (line.StartsWith("|"))
+                {
+                    var cols = line.Split('|');
+                    var text = cols[2].Replace("<!--br-->", " ").Replace("  ", " ");
+                    result.Add(text);
+                }
+            }
+            return result;
+        }
         public async Task<List<string>> LoadPersonalityTraitsAsync(BackgroundItem background)
         {
             if (background != null)
             {
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
-                    var list = await context.PersonalityTraits.Where(it => it.ParentLink.StartsWith(background.RootId)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync().ConfigureAwait(false);
+                    var list = await context.PersonalityTraits.Where(it => it.ParentLink.StartsWith(background.RootId)).ToListAsync().ConfigureAwait(false);
                     var item = list.FirstOrDefault();
-                    var table = item.Table;
-                    var lines = table.Split('\n');
-                    var result = new List<string>();
-                    foreach (var line in lines.Skip(2))
-                    {
-                        if (line.StartsWith("|"))
-                        {
-                            var cols = line.Split('|');
-                            var text = cols[2].Replace("<!--br-->", " ").Replace("  ", " ");
-                            result.Add(text);
-                        }
-                    }
-                    return result;
+                    return ExtractSimpleTable(item.Table);
+                }
+            }
+            else
+            {
+                return null;
+            }
+        }
+        public async Task<List<string>> LoadPersonalityIdealsAsync(BackgroundItem background)
+        {
+            if (background != null)
+            {
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
+                {
+                    var list = await context.PersonalityIdeals.Where(it => it.ParentLink.StartsWith(background.RootId)).ToListAsync().ConfigureAwait(false);
+                    var item = list.FirstOrDefault();
+                    return ExtractSimpleTable(item.Table);
+                }
+            }
+            else
+            {
+                return null;
+            }
+        }
+        public async Task<List<string>> LoadPersonalityLinksAsync(BackgroundItem background)
+        {
+            if (background != null)
+            {
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
+                {
+                    var list = await context.PersonalityLinks.Where(it => it.ParentLink.StartsWith(background.RootId)).ToListAsync().ConfigureAwait(false);
+                    var item = list.FirstOrDefault();
+                    return ExtractSimpleTable(item.Table);
+                }
+            }
+            else
+            {
+                return null;
+            }
+        }
+        public async Task<List<string>> LoadPersonalityDefectsAsync(BackgroundItem background)
+        {
+            if (background != null)
+            {
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
+                {
+                    var list = await context.PersonalityDefects.Where(it => it.ParentLink.StartsWith(background.RootId)).ToListAsync().ConfigureAwait(false);
+                    var item = list.FirstOrDefault();
+                    return ExtractSimpleTable(item.Table);
                 }
             }
             else
@@ -216,23 +313,45 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public ICommand StringPickerCommand
+        public ICommand PersonalityTraitPickerCommand
         {
             get
             {
-                return new Command<List<string>>(async (strings) => await ExecuteStringPickerCommandAsync(strings));
+                return new Command<List<string>>(async (strings) => SelectedPlayerCharacter.PersonalityTrait = await ExecuteStringPickerCommandAsync(strings));
+            }
+        }
+        public ICommand PersonalityIdealPickerCommand
+        {
+            get
+            {
+                return new Command<List<string>>(async (strings) => SelectedPlayerCharacter.PersonalityIdeal = await ExecuteStringPickerCommandAsync(strings));
+            }
+        }
+        public ICommand PersonalityLinkPickerCommand
+        {
+            get
+            {
+                return new Command<List<string>>(async (strings) => SelectedPlayerCharacter.PersonalityLink = await ExecuteStringPickerCommandAsync(strings));
+            }
+        }
+        public ICommand PersonalityDefectPickerCommand
+        {
+            get
+            {
+                return new Command<List<string>>(async (strings) => SelectedPlayerCharacter.PersonalityDefect = await ExecuteStringPickerCommandAsync(strings));
             }
         }
 
-        private async Task ExecuteStringPickerCommandAsync(List<string> strings)
+        private async Task<string> ExecuteStringPickerCommandAsync(List<string> strings)
         {
             var picker = new Views.StringPicker();
             var vm = picker.ViewModel;
+            vm.Title = "Trait de personnalité";
             vm.Items = strings;
             await Main.Navigator.Navigation.PushModalAsync(picker, true);
             var result = await vm.PickValueAsync();
             await Main.Navigator.Navigation.PopModalAsync(true);
-            SelectedPlayerCharacter.PersonalityTrait = result;
+            return result;
         }
         #endregion Background
 

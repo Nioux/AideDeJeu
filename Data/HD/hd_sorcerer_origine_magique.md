@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Origine magique
 Id: sorcerer_hd.md#origine-magique
 ParentLink: sorcerer_hd.md#ensorceleur
+Name: Origine magique
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

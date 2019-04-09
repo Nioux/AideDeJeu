@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Forme animale
 Id: sorcerer_fairy_hd.md#forme-animale
 ParentLink: sorcerer_fairy_hd.md#lignée-féerique
-Name: Forme animale
 ParentName: Lignée féerique
 NameLevel: 2
 Attributes: {}

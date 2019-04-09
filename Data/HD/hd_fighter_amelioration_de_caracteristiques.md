@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Amélioration de caractéristiques
 Id: fighter_hd.md#amélioration-de-caractéristiques
 ParentLink: fighter_hd.md#guerrier
+Name: Amélioration de caractéristiques
 ParentName: Guerrier
 NameLevel: 1
 Attributes: {}

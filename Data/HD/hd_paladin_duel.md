@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Duel
 Id: paladin_hd.md#duel
 ParentLink: paladin_hd.md#paladin
+Name: Duel
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 9
+Name: Projection astrale
+AltName: '[Astral Projection](srd_spells_astral_projection.md)'
 Type: Nécromancie
+Level: 9
 CastingTime: 1 heure
 Range: 3 mètres
 Components: V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
 Duration: spéciale
 Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
+Source: (MDR p)(SRD)
 Id: spells_hd.md#projection-astrale
 ParentLink: spells_hd.md#sorts
-Name: Projection astrale
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Astral Projection](srd_spells_astral_projection.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

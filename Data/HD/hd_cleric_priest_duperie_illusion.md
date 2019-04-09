@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Duperie, illusion
 Id: cleric_priest_hd.md#duperie-illusion
 ParentLink: cleric_priest_hd.md#liste-des-domaines
-Name: Duperie, illusion
 ParentName: Liste des domaines
 NameLevel: 4
 Attributes: {}

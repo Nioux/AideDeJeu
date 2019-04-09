@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Charme intense
 Id: sorcerer_fairy_hd.md#charme-intense
 ParentLink: sorcerer_fairy_hd.md#lignée-féerique
-Name: Charme intense
 ParentName: Lignée féerique
 NameLevel: 2
 Attributes: {}

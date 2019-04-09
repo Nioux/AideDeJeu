@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Loyal Mauvais (LM)
 Id: alignment_hd.md#loyal-mauvais-lm
 ParentLink: alignment_hd.md#alignement
-Name: Loyal Mauvais (LM)
 ParentName: Alignement
 NameLevel: 4
 Attributes: {}

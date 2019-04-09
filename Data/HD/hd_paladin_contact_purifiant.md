@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Contact purifiant
 Id: paladin_hd.md#contact-purifiant
 ParentLink: paladin_hd.md#paladin
+Name: Contact purifiant
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

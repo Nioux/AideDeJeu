@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 1
+Name: Faerie Fire
+AltName: '[Lueurs féeriques](hd_spells_lueurs_feeriques.md)'
 Type: evocation
+Level: 1
 CastingTime: 1 action
 Range: 60 feet
 Components: V
 Duration: Concentration, up to 1 minute
 Classes: Bard, Druid
+Family: SpellVO
+Source: (SRD p141)
 Id: spells_vo.md#faerie-fire
 ParentLink: spells_vo.md#spells-srd-p
-Name: Faerie Fire
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Lueurs féeriques](hd_spells_lueurs_feeriques.md)'
-Source: (SRD p141)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

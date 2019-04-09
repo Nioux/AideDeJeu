@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: conditions_vo.md#restrained
-ParentLink: conditions_vo.md#conditions
 Name: Restrained
-ParentName: Conditions
-NameLevel: 1
 AltName: '[Entravé](hd_conditions_entrave.md)'
 Source: (SRD p359)
+Id: conditions_vo.md#restrained
+ParentLink: conditions_vo.md#conditions
+ParentName: Conditions
+NameLevel: 1
 Attributes: {}
 ---
 > [Conditions](srd_conditions.md)

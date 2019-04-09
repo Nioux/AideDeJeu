@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 2
+Name: See Invisibility
+AltName: "[Voir l'invisible](hd_spells_voir_linvisible.md)"
 Type: divination
+Level: 2
 CastingTime: 1 action
 Range: Self
 Components: V, S, M (a pinch of talc and a small sprinkling of powdered silver)
 Duration: 1 hour
 Classes: Bard, Sorcerer, Wizard
+Family: SpellVO
+Source: (SRD p177)
 Id: spells_vo.md#see-invisibility
 ParentLink: spells_vo.md#spells-srd-p
-Name: See Invisibility
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: "[Voir l'invisible](hd_spells_voir_linvisible.md)"
-Source: (SRD p177)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

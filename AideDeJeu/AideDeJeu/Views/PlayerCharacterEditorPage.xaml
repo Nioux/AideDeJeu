@@ -58,19 +58,21 @@
                 <StackLayout HorizontalOptions="FillAndExpand" >
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Description}" />
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Description}" />
-                    <Button Text="Trait de personnalité" Command="{Binding StringPickerCommand}" CommandParameter="{Binding PersonalityTraits.Result}" />
-                    <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityTrait}" />
-                    <!--<ListView HorizontalOptions="FillAndExpand" ItemsSource="{Binding PersonalityTraits.Result}">
-                        <ListView.ItemTemplate>
-                            <DataTemplate>
-                                <ViewCell>
-                                    <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding}" />
-                                </ViewCell>
-                            </DataTemplate>
-                        </ListView.ItemTemplate>
-                    </ListView>-->
-                    <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
-                    <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Markdown}" />
+
+                    <Button IsVisible="{Binding SubBackgrounds.IsSuccessfullyCompleted}" Text="Trait de personnalité" Command="{Binding PersonalityTraitPickerCommand}" CommandParameter="{Binding PersonalityTraits.Result}" />
+                    <mdview:MarkdownView IsVisible="{Binding SubBackgrounds.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityTrait}" />
+
+                    <Button IsVisible="{Binding SubBackgrounds.IsSuccessfullyCompleted}" Text="Idéal" Command="{Binding PersonalityIdealPickerCommand}" CommandParameter="{Binding PersonalityIdeals.Result}" />
+                    <mdview:MarkdownView IsVisible="{Binding SubBackgrounds.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityIdeal}" />
+
+                    <Button IsVisible="{Binding SubBackgrounds.IsSuccessfullyCompleted}" Text="Lien" Command="{Binding PersonalityLinkPickerCommand}" CommandParameter="{Binding PersonalityLinks.Result}" />
+                    <mdview:MarkdownView IsVisible="{Binding SubBackgrounds.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityLink}" />
+
+                    <Button IsVisible="{Binding SubBackgrounds.IsSuccessfullyCompleted}" Text="Défaut" Command="{Binding PersonalityDefectPickerCommand}" CommandParameter="{Binding PersonalityDefects.Result}" />
+                    <mdview:MarkdownView IsVisible="{Binding SubBackgrounds.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityDefect}" />
+
+                    <!--<mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
+                    <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Markdown}" />-->
                 </StackLayout>
             </ScrollView>
         </StackLayout>

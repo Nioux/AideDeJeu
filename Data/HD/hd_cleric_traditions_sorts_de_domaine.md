@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sorts de domaine
 Id: cleric_traditions_hd.md#sorts-de-domaine
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
-Name: Sorts de domaine
 ParentName: Gardien des traditions
 NameLevel: 2
 Attributes: {}

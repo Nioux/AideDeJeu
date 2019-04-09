@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: "Canalisation d'énergie divine : Aptitude de domaine"
 Id: cleric_priest_hd.md#canalisation-dénergie-divine--aptitude-de-domaine
 ParentLink: cleric_priest_hd.md#prêtre
-Name: "Canalisation d'énergie divine : Aptitude de domaine"
 ParentName: Prêtre
 NameLevel: 2
 Attributes: {}

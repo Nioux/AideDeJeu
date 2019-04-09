@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sorts de cercle
 Id: druid_earth_hd.md#sorts-de-cercle
 ParentLink: druid_earth_hd.md#cercle-de-la-terre
-Name: Sorts de cercle
 ParentName: Cercle de la terre
 NameLevel: 2
 Attributes: {}

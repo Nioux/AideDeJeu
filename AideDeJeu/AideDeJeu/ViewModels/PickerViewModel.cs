@@ -7,6 +7,19 @@ namespace AideDeJeu.ViewModels
 {
     public class PickerViewModel<T> : BaseViewModel where T:class
     {
+        private string _Title = null;
+        public string Title
+        {
+            get
+            {
+                return _Title;
+            }
+            set
+            {
+                SetProperty(ref _Title, value);
+            }
+        }
+
         private List<T> _Items = null;
         public List<T> Items
         {

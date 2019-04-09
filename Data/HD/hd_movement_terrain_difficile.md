@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Terrain difficile
 Id: movement_hd.md#terrain-difficile
 ParentLink: movement_hd.md#déplacement
-Name: Terrain difficile
 ParentName: Déplacement
 NameLevel: 1
 Attributes: {}

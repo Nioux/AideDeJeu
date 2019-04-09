@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: equipment_properties_hd.md#symbole-sacré
-ParentLink: equipment_properties_hd.md#Équipement
 Name: Symbole sacré
-ParentName: Équipement
-NameLevel: 2
 AltName: Holy Symbol (SRD p67)
 Source: (MDR p233)
+Id: equipment_properties_hd.md#symbole-sacré
+ParentLink: equipment_properties_hd.md#Équipement
+ParentName: Équipement
+NameLevel: 2
 Attributes: {}
 ---
 > [Équipement](hd_equipment_properties.md)

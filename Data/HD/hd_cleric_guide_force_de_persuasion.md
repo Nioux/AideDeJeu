@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Force de persuasion
 Id: cleric_guide_hd.md#force-de-persuasion
 ParentLink: cleric_guide_hd.md#guide-spirituel
-Name: Force de persuasion
 ParentName: Guide spirituel
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Qui l'a créé ?
 Id: magicitems_hd.md#qui-la-créé-?
 ParentLink: magicitems_hd.md#objets-magiques
-Name: Qui l'a créé ?
 ParentName: Objets magiques
 NameLevel: 4
 Attributes: {}

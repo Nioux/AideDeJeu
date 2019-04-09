@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Ennemi juré
 Id: ranger_hd.md#ennemi-juré
 ParentLink: ranger_hd.md#rôdeur
+Name: Ennemi juré
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

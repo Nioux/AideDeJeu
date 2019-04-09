@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#portée
-ParentLink: combat_hd.md#combattre
 Name: Portée
-ParentName: Combattre
-NameLevel: 4
 AltName: Range (SRD p95)
 Source: (MDR p291)
+Id: combat_hd.md#portée
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 4
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

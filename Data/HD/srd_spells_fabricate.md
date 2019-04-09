@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 4
+Name: Fabricate
+AltName: '[Fabrication](hd_spells_fabrication.md)'
 Type: transmutation
+Level: 4
 CastingTime: 10 minutes
 Range: 120 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Wizard
+Family: SpellVO
+Source: (SRD p141)
 Id: spells_vo.md#fabricate
 ParentLink: spells_vo.md#spells-srd-p
-Name: Fabricate
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Fabrication](hd_spells_fabrication.md)'
-Source: (SRD p141)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Arctique
 Id: druid_earth_hd.md#arctique
 ParentLink: druid_earth_hd.md#cercle-de-la-terre
-Name: Arctique
 ParentName: Cercle de la terre
 NameLevel: 2
 Attributes: {}

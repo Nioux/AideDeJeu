@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Chevalier émérite
 Id: paladin_perfection_hd.md#chevalier-émérite
 ParentLink: paladin_perfection_hd.md#serment-de-perfection
-Name: Chevalier émérite
 ParentName: Serment de perfection
 NameLevel: 2
 Attributes: {}

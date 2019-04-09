@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Métamagie
 Id: sorcerer_hd.md#métamagie
 ParentLink: sorcerer_hd.md#ensorceleur
+Name: Métamagie
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Intervention divine
 Id: cleric_hd.md#intervention-divine
 ParentLink: cleric_hd.md#clerc
+Name: Intervention divine
 ParentName: Clerc
 NameLevel: 2
 Attributes: {}

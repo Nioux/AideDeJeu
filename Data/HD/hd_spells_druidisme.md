@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: tour de magie
+Name: Druidisme
+AltName: '[Druidcraft](srd_spells_druidcraft.md)'
 Type: Transmutation
+Level: tour de magie
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Druide](hd_druid.md)'
+Family: SpellHD
+Source: (MDR p349)(SRD)
 Id: spells_hd.md#druidisme
 ParentLink: spells_hd.md#sorts
-Name: Druidisme
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Druidcraft](srd_spells_druidcraft.md)'
-Source: (MDR p349)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

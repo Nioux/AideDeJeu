@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Défense de chasseur supérieure
 Id: ranger_hunter_hd.md#défense-de-chasseur-supérieure
 ParentLink: ranger_hunter_hd.md#chasseur
-Name: Défense de chasseur supérieure
 ParentName: Chasseur
 NameLevel: 2
 Attributes: {}

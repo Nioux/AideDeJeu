@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#ordre-de-combat
-ParentLink: combat_hd.md#combattre
 Name: Ordre de combat
-ParentName: Combattre
-NameLevel: 2
 AltName: The Order of Combat (SRD p90)
 Source: (MDR p284)
+Id: combat_hd.md#ordre-de-combat
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 2
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

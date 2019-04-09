@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Style de combat
 Id: paladin_hd.md#style-de-combat
 ParentLink: paladin_hd.md#paladin
+Name: Style de combat
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

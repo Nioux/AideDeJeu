@@ -1,5470 +1,5470 @@
 ﻿---
 !SpellItems
+Family: SpellVO
 Classes: Bard|Cleric|Druid|Paladin|Ranger|Sorcerer|Wizard|Warlock
 Levels: Cantrip|Level 1|Level 2|Level 3|Level 4|Level 5|Level 6|Level 7|Level 8|Level 9
 Schools: Abjuration|Conjuration|Divination|Enchantment|Evocation|Illusion|Necromancy|Transmutation
 Rituals: Ritual
 Sources: SRD
-Family: SpellVO
+Name: Spells (SRD p)
+AltName: '[Sorts](hd_spells.md)'
 SubItems:
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Acid Splash
+  AltName: '[Aspersion acide](hd_spells_aspersion_acide.md)'
   Type: Conjuration
+  Level: cantrip
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p114)
   Id: spells_vo.md#acid-splash
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Acid Splash
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Aspersion acide](hd_spells_aspersion_acide.md)'
-  Source: (SRD p114)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Aid
+  AltName: '[Aide](hd_spells_aide.md)'
   Type: abjuration
+  Level: 2
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a tiny strip of white cloth)
   Duration: 8 hours
   Classes: Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p114)
   Id: spells_vo.md#aid
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Aid
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Aide](hd_spells_aide.md)'
-  Source: (SRD p114)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Alarm
+  AltName: '[Alarme](hd_spells_alarme.md)'
   Type: abjuration
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 minute
   Range: 30 feet
   Components: V, S, M (a tiny bell and a piece of fine silver wire)
   Duration: 8 hours
   Classes: Ranger, Wizard
+  Family: SpellVO
+  Source: (SRD p114)
+  Ritual: ritual
   Id: spells_vo.md#alarm
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Alarm
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Alarme](hd_spells_alarme.md)'
-  Source: (SRD p114)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Alter Self
+  AltName: '[Modifier son apparence](hd_spells_modifier_son_apparence.md)'
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: Concentration, up to 1 hour
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p114)
   Id: spells_vo.md#alter-self
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Alter Self
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Modifier son apparence](hd_spells_modifier_son_apparence.md)'
-  Source: (SRD p114)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Animal Friendship
+  AltName: '[Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)'
   Type: enchantment
+  Level: 1
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a morsel of food)
   Duration: 24 hours
   Classes: Bard, Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p115)
   Id: spells_vo.md#animal-friendship
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Animal Friendship
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)'
-  Source: (SRD p115)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Animal Messenger
+  AltName: '[Messager animal](hd_spells_messager_animal.md)'
   Type: enchantment
-  Ritual: ritual
+  Level: 2
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a morsel of food)
   Duration: 24 hours
   Classes: Bard, Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p115)
+  Ritual: ritual
   Id: spells_vo.md#animal-messenger
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Animal Messenger
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Messager animal](hd_spells_messager_animal.md)'
-  Source: (SRD p115)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Animal Shapes
+  AltName: '[Formes animales](hd_spells_formes_animales.md)'
   Type: transmutation
+  Level: 8
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: Concentration, up to 24 hours
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p115)
   Id: spells_vo.md#animal-shapes
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Animal Shapes
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Formes animales](hd_spells_formes_animales.md)'
-  Source: (SRD p115)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Animate Dead
+  AltName: '[Animation des morts](hd_spells_animation_des_morts.md)'
   Type: necromancy
+  Level: 3
   CastingTime: 1 minute
   Range: 10 feet
   Components: V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
   Duration: Instantaneous
   Classes: Cleric, Wizard
+  Family: SpellVO
+  Source: (SRD p115)
   Id: spells_vo.md#animate-dead
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Animate Dead
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Animation des morts](hd_spells_animation_des_morts.md)'
-  Source: (SRD p115)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Animate Objects
+  AltName: '[Animation des objets](hd_spells_animation_des_objets.md)'
   Type: transmutation
+  Level: 5
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p116)
   Id: spells_vo.md#animate-objects
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Animate Objects
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Animation des objets](hd_spells_animation_des_objets.md)'
-  Source: (SRD p116)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Antilife Shell
+  AltName: '[Coquille antivie](hd_spells_coquille_antivie.md)'
   Type: abjuration
+  Level: 5
   CastingTime: 1 action
   Range: Self (10-foot radius)
   Components: V, S
   Duration: Concentration, up to 1 hour
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p116)
   Id: spells_vo.md#antilife-shell
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Antilife Shell
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Coquille antivie](hd_spells_coquille_antivie.md)'
-  Source: (SRD p116)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Antimagic Field
+  AltName: '[Champ antimagie](hd_spells_champ_antimagie.md)'
   Type: abjuration
+  Level: 8
   CastingTime: 1 action
   Range: Self (10-foot-radius sphere)
   Components: V, S, M (a pinch of powdered iron or iron filings)
   Duration: Concentration, up to 1 hour
   Classes: Cleric, Wizard
+  Family: SpellVO
+  Source: (SRD p117)
   Id: spells_vo.md#antimagic-field
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Antimagic Field
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Champ antimagie](hd_spells_champ_antimagie.md)'
-  Source: (SRD p117)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Antipathy/Sympathy
+  AltName: '[Répulsion/attirance](hd_spells_repulsionattirance.md)'
   Type: enchantment
+  Level: 8
   CastingTime: 1 hour
   Range: 60 feet
   Components: V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)
   Duration: 10 days
   Classes: Druid, Wizard
+  Family: SpellVO
+  Source: (SRD p117)
   Id: spells_vo.md#antipathysympathy
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Antipathy/Sympathy
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Répulsion/attirance](hd_spells_repulsionattirance.md)'
-  Source: (SRD p117)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Arcane Eye
+  AltName: '[Oeil magique](hd_spells_oeil_magique.md)'
   Type: divination
+  Level: 4
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a bit of bat fur)
   Duration: Concentration, up to 1 hour
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p118)
   Id: spells_vo.md#arcane-eye
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Arcane Eye
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Oeil magique](hd_spells_oeil_magique.md)'
-  Source: (SRD p118)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Arcane Lock
+  AltName: '[Verrou magique](hd_spells_verrou_magique.md)'
   Type: abjuration
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (gold dust worth at least 25 gp, which the spell consumes)
   Duration: Until dispelled
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p118)
   Id: spells_vo.md#arcane-lock
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Arcane Lock
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Verrou magique](hd_spells_verrou_magique.md)'
-  Source: (SRD p118)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Astral Projection
+  AltName: '[Projection astrale](hd_spells_projection_astrale.md)'
   Type: necromancy
+  Level: 9
   CastingTime: 1 hour
   Range: 10 feet
   Components: V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)
   Duration: Special
   Classes: Cleric, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p119)
   Id: spells_vo.md#astral-projection
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Astral Projection
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Projection astrale](hd_spells_projection_astrale.md)'
-  Source: (SRD p119)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Augury
+  AltName: '[Augure](hd_spells_augure.md)'
   Type: divination
-  Ritual: ritual
+  Level: 2
   CastingTime: 1 minute
   Range: Self
   Components: V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p120)
+  Ritual: ritual
   Id: spells_vo.md#augury
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Augury
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Augure](hd_spells_augure.md)'
-  Source: (SRD p120)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Awaken
+  AltName: '[Éveil](hd_spells_eveil.md)'
   Type: transmutation
+  Level: 5
   CastingTime: 8 hours
   Range: Touch
   Components: V, S, M (an agate worth at least 1,000 gp, which the spell consumes)
   Duration: Instantaneous
   Classes: Bard, Druid
+  Family: SpellVO
+  Source: (SRD p120)
   Id: spells_vo.md#awaken
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Awaken
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Éveil](hd_spells_eveil.md)'
-  Source: (SRD p120)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Bane
+  AltName: '[Fléau](hd_spells_fleau.md)'
   Type: enchantment
+  Level: 1
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a drop of blood)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Cleric
+  Family: SpellVO
+  Source: (SRD p120)
   Id: spells_vo.md#bane
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Bane
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Fléau](hd_spells_fleau.md)'
-  Source: (SRD p120)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Banishment
+  AltName: '[Bannissement](hd_spells_bannissement.md)'
   Type: abjuration
+  Level: 4
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (an item distasteful to the target)
   Duration: Concentration, up to 1 minute
   Classes: Cleric, Paladin, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p120)
   Id: spells_vo.md#banishment
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Banishment
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Bannissement](hd_spells_bannissement.md)'
-  Source: (SRD p120)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Barkskin
+  AltName: "[Peau d'écorce](hd_spells_peau_decorce.md)"
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a handful of oak bark)
   Duration: Concentration, up to 1 hour
   Classes: Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p121)
   Id: spells_vo.md#barkskin
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Barkskin
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Peau d'écorce](hd_spells_peau_decorce.md)"
-  Source: (SRD p121)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Beacon of Hope
+  AltName: "[Lueur d'espoir](hd_spells_lueur_despoir.md)"
   Type: abjuration
+  Level: 3
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p121)
   Id: spells_vo.md#beacon-of-hope
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Beacon of Hope
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Lueur d'espoir](hd_spells_lueur_despoir.md)"
-  Source: (SRD p121)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Bestow curse
+  AltName: '[Jeter une malédiction](hd_spells_jeter_une_malediction.md)'
   Type: necromancy
+  Level: 3
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Bard, Cleric, Wizard
+  Family: SpellVO
+  Source: (SRD p121)
   Id: spells_vo.md#bestow-curse
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Bestow curse
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Jeter une malédiction](hd_spells_jeter_une_malediction.md)'
-  Source: (SRD p121)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Arcane Hand
+  AltName: '[Main magique](hd_spells_main_magique.md)'
   Type: evocation
+  Level: 5
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (an eggshell and a snakeskin glove)
   Duration: Concentration, up to 1 minute
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p118)
   Id: spells_vo.md#arcane-hand
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Arcane Hand
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Main magique](hd_spells_main_magique.md)'
-  Source: (SRD p118)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Blade Barrier
+  AltName: '[Barrière de lames](hd_spells_barriere_de_lames.md)'
   Type: evocation
+  Level: 6
   CastingTime: 1 action
   Range: 90 feet
   Components: V, S
   Duration: Concentration, up to 10 minutes
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p122)
   Id: spells_vo.md#blade-barrier
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Blade Barrier
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Barrière de lames](hd_spells_barriere_de_lames.md)'
-  Source: (SRD p122)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Bless
+  AltName: '[Bénédiction](hd_spells_benediction.md)'
   Type: enchantment
+  Level: 1
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a sprinkling of holy water)
   Duration: Concentration, up to 1 minute
   Classes: Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p122)
   Id: spells_vo.md#bless
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Bless
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Bénédiction](hd_spells_benediction.md)'
-  Source: (SRD p122)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Blight
+  AltName: '[Flétrissement](hd_spells_fletrissement.md)'
   Type: necromancy
+  Level: 4
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Druid, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p122)
   Id: spells_vo.md#blight
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Blight
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Flétrissement](hd_spells_fletrissement.md)'
-  Source: (SRD p122)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Blindness/Deafness
+  AltName: '[Cécité/Surdité](hd_spells_cecitesurdite.md)'
   Type: necromancy
+  Level: 2
   CastingTime: 1 action
   Range: 30 feet
   Components: V
   Duration: 1 minute
   Classes: Bard, Cleric, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p122)
   Id: spells_vo.md#blindnessdeafness
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Blindness/Deafness
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Cécité/Surdité](hd_spells_cecitesurdite.md)'
-  Source: (SRD p122)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Blink
+  AltName: '[Clignotement](hd_spells_clignotement.md)'
   Type: transmutation
+  Level: 3
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: 1 minute
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p122)
   Id: spells_vo.md#blink
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Blink
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Clignotement](hd_spells_clignotement.md)'
-  Source: (SRD p122)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Blur
+  AltName: '[Flou](hd_spells_flou.md)'
   Type: illusion
+  Level: 2
   CastingTime: 1 action
   Range: Self
   Components: V
   Duration: Concentration, up to 1 minute
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p123)
   Id: spells_vo.md#blur
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Blur
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Flou](hd_spells_flou.md)'
-  Source: (SRD p123)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Branding Smite
+  AltName: '[Frappe lumineuse](hd_spells_frappe_lumineuse.md)'
   Type: evocation
+  Level: 2
   CastingTime: 1 bonus action
   Range: Self
   Components: V
   Duration: Concentration, up to 1 minute
   Classes: Paladin
+  Family: SpellVO
+  Source: (SRD p123)
   Id: spells_vo.md#branding-smite
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Branding Smite
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Frappe lumineuse](hd_spells_frappe_lumineuse.md)'
-  Source: (SRD p123)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Burning Hands
+  AltName: '[Mains brûlantes](hd_spells_mains_brulantes.md)'
   Type: evocation
+  Level: 1
   CastingTime: 1 action
   Range: Self (15-foot cone)
   Components: V, S
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p123)
   Id: spells_vo.md#burning-hands
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Burning Hands
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mains brûlantes](hd_spells_mains_brulantes.md)'
-  Source: (SRD p123)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Call Lightning
+  AltName: '[Appel de la foudre](hd_spells_appel_de_la_foudre.md)'
   Type: conjuration
+  Level: 3
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Concentration, up to 10 minutes
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p123)
   Id: spells_vo.md#call-lightning
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Call Lightning
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Appel de la foudre](hd_spells_appel_de_la_foudre.md)'
-  Source: (SRD p123)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Calm Emotions
+  AltName: '[Apaisement des émotions](hd_spells_apaisement_des_emotions.md)'
   Type: enchantment
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Bard, Cleric
+  Family: SpellVO
+  Source: (SRD p123)
   Id: spells_vo.md#calm-emotions
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Calm Emotions
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Apaisement des émotions](hd_spells_apaisement_des_emotions.md)'
-  Source: (SRD p123)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Chain Lightning
+  AltName: "[Chaîne d'éclairs](hd_spells_chaine_declairs.md)"
   Type: evocation
+  Level: 6
   CastingTime: 1 action
   Range: 150 feet
   Components: V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins)
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p124)
   Id: spells_vo.md#chain-lightning
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Chain Lightning
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Chaîne d'éclairs](hd_spells_chaine_declairs.md)"
-  Source: (SRD p124)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Charm Person
+  AltName: '[Charme-personne](hd_spells_charme_personne.md)'
   Type: enchantment
+  Level: 1
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: 1 hour
   Classes: Bard, Druid, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p124)
   Id: spells_vo.md#charm-person
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Charm Person
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Charme-personne](hd_spells_charme_personne.md)'
-  Source: (SRD p124)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Chill Touch
+  AltName: '[Contact glacial](hd_spells_contact_glacial.md)'
   Type: Necromancy
+  Level: cantrip
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: 1 round
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p124)
   Id: spells_vo.md#chill-touch
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Chill Touch
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Contact glacial](hd_spells_contact_glacial.md)'
-  Source: (SRD p124)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Circle of Death
+  AltName: '[Cercle de mort](hd_spells_cercle_de_mort.md)'
   Type: necromancy
+  Level: 6
   CastingTime: 1 action
   Range: 150 feet
   Components: V, S, M (the powder of a crushed black pearl worth at least 500 gp)
   Duration: Instantaneous
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p124)
   Id: spells_vo.md#circle-of-death
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Circle of Death
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Cercle de mort](hd_spells_cercle_de_mort.md)'
-  Source: (SRD p124)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Clairvoyance
+  AltName: '[Clairvoyance](hd_spells_clairvoyance.md)'
   Type: divination
+  Level: 3
   CastingTime: 10 minutes
   Range: 1 mile
   Components: V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
   Duration: Concentration, up to 10 minutes
   Classes: Bard, Cleric, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p124)
   Id: spells_vo.md#clairvoyance
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Clairvoyance
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Clairvoyance](hd_spells_clairvoyance.md)'
-  Source: (SRD p124)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Clone
+  AltName: '[Clone](hd_spells_clone.md)'
   Type: necromancy
+  Level: 8
   CastingTime: 1 hour
   Range: Touch
   Components: V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)
   Duration: Instantaneous
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p125)
   Id: spells_vo.md#clone
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Clone
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Clone](hd_spells_clone.md)'
-  Source: (SRD p125)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Cloudkill
+  AltName: '[Nuage mortel](hd_spells_nuage_mortel.md)'
   Type: conjuration
+  Level: 5
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Concentration, up to 10 minutes
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p125)
   Id: spells_vo.md#cloudkill
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Cloudkill
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Nuage mortel](hd_spells_nuage_mortel.md)'
-  Source: (SRD p125)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Color Spray
+  AltName: '[Couleurs dansantes](hd_spells_couleurs_dansantes.md)'
   Type: illusion
+  Level: 1
   CastingTime: 1 action
   Range: Self (15-foot cone)
   Components: V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)
   Duration: 1 round
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p125)
   Id: spells_vo.md#color-spray
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Color Spray
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Couleurs dansantes](hd_spells_couleurs_dansantes.md)'
-  Source: (SRD p125)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Command
+  AltName: '[Injonction](hd_spells_injonction.md)'
   Type: enchantment
+  Level: 1
   CastingTime: 1 action
   Range: 60 feet
   Components: V
   Duration: 1 round
   Classes: Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p125)
   Id: spells_vo.md#command
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Command
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Injonction](hd_spells_injonction.md)'
-  Source: (SRD p125)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Commune
+  AltName: '[Communion](hd_spells_communion.md)'
   Type: divination
-  Ritual: ritual
+  Level: 5
   CastingTime: 1 minute
   Range: Self
   Components: V, S, M (incense and a vial of holy or unholy water)
   Duration: 1 minute
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p126)
+  Ritual: ritual
   Id: spells_vo.md#commune
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Commune
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Communion](hd_spells_communion.md)'
-  Source: (SRD p126)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Commune with Nature
+  AltName: '[Communion avec la nature](hd_spells_communion_avec_la_nature.md)'
   Type: divination
-  Ritual: ritual
+  Level: 5
   CastingTime: 1 minute
   Range: Self
   Components: V, S
   Duration: Instantaneous
   Classes: Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p126)
+  Ritual: ritual
   Id: spells_vo.md#commune-with-nature
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Commune with Nature
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Communion avec la nature](hd_spells_communion_avec_la_nature.md)'
-  Source: (SRD p126)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Comprehend Languages
+  AltName: '[Compréhension des langues](hd_spells_comprehension_des_langues.md)'
   Type: divination
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a pinch of soot and salt)
   Duration: 1 hour
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p126)
+  Ritual: ritual
   Id: spells_vo.md#comprehend-languages
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Comprehend Languages
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Compréhension des langues](hd_spells_comprehension_des_langues.md)'
-  Source: (SRD p126)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Compulsion
+  AltName: '[Compulsion](hd_spells_compulsion.md)'
   Type: enchantment
+  Level: 4
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Bard
+  Family: SpellVO
+  Source: (SRD p126)
   Id: spells_vo.md#compulsion
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Compulsion
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Compulsion](hd_spells_compulsion.md)'
-  Source: (SRD p126)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Cone of Cold
+  AltName: '[Cône de froid](hd_spells_cone_de_froid.md)'
   Type: evocation
+  Level: 5
   CastingTime: 1 action
   Range: Self (60-foot cone)
   Components: V, S, M (a small crystal or glass cone)
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p127)
   Id: spells_vo.md#cone-of-cold
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Cone of Cold
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Cône de froid](hd_spells_cone_de_froid.md)'
-  Source: (SRD p127)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Confusion
+  AltName: '[Confusion](hd_spells_confusion.md)'
   Type: enchantment
+  Level: 4
   CastingTime: 1 action
   Range: 90 feet
   Components: V, S, M (three nut shells)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p127)
   Id: spells_vo.md#confusion
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Confusion
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Confusion](hd_spells_confusion.md)'
-  Source: (SRD p127)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Conjure Animals
+  AltName: '[Invoquer des animaux](hd_spells_invoquer_des_animaux.md)'
   Type: conjuration
+  Level: 3
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Concentration, up to 1 hour
   Classes: Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p127)
   Id: spells_vo.md#conjure-animals
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Conjure Animals
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Invoquer des animaux](hd_spells_invoquer_des_animaux.md)'
-  Source: (SRD p127)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Conjure Celestial
+  AltName: '[Invoquer un céleste](hd_spells_invoquer_un_celeste.md)'
   Type: conjuration
+  Level: 7
   CastingTime: 1 minute
   Range: 90 feet
   Components: V, S
   Duration: Concentration, up to 1 hour
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p127)
   Id: spells_vo.md#conjure-celestial
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Conjure Celestial
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Invoquer un céleste](hd_spells_invoquer_un_celeste.md)'
-  Source: (SRD p127)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Conjure Elemental
+  AltName: '[Invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)'
   Type: conjuration
+  Level: 5
   CastingTime: 1 minute
   Range: 90 feet
   Components: V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)
   Duration: Concentration, up to 1 hour
   Classes: Druid, Wizard
+  Family: SpellVO
+  Source: (SRD p128)
   Id: spells_vo.md#conjure-elemental
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Conjure Elemental
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)'
-  Source: (SRD p128)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Conjure Fey
+  AltName: '[Invoquer une fée](hd_spells_invoquer_une_fee.md)'
   Type: conjuration
+  Level: 6
   CastingTime: 1 minute
   Range: 90 feet
   Components: V, S
   Duration: Concentration, up to 1 hour
   Classes: Druid, Warlock
+  Family: SpellVO
+  Source: (SRD p128)
   Id: spells_vo.md#conjure-fey
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Conjure Fey
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Invoquer une fée](hd_spells_invoquer_une_fee.md)'
-  Source: (SRD p128)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Conjure Minor Elementals
+  AltName: '[Invoquer des élémentaires mineurs](hd_spells_invoquer_des_elementaires_mineurs.md)'
   Type: conjuration
+  Level: 4
   CastingTime: 1 minute
   Range: 90 feet
   Components: V, S
   Duration: Concentration, up to 1 hour
   Classes: Druid, Wizard
+  Family: SpellVO
+  Source: (SRD p128)
   Id: spells_vo.md#conjure-minor-elementals
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Conjure Minor Elementals
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Invoquer des élémentaires mineurs](hd_spells_invoquer_des_elementaires_mineurs.md)'
-  Source: (SRD p128)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Conjure Woodland Beings
+  AltName: '[Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)'
   Type: conjuration
+  Level: 4
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (one holly berry per creature summoned)
   Duration: Concentration, up to 1 hour
   Classes: Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p129)
   Id: spells_vo.md#conjure-woodland-beings
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Conjure Woodland Beings
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)'
-  Source: (SRD p129)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Contact Other Plane
+  AltName: '[Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)'
   Type: divination
-  Ritual: ritual
+  Level: 5
   CastingTime: 1 minute
   Range: Self
   Components: V
   Duration: 1 minute
   Classes: Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p129)
+  Ritual: ritual
   Id: spells_vo.md#contact-other-plane
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Contact Other Plane
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)'
-  Source: (SRD p129)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Contagion
+  AltName: '[Contagion](hd_spells_contagion.md)'
   Type: necromancy
+  Level: 5
   CastingTime: 1 action
   Range: Touch
   Duration: 7 days
   Classes: Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p129)
   Id: spells_vo.md#contagion
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Contagion
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Contagion](hd_spells_contagion.md)'
-  Source: (SRD p129)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Contingency
+  AltName: '[Contingence](hd_spells_contingence.md)'
   Type: evocation
+  Level: 6
   CastingTime: 10 minutes
   Range: Self
   Components: V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)
   Duration: 10 days
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p130)
   Id: spells_vo.md#contingency
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Contingency
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Contingence](hd_spells_contingence.md)'
-  Source: (SRD p130)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Continual Flame
+  AltName: '[Flamme éternelle](hd_spells_flamme_eternelle.md)'
   Type: evocation
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (ruby dust worth 50 gp, which the spell consumes)
   Duration: Until dispelled
   Classes: Cleric, Wizard
+  Family: SpellVO
+  Source: (SRD p130)
   Id: spells_vo.md#continual-flame
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Continual Flame
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Flamme éternelle](hd_spells_flamme_eternelle.md)'
-  Source: (SRD p130)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Control Water
+  AltName: "[Contrôle de l'eau](hd_spells_controle_de_leau.md)"
   Type: transmutation
+  Level: 4
   CastingTime: 1 action
   Range: 300 feet
   Components: V, S, M (a drop of water and a pinch of dust)
   Duration: Concentration, up to 10 minutes
   Classes: Cleric, Druid, Wizard
+  Family: SpellVO
+  Source: (SRD p130)
   Id: spells_vo.md#control-water
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Control Water
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Contrôle de l'eau](hd_spells_controle_de_leau.md)"
-  Source: (SRD p130)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Control Weather
+  AltName: '[Contrôle du climat](hd_spells_controle_du_climat.md)'
   Type: transmutation
+  Level: 8
   CastingTime: 10 minutes
   Range: Self (5-mile radius)
   Components: V, S, M (burning incense and bits of earth and wood mixed in water)
   Duration: Concentration, up to 8 hours
   Classes: Cleric, Druid, Wizard
+  Family: SpellVO
+  Source: (SRD p131)
   Id: spells_vo.md#control-weather
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Control Weather
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Contrôle du climat](hd_spells_controle_du_climat.md)'
-  Source: (SRD p131)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Counterspell
+  AltName: '[Contresort](hd_spells_contresort.md)'
   Type: abjuration
+  Level: 3
   CastingTime: 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
   Range: 60 feet
   Components: S
   Duration: Instantaneous
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p131)
   Id: spells_vo.md#counterspell
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Counterspell
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Contresort](hd_spells_contresort.md)'
-  Source: (SRD p131)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Create Food and Water
+  AltName: "[Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)"
   Type: conjuration
+  Level: 3
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p131)
   Id: spells_vo.md#create-food-and-water
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Create Food and Water
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)"
-  Source: (SRD p131)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Create or Destroy Water
+  AltName: "[Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)"
   Type: transmutation
+  Level: 1
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a drop of water if creating water or a few grains of sand if destroying it)
   Duration: Instantaneous
   Classes: Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p132)
   Id: spells_vo.md#create-or-destroy-water
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Create or Destroy Water
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)"
-  Source: (SRD p132)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Create Undead
+  AltName: '[Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)'
   Type: necromancy
+  Level: 6
   CastingTime: 1 minute
   Range: 10 feet
   Components: V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)
   Duration: Instantaneous
   Classes: Cleric, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p132)
   Id: spells_vo.md#create-undead
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Create Undead
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)'
-  Source: (SRD p132)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Creation
+  AltName: '[Création](hd_spells_creation.md)'
   Type: illusion
+  Level: 5
   CastingTime: 1 minute
   Range: 30 feet
   Components: V, S, M (a tiny piece of matter of the same type of the item you plan to create)
   Duration: Special
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p132)
   Id: spells_vo.md#creation
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Creation
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Création](hd_spells_creation.md)'
-  Source: (SRD p132)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Cure Wounds
+  AltName: '[Soin des blessures](hd_spells_soin_des_blessures.md)'
   Type: evocation
+  Level: 1
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Instantaneous
   Classes: Bard, Cleric, Druid, Paladin, Ranger
+  Family: SpellVO
+  Source: (SRD p132)
   Id: spells_vo.md#cure-wounds
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Cure Wounds
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Soin des blessures](hd_spells_soin_des_blessures.md)'
-  Source: (SRD p132)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Dancing Lights
+  AltName: '[Lumières dansantes](hd_spells_lumieres_dansantes.md)'
   Type: Evocation
+  Level: cantrip
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a bit of phosphorus or wychwood, or a glowworm)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p133)
   Id: spells_vo.md#dancing-lights
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Dancing Lights
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Lumières dansantes](hd_spells_lumieres_dansantes.md)'
-  Source: (SRD p133)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Darkness
+  AltName: '[Ténèbres](hd_spells_tenebres.md)'
   Type: evocation
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, M (bat fur and a drop of pitch or piece of coal)
   Duration: Concentration, up to 10 minutes
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p133)
   Id: spells_vo.md#darkness
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Darkness
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Ténèbres](hd_spells_tenebres.md)'
-  Source: (SRD p133)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Darkvision
+  AltName: '[Vision dans le noir](hd_spells_vision_dans_le_noir.md)'
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (either a pinch of dried carrot or an agate)
   Duration: 8 hours
   Classes: Druid, Ranger, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p133)
   Id: spells_vo.md#darkvision
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Darkvision
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Vision dans le noir](hd_spells_vision_dans_le_noir.md)'
-  Source: (SRD p133)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Daylight
+  AltName: '[Lumière du jour](hd_spells_lumiere_du_jour.md)'
   Type: evocation
+  Level: 3
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: 1 hour
   Classes: Cleric, Druid, Paladin, Ranger, Sorcerer
+  Family: SpellVO
+  Source: (SRD p133)
   Id: spells_vo.md#daylight
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Daylight
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Lumière du jour](hd_spells_lumiere_du_jour.md)'
-  Source: (SRD p133)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Death Ward
+  AltName: '[Protection contre la mort](hd_spells_protection_contre_la_mort.md)'
   Type: abjuration
+  Level: 4
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: 8 hours
   Classes: Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p133)
   Id: spells_vo.md#death-ward
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Death Ward
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Protection contre la mort](hd_spells_protection_contre_la_mort.md)'
-  Source: (SRD p133)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Delayed Blast Fireball
+  AltName: '[Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)'
   Type: evocation
+  Level: 7
   CastingTime: 1 action
   Range: 150 feet
   Components: V, S, M (a tiny ball of bat guano and sulfur)
   Duration: Concentration, up to 1 minute
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p133)
   Id: spells_vo.md#delayed-blast-fireball
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Delayed Blast Fireball
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)'
-  Source: (SRD p133)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Demiplane
+  AltName: '[Demi-plan](hd_spells_demi_plan.md)'
   Type: conjuration
+  Level: 8
   CastingTime: 1 action
   Range: 60 feet
   Components: S
   Duration: 1 hour
   Classes: Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p134)
   Id: spells_vo.md#demiplane
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Demiplane
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Demi-plan](hd_spells_demi_plan.md)'
-  Source: (SRD p134)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Detect Evil and Good
+  AltName: '[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)'
   Type: divination
+  Level: 1
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: Concentration, up to 10 minutes
   Classes: Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p134)
   Id: spells_vo.md#detect-evil-and-good
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Detect Evil and Good
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)'
-  Source: (SRD p134)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Detect Magic
+  AltName: '[Détection de la magie](hd_spells_detection_de_la_magie.md)'
   Type: divination
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: Concentration, up to 10 minutes
   Classes: Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p134)
+  Ritual: ritual
   Id: spells_vo.md#detect-magic
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Detect Magic
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Détection de la magie](hd_spells_detection_de_la_magie.md)'
-  Source: (SRD p134)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Detect Poison and Disease
+  AltName: '[Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)'
   Type: divination
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a yew leaf)
   Duration: Concentration, up to 10 minutes
   Classes: Cleric, Druid, Paladin, Ranger
+  Family: SpellVO
+  Source: (SRD p134)
+  Ritual: ritual
   Id: spells_vo.md#detect-poison-and-disease
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Detect Poison and Disease
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)'
-  Source: (SRD p134)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Detect Thoughts
+  AltName: '[Détection des pensées](hd_spells_detection_des_pensees.md)'
   Type: divination
+  Level: 2
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a copper piece)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p135)
   Id: spells_vo.md#detect-thoughts
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Detect Thoughts
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Détection des pensées](hd_spells_detection_des_pensees.md)'
-  Source: (SRD p135)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Dimension Door
+  AltName: '[Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)'
   Type: conjuration
+  Level: 4
   CastingTime: 1 action
   Range: 500 feet
   Components: V
   Duration: Instantaneous
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p135)
   Id: spells_vo.md#dimension-door
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Dimension Door
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)'
-  Source: (SRD p135)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Disguise Self
+  AltName: '[Déguisement](hd_spells_deguisement.md)'
   Type: illusion
+  Level: 1
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: 1 hour
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p135)
   Id: spells_vo.md#disguise-self
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Disguise Self
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Déguisement](hd_spells_deguisement.md)'
-  Source: (SRD p135)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Disintegrate
+  AltName: '[Désintégration](hd_spells_desintegration.md)'
   Type: transmutation
+  Level: 6
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a lodestone and a pinch of dust)
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p135)
   Id: spells_vo.md#disintegrate
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Disintegrate
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Désintégration](hd_spells_desintegration.md)'
-  Source: (SRD p135)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Dispel Evil and Good
+  AltName: '[Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)'
   Type: abjuration
+  Level: 5
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (holy water or powdered silver and iron)
   Duration: Concentration, up to 1 minute
   Classes: Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p136)
   Id: spells_vo.md#dispel-evil-and-good
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Dispel Evil and Good
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)'
-  Source: (SRD p136)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Dispel Magic
+  AltName: '[Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)'
   Type: abjuration
+  Level: 3
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p136)
   Id: spells_vo.md#dispel-magic
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Dispel Magic
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)'
-  Source: (SRD p136)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Divination
+  AltName: '[Divination](hd_spells_divination.md)'
   Type: divination
-  Ritual: ritual
+  Level: 4
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p136)
+  Ritual: ritual
   Id: spells_vo.md#divination
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Divination
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Divination](hd_spells_divination.md)'
-  Source: (SRD p136)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Divine Favor
+  AltName: '[Faveur divine](hd_spells_faveur_divine.md)'
   Type: evocation
+  Level: 1
   CastingTime: 1 bonus action
   Range: Self
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Paladin
+  Family: SpellVO
+  Source: (SRD p136)
   Id: spells_vo.md#divine-favor
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Divine Favor
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Faveur divine](hd_spells_faveur_divine.md)'
-  Source: (SRD p136)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Divine Word
+  AltName: '[Parole divine](hd_spells_parole_divine.md)'
   Type: evocation
+  Level: 7
   CastingTime: 1 bonus action
   Range: 30 feet
   Components: V
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p137)
   Id: spells_vo.md#divine-word
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Divine Word
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Parole divine](hd_spells_parole_divine.md)'
-  Source: (SRD p137)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Dominate Beast
+  AltName: '[Dominer une bête](hd_spells_dominer_une_bete.md)'
   Type: enchantment
+  Level: 4
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Druid, Sorcerer
+  Family: SpellVO
+  Source: (SRD p137)
   Id: spells_vo.md#dominate-beast
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Dominate Beast
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Dominer une bête](hd_spells_dominer_une_bete.md)'
-  Source: (SRD p137)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Dominate Monster
+  AltName: '[Dominer un monstre](hd_spells_dominer_un_monstre.md)'
   Type: enchantment
+  Level: 8
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Concentration, up to 1 hour
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p137)
   Id: spells_vo.md#dominate-monster
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Dominate Monster
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Dominer un monstre](hd_spells_dominer_un_monstre.md)'
-  Source: (SRD p137)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Dominate Person
+  AltName: '[Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)'
   Type: enchantment
+  Level: 5
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p138)
   Id: spells_vo.md#dominate-person
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Dominate Person
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)'
-  Source: (SRD p138)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Instant Summons
+  AltName: '[Convocations instantanées](hd_spells_convocations_instantanees.md)'
   Type: conjuration
-  Ritual: ritual
+  Level: 6
   CastingTime: 1 minute
   Range: Touch
   Components: V, S, M (a sapphire worth 1,000 gp)
   Duration: Until dispelled
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p157)
+  Ritual: ritual
   Id: spells_vo.md#instant-summons
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Instant Summons
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Convocations instantanées](hd_spells_convocations_instantanees.md)'
-  Source: (SRD p157)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Dream
+  AltName: '[Rêve](hd_spells_reve.md)'
   Type: illusion
+  Level: 5
   CastingTime: 1 minute
   Range: Special
   Components: V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)
   Duration: 8 hours
   Classes: Bard, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p138)
   Id: spells_vo.md#dream
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Dream
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Rêve](hd_spells_reve.md)'
-  Source: (SRD p138)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Druidcraft
+  AltName: '[Druidisme](hd_spells_druidisme.md)'
   Type: Transmutation
+  Level: cantrip
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p138)
   Id: spells_vo.md#druidcraft
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Druidcraft
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Druidisme](hd_spells_druidisme.md)'
-  Source: (SRD p138)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Earthquake
+  AltName: '[Tremblement de terre](hd_spells_tremblement_de_terre.md)'
   Type: evocation
+  Level: 8
   CastingTime: 1 action
   Range: 500 feet
   Components: V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
   Duration: Concentration, up to 1 minute
   Classes: Cleric, Druid, Sorcerer
+  Family: SpellVO
+  Source: (SRD p139)
   Id: spells_vo.md#earthquake
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Earthquake
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Tremblement de terre](hd_spells_tremblement_de_terre.md)'
-  Source: (SRD p139)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Eldritch Blast
+  AltName: '[Explosion occulte](hd_spells_explosion_occulte.md)'
   Type: Evocation
+  Level: cantrip
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Warlock
+  Family: SpellVO
+  Source: (SRD p139)
   Id: spells_vo.md#eldritch-blast
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Eldritch Blast
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Explosion occulte](hd_spells_explosion_occulte.md)'
-  Source: (SRD p139)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Enhance Ability
+  AltName: '[Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)'
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (fur or a feather from a beast)
   Duration: Concentration, up to 1 hour
   Classes: Bard, Cleric, Druid, Sorcerer
+  Family: SpellVO
+  Source: (SRD p139)
   Id: spells_vo.md#enhance-ability
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Enhance Ability
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)'
-  Source: (SRD p139)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Enlarge/Reduce
+  AltName: '[Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)'
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a pinch of powdered iron)
   Duration: Concentration, up to 1 minute
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p140)
   Id: spells_vo.md#enlargereduce
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Enlarge/Reduce
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)'
-  Source: (SRD p140)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Entangle
+  AltName: '[Enchevêtrement](hd_spells_enchevetrement.md)'
   Type: conjuration
+  Level: 1
   CastingTime: 1 action
   Range: 90 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p140)
   Id: spells_vo.md#entangle
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Entangle
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Enchevêtrement](hd_spells_enchevetrement.md)'
-  Source: (SRD p140)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Enthrall
+  AltName: '[Envoûtement](hd_spells_envoutement.md)'
   Type: enchantment
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: 1 minute
   Classes: Bard, Warlock
+  Family: SpellVO
+  Source: (SRD p140)
   Id: spells_vo.md#enthrall
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Enthrall
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Envoûtement](hd_spells_envoutement.md)'
-  Source: (SRD p140)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Etherealness
+  AltName: '[Forme éthérée](hd_spells_forme_etheree.md)'
   Type: transmutation
+  Level: 7
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: Up to 8 hours
   Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p140)
   Id: spells_vo.md#etherealness
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Etherealness
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Forme éthérée](hd_spells_forme_etheree.md)'
-  Source: (SRD p140)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Black Tentacles
+  AltName: '[Tentacules noirs](hd_spells_tentacules_noirs.md)'
   Type: conjuration
+  Level: 4
   CastingTime: 1 action
   Range: 90 feet
   Components: V, S, M (a piece of tentacle from a giant octopus or a giant squid)
   Duration: Concentration, up to 1 minute
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p121)
   Id: spells_vo.md#black-tentacles
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Black Tentacles
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Tentacules noirs](hd_spells_tentacules_noirs.md)'
-  Source: (SRD p121)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Expeditious Retreat
+  AltName: '[Repli expéditif](hd_spells_repli_expeditif.md)'
   Type: transmutation
+  Level: 1
   CastingTime: 1 bonus action
   Range: Self
   Components: V, S
   Duration: Concentration, up to 10 minutes
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p141)
   Id: spells_vo.md#expeditious-retreat
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Expeditious Retreat
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Repli expéditif](hd_spells_repli_expeditif.md)'
-  Source: (SRD p141)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Eyebite
+  AltName: '[Mauvais oeil](hd_spells_mauvais_oeil.md)'
   Type: necromancy
+  Level: 6
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p141)
   Id: spells_vo.md#eyebite
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Eyebite
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mauvais oeil](hd_spells_mauvais_oeil.md)'
-  Source: (SRD p141)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Fabricate
+  AltName: '[Fabrication](hd_spells_fabrication.md)'
   Type: transmutation
+  Level: 4
   CastingTime: 10 minutes
   Range: 120 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p141)
   Id: spells_vo.md#fabricate
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Fabricate
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Fabrication](hd_spells_fabrication.md)'
-  Source: (SRD p141)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Faerie Fire
+  AltName: '[Lueurs féeriques](hd_spells_lueurs_feeriques.md)'
   Type: evocation
+  Level: 1
   CastingTime: 1 action
   Range: 60 feet
   Components: V
   Duration: Concentration, up to 1 minute
   Classes: Bard, Druid
+  Family: SpellVO
+  Source: (SRD p141)
   Id: spells_vo.md#faerie-fire
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Faerie Fire
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Lueurs féeriques](hd_spells_lueurs_feeriques.md)'
-  Source: (SRD p141)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: False Life
+  AltName: '[Simulacre de vie](hd_spells_simulacre_de_vie.md)'
   Type: necromancy
+  Level: 1
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a small amount of alcohol or distilled spirits)
   Duration: 1 hour
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p142)
   Id: spells_vo.md#false-life
   ParentLink: spells_vo.md#spells-srd-p
-  Name: False Life
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Simulacre de vie](hd_spells_simulacre_de_vie.md)'
-  Source: (SRD p142)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Fear
+  AltName: '[Peur](hd_spells_peur.md)'
   Type: illusion
+  Level: 3
   CastingTime: 1 action
   Range: Self (30-foot cone)
   Components: V, S, M (a white feather or the heart of a hen)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p142)
   Id: spells_vo.md#fear
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Fear
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Peur](hd_spells_peur.md)'
-  Source: (SRD p142)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Feather Fall
+  AltName: '[Léger comme une plume](hd_spells_leger_comme_une_plume.md)'
   Type: transmutation
+  Level: 1
   CastingTime: 1 reaction, which you take when you or a creature within 60 feet of you falls
   Range: 60 feet
   Components: V, M (a small feather or piece of down)
   Duration: 1 minute
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p142)
   Id: spells_vo.md#feather-fall
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Feather Fall
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Léger comme une plume](hd_spells_leger_comme_une_plume.md)'
-  Source: (SRD p142)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Feeblemind
+  AltName: '[Esprit faible](hd_spells_esprit_faible.md)'
   Type: enchantment
+  Level: 8
   CastingTime: 1 action
   Range: 150 feet
   Components: V, S, M (a handful of clay, crystal, glass, or mineral spheres)
   Duration: Instantaneous
   Classes: Bard, Druid, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p142)
   Id: spells_vo.md#feeblemind
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Feeblemind
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Esprit faible](hd_spells_esprit_faible.md)'
-  Source: (SRD p142)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Find Familiar
+  AltName: '[Appel de familier](hd_spells_appel_de_familier.md)'
   Type: conjuration
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 hour
   Range: 10 feet
   Components: V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
   Duration: Instantaneous
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p143)
+  Ritual: ritual
   Id: spells_vo.md#find-familiar
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Find Familiar
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Appel de familier](hd_spells_appel_de_familier.md)'
-  Source: (SRD p143)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Find Steed
+  AltName: '[Trouver une monture](hd_spells_trouver_une_monture.md)'
   Type: conjuration
+  Level: 2
   CastingTime: 10 minutes
   Range: 30 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Paladin
+  Family: SpellVO
+  Source: (SRD p143)
   Id: spells_vo.md#find-steed
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Find Steed
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Trouver une monture](hd_spells_trouver_une_monture.md)'
-  Source: (SRD p143)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Find the Path
+  AltName: '[Trouver un chemin](hd_spells_trouver_un_chemin.md)'
   Type: divination
+  Level: 6
   CastingTime: 1 minute
   Range: Self
   Components: V, S, M (a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find)
   Duration: Concentration, up to 1 day
   Classes: Bard, Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p143)
   Id: spells_vo.md#find-the-path
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Find the Path
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Trouver un chemin](hd_spells_trouver_un_chemin.md)'
-  Source: (SRD p143)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Find Traps
+  AltName: '[Trouver les pièges](hd_spells_trouver_les_pieges.md)'
   Type: divination
+  Level: 2
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric, Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p144)
   Id: spells_vo.md#find-traps
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Find Traps
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Trouver les pièges](hd_spells_trouver_les_pieges.md)'
-  Source: (SRD p144)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Finger of Death
+  AltName: '[Doigt de mort](hd_spells_doigt_de_mort.md)'
   Type: necromancy
+  Level: 7
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p144)
   Id: spells_vo.md#finger-of-death
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Finger of Death
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Doigt de mort](hd_spells_doigt_de_mort.md)'
-  Source: (SRD p144)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Fire Bolt
+  AltName: '[Trait de feu](hd_spells_trait_de_feu.md)'
   Type: Evocation
+  Level: cantrip
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p144)
   Id: spells_vo.md#fire-bolt
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Fire Bolt
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Trait de feu](hd_spells_trait_de_feu.md)'
-  Source: (SRD p144)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Fire Shield
+  AltName: '[Bouclier de feu](hd_spells_bouclier_de_feu.md)'
   Type: evocation
+  Level: 4
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a bit of phosphorus or a firefly)
   Duration: 10 minutes
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p144)
   Id: spells_vo.md#fire-shield
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Fire Shield
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Bouclier de feu](hd_spells_bouclier_de_feu.md)'
-  Source: (SRD p144)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Fire Storm
+  AltName: '[Tempête de feu](hd_spells_tempete_de_feu.md)'
   Type: evocation
+  Level: 7
   CastingTime: 1 action
   Range: 150 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric, Druid, Sorcerer
+  Family: SpellVO
+  Source: (SRD p145)
   Id: spells_vo.md#fire-storm
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Fire Storm
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Tempête de feu](hd_spells_tempete_de_feu.md)'
-  Source: (SRD p145)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Fireball
+  AltName: '[Boule de feu](hd_spells_boule_de_feu.md)'
   Type: evocation
+  Level: 3
   CastingTime: 1 action
   Range: 150 feet
   Components: V, S, M (a tiny ball of bat guano and sulfur)
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p144)
   Id: spells_vo.md#fireball
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Fireball
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Boule de feu](hd_spells_boule_de_feu.md)'
-  Source: (SRD p144)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Flame Blade
+  AltName: '[Lame de feu](hd_spells_lame_de_feu.md)'
   Type: evocation
+  Level: 2
   CastingTime: 1 bonus action
   Range: Self
   Components: V, S, M (leaf of sumac)
   Duration: Concentration, up to 10 minutes
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p145)
   Id: spells_vo.md#flame-blade
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Flame Blade
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Lame de feu](hd_spells_lame_de_feu.md)'
-  Source: (SRD p145)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Flame Strike
+  AltName: '[Colonne de flamme](hd_spells_colonne_de_flamme.md)'
   Type: evocation
+  Level: 5
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (pinch of sulfur)
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p145)
   Id: spells_vo.md#flame-strike
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Flame Strike
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Colonne de flamme](hd_spells_colonne_de_flamme.md)'
-  Source: (SRD p145)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Flaming Sphere
+  AltName: '[Sphère de feu](hd_spells_sphere_de_feu.md)'
   Type: conjuration
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)
   Duration: Concentration, up to 1 minute
   Classes: Druid, Wizard
+  Family: SpellVO
+  Source: (SRD p145)
   Id: spells_vo.md#flaming-sphere
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Flaming Sphere
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Sphère de feu](hd_spells_sphere_de_feu.md)'
-  Source: (SRD p145)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Flesh to Stone
+  AltName: '[Pétrification](hd_spells_petrification.md)'
   Type: transmutation
+  Level: 6
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a pinch of lime, water, and earth)
   Duration: Concentration, up to 1 minute
   Classes: Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p145)
   Id: spells_vo.md#flesh-to-stone
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Flesh to Stone
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Pétrification](hd_spells_petrification.md)'
-  Source: (SRD p145)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Fly
+  AltName: '[Vol](hd_spells_vol.md)'
   Type: transmutation
+  Level: 3
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a wing feather from any bird)
   Duration: Concentration, up to 10 minutes
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p146)
   Id: spells_vo.md#fly
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Fly
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Vol](hd_spells_vol.md)'
-  Source: (SRD p146)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Fog Cloud
+  AltName: '[Nappe de brouillard](hd_spells_nappe_de_brouillard.md)'
   Type: conjuration
+  Level: 1
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Concentration, up to 1 hour
   Classes: Druid, Ranger, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p146)
   Id: spells_vo.md#fog-cloud
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Fog Cloud
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Nappe de brouillard](hd_spells_nappe_de_brouillard.md)'
-  Source: (SRD p146)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Forbiddance
+  AltName: '[Interdiction](hd_spells_interdiction.md)'
   Type: abjuration
-  Ritual: ritual
+  Level: 6
   CastingTime: 10 minutes
   Range: Touch
   Components: V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)
   Duration: 1 day
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p146)
+  Ritual: ritual
   Id: spells_vo.md#forbiddance
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Forbiddance
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Interdiction](hd_spells_interdiction.md)'
-  Source: (SRD p146)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Forcecage
+  AltName: '[Cage de force](hd_spells_cage_de_force.md)'
   Type: evocation
+  Level: 7
   CastingTime: 1 action
   Range: 100 feet
   Components: V, S, M (ruby dust worth 1,500 gp)
   Duration: 1 hour
   Classes: Bard, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p147)
   Id: spells_vo.md#forcecage
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Forcecage
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Cage de force](hd_spells_cage_de_force.md)'
-  Source: (SRD p147)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Foresight
+  AltName: '[Prémonition](hd_spells_premonition.md)'
   Type: divination
+  Level: 9
   CastingTime: 1 minute
   Range: Touch
   Components: V, S, M (a hummingbird feather)
   Duration: 8 hours
   Classes: Bard, Druid, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p147)
   Id: spells_vo.md#foresight
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Foresight
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Prémonition](hd_spells_premonition.md)'
-  Source: (SRD p147)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Freedom of Movement
+  AltName: '[Liberté de mouvement](hd_spells_liberte_de_mouvement.md)'
   Type: abjuration
+  Level: 4
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a leather strap, bound around the arm or a similar appendage)
   Duration: 1 hour
   Classes: Bard, Cleric, Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p147)
   Id: spells_vo.md#freedom-of-movement
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Freedom of Movement
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Liberté de mouvement](hd_spells_liberte_de_mouvement.md)'
-  Source: (SRD p147)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Gaseous Form
+  AltName: '[Forme gazeuse](hd_spells_forme_gazeuse.md)'
   Type: transmutation
+  Level: 3
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a bit of gauze and a wisp of smoke)
   Duration: Concentration, up to 1 hour
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p148)
   Id: spells_vo.md#gaseous-form
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Gaseous Form
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Forme gazeuse](hd_spells_forme_gazeuse.md)'
-  Source: (SRD p148)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Gate
+  AltName: '[Portail](hd_spells_portail.md)'
   Type: conjuration
+  Level: 9
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a diamond worth at least 5,000 gp)
   Duration: Concentration, up to 1 minute
   Classes: Cleric, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p148)
   Id: spells_vo.md#gate
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Gate
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Portail](hd_spells_portail.md)'
-  Source: (SRD p148)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Geas
+  AltName: '[Coercition mystique](hd_spells_coercition_mystique.md)'
   Type: enchantment
+  Level: 5
   CastingTime: 1 minute
   Range: 60 feet
   Components: V
   Duration: 30 days
   Classes: Bard, Cleric, Druid, Paladin, Wizard
+  Family: SpellVO
+  Source: (SRD p148)
   Id: spells_vo.md#geas
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Geas
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Coercition mystique](hd_spells_coercition_mystique.md)'
-  Source: (SRD p148)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Gentle Repose
+  AltName: '[Doux repos](hd_spells_doux_repos.md)'
   Type: necromancy
-  Ritual: ritual
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration
   Duration: 10 days
   Classes: Cleric, Wizard
+  Family: SpellVO
+  Source: (SRD p148)
+  Ritual: ritual
   Id: spells_vo.md#gentle-repose
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Gentle Repose
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Doux repos](hd_spells_doux_repos.md)'
-  Source: (SRD p148)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Giant Insect
+  AltName: '[Insecte géant](hd_spells_insecte_geant.md)'
   Type: transmutation
+  Level: 4
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: Concentration, up to 10 minutes
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p149)
   Id: spells_vo.md#giant-insect
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Giant Insect
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Insecte géant](hd_spells_insecte_geant.md)'
-  Source: (SRD p149)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Glibness
+  AltName: '[Bagou](hd_spells_bagou.md)'
   Type: transmutation
+  Level: 8
   CastingTime: 1 action
   Range: Self
   Components: V
   Duration: 1 hour
   Classes: Bard, Warlock
+  Family: SpellVO
+  Source: (SRD p149)
   Id: spells_vo.md#glibness
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Glibness
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Bagou](hd_spells_bagou.md)'
-  Source: (SRD p149)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Globe of Invulnerability
+  AltName: "[Globe d'invulnérabilité](hd_spells_globe_dinvulnerabilite.md)"
   Type: abjuration
+  Level: 6
   CastingTime: 1 action
   Range: Self (10-foot radius)
   Components: V, S, M (a glass or crystal bead that shatters when the spell ends)
   Duration: Concentration, up to 1 minute
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p149)
   Id: spells_vo.md#globe-of-invulnerability
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Globe of Invulnerability
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Globe d'invulnérabilité](hd_spells_globe_dinvulnerabilite.md)"
-  Source: (SRD p149)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Glyph of Warding
+  AltName: '[Glyphe de protection](hd_spells_glyphe_de_protection.md)'
   Type: abjuration
+  Level: 3
   CastingTime: 1 hour
   Range: Touch
   Components: V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)
   Duration: Until dispelled or triggered
   Classes: Bard, Cleric, Wizard
+  Family: SpellVO
+  Source: (SRD p149)
   Id: spells_vo.md#glyph-of-warding
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Glyph of Warding
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Glyphe de protection](hd_spells_glyphe_de_protection.md)'
-  Source: (SRD p149)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Goodberry
+  AltName: '[Baies nourricières](hd_spells_baies_nourricieres.md)'
   Type: transmutation
+  Level: 1
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a sprig of mistletoe)
   Duration: Instantaneous
   Classes: Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p150)
   Id: spells_vo.md#goodberry
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Goodberry
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Baies nourricières](hd_spells_baies_nourricieres.md)'
-  Source: (SRD p150)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Grease
+  AltName: '[Graisse](hd_spells_graisse.md)'
   Type: conjuration
+  Level: 1
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a bit of pork rind or butter)
   Duration: 1 minute
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p150)
   Id: spells_vo.md#grease
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Grease
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Graisse](hd_spells_graisse.md)'
-  Source: (SRD p150)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Greater Invisibility
+  AltName: '[Invisibilité supérieure](hd_spells_invisibilite_superieure.md)'
   Type: illusion
+  Level: 4
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p150)
   Id: spells_vo.md#greater-invisibility
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Greater Invisibility
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Invisibilité supérieure](hd_spells_invisibilite_superieure.md)'
-  Source: (SRD p150)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Greater Restoration
+  AltName: '[Restauration supérieure](hd_spells_restauration_superieure.md)'
   Type: abjuration
+  Level: 5
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
   Duration: Instantaneous
   Classes: Bard, Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p150)
   Id: spells_vo.md#greater-restoration
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Greater Restoration
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Restauration supérieure](hd_spells_restauration_superieure.md)'
-  Source: (SRD p150)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Guardian of Faith
+  AltName: '[Gardien de la foi](hd_spells_gardien_de_la_foi.md)'
   Type: conjuration
+  Level: 4
   CastingTime: 1 action
   Range: 30 feet
   Components: V
   Duration: 8 hours
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p150)
   Id: spells_vo.md#guardian-of-faith
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Guardian of Faith
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Gardien de la foi](hd_spells_gardien_de_la_foi.md)'
-  Source: (SRD p150)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Guards and Wards
+  AltName: '[Protections et sceaux](hd_spells_protections_et_sceaux.md)'
   Type: abjuration
+  Level: 6
   CastingTime: 10 minutes
   Range: Touch
   Components: V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)
   Duration: 24 hours
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p151)
   Id: spells_vo.md#guards-and-wards
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Guards and Wards
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Protections et sceaux](hd_spells_protections_et_sceaux.md)'
-  Source: (SRD p151)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Guidance
+  AltName: '[Assistance](hd_spells_assistance.md)'
   Type: Divination
+  Level: cantrip
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p151)
   Id: spells_vo.md#guidance
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Guidance
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Assistance](hd_spells_assistance.md)'
-  Source: (SRD p151)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Guiding Bolt
+  AltName: '[Balisage](hd_spells_balisage.md)'
   Type: evocation
+  Level: 1
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: 1 round
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p151)
   Id: spells_vo.md#guiding-bolt
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Guiding Bolt
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Balisage](hd_spells_balisage.md)'
-  Source: (SRD p151)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Gust of Wind
+  AltName: '[Bourrasque](hd_spells_bourrasque.md)'
   Type: evocation
+  Level: 2
   CastingTime: 1 action
   Range: Self (60-foot line)
   Components: V, S, M (a legume seed)
   Duration: Concentration, up to 1 minute
   Classes: Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p152)
   Id: spells_vo.md#gust-of-wind
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Gust of Wind
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Bourrasque](hd_spells_bourrasque.md)'
-  Source: (SRD p152)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Hallow
+  AltName: '[Sanctification](hd_spells_sanctification.md)'
   Type: evocation
+  Level: 5
   CastingTime: 24 hours
   Range: Touch
   Components: V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)
   Duration: Until dispelled
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p152)
   Id: spells_vo.md#hallow
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Hallow
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Sanctification](hd_spells_sanctification.md)'
-  Source: (SRD p152)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Hallucinatory Terrain
+  AltName: '[Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)'
   Type: illusion
+  Level: 4
   CastingTime: 10 minutes
   Range: 300 feet
   Components: V, S, M (a stone, a twig, and a bit of green plant)
   Duration: 24 hours
   Classes: Bard, Druid, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p152)
   Id: spells_vo.md#hallucinatory-terrain
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Hallucinatory Terrain
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)'
-  Source: (SRD p152)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Harm
+  AltName: '[Contamination](hd_spells_contamination.md)'
   Type: necromancy
+  Level: 6
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p153)
   Id: spells_vo.md#harm
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Harm
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Contamination](hd_spells_contamination.md)'
-  Source: (SRD p153)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Haste
+  AltName: '[Hâte](hd_spells_hate.md)'
   Type: transmutation
+  Level: 3
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a shaving of licorice root)
   Duration: Concentration, up to 1 minute
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p153)
   Id: spells_vo.md#haste
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Haste
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Hâte](hd_spells_hate.md)'
-  Source: (SRD p153)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Heal
+  AltName: '[Guérison](hd_spells_guerison.md)'
   Type: evocation
+  Level: 6
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p153)
   Id: spells_vo.md#heal
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Heal
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Guérison](hd_spells_guerison.md)'
-  Source: (SRD p153)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Healing Word
+  AltName: '[Mot de guérison](hd_spells_mot_de_guerison.md)'
   Type: evocation
+  Level: 1
   CastingTime: 1 bonus action
   Range: 60 feet
   Components: V
   Duration: Instantaneous
   Classes: Bard, Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p153)
   Id: spells_vo.md#healing-word
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Healing Word
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mot de guérison](hd_spells_mot_de_guerison.md)'
-  Source: (SRD p153)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Heat Metal
+  AltName: '[Chauffer le métal](hd_spells_chauffer_le_metal.md)'
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a piece of iron and a flame)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Druid
+  Family: SpellVO
+  Source: (SRD p153)
   Id: spells_vo.md#heat-metal
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Heat Metal
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Chauffer le métal](hd_spells_chauffer_le_metal.md)'
-  Source: (SRD p153)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Hellish Rebuke
+  AltName: '[Représailles infernales](hd_spells_represailles_infernales.md)'
   Type: evocation
+  Level: 1
   CastingTime: 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
   Range: 60 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Warlock
+  Family: SpellVO
+  Source: (SRD p154)
   Id: spells_vo.md#hellish-rebuke
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Hellish Rebuke
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Représailles infernales](hd_spells_represailles_infernales.md)'
-  Source: (SRD p154)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Heroes' Feast
+  AltName: '[Festin des héros](hd_spells_festin_des_heros.md)'
   Type: conjuration
+  Level: 6
   CastingTime: 10 minutes
   Range: 30 feet
   Components: V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)
   Duration: Instantaneous
   Classes: Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p154)
   Id: spells_vo.md#heroes-feast
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Heroes' Feast
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Festin des héros](hd_spells_festin_des_heros.md)'
-  Source: (SRD p154)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Heroism
+  AltName: '[Héroïsme](hd_spells_heroisme.md)'
   Type: enchantment
+  Level: 1
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Bard, Paladin
+  Family: SpellVO
+  Source: (SRD p154)
   Id: spells_vo.md#heroism
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Heroism
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Héroïsme](hd_spells_heroisme.md)'
-  Source: (SRD p154)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Hold Monster
+  AltName: '[Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)'
   Type: enchantment
+  Level: 5
   CastingTime: 1 action
   Range: 90 feet
   Components: V, S, M (a small, straight piece of iron)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p154)
   Id: spells_vo.md#hold-monster
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Hold Monster
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)'
-  Source: (SRD p154)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Hold Person
+  AltName: '[Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)'
   Type: enchantment
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a small, straight piece of iron)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p154)
   Id: spells_vo.md#hold-person
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Hold Person
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)'
-  Source: (SRD p154)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Holy Aura
+  AltName: '[Aura sacrée](hd_spells_aura_sacree.md)'
   Type: abjuration
+  Level: 8
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)
   Duration: Concentration, up to 1 minute
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p155)
   Id: spells_vo.md#holy-aura
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Holy Aura
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Aura sacrée](hd_spells_aura_sacree.md)'
-  Source: (SRD p155)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Hunter's Mark
+  AltName: '[Marque du chasseur](hd_spells_marque_du_chasseur.md)'
   Type: divination
+  Level: 1
   CastingTime: 1 bonus action
   Range: 90 feet
   Components: V
   Duration: Concentration, up to 1 hour
   Classes: Ranger
+  Family: SpellVO
+  Source: (SRD p155)
   Id: spells_vo.md#hunters-mark
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Hunter's Mark
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Marque du chasseur](hd_spells_marque_du_chasseur.md)'
-  Source: (SRD p155)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Hypnotic Pattern
+  AltName: '[Motif hypnotique](hd_spells_motif_hypnotique.md)'
   Type: illusion
+  Level: 3
   CastingTime: 1 action
   Range: 120 feet
   Components: S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p155)
   Id: spells_vo.md#hypnotic-pattern
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Hypnotic Pattern
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Motif hypnotique](hd_spells_motif_hypnotique.md)'
-  Source: (SRD p155)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Ice Storm
+  AltName: '[Tempête de grêle](hd_spells_tempete_de_grele.md)'
   Type: evocation
+  Level: 4
   CastingTime: 1 action
   Range: 300 feet
   Components: V, S, M (a pinch of dust and a few drops of water)
   Duration: Instantaneous
   Classes: Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p155)
   Id: spells_vo.md#ice-storm
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Ice Storm
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Tempête de grêle](hd_spells_tempete_de_grele.md)'
-  Source: (SRD p155)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Identify
+  AltName: '[Identification](hd_spells_identification.md)'
   Type: divination
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 minute
   Range: Touch
   Components: V, S, M (a pearl worth at least 100 gp and an owl feather)
   Duration: Instantaneous
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p155)
+  Ritual: ritual
   Id: spells_vo.md#identify
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Identify
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Identification](hd_spells_identification.md)'
-  Source: (SRD p155)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Illusory Script
+  AltName: '[Texte illusoire](hd_spells_texte_illusoire.md)'
   Type: illusion
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 minute
   Range: Touch
   Components: S, M (a lead-based ink worth at least 10 gp, which the spell consumes)
   Duration: 10 days
   Classes: Bard, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p156)
+  Ritual: ritual
   Id: spells_vo.md#illusory-script
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Illusory Script
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Texte illusoire](hd_spells_texte_illusoire.md)'
-  Source: (SRD p156)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Imprisonment
+  AltName: '[Emprisonnement](hd_spells_emprisonnement.md)'
   Type: abjuration
+  Level: 9
   CastingTime: 1 minute
   Range: 30 feet
   Components: V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)
   Duration: Until dispelled
   Classes: Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p156)
   Id: spells_vo.md#imprisonment
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Imprisonment
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Emprisonnement](hd_spells_emprisonnement.md)'
-  Source: (SRD p156)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Incendiary Cloud
+  AltName: '[Nuage incendiaire](hd_spells_nuage_incendiaire.md)'
   Type: conjuration
+  Level: 8
   CastingTime: 1 action
   Range: 150 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p157)
   Id: spells_vo.md#incendiary-cloud
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Incendiary Cloud
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Nuage incendiaire](hd_spells_nuage_incendiaire.md)'
-  Source: (SRD p157)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Inflict Wounds
+  AltName: '[Blessure](hd_spells_blessure.md)'
   Type: necromancy
+  Level: 1
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p157)
   Id: spells_vo.md#inflict-wounds
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Inflict Wounds
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Blessure](hd_spells_blessure.md)'
-  Source: (SRD p157)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Insect Plague
+  AltName: "[Fléau d'insectes](hd_spells_fleau_dinsectes.md)"
   Type: conjuration
+  Level: 5
   CastingTime: 1 action
   Range: 300 feet
   Components: V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)
   Duration: Concentration, up to 10 minutes
   Classes: Cleric, Druid, Sorcerer
+  Family: SpellVO
+  Source: (SRD p157)
   Id: spells_vo.md#insect-plague
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Insect Plague
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Fléau d'insectes](hd_spells_fleau_dinsectes.md)"
-  Source: (SRD p157)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Invisibility
+  AltName: '[Invisibilité](hd_spells_invisibilite.md)'
   Type: illusion
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (an eyelash encased in gum arabic)
   Duration: Concentration, up to 1 hour
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p157)
   Id: spells_vo.md#invisibility
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Invisibility
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Invisibilité](hd_spells_invisibilite.md)'
-  Source: (SRD p157)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Jump
+  AltName: '[Saut](hd_spells_saut.md)'
   Type: transmutation
+  Level: 1
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a grasshopper's hind leg)
   Duration: 1 minute
   Classes: Druid, Ranger, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p158)
   Id: spells_vo.md#jump
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Jump
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Saut](hd_spells_saut.md)'
-  Source: (SRD p158)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Knock
+  AltName: '[Déblocage](hd_spells_deblocage.md)'
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V
   Duration: Instantaneous
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p158)
   Id: spells_vo.md#knock
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Knock
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Déblocage](hd_spells_deblocage.md)'
-  Source: (SRD p158)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Legend Lore
+  AltName: '[Légende](hd_spells_legende.md)'
   Type: divination
+  Level: 5
   CastingTime: 10 minutes
   Range: Self
   Components: V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)
   Duration: Instantaneous
   Classes: Bard, Cleric, Wizard
+  Family: SpellVO
+  Source: (SRD p158)
   Id: spells_vo.md#legend-lore
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Legend Lore
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Légende](hd_spells_legende.md)'
-  Source: (SRD p158)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Secret Chest
+  AltName: '[Coffre secret](hd_spells_coffre_secret.md)'
   Type: conjuration
+  Level: 4
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)
   Duration: Instantaneous
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p177)
   Id: spells_vo.md#secret-chest
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Secret Chest
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Coffre secret](hd_spells_coffre_secret.md)'
-  Source: (SRD p177)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Tiny Hut
+  AltName: '[Petite hutte](hd_spells_petite_hutte.md)'
   Type: evocation
-  Ritual: ritual
+  Level: 3
   CastingTime: 1 minute
   Range: Self (10-foot-radius hemisphere)
   Components: V, S, M (a small crystal bead)
   Duration: 8 hours
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p187)
+  Ritual: ritual
   Id: spells_vo.md#tiny-hut
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Tiny Hut
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Petite hutte](hd_spells_petite_hutte.md)'
-  Source: (SRD p187)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Lesser Restoration
+  AltName: '[Restauration inférieure](hd_spells_restauration_inferieure.md)'
   Type: abjuration
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Instantaneous
   Classes: Bard, Cleric, Druid, Paladin, Ranger
+  Family: SpellVO
+  Source: (SRD p158)
   Id: spells_vo.md#lesser-restoration
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Lesser Restoration
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Restauration inférieure](hd_spells_restauration_inferieure.md)'
-  Source: (SRD p158)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Levitate
+  AltName: '[Lévitation](hd_spells_levitation.md)'
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)
   Duration: Concentration, up to 10 minutes
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p158)
   Id: spells_vo.md#levitate
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Levitate
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Lévitation](hd_spells_levitation.md)'
-  Source: (SRD p158)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Light
+  AltName: '[Lumière](hd_spells_lumiere.md)'
   Type: Evocation
+  Level: cantrip
   CastingTime: 1 action
   Range: Touch
   Components: V, M (a firefly or phosphorescent moss)
   Duration: 1 hour
   Classes: Bard, Cleric, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p159)
   Id: spells_vo.md#light
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Light
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Lumière](hd_spells_lumiere.md)'
-  Source: (SRD p159)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Lightning Bolt
+  AltName: '[Éclair](hd_spells_eclair.md)'
   Type: evocation
+  Level: 3
   CastingTime: 1 action
   Range: Self (100-foot line)
   Components: V, S, M (a bit of fur and a rod of amber, crystal, or glass)
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p159)
   Id: spells_vo.md#lightning-bolt
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Lightning Bolt
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Éclair](hd_spells_eclair.md)'
-  Source: (SRD p159)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Locate Animals or Plants
+  AltName: '[Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)'
   Type: divination
-  Ritual: ritual
+  Level: 2
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a bit of fur from a bloodhound)
   Duration: Instantaneous
   Classes: Bard, Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p159)
+  Ritual: ritual
   Id: spells_vo.md#locate-animals-or-plants
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Locate Animals or Plants
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)'
-  Source: (SRD p159)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Locate Creature
+  AltName: '[Localiser une créature](hd_spells_localiser_une_creature.md)'
   Type: divination
+  Level: 4
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a bit of fur from a bloodhound)
   Duration: Concentration, up to 1 hour
   Classes: Bard, Cleric, Druid, Paladin, Ranger, Wizard
+  Family: SpellVO
+  Source: (SRD p159)
   Id: spells_vo.md#locate-creature
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Locate Creature
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Localiser une créature](hd_spells_localiser_une_creature.md)'
-  Source: (SRD p159)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Locate Object
+  AltName: '[Localiser un objet](hd_spells_localiser_un_objet.md)'
   Type: divination
+  Level: 2
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a forked twig)
   Duration: Concentration, up to 10 minutes
   Classes: Bard, Cleric, Druid, Paladin, Ranger, Wizard
+  Family: SpellVO
+  Source: (SRD p159)
   Id: spells_vo.md#locate-object
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Locate Object
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Localiser un objet](hd_spells_localiser_un_objet.md)'
-  Source: (SRD p159)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Longstrider
+  AltName: '[Grande foulée](hd_spells_grande_foulee.md)'
   Type: transmutation
+  Level: 1
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a pinch of dirt)
   Duration: 1 hour
   Classes: Bard, Druid, Ranger, Wizard
+  Family: SpellVO
+  Source: (SRD p160)
   Id: spells_vo.md#longstrider
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Longstrider
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Grande foulée](hd_spells_grande_foulee.md)'
-  Source: (SRD p160)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Mage Armor
+  AltName: '[Armure du mage](hd_spells_armure_du_mage.md)'
   Type: abjuration
+  Level: 1
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a piece of cured leather)
   Duration: 8 hours
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p160)
   Id: spells_vo.md#mage-armor
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mage Armor
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Armure du mage](hd_spells_armure_du_mage.md)'
-  Source: (SRD p160)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Mage Hand
+  AltName: '[Main du mage](hd_spells_main_du_mage.md)'
   Type: Conjuration
+  Level: cantrip
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: 1 minute
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p160)
   Id: spells_vo.md#mage-hand
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mage Hand
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Main du mage](hd_spells_main_du_mage.md)'
-  Source: (SRD p160)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Magic Circle
+  AltName: '[Cercle magique](hd_spells_cercle_magique.md)'
   Type: abjuration
+  Level: 3
   CastingTime: 1 minute
   Range: 10 feet
   Components: V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)
   Duration: 1 hour
   Classes: Cleric, Paladin, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p160)
   Id: spells_vo.md#magic-circle
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Magic Circle
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Cercle magique](hd_spells_cercle_magique.md)'
-  Source: (SRD p160)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Magic Jar
+  AltName: '[Possession](hd_spells_possession.md)'
   Type: necromancy
+  Level: 6
   CastingTime: 1 minute
   Range: Self
   Components: V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)
   Duration: Until dispelled
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p160)
   Id: spells_vo.md#magic-jar
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Magic Jar
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Possession](hd_spells_possession.md)'
-  Source: (SRD p160)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Magic Missile
+  AltName: '[Projectile magique](hd_spells_projectile_magique.md)'
   Type: evocation
+  Level: 1
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p161)
   Id: spells_vo.md#magic-missile
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Magic Missile
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Projectile magique](hd_spells_projectile_magique.md)'
-  Source: (SRD p161)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Magic Mouth
+  AltName: '[Bouche magique](hd_spells_bouche_magique.md)'
   Type: illusion
-  Ritual: ritual
+  Level: 2
   CastingTime: 1 minute
   Range: 30 feet
   Components: V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)
   Duration: Until dispelled
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p161)
+  Ritual: ritual
   Id: spells_vo.md#magic-mouth
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Magic Mouth
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Bouche magique](hd_spells_bouche_magique.md)'
-  Source: (SRD p161)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Magic Weapon
+  AltName: '[Arme magique](hd_spells_arme_magique.md)'
   Type: transmutation
+  Level: 2
   CastingTime: 1 bonus action
   Range: Touch
   Components: V, S
   Duration: Concentration, up to 1 hour
   Classes: Paladin, Wizard
+  Family: SpellVO
+  Source: (SRD p161)
   Id: spells_vo.md#magic-weapon
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Magic Weapon
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Arme magique](hd_spells_arme_magique.md)'
-  Source: (SRD p161)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Major Image
+  AltName: '[Image majeure](hd_spells_image_majeure.md)'
   Type: illusion
+  Level: 3
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a bit of fleece)
   Duration: Concentration, up to 10 minutes
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p162)
   Id: spells_vo.md#major-image
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Major Image
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Image majeure](hd_spells_image_majeure.md)'
-  Source: (SRD p162)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Mass Cure Wounds
+  AltName: '[Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)'
   Type: evocation
+  Level: 5
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Bard, Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p162)
   Id: spells_vo.md#mass-cure-wounds
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mass Cure Wounds
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)'
-  Source: (SRD p162)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Mass Heal
+  AltName: '[Guérison de groupe](hd_spells_guerison_de_groupe.md)'
   Type: evocation
+  Level: 9
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p163)
   Id: spells_vo.md#mass-heal
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mass Heal
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Guérison de groupe](hd_spells_guerison_de_groupe.md)'
-  Source: (SRD p163)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Mass Healing Word
+  AltName: '[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)'
   Type: evocation
+  Level: 3
   CastingTime: 1 bonus action
   Range: 60 feet
   Components: V
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p163)
   Id: spells_vo.md#mass-healing-word
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mass Healing Word
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)'
-  Source: (SRD p163)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Mass Suggestion
+  AltName: '[Suggestion de groupe](hd_spells_suggestion_de_groupe.md)'
   Type: enchantment
+  Level: 6
   CastingTime: 1 action
   Range: 60 feet
   Components: V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
   Duration: 24 hours
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p163)
   Id: spells_vo.md#mass-suggestion
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mass Suggestion
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Suggestion de groupe](hd_spells_suggestion_de_groupe.md)'
-  Source: (SRD p163)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Maze
+  AltName: '[Labyrinthe](hd_spells_labyrinthe.md)'
   Type: conjuration
+  Level: 8
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Concentration, up to 10 minutes
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p163)
   Id: spells_vo.md#maze
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Maze
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Labyrinthe](hd_spells_labyrinthe.md)'
-  Source: (SRD p163)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Meld into Stone
+  AltName: '[Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)'
   Type: transmutation
-  Ritual: ritual
+  Level: 3
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: 8 hours
   Classes: Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p163)
+  Ritual: ritual
   Id: spells_vo.md#meld-into-stone
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Meld into Stone
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)'
-  Source: (SRD p163)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Acid Arrow
+  AltName: '[Flèche acide](hd_spells_fleche_acide.md)'
   Type: evocation
+  Level: 2
   CastingTime: 1 action
   Range: 90 feet
   Components: V, S, M (powdered rhubarb leaf and an adder's stomach)
   Duration: Instantaneous
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p114)
   Id: spells_vo.md#acid-arrow
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Acid Arrow
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Flèche acide](hd_spells_fleche_acide.md)'
-  Source: (SRD p114)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Mending
+  AltName: '[Réparation](hd_spells_reparation.md)'
   Type: Transmutation
+  Level: cantrip
   CastingTime: 1 minute
   Range: Touch
   Components: V, S, M (two lodestones)
   Duration: Instantaneous
   Classes: Bard, Cleric, Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p164)
   Id: spells_vo.md#mending
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mending
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Réparation](hd_spells_reparation.md)'
-  Source: (SRD p164)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Message
+  AltName: '[Message](hd_spells_message.md)'
   Type: Transmutation
+  Level: cantrip
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a short piece of copper wire)
   Duration: 1 round
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p164)
   Id: spells_vo.md#message
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Message
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Message](hd_spells_message.md)'
-  Source: (SRD p164)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Meteor Swarm
+  AltName: '[Nuée de météores](hd_spells_nuee_de_meteores.md)'
   Type: evocation
+  Level: 9
   CastingTime: 1 action
   Range: 1 mile
   Components: V, S
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p164)
   Id: spells_vo.md#meteor-swarm
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Meteor Swarm
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Nuée de météores](hd_spells_nuee_de_meteores.md)'
-  Source: (SRD p164)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Mind Blank
+  AltName: '[Esprit impénétrable](hd_spells_esprit_impenetrable.md)'
   Type: abjuration
+  Level: 8
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: 24 hours
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p164)
   Id: spells_vo.md#mind-blank
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mind Blank
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Esprit impénétrable](hd_spells_esprit_impenetrable.md)'
-  Source: (SRD p164)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Minor Illusion
+  AltName: '[Illusion mineure](hd_spells_illusion_mineure.md)'
   Type: Illusion
+  Level: cantrip
   CastingTime: 1 action
   Range: 30 feet
   Components: S, M (a bit of fleece)
   Duration: 1 minute
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p164)
   Id: spells_vo.md#minor-illusion
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Minor Illusion
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Illusion mineure](hd_spells_illusion_mineure.md)'
-  Source: (SRD p164)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Mirage Arcane
+  AltName: '[Mirage](hd_spells_mirage.md)'
   Type: illusion
+  Level: 7
   CastingTime: 10 minutes
   Range: Sight
   Components: V, S
   Duration: 10 days
   Classes: Bard, Druid, Wizard
+  Family: SpellVO
+  Source: (SRD p165)
   Id: spells_vo.md#mirage-arcane
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mirage Arcane
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mirage](hd_spells_mirage.md)'
-  Source: (SRD p165)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Mirror Image
+  AltName: '[Image miroir](hd_spells_image_miroir.md)'
   Type: illusion
+  Level: 2
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: 1 minute
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p165)
   Id: spells_vo.md#mirror-image
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mirror Image
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Image miroir](hd_spells_image_miroir.md)'
-  Source: (SRD p165)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Mislead
+  AltName: '[Tromperie](hd_spells_tromperie.md)'
   Type: illusion
+  Level: 5
   CastingTime: 1 action
   Range: Self
   Components: S
   Duration: Concentration, up to 1 hour
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p165)
   Id: spells_vo.md#mislead
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Mislead
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Tromperie](hd_spells_tromperie.md)'
-  Source: (SRD p165)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Misty Step
+  AltName: '[Pas brumeux](hd_spells_pas_brumeux.md)'
   Type: conjuration
+  Level: 2
   CastingTime: 1 bonus action
   Range: Self
   Components: V
   Duration: Instantaneous
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p165)
   Id: spells_vo.md#misty-step
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Misty Step
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Pas brumeux](hd_spells_pas_brumeux.md)'
-  Source: (SRD p165)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Modify Memory
+  AltName: '[Modification de mémoire](hd_spells_modification_de_memoire.md)'
   Type: enchantment
+  Level: 5
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p166)
   Id: spells_vo.md#modify-memory
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Modify Memory
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Modification de mémoire](hd_spells_modification_de_memoire.md)'
-  Source: (SRD p166)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Moonbeam
+  AltName: '[Rayon de lune](hd_spells_rayon_de_lune.md)'
   Type: evocation
+  Level: 2
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)
   Duration: Concentration, up to 1 minute
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p166)
   Id: spells_vo.md#moonbeam
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Moonbeam
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Rayon de lune](hd_spells_rayon_de_lune.md)'
-  Source: (SRD p166)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Faithful Hound
+  AltName: '[Chien de garde](hd_spells_chien_de_garde.md)'
   Type: conjuration
+  Level: 4
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a tiny silver whistle, a piece of bone, and a thread)
   Duration: 8 hours
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p142)
   Id: spells_vo.md#faithful-hound
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Faithful Hound
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Chien de garde](hd_spells_chien_de_garde.md)'
-  Source: (SRD p142)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Magnificent Mansion
+  AltName: '[Manoir somptueux](hd_spells_manoir_somptueux.md)'
   Type: conjuration
+  Level: 7
   CastingTime: 1 minute
   Range: 300 feet
   Components: V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)
   Duration: 24 hours
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p162)
   Id: spells_vo.md#magnificent-mansion
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Magnificent Mansion
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Manoir somptueux](hd_spells_manoir_somptueux.md)'
-  Source: (SRD p162)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Private Sanctum
+  AltName: '[Sanctuaire privé](hd_spells_sanctuaire_prive.md)'
   Type: abjuration
+  Level: 4
   CastingTime: 10 minutes
   Range: 120 feet
   Components: V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)
   Duration: 24 hours
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p171)
   Id: spells_vo.md#private-sanctum
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Private Sanctum
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Sanctuaire privé](hd_spells_sanctuaire_prive.md)'
-  Source: (SRD p171)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Arcane Sword
+  AltName: '[Épée magique](hd_spells_epee_magique.md)'
   Type: evocation
+  Level: 7
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p119)
   Id: spells_vo.md#arcane-sword
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Arcane Sword
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Épée magique](hd_spells_epee_magique.md)'
-  Source: (SRD p119)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Move Earth
+  AltName: '[Déplacer la terre](hd_spells_deplacer_la_terre.md)'
   Type: transmutation
+  Level: 6
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (an iron blade and a small bag containing a mixture of soils—clay, loam, and sand)
   Duration: Concentration, up to 2 hours
   Classes: Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p166)
   Id: spells_vo.md#move-earth
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Move Earth
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Déplacer la terre](hd_spells_deplacer_la_terre.md)'
-  Source: (SRD p166)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Nondetection
+  AltName: '[Non-détection](hd_spells_non_detection.md)'
   Type: abjuration
+  Level: 3
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)
   Duration: 8 hours
   Classes: Bard, Ranger, Wizard
+  Family: SpellVO
+  Source: (SRD p167)
   Id: spells_vo.md#nondetection
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Nondetection
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Non-détection](hd_spells_non_detection.md)'
-  Source: (SRD p167)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Arcanist's Magic Aura
+  AltName: "[Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)"
   Type: illusion
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a small square of silk)
   Duration: 24 hours
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p119)
   Id: spells_vo.md#arcanists-magic-aura
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Arcanist's Magic Aura
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)"
-  Source: (SRD p119)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Freezing Sphere
+  AltName: '[Sphère glacée](hd_spells_sphere_glacee.md)'
   Type: evocation
+  Level: 6
   CastingTime: 1 action
   Range: 300 feet
   Components: V, S, M (a small crystal sphere
   Duration: Instantaneous
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p147)
   Id: spells_vo.md#freezing-sphere
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Freezing Sphere
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Sphère glacée](hd_spells_sphere_glacee.md)'
-  Source: (SRD p147)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Resilient Sphere
+  AltName: '[Sphère résiliente](hd_spells_sphere_resiliente.md)'
   Type: evocation
+  Level: 4
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
   Duration: Concentration, up to 1 minute
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p175)
   Id: spells_vo.md#resilient-sphere
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Resilient Sphere
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Sphère résiliente](hd_spells_sphere_resiliente.md)'
-  Source: (SRD p175)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Irresistible Dance
+  AltName: '[Danse irrésistible](hd_spells_danse_irresistible.md)'
   Type: enchantment
+  Level: 6
   CastingTime: 1 action
   Range: 30 feet
   Components: V
   Duration: Concentration, up to 1 minute
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p158)
   Id: spells_vo.md#irresistible-dance
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Irresistible Dance
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Danse irrésistible](hd_spells_danse_irresistible.md)'
-  Source: (SRD p158)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Pass without Trace
+  AltName: '[Passage sans trace](hd_spells_passage_sans_trace.md)'
   Type: abjuration
+  Level: 2
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)
   Duration: Concentration, up to 1 hour
   Classes: Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p167)
   Id: spells_vo.md#pass-without-trace
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Pass without Trace
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Passage sans trace](hd_spells_passage_sans_trace.md)'
-  Source: (SRD p167)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Passwall
+  AltName: '[Passe-muraille](hd_spells_passe_muraille.md)'
   Type: transmutation
+  Level: 5
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a pinch of sesame seeds)
   Duration: 1 hour
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p167)
   Id: spells_vo.md#passwall
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Passwall
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Passe-muraille](hd_spells_passe_muraille.md)'
-  Source: (SRD p167)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Phantasmal Killer
+  AltName: '[Assassin imaginaire](hd_spells_assassin_imaginaire.md)'
   Type: illusion
+  Level: 4
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p167)
   Id: spells_vo.md#phantasmal-killer
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Phantasmal Killer
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Assassin imaginaire](hd_spells_assassin_imaginaire.md)'
-  Source: (SRD p167)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Phantom Steed
+  AltName: '[Monture fantôme](hd_spells_monture_fantome.md)'
   Type: illusion
-  Ritual: ritual
+  Level: 3
   CastingTime: 1 minute
   Range: 30 feet
   Components: V, S
   Duration: 1 hour
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p167)
+  Ritual: ritual
   Id: spells_vo.md#phantom-steed
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Phantom Steed
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Monture fantôme](hd_spells_monture_fantome.md)'
-  Source: (SRD p167)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Planar Ally
+  AltName: '[Allié planaire](hd_spells_allie_planaire.md)'
   Type: conjuration
+  Level: 6
   CastingTime: 10 minutes
   Range: 60 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p168)
   Id: spells_vo.md#planar-ally
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Planar Ally
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Allié planaire](hd_spells_allie_planaire.md)'
-  Source: (SRD p168)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Planar Binding
+  AltName: '[Entrave planaire](hd_spells_entrave_planaire.md)'
   Type: abjuration
+  Level: 5
   CastingTime: 1 hour
   Range: 60 feet
   Components: V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)
   Duration: 24 hours
   Classes: Bard, Cleric, Druid, Wizard
+  Family: SpellVO
+  Source: (SRD p168)
   Id: spells_vo.md#planar-binding
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Planar Binding
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Entrave planaire](hd_spells_entrave_planaire.md)'
-  Source: (SRD p168)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Plane Shift
+  AltName: '[Changement de plan](hd_spells_changement_de_plan.md)'
   Type: conjuration
+  Level: 7
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)
   Duration: Instantaneous
   Classes: Cleric, Druid, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p168)
   Id: spells_vo.md#plane-shift
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Plane Shift
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Changement de plan](hd_spells_changement_de_plan.md)'
-  Source: (SRD p168)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Plant Growth
+  AltName: '[Croissance végétale](hd_spells_croissance_vegetale.md)'
   Type: transmutation
+  Level: 3
   CastingTime: 1 action or 8 hours
   Range: 150 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Bard, Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p169)
   Id: spells_vo.md#plant-growth
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Plant Growth
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Croissance végétale](hd_spells_croissance_vegetale.md)'
-  Source: (SRD p169)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Poison Spray
+  AltName: '[Bouffée de poison](hd_spells_bouffee_de_poison.md)'
   Type: Conjuration
+  Level: cantrip
   CastingTime: 1 action
   Range: 10 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Druid, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p169)
   Id: spells_vo.md#poison-spray
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Poison Spray
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Bouffée de poison](hd_spells_bouffee_de_poison.md)'
-  Source: (SRD p169)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Polymorph
+  AltName: '[Métamorphose](hd_spells_metamorphose.md)'
   Type: transmutation
+  Level: 4
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a caterpillar cocoon)
   Duration: Concentration, up to 1 hour
   Classes: Bard, Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p169)
   Id: spells_vo.md#polymorph
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Polymorph
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Métamorphose](hd_spells_metamorphose.md)'
-  Source: (SRD p169)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Power Word Kill
+  AltName: '[Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)'
   Type: enchantment
+  Level: 9
   CastingTime: 1 action
   Range: 60 feet
   Components: V
   Duration: Instantaneous
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p170)
   Id: spells_vo.md#power-word-kill
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Power Word Kill
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)'
-  Source: (SRD p170)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Power Word Stun
+  AltName: '[Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)'
   Type: enchantment
+  Level: 8
   CastingTime: 1 action
   Range: 60 feet
   Components: V
   Duration: Instantaneous
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p170)
   Id: spells_vo.md#power-word-stun
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Power Word Stun
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)'
-  Source: (SRD p170)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Prayer of Healing
+  AltName: '[Prière de soins](hd_spells_priere_de_soins.md)'
   Type: evocation
+  Level: 2
   CastingTime: 10 minutes
   Range: 30 feet
   Components: V
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p170)
   Id: spells_vo.md#prayer-of-healing
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Prayer of Healing
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Prière de soins](hd_spells_priere_de_soins.md)'
-  Source: (SRD p170)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Prestidigitation
+  AltName: '[Prestidigitation](hd_spells_prestidigitation.md)'
   Type: Transmutation
+  Level: cantrip
   CastingTime: 1 action
   Range: 10 feet
   Components: V, S
   Duration: Up to 1 hour
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p170)
   Id: spells_vo.md#prestidigitation
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Prestidigitation
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Prestidigitation](hd_spells_prestidigitation.md)'
-  Source: (SRD p170)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Prismatic Spray
+  AltName: '[Embruns prismatiques](hd_spells_embruns_prismatiques.md)'
   Type: evocation
+  Level: 7
   CastingTime: 1 action
   Range: Self (60-foot cone)
   Components: V, S
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p170)
   Id: spells_vo.md#prismatic-spray
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Prismatic Spray
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Embruns prismatiques](hd_spells_embruns_prismatiques.md)'
-  Source: (SRD p170)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Prismatic Wall
+  AltName: '[Mur prismatique](hd_spells_mur_prismatique.md)'
   Type: abjuration
+  Level: 9
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: 10 minutes
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p171)
   Id: spells_vo.md#prismatic-wall
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Prismatic Wall
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mur prismatique](hd_spells_mur_prismatique.md)'
-  Source: (SRD p171)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Produce Flame
+  AltName: '[Produire une flamme](hd_spells_produire_une_flamme.md)'
   Type: Conjuration
+  Level: cantrip
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: 10 minutes
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p172)
   Id: spells_vo.md#produce-flame
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Produce Flame
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Produire une flamme](hd_spells_produire_une_flamme.md)'
-  Source: (SRD p172)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Programmed Illusion
+  AltName: '[Illusion programmée](hd_spells_illusion_programmee.md)'
   Type: illusion
+  Level: 6
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a bit of fleece and jade dust worth at least 25 gp)
   Duration: Until dispelled
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p172)
   Id: spells_vo.md#programmed-illusion
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Programmed Illusion
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Illusion programmée](hd_spells_illusion_programmee.md)'
-  Source: (SRD p172)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Project Image
+  AltName: '[Image projetée](hd_spells_image_projetee.md)'
   Type: illusion
+  Level: 7
   CastingTime: 1 action
   Range: 500 miles
   Components: V, S, M (a small replica of you made from materials worth at least 5 gp)
   Duration: Concentration, up to 1 day
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p172)
   Id: spells_vo.md#project-image
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Project Image
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Image projetée](hd_spells_image_projetee.md)'
-  Source: (SRD p172)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Protection from Energy
+  AltName: '[Protection contre les énergies](hd_spells_protection_contre_les_energies.md)'
   Type: abjuration
+  Level: 3
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Concentration, up to 1 hour
   Classes: Cleric, Druid, Ranger, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p173)
   Id: spells_vo.md#protection-from-energy
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Protection from Energy
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Protection contre les énergies](hd_spells_protection_contre_les_energies.md)'
-  Source: (SRD p173)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Protection from Evil and Good
+  AltName: '[Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)'
   Type: abjuration
+  Level: 1
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (holy water or powdered silver and iron, which the spell consumes)
   Duration: Concentration, up to 10 minutes
   Classes: Cleric, Paladin, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p173)
   Id: spells_vo.md#protection-from-evil-and-good
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Protection from Evil and Good
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)'
-  Source: (SRD p173)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Protection from Poison
+  AltName: '[Protection contre le poison](hd_spells_protection_contre_le_poison.md)'
   Type: abjuration
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: 1 hour
   Classes: Cleric, Druid, Paladin, Ranger
+  Family: SpellVO
+  Source: (SRD p173)
   Id: spells_vo.md#protection-from-poison
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Protection from Poison
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Protection contre le poison](hd_spells_protection_contre_le_poison.md)'
-  Source: (SRD p173)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Purify Food and Drink
+  AltName: "[Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)"
   Type: transmutation
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 action
   Range: 10 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric, Druid, Paladin
+  Family: SpellVO
+  Source: (SRD p173)
+  Ritual: ritual
   Id: spells_vo.md#purify-food-and-drink
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Purify Food and Drink
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)"
-  Source: (SRD p173)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Raise Dead
+  AltName: '[Rappel à la vie](hd_spells_rappel_a_la_vie.md)'
   Type: necromancy
+  Level: 5
   CastingTime: 1 hour
   Range: Touch
   Components: V, S, M (a diamond worth at least 500 gp, which the spell consumes)
   Duration: Instantaneous
   Classes: Bard, Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p173)
   Id: spells_vo.md#raise-dead
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Raise Dead
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Rappel à la vie](hd_spells_rappel_a_la_vie.md)'
-  Source: (SRD p173)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Telepathic Bond
+  AltName: '[Lien télépathique](hd_spells_lien_telepathique.md)'
   Type: divination
-  Ritual: ritual
+  Level: 5
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (pieces of eggshell from two different kinds of creatures)
   Duration: 1 hour
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p185)
+  Ritual: ritual
   Id: spells_vo.md#telepathic-bond
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Telepathic Bond
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Lien télépathique](hd_spells_lien_telepathique.md)'
-  Source: (SRD p185)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Ray of Enfeeblement
+  AltName: '[Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)'
   Type: necromancy
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p174)
   Id: spells_vo.md#ray-of-enfeeblement
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Ray of Enfeeblement
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)'
-  Source: (SRD p174)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Ray of Frost
+  AltName: '[Rayon de givre](hd_spells_rayon_de_givre.md)'
   Type: Evocation
+  Level: cantrip
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p174)
   Id: spells_vo.md#ray-of-frost
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Ray of Frost
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Rayon de givre](hd_spells_rayon_de_givre.md)'
-  Source: (SRD p174)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Regenerate
+  AltName: '[Régénération](hd_spells_regeneration.md)'
   Type: transmutation
+  Level: 7
   CastingTime: 1 minute
   Range: Touch
   Components: V, S, M (a prayer wheel and holy water)
   Duration: 1 hour
   Classes: Bard, Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p174)
   Id: spells_vo.md#regenerate
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Regenerate
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Régénération](hd_spells_regeneration.md)'
-  Source: (SRD p174)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Reincarnate
+  AltName: '[Réincarnation](hd_spells_reincarnation.md)'
   Type: transmutation
+  Level: 5
   CastingTime: 1 hour
   Range: Touch
   Components: V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)
   Duration: Instantaneous
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p174)
   Id: spells_vo.md#reincarnate
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Reincarnate
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Réincarnation](hd_spells_reincarnation.md)'
-  Source: (SRD p174)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Remove Curse
+  AltName: '[Lever une malédiction](hd_spells_lever_une_malediction.md)'
   Type: abjuration
+  Level: 3
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric, Paladin, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p174)
   Id: spells_vo.md#remove-curse
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Remove Curse
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Lever une malédiction](hd_spells_lever_une_malediction.md)'
-  Source: (SRD p174)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Resistance
+  AltName: '[Résistance](hd_spells_resistance.md)'
   Type: Abjuration
+  Level: cantrip
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a miniature cloak)
   Duration: Concentration, up to 1 minute
   Classes: Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p175)
   Id: spells_vo.md#resistance
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Resistance
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Résistance](hd_spells_resistance.md)'
-  Source: (SRD p175)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Resurrection
+  AltName: '[Résurrection](hd_spells_resurrection.md)'
   Type: necromancy
+  Level: 7
   CastingTime: 1 hour
   Range: Touch
   Components: V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)
   Duration: Instantaneous
   Classes: Bard, Cleric
+  Family: SpellVO
+  Source: (SRD p175)
   Id: spells_vo.md#resurrection
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Resurrection
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Résurrection](hd_spells_resurrection.md)'
-  Source: (SRD p175)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Reverse Gravity
+  AltName: '[Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)'
   Type: transmutation
+  Level: 7
   CastingTime: 1 action
   Range: 100 feet
   Components: V, S, M (a lodestone and iron filings)
   Duration: Concentration, up to 1 minute
   Classes: Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p175)
   Id: spells_vo.md#reverse-gravity
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Reverse Gravity
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)'
-  Source: (SRD p175)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Revivify
+  AltName: '[Revigorer](hd_spells_revigorer.md)'
   Type: necromancy
+  Level: 3
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (diamonds worth 300 gp, which the spell consumes)
   Duration: Instantaneous
   Classes: Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p175)
   Id: spells_vo.md#revivify
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Revivify
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Revigorer](hd_spells_revigorer.md)'
-  Source: (SRD p175)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Rope Trick
+  AltName: '[Corde enchantée](hd_spells_corde_enchantee.md)'
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (powdered corn extract and a twisted loop of parchment)
   Duration: 1 hour
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p176)
   Id: spells_vo.md#rope-trick
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Rope Trick
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Corde enchantée](hd_spells_corde_enchantee.md)'
-  Source: (SRD p176)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Sacred Flame
+  AltName: '[Flamme sacrée](hd_spells_flamme_sacree.md)'
   Type: Evocation
+  Level: cantrip
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p176)
   Id: spells_vo.md#sacred-flame
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Sacred Flame
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Flamme sacrée](hd_spells_flamme_sacree.md)'
-  Source: (SRD p176)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Sanctuary
+  AltName: '[Sanctuaire](hd_spells_sanctuaire.md)'
   Type: abjuration
+  Level: 1
   CastingTime: 1 bonus action
   Range: 30 feet
   Components: V, S, M (a small silver mirror)
   Duration: 1 minute
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p176)
   Id: spells_vo.md#sanctuary
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Sanctuary
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Sanctuaire](hd_spells_sanctuaire.md)'
-  Source: (SRD p176)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Scorching Ray
+  AltName: '[Rayon ardent](hd_spells_rayon_ardent.md)'
   Type: evocation
+  Level: 2
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p176)
   Id: spells_vo.md#scorching-ray
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Scorching Ray
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Rayon ardent](hd_spells_rayon_ardent.md)'
-  Source: (SRD p176)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Scrying
+  AltName: '[Scrutation](hd_spells_scrutation.md)'
   Type: divination
+  Level: 5
   CastingTime: 10 minutes
   Range: Self
   Components: V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)
   Duration: Concentration, up to 10 minutes
   Classes: Bard, Cleric, Druid, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p176)
   Id: spells_vo.md#scrying
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Scrying
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Scrutation](hd_spells_scrutation.md)'
-  Source: (SRD p176)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: See Invisibility
+  AltName: "[Voir l'invisible](hd_spells_voir_linvisible.md)"
   Type: divination
+  Level: 2
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a pinch of talc and a small sprinkling of powdered silver)
   Duration: 1 hour
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p177)
   Id: spells_vo.md#see-invisibility
   ParentLink: spells_vo.md#spells-srd-p
-  Name: See Invisibility
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Voir l'invisible](hd_spells_voir_linvisible.md)"
-  Source: (SRD p177)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Seeming
+  AltName: '[Apparence trompeuse](hd_spells_apparence_trompeuse.md)'
   Type: illusion
+  Level: 5
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S
   Duration: 8 hours
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p177)
   Id: spells_vo.md#seeming
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Seeming
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Apparence trompeuse](hd_spells_apparence_trompeuse.md)'
-  Source: (SRD p177)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Sending
+  AltName: '[Envoi de message](hd_spells_envoi_de_message.md)'
   Type: evocation
+  Level: 3
   CastingTime: 1 action
   Range: Unlimited
   Components: V, S, M (a short piece of fine copper wire)
   Duration: 1 round
   Classes: Bard, Cleric, Wizard
+  Family: SpellVO
+  Source: (SRD p177)
   Id: spells_vo.md#sending
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Sending
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Envoi de message](hd_spells_envoi_de_message.md)'
-  Source: (SRD p177)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Sequester
+  AltName: '[Séquestration](hd_spells_sequestration.md)'
   Type: transmutation
+  Level: 7
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)
   Duration: Until dispelled
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p178)
   Id: spells_vo.md#sequester
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Sequester
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Séquestration](hd_spells_sequestration.md)'
-  Source: (SRD p178)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Shapechange
+  AltName: '[Changement de forme](hd_spells_changement_de_forme.md)'
   Type: transmutation
+  Level: 9
   CastingTime: 1 action
   Range: Self
   Components: V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
   Duration: Concentration, up to 1 hour
   Classes: Druid, Wizard
+  Family: SpellVO
+  Source: (SRD p178)
   Id: spells_vo.md#shapechange
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Shapechange
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Changement de forme](hd_spells_changement_de_forme.md)'
-  Source: (SRD p178)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Shatter
+  AltName: '[Briser](hd_spells_briser.md)'
   Type: evocation
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a chip of mica)
   Duration: Instantaneous
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p178)
   Id: spells_vo.md#shatter
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Shatter
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Briser](hd_spells_briser.md)'
-  Source: (SRD p178)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Shield
+  AltName: '[Bouclier](hd_spells_bouclier.md)'
   Type: abjuration
+  Level: 1
   CastingTime: 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell
   Range: Self
   Components: V, S
   Duration: 1 round
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p179)
   Id: spells_vo.md#shield
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Shield
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Bouclier](hd_spells_bouclier.md)'
-  Source: (SRD p179)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Shield of Faith
+  AltName: '[Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)'
   Type: abjuration
+  Level: 1
   CastingTime: 1 bonus action
   Range: 60 feet
   Components: V, S, M (a small parchment with a bit of holy text written on it)
   Duration: Concentration, up to 10 minutes
   Classes: Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p179)
   Id: spells_vo.md#shield-of-faith
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Shield of Faith
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)'
-  Source: (SRD p179)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Shillelagh
+  AltName: '[Gourdin magique](hd_spells_gourdin_magique.md)'
   Type: Transmutation
+  Level: cantrip
   CastingTime: 1 bonus action
   Range: Touch
   Components: V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)
   Duration: 1 minute
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p179)
   Id: spells_vo.md#shillelagh
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Shillelagh
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Gourdin magique](hd_spells_gourdin_magique.md)'
-  Source: (SRD p179)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Shocking Grasp
+  AltName: '[Poigne électrique](hd_spells_poigne_electrique.md)'
   Type: Evocation
+  Level: cantrip
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p179)
   Id: spells_vo.md#shocking-grasp
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Shocking Grasp
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Poigne électrique](hd_spells_poigne_electrique.md)'
-  Source: (SRD p179)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Silence
+  AltName: '[Silence](hd_spells_silence.md)'
   Type: illusion
-  Ritual: ritual
+  Level: 2
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Concentration, up to 10 minutes
   Classes: Bard, Cleric, Ranger
+  Family: SpellVO
+  Source: (SRD p179)
+  Ritual: ritual
   Id: spells_vo.md#silence
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Silence
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Silence](hd_spells_silence.md)'
-  Source: (SRD p179)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Silent Image
+  AltName: '[Image silencieuse](hd_spells_image_silencieuse.md)'
   Type: illusion
+  Level: 1
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a bit of fleece)
   Duration: Concentration, up to 10 minutes
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p179)
   Id: spells_vo.md#silent-image
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Silent Image
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Image silencieuse](hd_spells_image_silencieuse.md)'
-  Source: (SRD p179)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Simulacrum
+  AltName: '[Simulacre](hd_spells_simulacre.md)'
   Type: illusion
+  Level: 7
   CastingTime: 12 hours
   Range: Touch
   Components: V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)
   Duration: Until dispelled
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p180)
   Id: spells_vo.md#simulacrum
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Simulacrum
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Simulacre](hd_spells_simulacre.md)'
-  Source: (SRD p180)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Sleep
+  AltName: '[Sommeil](hd_spells_sommeil.md)'
   Type: enchantment
+  Level: 1
   CastingTime: 1 action
   Range: 90 feet
   Components: V, S, M (a pinch of fine sand, rose petals, or a cricket)
   Duration: 1 minute
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p180)
   Id: spells_vo.md#sleep
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Sleep
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Sommeil](hd_spells_sommeil.md)'
-  Source: (SRD p180)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Sleet Storm
+  AltName: '[Tempête de neige](hd_spells_tempete_de_neige.md)'
   Type: conjuration
+  Level: 3
   CastingTime: 1 action
   Range: 150 feet
   Components: V, S, M (a pinch of dust and a few drops of water)
   Duration: Concentration, up to 1 minute
   Classes: Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p180)
   Id: spells_vo.md#sleet-storm
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Sleet Storm
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Tempête de neige](hd_spells_tempete_de_neige.md)'
-  Source: (SRD p180)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Slow
+  AltName: '[Lenteur](hd_spells_lenteur.md)'
   Type: transmutation
+  Level: 3
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a drop of molasses)
   Duration: Concentration, up to 1 minute
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p180)
   Id: spells_vo.md#slow
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Slow
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Lenteur](hd_spells_lenteur.md)'
-  Source: (SRD p180)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Spare the Dying
+  AltName: '[Épargner les mourants](hd_spells_epargner_les_mourants.md)'
   Type: Necromancy
+  Level: cantrip
   CastingTime: 1 action
   Range: Touch
   Components: V, S
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p181)
   Id: spells_vo.md#spare-the-dying
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Spare the Dying
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Épargner les mourants](hd_spells_epargner_les_mourants.md)'
-  Source: (SRD p181)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Speak with Animals
+  AltName: '[Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)'
   Type: divination
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: 10 minutes
   Classes: Bard, Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p181)
+  Ritual: ritual
   Id: spells_vo.md#speak-with-animals
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Speak with Animals
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)'
-  Source: (SRD p181)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Speak with Dead
+  AltName: '[Communication avec les morts](hd_spells_communication_avec_les_morts.md)'
   Type: necromancy
+  Level: 3
   CastingTime: 1 action
   Range: 10 feet
   Components: V, S, M (burning incense)
   Duration: 10 minutes
   Classes: Bard, Cleric
+  Family: SpellVO
+  Source: (SRD p181)
   Id: spells_vo.md#speak-with-dead
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Speak with Dead
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Communication avec les morts](hd_spells_communication_avec_les_morts.md)'
-  Source: (SRD p181)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Speak with Plants
+  AltName: '[Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)'
   Type: transmutation
+  Level: 3
   CastingTime: 1 action
   Range: Self (30-foot radius)
   Components: V, S
   Duration: 10 minutes
   Classes: Bard, Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p181)
   Id: spells_vo.md#speak-with-plants
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Speak with Plants
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)'
-  Source: (SRD p181)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Spider Climb
+  AltName: "[Pattes d'araignée](hd_spells_pattes_daraignee.md)"
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a drop of bitumen and a spider)
   Duration: Concentration, up to 1 hour
   Classes: Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p182)
   Id: spells_vo.md#spider-climb
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Spider Climb
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Pattes d'araignée](hd_spells_pattes_daraignee.md)"
-  Source: (SRD p182)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Spike Growth
+  AltName: "[Croissance d'épines](hd_spells_croissance_depines.md)"
   Type: transmutation
+  Level: 2
   CastingTime: 1 action
   Range: 150 feet
   Components: V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)
   Duration: Concentration, up to 10 minutes
   Classes: Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p182)
   Id: spells_vo.md#spike-growth
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Spike Growth
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Croissance d'épines](hd_spells_croissance_depines.md)"
-  Source: (SRD p182)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Spirit Guardians
+  AltName: '[Esprits gardiens](hd_spells_esprits_gardiens.md)'
   Type: conjuration
+  Level: 3
   CastingTime: 1 action
   Range: Self (15-foot radius)
   Components: V, S, M (a holy symbol)
   Duration: Concentration, up to 10 minutes
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p182)
   Id: spells_vo.md#spirit-guardians
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Spirit Guardians
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Esprits gardiens](hd_spells_esprits_gardiens.md)'
-  Source: (SRD p182)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Spiritual Weapon
+  AltName: '[Arme spirituelle](hd_spells_arme_spirituelle.md)'
   Type: evocation
+  Level: 2
   CastingTime: 1 bonus action
   Range: 60 feet
   Components: V, S
   Duration: 1 minute
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p182)
   Id: spells_vo.md#spiritual-weapon
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Spiritual Weapon
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Arme spirituelle](hd_spells_arme_spirituelle.md)'
-  Source: (SRD p182)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Stinking Cloud
+  AltName: '[Nuage puant](hd_spells_nuage_puant.md)'
   Type: conjuration
+  Level: 3
   CastingTime: 1 action
   Range: 90 feet
   Components: V, S, M (a rotten egg or several skunk cabbage leaves)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p182)
   Id: spells_vo.md#stinking-cloud
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Stinking Cloud
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Nuage puant](hd_spells_nuage_puant.md)'
-  Source: (SRD p182)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Stone Shape
+  AltName: '[Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)'
   Type: transmutation
+  Level: 4
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)
   Duration: Instantaneous
   Classes: Cleric, Druid, Wizard
+  Family: SpellVO
+  Source: (SRD p183)
   Id: spells_vo.md#stone-shape
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Stone Shape
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)'
-  Source: (SRD p183)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Stoneskin
+  AltName: '[Peau de pierre](hd_spells_peau_de_pierre.md)'
   Type: abjuration
+  Level: 4
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (diamond dust worth 100 gp, which the spell consumes)
   Duration: Concentration, up to 1 hour
   Classes: Druid, Ranger, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p183)
   Id: spells_vo.md#stoneskin
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Stoneskin
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Peau de pierre](hd_spells_peau_de_pierre.md)'
-  Source: (SRD p183)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Storm of Vengeance
+  AltName: '[Tempête vengeresse](hd_spells_tempete_vengeresse.md)'
   Type: conjuration
+  Level: 9
   CastingTime: 1 action
   Range: Sight
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p183)
   Id: spells_vo.md#storm-of-vengeance
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Storm of Vengeance
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Tempête vengeresse](hd_spells_tempete_vengeresse.md)'
-  Source: (SRD p183)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Suggestion
+  AltName: '[Suggestion](hd_spells_suggestion.md)'
   Type: enchantment
+  Level: 2
   CastingTime: 1 action
   Range: 30 feet
   Components: V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
   Duration: Concentration, up to 8 hours
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p183)
   Id: spells_vo.md#suggestion
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Suggestion
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Suggestion](hd_spells_suggestion.md)'
-  Source: (SRD p183)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Sunbeam
+  AltName: '[Rayon de soleil](hd_spells_rayon_de_soleil.md)'
   Type: evocation
+  Level: 6
   CastingTime: 1 action
   Range: Self (60-foot line)
   Components: V, S, M (a magnifying glass)
   Duration: Concentration, up to 1 minute
   Classes: Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p184)
   Id: spells_vo.md#sunbeam
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Sunbeam
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Rayon de soleil](hd_spells_rayon_de_soleil.md)'
-  Source: (SRD p184)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 8
+  Name: Sunburst
+  AltName: '[Éclat du soleil](hd_spells_eclat_du_soleil.md)'
   Type: evocation
+  Level: 8
   CastingTime: 1 action
   Range: 150 feet
   Components: V, S, M (fire and a piece of sunstone)
   Duration: Instantaneous
   Classes: Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p184)
   Id: spells_vo.md#sunburst
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Sunburst
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Éclat du soleil](hd_spells_eclat_du_soleil.md)'
-  Source: (SRD p184)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Symbol
+  AltName: '[Symbole](hd_spells_symbole.md)'
   Type: abjuration
+  Level: 7
   CastingTime: 1 minute
   Range: Touch
   Components: V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)
   Duration: Until dispelled or triggered
   Classes: Bard, Cleric, Wizard
+  Family: SpellVO
+  Source: (SRD p184)
   Id: spells_vo.md#symbol
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Symbol
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Symbole](hd_spells_symbole.md)'
-  Source: (SRD p184)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Hideous Laughter
+  AltName: '[Fou rire](hd_spells_fou_rire.md)'
   Type: enchantment
+  Level: 1
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (tiny tarts and a feather that is waved in the air)
   Duration: Concentration, up to 1 minute
   Classes: Bard, Wizard
+  Family: SpellVO
+  Source: (SRD p154)
   Id: spells_vo.md#hideous-laughter
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Hideous Laughter
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Fou rire](hd_spells_fou_rire.md)'
-  Source: (SRD p154)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Telekinesis
+  AltName: '[Télékinésie](hd_spells_telekinesie.md)'
   Type: transmutation
+  Level: 5
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: Concentration, up to 10 minutes
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p185)
   Id: spells_vo.md#telekinesis
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Telekinesis
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Télékinésie](hd_spells_telekinesie.md)'
-  Source: (SRD p185)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 7
+  Name: Teleport
+  AltName: '[Téléportation](hd_spells_teleportation.md)'
   Type: conjuration
+  Level: 7
   CastingTime: 1 action
   Range: 10 feet
   Components: V
   Duration: Instantaneous
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p185)
   Id: spells_vo.md#teleport
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Teleport
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Téléportation](hd_spells_teleportation.md)'
-  Source: (SRD p185)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Teleportation Circle
+  AltName: '[Cercle de téléportation](hd_spells_cercle_de_teleportation.md)'
   Type: conjuration
+  Level: 5
   CastingTime: 1 minute
   Range: 10 feet
   Components: V, M (rare chalks and inks infused with precious gems with 50 gp, which the spell consumes)
   Duration: 1 round
   Classes: Bard, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p186)
   Id: spells_vo.md#teleportation-circle
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Teleportation Circle
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Cercle de téléportation](hd_spells_cercle_de_teleportation.md)'
-  Source: (SRD p186)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Floating Disk
+  AltName: '[Disque flottant](hd_spells_disque_flottant.md)'
   Type: conjuration
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a drop of mercury)
   Duration: 1 hour
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p146)
+  Ritual: ritual
   Id: spells_vo.md#floating-disk
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Floating Disk
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Disque flottant](hd_spells_disque_flottant.md)'
-  Source: (SRD p146)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Thaumaturgy
+  AltName: '[Thaumaturgie](hd_spells_thaumaturgie.md)'
   Type: Transmutation
+  Level: cantrip
   CastingTime: 1 action
   Range: 30 feet
   Components: V
   Duration: Up to 1 minute
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p187)
   Id: spells_vo.md#thaumaturgy
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Thaumaturgy
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Thaumaturgie](hd_spells_thaumaturgie.md)'
-  Source: (SRD p187)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Thunderwave
+  AltName: '[Vague tonnante](hd_spells_vague_tonnante.md)'
   Type: evocation
+  Level: 1
   CastingTime: 1 action
   Range: Self (15-foot cube)
   Components: V, S
   Duration: Instantaneous
   Classes: Bard, Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p187)
   Id: spells_vo.md#thunderwave
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Thunderwave
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Vague tonnante](hd_spells_vague_tonnante.md)'
-  Source: (SRD p187)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Time Stop
+  AltName: '[Arrêt du temps](hd_spells_arret_du_temps.md)'
   Type: transmutation
+  Level: 9
   CastingTime: 1 action
   Range: Self
   Components: V
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p187)
   Id: spells_vo.md#time-stop
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Time Stop
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Arrêt du temps](hd_spells_arret_du_temps.md)'
-  Source: (SRD p187)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Tongues
+  AltName: '[Langues](hd_spells_langues.md)'
   Type: divination
+  Level: 3
   CastingTime: 1 action
   Range: Touch
   Components: V, M (a small clay model of a ziggurat)
   Duration: 1 hour
   Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p187)
   Id: spells_vo.md#tongues
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Tongues
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Langues](hd_spells_langues.md)'
-  Source: (SRD p187)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Transport via Plants
+  AltName: '[Transport végétal](hd_spells_transport_vegetal.md)'
   Type: conjuration
+  Level: 6
   CastingTime: 1 action
   Range: 10 feet
   Components: V, S
   Duration: 1 round
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p188)
   Id: spells_vo.md#transport-via-plants
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Transport via Plants
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Transport végétal](hd_spells_transport_vegetal.md)'
-  Source: (SRD p188)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Tree Stride
+  AltName: '[Passage par les arbres](hd_spells_passage_par_les_arbres.md)'
   Type: conjuration
+  Level: 5
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p188)
   Id: spells_vo.md#tree-stride
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Tree Stride
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Passage par les arbres](hd_spells_passage_par_les_arbres.md)'
-  Source: (SRD p188)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: True Polymorph
+  AltName: '[Métamorphose suprême](hd_spells_metamorphose_supreme.md)'
   Type: transmutation
+  Level: 9
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
   Duration: Concentration, up to 1 hour
   Classes: Bard, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p188)
   Id: spells_vo.md#true-polymorph
   ParentLink: spells_vo.md#spells-srd-p
-  Name: True Polymorph
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Métamorphose suprême](hd_spells_metamorphose_supreme.md)'
-  Source: (SRD p188)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: True Resurrection
+  AltName: '[Résurrection suprême](hd_spells_resurrection_supreme.md)'
   Type: necromancy
+  Level: 9
   CastingTime: 1 hour
   Range: Touch
   Components: V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)
   Duration: Instantaneous
   Classes: Cleric, Druid
+  Family: SpellVO
+  Source: (SRD p189)
   Id: spells_vo.md#true-resurrection
   ParentLink: spells_vo.md#spells-srd-p
-  Name: True Resurrection
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Résurrection suprême](hd_spells_resurrection_supreme.md)'
-  Source: (SRD p189)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: True Seeing
+  AltName: '[Vision suprême](hd_spells_vision_supreme.md)'
   Type: divination
+  Level: 6
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)
   Duration: 1 hour
   Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p189)
   Id: spells_vo.md#true-seeing
   ParentLink: spells_vo.md#spells-srd-p
-  Name: True Seeing
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Vision suprême](hd_spells_vision_supreme.md)'
-  Source: (SRD p189)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: True Strike
+  AltName: '[Viser juste](hd_spells_viser_juste.md)'
   Type: Divination
+  Level: cantrip
   CastingTime: 1 action
   Range: 30 feet
   Components: S
   Duration: Concentration, up to 1 round
   Classes: Bard, Sorcerer, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p189)
   Id: spells_vo.md#true-strike
   ParentLink: spells_vo.md#spells-srd-p
-  Name: True Strike
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Viser juste](hd_spells_viser_juste.md)'
-  Source: (SRD p189)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 1
+  Name: Unseen Servant
+  AltName: '[Serviteur invisible](hd_spells_serviteur_invisible.md)'
   Type: conjuration
-  Ritual: ritual
+  Level: 1
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a piece of string and a bit of wood)
   Duration: 1 hour
   Classes: Bard, Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p189)
+  Ritual: ritual
   Id: spells_vo.md#unseen-servant
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Unseen Servant
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Serviteur invisible](hd_spells_serviteur_invisible.md)'
-  Source: (SRD p189)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Vampiric Touch
+  AltName: '[Caresse du vampire](hd_spells_caresse_du_vampire.md)'
   Type: necromancy
+  Level: 3
   CastingTime: 1 action
   Range: Self
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Warlock, Wizard
+  Family: SpellVO
+  Source: (SRD p189)
   Id: spells_vo.md#vampiric-touch
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Vampiric Touch
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Caresse du vampire](hd_spells_caresse_du_vampire.md)'
-  Source: (SRD p189)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: cantrip
+  Name: Vicious Mockery
+  AltName: '[Moquerie cruelle](hd_spells_moquerie_cruelle.md)'
   Type: Enchantment
+  Level: cantrip
   CastingTime: 1 action
   Range: 60 feet
   Components: V
   Duration: Instantaneous
   Classes: Bard
+  Family: SpellVO
+  Source: (SRD p189)
   Id: spells_vo.md#vicious-mockery
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Vicious Mockery
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Moquerie cruelle](hd_spells_moquerie_cruelle.md)'
-  Source: (SRD p189)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 4
+  Name: Wall of Fire
+  AltName: '[Mur de feu](hd_spells_mur_de_feu.md)'
   Type: evocation
+  Level: 4
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a small piece of phosphorus)
   Duration: Concentration, up to 1 minute
   Classes: Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p190)
   Id: spells_vo.md#wall-of-fire
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Wall of Fire
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mur de feu](hd_spells_mur_de_feu.md)'
-  Source: (SRD p190)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Wall of Force
+  AltName: '[Mur de force](hd_spells_mur_de_force.md)'
   Type: evocation
+  Level: 5
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a pinch of powder made by crushing a clear gemstone)
   Duration: Concentration, up to 10 minutes
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p190)
   Id: spells_vo.md#wall-of-force
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Wall of Force
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mur de force](hd_spells_mur_de_force.md)'
-  Source: (SRD p190)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Wall of Ice
+  AltName: '[Mur de glace](hd_spells_mur_de_glace.md)'
   Type: evocation
+  Level: 6
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a small piece of quartz)
   Duration: Concentration, up to 10 minutes
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p190)
   Id: spells_vo.md#wall-of-ice
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Wall of Ice
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mur de glace](hd_spells_mur_de_glace.md)'
-  Source: (SRD p190)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 5
+  Name: Wall of Stone
+  AltName: '[Mur de pierre](hd_spells_mur_de_pierre.md)'
   Type: evocation
+  Level: 5
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a small block of granite)
   Duration: Concentration, up to 10 minutes
   Classes: Druid, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p190)
   Id: spells_vo.md#wall-of-stone
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Wall of Stone
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mur de pierre](hd_spells_mur_de_pierre.md)'
-  Source: (SRD p190)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Wall of Thorns
+  AltName: "[Mur d'épines](hd_spells_mur_depines.md)"
   Type: conjuration
+  Level: 6
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a handful of thorns)
   Duration: Concentration, up to 10 minutes
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p191)
   Id: spells_vo.md#wall-of-thorns
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Wall of Thorns
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Mur d'épines](hd_spells_mur_depines.md)"
-  Source: (SRD p191)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Warding Bond
+  AltName: '[Lien de protection](hd_spells_lien_de_protection.md)'
   Type: abjuration
+  Level: 2
   CastingTime: 1 action
   Range: Touch
   Components: V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)
   Duration: 1 hour
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p191)
   Id: spells_vo.md#warding-bond
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Warding Bond
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Lien de protection](hd_spells_lien_de_protection.md)'
-  Source: (SRD p191)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Water Breathing
+  AltName: '[Respiration aquatique](hd_spells_respiration_aquatique.md)'
   Type: transmutation
-  Ritual: ritual
+  Level: 3
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a short reed or piece of straw)
   Duration: 24 hours
   Classes: Druid, Ranger, Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p191)
+  Ritual: ritual
   Id: spells_vo.md#water-breathing
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Water Breathing
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Respiration aquatique](hd_spells_respiration_aquatique.md)'
-  Source: (SRD p191)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Water Walk
+  AltName: "[Marche sur l'eau](hd_spells_marche_sur_leau.md)"
   Type: transmutation
-  Ritual: ritual
+  Level: 3
   CastingTime: 1 action
   Range: 30 feet
   Components: V, S, M (a piece of cork)
   Duration: 1 hour
   Classes: Cleric, Druid, Ranger, Sorcerer
+  Family: SpellVO
+  Source: (SRD p191)
+  Ritual: ritual
   Id: spells_vo.md#water-walk
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Water Walk
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Marche sur l'eau](hd_spells_marche_sur_leau.md)"
-  Source: (SRD p191)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Web
+  AltName: "[Toile d'araignée](hd_spells_toile_daraignee.md)"
   Type: conjuration
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S, M (a bit of spiderweb)
   Duration: Concentration, up to 1 hour
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p192)
   Id: spells_vo.md#web
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Web
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: "[Toile d'araignée](hd_spells_toile_daraignee.md)"
-  Source: (SRD p192)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Weird
+  AltName: '[Étrangeté](hd_spells_etrangete.md)'
   Type: illusion
+  Level: 9
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S
   Duration: Concentration, up to 1 minute
   Classes: Wizard
+  Family: SpellVO
+  Source: (SRD p192)
   Id: spells_vo.md#weird
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Weird
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Étrangeté](hd_spells_etrangete.md)'
-  Source: (SRD p192)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Wind Walk
+  AltName: '[Marche sur le vent](hd_spells_marche_sur_le_vent.md)'
   Type: transmutation
+  Level: 6
   CastingTime: 1 minute
   Range: 30 feet
   Components: V, S, M (fire and holy water)
   Duration: 8 hours
   Classes: Druid
+  Family: SpellVO
+  Source: (SRD p192)
   Id: spells_vo.md#wind-walk
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Wind Walk
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Marche sur le vent](hd_spells_marche_sur_le_vent.md)'
-  Source: (SRD p192)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 3
+  Name: Wind Wall
+  AltName: '[Mur de vent](hd_spells_mur_de_vent.md)'
   Type: evocation
+  Level: 3
   CastingTime: 1 action
   Range: 120 feet
   Components: V, S, M (a tiny fan and a feather of exotic origin)
   Duration: Concentration, up to 1 minute
   Classes: Druid, Ranger
+  Family: SpellVO
+  Source: (SRD p192)
   Id: spells_vo.md#wind-wall
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Wind Wall
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mur de vent](hd_spells_mur_de_vent.md)'
-  Source: (SRD p192)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 9
+  Name: Wish
+  AltName: '[Souhait](hd_spells_souhait.md)'
   Type: conjuration
+  Level: 9
   CastingTime: 1 action
   Range: Self
   Components: V
   Duration: Instantaneous
   Classes: Sorcerer, Wizard
+  Family: SpellVO
+  Source: (SRD p193)
   Id: spells_vo.md#wish
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Wish
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Souhait](hd_spells_souhait.md)'
-  Source: (SRD p193)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 6
+  Name: Word of Recall
+  AltName: '[Mot de retour](hd_spells_mot_de_retour.md)'
   Type: conjuration
+  Level: 6
   CastingTime: 1 action
   Range: 5 feet
   Components: V
   Duration: Instantaneous
   Classes: Cleric
+  Family: SpellVO
+  Source: (SRD p193)
   Id: spells_vo.md#word-of-recall
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Word of Recall
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Mot de retour](hd_spells_mot_de_retour.md)'
-  Source: (SRD p193)
   Attributes: {}
 - !SpellItem
-  Family: SpellVO
-  Level: 2
+  Name: Zone of Truth
+  AltName: '[Zone de vérité](hd_spells_zone_de_verite.md)'
   Type: enchantment
+  Level: 2
   CastingTime: 1 action
   Range: 60 feet
   Components: V, S
   Duration: 10 minutes
   Classes: Bard, Cleric, Paladin
+  Family: SpellVO
+  Source: (SRD p193)
   Id: spells_vo.md#zone-of-truth
   ParentLink: spells_vo.md#spells-srd-p
-  Name: Zone of Truth
   ParentName: Spells (SRD p)
   NameLevel: 1
-  AltName: '[Zone de vérité](hd_spells_zone_de_verite.md)'
-  Source: (SRD p193)
   Attributes: {}
 Id: spells_vo.md#spells-srd-p
 RootId: spells_vo.md
 ParentLink: index.md
-Name: Spells (SRD p)
 ParentName: SRD
 NameLevel: 1
-AltName: '[Sorts](hd_spells.md)'
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

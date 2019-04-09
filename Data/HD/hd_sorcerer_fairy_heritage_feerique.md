@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Héritage féerique
 Id: sorcerer_fairy_hd.md#héritage-féerique
 ParentLink: sorcerer_fairy_hd.md#lignée-féerique
-Name: Héritage féerique
 ParentName: Lignée féerique
 NameLevel: 2
 Attributes: {}

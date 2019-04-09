@@ -1,13 +1,13 @@
 ﻿---
 !SubClassItem
+Name: Guide spirituel
+Source: (MDR p138)
 ParentClassId: hd_cleric.md
 Id: cleric_guide_hd.md#guide-spirituel
 RootId: cleric_guide_hd.md
 ParentLink: cleric_hd.md#domaines-divins
-Name: Guide spirituel
 ParentName: Domaines divins
 NameLevel: 1
-Source: (MDR p138)
 Attributes: {}
 ---
 >  [Domaines divins](hd_cleric_domaines_divins.md)

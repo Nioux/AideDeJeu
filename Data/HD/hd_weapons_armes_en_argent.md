@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: weapons_hd.md#armes-en-argent
-ParentLink: weapons_hd.md#armes
 Name: Armes en argent
-ParentName: Armes
-NameLevel: 4
 AltName: Silvered Weapons (SRD p65)
 Source: (MDR p228)
+Id: weapons_hd.md#armes-en-argent
+ParentLink: weapons_hd.md#armes
+ParentName: Armes
+NameLevel: 4
 Attributes: {}
 ---
 > [Armes](hd_weapons.md)

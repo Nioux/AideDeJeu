@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#attaque-dopportunité
-ParentLink: combat_hd.md#combattre
 Name: Attaque d'opportunité
-ParentName: Combattre
-NameLevel: 4
 AltName: Opportunity Attacks (SRD p95)
 Source: (MDR p292)
+Id: combat_hd.md#attaque-dopportunité
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 4
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

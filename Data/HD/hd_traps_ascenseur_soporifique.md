@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Ascenseur soporifique
 Id: traps_hd.md#ascenseur-soporifique
 ParentLink: traps_hd.md#les-pièges
-Name: Ascenseur soporifique
 ParentName: Les pièges
 NameLevel: 4
 Attributes: {}

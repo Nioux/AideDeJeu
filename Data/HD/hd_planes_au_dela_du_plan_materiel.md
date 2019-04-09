@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Au-delà du plan matériel
 Id: planes_hd.md#au-delà-du-plan-matériel
 ParentLink: planes_hd.md#jouer-dans-un-multivers
-Name: Au-delà du plan matériel
 ParentName: Jouer dans un multivers
 NameLevel: 3
 Attributes: {}

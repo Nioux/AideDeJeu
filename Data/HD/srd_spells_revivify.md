@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 3
+Name: Revivify
+AltName: '[Revigorer](hd_spells_revigorer.md)'
 Type: necromancy
+Level: 3
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (diamonds worth 300 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Cleric, Paladin
+Family: SpellVO
+Source: (SRD p175)
 Id: spells_vo.md#revivify
 ParentLink: spells_vo.md#spells-srd-p
-Name: Revivify
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Revigorer](hd_spells_revigorer.md)'
-Source: (SRD p175)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

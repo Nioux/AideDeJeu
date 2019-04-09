@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Hurlement terrifiant
 Id: barbarian_howling_hd.md#hurlement-terrifiant
 ParentLink: barbarian_howling_hd.md#voie-du-hurlement
-Name: Hurlement terrifiant
 ParentName: Voie du hurlement
 NameLevel: 2
 Attributes: {}

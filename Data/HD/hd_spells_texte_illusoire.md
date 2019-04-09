@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 1
+Name: Texte illusoire
+AltName: '[Illusory Script](srd_spells_illusory_script.md)'
 Type: Illusion
-Ritual: rituel
+Level: 1
 CastingTime: 1 minute
 Range: contact
 Components: S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
 Duration: 10 jours
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
+Source: (MDR p)(SRD)
+Ritual: rituel
 Id: spells_hd.md#texte-illusoire
 ParentLink: spells_hd.md#sorts
-Name: Texte illusoire
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Illusory Script](srd_spells_illusory_script.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 8
+Name: Maze
+AltName: '[Labyrinthe](hd_spells_labyrinthe.md)'
 Type: conjuration
+Level: 8
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: Concentration, up to 10 minutes
 Classes: Wizard
+Family: SpellVO
+Source: (SRD p163)
 Id: spells_vo.md#maze
 ParentLink: spells_vo.md#spells-srd-p
-Name: Maze
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Labyrinthe](hd_spells_labyrinthe.md)'
-Source: (SRD p163)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

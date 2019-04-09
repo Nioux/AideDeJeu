@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 6
+Name: Marche sur le vent
+AltName: '[Wind Walk](srd_spells_wind_walk.md)'
 Type: Transmutation
+Level: 6
 CastingTime: 1 minute
 Range: 9 mètres
 Components: V, S, M (du feu et de l'eau bénite)
 Duration: 8 heures
 Classes: '[Druide](hd_druid.md)'
+Family: SpellHD
+Source: (MDR p)(SRD)
 Id: spells_hd.md#marche-sur-le-vent
 ParentLink: spells_hd.md#sorts
-Name: Marche sur le vent
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Wind Walk](srd_spells_wind_walk.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

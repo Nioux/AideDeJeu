@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Fils du sel
+Source: (L5R p50)
 Id: l5r_human_hd.md#fils-du-sel
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
-Name: Fils du sel
 ParentName: Humain des cinq royaumes
 NameLevel: 4
-Source: (L5R p50)
 Attributes: {}
 ---
 > [Humain des cinq royaumes](hd_l5r_human.md)

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sens de la magie
 Id: barbarian_steel_hd.md#sens-de-la-magie
 ParentLink: barbarian_steel_hd.md#voie-de-lacier
-Name: Sens de la magie
 ParentName: Voie de l'acier
 NameLevel: 2
 Attributes: {}

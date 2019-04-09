@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 5
+Name: Animate Objects
+AltName: '[Animation des objets](hd_spells_animation_des_objets.md)'
 Type: transmutation
+Level: 5
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Wizard
+Family: SpellVO
+Source: (SRD p116)
 Id: spells_vo.md#animate-objects
 ParentLink: spells_vo.md#spells-srd-p
-Name: Animate Objects
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Animation des objets](hd_spells_animation_des_objets.md)'
-Source: (SRD p116)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

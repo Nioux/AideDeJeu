@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Printemps
 Id: druid_seasons_hd.md#printemps
 ParentLink: druid_seasons_hd.md#cercle-des-saisons
-Name: Printemps
 ParentName: Cercle des saisons
 NameLevel: 2
 Attributes: {}

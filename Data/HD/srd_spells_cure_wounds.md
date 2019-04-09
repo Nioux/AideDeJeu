@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 1
+Name: Cure Wounds
+AltName: '[Soin des blessures](hd_spells_soin_des_blessures.md)'
 Type: evocation
+Level: 1
 CastingTime: 1 action
 Range: Touch
 Components: V, S
 Duration: Instantaneous
 Classes: Bard, Cleric, Druid, Paladin, Ranger
+Family: SpellVO
+Source: (SRD p132)
 Id: spells_vo.md#cure-wounds
 ParentLink: spells_vo.md#spells-srd-p
-Name: Cure Wounds
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Soin des blessures](hd_spells_soin_des_blessures.md)'
-Source: (SRD p132)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

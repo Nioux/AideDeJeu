@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellHD
-Level: 6
+Name: Cercle de mort
+AltName: '[Circle of Death](srd_spells_circle_of_death.md)'
 Type: Nécromancie
+Level: 6
 CastingTime: 1 action
 Range: 45 mètres
 Components: V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
+Source: (MDR p331)(SRD)
 Id: spells_hd.md#cercle-de-mort
 ParentLink: spells_hd.md#sorts
-Name: Cercle de mort
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Circle of Death](srd_spells_circle_of_death.md)'
-Source: (MDR p331)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

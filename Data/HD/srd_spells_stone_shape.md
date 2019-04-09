@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
-Family: SpellVO
-Level: 4
+Name: Stone Shape
+AltName: '[Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)'
 Type: transmutation
+Level: 4
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)
 Duration: Instantaneous
 Classes: Cleric, Druid, Wizard
+Family: SpellVO
+Source: (SRD p183)
 Id: spells_vo.md#stone-shape
 ParentLink: spells_vo.md#spells-srd-p
-Name: Stone Shape
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)'
-Source: (SRD p183)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

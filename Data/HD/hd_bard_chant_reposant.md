@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Chant reposant
 Id: bard_hd.md#chant-reposant
 ParentLink: bard_hd.md#barde
+Name: Chant reposant
 ParentName: Barde
 NameLevel: 2
 Attributes: {}

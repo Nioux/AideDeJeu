@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#instantanée
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Instantanée
-ParentName: Lancer des sorts
-NameLevel: 4
 AltName: Instantaneous (SRD p102)
 Source: (MDR p308)
+Id: spellcasting_hd.md#instantanée
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 4
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

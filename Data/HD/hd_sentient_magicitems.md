@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: Objets magiques intelligents
+AltName: Sentient Magic Items (SRD p251)
+Source: (CDC p189)
 Id: sentient_magicitems_hd.md#objets-magiques-intelligents
 RootId: sentient_magicitems_hd.md
 ParentLink: index.md
-Name: Objets magiques intelligents
 ParentName: Cadre de campagne
 NameLevel: 1
-AltName: Sentient Magic Items (SRD p251)
-Source: (CDC p189)
 Attributes: {}
 ---
 >  [Cadre de campagne](index.md)

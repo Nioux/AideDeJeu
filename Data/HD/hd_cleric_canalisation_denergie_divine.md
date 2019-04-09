@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Canalisation d'énergie divine
 Id: cleric_hd.md#canalisation-dénergie-divine
 ParentLink: cleric_hd.md#clerc
+Name: Canalisation d'énergie divine
 ParentName: Clerc
 NameLevel: 2
 Attributes: {}

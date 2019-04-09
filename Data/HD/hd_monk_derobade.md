@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Dérobade
 Id: monk_hd.md#dérobade
 ParentLink: monk_hd.md#moine
+Name: Dérobade
 ParentName: Moine
 NameLevel: 2
 Attributes: {}
