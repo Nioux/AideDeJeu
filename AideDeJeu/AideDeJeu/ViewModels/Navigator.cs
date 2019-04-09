@@ -18,7 +18,7 @@ namespace AideDeJeu.ViewModels
     }
     public class Navigator : BaseViewModel, INavigator
     {
-        INavigation Navigation;
+        public INavigation Navigation;
 
         public Navigator(INavigation navigation)
         {

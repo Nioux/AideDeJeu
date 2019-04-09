@@ -55,5 +55,17 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _SubBackground, value);
             }
         }
+        private string _PersonalityTrait = null;
+        public string PersonalityTrait
+        {
+            get
+            {
+                return _PersonalityTrait;
+            }
+            set
+            {
+                SetProperty(ref _PersonalityTrait, value);
+            }
+        }
     }
 }

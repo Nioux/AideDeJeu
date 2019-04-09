@@ -58,7 +58,9 @@
                 <StackLayout HorizontalOptions="FillAndExpand" >
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Description}" />
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Description}" />
-                    <ListView HorizontalOptions="FillAndExpand" ItemsSource="{Binding PersonalityTraits.Result}">
+                    <Button Text="Trait de personnalité" Command="{Binding StringPickerCommand}" CommandParameter="{Binding PersonalityTraits.Result}" />
+                    <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityTrait}" />
+                    <!--<ListView HorizontalOptions="FillAndExpand" ItemsSource="{Binding PersonalityTraits.Result}">
                         <ListView.ItemTemplate>
                             <DataTemplate>
                                 <ViewCell>
@@ -66,7 +68,7 @@
                                 </ViewCell>
                             </DataTemplate>
                         </ListView.ItemTemplate>
-                    </ListView>
+                    </ListView>-->
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Markdown}" />
                 </StackLayout>

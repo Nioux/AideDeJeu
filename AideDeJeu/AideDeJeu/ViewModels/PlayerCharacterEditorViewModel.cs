@@ -3,9 +3,12 @@ using AideDeJeuLib;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
+using Xamarin.Forms;
 
 namespace AideDeJeu.ViewModels
 {
@@ -133,12 +136,12 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _SubBackgroundSelectedIndex, value);
-                if(_SubBackgroundSelectedIndex == 0)
+                if (_SubBackgroundSelectedIndex == 0)
                 {
                     SelectedPlayerCharacter.SubBackground = null;
                     SubBackgroundSelectedIndex = -1;
                 }
-                else if(_SubBackgroundSelectedIndex > 0)
+                else if (_SubBackgroundSelectedIndex > 0)
                 {
                     SelectedPlayerCharacter.SubBackground = SubBackgrounds.Result[_SubBackgroundSelectedIndex];
                 }
@@ -178,12 +181,13 @@ namespace AideDeJeu.ViewModels
                     var table = item.Table;
                     var lines = table.Split('\n');
                     var result = new List<string>();
-                    foreach(var line in lines.Skip(2))
+                    foreach (var line in lines.Skip(2))
                     {
                         if (line.StartsWith("|"))
                         {
                             var cols = line.Split('|');
-                            result.Add(cols[2]);
+                            var text = cols[2].Replace("<!--br-->", " ").Replace("  ", " ");
+                            result.Add(text);
                         }
                     }
                     return result;
@@ -210,6 +214,25 @@ namespace AideDeJeu.ViewModels
             {
                 return new List<SubBackgroundItem>();
             }
+        }
+
+        public ICommand StringPickerCommand
+        {
+            get
+            {
+                return new Command<List<string>>(async (strings) => await ExecuteStringPickerCommandAsync(strings));
+            }
+        }
+
+        private async Task ExecuteStringPickerCommandAsync(List<string> strings)
+        {
+            var picker = new Views.StringPicker();
+            var vm = picker.ViewModel;
+            vm.Items = strings;
+            await Main.Navigator.Navigation.PushModalAsync(picker, true);
+            var result = await vm.PickValueAsync();
+            await Main.Navigator.Navigation.PopModalAsync(true);
+            SelectedPlayerCharacter.PersonalityTrait = result;
         }
         #endregion Background
 
