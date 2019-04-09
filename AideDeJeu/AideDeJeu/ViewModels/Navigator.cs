@@ -36,7 +36,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoAboutPageAsync()
         {
-            await Navigation.PushAsync(new Views.AboutPage());
+            await Navigation.PushAsync(new Views.AboutPage(), true);
         }
 
         private Command _LibraryCommand = null;
@@ -50,7 +50,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoLibraryPageAsync()
         {
-            await Navigation.PushAsync(new Views.ItemDetailPage());
+            await Navigation.PushAsync(new Views.ItemDetailPage(),true);
         }
 
         private Command _BookmarksCommand = null;
@@ -64,7 +64,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoBookmarksPageAsync()
         {
-            await Navigation.PushAsync(new Views.BookmarksPage());
+            await Navigation.PushAsync(new Views.BookmarksPage(), true);
         }
 
 
@@ -80,7 +80,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoPlayerCharacterEditorPageAsync()
         {
-            await Navigation.PushAsync(new Views.PlayerCharacterEditorPage());
+            await Navigation.PushAsync(new Views.PlayerCharacterEditorPage(), true);
         }
 
         private Command _DeepSearchCommand = null;
@@ -94,7 +94,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoDeepSearchPageAsync()
         {
-            await Navigation.PushAsync(new Views.DeepSearchPage());
+            await Navigation.PushAsync(new Views.DeepSearchPage(), true);
         }
 
         private Command _AddToFavoritesCommand = null;
@@ -175,7 +175,7 @@ namespace AideDeJeu.ViewModels
             if (itemsVM == null)
                 return;
 
-            await Navigation.PushAsync(new ItemsPage(itemsVM));
+            await Navigation.PushAsync(new ItemsPage(itemsVM), true);
         }
 
         public async Task GotoFilteredItemsPageAsync(ItemsViewModel itemsVM)
@@ -183,7 +183,7 @@ namespace AideDeJeu.ViewModels
             if (itemsVM == null)
                 return;
 
-            await Navigation.PushAsync(new FilteredItemsPage(itemsVM));
+            await Navigation.PushAsync(new FilteredItemsPage(itemsVM), true);
         }
 
         private ICommand _NavigateToLinkCommand = null;
