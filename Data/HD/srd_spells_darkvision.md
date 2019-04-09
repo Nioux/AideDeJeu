@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Darkvision
+AltName: '[Vision dans le noir](hd_spells_vision_dans_le_noir.md)'
 Type: transmutation
+Level: 2
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (either a pinch of dried carrot or an agate)
 Duration: 8 hours
 Classes: Druid, Ranger, Sorcerer, Wizard
+Source: (SRD p133)
 Id: spells_vo.md#darkvision
 ParentLink: spells_vo.md#spells-srd-p
-Name: Darkvision
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Vision dans le noir](hd_spells_vision_dans_le_noir.md)'
-Source: (SRD p133)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

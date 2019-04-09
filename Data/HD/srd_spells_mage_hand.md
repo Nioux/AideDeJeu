@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: cantrip
+Name: Mage Hand
+AltName: '[Main du mage](hd_spells_main_du_mage.md)'
 Type: Conjuration
+Level: cantrip
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S
 Duration: 1 minute
 Classes: Bard, Sorcerer, Warlock, Wizard
+Source: (SRD p160)
 Id: spells_vo.md#mage-hand
 ParentLink: spells_vo.md#spells-srd-p
-Name: Mage Hand
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Main du mage](hd_spells_main_du_mage.md)'
-Source: (SRD p160)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

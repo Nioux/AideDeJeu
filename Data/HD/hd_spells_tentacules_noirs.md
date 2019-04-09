@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Tentacules noirs
+AltName: '[Black Tentacles](srd_spells_black_tentacles.md)'
 Type: Invocation
+Level: 4
 CastingTime: 1 action
 Range: 27 mètres
 Components: V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p)
 Id: spells_hd.md#tentacules-noirs
 ParentLink: spells_hd.md#sorts
-Name: Tentacules noirs
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Black Tentacles](srd_spells_black_tentacles.md)'
-Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

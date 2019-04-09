@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Bannissement
+AltName: '[Banishment](srd_spells_banishment.md)'
 Type: Abjuration
+Level: 4
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (un objet qui répugne à la cible)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p327)(SRD)
 Id: spells_hd.md#bannissement
 ParentLink: spells_hd.md#sorts
-Name: Bannissement
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Banishment](srd_spells_banishment.md)'
-Source: (MDR p327)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

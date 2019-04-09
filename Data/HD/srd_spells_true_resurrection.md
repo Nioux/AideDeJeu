@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 9
+Name: True Resurrection
+AltName: '[Résurrection suprême](hd_spells_resurrection_supreme.md)'
 Type: necromancy
+Level: 9
 CastingTime: 1 hour
 Range: Touch
 Components: V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Cleric, Druid
+Source: (SRD p189)
 Id: spells_vo.md#true-resurrection
 ParentLink: spells_vo.md#spells-srd-p
-Name: True Resurrection
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Résurrection suprême](hd_spells_resurrection_supreme.md)'
-Source: (SRD p189)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

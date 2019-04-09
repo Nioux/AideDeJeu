@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Vision dans le noir
+AltName: '[Darkvision](srd_spells_darkvision.md)'
 Type: Transmutation
+Level: 2
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (une pincée de carotte séchée ou une agate)
 Duration: 8 heures
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
+Source: (MDR p)(SRD)
 Id: spells_hd.md#vision-dans-le-noir
 ParentLink: spells_hd.md#sorts
-Name: Vision dans le noir
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Darkvision](srd_spells_darkvision.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

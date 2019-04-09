@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 4
+Name: Confusion
+AltName: '[Confusion](hd_spells_confusion.md)'
 Type: enchantment
+Level: 4
 CastingTime: 1 action
 Range: 90 feet
 Components: V, S, M (three nut shells)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Druid, Sorcerer, Wizard
+Source: (SRD p127)
 Id: spells_vo.md#confusion
 ParentLink: spells_vo.md#spells-srd-p
-Name: Confusion
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Confusion](hd_spells_confusion.md)'
-Source: (SRD p127)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

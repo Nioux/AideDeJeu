@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Modify Memory
+AltName: '[Modification de mémoire](hd_spells_modification_de_memoire.md)'
 Type: enchantment
+Level: 5
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard, Wizard
+Source: (SRD p166)
 Id: spells_vo.md#modify-memory
 ParentLink: spells_vo.md#spells-srd-p
-Name: Modify Memory
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Modification de mémoire](hd_spells_modification_de_memoire.md)'
-Source: (SRD p166)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

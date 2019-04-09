@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Création de nourriture et d'eau
+AltName: '[Create Food and Water](srd_spells_create_food_and_water.md)'
 Type: Invocation
+Level: 3
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
+Source: (MDR p344)
 Id: spells_hd.md#création-de-nourriture-et-deau
 ParentLink: spells_hd.md#sorts
-Name: Création de nourriture et d'eau
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Create Food and Water](srd_spells_create_food_and_water.md)'
-Source: (MDR p344)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

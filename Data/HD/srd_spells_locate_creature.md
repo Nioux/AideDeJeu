@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 4
+Name: Locate Creature
+AltName: '[Localiser une créature](hd_spells_localiser_une_creature.md)'
 Type: divination
+Level: 4
 CastingTime: 1 action
 Range: Self
 Components: V, S, M (a bit of fur from a bloodhound)
 Duration: Concentration, up to 1 hour
 Classes: Bard, Cleric, Druid, Paladin, Ranger, Wizard
+Source: (SRD p159)
 Id: spells_vo.md#locate-creature
 ParentLink: spells_vo.md#spells-srd-p
-Name: Locate Creature
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Localiser une créature](hd_spells_localiser_une_creature.md)'
-Source: (SRD p159)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Tree Stride
+AltName: '[Passage par les arbres](hd_spells_passage_par_les_arbres.md)'
 Type: conjuration
+Level: 5
 CastingTime: 1 action
 Range: Self
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Druid, Ranger
+Source: (SRD p188)
 Id: spells_vo.md#tree-stride
 ParentLink: spells_vo.md#spells-srd-p
-Name: Tree Stride
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Passage par les arbres](hd_spells_passage_par_les_arbres.md)'
-Source: (SRD p188)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

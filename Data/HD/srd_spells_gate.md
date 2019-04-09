@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 9
+Name: Gate
+AltName: '[Portail](hd_spells_portail.md)'
 Type: conjuration
+Level: 9
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (a diamond worth at least 5,000 gp)
 Duration: Concentration, up to 1 minute
 Classes: Cleric, Sorcerer, Wizard
+Source: (SRD p148)
 Id: spells_vo.md#gate
 ParentLink: spells_vo.md#spells-srd-p
-Name: Gate
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Portail](hd_spells_portail.md)'
-Source: (SRD p148)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

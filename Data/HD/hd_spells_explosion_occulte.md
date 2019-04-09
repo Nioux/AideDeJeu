@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Explosion occulte
+AltName: '[Eldritch Blast](srd_spells_eldritch_blast.md)'
 Type: Évocation
+Level: tour de magie
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Sorcier](hd_warlock.md)'
+Source: (MDR p354)(SRD)
 Id: spells_hd.md#explosion-occulte
 ParentLink: spells_hd.md#sorts
-Name: Explosion occulte
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Eldritch Blast](srd_spells_eldritch_blast.md)'
-Source: (MDR p354)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

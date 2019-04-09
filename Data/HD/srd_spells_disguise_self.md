@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Disguise Self
+AltName: '[Déguisement](hd_spells_deguisement.md)'
 Type: illusion
+Level: 1
 CastingTime: 1 action
 Range: Self
 Components: V, S
 Duration: 1 hour
 Classes: Bard, Sorcerer, Wizard
+Source: (SRD p135)
 Id: spells_vo.md#disguise-self
 ParentLink: spells_vo.md#spells-srd-p
-Name: Disguise Self
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Déguisement](hd_spells_deguisement.md)'
-Source: (SRD p135)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

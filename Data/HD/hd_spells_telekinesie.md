@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Télékinésie
+AltName: '[Telekinesis](srd_spells_telekinesis.md)'
 Type: Transmutation
+Level: 5
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
 Id: spells_hd.md#télékinésie
 ParentLink: spells_hd.md#sorts
-Name: Télékinésie
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Telekinesis](srd_spells_telekinesis.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

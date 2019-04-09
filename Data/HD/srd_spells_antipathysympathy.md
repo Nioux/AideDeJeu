@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 8
+Name: Antipathy/Sympathy
+AltName: '[Répulsion/attirance](hd_spells_repulsionattirance.md)'
 Type: enchantment
+Level: 8
 CastingTime: 1 hour
 Range: 60 feet
 Components: V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)
 Duration: 10 days
 Classes: Druid, Wizard
+Source: (SRD p117)
 Id: spells_vo.md#antipathysympathy
 ParentLink: spells_vo.md#spells-srd-p
-Name: Antipathy/Sympathy
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Répulsion/attirance](hd_spells_repulsionattirance.md)'
-Source: (SRD p117)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

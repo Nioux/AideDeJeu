@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Dispel Evil and Good
+AltName: '[Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)'
 Type: abjuration
+Level: 5
 CastingTime: 1 action
 Range: Self
 Components: V, S, M (holy water or powdered silver and iron)
 Duration: Concentration, up to 1 minute
 Classes: Cleric, Paladin
+Source: (SRD p136)
 Id: spells_vo.md#dispel-evil-and-good
 ParentLink: spells_vo.md#spells-srd-p
-Name: Dispel Evil and Good
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)'
-Source: (SRD p136)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

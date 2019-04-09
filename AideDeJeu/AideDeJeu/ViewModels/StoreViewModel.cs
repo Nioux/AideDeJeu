@@ -55,7 +55,10 @@ namespace AideDeJeu.ViewModels
         public Item ParseItem(string source, ref ContainerBlock.Enumerator enumerator, Dictionary<string, Item> allItems)
         {
             var currentItem = GetNewItem(enumerator.Current);
+            currentItem.Markdown = string.Empty;
             PropertyInfo currentProp = null;
+            Dictionary<string, PropertyInfo> currentProps = new Dictionary<string, PropertyInfo>();
+            currentProps["Markdown"] = currentItem.GetType().GetProperty("Markdown", BindingFlags.Public | BindingFlags.Instance);
 
             if (currentItem != null)
             {
@@ -134,46 +137,50 @@ namespace AideDeJeu.ViewModels
                                     {
                                         prop.SetValue(currentItem, "", null);
                                         currentProp = prop;
+                                        currentProps[parsedComment.Name] = prop;
                                     }
                                     enumerator.MoveNext();
                                 }
                                 else
                                 {
                                     currentProp = null;
+                                    currentProps.Remove(parsedComment.Name);
                                     enumerator.MoveNext();
                                 }
                             }
                             else // comment html différent de item et property
                             {
-                                var md = enumerator.Current.ToMarkdownString();
-                                currentItem.Markdown += md;
-                                if (currentProp != null)
-                                {
-                                    currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
-                                }
+                                AddBlockContent(currentItem, currentProps, enumerator.Current);
+                                //currentItem.Markdown += md;
+                                //if (currentProp != null)
+                                //{
+                                //    currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
+                                //}
                                 enumerator.MoveNext();
                             }
                         }
                         else // autre chose qu'un comment html
                         {
-                            var md = enumerator.Current.ToMarkdownString();
-                            currentItem.Markdown += md;
-                            if (currentProp != null)
-                            {
-                                currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
-                            }
+                            AddBlockContent(currentItem, currentProps, enumerator.Current);
+                            //var md = enumerator.Current.ToMarkdownString();
+                            //currentItem.Markdown += md;
+                            //if (currentProp != null)
+                            //{
+                            //    currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
+                            //}
                             enumerator.MoveNext();
                         }
                     }
                     else // autre chose qu'un block html
                     {
                         ParseItemProperties(source, currentItem, block);
-                        var md = enumerator.Current.ToMarkdownString();
-                        currentItem.Markdown += md;
-                        if (currentProp != null)
-                        {
-                            currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
-                        }
+                        AddBlockContent(currentItem, currentProps, enumerator.Current);
+                        //var md = enumerator.Current.ToMarkdownString();
+                        //currentItem.Markdown += md;
+                        //if (currentProp != null)
+                        //{
+                        //    currentProp.SetValue(currentItem, currentProp.GetValue(currentItem) + md, null);
+                        //}
                         enumerator.MoveNext();
                     }
                 }
@@ -186,6 +193,17 @@ namespace AideDeJeu.ViewModels
 
             return currentItem;
         }
+
+        void AddBlockContent(Item currentItem, Dictionary<string, PropertyInfo> props, Block block)
+        {
+            var md = block.ToMarkdownString();
+            foreach (var propkv in props)
+            {
+                var prop = propkv.Value;
+                prop.SetValue(currentItem, prop.GetValue(currentItem) + md, null);
+            }
+        }
+
 
         public bool ParseItemProperties(string source, Item item, Block block)
         {

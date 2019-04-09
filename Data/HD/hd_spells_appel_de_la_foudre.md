@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Appel de la foudre
+AltName: '[Call Lightning](srd_spells_call_lightning.md)'
 Type: Invocation
+Level: 3
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Druide](hd_druid.md)'
+Source: (MDR p324)(SRD)
 Id: spells_hd.md#appel-de-la-foudre
 ParentLink: spells_hd.md#sorts
-Name: Appel de la foudre
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Call Lightning](srd_spells_call_lightning.md)'
-Source: (MDR p324)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

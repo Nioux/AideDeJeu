@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Rayon de givre
+AltName: '[Ray of Frost](srd_spells_ray_of_frost.md)'
 Type: Évocation
+Level: tour de magie
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
 Id: spells_hd.md#rayon-de-givre
 ParentLink: spells_hd.md#sorts
-Name: Rayon de givre
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Ray of Frost](srd_spells_ray_of_frost.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Message
+AltName: '[Message](srd_spells_message.md)'
 Type: Transmutation
+Level: tour de magie
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S, M (un petit bout de fil de cuivre)
 Duration: 1 round
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+Source: (MDR p)(SRD)
 Id: spells_hd.md#message
 ParentLink: spells_hd.md#sorts
-Name: Message
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Message](srd_spells_message.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Nimbe de bienfaisance
 Type: Abjuration
+Level: 4
 CastingTime: 1 action
 Range: personnelle
 Components: V
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Paladin](hd_paladin.md)'
+Source: (MDR p)
 Id: spells_hd.md#nimbe-de-bienfaisance
 ParentLink: spells_hd.md#sorts
-Name: Nimbe de bienfaisance
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

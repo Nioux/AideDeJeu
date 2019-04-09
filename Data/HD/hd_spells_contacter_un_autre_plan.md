@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Contacter un autre plan
+AltName: '[Contact Other Plane](srd_spells_contact_other_plane.md)'
 Type: Divination
-Ritual: rituel
+Level: 5
 CastingTime: 1 minute
 Range: personnelle
 Components: V
 Duration: 1 minute
 Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p339)(SRD)
+Ritual: rituel
 Id: spells_hd.md#contacter-un-autre-plan
 ParentLink: spells_hd.md#sorts
-Name: Contacter un autre plan
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Contact Other Plane](srd_spells_contact_other_plane.md)'
-Source: (MDR p339)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

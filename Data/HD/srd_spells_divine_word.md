@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 7
+Name: Divine Word
+AltName: '[Parole divine](hd_spells_parole_divine.md)'
 Type: evocation
+Level: 7
 CastingTime: 1 bonus action
 Range: 30 feet
 Components: V
 Duration: Instantaneous
 Classes: Cleric
+Source: (SRD p137)
 Id: spells_vo.md#divine-word
 ParentLink: spells_vo.md#spells-srd-p
-Name: Divine Word
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Parole divine](hd_spells_parole_divine.md)'
-Source: (SRD p137)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

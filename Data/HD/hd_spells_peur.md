@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Peur
+AltName: '[Fear](srd_spells_fear.md)'
 Type: Illusion
+Level: 3
 CastingTime: 1 action
 Range: personnelle (cône de 9 mètres)
 Components: V, S, M (une plume blanche ou un coeur de poule)
 Duration: concentration, jusqu'à 1 minute.
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p)(SRD)
 Id: spells_hd.md#peur
 ParentLink: spells_hd.md#sorts
-Name: Peur
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Fear](srd_spells_fear.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

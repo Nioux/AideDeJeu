@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Compulsion
+AltName: '[Compulsion](srd_spells_compulsion.md)'
 Type: Enchantement
+Level: 4
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+Source: (MDR p338)(SRD)
 Id: spells_hd.md#compulsion
 ParentLink: spells_hd.md#sorts
-Name: Compulsion
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Compulsion](srd_spells_compulsion.md)'
-Source: (MDR p338)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

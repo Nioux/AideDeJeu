@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Image miroir
+AltName: '[Mirror Image](srd_spells_mirror_image.md)'
 Type: Illusion
+Level: 2
 CastingTime: 1 action
 Range: personnelle
 Components: V, S
 Duration: 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p)(SRD)
 Id: spells_hd.md#image-miroir
 ParentLink: spells_hd.md#sorts
-Name: Image miroir
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Mirror Image](srd_spells_mirror_image.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

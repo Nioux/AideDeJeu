@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Chien de garde
+AltName: '[Faithful Hound](srd_spells_faithful_hound.md)'
 Type: Invocation
+Level: 4
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)
 Duration: 8 heures
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p334)
 Id: spells_hd.md#chien-de-garde
 ParentLink: spells_hd.md#sorts
-Name: Chien de garde
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Faithful Hound](srd_spells_faithful_hound.md)'
-Source: (MDR p334)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

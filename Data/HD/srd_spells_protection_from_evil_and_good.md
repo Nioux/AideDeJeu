@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Protection from Evil and Good
+AltName: '[Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)'
 Type: abjuration
+Level: 1
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (holy water or powdered silver and iron, which the spell consumes)
 Duration: Concentration, up to 10 minutes
 Classes: Cleric, Paladin, Warlock, Wizard
+Source: (SRD p173)
 Id: spells_vo.md#protection-from-evil-and-good
 ParentLink: spells_vo.md#spells-srd-p
-Name: Protection from Evil and Good
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)'
-Source: (SRD p173)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

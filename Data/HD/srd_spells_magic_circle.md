@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Magic Circle
+AltName: '[Cercle magique](hd_spells_cercle_magique.md)'
 Type: abjuration
+Level: 3
 CastingTime: 1 minute
 Range: 10 feet
 Components: V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)
 Duration: 1 hour
 Classes: Cleric, Paladin, Warlock, Wizard
+Source: (SRD p160)
 Id: spells_vo.md#magic-circle
 ParentLink: spells_vo.md#spells-srd-p
-Name: Magic Circle
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Cercle magique](hd_spells_cercle_magique.md)'
-Source: (SRD p160)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 9
+Name: Mot de pouvoir mortel
+AltName: '[Power Word Kill](srd_spells_power_word_kill.md)'
 Type: Enchantement
+Level: 9
 CastingTime: 1 action
 Range: 18 mètres
 Components: V
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p)(SRD)
 Id: spells_hd.md#mot-de-pouvoir-mortel
 ParentLink: spells_hd.md#sorts
-Name: Mot de pouvoir mortel
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Power Word Kill](srd_spells_power_word_kill.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

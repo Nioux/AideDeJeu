@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Color Spray
+AltName: '[Couleurs dansantes](hd_spells_couleurs_dansantes.md)'
 Type: illusion
+Level: 1
 CastingTime: 1 action
 Range: Self (15-foot cone)
 Components: V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)
 Duration: 1 round
 Classes: Sorcerer, Wizard
+Source: (SRD p125)
 Id: spells_vo.md#color-spray
 ParentLink: spells_vo.md#spells-srd-p
-Name: Color Spray
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Couleurs dansantes](hd_spells_couleurs_dansantes.md)'
-Source: (SRD p125)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

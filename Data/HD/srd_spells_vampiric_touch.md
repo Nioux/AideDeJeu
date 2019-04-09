@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Vampiric Touch
+AltName: '[Caresse du vampire](hd_spells_caresse_du_vampire.md)'
 Type: necromancy
+Level: 3
 CastingTime: 1 action
 Range: Self
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Warlock, Wizard
+Source: (SRD p189)
 Id: spells_vo.md#vampiric-touch
 ParentLink: spells_vo.md#spells-srd-p
-Name: Vampiric Touch
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Caresse du vampire](hd_spells_caresse_du_vampire.md)'
-Source: (SRD p189)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

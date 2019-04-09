@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Vitalité
 Type: Évocation
+Level: 3
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S
 Duration: 1 minute
 Classes: '[Paladin](hd_paladin.md)'
+Source: (MDR p)
 Id: spells_hd.md#vitalité
 ParentLink: spells_hd.md#sorts
-Name: Vitalité
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

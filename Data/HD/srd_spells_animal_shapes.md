@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 8
+Name: Animal Shapes
+AltName: '[Formes animales](hd_spells_formes_animales.md)'
 Type: transmutation
+Level: 8
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S
 Duration: Concentration, up to 24 hours
 Classes: Druid
+Source: (SRD p115)
 Id: spells_vo.md#animal-shapes
 ParentLink: spells_vo.md#spells-srd-p
-Name: Animal Shapes
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Formes animales](hd_spells_formes_animales.md)'
-Source: (SRD p115)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

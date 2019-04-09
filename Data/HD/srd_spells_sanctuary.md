@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Sanctuary
+AltName: '[Sanctuaire](hd_spells_sanctuaire.md)'
 Type: abjuration
+Level: 1
 CastingTime: 1 bonus action
 Range: 30 feet
 Components: V, S, M (a small silver mirror)
 Duration: 1 minute
 Classes: Cleric
+Source: (SRD p176)
 Id: spells_vo.md#sanctuary
 ParentLink: spells_vo.md#spells-srd-p
-Name: Sanctuary
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Sanctuaire](hd_spells_sanctuaire.md)'
-Source: (SRD p176)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

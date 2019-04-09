@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Protection from Energy
+AltName: '[Protection contre les énergies](hd_spells_protection_contre_les_energies.md)'
 Type: abjuration
+Level: 3
 CastingTime: 1 action
 Range: Touch
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Cleric, Druid, Ranger, Sorcerer, Wizard
+Source: (SRD p173)
 Id: spells_vo.md#protection-from-energy
 ParentLink: spells_vo.md#spells-srd-p
-Name: Protection from Energy
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Protection contre les énergies](hd_spells_protection_contre_les_energies.md)'
-Source: (SRD p173)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

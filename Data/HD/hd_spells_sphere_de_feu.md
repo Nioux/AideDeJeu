@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Sphère de feu
+AltName: '[Flaming Sphere](srd_spells_flaming_sphere.md)'
 Type: Invocation
+Level: 2
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
 Id: spells_hd.md#sphère-de-feu
 ParentLink: spells_hd.md#sorts
-Name: Sphère de feu
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Flaming Sphere](srd_spells_flaming_sphere.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

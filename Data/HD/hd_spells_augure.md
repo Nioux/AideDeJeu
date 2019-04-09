@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Augure
+AltName: '[Augury](srd_spells_augury.md)'
 Type: Divination
+Level: 2
 CastingTime: 1 minute
 Range: personnelle
 Components: V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Source: (MDR p325)(SRD)
 Id: spells_hd.md#augure
 ParentLink: spells_hd.md#sorts
-Name: Augure
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Augury](srd_spells_augury.md)'
-Source: (MDR p325)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

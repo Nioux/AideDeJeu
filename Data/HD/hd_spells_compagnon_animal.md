@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Compagnon animal
 Type: Enchantement
+Level: 2
 CastingTime: 1 minute
 Range: 12 mètres
 Components: V, S, M (un peu de nourriture adaptée à l'animal)
 Duration: 24 heures
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Source: (MDR p337)
 Id: spells_hd.md#compagnon-animal
 ParentLink: spells_hd.md#sorts
-Name: Compagnon animal
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p337)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

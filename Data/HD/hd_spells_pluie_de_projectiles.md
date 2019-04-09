@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Pluie de projectiles
 Type: Invocation
+Level: 3
 CastingTime: 1 action bonus
 Range: selon l'arme utilisée
 Components: V, S, M (un projectile)
 Duration: instantané
 Classes: '[Rôdeur](hd_ranger.md)'
+Source: (MDR p)
 Id: spells_hd.md#pluie-de-projectiles
 ParentLink: spells_hd.md#sorts
-Name: Pluie de projectiles
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

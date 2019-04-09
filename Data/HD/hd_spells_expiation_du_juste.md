@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Expiation du juste
 Type: Évocation
+Level: 4
 CastingTime: 1 action bonus
 Range: personnelle
 Components: V
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Paladin](hd_paladin.md)'
+Source: (MDR p354)
 Id: spells_hd.md#expiation-du-juste
 ParentLink: spells_hd.md#sorts
-Name: Expiation du juste
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p354)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

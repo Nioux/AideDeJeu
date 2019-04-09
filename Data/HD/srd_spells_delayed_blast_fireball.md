@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 7
+Name: Delayed Blast Fireball
+AltName: '[Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)'
 Type: evocation
+Level: 7
 CastingTime: 1 action
 Range: 150 feet
 Components: V, S, M (a tiny ball of bat guano and sulfur)
 Duration: Concentration, up to 1 minute
 Classes: Sorcerer, Wizard
+Source: (SRD p133)
 Id: spells_vo.md#delayed-blast-fireball
 ParentLink: spells_vo.md#spells-srd-p
-Name: Delayed Blast Fireball
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)'
-Source: (SRD p133)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

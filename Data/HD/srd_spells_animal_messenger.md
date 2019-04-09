@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Animal Messenger
+AltName: '[Messager animal](hd_spells_messager_animal.md)'
 Type: enchantment
-Ritual: ritual
+Level: 2
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S, M (a morsel of food)
 Duration: 24 hours
 Classes: Bard, Druid, Ranger
+Source: (SRD p115)
+Ritual: ritual
 Id: spells_vo.md#animal-messenger
 ParentLink: spells_vo.md#spells-srd-p
-Name: Animal Messenger
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Messager animal](hd_spells_messager_animal.md)'
-Source: (SRD p115)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

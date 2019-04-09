@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 8
+Name: Mot de pouvoir étourdissant
+AltName: '[Power Word Stun](srd_spells_power_word_stun.md)'
 Type: Enchantement
+Level: 8
 CastingTime: 1 action
 Range: 18 mètres
 Components: V
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p)(SRD)
 Id: spells_hd.md#mot-de-pouvoir-étourdissant
 ParentLink: spells_hd.md#sorts
-Name: Mot de pouvoir étourdissant
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Power Word Stun](srd_spells_power_word_stun.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

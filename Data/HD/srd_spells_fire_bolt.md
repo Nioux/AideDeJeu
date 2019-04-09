@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: cantrip
+Name: Fire Bolt
+AltName: '[Trait de feu](hd_spells_trait_de_feu.md)'
 Type: Evocation
+Level: cantrip
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Source: (SRD p144)
 Id: spells_vo.md#fire-bolt
 ParentLink: spells_vo.md#spells-srd-p
-Name: Fire Bolt
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Trait de feu](hd_spells_trait_de_feu.md)'
-Source: (SRD p144)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

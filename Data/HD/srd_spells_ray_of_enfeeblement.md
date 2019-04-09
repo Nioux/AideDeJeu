@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Ray of Enfeeblement
+AltName: '[Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)'
 Type: necromancy
+Level: 2
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Warlock, Wizard
+Source: (SRD p174)
 Id: spells_vo.md#ray-of-enfeeblement
 ParentLink: spells_vo.md#spells-srd-p
-Name: Ray of Enfeeblement
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)'
-Source: (SRD p174)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

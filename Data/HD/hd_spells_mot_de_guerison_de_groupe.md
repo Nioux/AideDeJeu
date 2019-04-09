@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Mot de guérison de groupe
+AltName: '[Mass Healing Word](srd_spells_mass_healing_word.md)'
 Type: Évocation
+Level: 3
 CastingTime: 1 action bonus
 Range: 18 mètres
 Components: V
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Source: (MDR p)(SRD)
 Id: spells_hd.md#mot-de-guérison-de-groupe
 ParentLink: spells_hd.md#sorts
-Name: Mot de guérison de groupe
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Mass Healing Word](srd_spells_mass_healing_word.md)'
-Source: (MDR p)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

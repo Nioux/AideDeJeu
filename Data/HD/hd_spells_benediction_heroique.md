@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Bénédiction héroïque
 Type: Divination
+Level: 3
 CastingTime: 1 action
 Range: 18 mètres
 Components: V
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Paladin](hd_paladin.md)'
+Source: (MDR p327)
 Id: spells_hd.md#bénédiction-héroïque
 ParentLink: spells_hd.md#sorts
-Name: Bénédiction héroïque
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p327)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 7
+Name: Forcecage
+AltName: '[Cage de force](hd_spells_cage_de_force.md)'
 Type: evocation
+Level: 7
 CastingTime: 1 action
 Range: 100 feet
 Components: V, S, M (ruby dust worth 1,500 gp)
 Duration: 1 hour
 Classes: Bard, Warlock, Wizard
+Source: (SRD p147)
 Id: spells_vo.md#forcecage
 ParentLink: spells_vo.md#spells-srd-p
-Name: Forcecage
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Cage de force](hd_spells_cage_de_force.md)'
-Source: (SRD p147)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

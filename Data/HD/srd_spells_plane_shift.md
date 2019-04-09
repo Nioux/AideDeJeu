@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 7
+Name: Plane Shift
+AltName: '[Changement de plan](hd_spells_changement_de_plan.md)'
 Type: conjuration
+Level: 7
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)
 Duration: Instantaneous
 Classes: Cleric, Druid, Sorcerer, Warlock, Wizard
+Source: (SRD p168)
 Id: spells_vo.md#plane-shift
 ParentLink: spells_vo.md#spells-srd-p
-Name: Plane Shift
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Changement de plan](hd_spells_changement_de_plan.md)'
-Source: (SRD p168)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

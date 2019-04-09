@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 4
+Name: Wall of Fire
+AltName: '[Mur de feu](hd_spells_mur_de_feu.md)'
 Type: evocation
+Level: 4
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S, M (a small piece of phosphorus)
 Duration: Concentration, up to 1 minute
 Classes: Druid, Sorcerer, Wizard
+Source: (SRD p190)
 Id: spells_vo.md#wall-of-fire
 ParentLink: spells_vo.md#spells-srd-p
-Name: Wall of Fire
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Mur de feu](hd_spells_mur_de_feu.md)'
-Source: (SRD p190)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

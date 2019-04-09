@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 8
+Name: Dominate Monster
+AltName: '[Dominer un monstre](hd_spells_dominer_un_monstre.md)'
 Type: enchantment
+Level: 8
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Bard, Sorcerer, Warlock, Wizard
+Source: (SRD p137)
 Id: spells_vo.md#dominate-monster
 ParentLink: spells_vo.md#spells-srd-p
-Name: Dominate Monster
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Dominer un monstre](hd_spells_dominer_un_monstre.md)'
-Source: (SRD p137)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

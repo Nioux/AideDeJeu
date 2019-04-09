@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 6
+Name: Passage dimensionnel
 Type: Invocation
+Level: 6
 CastingTime: 1 action
 Range: 150 mètres
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p)
 Id: spells_hd.md#passage-dimensionnel
 ParentLink: spells_hd.md#sorts
-Name: Passage dimensionnel
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 7
+Name: Symbol
+AltName: '[Symbole](hd_spells_symbole.md)'
 Type: abjuration
+Level: 7
 CastingTime: 1 minute
 Range: Touch
 Components: V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)
 Duration: Until dispelled or triggered
 Classes: Bard, Cleric, Wizard
+Source: (SRD p184)
 Id: spells_vo.md#symbol
 ParentLink: spells_vo.md#spells-srd-p
-Name: Symbol
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Symbole](hd_spells_symbole.md)'
-Source: (SRD p184)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

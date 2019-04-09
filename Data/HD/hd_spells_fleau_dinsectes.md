@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Fléau d'insectes
+AltName: '[Insect Plague](srd_spells_insect_plague.md)'
 Type: Invocation
+Level: 5
 CastingTime: 1 action
 Range: 90 mètres
 Components: V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
+Source: (MDR p356)
 Id: spells_hd.md#fléau-dinsectes
 ParentLink: spells_hd.md#sorts
-Name: Fléau d'insectes
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Insect Plague](srd_spells_insect_plague.md)'
-Source: (MDR p356)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

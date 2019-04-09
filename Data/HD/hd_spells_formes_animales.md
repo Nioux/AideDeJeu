@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 8
+Name: Formes animales
+AltName: '[Animal Shapes](srd_spells_animal_shapes.md)'
 Type: Transmutation
+Level: 8
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S
 Duration: concentration, jusqu'à 24 heures
 Classes: '[Druide](hd_druid.md)'
+Source: (MDR p357)(SRD)
 Id: spells_hd.md#formes-animales
 ParentLink: spells_hd.md#sorts
-Name: Formes animales
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Animal Shapes](srd_spells_animal_shapes.md)'
-Source: (MDR p357)(SRD)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

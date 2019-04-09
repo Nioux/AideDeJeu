@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Continual Flame
+AltName: '[Flamme éternelle](hd_spells_flamme_eternelle.md)'
 Type: evocation
+Level: 2
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (ruby dust worth 50 gp, which the spell consumes)
 Duration: Until dispelled
 Classes: Cleric, Wizard
+Source: (SRD p130)
 Id: spells_vo.md#continual-flame
 ParentLink: spells_vo.md#spells-srd-p
-Name: Continual Flame
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Flamme éternelle](hd_spells_flamme_eternelle.md)'
-Source: (SRD p130)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

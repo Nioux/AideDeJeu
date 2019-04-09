@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: cantrip
+Name: Shocking Grasp
+AltName: '[Poigne électrique](hd_spells_poigne_electrique.md)'
 Type: Evocation
+Level: cantrip
 CastingTime: 1 action
 Range: Touch
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Source: (SRD p179)
 Id: spells_vo.md#shocking-grasp
 ParentLink: spells_vo.md#spells-srd-p
-Name: Shocking Grasp
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Poigne électrique](hd_spells_poigne_electrique.md)'
-Source: (SRD p179)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 6
+Name: Chaîne d'éclairs
+AltName: '[Chain Lightning](srd_spells_chain_lightning.md)'
 Type: Évocation
+Level: 6
 CastingTime: 1 action
 Range: 450 mètres
 Components: V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p332)
 Id: spells_hd.md#chaîne-déclairs
 ParentLink: spells_hd.md#sorts
-Name: Chaîne d'éclairs
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Chain Lightning](srd_spells_chain_lightning.md)'
-Source: (MDR p332)
 Attributes: {}
 ---
 > [Sorts](hd_spells.md)

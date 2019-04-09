@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Shatter
+AltName: '[Briser](hd_spells_briser.md)'
 Type: evocation
+Level: 2
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (a chip of mica)
 Duration: Instantaneous
 Classes: Bard, Sorcerer, Warlock, Wizard
+Source: (SRD p178)
 Id: spells_vo.md#shatter
 ParentLink: spells_vo.md#spells-srd-p
-Name: Shatter
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Briser](hd_spells_briser.md)'
-Source: (SRD p178)
 Attributes: {}
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -57,6 +57,7 @@
             <ScrollView Orientation="Vertical">
                 <StackLayout>
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Description}" />
+                    <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Description}" />
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
                     <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Markdown}" />
                 </StackLayout>
