@@ -91,7 +91,10 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _AlignmentSelectedIndex, value);
-                SelectedPlayerCharacter.Alignment = Alignments.Result[_AlignmentSelectedIndex];
+                if (0 <= _AlignmentSelectedIndex && _AlignmentSelectedIndex < Alignments.Result.Count)
+                {
+                    SelectedPlayerCharacter.Alignment = Alignments.Result[_AlignmentSelectedIndex];
+                }
             }
         }
 
