@@ -24,6 +24,7 @@ namespace AideDeJeu.ViewModels
             PersonalityIdeals = new NotifyTaskCompletion<List<string>>(null);
             PersonalityLinks = new NotifyTaskCompletion<List<string>>(null);
             PersonalityDefects = new NotifyTaskCompletion<List<string>>(null);
+            BackgroundSpecialties = new NotifyTaskCompletion<List<string>>(null);
         }
 
         #region Selected PC
@@ -42,32 +43,6 @@ namespace AideDeJeu.ViewModels
         #endregion Selected PC
 
         #region Alignment
-        /*private List<string> _AllAllignments = new List<string>()
-            {
-                "Loyal Bon (LB)",
-                "Neutre Bon (NB)",
-                "Chaotique Bon (CB)",
-                "Loyal Neutre (LN)",
-                "Neutre (N)",
-                "Chaotique Neutre (CN)",
-                "Loyal Mauvais (LM)",
-                "Neutre Mauvais (NM)",
-                "Chaotique Mauvais (CM)"
-            };
-        
-        private List<string> _Alignments = null;
-        public List<string> Alignments
-        {
-            get
-            {
-                return _Alignments;
-            }
-            set
-            {
-                SetProperty(ref _Alignments, value);
-            }
-        }*/
-
         private NotifyTaskCompletion<List<AlignmentItem>> _Alignments = null;
         public NotifyTaskCompletion<List<AlignmentItem>> Alignments
         {
@@ -206,18 +181,26 @@ namespace AideDeJeu.ViewModels
             {
                 SetProperty(ref _BackgroundSelectedIndex, value);
                 SelectedPlayerCharacter.Background = Backgrounds.Result[_BackgroundSelectedIndex];
-                SubBackgrounds = new NotifyTaskCompletion<List<SubBackgroundItem>>(Task.Run(() => LoadSubBackgroundsAsync(SelectedPlayerCharacter.Background)));
-                PersonalityTraits = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityTraitsAsync(SelectedPlayerCharacter.Background)));
-                PersonalityIdeals = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityIdealsAsync(SelectedPlayerCharacter.Background)));
-                PersonalityLinks = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityLinksAsync(SelectedPlayerCharacter.Background)));
-                PersonalityDefects = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityDefectsAsync(SelectedPlayerCharacter.Background)));
-                SelectedPlayerCharacter.SubBackground = null;
-                SelectedPlayerCharacter.PersonalityTrait = null;
-                SelectedPlayerCharacter.PersonalityIdeal = null;
-                SelectedPlayerCharacter.PersonalityLink = null;
-                SelectedPlayerCharacter.PersonalityDefect = null;
-                ResetAlignments();
+                SelectedBackgroundChanged();
             }
+        }
+
+        private void SelectedBackgroundChanged()
+        {
+            SubBackgrounds = new NotifyTaskCompletion<List<SubBackgroundItem>>(Task.Run(() => LoadSubBackgroundsAsync(SelectedPlayerCharacter.Background)));
+            PersonalityTraits = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityTraitsAsync(SelectedPlayerCharacter.Background)));
+            PersonalityIdeals = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityIdealsAsync(SelectedPlayerCharacter.Background)));
+            PersonalityLinks = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityLinksAsync(SelectedPlayerCharacter.Background)));
+            PersonalityDefects = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityDefectsAsync(SelectedPlayerCharacter.Background)));
+            BackgroundSpecialties = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadBackgroundsSpecialtiesAsync(SelectedPlayerCharacter.Background)));
+            Task.Run(async () => SelectedPlayerCharacter.BackgroundSkill = await LoadSkillAsync(SelectedPlayerCharacter.Background));
+            SelectedPlayerCharacter.SubBackground = null;
+            SelectedPlayerCharacter.PersonalityTrait = null;
+            SelectedPlayerCharacter.PersonalityIdeal = null;
+            SelectedPlayerCharacter.PersonalityLink = null;
+            SelectedPlayerCharacter.PersonalityDefect = null;
+            SelectedPlayerCharacter.BackgroundSpecialty = null;
+            ResetAlignments();
         }
 
         private NotifyTaskCompletion<List<SubBackgroundItem>> _SubBackgrounds = null;
@@ -252,7 +235,14 @@ namespace AideDeJeu.ViewModels
                 {
                     SelectedPlayerCharacter.SubBackground = SubBackgrounds.Result[_SubBackgroundSelectedIndex];
                 }
+                SelectedSubBackgroundChanged();
             }
+        }
+
+        private void SelectedSubBackgroundChanged()
+        {
+            SubBackgroundSpecialties = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadBackgroundsSpecialtiesAsync(SelectedPlayerCharacter.SubBackground)));
+            Task.Run(async () => SelectedPlayerCharacter.SubBackgroundSkill = await LoadSkillAsync(SelectedPlayerCharacter.SubBackground));
         }
 
         private NotifyTaskCompletion<List<string>> _PersonalityTraits = null;
@@ -301,6 +291,30 @@ namespace AideDeJeu.ViewModels
             private set
             {
                 SetProperty(ref _PersonalityDefects, value);
+            }
+        }
+        private NotifyTaskCompletion<List<string>> _BackgroundSpecialties = null;
+        public NotifyTaskCompletion<List<string>> BackgroundSpecialties
+        {
+            get
+            {
+                return _BackgroundSpecialties;
+            }
+            private set
+            {
+                SetProperty(ref _BackgroundSpecialties, value);
+            }
+        }
+        private NotifyTaskCompletion<List<string>> _SubBackgroundSpecialties = null;
+        public NotifyTaskCompletion<List<string>> SubBackgroundSpecialties
+        {
+            get
+            {
+                return _SubBackgroundSpecialties;
+            }
+            private set
+            {
+                SetProperty(ref _SubBackgroundSpecialties, value);
             }
         }
 
@@ -393,6 +407,40 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public async Task<List<string>> LoadBackgroundsSpecialtiesAsync(BackgroundItem background)
+        {
+            if (background != null)
+            {
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
+                {
+                    var list = await context.BackgroundSpecialties.Where(it => it.ParentLink == background.Id).ToListAsync().ConfigureAwait(false);
+                    var item = list.FirstOrDefault();
+                    return item == null ? null : ExtractSimpleTable(item.Table);
+                }
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+        public async Task<SkillItem> LoadSkillAsync(BackgroundItem background)
+        {
+            if (background != null)
+            {
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
+                {
+                    var list = await context.Skills.Where(it => it.ParentLink == background.Id).ToListAsync().ConfigureAwait(false);
+                    var item = list.FirstOrDefault();
+                    return item;
+                }
+            }
+            else
+            {
+                return null;
+            }
+        }
+
         public async Task<List<SubBackgroundItem>> LoadSubBackgroundsAsync(BackgroundItem background)
         {
             if (background != null)
@@ -410,6 +458,20 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public ICommand BackgroundSpecialtyPickerCommand
+        {
+            get
+            {
+                return new Command<List<string>>(async (strings) => SelectedPlayerCharacter.BackgroundSpecialty = await ExecuteStringPickerCommandAsync(strings));
+            }
+        }
+        public ICommand SubBackgroundSpecialtyPickerCommand
+        {
+            get
+            {
+                return new Command<List<string>>(async (strings) => SelectedPlayerCharacter.SubBackgroundSpecialty = await ExecuteStringPickerCommandAsync(strings));
+            }
+        }
         public ICommand PersonalityTraitPickerCommand
         {
             get

@@ -48,11 +48,31 @@
         <ScrollView Orientation="Vertical">
             <StackLayout>
                 <Picker Title="Historique" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Backgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding Backgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />
-                <Picker Title="Variante" HorizontalOptions="FillAndExpand" IsEnabled="{Binding SubBackgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding SubBackgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding SubBackgroundSelectedIndex, Mode=TwoWay}" />
 
                 <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Description}" />
+
+                <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.BackgroundSkill.Name}" />
+                <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.BackgroundSkill.Description}" />
+
+                <Button Visual="Material" IsVisible="{Binding BackgroundSpecialties.IsSuccessfullyCompleted}" Text="Spécialité" Command="{Binding BackgroundSpecialtyPickerCommand}" CommandParameter="{Binding BackgroundSpecialties.Result}" />
+                <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.BackgroundSpecialty}" />
+
+
+                
+                
+                <Picker Title="Variante" HorizontalOptions="FillAndExpand" IsEnabled="{Binding SubBackgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding SubBackgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding SubBackgroundSelectedIndex, Mode=TwoWay}" />
+
                 <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Description}" />
 
+                <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.SubBackgroundSkill.Name}" />
+                <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.SubBackgroundSkill.Description}" />
+
+                <Button Visual="Material" IsVisible="{Binding SubBackgroundSpecialties.IsSuccessfullyCompleted}" Text="Spécialité" Command="{Binding SubBackgroundSpecialtyPickerCommand}" CommandParameter="{Binding SubBackgroundSpecialties.Result}" />
+                <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.SubBackgroundSpecialty}" />
+
+                
+                
+                
                 <Button Visual="Material" IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}" Text="Trait de personnalité" Command="{Binding PersonalityTraitPickerCommand}" CommandParameter="{Binding PersonalityTraits.Result}" />
                 <mdview:MarkdownView IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityTrait}" />
 
@@ -65,8 +85,9 @@
                 <Button Visual="Material" IsVisible="{Binding PersonalityDefects.IsSuccessfullyCompleted}" Text="Défaut" Command="{Binding PersonalityDefectPickerCommand}" CommandParameter="{Binding PersonalityDefects.Result}" />
                 <mdview:MarkdownView IsVisible="{Binding PersonalityDefects.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityDefect}" />
 
-                <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
-                <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Markdown}" />
+
+                <!--<mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Background.Markdown}" />
+                <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.SubBackground.Markdown}" />-->
             </StackLayout>
         </ScrollView>
     </ContentPage>

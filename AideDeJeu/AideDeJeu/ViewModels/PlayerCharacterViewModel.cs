@@ -115,5 +115,53 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _PersonalityDefect, value);
             }
         }
+        private string _BackgroundSpecialty = null;
+        public string BackgroundSpecialty
+        {
+            get
+            {
+                return _BackgroundSpecialty;
+            }
+            set
+            {
+                SetProperty(ref _BackgroundSpecialty, value);
+            }
+        }
+        private string _SubBackgroundSpecialty = null;
+        public string SubBackgroundSpecialty
+        {
+            get
+            {
+                return _SubBackgroundSpecialty;
+            }
+            set
+            {
+                SetProperty(ref _SubBackgroundSpecialty, value);
+            }
+        }
+        private SkillItem _BackgroundSkill = null;
+        public SkillItem BackgroundSkill
+        {
+            get
+            {
+                return _BackgroundSkill;
+            }
+            set
+            {
+                SetProperty(ref _BackgroundSkill, value);
+            }
+        }
+        private SkillItem _SubBackgroundSkill = null;
+        public SkillItem SubBackgroundSkill
+        {
+            get
+            {
+                return _SubBackgroundSkill;
+            }
+            set
+            {
+                SetProperty(ref _SubBackgroundSkill, value);
+            }
+        }
     }
 }
