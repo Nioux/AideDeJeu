@@ -121,7 +121,7 @@ namespace AideDeJeu.ViewModels
                 var regex = new Regex(".*\\((?<alignment>.*?)\\)$");
                 var match = regex.Match(SelectedPlayerCharacter.PersonalityIdeal);
                 var alignment = match.Groups["alignment"].Value;
-                if (!string.IsNullOrEmpty(alignment))
+                if (!string.IsNullOrEmpty(alignment) && alignment.ToLower() != "tous")
                 {
                     Alignments = new NotifyTaskCompletion<List<AlignmentItem>>(Task.Run(() => LoadAlignmentsAsync(alignment)));
                     SelectedPlayerCharacter.Alignment = null;
