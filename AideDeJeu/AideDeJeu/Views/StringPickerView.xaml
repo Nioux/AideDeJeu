@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+        xmlns:tools="clr-namespace:AideDeJeu.Tools"
+        xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
+             x:Class="AideDeJeu.Views.StringPickerView">
+    <ContentView.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+        </ResourceDictionary>
+    </ContentView.Resources>
+    <ContentView.Content>
+        <StackLayout IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}">
+            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="## [Trait de personnalité](#)" IsEnabled="False" />
+            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.PersonalityTrait}" />
+            <StackLayout.GestureRecognizers>
+                <ClickGestureRecognizer Command="{Binding PersonalityTraitPickerCommand}" CommandParameter="{Binding PersonalityTraits.Result}" />
+                <TapGestureRecognizer Command="{Binding PersonalityTraitPickerCommand}" CommandParameter="{Binding PersonalityTraits.Result}" />
+            </StackLayout.GestureRecognizers>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>
