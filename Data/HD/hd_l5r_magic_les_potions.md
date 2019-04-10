@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Les potions
-Source: (L5R p48)
 Id: l5r_magic_hd.md#les-potions
 ParentLink: l5r_magic_hd.md#des-objets-magiques-rares-et-merveilleux
 ParentName: Des objets magiques rares et merveilleux
 NameLevel: 4
+Source: (L5R p48)
 Attributes: {}
 ---
 > [Des objets magiques rares et merveilleux](hd_l5r_magic.md)

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Jets de dégâts
-AltName: Damage Rolls (SRD p96)
-Source: (MDR p293)
 Id: combat_hd.md#jets-de-dégâts
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
+AltName: Damage Rolls (SRD p96)
+Source: (MDR p293)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

@@ -1,11 +1,14 @@
 ﻿---
-!GenericItem
-Name: Neutre Bon (NB)
+!AlignmentItem
 Id: alignment_hd.md#neutre-bon-nb
 ParentLink: alignment_hd.md#alignement
+Name: Neutre Bon (NB)
 ParentName: Alignement
 NameLevel: 4
 Attributes: {}
+Description: >+
+  Ces créatures font de leur mieux pour aider les autres en fonction de leurs besoins. De nombreux célestes, quelques géants des nuages et la plupart des gnomes sont d'alignement Neutre Bon.
+
 ---
 > [Alignement](hd_alignment.md)
 

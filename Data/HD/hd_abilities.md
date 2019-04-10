@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Utiliser les caractéristiques
-AltName: Using Ability Scores (SRD p76)
-Source: (MDR p258)
 Id: abilities_hd.md#utiliser-les-caractéristiques
 RootId: abilities_hd.md
 ParentLink: index.md
+Name: Utiliser les caractéristiques
 ParentName: Manuel des règles
 NameLevel: 1
+AltName: Using Ability Scores (SRD p76)
+Source: (MDR p258)
 Attributes: {}
 ---
 >  [Manuel des règles](index.md)

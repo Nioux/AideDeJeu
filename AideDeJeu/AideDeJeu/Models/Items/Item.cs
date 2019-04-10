@@ -194,6 +194,7 @@ namespace AideDeJeuLib
         public static Dictionary<string, Type> ClassMapping = new Dictionary<string, Type>()
         {
             { "GenericItem", typeof(GenericItem) },
+            { "AlignmentItem", typeof(AlignmentItem) },
             { "MonsterItem", typeof(MonsterItem) },
             { "MonsterItems", typeof(MonsterItems) },
             { "SpellItem", typeof(SpellItem) },

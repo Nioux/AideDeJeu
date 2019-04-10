@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Inconscient
-AltName: '[Unconscious](srd_conditions_unconscious.md)'
 Id: conditions_hd.md#inconscient
 ParentLink: conditions_hd.md#États-spéciaux
 ParentName: États spéciaux
 NameLevel: 1
+AltName: '[Unconscious](srd_conditions_unconscious.md)'
 Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)

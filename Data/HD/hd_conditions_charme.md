@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Charmé
-AltName: '[Charmed](srd_conditions_charmed.md)'
 Id: conditions_hd.md#charmé
 ParentLink: conditions_hd.md#États-spéciaux
 ParentName: États spéciaux
 NameLevel: 1
+AltName: '[Charmed](srd_conditions_charmed.md)'
 Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)

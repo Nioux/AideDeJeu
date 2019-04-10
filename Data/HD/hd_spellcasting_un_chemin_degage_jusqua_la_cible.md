@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Un chemin dégagé jusqu'à la cible
-AltName: A Clear Path to the Target (SRD p102)
-Source: (MDR p309)
 Id: spellcasting_hd.md#un-chemin-dégagé-jusquà-la-cible
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 ParentName: Lancer des sorts
 NameLevel: 4
+AltName: A Clear Path to the Target (SRD p102)
+Source: (MDR p309)
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

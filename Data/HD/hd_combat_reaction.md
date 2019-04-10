@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Réaction
-AltName: Reactions (SRD p91)
-Source: (MDR p285)
 Id: combat_hd.md#réaction
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
+AltName: Reactions (SRD p91)
+Source: (MDR p285)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

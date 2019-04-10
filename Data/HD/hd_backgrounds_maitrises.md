@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Maîtrises
-AltName: Proficiencies (SRD p60)
-Source: (MDR p77)
 Id: backgrounds_hd.md#maîtrises
 ParentLink: backgrounds_hd.md#historique
 ParentName: Historique
 NameLevel: 3
+AltName: Proficiencies (SRD p60)
+Source: (MDR p77)
 Attributes: {}
 ---
 > [Historique](hd_backgrounds.md)

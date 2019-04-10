@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Abri
-AltName: Cover (SRD p96)
-Source: (MDR p293)
 Id: combat_hd.md#abri
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 2
+AltName: Cover (SRD p96)
+Source: (MDR p293)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

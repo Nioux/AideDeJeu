@@ -1,11 +1,11 @@
 ﻿---
 !ClassHitPointsItem
+Name: Points de vie
 HitDice: 1d6 par niveau d'ensorceleur
 HitPointsAt1stLevel: 6 + votre modificateur de [Constitution](hd_abilities_constitution.md)
 HitPointsAtHigherLevels: 1d6 (ou 4) + votre modificateur de [Constitution](hd_abilities_constitution.md) par niveau d'ensorceleur après le niveau 1
 Id: sorcerer_hd.md#points-de-vie
 ParentLink: sorcerer_hd.md#ensorceleur
-Name: Points de vie
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

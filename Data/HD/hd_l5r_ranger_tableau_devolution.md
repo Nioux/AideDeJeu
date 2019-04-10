@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Tableau d'évolution
-Source: (L5R p53)
 Id: l5r_ranger_hd.md#tableau-dévolution
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 4
+Source: (L5R p53)
 Attributes: {}
 ---
 > [Rôdeur des cinq Royaumes](hd_l5r_ranger.md)

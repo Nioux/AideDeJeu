@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Stabiliser une créature
-AltName: Stabilizing a Creature
-Source: (MDR p299)(SRD p98)
 Id: damage_healing_hd.md#stabiliser-une-créature
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 ParentName: 'Dégâts et guérison '
 NameLevel: 4
+AltName: Stabilizing a Creature
+Source: (MDR p299)(SRD p98)
 Attributes: {}
 ---
 > [Dégâts et guérison ](hd_damage_healing.md)

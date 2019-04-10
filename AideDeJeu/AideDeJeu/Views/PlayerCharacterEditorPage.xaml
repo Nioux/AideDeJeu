@@ -19,11 +19,14 @@
         </ResourceDictionary>
     </TabbedPage.Resources>
     <ContentPage Title="Généralités">
-        <StackLayout>
-            <Entry Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
-            <Picker Title="Alignement" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Alignments}" ItemDisplayBinding="{Binding StringFormat='Alignement : {0}'}" />
-            <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
-        </StackLayout>
+        <ScrollView Orientation="Vertical">
+            <StackLayout>
+                <Entry Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
+                <Picker Title="Alignement" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" ItemsSource="{Binding Alignments.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding AlignmentSelectedIndex, Mode=TwoWay}" />
+                <mdview:MarkdownView Markdown="{Binding SelectedPlayerCharacter.Alignment.Description}" />
+                <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
+            </StackLayout>
+        </ScrollView>
     </ContentPage>
     <ContentPage Title="Race">
         <StackLayout>

@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Maître des brumes
-Source: (L5R p61)
 Id: l5r_druid_hd.md#maître-des-brumes
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 ParentName: Druide des cinq royaumes
 NameLevel: 5
+Source: (L5R p61)
 Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)

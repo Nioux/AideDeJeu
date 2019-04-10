@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Action bonus
-AltName: Bonus Action (SRD p101)
-Source: (MDR p307)
 Id: spellcasting_hd.md#action-bonus
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 ParentName: Lancer des sorts
 NameLevel: 4
+AltName: Bonus Action (SRD p101)
+Source: (MDR p307)
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

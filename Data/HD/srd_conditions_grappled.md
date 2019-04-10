@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Grappled
-AltName: '[Empoigné](hd_conditions_empoigne.md)'
-Source: (SRD p358)
 Id: conditions_vo.md#grappled
 ParentLink: conditions_vo.md#conditions
 ParentName: Conditions
 NameLevel: 1
+AltName: '[Empoigné](hd_conditions_empoigne.md)'
+Source: (SRD p358)
 Attributes: {}
 ---
 > [Conditions](srd_conditions.md)

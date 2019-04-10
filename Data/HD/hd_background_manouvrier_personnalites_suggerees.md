@@ -1,8 +1,8 @@
 ﻿---
 !Items
-Name: Personnalités suggérées
 Id: background_manouvrier_hd.md#personnalités-suggérées
 ParentLink: background_manouvrier_hd.md#manouvrier
+Name: Personnalités suggérées
 ParentName: Manouvrier
 NameLevel: 4
 Attributes: {}

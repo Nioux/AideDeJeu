@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Objets magiques
-AltName: Magic Items (SRD p206)
-Source: (CDC p129)
 Id: magicitems_hd.md#objets-magiques
 RootId: magicitems_hd.md
 ParentLink: index.md
+Name: Objets magiques
 ParentName: Cadre de campagne
 NameLevel: 1
+AltName: Magic Items (SRD p206)
+Source: (CDC p129)
 Attributes: {}
 ---
 >  [Cadre de campagne](index.md)

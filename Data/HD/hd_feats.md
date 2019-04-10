@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Dons
-AltName: Feats (SRD p75)
-Source: (MDR p245)
 Id: feats_hd.md#dons
 RootId: feats_hd.md
 ParentLink: custom_options_hd.md
+Name: Dons
 ParentName: Options de personnalisation
 NameLevel: 1
+AltName: Feats (SRD p75)
+Source: (MDR p245)
 Attributes: {}
 ---
 >  [Options de personnalisation](hd_custom_options.md)

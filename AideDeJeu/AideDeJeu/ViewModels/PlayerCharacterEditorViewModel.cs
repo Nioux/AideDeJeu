@@ -1,11 +1,8 @@
 ﻿using AideDeJeu.Tools;
 using AideDeJeuLib;
 using Microsoft.EntityFrameworkCore;
-using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Input;
@@ -45,19 +42,19 @@ namespace AideDeJeu.ViewModels
         #endregion Selected PC
 
         #region Alignment
-        private List<string> _AllAllignments = new List<string>()
+        /*private List<string> _AllAllignments = new List<string>()
             {
-                "Loyal Bon",
-                "Loyal Neutre",
-                "Loyal Mauvais",
-                "Neutre Bon",
-                "Neutre",
-                "Neutre Mauvais",
-                "Chaotique Bon",
-                "Chaotique Neutre",
-                "Chaotique Mauvais"
+                "Loyal Bon (LB)",
+                "Neutre Bon (NB)",
+                "Chaotique Bon (CB)",
+                "Loyal Neutre (LN)",
+                "Neutre (N)",
+                "Chaotique Neutre (CN)",
+                "Loyal Mauvais (LM)",
+                "Neutre Mauvais (NM)",
+                "Chaotique Mauvais (CM)"
             };
-
+        
         private List<string> _Alignments = null;
         public List<string> Alignments
         {
@@ -69,10 +66,53 @@ namespace AideDeJeu.ViewModels
             {
                 SetProperty(ref _Alignments, value);
             }
+        }*/
+
+        private NotifyTaskCompletion<List<AlignmentItem>> _Alignments = null;
+        public NotifyTaskCompletion<List<AlignmentItem>> Alignments
+        {
+            get
+            {
+                return _Alignments;
+            }
+            private set
+            {
+                SetProperty(ref _Alignments, value);
+            }
+        }
+
+        private int _AlignmentSelectedIndex = -1;
+        public int AlignmentSelectedIndex
+        {
+            get
+            {
+                return _AlignmentSelectedIndex;
+            }
+            set
+            {
+                SetProperty(ref _AlignmentSelectedIndex, value);
+                SelectedPlayerCharacter.Alignment = Alignments.Result[_AlignmentSelectedIndex];
+            }
+        }
+
+        public async Task<List<AlignmentItem>> LoadAlignmentsAsync(string alignment = null)
+        {
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
+            {
+                if (alignment == null)
+                {
+                    return await context.Alignments.OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync().ConfigureAwait(false);
+                }
+                else
+                {
+                    return await context.Alignments.Where(a => a.Name.ToLower().Contains(alignment.ToLower())).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync().ConfigureAwait(false);
+                }
+            }
         }
 
         private void ResetAlignments()
         {
+            Alignments = new NotifyTaskCompletion<List<AlignmentItem>>(Task.Run(() => LoadAlignmentsAsync()));
             if (!string.IsNullOrEmpty(SelectedPlayerCharacter.PersonalityIdeal))
             {
                 var regex = new Regex(".*\\((?<alignment>.*?)\\)$");
@@ -80,16 +120,17 @@ namespace AideDeJeu.ViewModels
                 var alignment = match.Groups["alignment"].Value;
                 if (!string.IsNullOrEmpty(alignment))
                 {
-                    Alignments = _AllAllignments.Where(a => a.ToLower().Contains(alignment.ToLower())).ToList();
+                    Alignments = new NotifyTaskCompletion<List<AlignmentItem>>(Task.Run(() => LoadAlignmentsAsync(alignment)));
+                    SelectedPlayerCharacter.Alignment = null;
                 }
                 else
                 {
-                    Alignments = _AllAllignments;
+                    Alignments = new NotifyTaskCompletion<List<AlignmentItem>>(Task.Run(() => LoadAlignmentsAsync()));
                 }
             }
             else
             {
-                Alignments = _AllAllignments;
+                Alignments = new NotifyTaskCompletion<List<AlignmentItem>>(Task.Run(() => LoadAlignmentsAsync()));
             }
         }
         #endregion Alignment
@@ -380,24 +421,7 @@ namespace AideDeJeu.ViewModels
                 return new Command<List<string>>(async (strings) =>
                     {
                         SelectedPlayerCharacter.PersonalityIdeal = await ExecuteStringPickerCommandAsync(strings);
-                        if (!string.IsNullOrEmpty(SelectedPlayerCharacter.PersonalityIdeal))
-                        {
-                            var regex = new Regex(".*\\((?<alignment>.*?)\\)$");
-                            var match = regex.Match(SelectedPlayerCharacter.PersonalityIdeal);
-                            var alignment = match.Groups["alignment"].Value;
-                            if (!string.IsNullOrEmpty(alignment))
-                            {
-                                Alignments = _AllAllignments.Where(a => a.ToLower().Contains(alignment.ToLower())).ToList();
-                            }
-                            else
-                            {
-                                Alignments = _AllAllignments;
-                            }
-                        }
-                        else
-                        {
-                            Alignments = _AllAllignments;
-                        }
+                        ResetAlignments();
                     }
                 );
             }

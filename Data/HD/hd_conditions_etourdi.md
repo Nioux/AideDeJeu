@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Étourdi
-AltName: '[Stunned](srd_conditions_stunned.md)'
 Id: conditions_hd.md#Étourdi
 ParentLink: conditions_hd.md#États-spéciaux
 ParentName: États spéciaux
 NameLevel: 1
+AltName: '[Stunned](srd_conditions_stunned.md)'
 Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)

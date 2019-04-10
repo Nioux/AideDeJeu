@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Corruption
-Source: (L5R p68)
 Id: l5r_rituals_hd.md#corruption
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 ParentName: Lancer un rituel
 NameLevel: 3
+Source: (L5R p68)
 Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

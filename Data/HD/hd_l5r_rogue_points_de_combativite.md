@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Points de combativité
-Source: (L5R p65)
 Id: l5r_rogue_hd.md#points-de-combativité
 ParentLink: l5r_rogue_hd.md#le-savant
 ParentName: Le savant
 NameLevel: 4
+Source: (L5R p65)
 Attributes: {}
 ---
 > [Le savant](hd_l5r_rogue.md)

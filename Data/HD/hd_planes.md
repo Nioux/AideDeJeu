@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Jouer dans un multivers
-AltName: 'Planes '
-Source: (CDC p120)(SRD p363)
 Id: planes_hd.md#jouer-dans-un-multivers
 RootId: planes_hd.md
 ParentLink: index.md
+Name: Jouer dans un multivers
 ParentName: Cadre de campagne
 NameLevel: 2
+AltName: 'Planes '
+Source: (CDC p120)(SRD p363)
 Attributes: {}
 ---
 >  [Cadre de campagne](index.md)

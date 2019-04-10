@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: ORBE DES DRAGONS
-AltName: Orb of Dragonkind (SRD p252)
-Source: (CDC p192)
 Id: artifacts_hd.md#orbe-des-dragons
 ParentLink: artifacts_hd.md#artefacts
 ParentName: Artefacts
 NameLevel: 2
+AltName: Orb of Dragonkind (SRD p252)
+Source: (CDC p192)
 Attributes: {}
 ---
 > [Artefacts](hd_artifacts.md)

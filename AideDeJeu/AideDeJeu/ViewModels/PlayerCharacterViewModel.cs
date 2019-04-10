@@ -7,6 +7,18 @@ namespace AideDeJeu.ViewModels
 {
     public class PlayerCharacterViewModel : BaseViewModel
     {
+        private AlignmentItem _Alignment = null;
+        public AlignmentItem Alignment
+        {
+            get
+            {
+                return _Alignment;
+            }
+            set
+            {
+                SetProperty(ref _Alignment, value);
+            }
+        }
         private RaceItem _Race = null;
         public RaceItem Race
         {

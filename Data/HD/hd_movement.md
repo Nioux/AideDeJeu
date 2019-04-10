@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Déplacement
-AltName: Movement (SRD p84)
-Source: (MDR p270)
 Id: movement_hd.md#déplacement
 RootId: movement_hd.md
 ParentLink: adventure_hd.md
+Name: Déplacement
 ParentName: Partir à l'aventure
 NameLevel: 1
+AltName: Movement (SRD p84)
+Source: (MDR p270)
 Attributes: {}
 ---
 >  [Partir à l'aventure](hd_adventure.md)

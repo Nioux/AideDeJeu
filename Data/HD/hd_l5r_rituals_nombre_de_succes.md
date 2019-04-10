@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Nombre de succès
-Source: (L5R p72)
 Id: l5r_rituals_hd.md#nombre-de-succès
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 ParentName: Lancer un rituel
 NameLevel: 5
+Source: (L5R p72)
 Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

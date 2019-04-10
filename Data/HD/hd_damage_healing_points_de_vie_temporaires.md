@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Points de vie temporaires
-AltName: Temporary Hit Points
-Source: (MDR p299)(SRD p98)
 Id: damage_healing_hd.md#points-de-vie-temporaires
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 ParentName: 'Dégâts et guérison '
 NameLevel: 3
+AltName: Temporary Hit Points
+Source: (MDR p299)(SRD p98)
 Attributes: {}
 ---
 > [Dégâts et guérison ](hd_damage_healing.md)

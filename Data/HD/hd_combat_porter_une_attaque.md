@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Porter une attaque
-AltName: Making an Attack (SRD p94)
-Source: (MDR p290)
 Id: combat_hd.md#porter-une-attaque
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 2
+AltName: Making an Attack (SRD p94)
+Source: (MDR p290)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

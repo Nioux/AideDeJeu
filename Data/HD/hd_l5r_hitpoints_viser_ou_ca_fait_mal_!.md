@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Viser où ça fait mal !
-Source: (L5R p46)
 Id: l5r_hitpoints_hd.md#viser-où-ça-fait-mal-!
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 ParentName: Points de vie et blessures
 NameLevel: 4
+Source: (L5R p46)
 Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)

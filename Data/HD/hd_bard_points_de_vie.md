@@ -1,11 +1,11 @@
 ﻿---
 !ClassHitPointsItem
+Name: Points de vie
 HitDice: 1d8 par niveau de barde
 HitPointsAt1stLevel: 8 + votre modificateur de [Constitution](hd_abilities_constitution.md)
 HitPointsAtHigherLevels: 1d8 (ou 5) + votre modificateur de [Constitution](hd_abilities_constitution.md) par niveau de barde après le niveau 1
 Id: bard_hd.md#points-de-vie
 ParentLink: bard_hd.md#barde
-Name: Points de vie
 ParentName: Barde
 NameLevel: 2
 Attributes: {}

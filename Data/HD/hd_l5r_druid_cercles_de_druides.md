@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Cercles de druides
-Source: (L5R p64)
 Id: l5r_druid_hd.md#cercles-de-druides
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 ParentName: Druide des cinq royaumes
 NameLevel: 3
+Source: (L5R p64)
 Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)

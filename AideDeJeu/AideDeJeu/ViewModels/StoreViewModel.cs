@@ -564,6 +564,7 @@ namespace AideDeJeu.ViewModels
             public DbSet<PersonalityIdealItem> PersonalityIdeals { get; set; }
             public DbSet<PersonalityLinkItem> PersonalityLinks { get; set; }
             public DbSet<PersonalityDefectItem> PersonalityDefects { get; set; }
+            public DbSet<AlignmentItem> Alignments { get; set; }
 
             public AideDeJeuContext(string dbPath)
             {
@@ -588,6 +589,7 @@ namespace AideDeJeu.ViewModels
 
 
 
+                modelBuilder.Entity<AlignmentItem>();
                 modelBuilder.Entity<GenericItem>();
                 modelBuilder.Entity<MonsterItem>();
                 modelBuilder.Entity<MonsterItems>();

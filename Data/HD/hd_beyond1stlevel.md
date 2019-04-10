@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Au-delà du niveau 1
-AltName: Beyond 1st Level (SRD p56)
-Source: (MDR p32)
 Id: beyond1stlevel_hd.md#au-delà-du-niveau-1
 RootId: beyond1stlevel_hd.md
 ParentLink: index.md
+Name: Au-delà du niveau 1
 ParentName: Manuel des joueurs
 NameLevel: 1
+AltName: Beyond 1st Level (SRD p56)
+Source: (MDR p32)
 Attributes: {}
 ---
 >  [Manuel des joueurs](index.md)

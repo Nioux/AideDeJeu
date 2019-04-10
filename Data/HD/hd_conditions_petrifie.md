@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Pétrifié
-AltName: '[Petrified](srd_conditions_petrified.md)'
 Id: conditions_hd.md#pétrifié
 ParentLink: conditions_hd.md#États-spéciaux
 ParentName: États spéciaux
 NameLevel: 1
+AltName: '[Petrified](srd_conditions_petrified.md)'
 Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)

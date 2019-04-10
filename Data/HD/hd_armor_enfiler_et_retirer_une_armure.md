@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Enfiler et retirer une armure
-AltName: Getting Into and Out of Armor (SRD p64)
-Source: (MDR p225)
 Id: armor_hd.md#enfiler-et-retirer-une-armure
 ParentLink: armor_hd.md#armures
 ParentName: Armures
 NameLevel: 3
+AltName: Getting Into and Out of Armor (SRD p64)
+Source: (MDR p225)
 Attributes: {}
 ---
 > [Armures](hd_armor.md)

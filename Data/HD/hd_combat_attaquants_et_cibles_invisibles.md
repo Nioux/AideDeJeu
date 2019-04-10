@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Attaquants et cibles invisibles
-AltName: Unseen Attackers and Targets (SRD p94)
-Source: (MDR p291)
 Id: combat_hd.md#attaquants-et-cibles-invisibles
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
+AltName: Unseen Attackers and Targets (SRD p94)
+Source: (MDR p291)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

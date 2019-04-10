@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: 0 PC
-Source: (L5R p43)
 Id: l5r_hitpoints_hd.md#0-pc
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 ParentName: Points de vie et blessures
 NameLevel: 4
+Source: (L5R p43)
 Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)
