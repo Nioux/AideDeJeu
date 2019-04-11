@@ -163,6 +163,20 @@ namespace AideDeJeu.ViewModels
                 return _SubBackgroundSpecialty ?? _BackgroundSpecialty;
             }
         }
+
+        private string _PickedBackgroundSpecialty = null;
+        public string PickedBackgroundSpecialty
+        {
+            get
+            {
+                return _PickedBackgroundSpecialty;
+            }
+            set
+            {
+                SetProperty(ref _PickedBackgroundSpecialty, value);
+            }
+        }
+
         private SkillItem _BackgroundSkill = null;
         public SkillItem BackgroundSkill
         {
