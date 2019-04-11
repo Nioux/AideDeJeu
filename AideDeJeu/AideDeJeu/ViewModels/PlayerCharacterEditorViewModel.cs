@@ -241,8 +241,17 @@ namespace AideDeJeu.ViewModels
 
         private void SelectedSubBackgroundChanged()
         {
-            SubBackgroundSpecialties = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadBackgroundsSpecialtiesAsync(SelectedPlayerCharacter.SubBackground)));
-            Task.Run(async () => SelectedPlayerCharacter.SubBackgroundSkill = await LoadSkillAsync(SelectedPlayerCharacter.SubBackground));
+            if (SelectedPlayerCharacter.SubBackground == null)
+            {
+                SubBackgroundSpecialties = null;
+                SelectedPlayerCharacter.SubBackgroundSkill = null;
+                SelectedPlayerCharacter.SubBackgroundSpecialty = null;
+            }
+            else
+            {
+                SubBackgroundSpecialties = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadBackgroundsSpecialtiesAsync(SelectedPlayerCharacter.SubBackground)));
+                Task.Run(async () => SelectedPlayerCharacter.SubBackgroundSkill = await LoadSkillAsync(SelectedPlayerCharacter.SubBackground));
+            }
         }
 
         private NotifyTaskCompletion<List<string>> _PersonalityTraits = null;
@@ -303,6 +312,7 @@ namespace AideDeJeu.ViewModels
             private set
             {
                 SetProperty(ref _BackgroundSpecialties, value);
+                OnPropertyChanged(nameof(SelectedBackgroundSpecialties));
             }
         }
         private NotifyTaskCompletion<List<string>> _SubBackgroundSpecialties = null;
@@ -315,6 +325,14 @@ namespace AideDeJeu.ViewModels
             private set
             {
                 SetProperty(ref _SubBackgroundSpecialties, value);
+                OnPropertyChanged(nameof(SelectedBackgroundSpecialties));
+            }
+        }
+        public NotifyTaskCompletion<List<string>> SelectedBackgroundSpecialties
+        {
+            get
+            {
+                return _SubBackgroundSpecialties ?? _BackgroundSpecialties;
             }
         }
 

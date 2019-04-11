@@ -43,6 +43,12 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _Class, value);
             }
         }
+
+
+
+
+
+        #region Background
         private BackgroundItem _Background = null;
         public BackgroundItem Background
         {
@@ -53,6 +59,7 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _Background, value);
+                OnPropertyChanged(nameof(SelectedBackground));
             }
         }
         private SubBackgroundItem _SubBackground = null;
@@ -65,6 +72,14 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _SubBackground, value);
+                OnPropertyChanged(nameof(SelectedBackground));
+            }
+        }
+        public BackgroundItem SelectedBackground
+        {
+            get
+            {
+                return _SubBackground ?? _Background;
             }
         }
         private string _PersonalityTrait = null;
@@ -125,6 +140,7 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _BackgroundSpecialty, value);
+                OnPropertyChanged(nameof(SelectedBackgroundSpecialty));
             }
         }
         private string _SubBackgroundSpecialty = null;
@@ -137,6 +153,14 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _SubBackgroundSpecialty, value);
+                OnPropertyChanged(nameof(SelectedBackgroundSpecialty));
+            }
+        }
+        public string SelectedBackgroundSpecialty
+        {
+            get
+            {
+                return _SubBackgroundSpecialty ?? _BackgroundSpecialty;
             }
         }
         private SkillItem _BackgroundSkill = null;
@@ -149,6 +173,7 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _BackgroundSkill, value);
+                OnPropertyChanged(nameof(SelectedBackgroundSkill));
             }
         }
         private SkillItem _SubBackgroundSkill = null;
@@ -161,7 +186,16 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _SubBackgroundSkill, value);
+                OnPropertyChanged(nameof(SelectedBackgroundSkill));
             }
         }
+        public SkillItem SelectedBackgroundSkill
+        {
+            get
+            {
+                return _SubBackgroundSkill ?? _BackgroundSkill;
+            }
+        }
+        #endregion Background
     }
 }
