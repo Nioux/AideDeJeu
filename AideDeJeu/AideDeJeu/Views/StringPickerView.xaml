@@ -13,13 +13,13 @@
     </StackLayout.Resources>
     <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Title, Source={x:Reference this}, StringFormat='## [{0}](#)'}" IsEnabled="False" />
     <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />-->
-    <StackLayout BindableLayout.ItemsSource="{Binding ItemsSource, Source={x:Reference this}}">
+    <!--<StackLayout BindableLayout.ItemsSource="{Binding ItemsSource, Source={x:Reference this}}">
         <BindableLayout.ItemTemplate>
             <DataTemplate>
                 <Label Text="{Binding}" />
             </DataTemplate>
         </BindableLayout.ItemTemplate>
-    </StackLayout>
+    </StackLayout>-->
     <StackLayout.GestureRecognizers>
         <ClickGestureRecognizer Command="{Binding PickerCommand, Source={x:Reference this}}" CommandParameter="{Binding ItemsSource, Source={x:Reference this}}" />
         <TapGestureRecognizer Command="{Binding PickerCommand, Source={x:Reference this}}" CommandParameter="{Binding ItemsSource, Source={x:Reference this}}" />

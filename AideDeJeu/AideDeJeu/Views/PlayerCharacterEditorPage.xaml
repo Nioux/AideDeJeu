@@ -75,7 +75,8 @@
 
 
                 <!--<views:StringPickerView Title="Trait de personnalité" IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}" ItemsSource="{Binding PersonalityTraits.Result}" />-->
-                <views:StringPickerView BindingContext="{Binding}" Title="Trait de personnalité" IsVisible="{Binding PersonalityIdeals.IsSuccessfullyCompleted}" ItemsSource="{Binding PersonalityIdeals.Result}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Trait de personnalité" IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}" ItemsSource="{Binding PersonalityTraits.Result}" SelectedItem="{Binding SelectedPlayerCharacter.PersonalityTrait, Mode=TwoWay}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityTrait}" />
                 <!--SelectedItem="{Binding SelectedPlayerCharacter.PersonalityTrait, Mode=TwoWay}"-->
 
                 <Button Visual="Material" IsVisible="{Binding PersonalityIdeals.IsSuccessfullyCompleted}" Text="Idéal" Command="{Binding PersonalityIdealPickerCommand}" CommandParameter="{Binding PersonalityIdeals.Result}" />

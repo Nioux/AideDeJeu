@@ -2,14 +2,21 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
+             xmlns:tools="clr-namespace:AideDeJeu.Tools"
              x:Class="AideDeJeu.Views.StringPicker"
              Title="{Binding Title}">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ContentPage.Content>
         <ListView ItemsSource="{Binding Items}" HasUnevenRows="True" SelectedItem="{Binding SelectedItem, Mode=TwoWay}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding}" />
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
