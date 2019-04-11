@@ -8,7 +8,7 @@ namespace AideDeJeu.ViewModels
     public class PickerViewModel<T> : BaseViewModel where T:class
     {
         private string _Title = null;
-        public string Title
+        public new string Title
         {
             get
             {
@@ -20,8 +20,8 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        private List<T> _Items = null;
-        public List<T> Items
+        private System.Collections.IEnumerable _Items = null;
+        public System.Collections.IEnumerable Items
         {
             get
             {

@@ -1,23 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+<StackLayout xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
         xmlns:tools="clr-namespace:AideDeJeu.Tools"
         xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
-             x:Class="AideDeJeu.Views.StringPickerView">
-    <ContentView.Resources>
+             x:Class="AideDeJeu.Views.StringPickerView"
+             x:Name="this">
+    <StackLayout.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
-    </ContentView.Resources>
-    <ContentView.Content>
-        <StackLayout IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}">
-            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="## [Trait de personnalité](#)" IsEnabled="False" />
-            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.PersonalityTrait}" />
-            <StackLayout.GestureRecognizers>
-                <ClickGestureRecognizer Command="{Binding PersonalityTraitPickerCommand}" CommandParameter="{Binding PersonalityTraits.Result}" />
-                <TapGestureRecognizer Command="{Binding PersonalityTraitPickerCommand}" CommandParameter="{Binding PersonalityTraits.Result}" />
-            </StackLayout.GestureRecognizers>
-        </StackLayout>
-    </ContentView.Content>
-</ContentView>
+    </StackLayout.Resources>
+    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Title, Source={x:Reference this}, StringFormat='## [{0}](#)'}" IsEnabled="False" />
+    <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />-->
+    <StackLayout BindableLayout.ItemsSource="{Binding ItemsSource, Source={x:Reference this}}">
+        <BindableLayout.ItemTemplate>
+            <DataTemplate>
+                <Label Text="{Binding}" />
+            </DataTemplate>
+        </BindableLayout.ItemTemplate>
+    </StackLayout>
+    <StackLayout.GestureRecognizers>
+        <ClickGestureRecognizer Command="{Binding PickerCommand, Source={x:Reference this}}" CommandParameter="{Binding ItemsSource, Source={x:Reference this}}" />
+        <TapGestureRecognizer Command="{Binding PickerCommand, Source={x:Reference this}}" CommandParameter="{Binding ItemsSource, Source={x:Reference this}}" />
+    </StackLayout.GestureRecognizers>
+</StackLayout>
