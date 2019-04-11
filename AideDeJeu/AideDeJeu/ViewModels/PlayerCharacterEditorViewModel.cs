@@ -1,6 +1,7 @@
 ﻿using AideDeJeu.Tools;
 using AideDeJeuLib;
 using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -24,7 +25,7 @@ namespace AideDeJeu.ViewModels
             PersonalityIdeals = new NotifyTaskCompletion<List<string>>(null);
             PersonalityLinks = new NotifyTaskCompletion<List<string>>(null);
             PersonalityDefects = new NotifyTaskCompletion<List<string>>(null);
-            BackgroundSpecialties = new NotifyTaskCompletion<List<string>>(null);
+            BackgroundSpecialties = new NotifyTaskCompletion<BackgroundSpecialtyItem>(null);
         }
 
         #region Selected PC
@@ -192,7 +193,7 @@ namespace AideDeJeu.ViewModels
             PersonalityIdeals = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityIdealsAsync(SelectedPlayerCharacter.Background)));
             PersonalityLinks = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityLinksAsync(SelectedPlayerCharacter.Background)));
             PersonalityDefects = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityDefectsAsync(SelectedPlayerCharacter.Background)));
-            BackgroundSpecialties = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadBackgroundsSpecialtiesAsync(SelectedPlayerCharacter.Background)));
+            BackgroundSpecialties = new NotifyTaskCompletion<BackgroundSpecialtyItem>(Task.Run(() => LoadBackgroundsSpecialtiesAsync(SelectedPlayerCharacter.Background)));
             Task.Run(async () => SelectedPlayerCharacter.BackgroundSkill = await LoadSkillAsync(SelectedPlayerCharacter.Background));
             SelectedPlayerCharacter.SubBackground = null;
             SelectedPlayerCharacter.PersonalityTrait = null;
@@ -249,7 +250,7 @@ namespace AideDeJeu.ViewModels
             }
             else
             {
-                SubBackgroundSpecialties = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadBackgroundsSpecialtiesAsync(SelectedPlayerCharacter.SubBackground)));
+                SubBackgroundSpecialties = new NotifyTaskCompletion<BackgroundSpecialtyItem>(Task.Run(() => LoadBackgroundsSpecialtiesAsync(SelectedPlayerCharacter.SubBackground)));
                 Task.Run(async () => SelectedPlayerCharacter.SubBackgroundSkill = await LoadSkillAsync(SelectedPlayerCharacter.SubBackground));
             }
         }
@@ -302,8 +303,8 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _PersonalityDefects, value);
             }
         }
-        private NotifyTaskCompletion<List<string>> _BackgroundSpecialties = null;
-        public NotifyTaskCompletion<List<string>> BackgroundSpecialties
+        private NotifyTaskCompletion<BackgroundSpecialtyItem> _BackgroundSpecialties = null;
+        public NotifyTaskCompletion<BackgroundSpecialtyItem> BackgroundSpecialties
         {
             get
             {
@@ -315,8 +316,8 @@ namespace AideDeJeu.ViewModels
                 OnPropertyChanged(nameof(SelectedBackgroundSpecialties));
             }
         }
-        private NotifyTaskCompletion<List<string>> _SubBackgroundSpecialties = null;
-        public NotifyTaskCompletion<List<string>> SubBackgroundSpecialties
+        private NotifyTaskCompletion<BackgroundSpecialtyItem> _SubBackgroundSpecialties = null;
+        public NotifyTaskCompletion<BackgroundSpecialtyItem> SubBackgroundSpecialties
         {
             get
             {
@@ -328,7 +329,7 @@ namespace AideDeJeu.ViewModels
                 OnPropertyChanged(nameof(SelectedBackgroundSpecialties));
             }
         }
-        public NotifyTaskCompletion<List<string>> SelectedBackgroundSpecialties
+        public NotifyTaskCompletion<BackgroundSpecialtyItem> SelectedBackgroundSpecialties
         {
             get
             {
@@ -425,7 +426,7 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public async Task<List<string>> LoadBackgroundsSpecialtiesAsync(BackgroundItem background)
+        public async Task<BackgroundSpecialtyItem> LoadBackgroundsSpecialtiesAsync(BackgroundItem background)
         {
             if (background != null)
             {
@@ -433,7 +434,7 @@ namespace AideDeJeu.ViewModels
                 {
                     var list = await context.BackgroundSpecialties.Where(it => it.ParentLink == background.Id).ToListAsync().ConfigureAwait(false);
                     var item = list.FirstOrDefault();
-                    return item == null ? null : ExtractSimpleTable(item.Table);
+                    return item;
                 }
             }
             else
