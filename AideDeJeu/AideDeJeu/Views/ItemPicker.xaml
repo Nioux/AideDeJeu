@@ -28,4 +28,9 @@
             </ListView.ItemTemplate>
         </ListView>
     </ContentPage.Content>
+    <ContentPage.Triggers>
+        <DataTrigger TargetType="ContentPage" Binding="{Binding}" Value="{x:Null}">
+            <Setter Property="IsVisible" Value="False" />
+        </DataTrigger>
+    </ContentPage.Triggers>
 </ContentPage>
