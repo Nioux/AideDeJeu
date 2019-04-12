@@ -1,5 +1,5 @@
 
-rem goto nouveau
+goto nouveau
 
 call convertone.bat crystal_ball crystal-ball
 
@@ -25,5 +25,7 @@ rem call convertone.bat battle_axe battle-axe
 
 :nouveau
 rem call convertmain.bat battle_axe.png battle-axe.svg
+
+call convertone.bat click click
 
 pause

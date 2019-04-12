@@ -3,7 +3,7 @@ set ANDROID_PATH=..\..\AideDeJeu\AideDeJeu.Android\Resources\
 set UWP_PATH=..\..\AideDeJeu\AideDeJeu.UWP\
 set IOS_PATH=..\..\AideDeJeu\AideDeJeu.iOS\Media.xcassets\
 
-goto ios
+rem goto ios
 
 :android
 

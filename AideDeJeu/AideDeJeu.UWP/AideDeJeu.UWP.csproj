@@ -140,6 +140,7 @@
     <Content Include="battle_axe.png" />
     <Content Include="crystal_ball.png" />
     <Content Include="dragon_head.png" />
+    <Content Include="click.png" />
     <Content Include="funnel.png" />
     <Content Include="icon.png" />
     <Content Include="ic_launcher.png" />

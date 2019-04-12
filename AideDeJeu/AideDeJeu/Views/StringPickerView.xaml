@@ -11,7 +11,17 @@
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </StackLayout.Resources>
-    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Title, Source={x:Reference this}, StringFormat='# {0}'}" IsEnabled="False" />
+    <Frame BorderColor="Black" Padding="2">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="10" />
+            </Grid.ColumnDefinitions>
+            <mdview:MarkdownView Grid.Column="0" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Title, Source={x:Reference this}, StringFormat='# {0}'}" IsEnabled="False" />
+            <Image Grid.Column="1" WidthRequest="32" HeightRequest="32" Source="click.png" />
+        </Grid>
+    </Frame>
     <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />-->
     <!--<StackLayout BindableLayout.ItemsSource="{Binding ItemsSource, Source={x:Reference this}}">
         <BindableLayout.ItemTemplate>
