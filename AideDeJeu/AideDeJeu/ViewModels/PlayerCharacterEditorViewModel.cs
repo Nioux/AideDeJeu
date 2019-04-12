@@ -29,6 +29,10 @@ namespace AideDeJeu.ViewModels
             PersonalityIdeals = null;
             PersonalityLinks = null;
             PersonalityDefects = null;
+            SelectedPersonalityTrait = null;
+            SelectedPersonalityIdeal = null;
+            SelectedPersonalityLink = null;
+            SelectedPersonalityDefect = null;
             BackgroundSpecialties = null;
             SubBackgroundSpecialties = null;
             BackgroundSpecialty = null;
@@ -253,12 +257,21 @@ namespace AideDeJeu.ViewModels
             if (background != null)
             {
                 SubBackgrounds = await LoadSubBackgroundsAsync(background);
+                SelectedSubBackground = null;
+                NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
                 PersonalityTraits = await LoadPersonalityTraitsAsync(background);
                 PersonalityIdeals = await LoadPersonalityIdealsAsync(background);
                 PersonalityLinks = await LoadPersonalityLinksAsync(background);
                 PersonalityDefects = await LoadPersonalityDefectsAsync(background);
+                SelectedPersonalityTrait = null;
+                SelectedPersonalityIdeal = null;
+                SelectedPersonalityLink = null;
+                SelectedPersonalityDefect = null;
                 BackgroundSpecialties = await LoadBackgroundsSpecialtiesAsync(background);
+                BackgroundSpecialty = null;
+                SubBackgroundSpecialties = null;
                 BackgroundSkill = await LoadSkillAsync(background);
+                SubBackgroundSkill = null;
                 ResetAlignments();
             }
             return background;
