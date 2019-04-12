@@ -14,7 +14,10 @@
     <ContentPage.Content>
         <ListView ItemsSource="{Binding Items}" HasUnevenRows="True" SelectedItem="{Binding SelectedItem, Mode=TwoWay}">
             <ListView.Header>
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding Title, StringFormat='# {0}'}" />
+                <StackLayout>
+                    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding Title, StringFormat='# {0}'}" />
+                    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding Description}" />
+                </StackLayout>
             </ListView.Header>
             <ListView.ItemTemplate>
                 <DataTemplate>

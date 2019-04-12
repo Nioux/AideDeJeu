@@ -37,6 +37,17 @@ namespace AideDeJeu.Views
             typeof(StringPickerView),
             defaultValue: default(string));
 
+        public string Description
+        {
+            get { return (string)GetValue(DescriptionProperty); }
+            set { SetValue(DescriptionProperty, value); }
+        }
+        public static readonly BindableProperty DescriptionProperty = BindableProperty.Create(
+            nameof(Description),
+            typeof(string),
+            typeof(StringPickerView),
+            defaultValue: default(string));
+
         public string SelectedItem
         {
             get { return (string)GetValue(SelectedItemProperty); }
@@ -78,6 +89,7 @@ namespace AideDeJeu.Views
             var picker = new Views.StringPicker();
             var vm = picker.ViewModel;
             vm.Title = Title;
+            vm.Description = Description;
             vm.Items = strings;
             await Main.Navigator.Navigation.PushModalAsync(picker, true);
             var result = await vm.PickValueAsync();

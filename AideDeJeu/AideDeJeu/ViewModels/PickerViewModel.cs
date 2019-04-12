@@ -20,6 +20,19 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        private string _Description = null;
+        public string Description
+        {
+            get
+            {
+                return _Description;
+            }
+            set
+            {
+                SetProperty(ref _Description, value);
+            }
+        }
+
         private System.Collections.IEnumerable _Items = null;
         public System.Collections.IEnumerable Items
         {
