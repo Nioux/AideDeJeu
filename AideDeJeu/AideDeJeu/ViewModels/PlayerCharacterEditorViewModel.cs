@@ -20,12 +20,15 @@ namespace AideDeJeu.ViewModels
             Classes = new NotifyTaskCompletion<List<ClassItem>>(Task.Run(() => LoadClassesAsync()));
 
             Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
-            SubBackgrounds = new NotifyTaskCompletion<List<SubBackgroundItem>>(null);
-            PersonalityTraits = new NotifyTaskCompletion<List<string>>(null);
-            PersonalityIdeals = new NotifyTaskCompletion<List<string>>(null);
-            PersonalityLinks = new NotifyTaskCompletion<List<string>>(null);
-            PersonalityDefects = new NotifyTaskCompletion<List<string>>(null);
-            BackgroundSpecialties = new NotifyTaskCompletion<BackgroundSpecialtyItem>(null);
+            SelectedBackground = null;
+            NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(null);
+            SubBackgrounds = null;
+            SelectedSubBackground = new NotifyTaskCompletion<BackgroundItem>(null);
+            PersonalityTraits = null;
+            PersonalityIdeals = null;
+            PersonalityLinks = null;
+            PersonalityDefects = null;
+            BackgroundSpecialties = null;
         }
 
         #region Selected PC
@@ -69,7 +72,11 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _AlignmentSelectedIndex, value);
                 if (0 <= _AlignmentSelectedIndex && _AlignmentSelectedIndex < Alignments.Result.Count)
                 {
-                    SelectedPlayerCharacter.Alignment = Alignments.Result[_AlignmentSelectedIndex];
+                    SelectedAlignment = Alignments.Result[_AlignmentSelectedIndex];
+                }
+                else
+                {
+                    SelectedAlignment = null;
                 }
             }
         }
@@ -211,11 +218,23 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _SelectedBackground, value);
-                SelectedBackgroundChanged();
+                NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(Task.Run(() => LoadBackgroundAsync(_SelectedBackground)));
+            }
+        }
+        private NotifyTaskCompletion<BackgroundItem> _NotifySelectedBackground = null;
+        public NotifyTaskCompletion<BackgroundItem> NotifySelectedBackground
+        {
+            get
+            {
+                return _NotifySelectedBackground;
+            }
+            private set
+            {
+                SetProperty(ref _NotifySelectedBackground, value);
             }
         }
 
-        private void SelectedBackgroundChanged()
+        private async Task<BackgroundItem> LoadBackgroundAsync(BackgroundItem background)
         {
             SelectedPlayerCharacter.SubBackground = null;
             SelectedPlayerCharacter.PersonalityTrait = null;
@@ -223,26 +242,30 @@ namespace AideDeJeu.ViewModels
             SelectedPlayerCharacter.PersonalityLink = null;
             SelectedPlayerCharacter.PersonalityDefect = null;
             SelectedPlayerCharacter.BackgroundSpecialty = null;
-            SelectedPlayerCharacter.Background = SelectedBackground;
+            SelectedPlayerCharacter.Background = background;
 
-            SubBackgrounds = new NotifyTaskCompletion<List<SubBackgroundItem>>(Task.Run(() => LoadSubBackgroundsAsync(SelectedBackground)));
-            PersonalityTraits = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityTraitsAsync(SelectedBackground)));
-            PersonalityIdeals = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityIdealsAsync(SelectedBackground)));
-            PersonalityLinks = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityLinksAsync(SelectedBackground)));
-            PersonalityDefects = new NotifyTaskCompletion<List<string>>(Task.Run(() => LoadPersonalityDefectsAsync(SelectedBackground)));
-            BackgroundSpecialties = new NotifyTaskCompletion<BackgroundSpecialtyItem>(Task.Run(() => LoadBackgroundsSpecialtiesAsync(SelectedBackground)));
-            Task.Run(async () => SelectedPlayerCharacter.BackgroundSkill = await LoadSkillAsync(SelectedBackground));
-            ResetAlignments();
+            if (background != null)
+            {
+                SubBackgrounds = await LoadSubBackgroundsAsync(background);
+                PersonalityTraits = await LoadPersonalityTraitsAsync(background);
+                PersonalityIdeals = await LoadPersonalityIdealsAsync(background);
+                PersonalityLinks = await LoadPersonalityLinksAsync(background);
+                PersonalityDefects = await LoadPersonalityDefectsAsync(background);
+                BackgroundSpecialties = await LoadBackgroundsSpecialtiesAsync(background);
+                await Task.Run(async () => SelectedPlayerCharacter.BackgroundSkill = await LoadSkillAsync(background));
+                ResetAlignments();
+            }
+            return background;
         }
 
-        private NotifyTaskCompletion<List<SubBackgroundItem>> _SubBackgrounds = null;
-        public NotifyTaskCompletion<List<SubBackgroundItem>> SubBackgrounds
+        private List<SubBackgroundItem> _SubBackgrounds = null;
+        public List<SubBackgroundItem> SubBackgrounds
         {
             get
             {
                 return _SubBackgrounds;
             }
-            private set
+            set
             {
                 SetProperty(ref _SubBackgrounds, value);
             }
@@ -262,33 +285,21 @@ namespace AideDeJeu.ViewModels
                 {
                     //SelectedPlayerCharacter.SubBackground = null;
                     SubBackgroundSelectedIndex = -1;
-                    SelectedSubBackground = null;
+                    SelectedSubBackground = new NotifyTaskCompletion<BackgroundItem>(null);
                 }
                 else if (_SubBackgroundSelectedIndex > 0)
                 {
-                    SelectedSubBackground = SubBackgrounds.Result[_SubBackgroundSelectedIndex];
+                    SelectedSubBackground = new NotifyTaskCompletion<BackgroundItem>(Task.Run(() => LoadSubBackgroundAsync(SubBackgrounds[_SubBackgroundSelectedIndex])));
                 }
             }
         }
 
-        private SubBackgroundItem _SelectedSubBackground = null;
-        public SubBackgroundItem SelectedSubBackground
-        {
-            get
-            {
-                return _SelectedSubBackground;
-            }
-            set
-            {
-                SetProperty(ref _SelectedSubBackground, value);
-                SelectedSubBackgroundChanged();
-            }
-        }
+        public NotifyTaskCompletion<BackgroundItem> SelectedSubBackground { get; private set; }
 
-        private void SelectedSubBackgroundChanged()
+        private async Task<BackgroundItem> LoadSubBackgroundAsync(SubBackgroundItem subbackground)
         {
-            SelectedPlayerCharacter.SubBackground = SelectedSubBackground;
-            if (SelectedSubBackground == null)
+            SelectedPlayerCharacter.SubBackground = subbackground;
+            if (subbackground == null)
             {
                 SubBackgroundSpecialties = null;
                 SelectedPlayerCharacter.SubBackgroundSkill = null;
@@ -296,19 +307,20 @@ namespace AideDeJeu.ViewModels
             }
             else
             {
-                SubBackgroundSpecialties = new NotifyTaskCompletion<BackgroundSpecialtyItem>(Task.Run(() => LoadBackgroundsSpecialtiesAsync(SelectedSubBackground)));
-                Task.Run(async () => SelectedPlayerCharacter.SubBackgroundSkill = await LoadSkillAsync(SelectedSubBackground));
+                SubBackgroundSpecialties = await LoadBackgroundsSpecialtiesAsync(subbackground);
+                await Task.Run(async () => SelectedPlayerCharacter.SubBackgroundSkill = await LoadSkillAsync(subbackground));
             }
+            return subbackground;
         }
 
-        private NotifyTaskCompletion<List<string>> _PersonalityTraits = null;
-        public NotifyTaskCompletion<List<string>> PersonalityTraits
+        private List<string> _PersonalityTraits = null;
+        public List<string> PersonalityTraits
         {
             get
             {
                 return _PersonalityTraits;
             }
-            private set
+            set
             {
                 SetProperty(ref _PersonalityTraits, value);
             }
@@ -320,21 +332,21 @@ namespace AideDeJeu.ViewModels
             {
                 return _SelectedPersonalityTrait;
             }
-            private set
+            set
             {
                 SetProperty(ref _SelectedPersonalityTrait, value);
                 SelectedPlayerCharacter.PersonalityTrait = value;
             }
         }
 
-        private NotifyTaskCompletion<List<string>> _PersonalityIdeals = null;
-        public NotifyTaskCompletion<List<string>> PersonalityIdeals
+        private List<string> _PersonalityIdeals = null;
+        public List<string> PersonalityIdeals
         {
             get
             {
                 return _PersonalityIdeals;
             }
-            private set
+            set
             {
                 SetProperty(ref _PersonalityIdeals, value);
             }
@@ -346,21 +358,21 @@ namespace AideDeJeu.ViewModels
             {
                 return _SelectedPersonalityIdeal;
             }
-            private set
+            set
             {
                 SetProperty(ref _SelectedPersonalityIdeal, value);
                 SelectedPlayerCharacter.PersonalityIdeal = value;
             }
         }
 
-        private NotifyTaskCompletion<List<string>> _PersonalityLinks = null;
-        public NotifyTaskCompletion<List<string>> PersonalityLinks
+        private List<string> _PersonalityLinks = null;
+        public List<string> PersonalityLinks
         {
             get
             {
                 return _PersonalityLinks;
             }
-            private set
+            set
             {
                 SetProperty(ref _PersonalityLinks, value);
             }
@@ -372,21 +384,21 @@ namespace AideDeJeu.ViewModels
             {
                 return _SelectedPersonalityLink;
             }
-            private set
+            set
             {
                 SetProperty(ref _SelectedPersonalityLink, value);
                 SelectedPlayerCharacter.PersonalityLink = value;
             }
         }
 
-        private NotifyTaskCompletion<List<string>> _PersonalityDefects = null;
-        public NotifyTaskCompletion<List<string>> PersonalityDefects
+        private List<string> _PersonalityDefects = null;
+        public List<string> PersonalityDefects
         {
             get
             {
                 return _PersonalityDefects;
             }
-            private set
+            set
             {
                 SetProperty(ref _PersonalityDefects, value);
             }
@@ -398,40 +410,40 @@ namespace AideDeJeu.ViewModels
             {
                 return _SelectedPersonalityDefect;
             }
-            private set
+            set
             {
                 SetProperty(ref _SelectedPersonalityDefect, value);
                 SelectedPlayerCharacter.PersonalityDefect = value;
             }
         }
 
-        private NotifyTaskCompletion<BackgroundSpecialtyItem> _BackgroundSpecialties = null;
-        public NotifyTaskCompletion<BackgroundSpecialtyItem> BackgroundSpecialties
+        private BackgroundSpecialtyItem _BackgroundSpecialties = null;
+        public BackgroundSpecialtyItem BackgroundSpecialties
         {
             get
             {
                 return _BackgroundSpecialties;
             }
-            private set
+            set
             {
                 SetProperty(ref _BackgroundSpecialties, value);
                 OnPropertyChanged(nameof(SelectedBackgroundSpecialties));
             }
         }
-        private NotifyTaskCompletion<BackgroundSpecialtyItem> _SubBackgroundSpecialties = null;
-        public NotifyTaskCompletion<BackgroundSpecialtyItem> SubBackgroundSpecialties
+        private BackgroundSpecialtyItem _SubBackgroundSpecialties = null;
+        public BackgroundSpecialtyItem SubBackgroundSpecialties
         {
             get
             {
                 return _SubBackgroundSpecialties;
             }
-            private set
+            set
             {
                 SetProperty(ref _SubBackgroundSpecialties, value);
                 OnPropertyChanged(nameof(SelectedBackgroundSpecialties));
             }
         }
-        public NotifyTaskCompletion<BackgroundSpecialtyItem> SelectedBackgroundSpecialties
+        public BackgroundSpecialtyItem SelectedBackgroundSpecialties
         {
             get
             {

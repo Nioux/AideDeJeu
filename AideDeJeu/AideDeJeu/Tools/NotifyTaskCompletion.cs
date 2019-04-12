@@ -27,6 +27,7 @@ namespace AideDeJeu.Tools
             if (propertyChanged == null)
                 return;
             propertyChanged(this, new PropertyChangedEventArgs("Status"));
+            propertyChanged(this, new PropertyChangedEventArgs("DebugStatus"));
             propertyChanged(this, new PropertyChangedEventArgs("IsCompleted"));
             propertyChanged(this, new PropertyChangedEventArgs("IsNotCompleted"));
             if (task.IsCanceled)
@@ -54,6 +55,7 @@ namespace AideDeJeu.Tools
                 return (Task?.Status == TaskStatus.RanToCompletion) ? Task.Result : default(TResult);
             }
         }
+        public string DebugStatus { get { return Status.ToString(); } }
         public TaskStatus Status { get { return Task?.Status ?? TaskStatus.Running; } }
         public bool IsCompleted { get { return Task?.IsCompleted ?? false; } }
         public bool IsNotCompleted { get { return Task?.IsCompleted == true ? false : true; } }
