@@ -23,8 +23,10 @@
         <ScrollView Orientation="Vertical">
             <StackLayout>
                 <Entry Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
-                <Picker Title="Alignement" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" ItemsSource="{Binding Alignments.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding AlignmentSelectedIndex, Mode=TwoWay}" />
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Alignment.Description}" />
+                <!--<Picker Title="Alignement" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" ItemsSource="{Binding Alignments.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding AlignmentSelectedIndex, Mode=TwoWay}" />-->
+                <views:ItemPickerView BindingContext="{Binding}" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" Title="Alignement" ItemsSource="{Binding Alignments.Result}" SelectedItem="{Binding SelectedAlignment, Mode=TwoWay}" />
+
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Alignment.Description}" />-->
                 <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
             </StackLayout>
         </ScrollView>
@@ -48,19 +50,32 @@
     <ContentPage Title="Historique">
         <ScrollView Orientation="Vertical">
             <StackLayout>
-                <Picker Title="Historique" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Backgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding Backgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />
+                <!--<Picker Title="Historique" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Backgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding Backgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />-->
+                <views:ItemPickerView BindingContext="{Binding}" Title="Historique" ItemsSource="{Binding Backgrounds.Result}" SelectedItem="{Binding SelectedBackground, Mode=TwoWay}" />
 
-                <Picker Title="Variante" HorizontalOptions="FillAndExpand" IsEnabled="{Binding SubBackgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding SubBackgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding SubBackgroundSelectedIndex, Mode=TwoWay}" />
+                <!--<Picker Title="Variante" HorizontalOptions="FillAndExpand" IsEnabled="{Binding SubBackgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding SubBackgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding SubBackgroundSelectedIndex, Mode=TwoWay}" />-->
+                <views:ItemPickerView BindingContext="{Binding}" Title="Variante" ItemsSource="{Binding SubBackgrounds.Result}" SelectedItem="{Binding SelectedSubBackground, Mode=TwoWay}" />
 
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Background.Description}" />
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Background.Description}" />
 
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.SubBackground.Description}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.SubBackground.Description}" />-->
 
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.SelectedBackgroundSkill.Name, StringFormat='# {0}'}" />
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.SelectedBackgroundSkill.Description}" />
+                <Frame BorderColor="Black" Padding="2">
+                    <StackLayout Padding="0">
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.SelectedBackgroundSkill.Name, StringFormat='# {0}'}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.SelectedBackgroundSkill.Description}" />
+                    </StackLayout>
+                </Frame>
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.SelectedBackgroundSkill.Name, StringFormat='# {0}'}" />-->
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.SelectedBackgroundSkill.Description}" />-->
 
+                
+                
                 <views:StringPickerView BindingContext="{Binding}" Title="{Binding SelectedBackgroundSpecialties.Result.Name}" Description="{Binding SelectedBackgroundSpecialties.Result.Description}" ItemsSource="{Binding SelectedBackgroundSpecialties.Result.BindableTable}" SelectedItem="{Binding SelectedPlayerCharacter.PickedBackgroundSpecialty, Mode=TwoWay}" />
                 <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PickedBackgroundSpecialty}" />
+
+                
+                
                 <!--SelectedItem="{Binding SelectedPlayerCharacter.SelectedBackgroundSpecialty, Mode=TwoWay}"-->
                 <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityTrait}" />
                 <Button Visual="Material" IsVisible="{Binding SelectedBackgroundSpecialties.IsSuccessfullyCompleted}" Text="Spécialité" Command="{Binding BackgroundSpecialtyPickerCommand}" CommandParameter="{Binding SelectedBackgroundSpecialties.Result}" />
@@ -80,16 +95,16 @@
 
                 <!--<views:StringPickerView Title="Trait de personnalité" IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}" ItemsSource="{Binding PersonalityTraits.Result}" />-->
                 <views:StringPickerView BindingContext="{Binding}" Title="Trait de personnalité" IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}" ItemsSource="{Binding PersonalityTraits.Result}" SelectedItem="{Binding SelectedPlayerCharacter.PersonalityTrait, Mode=TwoWay}" />
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityTrait}" />
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityTraits.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityTrait}" />-->
 
                 <views:StringPickerView BindingContext="{Binding}" Title="Idéal" IsVisible="{Binding PersonalityIdeals.IsSuccessfullyCompleted}" ItemsSource="{Binding PersonalityIdeals.Result}" SelectedItem="{Binding SelectedPlayerCharacter.PersonalityIdeal, Mode=TwoWay}" />
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityIdeals.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityIdeal}" />
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityIdeals.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityIdeal}" />-->
 
                 <views:StringPickerView BindingContext="{Binding}" Title="Lien" IsVisible="{Binding PersonalityLinks.IsSuccessfullyCompleted}" ItemsSource="{Binding PersonalityLinks.Result}" SelectedItem="{Binding SelectedPlayerCharacter.PersonalityLink, Mode=TwoWay}" />
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityLinks.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityLink}" />
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityLinks.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityLink}" />-->
 
                 <views:StringPickerView BindingContext="{Binding}" Title="Défaut" IsVisible="{Binding PersonalityDefects.IsSuccessfullyCompleted}" ItemsSource="{Binding PersonalityDefects.Result}" SelectedItem="{Binding SelectedPlayerCharacter.PersonalityDefect, Mode=TwoWay}" />
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityDefects.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityDefect}" />
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityDefects.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityDefect}" />-->
 
                 <!--<Button Visual="Material" IsVisible="{Binding PersonalityIdeals.IsSuccessfullyCompleted}" Text="Idéal" Command="{Binding PersonalityIdealPickerCommand}" CommandParameter="{Binding PersonalityIdeals.Result}" />
                 <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" IsVisible="{Binding PersonalityIdeals.IsSuccessfullyCompleted}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PersonalityIdeal}" />

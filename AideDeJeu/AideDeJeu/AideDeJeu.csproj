@@ -62,6 +62,12 @@
     <Compile Update="Views\MainTabbedPage.xaml.cs">
       <DependentUpon>MainTabbedPage.xaml</DependentUpon>
     </Compile>
+    <Compile Update="Views\ItemPicker.xaml.cs">
+      <DependentUpon>ItemPicker.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\ItemPickerView.xaml.cs">
+      <DependentUpon>ItemPickerView.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
