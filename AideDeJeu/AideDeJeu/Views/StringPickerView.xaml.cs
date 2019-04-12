@@ -77,6 +77,7 @@ namespace AideDeJeu.Views
         {
             var picker = new Views.StringPicker();
             var vm = picker.ViewModel;
+            vm.Title = Title;
             vm.Items = strings;
             await Main.Navigator.Navigation.PushModalAsync(picker, true);
             var result = await vm.PickValueAsync();

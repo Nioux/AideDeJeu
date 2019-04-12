@@ -13,6 +13,9 @@
     </ContentPage.Resources>
     <ContentPage.Content>
         <ListView ItemsSource="{Binding Items}" HasUnevenRows="True" SelectedItem="{Binding SelectedItem, Mode=TwoWay}">
+            <ListView.Header>
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding Title, StringFormat='# {0}'}" />
+            </ListView.Header>
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
