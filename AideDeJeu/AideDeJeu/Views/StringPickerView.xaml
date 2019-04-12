@@ -18,9 +18,13 @@
                 <ColumnDefinition Width="auto" />
                 <ColumnDefinition Width="10" />
             </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
             <mdview:MarkdownView Grid.Column="0" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Title, Source={x:Reference this}, StringFormat='# {0}'}" IsEnabled="False" />
             <Image Grid.Column="1" WidthRequest="32" HeightRequest="32" Source="click.png" />
-            <mdview:MarkdownView Grid.Row="1" Grid.ColumnSpan="2" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />
+            <mdview:MarkdownView Grid.Row="1" Grid.ColumnSpan="3" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />
         </Grid>
     </Frame>
     <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />-->
