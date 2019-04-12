@@ -14,15 +14,14 @@
     <Frame BorderColor="Black" Padding="2">
         <Grid>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="auto" />
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="auto" />
                 <ColumnDefinition Width="10" />
             </Grid.ColumnDefinitions>
             <mdview:MarkdownView Grid.Column="0" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Title, Source={x:Reference this}, StringFormat='# {0}'}" IsEnabled="False" />
-            <mdview:MarkdownView Grid.Column="1" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem.Name, Source={x:Reference this}, StringFormat='# : {0}'}" />
-            <Image Grid.Column="2" WidthRequest="32" HeightRequest="32" Source="click.png" />
-            <mdview:MarkdownView Grid.Row="1" Grid.ColumnSpan="3" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem.Description, Source={x:Reference this}}" />
+            <Image Grid.Column="1" WidthRequest="32" HeightRequest="32" Source="click.png" />
+            <mdview:MarkdownView Grid.Row="1" Grid.ColumnSpan="3" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem.Name, Source={x:Reference this}, StringFormat='## {0}'}" />
+            <mdview:MarkdownView Grid.Row="2" Grid.ColumnSpan="3" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem.Description, Source={x:Reference this}}" />
         </Grid>
     </Frame>
     <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />-->

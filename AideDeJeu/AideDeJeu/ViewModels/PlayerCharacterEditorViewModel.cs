@@ -223,6 +223,7 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _SelectedBackground, value);
+                OnPropertyChanged(nameof(PreferedBackground));
                 NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(Task.Run(() => LoadBackgroundAsync(_SelectedBackground)));
             }
         }
@@ -309,6 +310,7 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _SelectedSubBackground, value);
+                OnPropertyChanged(nameof(PreferedBackground));
                 NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(Task.Run(() => LoadSubBackgroundAsync(SelectedSubBackground)));
             }
         }
@@ -340,6 +342,14 @@ namespace AideDeJeu.ViewModels
                 SubBackgroundSkill = await LoadSkillAsync(subbackground);
             }
             return subbackground;
+        }
+
+        public BackgroundItem PreferedBackground
+        {
+            get
+            {
+                return SelectedSubBackground ?? SelectedBackground;
+            }
         }
 
         private List<string> _PersonalityTraits = null;
