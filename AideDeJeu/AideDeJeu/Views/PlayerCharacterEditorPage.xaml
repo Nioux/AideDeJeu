@@ -50,22 +50,24 @@
     <ContentPage Title="Historique">
         <ScrollView Orientation="Vertical">
             <StackLayout>
-                <views:ItemPickerView BindingContext="{Binding}" Title="Historique" ItemsSource="{Binding Backgrounds.Result}" SelectedItem="{Binding SelectedBackground, Mode=TwoWay}" />
-                <Label Text="{Binding NotifySelectedBackground.Status}" />
+                
+                <!-- DEBUG -->
+                <!--<Label Text="{Binding Backgrounds.Status, StringFormat='Backgrounds.Status = {0}'}" />
+                <Label Text="{Binding NotifySelectedBackground.Status, StringFormat='NotifySelectedBackground.Status = {0}'}" />
+                <Label Text="{Binding NotifySelectedSubBackground.Status, StringFormat='NotifySelectedSubBackground.Status = {0}'}" />-->
 
+                <views:ItemPickerView BindingContext="{Binding}" Title="Historique" ItemsSource="{Binding Backgrounds.Result}" SelectedItem="{Binding SelectedBackground, Mode=TwoWay}" />
                 <views:ItemPickerView BindingContext="{Binding}" Title="Variante" ItemsSource="{Binding SubBackgrounds}" SelectedItem="{Binding SelectedSubBackground, Mode=TwoWay}" />
 
-                <Frame BorderColor="Black" Padding="2">
+                <Frame BorderColor="Black" Padding="2" IsVisible="{Binding HasBackgroundSkill}">
                     <StackLayout Padding="0">
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedBackgroundSkill.Name, StringFormat='# {0}'}" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedBackgroundSkill.Description}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding PreferedBackgroundSkill.Name, StringFormat='# {0}'}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding PreferedBackgroundSkill.Description}" />
                     </StackLayout>
                 </Frame>
 
-                <views:StringPickerView BindingContext="{Binding}" Title="{Binding SelectedBackgroundSpecialties.Name}" Description="{Binding SelectedBackgroundSpecialties.Description}" ItemsSource="{Binding SelectedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding SelectedPlayerCharacter.PickedBackgroundSpecialty, Mode=TwoWay}" />
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.PickedBackgroundSpecialty}" />
+                <views:StringPickerView BindingContext="{Binding}" IsVisible="{Binding HasBackgroundSpecialties}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
 
-                                
                 <views:StringPickerView BindingContext="{Binding}" Title="Trait de personnalité" IsVisible="{Binding NotifySelectedBackground.IsSuccessfullyCompleted}" ItemsSource="{Binding PersonalityTraits}" SelectedItem="{Binding SelectedPersonalityTrait, Mode=TwoWay}" />
 
                 <views:StringPickerView BindingContext="{Binding}" Title="Idéal" IsVisible="{Binding NotifySelectedBackground.IsSuccessfullyCompleted}" ItemsSource="{Binding PersonalityIdeals}" SelectedItem="{Binding SelectedPersonalityIdeal, Mode=TwoWay}" />

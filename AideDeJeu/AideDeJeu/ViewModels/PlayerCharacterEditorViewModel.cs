@@ -23,12 +23,17 @@ namespace AideDeJeu.ViewModels
             SelectedBackground = null;
             NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(null);
             SubBackgrounds = null;
-            SelectedSubBackground = new NotifyTaskCompletion<BackgroundItem>(null);
+            SelectedSubBackground = null;
+            NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
             PersonalityTraits = null;
             PersonalityIdeals = null;
             PersonalityLinks = null;
             PersonalityDefects = null;
             BackgroundSpecialties = null;
+            SubBackgroundSpecialties = null;
+            BackgroundSpecialty = null;
+            BackgroundSkill = null;
+            SubBackgroundSkill = null;
         }
 
         #region Selected PC
@@ -252,7 +257,7 @@ namespace AideDeJeu.ViewModels
                 PersonalityLinks = await LoadPersonalityLinksAsync(background);
                 PersonalityDefects = await LoadPersonalityDefectsAsync(background);
                 BackgroundSpecialties = await LoadBackgroundsSpecialtiesAsync(background);
-                await Task.Run(async () => SelectedPlayerCharacter.BackgroundSkill = await LoadSkillAsync(background));
+                BackgroundSkill = await LoadSkillAsync(background);
                 ResetAlignments();
             }
             return background;
@@ -285,30 +290,54 @@ namespace AideDeJeu.ViewModels
                 {
                     //SelectedPlayerCharacter.SubBackground = null;
                     SubBackgroundSelectedIndex = -1;
-                    SelectedSubBackground = new NotifyTaskCompletion<BackgroundItem>(null);
+                    SelectedSubBackground = null;
                 }
                 else if (_SubBackgroundSelectedIndex > 0)
                 {
-                    SelectedSubBackground = new NotifyTaskCompletion<BackgroundItem>(Task.Run(() => LoadSubBackgroundAsync(SubBackgrounds[_SubBackgroundSelectedIndex])));
+                    SelectedSubBackground = SubBackgrounds[_SubBackgroundSelectedIndex];
                 }
             }
         }
 
-        public NotifyTaskCompletion<BackgroundItem> SelectedSubBackground { get; private set; }
+        private SubBackgroundItem _SelectedSubBackground = null;
+        public SubBackgroundItem SelectedSubBackground
+        {
+            get
+            {
+                return _SelectedSubBackground;
+            }
+            set
+            {
+                SetProperty(ref _SelectedSubBackground, value);
+                NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(Task.Run(() => LoadSubBackgroundAsync(SelectedSubBackground)));
+            }
+        }
+        private NotifyTaskCompletion<SubBackgroundItem> _NotifySelectedSubBackground = null;
+        public NotifyTaskCompletion<SubBackgroundItem> NotifySelectedSubBackground
+        {
+            get
+            {
+                return _NotifySelectedSubBackground;
+            }
+            private set
+            {
+                SetProperty(ref _NotifySelectedSubBackground, value);
+            }
+        }
 
-        private async Task<BackgroundItem> LoadSubBackgroundAsync(SubBackgroundItem subbackground)
+        private async Task<SubBackgroundItem> LoadSubBackgroundAsync(SubBackgroundItem subbackground)
         {
             SelectedPlayerCharacter.SubBackground = subbackground;
             if (subbackground == null)
             {
                 SubBackgroundSpecialties = null;
-                SelectedPlayerCharacter.SubBackgroundSkill = null;
-                SelectedPlayerCharacter.SubBackgroundSpecialty = null;
+                SubBackgroundSkill = null;
+                SubBackgroundSpecialty = null;
             }
             else
             {
                 SubBackgroundSpecialties = await LoadBackgroundsSpecialtiesAsync(subbackground);
-                await Task.Run(async () => SelectedPlayerCharacter.SubBackgroundSkill = await LoadSkillAsync(subbackground));
+                SubBackgroundSkill = await LoadSkillAsync(subbackground);
             }
             return subbackground;
         }
@@ -427,7 +456,8 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _BackgroundSpecialties, value);
-                OnPropertyChanged(nameof(SelectedBackgroundSpecialties));
+                OnPropertyChanged(nameof(PreferedBackgroundSpecialties));
+                OnPropertyChanged(nameof(HasBackgroundSpecialties));
             }
         }
         private BackgroundSpecialtyItem _SubBackgroundSpecialties = null;
@@ -440,17 +470,94 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _SubBackgroundSpecialties, value);
-                OnPropertyChanged(nameof(SelectedBackgroundSpecialties));
+                OnPropertyChanged(nameof(PreferedBackgroundSpecialties));
+                OnPropertyChanged(nameof(HasBackgroundSpecialties));
             }
         }
-        public BackgroundSpecialtyItem SelectedBackgroundSpecialties
+        public BackgroundSpecialtyItem PreferedBackgroundSpecialties
         {
             get
             {
                 return _SubBackgroundSpecialties ?? _BackgroundSpecialties;
             }
         }
+        public bool HasBackgroundSpecialties
+        {
+            get
+            {
+                return PreferedBackgroundSpecialties != null;
+            }
+        }
 
+        private string _BackgroundSpecialty = null;
+        public string BackgroundSpecialty
+        {
+            get
+            {
+                return _BackgroundSpecialty;
+            }
+            set
+            {
+                SetProperty(ref _BackgroundSpecialty, value);
+                SelectedPlayerCharacter.BackgroundSpecialty = BackgroundSpecialty;
+            }
+        }
+        private string _SubBackgroundSpecialty = null;
+        public string SubBackgroundSpecialty
+        {
+            get
+            {
+                return _SubBackgroundSpecialty;
+            }
+            set
+            {
+                SetProperty(ref _SubBackgroundSpecialty, value);
+                SelectedPlayerCharacter.SubBackgroundSpecialty = SubBackgroundSpecialty;
+            }
+        }
+
+        private SkillItem _BackgroundSkill = null;
+        public SkillItem BackgroundSkill
+        {
+            get
+            {
+                return _BackgroundSkill;
+            }
+            set
+            {
+                SetProperty(ref _BackgroundSkill, value);
+                OnPropertyChanged(nameof(PreferedBackgroundSkill));
+                OnPropertyChanged(nameof(HasBackgroundSkill));
+            }
+        }
+        private SkillItem _SubBackgroundSkill = null;
+        public SkillItem SubBackgroundSkill
+        {
+            get
+            {
+                return _SubBackgroundSkill;
+            }
+            set
+            {
+                SetProperty(ref _SubBackgroundSkill, value);
+                OnPropertyChanged(nameof(PreferedBackgroundSkill));
+                OnPropertyChanged(nameof(HasBackgroundSkill));
+            }
+        }
+        public SkillItem PreferedBackgroundSkill
+        {
+            get
+            {
+                return _SubBackgroundSkill ?? _BackgroundSkill;
+            }
+        }
+        public bool HasBackgroundSkill
+        {
+            get
+            {
+                return PreferedBackgroundSkill != null;
+            }
+        }
         public async Task<List<BackgroundItem>> LoadBackgroundsAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
