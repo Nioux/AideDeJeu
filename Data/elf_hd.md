@@ -12,7 +12,11 @@
 
 ## Traits des elfes
 
+<!--Description-->
+
 Votre personnage elfe possède un ensemble de qualités naturelles qui sont le fruit de millénaires de raffinement elfique.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Dextérité] augmente de 2.<!--/AbilityScoreIncrease-->
 
@@ -26,11 +30,11 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 **Vision dans le noir.** <!--Darkvision-->Habitué à la pénombre des forêts et au ciel nocturne, vous jouissez d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris. <!--/Darkvision-->
 
-**Sens aiguisés.** Vous maîtrisez la compétence [Perception].
+**<!--SharpSenseKey-->Sens aiguisés<!--/SharpSenseKey-->.** <!--SharpSenseValue-->Vous maîtrisez la compétence [Perception].<!--/SharpSenseValue-->
 
-**Ascendance féerique.** Vous obtenez un avantage sur les [jets de sauvegarde] contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.
+**<!--FairyAncestryKey-->Ascendance féerique<!--/FairyAncestryKey-->.** <!--FairyAncestryValue-->Vous obtenez un avantage sur les [jets de sauvegarde] contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.<!--/FairyAncestryValue-->
 
-**Transe.** Les elfes n'ont pas besoin de dormir. À la place, ils passent 4 heures par jour dans un état de méditation profonde, tout en restant semi-conscients. Le mot qui décrit cette méditation en langage commun est « transe ». Pendant cette méditation, vous pouvez avoir un équivalent de rêves. De tels rêves sont en réalité des exercices mentaux qui sont devenus des réflexes au bout de plusieurs années de pratique. En vous reposant ainsi, vous obtenez les mêmes bénéfices que ceux d'un sommeil de 8 heures pour un humain. Toutefois, il faut toujours 8 heures à un elfe pour obtenir les effets d'un repos long.
+**<!--TranceKey-->Transe<!--/TranceKey-->.** <!--TranceValue-->Les elfes n'ont pas besoin de dormir. À la place, ils passent 4 heures par jour dans un état de méditation profonde, tout en restant semi-conscients. Le mot qui décrit cette méditation en langage commun est « transe ». Pendant cette méditation, vous pouvez avoir un équivalent de rêves. De tels rêves sont en réalité des exercices mentaux qui sont devenus des réflexes au bout de plusieurs années de pratique. En vous reposant ainsi, vous obtenez les mêmes bénéfices que ceux d'un sommeil de 8 heures pour un humain. Toutefois, il faut toujours 8 heures à un elfe pour obtenir les effets d'un repos long.<!--/TranceValue-->
 
 **Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en commun et en elfe. Le langage des elfes est fluide, avec des intonations subtiles et une grammaire élaborée. La littérature elfique est riche et variée, et leurs chansons et poèmes sont populaires parmi les autres races. De nombreux bardes apprennent à parler elfe afin de pouvoir ajouter des ballades elfiques à leur répertoire.<!--/Languages-->
 
@@ -41,15 +45,19 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 - AltName: <!--AltName-->High Elf (SRD p4)<!--/AltName-->
 - Source: <!--Source-->(MDR p45)<!--/Source-->
 
+<!--Description-->
+
 En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples elfiques. Vous avez une affinité supérieure avec la magie et placez la quête du savoir avant toute chose.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur d'[Intelligence] augmente de 1.<!--/AbilityScoreIncrease-->
 
-**Entraînement aux armes elfiques.** Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
+**<!--TrainingInElvenWeaponsKey-->Entraînement aux armes elfiques<!--/TrainingInElvenWeaponsKey-->.** <!--TrainingInElvenWeaponsValue-->Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.<!--/TrainingInElvenWeaponsValue-->
 
-**Tour de magie.** Vous connaissez un tour de magie de votre choix parmi la liste de sorts de magicien. Votre caractéristique d'incantation pour ce tour de magie est l'[Intelligence].
+**<!--MagicTrickKey-->Tour de magie<!--/MagicTrickKey-->.** <!--MagicTrickValue-->Vous connaissez un tour de magie de votre choix parmi la liste de sorts de magicien. Votre caractéristique d'incantation pour ce tour de magie est l'[Intelligence].<!--/MagicTrickValue-->
 
-**Langue supplémentaire.** Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
+**<!--AdditionalLanguageKey-->Langue supplémentaire<!--/AdditionalLanguageKey-->.** <!--AdditionalLanguageValue-->Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.<!--/AdditionalLanguageValue-->
 
 <!--/SubRaceItem-->
 
@@ -59,15 +67,19 @@ En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples 
 
 - Source: <!--Source-->(MDR p45)<!--/Source-->
 
+<!--Description-->
+
 En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vous avez une grande aisance en société. Vous avez une affinité supérieure avec la magie et appréciez l'art sous toutes ses formes.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme] augmente de 1.<!--/AbilityScoreIncrease-->
 
-**Entraînement aux armes elfiques.** Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
+**<!--TrainingInElvenWeaponsKey-->Entraînement aux armes elfiques<!--/TrainingInElvenWeaponsKey-->.** <!--TrainingInElvenWeaponsValue-->Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.<!--/TrainingInElvenWeaponsValue-->
 
-**Tour de magie.** Vous connaissez un tour de magie de votre choix parmi la liste de sorts de barde. Votre caractéristique d'incantation pour ce tour de magie est le [Charisme].
+**<!--MagicTrickKey-->Tour de magie<!--MagicTrickKey/-->.** <!--MagicTrickValue-->Vous connaissez un tour de magie de votre choix parmi la liste de sorts de barde. Votre caractéristique d'incantation pour ce tour de magie est le [Charisme].<!--/MagicTrickValue-->
 
-**Langue supplémentaire.** Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
+**<!--AdditionalLanguageKey-->Langue supplémentaire<!--/AdditionalLanguageKey-->.** <!--AdditionalLanguageValue-->Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.<!--/AdditionalLanguageValue-->
 
 <!--/SubRaceItem-->
 
@@ -77,13 +89,17 @@ En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vo
 
 - Source: <!--Source-->(MDR p45)<!--/Source-->
 
+<!--Description-->
+
 En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dans laquelle vous vous sentez chez vous. Vos doigts sont agiles et vous possédez un don pour l'artisanat.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Sagesse] augmente de 1.<!--/AbilityScoreIncrease-->
 
-**Créature des terres sauvages.** Vous avez l'habitude de parcourir les espaces naturels. Vous obtenez l'avantage sur vos tests de [Dextérité (Discrétion)] et [Sagesse (Survie)] lorsque vous parcourez des espaces naturels à la lumière du jour ou des étoiles.
+**<!--WildernessCreatureKey-->Créature des terres sauvages<!--/WildernessCreatureKey-->.** <!--WildernessCreatureValue-->Vous avez l'habitude de parcourir les espaces naturels. Vous obtenez l'avantage sur vos tests de [Dextérité (Discrétion)] et [Sagesse (Survie)] lorsque vous parcourez des espaces naturels à la lumière du jour ou des étoiles.<!--/WildernessCreatureValue-->
 
-**Artisans reconnus.** Vous maîtrisez un type d'outils d'artisan de votre choix.
+**<!--RecognizedCraftsmenKey-->Artisans reconnus<!--/RecognizedCraftsmenKey-->.** <!--RecognizedCraftsmenValue-->Vous maîtrisez un type d'outils d'artisan de votre choix.<!--/RecognizedCraftsmenValue-->
 
 <!--/SubRaceItem-->
 

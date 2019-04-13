@@ -307,6 +307,8 @@ namespace AideDeJeu.ViewModels
         {
             Item,
             Property,
+            Key,
+            Value,
             None,
         }
         public class ParsedComment
@@ -322,7 +324,10 @@ namespace AideDeJeu.ViewModels
                 var regex = new Regex("(?<closing>/?)(?<item>\\w+)(\\s+((?<name>\\w+)=\"(?<value>.*?)\"))*");
                 var match = regex.Match(comment);
                 Name = match.Groups["item"].Value;
-                Type = Name.EndsWith("Item") || Name.EndsWith("Items") ? ParsedCommentType.Item : Name != "br" ? ParsedCommentType.Property : ParsedCommentType.None;
+                Type = Name.EndsWith("Item") || Name.EndsWith("Items") ? ParsedCommentType.Item :
+                    Name.EndsWith("Key") ? ParsedCommentType.Key :
+                    Name.EndsWith("Value") ? ParsedCommentType.Value :
+                    Name != "br" ? ParsedCommentType.Property : ParsedCommentType.None;
                 IsClosing = !string.IsNullOrEmpty(match.Groups["closing"].Value);
                 var names = match.Groups["name"].Captures;
                 var values = match.Groups["value"].Captures;
