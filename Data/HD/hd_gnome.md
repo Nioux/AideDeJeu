@@ -9,6 +9,7 @@ Size: Les gnomes mesurent entre 90 centimètres et 1,20 mètre et pèsent en moy
 Speed: Votre vitesse au sol de base est de 7,50 mètres.
 Darkvision: Habitué à la vie souterraine, vous avez une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
 Languages: Vous pouvez parler, lire et écrire en commun et en gnome. La langue gnome utilise le même alphabet que les nains (le Runique). Les gnomes sont renommés pour leurs traités techniques et leurs catalogues de connaissances sur la nature.
+AbilityScoreIncrease: Votre valeur d'[Intelligence](hd_abilities_intelligence.md) augmente de 2.
 Id: gnome_hd.md#gnome
 RootId: gnome_hd.md
 ParentLink: races_hd.md#
@@ -17,8 +18,7 @@ ParentName: Races
 NameLevel: 1
 AltName: Gnome (SRD p6)
 Source: (MDR p48)
-Attributes:
-  AbilityScoreIncrease: Votre valeur d'[Intelligence](hd_abilities_intelligence.md) augmente de 2.
+Attributes: {}
 ---
 >  [Races](races_hd.md#)
 

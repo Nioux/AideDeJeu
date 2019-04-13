@@ -3,14 +3,14 @@
 ParentRaceId: hd_halfling.md
 FullName: Halfelin - Halfelin grand-sabot
 ConstitutionBonus: 1
+AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 1.
 Id: halfling_hd.md#halfelin-grand-sabot
 ParentLink: halfling_hd.md#halfelin
 Name: Halfelin grand-sabot
 ParentName: Halfelin
 NameLevel: 2
 Source: (MDR p52)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 1.
+Attributes: {}
 ---
 > [Halfelin](hd_halfling.md)
 

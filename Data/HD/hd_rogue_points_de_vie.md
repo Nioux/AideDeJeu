@@ -1,11 +1,11 @@
 ﻿---
 !ClassHitPointsItem
-Name: Points de vie
 HitDice: 1d8 par niveau de roublard
 HitPointsAt1stLevel: 8 + votre modificateur de [Constitution](hd_abilities_constitution.md)
 HitPointsAtHigherLevels: 1d8 (ou 5) + votre modificateur de [Constitution](hd_abilities_constitution.md) par niveau de roublard après le niveau 1
 Id: rogue_hd.md#points-de-vie
 ParentLink: rogue_hd.md#roublard
+Name: Points de vie
 ParentName: Roublard
 NameLevel: 2
 Attributes: {}

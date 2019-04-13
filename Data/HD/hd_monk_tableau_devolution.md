@@ -1,8 +1,8 @@
 ﻿---
 !ClassEvolutionItem
+Name: Tableau d'évolution
 Id: monk_hd.md#tableau-dévolution
 ParentLink: monk_hd.md#moine
-Name: Tableau d'évolution
 ParentName: Moine
 NameLevel: 1
 Attributes: {}

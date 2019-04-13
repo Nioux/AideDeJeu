@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Onguents
+Source: (L5R p52)
 Id: l5r_ranger_hd.md#onguents
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 5
-Source: (L5R p52)
 Attributes: {}
 ---
 > [Rôdeur des cinq Royaumes](hd_l5r_ranger.md)

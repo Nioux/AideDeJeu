@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Colère de la nature
+Source: (L5R p62)
 Id: l5r_druid_hd.md#colère-de-la-nature
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 ParentName: Druide des cinq royaumes
 NameLevel: 5
-Source: (L5R p62)
 Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)

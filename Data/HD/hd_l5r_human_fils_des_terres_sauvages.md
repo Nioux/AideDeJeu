@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Fils des terres sauvages
+Source: (L5R p51)
 Id: l5r_human_hd.md#fils-des-terres-sauvages
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
 ParentName: Humain des cinq royaumes
 NameLevel: 4
-Source: (L5R p51)
 Attributes: {}
 ---
 > [Humain des cinq royaumes](hd_l5r_human.md)

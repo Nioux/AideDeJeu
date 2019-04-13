@@ -1,13 +1,13 @@
 ﻿---
 !GenericItem
 Name: Écoulement du temps
+AltName: Time (SRD p84)
+Source: (MDR p270)
 Id: time_hd.md#Écoulement-du-temps
 RootId: time_hd.md
 ParentLink: adventure_hd.md
 ParentName: Partir à l'aventure
 NameLevel: 1
-AltName: Time (SRD p84)
-Source: (MDR p270)
 Attributes: {}
 ---
 >  [Partir à l'aventure](hd_adventure.md)

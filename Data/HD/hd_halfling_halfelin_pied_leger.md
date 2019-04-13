@@ -3,6 +3,7 @@
 ParentRaceId: hd_halfling.md
 FullName: Halfelin - Halfelin pied-léger
 CharismaBonus: 1
+AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.
 Id: halfling_hd.md#halfelin-pied-léger
 ParentLink: halfling_hd.md#halfelin
 Name: Halfelin pied-léger
@@ -10,8 +11,7 @@ ParentName: Halfelin
 NameLevel: 2
 AltName: Lightfoot (SRD p5)
 Source: (MDR p52)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.
+Attributes: {}
 ---
 > [Halfelin](hd_halfling.md)
 

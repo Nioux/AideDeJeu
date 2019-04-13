@@ -9,6 +9,7 @@ Size: Les hommes serpents sont légèrement plus grands que des humains et ils m
 Speed: Votre vitesse au sol de base est de 9 mètres.
 Darkvision: Comme tous les membres de votre race, vous possédez une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
 Languages: Vous pouvez lire, écrire et parler le commun. Vous parlez le Sseslish, le dialecte homme serpent qui n’a pas de forme écrite.
+AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 2 et votre valeur de [Charisme](hd_abilities_charisma.md) de 1.
 Id: homme-serpent_hd.md#homme-serpent
 RootId: homme-serpent_hd.md
 ParentLink: races_hd.md#
@@ -16,8 +17,7 @@ Name: Homme serpent
 ParentName: Races
 NameLevel: 1
 Source: (MDR p66)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 2 et votre valeur de [Charisme](hd_abilities_charisma.md) de 1.
+Attributes: {}
 ---
 >  [Races](races_hd.md#)
 

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Jets de sauvegarde
+AltName: Saving Throws (SRD p103)
+Source: (MDR p309)
 Id: spellcasting_hd.md#jets-de-sauvegarde
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 ParentName: Lancer des sorts
 NameLevel: 3
-AltName: Saving Throws (SRD p103)
-Source: (MDR p309)
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

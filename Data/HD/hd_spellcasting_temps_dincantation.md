@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Temps d'incantation
+AltName: Casting Time (SRD p101)
+Source: (MDR p307)
 Id: spellcasting_hd.md#temps-dincantation
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 ParentName: Lancer des sorts
 NameLevel: 3
-AltName: Casting Time (SRD p101)
-Source: (MDR p307)
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

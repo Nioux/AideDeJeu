@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Points de combativité
+Source: (L5R p42)
 Id: l5r_hitpoints_hd.md#points-de-combativité
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 ParentName: Points de vie et blessures
 NameLevel: 3
-Source: (L5R p42)
 Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)

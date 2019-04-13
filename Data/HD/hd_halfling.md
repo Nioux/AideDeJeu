@@ -8,6 +8,7 @@ Alignment: La majorité des halfelins est d'alignement Loyal Bon. Ce sont par na
 Size: D'une taille moyenne de 90 centimètres, les halfelins pèsent environ 20 kg. Ils sont de petite taille.
 Speed: Votre vitesse au sol de base est de 7,50 mètres.
 Languages: Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.
+AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.
 Id: halfling_hd.md#halfelin
 RootId: halfling_hd.md
 ParentLink: races_hd.md#
@@ -16,8 +17,7 @@ ParentName: Races
 NameLevel: 1
 AltName: Halfling (SRD p4)
 Source: (MDR p52)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.
+Attributes: {}
 ---
 >  [Races](races_hd.md#)
 

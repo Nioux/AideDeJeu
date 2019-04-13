@@ -9,6 +9,8 @@ Size: Les aasimars sont d'une taille et d'une corpulence comparable aux humains.
 Speed: Votre vitesse au sol de base est de 9 mètres.
 Darkvision: Grâce à votre ascendance céleste, vous avez hérité d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
 Languages: Vous pouvez lire, écrire et parler le commun, ainsi que le céleste.
+AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 2 et votre valeur de [Sagesse](hd_abilities_wisdom.md) de 1.
+CelestialResistance: Vous êtes résistant aux dégâts nécrotiques.
 Id: aasimar_hd.md#aasimar
 RootId: aasimar_hd.md
 ParentLink: races_hd.md#races
@@ -16,9 +18,7 @@ Name: Aasimar
 ParentName: Races
 NameLevel: 1
 Source: (MDR p59)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 2 et votre valeur de [Sagesse](hd_abilities_wisdom.md) de 1.
-  CelestialResistance: Vous êtes résistant aux dégâts nécrotiques.
+Attributes: {}
 ---
 >  [Races](hd_races.md)
 

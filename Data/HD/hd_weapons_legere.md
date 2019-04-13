@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Légère
+AltName: Light (SRD p65)
+Source: (MDR p227)
 Id: weapons_hd.md#légère
 ParentLink: weapons_hd.md#armes
 ParentName: Armes
 NameLevel: 5
-AltName: Light (SRD p65)
-Source: (MDR p227)
 Attributes: {}
 ---
 > [Armes](hd_weapons.md)

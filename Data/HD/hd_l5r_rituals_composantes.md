@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Composantes
+Source: (L5R p68)
 Id: l5r_rituals_hd.md#composantes
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 ParentName: Lancer un rituel
 NameLevel: 4
-Source: (L5R p68)
 Attributes: {}
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

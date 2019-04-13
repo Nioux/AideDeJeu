@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Collège du savoir
+Source: (L5R p58)
 Id: l5r_bard_hd.md#collège-du-savoir
 ParentLink: l5r_bard_hd.md#barde-des-cinq-royaumes
 ParentName: Barde des cinq royaumes
 NameLevel: 4
-Source: (L5R p58)
 Attributes: {}
 ---
 > [Barde des cinq royaumes](hd_l5r_bard.md)

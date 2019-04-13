@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: Sagesse
+AltName: Wisdom (SRD p82)
+Source: (MDR p265)
 Id: abilities_wisdom_hd.md#sagesse
 RootId: abilities_wisdom_hd.md
 ParentLink: abilities_hd.md
-Name: Sagesse
 ParentName: Caractéristiques
 NameLevel: 1
-AltName: Wisdom (SRD p82)
-Source: (MDR p265)
 Attributes: {}
 ---
 >  [Caractéristiques](hd_abilities.md)

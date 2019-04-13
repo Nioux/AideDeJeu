@@ -1,12 +1,12 @@
 ﻿---
 !Items
+Name: Humain des cinq royaumes
+Source: (L5R p49)
 Id: l5r_human_hd.md#humain-des-cinq-royaumes
 RootId: l5r_human_hd.md
 ParentLink: l5r_index_hd.md
-Name: Humain des cinq royaumes
 ParentName: Les Cinq Royaumes
 NameLevel: 2
-Source: (L5R p49)
 Attributes: {}
 ---
 >  [Les Cinq Royaumes](hd_l5r_index.md)

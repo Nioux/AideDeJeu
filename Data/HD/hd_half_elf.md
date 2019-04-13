@@ -9,6 +9,7 @@ Size: Les demi-elfes sont de taille similaire aux [humains]. Ils font entre 1,50
 Speed: Votre vitesse au sol de base est de 9 mètres.
 Darkvision: Grâce à votre sang [elfe](hd_elf.md), vous avez hérité d'une vision supérieure dans l'[obscurité] et dans la [lumière faible]. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de [lumière faible] comme s'il s'agissait d'une [lumière vive] et dans l'[obscurité] comme s'il s'agissait d'une [lumière faible]. Par contre, vous ne distinguez pas les couleurs dans l'[obscurité], seulement des nuances de gris.
 Languages: Vous pouvez parler, lire et écrire en [commun], en [elfe](hd_elf.md) et dans une autre langue de votre choix.
+AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 2 et deux autres valeurs de votre choix de 1.
 Id: half-elf_hd.md#demi-elfe
 RootId: half-elf_hd.md
 ParentLink: races_hd.md#
@@ -17,8 +18,7 @@ ParentName: Races
 NameLevel: 1
 AltName: Half-Elf (SRD p6)
 Source: (MDR p39)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 2 et deux autres valeurs de votre choix de 1.
+Attributes: {}
 ---
 >  [Races](races_hd.md#)
 

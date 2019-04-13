@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Chargement
+AltName: Loading (SRD p65)
+Source: (MDR p226)
 Id: weapons_hd.md#chargement
 ParentLink: weapons_hd.md#armes
 ParentName: Armes
 NameLevel: 5
-AltName: Loading (SRD p65)
-Source: (MDR p226)
 Attributes: {}
 ---
 > [Armes](hd_weapons.md)

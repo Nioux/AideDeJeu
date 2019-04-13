@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Les sorts connus et les sorts préparés
+AltName: Known and Prepared Spells (SRD p100)
+Source: (MDR p306)
 Id: spellcasting_hd.md#les-sorts-connus-et-les-sorts-préparés
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 ParentName: Lancer des sorts
 NameLevel: 3
-AltName: Known and Prepared Spells (SRD p100)
-Source: (MDR p306)
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

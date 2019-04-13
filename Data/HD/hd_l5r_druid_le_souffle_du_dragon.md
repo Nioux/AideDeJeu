@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Le souffle du dragon
+Source: (L5R p62)
 Id: l5r_druid_hd.md#le-souffle-du-dragon
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
 ParentName: Druide des cinq royaumes
 NameLevel: 4
-Source: (L5R p62)
 Attributes: {}
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)

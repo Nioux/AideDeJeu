@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Somatiques (S)
+AltName: Somatic (S) (SRD p101)
+Source: (MDR p308)
 Id: spellcasting_hd.md#somatiques-s
 ParentLink: spellcasting_hd.md#lancer-des-sorts
 ParentName: Lancer des sorts
 NameLevel: 4
-AltName: Somatic (S) (SRD p101)
-Source: (MDR p308)
 Attributes: {}
 ---
 > [Lancer des sorts](hd_spellcasting.md)

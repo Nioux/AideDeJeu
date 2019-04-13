@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Regagner ses points de vitalité
+Source: (L5R p45)
 Id: l5r_hitpoints_hd.md#regagner-ses-points-de-vitalité
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 ParentName: Points de vie et blessures
 NameLevel: 4
-Source: (L5R p45)
 Attributes: {}
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)

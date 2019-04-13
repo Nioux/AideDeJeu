@@ -227,27 +227,51 @@ namespace AideDeJeu.ViewModels
                 if (inline is HtmlInline)
                 {
                     var tag = (inline as HtmlInline).Tag;
-                    if (tag == "<!--br-->" || tag == "<br>")
+                    if(tag.StartsWith("<!--"))
                     {
-
-                    }
-                    else if (tag.StartsWith("<!--/"))
-                    {
-                        prop = null;
-                        propertyName = null;
-                    }
-                    else if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
-                    {
-                        propertyName = tag.Substring(4, tag.Length - 7);
-                        if(propertyName == "Name")
+                        var parsedComment = new ParsedComment(tag, true);
+                        if(parsedComment.Type == ParsedCommentType.Property)
                         {
-                            if (headingBlock != null)
+                            if(!parsedComment.IsClosing)
                             {
-                                item.NameLevel = headingBlock.Level;
+                                propertyName = parsedComment.Name;
+                                if (propertyName == "Name")
+                                {
+                                    if (headingBlock != null)
+                                    {
+                                        item.NameLevel = headingBlock.Level;
+                                    }
+                                }
+                                prop = item.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
+                            }
+                            else
+                            {
+                                prop = null;
+                                propertyName = null;
                             }
                         }
-                        prop = item.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
                     }
+                    //if (tag == "<!--br-->" || tag == "<br>")
+                    //{
+
+                    //}
+                    //else if (tag.StartsWith("<!--/"))
+                    //{
+                    //    prop = null;
+                    //    propertyName = null;
+                    //}
+                    //else if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
+                    //{
+                    //    propertyName = tag.Substring(4, tag.Length - 7);
+                    //    if(propertyName == "Name")
+                    //    {
+                    //        if (headingBlock != null)
+                    //        {
+                    //            item.NameLevel = headingBlock.Level;
+                    //        }
+                    //    }
+                    //    prop = item.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
+                    //}
                 }
                 else
                 {
@@ -257,6 +281,7 @@ namespace AideDeJeu.ViewModels
                     }
                     else if(propertyName != null)
                     {
+                        Debug.WriteLine(propertyName);
                         if (item.Attributes.ContainsKey(propertyName))
                         {
                             item.Attributes[propertyName] += inline.ToMarkdownString();
@@ -314,6 +339,7 @@ namespace AideDeJeu.ViewModels
         public class ParsedComment
         {
             public string Name { get; private set; }
+            public string ShortName { get; private set; }
             public ParsedCommentType Type { get; private set; }
             public bool IsClosing { get; private set; }
             public Dictionary<string, string> Attributes { get; private set; }
@@ -324,10 +350,31 @@ namespace AideDeJeu.ViewModels
                 var regex = new Regex("(?<closing>/?)(?<item>\\w+)(\\s+((?<name>\\w+)=\"(?<value>.*?)\"))*");
                 var match = regex.Match(comment);
                 Name = match.Groups["item"].Value;
-                Type = Name.EndsWith("Item") || Name.EndsWith("Items") ? ParsedCommentType.Item :
-                    Name.EndsWith("Key") ? ParsedCommentType.Key :
-                    Name.EndsWith("Value") ? ParsedCommentType.Value :
-                    Name != "br" ? ParsedCommentType.Property : ParsedCommentType.None;
+                Dictionary<string, ParsedCommentType> typeMatching = new Dictionary<string, ParsedCommentType>()
+                {
+                    { "Item", ParsedCommentType.Item },
+                    { "Items", ParsedCommentType.Item },
+                    //{ "Key", ParsedCommentType.Key },
+                    //{ "Value", ParsedCommentType.Value },
+                };
+                if (Name == "br")
+                {
+                    Type = ParsedCommentType.None;
+                    ShortName = Name;
+                }
+                else
+                {
+                    Type = ParsedCommentType.Property;
+                    ShortName = Name;
+                    foreach (var typeMatch in typeMatching)
+                    {
+                        if (Name.EndsWith(typeMatch.Key))
+                        {
+                            Type = typeMatch.Value;
+                            ShortName = Name.Substring(0, Name.Length - typeMatch.Key.Length);
+                        }
+                    }
+                }
                 IsClosing = !string.IsNullOrEmpty(match.Groups["closing"].Value);
                 var names = match.Groups["name"].Captures;
                 var values = match.Groups["value"].Captures;
@@ -410,18 +457,18 @@ namespace AideDeJeu.ViewModels
             return false;
         }
 
-        public bool IsClosingProperty(Block block)
-        {
-            var htmlBlock = block as HtmlBlock;
-            if (htmlBlock.Type == HtmlBlockType.Comment)
-            {
-                var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
-                var comment = tag.Substring(4, tag.Length - 7);
-                var parsedComment = new ParsedComment(comment);
-                return parsedComment.IsClosing && parsedComment.Type == ParsedCommentType.Property;
-            }
-            return false;
-        }
+        //public bool IsClosingProperty(Block block)
+        //{
+        //    var htmlBlock = block as HtmlBlock;
+        //    if (htmlBlock.Type == HtmlBlockType.Comment)
+        //    {
+        //        var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
+        //        var comment = tag.Substring(4, tag.Length - 7);
+        //        var parsedComment = new ParsedComment(comment);
+        //        return parsedComment.IsClosing && parsedComment.Type == ParsedCommentType.Property;
+        //    }
+        //    return false;
+        //}
 
         public Item GetNewItem(Block block)
         {
