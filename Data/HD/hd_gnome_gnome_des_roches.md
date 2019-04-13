@@ -3,6 +3,7 @@
 ParentRaceId: hd_gnome.md
 FullName: Gnome - Gnome des roches
 ConstitutionBonus: 1
+AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 1.
 Id: gnome_hd.md#gnome-des-roches
 ParentLink: gnome_hd.md#gnome
 Name: Gnome des roches
@@ -10,8 +11,7 @@ ParentName: Gnome
 NameLevel: 2
 AltName: Rock Gnome (SRD p6)
 Source: (MDR p48)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 1.
+Attributes: {}
 ---
 > [Gnome](hd_gnome.md)
 

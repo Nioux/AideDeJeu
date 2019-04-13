@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Entravé
+AltName: '[Restrained](srd_conditions_restrained.md)'
 Id: conditions_hd.md#entravé
 ParentLink: conditions_hd.md#États-spéciaux
 ParentName: États spéciaux
 NameLevel: 1
-AltName: '[Restrained](srd_conditions_restrained.md)'
 Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)

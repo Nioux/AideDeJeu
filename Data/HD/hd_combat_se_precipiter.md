@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Se précipiter
+AltName: Dash (SRD p93)
+Source: (MDR p290)
 Id: combat_hd.md#se-précipiter
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
-AltName: Dash (SRD p93)
-Source: (MDR p290)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

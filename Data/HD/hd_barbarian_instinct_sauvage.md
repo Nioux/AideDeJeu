@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Instinct sauvage
 Id: barbarian_hd.md#instinct-sauvage
 ParentLink: barbarian_hd.md#barbare
-Name: Instinct sauvage
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

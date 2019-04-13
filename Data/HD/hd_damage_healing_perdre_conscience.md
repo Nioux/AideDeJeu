@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Perdre conscience
+AltName: Falling Unconscious
+Source: (MDR p298)(SRD p98)
 Id: damage_healing_hd.md#perdre-conscience
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 ParentName: 'Dégâts et guérison '
 NameLevel: 4
-AltName: Falling Unconscious
-Source: (MDR p298)(SRD p98)
 Attributes: {}
 ---
 > [Dégâts et guérison ](hd_damage_healing.md)

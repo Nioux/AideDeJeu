@@ -9,6 +9,7 @@ Size: Les demi-ogres sont des créatures de taille moyenne. Ce sont cependant de
 Speed: Votre vitesse au sol de base est de 9 mètres.
 Darkvision: Votre ascendance ogre vous a octroyé une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
 Languages: Vous pouvez lire, écrire et parler le commun ainsi que le géant.
+AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 2 et votre valeur de [Force](hd_abilities_strength.md) de 2.
 Id: demi-ogre_hd.md#demi-ogre
 RootId: demi-ogre_hd.md
 ParentLink: races_hd.md#
@@ -16,8 +17,7 @@ Name: Demi-ogre
 ParentName: Races
 NameLevel: 1
 Source: (MDR p62)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 2 et votre valeur de [Force](hd_abilities_strength.md) de 2.
+Attributes: {}
 ---
 >  [Races](races_hd.md#)
 

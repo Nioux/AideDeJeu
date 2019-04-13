@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Flexibilité incantatoire
 Id: sorcerer_hd.md#flexibilité-incantatoire
 ParentLink: sorcerer_hd.md#ensorceleur
-Name: Flexibilité incantatoire
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

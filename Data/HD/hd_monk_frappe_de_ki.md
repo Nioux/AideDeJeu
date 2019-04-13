@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Frappe de ki
 Id: monk_hd.md#frappe-de-ki
 ParentLink: monk_hd.md#moine
-Name: Frappe de ki
 ParentName: Moine
 NameLevel: 2
 Attributes: {}

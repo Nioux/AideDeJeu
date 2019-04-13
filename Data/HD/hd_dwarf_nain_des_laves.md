@@ -3,14 +3,14 @@
 ParentRaceId: hd_dwarf.md
 FullName: Nain - Nain des laves
 StrengthBonus: 1
+AbilityScoreIncrease: Votre valeur de [Force](hd_abilities_strength.md) augmente de 1.
 Id: dwarf_hd.md#nain-des-laves
 ParentLink: dwarf_hd.md#nain
 Name: Nain des laves
 ParentName: Nain
 NameLevel: 2
 Source: (MDR p57)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Force](hd_abilities_strength.md) augmente de 1.
+Attributes: {}
 ---
 > [Nain](hd_dwarf.md)
 

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Indomptable
 Id: fighter_hd.md#indomptable
 ParentLink: fighter_hd.md#guerrier
-Name: Indomptable
 ParentName: Guerrier
 NameLevel: 1
 Attributes: {}

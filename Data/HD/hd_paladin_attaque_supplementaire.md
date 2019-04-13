@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Attaque supplémentaire
 Id: paladin_hd.md#attaque-supplémentaire
 ParentLink: paladin_hd.md#paladin
-Name: Attaque supplémentaire
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

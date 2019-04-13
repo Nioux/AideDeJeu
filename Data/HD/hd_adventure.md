@@ -1,9 +1,9 @@
 ﻿---
 !Items
+Name: Partir à l'aventure
 Id: adventure_hd.md#partir-à-laventure
 RootId: adventure_hd.md
 ParentLink: index.md
-Name: Partir à l'aventure
 ParentName: Manuel des règles
 NameLevel: 1
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Sens sauvages
 Id: ranger_hd.md#sens-sauvages
 ParentLink: ranger_hd.md#rôdeur
-Name: Sens sauvages
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

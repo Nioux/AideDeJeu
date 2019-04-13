@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Protecteur de l'outre-monde
 Id: warlock_hd.md#protecteur-de-loutre-monde
 ParentLink: warlock_hd.md#sorcier
-Name: Protecteur de l'outre-monde
 ParentName: Sorcier
 NameLevel: 2
 Attributes: {}

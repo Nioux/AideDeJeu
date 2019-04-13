@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Aider
+AltName: Help (SRD p93)
+Source: (MDR p288)
 Id: combat_hd.md#aider
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
-AltName: Help (SRD p93)
-Source: (MDR p288)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

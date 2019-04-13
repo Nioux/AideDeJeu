@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Poisoned
+AltName: '[Empoisonné](hd_conditions_empoisonne.md)'
+Source: (SRD p359)
 Id: conditions_vo.md#poisoned
 ParentLink: conditions_vo.md#conditions
 ParentName: Conditions
 NameLevel: 1
-AltName: '[Empoisonné](hd_conditions_empoisonne.md)'
-Source: (SRD p359)
 Attributes: {}
 ---
 > [Conditions](srd_conditions.md)

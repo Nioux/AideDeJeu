@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: L’environnement
+AltName: The Environment (SRD p86)
+Source: (MDR p274)
 Id: environment_hd.md#l’environnement
 RootId: environment_hd.md
 ParentLink: adventure_hd.md
-Name: L’environnement
 ParentName: Partir à l'aventure
 NameLevel: 1
-AltName: The Environment (SRD p86)
-Source: (MDR p274)
 Attributes: {}
 ---
 >  [Partir à l'aventure](hd_adventure.md)

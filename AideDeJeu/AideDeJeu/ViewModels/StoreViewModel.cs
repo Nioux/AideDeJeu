@@ -222,16 +222,31 @@ namespace AideDeJeu.ViewModels
             }
             PropertyInfo prop = null;
             string propertyName = null;
-            foreach (var inline in inlines)
+            var ilist = inlines.ToList();
+            foreach (var inline in inlines.ToList())
             {
+                if(inline is ContainerInline)
+                {
+                    var containerInline = inline as ContainerInline;
+                    ParseItemProperties(source, item, containerInline, headingBlock);
+                }
                 if (inline is HtmlInline)
                 {
                     var tag = (inline as HtmlInline).Tag;
-                    if(tag.StartsWith("<!--"))
+                    Debug.WriteLine(tag);
+                    if(tag.EndsWith("Key-->"))
+                    {
+                        Debug.WriteLine("break");
+                    }
+                    if (tag.StartsWith("<!--"))
                     {
                         var parsedComment = new ParsedComment(tag, true);
                         if(parsedComment.Type == ParsedCommentType.Property)
                         {
+                            if(parsedComment.Name.EndsWith("Value"))
+                            {
+                                Debug.WriteLine("break");
+                            }
                             if(!parsedComment.IsClosing)
                             {
                                 propertyName = parsedComment.Name;

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Duel
 Id: ranger_hd.md#duel
 ParentLink: ranger_hd.md#rôdeur
-Name: Duel
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

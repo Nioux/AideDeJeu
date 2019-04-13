@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Lancer un sort
+AltName: Cast a Spell (SRD p93)
+Source: (MDR p288)
 Id: combat_hd.md#lancer-un-sort
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
-AltName: Cast a Spell (SRD p93)
-Source: (MDR p288)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

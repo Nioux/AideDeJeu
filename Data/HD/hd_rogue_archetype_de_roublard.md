@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Archétype de roublard
 Id: rogue_hd.md#archétype-de-roublard
 ParentLink: rogue_hd.md#roublard
-Name: Archétype de roublard
 ParentName: Roublard
 NameLevel: 2
 Attributes: {}

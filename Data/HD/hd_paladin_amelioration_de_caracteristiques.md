@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Amélioration de caractéristiques
 Id: paladin_hd.md#amélioration-de-caractéristiques
 ParentLink: paladin_hd.md#paladin
-Name: Amélioration de caractéristiques
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

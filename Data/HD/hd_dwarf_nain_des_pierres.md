@@ -3,14 +3,14 @@
 ParentRaceId: hd_dwarf.md
 FullName: Nain - Nain des pierres
 IntelligenceBonus: 1
+AbilityScoreIncrease: Votre valeur d'[Intelligence](hd_abilities_intelligence.md) augmente de 1.
 Id: dwarf_hd.md#nain-des-pierres
 ParentLink: dwarf_hd.md#nain
 Name: Nain des pierres
 ParentName: Nain
 NameLevel: 2
 Source: (MDR p57)
-Attributes:
-  AbilityScoreIncrease: Votre valeur d'[Intelligence](hd_abilities_intelligence.md) augmente de 1.
+Attributes: {}
 ---
 > [Nain](hd_dwarf.md)
 

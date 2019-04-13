@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Surprise
+AltName: Surprise (SRD p90)
+Source: (MDR p284)
 Id: combat_hd.md#surprise
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
-AltName: Surprise (SRD p90)
-Source: (MDR p284)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

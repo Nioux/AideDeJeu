@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Rage implacable
 Id: barbarian_hd.md#rage-implacable
 ParentLink: barbarian_hd.md#barbare
-Name: Rage implacable
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

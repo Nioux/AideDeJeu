@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Chercher
+AltName: Search (SRD p94)
+Source: (MDR p288)
 Id: combat_hd.md#chercher
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
-AltName: Search (SRD p94)
-Source: (MDR p288)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

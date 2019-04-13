@@ -3,14 +3,14 @@
 ParentRaceId: hd_gnome.md
 FullName: Gnome - Gnome des lacs
 WisdomBonus: 1
+AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.
 Id: gnome_hd.md#gnome-des-lacs
 ParentLink: gnome_hd.md#gnome
 Name: Gnome des lacs
 ParentName: Gnome
 NameLevel: 2
 Source: (MDR p49)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.
+Attributes: {}
 ---
 > [Gnome](hd_gnome.md)
 

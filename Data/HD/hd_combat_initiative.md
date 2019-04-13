@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Initiative
+AltName: Initiative (SRD p90)
+Source: (MDR p284)
 Id: combat_hd.md#initiative
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
-AltName: Initiative (SRD p90)
-Source: (MDR p284)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

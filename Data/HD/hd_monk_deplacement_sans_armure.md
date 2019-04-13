@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Déplacement sans armure
 Id: monk_hd.md#déplacement-sans-armure
 ParentLink: monk_hd.md#moine
-Name: Déplacement sans armure
 ParentName: Moine
 NameLevel: 2
 Attributes: {}

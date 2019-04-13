@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: Invisible
+AltName: '[Invisible](srd_conditions_invisible.md)'
 Id: conditions_hd.md#invisible
 ParentLink: conditions_hd.md#États-spéciaux
 ParentName: États spéciaux
 NameLevel: 1
-AltName: '[Invisible](srd_conditions_invisible.md)'
 Attributes: {}
 ---
 > [États spéciaux](hd_conditions.md)

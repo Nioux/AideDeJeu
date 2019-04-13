@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Amélioration de caractéristiques
 Id: warlock_hd.md#amélioration-de-caractéristiques
 ParentLink: warlock_hd.md#sorcier
-Name: Amélioration de caractéristiques
 ParentName: Sorcier
 NameLevel: 1
 Attributes: {}

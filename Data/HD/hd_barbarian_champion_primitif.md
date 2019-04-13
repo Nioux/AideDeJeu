@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Champion primitif
 Id: barbarian_hd.md#champion-primitif
 ParentLink: barbarian_hd.md#barbare
-Name: Champion primitif
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

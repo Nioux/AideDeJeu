@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Auras
 Id: paladin_hd.md#auras
 ParentLink: paladin_hd.md#paladin
-Name: Auras
 ParentName: Paladin
 NameLevel: 1
 Attributes: {}

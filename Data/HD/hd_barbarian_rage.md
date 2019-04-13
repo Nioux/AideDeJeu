@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Rage
 Id: barbarian_hd.md#rage
 ParentLink: barbarian_hd.md#barbare
-Name: Rage
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

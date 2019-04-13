@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Déplacement rapide
 Id: barbarian_hd.md#déplacement-rapide
 ParentLink: barbarian_hd.md#barbare
-Name: Déplacement rapide
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

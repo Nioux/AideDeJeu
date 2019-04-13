@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Défense
 Id: paladin_hd.md#défense
 ParentLink: paladin_hd.md#paladin
-Name: Défense
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

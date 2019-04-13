@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Disparition
 Id: ranger_hd.md#disparition
 ParentLink: ranger_hd.md#rôdeur
-Name: Disparition
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

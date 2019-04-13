@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Imposition des mains
 Id: paladin_hd.md#imposition-des-mains
 ParentLink: paladin_hd.md#paladin
-Name: Imposition des mains
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

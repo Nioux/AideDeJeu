@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Les étapes du combat
+AltName: Combat Step by Step (SRD p90)
+Source: (MDR p284)
 Id: combat_hd.md#les-étapes-du-combat
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
-AltName: Combat Step by Step (SRD p90)
-Source: (MDR p284)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

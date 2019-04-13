@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Style de combat
 Id: fighter_hd.md#style-de-combat
 ParentLink: fighter_hd.md#guerrier
-Name: Style de combat
 ParentName: Guerrier
 NameLevel: 1
 Attributes: {}

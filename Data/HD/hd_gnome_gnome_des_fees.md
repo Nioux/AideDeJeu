@@ -3,14 +3,14 @@
 ParentRaceId: hd_gnome.md
 FullName: Gnome - Gnome des fées
 DexterityBonus: 1
+AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 1.
 Id: gnome_hd.md#gnome-des-fées
 ParentLink: gnome_hd.md#gnome
 Name: Gnome des fées
 ParentName: Gnome
 NameLevel: 2
 Source: (MDR p49)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 1.
+Attributes: {}
 ---
 > [Gnome](hd_gnome.md)
 

@@ -9,6 +9,7 @@ Size: Les elfes mesurent généralement entre 1,50 et 1,80 mètre, et sont mince
 Speed: Votre vitesse au sol de base est de 9 mètres.
 Darkvision: "Habitué à la pénombre des forêts et au ciel nocturne, vous jouissez d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris. "
 Languages: Vous pouvez parler, lire et écrire en commun et en elfe. Le langage des elfes est fluide, avec des intonations subtiles et une grammaire élaborée. La littérature elfique est riche et variée, et leurs chansons et poèmes sont populaires parmi les autres races. De nombreux bardes apprennent à parler elfe afin de pouvoir ajouter des ballades elfiques à leur répertoire.
+AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.
 Id: elf_hd.md#elfe
 RootId: elf_hd.md
 ParentLink: races_hd.md#
@@ -18,7 +19,15 @@ NameLevel: 1
 AltName: Elf (SRD p4)
 Source: (MDR p44)
 Attributes:
-  AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.
+  SharpSenseKey: Sens aiguisés
+  SharpSenseValue: Vous maîtrisez la compétence [Perception](hd_abilities_wisdom_perception.md).
+  FairyAncestryKey: Ascendance féerique
+  FairyAncestryValue: Vous obtenez un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.
+  TranceKey: Transe
+  TranceValue: Les elfes n'ont pas besoin de dormir. À la place, ils passent 4 heures par jour dans un état de méditation profonde, tout en restant semi-conscients. Le mot qui décrit cette méditation en langage commun est « transe ». Pendant cette méditation, vous pouvez avoir un équivalent de rêves. De tels rêves sont en réalité des exercices mentaux qui sont devenus des réflexes au bout de plusieurs années de pratique. En vous reposant ainsi, vous obtenez les mêmes bénéfices que ceux d'un sommeil de 8 heures pour un humain. Toutefois, il faut toujours 8 heures à un elfe pour obtenir les effets d'un repos long.
+Description: >+
+  Votre personnage elfe possède un ensemble de qualités naturelles qui sont le fruit de millénaires de raffinement elfique.
+
 ---
 >  [Races](races_hd.md#)
 

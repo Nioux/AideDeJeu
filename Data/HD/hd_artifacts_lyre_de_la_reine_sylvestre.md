@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
 Name: LYRE DE LA REINE SYLVESTRE
+Source: (CDC p192)
 Id: artifacts_hd.md#lyre-de-la-reine-sylvestre
 ParentLink: artifacts_hd.md#artefacts
 ParentName: Artefacts
 NameLevel: 2
-Source: (CDC p192)
 Attributes: {}
 ---
 > [Artefacts](hd_artifacts.md)

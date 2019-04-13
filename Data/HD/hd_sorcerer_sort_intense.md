@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Sort intense
 Id: sorcerer_hd.md#sort-intense
 ParentLink: sorcerer_hd.md#ensorceleur
-Name: Sort intense
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

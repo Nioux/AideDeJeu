@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Aura de courage
 Id: paladin_hd.md#aura-de-courage
 ParentLink: paladin_hd.md#paladin
-Name: Aura de courage
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

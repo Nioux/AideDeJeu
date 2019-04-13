@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Expertise
 Id: rogue_hd.md#expertise
 ParentLink: rogue_hd.md#roublard
-Name: Expertise
 ParentName: Roublard
 NameLevel: 2
 Attributes: {}

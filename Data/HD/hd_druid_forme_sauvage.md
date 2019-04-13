@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Forme sauvage
 Id: druid_hd.md#forme-sauvage
 ParentLink: druid_hd.md#druide
-Name: Forme sauvage
 ParentName: Druide
 NameLevel: 2
 Attributes: {}

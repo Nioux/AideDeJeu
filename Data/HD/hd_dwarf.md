@@ -9,6 +9,7 @@ Size: Les nains mesurent entre 1,10 et 1,50 mètre et pèsent en moyenne 75 kilo
 Speed: Votre vitesse au sol de base est de 7,50 mètres. Vous pouvez porter une armure lourde sans que cela réduise votre vitesse.
 Darkvision: Habitué à la vie souterraine, vous avez une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
 Languages: Vous pouvez parler et écrire en commun et en nain. Le nain est une langue aux consonnes dures et aux sons gutturaux, des spécificités qui se retrouvent dans l'accent qu'ont les nains en parlant un autre langage.
+AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 2.
 Id: dwarf_hd.md#nain
 RootId: dwarf_hd.md
 ParentLink: races_hd.md#
@@ -17,8 +18,7 @@ ParentName: Races
 NameLevel: 1
 AltName: Dwarf (SRD p3)
 Source: (MDR p57)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 2.
+Attributes: {}
 ---
 >  [Races](races_hd.md#)
 

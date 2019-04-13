@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Se déplacer au milieu d'autres créatures
+AltName: Moving Around Other Creatures (SRD p92)
+Source: (MDR p286)
 Id: combat_hd.md#se-déplacer-au-milieu-dautres-créatures
 ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 3
-AltName: Moving Around Other Creatures (SRD p92)
-Source: (MDR p286)
 Attributes: {}
 ---
 > [Combattre](hd_combat.md)

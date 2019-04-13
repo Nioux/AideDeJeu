@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Incapacitated
+AltName: '[Neutralisé](hd_conditions_neutralise.md)'
+Source: (SRD p358)
 Id: conditions_vo.md#incapacitated
 ParentLink: conditions_vo.md#conditions
 ParentName: Conditions
 NameLevel: 1
-AltName: '[Neutralisé](hd_conditions_neutralise.md)'
-Source: (SRD p358)
 Attributes: {}
 ---
 > [Conditions](srd_conditions.md)

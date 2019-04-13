@@ -1,8 +1,8 @@
 ﻿---
 !ClassEvolutionItem
-Name: Tableau d'évolution
 Id: barbarian_hd.md#tableau-dévolution
 ParentLink: barbarian_hd.md#barbare
+Name: Tableau d'évolution
 ParentName: Barbare
 NameLevel: 1
 Attributes: {}

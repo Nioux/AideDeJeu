@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Second souffle
 Id: fighter_hd.md#second-souffle
 ParentLink: fighter_hd.md#guerrier
-Name: Second souffle
 ParentName: Guerrier
 NameLevel: 1
 Attributes: {}

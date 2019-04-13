@@ -3,6 +3,7 @@
 ParentRaceId: hd_dwarf.md
 FullName: Nain - Nain des tertres
 WisdomBonus: 1
+AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.
 Id: dwarf_hd.md#nain-des-tertres
 ParentLink: dwarf_hd.md#nain
 Name: Nain des tertres
@@ -10,8 +11,7 @@ ParentName: Nain
 NameLevel: 2
 AltName: Hill Dwarf (SRD p3)
 Source: (MDR p57)
-Attributes:
-  AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.
+Attributes: {}
 ---
 > [Nain](hd_dwarf.md)
 

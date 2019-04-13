@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Incantations
 Id: cleric_hd.md#incantations
 ParentLink: cleric_hd.md#clerc
-Name: Incantations
 ParentName: Clerc
 NameLevel: 2
 Attributes: {}

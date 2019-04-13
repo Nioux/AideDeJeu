@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Incantations
 Id: bard_hd.md#incantations
 ParentLink: bard_hd.md#barde
-Name: Incantations
 ParentName: Barde
 NameLevel: 2
 Attributes: {}

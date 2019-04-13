@@ -1,8 +1,8 @@
 ﻿---
 !Items
+Name: Personnalités suggérées
 Id: background_hommedeloi_hd.md#personnalités-suggérées
 ParentLink: background_hommedeloi_hd.md#homme-de-loi
-Name: Personnalités suggérées
 ParentName: Homme de loi
 NameLevel: 4
 Attributes: {}

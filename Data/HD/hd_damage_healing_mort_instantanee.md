@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
 Name: Mort instantanée
+AltName: Instant Death
+Source: (MDR p298)(SRD p98)
 Id: damage_healing_hd.md#mort-instantanée
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 ParentName: 'Dégâts et guérison '
 NameLevel: 4
-AltName: Instant Death
-Source: (MDR p298)(SRD p98)
 Attributes: {}
 ---
 > [Dégâts et guérison ](hd_damage_healing.md)

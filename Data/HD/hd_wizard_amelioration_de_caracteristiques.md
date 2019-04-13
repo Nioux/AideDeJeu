@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
+Name: Amélioration de caractéristiques
 Id: wizard_hd.md#amélioration-de-caractéristiques
 ParentLink: wizard_hd.md#magicien
-Name: Amélioration de caractéristiques
 ParentName: Magicien
 NameLevel: 2
 Attributes: {}
