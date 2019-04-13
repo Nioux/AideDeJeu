@@ -11,7 +11,7 @@
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </StackLayout.Resources>
-    <Frame BorderColor="Black" Padding="2">
+    <Frame BorderColor="Black" Padding="2" Margin="10">
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
