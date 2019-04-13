@@ -86,15 +86,19 @@ namespace AideDeJeu.Views
         }
         private async Task<string> ExecuteStringPickerCommandAsync(System.Collections.IEnumerable strings)
         {
-            var picker = new Views.StringPicker();
-            var vm = picker.ViewModel;
-            vm.Title = Title;
-            vm.Description = Description;
-            vm.Items = strings;
-            await Main.Navigator.Navigation.PushModalAsync(picker, true);
-            var result = await vm.PickValueAsync();
-            await Main.Navigator.Navigation.PopModalAsync(true);
-            return result;
+            if (strings != null)
+            {
+                var picker = new Views.StringPicker();
+                var vm = picker.ViewModel;
+                vm.Title = Title;
+                vm.Description = Description;
+                vm.Items = strings;
+                await Main.Navigator.Navigation.PushModalAsync(picker, true);
+                var result = await vm.PickValueAsync();
+                await Main.Navigator.Navigation.PopModalAsync(true);
+                return result;
+            }
+            return SelectedItem;
         }
     }
 }

@@ -19,18 +19,6 @@
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </TabbedPage.Resources>
-    <ContentPage Title="Généralités">
-        <ScrollView Orientation="Vertical">
-            <StackLayout>
-                <Entry Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
-                <!--<Picker Title="Alignement" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" ItemsSource="{Binding Alignments.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding AlignmentSelectedIndex, Mode=TwoWay}" />-->
-                <views:ItemPickerView BindingContext="{Binding}" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" Title="Alignement" ItemsSource="{Binding Alignments.Result}" SelectedItem="{Binding SelectedAlignment, Mode=TwoWay}" />
-
-                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Alignment.Description}" />-->
-                <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
-            </StackLayout>
-        </ScrollView>
-    </ContentPage>
     <ContentPage Title="Race">
         <ScrollView Orientation="Vertical">
             <StackLayout>
@@ -58,6 +46,9 @@
 
                 <views:ItemPickerView BindingContext="{Binding}" Title="Historique" ItemsSource="{Binding Backgrounds.Result}" SelectedItem="{Binding SelectedBackground, Mode=TwoWay}" />
                 <views:ItemPickerView BindingContext="{Binding}" Title="Variante" ItemsSource="{Binding SubBackgrounds}" SelectedItem="{Binding SelectedSubBackground, Mode=TwoWay}" />
+
+                <!-- test -->
+                <!--<views:StringPickerView BindingContext="{Binding}" IsVisible="{Binding NotifySelectedBackground.IsSuccessfullyCompleted}" Title="Compétences" SelectedItem="{Binding PreferedBackground.Abilities}" />-->
 
                 <Frame BorderColor="Black" Padding="2" IsVisible="{Binding NotifySelectedBackground.IsSuccessfullyCompleted}">
                     <StackLayout Padding="0">
@@ -118,6 +109,18 @@
     <ContentPage Title="Equipement">
         <ScrollView Orientation="Vertical">
             <StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+    <ContentPage Title="Finalisation">
+        <ScrollView Orientation="Vertical">
+            <StackLayout>
+                <Entry Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
+                <!--<Picker Title="Alignement" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" ItemsSource="{Binding Alignments.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding AlignmentSelectedIndex, Mode=TwoWay}" />-->
+                <views:ItemPickerView BindingContext="{Binding}" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" Title="Alignement" ItemsSource="{Binding Alignments.Result}" SelectedItem="{Binding SelectedAlignment, Mode=TwoWay}" />
+
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Alignment.Description}" />-->
+                <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
             </StackLayout>
         </ScrollView>
     </ContentPage>
