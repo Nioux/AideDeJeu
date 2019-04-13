@@ -6,6 +6,9 @@ ParentLink: environment_hd.md#l’environnement
 ParentName: L’environnement
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [L’environnement](hd_environment.md)
 

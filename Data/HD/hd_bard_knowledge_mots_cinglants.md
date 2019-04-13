@@ -6,6 +6,9 @@ ParentLink: bard_knowledge_hd.md#collège-du-savoir
 ParentName: Collège du savoir
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Collège du savoir](hd_bard_knowledge.md)
 

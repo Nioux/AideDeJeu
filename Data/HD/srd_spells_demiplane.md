@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Demiplane
 AltName: '[Demi-plan](hd_spells_demi_plan.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: S
 Duration: 1 hour
 Classes: Warlock, Wizard
-Family: SpellVO
 Source: (SRD p134)
 Id: spells_vo.md#demiplane
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Draft Horse](srd_monsters_draft_horse.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Giant Crocodile](srd_monsters_giant_crocodile.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

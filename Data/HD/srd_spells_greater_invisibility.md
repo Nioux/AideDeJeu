@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Greater Invisibility
 AltName: '[Invisibilité supérieure](hd_spells_invisibilite_superieure.md)'
 Type: illusion
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p150)
 Id: spells_vo.md#greater-invisibility
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

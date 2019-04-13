@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

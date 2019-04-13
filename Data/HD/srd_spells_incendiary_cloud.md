@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Incendiary Cloud
 AltName: '[Nuage incendiaire](hd_spells_nuage_incendiaire.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 150 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p157)
 Id: spells_vo.md#incendiary-cloud
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

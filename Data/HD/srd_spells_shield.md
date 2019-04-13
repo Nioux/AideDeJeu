@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Shield
 AltName: '[Bouclier](hd_spells_bouclier.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: Self
 Components: V, S
 Duration: 1 round
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p179)
 Id: spells_vo.md#shield
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

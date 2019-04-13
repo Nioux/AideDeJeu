@@ -26,6 +26,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Géant du givre](hd_monsters_geant_du_givre.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -6,6 +6,9 @@ ParentLink: rogue_ombrelame_hd.md#ombrelame
 ParentName: Ombrelame
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Ombrelame](hd_rogue_ombrelame.md)
 

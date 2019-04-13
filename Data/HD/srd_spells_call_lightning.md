@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Call Lightning
 AltName: '[Appel de la foudre](hd_spells_appel_de_la_foudre.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 120 feet
 Components: V, S
 Duration: Concentration, up to 10 minutes
 Classes: Druid
-Family: SpellVO
 Source: (SRD p123)
 Id: spells_vo.md#call-lightning
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

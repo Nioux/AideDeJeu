@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Nightmare](srd_monsters_nightmare.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

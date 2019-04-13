@@ -29,6 +29,9 @@ NameLevel: 5
 AltName: 'Feature: Personality Trait (SRD p61)'
 Source: (MDR p82)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Personnalités suggérées](hd_background_devot_personnalites_suggerees.md)
 

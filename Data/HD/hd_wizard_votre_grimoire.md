@@ -6,6 +6,9 @@ ParentLink: wizard_hd.md#magicien
 ParentName: Magicien
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Magicien](hd_wizard.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Heal
 AltName: '[Guérison](hd_spells_guerison.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric, Druid
-Family: SpellVO
 Source: (SRD p153)
 Id: spells_vo.md#heal
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

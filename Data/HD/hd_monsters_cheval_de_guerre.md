@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Warhorse](srd_monsters_warhorse.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

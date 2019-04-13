@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Tree Stride
 AltName: '[Passage par les arbres](hd_spells_passage_par_les_arbres.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: Self
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Druid, Ranger
-Family: SpellVO
 Source: (SRD p188)
 Id: spells_vo.md#tree-stride
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

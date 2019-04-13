@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Crab](srd_monsters_crab.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

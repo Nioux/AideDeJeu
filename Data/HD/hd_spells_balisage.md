@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Balisage
 AltName: '[Guiding Bolt](srd_spells_guiding_bolt.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 36 mètres
 Components: V, S
 Duration: 1 round
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p327)(SRD)
 Id: spells_hd.md#balisage
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

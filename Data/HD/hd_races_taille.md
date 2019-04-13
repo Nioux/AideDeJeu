@@ -8,6 +8,9 @@ ParentLink: races_hd.md#traits-raciaux
 ParentName: Traits raciaux
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Traits raciaux](hd_races_traits_raciaux.md)
 

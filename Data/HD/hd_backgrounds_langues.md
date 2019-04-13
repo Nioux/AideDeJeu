@@ -8,6 +8,9 @@ ParentLink: backgrounds_hd.md#historique
 ParentName: Historique
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Historique](hd_backgrounds.md)
 

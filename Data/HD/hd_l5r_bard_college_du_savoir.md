@@ -7,6 +7,9 @@ ParentLink: l5r_bard_hd.md#barde-des-cinq-royaumes
 ParentName: Barde des cinq royaumes
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Barde des cinq royaumes](hd_l5r_bard.md)
 

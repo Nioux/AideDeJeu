@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Assistance
 AltName: '[Guidance](srd_spells_guidance.md)'
 Type: Divination
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-Family: SpellHD
 Source: (MDR p325)(SRD)
 Id: spells_hd.md#assistance
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

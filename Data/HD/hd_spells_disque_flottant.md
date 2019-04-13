@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Disque flottant
 AltName: '[Floating Disk](srd_spells_floating_disk.md)'
 Type: Invocation
@@ -9,7 +10,6 @@ Range: 9 mètres
 Components: V, S, M (une goutte de mercure)
 Duration: 1 heure
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p347)
 Ritual: rituel
 Id: spells_hd.md#disque-flottant
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

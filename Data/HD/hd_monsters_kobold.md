@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Kobold](srd_monsters_kobold.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

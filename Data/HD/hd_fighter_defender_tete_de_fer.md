@@ -6,6 +6,9 @@ ParentLink: fighter_defender_hd.md#défenseur
 ParentName: Défenseur
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Défenseur](hd_fighter_defender.md)
 

@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Arbre éveillé](hd_monsters_arbre_eveille.md)'
 Source: (SRD p366)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

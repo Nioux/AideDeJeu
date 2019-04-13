@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Sahuagin](srd_monsters_sahuagin.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

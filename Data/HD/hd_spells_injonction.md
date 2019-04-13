@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Injonction
 AltName: '[Command](srd_spells_command.md)'
 Type: Enchantement
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V
 Duration: 1 round
 Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#injonction
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

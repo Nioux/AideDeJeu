@@ -27,6 +27,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Vrock](hd_monsters_vrock.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

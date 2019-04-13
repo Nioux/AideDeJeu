@@ -7,6 +7,9 @@ ParentLink: backgrounds_hd.md#historique
 Name: Serviteur
 ParentName: Historique
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

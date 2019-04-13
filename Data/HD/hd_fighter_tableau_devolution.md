@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Guerrier
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Guerrier](hd_fighter.md)
 

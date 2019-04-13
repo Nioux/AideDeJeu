@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Hunter's Mark
 AltName: '[Marque du chasseur](hd_spells_marque_du_chasseur.md)'
 Type: divination
@@ -9,13 +10,15 @@ Range: 90 feet
 Components: V
 Duration: Concentration, up to 1 hour
 Classes: Ranger
-Family: SpellVO
 Source: (SRD p155)
 Id: spells_vo.md#hunters-mark
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

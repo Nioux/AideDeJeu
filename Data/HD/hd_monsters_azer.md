@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Azer](srd_monsters_azer.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

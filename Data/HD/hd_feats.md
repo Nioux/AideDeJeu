@@ -9,6 +9,9 @@ ParentLink: custom_options_hd.md
 ParentName: Options de personnalisation
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Options de personnalisation](hd_custom_options.md)
 

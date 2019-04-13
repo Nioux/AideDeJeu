@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Steam Mephit](srd_monsters_steam_mephit.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

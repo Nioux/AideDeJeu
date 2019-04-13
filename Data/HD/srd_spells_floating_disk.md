@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Floating Disk
 AltName: '[Disque flottant](hd_spells_disque_flottant.md)'
 Type: conjuration
@@ -9,7 +10,6 @@ Range: 30 feet
 Components: V, S, M (a drop of mercury)
 Duration: 1 hour
 Classes: Wizard
-Family: SpellVO
 Source: (SRD p146)
 Ritual: ritual
 Id: spells_vo.md#floating-disk
@@ -17,6 +17,9 @@ ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

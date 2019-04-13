@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Blink
 AltName: '[Clignotement](hd_spells_clignotement.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: Self
 Components: V, S
 Duration: 1 minute
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p122)
 Id: spells_vo.md#blink
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Homunculus](srd_monsters_homunculus.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

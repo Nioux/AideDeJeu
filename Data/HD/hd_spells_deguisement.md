@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Déguisement
 AltName: '[Disguise Self](srd_spells_disguise_self.md)'
 Type: Illusion
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Family: SpellHD
 Source: (MDR p345)(SRD)
 Id: spells_hd.md#déguisement
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

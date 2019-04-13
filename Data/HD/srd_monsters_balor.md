@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Balor](hd_monsters_balor.md)'
 Source: (SRD p270)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

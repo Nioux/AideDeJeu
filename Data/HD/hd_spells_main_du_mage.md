@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Main du mage
 AltName: '[Mage Hand](srd_spells_mage_hand.md)'
 Type: Invocation
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V, S
 Duration: 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#main-du-mage
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

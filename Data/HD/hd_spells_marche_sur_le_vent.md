@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Marche sur le vent
 AltName: '[Wind Walk](srd_spells_wind_walk.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V, S, M (du feu et de l'eau bénite)
 Duration: 8 heures
 Classes: '[Druide](hd_druid.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#marche-sur-le-vent
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

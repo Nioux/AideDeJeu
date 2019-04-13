@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Weretiger](srd_monsters_weretiger.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

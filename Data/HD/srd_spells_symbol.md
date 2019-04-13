@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Symbol
 AltName: '[Symbole](hd_spells_symbole.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)
 Duration: Until dispelled or triggered
 Classes: Bard, Cleric, Wizard
-Family: SpellVO
 Source: (SRD p184)
 Id: spells_vo.md#symbol
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

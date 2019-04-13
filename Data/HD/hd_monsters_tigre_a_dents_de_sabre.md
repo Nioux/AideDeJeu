@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

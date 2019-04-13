@@ -25,6 +25,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Succube/Incube](hd_monsters_succubeincube.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

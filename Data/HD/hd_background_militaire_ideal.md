@@ -23,6 +23,9 @@ Name: Idéal
 ParentName: Personnalités suggérées
 NameLevel: 5
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Personnalités suggérées](hd_background_militaire_personnalites_suggerees.md)
 

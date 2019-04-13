@@ -10,6 +10,9 @@ Name: 'Variante : Saltimbanque'
 ParentName: Itinérant
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Le spectacle est votre vie. Que vous ayez fait partie d'une troupe ou que vous ayez décidé de parcourir les routes seul, vous êtes un artiste. Vous vous produisez devant les seigneurs tout autant que le petit peuple, il faut bien vivre.
 

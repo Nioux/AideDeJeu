@@ -9,6 +9,9 @@ ParentLink: index.md
 ParentName: Manuel des joueurs
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Manuel des joueurs](index.md)
 

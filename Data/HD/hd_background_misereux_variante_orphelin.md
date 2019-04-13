@@ -9,6 +9,9 @@ Name: 'Variante : Orphelin'
 ParentName: Miséreux
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Votre jeunesse s'est déroulée dans un orphelinat pauvre, ou parmi une bande de gamins des rues. À l'âge où d'autres aident leurs parents tout en apprenant les bases de leur futur métier, font leurs premières armes ou vont à l'école, vous traîniez dans les rues en tentant de rassembler quelques piécettes pour vous acheter une maigre pitance. Vous avez toujours su que le monde n'était pas beau, que les forts régnaient sur les faibles, et qu'il fallait savoir se salir les mains pour survivre.
 

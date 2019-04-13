@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Sunbeam
 AltName: '[Rayon de soleil](hd_spells_rayon_de_soleil.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: Self (60-foot line)
 Components: V, S, M (a magnifying glass)
 Duration: Concentration, up to 1 minute
 Classes: Druid, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p184)
 Id: spells_vo.md#sunbeam
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

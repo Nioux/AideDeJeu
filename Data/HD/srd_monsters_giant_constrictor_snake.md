@@ -24,6 +24,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

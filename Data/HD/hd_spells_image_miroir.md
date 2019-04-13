@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Image miroir
 AltName: '[Mirror Image](srd_spells_mirror_image.md)'
 Type: Illusion
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S
 Duration: 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#image-miroir
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

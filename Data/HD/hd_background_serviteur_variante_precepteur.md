@@ -9,6 +9,9 @@ Name: 'Variante : Précepteur'
 ParentName: Serviteur
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous aviez été engagé pour veiller à l'éducation des enfants de la maisonnée. Votre principale relation s'est nouée pendant l'enfance et l'adolescence des jeunes seigneurs. Devenus adultes, ils se souviennent souvent avec émotion des professeurs qui ont guidé leur apprentissage.
 

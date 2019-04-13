@@ -7,6 +7,9 @@ ParentLink: races_hd.md#races
 Name: Demi-ogre
 ParentName: Races
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

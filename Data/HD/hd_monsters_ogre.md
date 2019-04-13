@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Ogre](srd_monsters_ogre.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

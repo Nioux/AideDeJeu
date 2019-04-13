@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Réparation
 AltName: '[Mending](srd_spells_mending.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S, M (deux magnétites)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#réparation
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

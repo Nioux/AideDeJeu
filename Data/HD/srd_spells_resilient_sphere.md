@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Resilient Sphere
 AltName: '[Sphère résiliente](hd_spells_sphere_resiliente.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 30 feet
 Components: V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
 Duration: Concentration, up to 1 minute
 Classes: Wizard
-Family: SpellVO
 Source: (SRD p175)
 Id: spells_vo.md#resilient-sphere
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

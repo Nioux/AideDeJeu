@@ -9,6 +9,9 @@ Name: 'Variante : Gens du voyage'
 ParentName: Itinérant
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   On vous a toujours regardé de travers. Vous avez vécu toute votre vie au sein d'un clan soudé, allant de communauté en communauté, vous installant aux abords de la ville. Toute votre vie, on vous a pris pour des voleurs de poule et des sorcières. Mais peu importe, ils n'ont finalement peut-être pas totalement tort… et puis, ce qui compte vraiment, ce sont les vôtres.
 

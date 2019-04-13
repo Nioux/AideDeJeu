@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Araignée-loup géante](hd_monsters_araignee_loup_geante.md)'
 Source: (SRD p381)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

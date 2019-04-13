@@ -9,6 +9,9 @@ ParentLink: ranger_hd.md#archétypes-de-rôdeurs
 ParentName: Archétypes de rôdeur
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)
 

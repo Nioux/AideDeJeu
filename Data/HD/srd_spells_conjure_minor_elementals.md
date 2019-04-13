@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Conjure Minor Elementals
 AltName: '[Invoquer des élémentaires mineurs](hd_spells_invoquer_des_elementaires_mineurs.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 90 feet
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Druid, Wizard
-Family: SpellVO
 Source: (SRD p128)
 Id: spells_vo.md#conjure-minor-elementals
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

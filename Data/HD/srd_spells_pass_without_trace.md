@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Pass without Trace
 AltName: '[Passage sans trace](hd_spells_passage_sans_trace.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: Self
 Components: V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)
 Duration: Concentration, up to 1 hour
 Classes: Druid, Ranger
-Family: SpellVO
 Source: (SRD p167)
 Id: spells_vo.md#pass-without-trace
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Animated Armor](srd_monsters_animated_armor.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Chain Lightning
 AltName: "[Chaîne d'éclairs](hd_spells_chaine_declairs.md)"
 Type: evocation
@@ -9,13 +10,15 @@ Range: 150 feet
 Components: V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins)
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p124)
 Id: spells_vo.md#chain-lightning
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

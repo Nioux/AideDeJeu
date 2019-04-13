@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Jackal](srd_monsters_jackal.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

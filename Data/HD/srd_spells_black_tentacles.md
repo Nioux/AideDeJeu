@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Black Tentacles
 AltName: '[Tentacules noirs](hd_spells_tentacules_noirs.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 90 feet
 Components: V, S, M (a piece of tentacle from a giant octopus or a giant squid)
 Duration: Concentration, up to 1 minute
 Classes: Wizard
-Family: SpellVO
 Source: (SRD p121)
 Id: spells_vo.md#black-tentacles
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

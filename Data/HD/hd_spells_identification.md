@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Identification
 AltName: '[Identify](srd_spells_identify.md)'
 Type: Divination
@@ -9,7 +10,6 @@ Range: contact
 Components: V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Ritual: rituel
 Id: spells_hd.md#identification
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

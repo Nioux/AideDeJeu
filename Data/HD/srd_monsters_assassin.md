@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Assassin](hd_monsters_assassin.md)'
 Source: (SRD p396)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

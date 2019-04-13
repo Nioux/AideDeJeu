@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Spy](srd_monsters_spy.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

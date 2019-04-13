@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Représailles infernales
 AltName: '[Hellish Rebuke](srd_spells_hellish_rebuke.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#représailles-infernales
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

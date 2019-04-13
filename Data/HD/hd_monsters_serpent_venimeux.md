@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Poisonous Snake](srd_monsters_poisonous_snake.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Horned Devil](srd_monsters_horned_devil.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

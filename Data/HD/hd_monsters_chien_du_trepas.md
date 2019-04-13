@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Death Dog](srd_monsters_death_dog.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

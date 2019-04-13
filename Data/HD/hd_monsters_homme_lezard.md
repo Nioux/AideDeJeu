@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Lizardfolk](srd_monsters_lizardfolk.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

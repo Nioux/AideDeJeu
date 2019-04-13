@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Mass Healing Word
 AltName: '[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: V
 Duration: Instantaneous
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p163)
 Id: spells_vo.md#mass-healing-word
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

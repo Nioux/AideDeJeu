@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Flou
 AltName: '[Blur](srd_spells_blur.md)'
 Type: Illusion
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Family: SpellHD
 Source: (MDR p356)(SRD)
 Id: spells_hd.md#flou
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

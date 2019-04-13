@@ -7,6 +7,9 @@ ParentLink: index.md
 ParentName: Manuel des règles
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Manuel des règles](index.md)
 

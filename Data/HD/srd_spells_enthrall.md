@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Enthrall
 AltName: '[Envoûtement](hd_spells_envoutement.md)'
 Type: enchantment
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: V, S
 Duration: 1 minute
 Classes: Bard, Warlock
-Family: SpellVO
 Source: (SRD p140)
 Id: spells_vo.md#enthrall
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

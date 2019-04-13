@@ -8,6 +8,9 @@ ParentLink: conditions_vo.md#conditions
 ParentName: Conditions
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Conditions](srd_conditions.md)
 

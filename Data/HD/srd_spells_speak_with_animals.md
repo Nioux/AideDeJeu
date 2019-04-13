@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Speak with Animals
 AltName: '[Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)'
 Type: divination
@@ -9,7 +10,6 @@ Range: Self
 Components: V, S
 Duration: 10 minutes
 Classes: Bard, Druid, Ranger
-Family: SpellVO
 Source: (SRD p181)
 Ritual: ritual
 Id: spells_vo.md#speak-with-animals
@@ -17,6 +17,9 @@ ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

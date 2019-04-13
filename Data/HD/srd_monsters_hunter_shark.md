@@ -24,6 +24,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Requin chasseur](hd_monsters_requin_chasseur.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

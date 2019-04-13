@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Verrou magique
 AltName: '[Arcane Lock](srd_spells_arcane_lock.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
 Duration: jusqu'à dissipation
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#verrou-magique
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

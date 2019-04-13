@@ -6,6 +6,9 @@ ParentLink: multiclassing_hd.md#multiclassage
 ParentName: Multiclassage
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Multiclassage](hd_multiclassing.md)
 

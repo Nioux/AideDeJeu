@@ -26,6 +26,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragonnet rouge](hd_monsters_dragonnet_rouge.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

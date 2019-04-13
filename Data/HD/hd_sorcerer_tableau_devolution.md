@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Ensorceleur
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Ensorceleur](hd_sorcerer.md)
 

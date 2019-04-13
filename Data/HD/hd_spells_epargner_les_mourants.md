@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Épargner les mourants
 AltName: '[Spare the Dying](srd_spells_spare_the_dying.md)'
 Type: Nécromancie
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p352)(SRD)
 Id: spells_hd.md#Épargner-les-mourants
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

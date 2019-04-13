@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Priest](srd_monsters_priest.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

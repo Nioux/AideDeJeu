@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Commune
 AltName: '[Communion](hd_spells_communion.md)'
 Type: divination
@@ -9,7 +10,6 @@ Range: Self
 Components: V, S, M (incense and a vial of holy or unholy water)
 Duration: 1 minute
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p126)
 Ritual: ritual
 Id: spells_vo.md#commune
@@ -17,6 +17,9 @@ ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

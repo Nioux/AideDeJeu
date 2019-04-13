@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Regenerate
 AltName: '[Régénération](hd_spells_regeneration.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (a prayer wheel and holy water)
 Duration: 1 hour
 Classes: Bard, Cleric, Druid
-Family: SpellVO
 Source: (SRD p174)
 Id: spells_vo.md#regenerate
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

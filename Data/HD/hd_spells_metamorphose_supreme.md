@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Métamorphose suprême
 AltName: '[True Polymorph](srd_spells_true_polymorph.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#métamorphose-suprême
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

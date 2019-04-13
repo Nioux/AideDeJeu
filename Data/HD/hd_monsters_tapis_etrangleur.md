@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Rug of Smothering](srd_monsters_rug_of_smothering.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

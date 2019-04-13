@@ -5,6 +5,9 @@ Id: index.md
 RootId: index.md
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 # Manuel des règles
 

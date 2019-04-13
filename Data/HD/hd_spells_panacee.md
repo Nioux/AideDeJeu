@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Panacée
 Type: Abjuration
 Level: 4
@@ -8,13 +9,15 @@ Range: personnelle (3 mètres de rayon)
 Components: V, S
 Duration: Instantanée
 Classes: '[Paladin](hd_paladin.md)'
-Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#panacée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -24,6 +24,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Grand singe](hd_monsters_grand_singe.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

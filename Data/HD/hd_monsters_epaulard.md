@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Killer Whale](srd_monsters_killer_whale.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

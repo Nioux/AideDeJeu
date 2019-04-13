@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Gust of Wind
 AltName: '[Bourrasque](hd_spells_bourrasque.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: Self (60-foot line)
 Components: V, S, M (a legume seed)
 Duration: Concentration, up to 1 minute
 Classes: Druid, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p152)
 Id: spells_vo.md#gust-of-wind
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

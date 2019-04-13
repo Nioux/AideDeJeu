@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Produire une flamme
 AltName: '[Produce Flame](srd_spells_produce_flame.md)'
 Type: Invocation
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S
 Duration: 10 minutes
 Classes: '[Druide](hd_druid.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#produire-une-flamme
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

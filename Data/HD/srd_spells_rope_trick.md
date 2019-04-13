@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Rope Trick
 AltName: '[Corde enchantée](hd_spells_corde_enchantee.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (powdered corn extract and a twisted loop of parchment)
 Duration: 1 hour
 Classes: Wizard
-Family: SpellVO
 Source: (SRD p176)
 Id: spells_vo.md#rope-trick
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

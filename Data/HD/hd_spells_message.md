@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Message
 AltName: '[Message](srd_spells_message.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: 36 mètres
 Components: V, S, M (un petit bout de fil de cuivre)
 Duration: 1 round
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#message
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

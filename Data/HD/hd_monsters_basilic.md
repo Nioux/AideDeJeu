@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Basilisk](srd_monsters_basilisk.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Blight
 AltName: '[Flétrissement](hd_spells_fletrissement.md)'
 Type: necromancy
@@ -9,13 +10,15 @@ Range: 30 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Druid, Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p122)
 Id: spells_vo.md#blight
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

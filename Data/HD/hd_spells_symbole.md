@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Symbole
 AltName: '[Symbol](srd_spells_symbol.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)
 Duration: jusqu'à dissipation ou déclenchement
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#symbole
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Shocking Grasp
 AltName: '[Poigne électrique](hd_spells_poigne_electrique.md)'
 Type: Evocation
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p179)
 Id: spells_vo.md#shocking-grasp
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

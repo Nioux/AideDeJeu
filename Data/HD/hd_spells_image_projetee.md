@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Image projetée
 AltName: '[Project Image](srd_spells_project_image.md)'
 Type: Illusion
@@ -9,13 +10,15 @@ Range: 750 kilomètres
 Components: V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
 Duration: concentration, jusqu'à 1 jour
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#image-projetée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

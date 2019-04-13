@@ -25,6 +25,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Pégase](hd_monsters_pegase.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

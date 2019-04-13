@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Illusion mineure
 AltName: '[Minor Illusion](srd_spells_minor_illusion.md)'
 Type: Illusion
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: S, M (un morceau de toison)
 Duration: 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#illusion-mineure
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

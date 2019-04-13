@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Dretch](srd_monsters_dretch.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

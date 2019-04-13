@@ -9,6 +9,9 @@ ParentLink: cleric_hd.md#domaines-divins
 ParentName: Domaines divins
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Domaines divins](hd_cleric_domaines_divins.md)
 

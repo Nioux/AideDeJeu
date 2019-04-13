@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Rakshasa](srd_monsters_rakshasa.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

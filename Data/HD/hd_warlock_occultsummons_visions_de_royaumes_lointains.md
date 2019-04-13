@@ -6,6 +6,9 @@ ParentLink: warlock_occultsummons_hd.md#invocations-occultes
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Invocations occultes](hd_warlock_occultsummons.md)
 

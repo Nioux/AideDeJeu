@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Thaumaturgie
 AltName: '[Thaumaturgy](srd_spells_thaumaturgy.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V
 Duration: jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#thaumaturgie
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

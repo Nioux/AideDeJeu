@@ -6,6 +6,9 @@ ParentLink: barbarian_hd.md#barbare
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Barbare](hd_barbarian.md)
 

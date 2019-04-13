@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Barde
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Barde](hd_bard.md)
 

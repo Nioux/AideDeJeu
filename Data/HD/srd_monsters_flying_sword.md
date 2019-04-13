@@ -26,6 +26,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Épée volante](hd_monsters_epee_volante.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -25,6 +25,9 @@ NameLevel: 5
 AltName: Flaw  (SRD p61)
 Source: (MDR p83)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Personnalités suggérées](hd_background_devot_personnalites_suggerees.md)
 

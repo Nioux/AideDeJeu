@@ -11,6 +11,9 @@ NameLevel: 3
 AltName: Helm of Teleportation (SRD p225)
 Source: (COC p169)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)
 

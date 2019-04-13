@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Serviteur invisible
 AltName: '[Unseen Servant](srd_spells_unseen_servant.md)'
 Type: Invocation
@@ -9,7 +10,6 @@ Range: 18 mètres
 Components: V, S, M (un bout de ficelle et un morceau de bois)
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Ritual: rituel
 Id: spells_hd.md#serviteur-invisible
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

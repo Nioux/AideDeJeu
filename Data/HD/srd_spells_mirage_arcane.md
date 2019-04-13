@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Mirage Arcane
 AltName: '[Mirage](hd_spells_mirage.md)'
 Type: illusion
@@ -9,13 +10,15 @@ Range: Sight
 Components: V, S
 Duration: 10 days
 Classes: Bard, Druid, Wizard
-Family: SpellVO
 Source: (SRD p165)
 Id: spells_vo.md#mirage-arcane
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

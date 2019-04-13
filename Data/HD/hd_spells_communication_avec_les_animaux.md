@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Communication avec les animaux
 AltName: '[Speak with Animals](srd_spells_speak_with_animals.md)'
 Type: Divination
@@ -9,7 +10,6 @@ Range: personnelle
 Components: V, S
 Duration: 10 minutes
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-Family: SpellHD
 Source: (MDR p336)(SRD)
 Ritual: rituel
 Id: spells_hd.md#communication-avec-les-animaux
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -8,6 +8,9 @@ ParentLink: index.md
 ParentName: Créatures et oppositions
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Créatures et oppositions](index.md)
 

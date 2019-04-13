@@ -10,6 +10,9 @@ Name: 'Variante : Pilleur de ruines'
 ParentName: Explorateur
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous erriez à la recherche des trésors, des cités perdues et de secrets enfouis des temps anciens. Aventurier sans foi ni loi, pilleur de tombes, archéologue, vous avez été tout cela à la fois, et plus encore !
 

@@ -6,6 +6,9 @@ ParentLink: wizard_elementalist_hd.md#Élémentaliste
 ParentName: Élémentaliste
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Élémentaliste](hd_wizard_elementalist.md)
 

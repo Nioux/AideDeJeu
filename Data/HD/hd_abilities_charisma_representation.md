@@ -6,6 +6,9 @@ ParentLink: abilities_charisma_hd.md#charisme
 ParentName: Charisme
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Charisme](hd_abilities_charisma.md)
 

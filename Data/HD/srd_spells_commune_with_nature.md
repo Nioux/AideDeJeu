@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Commune with Nature
 AltName: '[Communion avec la nature](hd_spells_communion_avec_la_nature.md)'
 Type: divination
@@ -9,7 +10,6 @@ Range: Self
 Components: V, S
 Duration: Instantaneous
 Classes: Druid, Ranger
-Family: SpellVO
 Source: (SRD p126)
 Ritual: ritual
 Id: spells_vo.md#commune-with-nature
@@ -17,6 +17,9 @@ ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

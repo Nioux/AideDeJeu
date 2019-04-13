@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Roc](srd_monsters_roc.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

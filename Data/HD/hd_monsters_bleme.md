@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Ghast](srd_monsters_ghast.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Druide
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Druide](hd_druid.md)
 

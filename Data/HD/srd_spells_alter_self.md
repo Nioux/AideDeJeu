@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Alter Self
 AltName: '[Modifier son apparence](hd_spells_modifier_son_apparence.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: Self
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p114)
 Id: spells_vo.md#alter-self
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

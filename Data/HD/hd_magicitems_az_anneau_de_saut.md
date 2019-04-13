@@ -11,6 +11,9 @@ NameLevel: 3
 AltName: Ring of Jumping (SRD p236)
 Source: (COC p142)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)
 

@@ -6,6 +6,9 @@ ParentLink: sorcerer_infernal_hd.md#lignée-infernale
 ParentName: Lignée infernale
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Lignée infernale](hd_sorcerer_infernal.md)
 

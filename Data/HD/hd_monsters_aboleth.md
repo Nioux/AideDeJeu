@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Aboleth](srd_monsters_aboleth.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

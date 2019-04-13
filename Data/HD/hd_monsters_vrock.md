@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Vrock](srd_monsters_vrock.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

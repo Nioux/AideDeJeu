@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Hippogriff](srd_monsters_hippogriff.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

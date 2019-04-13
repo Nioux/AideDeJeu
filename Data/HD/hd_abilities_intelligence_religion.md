@@ -6,6 +6,9 @@ ParentLink: abilities_intelligence_hd.md#intelligence
 ParentName: Intelligence
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Intelligence](hd_abilities_intelligence.md)
 

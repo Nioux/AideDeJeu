@@ -8,6 +8,9 @@ Name: Demi-elfe
 ParentName: Races
 AltName: '[Half-Elf](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

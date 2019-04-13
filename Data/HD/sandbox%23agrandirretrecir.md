@@ -15,6 +15,9 @@ ParentName: Sandbox
 NameLevel: 1
 Attributes:
   Book: (HD)(SRD p)
+AttributesDictionary: >+
+  Book: (HD)(SRD p)
+
 ---
 > [Sandbox](sandbox.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Tongues
 AltName: '[Langues](hd_spells_langues.md)'
 Type: divination
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, M (a small clay model of a ziggurat)
 Duration: 1 hour
 Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p187)
 Id: spells_vo.md#tongues
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

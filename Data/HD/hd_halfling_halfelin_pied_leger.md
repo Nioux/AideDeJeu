@@ -12,6 +12,9 @@ NameLevel: 2
 AltName: Lightfoot (SRD p5)
 Source: (MDR p52)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Halfelin](hd_halfling.md)
 

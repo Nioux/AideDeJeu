@@ -6,6 +6,9 @@ ParentLink: cleric_hd.md#clerc
 ParentName: Clerc
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Clerc](hd_cleric.md)
 

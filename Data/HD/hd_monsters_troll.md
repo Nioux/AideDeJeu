@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Troll](srd_monsters_troll.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

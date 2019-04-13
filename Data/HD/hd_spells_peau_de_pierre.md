@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Peau de pierre
 AltName: '[Stoneskin](srd_spells_stoneskin.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Rôdeur](hd_ranger.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#peau-de-pierre
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Light
 AltName: '[Lumière](hd_spells_lumiere.md)'
 Type: Evocation
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, M (a firefly or phosphorescent moss)
 Duration: 1 hour
 Classes: Bard, Cleric, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p159)
 Id: spells_vo.md#light
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

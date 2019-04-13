@@ -25,6 +25,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Golem de pierre](hd_monsters_golem_de_pierre.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

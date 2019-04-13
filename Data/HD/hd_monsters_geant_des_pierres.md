@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

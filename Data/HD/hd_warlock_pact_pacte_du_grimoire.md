@@ -6,6 +6,9 @@ ParentLink: warlock_pact_hd.md#pacte
 ParentName: Pacte
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Pacte](hd_warlock_pact.md)
 

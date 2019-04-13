@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Giant Boar](srd_monsters_giant_boar.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Lightning Bolt
 AltName: '[Éclair](hd_spells_eclair.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: Self (100-foot line)
 Components: V, S, M (a bit of fur and a rod of amber, crystal, or glass)
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p159)
 Id: spells_vo.md#lightning-bolt
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

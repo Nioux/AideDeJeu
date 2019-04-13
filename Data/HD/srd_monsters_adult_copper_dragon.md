@@ -26,6 +26,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

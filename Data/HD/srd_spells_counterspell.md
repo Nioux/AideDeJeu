@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Counterspell
 AltName: '[Contresort](hd_spells_contresort.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: S
 Duration: Instantaneous
 Classes: Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p131)
 Id: spells_vo.md#counterspell
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

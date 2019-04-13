@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Chimera](srd_monsters_chimera.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

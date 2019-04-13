@@ -6,6 +6,9 @@ ParentLink: ranger_exile_hd.md#exilé
 ParentName: Exilé
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Exilé](hd_ranger_exile.md)
 

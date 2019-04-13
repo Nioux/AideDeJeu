@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Gourdin magique
 AltName: '[Shillelagh](srd_spells_shillelagh.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
 Duration: 1 minute
 Classes: '[Druide](hd_druid.md)'
-Family: SpellHD
 Source: (MDR p360)(SRD)
 Id: spells_hd.md#gourdin-magique
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

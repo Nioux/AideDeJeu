@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Polar Bear](srd_monsters_polar_bear.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

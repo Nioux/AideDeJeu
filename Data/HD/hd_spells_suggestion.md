@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Suggestion
 AltName: '[Suggestion](srd_spells_suggestion.md)'
 Type: Enchantement
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
 Duration: concentration, jusqu'à 8 heures
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#suggestion
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -19,6 +19,9 @@ NameLevel: 1
 AltName: Half-Elf (SRD p6)
 Source: (MDR p39)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Races](races_hd.md#)
 

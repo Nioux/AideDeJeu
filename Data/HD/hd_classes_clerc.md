@@ -8,6 +8,9 @@ Name: Clerc
 ParentName: Classes
 AltName: '[Cleric](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

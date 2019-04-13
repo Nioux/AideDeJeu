@@ -10,6 +10,9 @@ Name: 'Variante : Patrouilleur'
 ParentName: Homme de loi
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Toujours sur les routes, vous êtes dépêché afin de venir en aide aux communautés locales. Vous êtes investi de l'autorité de votre hiérarchie et jouissez d'une certaine indépendance dans l'exécution de votre mission.
 

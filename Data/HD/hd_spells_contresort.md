@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Contresort
 AltName: '[Counterspell](srd_spells_counterspell.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p340)(SRD)
 Id: spells_hd.md#contresort
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

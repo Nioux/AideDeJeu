@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Giant Wasp](srd_monsters_giant_wasp.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

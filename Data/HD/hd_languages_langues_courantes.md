@@ -6,6 +6,9 @@ ParentLink: languages_hd.md#langues
 ParentName: Langues
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Langues](hd_languages.md)
 

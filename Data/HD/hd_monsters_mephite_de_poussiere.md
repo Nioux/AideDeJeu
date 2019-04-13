@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Dust Mephit](srd_monsters_dust_mephit.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

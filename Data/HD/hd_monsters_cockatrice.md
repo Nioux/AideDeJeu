@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Cockatrice](srd_monsters_cockatrice.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

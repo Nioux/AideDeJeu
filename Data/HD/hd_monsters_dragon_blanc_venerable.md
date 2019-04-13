@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

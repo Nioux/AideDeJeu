@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Mind Blank
 AltName: '[Esprit impénétrable](hd_spells_esprit_impenetrable.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S
 Duration: 24 hours
 Classes: Bard, Wizard
-Family: SpellVO
 Source: (SRD p164)
 Id: spells_vo.md#mind-blank
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

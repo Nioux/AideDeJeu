@@ -25,6 +25,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Goule](hd_monsters_goule.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

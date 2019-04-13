@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Magicien
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Magicien](hd_wizard.md)
 

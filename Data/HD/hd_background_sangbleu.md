@@ -11,6 +11,9 @@ Name: Sang bleu
 ParentName: Historique
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous faites partie de la noblesse. Derniers fils d'une longue lignée, noble sans terre ou encore parvenu ayant acheté son nom et son rang, peu importe : vous êtes considéré comme membre à part entière de l'élite de la société. Votre vie n'était que richesse et privilège, et cela se voit. Vous savez évoluer dans les cercles privilégiés du monde et vous êtes moins à l'aise avec les gens du peuple.
 

@@ -6,6 +6,9 @@ ParentLink: planes_hd.md#jouer-dans-un-multivers
 ParentName: Jouer dans un multivers
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Jouer dans un multivers](hd_planes.md)
 

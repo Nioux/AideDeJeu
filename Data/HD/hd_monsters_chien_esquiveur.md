@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Blink Dog](srd_monsters_blink_dog.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

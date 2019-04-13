@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Mimic](srd_monsters_mimic.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

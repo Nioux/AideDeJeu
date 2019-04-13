@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Coercition mystique
 AltName: '[Geas](srd_spells_geas.md)'
 Type: Enchantement
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V
 Duration: 30 jours
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
-Family: SpellHD
 Source: (MDR p335)(SRD)
 Id: spells_hd.md#coercition-mystique
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

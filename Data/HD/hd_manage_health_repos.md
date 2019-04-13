@@ -7,6 +7,9 @@ ParentLink: manage_health_hd.md#gérer-la-santé
 Name: Repos
 ParentName: Gérer la santé
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

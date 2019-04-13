@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Deer](srd_monsters_deer.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

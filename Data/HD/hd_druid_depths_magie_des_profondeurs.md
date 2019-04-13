@@ -6,6 +6,9 @@ ParentLink: druid_depths_hd.md#cercle-des-profondeurs
 ParentName: Cercle des profondeurs
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Cercle des profondeurs](hd_druid_depths.md)
 

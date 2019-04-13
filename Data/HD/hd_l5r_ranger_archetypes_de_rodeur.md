@@ -7,6 +7,9 @@ ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Rôdeur des cinq Royaumes](hd_l5r_ranger.md)
 

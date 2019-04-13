@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Creation
 AltName: '[Création](hd_spells_creation.md)'
 Type: illusion
@@ -9,13 +10,15 @@ Range: 30 feet
 Components: V, S, M (a tiny piece of matter of the same type of the item you plan to create)
 Duration: Special
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p132)
 Id: spells_vo.md#creation
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

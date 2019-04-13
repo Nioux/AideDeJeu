@@ -23,6 +23,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Chauve-souris géante](hd_monsters_chauve_souris_geante.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

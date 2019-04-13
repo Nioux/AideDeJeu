@@ -9,6 +9,9 @@ ParentLink: barbarian_hd.md#voies-primitives
 ParentName: Voies primitives
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Voies primitives](hd_barbarian_voies_primitives.md)
 

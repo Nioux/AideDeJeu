@@ -6,6 +6,9 @@ ParentLink: fighter_swordsman_hd.md#bretteur
 ParentName: Bretteur
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Bretteur](hd_fighter_swordsman.md)
 

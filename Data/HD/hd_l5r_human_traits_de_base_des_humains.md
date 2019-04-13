@@ -7,6 +7,9 @@ ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
 ParentName: Humain des cinq royaumes
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Humain des cinq royaumes](hd_l5r_human.md)
 

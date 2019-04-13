@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Pit Fiend](srd_monsters_pit_fiend.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

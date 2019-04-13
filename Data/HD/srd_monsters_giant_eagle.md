@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Aigle géant](hd_monsters_aigle_geant.md)'
 Source: (SRD p375)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -6,6 +6,9 @@ ParentLink: objects_hd.md#les-objets
 ParentName: Les objets
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Les objets](hd_objects.md)
 

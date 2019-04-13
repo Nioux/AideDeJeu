@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Acolyte](hd_monsters_acolyte.md)'
 Source: (SRD p395)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

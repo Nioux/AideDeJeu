@@ -6,6 +6,9 @@ ParentLink: abilities_dexterity_hd.md#dextérité
 ParentName: Dextérité
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Dextérité](hd_abilities_dexterity.md)
 

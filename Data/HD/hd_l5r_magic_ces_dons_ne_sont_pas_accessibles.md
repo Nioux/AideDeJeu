@@ -7,6 +7,9 @@ ParentLink: l5r_magic_hd.md#des-objets-magiques-rares-et-merveilleux
 ParentName: Des objets magiques rares et merveilleux
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Des objets magiques rares et merveilleux](hd_l5r_magic.md)
 

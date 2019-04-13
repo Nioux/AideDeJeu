@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Fire Bolt
 AltName: '[Trait de feu](hd_spells_trait_de_feu.md)'
 Type: Evocation
@@ -9,13 +10,15 @@ Range: 120 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p144)
 Id: spells_vo.md#fire-bolt
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

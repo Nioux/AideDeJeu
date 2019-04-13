@@ -6,6 +6,9 @@ Name: Expert en armes lourdes
 ParentName: Dons
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Dons](hd_feats.md)
 

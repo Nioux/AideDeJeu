@@ -7,6 +7,9 @@ ParentLink: backgrounds_hd.md#historique
 Name: Homme de Loi
 ParentName: Historique
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

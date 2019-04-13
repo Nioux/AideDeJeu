@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Tiger](srd_monsters_tiger.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

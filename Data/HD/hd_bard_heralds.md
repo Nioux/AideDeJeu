@@ -9,6 +9,9 @@ ParentLink: bard_hd.md#collèges-bardiques
 ParentName: Collèges bardiques
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Collèges bardiques](hd_bard_colleges_bardiques.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Hellish Rebuke
 AltName: '[Représailles infernales](hd_spells_represailles_infernales.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Warlock
-Family: SpellVO
 Source: (SRD p154)
 Id: spells_vo.md#hellish-rebuke
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

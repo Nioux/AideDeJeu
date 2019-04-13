@@ -9,6 +9,9 @@ ParentLink: warlock_hd.md#protecteurs-doutre-monde
 ParentName: Protecteurs d'outre-monde
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Protecteurs d'outre-monde](hd_warlock_protecteurs_doutre_monde.md)
 

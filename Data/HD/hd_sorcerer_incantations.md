@@ -6,6 +6,9 @@ ParentLink: sorcerer_hd.md#ensorceleur
 ParentName: Ensorceleur
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Ensorceleur](hd_sorcerer.md)
 

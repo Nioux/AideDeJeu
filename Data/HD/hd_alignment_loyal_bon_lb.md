@@ -6,6 +6,9 @@ Name: Loyal Bon (LB)
 ParentName: Alignement
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   On peut compter sur ces créatures pour faire ce qui est considéré comme bien en société. Les dragons d'or, les licornes, la majorité des paladins et des nains sont d'alignement Loyal Bon.
 

@@ -24,6 +24,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Gobelours](hd_monsters_gobelours.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

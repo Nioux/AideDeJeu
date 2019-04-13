@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Gladiator](srd_monsters_gladiator.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

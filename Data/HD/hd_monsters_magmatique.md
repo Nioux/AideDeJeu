@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Magmin](srd_monsters_magmin.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

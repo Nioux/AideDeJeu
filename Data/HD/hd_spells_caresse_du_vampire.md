@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Caresse du vampire
 AltName: '[Vampiric Touch](srd_spells_vampiric_touch.md)'
 Type: Nécromancie
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p330)(SRD)
 Id: spells_hd.md#caresse-du-vampire
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

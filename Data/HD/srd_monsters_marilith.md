@@ -27,6 +27,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Marilith](hd_monsters_marilith.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

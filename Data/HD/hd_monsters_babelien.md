@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Gibbering Mouther](srd_monsters_gibbering_mouther.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

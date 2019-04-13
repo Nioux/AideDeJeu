@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Raise Dead
 AltName: '[Rappel à la vie](hd_spells_rappel_a_la_vie.md)'
 Type: necromancy
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (a diamond worth at least 500 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Bard, Cleric, Paladin
-Family: SpellVO
 Source: (SRD p173)
 Id: spells_vo.md#raise-dead
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

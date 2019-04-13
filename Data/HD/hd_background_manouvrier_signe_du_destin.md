@@ -23,6 +23,9 @@ Name: Signe du destin
 ParentName: Manouvrier
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Un événement est survenu dans votre vie, qui a radicalement altéré votre destin. Choisissez ou déterminez aléatoirement ce signe parmi les événements suivants. Précisez ensuite avec votre MJ les détails correspondant.
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Projectile toxique
 Type: Invocation
 Level: 3
@@ -8,13 +9,15 @@ Range: selon l'arme utilisée
 Components: V, S, M (un projectile)
 Duration: instantané
 Classes: '[Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#projectile-toxique
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

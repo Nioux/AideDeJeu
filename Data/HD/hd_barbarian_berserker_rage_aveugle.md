@@ -6,6 +6,9 @@ ParentLink: barbarian_berserker_hd.md#voie-du-berserker
 ParentName: Voie du berserker
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Voie du berserker](hd_barbarian_berserker.md)
 

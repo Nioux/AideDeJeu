@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Clerc
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Clerc](hd_cleric.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Globe d'invulnérabilité
 AltName: '[Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: personnelle (3 mètres de rayon)
 Components: V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p359)
 Id: spells_hd.md#globe-dinvulnérabilité
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

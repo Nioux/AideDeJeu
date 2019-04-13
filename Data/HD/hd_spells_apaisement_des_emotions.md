@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Apaisement des émotions
 AltName: '[Calm Emotions](srd_spells_calm_emotions.md)'
 Type: Enchantement
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p322)(SRD)
 Id: spells_hd.md#apaisement-des-émotions
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

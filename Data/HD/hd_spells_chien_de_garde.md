@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Chien de garde
 AltName: '[Faithful Hound](srd_spells_faithful_hound.md)'
 Type: Invocation
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)
 Duration: 8 heures
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p334)
 Id: spells_hd.md#chien-de-garde
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

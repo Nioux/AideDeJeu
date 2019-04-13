@@ -12,6 +12,9 @@ NameLevel: 1
 AltName: Acolyte (SRD p60)
 Source: (MDR p81)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous avez passé votre vie au service d'un temple dédié à un dieu particulier ou à un panthéon de dieux. Vous serviez d'intermédiaire entre le domaine du sacré et le monde mortel. Vous accomplissiez les rites sacrés et faisiez les sacrifices nécessaires qui permettent de mettre les fidèles en présence du divin. Vous n'étiez pas nécessairement un clerc (accomplir des rites sacrés n'est pas la même chose que canaliser la puissance divine).
 

@@ -25,6 +25,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Nuée d'insectes](hd_monsters_nuee_dinsectes.md)"
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

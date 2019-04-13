@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Hill Giant](srd_monsters_hill_giant.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

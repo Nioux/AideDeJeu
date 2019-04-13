@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Roper](srd_monsters_roper.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

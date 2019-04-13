@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Imprisonment
 AltName: '[Emprisonnement](hd_spells_emprisonnement.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: 30 feet
 Components: V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)
 Duration: Until dispelled
 Classes: Warlock, Wizard
-Family: SpellVO
 Source: (SRD p156)
 Id: spells_vo.md#imprisonment
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

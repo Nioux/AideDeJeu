@@ -7,6 +7,9 @@ ParentLink: backgrounds_hd.md#historique
 Name: Solitaire
 ParentName: Historique
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

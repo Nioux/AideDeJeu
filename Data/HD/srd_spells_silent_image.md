@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Silent Image
 AltName: '[Image silencieuse](hd_spells_image_silencieuse.md)'
 Type: illusion
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: V, S, M (a bit of fleece)
 Duration: Concentration, up to 10 minutes
 Classes: Bard, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p179)
 Id: spells_vo.md#silent-image
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

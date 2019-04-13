@@ -6,6 +6,9 @@ ParentLink: monk_openhand_hd.md#voie-de-la-main-ouverte
 ParentName: Voie de la main ouverte
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Voie de la main ouverte](hd_monk_openhand.md)
 

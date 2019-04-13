@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Roublard
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Roublard](hd_rogue.md)
 

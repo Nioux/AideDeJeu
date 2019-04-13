@@ -26,6 +26,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Zombi ogre](hd_monsters_zombi_ogre.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Pseudodragon](srd_monsters_pseudodragon.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

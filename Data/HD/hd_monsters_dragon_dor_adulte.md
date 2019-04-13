@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

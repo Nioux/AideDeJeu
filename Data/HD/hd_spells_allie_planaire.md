@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Allié planaire
 AltName: '[Planar Ally](srd_spells_planar_ally.md)'
 Type: Invocation
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p320)(SRD)
 Id: spells_hd.md#allié-planaire
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

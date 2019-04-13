@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Araignée de phase](hd_monsters_araignee_de_phase.md)'
 Source: (SRD p385)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -6,6 +6,9 @@ ParentLink: alignment_hd.md#alignement
 ParentName: Alignement
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Pour de nombreuses créatures douées de raison, l'alignement est un choix moral. Les humains, les nains, les elfes et les autres races humanoïdes peuvent choisir la voie qui leur convient le mieux entre le bien et le mal, la loi et le chaos. Les légendes racontent que les dieux d'alignement Bon qui ont créé ces races leur ont donné cette capacité de choisir leur voie, bien conscients que faire le bien n'est qu'une autre forme d'esclavage s'il n'est pas le fruit du libre arbitre.
 

@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Planetar](srd_monsters_planetar.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

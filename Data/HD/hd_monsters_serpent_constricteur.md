@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Constrictor Snake](srd_monsters_constrictor_snake.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

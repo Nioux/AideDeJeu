@@ -6,6 +6,9 @@ ParentLink: traps_hd.md#les-pièges
 ParentName: Les pièges
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Les pièges](hd_traps.md)
 

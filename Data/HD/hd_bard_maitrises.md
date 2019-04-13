@@ -11,6 +11,9 @@ Name: Maîtrises
 ParentName: Barde
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Barde](hd_bard.md)
 

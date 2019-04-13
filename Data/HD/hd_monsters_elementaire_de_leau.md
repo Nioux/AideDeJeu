@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Water Elemental](srd_monsters_water_elemental.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

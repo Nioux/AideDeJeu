@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Tromperie
 AltName: '[Mislead](srd_spells_mislead.md)'
 Type: Illusion
@@ -9,13 +10,15 @@ Range: personnelle
 Components: S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#tromperie
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

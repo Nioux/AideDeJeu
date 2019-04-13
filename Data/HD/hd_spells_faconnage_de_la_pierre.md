@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Façonnage de la pierre
 AltName: '[Stone Shape](srd_spells_stone_shape.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p355)(SRD)
 Id: spells_hd.md#façonnage-de-la-pierre
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

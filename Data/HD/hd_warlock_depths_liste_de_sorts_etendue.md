@@ -6,6 +6,9 @@ ParentLink: warlock_depths_hd.md#la-puissance-des-profondeurs
 ParentName: La puissance des profondeurs
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [La puissance des profondeurs](hd_warlock_depths.md)
 

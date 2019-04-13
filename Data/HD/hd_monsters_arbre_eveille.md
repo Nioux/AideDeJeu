@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Awakened Tree](srd_monsters_awakened_tree.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

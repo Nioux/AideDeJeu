@@ -29,6 +29,9 @@ NameLevel: 1
 AltName: '[Shadow](srd_monsters_shadow.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

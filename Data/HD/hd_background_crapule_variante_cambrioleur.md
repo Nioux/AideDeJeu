@@ -9,6 +9,9 @@ Name: 'Variante : Cambrioleur'
 ParentName: Crapule
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait votre gagne-pain de les délester un peu de leurs richesses pour les revendre, empochant au passage une jolie commission.
 

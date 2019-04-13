@@ -8,6 +8,9 @@ Name: Barde
 ParentName: Classes
 AltName: '[Bard](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

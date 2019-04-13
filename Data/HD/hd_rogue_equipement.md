@@ -6,6 +6,9 @@ Name: Équipement
 ParentName: Roublard
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Roublard](hd_rogue.md)
 

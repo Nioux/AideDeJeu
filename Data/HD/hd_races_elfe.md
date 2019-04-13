@@ -8,6 +8,9 @@ Name: Elfe
 ParentName: Races
 AltName: '[Elf](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

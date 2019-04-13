@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Guidance
 AltName: '[Assistance](hd_spells_assistance.md)'
 Type: Divination
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Cleric, Druid
-Family: SpellVO
 Source: (SRD p151)
 Id: spells_vo.md#guidance
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

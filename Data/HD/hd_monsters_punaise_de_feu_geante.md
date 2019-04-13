@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Healing Word
 AltName: '[Mot de guérison](hd_spells_mot_de_guerison.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: V
 Duration: Instantaneous
 Classes: Bard, Cleric, Druid
-Family: SpellVO
 Source: (SRD p153)
 Id: spells_vo.md#healing-word
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -24,6 +24,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

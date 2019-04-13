@@ -7,6 +7,9 @@ ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
 ParentName: Panthéons historiques et fantastiques
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Panthéons historiques et fantastiques](hd_pantheons.md)
 

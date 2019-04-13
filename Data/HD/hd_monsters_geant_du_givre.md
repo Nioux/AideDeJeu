@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Frost Giant](srd_monsters_frost_giant.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

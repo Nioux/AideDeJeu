@@ -6,6 +6,9 @@ ParentLink: barbarian_steel_hd.md#voie-de-lacier
 ParentName: Voie de l'acier
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Voie de l'acier](hd_barbarian_steel.md)
 

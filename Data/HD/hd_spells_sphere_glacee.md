@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Sphère glacée
 AltName: '[Freezing Sphere](srd_spells_freezing_sphere.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 90 mètres
 Components: V, S, M (une petite sphère de cristal)
 Duration: instantanée
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#sphère-glacée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

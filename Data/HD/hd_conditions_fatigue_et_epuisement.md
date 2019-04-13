@@ -7,6 +7,9 @@ ParentLink: conditions_hd.md#États-spéciaux
 ParentName: États spéciaux
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [États spéciaux](hd_conditions.md)
 

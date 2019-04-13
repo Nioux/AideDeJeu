@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Commoner](srd_monsters_commoner.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

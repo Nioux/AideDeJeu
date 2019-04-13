@@ -6,6 +6,9 @@ Name: Équipement
 ParentName: Magicien
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Magicien](hd_wizard.md)
 

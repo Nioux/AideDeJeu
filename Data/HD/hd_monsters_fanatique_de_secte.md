@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Cult Fanatic](srd_monsters_cult_fanatic.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

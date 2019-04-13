@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Hawk](srd_monsters_hawk.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

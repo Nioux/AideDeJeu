@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Quasit](srd_monsters_quasit.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

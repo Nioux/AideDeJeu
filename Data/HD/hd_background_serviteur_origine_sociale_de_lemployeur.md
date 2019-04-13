@@ -23,6 +23,9 @@ Name: Origine sociale de l'employeur
 ParentName: Serviteur
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Les serviteurs tirent une grande fierté de l'origine et de la classe sociale de leur maître ou de leur maîtresse. Déterminez la classe sociale de la personne que vous serviez avec votre MJ, ou déterminez-la aléatoirement grâce à la table suivante.
 

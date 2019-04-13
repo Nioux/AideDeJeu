@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Simulacre de vie
 AltName: '[False Life](srd_spells_false_life.md)'
 Type: Nécromancie
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S, M (une petite quantité d'alcool ou de spiritueux)
 Duration: 1 heure
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#simulacre-de-vie
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

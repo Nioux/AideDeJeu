@@ -9,6 +9,9 @@ ParentName: ''
 NameLevel: 1
 Attributes:
   Book: (MDR p36)(SRD p3)
+AttributesDictionary: >+
+  Book: (MDR p36)(SRD p3)
+
 ---
 >  [](.md#)
 

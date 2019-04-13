@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Gaseous Form
 AltName: '[Forme gazeuse](hd_spells_forme_gazeuse.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (a bit of gauze and a wisp of smoke)
 Duration: Concentration, up to 1 hour
 Classes: Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p148)
 Id: spells_vo.md#gaseous-form
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

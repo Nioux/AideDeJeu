@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Couleurs dansantes
 AltName: '[Color Spray](srd_spells_color_spray.md)'
 Type: Illusion
@@ -9,13 +10,15 @@ Range: personnelle (cône de 4,50 mètres)
 Components: V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
 Duration: 1 round
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p343)(SRD)
 Id: spells_hd.md#couleurs-dansantes
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

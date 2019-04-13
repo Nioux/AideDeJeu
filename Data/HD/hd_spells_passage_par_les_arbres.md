@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Passage par les arbres
 AltName: '[Tree Stride](srd_spells_tree_stride.md)'
 Type: Invocation
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#passage-par-les-arbres
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

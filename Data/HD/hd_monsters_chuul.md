@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Chuul](srd_monsters_chuul.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

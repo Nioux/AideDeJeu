@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Changement de forme
 AltName: '[Shapechange](srd_spells_shapechange.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p333)(SRD)
 Id: spells_hd.md#changement-de-forme
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

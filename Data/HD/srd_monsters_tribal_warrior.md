@@ -23,6 +23,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Guerrier tribal](hd_monsters_guerrier_tribal.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

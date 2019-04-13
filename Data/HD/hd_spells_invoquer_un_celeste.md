@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Invoquer un céleste
 AltName: '[Conjure Celestial](srd_spells_conjure_celestial.md)'
 Type: Invocation
@@ -9,13 +10,15 @@ Range: 27 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#invoquer-un-céleste
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

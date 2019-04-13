@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Dissipation de la magie
 AltName: '[Dispel Magic](srd_spells_dispel_magic.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: 36 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p347)(SRD)
 Id: spells_hd.md#dissipation-de-la-magie
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Bouclier
 AltName: '[Shield](srd_spells_shield.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S
 Duration: 1 round
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p328)(SRD)
 Id: spells_hd.md#bouclier
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

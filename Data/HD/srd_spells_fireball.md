@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Fireball
 AltName: '[Boule de feu](hd_spells_boule_de_feu.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 150 feet
 Components: V, S, M (a tiny ball of bat guano and sulfur)
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p144)
 Id: spells_vo.md#fireball
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

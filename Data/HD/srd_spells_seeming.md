@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Seeming
 AltName: '[Apparence trompeuse](hd_spells_apparence_trompeuse.md)'
 Type: illusion
@@ -9,13 +10,15 @@ Range: 30 feet
 Components: V, S
 Duration: 8 hours
 Classes: Bard, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p177)
 Id: spells_vo.md#seeming
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

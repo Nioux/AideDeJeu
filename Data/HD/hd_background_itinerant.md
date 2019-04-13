@@ -11,6 +11,9 @@ Name: Itinérant
 ParentName: Historique
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous avez vécu toute votre vie sur les routes. Vous n'avez connu que la vie nomade, vous déplaçant de village en village, de cité en cité, et vendant vos services ou vos talents. Que vous soyez un artiste, un camelot itinérant ou simplement un membre de la communauté des gens du voyage, la route est votre maison et vous avez toujours appris à vous contenter de peu. Vous préférez regarder le ciel étoilé et le voir comme la plus grande des richesses, plutôt que de compter les pièces de monnaie enfermé dans un manoir qui ne vous semble être qu'une prison dorée.
 

@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Sprite](srd_monsters_sprite.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

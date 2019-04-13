@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Produce Flame
 AltName: '[Produire une flamme](hd_spells_produire_une_flamme.md)'
 Type: Conjuration
@@ -9,13 +10,15 @@ Range: Self
 Components: V, S
 Duration: 10 minutes
 Classes: Druid
-Family: SpellVO
 Source: (SRD p172)
 Id: spells_vo.md#produce-flame
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Manteau de givre
 Type: Abjuration
 Level: 1
@@ -8,13 +9,15 @@ Range: personnelle
 Components: V, S, M (un peu d'eau)
 Duration: 8 heures
 Classes: '[Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#manteau-de-givre
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

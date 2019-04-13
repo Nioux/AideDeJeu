@@ -8,6 +8,9 @@ Name: Nain
 ParentName: Races
 AltName: '[Dwarf](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

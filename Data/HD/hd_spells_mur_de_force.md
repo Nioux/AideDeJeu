@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Mur de force
 AltName: '[Wall of Force](srd_spells_wall_of_force.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 36 mètres
 Components: V, S, M (une pincée de poudre de gemme translucide)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#mur-de-force
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

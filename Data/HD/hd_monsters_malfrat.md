@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Thug](srd_monsters_thug.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

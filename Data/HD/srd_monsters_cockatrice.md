@@ -23,6 +23,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Cockatrice](hd_monsters_cockatrice.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

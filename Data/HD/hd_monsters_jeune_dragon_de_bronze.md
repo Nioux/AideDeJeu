@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

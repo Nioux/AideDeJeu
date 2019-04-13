@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Hell Hound](srd_monsters_hell_hound.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

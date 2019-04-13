@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Antimagic Field
 AltName: '[Champ antimagie](hd_spells_champ_antimagie.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: Self (10-foot-radius sphere)
 Components: V, S, M (a pinch of powdered iron or iron filings)
 Duration: Concentration, up to 1 hour
 Classes: Cleric, Wizard
-Family: SpellVO
 Source: (SRD p117)
 Id: spells_vo.md#antimagic-field
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

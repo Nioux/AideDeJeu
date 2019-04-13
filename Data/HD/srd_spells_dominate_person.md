@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Dominate Person
 AltName: '[Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)'
 Type: enchantment
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p138)
 Id: spells_vo.md#dominate-person
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

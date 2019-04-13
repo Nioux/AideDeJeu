@@ -6,6 +6,9 @@ ParentLink: diseases_hd.md#les-maladies
 ParentName: Les maladies
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Les maladies](hd_diseases.md)
 

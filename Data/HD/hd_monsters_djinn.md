@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Djinni](srd_monsters_djinni.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

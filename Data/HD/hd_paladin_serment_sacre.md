@@ -6,6 +6,9 @@ ParentLink: paladin_hd.md#paladin
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Paladin](hd_paladin.md)
 

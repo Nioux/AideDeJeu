@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Animation des morts
 AltName: '[Animate Dead](srd_spells_animate_dead.md)'
 Type: Nécromancie
@@ -9,13 +10,15 @@ Range: 3 mètres
 Components: V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p321)(SRD)
 Id: spells_hd.md#animation-des-morts
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

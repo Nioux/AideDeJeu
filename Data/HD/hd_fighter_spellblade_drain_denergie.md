@@ -6,6 +6,9 @@ ParentLink: fighter_spellblade_hd.md#sorcelame
 ParentName: Sorcelame
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorcelame](hd_fighter_spellblade.md)
 

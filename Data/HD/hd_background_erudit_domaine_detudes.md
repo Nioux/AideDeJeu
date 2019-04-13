@@ -23,6 +23,9 @@ Name: Domaine d'études
 ParentName: Érudit
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous avez une affinité pour un sujet d'études en particulier, ce qui vous a amené à vous spécialiser. Si vous avez de nombreuses connaissances sur tous les sujets, c'est dans ce domaine en particulier que d'autres recherchent votre expertise et vous citent en référence.
 

@@ -8,6 +8,9 @@ Name: Halfelin
 ParentName: Races
 AltName: '[Halfling](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

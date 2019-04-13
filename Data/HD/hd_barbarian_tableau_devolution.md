@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Barbare
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Barbare](hd_barbarian.md)
 

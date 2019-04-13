@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

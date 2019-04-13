@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Guardian Naga](srd_monsters_guardian_naga.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Blême](hd_monsters_bleme.md)'
 Source: (SRD p311)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

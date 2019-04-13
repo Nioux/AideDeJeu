@@ -10,6 +10,9 @@ Name: "Variante : Noblesse d'épée"
 ParentName: Sang bleu
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous êtes membre d'une ancienne lignée issue des familles qui fondèrent le royaume, ou peut-être avezvous simplement gagné votre position à la force de votre épée, comme récompense de vos exploits ou de ceux d'un parent. Vous êtes noble, et cela a un sens. On vous a appris la guerre, le courage, et la valeur de l'honneur avant celle de l'argent.
 

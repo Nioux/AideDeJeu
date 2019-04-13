@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Xorn](srd_monsters_xorn.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

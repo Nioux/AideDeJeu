@@ -27,6 +27,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Diable gelé](hd_monsters_diable_gele.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Divination
 AltName: '[Divination](hd_spells_divination.md)'
 Type: divination
@@ -9,7 +10,6 @@ Range: Self
 Components: V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p136)
 Ritual: ritual
 Id: spells_vo.md#divination
@@ -17,6 +17,9 @@ ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -6,6 +6,9 @@ ParentLink: fighter_hd.md#guerrier
 ParentName: Guerrier
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Guerrier](hd_fighter.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Harm
 AltName: '[Contamination](hd_spells_contamination.md)'
 Type: necromancy
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p153)
 Id: spells_vo.md#harm
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

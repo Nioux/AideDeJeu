@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Couatl](srd_monsters_couatl.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -12,6 +12,9 @@ NameLevel: 2
 AltName: Hill Dwarf (SRD p3)
 Source: (MDR p57)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Nain](hd_dwarf.md)
 

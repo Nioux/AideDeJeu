@@ -6,6 +6,9 @@ ParentLink: wizard_surveyor_hd.md#arpenteur
 ParentName: Arpenteur
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Arpenteur](hd_wizard_surveyor.md)
 

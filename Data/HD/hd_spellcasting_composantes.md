@@ -8,6 +8,9 @@ ParentLink: spellcasting_hd.md#lancer-des-sorts
 ParentName: Lancer des sorts
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Lancer des sorts](hd_spellcasting.md)
 

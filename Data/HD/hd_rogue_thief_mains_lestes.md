@@ -6,6 +6,9 @@ ParentLink: rogue_thief_hd.md#voleur
 ParentName: Voleur
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Voleur](hd_rogue_thief.md)
 

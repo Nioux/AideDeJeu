@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Doppelganger](srd_monsters_doppelganger.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

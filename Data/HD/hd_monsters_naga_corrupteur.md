@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Spirit Naga](srd_monsters_spirit_naga.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

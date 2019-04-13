@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Marque du chasseur
 AltName: "[Hunter's Mark](srd_spells_hunters_mark.md)"
 Type: Divination
@@ -9,13 +10,15 @@ Range: 27 mètres
 Components: V
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Rôdeur](hd_ranger.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#marque-du-chasseur
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

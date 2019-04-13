@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

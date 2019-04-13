@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Zombie](srd_monsters_zombie.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

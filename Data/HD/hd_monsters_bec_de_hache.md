@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Axe Beak](srd_monsters_axe_beak.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

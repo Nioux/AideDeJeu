@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Druidisme
 AltName: '[Druidcraft](srd_spells_druidcraft.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Druide](hd_druid.md)'
-Family: SpellHD
 Source: (MDR p349)(SRD)
 Id: spells_hd.md#druidisme
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

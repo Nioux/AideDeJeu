@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Salamander](srd_monsters_salamander.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

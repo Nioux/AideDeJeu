@@ -9,6 +9,9 @@ Name: 'Variante : Rebouteux'
 ParentName: Villageois
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Dans tous les villages ou presque vit un guérisseur ou une rebouteuse. Quelqu'un dont tout le monde se méfie, mais qu'on consulte lorsque quelque chose va mal. Vous êtes de ces gens que l'on redoute et que l'on adore en même temps. Vous avez appris très tôt à soigner, à guérir, et à soulager les autres grâce à de petits rituels obscurs et autres remèdes de grands-mères.
 

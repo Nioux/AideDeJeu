@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Fire Giant](srd_monsters_fire_giant.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

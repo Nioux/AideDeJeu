@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Mur de pierre
 AltName: '[Wall of Stone](srd_spells_wall_of_stone.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 36 mètres
 Components: V, S, M (un petit bloc de granite)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#mur-de-pierre
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

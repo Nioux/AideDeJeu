@@ -27,6 +27,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Momie auguste](hd_monsters_momie_auguste.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

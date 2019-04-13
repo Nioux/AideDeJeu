@@ -9,6 +9,9 @@ Name: Points de vie
 ParentName: Moine
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Moine](hd_monk.md)
 

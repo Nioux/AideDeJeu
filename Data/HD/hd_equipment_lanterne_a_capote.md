@@ -9,6 +9,9 @@ Name: Lanterne à capote
 ParentName: Équipement
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Équipement](hd_equipment.md)
 

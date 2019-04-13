@@ -8,6 +8,9 @@ Name: Magicien
 ParentName: Classes
 AltName: '[Wizard](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

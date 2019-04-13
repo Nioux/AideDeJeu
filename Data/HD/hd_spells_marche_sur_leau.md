@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Marche sur l'eau
 AltName: '[Water Walk](srd_spells_water_walk.md)'
 Type: Transmutation
@@ -9,7 +10,6 @@ Range: 9 mètres
 Components: V, S, M (un bout de liège)
 Duration: 1 heure
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Rôdeur](hd_ranger.md)'
-Family: SpellHD
 Source: (MDR p)
 Ritual: rituel
 Id: spells_hd.md#marche-sur-leau
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

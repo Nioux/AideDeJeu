@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Réincarnation
 AltName: '[Reincarnate](srd_spells_reincarnate.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
 Duration: instantanée
 Classes: '[Druide](hd_druid.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#réincarnation
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

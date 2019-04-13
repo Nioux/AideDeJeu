@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Résurrection
 AltName: '[Resurrection](srd_spells_resurrection.md)'
 Type: Nécromancie
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#résurrection
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

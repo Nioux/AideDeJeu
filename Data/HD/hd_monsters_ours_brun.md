@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Brown Bear](srd_monsters_brown_bear.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

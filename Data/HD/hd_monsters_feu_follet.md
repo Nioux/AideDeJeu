@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: "[Will-o'-Wisp](srd_monsters_will_o_wisp.md)"
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

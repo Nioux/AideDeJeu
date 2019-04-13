@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Augury
 AltName: '[Augure](hd_spells_augure.md)'
 Type: divination
@@ -9,7 +10,6 @@ Range: Self
 Components: V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)
 Duration: Instantaneous
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p120)
 Ritual: ritual
 Id: spells_vo.md#augury
@@ -17,6 +17,9 @@ ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

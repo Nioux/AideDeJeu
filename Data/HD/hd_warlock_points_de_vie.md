@@ -9,6 +9,9 @@ Name: Points de vie
 ParentName: Sorcier
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorcier](hd_warlock.md)
 

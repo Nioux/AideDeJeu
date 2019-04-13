@@ -8,6 +8,9 @@ Name: Druide
 ParentName: Classes
 AltName: '[Druid](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

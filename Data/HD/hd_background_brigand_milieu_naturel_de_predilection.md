@@ -27,6 +27,9 @@ Name: Milieu naturel de prédilection
 ParentName: Brigand
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous avez une affinité avec un milieu naturel en particulier, où vous avez vécu et avez appris à survivre et à prospérer. Même si vous êtes capable de survivre dans des environnements variés, c'est là que vous vous sentez réellement chez vous. Lancez un dé ou sélectionnez l'un des choix suivants.
 

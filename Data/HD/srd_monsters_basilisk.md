@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Basilic](hd_monsters_basilic.md)'
 Source: (SRD p265)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

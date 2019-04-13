@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Entrave planaire
 AltName: '[Planar Binding](srd_spells_planar_binding.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
 Duration: 24 heures
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p352)(SRD)
 Id: spells_hd.md#entrave-planaire
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

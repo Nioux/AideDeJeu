@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Sphère résiliente
 AltName: '[Resilient Sphere](srd_spells_resilient_sphere.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#sphère-résiliente
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

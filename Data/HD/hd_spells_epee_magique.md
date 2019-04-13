@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Épée magique
 AltName: '[Arcane Sword](srd_spells_arcane_sword.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p353)
 Id: spells_hd.md#Épée-magique
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Forbiddance
 AltName: '[Interdiction](hd_spells_interdiction.md)'
 Type: abjuration
@@ -9,7 +10,6 @@ Range: Touch
 Components: V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)
 Duration: 1 day
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p146)
 Ritual: ritual
 Id: spells_vo.md#forbiddance
@@ -17,6 +17,9 @@ ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

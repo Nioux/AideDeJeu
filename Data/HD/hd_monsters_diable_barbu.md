@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Bearded Devil](srd_monsters_bearded_devil.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

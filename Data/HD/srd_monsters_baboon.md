@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Babouin](hd_monsters_babouin.md)'
 Source: (SRD p367)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

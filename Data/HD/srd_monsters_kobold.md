@@ -23,6 +23,9 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Kobold](hd_monsters_kobold.md)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

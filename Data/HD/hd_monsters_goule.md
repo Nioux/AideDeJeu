@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Ghoul](srd_monsters_ghoul.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

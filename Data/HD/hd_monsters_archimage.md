@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Archmage](srd_monsters_archmage.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

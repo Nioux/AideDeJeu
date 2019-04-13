@@ -6,6 +6,9 @@ ParentLink: ranger_pisteur_hd.md#pisteur--un-rôdeur-alternatif
 ParentName: 'Pisteur : un rôdeur alternatif'
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Pisteur : un rôdeur alternatif](hd_ranger_pisteur.md)
 

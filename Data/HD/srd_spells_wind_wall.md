@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Wind Wall
 AltName: '[Mur de vent](hd_spells_mur_de_vent.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 120 feet
 Components: V, S, M (a tiny fan and a feather of exotic origin)
 Duration: Concentration, up to 1 minute
 Classes: Druid, Ranger
-Family: SpellVO
 Source: (SRD p192)
 Id: spells_vo.md#wind-wall
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

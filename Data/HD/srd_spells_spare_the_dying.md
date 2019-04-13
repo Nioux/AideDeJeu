@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Spare the Dying
 AltName: '[Épargner les mourants](hd_spells_epargner_les_mourants.md)'
 Type: Necromancy
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p181)
 Id: spells_vo.md#spare-the-dying
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

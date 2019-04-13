@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Oni](srd_monsters_oni.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

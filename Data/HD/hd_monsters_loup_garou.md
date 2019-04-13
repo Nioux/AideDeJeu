@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Werewolf](srd_monsters_werewolf.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

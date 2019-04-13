@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Ochre Jelly](srd_monsters_ochre_jelly.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

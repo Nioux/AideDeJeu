@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Araignée géante](hd_monsters_araignee_geante.md)'
 Source: (SRD p379)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

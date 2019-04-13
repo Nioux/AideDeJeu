@@ -8,6 +8,9 @@ ParentLink: races_hd.md#races
 ParentName: Races
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Races](hd_races.md)
 

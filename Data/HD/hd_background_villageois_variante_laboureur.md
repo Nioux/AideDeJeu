@@ -9,6 +9,9 @@ Name: 'Variante : Laboureur'
 ParentName: Villageois
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Le laboureur travaille dur. Il exploite des terres qui sont peut-être à lui, surtout s'il est un homme libre, ou qui lui sont louées par un seigneur ou un nanti. Il se lève tôt pour travailler aux champs et rentre quand tombe la nuit.
 

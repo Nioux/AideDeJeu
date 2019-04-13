@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Ettin](srd_monsters_ettin.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

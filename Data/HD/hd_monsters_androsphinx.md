@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Androsphinx](srd_monsters_androsphinx.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

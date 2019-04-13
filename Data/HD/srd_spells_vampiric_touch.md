@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Vampiric Touch
 AltName: '[Caresse du vampire](hd_spells_caresse_du_vampire.md)'
 Type: necromancy
@@ -9,13 +10,15 @@ Range: Self
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Warlock, Wizard
-Family: SpellVO
 Source: (SRD p189)
 Id: spells_vo.md#vampiric-touch
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Léger comme une plume
 AltName: '[Feather Fall](srd_spells_feather_fall.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V, M (une petite plume ou un peu de duvet)
 Duration: 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#léger-comme-une-plume
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

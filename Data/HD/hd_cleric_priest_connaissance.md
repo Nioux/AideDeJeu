@@ -6,6 +6,9 @@ ParentLink: cleric_priest_hd.md#liste-des-domaines
 ParentName: Liste des domaines
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Liste des domaines](hd_cleric_priest_liste_des_domaines.md)
 

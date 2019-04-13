@@ -7,6 +7,9 @@ ParentLink: custom_options_hd.md#options-de-personnalisation
 Name: Multiclassage
 ParentName: Options de personnalisation
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

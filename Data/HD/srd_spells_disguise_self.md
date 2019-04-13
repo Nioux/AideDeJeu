@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Disguise Self
 AltName: '[Déguisement](hd_spells_deguisement.md)'
 Type: illusion
@@ -9,13 +10,15 @@ Range: Self
 Components: V, S
 Duration: 1 hour
 Classes: Bard, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p135)
 Id: spells_vo.md#disguise-self
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

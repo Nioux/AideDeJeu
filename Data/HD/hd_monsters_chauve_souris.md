@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Bat](srd_monsters_bat.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Tempête de neige
 AltName: '[Sleet Storm](srd_spells_sleet_storm.md)'
 Type: Invocation
@@ -9,13 +10,15 @@ Range: 45 mètres
 Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#tempête-de-neige
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

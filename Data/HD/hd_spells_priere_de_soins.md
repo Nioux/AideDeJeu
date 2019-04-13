@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Prière de soins
 AltName: '[Prayer of Healing](srd_spells_prayer_of_healing.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#prière-de-soins
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

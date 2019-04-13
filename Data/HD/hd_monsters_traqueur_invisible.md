@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Invisible Stalker](srd_monsters_invisible_stalker.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

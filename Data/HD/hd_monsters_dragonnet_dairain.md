@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

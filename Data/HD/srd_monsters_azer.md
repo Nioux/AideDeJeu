@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Azer](hd_monsters_azer.md)'
 Source: (SRD p265)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

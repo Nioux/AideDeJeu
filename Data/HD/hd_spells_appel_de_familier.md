@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Appel de familier
 AltName: '[Find Familiar](srd_spells_find_familiar.md)'
 Type: Invocation
@@ -9,7 +10,6 @@ Range: 3 mètres
 Components: V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
 Duration: instantanée
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p323)(SRD)
 Ritual: rituel
 Id: spells_hd.md#appel-de-familier
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

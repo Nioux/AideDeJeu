@@ -6,6 +6,9 @@ ParentLink: rogue_spy_hd.md#espion
 ParentName: Espion
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Espion](hd_rogue_spy.md)
 

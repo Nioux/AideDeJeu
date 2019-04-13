@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Monture fantôme
 AltName: '[Phantom Steed](srd_spells_phantom_steed.md)'
 Type: Illusion
@@ -9,7 +10,6 @@ Range: 9 mètres
 Components: V, S
 Duration: 1 heure
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Ritual: rituel
 Id: spells_hd.md#monture-fantôme
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

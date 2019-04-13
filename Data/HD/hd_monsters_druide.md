@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Druid](srd_monsters_druid.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

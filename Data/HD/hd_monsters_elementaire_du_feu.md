@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Poison naturel
 Type: Invocation
 Level: 1
@@ -8,13 +9,15 @@ Range: personnelle
 Components: V
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#poison-naturel
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

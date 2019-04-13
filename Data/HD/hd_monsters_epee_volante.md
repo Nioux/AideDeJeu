@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Flying Sword](srd_monsters_flying_sword.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

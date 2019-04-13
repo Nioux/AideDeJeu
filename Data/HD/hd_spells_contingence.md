@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Contingence
 AltName: '[Contingency](srd_spells_contingency.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
 Duration: 10 jours
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p340)(SRD)
 Id: spells_hd.md#contingence
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

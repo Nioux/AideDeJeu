@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Time Stop
 AltName: '[Arrêt du temps](hd_spells_arret_du_temps.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: Self
 Components: V
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p187)
 Id: spells_vo.md#time-stop
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

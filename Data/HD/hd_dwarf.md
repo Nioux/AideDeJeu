@@ -19,6 +19,9 @@ NameLevel: 1
 AltName: Dwarf (SRD p3)
 Source: (MDR p57)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Races](races_hd.md#)
 

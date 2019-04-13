@@ -22,6 +22,9 @@ NameLevel: 1
 AltName: Human (SRD p5)
 Source: (MDR p54)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Races](races_hd.md#)
 

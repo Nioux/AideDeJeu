@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Freedom of Movement
 AltName: '[Liberté de mouvement](hd_spells_liberte_de_mouvement.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (a leather strap, bound around the arm or a similar appendage)
 Duration: 1 hour
 Classes: Bard, Cleric, Druid, Ranger
-Family: SpellVO
 Source: (SRD p147)
 Id: spells_vo.md#freedom-of-movement
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -6,6 +6,9 @@ ParentLink: bard_hd.md#barde
 ParentName: Barde
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Barde](hd_bard.md)
 

@@ -6,6 +6,9 @@ ParentLink: poisons_hd.md#les-poisons
 ParentName: Les poisons
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Les poisons](hd_poisons.md)
 

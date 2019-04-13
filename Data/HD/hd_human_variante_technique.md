@@ -6,6 +6,9 @@ ParentLink: human_hd.md#humain
 ParentName: Humain
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Humain](hd_human.md)
 

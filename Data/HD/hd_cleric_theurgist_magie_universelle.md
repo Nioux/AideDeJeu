@@ -6,6 +6,9 @@ ParentLink: cleric_theurgist_hd.md#théurge
 ParentName: Théurge
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Théurge](hd_cleric_theurgist.md)
 

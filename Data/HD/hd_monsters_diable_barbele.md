@@ -29,6 +29,9 @@ NameLevel: 1
 AltName: '[Barbed Devil](srd_monsters_barbed_devil.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

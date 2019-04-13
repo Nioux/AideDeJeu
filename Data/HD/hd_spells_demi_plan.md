@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Demi-plan
 AltName: '[Demiplane](srd_spells_demiplane.md)'
 Type: Invocation
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: S
 Duration: 1 heure
 Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p345)(SRD)
 Id: spells_hd.md#demi-plan
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

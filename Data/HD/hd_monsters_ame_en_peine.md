@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Wraith](srd_monsters_wraith.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

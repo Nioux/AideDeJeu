@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Araignée](hd_monsters_araignee.md)'
 Source: (SRD p389)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Sorcier
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorcier](hd_warlock.md)
 

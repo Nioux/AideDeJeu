@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

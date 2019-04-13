@@ -9,6 +9,9 @@ ParentLink: druid_hd.md#cercles-druidiques
 ParentName: Cercles druidiques
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Cercles druidiques](hd_druid_cercles_druidiques.md)
 

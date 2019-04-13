@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Arcane Lock
 AltName: '[Verrou magique](hd_spells_verrou_magique.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (gold dust worth at least 25 gp, which the spell consumes)
 Duration: Until dispelled
 Classes: Wizard
-Family: SpellVO
 Source: (SRD p118)
 Id: spells_vo.md#arcane-lock
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

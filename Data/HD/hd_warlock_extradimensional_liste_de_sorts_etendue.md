@@ -6,6 +6,9 @@ ParentLink: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
 ParentName: L'entité extra-dimensionnelle
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [L'entité extra-dimensionnelle](hd_warlock_extradimensional.md)
 

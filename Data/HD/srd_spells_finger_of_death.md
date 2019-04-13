@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Finger of Death
 AltName: '[Doigt de mort](hd_spells_doigt_de_mort.md)'
 Type: necromancy
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p144)
 Id: spells_vo.md#finger-of-death
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Bandit Captain](srd_monsters_bandit_captain.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

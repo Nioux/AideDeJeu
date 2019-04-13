@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Hallucinatory Terrain
 AltName: '[Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)'
 Type: illusion
@@ -9,13 +10,15 @@ Range: 300 feet
 Components: V, S, M (a stone, a twig, and a bit of green plant)
 Duration: 24 hours
 Classes: Bard, Druid, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p152)
 Id: spells_vo.md#hallucinatory-terrain
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

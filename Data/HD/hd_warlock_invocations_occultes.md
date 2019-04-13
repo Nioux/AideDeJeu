@@ -7,6 +7,9 @@ ParentLink: warlock_hd.md#sorcier
 Name: Invocations occultes
 ParentName: Sorcier
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Darkmantle](srd_monsters_darkmantle.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Rôdeur
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Rôdeur](hd_ranger.md)
 

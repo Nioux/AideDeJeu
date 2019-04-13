@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

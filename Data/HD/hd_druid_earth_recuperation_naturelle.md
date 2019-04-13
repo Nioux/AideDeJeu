@@ -6,6 +6,9 @@ ParentLink: druid_earth_hd.md#cercle-de-la-terre
 ParentName: Cercle de la terre
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Cercle de la terre](hd_druid_earth.md)
 

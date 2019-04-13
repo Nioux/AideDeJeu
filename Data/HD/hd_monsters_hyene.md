@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Hyena](srd_monsters_hyena.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Ankheg](srd_monsters_ankheg.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

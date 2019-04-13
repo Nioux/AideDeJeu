@@ -9,6 +9,9 @@ Name: Cire à cacheter
 ParentName: Équipement
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Équipement](hd_equipment.md)
 

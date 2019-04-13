@@ -11,6 +11,9 @@ ParentName: Nain
 NameLevel: 2
 Source: (MDR p57)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Nain](hd_dwarf.md)
 

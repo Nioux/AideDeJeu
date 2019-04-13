@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

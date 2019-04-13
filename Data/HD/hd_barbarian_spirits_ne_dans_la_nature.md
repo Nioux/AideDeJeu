@@ -6,6 +6,9 @@ ParentLink: barbarian_spirits_hd.md#voie-des-esprits
 ParentName: Voie des esprits
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Voie des esprits](hd_barbarian_spirits.md)
 

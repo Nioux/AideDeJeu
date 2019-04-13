@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Arcanist's Magic Aura
 AltName: "[Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)"
 Type: illusion
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (a small square of silk)
 Duration: 24 hours
 Classes: Wizard
-Family: SpellVO
 Source: (SRD p119)
 Id: spells_vo.md#arcanists-magic-aura
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

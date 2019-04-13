@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Vulture](srd_monsters_vulture.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

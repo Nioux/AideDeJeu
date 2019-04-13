@@ -9,6 +9,9 @@ Name: 'Variante : Artisan local'
 ParentName: Villageois
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Contrairement aux artisans des cités, vous ne vous êtes jamais réellement spécialisé. À la campagne, il faut savoir s'adapter à toutes les situations. Dans le village, c'est à vous qu'on s'en remettait pour tenir les maisons, les granges, les socs de charrue ou les moulins en bon état.
 

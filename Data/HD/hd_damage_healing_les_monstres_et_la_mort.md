@@ -8,6 +8,9 @@ ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 ParentName: 'Dégâts et guérison '
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Dégâts et guérison ](hd_damage_healing.md)
 

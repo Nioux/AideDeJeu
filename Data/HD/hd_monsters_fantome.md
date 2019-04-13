@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Ghost](srd_monsters_ghost.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

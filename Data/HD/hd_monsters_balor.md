@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Balor](srd_monsters_balor.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -8,6 +8,9 @@ Name: Demi-orc
 ParentName: Races
 AltName: '[Half-Orc](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

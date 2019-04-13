@@ -9,6 +9,9 @@ Name: Points de vie
 ParentName: Druide
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Druide](hd_druid.md)
 

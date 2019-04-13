@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Insect Plague
 AltName: "[Fléau d'insectes](hd_spells_fleau_dinsectes.md)"
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 300 feet
 Components: V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)
 Duration: Concentration, up to 10 minutes
 Classes: Cleric, Druid, Sorcerer
-Family: SpellVO
 Source: (SRD p157)
 Id: spells_vo.md#insect-plague
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

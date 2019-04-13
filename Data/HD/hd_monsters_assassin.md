@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Assassin](srd_monsters_assassin.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

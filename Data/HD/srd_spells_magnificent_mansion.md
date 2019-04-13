@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Magnificent Mansion
 AltName: '[Manoir somptueux](hd_spells_manoir_somptueux.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 300 feet
 Components: V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)
 Duration: 24 hours
 Classes: Bard, Wizard
-Family: SpellVO
 Source: (SRD p162)
 Id: spells_vo.md#magnificent-mansion
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

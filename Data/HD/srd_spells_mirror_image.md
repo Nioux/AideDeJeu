@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Mirror Image
 AltName: '[Image miroir](hd_spells_image_miroir.md)'
 Type: illusion
@@ -9,13 +10,15 @@ Range: Self
 Components: V, S
 Duration: 1 minute
 Classes: Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p165)
 Id: spells_vo.md#mirror-image
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -8,6 +8,9 @@ Name: Ensorceleur
 ParentName: Classes
 AltName: '[Sorcerer](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

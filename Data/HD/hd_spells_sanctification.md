@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Sanctification
 AltName: '[Hallow](srd_spells_hallow.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
 Duration: jusqu'à dissipation
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#sanctification
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

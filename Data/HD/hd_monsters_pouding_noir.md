@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Black Pudding](srd_monsters_black_pudding.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

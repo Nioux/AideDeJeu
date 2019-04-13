@@ -6,6 +6,9 @@ ParentLink: abilities_strength_hd.md#force
 ParentName: Force
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Force](hd_abilities_strength.md)
 

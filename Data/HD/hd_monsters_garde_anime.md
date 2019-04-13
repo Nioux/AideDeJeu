@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Shield Guardian](srd_monsters_shield_guardian.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

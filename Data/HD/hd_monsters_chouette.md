@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Owl](srd_monsters_owl.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

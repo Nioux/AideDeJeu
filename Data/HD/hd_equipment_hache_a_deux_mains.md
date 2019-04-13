@@ -12,6 +12,9 @@ Name: Hache à deux mains
 ParentName: Équipement
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Équipement](hd_equipment.md)
 

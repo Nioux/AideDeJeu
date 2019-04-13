@@ -8,6 +8,9 @@ Name: Paladin
 ParentName: Classes
 AltName: '[Paladin](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

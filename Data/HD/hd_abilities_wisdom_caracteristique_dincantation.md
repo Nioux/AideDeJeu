@@ -6,6 +6,9 @@ ParentLink: abilities_wisdom_hd.md#sagesse
 ParentName: Sagesse
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sagesse](hd_abilities_wisdom.md)
 

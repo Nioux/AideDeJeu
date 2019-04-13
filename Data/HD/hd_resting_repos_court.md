@@ -6,6 +6,9 @@ ParentLink: resting_hd.md#repos
 ParentName: Repos
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Repos](hd_resting.md)
 

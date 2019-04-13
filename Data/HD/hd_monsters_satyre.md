@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Satyr](srd_monsters_satyr.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

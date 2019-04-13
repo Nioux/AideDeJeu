@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Mending
 AltName: '[Réparation](hd_spells_reparation.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (two lodestones)
 Duration: Instantaneous
 Classes: Bard, Cleric, Druid, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p164)
 Id: spells_vo.md#mending
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

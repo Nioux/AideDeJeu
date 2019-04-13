@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Croissance végétale
 AltName: '[Plant Growth](srd_spells_plant_growth.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: 45 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-Family: SpellHD
 Source: (MDR p344)(SRD)
 Id: spells_hd.md#croissance-végétale
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -6,6 +6,9 @@ ParentLink: bard_diplomats_hd.md#collège-des-diplomates
 ParentName: Collège des diplomates
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Collège des diplomates](hd_bard_diplomats.md)
 

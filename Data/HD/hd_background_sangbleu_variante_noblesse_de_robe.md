@@ -10,6 +10,9 @@ Name: 'Variante : Noblesse de robe'
 ParentName: Sang bleu
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Votre famille n'a pas toujours été noble. L'un de vos ancêtres a acquis ce statut en l'achetant, en pièces sonnantes et trébuchantes. On vous considère souvent, vous et votre famille, comme des parvenus. Après tout, votre lignée a acheté sa place. Mais vous le savez, l'argent donne le pouvoir.
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Purification de la nourriture et de l'eau
 AltName: '[Purify Food and Drink](srd_spells_purify_food_and_drink.md)'
 Type: Transmutation
@@ -9,7 +10,6 @@ Range: 3 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md)'
-Family: SpellHD
 Source: (MDR p)
 Ritual: rituel
 Id: spells_hd.md#purification-de-la-nourriture-et-de-leau
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

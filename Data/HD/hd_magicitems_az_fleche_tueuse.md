@@ -10,6 +10,9 @@ NameLevel: 3
 AltName: Arrow of Slaying (SRD p209)
 Source: (COC p166)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)
 

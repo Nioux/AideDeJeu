@@ -29,6 +29,9 @@ NameLevel: 1
 AltName: '[Solar](srd_monsters_solar.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

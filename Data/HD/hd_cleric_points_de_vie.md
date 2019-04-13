@@ -9,6 +9,9 @@ Name: Points de vie
 ParentName: Clerc
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Clerc](hd_cleric.md)
 

@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Ettercap](srd_monsters_ettercap.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

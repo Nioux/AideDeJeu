@@ -7,6 +7,9 @@ ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 Name: Intelligence
 ParentName: Utiliser les caractéristiques
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

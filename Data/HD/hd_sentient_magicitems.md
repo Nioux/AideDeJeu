@@ -9,6 +9,9 @@ ParentLink: index.md
 ParentName: Cadre de campagne
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Cadre de campagne](index.md)
 

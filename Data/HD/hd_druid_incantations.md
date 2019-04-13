@@ -6,6 +6,9 @@ ParentLink: druid_hd.md#druide
 ParentName: Druide
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Druide](hd_druid.md)
 

@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Hezrou](srd_monsters_hezrou.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

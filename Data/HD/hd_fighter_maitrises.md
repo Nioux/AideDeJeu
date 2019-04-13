@@ -11,6 +11,9 @@ Name: Maîtrises
 ParentName: Guerrier
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Guerrier](hd_fighter.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Word of Recall
 AltName: '[Mot de retour](hd_spells_mot_de_retour.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 5 feet
 Components: V
 Duration: Instantaneous
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p193)
 Id: spells_vo.md#word-of-recall
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

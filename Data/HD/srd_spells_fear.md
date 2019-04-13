@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Fear
 AltName: '[Peur](hd_spells_peur.md)'
 Type: illusion
@@ -9,13 +10,15 @@ Range: Self (30-foot cone)
 Components: V, S, M (a white feather or the heart of a hen)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p142)
 Id: spells_vo.md#fear
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

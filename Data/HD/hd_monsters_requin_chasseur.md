@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Hunter Shark](srd_monsters_hunter_shark.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

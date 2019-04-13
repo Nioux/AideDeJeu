@@ -6,6 +6,9 @@ ParentLink: fighter_champion_hd.md#champion
 ParentName: Champion
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Champion](hd_fighter_champion.md)
 

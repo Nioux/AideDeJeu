@@ -6,6 +6,9 @@ ParentLink: sorcerer_celestial_hd.md#lignée-céleste
 ParentName: Lignée céleste
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Lignée céleste](hd_sorcerer_celestial.md)
 

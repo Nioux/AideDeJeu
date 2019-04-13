@@ -9,6 +9,9 @@ ParentLink: sorcerer_hd.md#origines-magiques
 ParentName: Origines magiques
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Origines magiques](hd_sorcerer_origines_magiques.md)
 

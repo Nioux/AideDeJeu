@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Iron Golem](srd_monsters_iron_golem.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Petite hutte
 AltName: '[Tiny Hut](srd_spells_tiny_hut.md)'
 Type: Évocation
@@ -9,7 +10,6 @@ Range: personnelle (hémisphère de 3 mètres de rayon)
 Components: V, S, M (une petite perle de cristal)
 Duration: 8 heures
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)
 Ritual: rituel
 Id: spells_hd.md#petite-hutte
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

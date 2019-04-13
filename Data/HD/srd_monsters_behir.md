@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Béhir](hd_monsters_behir.md)'
 Source: (SRD p265)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

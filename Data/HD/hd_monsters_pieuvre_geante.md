@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Giant Octopus](srd_monsters_giant_octopus.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

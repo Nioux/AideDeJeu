@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Cloaker](srd_monsters_cloaker.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

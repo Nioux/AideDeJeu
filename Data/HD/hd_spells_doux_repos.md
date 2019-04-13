@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Doux repos
 AltName: '[Gentle Repose](srd_spells_gentle_repose.md)'
 Type: Nécromancie
@@ -9,7 +10,6 @@ Range: contact
 Components: V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
 Duration: 10 jours
 Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p349)(SRD)
 Ritual: rituel
 Id: spells_hd.md#doux-repos
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

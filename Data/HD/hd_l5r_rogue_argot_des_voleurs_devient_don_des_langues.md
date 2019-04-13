@@ -7,6 +7,9 @@ ParentLink: l5r_rogue_hd.md#le-savant
 ParentName: Le savant
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Le savant](hd_l5r_rogue.md)
 

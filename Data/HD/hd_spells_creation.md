@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Création
 AltName: '[Creation](srd_spells_creation.md)'
 Type: Illusion
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)
 Duration: spéciale
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p343)(SRD)
 Id: spells_hd.md#création
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

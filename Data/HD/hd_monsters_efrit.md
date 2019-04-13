@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Efreeti](srd_monsters_efreeti.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

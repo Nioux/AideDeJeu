@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Mur prismatique
 AltName: '[Prismatic Wall](srd_spells_prismatic_wall.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V, S
 Duration: 10 minutes
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#mur-prismatique
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

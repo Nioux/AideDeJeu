@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Frappe du juste
 Type: Évocation
 Level: 1
@@ -8,13 +9,15 @@ Range: personnelle
 Components: V
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Paladin](hd_paladin.md)'
-Family: SpellHD
 Source: (MDR p358)
 Id: spells_hd.md#frappe-du-juste
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

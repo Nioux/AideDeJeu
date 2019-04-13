@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Deva](srd_monsters_deva.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

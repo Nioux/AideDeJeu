@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Dissipation du mal et du bien
 AltName: '[Dispel Evil and Good](srd_spells_dispel_evil_and_good.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S, M (eau bénite ou poudre d'argent et de fer)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-Family: SpellHD
 Source: (MDR p347)(SRD)
 Id: spells_hd.md#dissipation-du-mal-et-du-bien
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -10,6 +10,9 @@ ParentLink: rogue_hd.md#archétypes-de-roublard
 ParentName: Archétypes de roublard
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)
 

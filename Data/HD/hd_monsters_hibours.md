@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Owlbear](srd_monsters_owlbear.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

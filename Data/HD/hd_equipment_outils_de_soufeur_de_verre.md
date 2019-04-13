@@ -9,6 +9,9 @@ Name: Outils de soufeur de verre
 ParentName: Équipement
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Équipement](hd_equipment.md)
 

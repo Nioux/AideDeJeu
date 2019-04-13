@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Succubus](srd_monsters_succubus.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

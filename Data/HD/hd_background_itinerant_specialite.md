@@ -23,6 +23,9 @@ Name: Spécialité
 ParentName: 'Variante : Saltimbanque'
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner votre vie. Ce dernier vous ouvre l'accès à la maîtrise d'une compétence spécifique.
 

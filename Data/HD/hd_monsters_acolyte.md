@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Acolyte](srd_monsters_acolyte.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Harpy](srd_monsters_harpy.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

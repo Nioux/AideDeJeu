@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Giant Goat](srd_monsters_giant_goat.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

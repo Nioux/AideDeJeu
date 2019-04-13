@@ -16,6 +16,9 @@ SubItems:
   AltName: Wings of Flying (SRD p251)
   Source: (COC p138)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -27,6 +30,9 @@ SubItems:
   AltName: Periapt of Proof against Poison (SRD p232)
   Source: (COC p139)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -39,6 +45,9 @@ SubItems:
   AltName: Amulet of Proof against Detection and Location (SRD p207)
   Source: (COC p139)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -51,6 +60,9 @@ SubItems:
   AltName: Amulet of Health (SRD p207)
   Source: (COC p139)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -63,6 +75,9 @@ SubItems:
   AltName: Periapt of Wound Closure (SRD p232)
   Source: (COC p139)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -74,6 +89,9 @@ SubItems:
   AltName: Periapt of Health (SRD p232)
   Source: (COC p139)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -86,6 +104,9 @@ SubItems:
   AltName: Amulet of the Planes (SRD p207)
   Source: (COC p139)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: rare
@@ -98,6 +119,9 @@ SubItems:
   AltName: Ring of Free Action (SRD p236)
   Source: (COC p139)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: peu courant
@@ -110,6 +134,9 @@ SubItems:
   AltName: Ring of Warmth (SRD p238)
   Source: (COC p139)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: légendaire
@@ -122,6 +149,9 @@ SubItems:
   AltName: Ring of Djinni Summoning (SRD p235)
   Source: (COC p139)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: rare
@@ -134,6 +164,9 @@ SubItems:
   AltName: Ring of Evasion (SRD p236)
   Source: (COC p139)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: très rare
@@ -146,6 +179,9 @@ SubItems:
   AltName: Ring of Shooting Stars (SRD p237)
   Source: (COC p140)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: rare
@@ -158,6 +194,9 @@ SubItems:
   AltName: Ring of Feather Falling (SRD p236)
   Source: (COC p140)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: légendaire
@@ -170,6 +209,9 @@ SubItems:
   AltName: Ring of Elemental Command (SRD p235)
   Source: (COC p140)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: peu courant
@@ -181,6 +223,9 @@ SubItems:
   AltName: Ring of Water Walking (SRD p238)
   Source: (COC p141)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: peu courant
@@ -192,6 +237,9 @@ SubItems:
   AltName: Ring of Swimming (SRD p238)
   Source: (COC p141)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: rare
@@ -204,6 +252,9 @@ SubItems:
   AltName: Ring of Protection (SRD p237)
   Source: (COC p141)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: peu courant
@@ -216,6 +267,9 @@ SubItems:
   AltName: Ring of Mind Shielding (SRD p236)
   Source: (COC p141)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: très rare
@@ -228,6 +282,9 @@ SubItems:
   AltName: Ring of Regeneration (SRD p237)
   Source: (COC p141)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: légendaire
@@ -240,6 +297,9 @@ SubItems:
   AltName: Ring of Spell Turning (SRD p237)
   Source: (COC p142)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: rare
@@ -252,6 +312,9 @@ SubItems:
   AltName: Ring of Resistance (SRD p237)
   Source: (COC p142)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: peu courant
@@ -264,6 +327,9 @@ SubItems:
   AltName: Ring of Jumping (SRD p236)
   Source: (COC p142)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: rare
@@ -276,6 +342,9 @@ SubItems:
   AltName: Ring of Spell Storing (SRD p237)
   Source: (COC p142)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: très rare
@@ -288,6 +357,9 @@ SubItems:
   AltName: Ring of Telekinesis (SRD p238)
   Source: (COC p142)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: légendaire
@@ -299,6 +371,9 @@ SubItems:
   AltName: Ring of Three Wishes (SRD p238)
   Source: (COC p142)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: rare
@@ -311,6 +386,9 @@ SubItems:
   AltName: Ring of X-ray Vision (SRD p238)
   Source: (COC p142)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: rare
@@ -322,6 +400,9 @@ SubItems:
   AltName: Ring of Animal Influence (SRD p235)
   Source: (COC p142)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: légendaire
@@ -334,6 +415,9 @@ SubItems:
   AltName: Ring of Invisibility (SRD p236)
   Source: (COC p143)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Anneau
   Rarity: rare
@@ -346,6 +430,9 @@ SubItems:
   AltName: Ring of the Ram (SRD p238)
   Source: (COC p143)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (arc long)
   Rarity: très rare
@@ -358,6 +445,9 @@ SubItems:
   AltName: Oathbow (SRD p231)
   Source: (COC p143)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (n'importe quelle arme)
   Rarity: rare
@@ -369,6 +459,9 @@ SubItems:
   AltName: Vicious Weapon (SRD p248)
   Source: (COC p143)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (n'importe quelle arme)
   Rarity: peu couranterare
@@ -380,6 +473,9 @@ SubItems:
   AltName: Weapon, +1, +2, or +3 (SRD p250)
   Source: (COC p143)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (armure d'écaille)
   Rarity: très rare
@@ -392,6 +488,9 @@ SubItems:
   AltName: Dragon Scale Mail (SRD p219)
   Source: (COC p143)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (intermédiaire ou lourde mais pas en peau)
   Rarity: peu courante
@@ -403,6 +502,9 @@ SubItems:
   AltName: Mithral Armor (SRD p231)
   Source: (COC p143)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (harnois)
   Rarity: très rare
@@ -415,6 +517,9 @@ SubItems:
   AltName: Demon Armor (SRD p218)
   Source: (COC p144)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (légère, intermédiaire ou lourde)
   Rarity: rare
@@ -427,6 +532,9 @@ SubItems:
   AltName: Armor of Resistance (SRD p208)
   Source: (COC p144)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (harnois)
   Rarity: rare
@@ -439,6 +547,9 @@ SubItems:
   AltName: Armor of Vulnerability (SRD p209)
   Source: (COC p145)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (harnois)
   Rarity: légendaire
@@ -451,6 +562,9 @@ SubItems:
   AltName: Armor of Invulnerability (SRD p208)
   Source: (COC p145)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (intermédiaire ou lourde, mais pas en peau)
   Rarity: peu courante
@@ -462,6 +576,9 @@ SubItems:
   AltName: Adamantine Armor (SRD p207)
   Source: (COC p145)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (légère, intermédiaire ou lourde)
   Rarity: raretrès rarelégendaire
@@ -473,6 +590,9 @@ SubItems:
   AltName: Armor, +1, +2, or +3 (SRD p208)
   Source: (COC p145)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: rare
@@ -485,6 +605,9 @@ SubItems:
   AltName: Wand of Lightning Bolts (SRD p249)
   Source: (COC p145)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: rare
@@ -497,6 +620,9 @@ SubItems:
   AltName: Wand of Fireballs (SRD p248)
   Source: (COC p145)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: rare
@@ -509,6 +635,9 @@ SubItems:
   AltName: Wand of Enemy Detection (SRD p248)
   Source: (COC p145)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: peu courante
@@ -520,6 +649,9 @@ SubItems:
   AltName: Wand of Magic Detection (SRD p249)
   Source: (COC p145)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: très rare
@@ -532,6 +664,9 @@ SubItems:
   AltName: Wand of Polymorph (SRD p249)
   Source: (COC p145)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: rare
@@ -544,6 +679,9 @@ SubItems:
   AltName: Wand of Paralysis (SRD p249)
   Source: (COC p146)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: peu courante
@@ -555,6 +693,9 @@ SubItems:
   AltName: Wand of Magic Missiles (SRD p249)
   Source: (COC p146)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: rare
@@ -567,6 +708,9 @@ SubItems:
   AltName: Wand of Fear (SRD p248)
   Source: (COC p146)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: rare
@@ -579,6 +723,9 @@ SubItems:
   AltName: Wand of Binding (SRD p248)
   Source: (COC p146)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: peu courante
@@ -590,6 +737,9 @@ SubItems:
   AltName: Wand of Secrets (SRD p249)
   Source: (COC p147)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: peu courantrare
@@ -602,6 +752,9 @@ SubItems:
   AltName: Wand of the War Mage, +1, +2, or +3 (SRD p249)
   Source: (COC p147)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: peu courante
@@ -614,6 +767,9 @@ SubItems:
   AltName: Wand of Web (SRD p249)
   Source: (COC p147)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Baguette
   Rarity: rare
@@ -626,6 +782,9 @@ SubItems:
   AltName: Wand of Wonder (SRD p249)
   Source: (COC p147)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -637,6 +796,9 @@ SubItems:
   AltName: Broom of Flying (SRD p213)
   Source: (COC p148)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -649,6 +811,9 @@ SubItems:
   AltName: Headband of Intellect (SRD p225)
   Source: (COC p148)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -660,6 +825,9 @@ SubItems:
   AltName: Folding Boat (SRD p223)
   Source: (COC p148)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: rare
@@ -672,6 +840,9 @@ SubItems:
   AltName: Staff of Charming (SRD p243)
   Source: (COC p148)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: très rare
@@ -684,6 +855,9 @@ SubItems:
   AltName: Staff of Striking (SRD p244)
   Source: (COC p149)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: très rare
@@ -696,6 +870,9 @@ SubItems:
   AltName: Staff of Fire (SRD p243)
   Source: (COC p149)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: rare
@@ -708,6 +885,9 @@ SubItems:
   AltName: Staff of Withering (SRD p246)
   Source: (COC p149)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: rare
@@ -720,6 +900,9 @@ SubItems:
   AltName: Staff of Healing (SRD p243)
   Source: (COC p149)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: très rare
@@ -732,6 +915,9 @@ SubItems:
   AltName: Staff of Frost (SRD p243)
   Source: (COC p149)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: très rare
@@ -744,6 +930,9 @@ SubItems:
   AltName: Staff of Power (SRD p243)
   Source: (COC p149)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: très rare
@@ -756,6 +945,9 @@ SubItems:
   AltName: Staff of Thunder and Lightning (SRD p245)
   Source: (COC p150)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: rare
@@ -768,6 +960,9 @@ SubItems:
   AltName: Staff of the Woodlands (SRD p245)
   Source: (COC p150)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: rare
@@ -780,6 +975,9 @@ SubItems:
   AltName: Staff of Swarming Insects (SRD p244)
   Source: (COC p150)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: peu courant
@@ -792,6 +990,9 @@ SubItems:
   AltName: Staff of the Python (SRD p245)
   Source: (COC p151)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Bâton
   Rarity: légendaire
@@ -804,6 +1005,9 @@ SubItems:
   AltName: Staff of the Magi (SRD p244)
   Source: (COC p151)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -815,6 +1019,9 @@ SubItems:
   AltName: Restorative Ointment (SRD p235)
   Source: (COC p152)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -826,6 +1033,9 @@ SubItems:
   AltName: Bowl of Commanding Water Elementals (SRD p212)
   Source: (COC p152)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -838,6 +1048,9 @@ SubItems:
   AltName: Winged Boots (SRD p251)
   Source: (COC p152)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -850,6 +1063,9 @@ SubItems:
   AltName: Boots of Levitation (SRD p212)
   Source: (COC p152)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -862,6 +1078,9 @@ SubItems:
   AltName: Boots of Striding and Springing (SRD p212)
   Source: (COC p152)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -874,6 +1093,9 @@ SubItems:
   AltName: Boots of Speed (SRD p212)
   Source: (COC p152)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -886,6 +1108,9 @@ SubItems:
   AltName: Boots of the Winterlands (SRD p212)
   Source: (COC p153)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -897,6 +1122,9 @@ SubItems:
   AltName: Boots of Elvenkind (SRD p212)
   Source: (COC p153)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (bouclier)
   Rarity: très rare
@@ -909,6 +1137,9 @@ SubItems:
   AltName: Animated Shield (SRD p208)
   Source: (COC p153)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (bouclier)
   Rarity: rare
@@ -921,6 +1152,9 @@ SubItems:
   AltName: Arrow-Catching Shield (SRD p209)
   Source: (COC p153)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (bouclier)
   Rarity: rare
@@ -933,6 +1167,9 @@ SubItems:
   AltName: Shield of Missile Attraction (SRD p242)
   Source: (COC p153)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (bouclier)
   Rarity: très rare
@@ -945,6 +1182,9 @@ SubItems:
   AltName: Spellguard Shield (SRD p242)
   Source: (COC p153)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (bouclier)
   Rarity: peu courantrare
@@ -956,6 +1196,9 @@ SubItems:
   AltName: Shield, +1, +2, or +3 (SRD p242)
   Source: (COC p153)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rarelégendaire
@@ -968,6 +1211,9 @@ SubItems:
   AltName: Crystal Ball (SRD p214)
   Source: (COC p153)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -979,6 +1225,9 @@ SubItems:
   AltName: Efreeti Bottle (SRD p220)
   Source: (COC p154)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -990,6 +1239,9 @@ SubItems:
   AltName: Eversmoking Bottle (SRD p220)
   Source: (COC p154)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1002,6 +1254,9 @@ SubItems:
   AltName: Bracers of Archery (SRD p212)
   Source: (COC p154)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1014,6 +1269,9 @@ SubItems:
   AltName: Bracers of Defense (SRD p212)
   Source: (COC p154)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1025,6 +1283,9 @@ SubItems:
   AltName: Brazier of Commanding Fire Elementals (SRD p212)
   Source: (COC p154)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1037,6 +1298,9 @@ SubItems:
   AltName: Brooch of Shielding (SRD p212)
   Source: (COC p154)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1049,6 +1313,9 @@ SubItems:
   AltName: Cloak of Displacement (SRD p214)
   Source: (COC p154)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -1061,6 +1328,9 @@ SubItems:
   AltName: Cloak of Arachnida (SRD p214)
   Source: (COC p154)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1073,6 +1343,9 @@ SubItems:
   AltName: Cloak of the Bat (SRD p214)
   Source: (COC p155)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1084,6 +1357,9 @@ SubItems:
   AltName: Cloak of the Manta Ray (SRD p214)
   Source: (COC p155)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1095,6 +1371,9 @@ SubItems:
   AltName: Cape of the Mountebank (SRD p213)
   Source: (COC p155)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1107,6 +1386,9 @@ SubItems:
   AltName: Cloak of Protection (SRD p214)
   Source: (COC p155)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1119,6 +1401,9 @@ SubItems:
   AltName: Cloak of Elvenkind (SRD p214)
   Source: (COC p155)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1130,6 +1415,9 @@ SubItems:
   AltName: Decanter of Endless Water (SRD p216)
   Source: (COC p155)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1141,6 +1429,9 @@ SubItems:
   AltName: Chime of Opening (SRD p213)
   Source: (COC p156)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1152,6 +1443,9 @@ SubItems:
   AltName: Efficient Quiver (SRD p220)
   Source: (COC p156)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1163,6 +1457,9 @@ SubItems:
   AltName: Deck of Illusions (SRD p216)
   Source: (COC p156)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -1174,6 +1471,9 @@ SubItems:
   AltName: Deck of Many Things (SRD p216)
   Source: (COC p157)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rareté variable
@@ -1186,6 +1486,9 @@ SubItems:
   AltName: Belt of Giant Strength (SRD p211)
   Source: (COC p158)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1198,6 +1501,9 @@ SubItems:
   AltName: Belt of Dwarvenkind (SRD p211)
   Source: (COC p159)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1210,6 +1516,9 @@ SubItems:
   AltName: Hat of Disguise (SRD p225)
   Source: (COC p159)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1222,6 +1531,9 @@ SubItems:
   AltName: Necklace of Prayer Beads (SRD p231)
   Source: (COC p159)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1234,6 +1546,9 @@ SubItems:
   AltName: Slippers of Spider Climbing (SRD p242)
   Source: (COC p159)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (chemise de mailles)
   Rarity: rare
@@ -1245,6 +1560,9 @@ SubItems:
   AltName: Elven Chain (SRD p220)
   Source: (COC p160)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -1257,6 +1575,9 @@ SubItems:
   AltName: Candle of Invocation (SRD p213)
   Source: (COC p160)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (cimeterre)
   Rarity: très rare
@@ -1269,6 +1590,9 @@ SubItems:
   AltName: Scimitar of Speed (SRD p241)
   Source: (COC p160)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -1280,6 +1604,9 @@ SubItems:
   AltName: Sovereign Glue (SRD p242)
   Source: (COC p160)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1292,6 +1619,9 @@ SubItems:
   AltName: Necklace of Adaptation (SRD p231)
   Source: (COC p160)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1303,6 +1633,9 @@ SubItems:
   AltName: Necklace of Fireballs (SRD p231)
   Source: (COC p160)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1314,6 +1647,9 @@ SubItems:
   AltName: Horn of Blasting (SRD p226)
   Source: (COC p160)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: raretrès rarelégendaire
@@ -1325,6 +1661,9 @@ SubItems:
   AltName: Horn of Valhalla (SRD p226)
   Source: (COC p161)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1336,6 +1675,9 @@ SubItems:
   AltName: Rope of Entanglement (SRD p241)
   Source: (COC p161)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1347,6 +1689,9 @@ SubItems:
   AltName: Rope of Climbing (SRD p241)
   Source: (COC p161)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1359,6 +1704,9 @@ SubItems:
   AltName: Cube of Force (SRD p215)
   Source: (COC p161)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (cuir cloutée)
   Rarity: rare
@@ -1370,6 +1718,9 @@ SubItems:
   AltName: Glamoured Studded Leather (SRD p224)
   Source: (COC p162)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (dague)
   Rarity: rare
@@ -1381,6 +1732,9 @@ SubItems:
   AltName: Dagger of Venom (SRD p215)
   Source: (COC p162)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1392,6 +1746,9 @@ SubItems:
   AltName: Circlet of Blasting (SRD p214)
   Source: (COC p162)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1403,6 +1760,9 @@ SubItems:
   AltName: Censer of Controlling Air Elementals (SRD p213)
   Source: (COC p162)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (épée)
   Rarity: rare
@@ -1415,6 +1775,9 @@ SubItems:
   AltName: Flame Tongue (SRD p223)
   Source: (COC p162)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (épée)
   Rarity: très rare
@@ -1427,6 +1790,9 @@ SubItems:
   AltName: Dancing Sword (SRD p215)
   Source: (COC p163)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (n'importe quel type d'épée)
   Rarity: rare
@@ -1439,6 +1805,9 @@ SubItems:
   AltName: Sword of Wounding (SRD p246)
   Source: (COC p163)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (épée longue)
   Rarity: rare
@@ -1451,6 +1820,9 @@ SubItems:
   AltName: Sun Blade (SRD p246)
   Source: (COC p163)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (n'importe quelle épée qui inflige des dégâts tranchants)
   Rarity: très rare
@@ -1463,6 +1835,9 @@ SubItems:
   AltName: Sword of Sharpness (SRD p246)
   Source: (COC p163)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (n'importe quel type d'épée)
   Rarity: rare
@@ -1475,6 +1850,9 @@ SubItems:
   AltName: Sword of Life Stealing (SRD p246)
   Source: (COC p163)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (n'importe quel type d'épée qui inflige des dégâts tranchants)
   Rarity: légendaire
@@ -1487,6 +1865,9 @@ SubItems:
   AltName: Vorpal Sword (SRD p248)
   Source: (COC p163)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1498,6 +1879,9 @@ SubItems:
   AltName: Wind Fan (SRD p250)
   Source: (COC p164)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (épée)
   Rarity: très rare
@@ -1510,6 +1894,9 @@ SubItems:
   AltName: Frost Brand (SRD p223)
   Source: (COC p164)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1521,6 +1908,9 @@ SubItems:
   AltName: Horseshoes of Speed (SRD p226)
   Source: (COC p164)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -1532,6 +1922,9 @@ SubItems:
   AltName: Horseshoes of a Zephyr (SRD p226)
   Source: (COC p164)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rareté selon la figurine
@@ -1543,6 +1936,9 @@ SubItems:
   AltName: Figurine of Wondrous Power (SRD p221)
   Source: (COC p164)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -1554,6 +1950,9 @@ SubItems:
   AltName: Iron Flask (SRD p228)
   Source: (COC p165)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (flèche)
   Rarity: très rare
@@ -1565,6 +1964,9 @@ SubItems:
   AltName: Arrow of Slaying (SRD p209)
   Source: (COC p166)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1577,6 +1979,9 @@ SubItems:
   AltName: Pipes of the Sewers (SRD p232)
   Source: (COC p166)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1588,6 +1993,9 @@ SubItems:
   AltName: Pipes of Haunting (SRD p232)
   Source: (COC p166)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1599,6 +2007,9 @@ SubItems:
   AltName: Instant Fortress (SRD p226)
   Source: (COC p167)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1611,6 +2022,9 @@ SubItems:
   AltName: Gauntlets of Ogre Power (SRD p223)
   Source: (COC p167)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1623,6 +2037,9 @@ SubItems:
   AltName: Gloves of Swimming and Climbing (SRD p224)
   Source: (COC p167)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1635,6 +2052,9 @@ SubItems:
   AltName: Gloves of Missile Snaring (SRD p224)
   Source: (COC p167)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1647,6 +2067,9 @@ SubItems:
   AltName: Gem of Seeing (SRD p223)
   Source: (COC p167)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1658,6 +2081,9 @@ SubItems:
   AltName: Elemental Gem (SRD p220)
   Source: (COC p168)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1669,6 +2095,9 @@ SubItems:
   AltName: Gem of Brightness (SRD p223)
   Source: (COC p168)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (hache)
   Rarity: rare
@@ -1681,6 +2110,9 @@ SubItems:
   AltName: Berserker Axe (SRD p211)
   Source: (COC p168)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (harnois)
   Rarity: légendaire
@@ -1693,6 +2125,9 @@ SubItems:
   AltName: Plate Armor of Etherealness (SRD p233)
   Source: (COC p168)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Armure (harnois)
   Rarity: très rare
@@ -1704,6 +2139,9 @@ SubItems:
   AltName: Dwarven Plate (SRD p220)
   Source: (COC p168)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1715,6 +2153,9 @@ SubItems:
   AltName: Handy Haversack (SRD p224)
   Source: (COC p168)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1726,6 +2167,9 @@ SubItems:
   AltName: Helm of Comprehending Languages (SRD p225)
   Source: (COC p169)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1738,6 +2182,9 @@ SubItems:
   AltName: Helm of Telepathy (SRD p225)
   Source: (COC p169)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1750,6 +2197,9 @@ SubItems:
   AltName: Helm of Teleportation (SRD p225)
   Source: (COC p169)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -1762,6 +2212,9 @@ SubItems:
   AltName: Helm of Brilliance (SRD p225)
   Source: (COC p169)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: très rare
@@ -1773,6 +2226,9 @@ SubItems:
   AltName: Oil of Sharpness (SRD p232)
   Source: (COC p170)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: rare
@@ -1784,6 +2240,9 @@ SubItems:
   AltName: Oil of Etherealness (SRD p231)
   Source: (COC p170)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: peu courante
@@ -1795,6 +2254,9 @@ SubItems:
   AltName: Oil of Slipperiness (SRD p232)
   Source: (COC p170)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (javeline)
   Rarity: peu courante
@@ -1806,6 +2268,9 @@ SubItems:
   AltName: Javelin of Lightning (SRD p228)
   Source: (COC p170)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (épée)
   Rarity: légendaire
@@ -1818,6 +2283,9 @@ SubItems:
   AltName: Luck Blade (SRD p229)
   Source: (COC p170)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1829,6 +2297,9 @@ SubItems:
   AltName: Lantern of Revealing (SRD p228)
   Source: (COC p170)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1840,6 +2311,9 @@ SubItems:
   AltName: Eyes of Minute Seeing (SRD p221)
   Source: (COC p170)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1851,6 +2325,9 @@ SubItems:
   AltName: Iron Bands of Binding (SRD p228)
   Source: (COC p171)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1862,6 +2339,9 @@ SubItems:
   AltName: Goggles of Night (SRD p224)
   Source: (COC p171)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1874,6 +2354,9 @@ SubItems:
   AltName: Mantle of Spell Resistance (SRD p229)
   Source: (COC p171)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -1885,6 +2368,9 @@ SubItems:
   AltName: Manual of Bodily Health (SRD p229)
   Source: (COC p171)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -1896,6 +2382,9 @@ SubItems:
   AltName: Manual of Gainful Exercise (SRD p229)
   Source: (COC p171)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -1907,6 +2396,9 @@ SubItems:
   AltName: Manual of Golems (SRD p229)
   Source: (COC p171)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -1918,6 +2410,9 @@ SubItems:
   AltName: Manual of Quickness of Action (SRD p230)
   Source: (COC p172)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (marteau de guerre)
   Rarity: très rare
@@ -1930,6 +2425,9 @@ SubItems:
   AltName: Dwarven Thrower (SRD p220)
   Source: (COC p172)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (maillet d'armes)
   Rarity: légendaire
@@ -1941,6 +2439,9 @@ SubItems:
   AltName: Hammer of Thunderbolts (SRD p224)
   Source: (COC p172)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (masse)
   Rarity: rare
@@ -1953,6 +2454,9 @@ SubItems:
   AltName: Mace of Disruption (SRD p229)
   Source: (COC p172)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (masse)
   Rarity: rare
@@ -1964,6 +2468,9 @@ SubItems:
   AltName: Mace of Smiting (SRD p229)
   Source: (COC p173)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (masse)
   Rarity: rare
@@ -1976,6 +2483,9 @@ SubItems:
   AltName: Mace of Terror (SRD p229)
   Source: (COC p173)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -1988,6 +2498,9 @@ SubItems:
   AltName: Medallion of Thoughts (SRD p230)
   Source: (COC p173)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -1999,6 +2512,9 @@ SubItems:
   AltName: Dimensional Shackles (SRD p219)
   Source: (COC p173)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -2010,6 +2526,9 @@ SubItems:
   AltName: Mirror of Life Trapping (SRD p230)
   Source: (COC p173)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (n'importe quelle munition)
   Rarity: peu couranterare
@@ -2021,6 +2540,9 @@ SubItems:
   AltName: Ammunition, +1, +2, or +3 (SRD p207)
   Source: (COC p174)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2033,6 +2555,9 @@ SubItems:
   AltName: Eyes of the Eagle (SRD p221)
   Source: (COC p174)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Parchemin
   Id: magicitems_az_hd.md#parchemin-magique
@@ -2043,6 +2568,9 @@ SubItems:
   AltName: Spell Scroll (SRD p242)
   Source: (COC p174)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -2054,6 +2582,9 @@ SubItems:
   AltName: Bead of Force (SRD p211)
   Source: (COC p174)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2066,6 +2597,9 @@ SubItems:
   AltName: Pearl of Power (SRD p232)
   Source: (COC p174)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: peu courante
@@ -2077,6 +2611,9 @@ SubItems:
   AltName: Philter of Love (SRD p232)
   Source: (COC p174)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -2088,6 +2625,9 @@ SubItems:
   AltName: Marvelous Pigments (SRD p230)
   Source: (COC p175)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -2099,6 +2639,9 @@ SubItems:
   AltName: Stone of Controlling Earth Elementals (SRD p246)
   Source: (COC p175)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rareté variable
@@ -2111,6 +2654,9 @@ SubItems:
   AltName: Ioun Stone (SRD p227)
   Source: (COC p175)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2123,6 +2669,9 @@ SubItems:
   AltName: Stone of Good Luck (Luckstone) (SRD p246)
   Source: (COC p176)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -2134,6 +2683,9 @@ SubItems:
   AltName: Feather Token (SRD p221)
   Source: (COC p176)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -2145,6 +2697,9 @@ SubItems:
   AltName: Cubic Gate (SRD p215)
   Source: (COC p177)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: peu courante
@@ -2156,6 +2711,9 @@ SubItems:
   AltName: Potion of Growth (SRD p234)
   Source: (COC p177)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: peu courante
@@ -2167,6 +2725,9 @@ SubItems:
   AltName: Potion of Animal Friendship (SRD p233)
   Source: (COC p177)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: rare
@@ -2178,6 +2739,9 @@ SubItems:
   AltName: Potion of Clairvoyance (SRD p233)
   Source: (COC p177)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: peu courante
@@ -2189,6 +2753,9 @@ SubItems:
   AltName: Potion of Climbing (SRD p233)
   Source: (COC p177)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: rareté variable
@@ -2200,6 +2767,9 @@ SubItems:
   AltName: Potion of Giant Strength (SRD p234)
   Source: (COC p177)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: rare
@@ -2211,6 +2781,9 @@ SubItems:
   AltName: Potion of Gaseous Form (SRD p234)
   Source: (COC p178)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: rare
@@ -2222,6 +2795,9 @@ SubItems:
   AltName: Potion of Mind Reading (SRD p234)
   Source: (COC p178)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: peu courante
@@ -2233,6 +2809,9 @@ SubItems:
   AltName: Potion of Poison (SRD p234)
   Source: (COC p178)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: peu courante
@@ -2244,6 +2823,9 @@ SubItems:
   AltName: Potion of Resistance (SRD p235)
   Source: (COC p178)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: peu courante
@@ -2255,6 +2837,9 @@ SubItems:
   AltName: Potion of Water Breathing (SRD p235)
   Source: (COC p178)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: rare
@@ -2266,6 +2851,9 @@ SubItems:
   AltName: Potion of Diminution (SRD p233)
   Source: (COC p178)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: rareté variable
@@ -2277,6 +2865,9 @@ SubItems:
   AltName: Potion of Healing (SRD p234)
   Source: (COC p178)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: très rare
@@ -2288,6 +2879,9 @@ SubItems:
   AltName: Potion of Speed (SRD p235)
   Source: (COC p178)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: très rare
@@ -2299,6 +2893,9 @@ SubItems:
   AltName: Potion of Flying (SRD p234)
   Source: (COC p178)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: rare
@@ -2310,6 +2907,9 @@ SubItems:
   AltName: Potion of Heroism (SRD p234)
   Source: (COC p179)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Potion
   Rarity: très rare
@@ -2321,6 +2921,9 @@ SubItems:
   AltName: Potion of Invisibility (SRD p234)
   Source: (COC p179)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2332,6 +2935,9 @@ SubItems:
   AltName: Dust of Sneezing and Choking (SRD p219)
   Source: (COC p179)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2343,6 +2949,9 @@ SubItems:
   AltName: Dust of Dryness (SRD p219)
   Source: (COC p179)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2354,6 +2963,9 @@ SubItems:
   AltName: Dust of Disappearance (SRD p219)
   Source: (COC p179)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (épée)
   Rarity: légendaire
@@ -2366,6 +2978,9 @@ SubItems:
   AltName: Defender (SRD p218)
   Source: (COC p179)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -2377,6 +2992,9 @@ SubItems:
   AltName: Well of Many Worlds (SRD p250)
   Source: (COC p180)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -2388,6 +3006,9 @@ SubItems:
   AltName: Portable Hole (SRD p233)
   Source: (COC p180)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2400,6 +3021,9 @@ SubItems:
   AltName: Eyes of Charming (SRD p220)
   Source: (COC p180)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -2412,6 +3036,9 @@ SubItems:
   AltName: Robe of Stars (SRD p239)
   Source: (COC p180)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -2424,6 +3051,9 @@ SubItems:
   AltName: Robe of Eyes (SRD p238)
   Source: (COC p180)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -2436,6 +3066,9 @@ SubItems:
   AltName: Robe of Scintillating Colors (SRD p238)
   Source: (COC p181)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -2448,6 +3081,9 @@ SubItems:
   AltName: Robe of the Archmagi (SRD p239)
   Source: (COC p181)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2459,6 +3095,9 @@ SubItems:
   AltName: Robe of Useful Items (SRD p239)
   Source: (COC p182)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -2470,6 +3109,9 @@ SubItems:
   AltName: Bag of Devouring (SRD p210)
   Source: (COC p182)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2481,6 +3123,9 @@ SubItems:
   AltName: Bag of Tricks (SRD p210)
   Source: (COC p182)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: rare
@@ -2492,6 +3137,9 @@ SubItems:
   AltName: Bag of Beans (SRD p209)
   Source: (COC p183)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2503,6 +3151,9 @@ SubItems:
   AltName: Bag of Holding (SRD p210)
   Source: (COC p184)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -2515,6 +3166,9 @@ SubItems:
   AltName: Scarab of Protection (SRD p241)
   Source: (COC p184)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Sceptre
   Rarity: très rare
@@ -2527,6 +3181,9 @@ SubItems:
   AltName: Rod of Absorption (SRD p239)
   Source: (COC p184)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Sceptre
   Rarity: légendaire
@@ -2539,6 +3196,9 @@ SubItems:
   AltName: Rod of Lordly Might (SRD p240)
   Source: (COC p184)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Sceptre
   Rarity: très rare
@@ -2550,6 +3210,9 @@ SubItems:
   AltName: Rod of Security (SRD p241)
   Source: (COC p185)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Sceptre
   Rarity: rare
@@ -2562,6 +3225,9 @@ SubItems:
   AltName: Rod of Rulership (SRD p240)
   Source: (COC p185)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Sceptre
   Rarity: très rare
@@ -2574,6 +3240,9 @@ SubItems:
   AltName: Rod of Alertness (SRD p240)
   Source: (COC p185)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: peu courant
@@ -2585,6 +3254,9 @@ SubItems:
   AltName: Immovable Rod (SRD p226)
   Source: (COC p186)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -2596,6 +3268,9 @@ SubItems:
   AltName: Sphere of Annihilation (SRD p242)
   Source: (COC p186)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -2607,6 +3282,9 @@ SubItems:
   AltName: Universal Solvent (SRD p248)
   Source: (COC p186)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -2618,6 +3296,9 @@ SubItems:
   AltName: Apparatus of the Crab (SRD p208)
   Source: (COC p186)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -2630,6 +3311,9 @@ SubItems:
   AltName: Talisman of the Sphere (SRD p247)
   Source: (COC p187)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -2642,6 +3326,9 @@ SubItems:
   AltName: Talisman of Pure Good (SRD p247)
   Source: (COC p187)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: légendaire
@@ -2654,6 +3341,9 @@ SubItems:
   AltName: Talisman of Ultimate Evil (SRD p247)
   Source: (COC p187)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -2665,6 +3355,9 @@ SubItems:
   AltName: Carpet of Flying (SRD p213)
   Source: (COC p188)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -2676,6 +3369,9 @@ SubItems:
   AltName: Tome of Leadership and Influence (SRD p247)
   Source: (COC p188)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -2687,6 +3383,9 @@ SubItems:
   AltName: Tome of Understanding (SRD p247)
   Source: (COC p188)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Objet merveilleux
   Rarity: très rare
@@ -2698,6 +3397,9 @@ SubItems:
   AltName: Tome of Clear Thought (SRD p247)
   Source: (COC p188)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (trident)
   Rarity: peu courante
@@ -2710,6 +3412,9 @@ SubItems:
   AltName: Trident of Fish Command (SRD p247)
   Source: (COC p188)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (épée)
   Rarity: rare
@@ -2721,6 +3426,9 @@ SubItems:
   AltName: Dragon Slayer (SRD p219)
   Source: (COC p188)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (épée ou hache)
   Rarity: rare
@@ -2732,6 +3440,9 @@ SubItems:
   AltName: Giant Slayer (SRD p224)
   Source: (COC p188)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (épée)
   Rarity: légendaire
@@ -2744,6 +3455,9 @@ SubItems:
   AltName: Holy Avenger (SRD p225)
   Source: (COC p188)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !MagicItem
   Type: Arme (épée)
   Rarity: très rare
@@ -2756,6 +3470,9 @@ SubItems:
   AltName: Nine Lives Stealer (SRD p231)
   Source: (COC p188)
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 Id: magicitems_az_hd.md#les-objets-magiques-de-a-à-z
 ParentLink: magicitems_az_hd.md#les-objets-magiques
 Name: Les objets magiques de A à Z
@@ -2763,6 +3480,9 @@ ParentName: Les objets magiques
 NameLevel: 2
 AltName: Magic Items A-Z (SRD p207)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)
 

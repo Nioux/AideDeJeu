@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Mastiff](srd_monsters_mastiff.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

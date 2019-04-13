@@ -7,6 +7,9 @@ ParentLink: warlock_hd.md#sorcier
 Name: Pacte
 ParentName: Sorcier
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

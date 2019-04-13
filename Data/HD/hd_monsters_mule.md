@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Mule](srd_monsters_mule.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

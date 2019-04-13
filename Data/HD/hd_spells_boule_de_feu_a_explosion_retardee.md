@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Boule de feu à explosion retardée
 AltName: '[Delayed Blast Fireball](srd_spells_delayed_blast_fireball.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 45 mètres
 Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p329)(SRD)
 Id: spells_hd.md#boule-de-feu-à-explosion-retardée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

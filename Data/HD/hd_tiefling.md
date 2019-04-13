@@ -21,6 +21,11 @@ Source: (MDR p71)
 Attributes:
   HellishResistance: Vous êtes résistant aux dégâts de feu.
   InfernalLegacy: Vous connaissez le tour de magie thaumaturgie. Quand vous atteignez le niveau 3, vous pouvez lancer une fois le sort représailles infernales comme sort de niveau 2 grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez terminer un repos long. À partir du niveau 5, vous pouvez lancer une fois le sort ténèbres grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez finir un repos long. Votre caractéristique d'incantation pour lancer ces sorts est le [Charisme](hd_abilities_charisma.md).
+AttributesDictionary: >+
+  HellishResistance: Vous êtes résistant aux dégâts de feu.
+
+  InfernalLegacy: Vous connaissez le tour de magie thaumaturgie. Quand vous atteignez le niveau 3, vous pouvez lancer une fois le sort représailles infernales comme sort de niveau 2 grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez terminer un repos long. À partir du niveau 5, vous pouvez lancer une fois le sort ténèbres grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez finir un repos long. Votre caractéristique d'incantation pour lancer ces sorts est le [Charisme](hd_abilities_charisma.md).
+
 ---
 >  [Races](races_hd.md#)
 

@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Drow](srd_monsters_drow.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

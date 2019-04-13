@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Badger](srd_monsters_badger.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

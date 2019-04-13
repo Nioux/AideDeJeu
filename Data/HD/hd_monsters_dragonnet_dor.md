@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

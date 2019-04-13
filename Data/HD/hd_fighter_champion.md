@@ -10,6 +10,9 @@ ParentLink: fighter_hd.md#archétypes-martiaux
 ParentName: Archétypes martiaux
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Archétypes martiaux](hd_fighter_archetypes_martiaux.md)
 

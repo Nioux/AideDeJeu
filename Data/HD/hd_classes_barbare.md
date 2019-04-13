@@ -8,6 +8,9 @@ Name: Barbare
 ParentName: Classes
 AltName: '[Barbarian](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

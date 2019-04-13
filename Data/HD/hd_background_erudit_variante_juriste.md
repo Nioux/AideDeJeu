@@ -9,6 +9,9 @@ Name: 'Variante : Juriste'
 ParentName: Érudit
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages essentiels de la justice et de la société civile médiévale. L'art du juriste mêle la rhétorique, la logique, la connaissance des textes anciens aussi bien que la théologie.
 

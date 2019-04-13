@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Treant](srd_monsters_treant.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

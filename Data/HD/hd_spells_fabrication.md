@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Fabrication
 AltName: '[Fabricate](srd_spells_fabricate.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: 36 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p354)(SRD)
 Id: spells_hd.md#fabrication
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

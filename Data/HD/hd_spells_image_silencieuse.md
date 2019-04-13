@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Image silencieuse
 AltName: '[Silent Image](srd_spells_silent_image.md)'
 Type: Illusion
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V, S, M (un morceau de toison)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#image-silencieuse
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

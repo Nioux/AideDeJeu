@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Glibness
 AltName: '[Bagou](hd_spells_bagou.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: Self
 Components: V
 Duration: 1 hour
 Classes: Bard, Warlock
-Family: SpellVO
 Source: (SRD p149)
 Id: spells_vo.md#glibness
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

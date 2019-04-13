@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Lich](srd_monsters_lich.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -10,6 +10,9 @@ Name: 'Variante : Éclaireur'
 ParentName: Explorateur
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous avez employé vos dons dans un contexte militaire ou guerrier. Sans être un soldat à part entière, vous étiez employé afin d'explorer (et d'espionner) des contrées ennemies ou inconnues et de fournir des informations à une armée d'invasion.
 

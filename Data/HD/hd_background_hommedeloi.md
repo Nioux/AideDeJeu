@@ -10,6 +10,9 @@ Name: Homme de loi
 ParentName: Historique
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Chaque contrée, chaque cité, chaque communauté est régie par des lois. Et il est de votre devoir de les faire appliquer. Peut-être êtes-vous chargé d'enquêter sur des affaires louches et étranges, peut-être jugez-vous ces affaires ou mettez-vous la sentence à exécution. Peut-être tout cela à la fois. Dans tous les cas, vous représentez ou avez représenté par le passé l'autorité dont votre contrée, votre seigneur, votre communauté ou votre clergé vous a investi. Les hommes de loi sont à la fois craints et respectés, fuis et attendus. C'est vers eux que l'on se tourne en cas de litige, comptant sur leurs compétences et leurs prérogatives. Mais c'est aussi ceux en présence de qui l'on n'ose pas trop en dire, de peur de tomber sous les coups du glaive de la justice.
 

@@ -6,6 +6,9 @@ ParentLink: cleric_traditions_hd.md#gardien-des-traditions
 ParentName: Gardien des traditions
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Gardien des traditions](hd_cleric_traditions.md)
 

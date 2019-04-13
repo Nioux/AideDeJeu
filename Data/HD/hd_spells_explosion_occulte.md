@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Explosion occulte
 AltName: '[Eldritch Blast](srd_spells_eldritch_blast.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 36 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p354)(SRD)
 Id: spells_hd.md#explosion-occulte
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

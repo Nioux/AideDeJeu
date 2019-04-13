@@ -9,6 +9,9 @@ ParentLink: abilities_hd.md
 ParentName: Caractéristiques
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Caractéristiques](hd_abilities.md)
 

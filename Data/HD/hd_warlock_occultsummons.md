@@ -9,6 +9,9 @@ ParentLink: warlock_hd.md
 ParentName: Sorcier
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Sorcier](hd_warlock.md)
 

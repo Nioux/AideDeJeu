@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Lemure](srd_monsters_lemure.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

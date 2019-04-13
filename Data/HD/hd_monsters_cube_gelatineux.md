@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

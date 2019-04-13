@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Giant Weasel](srd_monsters_giant_weasel.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

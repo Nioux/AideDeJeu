@@ -15,6 +15,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure légère
   Price: 10 po
@@ -26,6 +29,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure légère
   Price: 45 po
@@ -37,6 +43,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure intermédiaire
   Price: 10 po
@@ -48,6 +57,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure intermédiaire
   Price: 50 po
@@ -59,6 +71,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure intermédiaire
   Price: 50 po
@@ -71,6 +86,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure intermédiaire
   Price: 400 po
@@ -82,6 +100,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure intermédiaire
   Price: 750 po
@@ -94,6 +115,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure lourde
   Price: 30 po
@@ -106,6 +130,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure lourde
   Price: 75 po
@@ -119,6 +146,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure lourde
   Price: 200 po
@@ -132,6 +162,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Armure lourde
   Price: 1 500 po
@@ -145,6 +178,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Bouclier
   Price: 10 po
@@ -156,6 +192,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 2 pa
@@ -169,6 +208,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 2 po
@@ -182,6 +224,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 1 pa
@@ -195,6 +240,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 po
@@ -208,6 +256,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 pa
@@ -221,6 +272,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 1 po
@@ -234,6 +288,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 2 po
@@ -247,6 +304,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 po
@@ -260,6 +320,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 2 pa
@@ -273,6 +336,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 1 po
@@ -286,6 +352,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme à distance
   Price: 25 po
@@ -299,6 +368,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme à distance
   Price: 25 po
@@ -312,6 +384,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme à distance
   Price: 5 pc
@@ -325,6 +400,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme à distance
   Price: 1 pa
@@ -338,6 +416,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 25 po
@@ -351,6 +432,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 20 po
@@ -364,6 +448,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 50 po
@@ -377,6 +464,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 10 po
@@ -390,6 +480,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 15 po
@@ -403,6 +496,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 10 po
@@ -416,6 +512,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 2 po
@@ -429,6 +528,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 30 po
@@ -442,6 +544,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 10 po
@@ -455,6 +560,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 20 po
@@ -468,6 +576,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 10 po
@@ -481,6 +592,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 po
@@ -494,6 +608,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 15 po
@@ -507,6 +624,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 10 po
@@ -520,6 +640,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 15 po
@@ -533,6 +656,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 po
@@ -546,6 +672,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 25 po
@@ -559,6 +688,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme de corps-à-corps
   Price: 5 po
@@ -572,6 +704,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme à distance
   Price: 75 po
@@ -585,6 +720,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme à distance
   Price: 50 po
@@ -598,6 +736,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme à distance
   Price: 50 po
@@ -611,6 +752,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme à distance
   Price: 1 po
@@ -624,6 +768,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Arme à distance
   Price: 10 po
@@ -637,6 +784,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
@@ -648,6 +798,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 50 po
@@ -659,6 +812,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
@@ -669,6 +825,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurierÉquipement d'aventurier
   Price: 4 po
@@ -679,6 +838,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -690,6 +852,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -700,6 +865,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pc
@@ -710,6 +878,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -720,6 +891,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -731,6 +905,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 10 po
@@ -741,6 +918,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -751,6 +931,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
@@ -762,6 +945,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -773,6 +959,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
@@ -783,6 +972,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -793,6 +985,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -803,6 +998,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
@@ -814,6 +1012,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -825,6 +1026,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 10 po
@@ -836,6 +1040,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -846,6 +1053,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pc
@@ -857,6 +1067,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pc
@@ -868,6 +1081,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
@@ -879,6 +1095,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pa
@@ -890,6 +1109,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 10 po
@@ -901,6 +1123,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
@@ -911,6 +1136,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -921,6 +1149,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -931,6 +1162,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 50 po
@@ -942,6 +1176,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -953,6 +1190,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pc
@@ -964,6 +1204,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 10 po
@@ -974,6 +1217,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 20 po
@@ -984,6 +1230,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 10 po
@@ -994,6 +1243,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 5 po
@@ -1004,6 +1256,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur arcanique
   Price: 10 po
@@ -1014,6 +1269,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 1 po
@@ -1024,6 +1282,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 1 po
@@ -1034,6 +1295,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 5 po
@@ -1044,6 +1308,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Focaliseur druidique
   Price: 10 po
@@ -1054,6 +1321,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pa
@@ -1064,6 +1334,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1074,6 +1347,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 50 po
@@ -1084,6 +1360,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pa
@@ -1095,6 +1374,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -1105,6 +1387,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
@@ -1115,6 +1400,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 10 po
@@ -1125,6 +1413,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
@@ -1135,6 +1426,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 000 po
@@ -1145,6 +1439,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 100 po
@@ -1155,6 +1452,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -1165,6 +1465,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1175,6 +1478,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -1185,6 +1491,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1195,6 +1504,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
@@ -1205,6 +1517,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Munitions
   Price: 1 po
@@ -1216,6 +1531,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Munitions
   Price: 1 po
@@ -1227,6 +1545,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Munitions
   Price: 1 po
@@ -1238,6 +1559,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Munitions
   Price: 4 pc
@@ -1249,6 +1573,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pa
@@ -1260,6 +1587,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -1270,6 +1600,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 4 pa
@@ -1281,6 +1614,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pa
@@ -1292,6 +1628,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pa
@@ -1303,6 +1642,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
@@ -1314,6 +1656,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1324,6 +1669,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pc
@@ -1335,6 +1683,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -1346,6 +1697,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1356,6 +1710,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
@@ -1366,6 +1723,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pc
@@ -1376,6 +1736,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1386,6 +1749,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pc
@@ -1396,6 +1762,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 100 po
@@ -1407,6 +1776,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pc
@@ -1417,6 +1789,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1428,6 +1803,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 50 po
@@ -1438,6 +1816,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -1449,6 +1830,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
@@ -1459,6 +1843,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pc
@@ -1470,6 +1857,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1481,6 +1871,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 po
@@ -1491,6 +1884,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pa
@@ -1502,6 +1898,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 25 po
@@ -1512,6 +1911,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 pc
@@ -1522,6 +1924,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pc
@@ -1533,6 +1938,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 pc
@@ -1543,6 +1951,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Symbole sacré
   Price: 5 po
@@ -1553,6 +1964,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Symbole sacré
   Price: 5 po
@@ -1563,6 +1977,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Symbole sacré
   Price: 5 po
@@ -1573,6 +1990,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1584,6 +2004,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 2 po
@@ -1595,6 +2018,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 1 pc
@@ -1605,6 +2031,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier
   Price: 5 po
@@ -1615,6 +2044,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Vêtements
   Price: 5 po
@@ -1625,6 +2057,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Vêtements
   Price: 5 pa
@@ -1635,6 +2070,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Vêtements
   Price: 15 po
@@ -1645,6 +2083,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Vêtements
   Price: 1 po
@@ -1655,6 +2096,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement d'aventurier / Vêtements
   Price: 2 po
@@ -1665,6 +2109,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 2 po
@@ -1675,6 +2122,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 3 po
@@ -1685,6 +2135,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 30 po
@@ -1695,6 +2148,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 2 po
@@ -1705,6 +2161,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 12 po
@@ -1715,6 +2174,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 35 po
@@ -1725,6 +2187,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 30 po
@@ -1735,6 +2200,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 6 po
@@ -1745,6 +2213,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 25 po
@@ -1755,6 +2226,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Instrument de musique
   Price: 30 po
@@ -1765,6 +2239,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil
   Price: 25 po
@@ -1775,6 +2252,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Jeu
   Price: 1 pa
@@ -1785,6 +2265,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil - Jeu
   Price: 5 pa
@@ -1795,6 +2278,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil
   Price: 50 po
@@ -1805,6 +2291,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil
   Price: 5 po
@@ -1815,6 +2304,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 50 po
@@ -1825,6 +2317,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 20 po
@@ -1835,6 +2330,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 50 po
@@ -1845,6 +2343,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 10 po
@@ -1855,6 +2356,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 15 po
@@ -1865,6 +2369,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 8 po
@@ -1875,6 +2382,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 5 po
@@ -1885,6 +2395,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 1 po
@@ -1895,6 +2408,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 25 po
@@ -1905,6 +2421,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 15 po
@@ -1915,6 +2434,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 20 po
@@ -1925,6 +2447,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 25 po
@@ -1935,6 +2460,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 10 po
@@ -1945,6 +2473,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 1 po
@@ -1955,6 +2486,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 10 po
@@ -1965,6 +2499,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 10 po
@@ -1975,6 +2512,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 30 po
@@ -1985,6 +2525,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 5 po
@@ -1995,6 +2538,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 1 po
@@ -2005,6 +2551,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Outil d'artisan
   Price: 25 po
@@ -2015,6 +2564,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Monture
   Price: 8 po
@@ -2026,6 +2578,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Monture
   Price: 50 po
@@ -2037,6 +2592,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Monture
   Price: 400 po
@@ -2048,6 +2606,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Monture
   Price: 75 po
@@ -2059,6 +2620,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Monture
   Price: 50 po
@@ -2070,6 +2634,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Monture
   Price: 200 po
@@ -2081,6 +2648,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Monture
   Price: 25 po
@@ -2092,6 +2662,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Monture
   Price: 30 po
@@ -2103,6 +2676,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: x 4
@@ -2113,6 +2689,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 100 po
@@ -2123,6 +2702,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 250 po
@@ -2133,6 +2715,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 35 po
@@ -2143,6 +2728,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 15 po
@@ -2153,6 +2741,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 5 pa
@@ -2164,6 +2755,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 4 po
@@ -2174,6 +2768,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 5 pc
@@ -2185,6 +2782,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 2 po
@@ -2195,6 +2795,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 5 po
@@ -2205,6 +2808,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 10 po
@@ -2215,6 +2821,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 60 po
@@ -2225,6 +2834,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 20 po
@@ -2235,6 +2847,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Équipement, sellerie et véhicules à traction
   Price: 20 po
@@ -2245,6 +2860,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Bateau
   Price: 3 000 po
@@ -2255,6 +2873,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Bateau
   Price: 50 po
@@ -2265,6 +2886,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Bateau
   Price: 10 000 po
@@ -2275,6 +2899,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Bateau
   Price: 10 000 po
@@ -2285,6 +2912,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Bateau
   Price: 30 000 po
@@ -2295,6 +2925,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Bateau
   Price: 25 000 po
@@ -2305,6 +2938,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 1 pc
@@ -2315,6 +2951,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 2 pc
@@ -2325,6 +2964,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 2 pc
@@ -2334,6 +2976,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 5 pc
@@ -2344,6 +2989,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 1 pa
@@ -2354,6 +3002,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 1 pa
@@ -2364,6 +3015,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 5 pa
@@ -2374,6 +3028,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 5 pa
@@ -2384,6 +3041,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 1 po
@@ -2394,6 +3054,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 1 po
@@ -2403,6 +3066,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 2 po
@@ -2413,6 +3079,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 2 po
@@ -2423,6 +3092,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 2 po
@@ -2432,6 +3104,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 3 po
@@ -2442,6 +3117,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 3 po
@@ -2451,6 +3129,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 5 po
@@ -2461,6 +3142,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 5 po
@@ -2471,6 +3155,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 10 po
@@ -2481,6 +3168,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 10 po
@@ -2490,6 +3180,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 15 po
@@ -2500,6 +3193,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 15 po
@@ -2509,6 +3205,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 50 po
@@ -2519,6 +3218,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Marchandise
   Price: 500 po
@@ -2529,6 +3231,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Service
   Price: 2 pa
@@ -2539,6 +3244,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Service
   Price: 2 po
@@ -2549,6 +3257,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Service
   Price: 2 pc
@@ -2559,6 +3270,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Service
   Price: 1 pc
@@ -2569,6 +3283,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Service
   Price: 1 pc
@@ -2578,6 +3295,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Service
   Price: 2 pc
@@ -2588,6 +3308,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Service
   Price: 7 pc
@@ -2598,6 +3321,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 10 po
@@ -2608,6 +3334,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 4 pc
@@ -2618,6 +3347,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 2 pa
@@ -2628,6 +3360,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 1 pa
@@ -2638,6 +3373,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 7 pc
@@ -2648,6 +3386,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 1 pa
@@ -2658,6 +3399,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 5 pa
@@ -2668,6 +3412,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 8 pa
@@ -2678,6 +3425,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 2 po
@@ -2688,6 +3438,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 4 po
@@ -2698,6 +3451,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 2 pc
@@ -2708,6 +3464,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 3 pc
@@ -2718,6 +3477,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 6 pc
@@ -2728,6 +3490,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 3 pa
@@ -2738,6 +3503,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 5 pa
@@ -2748,6 +3516,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 8 pa
@@ -2758,6 +3529,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 2 po
@@ -2768,6 +3542,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 3 pa
@@ -2778,6 +3555,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 2 pa
@@ -2788,6 +3568,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 - !EquipmentItem
   Type: Nourriture, boisson et logement
   Price: 10 po
@@ -2798,6 +3581,9 @@ SubItems:
   ParentName: Équipement
   NameLevel: 1
   Attributes: {}
+  AttributesDictionary: >+
+    {}
+
 Id: equipment_hd.md#Équipement
 RootId: equipment_hd.md
 ParentLink: index.md
@@ -2805,6 +3591,9 @@ Name: Équipement
 ParentName: Manuel des règles
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Équipement](hd_equipment.md)
 

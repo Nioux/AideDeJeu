@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

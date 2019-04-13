@@ -6,6 +6,9 @@ ParentLink: sorcerer_fairy_hd.md#lignée-féerique
 ParentName: Lignée féerique
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Lignée féerique](hd_sorcerer_fairy.md)
 

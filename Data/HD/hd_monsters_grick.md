@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Grick](srd_monsters_grick.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

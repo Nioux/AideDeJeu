@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Scout](srd_monsters_scout.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

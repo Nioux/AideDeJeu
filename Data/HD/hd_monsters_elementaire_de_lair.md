@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Air Elemental](srd_monsters_air_elemental.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

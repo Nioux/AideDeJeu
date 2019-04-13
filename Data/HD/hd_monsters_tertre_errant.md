@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Shambling Mound](srd_monsters_shambling_mound.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

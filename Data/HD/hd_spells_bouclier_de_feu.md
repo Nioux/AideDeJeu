@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Bouclier de feu
 AltName: '[Fire Shield](srd_spells_fire_shield.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S, M (un morceau de phosphore ou une luciole)
 Duration: 10 minutes
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p328)(SRD)
 Id: spells_hd.md#bouclier-de-feu
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Stirge](srd_monsters_stirge.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

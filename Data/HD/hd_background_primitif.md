@@ -11,6 +11,9 @@ Name: Primitif
 ParentName: Historique
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Toutes les terres n'ont pas été civilisées. Vous êtes de ceux que les citadins appellent des sauvages, des barbares ou, tout simplement, des primitifs. Vous avez toujours vécu au sein de structures claniques, en contact avec la nature, nourri par des croyances animistes que d'aucuns considéreraient comme dépassées. Les gens issus des terres civilisées vous regardent souvent avec condescendance, parfois avec peur. On vous croit sauvages et sanguinaires, ou simplement attardés. Mais vous savez ce qu'il en est.
 

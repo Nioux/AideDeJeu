@@ -21,6 +21,9 @@ NameLevel: 1
 AltName: Dragonborn (SRD p5)
 Source: (MDR p69)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Races](races_hd.md#)
 

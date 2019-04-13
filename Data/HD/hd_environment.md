@@ -9,6 +9,9 @@ ParentLink: adventure_hd.md
 ParentName: Partir à l'aventure
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Partir à l'aventure](hd_adventure.md)
 

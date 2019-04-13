@@ -8,6 +8,9 @@ NameLevel: 4
 AltName: 'Feature: Shelter of the Faithful (SRD p61)'
 Source: (MDR p82)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous êtes un acolyte et recevez le respect de ceux qui partagent votre foi. Vous pouvez accomplir les cérémonies religieuses liées à votre déité. Vous et vos compagnons d'aventure pouvez espérer recevoir des soins gratuits dans les temples, autels et autres endroits dédiés à la divinité que vous vénérez. Cela ne vous dispense par contre pas de fournir les ingrédients nécessaires au lancement des sorts. Ceux qui partagent votre religion peuvent aussi vous donner (mais seulement à vous) de quoi mener un train de vie modeste.
 

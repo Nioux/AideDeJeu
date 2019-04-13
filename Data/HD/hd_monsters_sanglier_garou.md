@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Wereboar](srd_monsters_wereboar.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

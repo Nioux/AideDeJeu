@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Goblin](srd_monsters_goblin.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

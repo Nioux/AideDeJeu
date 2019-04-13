@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Pétrification
 AltName: '[Flesh to Stone](srd_spells_flesh_to_stone.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V, S, M (une pincée de chaux, de l'eau et de la terre)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#pétrification
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

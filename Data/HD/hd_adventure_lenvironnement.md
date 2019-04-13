@@ -7,6 +7,9 @@ ParentLink: adventure_hd.md#partir-à-laventure
 Name: L'environnement
 ParentName: Partir à l'aventure
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

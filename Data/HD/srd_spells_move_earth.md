@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Move Earth
 AltName: '[Déplacer la terre](hd_spells_deplacer_la_terre.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: 120 feet
 Components: V, S, M (an iron blade and a small bag containing a mixture of soils—clay, loam, and sand)
 Duration: Concentration, up to 2 hours
 Classes: Druid, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p166)
 Id: spells_vo.md#move-earth
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

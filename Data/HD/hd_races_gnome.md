@@ -8,6 +8,9 @@ Name: Gnome
 ParentName: Races
 AltName: '[Gnome](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

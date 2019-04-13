@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Greater Restoration
 AltName: '[Restauration supérieure](hd_spells_restauration_superieure.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Bard, Cleric, Druid
-Family: SpellVO
 Source: (SRD p150)
 Id: spells_vo.md#greater-restoration
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Communion
 AltName: '[Commune](srd_spells_commune.md)'
 Type: Divination
@@ -9,7 +10,6 @@ Range: personnelle
 Components: V, S, M (de l'encens et une fiole d'eau bénite ou maudite)
 Duration: 1 minute
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p337)(SRD)
 Ritual: rituel
 Id: spells_hd.md#communion
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

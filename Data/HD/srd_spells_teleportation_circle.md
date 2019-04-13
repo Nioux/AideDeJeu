@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Teleportation Circle
 AltName: '[Cercle de téléportation](hd_spells_cercle_de_teleportation.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 10 feet
 Components: V, M (rare chalks and inks infused with precious gems with 50 gp, which the spell consumes)
 Duration: 1 round
 Classes: Bard, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p186)
 Id: spells_vo.md#teleportation-circle
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

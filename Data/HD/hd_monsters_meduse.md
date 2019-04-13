@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Medusa](srd_monsters_medusa.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -8,6 +8,9 @@ ParentLink: equipment_properties_hd.md#Équipement
 ParentName: Équipement
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Équipement](hd_equipment_properties.md)
 

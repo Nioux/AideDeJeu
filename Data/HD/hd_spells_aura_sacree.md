@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Aura sacrée
 AltName: '[Holy Aura](srd_spells_holy_aura.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p326)
 Id: spells_hd.md#aura-sacrée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

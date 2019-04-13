@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Duergar](srd_monsters_duergar.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Elephant](srd_monsters_elephant.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

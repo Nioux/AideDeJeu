@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Lesser Restoration
 AltName: '[Restauration inférieure](hd_spells_restauration_inferieure.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S
 Duration: Instantaneous
 Classes: Bard, Cleric, Druid, Paladin, Ranger
-Family: SpellVO
 Source: (SRD p158)
 Id: spells_vo.md#lesser-restoration
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

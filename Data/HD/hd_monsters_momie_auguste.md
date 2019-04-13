@@ -29,6 +29,9 @@ NameLevel: 1
 AltName: '[Mummy Lord](srd_monsters_mummy_lord.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

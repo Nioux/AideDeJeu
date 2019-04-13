@@ -6,6 +6,9 @@ ParentLink: madness_hd.md#la-folie
 ParentName: La folie
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [La folie](hd_madness.md)
 

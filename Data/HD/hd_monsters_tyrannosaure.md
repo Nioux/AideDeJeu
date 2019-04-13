@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

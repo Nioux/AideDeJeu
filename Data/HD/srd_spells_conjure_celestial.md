@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Conjure Celestial
 AltName: '[Invoquer un céleste](hd_spells_invoquer_un_celeste.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 90 feet
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p127)
 Id: spells_vo.md#conjure-celestial
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

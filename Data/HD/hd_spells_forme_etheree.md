@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Forme éthérée
 AltName: '[Etherealness](srd_spells_etherealness.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S
 Duration: jusqu'à 8 heures
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p356)(SRD)
 Id: spells_hd.md#forme-éthérée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

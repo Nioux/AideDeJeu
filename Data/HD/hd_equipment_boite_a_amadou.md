@@ -9,6 +9,9 @@ Name: Boîte à amadou
 ParentName: Équipement
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Équipement](hd_equipment.md)
 

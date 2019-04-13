@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Vampire Spawn](srd_monsters_vampire_spawn.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

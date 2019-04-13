@@ -9,6 +9,9 @@ ParentLink: manage_health_hd.md
 ParentName: Gérer la santé
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Gérer la santé](hd_manage_health.md)
 

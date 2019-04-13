@@ -6,6 +6,9 @@ ParentLink: abilities_hd.md#utiliser-les-caractéristiques
 ParentName: Utiliser les caractéristiques
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Utiliser les caractéristiques](hd_abilities.md)
 

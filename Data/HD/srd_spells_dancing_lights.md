@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Dancing Lights
 AltName: '[Lumières dansantes](hd_spells_lumieres_dansantes.md)'
 Type: Evocation
@@ -9,13 +10,15 @@ Range: 120 feet
 Components: V, S, M (a bit of phosphorus or wychwood, or a glowworm)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p133)
 Id: spells_vo.md#dancing-lights
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

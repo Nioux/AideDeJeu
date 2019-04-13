@@ -9,6 +9,9 @@ Name: Points de vie
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Rôdeur](hd_ranger.md)
 

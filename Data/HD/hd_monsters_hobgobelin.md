@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

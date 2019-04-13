@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Contacter un autre plan
 AltName: '[Contact Other Plane](srd_spells_contact_other_plane.md)'
 Type: Divination
@@ -9,7 +10,6 @@ Range: personnelle
 Components: V
 Duration: 1 minute
 Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p339)(SRD)
 Ritual: rituel
 Id: spells_hd.md#contacter-un-autre-plan
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

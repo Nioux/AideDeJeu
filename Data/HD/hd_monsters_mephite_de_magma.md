@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Magma Mephit](srd_monsters_magma_mephit.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

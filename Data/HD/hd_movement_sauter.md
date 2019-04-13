@@ -6,6 +6,9 @@ ParentLink: movement_hd.md#déplacement
 ParentName: Déplacement
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Déplacement](hd_movement.md)
 

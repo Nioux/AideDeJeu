@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Marilith](srd_monsters_marilith.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

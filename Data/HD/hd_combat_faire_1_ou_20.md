@@ -8,6 +8,9 @@ ParentLink: combat_hd.md#combattre
 ParentName: Combattre
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Combattre](hd_combat.md)
 

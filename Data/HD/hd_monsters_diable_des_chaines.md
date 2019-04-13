@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Chain Devil](srd_monsters_chain_devil.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

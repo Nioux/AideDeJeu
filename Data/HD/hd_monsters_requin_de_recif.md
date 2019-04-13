@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Reef Shark](srd_monsters_reef_shark.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -19,6 +19,9 @@ NameLevel: 1
 AltName: Half-Orc (SRD p7)
 Source: (MDR p41)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Races](races_hd.md#)
 

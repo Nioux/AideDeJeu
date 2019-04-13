@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Darkness
 AltName: '[Ténèbres](hd_spells_tenebres.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 60 feet
 Components: V, M (bat fur and a drop of pitch or piece of coal)
 Duration: Concentration, up to 10 minutes
 Classes: Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p133)
 Id: spells_vo.md#darkness
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

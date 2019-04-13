@@ -9,6 +9,9 @@ Name: 'Variante : Guide'
 ParentName: Solitaire
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Votre vie n'est que voyage et isolement. Vous passez de communauté en communauté, guidant les caravanes à bon port. Cela ne vous empêche pas de savoir comment sociabiliser, mais vous portez sur vos épaules, à chaque voyage, la responsabilité de toute une caravane.
 

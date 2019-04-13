@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Giant Sea Horse](srd_monsters_giant_sea_horse.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

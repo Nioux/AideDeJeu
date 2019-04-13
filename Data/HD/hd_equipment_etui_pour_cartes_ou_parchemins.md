@@ -9,6 +9,9 @@ Name: Étui pour cartes ou parchemins
 ParentName: Équipement
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Équipement](hd_equipment.md)
 

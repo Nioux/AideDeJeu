@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Messager animal
 AltName: '[Animal Messenger](srd_spells_animal_messenger.md)'
 Type: Enchantement
@@ -9,7 +10,6 @@ Range: 9 mètres
 Components: V, S, M (un peu de nourriture)
 Duration: 24 heures
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Ritual: rituel
 Id: spells_hd.md#messager-animal
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

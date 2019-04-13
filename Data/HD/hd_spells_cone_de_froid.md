@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Cône de froid
 AltName: '[Cone of Cold](srd_spells_cone_of_cold.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: personnelle (cône de 18 mètres)
 Components: V, S, M (un petit cône de cristal ou de verre)
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p338)(SRD)
 Id: spells_hd.md#cône-de-froid
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

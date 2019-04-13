@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Shillelagh
 AltName: '[Gourdin magique](hd_spells_gourdin_magique.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)
 Duration: 1 minute
 Classes: Druid
-Family: SpellVO
 Source: (SRD p179)
 Id: spells_vo.md#shillelagh
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

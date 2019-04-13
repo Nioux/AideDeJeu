@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Detect Magic
 AltName: '[Détection de la magie](hd_spells_detection_de_la_magie.md)'
 Type: divination
@@ -9,7 +10,6 @@ Range: Self
 Components: V, S
 Duration: Concentration, up to 10 minutes
 Classes: Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p134)
 Ritual: ritual
 Id: spells_vo.md#detect-magic
@@ -17,6 +17,9 @@ ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

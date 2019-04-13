@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Dragon Turtle](srd_monsters_dragon_turtle.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

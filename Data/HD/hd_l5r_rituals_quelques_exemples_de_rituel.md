@@ -7,6 +7,9 @@ ParentLink: l5r_rituals_hd.md#lancer-un-rituel
 ParentName: Lancer un rituel
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)
 

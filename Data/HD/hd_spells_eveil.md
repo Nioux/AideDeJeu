@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Éveil
 AltName: '[Awaken](srd_spells_awaken.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md)'
-Family: SpellHD
 Source: (MDR p354)(SRD)
 Id: spells_hd.md#Éveil
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

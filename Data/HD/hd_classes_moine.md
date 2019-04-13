@@ -8,6 +8,9 @@ Name: Moine
 ParentName: Classes
 AltName: '[Monk](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Awakened Shrub](srd_monsters_awakened_shrub.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

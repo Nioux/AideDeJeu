@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Giant Elk](srd_monsters_giant_elk.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

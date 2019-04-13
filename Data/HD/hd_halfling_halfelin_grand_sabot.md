@@ -11,6 +11,9 @@ ParentName: Halfelin
 NameLevel: 2
 Source: (MDR p52)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Halfelin](hd_halfling.md)
 

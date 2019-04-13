@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Specter](srd_monsters_specter.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Arme sainte
 Type: Transmutation
 Level: 3
@@ -8,13 +9,15 @@ Range: contact
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Paladin](hd_paladin.md)'
-Family: SpellHD
 Source: (MDR p324)
 Id: spells_hd.md#arme-sainte
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

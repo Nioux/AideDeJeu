@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Bulette](hd_monsters_bulette.md)'
 Source: (SRD p266)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

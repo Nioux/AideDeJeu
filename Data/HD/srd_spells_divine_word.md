@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Divine Word
 AltName: '[Parole divine](hd_spells_parole_divine.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 30 feet
 Components: V
 Duration: Instantaneous
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p137)
 Id: spells_vo.md#divine-word
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

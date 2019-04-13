@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Hydra](srd_monsters_hydra.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Scorpion](srd_monsters_scorpion.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

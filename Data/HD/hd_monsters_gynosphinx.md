@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Gynosphinx](srd_monsters_gynosphinx.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

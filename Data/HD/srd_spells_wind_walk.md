@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Wind Walk
 AltName: '[Marche sur le vent](hd_spells_marche_sur_le_vent.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: 30 feet
 Components: V, S, M (fire and holy water)
 Duration: 8 hours
 Classes: Druid
-Family: SpellVO
 Source: (SRD p192)
 Id: spells_vo.md#wind-walk
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

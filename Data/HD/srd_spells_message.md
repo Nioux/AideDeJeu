@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Message
 AltName: '[Message](hd_spells_message.md)'
 Type: Transmutation
@@ -9,13 +10,15 @@ Range: 120 feet
 Components: V, S, M (a short piece of copper wire)
 Duration: 1 round
 Classes: Bard, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p164)
 Id: spells_vo.md#message
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

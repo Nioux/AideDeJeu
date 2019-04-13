@@ -7,6 +7,9 @@ ParentLink: backgrounds_hd.md#historique
 Name: Membre de guilde
 ParentName: Historique
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

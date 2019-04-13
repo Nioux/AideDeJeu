@@ -9,6 +9,9 @@ ParentLink: personnality_background_hd.md#
 ParentName: Personnalité et Historique
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Personnalité et Historique](personnality_background_hd.md#)
 

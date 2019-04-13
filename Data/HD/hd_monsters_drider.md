@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Drider](srd_monsters_drider.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

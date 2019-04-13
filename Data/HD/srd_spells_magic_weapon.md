@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Magic Weapon
 AltName: '[Arme magique](hd_spells_arme_magique.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Paladin, Wizard
-Family: SpellVO
 Source: (SRD p161)
 Id: spells_vo.md#magic-weapon
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

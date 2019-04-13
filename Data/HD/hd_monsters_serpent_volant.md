@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

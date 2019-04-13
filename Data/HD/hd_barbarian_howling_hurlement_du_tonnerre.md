@@ -6,6 +6,9 @@ ParentLink: barbarian_howling_hd.md#voie-du-hurlement
 ParentName: Voie du hurlement
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Voie du hurlement](hd_barbarian_howling.md)
 

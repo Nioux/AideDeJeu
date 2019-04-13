@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Invisibility
 AltName: '[Invisibilité](hd_spells_invisibilite.md)'
 Type: illusion
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (an eyelash encased in gum arabic)
 Duration: Concentration, up to 1 hour
 Classes: Bard, Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p157)
 Id: spells_vo.md#invisibility
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

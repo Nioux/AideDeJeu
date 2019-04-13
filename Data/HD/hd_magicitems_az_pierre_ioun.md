@@ -11,6 +11,9 @@ NameLevel: 3
 AltName: Ioun Stone (SRD p227)
 Source: (COC p175)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)
 

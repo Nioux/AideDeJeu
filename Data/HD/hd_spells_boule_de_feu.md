@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Boule de feu
 AltName: '[Fireball](srd_spells_fireball.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 45 mètres
 Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p328)(SRD)
 Id: spells_hd.md#boule-de-feu
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

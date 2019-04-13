@@ -8,6 +8,9 @@ Name: Sorcier
 ParentName: Classes
 AltName: '[Warlock](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

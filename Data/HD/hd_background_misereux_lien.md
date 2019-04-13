@@ -23,6 +23,9 @@ Name: Lien
 ParentName: Personnalités suggérées
 NameLevel: 5
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Personnalités suggérées](hd_background_misereux_personnalites_suggerees.md)
 

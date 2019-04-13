@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Moine
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Moine](hd_monk.md)
 

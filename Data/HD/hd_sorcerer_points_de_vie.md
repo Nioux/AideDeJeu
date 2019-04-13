@@ -9,6 +9,9 @@ Name: Points de vie
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Ensorceleur](hd_sorcerer.md)
 

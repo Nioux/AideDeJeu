@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Coquille antivie
 AltName: '[Antilife Shell](srd_spells_antilife_shell.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: personnelle (3 mètres de rayon)
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md)'
-Family: SpellHD
 Source: (MDR p342)(SRD)
 Id: spells_hd.md#coquille-antivie
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

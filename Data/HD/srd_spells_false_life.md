@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: False Life
 AltName: '[Simulacre de vie](hd_spells_simulacre_de_vie.md)'
 Type: necromancy
@@ -9,13 +10,15 @@ Range: Self
 Components: V, S, M (a small amount of alcohol or distilled spirits)
 Duration: 1 hour
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p142)
 Id: spells_vo.md#false-life
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

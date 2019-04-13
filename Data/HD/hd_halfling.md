@@ -18,6 +18,9 @@ NameLevel: 1
 AltName: Halfling (SRD p4)
 Source: (MDR p52)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Races](races_hd.md#)
 

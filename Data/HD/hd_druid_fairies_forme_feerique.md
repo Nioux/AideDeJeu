@@ -6,6 +6,9 @@ ParentLink: druid_fairies_hd.md#cercle-des-fées
 ParentName: Cercle des fées
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Cercle des fées](hd_druid_fairies.md)
 

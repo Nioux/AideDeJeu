@@ -6,6 +6,9 @@ ParentLink: dragonborn_hd.md#sangdragon
 ParentName: Sangdragon
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sangdragon](hd_dragonborn.md)
 

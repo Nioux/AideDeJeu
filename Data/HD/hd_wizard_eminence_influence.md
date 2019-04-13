@@ -6,6 +6,9 @@ ParentLink: wizard_eminence_hd.md#Éminence-grise
 ParentName: Éminence grise
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Éminence grise](hd_wizard_eminence.md)
 

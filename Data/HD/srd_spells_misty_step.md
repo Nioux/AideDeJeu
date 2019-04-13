@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Misty Step
 AltName: '[Pas brumeux](hd_spells_pas_brumeux.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: Self
 Components: V
 Duration: Instantaneous
 Classes: Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p165)
 Id: spells_vo.md#misty-step
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Mammoth](srd_monsters_mammoth.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

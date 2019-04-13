@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Éclair
 AltName: '[Lightning Bolt](srd_spells_lightning_bolt.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: personnelle (ligne de 30 mètres)
 Components: V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p350)(SRD)
 Id: spells_hd.md#Éclair
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

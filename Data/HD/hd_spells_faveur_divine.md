@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Faveur divine
 AltName: '[Divine Favor](srd_spells_divine_favor.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Paladin](hd_paladin.md)'
-Family: SpellHD
 Source: (MDR p355)(SRD)
 Id: spells_hd.md#faveur-divine
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

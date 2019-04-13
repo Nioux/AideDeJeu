@@ -8,6 +8,9 @@ Name: Sangdragon
 ParentName: Races
 AltName: '[Dragonborn](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

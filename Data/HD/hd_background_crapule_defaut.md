@@ -23,6 +23,9 @@ Name: Défaut
 ParentName: Personnalités suggérées
 NameLevel: 5
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Personnalités suggérées](hd_background_crapule_personnalites_suggerees.md)
 

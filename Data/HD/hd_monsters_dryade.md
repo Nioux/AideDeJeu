@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Dryad](srd_monsters_dryad.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

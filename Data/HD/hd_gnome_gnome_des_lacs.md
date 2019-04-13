@@ -11,6 +11,9 @@ ParentName: Gnome
 NameLevel: 2
 Source: (MDR p49)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Gnome](hd_gnome.md)
 

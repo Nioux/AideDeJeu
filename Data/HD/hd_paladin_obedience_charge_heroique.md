@@ -6,6 +6,9 @@ ParentLink: paladin_obedience_hd.md#serment-dobédience
 ParentName: Serment d'obédience
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Serment d'obédience](hd_paladin_obedience.md)
 

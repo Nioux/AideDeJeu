@@ -6,6 +6,9 @@ ParentLink: wizard_academician_hd.md#académicien
 ParentName: Académicien
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Académicien](hd_wizard_academician.md)
 

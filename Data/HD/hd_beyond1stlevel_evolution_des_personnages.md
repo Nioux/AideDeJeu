@@ -6,6 +6,9 @@ ParentLink: beyond1stlevel_hd.md#au-delà-du-niveau-1
 ParentName: Au-delà du niveau 1
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Au-delà du niveau 1](hd_beyond1stlevel.md)
 

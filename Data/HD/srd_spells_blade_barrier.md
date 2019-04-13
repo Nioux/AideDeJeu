@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Blade Barrier
 AltName: '[Barrière de lames](hd_spells_barriere_de_lames.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 90 feet
 Components: V, S
 Duration: Concentration, up to 10 minutes
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p122)
 Id: spells_vo.md#blade-barrier
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

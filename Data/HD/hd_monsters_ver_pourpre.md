@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Purple Worm](srd_monsters_purple_worm.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Phantom Steed
 AltName: '[Monture fantôme](hd_spells_monture_fantome.md)'
 Type: illusion
@@ -9,7 +10,6 @@ Range: 30 feet
 Components: V, S
 Duration: 1 hour
 Classes: Wizard
-Family: SpellVO
 Source: (SRD p167)
 Ritual: ritual
 Id: spells_vo.md#phantom-steed
@@ -17,6 +17,9 @@ ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

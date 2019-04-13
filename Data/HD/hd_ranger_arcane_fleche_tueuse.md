@@ -6,6 +6,9 @@ ParentLink: ranger_arcane_hd.md#archer-arcanique
 ParentName: Archer arcanique
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Archer arcanique](hd_ranger_arcane.md)
 

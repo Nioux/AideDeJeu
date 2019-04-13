@@ -27,6 +27,9 @@ Name: Trait de personnalité
 ParentName: Personnalités suggérées
 NameLevel: 5
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Personnalités suggérées](hd_background_itinerant_personnalites_suggerees.md)
 

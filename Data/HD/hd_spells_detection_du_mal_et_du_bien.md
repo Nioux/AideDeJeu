@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Détection du mal et du bien
 AltName: '[Detect Evil and Good](srd_spells_detect_evil_and_good.md)'
 Type: Divination
@@ -9,13 +10,15 @@ Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-Family: SpellHD
 Source: (MDR p347)(SRD)
 Id: spells_hd.md#détection-du-mal-et-du-bien
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Bec de hache](hd_monsters_bec_de_hache.md)'
 Source: (SRD p366)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

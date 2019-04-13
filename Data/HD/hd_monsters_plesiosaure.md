@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

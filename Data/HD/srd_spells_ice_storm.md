@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Ice Storm
 AltName: '[Tempête de grêle](hd_spells_tempete_de_grele.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 300 feet
 Components: V, S, M (a pinch of dust and a few drops of water)
 Duration: Instantaneous
 Classes: Druid, Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p155)
 Id: spells_vo.md#ice-storm
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

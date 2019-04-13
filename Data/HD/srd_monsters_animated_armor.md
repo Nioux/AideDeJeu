@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Armure animée](hd_monsters_armure_animee.md)'
 Source: (SRD p263)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

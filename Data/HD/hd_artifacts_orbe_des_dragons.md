@@ -8,6 +8,9 @@ ParentLink: artifacts_hd.md#artefacts
 ParentName: Artefacts
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Artefacts](hd_artifacts.md)
 

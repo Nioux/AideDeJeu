@@ -6,6 +6,9 @@ ParentLink: cleric_priest_hd.md#prêtre
 ParentName: Prêtre
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Prêtre](hd_cleric_priest.md)
 

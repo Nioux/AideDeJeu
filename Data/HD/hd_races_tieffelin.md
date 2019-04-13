@@ -8,6 +8,9 @@ Name: Tieffelin
 ParentName: Races
 AltName: '[Tiefling](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

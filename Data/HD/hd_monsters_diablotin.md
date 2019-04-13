@@ -28,6 +28,9 @@ NameLevel: 1
 AltName: '[Imp](srd_monsters_imp.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Tarrasque](srd_monsters_tarrasque.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

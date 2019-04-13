@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Tribal Warrior](srd_monsters_tribal_warrior.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

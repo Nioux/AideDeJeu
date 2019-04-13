@@ -24,6 +24,9 @@ ParentName: Créatures
 NameLevel: 1
 Source: (CEO p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

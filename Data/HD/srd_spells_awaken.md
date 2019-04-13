@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Awaken
 AltName: '[Éveil](hd_spells_eveil.md)'
 Type: transmutation
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (an agate worth at least 1,000 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Bard, Druid
-Family: SpellVO
 Source: (SRD p120)
 Id: spells_vo.md#awaken
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

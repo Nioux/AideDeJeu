@@ -10,6 +10,9 @@ Name: 'Variante : Inquisiteur'
 ParentName: Homme de loi
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous représentez l'autorité de votre clergé. Parfois enquêteur, parfois juge, parfois les deux, vous avez pour mission de débusquer et de punir les ennemis de votre foi et de garantir l'intégrité de votre culte et de ses croyants. Il existe toutes sortes d'inquisiteurs, depuis le traqueur de morts-vivants au service d'un dieu bon jusqu'au chasseur de sorcières et de pécheurs.
 

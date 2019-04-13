@@ -9,6 +9,9 @@ Name: 'Variante : Mendiant'
 ParentName: Miséreux
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Vous avez vécu de la maigre charité des citadins et, pour accroître vos chances, vous avez appris à les amuser, les tromper ou parfois les voler, lorsque tout le reste ne suffisait pas.
 

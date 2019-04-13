@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Poison Spray
 AltName: '[Bouffée de poison](hd_spells_bouffee_de_poison.md)'
 Type: Conjuration
@@ -9,13 +10,15 @@ Range: 10 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Druid, Sorcerer, Warlock, Wizard
-Family: SpellVO
 Source: (SRD p169)
 Id: spells_vo.md#poison-spray
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

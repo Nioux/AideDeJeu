@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Héroïsme
 AltName: '[Heroism](srd_spells_heroism.md)'
 Type: Enchantement
@@ -9,13 +10,15 @@ Range: contact
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Paladin](hd_paladin.md)'
-Family: SpellHD
 Source: (MDR p)(SRD)
 Id: spells_hd.md#héroïsme
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

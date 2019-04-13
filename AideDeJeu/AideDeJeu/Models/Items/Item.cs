@@ -347,6 +347,27 @@ namespace AideDeJeuLib
         public Dictionary<string, string> Attributes { get; set; } = new Dictionary<string, string>();
 
         [DataMember]
+        public string AttributesDictionary
+        {
+            get
+            {
+                var builder = new SerializerBuilder();
+                var serializer = builder
+                    .WithNamingConvention(new PascalCaseNamingConvention())
+                    .Build();
+                return serializer.Serialize(Attributes);
+            }
+            set
+            {
+                var builder = new DeserializerBuilder();
+                var deserializer = builder
+                    .WithNamingConvention(new PascalCaseNamingConvention())
+                    .Build();
+                Attributes = deserializer.Deserialize<Dictionary<string, string>>(value);
+            }
+        }
+
+        [DataMember]
         public string Description { get; set; }
     }
 }

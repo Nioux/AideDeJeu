@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Modify Memory
 AltName: '[Modification de mémoire](hd_spells_modification_de_memoire.md)'
 Type: enchantment
@@ -9,13 +10,15 @@ Range: 30 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard, Wizard
-Family: SpellVO
 Source: (SRD p166)
 Id: spells_vo.md#modify-memory
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

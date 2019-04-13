@@ -9,6 +9,9 @@ ParentLink: paladin_hd.md#serments-sacrés
 ParentName: Serments sacrés
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Serments sacrés](hd_paladin_serments_sacres.md)
 

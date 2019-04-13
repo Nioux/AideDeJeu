@@ -8,6 +8,9 @@ Name: Guerrier
 ParentName: Classes
 AltName: '[Fighter](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

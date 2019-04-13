@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Compréhension des langues
 AltName: '[Comprehend Languages](srd_spells_comprehend_languages.md)'
 Type: Divination
@@ -9,7 +10,6 @@ Range: personnelle
 Components: V, S, M (une pincée de suie et de sel)
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Family: SpellHD
 Source: (MDR p338)(SRD)
 Ritual: rituel
 Id: spells_hd.md#compréhension-des-langues
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Cloud Giant](srd_monsters_cloud_giant.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

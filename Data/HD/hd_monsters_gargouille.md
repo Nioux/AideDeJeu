@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Gargoyle](srd_monsters_gargoyle.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

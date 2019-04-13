@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Gorgon](srd_monsters_gorgon.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

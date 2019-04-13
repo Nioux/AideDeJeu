@@ -9,6 +9,9 @@ Name: 'Variante : Limier'
 ParentName: Homme de loi
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Quand on veut retrouver la trace d'un homme ou élucider une affaire particulière, c'est vous que l'on dépêche. Vous savez évoluer entre deux mondes, connaissez les codes des bas-fonds, et avez appris à vous faire discret.
 

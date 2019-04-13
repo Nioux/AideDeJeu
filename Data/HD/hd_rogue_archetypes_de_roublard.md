@@ -6,6 +6,9 @@ ParentLink: rogue_hd.md#roublard
 ParentName: Roublard
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Roublard](hd_rogue.md)
 

@@ -8,6 +8,9 @@ Name: Humain
 ParentName: Races
 AltName: '[Human](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

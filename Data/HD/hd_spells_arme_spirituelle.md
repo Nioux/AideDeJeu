@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Arme spirituelle
 AltName: '[Spiritual Weapon](srd_spells_spiritual_weapon.md)'
 Type: Évocation
@@ -9,13 +10,15 @@ Range: 18 mètres
 Components: V, S
 Duration: 1 minute
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p324)(SRD)
 Id: spells_hd.md#arme-spirituelle
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

@@ -8,6 +8,9 @@ ParentLink: weapons_hd.md#armes
 ParentName: Armes
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Armes](hd_weapons.md)
 

@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Grimlock](srd_monsters_grimlock.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

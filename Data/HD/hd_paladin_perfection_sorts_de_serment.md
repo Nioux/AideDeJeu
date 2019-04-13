@@ -6,6 +6,9 @@ ParentLink: paladin_perfection_hd.md#serment-de-perfection
 ParentName: Serment de perfection
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Serment de perfection](hd_paladin_perfection.md)
 

@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Flesh Golem](srd_monsters_flesh_golem.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

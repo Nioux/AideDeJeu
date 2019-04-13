@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Camel](srd_monsters_camel.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

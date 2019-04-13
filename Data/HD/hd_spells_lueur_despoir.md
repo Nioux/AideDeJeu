@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Lueur d'espoir
 AltName: '[Beacon of Hope](srd_spells_beacon_of_hope.md)'
 Type: Abjuration
@@ -9,13 +10,15 @@ Range: 9 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md)'
-Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#lueur-despoir
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

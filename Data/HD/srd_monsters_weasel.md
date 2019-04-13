@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Belette](hd_monsters_belette.md)'
 Source: (SRD p392)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

@@ -8,6 +8,9 @@ Name: Roublard
 ParentName: Classes
 AltName: '[Rogue](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

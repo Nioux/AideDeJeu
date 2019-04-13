@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Freezing Sphere
 AltName: '[Sphère glacée](hd_spells_sphere_glacee.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 300 feet
 Components: V, S, M (a small crystal sphere
 Duration: Instantaneous
 Classes: Wizard
-Family: SpellVO
 Source: (SRD p147)
 Id: spells_vo.md#freezing-sphere
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

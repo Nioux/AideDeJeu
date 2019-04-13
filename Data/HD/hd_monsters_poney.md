@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Pony](srd_monsters_pony.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

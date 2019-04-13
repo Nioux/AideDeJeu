@@ -18,6 +18,9 @@ ParentName: Races
 NameLevel: 1
 Source: (MDR p66)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Races](races_hd.md#)
 

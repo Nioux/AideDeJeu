@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Baboon](srd_monsters_baboon.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

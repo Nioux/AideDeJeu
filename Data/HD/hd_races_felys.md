@@ -7,6 +7,9 @@ ParentLink: races_hd.md#races
 Name: Félys
 ParentName: Races
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

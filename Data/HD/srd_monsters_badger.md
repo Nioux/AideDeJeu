@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Blaireau](hd_monsters_blaireau.md)'
 Source: (SRD p367)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)
 

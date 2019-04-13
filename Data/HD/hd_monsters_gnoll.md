@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Gnoll](srd_monsters_gnoll.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

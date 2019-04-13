@@ -9,6 +9,9 @@ ParentLink: wizard_hd.md#traditions-arcaniques
 ParentName: Traditions arcaniques
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Traditions arcaniques](hd_wizard_traditions_arcaniques.md)
 

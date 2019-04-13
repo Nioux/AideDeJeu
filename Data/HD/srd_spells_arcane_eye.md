@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Arcane Eye
 AltName: '[Oeil magique](hd_spells_oeil_magique.md)'
 Type: divination
@@ -9,13 +10,15 @@ Range: 30 feet
 Components: V, S, M (a bit of bat fur)
 Duration: Concentration, up to 1 hour
 Classes: Wizard
-Family: SpellVO
 Source: (SRD p118)
 Id: spells_vo.md#arcane-eye
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

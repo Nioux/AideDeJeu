@@ -10,6 +10,9 @@ Name: 'Variante : Initié'
 ParentName: Dévot
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 Description: >+
   Que vous viviez ou non au temple, vous faites partie de la hiérarchie de votre clergé. Vous avez été initié, et êtes ainsi devenu un agent de votre dieu. Peut-être était-ce une démarche sincère, ou simplement une obligation familiale. Mais vous avez appris les rituels et les croyances de votre clergé. Vous avez assisté les prêtres, aiguillé les croyants, accompli toutes les missions que l'on vous a demandé d'accomplir.
 

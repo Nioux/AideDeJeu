@@ -8,6 +8,9 @@ ParentLink: l5r_index_hd.md
 ParentName: Les Cinq Royaumes
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Les Cinq Royaumes](hd_l5r_index.md)
 

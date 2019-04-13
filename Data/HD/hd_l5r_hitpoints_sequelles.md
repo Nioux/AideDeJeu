@@ -6,6 +6,9 @@ ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 ParentName: Points de vie et blessures
 NameLevel: 4
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)
 

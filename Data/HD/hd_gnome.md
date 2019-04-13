@@ -19,6 +19,9 @@ NameLevel: 1
 AltName: Gnome (SRD p6)
 Source: (MDR p48)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Races](races_hd.md#)
 

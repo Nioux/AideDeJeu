@@ -6,6 +6,9 @@ ParentLink: ranger_hunter_hd.md#chasseur
 ParentName: Chasseur
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Chasseur](hd_ranger_hunter.md)
 

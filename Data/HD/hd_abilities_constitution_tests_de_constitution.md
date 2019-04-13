@@ -6,6 +6,9 @@ ParentLink: abilities_constitution_hd.md#constitution
 ParentName: Constitution
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Constitution](hd_abilities_constitution.md)
 

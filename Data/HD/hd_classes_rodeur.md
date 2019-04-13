@@ -8,6 +8,9 @@ Name: Rôdeur
 ParentName: Classes
 AltName: '[Ranger](#)'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

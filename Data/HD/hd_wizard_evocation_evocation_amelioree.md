@@ -6,6 +6,9 @@ ParentLink: wizard_evocation_hd.md#École-dévocation
 ParentName: École d'évocation
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [École d'évocation](hd_wizard_evocation.md)
 

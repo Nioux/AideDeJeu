@@ -6,6 +6,9 @@ Name: Tableau d'évolution
 ParentName: Paladin
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Paladin](hd_paladin.md)
 

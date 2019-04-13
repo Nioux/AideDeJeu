@@ -6,6 +6,9 @@ ParentLink: druid_seasons_hd.md#cercle-des-saisons
 ParentName: Cercle des saisons
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Cercle des saisons](hd_druid_seasons.md)
 

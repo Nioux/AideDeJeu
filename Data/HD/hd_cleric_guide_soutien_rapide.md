@@ -6,6 +6,9 @@ ParentLink: cleric_guide_hd.md#guide-spirituel
 ParentName: Guide spirituel
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Guide spirituel](hd_cleric_guide.md)
 

@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Knight](srd_monsters_knight.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

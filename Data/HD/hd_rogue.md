@@ -9,6 +9,9 @@ ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 >  [Classes](hd_classes.md)
 

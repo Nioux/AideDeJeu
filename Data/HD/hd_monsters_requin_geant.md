@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Giant Shark](srd_monsters_giant_shark.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

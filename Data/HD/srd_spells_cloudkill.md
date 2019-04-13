@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Cloudkill
 AltName: '[Nuage mortel](hd_spells_nuage_mortel.md)'
 Type: conjuration
@@ -9,13 +10,15 @@ Range: 120 feet
 Components: V, S
 Duration: Concentration, up to 10 minutes
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p125)
 Id: spells_vo.md#cloudkill
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

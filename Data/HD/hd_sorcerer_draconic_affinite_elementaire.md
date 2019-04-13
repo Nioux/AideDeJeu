@@ -6,6 +6,9 @@ ParentLink: sorcerer_draconic_hd.md#lignée-draconique
 ParentName: Lignée draconique
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Lignée draconique](hd_sorcerer_draconic.md)
 

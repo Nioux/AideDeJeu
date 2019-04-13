@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellHD
 Name: Convocations instantanées
 AltName: '[Instant Summons](srd_spells_instant_summons.md)'
 Type: Invocation
@@ -9,7 +10,6 @@ Range: contact
 Components: V, S, M (un saphir d'une valeur de 1 000 po)
 Duration: jusqu'à dissipation
 Classes: '[Magicien](hd_wizard.md)'
-Family: SpellHD
 Source: (MDR p342)
 Ritual: rituel
 Id: spells_hd.md#convocations-instantanées
@@ -17,6 +17,9 @@ ParentLink: spells_hd.md#sorts
 ParentName: Sorts
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Sorts](hd_spells.md)
 

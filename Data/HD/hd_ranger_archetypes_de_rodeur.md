@@ -6,6 +6,9 @@ ParentLink: ranger_hd.md#rôdeur
 ParentName: Rôdeur
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Rôdeur](hd_ranger.md)
 

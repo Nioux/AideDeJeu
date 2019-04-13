@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Hallow
 AltName: '[Sanctification](hd_spells_sanctification.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)
 Duration: Until dispelled
 Classes: Cleric
-Family: SpellVO
 Source: (SRD p152)
 Id: spells_vo.md#hallow
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

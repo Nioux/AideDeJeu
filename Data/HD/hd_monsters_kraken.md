@@ -27,6 +27,9 @@ NameLevel: 1
 AltName: '[Kraken](srd_monsters_kraken.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

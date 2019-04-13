@@ -6,6 +6,9 @@ Name: Destructeur
 ParentName: Dons
 NameLevel: 3
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Dons](hd_feats.md)
 

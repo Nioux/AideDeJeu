@@ -9,6 +9,9 @@ Name: Branche de houx (focaliseur druidique)
 ParentName: Équipement
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Équipement](hd_equipment.md)
 

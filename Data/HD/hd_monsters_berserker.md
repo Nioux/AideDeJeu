@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Berserker](srd_monsters_berserker.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

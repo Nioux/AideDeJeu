@@ -26,6 +26,9 @@ NameLevel: 1
 AltName: '[Winter Wolf](srd_monsters_winter_wolf.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

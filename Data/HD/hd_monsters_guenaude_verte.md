@@ -25,6 +25,9 @@ NameLevel: 1
 AltName: '[Green Hag](srd_monsters_green_hag.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 

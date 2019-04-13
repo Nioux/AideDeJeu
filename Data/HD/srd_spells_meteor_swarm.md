@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Meteor Swarm
 AltName: '[Nuée de météores](hd_spells_nuee_de_meteores.md)'
 Type: evocation
@@ -9,13 +10,15 @@ Range: 1 mile
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p164)
 Id: spells_vo.md#meteor-swarm
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

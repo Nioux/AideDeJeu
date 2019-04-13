@@ -1,5 +1,6 @@
 ﻿---
 !SpellItem
+Family: SpellVO
 Name: Mage Armor
 AltName: '[Armure du mage](hd_spells_armure_du_mage.md)'
 Type: abjuration
@@ -9,13 +10,15 @@ Range: Touch
 Components: V, S, M (a piece of cured leather)
 Duration: 8 hours
 Classes: Sorcerer, Wizard
-Family: SpellVO
 Source: (SRD p160)
 Id: spells_vo.md#mage-armor
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)
 NameLevel: 1
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Spells (SRD p)](srd_spells.md)
 

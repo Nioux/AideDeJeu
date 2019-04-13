@@ -6,6 +6,9 @@ ParentLink: monk_enlightenment_hd.md#voie-de-lillumination
 ParentName: Voie de l'illumination
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Voie de l'illumination](hd_monk_enlightenment.md)
 

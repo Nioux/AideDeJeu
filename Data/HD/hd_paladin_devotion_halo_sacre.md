@@ -6,6 +6,9 @@ ParentLink: paladin_devotion_hd.md#serment-de-dévotion
 ParentName: Serment de dévotion
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Serment de dévotion](hd_paladin_devotion.md)
 

@@ -6,6 +6,9 @@ ParentLink: bard_acrobats_hd.md#collège-des-saltimbanques
 ParentName: Collège des saltimbanques
 NameLevel: 2
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Collège des saltimbanques](hd_bard_acrobats.md)
 

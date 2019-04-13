@@ -7,6 +7,9 @@ ParentLink: l5r_index_hd.md#les-cinq-royaumes--les-règles-spécifiques
 Name: Règles générales
 ParentName: 'Les Cinq Royaumes : Les règles spécifiques'
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 
 

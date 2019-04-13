@@ -24,6 +24,9 @@ NameLevel: 1
 AltName: '[Triceratops](srd_monsters_triceratops.md)'
 Source: (CEO p)(SRD p)
 Attributes: {}
+AttributesDictionary: >+
+  {}
+
 ---
 > [Créatures](hd_monsters.md)
 
