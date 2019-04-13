@@ -99,12 +99,18 @@
     <ContentPage Title="Caractéristiques">
         <ScrollView Orientation="Vertical">
             <StackLayout>
-                <Picker Title="Force" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Force : {0}'}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Force" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Dextérité" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Constitution" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Intelligence" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Sagesse" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Charisme" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
+                <!--<Picker Title="Force" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Force : {0}'}" />
                 <Picker Title="Dextérité" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Dextérité : {0}'}" />
                 <Picker Title="Constitution" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Constitution : {0}'}" />
                 <Picker Title="Intelligence" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Intelligence : {0}'}" />
                 <Picker Title="Sagesse" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Sagesse : {0}'}" />
-                <Picker Title="Charisme" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Charisme : {0}'}" />
+                <Picker Title="Charisme" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Charisme : {0}'}" />-->
             </StackLayout>
         </ScrollView>
     </ContentPage>
