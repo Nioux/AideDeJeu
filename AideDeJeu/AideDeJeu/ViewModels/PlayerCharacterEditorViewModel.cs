@@ -160,8 +160,21 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _RaceSelectedIndex, value);
                 if (Races.Result.Count > _RaceSelectedIndex && _RaceSelectedIndex >= 0)
                 {
-                    SelectedPlayerCharacter.Race = Races.Result[_RaceSelectedIndex];
+                    SelectedRace = Races.Result[_RaceSelectedIndex];
                 }
+            }
+        }
+        private RaceItem _SelectedRace = null;
+        public RaceItem SelectedRace
+        {
+            get
+            {
+                return _SelectedRace;
+            }
+            set
+            {
+                SetProperty(ref _SelectedRace, value);
+                SelectedPlayerCharacter.Race = _SelectedRace;
             }
         }
 
@@ -187,7 +200,20 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _ClassSelectedIndex, value);
-                SelectedPlayerCharacter.Class = Classes.Result[_ClassSelectedIndex];
+                SelectedClass = Classes.Result[_ClassSelectedIndex];
+            }
+        }
+        private ClassItem _SelectedClass = null;
+        public ClassItem SelectedClass
+        {
+            get
+            {
+                return _SelectedClass;
+            }
+            set
+            {
+                SetProperty(ref _SelectedClass, value);
+                SelectedPlayerCharacter.Class = _SelectedClass;
             }
         }
 
