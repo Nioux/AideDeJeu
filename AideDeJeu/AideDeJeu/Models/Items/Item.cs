@@ -346,6 +346,20 @@ namespace AideDeJeuLib
         [IgnoreDataMember]
         public Dictionary<string, string> Attributes { get; set; } = new Dictionary<string, string>();
 
+        public Dictionary<string, KeyValuePair<string, string>> AttributesKeyValue
+        {
+            get
+            {
+                var keys = Attributes.Keys.Where(a => a.EndsWith("Key") && Attributes.Keys.Contains(a.Substring(0, a.Length - 3) + "Value")).Select(a => a.Substring(0, a.Length - 3)).ToList();
+                var dico = new Dictionary<string, KeyValuePair<string, string>>();
+                foreach (var key in keys)
+                {
+                    dico[key] = new KeyValuePair<string, string>(Attributes[key + "Key"], Attributes[key + "Value"]);
+                }
+                return dico;
+            }
+        }
+
         [DataMember]
         public string AttributesDictionary
         {

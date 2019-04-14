@@ -305,6 +305,12 @@ namespace AideDeJeu.ViewModels
                         {
                             item.Attributes[propertyName] = inline.ToMarkdownString();
                         }
+                        if (propertyName.EndsWith("Value"))
+                        {
+                            //Debug.WriteLine(item.AttributesKeyValue);
+                            //Debug.WriteLine(item.AttributesDictionary);
+                            Debug.WriteLine("break");
+                        }
                     }
                 }
             }
