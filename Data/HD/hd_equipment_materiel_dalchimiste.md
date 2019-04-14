@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Matériel d'alchimiste
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Matériel d'alchimiste
+  Markdown: >+
+    # <!--Name-->Matériel d'alchimiste<!--/Name-->
+
+
+    - **Type** <!--Type-->Outil d'artisan<!--/Type-->
+
+    - **Prix** <!--Price-->50 po<!--/Price-->
+
+    - **Poids** <!--Weight-->4 kg<!--/Weight-->
+
+  Type: Outil d'artisan
+  Price: 50 po
+  Weight: 4 kg
 AttributesDictionary: >+
-  {}
+  Name: Matériel d'alchimiste
+
+  Markdown: >+
+
+    # <!--Name-->Matériel d'alchimiste<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Outil d'artisan<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->50 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->4 kg<!--/Weight-->
+
+
+
+  Type: Outil d'artisan
+
+  Price: 50 po
+
+  Weight: 4 kg
 
 ---
 > [Équipement](hd_equipment.md)

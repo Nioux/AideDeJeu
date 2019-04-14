@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Jeu de cartes
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Jeu de cartes
+  Markdown: >+
+    # <!--Name-->Jeu de cartes<!--/Name-->
+
+
+    - **Type** <!--Type-->Outil - Jeu<!--/Type-->
+
+    - **Prix** <!--Price-->5 pa<!--/Price-->
+
+    - **Poids** <!--Weight-->_<!--/Weight-->
+
+  Type: Outil - Jeu
+  Price: 5 pa
+  Weight: _
 AttributesDictionary: >+
-  {}
+  Name: Jeu de cartes
+
+  Markdown: >+
+
+    # <!--Name-->Jeu de cartes<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Outil - Jeu<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->5 pa<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->_<!--/Weight-->
+
+
+
+  Type: Outil - Jeu
+
+  Price: 5 pa
+
+  Weight: _
 
 ---
 > [Équipement](hd_equipment.md)

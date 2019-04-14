@@ -23,9 +23,178 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Lézard géant
+  Markdown: >+
+    # <!--Name-->Lézard géant<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Giant Lizard](srd_monsters_giant_lizard.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Sens** <!--Senses-->vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 6 (1d8+2) dégâts perforants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
+  Type: Bête
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 12 (armure naturelle)
+  HitPoints: 19 (3d10+3)
+  Speed: 9 m, escalade 9 m
+  Strength: 15 (+2)
+  Dexterity: 12 (+1)
+  Constitution: 13 (+1)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 10 (+0)
+  Charisma: ' 5 (-3)'
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1/4 (50 PX)
 AttributesDictionary: >+
-  {}
+  Name: Lézard géant
+
+  Markdown: >+
+
+    # <!--Name-->Lézard géant<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Giant Lizard](srd_monsters_giant_lizard.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 6 (1d8+2) dégâts perforants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
+
+  Type: Bête
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 12 (armure naturelle)
+
+  HitPoints: 19 (3d10+3)
+
+  Speed: 9 m, escalade 9 m
+
+  Strength: 15 (+2)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 13 (+1)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 5 (-3)'
+
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+
+  Languages: —
+
+  Challenge: 1/4 (50 PX)
 
 ---
 > [Créatures](hd_monsters.md)

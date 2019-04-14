@@ -1,13 +1,32 @@
 ﻿---
 !GenericItem
-Name: Lire sur les lèvres
 Id: rogue_spy_hd.md#lire-sur-les-lèvres
 ParentLink: rogue_spy_hd.md#espion
+Name: Lire sur les lèvres
 ParentName: Espion
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Lire sur les lèvres
+  Markdown: >+
+    ## <!--Name-->Lire sur les lèvres<!--/Name-->
+
+
+    À partir du niveau 9, vous devenez capable de lire sur les lèvres ce que dit quelqu'un que vous n'entendez pas mais dont vous pouvez voir le visage. Vous devez réussir un test de [Sagesse (Perception)](hd_abilities_wisdom_perception.md) dont la difficulté est égale à la moitié de la distance en mètres entre vous et votre cible (avec un minimum de 10 si la cible est à moins de 20 mètres). Vous subissez un désavantage si votre cible est dans une zone de lumière faible.
+
 AttributesDictionary: >+
-  {}
+  Name: Lire sur les lèvres
+
+  Markdown: >+
+
+    ## <!--Name-->Lire sur les lèvres<!--/Name-->
+
+
+
+
+
+    À partir du niveau 9, vous devenez capable de lire sur les lèvres ce que dit quelqu'un que vous n'entendez pas mais dont vous pouvez voir le visage. Vous devez réussir un test de [Sagesse (Perception)](hd_abilities_wisdom_perception.md) dont la difficulté est égale à la moitié de la distance en mètres entre vous et votre cible (avec un minimum de 10 si la cible est à moins de 20 mètres). Vous subissez un désavantage si votre cible est dans une zone de lumière faible.
+
+
 
 ---
 > [Espion](hd_rogue_spy.md)

@@ -8,9 +8,73 @@ RootId: rogue_brute_hd.md
 ParentLink: rogue_hd.md#archétypes-de-roublard
 ParentName: Archétypes de roublard
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Brute<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p205)<!--/Source-->
+
+
+    Tous les roublards ou crapules ne sont pas forcément des monte-en-l'air ou des acrobates. Dans le métier, on ne manque pas d'emplois pour les costauds et les coriaces, ceux qui sont plutôt taillés pour la bagarre, l'intimidation ou la protection… bien que ce terme ait un sens dans le milieu très différent de celui que les honnêtes gens lui prêtent. Sans doute ces individus auraient- ils pu faire une belle carrière de guerrier, mais la vie ou leur goût pour l'illégalité en a décidé autrement.
+
+
+    Leur palette de talents est bien plus étendue que celle d'un simple ferrailleur ; pour eux, l'usage de la force n'est qu'un moyen parmi tant d'autres, puisque tous les coups sont permis.
+
+  Name: Brute
+  Source: (MDR p205)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Brute<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p205)<!--/Source-->
+
+
+
+
+
+    Tous les roublards ou crapules ne sont pas forcément des monte-en-l'air ou des acrobates. Dans le métier, on ne manque pas d'emplois pour les costauds et les coriaces, ceux qui sont plutôt taillés pour la bagarre, l'intimidation ou la protection… bien que ce terme ait un sens dans le milieu très différent de celui que les honnêtes gens lui prêtent. Sans doute ces individus auraient- ils pu faire une belle carrière de guerrier, mais la vie ou leur goût pour l'illégalité en a décidé autrement.
+
+
+
+
+
+    Leur palette de talents est bien plus étendue que celle d'un simple ferrailleur ; pour eux, l'usage de la force n'est qu'un moyen parmi tant d'autres, puisque tous les coups sont permis.
+
+
+
+  Name: Brute
+
+  Source: (MDR p205)
 
 ---
 >  [Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)

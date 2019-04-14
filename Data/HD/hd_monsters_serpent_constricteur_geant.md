@@ -24,9 +24,205 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Serpent constricteur géant
+  Markdown: >+
+    # <!--Name-->Serpent constricteur géant<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->60 (8d12+8)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Perception](hd_abilities_wisdom_perception.md) +2<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Comprimer._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
+
+
+    _Touché :_ 13 (2d8+4) dégâts contondants et la cible est [empoignée](hd_conditions_empoigne.md) (évasion DD 16). Jusqu'au terme de cette empoignade, la créature est [entravée](hd_conditions_entrave.md) et le serpent ne peut pas comprimer une autre cible.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une créature.
+
+
+    _Touché :_ 11 (2d6+4) dégâts perforants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
+  Type: Bête
+  Size: TG
+  Alignment: non-alignée
+  ArmorClass: 12
+  HitPoints: 60 (8d12+8)
+  Speed: 9 m, nage 9 m
+  Strength: 19 (+4)
+  Dexterity: 14 (+2)
+  Constitution: 12 (+1)
+  Intelligence: ' 1 (-5)'
+  Wisdom: 10 (+0)
+  Charisma: ' 3 (-4)'
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: —
+  Challenge: 2 (450 PX)
 AttributesDictionary: >+
-  {}
+  Name: Serpent constricteur géant
+
+  Markdown: >+
+
+    # <!--Name-->Serpent constricteur géant<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->60 (8d12+8)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Perception](hd_abilities_wisdom_perception.md) +2<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Comprimer._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
+
+
+
+
+
+    _Touché :_ 13 (2d8+4) dégâts contondants et la cible est [empoignée](hd_conditions_empoigne.md) (évasion DD 16). Jusqu'au terme de cette empoignade, la créature est [entravée](hd_conditions_entrave.md) et le serpent ne peut pas comprimer une autre cible.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une créature.
+
+
+
+
+
+    _Touché :_ 11 (2d6+4) dégâts perforants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
+
+  Type: Bête
+
+  Size: TG
+
+  Alignment: non-alignée
+
+  ArmorClass: 12
+
+  HitPoints: 60 (8d12+8)
+
+  Speed: 9 m, nage 9 m
+
+  Strength: 19 (+4)
+
+  Dexterity: 14 (+2)
+
+  Constitution: 12 (+1)
+
+  Intelligence: ' 1 (-5)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 3 (-4)'
+
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+
+  Languages: —
+
+  Challenge: 2 (450 PX)
 
 ---
 > [Créatures](hd_monsters.md)

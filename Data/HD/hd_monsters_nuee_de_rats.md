@@ -25,9 +25,223 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Nuée de rats
+  Markdown: >+
+    # <!--Name-->Nuée de rats<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Swarm of Rats](srd_monsters_swarm_of_rats.md)<!--/AltName-->
+
+    -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->24 (7d8-7)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 9 (-1)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution--> 9 (-1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants<!--/DamageResistances-->
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un rat de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
+
+
+    **_Odorat aiguisé._** La nuée obtient un avantage lors des tests de [Sagesse](hd_abilities_wisdom.md) (Perception) basés sur l'odorat.
+
+
+    ## Actions
+
+
+    **_Morsures._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+
+
+    _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
+  Type: Nuée
+  Size: M composée de bêtes de taille TP
+  Alignment: non-alignée
+  ArmorClass: 10
+  HitPoints: 24 (7d8-7)
+  Speed: 9 m
+  Strength: ' 9 (-1)'
+  Dexterity: 11 (+0)
+  Constitution: ' 9 (-1)'
+  Intelligence: ' 2 (-4)'
+  Wisdom: 10 (+0)
+  Charisma: ' 3 (-4)'
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1/4 (50 PX)
 AttributesDictionary: >+
-  {}
+  Name: Nuée de rats
+
+  Markdown: >+
+
+    # <!--Name-->Nuée de rats<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Swarm of Rats](srd_monsters_swarm_of_rats.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->24 (7d8-7)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 9 (-1)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution--> 9 (-1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un rat de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
+
+
+
+
+
+    **_Odorat aiguisé._** La nuée obtient un avantage lors des tests de [Sagesse](hd_abilities_wisdom.md) (Perception) basés sur l'odorat.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsures._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+
+
+
+
+
+    _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
+
+  Type: Nuée
+
+  Size: M composée de bêtes de taille TP
+
+  Alignment: non-alignée
+
+  ArmorClass: 10
+
+  HitPoints: 24 (7d8-7)
+
+  Speed: 9 m
+
+  Strength: ' 9 (-1)'
+
+  Dexterity: 11 (+0)
+
+  Constitution: ' 9 (-1)'
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 3 (-4)'
+
+  DamageResistances: contondants, perforants et tranchants
+
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+
+  Languages: —
+
+  Challenge: 1/4 (50 PX)
 
 ---
 > [Créatures](hd_monsters.md)

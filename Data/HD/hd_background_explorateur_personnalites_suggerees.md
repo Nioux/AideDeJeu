@@ -5,9 +5,37 @@ ParentLink: background_explorateur_hd.md#explorateur
 Name: Personnalités suggérées
 ParentName: Explorateur
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: Personnalités suggérées
+  Markdown: >+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+    Les explorateurs se laissent souvent porter par leur goût du risque et de l'inconnu. Ils sont entreprenants, aventureux et résolus à profiter de leur existence au maximum. Ils n'accordent pas beaucoup de valeur aux notions de confort et de sécurité si chères à la plupart de leurs congénères.
+
+  Description: >+
+    Les explorateurs se laissent souvent porter par leur goût du risque et de l'inconnu. Ils sont entreprenants, aventureux et résolus à profiter de leur existence au maximum. Ils n'accordent pas beaucoup de valeur aux notions de confort et de sécurité si chères à la plupart de leurs congénères.
+
 AttributesDictionary: >+
-  {}
+  Name: Personnalités suggérées
+
+  Markdown: >+
+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+
+
+
+    Les explorateurs se laissent souvent porter par leur goût du risque et de l'inconnu. Ils sont entreprenants, aventureux et résolus à profiter de leur existence au maximum. Ils n'accordent pas beaucoup de valeur aux notions de confort et de sécurité si chères à la plupart de leurs congénères.
+
+
+
+  Description: >+
+
+    Les explorateurs se laissent souvent porter par leur goût du risque et de l'inconnu. Ils sont entreprenants, aventureux et résolus à profiter de leur existence au maximum. Ils n'accordent pas beaucoup de valeur aux notions de confort et de sécurité si chères à la plupart de leurs congénères.
+
+
 
 Description: >+
   Les explorateurs se laissent souvent porter par leur goût du risque et de l'inconnu. Ils sont entreprenants, aventureux et résolus à profiter de leur existence au maximum. Ils n'accordent pas beaucoup de valeur aux notions de confort et de sécurité si chères à la plupart de leurs congénères.

@@ -25,9 +25,250 @@ Name: Young White Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)'
-Attributes: {}
+Attributes:
+  Name: Young White Dragon
+  Markdown: >+
+    # <!--Name-->Young White Dragon<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->133 (14d10 + 56)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +3, Con +7, Wis +3, Cha +4<!--/SavingThrows-->
+
+    - **Skills** <!--Skills-->Perception +6, Stealth +3<!--/Skills-->
+
+    - **Senses** <!--Senses-->blindsight 30 ft., darkvision 120 ft., passive Perception 16<!--/Senses-->
+
+    - **Languages** <!--Languages-->Common, Draconic<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->6 (2300 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->cold<!--/DamageImmunities-->
+
+
+    ## Special Features
+
+
+    **_Ice Walk_**. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
+
+
+    **_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+
+
+    _Hit_: 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.
+
+
+    **_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 11 (2d6 + 4) slashing damage.
+
+
+    **_Cold Breath (Recharge 5-6)_**. The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+  AltName: '[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)'
+  Size: Large
+  Type: dragon
+  Alignment: chaotic evil
+  ArmorClass: 17 (natural armor)
+  HitPoints: 133 (14d10 + 56)
+  Speed: 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+  Strength: 18 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 18 (+4)
+  Intelligence: ' 6 (-2)'
+  Wisdom: 11 (+0)
+  Charisma: 12 (+1)
+  SavingThrows: Dex +3, Con +7, Wis +3, Cha +4
+  Skills: Perception +6, Stealth +3
+  Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 16
+  Languages: Common, Draconic
+  Challenge: 6 (2300 XP)
+  DamageImmunities: cold
 AttributesDictionary: >+
-  {}
+  Name: Young White Dragon
+
+  Markdown: >+
+
+    # <!--Name-->Young White Dragon<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->133 (14d10 + 56)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +3, Con +7, Wis +3, Cha +4<!--/SavingThrows-->
+
+
+
+    - **Skills** <!--Skills-->Perception +6, Stealth +3<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->blindsight 30 ft., darkvision 120 ft., passive Perception 16<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Common, Draconic<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->6 (2300 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->cold<!--/DamageImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Ice Walk_**. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+
+
+
+
+
+    _Hit_: 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.
+
+
+
+
+
+    **_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 11 (2d6 + 4) slashing damage.
+
+
+
+
+
+    **_Cold Breath (Recharge 5-6)_**. The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+
+
+  AltName: '[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)'
+
+  Size: Large
+
+  Type: dragon
+
+  Alignment: chaotic evil
+
+  ArmorClass: 17 (natural armor)
+
+  HitPoints: 133 (14d10 + 56)
+
+  Speed: 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+  Strength: 18 (+4)
+
+  Dexterity: 10 (+0)
+
+  Constitution: 18 (+4)
+
+  Intelligence: ' 6 (-2)'
+
+  Wisdom: 11 (+0)
+
+  Charisma: 12 (+1)
+
+  SavingThrows: Dex +3, Con +7, Wis +3, Cha +4
+
+  Skills: Perception +6, Stealth +3
+
+  Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+  Languages: Common, Draconic
+
+  Challenge: 6 (2300 XP)
+
+  DamageImmunities: cold
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

@@ -6,9 +6,43 @@ ParentLink: index.md
 Name: Personnalité et Historique
 ParentName: Manuel des règles
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Manuel des règles](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Personnalité et Historique<!--/Name-->
+
+  Name: Personnalité et Historique
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Manuel des règles](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Personnalité et Historique<!--/Name-->
+
+
+
+  Name: Personnalité et Historique
 
 ---
 >  [Manuel des règles](index.md)

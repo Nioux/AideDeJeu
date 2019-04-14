@@ -1,13 +1,32 @@
 ﻿---
 !GenericItem
-Name: Masque des mille visages
 Id: warlock_occultsummons_hd.md#masque-des-mille-visages
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Masque des mille visages
 ParentName: Invocations occultes
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Masque des mille visages
+  Markdown: >+
+    ## <!--Name-->Masque des mille visages<!--/Name-->
+
+
+    Vous pouvez lancer déguisement à volonté, sans utiliser d'emplacement de sort.
+
 AttributesDictionary: >+
-  {}
+  Name: Masque des mille visages
+
+  Markdown: >+
+
+    ## <!--Name-->Masque des mille visages<!--/Name-->
+
+
+
+
+
+    Vous pouvez lancer déguisement à volonté, sans utiliser d'emplacement de sort.
+
+
 
 ---
 > [Invocations occultes](hd_warlock_occultsummons.md)

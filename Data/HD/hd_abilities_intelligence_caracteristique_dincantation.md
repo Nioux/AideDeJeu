@@ -1,13 +1,32 @@
 ﻿---
 !GenericItem
-Name: Caractéristique d'incantation
 Id: abilities_intelligence_hd.md#caractéristique-dincantation
 ParentLink: abilities_intelligence_hd.md#intelligence
+Name: Caractéristique d'incantation
 ParentName: Intelligence
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Caractéristique d'incantation
+  Markdown: >+
+    ## <!--Name-->Caractéristique d'incantation<!--/Name-->
+
+
+    Les [magiciens](hd_wizard.md) utilisent l'[Intelligence](hd_abilities_intelligence.md) comme caractéristique d'incantation et afin de déterminer les DD des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de leurs sorts.
+
 AttributesDictionary: >+
-  {}
+  Name: Caractéristique d'incantation
+
+  Markdown: >+
+
+    ## <!--Name-->Caractéristique d'incantation<!--/Name-->
+
+
+
+
+
+    Les [magiciens](hd_wizard.md) utilisent l'[Intelligence](hd_abilities_intelligence.md) comme caractéristique d'incantation et afin de déterminer les DD des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de leurs sorts.
+
+
 
 ---
 > [Intelligence](hd_abilities_intelligence.md)

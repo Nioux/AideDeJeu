@@ -7,9 +7,31 @@ ParentLink: classes_hd.md#classes
 Name: Barbare
 ParentName: Classes
 AltName: '[Barbarian](#)'
-Attributes: {}
+Attributes:
+  NameLink: '[Barbare](hd_barbarian.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Barbare](hd_barbarian.md)<!--/NameLink-->
+
+
+    - AltName: <!--AltName-->[Barbarian](#)<!--/AltName-->
+
+  AltName: '[Barbarian](#)'
 AttributesDictionary: >+
-  {}
+  NameLink: '[Barbare](hd_barbarian.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Barbare](hd_barbarian.md)<!--/NameLink-->
+
+
+
+
+
+    - AltName: <!--AltName-->[Barbarian](#)<!--/AltName-->
+
+
+
+  AltName: '[Barbarian](#)'
 
 ---
 

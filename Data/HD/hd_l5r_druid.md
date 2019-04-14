@@ -7,9 +7,55 @@ Name: Druide des cinq royaumes
 ParentName: Les Cinq Royaumes
 NameLevel: 2
 Source: (L5R p59)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    ## <!--Name-->Druide des cinq royaumes<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p59)<!--/Source-->
+
+  Name: Druide des cinq royaumes
+  Source: (L5R p59)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    ## <!--Name-->Druide des cinq royaumes<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p59)<!--/Source-->
+
+
+
+  Name: Druide des cinq royaumes
+
+  Source: (L5R p59)
 
 ---
 >  [Les Cinq Royaumes](hd_l5r_index.md)

@@ -8,9 +8,73 @@ RootId: bard_hd.md
 ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Classes](hd_classes.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Barde<!--/Name-->
+
+
+    - AltName: <!--AltName-->Bard (SRD p11)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p121)<!--/Source-->
+
+
+    En tant que barde, vous bénéficiez des aptitudes de classe suivantes.
+
+  Name: Barde
+  AltName: Bard (SRD p11)
+  Source: (MDR p121)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Classes](hd_classes.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Barde<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Bard (SRD p11)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p121)<!--/Source-->
+
+
+
+
+
+    En tant que barde, vous bénéficiez des aptitudes de classe suivantes.
+
+
+
+  Name: Barde
+
+  AltName: Bard (SRD p11)
+
+  Source: (MDR p121)
 
 ---
 >  [Classes](hd_classes.md)

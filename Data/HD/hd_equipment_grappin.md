@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Grappin
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Grappin
+  Markdown: >+
+    # <!--Name-->Grappin<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->2 po<!--/Price-->
+
+    - **Poids** <!--Weight-->2 kg<!--/Weight-->
+
+  Type: Équipement d'aventurier
+  Price: 2 po
+  Weight: 2 kg
 AttributesDictionary: >+
-  {}
+  Name: Grappin
+
+  Markdown: >+
+
+    # <!--Name-->Grappin<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->2 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->2 kg<!--/Weight-->
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 2 po
+
+  Weight: 2 kg
 
 ---
 > [Équipement](hd_equipment.md)

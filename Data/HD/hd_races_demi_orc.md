@@ -7,9 +7,31 @@ ParentLink: races_hd.md#races
 Name: Demi-orc
 ParentName: Races
 AltName: '[Half-Orc](#)'
-Attributes: {}
+Attributes:
+  NameLink: '[Demi-orc](hd_half_orc.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Demi-orc](hd_half_orc.md)<!--/NameLink-->
+
+
+    - SRD: <!--AltName-->[Half-Orc](#)<!--/AltName-->
+
+  AltName: '[Half-Orc](#)'
 AttributesDictionary: >+
-  {}
+  NameLink: '[Demi-orc](hd_half_orc.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Demi-orc](hd_half_orc.md)<!--/NameLink-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Half-Orc](#)<!--/AltName-->
+
+
+
+  AltName: '[Half-Orc](#)'
 
 ---
 

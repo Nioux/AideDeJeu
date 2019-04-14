@@ -7,9 +7,31 @@ ParentLink: classes_hd.md#classes
 Name: Guerrier
 ParentName: Classes
 AltName: '[Fighter](#)'
-Attributes: {}
+Attributes:
+  NameLink: '[Guerrier](hd_fighter.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Guerrier](hd_fighter.md)<!--/NameLink-->
+
+
+    - AltName: <!--AltName-->[Fighter](#)<!--/AltName-->
+
+  AltName: '[Fighter](#)'
 AttributesDictionary: >+
-  {}
+  NameLink: '[Guerrier](hd_fighter.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Guerrier](hd_fighter.md)<!--/NameLink-->
+
+
+
+
+
+    - AltName: <!--AltName-->[Fighter](#)<!--/AltName-->
+
+
+
+  AltName: '[Fighter](#)'
 
 ---
 

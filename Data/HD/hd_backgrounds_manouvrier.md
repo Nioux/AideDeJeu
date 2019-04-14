@@ -6,9 +6,19 @@ Id: backgrounds_hd.md#manouvrier
 ParentLink: backgrounds_hd.md#historique
 Name: Manouvrier
 ParentName: Historique
-Attributes: {}
+Attributes:
+  NameLink: '[Manouvrier](hd_background_manouvrier.md)'
+  Markdown: >+
+    # <!--NameLink-->[Manouvrier](hd_background_manouvrier.md)<!--/NameLink-->
+
 AttributesDictionary: >+
-  {}
+  NameLink: '[Manouvrier](hd_background_manouvrier.md)'
+
+  Markdown: >+
+
+    # <!--NameLink-->[Manouvrier](hd_background_manouvrier.md)<!--/NameLink-->
+
+
 
 ---
 

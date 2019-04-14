@@ -15,9 +15,145 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Divine Favor](srd_spells_divine_favor.md)'
 Source: (MDR p355)(SRD)
-Attributes: {}
+Attributes:
+  Name: Faveur divine
+  Markdown: >+
+    # <!--Name-->Faveur divine<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Divine Favor](srd_spells_divine_favor.md)<!--/AltName-->
+
+
+    -  <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->personnelle<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Paladin](hd_paladin.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p355)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Vos prières vous imprègnent d'une aura radieuse.
+
+
+    Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d4 dégâts radiants supplémentaires en cas de coup au but.
+
+  AltName: '[Divine Favor](srd_spells_divine_favor.md)'
+  Type: Évocation
+  Level: 1
+  CastingTime: 1 action bonus
+  Range: personnelle
+  Components: V, S
+  Duration: concentration, jusqu'à 1 minute
+  Classes: '[Paladin](hd_paladin.md)'
+  Source: (MDR p355)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Faveur divine
+
+  Markdown: >+
+
+    # <!--Name-->Faveur divine<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Divine Favor](srd_spells_divine_favor.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->personnelle<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Paladin](hd_paladin.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p355)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Vos prières vous imprègnent d'une aura radieuse.
+
+
+
+
+
+    Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d4 dégâts radiants supplémentaires en cas de coup au but.
+
+
+
+  AltName: '[Divine Favor](srd_spells_divine_favor.md)'
+
+  Type: Évocation
+
+  Level: 1
+
+  CastingTime: 1 action bonus
+
+  Range: personnelle
+
+  Components: V, S
+
+  Duration: concentration, jusqu'à 1 minute
+
+  Classes: '[Paladin](hd_paladin.md)'
+
+  Source: (MDR p355)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

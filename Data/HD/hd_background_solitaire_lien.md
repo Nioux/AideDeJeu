@@ -22,9 +22,121 @@ ParentLink: background_solitaire_hd.md#personnalités-suggérées
 Name: Lien
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Lien
+  Markdown: >+
+    ##### <!--Name-->Lien<!--/Name-->
+
+
+    |d6|Lien|
+
+    |---|---|
+
+    |1|Je fuis une personne, ou un groupe, qui me <!--br-->pourchasse. Voilà pourquoi je reste seul.|
+
+    |2|Même si je vis hors de toute communauté, <!--br-->je m'estime responsable de la sécurité <!--br-->d'un village qui m'accueille quand je viens <!--br-->commercer avec eux.|
+
+    |3|J'ai tout quitté à cause d'un scandale terrible. <!--br-->Mais ceux que j'aime restent dans mon coeur à <!--br-->chaque instant.|
+
+    |4|J'ai vécu un événement traumatisant. Il m'a <!--br-->tant marqué que je reste seul, de peur d'en <!--br-->infliger les conséquences aux autres.|
+
+    |5|J'ai été soldat autrefois. Je ne reverrai jamais <!--br-->les horreurs de la guerre.|
+
+    |6|Je me suis fixé comme mission de protéger <!--br-->les terres sauvages qui m'accueillent des <!--br-->déprédations des êtres dits civilisés.|
+
+  Table: >+
+    |d6|Lien|
+
+    |---|---|
+
+    |1|Je fuis une personne, ou un groupe, qui me <!--br-->pourchasse. Voilà pourquoi je reste seul.|
+
+    |2|Même si je vis hors de toute communauté, <!--br-->je m'estime responsable de la sécurité <!--br-->d'un village qui m'accueille quand je viens <!--br-->commercer avec eux.|
+
+    |3|J'ai tout quitté à cause d'un scandale terrible. <!--br-->Mais ceux que j'aime restent dans mon coeur à <!--br-->chaque instant.|
+
+    |4|J'ai vécu un événement traumatisant. Il m'a <!--br-->tant marqué que je reste seul, de peur d'en <!--br-->infliger les conséquences aux autres.|
+
+    |5|J'ai été soldat autrefois. Je ne reverrai jamais <!--br-->les horreurs de la guerre.|
+
+    |6|Je me suis fixé comme mission de protéger <!--br-->les terres sauvages qui m'accueillent des <!--br-->déprédations des êtres dits civilisés.|
+
 AttributesDictionary: >+
-  {}
+  Name: Lien
+
+  Markdown: >+
+
+    ##### <!--Name-->Lien<!--/Name-->
+
+
+
+
+
+    |d6|Lien|
+
+
+
+    |---|---|
+
+
+
+    |1|Je fuis une personne, ou un groupe, qui me <!--br-->pourchasse. Voilà pourquoi je reste seul.|
+
+
+
+    |2|Même si je vis hors de toute communauté, <!--br-->je m'estime responsable de la sécurité <!--br-->d'un village qui m'accueille quand je viens <!--br-->commercer avec eux.|
+
+
+
+    |3|J'ai tout quitté à cause d'un scandale terrible. <!--br-->Mais ceux que j'aime restent dans mon coeur à <!--br-->chaque instant.|
+
+
+
+    |4|J'ai vécu un événement traumatisant. Il m'a <!--br-->tant marqué que je reste seul, de peur d'en <!--br-->infliger les conséquences aux autres.|
+
+
+
+    |5|J'ai été soldat autrefois. Je ne reverrai jamais <!--br-->les horreurs de la guerre.|
+
+
+
+    |6|Je me suis fixé comme mission de protéger <!--br-->les terres sauvages qui m'accueillent des <!--br-->déprédations des êtres dits civilisés.|
+
+
+
+  Table: >+
+
+    |d6|Lien|
+
+
+
+    |---|---|
+
+
+
+    |1|Je fuis une personne, ou un groupe, qui me <!--br-->pourchasse. Voilà pourquoi je reste seul.|
+
+
+
+    |2|Même si je vis hors de toute communauté, <!--br-->je m'estime responsable de la sécurité <!--br-->d'un village qui m'accueille quand je viens <!--br-->commercer avec eux.|
+
+
+
+    |3|J'ai tout quitté à cause d'un scandale terrible. <!--br-->Mais ceux que j'aime restent dans mon coeur à <!--br-->chaque instant.|
+
+
+
+    |4|J'ai vécu un événement traumatisant. Il m'a <!--br-->tant marqué que je reste seul, de peur d'en <!--br-->infliger les conséquences aux autres.|
+
+
+
+    |5|J'ai été soldat autrefois. Je ne reverrai jamais <!--br-->les horreurs de la guerre.|
+
+
+
+    |6|Je me suis fixé comme mission de protéger <!--br-->les terres sauvages qui m'accueillent des <!--br-->déprédations des êtres dits civilisés.|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_solitaire_personnalites_suggerees.md)

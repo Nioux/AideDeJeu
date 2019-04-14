@@ -1,14 +1,63 @@
 ﻿---
 !GenericItem
-Name: Assistants
-Source: (L5R p68)
 Id: l5r_rituals_hd.md#assistants
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: Assistants
 ParentName: Lancer un rituel
 NameLevel: 4
-Attributes: {}
+Source: (L5R p68)
+Attributes:
+  Name: Assistants
+  Markdown: >+
+    #### <!--Name-->Assistants<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p68)<!--/Source-->
+
+
+    Il peut arriver que certains rituels requièrent la présence d'assistants aux côtés de l'invocateur. Quand un rituel est proposé, dans ce livre ou ailleurs, le nombre d'assistants nécessaire est toujours indiqué dans sa description. Il s'agit d'acolytes ou même de foules psalmodiant ou priant à l'unisson.
+
+
+    Malgré la présence d'assistants, c'est toujours l'invocateur qui effectue les jets de compétence. Un assistant peut effectuer un jet de compétence à la place de l'invocateur uniquement s'il ne s'agit pas d'une compétence d'Intelligence. On choisira alors la personne la plus compétente pour le réaliser.
+
+
+    Avoir plus d'assistants que nécessaire ne change rien au rituel.
+
+  Source: (L5R p68)
 AttributesDictionary: >+
-  {}
+  Name: Assistants
+
+  Markdown: >+
+
+    #### <!--Name-->Assistants<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p68)<!--/Source-->
+
+
+
+
+
+    Il peut arriver que certains rituels requièrent la présence d'assistants aux côtés de l'invocateur. Quand un rituel est proposé, dans ce livre ou ailleurs, le nombre d'assistants nécessaire est toujours indiqué dans sa description. Il s'agit d'acolytes ou même de foules psalmodiant ou priant à l'unisson.
+
+
+
+
+
+    Malgré la présence d'assistants, c'est toujours l'invocateur qui effectue les jets de compétence. Un assistant peut effectuer un jet de compétence à la place de l'invocateur uniquement s'il ne s'agit pas d'une compétence d'Intelligence. On choisira alors la personne la plus compétente pour le réaliser.
+
+
+
+
+
+    Avoir plus d'assistants que nécessaire ne change rien au rituel.
+
+
+
+  Source: (L5R p68)
 
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

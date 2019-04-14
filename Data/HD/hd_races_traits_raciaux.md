@@ -1,15 +1,55 @@
 ﻿---
 !GenericItem
-Name: Traits raciaux
-AltName: Racial Traits
-Source: (MDR p36)(SRD p3)
 Id: races_hd.md#traits-raciaux
 ParentLink: races_hd.md#races
+Name: Traits raciaux
 ParentName: Races
 NameLevel: 3
-Attributes: {}
+AltName: Racial Traits
+Source: (MDR p36)(SRD p3)
+Attributes:
+  Name: Traits raciaux
+  Markdown: >+
+    ### <!--Name-->Traits raciaux<!--/Name-->
+
+
+    - SRD: <!--AltName-->Racial Traits<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p36)(SRD p3)<!--/Source-->
+
+
+    Chaque race possède des traits raciaux communs à tous ses membres. Vous pourrez trouver la terminologie suivante parmi les traits de la plupart des races.
+
+  AltName: Racial Traits
+  Source: (MDR p36)(SRD p3)
 AttributesDictionary: >+
-  {}
+  Name: Traits raciaux
+
+  Markdown: >+
+
+    ### <!--Name-->Traits raciaux<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->Racial Traits<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p36)(SRD p3)<!--/Source-->
+
+
+
+
+
+    Chaque race possède des traits raciaux communs à tous ses membres. Vous pourrez trouver la terminologie suivante parmi les traits de la plupart des races.
+
+
+
+  AltName: Racial Traits
+
+  Source: (MDR p36)(SRD p3)
 
 ---
 > [Races](hd_races.md)

@@ -10,9 +10,64 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Necklace of Adaptation (SRD p231)
 Source: (COC p160)
-Attributes: {}
+Attributes:
+  Name: Collier d'adaptation
+  Markdown: >+
+    ### <!--Name-->Collier d'adaptation<!--/Name-->
+
+
+    - AltName: <!--AltName-->Necklace of Adaptation (SRD p231)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p160)<!--/Source-->
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+    Tant que vous portez ce collier, vous pouvez respirer normalement quel que soit l'environnement dans lequel vous vous trouvez, et vous obtenez l'avantage lors des jets de sauvegarde contre les gaz et vapeurs toxiques (comme un nuage mortel ou un nuage puant, un poison par inhalation ou le souffle de certains dragons).
+
+  AltName: Necklace of Adaptation (SRD p231)
+  Source: (COC p160)
+  Type: Objet merveilleux
+  Rarity: peu courant
+  Attunement: harmonisation requise
 AttributesDictionary: >+
-  {}
+  Name: Collier d'adaptation
+
+  Markdown: >+
+
+    ### <!--Name-->Collier d'adaptation<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Necklace of Adaptation (SRD p231)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p160)<!--/Source-->
+
+
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+
+
+
+    Tant que vous portez ce collier, vous pouvez respirer normalement quel que soit l'environnement dans lequel vous vous trouvez, et vous obtenez l'avantage lors des jets de sauvegarde contre les gaz et vapeurs toxiques (comme un nuage mortel ou un nuage puant, un poison par inhalation ou le souffle de certains dragons).
+
+
+
+  AltName: Necklace of Adaptation (SRD p231)
+
+  Source: (COC p160)
+
+  Type: Objet merveilleux
+
+  Rarity: peu courant
+
+  Attunement: harmonisation requise
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

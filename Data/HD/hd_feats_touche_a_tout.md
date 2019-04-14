@@ -5,9 +5,55 @@ ParentLink: feats_hd.md#dons
 Name: Touche-à-tout
 ParentName: Dons
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: Touche-à-tout
+  Markdown: >+
+    ### <!--Name-->Touche-à-tout<!--/Name-->
+
+
+    Vos voyages et votre curiosité naturelle vous ont permis d'apprendre un peu de tout. Choisissez trois options parmi les quatre proposées ci-dessous, mais pas plus de deux fois la même.
+
+
+    * Vous obtenez la maîtrise d'une compétence.
+
+    * Vous obtenez la maîtrise d'une langue.
+
+    * Vous obtenez la maîtrise d'un ensemble d'outils.
+
+    * Vous obtenez la maîtrise d'un type de véhicules.
+
 AttributesDictionary: >+
-  {}
+  Name: Touche-à-tout
+
+  Markdown: >+
+
+    ### <!--Name-->Touche-à-tout<!--/Name-->
+
+
+
+
+
+    Vos voyages et votre curiosité naturelle vous ont permis d'apprendre un peu de tout. Choisissez trois options parmi les quatre proposées ci-dessous, mais pas plus de deux fois la même.
+
+
+
+
+
+    * Vous obtenez la maîtrise d'une compétence.
+
+
+
+    * Vous obtenez la maîtrise d'une langue.
+
+
+
+    * Vous obtenez la maîtrise d'un ensemble d'outils.
+
+
+
+    * Vous obtenez la maîtrise d'un type de véhicules.
+
+
 
 ---
 > [Dons](hd_feats.md)

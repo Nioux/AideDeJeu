@@ -8,9 +8,73 @@ RootId: barbarian_hd.md
 ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Classes](hd_classes.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Barbare<!--/Name-->
+
+
+    - AltName: <!--AltName-->Barbarian (SRD p8)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p114)<!--/Source-->
+
+
+    En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
+
+  Name: Barbare
+  AltName: Barbarian (SRD p8)
+  Source: (MDR p114)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Classes](hd_classes.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Barbare<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Barbarian (SRD p8)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p114)<!--/Source-->
+
+
+
+
+
+    En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
+
+
+
+  Name: Barbare
+
+  AltName: Barbarian (SRD p8)
+
+  Source: (MDR p114)
 
 ---
 >  [Classes](hd_classes.md)

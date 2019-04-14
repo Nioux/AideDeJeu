@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Outils de forgeron
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Outils de forgeron
+  Markdown: >+
+    # <!--Name-->Outils de forgeron<!--/Name-->
+
+
+    - **Type** <!--Type-->Outil d'artisan<!--/Type-->
+
+    - **Prix** <!--Price-->20 po<!--/Price-->
+
+    - **Poids** <!--Weight-->4 kg<!--/Weight-->
+
+  Type: Outil d'artisan
+  Price: 20 po
+  Weight: 4 kg
 AttributesDictionary: >+
-  {}
+  Name: Outils de forgeron
+
+  Markdown: >+
+
+    # <!--Name-->Outils de forgeron<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Outil d'artisan<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->20 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->4 kg<!--/Weight-->
+
+
+
+  Type: Outil d'artisan
+
+  Price: 20 po
+
+  Weight: 4 kg
 
 ---
 > [Équipement](hd_equipment.md)

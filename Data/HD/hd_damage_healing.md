@@ -8,9 +8,73 @@ ParentName: Gérer la santé
 NameLevel: 2
 AltName: Damage and Healing
 Source: (MDR p298)(SRD p96)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Gérer la santé](hd_manage_health.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Gérer la santé](hd_manage_health.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    ## <!--Name-->Dégâts et guérison <!--/Name-->
+
+
+    - AltName: <!--AltName-->Damage and Healing<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p298)(SRD p96)<!--/Source-->
+
+
+    Dans l’univers fantastique de Héros & Dragons, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d’un dragon, les griffes d’un troll, le poison d’un ennemi, un carreau d’arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
+
+  Name: 'Dégâts et guérison '
+  AltName: Damage and Healing
+  Source: (MDR p298)(SRD p96)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Gérer la santé](hd_manage_health.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Gérer la santé](hd_manage_health.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    ## <!--Name-->Dégâts et guérison <!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Damage and Healing<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p298)(SRD p96)<!--/Source-->
+
+
+
+
+
+    Dans l’univers fantastique de Héros & Dragons, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d’un dragon, les griffes d’un troll, le poison d’un ennemi, un carreau d’arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
+
+
+
+  Name: 'Dégâts et guérison '
+
+  AltName: Damage and Healing
+
+  Source: (MDR p298)(SRD p96)
 
 ---
 >  [Gérer la santé](hd_manage_health.md)

@@ -24,9 +24,259 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Gnome des profondeurs (svirfneblin)
+  Markdown: >+
+    # <!--Name-->Gnome des profondeurs (svirfneblin)<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)<!--/AltName-->
+
+    -  <!--Type-->Humanoïde (gnome)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->16 (3d6+6)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->14 (+2)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 9 (-1)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Investigation](hd_abilities_intelligence_investigation.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+    - **Langues** <!--Languages-->commun des profondeurs, gnome, terreux<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Camouflage dans la rocaille._** Le gnome obtient un avantage lors des tests de [Dextérité (Discrétion)](hd_abilities_dexterity_discretion.md) effectués pour se cacher dans des environnements rocailleux.
+
+
+    **_Incantation innée._** La caractéristique d'incantation innée du gnome est l'[Intelligence](hd_abilities_intelligence.md) (DD du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts 11). Le gnome peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+
+
+    * **À volonté :** _[non-détection](hd_spells_non_detection.md)_ (soi-même uniquement)
+
+
+    * **1/jour chacun :** _[cécité/surdité](hd_spells_cecitesurdite.md)_, _[déguisement](hd_spells_deguisement.md)_, _[flou](hd_spells_flou.md)_
+
+
+    **_Ruse gnome._** Le gnome obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d'[Intelligence](hd_abilities_intelligence.md), de [Sagesse](hd_abilities_wisdom.md) et de [Charisme](hd_abilities_charisma.md) contre la magie.
+
+
+    ## Actions
+
+
+    **_Fléchette empoisonnée._** Attaque d'arme à distance : +4 pour toucher, portée 9/36 m, une créature.
+
+
+    _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 12 pour ne pas être [empoisonnée](hd_conditions_empoisonne.md) pendant 1 minute. La cible peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+
+
+    **_Pic de guerre._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 6 (1d8+2) dégâts perforants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
+  Type: Humanoïde (gnome)
+  Size: P
+  Alignment: Neutre Bon
+  ArmorClass: 15 (chemise de mailles)
+  HitPoints: 16 (3d6+6)
+  Speed: 6 m
+  Strength: 15 (+2)
+  Dexterity: 14 (+2)
+  Constitution: 14 (+2)
+  Intelligence: 12 (+1)
+  Wisdom: 10 (+0)
+  Charisma: ' 9 (-1)'
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Investigation](hd_abilities_intelligence_investigation.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: commun des profondeurs, gnome, terreux
+  Challenge: 1/2 (100 PX)
 AttributesDictionary: >+
-  {}
+  Name: Gnome des profondeurs (svirfneblin)
+
+  Markdown: >+
+
+    # <!--Name-->Gnome des profondeurs (svirfneblin)<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Humanoïde (gnome)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->16 (3d6+6)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->14 (+2)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 9 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Investigation](hd_abilities_intelligence_investigation.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->commun des profondeurs, gnome, terreux<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Camouflage dans la rocaille._** Le gnome obtient un avantage lors des tests de [Dextérité (Discrétion)](hd_abilities_dexterity_discretion.md) effectués pour se cacher dans des environnements rocailleux.
+
+
+
+
+
+    **_Incantation innée._** La caractéristique d'incantation innée du gnome est l'[Intelligence](hd_abilities_intelligence.md) (DD du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts 11). Le gnome peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+
+
+
+
+
+    * **À volonté :** _[non-détection](hd_spells_non_detection.md)_ (soi-même uniquement)
+
+
+
+
+
+    * **1/jour chacun :** _[cécité/surdité](hd_spells_cecitesurdite.md)_, _[déguisement](hd_spells_deguisement.md)_, _[flou](hd_spells_flou.md)_
+
+
+
+
+
+    **_Ruse gnome._** Le gnome obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d'[Intelligence](hd_abilities_intelligence.md), de [Sagesse](hd_abilities_wisdom.md) et de [Charisme](hd_abilities_charisma.md) contre la magie.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Fléchette empoisonnée._** Attaque d'arme à distance : +4 pour toucher, portée 9/36 m, une créature.
+
+
+
+
+
+    _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 12 pour ne pas être [empoisonnée](hd_conditions_empoisonne.md) pendant 1 minute. La cible peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+
+
+
+
+
+    **_Pic de guerre._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 6 (1d8+2) dégâts perforants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
+
+  Type: Humanoïde (gnome)
+
+  Size: P
+
+  Alignment: Neutre Bon
+
+  ArmorClass: 15 (chemise de mailles)
+
+  HitPoints: 16 (3d6+6)
+
+  Speed: 6 m
+
+  Strength: 15 (+2)
+
+  Dexterity: 14 (+2)
+
+  Constitution: 14 (+2)
+
+  Intelligence: 12 (+1)
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 9 (-1)'
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Investigation](hd_abilities_intelligence_investigation.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2'
+
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+
+  Languages: commun des profondeurs, gnome, terreux
+
+  Challenge: 1/2 (100 PX)
 
 ---
 > [Créatures](hd_monsters.md)

@@ -1,13 +1,65 @@
 ﻿---
 !GenericItem
-Name: Communication
 Id: sentient_magicitems_hd.md#communication
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
+Name: Communication
 ParentName: Objets magiques intelligents
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Communication
+  Markdown: >+
+    ##### <!--Name-->Communication<!--/Name-->
+
+
+    Un objet intelligent peut communiquer d'une façon une d'une autre, que ce soit en partageant ses émotions, en diffusant ses pensées par télépathie ou en parlant à voix haute. Choisissez la façon employée par l'objet pour communiquer ou déterminez la au hasard grâce à la table page suivante.
+
+
+    |d100|Communication|
+
+    |---|---|
+
+    |01-60|L'objet communique par le biais d'émotions qu'il <!--br-->fait ressentir à la personne qui le porte ou le manie.|
+
+    |61-90|L'objet parle, lit et comprend une ou plusieurs <!--br-->langues.|
+
+    |91-00|L'objet parle, lit et comprend une ou plusieurs <!--br-->langues. De plus, il peut communiquer par <!--br-->télépathie avec la créature qui le porte ou le manie.|
+
 AttributesDictionary: >+
-  {}
+  Name: Communication
+
+  Markdown: >+
+
+    ##### <!--Name-->Communication<!--/Name-->
+
+
+
+
+
+    Un objet intelligent peut communiquer d'une façon une d'une autre, que ce soit en partageant ses émotions, en diffusant ses pensées par télépathie ou en parlant à voix haute. Choisissez la façon employée par l'objet pour communiquer ou déterminez la au hasard grâce à la table page suivante.
+
+
+
+
+
+    |d100|Communication|
+
+
+
+    |---|---|
+
+
+
+    |01-60|L'objet communique par le biais d'émotions qu'il <!--br-->fait ressentir à la personne qui le porte ou le manie.|
+
+
+
+    |61-90|L'objet parle, lit et comprend une ou plusieurs <!--br-->langues.|
+
+
+
+    |91-00|L'objet parle, lit et comprend une ou plusieurs <!--br-->langues. De plus, il peut communiquer par <!--br-->télépathie avec la créature qui le porte ou le manie.|
+
+
 
 ---
 > [Objets magiques intelligents](hd_sentient_magicitems.md)

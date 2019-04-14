@@ -9,9 +9,82 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Ring of Animal Influence (SRD p235)
 Source: (COC p142)
-Attributes: {}
+Attributes:
+  Name: Anneau d'influence animale
+  Markdown: >+
+    ### <!--Name-->Anneau d'influence animale<!--/Name-->
+
+
+    - AltName: <!--AltName-->Ring of Animal Influence (SRD p235)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p142)<!--/Source-->
+
+    -  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
+
+
+    Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube. Tant que vous portez l'anneau au doigt, vous pouvez utiliser une action pour dépenser 1 de ses charges et lancer un des sorts suivants :
+
+
+    * Amitié avec les animaux (DD des jets de sauvegarde contre le sort 13)
+
+    * Peur (DD des jets de sauvegarde contre le sort 13). Seules les bêtes dotées d'une Intelligence de 3 ou moins peuvent être ciblées par ce sort.
+
+    * Communication avec les animaux
+
+  AltName: Ring of Animal Influence (SRD p235)
+  Source: (COC p142)
+  Type: Anneau
+  Rarity: rare
 AttributesDictionary: >+
-  {}
+  Name: Anneau d'influence animale
+
+  Markdown: >+
+
+    ### <!--Name-->Anneau d'influence animale<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Ring of Animal Influence (SRD p235)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p142)<!--/Source-->
+
+
+
+    -  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
+
+
+
+
+
+    Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube. Tant que vous portez l'anneau au doigt, vous pouvez utiliser une action pour dépenser 1 de ses charges et lancer un des sorts suivants :
+
+
+
+
+
+    * Amitié avec les animaux (DD des jets de sauvegarde contre le sort 13)
+
+
+
+    * Peur (DD des jets de sauvegarde contre le sort 13). Seules les bêtes dotées d'une Intelligence de 3 ou moins peuvent être ciblées par ce sort.
+
+
+
+    * Communication avec les animaux
+
+
+
+  AltName: Ring of Animal Influence (SRD p235)
+
+  Source: (COC p142)
+
+  Type: Anneau
+
+  Rarity: rare
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

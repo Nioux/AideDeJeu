@@ -22,9 +22,121 @@ ParentLink: background_brigand_hd.md#personnalités-suggérées
 Name: Défaut
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Défaut
+  Markdown: >+
+    ##### <!--Name-->Défaut<!--/Name-->
+
+
+    |d6|Défaut|
+
+    |---|---|
+
+    |1|Je ne pardonne jamais une offense ou une <!--br-->trahison.|
+
+    |2|Par ignorance ou par mépris des conventions, <!--br-->j'apparais souvent comme un rustre.|
+
+    |3|J'ai tendance à penser que ma solution est <!--br-->toujours la meilleure.|
+
+    |4|Je parle souvent avant de réfléchir.|
+
+    |5|Je n'accorde aucun crédit aux citadins et aux <!--br-->nantis.|
+
+    |6|J'ai une confiance excessive en mes propres <!--br-->capacités.|
+
+  Table: >+
+    |d6|Défaut|
+
+    |---|---|
+
+    |1|Je ne pardonne jamais une offense ou une <!--br-->trahison.|
+
+    |2|Par ignorance ou par mépris des conventions, <!--br-->j'apparais souvent comme un rustre.|
+
+    |3|J'ai tendance à penser que ma solution est <!--br-->toujours la meilleure.|
+
+    |4|Je parle souvent avant de réfléchir.|
+
+    |5|Je n'accorde aucun crédit aux citadins et aux <!--br-->nantis.|
+
+    |6|J'ai une confiance excessive en mes propres <!--br-->capacités.|
+
 AttributesDictionary: >+
-  {}
+  Name: Défaut
+
+  Markdown: >+
+
+    ##### <!--Name-->Défaut<!--/Name-->
+
+
+
+
+
+    |d6|Défaut|
+
+
+
+    |---|---|
+
+
+
+    |1|Je ne pardonne jamais une offense ou une <!--br-->trahison.|
+
+
+
+    |2|Par ignorance ou par mépris des conventions, <!--br-->j'apparais souvent comme un rustre.|
+
+
+
+    |3|J'ai tendance à penser que ma solution est <!--br-->toujours la meilleure.|
+
+
+
+    |4|Je parle souvent avant de réfléchir.|
+
+
+
+    |5|Je n'accorde aucun crédit aux citadins et aux <!--br-->nantis.|
+
+
+
+    |6|J'ai une confiance excessive en mes propres <!--br-->capacités.|
+
+
+
+  Table: >+
+
+    |d6|Défaut|
+
+
+
+    |---|---|
+
+
+
+    |1|Je ne pardonne jamais une offense ou une <!--br-->trahison.|
+
+
+
+    |2|Par ignorance ou par mépris des conventions, <!--br-->j'apparais souvent comme un rustre.|
+
+
+
+    |3|J'ai tendance à penser que ma solution est <!--br-->toujours la meilleure.|
+
+
+
+    |4|Je parle souvent avant de réfléchir.|
+
+
+
+    |5|Je n'accorde aucun crédit aux citadins et aux <!--br-->nantis.|
+
+
+
+    |6|J'ai une confiance excessive en mes propres <!--br-->capacités.|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_brigand_personnalites_suggerees.md)

@@ -10,9 +10,109 @@ ParentLink: backgrounds_hd.md
 Name: Explorateur
 ParentName: Historique
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Explorateur<!--/Name-->
+
+
+    Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côté de la prochaine forêt, de la prochaine chaîne de montagnes ou du prochain désert. L'aventure passait pour vous par le voyage et le fait de repousser sans cesse les limites connues. Vous avez maintes fois mis votre vie en danger : les rudesses du climat, les animaux sauvages ou les créatures qui hantent les abords du monde ont été vos fidèles ennemis.
+
+
+    **Compétences :** <!--Abilities-->Athlétisme, Survie.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+    **Équipement :** <!--Equipment-->Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15 m), bourse contenant 15 po.<!--/Equipment-->
+
+  Name: Explorateur
+  Description: >+
+    Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côté de la prochaine forêt, de la prochaine chaîne de montagnes ou du prochain désert. L'aventure passait pour vous par le voyage et le fait de repousser sans cesse les limites connues. Vous avez maintes fois mis votre vie en danger : les rudesses du climat, les animaux sauvages ou les créatures qui hantent les abords du monde ont été vos fidèles ennemis.
+
+  Abilities: Athlétisme, Survie.
+  MasteredTools: Véhicules (terrestres).
+  MasteredLanguages: Une langue au choix.
+  Equipment: Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15 m), bourse contenant 15 po.
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Explorateur<!--/Name-->
+
+
+
+
+
+    Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côté de la prochaine forêt, de la prochaine chaîne de montagnes ou du prochain désert. L'aventure passait pour vous par le voyage et le fait de repousser sans cesse les limites connues. Vous avez maintes fois mis votre vie en danger : les rudesses du climat, les animaux sauvages ou les créatures qui hantent les abords du monde ont été vos fidèles ennemis.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Athlétisme, Survie.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
+
+
+
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15 m), bourse contenant 15 po.<!--/Equipment-->
+
+
+
+  Name: Explorateur
+
+  Description: >+
+
+    Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côté de la prochaine forêt, de la prochaine chaîne de montagnes ou du prochain désert. L'aventure passait pour vous par le voyage et le fait de repousser sans cesse les limites connues. Vous avez maintes fois mis votre vie en danger : les rudesses du climat, les animaux sauvages ou les créatures qui hantent les abords du monde ont été vos fidèles ennemis.
+
+
+
+  Abilities: Athlétisme, Survie.
+
+  MasteredTools: Véhicules (terrestres).
+
+  MasteredLanguages: Une langue au choix.
+
+  Equipment: Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15 m), bourse contenant 15 po.
 
 Description: >+
   Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côté de la prochaine forêt, de la prochaine chaîne de montagnes ou du prochain désert. L'aventure passait pour vous par le voyage et le fait de repousser sans cesse les limites connues. Vous avez maintes fois mis votre vie en danger : les rudesses du climat, les animaux sauvages ou les créatures qui hantent les abords du monde ont été vos fidèles ennemis.

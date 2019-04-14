@@ -6,9 +6,19 @@ Id: backgrounds_hd.md#membre-de-guilde
 ParentLink: backgrounds_hd.md#historique
 Name: Membre de guilde
 ParentName: Historique
-Attributes: {}
+Attributes:
+  NameLink: '[Membre de guilde](hd_background_membredeguilde.md)'
+  Markdown: >+
+    # <!--NameLink-->[Membre de guilde](hd_background_membredeguilde.md)<!--/NameLink-->
+
 AttributesDictionary: >+
-  {}
+  NameLink: '[Membre de guilde](hd_background_membredeguilde.md)'
+
+  Markdown: >+
+
+    # <!--NameLink-->[Membre de guilde](hd_background_membredeguilde.md)<!--/NameLink-->
+
+
 
 ---
 

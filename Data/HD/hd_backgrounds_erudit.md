@@ -6,9 +6,19 @@ Id: backgrounds_hd.md#Érudit
 ParentLink: backgrounds_hd.md#historique
 Name: Érudit
 ParentName: Historique
-Attributes: {}
+Attributes:
+  NameLink: '[Érudit](hd_background_erudit.md)'
+  Markdown: >+
+    # <!--NameLink-->[Érudit](hd_background_erudit.md)<!--/NameLink-->
+
 AttributesDictionary: >+
-  {}
+  NameLink: '[Érudit](hd_background_erudit.md)'
+
+  Markdown: >+
+
+    # <!--NameLink-->[Érudit](hd_background_erudit.md)<!--/NameLink-->
+
+
 
 ---
 

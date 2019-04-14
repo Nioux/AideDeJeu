@@ -16,9 +16,148 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Gentle Repose](srd_spells_gentle_repose.md)'
 Source: (MDR p349)(SRD)
-Attributes: {}
+Attributes:
+  Name: Doux repos
+  Markdown: >+
+    # <!--Name-->Doux repos<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Gentle Repose](srd_spells_gentle_repose.md)<!--/AltName-->
+
+
+    -  <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->2<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->10 jours<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p349)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Vous touchez un cadavre ou des restes. Pendant toute la durée du sort, la cible est protégée contre la décomposition et ne peut pas se transformer en mort-vivant.
+
+
+    Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d'entre les morts, car les jours passés sous l'influence de ce sort ne sont pas décomptés de la période pendant laquelle on peut utiliser des sorts comme rappel à la vie.
+
+  AltName: '[Gentle Repose](srd_spells_gentle_repose.md)'
+  Type: Nécromancie
+  Level: 2
+  Ritual: rituel
+  CastingTime: 1 action
+  Range: contact
+  Components: V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
+  Duration: 10 jours
+  Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
+  Source: (MDR p349)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Doux repos
+
+  Markdown: >+
+
+    # <!--Name-->Doux repos<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Gentle Repose](srd_spells_gentle_repose.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->2<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->10 jours<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p349)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Vous touchez un cadavre ou des restes. Pendant toute la durée du sort, la cible est protégée contre la décomposition et ne peut pas se transformer en mort-vivant.
+
+
+
+
+
+    Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d'entre les morts, car les jours passés sous l'influence de ce sort ne sont pas décomptés de la période pendant laquelle on peut utiliser des sorts comme rappel à la vie.
+
+
+
+  AltName: '[Gentle Repose](srd_spells_gentle_repose.md)'
+
+  Type: Nécromancie
+
+  Level: 2
+
+  Ritual: rituel
+
+  CastingTime: 1 action
+
+  Range: contact
+
+  Components: V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
+
+  Duration: 10 jours
+
+  Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
+
+  Source: (MDR p349)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

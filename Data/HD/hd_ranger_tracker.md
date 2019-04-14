@@ -7,9 +7,64 @@ RootId: ranger_tracker_hd.md
 ParentLink: ranger_hd.md#archétypes-de-rôdeurs
 ParentName: Archétypes de rôdeur
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Traqueur<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p199)<!--/Source-->
+
+
+    Le traqueur est un habitant des terres sauvages qui compte sur sa connaissance du terrain pour chasser, piéger et tuer ses proies. Protecteur du royaume, chasseur de primes ou trappeur en milieu hostile, il connaît parfaitement le terrain et il est sans égal lorsqu'il s'agit de trouver et d'éliminer des adversaires sur son terrain de prédilection.
+
+  Name: Traqueur
+  Source: (MDR p199)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Traqueur<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p199)<!--/Source-->
+
+
+
+
+
+    Le traqueur est un habitant des terres sauvages qui compte sur sa connaissance du terrain pour chasser, piéger et tuer ses proies. Protecteur du royaume, chasseur de primes ou trappeur en milieu hostile, il connaît parfaitement le terrain et il est sans égal lorsqu'il s'agit de trouver et d'éliminer des adversaires sur son terrain de prédilection.
+
+
+
+  Name: Traqueur
+
+  Source: (MDR p199)
 
 ---
 >  [Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)

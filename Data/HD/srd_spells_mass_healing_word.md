@@ -15,9 +15,124 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)'
 Source: (SRD p163)
-Attributes: {}
+Attributes:
+  Name: Mass Healing Word
+  Markdown: >+
+    # <!--Name-->Mass Healing Word<!--/Name-->
+
+
+    - MDR: <!--AltName-->[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p163)<!--/Source-->
+
+    -  <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+
+    - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
+
+    - **Range :** <!--Range-->60 feet<!--/Range-->
+
+    - **Components :** <!--Components-->V<!--/Components-->
+
+    - **Duration :** <!--Duration-->Instantaneous<!--/Duration-->
+
+    - Classes: <!--Classes-->Cleric<!--/Classes-->
+
+
+    ### Description
+
+
+    As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+
+    **_At Higher Levels_**. When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
+
+  AltName: '[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)'
+  Source: (SRD p163)
+  Level: 3
+  Type: evocation
+  CastingTime: 1 bonus action
+  Range: 60 feet
+  Components: V
+  Duration: Instantaneous
+  Classes: Cleric
 AttributesDictionary: >+
-  {}
+  Name: Mass Healing Word
+
+  Markdown: >+
+
+    # <!--Name-->Mass Healing Word<!--/Name-->
+
+
+
+
+
+    - MDR: <!--AltName-->[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p163)<!--/Source-->
+
+
+
+    -  <!--Level-->3<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+
+
+
+    - **Casting Time :** <!--CastingTime-->1 bonus action<!--/CastingTime-->
+
+
+
+    - **Range :** <!--Range-->60 feet<!--/Range-->
+
+
+
+    - **Components :** <!--Components-->V<!--/Components-->
+
+
+
+    - **Duration :** <!--Duration-->Instantaneous<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->Cleric<!--/Classes-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+
+
+
+
+    **_At Higher Levels_**. When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
+
+
+
+  AltName: '[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)'
+
+  Source: (SRD p163)
+
+  Level: 3
+
+  Type: evocation
+
+  CastingTime: 1 bonus action
+
+  Range: 60 feet
+
+  Components: V
+
+  Duration: Instantaneous
+
+  Classes: Cleric
 
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -1,13 +1,32 @@
 ﻿---
 !GenericItem
-Name: Discrétion
 Id: abilities_dexterity_hd.md#discrétion
 ParentLink: abilities_dexterity_hd.md#dextérité
+Name: Discrétion
 ParentName: Dextérité
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: Discrétion
+  Markdown: >+
+    ### <!--Name-->Discrétion<!--/Name-->
+
+
+    Faites un test de [Dextérité (Discrétion)](hd_abilities_dexterity_discretion.md) quand vous tentez de vous cacher à l'approche de vos ennemis, de vous faufiler discrètement à côté de gardes, de quitter un endroit sans vous faire remarquer ou de vous approcher de quelqu'un sans vous faire voir ou entendre.
+
 AttributesDictionary: >+
-  {}
+  Name: Discrétion
+
+  Markdown: >+
+
+    ### <!--Name-->Discrétion<!--/Name-->
+
+
+
+
+
+    Faites un test de [Dextérité (Discrétion)](hd_abilities_dexterity_discretion.md) quand vous tentez de vous cacher à l'approche de vos ennemis, de vous faufiler discrètement à côté de gardes, de quitter un endroit sans vous faire remarquer ou de vous approcher de quelqu'un sans vous faire voir ou entendre.
+
+
 
 ---
 > [Dextérité](hd_abilities_dexterity.md)

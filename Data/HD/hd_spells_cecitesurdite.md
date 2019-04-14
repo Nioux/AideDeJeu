@@ -15,9 +15,154 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Blindness/Deafness](srd_spells_blindnessdeafness.md)'
 Source: (MDR p331)(SRD)
-Attributes: {}
+Attributes:
+  Name: Cécité/surdité
+  Markdown: >+
+    # <!--Name-->Cécité/surdité<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Blindness/Deafness](srd_spells_blindnessdeafness.md)<!--/AltName-->
+
+
+    -  <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->9 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->1 minute<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p331)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Vous pouvez rendre un ennemi sourd ou aveugle.
+
+
+    Choisissez une créature autre que vous qui se situe à portée et dans votre champ de vision. Elle doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md). Si elle échoue, elle est soit [aveuglée](hd_conditions_aveugle.md), soit [assourdie](hd_conditions_assourdi.md) (à vous de choisir) pendant toute la durée du sort. Elle a droit à un nouveau [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) à la fin de chacun de ses tours, le sort se terminant si elle le réussit.
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 2.
+
+  AltName: '[Blindness/Deafness](srd_spells_blindnessdeafness.md)'
+  Type: Nécromancie
+  Level: 2
+  CastingTime: 1 action
+  Range: 9 mètres
+  Components: V
+  Duration: 1 minute
+  Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+  Source: (MDR p331)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Cécité/surdité
+
+  Markdown: >+
+
+    # <!--Name-->Cécité/surdité<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Blindness/Deafness](srd_spells_blindnessdeafness.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->9 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->1 minute<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p331)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Vous pouvez rendre un ennemi sourd ou aveugle.
+
+
+
+
+
+    Choisissez une créature autre que vous qui se situe à portée et dans votre champ de vision. Elle doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md). Si elle échoue, elle est soit [aveuglée](hd_conditions_aveugle.md), soit [assourdie](hd_conditions_assourdi.md) (à vous de choisir) pendant toute la durée du sort. Elle a droit à un nouveau [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) à la fin de chacun de ses tours, le sort se terminant si elle le réussit.
+
+
+
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 2.
+
+
+
+  AltName: '[Blindness/Deafness](srd_spells_blindnessdeafness.md)'
+
+  Type: Nécromancie
+
+  Level: 2
+
+  CastingTime: 1 action
+
+  Range: 9 mètres
+
+  Components: V
+
+  Duration: 1 minute
+
+  Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+
+  Source: (MDR p331)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

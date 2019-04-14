@@ -9,9 +9,85 @@ ParentLink: background_primitif_hd.md#primitif
 Name: 'Variante : Homme-médecine'
 ParentName: Primitif
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Homme-médecine'
+  Markdown: >+
+    ### <!--Name-->Variante : Homme-médecine<!--/Name-->
+
+
+    Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isolé, à reconnaître les plantes et leurs propriétés parfois miraculeuses. Vous avez vite compris la valeur de votre savoir. Vous avez toujours eu un rôle-clef dans la vie du clan, à la fois médical et spirituel.
+
+
+    **Compétences :** <!--Abilities-->Médecine, Nature.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste.<!--/MasteredTools-->
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+    **Équipement :** <!--Equipment-->Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.<!--/Equipment-->
+
+  Description: >+
+    Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isolé, à reconnaître les plantes et leurs propriétés parfois miraculeuses. Vous avez vite compris la valeur de votre savoir. Vous avez toujours eu un rôle-clef dans la vie du clan, à la fois médical et spirituel.
+
+  Abilities: Médecine, Nature.
+  MasteredTools: Matériel d'herboriste.
+  MasteredLanguages: Une langue au choix.
+  Equipment: Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Homme-médecine'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Homme-médecine<!--/Name-->
+
+
+
+
+
+    Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isolé, à reconnaître les plantes et leurs propriétés parfois miraculeuses. Vous avez vite compris la valeur de votre savoir. Vous avez toujours eu un rôle-clef dans la vie du clan, à la fois médical et spirituel.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Médecine, Nature.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste.<!--/MasteredTools-->
+
+
+
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isolé, à reconnaître les plantes et leurs propriétés parfois miraculeuses. Vous avez vite compris la valeur de votre savoir. Vous avez toujours eu un rôle-clef dans la vie du clan, à la fois médical et spirituel.
+
+
+
+  Abilities: Médecine, Nature.
+
+  MasteredTools: Matériel d'herboriste.
+
+  MasteredLanguages: Une langue au choix.
+
+  Equipment: Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.
 
 Description: >+
   Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isolé, à reconnaître les plantes et leurs propriétés parfois miraculeuses. Vous avez vite compris la valeur de votre savoir. Vous avez toujours eu un rôle-clef dans la vie du clan, à la fois médical et spirituel.

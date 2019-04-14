@@ -23,9 +23,259 @@ Name: Sahuagin
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Sahuagin](hd_monsters_sahuagin.md)'
-Attributes: {}
+Attributes:
+  Name: Sahuagin
+  Markdown: >+
+    # <!--Name-->Sahuagin<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Sahuagin](hd_monsters_sahuagin.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (sahuagin)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft., swim 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma--> 9 (-1)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +5<!--/Skills-->
+
+    - **Senses** <!--Senses-->darkvision 120 ft., passive Perception 15<!--/Senses-->
+
+    - **Languages** <!--Languages-->Sahuagin<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/2 (100 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Blood Frenzy_**. The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+
+
+    **_Limited Amphibiousness_**. The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+
+
+    **_Shark Telepathy_**. The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
+
+
+    **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 3 (1d4 + 1) piercing damage.
+
+
+    **_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 3 (1d4 + 1) slashing damage.
+
+
+    **_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+
+    _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+
+  AltName: '[Sahuagin](hd_monsters_sahuagin.md)'
+  Size: Medium
+  Type: humanoid (sahuagin)
+  Alignment: lawful evil
+  ArmorClass: 12 (natural armor)
+  HitPoints: 22 (4d8 + 4)
+  Speed: 30 ft., swim 40 ft.
+  Strength: 13 (+1)
+  Dexterity: 11 (+0)
+  Constitution: 12 (+1)
+  Intelligence: 12 (+1)
+  Wisdom: 13 (+1)
+  Charisma: ' 9 (-1)'
+  Skills: Perception +5
+  Senses: darkvision 120 ft., passive Perception 15
+  Languages: Sahuagin
+  Challenge: 1/2 (100 XP)
 AttributesDictionary: >+
-  {}
+  Name: Sahuagin
+
+  Markdown: >+
+
+    # <!--Name-->Sahuagin<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Sahuagin](hd_monsters_sahuagin.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (sahuagin)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft., swim 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma--> 9 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +5<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 120 ft., passive Perception 15<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Sahuagin<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/2 (100 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Blood Frenzy_**. The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+
+
+
+
+
+    **_Limited Amphibiousness_**. The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+
+
+
+
+
+    **_Shark Telepathy_**. The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 3 (1d4 + 1) piercing damage.
+
+
+
+
+
+    **_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 3 (1d4 + 1) slashing damage.
+
+
+
+
+
+    **_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+
+
+
+
+    _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+
+
+
+  AltName: '[Sahuagin](hd_monsters_sahuagin.md)'
+
+  Size: Medium
+
+  Type: humanoid (sahuagin)
+
+  Alignment: lawful evil
+
+  ArmorClass: 12 (natural armor)
+
+  HitPoints: 22 (4d8 + 4)
+
+  Speed: 30 ft., swim 40 ft.
+
+  Strength: 13 (+1)
+
+  Dexterity: 11 (+0)
+
+  Constitution: 12 (+1)
+
+  Intelligence: 12 (+1)
+
+  Wisdom: 13 (+1)
+
+  Charisma: ' 9 (-1)'
+
+  Skills: Perception +5
+
+  Senses: darkvision 120 ft., passive Perception 15
+
+  Languages: Sahuagin
+
+  Challenge: 1/2 (100 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

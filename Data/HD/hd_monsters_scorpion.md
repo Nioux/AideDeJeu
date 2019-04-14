@@ -23,9 +23,178 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Scorpion](srd_monsters_scorpion.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Scorpion
+  Markdown: >+
+    # <!--Name-->Scorpion<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Scorpion](srd_monsters_scorpion.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->3 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 2 (-4)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution--> 8 (-1)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 8 (-1)<!--/Wisdom-->|<!--Charisma--> 2 (-4)<!--/Charisma-->|
+
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->0 (10 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Dard._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature.
+
+
+    _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 9. Elle subit 4 (1d8) dégâts de poison en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Scorpion](srd_monsters_scorpion.md)'
+  Type: Bête
+  Size: TP
+  Alignment: non-alignée
+  ArmorClass: 11 (armure naturelle)
+  HitPoints: 1 (1d4-1)
+  Speed: 3 m
+  Strength: ' 2 (-4)'
+  Dexterity: 11 (+0)
+  Constitution: ' 8 (-1)'
+  Intelligence: ' 1 (-5)'
+  Wisdom: ' 8 (-1)'
+  Charisma: ' 2 (-4)'
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 0 (10 PX)
 AttributesDictionary: >+
-  {}
+  Name: Scorpion
+
+  Markdown: >+
+
+    # <!--Name-->Scorpion<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Scorpion](srd_monsters_scorpion.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->3 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 2 (-4)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution--> 8 (-1)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 8 (-1)<!--/Wisdom-->|<!--Charisma--> 2 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->0 (10 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Dard._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature.
+
+
+
+
+
+    _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 9. Elle subit 4 (1d8) dégâts de poison en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Scorpion](srd_monsters_scorpion.md)'
+
+  Type: Bête
+
+  Size: TP
+
+  Alignment: non-alignée
+
+  ArmorClass: 11 (armure naturelle)
+
+  HitPoints: 1 (1d4-1)
+
+  Speed: 3 m
+
+  Strength: ' 2 (-4)'
+
+  Dexterity: 11 (+0)
+
+  Constitution: ' 8 (-1)'
+
+  Intelligence: ' 1 (-5)'
+
+  Wisdom: ' 8 (-1)'
+
+  Charisma: ' 2 (-4)'
+
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+
+  Languages: —
+
+  Challenge: 0 (10 PX)
 
 ---
 > [Créatures](hd_monsters.md)

@@ -11,9 +11,76 @@ ParentLink: equipment_hd.md#Équipement
 Name: Arbalète lourde
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Arbalète lourde
+  Markdown: >+
+    # <!--Name-->Arbalète lourde<!--/Name-->
+
+
+    - **Type** <!--Type-->Arme à distance<!--/Type-->
+
+    - **Rareté** <!--Rarity-->De guerre<!--/Rarity-->
+
+    - **Prix** <!--Price-->50 po<!--/Price-->
+
+    - **Dégâts** <!--Damages-->1d10 perforant<!--/Damages-->
+
+    - **Poids** <!--Weight-->9 kg<!--/Weight-->
+
+    - **Propriétés** <!--Properties-->[Munitions](hd_weapons_munitions.md) (portée 30/120), [lourde](hd_weapons_lourde.md), [chargement](hd_weapons_chargement.md), [à deux mains](hd_weapons_a_deux_mains.md)<!--/Properties-->
+
+  Type: Arme à distance
+  Rarity: De guerre
+  Price: 50 po
+  Damages: 1d10 perforant
+  Weight: 9 kg
+  Properties: '[Munitions](hd_weapons_munitions.md) (portée 30/120), [lourde](hd_weapons_lourde.md), [chargement](hd_weapons_chargement.md), [à deux mains](hd_weapons_a_deux_mains.md)'
 AttributesDictionary: >+
-  {}
+  Name: Arbalète lourde
+
+  Markdown: >+
+
+    # <!--Name-->Arbalète lourde<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Arme à distance<!--/Type-->
+
+
+
+    - **Rareté** <!--Rarity-->De guerre<!--/Rarity-->
+
+
+
+    - **Prix** <!--Price-->50 po<!--/Price-->
+
+
+
+    - **Dégâts** <!--Damages-->1d10 perforant<!--/Damages-->
+
+
+
+    - **Poids** <!--Weight-->9 kg<!--/Weight-->
+
+
+
+    - **Propriétés** <!--Properties-->[Munitions](hd_weapons_munitions.md) (portée 30/120), [lourde](hd_weapons_lourde.md), [chargement](hd_weapons_chargement.md), [à deux mains](hd_weapons_a_deux_mains.md)<!--/Properties-->
+
+
+
+  Type: Arme à distance
+
+  Rarity: De guerre
+
+  Price: 50 po
+
+  Damages: 1d10 perforant
+
+  Weight: 9 kg
+
+  Properties: '[Munitions](hd_weapons_munitions.md) (portée 30/120), [lourde](hd_weapons_lourde.md), [chargement](hd_weapons_chargement.md), [à deux mains](hd_weapons_a_deux_mains.md)'
 
 ---
 > [Équipement](hd_equipment.md)

@@ -7,9 +7,31 @@ ParentLink: classes_hd.md#classes
 Name: Rôdeur
 ParentName: Classes
 AltName: '[Ranger](#)'
-Attributes: {}
+Attributes:
+  NameLink: '[Rôdeur](hd_ranger.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Rôdeur](hd_ranger.md)<!--/NameLink-->
+
+
+    - AltName: <!--AltName-->[Ranger](#)<!--/AltName-->
+
+  AltName: '[Ranger](#)'
 AttributesDictionary: >+
-  {}
+  NameLink: '[Rôdeur](hd_ranger.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Rôdeur](hd_ranger.md)<!--/NameLink-->
+
+
+
+
+
+    - AltName: <!--AltName-->[Ranger](#)<!--/AltName-->
+
+
+
+  AltName: '[Ranger](#)'
 
 ---
 

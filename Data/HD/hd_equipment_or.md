@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Or
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Or
+  Markdown: >+
+    # <!--Name-->Or<!--/Name-->
+
+
+    - **Type** <!--Type-->Marchandise<!--/Type-->
+
+    - **Prix** <!--Price-->50 po<!--/Price-->
+
+    - **Unité** <!--Unity-->1 livre<!--/Unity-->
+
+  Type: Marchandise
+  Price: 50 po
+  Unity: 1 livre
 AttributesDictionary: >+
-  {}
+  Name: Or
+
+  Markdown: >+
+
+    # <!--Name-->Or<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Marchandise<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->50 po<!--/Price-->
+
+
+
+    - **Unité** <!--Unity-->1 livre<!--/Unity-->
+
+
+
+  Type: Marchandise
+
+  Price: 50 po
+
+  Unity: 1 livre
 
 ---
 > [Équipement](hd_equipment.md)

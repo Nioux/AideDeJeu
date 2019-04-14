@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Soie
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Soie
+  Markdown: >+
+    # <!--Name-->Soie<!--/Name-->
+
+
+    - **Type** <!--Type-->Marchandise<!--/Type-->
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+    - **Unité** <!--Unity-->1 m2<!--/Unity-->
+
+  Type: Marchandise
+  Price: 10 po
+  Unity: 1 m2
 AttributesDictionary: >+
-  {}
+  Name: Soie
+
+  Markdown: >+
+
+    # <!--Name-->Soie<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Marchandise<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+
+
+    - **Unité** <!--Unity-->1 m2<!--/Unity-->
+
+
+
+  Type: Marchandise
+
+  Price: 10 po
+
+  Unity: 1 m2
 
 ---
 > [Équipement](hd_equipment.md)

@@ -1,13 +1,59 @@
 ﻿---
 !GenericItem
-Name: Vigueur du printemps
 Id: druid_seasons_hd.md#vigueur-du-printemps
 ParentLink: druid_seasons_hd.md#cercle-des-saisons
+Name: Vigueur du printemps
 ParentName: Cercle des saisons
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Vigueur du printemps
+  Markdown: >+
+    ## <!--Name-->Vigueur du printemps<!--/Name-->
+
+
+    Au niveau 2, lorsque vous choisissez ce cercle, la vitalité et la jeunesse du printemps parcourent vos veines.
+
+
+    Lorsque vous terminez un repos long, vous réduisez votre niveau d'épuisement de deux niveaux au lieu d'un seul.
+
+
+    De plus, lorsque vous utilisez votre aptitude de forme sauvage, vous gagnez un nombre de points de vie temporaire égal au double de votre niveau de druide. Vous ne conservez pas ces points de vie lorsque vous reprenez votre forme normale.
+
+
+    Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.
+
 AttributesDictionary: >+
-  {}
+  Name: Vigueur du printemps
+
+  Markdown: >+
+
+    ## <!--Name-->Vigueur du printemps<!--/Name-->
+
+
+
+
+
+    Au niveau 2, lorsque vous choisissez ce cercle, la vitalité et la jeunesse du printemps parcourent vos veines.
+
+
+
+
+
+    Lorsque vous terminez un repos long, vous réduisez votre niveau d'épuisement de deux niveaux au lieu d'un seul.
+
+
+
+
+
+    De plus, lorsque vous utilisez votre aptitude de forme sauvage, vous gagnez un nombre de points de vie temporaire égal au double de votre niveau de druide. Vous ne conservez pas ces points de vie lorsque vous reprenez votre forme normale.
+
+
+
+
+
+    Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.
+
+
 
 ---
 > [Cercle des saisons](hd_druid_seasons.md)

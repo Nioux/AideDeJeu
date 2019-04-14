@@ -26,9 +26,250 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Élémentaire du feu
+  Markdown: >+
+    # <!--Name-->Élémentaire du feu<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Fire Elemental](srd_monsters_fire_elemental.md)<!--/AltName-->
+
+    -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->102 (12d10+36)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->15 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants infligés par des attaques non-magiques<!--/DamageResistances-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu et de poison<!--/DamageImmunities-->
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langue** <!--Languages-->ignée<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->5 (1 800 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Corps de feu._** L'élémentaire peut traverser un interstice d'une largeur minimale de 2 à 3 centimètres sans devoir se faufiler. Une créature qui touche l'élémentaire ou réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 5 (1d10) dégâts de feu. De plus, l'élémentaire peut entrer dans l'emplacement occupé par une créature hostile et s'y arrêter. La première fois qu'il entre dans un emplacement occupé par une créature lors d'un tour, celle-ci subit 5 (1d10) dégâts de feu et prend feu. Elle subit 5 (1d10) dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.
+
+
+    **_Illumination._** L'élémentaire diffuse une lumière vive sur un rayon de 9 mètres et une faible lumière sur un rayon de 9 mètres supplémentaires.
+
+
+    **_Vulnérabilité à l'eau._** Si l'élémentaire se déplace dans l'eau ou s'il est aspergé d'eau, il subit 1 dégâts de froid par tranche de 1,50 mètre traversée ou tous les 5 litres déversés.
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** L'élémentaire effectue deux attaques de contact.
+
+
+    **_Contact._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou une créature, elle prend feu. La cible subit 5 (1d10) dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
+  Type: Élémentaire
+  Size: G
+  Alignment: neutre
+  ArmorClass: 13
+  HitPoints: 102 (12d10+36)
+  Speed: 15 m
+  Strength: 10 (+0)
+  Dexterity: 17 (+3)
+  Constitution: 16 (+3)
+  Intelligence: ' 6 (-2)'
+  Wisdom: 10 (+0)
+  Charisma: ' 7 (-2)'
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: ignée
+  Challenge: 5 (1 800 PX)
 AttributesDictionary: >+
-  {}
+  Name: Élémentaire du feu
+
+  Markdown: >+
+
+    # <!--Name-->Élémentaire du feu<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Fire Elemental](srd_monsters_fire_elemental.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->102 (12d10+36)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->15 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants infligés par des attaques non-magiques<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu et de poison<!--/DamageImmunities-->
+
+
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->ignée<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->5 (1 800 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Corps de feu._** L'élémentaire peut traverser un interstice d'une largeur minimale de 2 à 3 centimètres sans devoir se faufiler. Une créature qui touche l'élémentaire ou réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 5 (1d10) dégâts de feu. De plus, l'élémentaire peut entrer dans l'emplacement occupé par une créature hostile et s'y arrêter. La première fois qu'il entre dans un emplacement occupé par une créature lors d'un tour, celle-ci subit 5 (1d10) dégâts de feu et prend feu. Elle subit 5 (1d10) dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.
+
+
+
+
+
+    **_Illumination._** L'élémentaire diffuse une lumière vive sur un rayon de 9 mètres et une faible lumière sur un rayon de 9 mètres supplémentaires.
+
+
+
+
+
+    **_Vulnérabilité à l'eau._** Si l'élémentaire se déplace dans l'eau ou s'il est aspergé d'eau, il subit 1 dégâts de froid par tranche de 1,50 mètre traversée ou tous les 5 litres déversés.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** L'élémentaire effectue deux attaques de contact.
+
+
+
+
+
+    **_Contact._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou une créature, elle prend feu. La cible subit 5 (1d10) dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
+
+  Type: Élémentaire
+
+  Size: G
+
+  Alignment: neutre
+
+  ArmorClass: 13
+
+  HitPoints: 102 (12d10+36)
+
+  Speed: 15 m
+
+  Strength: 10 (+0)
+
+  Dexterity: 17 (+3)
+
+  Constitution: 16 (+3)
+
+  Intelligence: ' 6 (-2)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 7 (-2)'
+
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+
+  DamageImmunities: de feu et de poison
+
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+
+  Languages: ignée
+
+  Challenge: 5 (1 800 PX)
 
 ---
 > [Créatures](hd_monsters.md)

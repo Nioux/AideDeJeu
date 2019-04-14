@@ -8,9 +8,73 @@ RootId: rogue_hd.md
 ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Classes](hd_classes.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Roublard<!--/Name-->
+
+
+    - AltName: <!--AltName-->Rogue (SRD p39)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p202)<!--/Source-->
+
+
+    En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
+
+  Name: Roublard
+  AltName: Rogue (SRD p39)
+  Source: (MDR p202)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Classes](hd_classes.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Roublard<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Rogue (SRD p39)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p202)<!--/Source-->
+
+
+
+
+
+    En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
+
+
+
+  Name: Roublard
+
+  AltName: Rogue (SRD p39)
+
+  Source: (MDR p202)
 
 ---
 >  [Classes](hd_classes.md)

@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Emblème
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Emblème
+  Markdown: >+
+    # <!--Name-->Emblème<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier / Symbole sacré<!--/Type-->
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+    - **Poids** <!--Weight-->_<!--/Weight-->
+
+  Type: Équipement d'aventurier / Symbole sacré
+  Price: 5 po
+  Weight: _
 AttributesDictionary: >+
-  {}
+  Name: Emblème
+
+  Markdown: >+
+
+    # <!--Name-->Emblème<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier / Symbole sacré<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->_<!--/Weight-->
+
+
+
+  Type: Équipement d'aventurier / Symbole sacré
+
+  Price: 5 po
+
+  Weight: _
 
 ---
 > [Équipement](hd_equipment.md)

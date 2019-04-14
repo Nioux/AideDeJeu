@@ -1,13 +1,41 @@
 ﻿---
 !GenericItem
-Name: Pas aérien
 Id: warlock_occultsummons_hd.md#pas-aérien
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Pas aérien
 ParentName: Invocations occultes
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Pas aérien
+  Markdown: >+
+    ## <!--Name-->Pas aérien<!--/Name-->
+
+
+    Prérequis : niveau 9
+
+
+    Vous pouvez lancer le sort lévitation sur vous-même à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
+
 AttributesDictionary: >+
-  {}
+  Name: Pas aérien
+
+  Markdown: >+
+
+    ## <!--Name-->Pas aérien<!--/Name-->
+
+
+
+
+
+    Prérequis : niveau 9
+
+
+
+
+
+    Vous pouvez lancer le sort lévitation sur vous-même à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
+
+
 
 ---
 > [Invocations occultes](hd_warlock_occultsummons.md)

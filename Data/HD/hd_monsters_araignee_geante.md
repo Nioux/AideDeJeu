@@ -24,9 +24,241 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Araignée géante
+  Markdown: >+
+    # <!--Name-->Araignée géante<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Giant Spider](srd_monsters_giant_spider.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->26 (4d10+4)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma--> 4 (-3)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +7<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Marche dans les toiles._** L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+
+    **_Pattes d'araignée._** L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+
+
+    **_Perception sur les toiles._** Tant qu'elle est en contact avec une toile d'araignée, l'araignée connaît l'exacte position de toutes les autres créatures en contact avec la même toile.
+
+
+    ## Actions
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une créature.
+
+
+    _Touché :_ 7 (1d8+3) dégâts perforants et la cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 11. Elle subit 9 (2d8) dégâts de poison en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée](hd_conditions_empoisonne.md) pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée](hd_conditions_paralyse.md) tant que le poison continue de faire effet.
+
+
+    **_Toile d'araignée (Recharge 5-6)._** Attaque d'arme à distance : +5 pour toucher, portée 9/18 m, une créature.
+
+
+    _Touché :_ la cible est [entravée](hd_conditions_entrave.md) par la toile. Par une action, la cible [entravée](hd_conditions_entrave.md) peut effectuer un test de [Force](hd_abilities_strength.md) DD 12 et s'en libérer en cas de réussite. L'effet prend fin également si la toile est attaquée et détruite (CA 10 ; 5 points de vie ; vulnérabilité aux dégâts de feu ; immunité contre les dégâts contondants, de poison et psychiques).
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
+  Type: Bête
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 14 (armure naturelle)
+  HitPoints: 26 (4d10+4)
+  Speed: 9 m, escalade 9 m
+  Strength: 14 (+2)
+  Dexterity: 16 (+3)
+  Constitution: 12 (+1)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 11 (+0)
+  Charisma: ' 4 (-3)'
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7'
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1 (200 PX)
 AttributesDictionary: >+
-  {}
+  Name: Araignée géante
+
+  Markdown: >+
+
+    # <!--Name-->Araignée géante<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Giant Spider](srd_monsters_giant_spider.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->26 (4d10+4)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma--> 4 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +7<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Marche dans les toiles._** L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+
+
+
+
+    **_Pattes d'araignée._** L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+
+
+
+
+
+    **_Perception sur les toiles._** Tant qu'elle est en contact avec une toile d'araignée, l'araignée connaît l'exacte position de toutes les autres créatures en contact avec la même toile.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une créature.
+
+
+
+
+
+    _Touché :_ 7 (1d8+3) dégâts perforants et la cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 11. Elle subit 9 (2d8) dégâts de poison en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée](hd_conditions_empoisonne.md) pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée](hd_conditions_paralyse.md) tant que le poison continue de faire effet.
+
+
+
+
+
+    **_Toile d'araignée (Recharge 5-6)._** Attaque d'arme à distance : +5 pour toucher, portée 9/18 m, une créature.
+
+
+
+
+
+    _Touché :_ la cible est [entravée](hd_conditions_entrave.md) par la toile. Par une action, la cible [entravée](hd_conditions_entrave.md) peut effectuer un test de [Force](hd_abilities_strength.md) DD 12 et s'en libérer en cas de réussite. L'effet prend fin également si la toile est attaquée et détruite (CA 10 ; 5 points de vie ; vulnérabilité aux dégâts de feu ; immunité contre les dégâts contondants, de poison et psychiques).
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
+
+  Type: Bête
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 14 (armure naturelle)
+
+  HitPoints: 26 (4d10+4)
+
+  Speed: 9 m, escalade 9 m
+
+  Strength: 14 (+2)
+
+  Dexterity: 16 (+3)
+
+  Constitution: 12 (+1)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 11 (+0)
+
+  Charisma: ' 4 (-3)'
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7'
+
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+
+  Languages: —
+
+  Challenge: 1 (200 PX)
 
 ---
 > [Créatures](hd_monsters.md)

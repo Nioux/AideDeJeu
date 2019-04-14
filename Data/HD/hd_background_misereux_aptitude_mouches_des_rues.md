@@ -5,9 +5,37 @@ ParentLink: background_misereux_hd.md#variante--orphelin
 Name: 'Aptitude : Mouches des rues'
 ParentName: 'Variante : Orphelin'
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: 'Aptitude : Mouches des rues'
+  Markdown: >+
+    #### <!--Name-->Aptitude : Mouches des rues<!--/Name-->
+
+
+    Vous avez une connexion particulière avec les gamins des rues qui traînent dans toutes les cités et les villes du monde. Vous savez comment vous adresser à eux et les récompenser de quelques pièces pour obtenir de l'aide ou des informations. Ils ne risqueront pas leur peau pour vous, mais ils peuvent rendre de précieux services à qui sait utiliser leurs talents avec discernement.
+
+  Description: >+
+    Vous avez une connexion particulière avec les gamins des rues qui traînent dans toutes les cités et les villes du monde. Vous savez comment vous adresser à eux et les récompenser de quelques pièces pour obtenir de l'aide ou des informations. Ils ne risqueront pas leur peau pour vous, mais ils peuvent rendre de précieux services à qui sait utiliser leurs talents avec discernement.
+
 AttributesDictionary: >+
-  {}
+  Name: 'Aptitude : Mouches des rues'
+
+  Markdown: >+
+
+    #### <!--Name-->Aptitude : Mouches des rues<!--/Name-->
+
+
+
+
+
+    Vous avez une connexion particulière avec les gamins des rues qui traînent dans toutes les cités et les villes du monde. Vous savez comment vous adresser à eux et les récompenser de quelques pièces pour obtenir de l'aide ou des informations. Ils ne risqueront pas leur peau pour vous, mais ils peuvent rendre de précieux services à qui sait utiliser leurs talents avec discernement.
+
+
+
+  Description: >+
+
+    Vous avez une connexion particulière avec les gamins des rues qui traînent dans toutes les cités et les villes du monde. Vous savez comment vous adresser à eux et les récompenser de quelques pièces pour obtenir de l'aide ou des informations. Ils ne risqueront pas leur peau pour vous, mais ils peuvent rendre de précieux services à qui sait utiliser leurs talents avec discernement.
+
+
 
 Description: >+
   Vous avez une connexion particulière avec les gamins des rues qui traînent dans toutes les cités et les villes du monde. Vous savez comment vous adresser à eux et les récompenser de quelques pièces pour obtenir de l'aide ou des informations. Ils ne risqueront pas leur peau pour vous, mais ils peuvent rendre de précieux services à qui sait utiliser leurs talents avec discernement.

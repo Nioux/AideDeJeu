@@ -23,9 +23,223 @@ Name: Panther
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Panthère](hd_monsters_panthere.md)'
-Attributes: {}
+Attributes:
+  Name: Panther
+  Markdown: >+
+    # <!--Name-->Panther<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Panthère](hd_monsters_panthere.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->50 ft., climb 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +4, Stealth +6<!--/Skills-->
+
+    - **Senses** <!--Senses-->passive Perception 14<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Keen Smell_**. The panther has advantage on Wisdom (Perception) checks that rely on smell.
+
+
+    **_Pounce_**. If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
+
+
+    ## Actions
+
+
+    **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 5 (1d6 + 2) piercing damage.
+
+
+    **_Claw_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 4 (1d4 + 2) slashing damage.
+
+  AltName: '[Panthère](hd_monsters_panthere.md)'
+  Size: Medium
+  Type: beast
+  Alignment: unaligned
+  ArmorClass: 12
+  HitPoints: 13 (3d8)
+  Speed: 50 ft., climb 40 ft.
+  Strength: 14 (+2)
+  Dexterity: 15 (+2)
+  Constitution: 10 (+0)
+  Intelligence: ' 3 (-4)'
+  Wisdom: 14 (+2)
+  Charisma: ' 7 (-2)'
+  Skills: Perception +4, Stealth +6
+  Senses: passive Perception 14
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
 AttributesDictionary: >+
-  {}
+  Name: Panther
+
+  Markdown: >+
+
+    # <!--Name-->Panther<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Panthère](hd_monsters_panthere.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->50 ft., climb 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +4, Stealth +6<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->passive Perception 14<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Keen Smell_**. The panther has advantage on Wisdom (Perception) checks that rely on smell.
+
+
+
+
+
+    **_Pounce_**. If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 5 (1d6 + 2) piercing damage.
+
+
+
+
+
+    **_Claw_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 4 (1d4 + 2) slashing damage.
+
+
+
+  AltName: '[Panthère](hd_monsters_panthere.md)'
+
+  Size: Medium
+
+  Type: beast
+
+  Alignment: unaligned
+
+  ArmorClass: 12
+
+  HitPoints: 13 (3d8)
+
+  Speed: 50 ft., climb 40 ft.
+
+  Strength: 14 (+2)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 10 (+0)
+
+  Intelligence: ' 3 (-4)'
+
+  Wisdom: 14 (+2)
+
+  Charisma: ' 7 (-2)'
+
+  Skills: Perception +4, Stealth +6
+
+  Senses: passive Perception 14
+
+  Languages: '-'
+
+  Challenge: 1/4 (50 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

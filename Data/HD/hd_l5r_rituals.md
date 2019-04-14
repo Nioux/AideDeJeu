@@ -7,9 +7,64 @@ Name: Lancer un rituel
 ParentName: Les Cinq Royaumes
 NameLevel: 2
 Source: (L5R p67)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    ## <!--Name-->Lancer un rituel<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p67)<!--/Source-->
+
+
+    Tout le monde est capable de tenter de réaliser un rituel, mais il faut un certain degré de compétence pour le réussir pleinement. Les compétences les plus communé- ment utilisées sont Intelligence (Arcanes), Intelligence (Religion) ou Intelligence (Nature), en fonction de l'origine du rituel. La personne qui mène le rituel est appelé l'invocateur.
+
+  Name: Lancer un rituel
+  Source: (L5R p67)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    ## <!--Name-->Lancer un rituel<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p67)<!--/Source-->
+
+
+
+
+
+    Tout le monde est capable de tenter de réaliser un rituel, mais il faut un certain degré de compétence pour le réussir pleinement. Les compétences les plus communé- ment utilisées sont Intelligence (Arcanes), Intelligence (Religion) ou Intelligence (Nature), en fonction de l'origine du rituel. La personne qui mène le rituel est appelé l'invocateur.
+
+
+
+  Name: Lancer un rituel
+
+  Source: (L5R p67)
 
 ---
 >  [Les Cinq Royaumes](hd_l5r_index.md)

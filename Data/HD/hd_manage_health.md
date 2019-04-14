@@ -6,9 +6,43 @@ ParentLink: index.md
 Name: Gérer la santé
 ParentName: Manuel des règles
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Manuel des règles](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Gérer la santé<!--/Name-->
+
+  Name: Gérer la santé
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Manuel des règles](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Gérer la santé<!--/Name-->
+
+
+
+  Name: Gérer la santé
 
 ---
 >  [Manuel des règles](index.md)

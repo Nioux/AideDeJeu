@@ -5,9 +5,28 @@ ParentLink: sorcerer_hd.md#ensorceleur
 Name: Sort subtil
 ParentName: Ensorceleur
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Sort subtil
+  Markdown: >+
+    ## <!--Name-->Sort subtil<!--/Name-->
+
+
+    Quand vous lancez un sort, vous pouvez dépenser 1 point de sorcellerie pour le lancer sans utiliser de composante verbale ni somatique.
+
 AttributesDictionary: >+
-  {}
+  Name: Sort subtil
+
+  Markdown: >+
+
+    ## <!--Name-->Sort subtil<!--/Name-->
+
+
+
+
+
+    Quand vous lancez un sort, vous pouvez dépenser 1 point de sorcellerie pour le lancer sans utiliser de composante verbale ni somatique.
+
+
 
 ---
 > [Ensorceleur](hd_sorcerer.md)

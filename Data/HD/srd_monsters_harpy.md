@@ -22,9 +22,205 @@ Name: Harpy
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Harpie](hd_monsters_harpie.md)'
-Attributes: {}
+Attributes:
+  Name: Harpy
+  Markdown: >+
+    # <!--Name-->Harpy<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Harpie](hd_monsters_harpie.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->38 (7d8 + 7)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->20 ft., fly 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 7 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->passive Perception 10<!--/Senses-->
+
+    - **Languages** <!--Languages-->Common<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1 (200 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Multiattack_**. The harpy makes two attacks: one with its claws and one with its club.
+
+
+    **_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 6 (2d4 + 1) slashing damage.
+
+
+    **_Club_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 3 (1d4 + 1) bludgeoning damage.
+
+
+    **_Luring Song_**. The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated. While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it. A target that successfully saves is immune to this harpy's song for the next 24 hours.
+
+  AltName: '[Harpie](hd_monsters_harpie.md)'
+  Size: Medium
+  Type: monstrosity
+  Alignment: chaotic evil
+  ArmorClass: 11
+  HitPoints: 38 (7d8 + 7)
+  Speed: 20 ft., fly 40 ft.
+  Strength: 12 (+1)
+  Dexterity: 13 (+1)
+  Constitution: 12 (+1)
+  Intelligence: ' 7 (-2)'
+  Wisdom: 10 (+0)
+  Charisma: 13 (+1)
+  Senses: passive Perception 10
+  Languages: Common
+  Challenge: 1 (200 XP)
 AttributesDictionary: >+
-  {}
+  Name: Harpy
+
+  Markdown: >+
+
+    # <!--Name-->Harpy<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Harpie](hd_monsters_harpie.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->38 (7d8 + 7)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->20 ft., fly 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 7 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->passive Perception 10<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Common<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1 (200 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Multiattack_**. The harpy makes two attacks: one with its claws and one with its club.
+
+
+
+
+
+    **_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 6 (2d4 + 1) slashing damage.
+
+
+
+
+
+    **_Club_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 3 (1d4 + 1) bludgeoning damage.
+
+
+
+
+
+    **_Luring Song_**. The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated. While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it. A target that successfully saves is immune to this harpy's song for the next 24 hours.
+
+
+
+  AltName: '[Harpie](hd_monsters_harpie.md)'
+
+  Size: Medium
+
+  Type: monstrosity
+
+  Alignment: chaotic evil
+
+  ArmorClass: 11
+
+  HitPoints: 38 (7d8 + 7)
+
+  Speed: 20 ft., fly 40 ft.
+
+  Strength: 12 (+1)
+
+  Dexterity: 13 (+1)
+
+  Constitution: 12 (+1)
+
+  Intelligence: ' 7 (-2)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: 13 (+1)
+
+  Senses: passive Perception 10
+
+  Languages: Common
+
+  Challenge: 1 (200 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

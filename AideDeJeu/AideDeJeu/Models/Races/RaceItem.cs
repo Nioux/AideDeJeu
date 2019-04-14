@@ -26,6 +26,8 @@ namespace AideDeJeuLib
         public string AnyAbilityBonus { get; set; }
 
         [DataMember]
+        public string AbilityScoreIncrease { get; set; }
+        [DataMember]
         public string Age { get; set; }
         [DataMember]
         public string Alignment { get; set; }
@@ -37,17 +39,6 @@ namespace AideDeJeuLib
         public string Darkvision { get; set; }
         [DataMember]
         public string Languages { get; set; }
-        [DataMember]
-        public string AbilityScoreIncrease { get; set; }
-        [DataMember]
-        public string CelestialResistance { get; set; }
-        [DataMember]
-        public string DraconicAncestry { get; set; }
-        [DataMember]
-        public string BreathWeapon { get; set; }
-        [DataMember]
-        public string DamageResistance { get; set; }
-
 
     }
 }

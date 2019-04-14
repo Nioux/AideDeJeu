@@ -5,9 +5,37 @@ ParentLink: background_erudit_hd.md#Érudit
 Name: 'Aptitude : Culture générale'
 ParentName: Érudit
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: 'Aptitude : Culture générale'
+  Markdown: >+
+    #### <!--Name-->Aptitude : Culture générale<!--/Name-->
+
+
+    Même si vous avez une spécialité, vous avez dû appréhender de multiples sujets d'études pour atteindre votre niveau d'érudition actuel. Vous disposez de connaissances de base dans la plupart des domaines, même les plus inaccessibles. Et lorsque vous ne disposez pas vous-même d'une connaissance, vous savez où l'obtenir et êtes capables d'identifier une personne ou un lieu auprès duquel vous renseigner. Il peut s'agir d'une bibliothèque, d'un monastère, d'un autre érudit, mais aussi d'un endroit perdu ou inaccessible.
+
+  Description: >+
+    Même si vous avez une spécialité, vous avez dû appréhender de multiples sujets d'études pour atteindre votre niveau d'érudition actuel. Vous disposez de connaissances de base dans la plupart des domaines, même les plus inaccessibles. Et lorsque vous ne disposez pas vous-même d'une connaissance, vous savez où l'obtenir et êtes capables d'identifier une personne ou un lieu auprès duquel vous renseigner. Il peut s'agir d'une bibliothèque, d'un monastère, d'un autre érudit, mais aussi d'un endroit perdu ou inaccessible.
+
 AttributesDictionary: >+
-  {}
+  Name: 'Aptitude : Culture générale'
+
+  Markdown: >+
+
+    #### <!--Name-->Aptitude : Culture générale<!--/Name-->
+
+
+
+
+
+    Même si vous avez une spécialité, vous avez dû appréhender de multiples sujets d'études pour atteindre votre niveau d'érudition actuel. Vous disposez de connaissances de base dans la plupart des domaines, même les plus inaccessibles. Et lorsque vous ne disposez pas vous-même d'une connaissance, vous savez où l'obtenir et êtes capables d'identifier une personne ou un lieu auprès duquel vous renseigner. Il peut s'agir d'une bibliothèque, d'un monastère, d'un autre érudit, mais aussi d'un endroit perdu ou inaccessible.
+
+
+
+  Description: >+
+
+    Même si vous avez une spécialité, vous avez dû appréhender de multiples sujets d'études pour atteindre votre niveau d'érudition actuel. Vous disposez de connaissances de base dans la plupart des domaines, même les plus inaccessibles. Et lorsque vous ne disposez pas vous-même d'une connaissance, vous savez où l'obtenir et êtes capables d'identifier une personne ou un lieu auprès duquel vous renseigner. Il peut s'agir d'une bibliothèque, d'un monastère, d'un autre érudit, mais aussi d'un endroit perdu ou inaccessible.
+
+
 
 Description: >+
   Même si vous avez une spécialité, vous avez dû appréhender de multiples sujets d'études pour atteindre votre niveau d'érudition actuel. Vous disposez de connaissances de base dans la plupart des domaines, même les plus inaccessibles. Et lorsque vous ne disposez pas vous-même d'une connaissance, vous savez où l'obtenir et êtes capables d'identifier une personne ou un lieu auprès duquel vous renseigner. Il peut s'agir d'une bibliothèque, d'un monastère, d'un autre érudit, mais aussi d'un endroit perdu ou inaccessible.

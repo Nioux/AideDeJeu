@@ -11,6 +11,33 @@ ParentName: Nain
 NameLevel: 2
 Source: (MDR p57)
 Attributes:
+  Name: Nain des laves
+  Markdown: >+
+    ## <!--Name-->Nain des laves<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p57)<!--/Source-->
+
+
+    En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les conflits et vous ne craignez pas la chaleur.
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Force](hd_abilities_strength.md) augmente de 1.<!--/AbilityScoreIncrease-->
+
+
+    **<!--ImprovedDarkvisionKey-->Vision dans le noir améliorée<!--/ImprovedDarkvisionKey-->.** <!--ImprovedDarkvisionValue-->Quand vous vous trouvez dans le noir total, vous voyez comme en plein jour jusqu'à 18 mètres. Vous êtes cependant toujours incapable de distinguer les couleurs.<!--/ImprovedDarkvisionValue-->
+
+
+    **<!--LightSensitivityKey-->Sensibilité à la lumière<!--/LightSensitivityKey-->.** <!--LightSensitivityValue-->Vous supportez mal les changements de luminosité. Lorsque la lumière augmente soudainement d'intensité (de lumière faible à lumière vive, ou d'obscurité à lumière vive), vous subissez un désavantage à tous vos tests de caractéristique nécessitant votre vue (dont les tests physique pour se précipiter, grimper ou autres). Il en va de même pour tous vos jets d'attaque, et les ennemis bénéficient d'un avantage s'ils vous attaquent au corps-à-corps. L'effet dure 3 rounds.<!--/LightSensitivityValue-->
+
+
+    **<!--HeatResistanceKey-->Résistance à la chaleur<!--/HeatResistanceKey-->.** <!--HeatResistanceValue-->Vous bénéficiez d'une résistance aux dégâts de feu.<!--/HeatResistanceValue-->
+
+  Source: (MDR p57)
+  Description: >+
+    En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les conflits et vous ne craignez pas la chaleur.
+
+  AbilityScoreIncrease: Votre valeur de [Force](hd_abilities_strength.md) augmente de 1.
   ImprovedDarkvisionKey: Vision dans le noir améliorée
   ImprovedDarkvisionValue: Quand vous vous trouvez dans le noir total, vous voyez comme en plein jour jusqu'à 18 mètres. Vous êtes cependant toujours incapable de distinguer les couleurs.
   LightSensitivityKey: Sensibilité à la lumière
@@ -18,6 +45,60 @@ Attributes:
   HeatResistanceKey: Résistance à la chaleur
   HeatResistanceValue: Vous bénéficiez d'une résistance aux dégâts de feu.
 AttributesDictionary: >+
+  Name: Nain des laves
+
+  Markdown: >+
+
+    ## <!--Name-->Nain des laves<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p57)<!--/Source-->
+
+
+
+
+
+    En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les conflits et vous ne craignez pas la chaleur.
+
+
+
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Force](hd_abilities_strength.md) augmente de 1.<!--/AbilityScoreIncrease-->
+
+
+
+
+
+    **<!--ImprovedDarkvisionKey-->Vision dans le noir améliorée<!--/ImprovedDarkvisionKey-->.** <!--ImprovedDarkvisionValue-->Quand vous vous trouvez dans le noir total, vous voyez comme en plein jour jusqu'à 18 mètres. Vous êtes cependant toujours incapable de distinguer les couleurs.<!--/ImprovedDarkvisionValue-->
+
+
+
+
+
+    **<!--LightSensitivityKey-->Sensibilité à la lumière<!--/LightSensitivityKey-->.** <!--LightSensitivityValue-->Vous supportez mal les changements de luminosité. Lorsque la lumière augmente soudainement d'intensité (de lumière faible à lumière vive, ou d'obscurité à lumière vive), vous subissez un désavantage à tous vos tests de caractéristique nécessitant votre vue (dont les tests physique pour se précipiter, grimper ou autres). Il en va de même pour tous vos jets d'attaque, et les ennemis bénéficient d'un avantage s'ils vous attaquent au corps-à-corps. L'effet dure 3 rounds.<!--/LightSensitivityValue-->
+
+
+
+
+
+    **<!--HeatResistanceKey-->Résistance à la chaleur<!--/HeatResistanceKey-->.** <!--HeatResistanceValue-->Vous bénéficiez d'une résistance aux dégâts de feu.<!--/HeatResistanceValue-->
+
+
+
+  Source: (MDR p57)
+
+  Description: >+
+
+    En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les conflits et vous ne craignez pas la chaleur.
+
+
+
+  AbilityScoreIncrease: Votre valeur de [Force](hd_abilities_strength.md) augmente de 1.
+
   ImprovedDarkvisionKey: Vision dans le noir améliorée
 
   ImprovedDarkvisionValue: Quand vous vous trouvez dans le noir total, vous voyez comme en plein jour jusqu'à 18 mètres. Vous êtes cependant toujours incapable de distinguer les couleurs.

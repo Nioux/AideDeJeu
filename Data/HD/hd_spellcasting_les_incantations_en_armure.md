@@ -1,15 +1,55 @@
 ﻿---
 !GenericItem
-Name: Les incantations en armure
-AltName: Casting in Armor (SRD p100)
-Source: (MDR p307)
 Id: spellcasting_hd.md#les-incantations-en-armure
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Les incantations en armure
 ParentName: Lancer des sorts
 NameLevel: 3
-Attributes: {}
+AltName: Casting in Armor (SRD p100)
+Source: (MDR p307)
+Attributes:
+  Name: Les incantations en armure
+  Markdown: >+
+    ### <!--Name-->Les incantations en armure<!--/Name-->
+
+
+    - AltName: <!--AltName-->Casting in Armor (SRD p100)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p307)<!--/Source-->
+
+
+    Pour incanter, il faut se concentrer intensément et exécuter des gestes précis, c'est pourquoi le personnage doit impérativement maîtriser le port de l'armure dont il est vêtu, sans quoi cette dernière le distrait et le gêne trop dans ses mouvements pour lui permettre de lancer un sort.
+
+  AltName: Casting in Armor (SRD p100)
+  Source: (MDR p307)
 AttributesDictionary: >+
-  {}
+  Name: Les incantations en armure
+
+  Markdown: >+
+
+    ### <!--Name-->Les incantations en armure<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Casting in Armor (SRD p100)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p307)<!--/Source-->
+
+
+
+
+
+    Pour incanter, il faut se concentrer intensément et exécuter des gestes précis, c'est pourquoi le personnage doit impérativement maîtriser le port de l'armure dont il est vêtu, sans quoi cette dernière le distrait et le gêne trop dans ses mouvements pour lui permettre de lancer un sort.
+
+
+
+  AltName: Casting in Armor (SRD p100)
+
+  Source: (MDR p307)
 
 ---
 > [Lancer des sorts](hd_spellcasting.md)

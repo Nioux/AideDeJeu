@@ -8,9 +8,73 @@ RootId: cleric_hd.md
 ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Classes](hd_classes.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Clerc<!--/Name-->
+
+
+    - AltName: <!--AltName-->Cleric (SRD p15)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p129)<!--/Source-->
+
+
+    En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
+
+  Name: Clerc
+  AltName: Cleric (SRD p15)
+  Source: (MDR p129)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Classes](hd_classes.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Clerc<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Cleric (SRD p15)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p129)<!--/Source-->
+
+
+
+
+
+    En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
+
+
+
+  Name: Clerc
+
+  AltName: Cleric (SRD p15)
+
+  Source: (MDR p129)
 
 ---
 >  [Classes](hd_classes.md)

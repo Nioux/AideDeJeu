@@ -9,9 +9,85 @@ ParentLink: background_devot_hd.md#dévot
 Name: 'Variante : Prédicateur'
 ParentName: Dévot
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Prédicateur'
+  Markdown: >+
+    ### <!--Name-->Variante : Prédicateur<!--/Name-->
+
+
+    La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vous transmettez sa parole et voyagez loin des temples. Vous parlez au nom de votre clergé et assurez le lien avec la population.
+
+
+    **Compétences :** <!--Abilities-->Religion, Représentation.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+    **Équipement :** <!--Equipment-->Symbole sacré, livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, fiole d'eau bénite, tenue de voyageur, bourse contenant 10 po.<!--/Equipment-->
+
+  Description: >+
+    La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vous transmettez sa parole et voyagez loin des temples. Vous parlez au nom de votre clergé et assurez le lien avec la population.
+
+  Abilities: Religion, Représentation.
+  MasteredTools: Véhicules (terrestres) ou véhicules (marins).
+  MasteredLanguages: Une langue au choix.
+  Equipment: Symbole sacré, livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, fiole d'eau bénite, tenue de voyageur, bourse contenant 10 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Prédicateur'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Prédicateur<!--/Name-->
+
+
+
+
+
+    La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vous transmettez sa parole et voyagez loin des temples. Vous parlez au nom de votre clergé et assurez le lien avec la population.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Religion, Représentation.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
+
+
+
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Symbole sacré, livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, fiole d'eau bénite, tenue de voyageur, bourse contenant 10 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vous transmettez sa parole et voyagez loin des temples. Vous parlez au nom de votre clergé et assurez le lien avec la population.
+
+
+
+  Abilities: Religion, Représentation.
+
+  MasteredTools: Véhicules (terrestres) ou véhicules (marins).
+
+  MasteredLanguages: Une langue au choix.
+
+  Equipment: Symbole sacré, livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, fiole d'eau bénite, tenue de voyageur, bourse contenant 10 po.
 
 Description: >+
   La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vous transmettez sa parole et voyagez loin des temples. Vous parlez au nom de votre clergé et assurez le lien avec la population.

@@ -27,9 +27,295 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Balor](srd_monsters_balor.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Balor
+  Markdown: >+
+    # <!--Name-->Balor<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Balor](srd_monsters_balor.md)<!--/AltName-->
+
+    -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->262 (21d12+126)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->26 (+8)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->22 (+6)<!--/Constitution-->|<!--Intelligence-->20 (+5)<!--/Intelligence-->|<!--Wisdom-->16 (+3)<!--/Wisdom-->|<!--Charisma-->22 (+6)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->For +14, Con +12, Sag +9, Cha +12<!--/SavingThrows-->
+
+    - **Résistance aux dégâts** <!--DamageResistances-->de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques<!--/DamageResistances-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu et de poison<!--/DamageImmunities-->
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[empoisonné](hd_conditions_empoisonne.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+    - **Langue** <!--Languages-->abyssal, télépathie 36 m<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->19 (22 000 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Armes magiques._** Les attaques d'arme du balor sont magiques.
+
+
+    **_Aura de feu._** Au début de chacun des tours du balor, les créatures situées à 1,50 mètre ou moins de lui subissent 10 (3d6) dégâts de feu et les objets inflammables dans l'aura qui ne sont équipés ou transportés par personne prennent feu. Les créatures qui touchent le balor ou qui réussissent une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subissent 10 (3d6) dégâts de feu.
+
+
+    **_Résistance à la magie._** Le balor obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts et autres effets magiques.
+
+
+    **_Spasmes d'agonie._** Le balor explose quand il meurt, et toutes les créatures situées à 9 mètres ou moins de lui doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 20 ; elles subissent 70 (20d6) dégâts de feu en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite. L'explosion met le feu aux objets inflammables dans la zone qui ne sont équipés ou transportés par personne. Elle détruit également les armes du balor.
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** Le balor effectue deux attaques : une avec son épée longue et une avec son fouet.
+
+
+    **_Épée longue._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une cible.
+
+
+    _Touché :_ 21 (3d8+8) dégâts tranchants plus 13 (3d8) dégâts de foudre. Si le balor obtient un coup critique, il lance trois fois au lieu de deux le dé de dégâts.
+
+
+    **_Fouet._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 9 m, une cible.
+
+
+    _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 20 pour ne pas être tiré vers le balor sur une distance maximale de 7,50 mètres.
+
+
+    **_Téléportation._** Le balor se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Balor](srd_monsters_balor.md)'
+  Type: Fiélon (démon)
+  Size: TG
+  Alignment: Chaotique Mauvais
+  ArmorClass: 19 (armure naturelle)
+  HitPoints: 262 (21d12+126)
+  Speed: 12 m, vol 24 m
+  Strength: 26 (+8)
+  Dexterity: 15 (+2)
+  Constitution: 22 (+6)
+  Intelligence: 20 (+5)
+  Wisdom: 16 (+3)
+  Charisma: 22 (+6)
+  SavingThrows: For +14, Con +12, Sag +9, Cha +12
+  DamageResistances: de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: abyssal, télépathie 36 m
+  Challenge: 19 (22 000 PX)
 AttributesDictionary: >+
-  {}
+  Name: Balor
+
+  Markdown: >+
+
+    # <!--Name-->Balor<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Balor](srd_monsters_balor.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->262 (21d12+126)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->26 (+8)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->22 (+6)<!--/Constitution-->|<!--Intelligence-->20 (+5)<!--/Intelligence-->|<!--Wisdom-->16 (+3)<!--/Wisdom-->|<!--Charisma-->22 (+6)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->For +14, Con +12, Sag +9, Cha +12<!--/SavingThrows-->
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu et de poison<!--/DamageImmunities-->
+
+
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[empoisonné](hd_conditions_empoisonne.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->abyssal, télépathie 36 m<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->19 (22 000 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Armes magiques._** Les attaques d'arme du balor sont magiques.
+
+
+
+
+
+    **_Aura de feu._** Au début de chacun des tours du balor, les créatures situées à 1,50 mètre ou moins de lui subissent 10 (3d6) dégâts de feu et les objets inflammables dans l'aura qui ne sont équipés ou transportés par personne prennent feu. Les créatures qui touchent le balor ou qui réussissent une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subissent 10 (3d6) dégâts de feu.
+
+
+
+
+
+    **_Résistance à la magie._** Le balor obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts et autres effets magiques.
+
+
+
+
+
+    **_Spasmes d'agonie._** Le balor explose quand il meurt, et toutes les créatures situées à 9 mètres ou moins de lui doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 20 ; elles subissent 70 (20d6) dégâts de feu en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite. L'explosion met le feu aux objets inflammables dans la zone qui ne sont équipés ou transportés par personne. Elle détruit également les armes du balor.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** Le balor effectue deux attaques : une avec son épée longue et une avec son fouet.
+
+
+
+
+
+    **_Épée longue._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une cible.
+
+
+
+
+
+    _Touché :_ 21 (3d8+8) dégâts tranchants plus 13 (3d8) dégâts de foudre. Si le balor obtient un coup critique, il lance trois fois au lieu de deux le dé de dégâts.
+
+
+
+
+
+    **_Fouet._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 9 m, une cible.
+
+
+
+
+
+    _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 20 pour ne pas être tiré vers le balor sur une distance maximale de 7,50 mètres.
+
+
+
+
+
+    **_Téléportation._** Le balor se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Balor](srd_monsters_balor.md)'
+
+  Type: Fiélon (démon)
+
+  Size: TG
+
+  Alignment: Chaotique Mauvais
+
+  ArmorClass: 19 (armure naturelle)
+
+  HitPoints: 262 (21d12+126)
+
+  Speed: 12 m, vol 24 m
+
+  Strength: 26 (+8)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 22 (+6)
+
+  Intelligence: 20 (+5)
+
+  Wisdom: 16 (+3)
+
+  Charisma: 22 (+6)
+
+  SavingThrows: For +14, Con +12, Sag +9, Cha +12
+
+  DamageResistances: de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+
+  DamageImmunities: de feu et de poison
+
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+
+  Languages: abyssal, télépathie 36 m
+
+  Challenge: 19 (22 000 PX)
 
 ---
 > [Créatures](hd_monsters.md)

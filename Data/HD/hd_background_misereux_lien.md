@@ -22,9 +22,121 @@ ParentLink: background_misereux_hd.md#personnalités-suggérées
 Name: Lien
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Lien
+  Markdown: >+
+    ##### <!--Name-->Lien<!--/Name-->
+
+
+    |d6|Lien|
+
+    |---|---|
+
+    |1|J'ai échappé à ma vie de misère grâce à un de mes <!--br-->compagnons. J'ai juré de lui rendre la pareille.|
+
+    |2|Je suis particulièrement attaché au quartier ou <!--br-->à la ville dans laquelle j'ai grandi.|
+
+    |3|Pendant ma vie de misère, j'ai attiré l'attention d'un <!--br-->personnage puissant à qui j'ai dérobé un bijou. Il <!--br-->cherche à me retrouver et à récupérer son bien.|
+
+    |4|Une bande de gamins des rues de mon ancien <!--br-->quartier m'a adopté comme un « **grand frère** ». <!--br-->Je tiens à leur prodiguer de bons conseils, et à <!--br-->les aider à s'en sortir.|
+
+    |5|Alors que j'étais au plus mal, un membre du <!--br-->clergé m'a recueilli chez lui et m'a offert un <!--br-->repas chaud. J'ai juré d'apprendre et suivre les <!--br-->préceptes de son dieu.|
+
+    |6|Avant de me retrouver dans la rue, j'avais une <!--br-->famille. Ceux qui la composent m'ont abandonné <!--br-->et n'ont pas levé le petit doigt pour m'aider.|
+
+  Table: >+
+    |d6|Lien|
+
+    |---|---|
+
+    |1|J'ai échappé à ma vie de misère grâce à un de mes <!--br-->compagnons. J'ai juré de lui rendre la pareille.|
+
+    |2|Je suis particulièrement attaché au quartier ou <!--br-->à la ville dans laquelle j'ai grandi.|
+
+    |3|Pendant ma vie de misère, j'ai attiré l'attention d'un <!--br-->personnage puissant à qui j'ai dérobé un bijou. Il <!--br-->cherche à me retrouver et à récupérer son bien.|
+
+    |4|Une bande de gamins des rues de mon ancien <!--br-->quartier m'a adopté comme un « **grand frère** ». <!--br-->Je tiens à leur prodiguer de bons conseils, et à <!--br-->les aider à s'en sortir.|
+
+    |5|Alors que j'étais au plus mal, un membre du <!--br-->clergé m'a recueilli chez lui et m'a offert un <!--br-->repas chaud. J'ai juré d'apprendre et suivre les <!--br-->préceptes de son dieu.|
+
+    |6|Avant de me retrouver dans la rue, j'avais une <!--br-->famille. Ceux qui la composent m'ont abandonné <!--br-->et n'ont pas levé le petit doigt pour m'aider.|
+
 AttributesDictionary: >+
-  {}
+  Name: Lien
+
+  Markdown: >+
+
+    ##### <!--Name-->Lien<!--/Name-->
+
+
+
+
+
+    |d6|Lien|
+
+
+
+    |---|---|
+
+
+
+    |1|J'ai échappé à ma vie de misère grâce à un de mes <!--br-->compagnons. J'ai juré de lui rendre la pareille.|
+
+
+
+    |2|Je suis particulièrement attaché au quartier ou <!--br-->à la ville dans laquelle j'ai grandi.|
+
+
+
+    |3|Pendant ma vie de misère, j'ai attiré l'attention d'un <!--br-->personnage puissant à qui j'ai dérobé un bijou. Il <!--br-->cherche à me retrouver et à récupérer son bien.|
+
+
+
+    |4|Une bande de gamins des rues de mon ancien <!--br-->quartier m'a adopté comme un « **grand frère** ». <!--br-->Je tiens à leur prodiguer de bons conseils, et à <!--br-->les aider à s'en sortir.|
+
+
+
+    |5|Alors que j'étais au plus mal, un membre du <!--br-->clergé m'a recueilli chez lui et m'a offert un <!--br-->repas chaud. J'ai juré d'apprendre et suivre les <!--br-->préceptes de son dieu.|
+
+
+
+    |6|Avant de me retrouver dans la rue, j'avais une <!--br-->famille. Ceux qui la composent m'ont abandonné <!--br-->et n'ont pas levé le petit doigt pour m'aider.|
+
+
+
+  Table: >+
+
+    |d6|Lien|
+
+
+
+    |---|---|
+
+
+
+    |1|J'ai échappé à ma vie de misère grâce à un de mes <!--br-->compagnons. J'ai juré de lui rendre la pareille.|
+
+
+
+    |2|Je suis particulièrement attaché au quartier ou <!--br-->à la ville dans laquelle j'ai grandi.|
+
+
+
+    |3|Pendant ma vie de misère, j'ai attiré l'attention d'un <!--br-->personnage puissant à qui j'ai dérobé un bijou. Il <!--br-->cherche à me retrouver et à récupérer son bien.|
+
+
+
+    |4|Une bande de gamins des rues de mon ancien <!--br-->quartier m'a adopté comme un « **grand frère** ». <!--br-->Je tiens à leur prodiguer de bons conseils, et à <!--br-->les aider à s'en sortir.|
+
+
+
+    |5|Alors que j'étais au plus mal, un membre du <!--br-->clergé m'a recueilli chez lui et m'a offert un <!--br-->repas chaud. J'ai juré d'apprendre et suivre les <!--br-->préceptes de son dieu.|
+
+
+
+    |6|Avant de me retrouver dans la rue, j'avais une <!--br-->famille. Ceux qui la composent m'ont abandonné <!--br-->et n'ont pas levé le petit doigt pour m'aider.|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_misereux_personnalites_suggerees.md)

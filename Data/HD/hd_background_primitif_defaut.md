@@ -22,9 +22,121 @@ ParentLink: background_primitif_hd.md#personnalités-suggérées
 Name: Défaut
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Défaut
+  Markdown: >+
+    ##### <!--Name-->Défaut<!--/Name-->
+
+
+    |d6|Défaut|
+
+    |---|---|
+
+    |1|J'ai appris à succomber aux plaisirs interdits de <!--br-->la cité. Je ne saurais m'en passer.|
+
+    |2|La nature est violente. Je réponds comme elle à <!--br-->chaque affront.|
+
+    |3|Les forts survivent, les faibles succombent. <!--br-->N'attendez pas d'aide de ma part.|
+
+    |4|Comme la roche, je suis impassible. Il m'est <!--br-->difficile de laisser transparaître mes émotions, <!--br-->même quand cela est nécessaire.|
+
+    |5|Je suis aussi impétueux que le félin le plus <!--br-->sauvage.|
+
+    |6|Chaque action doit être mesurée. Je préfère <!--br-->prendre mon temps et observer la situation <!--br-->avant de décider d'agir, même si cela veut dire <!--br-->agir trop tard.|
+
+  Table: >+
+    |d6|Défaut|
+
+    |---|---|
+
+    |1|J'ai appris à succomber aux plaisirs interdits de <!--br-->la cité. Je ne saurais m'en passer.|
+
+    |2|La nature est violente. Je réponds comme elle à <!--br-->chaque affront.|
+
+    |3|Les forts survivent, les faibles succombent. <!--br-->N'attendez pas d'aide de ma part.|
+
+    |4|Comme la roche, je suis impassible. Il m'est <!--br-->difficile de laisser transparaître mes émotions, <!--br-->même quand cela est nécessaire.|
+
+    |5|Je suis aussi impétueux que le félin le plus <!--br-->sauvage.|
+
+    |6|Chaque action doit être mesurée. Je préfère <!--br-->prendre mon temps et observer la situation <!--br-->avant de décider d'agir, même si cela veut dire <!--br-->agir trop tard.|
+
 AttributesDictionary: >+
-  {}
+  Name: Défaut
+
+  Markdown: >+
+
+    ##### <!--Name-->Défaut<!--/Name-->
+
+
+
+
+
+    |d6|Défaut|
+
+
+
+    |---|---|
+
+
+
+    |1|J'ai appris à succomber aux plaisirs interdits de <!--br-->la cité. Je ne saurais m'en passer.|
+
+
+
+    |2|La nature est violente. Je réponds comme elle à <!--br-->chaque affront.|
+
+
+
+    |3|Les forts survivent, les faibles succombent. <!--br-->N'attendez pas d'aide de ma part.|
+
+
+
+    |4|Comme la roche, je suis impassible. Il m'est <!--br-->difficile de laisser transparaître mes émotions, <!--br-->même quand cela est nécessaire.|
+
+
+
+    |5|Je suis aussi impétueux que le félin le plus <!--br-->sauvage.|
+
+
+
+    |6|Chaque action doit être mesurée. Je préfère <!--br-->prendre mon temps et observer la situation <!--br-->avant de décider d'agir, même si cela veut dire <!--br-->agir trop tard.|
+
+
+
+  Table: >+
+
+    |d6|Défaut|
+
+
+
+    |---|---|
+
+
+
+    |1|J'ai appris à succomber aux plaisirs interdits de <!--br-->la cité. Je ne saurais m'en passer.|
+
+
+
+    |2|La nature est violente. Je réponds comme elle à <!--br-->chaque affront.|
+
+
+
+    |3|Les forts survivent, les faibles succombent. <!--br-->N'attendez pas d'aide de ma part.|
+
+
+
+    |4|Comme la roche, je suis impassible. Il m'est <!--br-->difficile de laisser transparaître mes émotions, <!--br-->même quand cela est nécessaire.|
+
+
+
+    |5|Je suis aussi impétueux que le félin le plus <!--br-->sauvage.|
+
+
+
+    |6|Chaque action doit être mesurée. Je préfère <!--br-->prendre mon temps et observer la situation <!--br-->avant de décider d'agir, même si cela veut dire <!--br-->agir trop tard.|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_primitif_personnalites_suggerees.md)

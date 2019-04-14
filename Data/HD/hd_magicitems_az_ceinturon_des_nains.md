@@ -10,9 +10,127 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Belt of Dwarvenkind (SRD p211)
 Source: (COC p159)
-Attributes: {}
+Attributes:
+  Name: Ceinturon des nains
+  Markdown: >+
+    ### <!--Name-->Ceinturon des nains<!--/Name-->
+
+
+    - AltName: <!--AltName-->Belt of Dwarvenkind (SRD p211)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p159)<!--/Source-->
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+    Tant que vous portez ce ceinturon, vous bénéficiez des avantages suivants :
+
+
+    Votre valeur de Constitution augmente de 2, sans dépasser un maximum de 20.
+
+
+    Vous obtenez l'avantage lors des tests de Charisme (Persuasion) pour interagir avec des nains.
+
+
+    De plus, tant que vous êtes harmonisé avec le ceinturon, vous avez 50 % de chances par jour de voir une belle barbe pousser sur votre menton (si vous êtes capable de développer une telle pilosité). Si vous en avez déjà une, elle devient visiblement plus touffue.
+
+
+    Si vous n'êtes pas un nain, vous gagnez les avantages supplémentaires suivants quand vous portez le ceinturon.
+
+
+    Vous obtenez l'avantage lors des jets de sauvegarde contre le poison et vous êtes résistant contre les dégâts de poison.
+
+
+    Vous gagnez la vision dans le noir à une distance de 18 mètres.
+
+
+    Vous parlez, lisez et écrivez le nain.
+
+  AltName: Belt of Dwarvenkind (SRD p211)
+  Source: (COC p159)
+  Type: Objet merveilleux
+  Rarity: rare
+  Attunement: harmonisation requise
 AttributesDictionary: >+
-  {}
+  Name: Ceinturon des nains
+
+  Markdown: >+
+
+    ### <!--Name-->Ceinturon des nains<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Belt of Dwarvenkind (SRD p211)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p159)<!--/Source-->
+
+
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+
+
+
+    Tant que vous portez ce ceinturon, vous bénéficiez des avantages suivants :
+
+
+
+
+
+    Votre valeur de Constitution augmente de 2, sans dépasser un maximum de 20.
+
+
+
+
+
+    Vous obtenez l'avantage lors des tests de Charisme (Persuasion) pour interagir avec des nains.
+
+
+
+
+
+    De plus, tant que vous êtes harmonisé avec le ceinturon, vous avez 50 % de chances par jour de voir une belle barbe pousser sur votre menton (si vous êtes capable de développer une telle pilosité). Si vous en avez déjà une, elle devient visiblement plus touffue.
+
+
+
+
+
+    Si vous n'êtes pas un nain, vous gagnez les avantages supplémentaires suivants quand vous portez le ceinturon.
+
+
+
+
+
+    Vous obtenez l'avantage lors des jets de sauvegarde contre le poison et vous êtes résistant contre les dégâts de poison.
+
+
+
+
+
+    Vous gagnez la vision dans le noir à une distance de 18 mètres.
+
+
+
+
+
+    Vous parlez, lisez et écrivez le nain.
+
+
+
+  AltName: Belt of Dwarvenkind (SRD p211)
+
+  Source: (COC p159)
+
+  Type: Objet merveilleux
+
+  Rarity: rare
+
+  Attunement: harmonisation requise
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

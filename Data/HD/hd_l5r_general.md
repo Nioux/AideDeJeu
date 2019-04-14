@@ -7,9 +7,55 @@ Name: Règles générales
 ParentName: Les Cinq Royaumes
 NameLevel: 2
 Source: (L5R p42)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    ## <!--Name-->Règles générales<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p42)<!--/Source-->
+
+  Name: Règles générales
+  Source: (L5R p42)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    ## <!--Name-->Règles générales<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p42)<!--/Source-->
+
+
+
+  Name: Règles générales
+
+  Source: (L5R p42)
 
 ---
 >  [Les Cinq Royaumes](hd_l5r_index.md)

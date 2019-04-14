@@ -9,9 +9,67 @@ ParentLink: equipment_hd.md#Équipement
 Name: Poison
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Poison
+  Markdown: >+
+    # <!--Name-->Poison<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->100 po<!--/Price-->
+
+    - **Poids** <!--Weight-->_<!--/Weight-->
+
+    - **Unité** <!--Unity-->fiole<!--/Unity-->
+
+
+    Un personnage peut utiliser le poison qui se trouve dans cette fiole pour enduire la lame d'une arme tranchante ou perforante, ou jusqu'à trois munitions. Il vous faut utiliser une action pour appliquer le poison. Une créature touchée par l'arme ou la munition empoisonnée doit faire un jet de sauvegarde de Constitution DD 10 ou subir 1d4 dégâts de poison. Une fois qu'il est appliqué, le poison reste efficace pendant 1 minute avant de sécher.
+
+  Type: Équipement d'aventurier
+  Price: 100 po
+  Weight: _
+  Unity: fiole
 AttributesDictionary: >+
-  {}
+  Name: Poison
+
+  Markdown: >+
+
+    # <!--Name-->Poison<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->100 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->_<!--/Weight-->
+
+
+
+    - **Unité** <!--Unity-->fiole<!--/Unity-->
+
+
+
+
+
+    Un personnage peut utiliser le poison qui se trouve dans cette fiole pour enduire la lame d'une arme tranchante ou perforante, ou jusqu'à trois munitions. Il vous faut utiliser une action pour appliquer le poison. Une créature touchée par l'arme ou la munition empoisonnée doit faire un jet de sauvegarde de Constitution DD 10 ou subir 1d4 dégâts de poison. Une fois qu'il est appliqué, le poison reste efficace pendant 1 minute avant de sécher.
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 100 po
+
+  Weight: _
+
+  Unity: fiole
 
 ---
 > [Équipement](hd_equipment.md)

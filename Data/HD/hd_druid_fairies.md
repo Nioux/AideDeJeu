@@ -8,9 +8,73 @@ RootId: druid_fairies_hd.md
 ParentLink: druid_hd.md#cercles-druidiques
 ParentName: Cercles druidiques
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Cercles druidiques](hd_druid_cercles_druidiques.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Cercles druidiques](hd_druid_cercles_druidiques.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Cercle des fées<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p149)<!--/Source-->
+
+
+    Le druide du cercle des fées a appris les secrets du petit peuple des bois et des forêts, il sait reconnaître les signes et parler le langage des fées, il sait trouver les portes vers le monde invisible lorsqu'il existe. Il fait partie des rares mortels qui sont bienvenus à la cour féerique. En échange, il a juré de défendre les fées, mais aussi les lutins et autres korrigans, même ceux du peuple invisible dont l'âme est la plus sombre et, surtout, de protéger les lieux sauvages et les cercles sacrés qui les abritent.
+
+
+    Les druides du cercle des fées sont parfois considérés comme des extrémistes par leurs pairs, ce sont ceux qui supportent le moins la destruction des milieux naturels.
+
+  Name: Cercle des fées
+  Source: (MDR p149)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Cercles druidiques](hd_druid_cercles_druidiques.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Cercles druidiques](hd_druid_cercles_druidiques.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Cercle des fées<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p149)<!--/Source-->
+
+
+
+
+
+    Le druide du cercle des fées a appris les secrets du petit peuple des bois et des forêts, il sait reconnaître les signes et parler le langage des fées, il sait trouver les portes vers le monde invisible lorsqu'il existe. Il fait partie des rares mortels qui sont bienvenus à la cour féerique. En échange, il a juré de défendre les fées, mais aussi les lutins et autres korrigans, même ceux du peuple invisible dont l'âme est la plus sombre et, surtout, de protéger les lieux sauvages et les cercles sacrés qui les abritent.
+
+
+
+
+
+    Les druides du cercle des fées sont parfois considérés comme des extrémistes par leurs pairs, ce sont ceux qui supportent le moins la destruction des milieux naturels.
+
+
+
+  Name: Cercle des fées
+
+  Source: (MDR p149)
 
 ---
 >  [Cercles druidiques](hd_druid_cercles_druidiques.md)

@@ -8,9 +8,64 @@ RootId: warlock_immortal_hd.md
 ParentLink: warlock_hd.md#protecteurs-doutre-monde
 ParentName: Protecteurs d'outre-monde
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: "[Protecteurs d'outre-monde](hd_warlock_protecteurs_doutre_monde.md)"
+  Markdown: >+
+    >  <!--ParentNameLink-->[Protecteurs d'outre-monde](hd_warlock_protecteurs_doutre_monde.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Le seigneur immortel<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p215)<!--/Source-->
+
+
+    Certains mortels ont été si puissants et sont devenus de telles légendes à travers les âges qu'ils ne disparaissent jamais complètement. Ce ne sont pas des dieux, mais ils peuvent aspirer à le devenir et, même morts, ils n'ont pas abandonné l'ambition de peser sur le destin du monde. Votre protecteur pouvait être un terrible archimage, dont le pouvoir tutoya celui des dieux, ou un tyran dont l'empire maléfique domina le monde pendant un millénaire. Par-delà la mort, il vous susurre des secrets oubliés et, à travers vous, il cherche à nouveau à marquer le monde de son influence.
+
+  Name: Le seigneur immortel
+  Source: (MDR p215)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: "[Protecteurs d'outre-monde](hd_warlock_protecteurs_doutre_monde.md)"
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Protecteurs d'outre-monde](hd_warlock_protecteurs_doutre_monde.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Le seigneur immortel<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p215)<!--/Source-->
+
+
+
+
+
+    Certains mortels ont été si puissants et sont devenus de telles légendes à travers les âges qu'ils ne disparaissent jamais complètement. Ce ne sont pas des dieux, mais ils peuvent aspirer à le devenir et, même morts, ils n'ont pas abandonné l'ambition de peser sur le destin du monde. Votre protecteur pouvait être un terrible archimage, dont le pouvoir tutoya celui des dieux, ou un tyran dont l'empire maléfique domina le monde pendant un millénaire. Par-delà la mort, il vous susurre des secrets oubliés et, à travers vous, il cherche à nouveau à marquer le monde de son influence.
+
+
+
+  Name: Le seigneur immortel
+
+  Source: (MDR p215)
 
 ---
 >  [Protecteurs d'outre-monde](hd_warlock_protecteurs_doutre_monde.md)

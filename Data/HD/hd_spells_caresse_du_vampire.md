@@ -15,9 +15,145 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Vampiric Touch](srd_spells_vampiric_touch.md)'
 Source: (MDR p330)(SRD)
-Attributes: {}
+Attributes:
+  Name: Caresse du vampire
+  Markdown: >+
+    # <!--Name-->Caresse du vampire<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Vampiric Touch](srd_spells_vampiric_touch.md)<!--/AltName-->
+
+
+    -  <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->personnelle<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p330)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Le simple contact de votre main enveloppée d'ombres peut siphonner la force vitale d'autrui pour soigner vos propres plaies. Faites une attaque de sort au corps-àcorps contre une créature située à une distance inférieure ou égale à votre allonge. Si vous touchez, elle subit 3d6 dégâts nécrotiques et vous récupérez un total de points de vie égal à la moitié des dégâts infligés. Vous pouvez dépenser votre action à chacun de vos tours pour répéter cette attaque jusqu'à la fin du sort.
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
+
+  AltName: '[Vampiric Touch](srd_spells_vampiric_touch.md)'
+  Type: Nécromancie
+  Level: 3
+  CastingTime: 1 action
+  Range: personnelle
+  Components: V, S
+  Duration: concentration, jusqu'à 1 minute
+  Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+  Source: (MDR p330)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Caresse du vampire
+
+  Markdown: >+
+
+    # <!--Name-->Caresse du vampire<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Vampiric Touch](srd_spells_vampiric_touch.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->personnelle<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p330)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Le simple contact de votre main enveloppée d'ombres peut siphonner la force vitale d'autrui pour soigner vos propres plaies. Faites une attaque de sort au corps-àcorps contre une créature située à une distance inférieure ou égale à votre allonge. Si vous touchez, elle subit 3d6 dégâts nécrotiques et vous récupérez un total de points de vie égal à la moitié des dégâts infligés. Vous pouvez dépenser votre action à chacun de vos tours pour répéter cette attaque jusqu'à la fin du sort.
+
+
+
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
+
+
+
+  AltName: '[Vampiric Touch](srd_spells_vampiric_touch.md)'
+
+  Type: Nécromancie
+
+  Level: 3
+
+  CastingTime: 1 action
+
+  Range: personnelle
+
+  Components: V, S
+
+  Duration: concentration, jusqu'à 1 minute
+
+  Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+
+  Source: (MDR p330)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

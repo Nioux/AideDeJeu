@@ -24,9 +24,241 @@ Name: Stone Giant
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Géant des pierres](hd_monsters_geant_des_pierres.md)'
-Attributes: {}
+Attributes:
+  Name: Stone Giant
+  Markdown: >+
+    # <!--Name-->Stone Giant<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Géant des pierres](hd_monsters_geant_des_pierres.md)<!--/AltName-->
+
+    -  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->126 (11d12 + 55)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->23 (+6)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 9 (-1)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +5, Con +8, Wis +4<!--/SavingThrows-->
+
+    - **Skills** <!--Skills-->Athletics +12, Perception +4<!--/Skills-->
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+    - **Languages** <!--Languages-->Giant<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->7 (2900 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Stone Camouflage_**. The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The giant makes two greatclub attacks.
+
+
+    **_Greatclub_**. Melee Weapon Attack: +9 to hit, reach 15 ft., one target.
+
+
+    _Hit_: 19 (3d8 + 6) bludgeoning damage.
+
+
+    **_Rock_**. Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target.
+
+
+    _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+
+
+    **_Rock Catching_**. If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+
+  AltName: '[Géant des pierres](hd_monsters_geant_des_pierres.md)'
+  Size: Huge
+  Type: giant
+  Alignment: neutral
+  ArmorClass: 17 (natural armor)
+  HitPoints: 126 (11d12 + 55)
+  Speed: 40 ft.
+  Strength: 23 (+6)
+  Dexterity: 15 (+2)
+  Constitution: 20 (+5)
+  Intelligence: 10 (+0)
+  Wisdom: 12 (+1)
+  Charisma: ' 9 (-1)'
+  SavingThrows: Dex +5, Con +8, Wis +4
+  Skills: Athletics +12, Perception +4
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Giant
+  Challenge: 7 (2900 XP)
 AttributesDictionary: >+
-  {}
+  Name: Stone Giant
+
+  Markdown: >+
+
+    # <!--Name-->Stone Giant<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Géant des pierres](hd_monsters_geant_des_pierres.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->126 (11d12 + 55)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->23 (+6)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 9 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +5, Con +8, Wis +4<!--/SavingThrows-->
+
+
+
+    - **Skills** <!--Skills-->Athletics +12, Perception +4<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Giant<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->7 (2900 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Stone Camouflage_**. The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The giant makes two greatclub attacks.
+
+
+
+
+
+    **_Greatclub_**. Melee Weapon Attack: +9 to hit, reach 15 ft., one target.
+
+
+
+
+
+    _Hit_: 19 (3d8 + 6) bludgeoning damage.
+
+
+
+
+
+    **_Rock_**. Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target.
+
+
+
+
+
+    _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+
+
+
+
+
+    **_Rock Catching_**. If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+
+
+
+  AltName: '[Géant des pierres](hd_monsters_geant_des_pierres.md)'
+
+  Size: Huge
+
+  Type: giant
+
+  Alignment: neutral
+
+  ArmorClass: 17 (natural armor)
+
+  HitPoints: 126 (11d12 + 55)
+
+  Speed: 40 ft.
+
+  Strength: 23 (+6)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 20 (+5)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 9 (-1)'
+
+  SavingThrows: Dex +5, Con +8, Wis +4
+
+  Skills: Athletics +12, Perception +4
+
+  Senses: darkvision 60 ft., passive Perception 14
+
+  Languages: Giant
+
+  Challenge: 7 (2900 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

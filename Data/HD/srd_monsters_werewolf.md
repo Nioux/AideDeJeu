@@ -24,9 +24,259 @@ Name: Werewolf
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Loup-garou](hd_monsters_loup_garou.md)'
-Attributes: {}
+Attributes:
+  Name: Werewolf
+  Markdown: >+
+    # <!--Name-->Werewolf<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Loup-garou](hd_monsters_loup_garou.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), chaotic evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->11 in humanoid form, 12 (natural armor) in wolf or hybrid form<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->58 (9d8 + 18)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft. (40 ft. in wolf form)<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->14 (+2)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +4, Stealth +3<!--/Skills-->
+
+    - **Senses** <!--Senses-->passive Perception 14<!--/Senses-->
+
+    - **Languages** <!--Languages-->Common (can't speak in wolf form)<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->3 (700 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered<!--/DamageImmunities-->
+
+
+    ## Special Features
+
+
+    **_Shapechanger_**. The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+
+    **_Keen Hearing and Smell_**. The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+
+    ## Actions
+
+
+    **_Multiattack (Humanoid or Hybrid Form Only)_**. The werewolf makes two attacks: one with its bite and one with its claws or spear.
+
+
+    **_Bite (Wolf or Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+
+
+    **_Claws (Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+
+    _Hit_: 7 (2d4 + 2) slashing damage.
+
+
+    **_Spear (Humanoid Form Only)_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature.
+
+
+    _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+
+  AltName: '[Loup-garou](hd_monsters_loup_garou.md)'
+  Size: Medium
+  Type: humanoid (human
+  Alignment: shapechanger), chaotic evil
+  ArmorClass: 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+  HitPoints: 58 (9d8 + 18)
+  Speed: 30 ft. (40 ft. in wolf form)
+  Strength: 15 (+2)
+  Dexterity: 13 (+1)
+  Constitution: 14 (+2)
+  Intelligence: 10 (+0)
+  Wisdom: 11 (+0)
+  Charisma: 10 (+0)
+  Skills: Perception +4, Stealth +3
+  Senses: passive Perception 14
+  Languages: Common (can't speak in wolf form)
+  Challenge: 3 (700 XP)
+  DamageImmunities: bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
 AttributesDictionary: >+
-  {}
+  Name: Werewolf
+
+  Markdown: >+
+
+    # <!--Name-->Werewolf<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Loup-garou](hd_monsters_loup_garou.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), chaotic evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->11 in humanoid form, 12 (natural armor) in wolf or hybrid form<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->58 (9d8 + 18)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft. (40 ft. in wolf form)<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->14 (+2)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +4, Stealth +3<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->passive Perception 14<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Common (can't speak in wolf form)<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->3 (700 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered<!--/DamageImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Shapechanger_**. The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+
+
+
+
+    **_Keen Hearing and Smell_**. The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack (Humanoid or Hybrid Form Only)_**. The werewolf makes two attacks: one with its bite and one with its claws or spear.
+
+
+
+
+
+    **_Bite (Wolf or Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+
+
+
+
+
+    **_Claws (Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+
+
+
+
+    _Hit_: 7 (2d4 + 2) slashing damage.
+
+
+
+
+
+    **_Spear (Humanoid Form Only)_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature.
+
+
+
+
+
+    _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+
+
+
+  AltName: '[Loup-garou](hd_monsters_loup_garou.md)'
+
+  Size: Medium
+
+  Type: humanoid (human
+
+  Alignment: shapechanger), chaotic evil
+
+  ArmorClass: 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+
+  HitPoints: 58 (9d8 + 18)
+
+  Speed: 30 ft. (40 ft. in wolf form)
+
+  Strength: 15 (+2)
+
+  Dexterity: 13 (+1)
+
+  Constitution: 14 (+2)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 11 (+0)
+
+  Charisma: 10 (+0)
+
+  Skills: Perception +4, Stealth +3
+
+  Senses: passive Perception 14
+
+  Languages: Common (can't speak in wolf form)
+
+  Challenge: 3 (700 XP)
+
+  DamageImmunities: bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

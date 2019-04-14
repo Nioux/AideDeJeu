@@ -25,9 +25,277 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Efreeti](srd_monsters_efreeti.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Éfrit
+  Markdown: >+
+    # <!--Name-->Éfrit<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Efreeti](srd_monsters_efreeti.md)<!--/AltName-->
+
+    -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->200 (16d10+112)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12 m, vol 18 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->22 (+6)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->24 (+7)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->15 (+2)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Int +7, Sag +6, Cha +7<!--/SavingThrows-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu<!--/DamageImmunities-->
+
+    - **Sens** <!--Senses-->vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+    - **Langue** <!--Languages-->ignée<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->11 (7 200 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Incantation innée._** La caractéristique d'incantation de l'éfrit est le [Charisme](hd_abilities_charisma.md) (DD du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts 15, +7 pour toucher avec les attaques de sort). L'éfrit peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+
+
+    * **À volonté :** _[détection de la magie](hd_spells_detection_de_la_magie.md)_
+
+
+    * **3/jour chacun :** _[agrandir/rétrécir](hd_spells_agrandirretrecir.md)_, _[langues](hd_spells_langues.md)_
+
+
+    * **1/jour chacun :** _[changement de plan](hd_spells_changement_de_plan.md)_, _[forme gazeuse](hd_spells_forme_gazeuse.md)_, _[invisibilité](hd_spells_invisibilite.md)_, _[image majeure](hd_spells_image_majeure.md)_, _[invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)_ (élémentaire du feu seulement), _[mur de feu](hd_spells_mur_de_feu.md)_
+
+
+    **_Trépas élémentaire._** Quand l'éfrit meurt, son corps se dissout en un éclat de feu et un nuage de fumée en ne laissant derrière lui que ses objets équipés ou transportés.
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** L'éfrit effectue deux attaques de cimeterre ou utilise deux fois Projeter une flamme.
+
+
+    **_Cimeterre._** Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 13 (2d6+6) dégâts tranchants plus 7 (2d6) dégâts de feu.
+
+
+    **_Projeter une flamme._** Attaque de sort à distance : +7 pour toucher, portée 36 m, une cible.
+
+
+    _Touché :_ 17 (5d6) dégâts de feu.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Efreeti](srd_monsters_efreeti.md)'
+  Type: Élémentaire
+  Size: G
+  Alignment: Loyal Mauvais
+  ArmorClass: 17 (armure naturelle)
+  HitPoints: 200 (16d10+112)
+  Speed: 12 m, vol 18 m
+  Strength: 22 (+6)
+  Dexterity: 12 (+1)
+  Constitution: 24 (+7)
+  Intelligence: 16 (+3)
+  Wisdom: 15 (+2)
+  Charisma: 16 (+3)
+  SavingThrows: Int +7, Sag +6, Cha +7
+  DamageImmunities: de feu
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: ignée
+  Challenge: 11 (7 200 PX)
 AttributesDictionary: >+
-  {}
+  Name: Éfrit
+
+  Markdown: >+
+
+    # <!--Name-->Éfrit<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Efreeti](srd_monsters_efreeti.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->200 (16d10+112)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12 m, vol 18 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->22 (+6)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->24 (+7)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->15 (+2)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Int +7, Sag +6, Cha +7<!--/SavingThrows-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu<!--/DamageImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->ignée<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->11 (7 200 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Incantation innée._** La caractéristique d'incantation de l'éfrit est le [Charisme](hd_abilities_charisma.md) (DD du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts 15, +7 pour toucher avec les attaques de sort). L'éfrit peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+
+
+
+
+
+    * **À volonté :** _[détection de la magie](hd_spells_detection_de_la_magie.md)_
+
+
+
+
+
+    * **3/jour chacun :** _[agrandir/rétrécir](hd_spells_agrandirretrecir.md)_, _[langues](hd_spells_langues.md)_
+
+
+
+
+
+    * **1/jour chacun :** _[changement de plan](hd_spells_changement_de_plan.md)_, _[forme gazeuse](hd_spells_forme_gazeuse.md)_, _[invisibilité](hd_spells_invisibilite.md)_, _[image majeure](hd_spells_image_majeure.md)_, _[invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)_ (élémentaire du feu seulement), _[mur de feu](hd_spells_mur_de_feu.md)_
+
+
+
+
+
+    **_Trépas élémentaire._** Quand l'éfrit meurt, son corps se dissout en un éclat de feu et un nuage de fumée en ne laissant derrière lui que ses objets équipés ou transportés.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** L'éfrit effectue deux attaques de cimeterre ou utilise deux fois Projeter une flamme.
+
+
+
+
+
+    **_Cimeterre._** Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 13 (2d6+6) dégâts tranchants plus 7 (2d6) dégâts de feu.
+
+
+
+
+
+    **_Projeter une flamme._** Attaque de sort à distance : +7 pour toucher, portée 36 m, une cible.
+
+
+
+
+
+    _Touché :_ 17 (5d6) dégâts de feu.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Efreeti](srd_monsters_efreeti.md)'
+
+  Type: Élémentaire
+
+  Size: G
+
+  Alignment: Loyal Mauvais
+
+  ArmorClass: 17 (armure naturelle)
+
+  HitPoints: 200 (16d10+112)
+
+  Speed: 12 m, vol 18 m
+
+  Strength: 22 (+6)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 24 (+7)
+
+  Intelligence: 16 (+3)
+
+  Wisdom: 15 (+2)
+
+  Charisma: 16 (+3)
+
+  SavingThrows: Int +7, Sag +6, Cha +7
+
+  DamageImmunities: de feu
+
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+
+  Languages: ignée
+
+  Challenge: 11 (7 200 PX)
 
 ---
 > [Créatures](hd_monsters.md)

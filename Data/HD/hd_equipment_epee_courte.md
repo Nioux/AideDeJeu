@@ -11,9 +11,76 @@ ParentLink: equipment_hd.md#Équipement
 Name: Épée courte
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Épée courte
+  Markdown: >+
+    # <!--Name-->Épée courte<!--/Name-->
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+    - **Rareté** <!--Rarity-->De guerre<!--/Rarity-->
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+    - **Dégâts** <!--Damages-->1d6 perforant<!--/Damages-->
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+    - **Propriétés** <!--Properties-->[Finesse](hd_weapons_finesse.md), [légère](hd_weapons_legere.md)<!--/Properties-->
+
+  Type: Arme de corps-à-corps
+  Rarity: De guerre
+  Price: 10 po
+  Damages: 1d6 perforant
+  Weight: 1 kg
+  Properties: '[Finesse](hd_weapons_finesse.md), [légère](hd_weapons_legere.md)'
 AttributesDictionary: >+
-  {}
+  Name: Épée courte
+
+  Markdown: >+
+
+    # <!--Name-->Épée courte<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+
+
+    - **Rareté** <!--Rarity-->De guerre<!--/Rarity-->
+
+
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+
+
+    - **Dégâts** <!--Damages-->1d6 perforant<!--/Damages-->
+
+
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+
+
+    - **Propriétés** <!--Properties-->[Finesse](hd_weapons_finesse.md), [légère](hd_weapons_legere.md)<!--/Properties-->
+
+
+
+  Type: Arme de corps-à-corps
+
+  Rarity: De guerre
+
+  Price: 10 po
+
+  Damages: 1d6 perforant
+
+  Weight: 1 kg
+
+  Properties: '[Finesse](hd_weapons_finesse.md), [légère](hd_weapons_legere.md)'
 
 ---
 > [Équipement](hd_equipment.md)

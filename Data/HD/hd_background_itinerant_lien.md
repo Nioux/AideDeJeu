@@ -22,9 +22,121 @@ ParentLink: background_itinerant_hd.md#personnalités-suggérées
 Name: Lien
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Lien
+  Markdown: >+
+    ##### <!--Name-->Lien<!--/Name-->
+
+
+    |d6|Lien|
+
+    |---|---|
+
+    |1|Je fais partie d'un clan ou d'une famille soudée, <!--br-->à qui je dois tout.|
+
+    |2|J'ai évité une sévère correction un jour grâce à <!--br-->un noble (ou une personne haut placée), je lui <!--br-->dois ma vie.|
+
+    |3|J'ai un rival (une personne ou un clan) qui veut <!--br-->m'écraser. Je le surpasserai en tout.|
+
+    |4|Tout ce que je fais, je le fais pour prouver ma <!--br-->valeur aux yeux d'un être aimé.|
+
+    |5|J'ai un puissant protecteur (ou mécène) mais je <!--br-->ne peux entacher son honneur et son nom.|
+
+    |6|Une personne que j'aimais est morte à cause de <!--br-->moi. Je dois me racheter.|
+
+  Table: >+
+    |d6|Lien|
+
+    |---|---|
+
+    |1|Je fais partie d'un clan ou d'une famille soudée, <!--br-->à qui je dois tout.|
+
+    |2|J'ai évité une sévère correction un jour grâce à <!--br-->un noble (ou une personne haut placée), je lui <!--br-->dois ma vie.|
+
+    |3|J'ai un rival (une personne ou un clan) qui veut <!--br-->m'écraser. Je le surpasserai en tout.|
+
+    |4|Tout ce que je fais, je le fais pour prouver ma <!--br-->valeur aux yeux d'un être aimé.|
+
+    |5|J'ai un puissant protecteur (ou mécène) mais je <!--br-->ne peux entacher son honneur et son nom.|
+
+    |6|Une personne que j'aimais est morte à cause de <!--br-->moi. Je dois me racheter.|
+
 AttributesDictionary: >+
-  {}
+  Name: Lien
+
+  Markdown: >+
+
+    ##### <!--Name-->Lien<!--/Name-->
+
+
+
+
+
+    |d6|Lien|
+
+
+
+    |---|---|
+
+
+
+    |1|Je fais partie d'un clan ou d'une famille soudée, <!--br-->à qui je dois tout.|
+
+
+
+    |2|J'ai évité une sévère correction un jour grâce à <!--br-->un noble (ou une personne haut placée), je lui <!--br-->dois ma vie.|
+
+
+
+    |3|J'ai un rival (une personne ou un clan) qui veut <!--br-->m'écraser. Je le surpasserai en tout.|
+
+
+
+    |4|Tout ce que je fais, je le fais pour prouver ma <!--br-->valeur aux yeux d'un être aimé.|
+
+
+
+    |5|J'ai un puissant protecteur (ou mécène) mais je <!--br-->ne peux entacher son honneur et son nom.|
+
+
+
+    |6|Une personne que j'aimais est morte à cause de <!--br-->moi. Je dois me racheter.|
+
+
+
+  Table: >+
+
+    |d6|Lien|
+
+
+
+    |---|---|
+
+
+
+    |1|Je fais partie d'un clan ou d'une famille soudée, <!--br-->à qui je dois tout.|
+
+
+
+    |2|J'ai évité une sévère correction un jour grâce à <!--br-->un noble (ou une personne haut placée), je lui <!--br-->dois ma vie.|
+
+
+
+    |3|J'ai un rival (une personne ou un clan) qui veut <!--br-->m'écraser. Je le surpasserai en tout.|
+
+
+
+    |4|Tout ce que je fais, je le fais pour prouver ma <!--br-->valeur aux yeux d'un être aimé.|
+
+
+
+    |5|J'ai un puissant protecteur (ou mécène) mais je <!--br-->ne peux entacher son honneur et son nom.|
+
+
+
+    |6|Une personne que j'aimais est morte à cause de <!--br-->moi. Je dois me racheter.|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_itinerant_personnalites_suggerees.md)

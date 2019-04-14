@@ -11,9 +11,76 @@ ParentLink: equipment_hd.md#Équipement
 Name: Arc long
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Arc long
+  Markdown: >+
+    # <!--Name-->Arc long<!--/Name-->
+
+
+    - **Type** <!--Type-->Arme à distance<!--/Type-->
+
+    - **Rareté** <!--Rarity-->De guerre<!--/Rarity-->
+
+    - **Prix** <!--Price-->50 po<!--/Price-->
+
+    - **Dégâts** <!--Damages-->1d8 perforant<!--/Damages-->
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+    - **Propriétés** <!--Properties-->[Munitions](hd_weapons_munitions.md) (portée 45/180), [lourde](hd_weapons_lourde.md), [à deux mains](hd_weapons_a_deux_mains.md).<!--/Properties-->
+
+  Type: Arme à distance
+  Rarity: De guerre
+  Price: 50 po
+  Damages: 1d8 perforant
+  Weight: 1 kg
+  Properties: '[Munitions](hd_weapons_munitions.md) (portée 45/180), [lourde](hd_weapons_lourde.md), [à deux mains](hd_weapons_a_deux_mains.md).'
 AttributesDictionary: >+
-  {}
+  Name: Arc long
+
+  Markdown: >+
+
+    # <!--Name-->Arc long<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Arme à distance<!--/Type-->
+
+
+
+    - **Rareté** <!--Rarity-->De guerre<!--/Rarity-->
+
+
+
+    - **Prix** <!--Price-->50 po<!--/Price-->
+
+
+
+    - **Dégâts** <!--Damages-->1d8 perforant<!--/Damages-->
+
+
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+
+
+    - **Propriétés** <!--Properties-->[Munitions](hd_weapons_munitions.md) (portée 45/180), [lourde](hd_weapons_lourde.md), [à deux mains](hd_weapons_a_deux_mains.md).<!--/Properties-->
+
+
+
+  Type: Arme à distance
+
+  Rarity: De guerre
+
+  Price: 50 po
+
+  Damages: 1d8 perforant
+
+  Weight: 1 kg
+
+  Properties: '[Munitions](hd_weapons_munitions.md) (portée 45/180), [lourde](hd_weapons_lourde.md), [à deux mains](hd_weapons_a_deux_mains.md).'
 
 ---
 > [Équipement](hd_equipment.md)

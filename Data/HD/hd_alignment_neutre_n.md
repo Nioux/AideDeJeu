@@ -5,9 +5,37 @@ ParentLink: alignment_hd.md#alignement
 Name: Neutre (N)
 ParentName: Alignement
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: Neutre (N)
+  Markdown: >+
+    #### <!--Name-->Neutre (N)<!--/Name-->
+
+
+    C'est l'alignement de ceux qui préfèrent se tenir à distance des dilemmes moraux et n'aiment pas prendre parti. Ils font ce qui leur paraît approprié sur le moment. Les hommes-lézards, la plupart des druides et de nombreux humains sont d'alignement Neutre.
+
+  Description: >+
+    C'est l'alignement de ceux qui préfèrent se tenir à distance des dilemmes moraux et n'aiment pas prendre parti. Ils font ce qui leur paraît approprié sur le moment. Les hommes-lézards, la plupart des druides et de nombreux humains sont d'alignement Neutre.
+
 AttributesDictionary: >+
-  {}
+  Name: Neutre (N)
+
+  Markdown: >+
+
+    #### <!--Name-->Neutre (N)<!--/Name-->
+
+
+
+
+
+    C'est l'alignement de ceux qui préfèrent se tenir à distance des dilemmes moraux et n'aiment pas prendre parti. Ils font ce qui leur paraît approprié sur le moment. Les hommes-lézards, la plupart des druides et de nombreux humains sont d'alignement Neutre.
+
+
+
+  Description: >+
+
+    C'est l'alignement de ceux qui préfèrent se tenir à distance des dilemmes moraux et n'aiment pas prendre parti. Ils font ce qui leur paraît approprié sur le moment. Les hommes-lézards, la plupart des druides et de nombreux humains sont d'alignement Neutre.
+
+
 
 Description: >+
   C'est l'alignement de ceux qui préfèrent se tenir à distance des dilemmes moraux et n'aiment pas prendre parti. Ils font ce qui leur paraît approprié sur le moment. Les hommes-lézards, la plupart des druides et de nombreux humains sont d'alignement Neutre.

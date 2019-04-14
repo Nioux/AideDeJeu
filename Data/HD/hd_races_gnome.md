@@ -7,9 +7,31 @@ ParentLink: races_hd.md#races
 Name: Gnome
 ParentName: Races
 AltName: '[Gnome](#)'
-Attributes: {}
+Attributes:
+  NameLink: '[Gnome](hd_gnome.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Gnome](hd_gnome.md)<!--/NameLink-->
+
+
+    - SRD: <!--AltName-->[Gnome](#)<!--/AltName-->
+
+  AltName: '[Gnome](#)'
 AttributesDictionary: >+
-  {}
+  NameLink: '[Gnome](hd_gnome.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Gnome](hd_gnome.md)<!--/NameLink-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Gnome](#)<!--/AltName-->
+
+
+
+  AltName: '[Gnome](#)'
 
 ---
 

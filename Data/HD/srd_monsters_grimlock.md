@@ -24,9 +24,223 @@ Name: Grimlock
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Torve](hd_monsters_torve.md)'
-Attributes: {}
+Attributes:
+  Name: Grimlock
+  Markdown: >+
+    # <!--Name-->Grimlock<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Torve](hd_monsters_torve.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (grimlock)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 9 (-1)<!--/Intelligence-->|<!--Wisdom--> 8 (-1)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Athletics +5, Perception +3, Stealth +3<!--/Skills-->
+
+    - **Senses** <!--Senses-->blindsight 30 ft. or 10 ft. while deafened ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 13<!--/Senses-->
+
+    - **Languages** <!--Languages-->Undercommon<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->blinded<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Blind Senses_**. The grimlock can't use its blindsight while deafened and unable to smell.
+
+
+    **_Keen Hearing and Smell_**. The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+
+    **_Stone Camouflage_**. The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+
+
+    ## Actions
+
+
+    **_Spiked Bone Club_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
+
+  AltName: '[Torve](hd_monsters_torve.md)'
+  Size: Medium
+  Type: humanoid (grimlock)
+  Alignment: neutral evil
+  ArmorClass: 11
+  HitPoints: 11 (2d8 + 2)
+  Speed: 30 ft.
+  Strength: 16 (+3)
+  Dexterity: 12 (+1)
+  Constitution: 12 (+1)
+  Intelligence: ' 9 (-1)'
+  Wisdom: ' 8 (-1)'
+  Charisma: ' 6 (-2)'
+  Skills: Athletics +5, Perception +3, Stealth +3
+  Senses: blindsight 30 ft. or 10 ft. while deafened ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 13
+  Languages: Undercommon
+  Challenge: 1/4 (50 XP)
+  ConditionImmunities: blinded
 AttributesDictionary: >+
-  {}
+  Name: Grimlock
+
+  Markdown: >+
+
+    # <!--Name-->Grimlock<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Torve](hd_monsters_torve.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (grimlock)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 9 (-1)<!--/Intelligence-->|<!--Wisdom--> 8 (-1)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Athletics +5, Perception +3, Stealth +3<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->blindsight 30 ft. or 10 ft. while deafened ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 13<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Undercommon<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->blinded<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Blind Senses_**. The grimlock can't use its blindsight while deafened and unable to smell.
+
+
+
+
+
+    **_Keen Hearing and Smell_**. The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+
+
+
+
+    **_Stone Camouflage_**. The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Spiked Bone Club_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
+
+
+
+  AltName: '[Torve](hd_monsters_torve.md)'
+
+  Size: Medium
+
+  Type: humanoid (grimlock)
+
+  Alignment: neutral evil
+
+  ArmorClass: 11
+
+  HitPoints: 11 (2d8 + 2)
+
+  Speed: 30 ft.
+
+  Strength: 16 (+3)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 12 (+1)
+
+  Intelligence: ' 9 (-1)'
+
+  Wisdom: ' 8 (-1)'
+
+  Charisma: ' 6 (-2)'
+
+  Skills: Athletics +5, Perception +3, Stealth +3
+
+  Senses: blindsight 30 ft. or 10 ft. while deafened ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 13
+
+  Languages: Undercommon
+
+  Challenge: 1/4 (50 XP)
+
+  ConditionImmunities: blinded
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

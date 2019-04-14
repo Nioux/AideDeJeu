@@ -26,9 +26,232 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Dragonnet noir
+  Markdown: >+
+    # <!--Name-->Dragonnet noir<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)<!--/AltName-->
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->33 (6d8+6)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, nage 9 m, vol 18 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +4, Con +3, Sag +2, Cha +3<!--/SavingThrows-->
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->d'acide<!--/DamageImmunities-->
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+    - **Langue** <!--Languages-->draconique<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Amphibie._** Le dragon peut respirer à l'air libre et sous l'eau.
+
+
+    ## Actions
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
+
+
+    **_Souffle d'acide (Recharge 5-6)._** Le dragon souffle de l'acide sur une ligne de 4,50 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 11 ; elles subissent 22 (5d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
+  Type: Dragon
+  Size: M
+  Alignment: Chaotique Mauvais
+  ArmorClass: 17 (armure naturelle)
+  HitPoints: 33 (6d8+6)
+  Speed: 9 m, nage 9 m, vol 18 m
+  Strength: 15 (+2)
+  Dexterity: 14 (+2)
+  Constitution: 13 (+1)
+  Intelligence: 10 (+0)
+  Wisdom: 11 (+0)
+  Charisma: 13 (+1)
+  SavingThrows: Dex +4, Con +3, Sag +2, Cha +3
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: d'acide
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 2 (450 PX)
 AttributesDictionary: >+
-  {}
+  Name: Dragonnet noir
+
+  Markdown: >+
+
+    # <!--Name-->Dragonnet noir<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->33 (6d8+6)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, nage 9 m, vol 18 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +4, Con +3, Sag +2, Cha +3<!--/SavingThrows-->
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->d'acide<!--/DamageImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->draconique<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Amphibie._** Le dragon peut respirer à l'air libre et sous l'eau.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
+
+
+
+
+
+    **_Souffle d'acide (Recharge 5-6)._** Le dragon souffle de l'acide sur une ligne de 4,50 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 11 ; elles subissent 22 (5d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
+
+  Type: Dragon
+
+  Size: M
+
+  Alignment: Chaotique Mauvais
+
+  ArmorClass: 17 (armure naturelle)
+
+  HitPoints: 33 (6d8+6)
+
+  Speed: 9 m, nage 9 m, vol 18 m
+
+  Strength: 15 (+2)
+
+  Dexterity: 14 (+2)
+
+  Constitution: 13 (+1)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 11 (+0)
+
+  Charisma: 13 (+1)
+
+  SavingThrows: Dex +4, Con +3, Sag +2, Cha +3
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +4'
+
+  DamageImmunities: d'acide
+
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+
+  Languages: draconique
+
+  Challenge: 2 (450 PX)
 
 ---
 > [Créatures](hd_monsters.md)

@@ -22,9 +22,121 @@ ParentLink: background_membredeguilde_hd.md#personnalités-suggérées
 Name: Idéal
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Idéal
+  Markdown: >+
+    ##### <!--Name-->Idéal<!--/Name-->
+
+
+    |d6|Idéal|
+
+    |---|---|
+
+    |1|**Bien commun.** Mes talents et mes <!--br-->connaissances ne valent que s'ils sont transmis <!--br-->à d'autres. (Bon)|
+
+    |2|**Égalité.** Chacun devrait se voir rémunéré selon <!--br-->son seul mérite. (Neutre)|
+
+    |3|**Indépendance.** Les guildes sont bien plus <!--br-->aptes à gouverner que tous les princes et <!--br-->intrigants. (Chaotique)|
+
+    |4|**Devoir.** Je dois rendre à ma guilde et à ma <!--br-->communauté tout ce qu'elles m'ont apporté. <!--br-->(Loyal)|
+
+    |5|**Pouvoir.** Les concurrents doivent être éliminés <!--br-->par tous les moyens afin d'assurer la primauté <!--br-->de la guilde. (Mauvais)|
+
+    |6|**Ambition.** Il n'y a qu'un seul objectif <!--br-->acceptable : être le meilleur. (Tous)|
+
+  Table: >+
+    |d6|Idéal|
+
+    |---|---|
+
+    |1|**Bien commun.** Mes talents et mes <!--br-->connaissances ne valent que s'ils sont transmis <!--br-->à d'autres. (Bon)|
+
+    |2|**Égalité.** Chacun devrait se voir rémunéré selon <!--br-->son seul mérite. (Neutre)|
+
+    |3|**Indépendance.** Les guildes sont bien plus <!--br-->aptes à gouverner que tous les princes et <!--br-->intrigants. (Chaotique)|
+
+    |4|**Devoir.** Je dois rendre à ma guilde et à ma <!--br-->communauté tout ce qu'elles m'ont apporté. <!--br-->(Loyal)|
+
+    |5|**Pouvoir.** Les concurrents doivent être éliminés <!--br-->par tous les moyens afin d'assurer la primauté <!--br-->de la guilde. (Mauvais)|
+
+    |6|**Ambition.** Il n'y a qu'un seul objectif <!--br-->acceptable : être le meilleur. (Tous)|
+
 AttributesDictionary: >+
-  {}
+  Name: Idéal
+
+  Markdown: >+
+
+    ##### <!--Name-->Idéal<!--/Name-->
+
+
+
+
+
+    |d6|Idéal|
+
+
+
+    |---|---|
+
+
+
+    |1|**Bien commun.** Mes talents et mes <!--br-->connaissances ne valent que s'ils sont transmis <!--br-->à d'autres. (Bon)|
+
+
+
+    |2|**Égalité.** Chacun devrait se voir rémunéré selon <!--br-->son seul mérite. (Neutre)|
+
+
+
+    |3|**Indépendance.** Les guildes sont bien plus <!--br-->aptes à gouverner que tous les princes et <!--br-->intrigants. (Chaotique)|
+
+
+
+    |4|**Devoir.** Je dois rendre à ma guilde et à ma <!--br-->communauté tout ce qu'elles m'ont apporté. <!--br-->(Loyal)|
+
+
+
+    |5|**Pouvoir.** Les concurrents doivent être éliminés <!--br-->par tous les moyens afin d'assurer la primauté <!--br-->de la guilde. (Mauvais)|
+
+
+
+    |6|**Ambition.** Il n'y a qu'un seul objectif <!--br-->acceptable : être le meilleur. (Tous)|
+
+
+
+  Table: >+
+
+    |d6|Idéal|
+
+
+
+    |---|---|
+
+
+
+    |1|**Bien commun.** Mes talents et mes <!--br-->connaissances ne valent que s'ils sont transmis <!--br-->à d'autres. (Bon)|
+
+
+
+    |2|**Égalité.** Chacun devrait se voir rémunéré selon <!--br-->son seul mérite. (Neutre)|
+
+
+
+    |3|**Indépendance.** Les guildes sont bien plus <!--br-->aptes à gouverner que tous les princes et <!--br-->intrigants. (Chaotique)|
+
+
+
+    |4|**Devoir.** Je dois rendre à ma guilde et à ma <!--br-->communauté tout ce qu'elles m'ont apporté. <!--br-->(Loyal)|
+
+
+
+    |5|**Pouvoir.** Les concurrents doivent être éliminés <!--br-->par tous les moyens afin d'assurer la primauté <!--br-->de la guilde. (Mauvais)|
+
+
+
+    |6|**Ambition.** Il n'y a qu'un seul objectif <!--br-->acceptable : être le meilleur. (Tous)|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_membredeguilde_personnalites_suggerees.md)

@@ -15,9 +15,115 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Transport végétal](hd_spells_transport_vegetal.md)'
 Source: (SRD p188)
-Attributes: {}
+Attributes:
+  Name: Transport via Plants
+  Markdown: >+
+    # <!--Name-->Transport via Plants<!--/Name-->
+
+
+    - MDR: <!--AltName-->[Transport végétal](hd_spells_transport_vegetal.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p188)<!--/Source-->
+
+    -  <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+    - **Range :** <!--Range-->10 feet<!--/Range-->
+
+    - **Components :** <!--Components-->V, S<!--/Components-->
+
+    - **Duration :** <!--Duration-->1 round<!--/Duration-->
+
+    - Classes: <!--Classes-->Druid<!--/Classes-->
+
+
+    ### Description
+
+
+    This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
+
+  AltName: '[Transport végétal](hd_spells_transport_vegetal.md)'
+  Source: (SRD p188)
+  Level: 6
+  Type: conjuration
+  CastingTime: 1 action
+  Range: 10 feet
+  Components: V, S
+  Duration: 1 round
+  Classes: Druid
 AttributesDictionary: >+
-  {}
+  Name: Transport via Plants
+
+  Markdown: >+
+
+    # <!--Name-->Transport via Plants<!--/Name-->
+
+
+
+
+
+    - MDR: <!--AltName-->[Transport végétal](hd_spells_transport_vegetal.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p188)<!--/Source-->
+
+
+
+    -  <!--Level-->6<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+
+
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+    - **Range :** <!--Range-->10 feet<!--/Range-->
+
+
+
+    - **Components :** <!--Components-->V, S<!--/Components-->
+
+
+
+    - **Duration :** <!--Duration-->1 round<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->Druid<!--/Classes-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
+
+
+
+  AltName: '[Transport végétal](hd_spells_transport_vegetal.md)'
+
+  Source: (SRD p188)
+
+  Level: 6
+
+  Type: conjuration
+
+  CastingTime: 1 action
+
+  Range: 10 feet
+
+  Components: V, S
+
+  Duration: 1 round
+
+  Classes: Druid
 
 ---
 > [Spells (SRD p)](srd_spells.md)

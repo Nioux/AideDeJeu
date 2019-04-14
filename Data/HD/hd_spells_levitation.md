@@ -15,9 +15,163 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Levitate](srd_spells_levitate.md)'
 Source: (MDR p)(SRD)
-Attributes: {}
+Attributes:
+  Name: Lévitation
+  Markdown: >+
+    # <!--Name-->Lévitation<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Levitate](srd_spells_levitate.md)<!--/AltName-->
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->18 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Une créature ou un objet situé à portée et dans votre champ de vision s'élève à la verticale à une hauteur de 6 mètres et reste suspendu là pendant toute la durée du sort. Ce dernier peut soulever une cible d'au maximum 250 kilogrammes. Si la créature visée n'est pas consentante, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) pour éviter d'être affectée par le sort.
+
+
+    La cible peut se déplacer uniquement en se propulsant ou en se tractant, en prenant appui sur un objet fixe ou une surface à proximité (comme un mur ou un plafond). Elle se meut alors comme si elle était en pleine escalade. Quand vient votre tour, vous pouvez modifier l'altitude de la cible d'un maximum de 6 mètres dans la direction de votre choix. Si vous êtes la cible, vous pouvez monter ou descendre lors de votre déplacement.
+
+
+    En dehors de cela, vous devez dépenser une action pour déplacer la cible qui doit rester à portée du sort.
+
+
+    Si la cible est encore en l'air quand le sort se termine, elle flotte délicatement jusqu'au sol.
+
+  AltName: '[Levitate](srd_spells_levitate.md)'
+  Type: Transmutation
+  Level: 2
+  CastingTime: 1 action
+  Range: 18 mètres
+  Components: V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
+  Duration: concentration, jusqu'à 10 minutes
+  Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+  Source: (MDR p)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Lévitation
+
+  Markdown: >+
+
+    # <!--Name-->Lévitation<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Levitate](srd_spells_levitate.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->18 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Une créature ou un objet situé à portée et dans votre champ de vision s'élève à la verticale à une hauteur de 6 mètres et reste suspendu là pendant toute la durée du sort. Ce dernier peut soulever une cible d'au maximum 250 kilogrammes. Si la créature visée n'est pas consentante, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) pour éviter d'être affectée par le sort.
+
+
+
+
+
+    La cible peut se déplacer uniquement en se propulsant ou en se tractant, en prenant appui sur un objet fixe ou une surface à proximité (comme un mur ou un plafond). Elle se meut alors comme si elle était en pleine escalade. Quand vient votre tour, vous pouvez modifier l'altitude de la cible d'un maximum de 6 mètres dans la direction de votre choix. Si vous êtes la cible, vous pouvez monter ou descendre lors de votre déplacement.
+
+
+
+
+
+    En dehors de cela, vous devez dépenser une action pour déplacer la cible qui doit rester à portée du sort.
+
+
+
+
+
+    Si la cible est encore en l'air quand le sort se termine, elle flotte délicatement jusqu'au sol.
+
+
+
+  AltName: '[Levitate](srd_spells_levitate.md)'
+
+  Type: Transmutation
+
+  Level: 2
+
+  CastingTime: 1 action
+
+  Range: 18 mètres
+
+  Components: V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
+
+  Duration: concentration, jusqu'à 10 minutes
+
+  Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+
+  Source: (MDR p)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

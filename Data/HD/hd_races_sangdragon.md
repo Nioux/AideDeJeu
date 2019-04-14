@@ -7,9 +7,31 @@ ParentLink: races_hd.md#races
 Name: Sangdragon
 ParentName: Races
 AltName: '[Dragonborn](#)'
-Attributes: {}
+Attributes:
+  NameLink: '[Sangdragon](hd_dragonborn.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Sangdragon](hd_dragonborn.md)<!--/NameLink-->
+
+
+    - SRD: <!--AltName-->[Dragonborn](#)<!--/AltName-->
+
+  AltName: '[Dragonborn](#)'
 AttributesDictionary: >+
-  {}
+  NameLink: '[Sangdragon](hd_dragonborn.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Sangdragon](hd_dragonborn.md)<!--/NameLink-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Dragonborn](#)<!--/AltName-->
+
+
+
+  AltName: '[Dragonborn](#)'
 
 ---
 

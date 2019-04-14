@@ -1,13 +1,32 @@
 ﻿---
 !GenericItem
-Name: Pousser, tirer, soulever
 Id: abilities_strength_hd.md#pousser-tirer-soulever
 ParentLink: abilities_strength_hd.md#force
+Name: Pousser, tirer, soulever
 ParentName: Force
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: Pousser, tirer, soulever
+  Markdown: >+
+    ### <!--Name-->Pousser, tirer, soulever<!--/Name-->
+
+
+    Vous pouvez pousser, tirer ou soulever un poids qui fait jusqu'à deux fois votre capacité de charge maximale, soit 15 fois votre valeur de Force. Cela dit, tant que vous poussez ou tirez un poids qui excède votre capacité de charge, votre vitesse est réduite à 1,50 mètres.
+
 AttributesDictionary: >+
-  {}
+  Name: Pousser, tirer, soulever
+
+  Markdown: >+
+
+    ### <!--Name-->Pousser, tirer, soulever<!--/Name-->
+
+
+
+
+
+    Vous pouvez pousser, tirer ou soulever un poids qui fait jusqu'à deux fois votre capacité de charge maximale, soit 15 fois votre valeur de Force. Cela dit, tant que vous poussez ou tirez un poids qui excède votre capacité de charge, votre vitesse est réduite à 1,50 mètres.
+
+
 
 ---
 > [Force](hd_abilities_strength.md)

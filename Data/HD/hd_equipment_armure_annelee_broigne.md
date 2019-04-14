@@ -10,9 +10,76 @@ ParentLink: equipment_hd.md#Équipement
 Name: Armure annelée (Broigne)
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Armure annelée (Broigne)
+  Markdown: >+
+    # <!--Name-->Armure annelée (Broigne)<!--/Name-->
+
+
+    - **Type** <!--Type-->Armure lourde<!--/Type-->
+
+    - **Prix** <!--Price-->30 po<!--/Price-->
+
+    - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
+
+    - **Discrétion** <!--Discretion-->Désavantage<!--/Discretion-->
+
+    - **Poids** <!--Weight-->20 kg<!--/Weight-->
+
+
+    Il s'agit d'une armure de cuir sur laquelle sont cousus de lourds anneaux. Ces anneaux permettent de renforcer l'armure et d'offrir une protection contre les coups d'épée et de hache. Une broigne est de qualité inférieure à une cotte de mailles et est généralement portée par ceux qui n'ont pas les moyens de s'offrir une meilleure armure.
+
+  Type: Armure lourde
+  Price: 30 po
+  ArmorClass: 14
+  Discretion: Désavantage
+  Weight: 20 kg
 AttributesDictionary: >+
-  {}
+  Name: Armure annelée (Broigne)
+
+  Markdown: >+
+
+    # <!--Name-->Armure annelée (Broigne)<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Armure lourde<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->30 po<!--/Price-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
+
+
+
+    - **Discrétion** <!--Discretion-->Désavantage<!--/Discretion-->
+
+
+
+    - **Poids** <!--Weight-->20 kg<!--/Weight-->
+
+
+
+
+
+    Il s'agit d'une armure de cuir sur laquelle sont cousus de lourds anneaux. Ces anneaux permettent de renforcer l'armure et d'offrir une protection contre les coups d'épée et de hache. Une broigne est de qualité inférieure à une cotte de mailles et est généralement portée par ceux qui n'ont pas les moyens de s'offrir une meilleure armure.
+
+
+
+  Type: Armure lourde
+
+  Price: 30 po
+
+  ArmorClass: 14
+
+  Discretion: Désavantage
+
+  Weight: 20 kg
 
 ---
 > [Équipement](hd_equipment.md)

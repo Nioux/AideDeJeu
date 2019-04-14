@@ -14,9 +14,124 @@ Name: Liane chasseresse
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p)
-Attributes: {}
+Attributes:
+  Name: Liane chasseresse
+  Markdown: >+
+    # <!--Name-->Liane chasseresse<!--/Name-->
+
+
+    -  <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+    - **Portée :** <!--Range-->18 mètres<!--/Range-->
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+
+    - Classes: <!--Classes-->[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)<!--/Classes-->
+
+    - Source: <!--Source-->(MDR p)<!--/Source-->
+
+
+    ### Description
+
+
+    Vous invoquez une liane mobile dotée de sarments flexibles et vous la contrôlez pendant toute la durée du sort. Sa vitesse de déplacement est de 1,50 mètre et son allonge est de 3 mètres. La liane se détend subitement lorsque qu'un adversaire passe à sa portée.
+
+
+    La victime doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) ou subir 1d6+7 dégâts contondants et être [entravée](hd_conditions_entrave.md). À son tour, la cible peut effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) pour se libérer en utilisant une action bonus.
+
+
+    La liane a le profil suivant : CA 15, points de vie 30, [Force](hd_abilities_strength.md) 20 (+5), résistance au feu et au froid, immunité à la foudre.
+
+  Type: Invocation
+  Level: 4
+  CastingTime: 1 action
+  Range: 18 mètres
+  Components: V, S
+  Duration: concentration, jusqu'à 1 minute
+  Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+  Source: (MDR p)
 AttributesDictionary: >+
-  {}
+  Name: Liane chasseresse
+
+  Markdown: >+
+
+    # <!--Name-->Liane chasseresse<!--/Name-->
+
+
+
+
+
+    -  <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+    - **Portée :** <!--Range-->18 mètres<!--/Range-->
+
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)<!--/Classes-->
+
+
+
+    - Source: <!--Source-->(MDR p)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Vous invoquez une liane mobile dotée de sarments flexibles et vous la contrôlez pendant toute la durée du sort. Sa vitesse de déplacement est de 1,50 mètre et son allonge est de 3 mètres. La liane se détend subitement lorsque qu'un adversaire passe à sa portée.
+
+
+
+
+
+    La victime doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) ou subir 1d6+7 dégâts contondants et être [entravée](hd_conditions_entrave.md). À son tour, la cible peut effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) pour se libérer en utilisant une action bonus.
+
+
+
+
+
+    La liane a le profil suivant : CA 15, points de vie 30, [Force](hd_abilities_strength.md) 20 (+5), résistance au feu et au froid, immunité à la foudre.
+
+
+
+  Type: Invocation
+
+  Level: 4
+
+  CastingTime: 1 action
+
+  Range: 18 mètres
+
+  Components: V, S
+
+  Duration: concentration, jusqu'à 1 minute
+
+  Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+
+  Source: (MDR p)
 
 ---
 > [Sorts](hd_spells.md)

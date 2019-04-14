@@ -22,9 +22,169 @@ Name: Stirge
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Strige](hd_monsters_strige.md)'
-Attributes: {}
+Attributes:
+  Name: Stirge
+  Markdown: >+
+    # <!--Name-->Stirge<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Strige](hd_monsters_strige.md)<!--/AltName-->
+
+    -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->10 ft., fly 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 4 (-3)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom--> 8 (-1)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 9<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Blood Drain_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
+
+
+    _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss. The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
+
+  AltName: '[Strige](hd_monsters_strige.md)'
+  Size: Tiny
+  Type: beast
+  Alignment: unaligned
+  ArmorClass: 14 (natural armor)
+  HitPoints: 2 (1d4)
+  Speed: 10 ft., fly 40 ft.
+  Strength: ' 4 (-3)'
+  Dexterity: 16 (+3)
+  Constitution: 11 (+0)
+  Intelligence: ' 2 (-4)'
+  Wisdom: ' 8 (-1)'
+  Charisma: ' 6 (-2)'
+  Senses: darkvision 60 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
 AttributesDictionary: >+
-  {}
+  Name: Stirge
+
+  Markdown: >+
+
+    # <!--Name-->Stirge<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Strige](hd_monsters_strige.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->10 ft., fly 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 4 (-3)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom--> 8 (-1)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 9<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Blood Drain_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
+
+
+
+
+
+    _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss. The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
+
+
+
+  AltName: '[Strige](hd_monsters_strige.md)'
+
+  Size: Tiny
+
+  Type: beast
+
+  Alignment: unaligned
+
+  ArmorClass: 14 (natural armor)
+
+  HitPoints: 2 (1d4)
+
+  Speed: 10 ft., fly 40 ft.
+
+  Strength: ' 4 (-3)'
+
+  Dexterity: 16 (+3)
+
+  Constitution: 11 (+0)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: ' 8 (-1)'
+
+  Charisma: ' 6 (-2)'
+
+  Senses: darkvision 60 ft., passive Perception 9
+
+  Languages: '-'
+
+  Challenge: 1/8 (25 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

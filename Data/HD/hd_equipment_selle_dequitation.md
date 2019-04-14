@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Selle d'équitation
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Selle d'équitation
+  Markdown: >+
+    # <!--Name-->Selle d'équitation<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement, sellerie et véhicules à traction<!--/Type-->
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+    - **Poids** <!--Weight-->12,5 kg<!--/Weight-->
+
+  Type: Équipement, sellerie et véhicules à traction
+  Price: 10 po
+  Weight: 12,5 kg
 AttributesDictionary: >+
-  {}
+  Name: Selle d'équitation
+
+  Markdown: >+
+
+    # <!--Name-->Selle d'équitation<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement, sellerie et véhicules à traction<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->12,5 kg<!--/Weight-->
+
+
+
+  Type: Équipement, sellerie et véhicules à traction
+
+  Price: 10 po
+
+  Weight: 12,5 kg
 
 ---
 > [Équipement](hd_equipment.md)

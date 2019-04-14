@@ -8,9 +8,64 @@ ParentName: Manuel des règles
 NameLevel: 1
 AltName: The Order of Combat (SRD p90)
 Source: (MDR p283)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Manuel des règles](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Combattre<!--/Name-->
+
+
+    - AltName: <!--AltName-->The Order of Combat (SRD p90)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p283)<!--/Source-->
+
+  Name: Combattre
+  AltName: The Order of Combat (SRD p90)
+  Source: (MDR p283)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Manuel des règles](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Combattre<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->The Order of Combat (SRD p90)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p283)<!--/Source-->
+
+
+
+  Name: Combattre
+
+  AltName: The Order of Combat (SRD p90)
+
+  Source: (MDR p283)
 
 ---
 >  [Manuel des règles](index.md)

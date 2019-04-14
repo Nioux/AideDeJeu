@@ -8,9 +8,73 @@ ParentName: Cadre de campagne
 NameLevel: 1
 AltName: Magic Items (SRD p206)
 Source: (CDC p129)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Cadre de campagne](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Cadre de campagne](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Objets magiques<!--/Name-->
+
+
+    - AltName: <!--AltName-->Magic Items (SRD p206)<!--/AltName-->
+
+    - Source: <!--Source-->(CDC p129)<!--/Source-->
+
+
+    Les objets magiques sont récupérés dans les caches aux trésors de monstres vaincus ou dans des chambres fortes depuis longtemps oubliées. Ces objets confèrent à leur détenteur des capacités qu'ils ont rarement l'occasion de maîtriser par ailleurs ou complètent leurs capacités par le biais d'une extraordinaire magie.
+
+  Name: Objets magiques
+  AltName: Magic Items (SRD p206)
+  Source: (CDC p129)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Cadre de campagne](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Cadre de campagne](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Objets magiques<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Magic Items (SRD p206)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(CDC p129)<!--/Source-->
+
+
+
+
+
+    Les objets magiques sont récupérés dans les caches aux trésors de monstres vaincus ou dans des chambres fortes depuis longtemps oubliées. Ces objets confèrent à leur détenteur des capacités qu'ils ont rarement l'occasion de maîtriser par ailleurs ou complètent leurs capacités par le biais d'une extraordinaire magie.
+
+
+
+  Name: Objets magiques
+
+  AltName: Magic Items (SRD p206)
+
+  Source: (CDC p129)
 
 ---
 >  [Cadre de campagne](index.md)

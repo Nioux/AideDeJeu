@@ -15,9 +15,154 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Reverse Gravity](srd_spells_reverse_gravity.md)'
 Source: (MDR p)(SRD)
-Attributes: {}
+Attributes:
+  Name: Inversion de la gravité
+  Markdown: >+
+    # <!--Name-->Inversion de la gravité<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Reverse Gravity](srd_spells_reverse_gravity.md)<!--/AltName-->
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->30 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (de la magnétite et de la limaille de fer)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Ce sort inverse la gravité dans un cylindre de 15 mètres de rayon et de 30 mètres de haut centré sur un point de votre choix à portée. Toutes les créatures et tous les objets qui ne sont pas ancrés au sol, d'une manière ou d'une autre, tombent vers le haut jusqu'à atteindre le sommet de la zone affectée par le sort. Une créature peut faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) pour s'accrocher à un objet fixe situé à sa portée, afin d'éviter la chute.
+
+
+    Si un objet solide (comme un plafond) se trouve sur la trajectoire de la chute, les créatures et les objets le percutent comme lors d'une chute ordinaire vers le bas. Si un objet ou une créature atteint le sommet de la zone affectée sans heurter quoi que ce soit, il reste là, à osciller légèrement, pendant toute la durée du sort.
+
+
+    Une fois la durée du sort écoulée, les objets et les créatures affectés retombent au sol.
+
+  AltName: '[Reverse Gravity](srd_spells_reverse_gravity.md)'
+  Type: Transmutation
+  Level: 7
+  CastingTime: 1 action
+  Range: 30 mètres
+  Components: V, S, M (de la magnétite et de la limaille de fer)
+  Duration: concentration, jusqu'à 1 minute
+  Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+  Source: (MDR p)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Inversion de la gravité
+
+  Markdown: >+
+
+    # <!--Name-->Inversion de la gravité<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Reverse Gravity](srd_spells_reverse_gravity.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->30 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (de la magnétite et de la limaille de fer)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Ce sort inverse la gravité dans un cylindre de 15 mètres de rayon et de 30 mètres de haut centré sur un point de votre choix à portée. Toutes les créatures et tous les objets qui ne sont pas ancrés au sol, d'une manière ou d'une autre, tombent vers le haut jusqu'à atteindre le sommet de la zone affectée par le sort. Une créature peut faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) pour s'accrocher à un objet fixe situé à sa portée, afin d'éviter la chute.
+
+
+
+
+
+    Si un objet solide (comme un plafond) se trouve sur la trajectoire de la chute, les créatures et les objets le percutent comme lors d'une chute ordinaire vers le bas. Si un objet ou une créature atteint le sommet de la zone affectée sans heurter quoi que ce soit, il reste là, à osciller légèrement, pendant toute la durée du sort.
+
+
+
+
+
+    Une fois la durée du sort écoulée, les objets et les créatures affectés retombent au sol.
+
+
+
+  AltName: '[Reverse Gravity](srd_spells_reverse_gravity.md)'
+
+  Type: Transmutation
+
+  Level: 7
+
+  CastingTime: 1 action
+
+  Range: 30 mètres
+
+  Components: V, S, M (de la magnétite et de la limaille de fer)
+
+  Duration: concentration, jusqu'à 1 minute
+
+  Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+
+  Source: (MDR p)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

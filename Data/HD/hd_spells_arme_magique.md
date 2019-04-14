@@ -15,9 +15,145 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Magic Weapon](srd_spells_magic_weapon.md)'
 Source: (MDR p324)(SRD)
-Attributes: {}
+Attributes:
+  Name: Arme magique
+  Markdown: >+
+    # <!--Name-->Arme magique<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Magic Weapon](srd_spells_magic_weapon.md)<!--/AltName-->
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Magicien](hd_wizard.md), [Paladin](hd_paladin.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p324)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique et bénéficie d'un bonus de +1 aux jets d'attaque et de dégâts.
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le bonus passe à +2, et à +3 si vous utilisez un emplacement de niveau 6 ou plus.
+
+  AltName: '[Magic Weapon](srd_spells_magic_weapon.md)'
+  Type: Transmutation
+  Level: 2
+  CastingTime: 1 action bonus
+  Range: contact
+  Components: V, S
+  Duration: concentration, jusqu'à 1 heure
+  Classes: '[Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
+  Source: (MDR p324)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Arme magique
+
+  Markdown: >+
+
+    # <!--Name-->Arme magique<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Magic Weapon](srd_spells_magic_weapon.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Magicien](hd_wizard.md), [Paladin](hd_paladin.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p324)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique et bénéficie d'un bonus de +1 aux jets d'attaque et de dégâts.
+
+
+
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le bonus passe à +2, et à +3 si vous utilisez un emplacement de niveau 6 ou plus.
+
+
+
+  AltName: '[Magic Weapon](srd_spells_magic_weapon.md)'
+
+  Type: Transmutation
+
+  Level: 2
+
+  CastingTime: 1 action bonus
+
+  Range: contact
+
+  Components: V, S
+
+  Duration: concentration, jusqu'à 1 heure
+
+  Classes: '[Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
+
+  Source: (MDR p324)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

@@ -25,9 +25,268 @@ Name: Young Gold Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)"
-Attributes: {}
+Attributes:
+  Name: Young Gold Dragon
+  Markdown: >+
+    # <!--Name-->Young Gold Dragon<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->178 (17d10 + 85)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->23 (+6)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->21 (+5)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->20 (+5)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +6, Con +9, Wis +5, Cha +9<!--/SavingThrows-->
+
+    - **Skills** <!--Skills-->Insight +5, Perception +9, Persuasion +9, Stealth +6<!--/Skills-->
+
+    - **Senses** <!--Senses-->blindsight 30 ft., darkvision 120 ft., passive Perception 19<!--/Senses-->
+
+    - **Languages** <!--Languages-->Common, Draconic<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->10 (5900 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->fire<!--/DamageImmunities-->
+
+
+    ## Special Features
+
+
+    **_Amphibious_**. The dragon can breathe air and water.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
+
+
+    **_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
+
+
+    _Hit_: 17 (2d10 + 6) piercing damage.
+
+
+    **_Claw_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 13 (2d6 + 6) slashing damage.
+
+
+    **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
+
+
+    **_Fire Breath_**. The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+
+    **_Weakening Breath_**. The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+  AltName: "[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)"
+  Size: Large
+  Type: dragon
+  Alignment: lawful good
+  ArmorClass: 18 (natural armor)
+  HitPoints: 178 (17d10 + 85)
+  Speed: 40 ft., fly 80 ft., swim 40 ft.
+  Strength: 23 (+6)
+  Dexterity: 14 (+2)
+  Constitution: 21 (+5)
+  Intelligence: 16 (+3)
+  Wisdom: 13 (+1)
+  Charisma: 20 (+5)
+  SavingThrows: Dex +6, Con +9, Wis +5, Cha +9
+  Skills: Insight +5, Perception +9, Persuasion +9, Stealth +6
+  Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 19
+  Languages: Common, Draconic
+  Challenge: 10 (5900 XP)
+  DamageImmunities: fire
 AttributesDictionary: >+
-  {}
+  Name: Young Gold Dragon
+
+  Markdown: >+
+
+    # <!--Name-->Young Gold Dragon<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->178 (17d10 + 85)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->23 (+6)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->21 (+5)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->20 (+5)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +6, Con +9, Wis +5, Cha +9<!--/SavingThrows-->
+
+
+
+    - **Skills** <!--Skills-->Insight +5, Perception +9, Persuasion +9, Stealth +6<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->blindsight 30 ft., darkvision 120 ft., passive Perception 19<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Common, Draconic<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->10 (5900 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->fire<!--/DamageImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Amphibious_**. The dragon can breathe air and water.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
+
+
+
+
+
+    _Hit_: 17 (2d10 + 6) piercing damage.
+
+
+
+
+
+    **_Claw_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 13 (2d6 + 6) slashing damage.
+
+
+
+
+
+    **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
+
+
+
+
+
+    **_Fire Breath_**. The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+
+
+
+
+    **_Weakening Breath_**. The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+
+  AltName: "[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)"
+
+  Size: Large
+
+  Type: dragon
+
+  Alignment: lawful good
+
+  ArmorClass: 18 (natural armor)
+
+  HitPoints: 178 (17d10 + 85)
+
+  Speed: 40 ft., fly 80 ft., swim 40 ft.
+
+  Strength: 23 (+6)
+
+  Dexterity: 14 (+2)
+
+  Constitution: 21 (+5)
+
+  Intelligence: 16 (+3)
+
+  Wisdom: 13 (+1)
+
+  Charisma: 20 (+5)
+
+  SavingThrows: Dex +6, Con +9, Wis +5, Cha +9
+
+  Skills: Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+  Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+  Languages: Common, Draconic
+
+  Challenge: 10 (5900 XP)
+
+  DamageImmunities: fire
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

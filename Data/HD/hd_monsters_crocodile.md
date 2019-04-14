@@ -24,9 +24,205 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Crocodile](srd_monsters_crocodile.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Crocodile
+  Markdown: >+
+    # <!--Name-->Crocodile<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Crocodile](srd_monsters_crocodile.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->6 m, nage 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Compétence** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +2<!--/Skills-->
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Retenir son souffle._** Le crocodile peut retenir son souffle pendant 15 minutes.
+
+
+    ## Actions
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+
+    _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée](hd_conditions_empoigne.md) (évasion DD 12). Jusqu'à la fin de cette empoignade, la cible est [entravée](hd_conditions_entrave.md) et le crocodile ne peut pas mordre une autre cible.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Crocodile](srd_monsters_crocodile.md)'
+  Type: Bête
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 12 (armure naturelle)
+  HitPoints: 19 (3d10+3)
+  Speed: 6 m, nage 9 m
+  Strength: 15 (+2)
+  Dexterity: 10 (+0)
+  Constitution: 13 (+1)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 10 (+0)
+  Charisma: ' 5 (-3)'
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 1/2 (100 PX)
 AttributesDictionary: >+
-  {}
+  Name: Crocodile
+
+  Markdown: >+
+
+    # <!--Name-->Crocodile<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Crocodile](srd_monsters_crocodile.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->6 m, nage 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétence** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +2<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Retenir son souffle._** Le crocodile peut retenir son souffle pendant 15 minutes.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+
+
+
+
+    _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée](hd_conditions_empoigne.md) (évasion DD 12). Jusqu'à la fin de cette empoignade, la cible est [entravée](hd_conditions_entrave.md) et le crocodile ne peut pas mordre une autre cible.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Crocodile](srd_monsters_crocodile.md)'
+
+  Type: Bête
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 12 (armure naturelle)
+
+  HitPoints: 19 (3d10+3)
+
+  Speed: 6 m, nage 9 m
+
+  Strength: 15 (+2)
+
+  Dexterity: 10 (+0)
+
+  Constitution: 13 (+1)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 5 (-3)'
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
+
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+
+  Languages: —
+
+  Challenge: 1/2 (100 PX)
 
 ---
 > [Créatures](hd_monsters.md)

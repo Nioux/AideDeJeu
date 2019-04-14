@@ -9,9 +9,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Chameau
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Chameau
+  Markdown: >+
+    # <!--Name-->Chameau<!--/Name-->
+
+
+    - **Type** <!--Type-->Monture<!--/Type-->
+
+    - **Prix** <!--Price-->50 po<!--/Price-->
+
+    - **Vitesse** <!--Speed-->15 m<!--/Speed-->
+
+    - **Capacité de charge** <!--WeightCapacity-->240 kg<!--/WeightCapacity-->
+
+  Type: Monture
+  Price: 50 po
+  Speed: 15 m
+  WeightCapacity: 240 kg
 AttributesDictionary: >+
-  {}
+  Name: Chameau
+
+  Markdown: >+
+
+    # <!--Name-->Chameau<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Monture<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->50 po<!--/Price-->
+
+
+
+    - **Vitesse** <!--Speed-->15 m<!--/Speed-->
+
+
+
+    - **Capacité de charge** <!--WeightCapacity-->240 kg<!--/WeightCapacity-->
+
+
+
+  Type: Monture
+
+  Price: 50 po
+
+  Speed: 15 m
+
+  WeightCapacity: 240 kg
 
 ---
 > [Équipement](hd_equipment.md)

@@ -9,9 +9,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Seau
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Seau
+  Markdown: >+
+    # <!--Name-->Seau<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->5 pc<!--/Price-->
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+    - **Capacité** <!--Capacity-->10 L de liquide, 15 L de solide<!--/Capacity-->
+
+  Type: Équipement d'aventurier
+  Price: 5 pc
+  Weight: 1 kg
+  Capacity: 10 L de liquide, 15 L de solide
 AttributesDictionary: >+
-  {}
+  Name: Seau
+
+  Markdown: >+
+
+    # <!--Name-->Seau<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->5 pc<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+
+
+    - **Capacité** <!--Capacity-->10 L de liquide, 15 L de solide<!--/Capacity-->
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 5 pc
+
+  Weight: 1 kg
+
+  Capacity: 10 L de liquide, 15 L de solide
 
 ---
 > [Équipement](hd_equipment.md)

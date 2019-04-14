@@ -26,9 +26,295 @@ Name: Planetar
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Planétar](hd_monsters_planetar.md)'
-Attributes: {}
+Attributes:
+  Name: Planetar
+  Markdown: >+
+    # <!--Name-->Planetar<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Planétar](hd_monsters_planetar.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->200 (16d10 + 112)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->40 ft., fly 120 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->24 (+7)<!--/Strength-->|<!--Dexterity-->20 (+5)<!--/Dexterity-->|<!--Constitution-->24 (+7)<!--/Constitution-->|<!--Intelligence-->19 (+4)<!--/Intelligence-->|<!--Wisdom-->22 (+6)<!--/Wisdom-->|<!--Charisma-->25 (+7)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Con +12, Wis +11, Cha +12<!--/SavingThrows-->
+
+    - **Skills** <!--Skills-->Perception +11<!--/Skills-->
+
+    - **Senses** <!--Senses-->truesight 120 ft., passive Perception 21<!--/Senses-->
+
+    - **Languages** <!--Languages-->all, telepathy 120 ft.<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->16 (15000 XP)<!--/Challenge-->
+
+    - **Damage Resistances** <!--DamageResistances-->radiant; bludgeoning, piercing, and slashing from nonmagical attacks<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->charmed, exhaustion, frightened<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Angelic Weapons_**. The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).
+
+
+    **_Divine Awareness_**. The planetar knows if it hears a lie.
+
+
+    **_Innate Spellcasting_**. The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
+
+
+    At will: _[detect evil and good](srd_spells_detect_evil_and_good.md)_, _[invisibility](srd_spells_invisibility.md)_ (self only)
+
+
+    3/day each: _[blade barrier](srd_spells_blade_barrier.md)_, _[dispel evil and good](srd_spells_dispel_evil_and_good.md)_, _[flame strike](srd_spells_flame_strike.md)_, _[raise dead](srd_spells_raise_dead.md)_
+
+
+    1/day each: _[commune](srd_spells_commune.md)_, _[control weather](srd_spells_control_weather.md)_, _[insect plague](srd_spells_insect_plague.md)_
+
+
+    **_Magic Resistance_**. The planetar has advantage on saving throws against spells and other magical effects.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The planetar makes two melee attacks.
+
+
+    **_Greatsword_**. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
+
+
+    **_Healing Touch (4/Day)_**. The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+
+  AltName: '[Planétar](hd_monsters_planetar.md)'
+  Size: Large
+  Type: celestial
+  Alignment: lawful good
+  ArmorClass: 19 (natural armor)
+  HitPoints: 200 (16d10 + 112)
+  Speed: 40 ft., fly 120 ft.
+  Strength: 24 (+7)
+  Dexterity: 20 (+5)
+  Constitution: 24 (+7)
+  Intelligence: 19 (+4)
+  Wisdom: 22 (+6)
+  Charisma: 25 (+7)
+  SavingThrows: Con +12, Wis +11, Cha +12
+  Skills: Perception +11
+  Senses: truesight 120 ft., passive Perception 21
+  Languages: all, telepathy 120 ft.
+  Challenge: 16 (15000 XP)
+  DamageResistances: radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+  ConditionImmunities: charmed, exhaustion, frightened
 AttributesDictionary: >+
-  {}
+  Name: Planetar
+
+  Markdown: >+
+
+    # <!--Name-->Planetar<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Planétar](hd_monsters_planetar.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->200 (16d10 + 112)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->40 ft., fly 120 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->24 (+7)<!--/Strength-->|<!--Dexterity-->20 (+5)<!--/Dexterity-->|<!--Constitution-->24 (+7)<!--/Constitution-->|<!--Intelligence-->19 (+4)<!--/Intelligence-->|<!--Wisdom-->22 (+6)<!--/Wisdom-->|<!--Charisma-->25 (+7)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Con +12, Wis +11, Cha +12<!--/SavingThrows-->
+
+
+
+    - **Skills** <!--Skills-->Perception +11<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->truesight 120 ft., passive Perception 21<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->all, telepathy 120 ft.<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->16 (15000 XP)<!--/Challenge-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->radiant; bludgeoning, piercing, and slashing from nonmagical attacks<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->charmed, exhaustion, frightened<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Angelic Weapons_**. The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).
+
+
+
+
+
+    **_Divine Awareness_**. The planetar knows if it hears a lie.
+
+
+
+
+
+    **_Innate Spellcasting_**. The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
+
+
+
+
+
+    At will: _[detect evil and good](srd_spells_detect_evil_and_good.md)_, _[invisibility](srd_spells_invisibility.md)_ (self only)
+
+
+
+
+
+    3/day each: _[blade barrier](srd_spells_blade_barrier.md)_, _[dispel evil and good](srd_spells_dispel_evil_and_good.md)_, _[flame strike](srd_spells_flame_strike.md)_, _[raise dead](srd_spells_raise_dead.md)_
+
+
+
+
+
+    1/day each: _[commune](srd_spells_commune.md)_, _[control weather](srd_spells_control_weather.md)_, _[insect plague](srd_spells_insect_plague.md)_
+
+
+
+
+
+    **_Magic Resistance_**. The planetar has advantage on saving throws against spells and other magical effects.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The planetar makes two melee attacks.
+
+
+
+
+
+    **_Greatsword_**. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
+
+
+
+
+
+    **_Healing Touch (4/Day)_**. The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+
+
+
+  AltName: '[Planétar](hd_monsters_planetar.md)'
+
+  Size: Large
+
+  Type: celestial
+
+  Alignment: lawful good
+
+  ArmorClass: 19 (natural armor)
+
+  HitPoints: 200 (16d10 + 112)
+
+  Speed: 40 ft., fly 120 ft.
+
+  Strength: 24 (+7)
+
+  Dexterity: 20 (+5)
+
+  Constitution: 24 (+7)
+
+  Intelligence: 19 (+4)
+
+  Wisdom: 22 (+6)
+
+  Charisma: 25 (+7)
+
+  SavingThrows: Con +12, Wis +11, Cha +12
+
+  Skills: Perception +11
+
+  Senses: truesight 120 ft., passive Perception 21
+
+  Languages: all, telepathy 120 ft.
+
+  Challenge: 16 (15000 XP)
+
+  DamageResistances: radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+
+  ConditionImmunities: charmed, exhaustion, frightened
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

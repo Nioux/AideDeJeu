@@ -10,9 +10,67 @@ ParentLink: bard_hd.md#barde
 Name: Maîtrises
 ParentName: Barde
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Maîtrises
+  Markdown: >+
+    ## <!--Name-->Maîtrises<!--/Name-->
+
+
+    **Armures :** <!--Armor-->armures légères<!--/Armor-->
+
+    **Armes :** <!--Weapons-->armes courantes, arbalète de poing, épée longue, rapière, épée courte<!--/Weapons-->
+
+    **Outils :** <!--Tools-->trois instruments de musique de votre choix<!--/Tools-->
+
+    **Jets de sauvegarde :** <!--SavingThrows-->[Dextérité](hd_abilities_dexterity.md), [Charisme](hd_abilities_charisma.md)<!--/SavingThrows-->
+
+    **Compétences :** <!--Skills-->trois au choix<!--/Skills-->
+
+  Armor: armures légères
+  Weapons: armes courantes, arbalète de poing, épée longue, rapière, épée courte
+  Tools: trois instruments de musique de votre choix
+  SavingThrows: '[Dextérité](hd_abilities_dexterity.md), [Charisme](hd_abilities_charisma.md)'
+  Skills: trois au choix
 AttributesDictionary: >+
-  {}
+  Name: Maîtrises
+
+  Markdown: >+
+
+    ## <!--Name-->Maîtrises<!--/Name-->
+
+
+
+
+
+    **Armures :** <!--Armor-->armures légères<!--/Armor-->
+
+
+
+    **Armes :** <!--Weapons-->armes courantes, arbalète de poing, épée longue, rapière, épée courte<!--/Weapons-->
+
+
+
+    **Outils :** <!--Tools-->trois instruments de musique de votre choix<!--/Tools-->
+
+
+
+    **Jets de sauvegarde :** <!--SavingThrows-->[Dextérité](hd_abilities_dexterity.md), [Charisme](hd_abilities_charisma.md)<!--/SavingThrows-->
+
+
+
+    **Compétences :** <!--Skills-->trois au choix<!--/Skills-->
+
+
+
+  Armor: armures légères
+
+  Weapons: armes courantes, arbalète de poing, épée longue, rapière, épée courte
+
+  Tools: trois instruments de musique de votre choix
+
+  SavingThrows: '[Dextérité](hd_abilities_dexterity.md), [Charisme](hd_abilities_charisma.md)'
+
+  Skills: trois au choix
 
 ---
 > [Barde](hd_bard.md)

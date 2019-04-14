@@ -8,9 +8,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Étui pour carreaux
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Étui pour carreaux
+  Markdown: >+
+    # <!--Name-->Étui pour carreaux<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->1 po<!--/Price-->
+
+    - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
+
+
+    Cet étui de bois peut contenir jusqu'à vingt carreaux d'arbalète.
+
+  Type: Équipement d'aventurier
+  Price: 1 po
+  Weight: 0,5 kg
 AttributesDictionary: >+
-  {}
+  Name: Étui pour carreaux
+
+  Markdown: >+
+
+    # <!--Name-->Étui pour carreaux<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->1 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
+
+
+
+
+
+    Cet étui de bois peut contenir jusqu'à vingt carreaux d'arbalète.
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 1 po
+
+  Weight: 0,5 kg
 
 ---
 > [Équipement](hd_equipment.md)

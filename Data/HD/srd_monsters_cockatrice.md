@@ -22,9 +22,169 @@ Name: Cockatrice
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Cockatrice](hd_monsters_cockatrice.md)'
-Attributes: {}
+Attributes:
+  Name: Cockatrice
+  Markdown: >+
+    # <!--Name-->Cockatrice<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Cockatrice](hd_monsters_cockatrice.md)<!--/AltName-->
+
+    -  <!--Size-->Small<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->27 (6d6 + 6)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->20 ft., fly 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 6 (-2)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 11<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/2 (100 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
+
+
+    _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+
+  AltName: '[Cockatrice](hd_monsters_cockatrice.md)'
+  Size: Small
+  Type: monstrosity
+  Alignment: unaligned
+  ArmorClass: 11
+  HitPoints: 27 (6d6 + 6)
+  Speed: 20 ft., fly 40 ft.
+  Strength: ' 6 (-2)'
+  Dexterity: 12 (+1)
+  Constitution: 12 (+1)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 13 (+1)
+  Charisma: ' 5 (-3)'
+  Senses: darkvision 60 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
 AttributesDictionary: >+
-  {}
+  Name: Cockatrice
+
+  Markdown: >+
+
+    # <!--Name-->Cockatrice<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Cockatrice](hd_monsters_cockatrice.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Small<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->27 (6d6 + 6)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->20 ft., fly 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 6 (-2)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 11<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/2 (100 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
+
+
+
+
+
+    _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+
+
+
+  AltName: '[Cockatrice](hd_monsters_cockatrice.md)'
+
+  Size: Small
+
+  Type: monstrosity
+
+  Alignment: unaligned
+
+  ArmorClass: 11
+
+  HitPoints: 27 (6d6 + 6)
+
+  Speed: 20 ft., fly 40 ft.
+
+  Strength: ' 6 (-2)'
+
+  Dexterity: 12 (+1)
+
+  Constitution: 12 (+1)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 13 (+1)
+
+  Charisma: ' 5 (-3)'
+
+  Senses: darkvision 60 ft., passive Perception 11
+
+  Languages: '-'
+
+  Challenge: 1/2 (100 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

@@ -26,9 +26,145 @@ ParentLink: background_serviteur_hd.md#personnalités-suggérées
 Name: Trait de personnalité
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Trait de personnalité
+  Markdown: >+
+    ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+
+    |d8|Trait de personnalité|
+
+    |---|---|
+
+    |1|Je garde mon calme en toute situation.|
+
+    |2|Malgré mon statut, je m'estime supérieur à la <!--br-->plupart de mes contemporains.|
+
+    |3|Je suis une tombe qui sait garder les secrets <!--br-->comme personne.|
+
+    |4|Je juge du caractère d'une personne <!--br-->simplement en regardant sa manière <!--br-->d'interagir avec des individus d'un statut social <!--br-->inférieur.|
+
+    |5|Je ne peux m'empêcher de glisser quelques <!--br-->piques ironiques dans chacun de mes propos.|
+
+    |6|J'aime le travail bien fait et ne supporte pas les <!--br-->tire-au-flanc.|
+
+    |7|Je suis une source intarissable d'anecdotes <!--br-->amusantes, que je prends un malin plaisir à <!--br-->distiller au moment opportun.|
+
+    |8|Quelle que soit la situation, je reste souriant et <!--br-->enjoué.|
+
+  Table: >+
+    |d8|Trait de personnalité|
+
+    |---|---|
+
+    |1|Je garde mon calme en toute situation.|
+
+    |2|Malgré mon statut, je m'estime supérieur à la <!--br-->plupart de mes contemporains.|
+
+    |3|Je suis une tombe qui sait garder les secrets <!--br-->comme personne.|
+
+    |4|Je juge du caractère d'une personne <!--br-->simplement en regardant sa manière <!--br-->d'interagir avec des individus d'un statut social <!--br-->inférieur.|
+
+    |5|Je ne peux m'empêcher de glisser quelques <!--br-->piques ironiques dans chacun de mes propos.|
+
+    |6|J'aime le travail bien fait et ne supporte pas les <!--br-->tire-au-flanc.|
+
+    |7|Je suis une source intarissable d'anecdotes <!--br-->amusantes, que je prends un malin plaisir à <!--br-->distiller au moment opportun.|
+
+    |8|Quelle que soit la situation, je reste souriant et <!--br-->enjoué.|
+
 AttributesDictionary: >+
-  {}
+  Name: Trait de personnalité
+
+  Markdown: >+
+
+    ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+
+
+
+
+    |d8|Trait de personnalité|
+
+
+
+    |---|---|
+
+
+
+    |1|Je garde mon calme en toute situation.|
+
+
+
+    |2|Malgré mon statut, je m'estime supérieur à la <!--br-->plupart de mes contemporains.|
+
+
+
+    |3|Je suis une tombe qui sait garder les secrets <!--br-->comme personne.|
+
+
+
+    |4|Je juge du caractère d'une personne <!--br-->simplement en regardant sa manière <!--br-->d'interagir avec des individus d'un statut social <!--br-->inférieur.|
+
+
+
+    |5|Je ne peux m'empêcher de glisser quelques <!--br-->piques ironiques dans chacun de mes propos.|
+
+
+
+    |6|J'aime le travail bien fait et ne supporte pas les <!--br-->tire-au-flanc.|
+
+
+
+    |7|Je suis une source intarissable d'anecdotes <!--br-->amusantes, que je prends un malin plaisir à <!--br-->distiller au moment opportun.|
+
+
+
+    |8|Quelle que soit la situation, je reste souriant et <!--br-->enjoué.|
+
+
+
+  Table: >+
+
+    |d8|Trait de personnalité|
+
+
+
+    |---|---|
+
+
+
+    |1|Je garde mon calme en toute situation.|
+
+
+
+    |2|Malgré mon statut, je m'estime supérieur à la <!--br-->plupart de mes contemporains.|
+
+
+
+    |3|Je suis une tombe qui sait garder les secrets <!--br-->comme personne.|
+
+
+
+    |4|Je juge du caractère d'une personne <!--br-->simplement en regardant sa manière <!--br-->d'interagir avec des individus d'un statut social <!--br-->inférieur.|
+
+
+
+    |5|Je ne peux m'empêcher de glisser quelques <!--br-->piques ironiques dans chacun de mes propos.|
+
+
+
+    |6|J'aime le travail bien fait et ne supporte pas les <!--br-->tire-au-flanc.|
+
+
+
+    |7|Je suis une source intarissable d'anecdotes <!--br-->amusantes, que je prends un malin plaisir à <!--br-->distiller au moment opportun.|
+
+
+
+    |8|Quelle que soit la situation, je reste souriant et <!--br-->enjoué.|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_serviteur_personnalites_suggerees.md)

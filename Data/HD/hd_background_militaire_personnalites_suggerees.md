@@ -5,9 +5,37 @@ ParentLink: background_militaire_hd.md#militaire
 Name: Personnalités suggérées
 ParentName: Militaire
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: Personnalités suggérées
+  Markdown: >+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+    Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'hommes d'armes survivent au chaos de la bataille sans être profondément affectés. Ils voient à la fois le plus laid et le plus beau en l'homme : la violence et la barbarie, l'héroïsme et le sens du sacrifice.
+
+  Description: >+
+    Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'hommes d'armes survivent au chaos de la bataille sans être profondément affectés. Ils voient à la fois le plus laid et le plus beau en l'homme : la violence et la barbarie, l'héroïsme et le sens du sacrifice.
+
 AttributesDictionary: >+
-  {}
+  Name: Personnalités suggérées
+
+  Markdown: >+
+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+
+
+
+    Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'hommes d'armes survivent au chaos de la bataille sans être profondément affectés. Ils voient à la fois le plus laid et le plus beau en l'homme : la violence et la barbarie, l'héroïsme et le sens du sacrifice.
+
+
+
+  Description: >+
+
+    Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'hommes d'armes survivent au chaos de la bataille sans être profondément affectés. Ils voient à la fois le plus laid et le plus beau en l'homme : la violence et la barbarie, l'héroïsme et le sens du sacrifice.
+
+
 
 Description: >+
   Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'hommes d'armes survivent au chaos de la bataille sans être profondément affectés. Ils voient à la fois le plus laid et le plus beau en l'homme : la violence et la barbarie, l'héroïsme et le sens du sacrifice.

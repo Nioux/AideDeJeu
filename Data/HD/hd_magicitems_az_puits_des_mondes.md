@@ -9,9 +9,70 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Well of Many Worlds (SRD p250)
 Source: (COC p180)
-Attributes: {}
+Attributes:
+  Name: Puits des mondes
+  Markdown: >+
+    ### <!--Name-->Puits des mondes<!--/Name-->
+
+
+    - AltName: <!--AltName-->Well of Many Worlds (SRD p250)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p180)<!--/Source-->
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity-->
+
+
+    Ce morceau d'étoffe noire, fine et douce comme la soie, peut se plier pour adopter les dimensions d'un mouchoir. On peut le déplier pour former une étendue circulaire de 1,80 mètre de diamètre.
+
+
+    Vous pouvez utiliser une action pour déplier et positionner le puits des mondes contre une surface solide et créer ainsi un portail, empruntable dans les deux sens, qui permet de voyager vers un autre monde ou plan d'existence. Chaque fois que l'objet ouvre un portail, le MJ décide de l'endroit où il mène. Vous pouvez utiliser une action pour fermer un portail ouvert en prenant les bords du morceau d'étoffe et en le repliant. Une fois qu'un portail a été ouvert grâce au puits des mondes, il faut attendre 1d8 heures avant que cet objet magique ne puisse en ouvrir un nouveau.
+
+  AltName: Well of Many Worlds (SRD p250)
+  Source: (COC p180)
+  Type: Objet merveilleux
+  Rarity: légendaire
 AttributesDictionary: >+
-  {}
+  Name: Puits des mondes
+
+  Markdown: >+
+
+    ### <!--Name-->Puits des mondes<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Well of Many Worlds (SRD p250)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p180)<!--/Source-->
+
+
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity-->
+
+
+
+
+
+    Ce morceau d'étoffe noire, fine et douce comme la soie, peut se plier pour adopter les dimensions d'un mouchoir. On peut le déplier pour former une étendue circulaire de 1,80 mètre de diamètre.
+
+
+
+
+
+    Vous pouvez utiliser une action pour déplier et positionner le puits des mondes contre une surface solide et créer ainsi un portail, empruntable dans les deux sens, qui permet de voyager vers un autre monde ou plan d'existence. Chaque fois que l'objet ouvre un portail, le MJ décide de l'endroit où il mène. Vous pouvez utiliser une action pour fermer un portail ouvert en prenant les bords du morceau d'étoffe et en le repliant. Une fois qu'un portail a été ouvert grâce au puits des mondes, il faut attendre 1d8 heures avant que cet objet magique ne puisse en ouvrir un nouveau.
+
+
+
+  AltName: Well of Many Worlds (SRD p250)
+
+  Source: (COC p180)
+
+  Type: Objet merveilleux
+
+  Rarity: légendaire
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

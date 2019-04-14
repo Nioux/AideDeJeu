@@ -5,9 +5,37 @@ ParentLink: background_hommedeloi_hd.md#homme-de-loi
 Name: Personnalités suggérées
 ParentName: Homme de loi
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: Personnalités suggérées
+  Markdown: >+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+    Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui vous a profondément marqué. Votre fonction peut être un honneur, un devoir, ou une opportunité… Ou un élément de votre passé, glorieux ou honteux.
+
+  Description: >+
+    Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui vous a profondément marqué. Votre fonction peut être un honneur, un devoir, ou une opportunité… Ou un élément de votre passé, glorieux ou honteux.
+
 AttributesDictionary: >+
-  {}
+  Name: Personnalités suggérées
+
+  Markdown: >+
+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+
+
+
+    Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui vous a profondément marqué. Votre fonction peut être un honneur, un devoir, ou une opportunité… Ou un élément de votre passé, glorieux ou honteux.
+
+
+
+  Description: >+
+
+    Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui vous a profondément marqué. Votre fonction peut être un honneur, un devoir, ou une opportunité… Ou un élément de votre passé, glorieux ou honteux.
+
+
 
 Description: >+
   Par idéal ou par opportunisme, vous vous êtes engagé dans une carrière qui vous a profondément marqué. Votre fonction peut être un honneur, un devoir, ou une opportunité… Ou un élément de votre passé, glorieux ou honteux.

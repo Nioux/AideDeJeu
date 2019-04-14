@@ -15,9 +15,154 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Bane](srd_spells_bane.md)'
 Source: (MDR p356)(SRD)
-Attributes: {}
+Attributes:
+  Name: Fléau
+  Markdown: >+
+    # <!--Name-->Fléau<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Bane](srd_spells_bane.md)<!--/AltName-->
+
+
+    -  <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->9 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (une goutte de sang)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Clerc](hd_cleric.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p356)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Trois créatures de votre choix au maximum, toutes situées à portée et dans votre champ de vision, sont contraintes d'effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md).
+
+
+    Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde alors que le sort n'est pas terminé, elle doit lancer 1d4 et soustraire le résultat obtenu de son jet d'attaque ou de sauvegarde.
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 1.
+
+  AltName: '[Bane](srd_spells_bane.md)'
+  Type: Enchantement
+  Level: 1
+  CastingTime: 1 action
+  Range: 9 mètres
+  Components: V, S, M (une goutte de sang)
+  Duration: concentration, jusqu'à 1 minute
+  Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
+  Source: (MDR p356)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Fléau
+
+  Markdown: >+
+
+    # <!--Name-->Fléau<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Bane](srd_spells_bane.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->9 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (une goutte de sang)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Clerc](hd_cleric.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p356)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Trois créatures de votre choix au maximum, toutes situées à portée et dans votre champ de vision, sont contraintes d'effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md).
+
+
+
+
+
+    Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde alors que le sort n'est pas terminé, elle doit lancer 1d4 et soustraire le résultat obtenu de son jet d'attaque ou de sauvegarde.
+
+
+
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 1.
+
+
+
+  AltName: '[Bane](srd_spells_bane.md)'
+
+  Type: Enchantement
+
+  Level: 1
+
+  CastingTime: 1 action
+
+  Range: 9 mètres
+
+  Components: V, S, M (une goutte de sang)
+
+  Duration: concentration, jusqu'à 1 minute
+
+  Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
+
+  Source: (MDR p356)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

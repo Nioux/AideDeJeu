@@ -9,9 +9,85 @@ ParentLink: background_explorateur_hd.md#explorateur
 Name: 'Variante : Pilleur de ruines'
 ParentName: Explorateur
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Pilleur de ruines'
+  Markdown: >+
+    ### <!--Name-->Variante : Pilleur de ruines<!--/Name-->
+
+
+    Vous erriez à la recherche des trésors, des cités perdues et de secrets enfouis des temps anciens. Aventurier sans foi ni loi, pilleur de tombes, archéologue, vous avez été tout cela à la fois, et plus encore !
+
+
+    **Compétences :** <!--Abilities-->Histoire, Investigation.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur.<!--/MasteredTools-->
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+    **Équipement :** <!--Equipment-->Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.<!--/Equipment-->
+
+  Description: >+
+    Vous erriez à la recherche des trésors, des cités perdues et de secrets enfouis des temps anciens. Aventurier sans foi ni loi, pilleur de tombes, archéologue, vous avez été tout cela à la fois, et plus encore !
+
+  Abilities: Histoire, Investigation.
+  MasteredTools: Outils de voleur.
+  MasteredLanguages: Une langue au choix.
+  Equipment: Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Pilleur de ruines'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Pilleur de ruines<!--/Name-->
+
+
+
+
+
+    Vous erriez à la recherche des trésors, des cités perdues et de secrets enfouis des temps anciens. Aventurier sans foi ni loi, pilleur de tombes, archéologue, vous avez été tout cela à la fois, et plus encore !
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Histoire, Investigation.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur.<!--/MasteredTools-->
+
+
+
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    Vous erriez à la recherche des trésors, des cités perdues et de secrets enfouis des temps anciens. Aventurier sans foi ni loi, pilleur de tombes, archéologue, vous avez été tout cela à la fois, et plus encore !
+
+
+
+  Abilities: Histoire, Investigation.
+
+  MasteredTools: Outils de voleur.
+
+  MasteredLanguages: Une langue au choix.
+
+  Equipment: Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.
 
 Description: >+
   Vous erriez à la recherche des trésors, des cités perdues et de secrets enfouis des temps anciens. Aventurier sans foi ni loi, pilleur de tombes, archéologue, vous avez été tout cela à la fois, et plus encore !

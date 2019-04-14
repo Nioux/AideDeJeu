@@ -8,9 +8,73 @@ ParentName: Caractéristiques
 NameLevel: 1
 AltName: Dexterity (SRD p80)
 Source: (MDR p263)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Caractéristiques](hd_abilities.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Caractéristiques](hd_abilities.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Dextérité<!--/Name-->
+
+
+    - AltName: <!--AltName-->Dexterity (SRD p80)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p263)<!--/Source-->
+
+
+    La Dextérité représente tout ce qui a trait à l'agilité, les réflexes et l'équilibre.
+
+  Name: Dextérité
+  AltName: Dexterity (SRD p80)
+  Source: (MDR p263)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Caractéristiques](hd_abilities.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Caractéristiques](hd_abilities.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Dextérité<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Dexterity (SRD p80)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p263)<!--/Source-->
+
+
+
+
+
+    La Dextérité représente tout ce qui a trait à l'agilité, les réflexes et l'équilibre.
+
+
+
+  Name: Dextérité
+
+  AltName: Dexterity (SRD p80)
+
+  Source: (MDR p263)
 
 ---
 >  [Caractéristiques](hd_abilities.md)

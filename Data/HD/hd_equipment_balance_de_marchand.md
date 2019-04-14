@@ -8,9 +8,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Balance de marchand
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Balance de marchand
+  Markdown: >+
+    # <!--Name-->Balance de marchand<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+    - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
+
+
+    Cet appareil de mesure se présente sous la forme d'une petite balance, de plateaux et d'un assortiment de poids qui vont jusqu'à 1 kilogramme. Elle permet de mesurer le poids exact de petits objets, comme des métaux précieux ou des denrées courantes, afin de déterminer leur valeur.
+
+  Type: Équipement d'aventurier
+  Price: 5 po
+  Weight: 1,5 kg
 AttributesDictionary: >+
-  {}
+  Name: Balance de marchand
+
+  Markdown: >+
+
+    # <!--Name-->Balance de marchand<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
+
+
+
+
+
+    Cet appareil de mesure se présente sous la forme d'une petite balance, de plateaux et d'un assortiment de poids qui vont jusqu'à 1 kilogramme. Elle permet de mesurer le poids exact de petits objets, comme des métaux précieux ou des denrées courantes, afin de déterminer leur valeur.
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 5 po
+
+  Weight: 1,5 kg
 
 ---
 > [Équipement](hd_equipment.md)

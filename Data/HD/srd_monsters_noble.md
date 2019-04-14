@@ -23,9 +23,196 @@ Name: Noble
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Noble](hd_monsters_noble.md)'
-Attributes: {}
+Attributes:
+  Name: Noble
+  Markdown: >+
+    # <!--Name-->Noble<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Noble](hd_monsters_noble.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->15 (breastplate)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->11 (+0)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Deception +5, Insight +4, Persuasion +5<!--/Skills-->
+
+    - **Senses** <!--Senses-->passive Perception 12<!--/Senses-->
+
+    - **Languages** <!--Languages-->any two languages<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Rapier_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 5 (1d8 + 1) piercing damage.
+
+
+    ## Reactions
+
+
+    **_Parry_**. The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
+
+  AltName: '[Noble](hd_monsters_noble.md)'
+  Size: Medium
+  Type: humanoid (any race)
+  Alignment: any alignment
+  ArmorClass: 15 (breastplate)
+  HitPoints: 9 (2d8)
+  Speed: 30 ft.
+  Strength: 11 (+0)
+  Dexterity: 12 (+1)
+  Constitution: 11 (+0)
+  Intelligence: 12 (+1)
+  Wisdom: 14 (+2)
+  Charisma: 16 (+3)
+  Skills: Deception +5, Insight +4, Persuasion +5
+  Senses: passive Perception 12
+  Languages: any two languages
+  Challenge: 1/8 (25 XP)
 AttributesDictionary: >+
-  {}
+  Name: Noble
+
+  Markdown: >+
+
+    # <!--Name-->Noble<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Noble](hd_monsters_noble.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->15 (breastplate)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->11 (+0)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Deception +5, Insight +4, Persuasion +5<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->passive Perception 12<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->any two languages<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Rapier_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 5 (1d8 + 1) piercing damage.
+
+
+
+
+
+    ## Reactions
+
+
+
+
+
+    **_Parry_**. The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
+
+
+
+  AltName: '[Noble](hd_monsters_noble.md)'
+
+  Size: Medium
+
+  Type: humanoid (any race)
+
+  Alignment: any alignment
+
+  ArmorClass: 15 (breastplate)
+
+  HitPoints: 9 (2d8)
+
+  Speed: 30 ft.
+
+  Strength: 11 (+0)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 11 (+0)
+
+  Intelligence: 12 (+1)
+
+  Wisdom: 14 (+2)
+
+  Charisma: 16 (+3)
+
+  Skills: Deception +5, Insight +4, Persuasion +5
+
+  Senses: passive Perception 12
+
+  Languages: any two languages
+
+  Challenge: 1/8 (25 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

@@ -8,9 +8,73 @@ ParentLink: background_misereux_hd.md#miséreux
 Name: 'Variante : Mendiant'
 ParentName: Miséreux
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Mendiant'
+  Markdown: >+
+    ### <!--Name-->Variante : Mendiant<!--/Name-->
+
+
+    Vous avez vécu de la maigre charité des citadins et, pour accroître vos chances, vous avez appris à les amuser, les tromper ou parfois les voler, lorsque tout le reste ne suffisait pas.
+
+
+    **Compétences :** <!--Abilities-->Escamotage, Supercherie.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique (parmi tambours, flûte, chalumeau), un type de jeu au choix.<!--/MasteredTools-->
+
+
+    **Équipement :** <!--Equipment-->Couverture rapiécée, habits courants, instrument de musique parmi ceux maîtrisés, bourse contenant 5 po.<!--/Equipment-->
+
+  Description: >+
+    Vous avez vécu de la maigre charité des citadins et, pour accroître vos chances, vous avez appris à les amuser, les tromper ou parfois les voler, lorsque tout le reste ne suffisait pas.
+
+  Abilities: Escamotage, Supercherie.
+  MasteredTools: Un instrument de musique (parmi tambours, flûte, chalumeau), un type de jeu au choix.
+  Equipment: Couverture rapiécée, habits courants, instrument de musique parmi ceux maîtrisés, bourse contenant 5 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Mendiant'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Mendiant<!--/Name-->
+
+
+
+
+
+    Vous avez vécu de la maigre charité des citadins et, pour accroître vos chances, vous avez appris à les amuser, les tromper ou parfois les voler, lorsque tout le reste ne suffisait pas.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Escamotage, Supercherie.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique (parmi tambours, flûte, chalumeau), un type de jeu au choix.<!--/MasteredTools-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Couverture rapiécée, habits courants, instrument de musique parmi ceux maîtrisés, bourse contenant 5 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    Vous avez vécu de la maigre charité des citadins et, pour accroître vos chances, vous avez appris à les amuser, les tromper ou parfois les voler, lorsque tout le reste ne suffisait pas.
+
+
+
+  Abilities: Escamotage, Supercherie.
+
+  MasteredTools: Un instrument de musique (parmi tambours, flûte, chalumeau), un type de jeu au choix.
+
+  Equipment: Couverture rapiécée, habits courants, instrument de musique parmi ceux maîtrisés, bourse contenant 5 po.
 
 Description: >+
   Vous avez vécu de la maigre charité des citadins et, pour accroître vos chances, vous avez appris à les amuser, les tromper ou parfois les voler, lorsque tout le reste ne suffisait pas.

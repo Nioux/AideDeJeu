@@ -15,9 +15,145 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Hellish Rebuke](srd_spells_hellish_rebuke.md)'
 Source: (MDR p)(SRD)
-Attributes: {}
+Attributes:
+  Name: Représailles infernales
+  Markdown: >+
+    # <!--Name-->Représailles infernales<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Hellish Rebuke](srd_spells_hellish_rebuke.md)<!--/AltName-->
+
+
+    -  <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 réaction en réponse aux dégâts que vous inﬂige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->18 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->instantanée<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous Il vous suffit de pointer le doigt vers la créature qui vient de vous blesser pour qu'elle soit un instant enveloppée d'un linceul de flammes infernales. Elle doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). Si elle échoue, elle subit 2d10 dégâts de feu, sinon la moitié seulement.
+
+
+    **_À plus haut niveau._**Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d10 par emplacement de sort au-dessus du 1er.
+
+  AltName: '[Hellish Rebuke](srd_spells_hellish_rebuke.md)'
+  Type: Évocation
+  Level: 1
+  CastingTime: 1 réaction en réponse aux dégâts que vous inﬂige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous
+  Range: 18 mètres
+  Components: V, S
+  Duration: instantanée
+  Classes: '[Sorcier](hd_warlock.md)'
+  Source: (MDR p)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Représailles infernales
+
+  Markdown: >+
+
+    # <!--Name-->Représailles infernales<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Hellish Rebuke](srd_spells_hellish_rebuke.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 réaction en réponse aux dégâts que vous inﬂige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->18 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->instantanée<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous Il vous suffit de pointer le doigt vers la créature qui vient de vous blesser pour qu'elle soit un instant enveloppée d'un linceul de flammes infernales. Elle doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). Si elle échoue, elle subit 2d10 dégâts de feu, sinon la moitié seulement.
+
+
+
+
+
+    **_À plus haut niveau._**Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d10 par emplacement de sort au-dessus du 1er.
+
+
+
+  AltName: '[Hellish Rebuke](srd_spells_hellish_rebuke.md)'
+
+  Type: Évocation
+
+  Level: 1
+
+  CastingTime: 1 réaction en réponse aux dégâts que vous inﬂige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous
+
+  Range: 18 mètres
+
+  Components: V, S
+
+  Duration: instantanée
+
+  Classes: '[Sorcier](hd_warlock.md)'
+
+  Source: (MDR p)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

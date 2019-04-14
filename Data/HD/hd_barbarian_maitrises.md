@@ -10,9 +10,67 @@ ParentLink: barbarian_hd.md#barbare
 Name: Maîtrises
 ParentName: Barbare
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Maîtrises
+  Markdown: >+
+    ## <!--Name-->Maîtrises<!--/Name-->
+
+
+    **Armures :** <!--Armor-->[armures légères](equipment_hd_with_type_armurelégère.md), [armures intermédiaires](equipment_hd_with_type_armureintermédiaire.md), [boucliers](hd_equipment_bouclier.md)<!--/Armor-->
+
+    **Armes :** <!--Weapons-->[armes courantes](equipment_hd_with_type_armecourante.md), [armes de guerre]<!--/Weapons-->
+
+    **Outils :** <!--Tools-->aucun<!--/Tools-->
+
+    **Jets de sauvegarde :** <!--SavingThrows-->[Force](hd_abilities_strength.md), [Constitution](hd_abilities_constitution.md)<!--/SavingThrows-->
+
+    **Compétences :** <!--Skills-->choisissez deux compétences parmi [Athlétisme](hd_abilities_strength_athletisme.md), [Dressage](hd_abilities_wisdom_dressage.md), [Intimidation](hd_abilities_charisma_intimidation.md), [Nature](hd_abilities_intelligence_nature.md), [Perception](hd_abilities_wisdom_perception.md) et [Survie](hd_abilities_wisdom_survie.md)<!--/Skills-->
+
+  Armor: '[armures légères](equipment_hd_with_type_armurelégère.md), [armures intermédiaires](equipment_hd_with_type_armureintermédiaire.md), [boucliers](hd_equipment_bouclier.md)'
+  Weapons: '[armes courantes](equipment_hd_with_type_armecourante.md), [armes de guerre]'
+  Tools: aucun
+  SavingThrows: '[Force](hd_abilities_strength.md), [Constitution](hd_abilities_constitution.md)'
+  Skills: choisissez deux compétences parmi [Athlétisme](hd_abilities_strength_athletisme.md), [Dressage](hd_abilities_wisdom_dressage.md), [Intimidation](hd_abilities_charisma_intimidation.md), [Nature](hd_abilities_intelligence_nature.md), [Perception](hd_abilities_wisdom_perception.md) et [Survie](hd_abilities_wisdom_survie.md)
 AttributesDictionary: >+
-  {}
+  Name: Maîtrises
+
+  Markdown: >+
+
+    ## <!--Name-->Maîtrises<!--/Name-->
+
+
+
+
+
+    **Armures :** <!--Armor-->[armures légères](equipment_hd_with_type_armurelégère.md), [armures intermédiaires](equipment_hd_with_type_armureintermédiaire.md), [boucliers](hd_equipment_bouclier.md)<!--/Armor-->
+
+
+
+    **Armes :** <!--Weapons-->[armes courantes](equipment_hd_with_type_armecourante.md), [armes de guerre]<!--/Weapons-->
+
+
+
+    **Outils :** <!--Tools-->aucun<!--/Tools-->
+
+
+
+    **Jets de sauvegarde :** <!--SavingThrows-->[Force](hd_abilities_strength.md), [Constitution](hd_abilities_constitution.md)<!--/SavingThrows-->
+
+
+
+    **Compétences :** <!--Skills-->choisissez deux compétences parmi [Athlétisme](hd_abilities_strength_athletisme.md), [Dressage](hd_abilities_wisdom_dressage.md), [Intimidation](hd_abilities_charisma_intimidation.md), [Nature](hd_abilities_intelligence_nature.md), [Perception](hd_abilities_wisdom_perception.md) et [Survie](hd_abilities_wisdom_survie.md)<!--/Skills-->
+
+
+
+  Armor: '[armures légères](equipment_hd_with_type_armurelégère.md), [armures intermédiaires](equipment_hd_with_type_armureintermédiaire.md), [boucliers](hd_equipment_bouclier.md)'
+
+  Weapons: '[armes courantes](equipment_hd_with_type_armecourante.md), [armes de guerre]'
+
+  Tools: aucun
+
+  SavingThrows: '[Force](hd_abilities_strength.md), [Constitution](hd_abilities_constitution.md)'
+
+  Skills: choisissez deux compétences parmi [Athlétisme](hd_abilities_strength_athletisme.md), [Dressage](hd_abilities_wisdom_dressage.md), [Intimidation](hd_abilities_charisma_intimidation.md), [Nature](hd_abilities_intelligence_nature.md), [Perception](hd_abilities_wisdom_perception.md) et [Survie](hd_abilities_wisdom_survie.md)
 
 ---
 > [Barbare](hd_barbarian.md)

@@ -10,9 +10,64 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Gloves of Swimming and Climbing (SRD p224)
 Source: (COC p167)
-Attributes: {}
+Attributes:
+  Name: Gants de nage et d'escalade
+  Markdown: >+
+    ### <!--Name-->Gants de nage et d'escalade<!--/Name-->
+
+
+    - AltName: <!--AltName-->Gloves of Swimming and Climbing (SRD p224)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p167)<!--/Source-->
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+    Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas de déplacement supplémentaire et vous gagnez un bonus de +5 aux tests de Force (Athlétisme) pour grimper ou nager.
+
+  AltName: Gloves of Swimming and Climbing (SRD p224)
+  Source: (COC p167)
+  Type: Objet merveilleux
+  Rarity: peu courant
+  Attunement: harmonisation requise
 AttributesDictionary: >+
-  {}
+  Name: Gants de nage et d'escalade
+
+  Markdown: >+
+
+    ### <!--Name-->Gants de nage et d'escalade<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Gloves of Swimming and Climbing (SRD p224)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p167)<!--/Source-->
+
+
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+
+
+
+    Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas de déplacement supplémentaire et vous gagnez un bonus de +5 aux tests de Force (Athlétisme) pour grimper ou nager.
+
+
+
+  AltName: Gloves of Swimming and Climbing (SRD p224)
+
+  Source: (COC p167)
+
+  Type: Objet merveilleux
+
+  Rarity: peu courant
+
+  Attunement: harmonisation requise
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

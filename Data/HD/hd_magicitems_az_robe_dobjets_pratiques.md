@@ -9,9 +9,211 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Robe of Useful Items (SRD p239)
 Source: (COC p182)
-Attributes: {}
+Attributes:
+  Name: Robe d'objets pratiques
+  Markdown: >+
+    ### <!--Name-->Robe d'objets pratiques<!--/Name-->
+
+
+    - AltName: <!--AltName-->Robe of Useful Items (SRD p239)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p182)<!--/Source-->
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
+
+
+    Cette robe est couverte de pièces de tissu de formes et de couleurs diverses. Tant que vous portez ce vêtement, vous pouvez effectuer une action pour détacher une des pièces et provoquer sa transformation en l'objet ou la créature qu'elle représente. Dès que la dernière pièce est détachée, la robe devient un vêtement ordinaire.
+
+
+    Deux pièces de chacun des éléments suivants sont cousues sur la robe :
+
+
+    * Dague
+
+    * Lanterne sourde (remplie et allumée)
+
+    * Miroir en acier
+
+    * Perche de 3 mètres
+
+    * Corde de chanvre (15 mètres, enroulée)
+
+    * Sac
+
+
+    En outre, la robe se compose de 4d4 autres pièces. Le MJ choisit ces pièces ou les détermine au hasard.
+
+
+    |d100|Pièce|
+
+    |---|---|
+
+    |01-08|100 po dans un sac|
+
+    |09-15|Coffre en argent (30 centimètres de long, <!--br-->15 centimètres de large et de profondeur) <!--br-->d'une valeur de 500 po|
+
+    |16-22|Porte en fer (d'une largeur et d'une hauteur <!--br-->maximales de 3 mètres, barrée du côté de <!--br-->votre choix) que vous pouvez placer dans une <!--br-->ouverture à votre portée ; la taille s'adapte <!--br-->aux dimensions de l'ouverture et s'y fixe d'ellemême.|
+
+    |23-30|10 pierres précieuses d'une valeur de 100 po <!--br-->chacune|
+
+    |31-44|Échelle en bois de 7,30 mètres de long|
+
+    |45-51|Cheval de selle avec fontes|
+
+    |52-59|Fosse (cube de 3 mètres d'arête) que vous <!--br-->pouvez placer dans le sol à 3 mètres ou moins <!--br-->de vous|
+
+    |60-68|4 potions de soins|
+
+    |69-75|Barque (3,60 mètres de long)|
+
+    |76-83|Parchemin magique contenant un sort de <!--br-->niveau 1 à 3|
+
+    |84-90|2 molosses|
+
+    |91-96|Fenêtre (60 centimètres sur 1,20 mètre et <!--br-->jusqu'à 60 centimètres d'épaisseur) que vous <!--br-->pouvez placer sur une surface verticale à votre <!--br-->portée|
+
+    |97-00|Bélier portable|
+
+  AltName: Robe of Useful Items (SRD p239)
+  Source: (COC p182)
+  Type: Objet merveilleux
+  Rarity: peu courant
 AttributesDictionary: >+
-  {}
+  Name: Robe d'objets pratiques
+
+  Markdown: >+
+
+    ### <!--Name-->Robe d'objets pratiques<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Robe of Useful Items (SRD p239)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p182)<!--/Source-->
+
+
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
+
+
+
+
+
+    Cette robe est couverte de pièces de tissu de formes et de couleurs diverses. Tant que vous portez ce vêtement, vous pouvez effectuer une action pour détacher une des pièces et provoquer sa transformation en l'objet ou la créature qu'elle représente. Dès que la dernière pièce est détachée, la robe devient un vêtement ordinaire.
+
+
+
+
+
+    Deux pièces de chacun des éléments suivants sont cousues sur la robe :
+
+
+
+
+
+    * Dague
+
+
+
+    * Lanterne sourde (remplie et allumée)
+
+
+
+    * Miroir en acier
+
+
+
+    * Perche de 3 mètres
+
+
+
+    * Corde de chanvre (15 mètres, enroulée)
+
+
+
+    * Sac
+
+
+
+
+
+    En outre, la robe se compose de 4d4 autres pièces. Le MJ choisit ces pièces ou les détermine au hasard.
+
+
+
+
+
+    |d100|Pièce|
+
+
+
+    |---|---|
+
+
+
+    |01-08|100 po dans un sac|
+
+
+
+    |09-15|Coffre en argent (30 centimètres de long, <!--br-->15 centimètres de large et de profondeur) <!--br-->d'une valeur de 500 po|
+
+
+
+    |16-22|Porte en fer (d'une largeur et d'une hauteur <!--br-->maximales de 3 mètres, barrée du côté de <!--br-->votre choix) que vous pouvez placer dans une <!--br-->ouverture à votre portée ; la taille s'adapte <!--br-->aux dimensions de l'ouverture et s'y fixe d'ellemême.|
+
+
+
+    |23-30|10 pierres précieuses d'une valeur de 100 po <!--br-->chacune|
+
+
+
+    |31-44|Échelle en bois de 7,30 mètres de long|
+
+
+
+    |45-51|Cheval de selle avec fontes|
+
+
+
+    |52-59|Fosse (cube de 3 mètres d'arête) que vous <!--br-->pouvez placer dans le sol à 3 mètres ou moins <!--br-->de vous|
+
+
+
+    |60-68|4 potions de soins|
+
+
+
+    |69-75|Barque (3,60 mètres de long)|
+
+
+
+    |76-83|Parchemin magique contenant un sort de <!--br-->niveau 1 à 3|
+
+
+
+    |84-90|2 molosses|
+
+
+
+    |91-96|Fenêtre (60 centimètres sur 1,20 mètre et <!--br-->jusqu'à 60 centimètres d'épaisseur) que vous <!--br-->pouvez placer sur une surface verticale à votre <!--br-->portée|
+
+
+
+    |97-00|Bélier portable|
+
+
+
+  AltName: Robe of Useful Items (SRD p239)
+
+  Source: (COC p182)
+
+  Type: Objet merveilleux
+
+  Rarity: peu courant
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

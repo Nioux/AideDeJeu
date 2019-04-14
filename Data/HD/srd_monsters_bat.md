@@ -22,9 +22,196 @@ Name: Bat
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Chauve-souris](hd_monsters_chauve_souris.md)'
-Attributes: {}
+Attributes:
+  Name: Bat
+  Markdown: >+
+    # <!--Name-->Bat<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Chauve-souris](hd_monsters_chauve_souris.md)<!--/AltName-->
+
+    -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->5 ft., fly 30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 2 (-4)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution--> 8 (-1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 4 (-3)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->blindsight 60 ft., passive Perception 11<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->0 (10 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Echolocation_**. The bat can't use its blindsight while deafened.
+
+
+    **_Keen Hearing_**. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+
+
+    ## Actions
+
+
+    **_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one creature.
+
+
+    _Hit_: 1 piercing damage.
+
+  AltName: '[Chauve-souris](hd_monsters_chauve_souris.md)'
+  Size: Tiny
+  Type: beast
+  Alignment: unaligned
+  ArmorClass: 12
+  HitPoints: 1 (1d4 - 1)
+  Speed: 5 ft., fly 30 ft.
+  Strength: ' 2 (-4)'
+  Dexterity: 15 (+2)
+  Constitution: ' 8 (-1)'
+  Intelligence: ' 2 (-4)'
+  Wisdom: 12 (+1)
+  Charisma: ' 4 (-3)'
+  Senses: blindsight 60 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 0 (10 XP)
 AttributesDictionary: >+
-  {}
+  Name: Bat
+
+  Markdown: >+
+
+    # <!--Name-->Bat<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Chauve-souris](hd_monsters_chauve_souris.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->5 ft., fly 30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 2 (-4)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution--> 8 (-1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 4 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->blindsight 60 ft., passive Perception 11<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->0 (10 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Echolocation_**. The bat can't use its blindsight while deafened.
+
+
+
+
+
+    **_Keen Hearing_**. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one creature.
+
+
+
+
+
+    _Hit_: 1 piercing damage.
+
+
+
+  AltName: '[Chauve-souris](hd_monsters_chauve_souris.md)'
+
+  Size: Tiny
+
+  Type: beast
+
+  Alignment: unaligned
+
+  ArmorClass: 12
+
+  HitPoints: 1 (1d4 - 1)
+
+  Speed: 5 ft., fly 30 ft.
+
+  Strength: ' 2 (-4)'
+
+  Dexterity: 15 (+2)
+
+  Constitution: ' 8 (-1)'
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 4 (-3)'
+
+  Senses: blindsight 60 ft., passive Perception 11
+
+  Languages: '-'
+
+  Challenge: 0 (10 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

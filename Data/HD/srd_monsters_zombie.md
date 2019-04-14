@@ -25,9 +25,214 @@ Name: Zombie
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Zombi](hd_monsters_zombi.md)'
-Attributes: {}
+Attributes:
+  Name: Zombie
+  Markdown: >+
+    # <!--Name-->Zombie<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Zombi](hd_monsters_zombi.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->22 (3d8 + 9)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->20 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity--> 6 (-2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom--> 6 (-2)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Wis +0<!--/SavingThrows-->
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 8<!--/Senses-->
+
+    - **Languages** <!--Languages-->understands the languages it knew in life but can't speak<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Undead Fortitude_**. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+
+    ## Actions
+
+
+    **_Slam_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 4 (1d6 + 1) bludgeoning damage.
+
+  AltName: '[Zombi](hd_monsters_zombi.md)'
+  Size: Medium
+  Type: undead
+  Alignment: neutral evil
+  ArmorClass: 8
+  HitPoints: 22 (3d8 + 9)
+  Speed: 20 ft.
+  Strength: 13 (+1)
+  Dexterity: ' 6 (-2)'
+  Constitution: 16 (+3)
+  Intelligence: ' 3 (-4)'
+  Wisdom: ' 6 (-2)'
+  Charisma: ' 5 (-3)'
+  SavingThrows: Wis +0
+  Senses: darkvision 60 ft., passive Perception 8
+  Languages: understands the languages it knew in life but can't speak
+  Challenge: 1/4 (50 XP)
+  DamageImmunities: poison
+  ConditionImmunities: poisoned
 AttributesDictionary: >+
-  {}
+  Name: Zombie
+
+  Markdown: >+
+
+    # <!--Name-->Zombie<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Zombi](hd_monsters_zombi.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->22 (3d8 + 9)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->20 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity--> 6 (-2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom--> 6 (-2)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Wis +0<!--/SavingThrows-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 8<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->understands the languages it knew in life but can't speak<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Undead Fortitude_**. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Slam_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 4 (1d6 + 1) bludgeoning damage.
+
+
+
+  AltName: '[Zombi](hd_monsters_zombi.md)'
+
+  Size: Medium
+
+  Type: undead
+
+  Alignment: neutral evil
+
+  ArmorClass: 8
+
+  HitPoints: 22 (3d8 + 9)
+
+  Speed: 20 ft.
+
+  Strength: 13 (+1)
+
+  Dexterity: ' 6 (-2)'
+
+  Constitution: 16 (+3)
+
+  Intelligence: ' 3 (-4)'
+
+  Wisdom: ' 6 (-2)'
+
+  Charisma: ' 5 (-3)'
+
+  SavingThrows: Wis +0
+
+  Senses: darkvision 60 ft., passive Perception 8
+
+  Languages: understands the languages it knew in life but can't speak
+
+  Challenge: 1/4 (50 XP)
+
+  DamageImmunities: poison
+
+  ConditionImmunities: poisoned
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

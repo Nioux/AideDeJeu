@@ -15,9 +15,145 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Arcane Eye](srd_spells_arcane_eye.md)'
 Source: (MDR p)(SRD)
-Attributes: {}
+Attributes:
+  Name: Oeil magique
+  Markdown: >+
+    # <!--Name-->Oeil magique<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Arcane Eye](srd_spells_arcane_eye.md)<!--/AltName-->
+
+
+    -  <!--Type-->Divination<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->9 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (des poils de chauve-souris)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Vous créez un oeil magique [invisible](hd_conditions_invisible.md) à portée, qui flotte dans les airs pendant toute la durée du sort. Il vous envoie mentalement des informations visuelles grâce à sa vision normale et dans le noir dans un rayon de 9 mètres. Il peut regarder dans toutes les directions.
+
+
+    Par une action, vous pouvez déplacer l'oeil d'un maximum de 9 mètres dans la direction de votre choix. Il peut s'éloigner de vous sur une distance illimitée, mais il ne peut pas entrer dans un autre plan d'existence. Une barrière solide l'empêche de passer, mais il peut se glisser à travers une ouverture d'au minimum 2,5 centimètres de diamètre.
+
+  AltName: '[Arcane Eye](srd_spells_arcane_eye.md)'
+  Type: Divination
+  Level: 4
+  CastingTime: 1 action
+  Range: 9 mètres
+  Components: V, S, M (des poils de chauve-souris)
+  Duration: concentration, jusqu'à 1 heure
+  Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+  Source: (MDR p)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Oeil magique
+
+  Markdown: >+
+
+    # <!--Name-->Oeil magique<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Arcane Eye](srd_spells_arcane_eye.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Divination<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->9 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (des poils de chauve-souris)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Vous créez un oeil magique [invisible](hd_conditions_invisible.md) à portée, qui flotte dans les airs pendant toute la durée du sort. Il vous envoie mentalement des informations visuelles grâce à sa vision normale et dans le noir dans un rayon de 9 mètres. Il peut regarder dans toutes les directions.
+
+
+
+
+
+    Par une action, vous pouvez déplacer l'oeil d'un maximum de 9 mètres dans la direction de votre choix. Il peut s'éloigner de vous sur une distance illimitée, mais il ne peut pas entrer dans un autre plan d'existence. Une barrière solide l'empêche de passer, mais il peut se glisser à travers une ouverture d'au minimum 2,5 centimètres de diamètre.
+
+
+
+  AltName: '[Arcane Eye](srd_spells_arcane_eye.md)'
+
+  Type: Divination
+
+  Level: 4
+
+  CastingTime: 1 action
+
+  Range: 9 mètres
+
+  Components: V, S, M (des poils de chauve-souris)
+
+  Duration: concentration, jusqu'à 1 heure
+
+  Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+
+  Source: (MDR p)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

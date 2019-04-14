@@ -8,9 +8,64 @@ ParentName: Manuel des règles
 NameLevel: 1
 AltName: Races
 Source: (MDR p36)(SRD p3)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Manuel des règles](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Races<!--/Name-->
+
+
+    - SRD: <!--AltName-->Races<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p36)(SRD p3)<!--/Source-->
+
+  Name: Races
+  AltName: Races
+  Source: (MDR p36)(SRD p3)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Manuel des règles](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Races<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->Races<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p36)(SRD p3)<!--/Source-->
+
+
+
+  Name: Races
+
+  AltName: Races
+
+  Source: (MDR p36)(SRD p3)
 
 ---
 >  [Manuel des règles](index.md)

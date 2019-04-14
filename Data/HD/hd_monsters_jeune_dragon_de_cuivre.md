@@ -26,9 +26,277 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Jeune dragon de cuivre
+  Markdown: >+
+    # <!--Name-->Jeune dragon de cuivre<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Young Copper Dragon](srd_monsters_young_copper_dragon.md)<!--/AltName-->
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->119 (14d10+42)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12m, escalade 12 m, vol 24 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +4, Con +6, Sag +4, Cha +5<!--/SavingThrows-->
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +7, [Supercherie](hd_abilities_charisma_supercherie.md) +5<!--/Skills-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->d'acide<!--/DamageImmunities-->
+
+    - **Sens** <!--Senses-->vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17<!--/Senses-->
+
+    - **Langues** <!--Languages-->commun, draconique<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->7 (2 900 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes.
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 11 (2d6+4) dégâts tranchants.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une cible.
+
+
+    _Touché :_ 15 (2d10+4) dégâts perforants.
+
+
+    **_Souffles (Recharge 5-6)._** Le dragon utilise l'un des souffles suivants :
+
+
+    _Souffle d'acide._ Le dragon souffle de l'acide sur une ligne de 12 mètres de long et 1,50 mètre de large.
+
+
+    Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 14 ; elles subissent 40 (9d8) dégâts d'acide en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+    _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 14. Les créatures qui ratent ce [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) ne peuvent plus utiliser de réaction, leur vitesse est réduite de moitié et elles ne peuvent effectuer qu'une seule attaque lors de leur tour. De plus, elles ne peuvent utiliser qu'une action ou une action bonus lors de leurs tours, mais pas les deux.
+
+
+    Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
+  Type: Dragon
+  Size: G
+  Alignment: Chaotique Bon
+  ArmorClass: 17 (armure naturelle)
+  HitPoints: 119 (14d10+42)
+  Speed: 12m, escalade 12 m, vol 24 m
+  Strength: 19 (+4)
+  Dexterity: 12 (+1)
+  Constitution: 17 (+3)
+  Intelligence: 16 (+3)
+  Wisdom: 13 (+1)
+  Charisma: 15 (+2)
+  SavingThrows: Dex +4, Con +6, Sag +4, Cha +5
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +7, [Supercherie](hd_abilities_charisma_supercherie.md) +5'
+  DamageImmunities: d'acide
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
+  Languages: commun, draconique
+  Challenge: 7 (2 900 PX)
 AttributesDictionary: >+
-  {}
+  Name: Jeune dragon de cuivre
+
+  Markdown: >+
+
+    # <!--Name-->Jeune dragon de cuivre<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Young Copper Dragon](srd_monsters_young_copper_dragon.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->119 (14d10+42)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12m, escalade 12 m, vol 24 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +4, Con +6, Sag +4, Cha +5<!--/SavingThrows-->
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +7, [Supercherie](hd_abilities_charisma_supercherie.md) +5<!--/Skills-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->d'acide<!--/DamageImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->commun, draconique<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->7 (2 900 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes.
+
+
+
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 11 (2d6+4) dégâts tranchants.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une cible.
+
+
+
+
+
+    _Touché :_ 15 (2d10+4) dégâts perforants.
+
+
+
+
+
+    **_Souffles (Recharge 5-6)._** Le dragon utilise l'un des souffles suivants :
+
+
+
+
+
+    _Souffle d'acide._ Le dragon souffle de l'acide sur une ligne de 12 mètres de long et 1,50 mètre de large.
+
+
+
+
+
+    Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 14 ; elles subissent 40 (9d8) dégâts d'acide en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+
+
+    _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 14. Les créatures qui ratent ce [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) ne peuvent plus utiliser de réaction, leur vitesse est réduite de moitié et elles ne peuvent effectuer qu'une seule attaque lors de leur tour. De plus, elles ne peuvent utiliser qu'une action ou une action bonus lors de leurs tours, mais pas les deux.
+
+
+
+
+
+    Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
+
+  Type: Dragon
+
+  Size: G
+
+  Alignment: Chaotique Bon
+
+  ArmorClass: 17 (armure naturelle)
+
+  HitPoints: 119 (14d10+42)
+
+  Speed: 12m, escalade 12 m, vol 24 m
+
+  Strength: 19 (+4)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 17 (+3)
+
+  Intelligence: 16 (+3)
+
+  Wisdom: 13 (+1)
+
+  Charisma: 15 (+2)
+
+  SavingThrows: Dex +4, Con +6, Sag +4, Cha +5
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +7, [Supercherie](hd_abilities_charisma_supercherie.md) +5'
+
+  DamageImmunities: d'acide
+
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
+
+  Languages: commun, draconique
+
+  Challenge: 7 (2 900 PX)
 
 ---
 > [Créatures](hd_monsters.md)

@@ -25,9 +25,223 @@ Name: Silver Dragon Wyrmling
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)"
-Attributes: {}
+Attributes:
+  Name: Silver Dragon Wyrmling
+  Markdown: >+
+    # <!--Name-->Silver Dragon Wyrmling<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->45 (6d8 + 18)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft., fly 60 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +2, Con +5, Wis +2, Cha +4<!--/SavingThrows-->
+
+    - **Skills** <!--Skills-->Perception +4, Stealth +2<!--/Skills-->
+
+    - **Senses** <!--Senses-->blindsight 10 ft., darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+    - **Languages** <!--Languages-->Draconic<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->2 (450 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->cold<!--/DamageImmunities-->
+
+
+    ## Special Features
+
+
+    **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 9 (1d10 + 4) piercing damage.
+
+
+    **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
+
+
+    **_Cold Breath_**. The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+
+    **_Paralyzing Breath_**. The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+  AltName: "[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)"
+  Size: Medium
+  Type: dragon
+  Alignment: lawful good
+  ArmorClass: 17 (natural armor)
+  HitPoints: 45 (6d8 + 18)
+  Speed: 30 ft., fly 60 ft.
+  Strength: 19 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 17 (+3)
+  Intelligence: 12 (+1)
+  Wisdom: 11 (+0)
+  Charisma: 15 (+2)
+  SavingThrows: Dex +2, Con +5, Wis +2, Cha +4
+  Skills: Perception +4, Stealth +2
+  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
+  Languages: Draconic
+  Challenge: 2 (450 XP)
+  DamageImmunities: cold
 AttributesDictionary: >+
-  {}
+  Name: Silver Dragon Wyrmling
+
+  Markdown: >+
+
+    # <!--Name-->Silver Dragon Wyrmling<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->45 (6d8 + 18)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft., fly 60 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +2, Con +5, Wis +2, Cha +4<!--/SavingThrows-->
+
+
+
+    - **Skills** <!--Skills-->Perception +4, Stealth +2<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->blindsight 10 ft., darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Draconic<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->2 (450 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->cold<!--/DamageImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 9 (1d10 + 4) piercing damage.
+
+
+
+
+
+    **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
+
+
+
+
+
+    **_Cold Breath_**. The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+
+
+
+
+    **_Paralyzing Breath_**. The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+
+  AltName: "[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)"
+
+  Size: Medium
+
+  Type: dragon
+
+  Alignment: lawful good
+
+  ArmorClass: 17 (natural armor)
+
+  HitPoints: 45 (6d8 + 18)
+
+  Speed: 30 ft., fly 60 ft.
+
+  Strength: 19 (+4)
+
+  Dexterity: 10 (+0)
+
+  Constitution: 17 (+3)
+
+  Intelligence: 12 (+1)
+
+  Wisdom: 11 (+0)
+
+  Charisma: 15 (+2)
+
+  SavingThrows: Dex +2, Con +5, Wis +2, Cha +4
+
+  Skills: Perception +4, Stealth +2
+
+  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+  Languages: Draconic
+
+  Challenge: 2 (450 XP)
+
+  DamageImmunities: cold
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

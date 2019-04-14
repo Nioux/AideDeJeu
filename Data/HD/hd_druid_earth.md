@@ -9,9 +9,73 @@ RootId: druid_earth_hd.md
 ParentLink: druid_hd.md#cercles-druidiques
 ParentName: Cercles druidiques
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Cercles druidiques](hd_druid_cercles_druidiques.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Cercles druidiques](hd_druid_cercles_druidiques.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Cercle de la terre<!--/Name-->
+
+
+    - AltName: <!--AltName-->Circle of the Land (SRD p21)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p145)<!--/Source-->
+
+
+    Le cercle de la terre réunit des mystiques et des sages qui perpétuent d'antiques connaissances et rites grâce à une tradition orale très développée. Ces druides se rassemblent dans des cercles d'arbres sacrés ou de pierres dressées pour se murmurer des secrets primordiaux en druidique. Les membres les plus sages du cercle font office de grands prêtres dans les communautés qui respectent encore l'antique religion, et conseillent leurs dirigeants. En tant que membre du cercle, votre magie est influencée par le type de terrain sur lequel vous avez été initié aux rites mystérieux du cercle.
+
+  Name: Cercle de la terre
+  AltName: Circle of the Land (SRD p21)
+  Source: (MDR p145)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Cercles druidiques](hd_druid_cercles_druidiques.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Cercles druidiques](hd_druid_cercles_druidiques.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Cercle de la terre<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Circle of the Land (SRD p21)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p145)<!--/Source-->
+
+
+
+
+
+    Le cercle de la terre réunit des mystiques et des sages qui perpétuent d'antiques connaissances et rites grâce à une tradition orale très développée. Ces druides se rassemblent dans des cercles d'arbres sacrés ou de pierres dressées pour se murmurer des secrets primordiaux en druidique. Les membres les plus sages du cercle font office de grands prêtres dans les communautés qui respectent encore l'antique religion, et conseillent leurs dirigeants. En tant que membre du cercle, votre magie est influencée par le type de terrain sur lequel vous avez été initié aux rites mystérieux du cercle.
+
+
+
+  Name: Cercle de la terre
+
+  AltName: Circle of the Land (SRD p21)
+
+  Source: (MDR p145)
 
 ---
 >  [Cercles druidiques](hd_druid_cercles_druidiques.md)

@@ -1,13 +1,77 @@
 ﻿---
 !GenericItem
-Name: Sorts de serment
 Id: paladin_perfection_hd.md#sorts-de-serment
 ParentLink: paladin_perfection_hd.md#serment-de-perfection
+Name: Sorts de serment
 ParentName: Serment de perfection
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Sorts de serment
+  Markdown: >+
+    ## <!--Name-->Sorts de serment<!--/Name-->
+
+
+    Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
+
+
+    |Niv. de paladin|Sorts|
+
+    |---|---|
+
+    |3|choc des titans, compréhension des langues|
+
+    |5|amélioration de caractéristique, lien de protection|
+
+    |9|lueur d'espoir, monture fantôme|
+
+    |13|bouclier de feu, protection contre la mort|
+
+    |17|lien télépathique, festin des héros|
+
 AttributesDictionary: >+
-  {}
+  Name: Sorts de serment
+
+  Markdown: >+
+
+    ## <!--Name-->Sorts de serment<!--/Name-->
+
+
+
+
+
+    Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
+
+
+
+
+
+    |Niv. de paladin|Sorts|
+
+
+
+    |---|---|
+
+
+
+    |3|choc des titans, compréhension des langues|
+
+
+
+    |5|amélioration de caractéristique, lien de protection|
+
+
+
+    |9|lueur d'espoir, monture fantôme|
+
+
+
+    |13|bouclier de feu, protection contre la mort|
+
+
+
+    |17|lien télépathique, festin des héros|
+
+
 
 ---
 > [Serment de perfection](hd_paladin_perfection.md)

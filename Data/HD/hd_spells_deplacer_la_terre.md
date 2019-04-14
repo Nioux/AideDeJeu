@@ -15,9 +15,163 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Move Earth](srd_spells_move_earth.md)'
 Source: (MDR p345)(SRD)
-Attributes: {}
+Attributes:
+  Name: Déplacer la terre
+  Markdown: >+
+    # <!--Name-->Déplacer la terre<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Move Earth](srd_spells_move_earth.md)<!--/AltName-->
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->36 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 2 heures<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p345)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Choisissez une zone de terrain à portée d'au maximum 12 mètres de côté. Vous pouvez remodeler la terre, le sable ou l'argile qu'elle comporte comme bon vous semble pendant toute la durée du sort. Vous pouvez augmenter ou diminuer l'altitude de la zone, creuser ou combler une tranchée, ériger ou abattre un mur, ou former un pilier. L'amplitude de ces modifications ne peut pas excéder la moitié de la dimension la plus importante de la zone affectée. Donc, si vous modifiez une zone de 12 mètres de côté, vous pouvez créer un pilier de 6 mètres de haut au maximum, modifier l'altitude de la zone de 6 mètres au plus, creuser une tranchée d'un maximum de 6 mètres de profondeur, etc. Il faut 10 minutes pour finaliser ces modifications.
+
+
+    Au bout de chaque période de 10 minutes passées à vous concentrer sur le sort, vous pouvez choisir une nouvelle zone de terrain à modifier. Comme les transformations se produisent lentement, il est bien rare qu'une créature se retrouve piégée ou blessée à cause des mouvements du terrain.
+
+
+    Ce sort est incapable de manipuler la pierre naturelle et les constructions de pierre. La roche et les structures s'adaptent au nouvel agencement du terrain. Si vos mo- difications déstabilisent une structure, elle peut très bien s'effondrer.
+
+
+    De même, le sort n'affecte pas directement la croissance des plantes. La terre déplacée emporte les végétaux avec elle.
+
+  AltName: '[Move Earth](srd_spells_move_earth.md)'
+  Type: Transmutation
+  Level: 6
+  CastingTime: 1 action
+  Range: 36 mètres
+  Components: "V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)"
+  Duration: concentration, jusqu'à 2 heures
+  Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+  Source: (MDR p345)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Déplacer la terre
+
+  Markdown: >+
+
+    # <!--Name-->Déplacer la terre<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Move Earth](srd_spells_move_earth.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->36 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 2 heures<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p345)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Choisissez une zone de terrain à portée d'au maximum 12 mètres de côté. Vous pouvez remodeler la terre, le sable ou l'argile qu'elle comporte comme bon vous semble pendant toute la durée du sort. Vous pouvez augmenter ou diminuer l'altitude de la zone, creuser ou combler une tranchée, ériger ou abattre un mur, ou former un pilier. L'amplitude de ces modifications ne peut pas excéder la moitié de la dimension la plus importante de la zone affectée. Donc, si vous modifiez une zone de 12 mètres de côté, vous pouvez créer un pilier de 6 mètres de haut au maximum, modifier l'altitude de la zone de 6 mètres au plus, creuser une tranchée d'un maximum de 6 mètres de profondeur, etc. Il faut 10 minutes pour finaliser ces modifications.
+
+
+
+
+
+    Au bout de chaque période de 10 minutes passées à vous concentrer sur le sort, vous pouvez choisir une nouvelle zone de terrain à modifier. Comme les transformations se produisent lentement, il est bien rare qu'une créature se retrouve piégée ou blessée à cause des mouvements du terrain.
+
+
+
+
+
+    Ce sort est incapable de manipuler la pierre naturelle et les constructions de pierre. La roche et les structures s'adaptent au nouvel agencement du terrain. Si vos mo- difications déstabilisent une structure, elle peut très bien s'effondrer.
+
+
+
+
+
+    De même, le sort n'affecte pas directement la croissance des plantes. La terre déplacée emporte les végétaux avec elle.
+
+
+
+  AltName: '[Move Earth](srd_spells_move_earth.md)'
+
+  Type: Transmutation
+
+  Level: 6
+
+  CastingTime: 1 action
+
+  Range: 36 mètres
+
+  Components: "V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)"
+
+  Duration: concentration, jusqu'à 2 heures
+
+  Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+
+  Source: (MDR p345)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

@@ -1,14 +1,63 @@
 ﻿---
 !GenericItem
-Name: Entravé
-AltName: '[Restrained](srd_conditions_restrained.md)'
 Id: conditions_hd.md#entravé
 ParentLink: conditions_hd.md#États-spéciaux
+Name: Entravé
 ParentName: États spéciaux
 NameLevel: 1
-Attributes: {}
+AltName: '[Restrained](srd_conditions_restrained.md)'
+Attributes:
+  Name: Entravé
+  Markdown: >+
+    # <!--Name-->Entravé<!--/Name-->
+
+
+    - AltName: <!--AltName-->[Restrained](srd_conditions_restrained.md)<!--/AltName-->
+
+
+    * La vitesse de la créature entravée tombe à 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
+
+
+    * Les attaques qui visent la créature bénéficient d'un avantage, tandis que les attaques de la créature subissent un désavantage.
+
+
+    * La créature souffre d'un désavantage lors de ses [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md).
+
+  AltName: '[Restrained](srd_conditions_restrained.md)'
 AttributesDictionary: >+
-  {}
+  Name: Entravé
+
+  Markdown: >+
+
+    # <!--Name-->Entravé<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->[Restrained](srd_conditions_restrained.md)<!--/AltName-->
+
+
+
+
+
+    * La vitesse de la créature entravée tombe à 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
+
+
+
+
+
+    * Les attaques qui visent la créature bénéficient d'un avantage, tandis que les attaques de la créature subissent un désavantage.
+
+
+
+
+
+    * La créature souffre d'un désavantage lors de ses [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md).
+
+
+
+  AltName: '[Restrained](srd_conditions_restrained.md)'
 
 ---
 > [États spéciaux](hd_conditions.md)

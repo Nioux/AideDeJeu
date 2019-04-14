@@ -15,9 +15,154 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Warding Bond](srd_spells_warding_bond.md)'
 Source: (MDR p)(SRD)
-Attributes: {}
+Attributes:
+  Name: Lien de protection
+  Markdown: >+
+    # <!--Name-->Lien de protection<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Warding Bond](srd_spells_warding_bond.md)<!--/AltName-->
+
+
+    -  <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->1 heure<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Clerc](hd_cleric.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Ce sort protège une créature consentante et crée un lien mystique entre vous et votre cible jusqu'à la fin du sort.
+
+
+    Tant que la cible se trouve dans un rayon de 18 mètres autour de vous, elle bénéficie d'un bonus de +1 à la CA et aux [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) et devient résistante à tous les types de dégâts. En revanche, à chaque fois qu'elle subit des dégâts, vous subissez exactement les mêmes.
+
+
+    Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous êtes séparés de plus 18 mètres. Il se termine aussi si vous le lancez de nouveau le sort. Vous pouvez également révoquer le sort par une action.
+
+  AltName: '[Warding Bond](srd_spells_warding_bond.md)'
+  Type: Abjuration
+  Level: 2
+  CastingTime: 1 action
+  Range: contact
+  Components: V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
+  Duration: 1 heure
+  Classes: '[Clerc](hd_cleric.md)'
+  Source: (MDR p)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Lien de protection
+
+  Markdown: >+
+
+    # <!--Name-->Lien de protection<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Warding Bond](srd_spells_warding_bond.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->1 heure<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Clerc](hd_cleric.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Ce sort protège une créature consentante et crée un lien mystique entre vous et votre cible jusqu'à la fin du sort.
+
+
+
+
+
+    Tant que la cible se trouve dans un rayon de 18 mètres autour de vous, elle bénéficie d'un bonus de +1 à la CA et aux [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) et devient résistante à tous les types de dégâts. En revanche, à chaque fois qu'elle subit des dégâts, vous subissez exactement les mêmes.
+
+
+
+
+
+    Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous êtes séparés de plus 18 mètres. Il se termine aussi si vous le lancez de nouveau le sort. Vous pouvez également révoquer le sort par une action.
+
+
+
+  AltName: '[Warding Bond](srd_spells_warding_bond.md)'
+
+  Type: Abjuration
+
+  Level: 2
+
+  CastingTime: 1 action
+
+  Range: contact
+
+  Components: V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
+
+  Duration: 1 heure
+
+  Classes: '[Clerc](hd_cleric.md)'
+
+  Source: (MDR p)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

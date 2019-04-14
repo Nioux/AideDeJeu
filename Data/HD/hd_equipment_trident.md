@@ -11,9 +11,76 @@ ParentLink: equipment_hd.md#Équipement
 Name: Trident
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Trident
+  Markdown: >+
+    # <!--Name-->Trident<!--/Name-->
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+    - **Rareté** <!--Rarity-->De guerre<!--/Rarity-->
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+    - **Dégâts** <!--Damages-->1d6 perforant<!--/Damages-->
+
+    - **Poids** <!--Weight-->2 kg<!--/Weight-->
+
+    - **Propriétés** <!--Properties-->[Lancer](hd_weapons_lancer.md) (portée 6/18), [polyvalente](hd_weapons_polyvalente.md) (1d8)<!--/Properties-->
+
+  Type: Arme de corps-à-corps
+  Rarity: De guerre
+  Price: 5 po
+  Damages: 1d6 perforant
+  Weight: 2 kg
+  Properties: '[Lancer](hd_weapons_lancer.md) (portée 6/18), [polyvalente](hd_weapons_polyvalente.md) (1d8)'
 AttributesDictionary: >+
-  {}
+  Name: Trident
+
+  Markdown: >+
+
+    # <!--Name-->Trident<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+
+
+    - **Rareté** <!--Rarity-->De guerre<!--/Rarity-->
+
+
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+
+
+    - **Dégâts** <!--Damages-->1d6 perforant<!--/Damages-->
+
+
+
+    - **Poids** <!--Weight-->2 kg<!--/Weight-->
+
+
+
+    - **Propriétés** <!--Properties-->[Lancer](hd_weapons_lancer.md) (portée 6/18), [polyvalente](hd_weapons_polyvalente.md) (1d8)<!--/Properties-->
+
+
+
+  Type: Arme de corps-à-corps
+
+  Rarity: De guerre
+
+  Price: 5 po
+
+  Damages: 1d6 perforant
+
+  Weight: 2 kg
+
+  Properties: '[Lancer](hd_weapons_lancer.md) (portée 6/18), [polyvalente](hd_weapons_polyvalente.md) (1d8)'
 
 ---
 > [Équipement](hd_equipment.md)

@@ -9,9 +9,97 @@ ParentLink: backgrounds_hd.md
 Name: Crapule
 ParentName: Historique
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Crapule<!--/Name-->
+
+
+    Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le monde n'a pas le privilège de vivre dans les beaux quartiers. Vous êtes de ces gens que l'on considère avec mépris. Vous avez fait ce qu'il fallait pour survivre, quitte à vous compromettre moralement. Vous avez rapidement compris que la vie n'était qu'un rapport de pouvoir et vous avez tiré votre épingle du jeu en agissant de manière plus ou moins honnête, délestant d'autres moins avisés que vous de leur maigre fortune dans les rues de la cité qui vous abrite.
+
+
+    **Compétences :** <!--Abilities-->Escamotage, Intimidation.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, un type de jeu au choix.<!--/MasteredTools-->
+
+
+    **Équipement :** <!--Equipment-->Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.<!--/Equipment-->
+
+  Name: Crapule
+  Description: >+
+    Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le monde n'a pas le privilège de vivre dans les beaux quartiers. Vous êtes de ces gens que l'on considère avec mépris. Vous avez fait ce qu'il fallait pour survivre, quitte à vous compromettre moralement. Vous avez rapidement compris que la vie n'était qu'un rapport de pouvoir et vous avez tiré votre épingle du jeu en agissant de manière plus ou moins honnête, délestant d'autres moins avisés que vous de leur maigre fortune dans les rues de la cité qui vous abrite.
+
+  Abilities: Escamotage, Intimidation.
+  MasteredTools: Outils de voleur, un type de jeu au choix.
+  Equipment: Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Crapule<!--/Name-->
+
+
+
+
+
+    Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le monde n'a pas le privilège de vivre dans les beaux quartiers. Vous êtes de ces gens que l'on considère avec mépris. Vous avez fait ce qu'il fallait pour survivre, quitte à vous compromettre moralement. Vous avez rapidement compris que la vie n'était qu'un rapport de pouvoir et vous avez tiré votre épingle du jeu en agissant de manière plus ou moins honnête, délestant d'autres moins avisés que vous de leur maigre fortune dans les rues de la cité qui vous abrite.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Escamotage, Intimidation.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, un type de jeu au choix.<!--/MasteredTools-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.<!--/Equipment-->
+
+
+
+  Name: Crapule
+
+  Description: >+
+
+    Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le monde n'a pas le privilège de vivre dans les beaux quartiers. Vous êtes de ces gens que l'on considère avec mépris. Vous avez fait ce qu'il fallait pour survivre, quitte à vous compromettre moralement. Vous avez rapidement compris que la vie n'était qu'un rapport de pouvoir et vous avez tiré votre épingle du jeu en agissant de manière plus ou moins honnête, délestant d'autres moins avisés que vous de leur maigre fortune dans les rues de la cité qui vous abrite.
+
+
+
+  Abilities: Escamotage, Intimidation.
+
+  MasteredTools: Outils de voleur, un type de jeu au choix.
+
+  Equipment: Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.
 
 Description: >+
   Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le monde n'a pas le privilège de vivre dans les beaux quartiers. Vous êtes de ces gens que l'on considère avec mépris. Vous avez fait ce qu'il fallait pour survivre, quitte à vous compromettre moralement. Vous avez rapidement compris que la vie n'était qu'un rapport de pouvoir et vous avez tiré votre épingle du jeu en agissant de manière plus ou moins honnête, délestant d'autres moins avisés que vous de leur maigre fortune dans les rues de la cité qui vous abrite.

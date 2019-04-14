@@ -7,9 +7,31 @@ ParentLink: classes_hd.md#classes
 Name: Sorcier
 ParentName: Classes
 AltName: '[Warlock](#)'
-Attributes: {}
+Attributes:
+  NameLink: '[Sorcier](hd_warlock.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Sorcier](hd_warlock.md)<!--/NameLink-->
+
+
+    - AltName: <!--AltName-->[Warlock](#)<!--/AltName-->
+
+  AltName: '[Warlock](#)'
 AttributesDictionary: >+
-  {}
+  NameLink: '[Sorcier](hd_warlock.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Sorcier](hd_warlock.md)<!--/NameLink-->
+
+
+
+
+
+    - AltName: <!--AltName-->[Warlock](#)<!--/AltName-->
+
+
+
+  AltName: '[Warlock](#)'
 
 ---
 

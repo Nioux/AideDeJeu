@@ -25,9 +25,286 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Nuée d'insectes
+  Markdown: >+
+    # <!--Name-->Nuée d'insectes<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Swarm of Insects](srd_monsters_swarm_of_insects.md)<!--/AltName-->
+
+    -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->6 m, escalade 6 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 3 (-4)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 7 (-2)<!--/Wisdom-->|<!--Charisma--> 1 (-5)<!--/Charisma-->|
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants<!--/DamageResistances-->
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un insecte de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
+
+
+    ## Actions
+
+
+    **_Morsures._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+
+
+    _Touché :_ 10 (4d4) dégâts perforants ou 5 (2d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
+
+
+    **Variante : nuée d'insectes**
+
+
+    Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et chacun possède les caractéristiques spéciales indiquées ci-dessous.
+
+
+    **_Nuée de scarabées._** Une nuée de scarabées dispose d'une vitesse de fouissement de 1,50 mètre.
+
+
+    **_Nuée de mille-pattes._** Si une créature tombe à 0 point de vie à cause d'une nuée de millepattes, elle est stable mais [empoisonnée](hd_conditions_empoisonne.md) pendant une heure, même après avoir récupéré des points de vie. Elle est [paralysée](hd_conditions_paralyse.md) tant qu'elle est ainsi [empoisonnée](hd_conditions_empoisonne.md).
+
+
+    **_Nuée d'araignée._** Une nuée d'araignée possède les traits supplémentaires suivants.
+
+
+    **_Pattes d'araignée._** La nuée gravit des surfaces difficile et se déplace au plafond la tête en bas sans avoir besoin de faire de test de caractéristique.
+
+
+    **_Marche dans les toiles._** La nuée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+
+    **_Nuée de guêpes._** Une nuée de guêpes possède une vitesse au sol de 1,50 mètre, une vitesse en vol de 9 mètres et aucune vitesse d'escalade.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
+  Type: Nuée
+  Size: M composée de bêtes de taille TP
+  Alignment: non-alignée
+  ArmorClass: 12 (armure naturelle)
+  HitPoints: 22 (5d8)
+  Speed: 6 m, escalade 6 m
+  Strength: ' 3 (-4)'
+  Dexterity: 13 (+1)
+  Constitution: 10 (+0)
+  Intelligence: ' 1 (-5)'
+  Wisdom: ' 7 (-2)'
+  Charisma: ' 1 (-5)'
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 1/2 (100 PX)
 AttributesDictionary: >+
-  {}
+  Name: Nuée d'insectes
+
+  Markdown: >+
+
+    # <!--Name-->Nuée d'insectes<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Swarm of Insects](srd_monsters_swarm_of_insects.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->6 m, escalade 6 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 3 (-4)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 7 (-2)<!--/Wisdom-->|<!--Charisma--> 1 (-5)<!--/Charisma-->|
+
+
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un insecte de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsures._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+
+
+
+
+
+    _Touché :_ 10 (4d4) dégâts perforants ou 5 (2d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
+
+
+
+
+
+    **Variante : nuée d'insectes**
+
+
+
+
+
+    Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et chacun possède les caractéristiques spéciales indiquées ci-dessous.
+
+
+
+
+
+    **_Nuée de scarabées._** Une nuée de scarabées dispose d'une vitesse de fouissement de 1,50 mètre.
+
+
+
+
+
+    **_Nuée de mille-pattes._** Si une créature tombe à 0 point de vie à cause d'une nuée de millepattes, elle est stable mais [empoisonnée](hd_conditions_empoisonne.md) pendant une heure, même après avoir récupéré des points de vie. Elle est [paralysée](hd_conditions_paralyse.md) tant qu'elle est ainsi [empoisonnée](hd_conditions_empoisonne.md).
+
+
+
+
+
+    **_Nuée d'araignée._** Une nuée d'araignée possède les traits supplémentaires suivants.
+
+
+
+
+
+    **_Pattes d'araignée._** La nuée gravit des surfaces difficile et se déplace au plafond la tête en bas sans avoir besoin de faire de test de caractéristique.
+
+
+
+
+
+    **_Marche dans les toiles._** La nuée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+
+
+
+
+    **_Nuée de guêpes._** Une nuée de guêpes possède une vitesse au sol de 1,50 mètre, une vitesse en vol de 9 mètres et aucune vitesse d'escalade.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
+
+  Type: Nuée
+
+  Size: M composée de bêtes de taille TP
+
+  Alignment: non-alignée
+
+  ArmorClass: 12 (armure naturelle)
+
+  HitPoints: 22 (5d8)
+
+  Speed: 6 m, escalade 6 m
+
+  Strength: ' 3 (-4)'
+
+  Dexterity: 13 (+1)
+
+  Constitution: 10 (+0)
+
+  Intelligence: ' 1 (-5)'
+
+  Wisdom: ' 7 (-2)'
+
+  Charisma: ' 1 (-5)'
+
+  DamageResistances: contondants, perforants et tranchants
+
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+
+  Languages: —
+
+  Challenge: 1/2 (100 PX)
 
 ---
 > [Créatures](hd_monsters.md)

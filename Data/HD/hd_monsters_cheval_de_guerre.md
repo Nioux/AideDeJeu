@@ -23,9 +23,196 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Warhorse](srd_monsters_warhorse.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Cheval de guerre
+  Markdown: >+
+    # <!--Name-->Cheval de guerre<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Warhorse](srd_monsters_warhorse.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->18 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 11<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Charge écrasante._** Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 14 pour ne pas être [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
+
+
+    ## Actions
+
+
+    **_Sabots._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 11 (2d6+4) dégâts contondants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Warhorse](srd_monsters_warhorse.md)'
+  Type: Bête
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 11
+  HitPoints: 19 (3d10+3)
+  Speed: 18 m
+  Strength: 18 (+4)
+  Dexterity: 12 (+1)
+  Constitution: 13 (+1)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 12 (+1)
+  Charisma: ' 7 (-2)'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: —
+  Challenge: 1/2 (100 PX)
 AttributesDictionary: >+
-  {}
+  Name: Cheval de guerre
+
+  Markdown: >+
+
+    # <!--Name-->Cheval de guerre<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Warhorse](srd_monsters_warhorse.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->18 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 11<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Charge écrasante._** Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 14 pour ne pas être [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Sabots._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 11 (2d6+4) dégâts contondants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Warhorse](srd_monsters_warhorse.md)'
+
+  Type: Bête
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 11
+
+  HitPoints: 19 (3d10+3)
+
+  Speed: 18 m
+
+  Strength: 18 (+4)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 13 (+1)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 7 (-2)'
+
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+
+  Languages: —
+
+  Challenge: 1/2 (100 PX)
 
 ---
 > [Créatures](hd_monsters.md)

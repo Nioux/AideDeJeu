@@ -9,9 +9,82 @@ RootId: wizard_evocation_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques
 ParentName: Traditions arcaniques
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Traditions arcaniques](hd_wizard_traditions_arcaniques.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Traditions arcaniques](hd_wizard_traditions_arcaniques.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->École d'évocation<!--/Name-->
+
+
+    - AltName: <!--AltName-->School of Evocation (SRD p54)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p419)<!--/Source-->
+
+
+    Vous vous intéressez à la magie capable de créer des effets élémentaires puissants, comme un froid mordant, une flamme intense, un coup de tonnerre assourdissant, un éclair crépitant ou de l'acide brûlant.
+
+
+    Certains évocateurs sont employés dans les armées pour servir d'artillerie et créer des explosions à distance dans les armées ennemies. D'autres utilisent leurs pouvoirs prodigieux pour protéger les plus démunis, alors que d'autres encore ne pensent qu'à servir leurs propres intérêts et deviennent des bandits, des aventuriers ou des graines de tyrans.
+
+  Name: École d'évocation
+  AltName: School of Evocation (SRD p54)
+  Source: (MDR p419)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Traditions arcaniques](hd_wizard_traditions_arcaniques.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Traditions arcaniques](hd_wizard_traditions_arcaniques.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->École d'évocation<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->School of Evocation (SRD p54)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p419)<!--/Source-->
+
+
+
+
+
+    Vous vous intéressez à la magie capable de créer des effets élémentaires puissants, comme un froid mordant, une flamme intense, un coup de tonnerre assourdissant, un éclair crépitant ou de l'acide brûlant.
+
+
+
+
+
+    Certains évocateurs sont employés dans les armées pour servir d'artillerie et créer des explosions à distance dans les armées ennemies. D'autres utilisent leurs pouvoirs prodigieux pour protéger les plus démunis, alors que d'autres encore ne pensent qu'à servir leurs propres intérêts et deviennent des bandits, des aventuriers ou des graines de tyrans.
+
+
+
+  Name: École d'évocation
+
+  AltName: School of Evocation (SRD p54)
+
+  Source: (MDR p419)
 
 ---
 >  [Traditions arcaniques](hd_wizard_traditions_arcaniques.md)

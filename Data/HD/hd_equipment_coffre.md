@@ -9,9 +9,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Coffre
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Coffre
+  Markdown: >+
+    # <!--Name-->Coffre<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+    - **Poids** <!--Weight-->12,5 kg<!--/Weight-->
+
+    - **Capacité** <!--Capacity-->350 L/150 kg d'équipement<!--/Capacity-->
+
+  Type: Équipement d'aventurier
+  Price: 5 po
+  Weight: 12,5 kg
+  Capacity: 350 L/150 kg d'équipement
 AttributesDictionary: >+
-  {}
+  Name: Coffre
+
+  Markdown: >+
+
+    # <!--Name-->Coffre<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->12,5 kg<!--/Weight-->
+
+
+
+    - **Capacité** <!--Capacity-->350 L/150 kg d'équipement<!--/Capacity-->
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 5 po
+
+  Weight: 12,5 kg
+
+  Capacity: 350 L/150 kg d'équipement
 
 ---
 > [Équipement](hd_equipment.md)

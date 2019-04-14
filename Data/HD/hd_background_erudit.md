@@ -10,9 +10,109 @@ ParentLink: backgrounds_hd.md
 Name: Érudit
 ParentName: Historique
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Érudit<!--/Name-->
+
+
+    Vous avez passé une large part de votre jeunesse le nez dans des parchemins et de vieux grimoires, à arpenter bibliothèques et scriptoriums à la recherche de précieux et poussiéreux manuscrits. Votre soif de connaissances, votre persévérance et votre intelligence vous ont permis de devenir une référence parmi vos pairs.
+
+
+    **Compétences :** <!--Abilities-->Arcanes, Histoire.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.<!--/MasteredTools-->
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+    **Équipement :** <!--Equipment-->Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.<!--/Equipment-->
+
+  Name: Érudit
+  Description: >+
+    Vous avez passé une large part de votre jeunesse le nez dans des parchemins et de vieux grimoires, à arpenter bibliothèques et scriptoriums à la recherche de précieux et poussiéreux manuscrits. Votre soif de connaissances, votre persévérance et votre intelligence vous ont permis de devenir une référence parmi vos pairs.
+
+  Abilities: Arcanes, Histoire.
+  MasteredTools: "Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste."
+  MasteredLanguages: Une langue au choix.
+  Equipment: Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Érudit<!--/Name-->
+
+
+
+
+
+    Vous avez passé une large part de votre jeunesse le nez dans des parchemins et de vieux grimoires, à arpenter bibliothèques et scriptoriums à la recherche de précieux et poussiéreux manuscrits. Votre soif de connaissances, votre persévérance et votre intelligence vous ont permis de devenir une référence parmi vos pairs.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Arcanes, Histoire.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.<!--/MasteredTools-->
+
+
+
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.<!--/Equipment-->
+
+
+
+  Name: Érudit
+
+  Description: >+
+
+    Vous avez passé une large part de votre jeunesse le nez dans des parchemins et de vieux grimoires, à arpenter bibliothèques et scriptoriums à la recherche de précieux et poussiéreux manuscrits. Votre soif de connaissances, votre persévérance et votre intelligence vous ont permis de devenir une référence parmi vos pairs.
+
+
+
+  Abilities: Arcanes, Histoire.
+
+  MasteredTools: "Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste."
+
+  MasteredLanguages: Une langue au choix.
+
+  Equipment: Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.
 
 Description: >+
   Vous avez passé une large part de votre jeunesse le nez dans des parchemins et de vieux grimoires, à arpenter bibliothèques et scriptoriums à la recherche de précieux et poussiéreux manuscrits. Votre soif de connaissances, votre persévérance et votre intelligence vous ont permis de devenir une référence parmi vos pairs.

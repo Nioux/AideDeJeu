@@ -1,13 +1,77 @@
 ﻿---
 !GenericItem
-Name: Liste de sorts étendue
 Id: warlock_fiendish_hd.md#liste-de-sorts-étendue
 ParentLink: warlock_fiendish_hd.md#le-fiélon
+Name: Liste de sorts étendue
 ParentName: Le fiélon
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Liste de sorts étendue
+  Markdown: >+
+    ## <!--Name-->Liste de sorts étendue<!--/Name-->
+
+
+    Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
+
+
+    |Niv. de sort|Sorts|
+
+    |---|---|
+
+    |1|mains brûlantes, injonction|
+
+    |2|cécité/surdité, rayon ardent|
+
+    |3|boule de feu, nuage puant|
+
+    |4|bouclier de feu, mur de feu|
+
+    |5|colonne de flamme, sanctification|
+
 AttributesDictionary: >+
-  {}
+  Name: Liste de sorts étendue
+
+  Markdown: >+
+
+    ## <!--Name-->Liste de sorts étendue<!--/Name-->
+
+
+
+
+
+    Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
+
+
+
+
+
+    |Niv. de sort|Sorts|
+
+
+
+    |---|---|
+
+
+
+    |1|mains brûlantes, injonction|
+
+
+
+    |2|cécité/surdité, rayon ardent|
+
+
+
+    |3|boule de feu, nuage puant|
+
+
+
+    |4|bouclier de feu, mur de feu|
+
+
+
+    |5|colonne de flamme, sanctification|
+
+
 
 ---
 > [Le fiélon](hd_warlock_fiendish.md)

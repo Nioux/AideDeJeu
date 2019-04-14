@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Toile
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Toile
+  Markdown: >+
+    # <!--Name-->Toile<!--/Name-->
+
+
+    - **Type** <!--Type-->Marchandise<!--/Type-->
+
+    - **Prix** <!--Price-->1 pa<!--/Price-->
+
+    - **Unité** <!--Unity-->1 m2<!--/Unity-->
+
+  Type: Marchandise
+  Price: 1 pa
+  Unity: 1 m2
 AttributesDictionary: >+
-  {}
+  Name: Toile
+
+  Markdown: >+
+
+    # <!--Name-->Toile<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Marchandise<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->1 pa<!--/Price-->
+
+
+
+    - **Unité** <!--Unity-->1 m2<!--/Unity-->
+
+
+
+  Type: Marchandise
+
+  Price: 1 pa
+
+  Unity: 1 m2
 
 ---
 > [Équipement](hd_equipment.md)

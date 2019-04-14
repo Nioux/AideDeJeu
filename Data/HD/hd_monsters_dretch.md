@@ -26,9 +26,241 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Dretch](srd_monsters_dretch.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Dretch
+  Markdown: >+
+    # <!--Name-->Dretch<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Dretch](srd_monsters_dretch.md)<!--/AltName-->
+
+    -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->11 (+0)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom--> 8 (-1)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->de feu, de foudre et de froid<!--/DamageResistances-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[empoisonné](hd_conditions_empoisonne.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9<!--/Senses-->
+
+    - **Langue** <!--Languages-->abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** Le dretch effectue deux attaques : une avec sa morsure et une avec ses griffes.
+
+
+    **_Griffes._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 5 (2d4) dégâts tranchants.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 3 (1d6) dégâts perforants.
+
+
+    **_Nuage fétide (1/jour)._** Un gaz vert répugnant de 3 mètres de rayon s'étend autour du dretch. Le gaz contourne les angles et la visibilité dans la zone est légèrement obstruée. Il dure 1 minute ou jusqu'à ce qu'un vent violent le disperse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 11 pour ne pas être [empoisonnées](hd_conditions_empoisonne.md) jusqu'au début de leur prochain tour. Les créatures [empoisonnées](hd_conditions_empoisonne.md) de cette façon peuvent effectuer une action ou une action bonus lors de leur tour, mais pas les deux, et elles ne peuvent pas effectuer de réaction.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Dretch](srd_monsters_dretch.md)'
+  Type: Fiélon (démon)
+  Size: P
+  Alignment: Chaotique Mauvais
+  ArmorClass: 11 (armure naturelle)
+  HitPoints: 18 (4d6+4)
+  Speed: 6 m
+  Strength: 11 (+0)
+  Dexterity: 11 (+0)
+  Constitution: 12 (+1)
+  Intelligence: ' 5 (-3)'
+  Wisdom: ' 8 (-1)'
+  Charisma: ' 3 (-4)'
+  DamageResistances: de feu, de foudre et de froid
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)
+  Challenge: 1/4 (50 PX)
 AttributesDictionary: >+
-  {}
+  Name: Dretch
+
+  Markdown: >+
+
+    # <!--Name-->Dretch<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Dretch](srd_monsters_dretch.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->11 (+0)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom--> 8 (-1)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->de feu, de foudre et de froid<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
+
+
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[empoisonné](hd_conditions_empoisonne.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** Le dretch effectue deux attaques : une avec sa morsure et une avec ses griffes.
+
+
+
+
+
+    **_Griffes._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 5 (2d4) dégâts tranchants.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 3 (1d6) dégâts perforants.
+
+
+
+
+
+    **_Nuage fétide (1/jour)._** Un gaz vert répugnant de 3 mètres de rayon s'étend autour du dretch. Le gaz contourne les angles et la visibilité dans la zone est légèrement obstruée. Il dure 1 minute ou jusqu'à ce qu'un vent violent le disperse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 11 pour ne pas être [empoisonnées](hd_conditions_empoisonne.md) jusqu'au début de leur prochain tour. Les créatures [empoisonnées](hd_conditions_empoisonne.md) de cette façon peuvent effectuer une action ou une action bonus lors de leur tour, mais pas les deux, et elles ne peuvent pas effectuer de réaction.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Dretch](srd_monsters_dretch.md)'
+
+  Type: Fiélon (démon)
+
+  Size: P
+
+  Alignment: Chaotique Mauvais
+
+  ArmorClass: 11 (armure naturelle)
+
+  HitPoints: 18 (4d6+4)
+
+  Speed: 6 m
+
+  Strength: 11 (+0)
+
+  Dexterity: 11 (+0)
+
+  Constitution: 12 (+1)
+
+  Intelligence: ' 5 (-3)'
+
+  Wisdom: ' 8 (-1)'
+
+  Charisma: ' 3 (-4)'
+
+  DamageResistances: de feu, de foudre et de froid
+
+  DamageImmunities: de poison
+
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+
+  Languages: abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)
+
+  Challenge: 1/4 (50 PX)
 
 ---
 > [Créatures](hd_monsters.md)

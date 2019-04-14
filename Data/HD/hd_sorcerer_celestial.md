@@ -8,9 +8,64 @@ RootId: sorcerer_celestial_hd.md
 ParentLink: sorcerer_hd.md#origines-magiques
 ParentName: Origines magiques
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Origines magiques](hd_sorcerer_origines_magiques.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Origines magiques](hd_sorcerer_origines_magiques.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Lignée céleste<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p156)<!--/Source-->
+
+
+    Les célestes sont des entités issues des plans supérieurs, soit les plans qui abritent les créatures d'alignement Bon. Votre magie innée est une résurgence de la magie céleste mêlée à votre sang ou à celui de vos ancêtres. La plupart des ensorceleurs de lignée céleste descendent de puissants magiciens ou ensorceleurs qui ont conclu des pactes avec des archanges. À l'instar des Aasimar, une part de sang angélique coule dans leurs veines, bien qu'en quantité moindre. Toutefois, en matière de magie comme dans tant d'autres domaines, ce n'est pas la quantité qui détermine la qualité du pouvoir. Ce qui n'empêche pas les aasimar d'être de parfaits candidats pour cette lignée.
+
+  Name: Lignée céleste
+  Source: (MDR p156)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Origines magiques](hd_sorcerer_origines_magiques.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Origines magiques](hd_sorcerer_origines_magiques.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Lignée céleste<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p156)<!--/Source-->
+
+
+
+
+
+    Les célestes sont des entités issues des plans supérieurs, soit les plans qui abritent les créatures d'alignement Bon. Votre magie innée est une résurgence de la magie céleste mêlée à votre sang ou à celui de vos ancêtres. La plupart des ensorceleurs de lignée céleste descendent de puissants magiciens ou ensorceleurs qui ont conclu des pactes avec des archanges. À l'instar des Aasimar, une part de sang angélique coule dans leurs veines, bien qu'en quantité moindre. Toutefois, en matière de magie comme dans tant d'autres domaines, ce n'est pas la quantité qui détermine la qualité du pouvoir. Ce qui n'empêche pas les aasimar d'être de parfaits candidats pour cette lignée.
+
+
+
+  Name: Lignée céleste
+
+  Source: (MDR p156)
 
 ---
 >  [Origines magiques](hd_sorcerer_origines_magiques.md)

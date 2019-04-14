@@ -6,9 +6,19 @@ Id: backgrounds_hd.md#serviteur
 ParentLink: backgrounds_hd.md#historique
 Name: Serviteur
 ParentName: Historique
-Attributes: {}
+Attributes:
+  NameLink: '[Serviteur](hd_background_serviteur.md)'
+  Markdown: >+
+    # <!--NameLink-->[Serviteur](hd_background_serviteur.md)<!--/NameLink-->
+
 AttributesDictionary: >+
-  {}
+  NameLink: '[Serviteur](hd_background_serviteur.md)'
+
+  Markdown: >+
+
+    # <!--NameLink-->[Serviteur](hd_background_serviteur.md)<!--/NameLink-->
+
+
 
 ---
 

@@ -8,9 +8,64 @@ RootId: druid_seasons_hd.md
 ParentLink: druid_hd.md#cercles-druidiques
 ParentName: Cercles druidiques
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Cercles druidiques](hd_druid_cercles_druidiques.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Cercles druidiques](hd_druid_cercles_druidiques.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Cercle des saisons<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p147)<!--/Source-->
+
+
+    Les druides du cercle des saisons sont le plus souvent des solitaires et des contemplatifs, ils égrènent les jours, observent le ciel et les étoiles et veillent au bon déroulement du cycle naturel des saisons. Ils dressent des alignements de pierres pour déterminer précisément les dates des solstices et des équinoxes grâce à la conjonction des astres. Lors de ces jours sacrés, ils se réunissent avec leurs pairs et organisent des cérémonies avec les populations locales. Les druides du cercle des saisons ne sont pas liés à une région précise, et on trouve parmi eux de nombreux voyageurs qui errent dans les terres sauvages pour les préserver et pour contempler les beautés de la nature dans de nouveaux lieux à chaque nouvelle saison.
+
+  Name: Cercle des saisons
+  Source: (MDR p147)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Cercles druidiques](hd_druid_cercles_druidiques.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Cercles druidiques](hd_druid_cercles_druidiques.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Cercle des saisons<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p147)<!--/Source-->
+
+
+
+
+
+    Les druides du cercle des saisons sont le plus souvent des solitaires et des contemplatifs, ils égrènent les jours, observent le ciel et les étoiles et veillent au bon déroulement du cycle naturel des saisons. Ils dressent des alignements de pierres pour déterminer précisément les dates des solstices et des équinoxes grâce à la conjonction des astres. Lors de ces jours sacrés, ils se réunissent avec leurs pairs et organisent des cérémonies avec les populations locales. Les druides du cercle des saisons ne sont pas liés à une région précise, et on trouve parmi eux de nombreux voyageurs qui errent dans les terres sauvages pour les préserver et pour contempler les beautés de la nature dans de nouveaux lieux à chaque nouvelle saison.
+
+
+
+  Name: Cercle des saisons
+
+  Source: (MDR p147)
 
 ---
 >  [Cercles druidiques](hd_druid_cercles_druidiques.md)

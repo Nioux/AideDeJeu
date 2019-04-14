@@ -6,9 +6,43 @@ ParentLink: index.md
 Name: Classes
 ParentName: Manuel des règles
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Manuel des règles](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Classes<!--/Name-->
+
+  Name: Classes
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Manuel des règles](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Classes<!--/Name-->
+
+
+
+  Name: Classes
 
 ---
 >  [Manuel des règles](index.md)

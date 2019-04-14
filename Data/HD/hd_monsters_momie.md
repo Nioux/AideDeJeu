@@ -28,9 +28,250 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Mummy](srd_monsters_mummy.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Momie
+  Markdown: >+
+    # <!--Name-->Momie<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Mummy](srd_monsters_mummy.md)<!--/AltName-->
+
+    -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity--> 8 (-1)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Sag +2<!--/SavingThrows-->
+
+    - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->de feu<!--/DamageVulnerabilities-->
+
+    - **Résistances aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants infligés par des attaques non-magiques<!--/DamageResistances-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et nécrotiques<!--/DamageImmunities-->
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [paralysé](hd_conditions_paralyse.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->celles qu'elle connaissait de son vivant<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** La momie peut utiliser son Regard effroyable et effectuer une attaque avec son poing en décomposition.
+
+
+    **_Poing en décomposition._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 10 (2d6+3) dégâts contondants plus 10 (3d6) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 12 pour ne pas contracter la malédiction de la putréfaction de momie. La cible maudite ne peut plus récupérer de point de vie et son total maximum de points de vie diminue de 10 (3d6) toutes les 24 heures par la suite. Si la malédiction réduit à 0 le total maximum de points de vie de la cible, celle-ci meurt et son corps tombe en poussière. La malédiction persiste tant qu'elle n'est pas levée par le sort _[lever une malédiction](hd_spells_lever_une_malediction.md)_ ou une magie similaire.
+
+
+    **_Regard effroyable._** La momie cible une créature située à 18 mètres ou moins dans son champ de vision.
+
+
+    Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) DD 11 contre cette magie pour ne pas être [terrorisée](hd_conditions_terrorise.md) jusqu'à la fin du prochain tour de la momie. Si la cible rate le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de 5 points ou plus, elle est également [paralysée](hd_conditions_paralyse.md) pendant la même durée. Une cible qui réussit le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) est immunisée contre le regard effroyable de toutes les momies (mais pas contre celui des momies augustes) pendant 24 heures.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Mummy](srd_monsters_mummy.md)'
+  Type: Mort-vivant
+  Size: M
+  Alignment: Loyal Mauvais
+  ArmorClass: 11 (armure naturelle)
+  HitPoints: 58 (9d8+18)
+  Speed: 6 m
+  Strength: 16 (+3)
+  Dexterity: ' 8 (-1)'
+  Constitution: 15 (+2)
+  Intelligence: ' 6 (-2)'
+  Wisdom: 10 (+0)
+  Charisma: 12 (+1)
+  SavingThrows: Sag +2
+  DamageVulnerabilities: de feu
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison et nécrotiques
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [paralysé](hd_conditions_paralyse.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: celles qu'elle connaissait de son vivant
+  Challenge: 3 (700 PX)
 AttributesDictionary: >+
-  {}
+  Name: Momie
+
+  Markdown: >+
+
+    # <!--Name-->Momie<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Mummy](srd_monsters_mummy.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity--> 8 (-1)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Sag +2<!--/SavingThrows-->
+
+
+
+    - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->de feu<!--/DamageVulnerabilities-->
+
+
+
+    - **Résistances aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants infligés par des attaques non-magiques<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et nécrotiques<!--/DamageImmunities-->
+
+
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [paralysé](hd_conditions_paralyse.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->celles qu'elle connaissait de son vivant<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** La momie peut utiliser son Regard effroyable et effectuer une attaque avec son poing en décomposition.
+
+
+
+
+
+    **_Poing en décomposition._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 10 (2d6+3) dégâts contondants plus 10 (3d6) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 12 pour ne pas contracter la malédiction de la putréfaction de momie. La cible maudite ne peut plus récupérer de point de vie et son total maximum de points de vie diminue de 10 (3d6) toutes les 24 heures par la suite. Si la malédiction réduit à 0 le total maximum de points de vie de la cible, celle-ci meurt et son corps tombe en poussière. La malédiction persiste tant qu'elle n'est pas levée par le sort _[lever une malédiction](hd_spells_lever_une_malediction.md)_ ou une magie similaire.
+
+
+
+
+
+    **_Regard effroyable._** La momie cible une créature située à 18 mètres ou moins dans son champ de vision.
+
+
+
+
+
+    Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) DD 11 contre cette magie pour ne pas être [terrorisée](hd_conditions_terrorise.md) jusqu'à la fin du prochain tour de la momie. Si la cible rate le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de 5 points ou plus, elle est également [paralysée](hd_conditions_paralyse.md) pendant la même durée. Une cible qui réussit le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) est immunisée contre le regard effroyable de toutes les momies (mais pas contre celui des momies augustes) pendant 24 heures.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Mummy](srd_monsters_mummy.md)'
+
+  Type: Mort-vivant
+
+  Size: M
+
+  Alignment: Loyal Mauvais
+
+  ArmorClass: 11 (armure naturelle)
+
+  HitPoints: 58 (9d8+18)
+
+  Speed: 6 m
+
+  Strength: 16 (+3)
+
+  Dexterity: ' 8 (-1)'
+
+  Constitution: 15 (+2)
+
+  Intelligence: ' 6 (-2)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: 12 (+1)
+
+  SavingThrows: Sag +2
+
+  DamageVulnerabilities: de feu
+
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+
+  DamageImmunities: de poison et nécrotiques
+
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [paralysé](hd_conditions_paralyse.md)'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+
+  Languages: celles qu'elle connaissait de son vivant
+
+  Challenge: 3 (700 PX)
 
 ---
 > [Créatures](hd_monsters.md)

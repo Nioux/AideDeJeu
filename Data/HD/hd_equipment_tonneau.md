@@ -9,9 +9,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Tonneau
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Tonneau
+  Markdown: >+
+    # <!--Name-->Tonneau<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->2 po<!--/Price-->
+
+    - **Poids** <!--Weight-->35 kg<!--/Weight-->
+
+    - **Capacité** <!--Capacity-->140 L de liquide, 120 L de solide<!--/Capacity-->
+
+  Type: Équipement d'aventurier
+  Price: 2 po
+  Weight: 35 kg
+  Capacity: 140 L de liquide, 120 L de solide
 AttributesDictionary: >+
-  {}
+  Name: Tonneau
+
+  Markdown: >+
+
+    # <!--Name-->Tonneau<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->2 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->35 kg<!--/Weight-->
+
+
+
+    - **Capacité** <!--Capacity-->140 L de liquide, 120 L de solide<!--/Capacity-->
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 2 po
+
+  Weight: 35 kg
+
+  Capacity: 140 L de liquide, 120 L de solide
 
 ---
 > [Équipement](hd_equipment.md)

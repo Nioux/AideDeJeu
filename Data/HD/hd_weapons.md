@@ -8,9 +8,82 @@ ParentName: Équipement
 NameLevel: 1
 AltName: Weapons (SRD p64)
 Source: (MDR p226)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Équipement](hd_equipment.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Équipement](hd_equipment.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Armes<!--/Name-->
+
+
+    - AltName: <!--AltName-->Weapons (SRD p64)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p226)<!--/Source-->
+
+
+    Votre classe vous donne la maîtrise de certaines armes, qui sont représentatives de cette classe, et des outils que vous êtes susceptible d'utiliser. Que vous préfériez manier l'épée longue ou l'arc long, c'est finalement votre capacité à manier votre arme avec efficacité qui peut vous permettre de survivre à une aventure.
+
+
+    Le tableau des armes vous présente les armes les plus couramment rencontrées dans l'univers du jeu, leur prix et leur poids, les dégâts qu'elles infligent et les propriétés spéciales dont elles disposent. Les armes sont classées en fonction de deux grandes catégories : corps-à-corps ou à distance. Une arme de corps-à-corps vous permet d'attaquer une cible qui se trouve dans un rayon de 1,50 mètre autour de vous et une arme à distance vous permet d'attaquer une cible qui se trouve loin de vous.
+
+  Name: Armes
+  AltName: Weapons (SRD p64)
+  Source: (MDR p226)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Équipement](hd_equipment.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Équipement](hd_equipment.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Armes<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Weapons (SRD p64)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p226)<!--/Source-->
+
+
+
+
+
+    Votre classe vous donne la maîtrise de certaines armes, qui sont représentatives de cette classe, et des outils que vous êtes susceptible d'utiliser. Que vous préfériez manier l'épée longue ou l'arc long, c'est finalement votre capacité à manier votre arme avec efficacité qui peut vous permettre de survivre à une aventure.
+
+
+
+
+
+    Le tableau des armes vous présente les armes les plus couramment rencontrées dans l'univers du jeu, leur prix et leur poids, les dégâts qu'elles infligent et les propriétés spéciales dont elles disposent. Les armes sont classées en fonction de deux grandes catégories : corps-à-corps ou à distance. Une arme de corps-à-corps vous permet d'attaquer une cible qui se trouve dans un rayon de 1,50 mètre autour de vous et une arme à distance vous permet d'attaquer une cible qui se trouve loin de vous.
+
+
+
+  Name: Armes
+
+  AltName: Weapons (SRD p64)
+
+  Source: (MDR p226)
 
 ---
 >  [Équipement](hd_equipment.md)

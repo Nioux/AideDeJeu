@@ -8,9 +8,73 @@ RootId: monk_hd.md
 ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Classes](hd_classes.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Moine<!--/Name-->
+
+
+    - AltName: <!--AltName-->Monk (SRD p26)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p176)<!--/Source-->
+
+
+    En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
+
+  Name: Moine
+  AltName: Monk (SRD p26)
+  Source: (MDR p176)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Classes](hd_classes.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Moine<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Monk (SRD p26)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p176)<!--/Source-->
+
+
+
+
+
+    En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
+
+
+
+  Name: Moine
+
+  AltName: Monk (SRD p26)
+
+  Source: (MDR p176)
 
 ---
 >  [Classes](hd_classes.md)

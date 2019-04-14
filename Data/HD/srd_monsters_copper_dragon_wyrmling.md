@@ -25,9 +25,223 @@ Name: Copper Dragon Wyrmling
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)'
-Attributes: {}
+Attributes:
+  Name: Copper Dragon Wyrmling
+  Markdown: >+
+    # <!--Name-->Copper Dragon Wyrmling<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft., climb 30 ft., fly 60 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->14 (+2)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +3, Con +3, Wis +2, Cha +3<!--/SavingThrows-->
+
+    - **Skills** <!--Skills-->Perception +4, Stealth +3<!--/Skills-->
+
+    - **Senses** <!--Senses-->blindsight 10 ft., darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+    - **Languages** <!--Languages-->Draconic<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1 (200 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->acid<!--/DamageImmunities-->
+
+
+    ## Special Features
+
+
+    **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 7 (1d10 + 2) piercing damage.
+
+
+    **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
+
+
+    **_Acid Breath_**. The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+
+    **_Slowing Breath_**. The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+  AltName: '[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)'
+  Size: Medium
+  Type: dragon
+  Alignment: chaotic good
+  ArmorClass: 16 (natural armor)
+  HitPoints: 22 (4d8 + 4)
+  Speed: 30 ft., climb 30 ft., fly 60 ft.
+  Strength: 15 (+2)
+  Dexterity: 12 (+1)
+  Constitution: 13 (+1)
+  Intelligence: 14 (+2)
+  Wisdom: 11 (+0)
+  Charisma: 13 (+1)
+  SavingThrows: Dex +3, Con +3, Wis +2, Cha +3
+  Skills: Perception +4, Stealth +3
+  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
+  Languages: Draconic
+  Challenge: 1 (200 XP)
+  DamageImmunities: acid
 AttributesDictionary: >+
-  {}
+  Name: Copper Dragon Wyrmling
+
+  Markdown: >+
+
+    # <!--Name-->Copper Dragon Wyrmling<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft., climb 30 ft., fly 60 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->14 (+2)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +3, Con +3, Wis +2, Cha +3<!--/SavingThrows-->
+
+
+
+    - **Skills** <!--Skills-->Perception +4, Stealth +3<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->blindsight 10 ft., darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Draconic<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1 (200 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->acid<!--/DamageImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 7 (1d10 + 2) piercing damage.
+
+
+
+
+
+    **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
+
+
+
+
+
+    **_Acid Breath_**. The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+
+
+
+
+    **_Slowing Breath_**. The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+
+
+  AltName: '[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)'
+
+  Size: Medium
+
+  Type: dragon
+
+  Alignment: chaotic good
+
+  ArmorClass: 16 (natural armor)
+
+  HitPoints: 22 (4d8 + 4)
+
+  Speed: 30 ft., climb 30 ft., fly 60 ft.
+
+  Strength: 15 (+2)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 13 (+1)
+
+  Intelligence: 14 (+2)
+
+  Wisdom: 11 (+0)
+
+  Charisma: 13 (+1)
+
+  SavingThrows: Dex +3, Con +3, Wis +2, Cha +3
+
+  Skills: Perception +4, Stealth +3
+
+  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+  Languages: Draconic
+
+  Challenge: 1 (200 XP)
+
+  DamageImmunities: acid
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

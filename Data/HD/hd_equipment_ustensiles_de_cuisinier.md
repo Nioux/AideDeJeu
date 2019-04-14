@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Ustensiles de cuisinier
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Ustensiles de cuisinier
+  Markdown: >+
+    # <!--Name-->Ustensiles de cuisinier<!--/Name-->
+
+
+    - **Type** <!--Type-->Outil d'artisan<!--/Type-->
+
+    - **Prix** <!--Price-->1 po<!--/Price-->
+
+    - **Poids** <!--Weight-->4 kg<!--/Weight-->
+
+  Type: Outil d'artisan
+  Price: 1 po
+  Weight: 4 kg
 AttributesDictionary: >+
-  {}
+  Name: Ustensiles de cuisinier
+
+  Markdown: >+
+
+    # <!--Name-->Ustensiles de cuisinier<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Outil d'artisan<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->1 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->4 kg<!--/Weight-->
+
+
+
+  Type: Outil d'artisan
+
+  Price: 1 po
+
+  Weight: 4 kg
 
 ---
 > [Équipement](hd_equipment.md)

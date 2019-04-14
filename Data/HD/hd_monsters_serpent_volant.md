@@ -23,9 +23,196 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Serpent volant
+  Markdown: >+
+    # <!--Name-->Serpent volant<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Flying Snake](srd_monsters_flying_snake.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->5 (2d4)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, vol 18 m, nage 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 4 (-3)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/8 (25 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Repli aérien._** Le serpent ne provoque pas d'attaque d'opportunité quand il passe hors de portée de l'allonge d'un ennemi.
+
+
+    ## Actions
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
+  Type: Bête
+  Size: TP
+  Alignment: non-alignée
+  ArmorClass: 14
+  HitPoints: 5 (2d4)
+  Speed: 9 m, vol 18 m, nage 9 m
+  Strength: ' 4 (-3)'
+  Dexterity: 18 (+4)
+  Constitution: 11 (+0)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 12 (+1)
+  Charisma: ' 5 (-3)'
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 1/8 (25 PX)
 AttributesDictionary: >+
-  {}
+  Name: Serpent volant
+
+  Markdown: >+
+
+    # <!--Name-->Serpent volant<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Flying Snake](srd_monsters_flying_snake.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->5 (2d4)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, vol 18 m, nage 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 4 (-3)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/8 (25 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Repli aérien._** Le serpent ne provoque pas d'attaque d'opportunité quand il passe hors de portée de l'allonge d'un ennemi.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
+
+  Type: Bête
+
+  Size: TP
+
+  Alignment: non-alignée
+
+  ArmorClass: 14
+
+  HitPoints: 5 (2d4)
+
+  Speed: 9 m, vol 18 m, nage 9 m
+
+  Strength: ' 4 (-3)'
+
+  Dexterity: 18 (+4)
+
+  Constitution: 11 (+0)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 5 (-3)'
+
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+
+  Languages: —
+
+  Challenge: 1/8 (25 PX)
 
 ---
 > [Créatures](hd_monsters.md)

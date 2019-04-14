@@ -8,9 +8,64 @@ RootId: fighter_swordsman_hd.md
 ParentLink: fighter_hd.md#archétypes-martiaux
 ParentName: Archétypes martiaux
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Archétypes martiaux](hd_fighter_archetypes_martiaux.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Archétypes martiaux](hd_fighter_archetypes_martiaux.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Bretteur<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p162)<!--/Source-->
+
+
+    Le bretteur est un guerrier qui compte sur la précision et la vitesse de ses attaques plutôt que sur sa force et la taille de son arme. Parfois aussi nommé duelliste, escrimeur ou encore spadassin, selon sa fonction ou sa philosophie du combat, cet archétype porte une armure légère afin de conserver assez de mobilité et de rapidité. Son style de combat peut être flamboyant et acrobatique ou, au contraire, efficace et sans fioriture, mais dans tous les cas son art a pour objectif d'atteindre les organes vitaux de sa cible avec une précision chirurgicale.
+
+  Name: Bretteur
+  Source: (MDR p162)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Archétypes martiaux](hd_fighter_archetypes_martiaux.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Archétypes martiaux](hd_fighter_archetypes_martiaux.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Bretteur<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p162)<!--/Source-->
+
+
+
+
+
+    Le bretteur est un guerrier qui compte sur la précision et la vitesse de ses attaques plutôt que sur sa force et la taille de son arme. Parfois aussi nommé duelliste, escrimeur ou encore spadassin, selon sa fonction ou sa philosophie du combat, cet archétype porte une armure légère afin de conserver assez de mobilité et de rapidité. Son style de combat peut être flamboyant et acrobatique ou, au contraire, efficace et sans fioriture, mais dans tous les cas son art a pour objectif d'atteindre les organes vitaux de sa cible avec une précision chirurgicale.
+
+
+
+  Name: Bretteur
+
+  Source: (MDR p162)
 
 ---
 >  [Archétypes martiaux](hd_fighter_archetypes_martiaux.md)

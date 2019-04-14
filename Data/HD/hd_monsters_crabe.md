@@ -24,9 +24,205 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Crab](srd_monsters_crab.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Crabe
+  Markdown: >+
+    # <!--Name-->Crabe<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Crab](srd_monsters_crab.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->6 m, nage 6 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 2 (-4)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 8 (-1)<!--/Wisdom-->|<!--Charisma--> 2 (-4)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +2<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->0 (10 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Amphibie._** Le crabe peut respirer à l'air libre et sous l'eau.
+
+
+    ## Actions
+
+
+    **_Pince._** Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 1 dégât contondant.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Crab](srd_monsters_crab.md)'
+  Type: Bête
+  Size: TP
+  Alignment: non-alignée
+  ArmorClass: 11 (armure naturelle)
+  HitPoints: 2 (1d4)
+  Speed: 6 m, nage 6 m
+  Strength: ' 2 (-4)'
+  Dexterity: 11 (+0)
+  Constitution: 10 (+0)
+  Intelligence: ' 1 (-5)'
+  Wisdom: ' 8 (-1)'
+  Charisma: ' 2 (-4)'
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
+  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 0 (10 PX)
 AttributesDictionary: >+
-  {}
+  Name: Crabe
+
+  Markdown: >+
+
+    # <!--Name-->Crabe<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Crab](srd_monsters_crab.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->6 m, nage 6 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 2 (-4)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 8 (-1)<!--/Wisdom-->|<!--Charisma--> 2 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +2<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->0 (10 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Amphibie._** Le crabe peut respirer à l'air libre et sous l'eau.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Pince._** Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 1 dégât contondant.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Crab](srd_monsters_crab.md)'
+
+  Type: Bête
+
+  Size: TP
+
+  Alignment: non-alignée
+
+  ArmorClass: 11 (armure naturelle)
+
+  HitPoints: 2 (1d4)
+
+  Speed: 6 m, nage 6 m
+
+  Strength: ' 2 (-4)'
+
+  Dexterity: 11 (+0)
+
+  Constitution: 10 (+0)
+
+  Intelligence: ' 1 (-5)'
+
+  Wisdom: ' 8 (-1)'
+
+  Charisma: ' 2 (-4)'
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
+
+  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+
+  Languages: —
+
+  Challenge: 0 (10 PX)
 
 ---
 > [Créatures](hd_monsters.md)

@@ -6,9 +6,19 @@ Id: warlock_hd.md#invocations-occultes
 ParentLink: warlock_hd.md#sorcier
 Name: Invocations occultes
 ParentName: Sorcier
-Attributes: {}
+Attributes:
+  NameLink: '[Invocations occultes](hd_warlock_occultsummons.md)'
+  Markdown: >+
+    # <!--NameLink-->[Invocations occultes](hd_warlock_occultsummons.md)<!--/NameLink-->
+
 AttributesDictionary: >+
-  {}
+  NameLink: '[Invocations occultes](hd_warlock_occultsummons.md)'
+
+  Markdown: >+
+
+    # <!--NameLink-->[Invocations occultes](hd_warlock_occultsummons.md)<!--/NameLink-->
+
+
 
 ---
 

@@ -1,13 +1,41 @@
 ﻿---
 !GenericItem
-Name: Vitesse
 Id: movement_hd.md#vitesse
 ParentLink: movement_hd.md#déplacement
+Name: Vitesse
 ParentName: Déplacement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Vitesse
+  Markdown: >+
+    # <!--Name-->Vitesse<!--/Name-->
+
+
+    Chaque personnage ou monstre est caractérisé par une vitesse qui correspond à la distance que ce personnage ou monstre peut parcourir en 1 round. Ce nombre correspond à un mouvement rapide et volontaire au coeur d’une situation dangereuse.
+
+
+    Les règles suivantes permettent de déterminer la distance que peut parcourir un personnage ou un monstre en une minute, une heure ou une journée.
+
 AttributesDictionary: >+
-  {}
+  Name: Vitesse
+
+  Markdown: >+
+
+    # <!--Name-->Vitesse<!--/Name-->
+
+
+
+
+
+    Chaque personnage ou monstre est caractérisé par une vitesse qui correspond à la distance que ce personnage ou monstre peut parcourir en 1 round. Ce nombre correspond à un mouvement rapide et volontaire au coeur d’une situation dangereuse.
+
+
+
+
+
+    Les règles suivantes permettent de déterminer la distance que peut parcourir un personnage ou un monstre en une minute, une heure ou une journée.
+
+
 
 ---
 > [Déplacement](hd_movement.md)

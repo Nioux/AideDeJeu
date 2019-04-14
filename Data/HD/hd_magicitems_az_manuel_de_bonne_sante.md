@@ -9,9 +9,61 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Manual of Bodily Health (SRD p229)
 Source: (COC p171)
-Attributes: {}
+Attributes:
+  Name: Manuel de bonne santé
+  Markdown: >+
+    ### <!--Name-->Manuel de bonne santé<!--/Name-->
+
+
+    - AltName: <!--AltName-->Manual of Bodily Health (SRD p229)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p171)<!--/Source-->
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
+
+
+    Ce livre contient des conseils pour rester en bonne santé et s'alimenter sainement, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Constitution augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie, mais elle se recharge au bout d'un siècle.
+
+  AltName: Manual of Bodily Health (SRD p229)
+  Source: (COC p171)
+  Type: Objet merveilleux
+  Rarity: très rare
 AttributesDictionary: >+
-  {}
+  Name: Manuel de bonne santé
+
+  Markdown: >+
+
+    ### <!--Name-->Manuel de bonne santé<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Manual of Bodily Health (SRD p229)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p171)<!--/Source-->
+
+
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
+
+
+
+
+
+    Ce livre contient des conseils pour rester en bonne santé et s'alimenter sainement, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Constitution augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie, mais elle se recharge au bout d'un siècle.
+
+
+
+  AltName: Manual of Bodily Health (SRD p229)
+
+  Source: (COC p171)
+
+  Type: Objet merveilleux
+
+  Rarity: très rare
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

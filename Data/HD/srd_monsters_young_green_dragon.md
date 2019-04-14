@@ -26,9 +26,259 @@ Name: Young Green Dragon
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)'
-Attributes: {}
+Attributes:
+  Name: Young Green Dragon
+  Markdown: >+
+    # <!--Name-->Young Green Dragon<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->136 (16d10 + 48)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +4, Con +6, Wis +4, Cha +5<!--/SavingThrows-->
+
+    - **Skills** <!--Skills-->Deception +5, Perception +7, Stealth +4<!--/Skills-->
+
+    - **Senses** <!--Senses-->blindsight 30 ft., darkvision 120 ft., passive Perception 17<!--/Senses-->
+
+    - **Languages** <!--Languages-->Common, Draconic<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->8 (3900 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Amphibious_**. The dragon can breathe air and water.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
+
+
+    **_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+
+
+    _Hit_: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.
+
+
+    **_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 11 (2d6 + 4) slashing damage.
+
+
+    **_Poison Breath (Recharge 5-6)_**. The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+  AltName: '[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)'
+  Size: Large
+  Type: dragon
+  Alignment: lawful evil
+  ArmorClass: 18 (natural armor)
+  HitPoints: 136 (16d10 + 48)
+  Speed: 40 ft., fly 80 ft., swim 40 ft.
+  Strength: 19 (+4)
+  Dexterity: 12 (+1)
+  Constitution: 17 (+3)
+  Intelligence: 16 (+3)
+  Wisdom: 13 (+1)
+  Charisma: 15 (+2)
+  SavingThrows: Dex +4, Con +6, Wis +4, Cha +5
+  Skills: Deception +5, Perception +7, Stealth +4
+  Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 17
+  Languages: Common, Draconic
+  Challenge: 8 (3900 XP)
+  DamageImmunities: poison
+  ConditionImmunities: poisoned
 AttributesDictionary: >+
-  {}
+  Name: Young Green Dragon
+
+  Markdown: >+
+
+    # <!--Name-->Young Green Dragon<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->136 (16d10 + 48)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->40 ft., fly 80 ft., swim 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +4, Con +6, Wis +4, Cha +5<!--/SavingThrows-->
+
+
+
+    - **Skills** <!--Skills-->Deception +5, Perception +7, Stealth +4<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->blindsight 30 ft., darkvision 120 ft., passive Perception 17<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Common, Draconic<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->8 (3900 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Amphibious_**. The dragon can breathe air and water.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+
+
+
+
+
+    _Hit_: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.
+
+
+
+
+
+    **_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 11 (2d6 + 4) slashing damage.
+
+
+
+
+
+    **_Poison Breath (Recharge 5-6)_**. The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+
+
+  AltName: '[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)'
+
+  Size: Large
+
+  Type: dragon
+
+  Alignment: lawful evil
+
+  ArmorClass: 18 (natural armor)
+
+  HitPoints: 136 (16d10 + 48)
+
+  Speed: 40 ft., fly 80 ft., swim 40 ft.
+
+  Strength: 19 (+4)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 17 (+3)
+
+  Intelligence: 16 (+3)
+
+  Wisdom: 13 (+1)
+
+  Charisma: 15 (+2)
+
+  SavingThrows: Dex +4, Con +6, Wis +4, Cha +5
+
+  Skills: Deception +5, Perception +7, Stealth +4
+
+  Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+  Languages: Common, Draconic
+
+  Challenge: 8 (3900 XP)
+
+  DamageImmunities: poison
+
+  ConditionImmunities: poisoned
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

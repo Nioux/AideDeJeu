@@ -8,9 +8,82 @@ RootId: warlock_pact_hd.md
 ParentLink: warlock_hd.md
 ParentName: Sorcier
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Sorcier](hd_warlock.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Sorcier](hd_warlock.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Pacte<!--/Name-->
+
+
+    - AltName: <!--AltName-->Pact Boon (SRD p47)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p211)<!--/Source-->
+
+
+    Au niveau 3, votre protecteur d'outre-monde vous accorde un cadeau en récompense de vos loyaux services.
+
+
+    Vous gagnez au choix l'une des trois aptitudes suivantes.
+
+  Name: Pacte
+  AltName: Pact Boon (SRD p47)
+  Source: (MDR p211)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Sorcier](hd_warlock.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Sorcier](hd_warlock.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Pacte<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Pact Boon (SRD p47)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p211)<!--/Source-->
+
+
+
+
+
+    Au niveau 3, votre protecteur d'outre-monde vous accorde un cadeau en récompense de vos loyaux services.
+
+
+
+
+
+    Vous gagnez au choix l'une des trois aptitudes suivantes.
+
+
+
+  Name: Pacte
+
+  AltName: Pact Boon (SRD p47)
+
+  Source: (MDR p211)
 
 ---
 >  [Sorcier](hd_warlock.md)

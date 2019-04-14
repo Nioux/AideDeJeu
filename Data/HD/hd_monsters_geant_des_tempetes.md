@@ -27,9 +27,295 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Géant des tempêtes
+  Markdown: >+
+    # <!--Name-->Géant des tempêtes<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Storm Giant](srd_monsters_storm_giant.md)<!--/AltName-->
+
+    -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->16 (armure d'écailles)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->230 (20d12+100)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->15 m, nage 15 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->29 (+9)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->18 (+4)<!--/Wisdom-->|<!--Charisma-->18 (+4)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->For +14, Con +10, Sag +9, Cha +9<!--/SavingThrows-->
+
+    - **Compétences** <!--Skills-->[Arcanes](hd_abilities_intelligence_arcanes.md) +8, [Athlétisme](hd_abilities_strength_athletisme.md) +14, [Histoire](hd_abilities_intelligence_histoire.md) +8, [Perception](hd_abilities_wisdom_perception.md) +9<!--/Skills-->
+
+    - **Résistance aux dégâts** <!--DamageResistances-->de froid<!--/DamageResistances-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de foudre et de tonnerre<!--/DamageImmunities-->
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 19<!--/Senses-->
+
+    - **Langues** <!--Languages-->commun, géant<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->13 (10 000 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Amphibie._** Le géant peut respirer à l'air libre et sous l'eau.
+
+
+    **_Incantation innée._** La caractéristique d'incantation du géant est le [Charisme](hd_abilities_charisma.md) (DD du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre ses sorts 17). Le géant peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+
+
+    * **À volonté :** _[détection de la magie](hd_spells_detection_de_la_magie.md)_, _[léger comme une plume](hd_spells_leger_comme_une_plume.md)_, _[lévitation](hd_spells_levitation.md)_, _[lumière](hd_spells_lumiere.md)_
+
+
+    * **3/jour chacun :** _[contrôle du climat](hd_spells_controle_du_climat.md)_, _[respiration aquatique](hd_spells_respiration_aquatique.md)_
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** Le géant effectue deux attaques avec son épée à deux mains.
+
+
+    **_Épée à deux mains._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une cible.
+
+
+    _Touché :_ 30 (6d6+9) dégâts tranchants.
+
+
+    **_Frappe foudroyante (Recharge 5-6)._** Le géant lance un éclair magique sur un point situé dans son champ de vision à 150 mètres ou moins. Les créatures situées à 3 mètres ou moins de ce point doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 17 ; elles subissent 54 (12d8) dégâts de foudre en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté, ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+    **_Rocher._** Attaque d'arme à distance : +14 pour toucher, portée 18/72 m, une cible.
+
+
+    _Touché :_ 35 (4d12+9) dégâts contondants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
+  Type: Géant
+  Size: TG
+  Alignment: Chaotique Bon
+  ArmorClass: 16 (armure d'écailles)
+  HitPoints: 230 (20d12+100)
+  Speed: 15 m, nage 15 m
+  Strength: 29 (+9)
+  Dexterity: 14 (+2)
+  Constitution: 20 (+5)
+  Intelligence: 16 (+3)
+  Wisdom: 18 (+4)
+  Charisma: 18 (+4)
+  SavingThrows: For +14, Con +10, Sag +9, Cha +9
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +8, [Athlétisme](hd_abilities_strength_athletisme.md) +14, [Histoire](hd_abilities_intelligence_histoire.md) +8, [Perception](hd_abilities_wisdom_perception.md) +9'
+  DamageResistances: de froid
+  DamageImmunities: de foudre et de tonnerre
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 19'
+  Languages: commun, géant
+  Challenge: 13 (10 000 PX)
 AttributesDictionary: >+
-  {}
+  Name: Géant des tempêtes
+
+  Markdown: >+
+
+    # <!--Name-->Géant des tempêtes<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Storm Giant](srd_monsters_storm_giant.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->16 (armure d'écailles)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->230 (20d12+100)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->15 m, nage 15 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->29 (+9)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->18 (+4)<!--/Wisdom-->|<!--Charisma-->18 (+4)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->For +14, Con +10, Sag +9, Cha +9<!--/SavingThrows-->
+
+
+
+    - **Compétences** <!--Skills-->[Arcanes](hd_abilities_intelligence_arcanes.md) +8, [Athlétisme](hd_abilities_strength_athletisme.md) +14, [Histoire](hd_abilities_intelligence_histoire.md) +8, [Perception](hd_abilities_wisdom_perception.md) +9<!--/Skills-->
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->de froid<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de foudre et de tonnerre<!--/DamageImmunities-->
+
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 19<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->commun, géant<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->13 (10 000 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Amphibie._** Le géant peut respirer à l'air libre et sous l'eau.
+
+
+
+
+
+    **_Incantation innée._** La caractéristique d'incantation du géant est le [Charisme](hd_abilities_charisma.md) (DD du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre ses sorts 17). Le géant peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+
+
+
+
+
+    * **À volonté :** _[détection de la magie](hd_spells_detection_de_la_magie.md)_, _[léger comme une plume](hd_spells_leger_comme_une_plume.md)_, _[lévitation](hd_spells_levitation.md)_, _[lumière](hd_spells_lumiere.md)_
+
+
+
+
+
+    * **3/jour chacun :** _[contrôle du climat](hd_spells_controle_du_climat.md)_, _[respiration aquatique](hd_spells_respiration_aquatique.md)_
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** Le géant effectue deux attaques avec son épée à deux mains.
+
+
+
+
+
+    **_Épée à deux mains._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une cible.
+
+
+
+
+
+    _Touché :_ 30 (6d6+9) dégâts tranchants.
+
+
+
+
+
+    **_Frappe foudroyante (Recharge 5-6)._** Le géant lance un éclair magique sur un point situé dans son champ de vision à 150 mètres ou moins. Les créatures situées à 3 mètres ou moins de ce point doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 17 ; elles subissent 54 (12d8) dégâts de foudre en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté, ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+
+
+    **_Rocher._** Attaque d'arme à distance : +14 pour toucher, portée 18/72 m, une cible.
+
+
+
+
+
+    _Touché :_ 35 (4d12+9) dégâts contondants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
+
+  Type: Géant
+
+  Size: TG
+
+  Alignment: Chaotique Bon
+
+  ArmorClass: 16 (armure d'écailles)
+
+  HitPoints: 230 (20d12+100)
+
+  Speed: 15 m, nage 15 m
+
+  Strength: 29 (+9)
+
+  Dexterity: 14 (+2)
+
+  Constitution: 20 (+5)
+
+  Intelligence: 16 (+3)
+
+  Wisdom: 18 (+4)
+
+  Charisma: 18 (+4)
+
+  SavingThrows: For +14, Con +10, Sag +9, Cha +9
+
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +8, [Athlétisme](hd_abilities_strength_athletisme.md) +14, [Histoire](hd_abilities_intelligence_histoire.md) +8, [Perception](hd_abilities_wisdom_perception.md) +9'
+
+  DamageResistances: de froid
+
+  DamageImmunities: de foudre et de tonnerre
+
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 19'
+
+  Languages: commun, géant
+
+  Challenge: 13 (10 000 PX)
 
 ---
 > [Créatures](hd_monsters.md)

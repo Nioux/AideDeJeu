@@ -18,13 +18,194 @@ NameLevel: 1
 AltName: Halfling (SRD p4)
 Source: (MDR p52)
 Attributes:
+  ParentNameLink: '[Races](races_hd.md#)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Halfelin<!--/Name-->
+
+
+    - AltName: <!--AltName-->Halfling (SRD p4)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p52)<!--/Source-->
+
+
+    ## Traits des halfelins
+
+
+    Un halfelin possède de nombreux traits en commun avec tous les autres halfelins.
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.<!--/AbilityScoreIncrease-->
+
+
+    **Âge.** <!--Age-->Un halfelin atteint la maturité vers 20 ans et vit généralement 150 ans.<!--/Age-->
+
+
+    **Alignement.** <!--Alignment-->La majorité des halfelins est d'alignement Loyal Bon. Ce sont par nature des êtres qui ont un bon coeur et qui sont affables. Ils détestent voir les autres créatures souffrir et ne tolèrent pas l'oppression. Ils sont aussi très organisés et respectueux des traditions. Ils se reposent beaucoup sur leur communauté et le confort apporté par leurs coutumes.<!--/Alignment-->
+
+
+    **Taille.** <!--Size-->D'une taille moyenne de 90 centimètres, les halfelins pèsent environ 20 kg. Ils sont de petite taille.<!--/Size-->
+
+
+    **Vitesse.** <!--Speed-->Votre vitesse au sol de base est de 7,50 mètres.<!--/Speed-->
+
+
+    **<!--LuckyKey-->Chanceux<!--/LuckyKey-->.** <!--LuckyValue-->Quand vous faites un 1 avec le d20 d'un jet d'attaque, d'un test de caractéristiques ou d'un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md), vous pouvez relancer le dé. Mais vous devez utiliser le nouveau résultat du jet.<!--/LuckyValue-->
+
+
+    **<!--BraveKey-->Brave<!--/BraveKey-->.** <!--BraveValue-->Vous bénéficiez d'un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre la terreur.<!--/BraveValue-->
+
+
+    **<!--HalflingNimblenessKey-->Agilité halfeline<!--/HalflingNimblenessKey-->.** <!--HalflingNimblenessValue-->Vous pouvez traverser n'importe quel emplacement occupé par une créature plus grande que vous.<!--/HalflingNimblenessValue-->
+
+
+    **Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.<!--/Languages-->
+
+  Name: Halfelin
+  AltName: Halfling (SRD p4)
+  Source: (MDR p52)
+  Description: >+
+    Un halfelin possède de nombreux traits en commun avec tous les autres halfelins.
+
+  AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.
+  Age: Un halfelin atteint la maturité vers 20 ans et vit généralement 150 ans.
+  Alignment: La majorité des halfelins est d'alignement Loyal Bon. Ce sont par nature des êtres qui ont un bon coeur et qui sont affables. Ils détestent voir les autres créatures souffrir et ne tolèrent pas l'oppression. Ils sont aussi très organisés et respectueux des traditions. Ils se reposent beaucoup sur leur communauté et le confort apporté par leurs coutumes.
+  Size: D'une taille moyenne de 90 centimètres, les halfelins pèsent environ 20 kg. Ils sont de petite taille.
+  Speed: Votre vitesse au sol de base est de 7,50 mètres.
   LuckyKey: Chanceux
   LuckyValue: Quand vous faites un 1 avec le d20 d'un jet d'attaque, d'un test de caractéristiques ou d'un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md), vous pouvez relancer le dé. Mais vous devez utiliser le nouveau résultat du jet.
   BraveKey: Brave
   BraveValue: Vous bénéficiez d'un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre la terreur.
   HalflingNimblenessKey: Agilité halfeline
   HalflingNimblenessValue: Vous pouvez traverser n'importe quel emplacement occupé par une créature plus grande que vous.
+  Languages: Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.
 AttributesDictionary: >+
+  ParentNameLink: '[Races](races_hd.md#)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Halfelin<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Halfling (SRD p4)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p52)<!--/Source-->
+
+
+
+
+
+    ## Traits des halfelins
+
+
+
+
+
+    Un halfelin possède de nombreux traits en commun avec tous les autres halfelins.
+
+
+
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.<!--/AbilityScoreIncrease-->
+
+
+
+
+
+    **Âge.** <!--Age-->Un halfelin atteint la maturité vers 20 ans et vit généralement 150 ans.<!--/Age-->
+
+
+
+
+
+    **Alignement.** <!--Alignment-->La majorité des halfelins est d'alignement Loyal Bon. Ce sont par nature des êtres qui ont un bon coeur et qui sont affables. Ils détestent voir les autres créatures souffrir et ne tolèrent pas l'oppression. Ils sont aussi très organisés et respectueux des traditions. Ils se reposent beaucoup sur leur communauté et le confort apporté par leurs coutumes.<!--/Alignment-->
+
+
+
+
+
+    **Taille.** <!--Size-->D'une taille moyenne de 90 centimètres, les halfelins pèsent environ 20 kg. Ils sont de petite taille.<!--/Size-->
+
+
+
+
+
+    **Vitesse.** <!--Speed-->Votre vitesse au sol de base est de 7,50 mètres.<!--/Speed-->
+
+
+
+
+
+    **<!--LuckyKey-->Chanceux<!--/LuckyKey-->.** <!--LuckyValue-->Quand vous faites un 1 avec le d20 d'un jet d'attaque, d'un test de caractéristiques ou d'un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md), vous pouvez relancer le dé. Mais vous devez utiliser le nouveau résultat du jet.<!--/LuckyValue-->
+
+
+
+
+
+    **<!--BraveKey-->Brave<!--/BraveKey-->.** <!--BraveValue-->Vous bénéficiez d'un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre la terreur.<!--/BraveValue-->
+
+
+
+
+
+    **<!--HalflingNimblenessKey-->Agilité halfeline<!--/HalflingNimblenessKey-->.** <!--HalflingNimblenessValue-->Vous pouvez traverser n'importe quel emplacement occupé par une créature plus grande que vous.<!--/HalflingNimblenessValue-->
+
+
+
+
+
+    **Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.<!--/Languages-->
+
+
+
+  Name: Halfelin
+
+  AltName: Halfling (SRD p4)
+
+  Source: (MDR p52)
+
+  Description: >+
+
+    Un halfelin possède de nombreux traits en commun avec tous les autres halfelins.
+
+
+
+  AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.
+
+  Age: Un halfelin atteint la maturité vers 20 ans et vit généralement 150 ans.
+
+  Alignment: La majorité des halfelins est d'alignement Loyal Bon. Ce sont par nature des êtres qui ont un bon coeur et qui sont affables. Ils détestent voir les autres créatures souffrir et ne tolèrent pas l'oppression. Ils sont aussi très organisés et respectueux des traditions. Ils se reposent beaucoup sur leur communauté et le confort apporté par leurs coutumes.
+
+  Size: D'une taille moyenne de 90 centimètres, les halfelins pèsent environ 20 kg. Ils sont de petite taille.
+
+  Speed: Votre vitesse au sol de base est de 7,50 mètres.
+
   LuckyKey: Chanceux
 
   LuckyValue: Quand vous faites un 1 avec le d20 d'un jet d'attaque, d'un test de caractéristiques ou d'un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md), vous pouvez relancer le dé. Mais vous devez utiliser le nouveau résultat du jet.
@@ -36,6 +217,8 @@ AttributesDictionary: >+
   HalflingNimblenessKey: Agilité halfeline
 
   HalflingNimblenessValue: Vous pouvez traverser n'importe quel emplacement occupé par une créature plus grande que vous.
+
+  Languages: Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.
 
 Description: >+
   Un halfelin possède de nombreux traits en commun avec tous les autres halfelins.

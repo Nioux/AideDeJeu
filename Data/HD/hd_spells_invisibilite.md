@@ -15,9 +15,145 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Invisibility](srd_spells_invisibility.md)'
 Source: (MDR p)(SRD)
-Attributes: {}
+Attributes:
+  Name: Invisibilité
+  Markdown: >+
+    # <!--Name-->Invisibilité<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Invisibility](srd_spells_invisibility.md)<!--/AltName-->
+
+
+    -  <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (un cil enrobé de gomme arabique)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    La créature que vous touchez devient [invisible](hd_conditions_invisible.md) jusqu'à la fin du sort. Tout ce qu'elle porte et transporte reste [invisible](hd_conditions_invisible.md) tant qu'elle le garde sur elle. Le sort se termine si la cible attaque ou lance un sort.
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 2.
+
+  AltName: '[Invisibility](srd_spells_invisibility.md)'
+  Type: Illusion
+  Level: 2
+  CastingTime: 1 action
+  Range: contact
+  Components: V, S, M (un cil enrobé de gomme arabique)
+  Duration: concentration, jusqu'à 1 heure
+  Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+  Source: (MDR p)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Invisibilité
+
+  Markdown: >+
+
+    # <!--Name-->Invisibilité<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Invisibility](srd_spells_invisibility.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (un cil enrobé de gomme arabique)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    La créature que vous touchez devient [invisible](hd_conditions_invisible.md) jusqu'à la fin du sort. Tout ce qu'elle porte et transporte reste [invisible](hd_conditions_invisible.md) tant qu'elle le garde sur elle. Le sort se termine si la cible attaque ou lance un sort.
+
+
+
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 2.
+
+
+
+  AltName: '[Invisibility](srd_spells_invisibility.md)'
+
+  Type: Illusion
+
+  Level: 2
+
+  CastingTime: 1 action
+
+  Range: contact
+
+  Components: V, S, M (un cil enrobé de gomme arabique)
+
+  Duration: concentration, jusqu'à 1 heure
+
+  Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+
+  Source: (MDR p)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

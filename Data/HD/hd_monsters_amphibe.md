@@ -23,9 +23,241 @@ Name: Amphibe
 ParentName: Créatures
 NameLevel: 1
 Source: (CEO p)
-Attributes: {}
+Attributes:
+  Name: Amphibe
+  Markdown: >+
+    # <!--Name-->Amphibe<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)<!--/Source-->
+
+    -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->71 (13d8+13)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m au sol ; nage 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->17 (+3)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 4 (-3)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+    - **Langue** <!--Languages-->commun des profondeurs<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Amphibie._** L'amphibe peut respirer à l'air libre et sous l'eau.
+
+
+    **_Avantage aquatique._** Sous l'eau, l'amphibe bénéficie d'un avantage à ses tests de [Discrétion](hd_abilities_dexterity_discretion.md) et de [Perception](hd_abilities_wisdom_perception.md), ainsi qu'à ses [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) visant à éviter un danger. S'il nage en ligne droite, il peut utiliser l'action de course.
+
+
+    **_Pattes arrières._** L'amphibe gagne 2 attaques de griffes supplémentaires avec ses pattes arrières lorsqu'il attaque en nageant.
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** Un amphibe sans arme effectue 3 attaques : 1 en mordant et 2 avec ses griffes.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 7 (1d8+3) dégâts perforants.
+
+
+    **_Griffes._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 5 (1d4+3) dégâts tranchants.
+
+  Source: (CEO p)
+  Type: Aberration
+  Size: M
+  Alignment: loyal mauvais
+  ArmorClass: 12
+  HitPoints: 71 (13d8+13)
+  Speed: 9 m au sol ; nage 9 m
+  Strength: 17 (+3)
+  Dexterity: 11 (+0)
+  Constitution: 13 (+1)
+  Intelligence: 10 (+0)
+  Wisdom: 10 (+0)
+  Charisma: ' 4 (-3)'
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: vision dans le noir 18 m ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: commun des profondeurs
+  Challenge: 2 (450 PX)
 AttributesDictionary: >+
-  {}
+  Name: Amphibe
+
+  Markdown: >+
+
+    # <!--Name-->Amphibe<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)<!--/Source-->
+
+
+
+    -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->71 (13d8+13)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m au sol ; nage 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->17 (+3)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 4 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->commun des profondeurs<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Amphibie._** L'amphibe peut respirer à l'air libre et sous l'eau.
+
+
+
+
+
+    **_Avantage aquatique._** Sous l'eau, l'amphibe bénéficie d'un avantage à ses tests de [Discrétion](hd_abilities_dexterity_discretion.md) et de [Perception](hd_abilities_wisdom_perception.md), ainsi qu'à ses [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) visant à éviter un danger. S'il nage en ligne droite, il peut utiliser l'action de course.
+
+
+
+
+
+    **_Pattes arrières._** L'amphibe gagne 2 attaques de griffes supplémentaires avec ses pattes arrières lorsqu'il attaque en nageant.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** Un amphibe sans arme effectue 3 attaques : 1 en mordant et 2 avec ses griffes.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 7 (1d8+3) dégâts perforants.
+
+
+
+
+
+    **_Griffes._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 5 (1d4+3) dégâts tranchants.
+
+
+
+  Source: (CEO p)
+
+  Type: Aberration
+
+  Size: M
+
+  Alignment: loyal mauvais
+
+  ArmorClass: 12
+
+  HitPoints: 71 (13d8+13)
+
+  Speed: 9 m au sol ; nage 9 m
+
+  Strength: 17 (+3)
+
+  Dexterity: 11 (+0)
+
+  Constitution: 13 (+1)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 4 (-3)'
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+
+  Senses: vision dans le noir 18 m ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+
+  Languages: commun des profondeurs
+
+  Challenge: 2 (450 PX)
 
 ---
 > [Créatures](hd_monsters.md)

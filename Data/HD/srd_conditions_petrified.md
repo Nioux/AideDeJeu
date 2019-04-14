@@ -1,15 +1,100 @@
 ﻿---
 !GenericItem
-Name: Petrified
-AltName: '[Pétrifié](hd_conditions_petrifie.md)'
-Source: (SRD p359)
 Id: conditions_vo.md#petrified
 ParentLink: conditions_vo.md#conditions
+Name: Petrified
 ParentName: Conditions
 NameLevel: 1
-Attributes: {}
+AltName: '[Pétrifié](hd_conditions_petrifie.md)'
+Source: (SRD p359)
+Attributes:
+  Name: Petrified
+  Markdown: >+
+    # <!--Name-->Petrified<!--/Name-->
+
+
+    - AltName: <!--AltName-->[Pétrifié](hd_conditions_petrifie.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p359)<!--/Source-->
+
+
+    * A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+
+
+    * The creature is [incapacitated](srd_conditions_incapacitated.md) (see the condition), can't move or speak, and is unaware of its surroundings.
+
+
+    * Attack rolls against the creature have advantage.
+
+
+    * The creature automatically fails Strength and Dexterity saving throws.
+
+
+    * The creature has resistance to all damage.
+
+
+    * The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+
+  AltName: '[Pétrifié](hd_conditions_petrifie.md)'
+  Source: (SRD p359)
 AttributesDictionary: >+
-  {}
+  Name: Petrified
+
+  Markdown: >+
+
+    # <!--Name-->Petrified<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->[Pétrifié](hd_conditions_petrifie.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p359)<!--/Source-->
+
+
+
+
+
+    * A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+
+
+
+
+
+    * The creature is [incapacitated](srd_conditions_incapacitated.md) (see the condition), can't move or speak, and is unaware of its surroundings.
+
+
+
+
+
+    * Attack rolls against the creature have advantage.
+
+
+
+
+
+    * The creature automatically fails Strength and Dexterity saving throws.
+
+
+
+
+
+    * The creature has resistance to all damage.
+
+
+
+
+
+    * The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+
+
+
+  AltName: '[Pétrifié](hd_conditions_petrifie.md)'
+
+  Source: (SRD p359)
 
 ---
 > [Conditions](srd_conditions.md)

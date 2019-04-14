@@ -28,9 +28,277 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Diable osseux
+  Markdown: >+
+    # <!--Name-->Diable osseux<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Bone Devil](srd_monsters_bone_devil.md)<!--/AltName-->
+
+    -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->142 (15d10+60)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12 m, vol 12 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence-->13 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Int +5, Sag +6, Cha +7<!--/SavingThrows-->
+
+    - **Compétences** <!--Skills-->[Perspicacité](hd_abilities_wisdom_perspicacite.md) +6, [Supercherie](hd_abilities_charisma_supercherie.md) +7<!--/Skills-->
+
+    - **Résistance aux dégâts** <!--DamageResistances-->de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent<!--/DamageResistances-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu et de poison<!--/DamageImmunities-->
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[empoisonné](hd_conditions_empoisonne.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+    - **Langue** <!--Languages-->infernal, télépathie 36 m<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->9 (5 000 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Résistance à la magie._** Le diable obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts et autres effets magiques.
+
+
+    **_Vue du diable._** Les ténèbres magiques ne bloquent pas la vision dans le noir du diable.
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** Le diable effectue trois attaques : deux avec ses griffes et une avec son dard.
+
+
+    **_Dard._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible.
+
+
+    _Touché :_ 13 (2d8+4) dégâts perforants plus 17 (5d6) dégâts de poison, et la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 14 pour ne pas être [empoisonnée](hd_conditions_empoisonne.md) pendant 1 minute. La cible peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible.
+
+
+    _Touché :_ 8 (1d8+4) dégâts tranchants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
+  Type: Fiélon (diable)
+  Size: G
+  Alignment: Loyal Mauvais
+  ArmorClass: 19 (armure naturelle)
+  HitPoints: 142 (15d10+60)
+  Speed: 12 m, vol 12 m
+  Strength: 18 (+4)
+  Dexterity: 16 (+3)
+  Constitution: 18 (+4)
+  Intelligence: 13 (+1)
+  Wisdom: 14 (+2)
+  Charisma: 16 (+3)
+  SavingThrows: Int +5, Sag +6, Cha +7
+  Skills: '[Perspicacité](hd_abilities_wisdom_perspicacite.md) +6, [Supercherie](hd_abilities_charisma_supercherie.md) +7'
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: infernal, télépathie 36 m
+  Challenge: 9 (5 000 PX)
 AttributesDictionary: >+
-  {}
+  Name: Diable osseux
+
+  Markdown: >+
+
+    # <!--Name-->Diable osseux<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Bone Devil](srd_monsters_bone_devil.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->142 (15d10+60)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12 m, vol 12 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence-->13 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Int +5, Sag +6, Cha +7<!--/SavingThrows-->
+
+
+
+    - **Compétences** <!--Skills-->[Perspicacité](hd_abilities_wisdom_perspicacite.md) +6, [Supercherie](hd_abilities_charisma_supercherie.md) +7<!--/Skills-->
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu et de poison<!--/DamageImmunities-->
+
+
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[empoisonné](hd_conditions_empoisonne.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->infernal, télépathie 36 m<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->9 (5 000 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Résistance à la magie._** Le diable obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts et autres effets magiques.
+
+
+
+
+
+    **_Vue du diable._** Les ténèbres magiques ne bloquent pas la vision dans le noir du diable.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** Le diable effectue trois attaques : deux avec ses griffes et une avec son dard.
+
+
+
+
+
+    **_Dard._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible.
+
+
+
+
+
+    _Touché :_ 13 (2d8+4) dégâts perforants plus 17 (5d6) dégâts de poison, et la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 14 pour ne pas être [empoisonnée](hd_conditions_empoisonne.md) pendant 1 minute. La cible peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+
+
+
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible.
+
+
+
+
+
+    _Touché :_ 8 (1d8+4) dégâts tranchants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
+
+  Type: Fiélon (diable)
+
+  Size: G
+
+  Alignment: Loyal Mauvais
+
+  ArmorClass: 19 (armure naturelle)
+
+  HitPoints: 142 (15d10+60)
+
+  Speed: 12 m, vol 12 m
+
+  Strength: 18 (+4)
+
+  Dexterity: 16 (+3)
+
+  Constitution: 18 (+4)
+
+  Intelligence: 13 (+1)
+
+  Wisdom: 14 (+2)
+
+  Charisma: 16 (+3)
+
+  SavingThrows: Int +5, Sag +6, Cha +7
+
+  Skills: '[Perspicacité](hd_abilities_wisdom_perspicacite.md) +6, [Supercherie](hd_abilities_charisma_supercherie.md) +7'
+
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+
+  DamageImmunities: de feu et de poison
+
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+
+  Languages: infernal, télépathie 36 m
+
+  Challenge: 9 (5 000 PX)
 
 ---
 > [Créatures](hd_monsters.md)

@@ -1,15 +1,55 @@
 ﻿---
 !GenericItem
-Name: Opposition en combat
-AltName: Contests in Combat (SRD p96)
-Source: (MDR p292)
 Id: combat_hd.md#opposition-en-combat
 ParentLink: combat_hd.md#combattre
+Name: Opposition en combat
 ParentName: Combattre
 NameLevel: 4
-Attributes: {}
+AltName: Contests in Combat (SRD p96)
+Source: (MDR p292)
+Attributes:
+  Name: Opposition en combat
+  Markdown: >+
+    #### <!--Name-->Opposition en combat<!--/Name-->
+
+
+    - AltName: <!--AltName-->Contests in Combat (SRD p96)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p292)<!--/Source-->
+
+
+    Au cours d'une bataille, vos prouesses ne valent que si elles sont supérieures à celles de votre ennemi. Une telle compétition est représentée par une opposition. Cette section présente les oppositions les plus courantes en combat qui nécessitent d'utiliser une action : empoigner ou bousculer une créature. Le MJ peut s'inspirer de ces règles pour improviser d'autres oppositions.
+
+  AltName: Contests in Combat (SRD p96)
+  Source: (MDR p292)
 AttributesDictionary: >+
-  {}
+  Name: Opposition en combat
+
+  Markdown: >+
+
+    #### <!--Name-->Opposition en combat<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Contests in Combat (SRD p96)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p292)<!--/Source-->
+
+
+
+
+
+    Au cours d'une bataille, vos prouesses ne valent que si elles sont supérieures à celles de votre ennemi. Une telle compétition est représentée par une opposition. Cette section présente les oppositions les plus courantes en combat qui nécessitent d'utiliser une action : empoigner ou bousculer une créature. Le MJ peut s'inspirer de ces règles pour improviser d'autres oppositions.
+
+
+
+  AltName: Contests in Combat (SRD p96)
+
+  Source: (MDR p292)
 
 ---
 > [Combattre](hd_combat.md)

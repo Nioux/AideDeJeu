@@ -9,9 +9,97 @@ ParentLink: backgrounds_hd.md
 Name: Manouvrier
 ParentName: Historique
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Manouvrier<!--/Name-->
+
+
+    Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et votre endurance. Vous arpentiez les rues de votre cité en vous levant à l'aube, afin de vendre vos services à la journée, parfois pour quelques jours. Votre vie n'a pas toujours été simple, et vous avez souvent flirté avec la mendicité ou la délinquance pour gagner votre pain. Par un coup de pouce du hasard, vous avez pu échapper à cette vie. Vous en concevez une volonté inébranlable et la conscience aiguë d'une main invisible qui veille sur votre destinée.
+
+
+    **Compétences :** <!--Abilities-->Athlétisme, Escamotage.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.<!--/MasteredTools-->
+
+
+    **Équipement :** <!--Equipment-->Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.<!--/Equipment-->
+
+  Name: Manouvrier
+  Description: >+
+    Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et votre endurance. Vous arpentiez les rues de votre cité en vous levant à l'aube, afin de vendre vos services à la journée, parfois pour quelques jours. Votre vie n'a pas toujours été simple, et vous avez souvent flirté avec la mendicité ou la délinquance pour gagner votre pain. Par un coup de pouce du hasard, vous avez pu échapper à cette vie. Vous en concevez une volonté inébranlable et la conscience aiguë d'une main invisible qui veille sur votre destinée.
+
+  Abilities: Athlétisme, Escamotage.
+  MasteredTools: "Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier."
+  Equipment: Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Manouvrier<!--/Name-->
+
+
+
+
+
+    Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et votre endurance. Vous arpentiez les rues de votre cité en vous levant à l'aube, afin de vendre vos services à la journée, parfois pour quelques jours. Votre vie n'a pas toujours été simple, et vous avez souvent flirté avec la mendicité ou la délinquance pour gagner votre pain. Par un coup de pouce du hasard, vous avez pu échapper à cette vie. Vous en concevez une volonté inébranlable et la conscience aiguë d'une main invisible qui veille sur votre destinée.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Athlétisme, Escamotage.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.<!--/MasteredTools-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.<!--/Equipment-->
+
+
+
+  Name: Manouvrier
+
+  Description: >+
+
+    Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et votre endurance. Vous arpentiez les rues de votre cité en vous levant à l'aube, afin de vendre vos services à la journée, parfois pour quelques jours. Votre vie n'a pas toujours été simple, et vous avez souvent flirté avec la mendicité ou la délinquance pour gagner votre pain. Par un coup de pouce du hasard, vous avez pu échapper à cette vie. Vous en concevez une volonté inébranlable et la conscience aiguë d'une main invisible qui veille sur votre destinée.
+
+
+
+  Abilities: Athlétisme, Escamotage.
+
+  MasteredTools: "Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier."
+
+  Equipment: Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.
 
 Description: >+
   Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et votre endurance. Vous arpentiez les rues de votre cité en vous levant à l'aube, afin de vendre vos services à la journée, parfois pour quelques jours. Votre vie n'a pas toujours été simple, et vous avez souvent flirté avec la mendicité ou la délinquance pour gagner votre pain. Par un coup de pouce du hasard, vous avez pu échapper à cette vie. Vous en concevez une volonté inébranlable et la conscience aiguë d'une main invisible qui veille sur votre destinée.

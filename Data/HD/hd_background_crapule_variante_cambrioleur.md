@@ -8,9 +8,73 @@ ParentLink: background_crapule_hd.md#crapule
 Name: 'Variante : Cambrioleur'
 ParentName: Crapule
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Cambrioleur'
+  Markdown: >+
+    ### <!--Name-->Variante : Cambrioleur<!--/Name-->
+
+
+    Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait votre gagne-pain de les délester un peu de leurs richesses pour les revendre, empochant au passage une jolie commission.
+
+
+    **Compétences :** <!--Abilities-->Acrobaties ou Athlétisme, Discrétion.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, accessoires de déguisement.<!--/MasteredTools-->
+
+
+    **Équipement :** <!--Equipment-->Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.<!--/Equipment-->
+
+  Description: >+
+    Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait votre gagne-pain de les délester un peu de leurs richesses pour les revendre, empochant au passage une jolie commission.
+
+  Abilities: Acrobaties ou Athlétisme, Discrétion.
+  MasteredTools: Outils de voleur, accessoires de déguisement.
+  Equipment: Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Cambrioleur'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Cambrioleur<!--/Name-->
+
+
+
+
+
+    Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait votre gagne-pain de les délester un peu de leurs richesses pour les revendre, empochant au passage une jolie commission.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Acrobaties ou Athlétisme, Discrétion.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, accessoires de déguisement.<!--/MasteredTools-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait votre gagne-pain de les délester un peu de leurs richesses pour les revendre, empochant au passage une jolie commission.
+
+
+
+  Abilities: Acrobaties ou Athlétisme, Discrétion.
+
+  MasteredTools: Outils de voleur, accessoires de déguisement.
+
+  Equipment: Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.
 
 Description: >+
   Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait votre gagne-pain de les délester un peu de leurs richesses pour les revendre, empochant au passage une jolie commission.

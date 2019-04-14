@@ -5,9 +5,37 @@ ParentLink: background_militaire_hd.md#variante--officier
 Name: "Aptitude : Position d'autorité"
 ParentName: 'Variante : Officier'
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: "Aptitude : Position d'autorité"
+  Markdown: >+
+    #### <!--Name-->Aptitude : Position d'autorité<!--/Name-->
+
+
+    Les soldats « amis » reconnaissent votre autorité et votre expérience, et ont tendance à accepter tout naturellement vos ordres et vos directives. En cas de nécessité, dans une ville de votre région d'origine, vous êtes capable de réunir rapidement un petit groupe d'anciens soldats prêts à vous rendre service.
+
+  Description: >+
+    Les soldats « amis » reconnaissent votre autorité et votre expérience, et ont tendance à accepter tout naturellement vos ordres et vos directives. En cas de nécessité, dans une ville de votre région d'origine, vous êtes capable de réunir rapidement un petit groupe d'anciens soldats prêts à vous rendre service.
+
 AttributesDictionary: >+
-  {}
+  Name: "Aptitude : Position d'autorité"
+
+  Markdown: >+
+
+    #### <!--Name-->Aptitude : Position d'autorité<!--/Name-->
+
+
+
+
+
+    Les soldats « amis » reconnaissent votre autorité et votre expérience, et ont tendance à accepter tout naturellement vos ordres et vos directives. En cas de nécessité, dans une ville de votre région d'origine, vous êtes capable de réunir rapidement un petit groupe d'anciens soldats prêts à vous rendre service.
+
+
+
+  Description: >+
+
+    Les soldats « amis » reconnaissent votre autorité et votre expérience, et ont tendance à accepter tout naturellement vos ordres et vos directives. En cas de nécessité, dans une ville de votre région d'origine, vous êtes capable de réunir rapidement un petit groupe d'anciens soldats prêts à vous rendre service.
+
+
 
 Description: >+
   Les soldats « amis » reconnaissent votre autorité et votre expérience, et ont tendance à accepter tout naturellement vos ordres et vos directives. En cas de nécessité, dans une ville de votre région d'origine, vous êtes capable de réunir rapidement un petit groupe d'anciens soldats prêts à vous rendre service.

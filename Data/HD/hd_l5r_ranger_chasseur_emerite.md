@@ -1,14 +1,45 @@
 ﻿---
 !GenericItem
-Name: Chasseur émérite
-Source: (L5R p53)
 Id: l5r_ranger_hd.md#chasseur-émérite
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
+Name: Chasseur émérite
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 5
-Attributes: {}
+Source: (L5R p53)
+Attributes:
+  Name: Chasseur émérite
+  Markdown: >+
+    ##### <!--Name-->Chasseur émérite<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p53)<!--/Source-->
+
+
+    Vous savez comment tirer avantage du terrain et vos attaques peuvent être mortelles. Quand vous êtes caché au début d'un combat, lors de votre toute première attaque, vous obtenez un bonus de 1d6 de dommages par point de bonus de maîtrise. Une fois votre première attaque passée, vous ne pouvez plus vous servir de cette capacité. Au niveau 17, sur cette attaque uniquement, si vous obtenez une réussite critique, l'intégralité des dommages issus de ces d6 bonus sont infligés aux points de vitalité de la cible (et non la moitié). Vous pouvez vous servir de cette capacité à chaque combat, si les circonstances le permettent.
+
+  Source: (L5R p53)
 AttributesDictionary: >+
-  {}
+  Name: Chasseur émérite
+
+  Markdown: >+
+
+    ##### <!--Name-->Chasseur émérite<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p53)<!--/Source-->
+
+
+
+
+
+    Vous savez comment tirer avantage du terrain et vos attaques peuvent être mortelles. Quand vous êtes caché au début d'un combat, lors de votre toute première attaque, vous obtenez un bonus de 1d6 de dommages par point de bonus de maîtrise. Une fois votre première attaque passée, vous ne pouvez plus vous servir de cette capacité. Au niveau 17, sur cette attaque uniquement, si vous obtenez une réussite critique, l'intégralité des dommages issus de ces d6 bonus sont infligés aux points de vitalité de la cible (et non la moitié). Vous pouvez vous servir de cette capacité à chaque combat, si les circonstances le permettent.
+
+
+
+  Source: (L5R p53)
 
 ---
 > [Rôdeur des cinq Royaumes](hd_l5r_ranger.md)

@@ -11,9 +11,76 @@ ParentLink: equipment_hd.md#Équipement
 Name: Merlin
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Merlin
+  Markdown: >+
+    # <!--Name-->Merlin<!--/Name-->
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+    - **Rareté** <!--Rarity-->De guerre<!--/Rarity-->
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+    - **Dégâts** <!--Damages-->2d6 contondant<!--/Damages-->
+
+    - **Poids** <!--Weight-->5 kg<!--/Weight-->
+
+    - **Propriétés** <!--Properties-->[Lourde](hd_weapons_lourde.md), [à deux mains](hd_weapons_a_deux_mains.md)<!--/Properties-->
+
+  Type: Arme de corps-à-corps
+  Rarity: De guerre
+  Price: 10 po
+  Damages: 2d6 contondant
+  Weight: 5 kg
+  Properties: '[Lourde](hd_weapons_lourde.md), [à deux mains](hd_weapons_a_deux_mains.md)'
 AttributesDictionary: >+
-  {}
+  Name: Merlin
+
+  Markdown: >+
+
+    # <!--Name-->Merlin<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+
+
+    - **Rareté** <!--Rarity-->De guerre<!--/Rarity-->
+
+
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+
+
+    - **Dégâts** <!--Damages-->2d6 contondant<!--/Damages-->
+
+
+
+    - **Poids** <!--Weight-->5 kg<!--/Weight-->
+
+
+
+    - **Propriétés** <!--Properties-->[Lourde](hd_weapons_lourde.md), [à deux mains](hd_weapons_a_deux_mains.md)<!--/Properties-->
+
+
+
+  Type: Arme de corps-à-corps
+
+  Rarity: De guerre
+
+  Price: 10 po
+
+  Damages: 2d6 contondant
+
+  Weight: 5 kg
+
+  Properties: '[Lourde](hd_weapons_lourde.md), [à deux mains](hd_weapons_a_deux_mains.md)'
 
 ---
 > [Équipement](hd_equipment.md)

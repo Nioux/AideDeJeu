@@ -8,9 +8,73 @@ ParentName: Caractéristiques
 NameLevel: 1
 AltName: Strength (SRD p79)
 Source: (MDR p262)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Caractéristiques](hd_abilities.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Caractéristiques](hd_abilities.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Force<!--/Name-->
+
+
+    - AltName: <!--AltName-->Strength (SRD p79)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p262)<!--/Source-->
+
+
+    La Force détermine la puissance physique d'un personnage, ses compétences en [athlétisme](hd_abilities_strength_athletisme.md) et dans quelle mesure il peut se reposer sur sa force brute.
+
+  Name: Force
+  AltName: Strength (SRD p79)
+  Source: (MDR p262)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Caractéristiques](hd_abilities.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Caractéristiques](hd_abilities.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Force<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Strength (SRD p79)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p262)<!--/Source-->
+
+
+
+
+
+    La Force détermine la puissance physique d'un personnage, ses compétences en [athlétisme](hd_abilities_strength_athletisme.md) et dans quelle mesure il peut se reposer sur sa force brute.
+
+
+
+  Name: Force
+
+  AltName: Strength (SRD p79)
+
+  Source: (MDR p262)
 
 ---
 >  [Caractéristiques](hd_abilities.md)

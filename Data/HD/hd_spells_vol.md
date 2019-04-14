@@ -15,9 +15,145 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Fly](srd_spells_fly.md)'
 Source: (MDR p)(SRD)
-Attributes: {}
+Attributes:
+  Name: Vol
+  Markdown: >+
+    # <!--Name-->Vol<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Fly](srd_spells_fly.md)<!--/AltName-->
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (une rémige)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Vous touchez une créature consentante et lui conférez la capacité de voler à une vitesse de 18 mètres pendant toute la durée du sort. Si la cible se trouve dans les airs quand le sort se termine, elle tombe, à moins de pouvoir arrêter sa chute.
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 3.
+
+  AltName: '[Fly](srd_spells_fly.md)'
+  Type: Transmutation
+  Level: 3
+  CastingTime: 1 action
+  Range: contact
+  Components: V, S, M (une rémige)
+  Duration: concentration, jusqu'à 10 minutes
+  Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+  Source: (MDR p)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Vol
+
+  Markdown: >+
+
+    # <!--Name-->Vol<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Fly](srd_spells_fly.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (une rémige)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Vous touchez une créature consentante et lui conférez la capacité de voler à une vitesse de 18 mètres pendant toute la durée du sort. Si la cible se trouve dans les airs quand le sort se termine, elle tombe, à moins de pouvoir arrêter sa chute.
+
+
+
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 3.
+
+
+
+  AltName: '[Fly](srd_spells_fly.md)'
+
+  Type: Transmutation
+
+  Level: 3
+
+  CastingTime: 1 action
+
+  Range: contact
+
+  Components: V, S, M (une rémige)
+
+  Duration: concentration, jusqu'à 10 minutes
+
+  Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+
+  Source: (MDR p)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

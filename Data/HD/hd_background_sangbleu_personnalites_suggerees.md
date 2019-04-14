@@ -5,9 +5,37 @@ ParentLink: background_sangbleu_hd.md#sang-bleu
 Name: Personnalités suggérées
 ParentName: Sang bleu
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: Personnalités suggérées
+  Markdown: >+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+    Être un sang bleu est certes un privilège, mais cela s'accompagne toujours de grandes responsabilités et d'immenses devoirs, envers votre famille, ses alliés, votre contrée et votre suzerain, mais aussi envers ceux qui servent votre famille.
+
+  Description: >+
+    Être un sang bleu est certes un privilège, mais cela s'accompagne toujours de grandes responsabilités et d'immenses devoirs, envers votre famille, ses alliés, votre contrée et votre suzerain, mais aussi envers ceux qui servent votre famille.
+
 AttributesDictionary: >+
-  {}
+  Name: Personnalités suggérées
+
+  Markdown: >+
+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+
+
+
+    Être un sang bleu est certes un privilège, mais cela s'accompagne toujours de grandes responsabilités et d'immenses devoirs, envers votre famille, ses alliés, votre contrée et votre suzerain, mais aussi envers ceux qui servent votre famille.
+
+
+
+  Description: >+
+
+    Être un sang bleu est certes un privilège, mais cela s'accompagne toujours de grandes responsabilités et d'immenses devoirs, envers votre famille, ses alliés, votre contrée et votre suzerain, mais aussi envers ceux qui servent votre famille.
+
+
 
 Description: >+
   Être un sang bleu est certes un privilège, mais cela s'accompagne toujours de grandes responsabilités et d'immenses devoirs, envers votre famille, ses alliés, votre contrée et votre suzerain, mais aussi envers ceux qui servent votre famille.

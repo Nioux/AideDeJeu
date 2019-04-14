@@ -23,9 +23,214 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Mammoth](srd_monsters_mammoth.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Mammouth
+  Markdown: >+
+    # <!--Name-->Mammouth<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Mammoth](srd_monsters_mammoth.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->126 (11d12+55)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->24 (+7)<!--/Strength-->|<!--Dexterity--> 9 (-1)<!--/Dexterity-->|<!--Constitution-->21 (+5)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->6 (2 300 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Charge écrasante._** Si le mammouth se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de défense lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 18 pour ne pas être jetée [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), le mammouth peut effectuer contre elle une attaque de piétinement par une action bonus.
+
+
+    ## Actions
+
+
+    **_Coup de défense._** Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible.
+
+
+    _Touché :_ 25 (4d8+7) dégâts perforants.
+
+
+    **_Piétinement._** Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une créature [à terre](hd_conditions_a_terre.md).
+
+
+    _Touché :_ 29 (4d10+7) dégâts contondants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Mammoth](srd_monsters_mammoth.md)'
+  Type: Bête
+  Size: TG
+  Alignment: non-alignée
+  ArmorClass: 13 (armure naturelle)
+  HitPoints: 126 (11d12+55)
+  Speed: 12 m
+  Strength: 24 (+7)
+  Dexterity: ' 9 (-1)'
+  Constitution: 21 (+5)
+  Intelligence: ' 3 (-4)'
+  Wisdom: 11 (+0)
+  Charisma: ' 6 (-2)'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 6 (2 300 PX)
 AttributesDictionary: >+
-  {}
+  Name: Mammouth
+
+  Markdown: >+
+
+    # <!--Name-->Mammouth<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Mammoth](srd_monsters_mammoth.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->126 (11d12+55)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->24 (+7)<!--/Strength-->|<!--Dexterity--> 9 (-1)<!--/Dexterity-->|<!--Constitution-->21 (+5)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->6 (2 300 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Charge écrasante._** Si le mammouth se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de défense lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 18 pour ne pas être jetée [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), le mammouth peut effectuer contre elle une attaque de piétinement par une action bonus.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Coup de défense._** Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible.
+
+
+
+
+
+    _Touché :_ 25 (4d8+7) dégâts perforants.
+
+
+
+
+
+    **_Piétinement._** Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une créature [à terre](hd_conditions_a_terre.md).
+
+
+
+
+
+    _Touché :_ 29 (4d10+7) dégâts contondants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Mammoth](srd_monsters_mammoth.md)'
+
+  Type: Bête
+
+  Size: TG
+
+  Alignment: non-alignée
+
+  ArmorClass: 13 (armure naturelle)
+
+  HitPoints: 126 (11d12+55)
+
+  Speed: 12 m
+
+  Strength: 24 (+7)
+
+  Dexterity: ' 9 (-1)'
+
+  Constitution: 21 (+5)
+
+  Intelligence: ' 3 (-4)'
+
+  Wisdom: 11 (+0)
+
+  Charisma: ' 6 (-2)'
+
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+
+  Languages: —
+
+  Challenge: 6 (2 300 PX)
 
 ---
 > [Créatures](hd_monsters.md)

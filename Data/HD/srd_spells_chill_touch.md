@@ -15,9 +15,124 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Contact glacial](hd_spells_contact_glacial.md)'
 Source: (SRD p124)
-Attributes: {}
+Attributes:
+  Name: Chill Touch
+  Markdown: >+
+    # <!--Name-->Chill Touch<!--/Name-->
+
+
+    - MDR: <!--AltName-->[Contact glacial](hd_spells_contact_glacial.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p124)<!--/Source-->
+
+    -  <!--Type-->Necromancy<!--/Type--> <!--Level-->cantrip<!--/Level-->
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+    - **Range :** <!--Range-->120 feet<!--/Range-->
+
+    - **Components :** <!--Components-->V, S<!--/Components-->
+
+    - **Duration :** <!--Duration-->1 round<!--/Duration-->
+
+    - Classes: <!--Classes-->Sorcerer, Warlock, Wizard<!--/Classes-->
+
+
+    ### Description
+
+
+    You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
+
+
+    This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+  AltName: '[Contact glacial](hd_spells_contact_glacial.md)'
+  Source: (SRD p124)
+  Type: Necromancy
+  Level: cantrip
+  CastingTime: 1 action
+  Range: 120 feet
+  Components: V, S
+  Duration: 1 round
+  Classes: Sorcerer, Warlock, Wizard
 AttributesDictionary: >+
-  {}
+  Name: Chill Touch
+
+  Markdown: >+
+
+    # <!--Name-->Chill Touch<!--/Name-->
+
+
+
+
+
+    - MDR: <!--AltName-->[Contact glacial](hd_spells_contact_glacial.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p124)<!--/Source-->
+
+
+
+    -  <!--Type-->Necromancy<!--/Type--> <!--Level-->cantrip<!--/Level-->
+
+
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+    - **Range :** <!--Range-->120 feet<!--/Range-->
+
+
+
+    - **Components :** <!--Components-->V, S<!--/Components-->
+
+
+
+    - **Duration :** <!--Duration-->1 round<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->Sorcerer, Warlock, Wizard<!--/Classes-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
+
+
+
+
+
+    This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+
+
+  AltName: '[Contact glacial](hd_spells_contact_glacial.md)'
+
+  Source: (SRD p124)
+
+  Type: Necromancy
+
+  Level: cantrip
+
+  CastingTime: 1 action
+
+  Range: 120 feet
+
+  Components: V, S
+
+  Duration: 1 round
+
+  Classes: Sorcerer, Warlock, Wizard
 
 ---
 > [Spells (SRD p)](srd_spells.md)

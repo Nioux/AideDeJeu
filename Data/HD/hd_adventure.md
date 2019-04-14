@@ -6,9 +6,43 @@ ParentLink: index.md
 Name: Partir à l'aventure
 ParentName: Manuel des règles
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Manuel des règles](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Partir à l'aventure<!--/Name-->
+
+  Name: Partir à l'aventure
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Manuel des règles](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Partir à l'aventure<!--/Name-->
+
+
+
+  Name: Partir à l'aventure
 
 ---
 >  [Manuel des règles](index.md)

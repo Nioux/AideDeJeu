@@ -6,9 +6,19 @@ Id: backgrounds_hd.md#itinérant
 ParentLink: backgrounds_hd.md#historique
 Name: Itinérant
 ParentName: Historique
-Attributes: {}
+Attributes:
+  NameLink: '[Itinérant](hd_background_itinerant.md)'
+  Markdown: >+
+    # <!--NameLink-->[Itinérant](hd_background_itinerant.md)<!--/NameLink-->
+
 AttributesDictionary: >+
-  {}
+  NameLink: '[Itinérant](hd_background_itinerant.md)'
+
+  Markdown: >+
+
+    # <!--NameLink-->[Itinérant](hd_background_itinerant.md)<!--/NameLink-->
+
+
 
 ---
 

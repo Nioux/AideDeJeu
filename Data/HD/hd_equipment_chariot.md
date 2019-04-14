@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Chariot
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Chariot
+  Markdown: >+
+    # <!--Name-->Chariot<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement, sellerie et véhicules à traction<!--/Type-->
+
+    - **Prix** <!--Price-->35 po<!--/Price-->
+
+    - **Poids** <!--Weight-->200 kg<!--/Weight-->
+
+  Type: Équipement, sellerie et véhicules à traction
+  Price: 35 po
+  Weight: 200 kg
 AttributesDictionary: >+
-  {}
+  Name: Chariot
+
+  Markdown: >+
+
+    # <!--Name-->Chariot<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement, sellerie et véhicules à traction<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->35 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->200 kg<!--/Weight-->
+
+
+
+  Type: Équipement, sellerie et véhicules à traction
+
+  Price: 35 po
+
+  Weight: 200 kg
 
 ---
 > [Équipement](hd_equipment.md)

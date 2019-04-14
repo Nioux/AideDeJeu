@@ -6,9 +6,43 @@ ParentLink: equipment_hd.md
 Name: Équipement
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Équipement](hd_equipment.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Équipement](hd_equipment.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Équipement<!--/Name-->
+
+  Name: Équipement
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Équipement](hd_equipment.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Équipement](hd_equipment.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Équipement<!--/Name-->
+
+
+
+  Name: Équipement
 
 ---
 >  [Équipement](hd_equipment.md)

@@ -9,9 +9,61 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Dwarven Plate (SRD p220)
 Source: (COC p168)
-Attributes: {}
+Attributes:
+  Name: Harnois nain
+  Markdown: >+
+    ### <!--Name-->Harnois nain<!--/Name-->
+
+
+    - AltName: <!--AltName-->Dwarven Plate (SRD p220)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p168)<!--/Source-->
+
+    -  <!--Type-->Armure (harnois)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
+
+
+    Tant que vous portez cette armure, vous gagnez un bonus de +2 à la CA. De plus, si un effet vous déplace contre votre gré, vous pouvez utiliser votre réaction pour réduire la distance parcourue d'un maximum de 3 mètres.
+
+  AltName: Dwarven Plate (SRD p220)
+  Source: (COC p168)
+  Type: Armure (harnois)
+  Rarity: très rare
 AttributesDictionary: >+
-  {}
+  Name: Harnois nain
+
+  Markdown: >+
+
+    ### <!--Name-->Harnois nain<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Dwarven Plate (SRD p220)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p168)<!--/Source-->
+
+
+
+    -  <!--Type-->Armure (harnois)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
+
+
+
+
+
+    Tant que vous portez cette armure, vous gagnez un bonus de +2 à la CA. De plus, si un effet vous déplace contre votre gré, vous pouvez utiliser votre réaction pour réduire la distance parcourue d'un maximum de 3 mètres.
+
+
+
+  AltName: Dwarven Plate (SRD p220)
+
+  Source: (COC p168)
+
+  Type: Armure (harnois)
+
+  Rarity: très rare
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

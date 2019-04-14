@@ -10,9 +10,64 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Spellguard Shield (SRD p242)
 Source: (COC p153)
-Attributes: {}
+Attributes:
+  Name: Bouclier de protection contre la magie
+  Markdown: >+
+    ### <!--Name-->Bouclier de protection contre la magie<!--/Name-->
+
+
+    - AltName: <!--AltName-->Spellguard Shield (SRD p242)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p153)<!--/Source-->
+
+    -  <!--Type-->Armure (bouclier)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+    Tant que vous tenez ce bouclier, vous vous obtenez l'avantage lors des jets de sauvegarde contre les sorts et autres effets magiques. De plus, les attaques de sort subissent un désavantage lorsqu'elles vous prennent pour cible.
+
+  AltName: Spellguard Shield (SRD p242)
+  Source: (COC p153)
+  Type: Armure (bouclier)
+  Rarity: très rare
+  Attunement: harmonisation requise
 AttributesDictionary: >+
-  {}
+  Name: Bouclier de protection contre la magie
+
+  Markdown: >+
+
+    ### <!--Name-->Bouclier de protection contre la magie<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Spellguard Shield (SRD p242)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p153)<!--/Source-->
+
+
+
+    -  <!--Type-->Armure (bouclier)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+
+
+
+    Tant que vous tenez ce bouclier, vous vous obtenez l'avantage lors des jets de sauvegarde contre les sorts et autres effets magiques. De plus, les attaques de sort subissent un désavantage lorsqu'elles vous prennent pour cible.
+
+
+
+  AltName: Spellguard Shield (SRD p242)
+
+  Source: (COC p153)
+
+  Type: Armure (bouclier)
+
+  Rarity: très rare
+
+  Attunement: harmonisation requise
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

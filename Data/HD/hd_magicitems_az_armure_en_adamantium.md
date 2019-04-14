@@ -9,9 +9,61 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Adamantine Armor (SRD p207)
 Source: (COC p145)
-Attributes: {}
+Attributes:
+  Name: Armure en adamantium
+  Markdown: >+
+    ### <!--Name-->Armure en adamantium<!--/Name-->
+
+
+    - AltName: <!--AltName-->Adamantine Armor (SRD p207)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p145)<!--/Source-->
+
+    -  <!--Type-->Armure (intermédiaire ou lourde, mais pas en peau)<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
+
+
+    Cette armure est renforcée à base d'adamantium, l'une des substances les plus solides au monde. Tant que vous la portez, tous les coups critiques réussis contre vous se muent en coups normaux.
+
+  AltName: Adamantine Armor (SRD p207)
+  Source: (COC p145)
+  Type: Armure (intermédiaire ou lourde, mais pas en peau)
+  Rarity: peu courante
 AttributesDictionary: >+
-  {}
+  Name: Armure en adamantium
+
+  Markdown: >+
+
+    ### <!--Name-->Armure en adamantium<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Adamantine Armor (SRD p207)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p145)<!--/Source-->
+
+
+
+    -  <!--Type-->Armure (intermédiaire ou lourde, mais pas en peau)<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
+
+
+
+
+
+    Cette armure est renforcée à base d'adamantium, l'une des substances les plus solides au monde. Tant que vous la portez, tous les coups critiques réussis contre vous se muent en coups normaux.
+
+
+
+  AltName: Adamantine Armor (SRD p207)
+
+  Source: (COC p145)
+
+  Type: Armure (intermédiaire ou lourde, mais pas en peau)
+
+  Rarity: peu courante
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

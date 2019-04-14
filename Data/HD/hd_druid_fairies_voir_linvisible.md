@@ -1,13 +1,32 @@
 ﻿---
 !GenericItem
-Name: Voir l'invisible
 Id: druid_fairies_hd.md#voir-linvisible
 ParentLink: druid_fairies_hd.md#cercle-des-fées
+Name: Voir l'invisible
 ParentName: Cercle des fées
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Voir l'invisible
+  Markdown: >+
+    ## <!--Name-->Voir l'invisible<!--/Name-->
+
+
+    Toujours au niveau 6, votre habitude des tours de magie des fées vous permet de lancer le sort vision de l'invisible en dépensant une action bonus et sans utiliser d'emplacement de sort, même en forme sauvage. Vous devez terminer un repos court avant de pouvoir utiliser à nouveau cette aptitude.
+
 AttributesDictionary: >+
-  {}
+  Name: Voir l'invisible
+
+  Markdown: >+
+
+    ## <!--Name-->Voir l'invisible<!--/Name-->
+
+
+
+
+
+    Toujours au niveau 6, votre habitude des tours de magie des fées vous permet de lancer le sort vision de l'invisible en dépensant une action bonus et sans utiliser d'emplacement de sort, même en forme sauvage. Vous devez terminer un repos court avant de pouvoir utiliser à nouveau cette aptitude.
+
+
 
 ---
 > [Cercle des fées](hd_druid_fairies.md)

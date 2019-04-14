@@ -15,9 +15,142 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Mirage](hd_spells_mirage.md)'
 Source: (SRD p165)
-Attributes: {}
+Attributes:
+  Name: Mirage Arcane
+  Markdown: >+
+    # <!--Name-->Mirage Arcane<!--/Name-->
+
+
+    - MDR: <!--AltName-->[Mirage](hd_spells_mirage.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p165)<!--/Source-->
+
+    -  <!--Level-->7<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+
+    - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+
+    - **Range :** <!--Range-->Sight<!--/Range-->
+
+    - **Components :** <!--Components-->V, S<!--/Components-->
+
+    - **Duration :** <!--Duration-->10 days<!--/Duration-->
+
+    - Classes: <!--Classes-->Bard, Druid, Wizard<!--/Classes-->
+
+
+    ### Description
+
+
+    You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. The terrain's general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
+
+
+    Similarly, you can alter the appearance of structures, or add them where none are present. The spell doesn't disguise, conceal, or add creatures.
+
+
+    The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into difficult terrain (or vice versa or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick that is removed from the spell's area disappears immediately.
+
+
+    Creatures with truesight can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
+
+  AltName: '[Mirage](hd_spells_mirage.md)'
+  Source: (SRD p165)
+  Level: 7
+  Type: illusion
+  CastingTime: 10 minutes
+  Range: Sight
+  Components: V, S
+  Duration: 10 days
+  Classes: Bard, Druid, Wizard
 AttributesDictionary: >+
-  {}
+  Name: Mirage Arcane
+
+  Markdown: >+
+
+    # <!--Name-->Mirage Arcane<!--/Name-->
+
+
+
+
+
+    - MDR: <!--AltName-->[Mirage](hd_spells_mirage.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p165)<!--/Source-->
+
+
+
+    -  <!--Level-->7<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+
+
+
+    - **Casting Time :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+
+
+
+    - **Range :** <!--Range-->Sight<!--/Range-->
+
+
+
+    - **Components :** <!--Components-->V, S<!--/Components-->
+
+
+
+    - **Duration :** <!--Duration-->10 days<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->Bard, Druid, Wizard<!--/Classes-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. The terrain's general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
+
+
+
+
+
+    Similarly, you can alter the appearance of structures, or add them where none are present. The spell doesn't disguise, conceal, or add creatures.
+
+
+
+
+
+    The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into difficult terrain (or vice versa or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick that is removed from the spell's area disappears immediately.
+
+
+
+
+
+    Creatures with truesight can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
+
+
+
+  AltName: '[Mirage](hd_spells_mirage.md)'
+
+  Source: (SRD p165)
+
+  Level: 7
+
+  Type: illusion
+
+  CastingTime: 10 minutes
+
+  Range: Sight
+
+  Components: V, S
+
+  Duration: 10 days
+
+  Classes: Bard, Druid, Wizard
 
 ---
 > [Spells (SRD p)](srd_spells.md)

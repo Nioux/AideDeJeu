@@ -5,9 +5,37 @@ ParentLink: background_primitif_hd.md#primitif
 Name: 'Aptitude : Fils de la nature'
 ParentName: Primitif
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: 'Aptitude : Fils de la nature'
+  Markdown: >+
+    #### <!--Name-->Aptitude : Fils de la nature<!--/Name-->
+
+
+    Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les buissons de baies et les lieux propices à la chasse. Vous savez lire la nature et n'être jamais vraiment perdu. De plus, vous savez identifier les indices attestant de la présence d'autres clans primitifs : si un tel clan, ou une tribu (ou même un individu) est présent, vous savez remonter la trace jusqu'à son campement.
+
+  Description: >+
+    Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les buissons de baies et les lieux propices à la chasse. Vous savez lire la nature et n'être jamais vraiment perdu. De plus, vous savez identifier les indices attestant de la présence d'autres clans primitifs : si un tel clan, ou une tribu (ou même un individu) est présent, vous savez remonter la trace jusqu'à son campement.
+
 AttributesDictionary: >+
-  {}
+  Name: 'Aptitude : Fils de la nature'
+
+  Markdown: >+
+
+    #### <!--Name-->Aptitude : Fils de la nature<!--/Name-->
+
+
+
+
+
+    Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les buissons de baies et les lieux propices à la chasse. Vous savez lire la nature et n'être jamais vraiment perdu. De plus, vous savez identifier les indices attestant de la présence d'autres clans primitifs : si un tel clan, ou une tribu (ou même un individu) est présent, vous savez remonter la trace jusqu'à son campement.
+
+
+
+  Description: >+
+
+    Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les buissons de baies et les lieux propices à la chasse. Vous savez lire la nature et n'être jamais vraiment perdu. De plus, vous savez identifier les indices attestant de la présence d'autres clans primitifs : si un tel clan, ou une tribu (ou même un individu) est présent, vous savez remonter la trace jusqu'à son campement.
+
+
 
 Description: >+
   Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les buissons de baies et les lieux propices à la chasse. Vous savez lire la nature et n'être jamais vraiment perdu. De plus, vous savez identifier les indices attestant de la présence d'autres clans primitifs : si un tel clan, ou une tribu (ou même un individu) est présent, vous savez remonter la trace jusqu'à son campement.

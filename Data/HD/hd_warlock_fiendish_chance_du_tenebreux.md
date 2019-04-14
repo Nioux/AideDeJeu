@@ -1,13 +1,50 @@
 ﻿---
 !GenericItem
-Name: Chance du ténébreux
 Id: warlock_fiendish_hd.md#chance-du-ténébreux
 ParentLink: warlock_fiendish_hd.md#le-fiélon
+Name: Chance du ténébreux
 ParentName: Le fiélon
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Chance du ténébreux
+  Markdown: >+
+    ## <!--Name-->Chance du ténébreux<!--/Name-->
+
+
+    À partir du niveau 6, vous pouvez faire appel à votre protecteur pour qu'il altère le destin en votre faveur.
+
+
+    Quand vous faites un test de caractéristiques ou un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md), vous pouvez utiliser cette aptitude pour ajouter 1d10 au résultat. Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
+
+
+    Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.
+
 AttributesDictionary: >+
-  {}
+  Name: Chance du ténébreux
+
+  Markdown: >+
+
+    ## <!--Name-->Chance du ténébreux<!--/Name-->
+
+
+
+
+
+    À partir du niveau 6, vous pouvez faire appel à votre protecteur pour qu'il altère le destin en votre faveur.
+
+
+
+
+
+    Quand vous faites un test de caractéristiques ou un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md), vous pouvez utiliser cette aptitude pour ajouter 1d10 au résultat. Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
+
+
+
+
+
+    Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.
+
+
 
 ---
 > [Le fiélon](hd_warlock_fiendish.md)

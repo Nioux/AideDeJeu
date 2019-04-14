@@ -9,9 +9,82 @@ RootId: barbarian_berserker_hd.md
 ParentLink: barbarian_hd.md#voies-primitives
 ParentName: Voies primitives
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Voies primitives](hd_barbarian_voies_primitives.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Voies primitives](hd_barbarian_voies_primitives.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Voie du berserker<!--/Name-->
+
+
+    - AltName: <!--AltName-->Wisdom (SRD p9)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p116)<!--/Source-->
+
+
+    Pour certains barbares, la rage est un moyen d'atteindre leur but, et ce but est la violence. Animé par une furie débridée, le berserker suit une voie sanglante.
+
+
+    Quand vous entrez dans la rage du berserker, vous vous réalisez dans le chaos de la bataille et oubliez tout le reste, y compris votre santé et votre bien-être.
+
+  Name: Voie du berserker
+  AltName: Wisdom (SRD p9)
+  Source: (MDR p116)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Voies primitives](hd_barbarian_voies_primitives.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Voies primitives](hd_barbarian_voies_primitives.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Voie du berserker<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Wisdom (SRD p9)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p116)<!--/Source-->
+
+
+
+
+
+    Pour certains barbares, la rage est un moyen d'atteindre leur but, et ce but est la violence. Animé par une furie débridée, le berserker suit une voie sanglante.
+
+
+
+
+
+    Quand vous entrez dans la rage du berserker, vous vous réalisez dans le chaos de la bataille et oubliez tout le reste, y compris votre santé et votre bien-être.
+
+
+
+  Name: Voie du berserker
+
+  AltName: Wisdom (SRD p9)
+
+  Source: (MDR p116)
 
 ---
 >  [Voies primitives](hd_barbarian_voies_primitives.md)

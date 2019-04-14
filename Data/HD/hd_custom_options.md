@@ -6,9 +6,43 @@ ParentLink: index.md
 Name: Options de personnalisation
 ParentName: Manuel des règles
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Manuel des règles](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Options de personnalisation<!--/Name-->
+
+  Name: Options de personnalisation
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Manuel des règles](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Options de personnalisation<!--/Name-->
+
+
+
+  Name: Options de personnalisation
 
 ---
 >  [Manuel des règles](index.md)

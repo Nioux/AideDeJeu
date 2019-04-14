@@ -26,9 +26,232 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Dragonnet d'argent
+  Markdown: >+
+    # <!--Name-->Dragonnet d'argent<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)<!--/AltName-->
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->45 (6d8+18)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +2, Con +5, Sag +2, Cha +4<!--/SavingThrows-->
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de froid<!--/DamageImmunities-->
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+    - **Langue** <!--Languages-->draconique<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 9 (1d10+4) dégâts perforants.
+
+
+    **_Souffles (Recharge 5-6)._** Le dragon utilise l'un des souffles suivants :
+
+
+    _Souffle de glace._ Le dragon souffle de la glace sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 13 ; elles subissent 18 (4d8) dégâts de froid en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+    _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 13 pour ne pas être [paralysées](hd_conditions_paralyse.md) pendant 1 minute. Les créatures peuvent retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
+  Type: Dragon
+  Size: M
+  Alignment: Loyal Bon
+  ArmorClass: 17 (armure naturelle)
+  HitPoints: 45 (6d8+18)
+  Speed: 9 m, vol 18 m
+  Strength: 19 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 17 (+3)
+  Intelligence: 12 (+1)
+  Wisdom: 11 (+0)
+  Charisma: 15 (+2)
+  SavingThrows: Dex +2, Con +5, Sag +2, Cha +4
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: de froid
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 2 (450 PX)
 AttributesDictionary: >+
-  {}
+  Name: Dragonnet d'argent
+
+  Markdown: >+
+
+    # <!--Name-->Dragonnet d'argent<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->45 (6d8+18)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +2, Con +5, Sag +2, Cha +4<!--/SavingThrows-->
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de froid<!--/DamageImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->draconique<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 9 (1d10+4) dégâts perforants.
+
+
+
+
+
+    **_Souffles (Recharge 5-6)._** Le dragon utilise l'un des souffles suivants :
+
+
+
+
+
+    _Souffle de glace._ Le dragon souffle de la glace sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 13 ; elles subissent 18 (4d8) dégâts de froid en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+
+
+    _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 13 pour ne pas être [paralysées](hd_conditions_paralyse.md) pendant 1 minute. Les créatures peuvent retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
+
+  Type: Dragon
+
+  Size: M
+
+  Alignment: Loyal Bon
+
+  ArmorClass: 17 (armure naturelle)
+
+  HitPoints: 45 (6d8+18)
+
+  Speed: 9 m, vol 18 m
+
+  Strength: 19 (+4)
+
+  Dexterity: 10 (+0)
+
+  Constitution: 17 (+3)
+
+  Intelligence: 12 (+1)
+
+  Wisdom: 11 (+0)
+
+  Charisma: 15 (+2)
+
+  SavingThrows: Dex +2, Con +5, Sag +2, Cha +4
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
+
+  DamageImmunities: de froid
+
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+
+  Languages: draconique
+
+  Challenge: 2 (450 PX)
 
 ---
 > [Créatures](hd_monsters.md)

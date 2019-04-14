@@ -1,13 +1,41 @@
 ﻿---
 !GenericItem
-Name: Frappe des arcanes majeure
 Id: fighter_spellblade_hd.md#frappe-des-arcanes-majeure
 ParentLink: fighter_spellblade_hd.md#sorcelame
+Name: Frappe des arcanes majeure
 ParentName: Sorcelame
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Frappe des arcanes majeure
+  Markdown: >+
+    ## <!--Name-->Frappe des arcanes majeure<!--/Name-->
+
+
+    À partir du niveau 15, vous pouvez dépenser 2 points de sorcellerie et une action bonus pour charger votre arme de l'énergie de la magie. Vous ajoutez 2d4 dégâts de force à tous vos jets de dégât avec cette arme pendant ce round
+
+
+    Si vous utilisez, dans le même round, la capacité Sursaut d'activité, vous devez dépenser 2 points de sorcellerie supplémentaire afin de bénéficier de cette capacité.
+
 AttributesDictionary: >+
-  {}
+  Name: Frappe des arcanes majeure
+
+  Markdown: >+
+
+    ## <!--Name-->Frappe des arcanes majeure<!--/Name-->
+
+
+
+
+
+    À partir du niveau 15, vous pouvez dépenser 2 points de sorcellerie et une action bonus pour charger votre arme de l'énergie de la magie. Vous ajoutez 2d4 dégâts de force à tous vos jets de dégât avec cette arme pendant ce round
+
+
+
+
+
+    Si vous utilisez, dans le même round, la capacité Sursaut d'activité, vous devez dépenser 2 points de sorcellerie supplémentaire afin de bénéficier de cette capacité.
+
+
 
 ---
 > [Sorcelame](hd_fighter_spellblade.md)

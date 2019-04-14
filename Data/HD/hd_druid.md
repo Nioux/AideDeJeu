@@ -8,9 +8,73 @@ RootId: druid_hd.md
 ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Classes](hd_classes.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Druide<!--/Name-->
+
+
+    - AltName: <!--AltName-->Druid (SRD p17)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p142)<!--/Source-->
+
+
+    En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
+
+  Name: Druide
+  AltName: Druid (SRD p17)
+  Source: (MDR p142)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Classes](hd_classes.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Druide<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Druid (SRD p17)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p142)<!--/Source-->
+
+
+
+
+
+    En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
+
+
+
+  Name: Druide
+
+  AltName: Druid (SRD p17)
+
+  Source: (MDR p142)
 
 ---
 >  [Classes](hd_classes.md)

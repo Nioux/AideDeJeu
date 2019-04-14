@@ -7,9 +7,31 @@ ParentLink: classes_hd.md#classes
 Name: Clerc
 ParentName: Classes
 AltName: '[Cleric](#)'
-Attributes: {}
+Attributes:
+  NameLink: '[Clerc](hd_cleric.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Clerc](hd_cleric.md)<!--/NameLink-->
+
+
+    - AltName: <!--AltName-->[Cleric](#)<!--/AltName-->
+
+  AltName: '[Cleric](#)'
 AttributesDictionary: >+
-  {}
+  NameLink: '[Clerc](hd_cleric.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Clerc](hd_cleric.md)<!--/NameLink-->
+
+
+
+
+
+    - AltName: <!--AltName-->[Cleric](#)<!--/AltName-->
+
+
+
+  AltName: '[Cleric](#)'
 
 ---
 

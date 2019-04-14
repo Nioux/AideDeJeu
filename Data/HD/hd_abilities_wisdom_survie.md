@@ -1,13 +1,32 @@
 ﻿---
 !GenericItem
-Name: Survie
 Id: abilities_wisdom_hd.md#survie
 ParentLink: abilities_wisdom_hd.md#sagesse
+Name: Survie
 ParentName: Sagesse
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: Survie
+  Markdown: >+
+    ### <!--Name-->Survie<!--/Name-->
+
+
+    Le MJ peut vous demander de faire un test de [Sagesse (Survie)](hd_abilities_wisdom_survie.md) si vous tentez de suivre une piste, de chasser du gibier, de guider votre groupe à travers un désert glacé, d'identifier des signes montrant que vous êtes sur le territoire d'un hibours, de prévoir le temps qu'il fera ou encore d'éviter des sables mouvants ou d'autres dangers naturels.
+
 AttributesDictionary: >+
-  {}
+  Name: Survie
+
+  Markdown: >+
+
+    ### <!--Name-->Survie<!--/Name-->
+
+
+
+
+
+    Le MJ peut vous demander de faire un test de [Sagesse (Survie)](hd_abilities_wisdom_survie.md) si vous tentez de suivre une piste, de chasser du gibier, de guider votre groupe à travers un désert glacé, d'identifier des signes montrant que vous êtes sur le territoire d'un hibours, de prévoir le temps qu'il fera ou encore d'éviter des sables mouvants ou d'autres dangers naturels.
+
+
 
 ---
 > [Sagesse](hd_abilities_wisdom.md)

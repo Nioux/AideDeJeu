@@ -12,9 +12,81 @@ NameLevel: 2
 AltName: Hill Dwarf (SRD p3)
 Source: (MDR p57)
 Attributes:
+  Name: Nain des tertres
+  Markdown: >+
+    ## <!--Name-->Nain des tertres<!--/Name-->
+
+
+    - AltName: <!--AltName-->Hill Dwarf (SRD p3)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p57)<!--/Source-->
+
+
+    En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif et vous faites preuve d'une résistance remarquable.
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.<!--/AbilityScoreIncrease-->
+
+
+    **<!--DwarvenToughnessKey-->Ténacité naine<!--/DwarvenToughnessKey-->.** <!--DwarvenToughnessValue-->Votre nombre maximum de points de vie augmente de 1. Il augmente à nouveau de +1 à chaque niveau que vous gagnez.<!--/DwarvenToughnessValue-->
+
+  AltName: Hill Dwarf (SRD p3)
+  Source: (MDR p57)
+  Description: >+
+    En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif et vous faites preuve d'une résistance remarquable.
+
+  AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.
   DwarvenToughnessKey: Ténacité naine
   DwarvenToughnessValue: Votre nombre maximum de points de vie augmente de 1. Il augmente à nouveau de +1 à chaque niveau que vous gagnez.
 AttributesDictionary: >+
+  Name: Nain des tertres
+
+  Markdown: >+
+
+    ## <!--Name-->Nain des tertres<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Hill Dwarf (SRD p3)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p57)<!--/Source-->
+
+
+
+
+
+    En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif et vous faites preuve d'une résistance remarquable.
+
+
+
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.<!--/AbilityScoreIncrease-->
+
+
+
+
+
+    **<!--DwarvenToughnessKey-->Ténacité naine<!--/DwarvenToughnessKey-->.** <!--DwarvenToughnessValue-->Votre nombre maximum de points de vie augmente de 1. Il augmente à nouveau de +1 à chaque niveau que vous gagnez.<!--/DwarvenToughnessValue-->
+
+
+
+  AltName: Hill Dwarf (SRD p3)
+
+  Source: (MDR p57)
+
+  Description: >+
+
+    En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif et vous faites preuve d'une résistance remarquable.
+
+
+
+  AbilityScoreIncrease: Votre valeur de [Sagesse](hd_abilities_wisdom.md) augmente de 1.
+
   DwarvenToughnessKey: Ténacité naine
 
   DwarvenToughnessValue: Votre nombre maximum de points de vie augmente de 1. Il augmente à nouveau de +1 à chaque niveau que vous gagnez.

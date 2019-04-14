@@ -8,9 +8,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Livre
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Livre
+  Markdown: >+
+    # <!--Name-->Livre<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->25 po<!--/Price-->
+
+    - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
+
+
+    Un livre peut contenir de la poésie, des récits historiques, des informations relatives à un domaine particulier de connaissance, des diagrammes et des notes sur des inventions gnomes, ou tout ce qui peut être représenté grâce à du texte ou des images. Un livre de sorts est appelé un grimoire (ses particularités sont décrites plus haut dans cette section).
+
+  Type: Équipement d'aventurier
+  Price: 25 po
+  Weight: 2,5 kg
 AttributesDictionary: >+
-  {}
+  Name: Livre
+
+  Markdown: >+
+
+    # <!--Name-->Livre<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->25 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
+
+
+
+
+
+    Un livre peut contenir de la poésie, des récits historiques, des informations relatives à un domaine particulier de connaissance, des diagrammes et des notes sur des inventions gnomes, ou tout ce qui peut être représenté grâce à du texte ou des images. Un livre de sorts est appelé un grimoire (ses particularités sont décrites plus haut dans cette section).
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 25 po
+
+  Weight: 2,5 kg
 
 ---
 > [Équipement](hd_equipment.md)

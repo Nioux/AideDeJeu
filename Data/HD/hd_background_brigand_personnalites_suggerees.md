@@ -5,9 +5,37 @@ ParentLink: background_brigand_hd.md#brigand
 Name: Personnalités suggérées
 ParentName: Brigand
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: Personnalités suggérées
+  Markdown: >+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+    Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de la société et de la vie bien réglée des citadins ou des villageois. Souvent considérés comme des individus dangereux ou peu recommandables, les brigands se concentrent avant tout sur l'instant présent et sur la survie de leur communauté.
+
+  Description: >+
+    Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de la société et de la vie bien réglée des citadins ou des villageois. Souvent considérés comme des individus dangereux ou peu recommandables, les brigands se concentrent avant tout sur l'instant présent et sur la survie de leur communauté.
+
 AttributesDictionary: >+
-  {}
+  Name: Personnalités suggérées
+
+  Markdown: >+
+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+
+
+
+    Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de la société et de la vie bien réglée des citadins ou des villageois. Souvent considérés comme des individus dangereux ou peu recommandables, les brigands se concentrent avant tout sur l'instant présent et sur la survie de leur communauté.
+
+
+
+  Description: >+
+
+    Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de la société et de la vie bien réglée des citadins ou des villageois. Souvent considérés comme des individus dangereux ou peu recommandables, les brigands se concentrent avant tout sur l'instant présent et sur la survie de leur communauté.
+
+
 
 Description: >+
   Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de la société et de la vie bien réglée des citadins ou des villageois. Souvent considérés comme des individus dangereux ou peu recommandables, les brigands se concentrent avant tout sur l'instant présent et sur la survie de leur communauté.

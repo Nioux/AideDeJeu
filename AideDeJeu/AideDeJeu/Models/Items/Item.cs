@@ -3,8 +3,10 @@ using AideDeJeu.ViewModels;
 using SQLite;
 using System;
 using System.Collections.Generic;
+using System.Collections.Specialized;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Reflection;
 using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
@@ -343,19 +345,35 @@ namespace AideDeJeuLib
             return $"{Name} ({NewId})";
         }
 
+        public class Attribute
+        {
+            public Attribute(string key, string value)
+            {
+                Key = key;
+                Value = value;
+            }
+            public string Key { get; set; }
+            public string Value { get; set; }
+        }
         [NotMapped]
         [IgnoreDataMember]
-        public Dictionary<string, string> Attributes { get; set; } = new Dictionary<string, string>();
+        public OrderedDictionary Attributes { get; set; } = new OrderedDictionary();
 
-        public Dictionary<string, KeyValuePair<string, string>> AttributesKeyValue
+        public OrderedDictionary AttributesKeyValue
         {
             get
             {
-                var keys = Attributes.Keys.Where(a => a.EndsWith("Key") && Attributes.Keys.Contains(a.Substring(0, a.Length - 3) + "Value")).Select(a => a.Substring(0, a.Length - 3)).ToList();
-                var dico = new Dictionary<string, KeyValuePair<string, string>>();
-                foreach (var key in keys)
+                var dico = new OrderedDictionary();
+                foreach (string akey in Attributes.Keys)
                 {
-                    dico[key] = new KeyValuePair<string, string>(Attributes[key + "Key"], Attributes[key + "Value"]);
+                    if (akey.EndsWith("Key"))
+                    {
+                        var key = akey.Substring(0, akey.Length - 3);
+                        if (Attributes.Contains(key + "Value"))
+                        {
+                            dico[key] = new Attribute(Attributes[key + "Key"] as string, Attributes[key + "Value"] as string);
+                        }
+                    }
                 }
                 return dico;
             }
@@ -378,20 +396,35 @@ namespace AideDeJeuLib
                 var deserializer = builder
                     .WithNamingConvention(new PascalCaseNamingConvention())
                     .Build();
-                Attributes = deserializer.Deserialize<Dictionary<string, string>>(value);
+                Attributes = deserializer.Deserialize<OrderedDictionary>(value);
             }
         }
 
+        public void ResetAttribute(string name)
+        {
+            if (name != null)
+            {
+                var prop = this.GetType().GetProperty(name, BindingFlags.Public | BindingFlags.Instance);
+                if (null != prop && prop.CanWrite)
+                {
+                    prop.SetValue(this, null, null);
+                }
+                if (this.Attributes.Contains(name))
+                {
+                    this.Attributes.Remove(name);
+                }
+            }
+        }
         public void SetAttribute(string name, string value)
         {
-            var prop = this.GetType().GetProperty(name, BindingFlags.Public | BindingFlags.Instance);
-            if (null != prop && prop.CanWrite)
+            if (name != null && value != null)
             {
-                prop.SetValue(this, prop.GetValue(this) + value, null);
-            }
-            else
-            {
-                if (this.Attributes.ContainsKey(name))
+                var prop = this.GetType().GetProperty(name, BindingFlags.Public | BindingFlags.Instance);
+                if (null != prop && prop.CanWrite)
+                {
+                    prop.SetValue(this, prop.GetValue(this) + value, null);
+                }
+                if (this.Attributes.Contains(name))
                 {
                     this.Attributes[name] += value;
                 }
@@ -401,6 +434,15 @@ namespace AideDeJeuLib
                 }
             }
         }
+        public string GetAttribute(string name)
+        {
+            if (this.Attributes.Contains(name))
+            {
+                return this.Attributes[name].ToString();
+            }
+            return null;
+        }
+
 
         [DataMember]
         public string Description { get; set; }

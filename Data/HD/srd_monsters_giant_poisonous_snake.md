@@ -23,9 +23,178 @@ Name: Giant Poisonous Snake
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)'
-Attributes: {}
+Attributes:
+  Name: Giant Poisonous Snake
+  Markdown: >+
+    # <!--Name-->Giant Poisonous Snake<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +2<!--/Skills-->
+
+    - **Senses** <!--Senses-->blindsight 10 ft., passive Perception 12<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target.
+
+
+    _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+
+  AltName: '[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)'
+  Size: Medium
+  Type: beast
+  Alignment: unaligned
+  ArmorClass: 14
+  HitPoints: 11 (2d8 + 2)
+  Speed: 30 ft., swim 30 ft.
+  Strength: 10 (+0)
+  Dexterity: 18 (+4)
+  Constitution: 13 (+1)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 10 (+0)
+  Charisma: ' 3 (-4)'
+  Skills: Perception +2
+  Senses: blindsight 10 ft., passive Perception 12
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
 AttributesDictionary: >+
-  {}
+  Name: Giant Poisonous Snake
+
+  Markdown: >+
+
+    # <!--Name-->Giant Poisonous Snake<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +2<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->blindsight 10 ft., passive Perception 12<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target.
+
+
+
+
+
+    _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+
+
+
+  AltName: '[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)'
+
+  Size: Medium
+
+  Type: beast
+
+  Alignment: unaligned
+
+  ArmorClass: 14
+
+  HitPoints: 11 (2d8 + 2)
+
+  Speed: 30 ft., swim 30 ft.
+
+  Strength: 10 (+0)
+
+  Dexterity: 18 (+4)
+
+  Constitution: 13 (+1)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 3 (-4)'
+
+  Skills: Perception +2
+
+  Senses: blindsight 10 ft., passive Perception 12
+
+  Languages: '-'
+
+  Challenge: 1/4 (50 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

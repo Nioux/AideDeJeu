@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Outils de cordonnier
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Outils de cordonnier
+  Markdown: >+
+    # <!--Name-->Outils de cordonnier<!--/Name-->
+
+
+    - **Type** <!--Type-->Outil d'artisan<!--/Type-->
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+    - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
+
+  Type: Outil d'artisan
+  Price: 5 po
+  Weight: 2,5 kg
 AttributesDictionary: >+
-  {}
+  Name: Outils de cordonnier
+
+  Markdown: >+
+
+    # <!--Name-->Outils de cordonnier<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Outil d'artisan<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
+
+
+
+  Type: Outil d'artisan
+
+  Price: 5 po
+
+  Weight: 2,5 kg
 
 ---
 > [Équipement](hd_equipment.md)

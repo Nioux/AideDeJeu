@@ -25,9 +25,349 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Unicorn](srd_monsters_unicorn.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Licorne
+  Markdown: >+
+    # <!--Name-->Licorne<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Unicorn](srd_monsters_unicorn.md)<!--/AltName-->
+
+    -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->67 (9d10+18)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->15 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence-->11 (+0)<!--/Intelligence-->|<!--Wisdom-->17 (+3)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [paralysé](hd_conditions_paralyse.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+    - **Langues** <!--Languages-->céleste, elfe, sylvestre, télépathie 18 m<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->5 (1 800 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Armes magiques._** Les attaques d'arme de la licorne sont magiques.
+
+
+    **_Charge._** Si la licorne se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle elle réussit ensuite une attaque de corne lors du même tour, celle-ci subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 15 pour ne pas être jetée [à terre](hd_conditions_a_terre.md).
+
+
+    **_Incantation innée._** La caractéristique d'incantation de la licorne est le [Charisme](hd_abilities_charisma.md) (DD du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts 14). La licorne peut lancer les sorts suivants de manière innée sans aucune composante :
+
+
+    * **À volonté :** _[détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)_, _[druidisme](hd_spells_druidisme.md)_, _[passage sans trace](hd_spells_passage_sans_trace.md)_
+
+
+    * **1/jour chacun :** _[apaisement des émotions](hd_spells_apaisement_des_emotions.md)_, _[dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)_, _[enchevêtrement](hd_spells_enchevetrement.md)_
+
+
+    **_Résistance à la magie._** La licorne obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts et autres effets magiques.
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** La licorne effectue deux attaques : une avec ses sabots et l'autre avec sa corne.
+
+
+    **_Contact guérisseur (3/jour)._** La licorne touche une autre créature avec sa corne. La cible récupère 11 (2d8+2) points de vie par magie. En outre, le contact soigne toutes les maladies et neutralise tous les poisons dont est victime la cible.
+
+
+    **_Corne._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 8 (1d8+4) dégâts perforants.
+
+
+    **_Sabots._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 11 (2d6+4) dégâts contondants.
+
+
+    **_Téléportation (1/jour)._** La licorne se téléporte par magie, avec un maximum de trois créatures consentantes situées dans son champ de vision à 1,50 mètre ou moins d'elle, avec l'ensemble des objets équipés ou transportés, vers un endroit connu de la licorne situé à une distance maximale de 1,5 kilomètre.
+
+
+    ## Actions légendaires
+
+
+    La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois et uniquement à la fin du tour d'une autre créature. La licorne récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
+
+
+    **_Protection scintillante (coûte 2 actions)._** La licorne crée un champ magique scintillant autour d'elle ou d'une créature située à 18 mètres ou moins dans son champ de vision. La cible bénéficie d'un bonus de +2 à sa CA jusqu'à la fin du prochain tour de la licorne.
+
+
+    **_Sabots._** La licorne effectue une attaque avec ses sabots.
+
+
+    **_Soin personnel (coûte 3 actions)._** La licorne récupère par magie 11 (2d8+2) points de vie.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Unicorn](srd_monsters_unicorn.md)'
+  Type: Céleste
+  Size: G
+  Alignment: Loyal Bon
+  ArmorClass: 12
+  HitPoints: 67 (9d10+18)
+  Speed: 15 m
+  Strength: 18 (+4)
+  Dexterity: 14 (+2)
+  Constitution: 15 (+2)
+  Intelligence: 11 (+0)
+  Wisdom: 17 (+3)
+  Charisma: 16 (+3)
+  DamageImmunities: de poison
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [paralysé](hd_conditions_paralyse.md)'
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: céleste, elfe, sylvestre, télépathie 18 m
+  Challenge: 5 (1 800 PX)
 AttributesDictionary: >+
-  {}
+  Name: Licorne
+
+  Markdown: >+
+
+    # <!--Name-->Licorne<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Unicorn](srd_monsters_unicorn.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->67 (9d10+18)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->15 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence-->11 (+0)<!--/Intelligence-->|<!--Wisdom-->17 (+3)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
+
+
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
+
+
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [paralysé](hd_conditions_paralyse.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->céleste, elfe, sylvestre, télépathie 18 m<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->5 (1 800 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Armes magiques._** Les attaques d'arme de la licorne sont magiques.
+
+
+
+
+
+    **_Charge._** Si la licorne se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle elle réussit ensuite une attaque de corne lors du même tour, celle-ci subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 15 pour ne pas être jetée [à terre](hd_conditions_a_terre.md).
+
+
+
+
+
+    **_Incantation innée._** La caractéristique d'incantation de la licorne est le [Charisme](hd_abilities_charisma.md) (DD du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts 14). La licorne peut lancer les sorts suivants de manière innée sans aucune composante :
+
+
+
+
+
+    * **À volonté :** _[détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)_, _[druidisme](hd_spells_druidisme.md)_, _[passage sans trace](hd_spells_passage_sans_trace.md)_
+
+
+
+
+
+    * **1/jour chacun :** _[apaisement des émotions](hd_spells_apaisement_des_emotions.md)_, _[dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)_, _[enchevêtrement](hd_spells_enchevetrement.md)_
+
+
+
+
+
+    **_Résistance à la magie._** La licorne obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts et autres effets magiques.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** La licorne effectue deux attaques : une avec ses sabots et l'autre avec sa corne.
+
+
+
+
+
+    **_Contact guérisseur (3/jour)._** La licorne touche une autre créature avec sa corne. La cible récupère 11 (2d8+2) points de vie par magie. En outre, le contact soigne toutes les maladies et neutralise tous les poisons dont est victime la cible.
+
+
+
+
+
+    **_Corne._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 8 (1d8+4) dégâts perforants.
+
+
+
+
+
+    **_Sabots._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 11 (2d6+4) dégâts contondants.
+
+
+
+
+
+    **_Téléportation (1/jour)._** La licorne se téléporte par magie, avec un maximum de trois créatures consentantes situées dans son champ de vision à 1,50 mètre ou moins d'elle, avec l'ensemble des objets équipés ou transportés, vers un endroit connu de la licorne situé à une distance maximale de 1,5 kilomètre.
+
+
+
+
+
+    ## Actions légendaires
+
+
+
+
+
+    La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois et uniquement à la fin du tour d'une autre créature. La licorne récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
+
+
+
+
+
+    **_Protection scintillante (coûte 2 actions)._** La licorne crée un champ magique scintillant autour d'elle ou d'une créature située à 18 mètres ou moins dans son champ de vision. La cible bénéficie d'un bonus de +2 à sa CA jusqu'à la fin du prochain tour de la licorne.
+
+
+
+
+
+    **_Sabots._** La licorne effectue une attaque avec ses sabots.
+
+
+
+
+
+    **_Soin personnel (coûte 3 actions)._** La licorne récupère par magie 11 (2d8+2) points de vie.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Unicorn](srd_monsters_unicorn.md)'
+
+  Type: Céleste
+
+  Size: G
+
+  Alignment: Loyal Bon
+
+  ArmorClass: 12
+
+  HitPoints: 67 (9d10+18)
+
+  Speed: 15 m
+
+  Strength: 18 (+4)
+
+  Dexterity: 14 (+2)
+
+  Constitution: 15 (+2)
+
+  Intelligence: 11 (+0)
+
+  Wisdom: 17 (+3)
+
+  Charisma: 16 (+3)
+
+  DamageImmunities: de poison
+
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [paralysé](hd_conditions_paralyse.md)'
+
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+
+  Languages: céleste, elfe, sylvestre, télépathie 18 m
+
+  Challenge: 5 (1 800 PX)
 
 ---
 > [Créatures](hd_monsters.md)

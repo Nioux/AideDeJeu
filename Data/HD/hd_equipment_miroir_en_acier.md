@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Miroir en acier
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Miroir en acier
+  Markdown: >+
+    # <!--Name-->Miroir en acier<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+    - **Poids** <!--Weight-->0,25 kg<!--/Weight-->
+
+  Type: Équipement d'aventurier
+  Price: 5 po
+  Weight: 0,25 kg
 AttributesDictionary: >+
-  {}
+  Name: Miroir en acier
+
+  Markdown: >+
+
+    # <!--Name-->Miroir en acier<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->5 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->0,25 kg<!--/Weight-->
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 5 po
+
+  Weight: 0,25 kg
 
 ---
 > [Équipement](hd_equipment.md)

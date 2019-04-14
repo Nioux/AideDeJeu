@@ -8,9 +8,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Bougie
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Bougie
+  Markdown: >+
+    # <!--Name-->Bougie<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->1 pc<!--/Price-->
+
+    - **Poids** <!--Weight-->_<!--/Weight-->
+
+
+    Pendant 1 heure, une bougie diffuse une lumière vive dans une zone de 1,50 mètre et une lumière faible dans un rayon de 1,50 mètre supplémentaire.
+
+  Type: Équipement d'aventurier
+  Price: 1 pc
+  Weight: _
 AttributesDictionary: >+
-  {}
+  Name: Bougie
+
+  Markdown: >+
+
+    # <!--Name-->Bougie<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->1 pc<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->_<!--/Weight-->
+
+
+
+
+
+    Pendant 1 heure, une bougie diffuse une lumière vive dans une zone de 1,50 mètre et une lumière faible dans un rayon de 1,50 mètre supplémentaire.
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 1 pc
+
+  Weight: _
 
 ---
 > [Équipement](hd_equipment.md)

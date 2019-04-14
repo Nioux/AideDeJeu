@@ -8,9 +8,73 @@ RootId: fighter_hd.md
 ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Classes](hd_classes.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Guerrier<!--/Name-->
+
+
+    - AltName: <!--AltName-->Fighter (SRD p24)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p160)<!--/Source-->
+
+
+    En tant que guerrier, vous bénéficiez des aptitudes de classe suivantes.
+
+  Name: Guerrier
+  AltName: Fighter (SRD p24)
+  Source: (MDR p160)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Classes](hd_classes.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Guerrier<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Fighter (SRD p24)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p160)<!--/Source-->
+
+
+
+
+
+    En tant que guerrier, vous bénéficiez des aptitudes de classe suivantes.
+
+
+
+  Name: Guerrier
+
+  AltName: Fighter (SRD p24)
+
+  Source: (MDR p160)
 
 ---
 >  [Classes](hd_classes.md)

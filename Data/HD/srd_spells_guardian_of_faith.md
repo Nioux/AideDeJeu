@@ -15,9 +15,124 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Gardien de la foi](hd_spells_gardien_de_la_foi.md)'
 Source: (SRD p150)
-Attributes: {}
+Attributes:
+  Name: Guardian of Faith
+  Markdown: >+
+    # <!--Name-->Guardian of Faith<!--/Name-->
+
+
+    - MDR: <!--AltName-->[Gardien de la foi](hd_spells_gardien_de_la_foi.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p150)<!--/Source-->
+
+    -  <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+    - **Range :** <!--Range-->30 feet<!--/Range-->
+
+    - **Components :** <!--Components-->V<!--/Components-->
+
+    - **Duration :** <!--Duration-->8 hours<!--/Duration-->
+
+    - Classes: <!--Classes-->Cleric<!--/Classes-->
+
+
+    ### Description
+
+
+    A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.
+
+
+    Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
+
+  AltName: '[Gardien de la foi](hd_spells_gardien_de_la_foi.md)'
+  Source: (SRD p150)
+  Level: 4
+  Type: conjuration
+  CastingTime: 1 action
+  Range: 30 feet
+  Components: V
+  Duration: 8 hours
+  Classes: Cleric
 AttributesDictionary: >+
-  {}
+  Name: Guardian of Faith
+
+  Markdown: >+
+
+    # <!--Name-->Guardian of Faith<!--/Name-->
+
+
+
+
+
+    - MDR: <!--AltName-->[Gardien de la foi](hd_spells_gardien_de_la_foi.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p150)<!--/Source-->
+
+
+
+    -  <!--Level-->4<!--/Level-->th-level <!--Type-->conjuration<!--/Type-->
+
+
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+    - **Range :** <!--Range-->30 feet<!--/Range-->
+
+
+
+    - **Components :** <!--Components-->V<!--/Components-->
+
+
+
+    - **Duration :** <!--Duration-->8 hours<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->Cleric<!--/Classes-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.
+
+
+
+
+
+    Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
+
+
+
+  AltName: '[Gardien de la foi](hd_spells_gardien_de_la_foi.md)'
+
+  Source: (SRD p150)
+
+  Level: 4
+
+  Type: conjuration
+
+  CastingTime: 1 action
+
+  Range: 30 feet
+
+  Components: V
+
+  Duration: 8 hours
+
+  Classes: Cleric
 
 ---
 > [Spells (SRD p)](srd_spells.md)

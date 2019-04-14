@@ -22,9 +22,169 @@ Name: Giant Lizard
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Lézard géant](hd_monsters_lezard_geant.md)'
-Attributes: {}
+Attributes:
+  Name: Giant Lizard
+  Markdown: >+
+    # <!--Name-->Giant Lizard<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Lézard géant](hd_monsters_lezard_geant.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->darkvision 30 ft., passive Perception 10<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 6 (1d8 + 2) piercing damage.
+
+  AltName: '[Lézard géant](hd_monsters_lezard_geant.md)'
+  Size: Large
+  Type: beast
+  Alignment: unaligned
+  ArmorClass: 12 (natural armor)
+  HitPoints: 19 (3d10 + 3)
+  Speed: 30 ft., climb 30 ft.
+  Strength: 15 (+2)
+  Dexterity: 12 (+1)
+  Constitution: 13 (+1)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 10 (+0)
+  Charisma: ' 5 (-3)'
+  Senses: darkvision 30 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
 AttributesDictionary: >+
-  {}
+  Name: Giant Lizard
+
+  Markdown: >+
+
+    # <!--Name-->Giant Lizard<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Lézard géant](hd_monsters_lezard_geant.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft., climb 30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->darkvision 30 ft., passive Perception 10<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 6 (1d8 + 2) piercing damage.
+
+
+
+  AltName: '[Lézard géant](hd_monsters_lezard_geant.md)'
+
+  Size: Large
+
+  Type: beast
+
+  Alignment: unaligned
+
+  ArmorClass: 12 (natural armor)
+
+  HitPoints: 19 (3d10 + 3)
+
+  Speed: 30 ft., climb 30 ft.
+
+  Strength: 15 (+2)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 13 (+1)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 5 (-3)'
+
+  Senses: darkvision 30 ft., passive Perception 10
+
+  Languages: '-'
+
+  Challenge: 1/4 (50 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

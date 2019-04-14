@@ -16,9 +16,148 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Comprehend Languages](srd_spells_comprehend_languages.md)'
 Source: (MDR p338)(SRD)
-Attributes: {}
+Attributes:
+  Name: Compréhension des langues
+  Markdown: >+
+    # <!--Name-->Compréhension des langues<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Comprehend Languages](srd_spells_comprehend_languages.md)<!--/AltName-->
+
+
+    -  <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->personnelle<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (une pincée de suie et de sel)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->1 heure<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p338)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Pendant toute la durée du sort, vous comprenez le sens littéral de tout langage parlé que vous entendez. Vous comprenez aussi les langues écrites que vous voyez, à condition de toucher la surface sur laquelle les mots ont été tracés. Il vous faut 1 minute pour lire une page de texte.
+
+
+    Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes qui ne correspondent pas à un langage écrit, comme un _[symbole](hd_spells_symbole.md)_ magique.
+
+  AltName: '[Comprehend Languages](srd_spells_comprehend_languages.md)'
+  Type: Divination
+  Level: 1
+  Ritual: rituel
+  CastingTime: 1 action
+  Range: personnelle
+  Components: V, S, M (une pincée de suie et de sel)
+  Duration: 1 heure
+  Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+  Source: (MDR p338)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Compréhension des langues
+
+  Markdown: >+
+
+    # <!--Name-->Compréhension des langues<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Comprehend Languages](srd_spells_comprehend_languages.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->personnelle<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (une pincée de suie et de sel)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->1 heure<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p338)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Pendant toute la durée du sort, vous comprenez le sens littéral de tout langage parlé que vous entendez. Vous comprenez aussi les langues écrites que vous voyez, à condition de toucher la surface sur laquelle les mots ont été tracés. Il vous faut 1 minute pour lire une page de texte.
+
+
+
+
+
+    Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes qui ne correspondent pas à un langage écrit, comme un _[symbole](hd_spells_symbole.md)_ magique.
+
+
+
+  AltName: '[Comprehend Languages](srd_spells_comprehend_languages.md)'
+
+  Type: Divination
+
+  Level: 1
+
+  Ritual: rituel
+
+  CastingTime: 1 action
+
+  Range: personnelle
+
+  Components: V, S, M (une pincée de suie et de sel)
+
+  Duration: 1 heure
+
+  Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+
+  Source: (MDR p338)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

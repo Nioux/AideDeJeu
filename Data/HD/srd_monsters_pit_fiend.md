@@ -26,9 +26,331 @@ Name: Pit Fiend
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Diantrefosse](hd_monsters_diantrefosse.md)'
-Attributes: {}
+Attributes:
+  Name: Pit Fiend
+  Markdown: >+
+    # <!--Name-->Pit Fiend<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Diantrefosse](hd_monsters_diantrefosse.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->300 (24d10 + 168)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft., fly 60 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->26 (+8)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->24 (+7)<!--/Constitution-->|<!--Intelligence-->22 (+6)<!--/Intelligence-->|<!--Wisdom-->18 (+4)<!--/Wisdom-->|<!--Charisma-->24 (+7)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +8, Con +13, Wis +10<!--/SavingThrows-->
+
+    - **Senses** <!--Senses-->truesight 120 ft., passive Perception 14<!--/Senses-->
+
+    - **Languages** <!--Languages-->Infernal, telepathy 120 ft.<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->20 (25000 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->fire, poison<!--/DamageImmunities-->
+
+    - **Damage Resistances** <!--DamageResistances-->cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Fear Aura_**. Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+
+
+    **_Magic Resistance_**. The pit fiend has advantage on saving throws against spells and other magical effects.
+
+
+    **_Magic Weapons_**. The pit fiend's weapon attacks are magical.
+
+
+    **_Innate Spellcasting_**. The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
+
+
+    At will: _[detect magic](srd_spells_detect_magic.md)_, _[fireball](srd_spells_fireball.md)_
+
+
+    3/day each: _[hold monster](srd_spells_hold_monster.md)_, _[wall of fire](srd_spells_wall_of_fire.md)_
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
+
+
+    **_Bite_**. Melee Weapon Attack: +14 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+    **_Claw_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
+
+
+    _Hit_: 17 (2d8 + 8) slashing damage.
+
+
+    **_Mace_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
+
+
+    _Hit_: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
+
+
+    **_Tail_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
+
+
+    _Hit_: 24 (3d10 + 8) bludgeoning damage.
+
+  AltName: '[Diantrefosse](hd_monsters_diantrefosse.md)'
+  Size: Large
+  Type: fiend (devil)
+  Alignment: lawful evil
+  ArmorClass: 19 (natural armor)
+  HitPoints: 300 (24d10 + 168)
+  Speed: 30 ft., fly 60 ft.
+  Strength: 26 (+8)
+  Dexterity: 14 (+2)
+  Constitution: 24 (+7)
+  Intelligence: 22 (+6)
+  Wisdom: 18 (+4)
+  Charisma: 24 (+7)
+  SavingThrows: Dex +8, Con +13, Wis +10
+  Senses: truesight 120 ft., passive Perception 14
+  Languages: Infernal, telepathy 120 ft.
+  Challenge: 20 (25000 XP)
+  DamageImmunities: fire, poison
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  ConditionImmunities: poisoned
 AttributesDictionary: >+
-  {}
+  Name: Pit Fiend
+
+  Markdown: >+
+
+    # <!--Name-->Pit Fiend<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Diantrefosse](hd_monsters_diantrefosse.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->300 (24d10 + 168)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft., fly 60 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->26 (+8)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->24 (+7)<!--/Constitution-->|<!--Intelligence-->22 (+6)<!--/Intelligence-->|<!--Wisdom-->18 (+4)<!--/Wisdom-->|<!--Charisma-->24 (+7)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +8, Con +13, Wis +10<!--/SavingThrows-->
+
+
+
+    - **Senses** <!--Senses-->truesight 120 ft., passive Perception 14<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Infernal, telepathy 120 ft.<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->20 (25000 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->fire, poison<!--/DamageImmunities-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Fear Aura_**. Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+
+
+
+
+
+    **_Magic Resistance_**. The pit fiend has advantage on saving throws against spells and other magical effects.
+
+
+
+
+
+    **_Magic Weapons_**. The pit fiend's weapon attacks are magical.
+
+
+
+
+
+    **_Innate Spellcasting_**. The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
+
+
+
+
+
+    At will: _[detect magic](srd_spells_detect_magic.md)_, _[fireball](srd_spells_fireball.md)_
+
+
+
+
+
+    3/day each: _[hold monster](srd_spells_hold_monster.md)_, _[wall of fire](srd_spells_wall_of_fire.md)_
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +14 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+
+
+
+    **_Claw_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
+
+
+
+
+
+    _Hit_: 17 (2d8 + 8) slashing damage.
+
+
+
+
+
+    **_Mace_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
+
+
+
+
+
+    _Hit_: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
+
+
+
+
+
+    **_Tail_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
+
+
+
+
+
+    _Hit_: 24 (3d10 + 8) bludgeoning damage.
+
+
+
+  AltName: '[Diantrefosse](hd_monsters_diantrefosse.md)'
+
+  Size: Large
+
+  Type: fiend (devil)
+
+  Alignment: lawful evil
+
+  ArmorClass: 19 (natural armor)
+
+  HitPoints: 300 (24d10 + 168)
+
+  Speed: 30 ft., fly 60 ft.
+
+  Strength: 26 (+8)
+
+  Dexterity: 14 (+2)
+
+  Constitution: 24 (+7)
+
+  Intelligence: 22 (+6)
+
+  Wisdom: 18 (+4)
+
+  Charisma: 24 (+7)
+
+  SavingThrows: Dex +8, Con +13, Wis +10
+
+  Senses: truesight 120 ft., passive Perception 14
+
+  Languages: Infernal, telepathy 120 ft.
+
+  Challenge: 20 (25000 XP)
+
+  DamageImmunities: fire, poison
+
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+  ConditionImmunities: poisoned
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

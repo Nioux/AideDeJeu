@@ -10,9 +10,64 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Ring of Telekinesis (SRD p238)
 Source: (COC p142)
-Attributes: {}
+Attributes:
+  Name: Anneau de télékinésie
+  Markdown: >+
+    ### <!--Name-->Anneau de télékinésie<!--/Name-->
+
+
+    - AltName: <!--AltName-->Ring of Telekinesis (SRD p238)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p142)<!--/Source-->
+
+    -  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+    Tant que vous portez cet anneau au doigt, vous pouvez lancer le sort de télékinésie à volonté mais vous ne pouvez cibler que des objets qui ne sont ni équipés ni portés.
+
+  AltName: Ring of Telekinesis (SRD p238)
+  Source: (COC p142)
+  Type: Anneau
+  Rarity: très rare
+  Attunement: harmonisation requise
 AttributesDictionary: >+
-  {}
+  Name: Anneau de télékinésie
+
+  Markdown: >+
+
+    ### <!--Name-->Anneau de télékinésie<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Ring of Telekinesis (SRD p238)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p142)<!--/Source-->
+
+
+
+    -  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+
+
+
+    Tant que vous portez cet anneau au doigt, vous pouvez lancer le sort de télékinésie à volonté mais vous ne pouvez cibler que des objets qui ne sont ni équipés ni portés.
+
+
+
+  AltName: Ring of Telekinesis (SRD p238)
+
+  Source: (COC p142)
+
+  Type: Anneau
+
+  Rarity: très rare
+
+  Attunement: harmonisation requise
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

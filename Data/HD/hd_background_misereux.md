@@ -9,9 +9,97 @@ ParentLink: backgrounds_hd.md
 Name: Miséreux
 ParentName: Historique
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Miséreux<!--/Name-->
+
+
+    Vous êtes issu de la classe sociale la plus basse, de ce qui est considéré par beaucoup comme la lie de la société. Vous avez longtemps survécu en mendiant, en errant dans les rues des cités ou sur les chemins du monde, et en récupérant ce dont d'autres voulaient bien se débarrasser. Vous avez pu alors constater la réelle étendue de leur « charité ». Votre vie a maintes fois été mise en danger à cause du dénuement dans lequel vous viviez : maladies, infections, malnutrition ont été vos ennemies, en plus du voleur ou du brigand occasionnel s'en prenant à vos maigres biens.
+
+
+    **Compétences :** <!--Abilities-->Discrétion, Escamotage.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, outils de voleur.<!--/MasteredTools-->
+
+
+    **Équipement :** <!--Equipment-->Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.<!--/Equipment-->
+
+  Name: Miséreux
+  Description: >+
+    Vous êtes issu de la classe sociale la plus basse, de ce qui est considéré par beaucoup comme la lie de la société. Vous avez longtemps survécu en mendiant, en errant dans les rues des cités ou sur les chemins du monde, et en récupérant ce dont d'autres voulaient bien se débarrasser. Vous avez pu alors constater la réelle étendue de leur « charité ». Votre vie a maintes fois été mise en danger à cause du dénuement dans lequel vous viviez : maladies, infections, malnutrition ont été vos ennemies, en plus du voleur ou du brigand occasionnel s'en prenant à vos maigres biens.
+
+  Abilities: Discrétion, Escamotage.
+  MasteredTools: Un type de jeu au choix, outils de voleur.
+  Equipment: Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Miséreux<!--/Name-->
+
+
+
+
+
+    Vous êtes issu de la classe sociale la plus basse, de ce qui est considéré par beaucoup comme la lie de la société. Vous avez longtemps survécu en mendiant, en errant dans les rues des cités ou sur les chemins du monde, et en récupérant ce dont d'autres voulaient bien se débarrasser. Vous avez pu alors constater la réelle étendue de leur « charité ». Votre vie a maintes fois été mise en danger à cause du dénuement dans lequel vous viviez : maladies, infections, malnutrition ont été vos ennemies, en plus du voleur ou du brigand occasionnel s'en prenant à vos maigres biens.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Discrétion, Escamotage.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, outils de voleur.<!--/MasteredTools-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.<!--/Equipment-->
+
+
+
+  Name: Miséreux
+
+  Description: >+
+
+    Vous êtes issu de la classe sociale la plus basse, de ce qui est considéré par beaucoup comme la lie de la société. Vous avez longtemps survécu en mendiant, en errant dans les rues des cités ou sur les chemins du monde, et en récupérant ce dont d'autres voulaient bien se débarrasser. Vous avez pu alors constater la réelle étendue de leur « charité ». Votre vie a maintes fois été mise en danger à cause du dénuement dans lequel vous viviez : maladies, infections, malnutrition ont été vos ennemies, en plus du voleur ou du brigand occasionnel s'en prenant à vos maigres biens.
+
+
+
+  Abilities: Discrétion, Escamotage.
+
+  MasteredTools: Un type de jeu au choix, outils de voleur.
+
+  Equipment: Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.
 
 Description: >+
   Vous êtes issu de la classe sociale la plus basse, de ce qui est considéré par beaucoup comme la lie de la société. Vous avez longtemps survécu en mendiant, en errant dans les rues des cités ou sur les chemins du monde, et en récupérant ce dont d'autres voulaient bien se débarrasser. Vous avez pu alors constater la réelle étendue de leur « charité ». Votre vie a maintes fois été mise en danger à cause du dénuement dans lequel vous viviez : maladies, infections, malnutrition ont été vos ennemies, en plus du voleur ou du brigand occasionnel s'en prenant à vos maigres biens.

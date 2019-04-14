@@ -26,9 +26,268 @@ Name: Bearded Devil
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Diable barbu](hd_monsters_diable_barbu.md)'
-Attributes: {}
+Attributes:
+  Name: Bearded Devil
+  Markdown: >+
+    # <!--Name-->Bearded Devil<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Diable barbu](hd_monsters_diable_barbu.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence--> 9 (-1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->11 (+0)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Str +5, Con +4, Wis +2<!--/SavingThrows-->
+
+    - **Senses** <!--Senses-->darkvision 120 ft., passive Perception 10<!--/Senses-->
+
+    - **Languages** <!--Languages-->Infernal, telepathy 120 ft.<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->3 (700 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->fire, poison<!--/DamageImmunities-->
+
+    - **Damage Resistances** <!--DamageResistances-->cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Devil's Sight_**. Magical darkness doesn't impede the devil's darkvision.
+
+
+    **_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
+
+
+    **_Steadfast_**. The devil can't be frightened while it can see an allied creature within 30 feet of it.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The devil makes two attacks: one with its beard and one with its glaive.
+
+
+    **_Beard_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
+
+
+    _Hit_: 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+    **_Glaive_**. Melee Weapon Attack: +5 to hit, reach 10 ft., one target.
+
+
+    _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+
+  AltName: '[Diable barbu](hd_monsters_diable_barbu.md)'
+  Size: Medium
+  Type: fiend (devil)
+  Alignment: lawful evil
+  ArmorClass: 13 (natural armor)
+  HitPoints: 52 (8d8 + 16)
+  Speed: 30 ft.
+  Strength: 16 (+3)
+  Dexterity: 15 (+2)
+  Constitution: 15 (+2)
+  Intelligence: ' 9 (-1)'
+  Wisdom: 11 (+0)
+  Charisma: 11 (+0)
+  SavingThrows: Str +5, Con +4, Wis +2
+  Senses: darkvision 120 ft., passive Perception 10
+  Languages: Infernal, telepathy 120 ft.
+  Challenge: 3 (700 XP)
+  DamageImmunities: fire, poison
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  ConditionImmunities: poisoned
 AttributesDictionary: >+
-  {}
+  Name: Bearded Devil
+
+  Markdown: >+
+
+    # <!--Name-->Bearded Devil<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Diable barbu](hd_monsters_diable_barbu.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence--> 9 (-1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->11 (+0)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Str +5, Con +4, Wis +2<!--/SavingThrows-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 120 ft., passive Perception 10<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Infernal, telepathy 120 ft.<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->3 (700 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->fire, poison<!--/DamageImmunities-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Devil's Sight_**. Magical darkness doesn't impede the devil's darkvision.
+
+
+
+
+
+    **_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
+
+
+
+
+
+    **_Steadfast_**. The devil can't be frightened while it can see an allied creature within 30 feet of it.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The devil makes two attacks: one with its beard and one with its glaive.
+
+
+
+
+
+    **_Beard_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
+
+
+
+
+
+    _Hit_: 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+
+
+
+    **_Glaive_**. Melee Weapon Attack: +5 to hit, reach 10 ft., one target.
+
+
+
+
+
+    _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+
+
+
+  AltName: '[Diable barbu](hd_monsters_diable_barbu.md)'
+
+  Size: Medium
+
+  Type: fiend (devil)
+
+  Alignment: lawful evil
+
+  ArmorClass: 13 (natural armor)
+
+  HitPoints: 52 (8d8 + 16)
+
+  Speed: 30 ft.
+
+  Strength: 16 (+3)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 15 (+2)
+
+  Intelligence: ' 9 (-1)'
+
+  Wisdom: 11 (+0)
+
+  Charisma: 11 (+0)
+
+  SavingThrows: Str +5, Con +4, Wis +2
+
+  Senses: darkvision 120 ft., passive Perception 10
+
+  Languages: Infernal, telepathy 120 ft.
+
+  Challenge: 3 (700 XP)
+
+  DamageImmunities: fire, poison
+
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+  ConditionImmunities: poisoned
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

@@ -23,9 +23,205 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Goat](srd_monsters_goat.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Chèvre
+  Markdown: >+
+    # <!--Name-->Chèvre<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Goat](srd_monsters_goat.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->0 (10 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Charge._** Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 2 (1d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 10 pour ne pas être jetée [à terre](hd_conditions_a_terre.md).
+
+
+    **_Pied sûr._** La chèvre obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) et de [Dextérité](hd_abilities_dexterity.md) effectués contre les effets susceptibles de la jeter [à terre](hd_conditions_a_terre.md).
+
+
+    ## Actions
+
+
+    **_Coup de bélier._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 3 (1d4+1) dégâts contondants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Goat](srd_monsters_goat.md)'
+  Type: Bête
+  Size: M
+  Alignment: non-alignée
+  ArmorClass: 10
+  HitPoints: 4 (1d8)
+  Speed: 12 m
+  Strength: 12 (+1)
+  Dexterity: 10 (+0)
+  Constitution: 11 (+0)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 10 (+0)
+  Charisma: ' 5 (-3)'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 0 (10 PX)
 AttributesDictionary: >+
-  {}
+  Name: Chèvre
+
+  Markdown: >+
+
+    # <!--Name-->Chèvre<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Goat](srd_monsters_goat.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->0 (10 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Charge._** Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 2 (1d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 10 pour ne pas être jetée [à terre](hd_conditions_a_terre.md).
+
+
+
+
+
+    **_Pied sûr._** La chèvre obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) et de [Dextérité](hd_abilities_dexterity.md) effectués contre les effets susceptibles de la jeter [à terre](hd_conditions_a_terre.md).
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Coup de bélier._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 3 (1d4+1) dégâts contondants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Goat](srd_monsters_goat.md)'
+
+  Type: Bête
+
+  Size: M
+
+  Alignment: non-alignée
+
+  ArmorClass: 10
+
+  HitPoints: 4 (1d8)
+
+  Speed: 12 m
+
+  Strength: 12 (+1)
+
+  Dexterity: 10 (+0)
+
+  Constitution: 11 (+0)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 5 (-3)'
+
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+
+  Languages: —
+
+  Challenge: 0 (10 PX)
 
 ---
 > [Créatures](hd_monsters.md)

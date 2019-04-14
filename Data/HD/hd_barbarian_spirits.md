@@ -8,9 +8,82 @@ RootId: barbarian_spirits_hd.md
 ParentLink: barbarian_hd.md#voies-primitives
 ParentName: Voies primitives
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Voies primitives](hd_barbarian_voies_primitives.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Voies primitives](hd_barbarian_voies_primitives.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Voie des esprits<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p117)<!--/Source-->
+
+
+    Plaine ou savane, forêt ou montagne, vous êtes né dans une nature vierge et sauvage, parfois dure et hostile.
+
+
+    Pour survivre, votre peuple a appris à communier avec la nature et à tisser des liens étroits avec les animaux par l'intermédiaire d'esprits magiques.
+
+
+    Lorsque vous choisissez la voie des esprits, vous obtenez une valeur de lien spirituel égal à votre bonus de maîtrise (deux points au troisième niveau). Vous récupérez vos points de lien spirituel après avoir terminé un repos long. Tous les sorts lancés grâce à l'utilisation de ces points le sont à leur niveau minimum, et la caractéristique utilisée pour lancer des sorts est la [Sagesse](hd_abilities_wisdom.md) (difficulté des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) égale à 8 + bonus de maîtrise + modificateur de [Sagesse](hd_abilities_wisdom.md)).
+
+  Name: Voie des esprits
+  Source: (MDR p117)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Voies primitives](hd_barbarian_voies_primitives.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Voies primitives](hd_barbarian_voies_primitives.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Voie des esprits<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p117)<!--/Source-->
+
+
+
+
+
+    Plaine ou savane, forêt ou montagne, vous êtes né dans une nature vierge et sauvage, parfois dure et hostile.
+
+
+
+
+
+    Pour survivre, votre peuple a appris à communier avec la nature et à tisser des liens étroits avec les animaux par l'intermédiaire d'esprits magiques.
+
+
+
+
+
+    Lorsque vous choisissez la voie des esprits, vous obtenez une valeur de lien spirituel égal à votre bonus de maîtrise (deux points au troisième niveau). Vous récupérez vos points de lien spirituel après avoir terminé un repos long. Tous les sorts lancés grâce à l'utilisation de ces points le sont à leur niveau minimum, et la caractéristique utilisée pour lancer des sorts est la [Sagesse](hd_abilities_wisdom.md) (difficulté des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) égale à 8 + bonus de maîtrise + modificateur de [Sagesse](hd_abilities_wisdom.md)).
+
+
+
+  Name: Voie des esprits
+
+  Source: (MDR p117)
 
 ---
 >  [Voies primitives](hd_barbarian_voies_primitives.md)

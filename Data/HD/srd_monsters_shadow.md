@@ -26,9 +26,247 @@ Name: Shadow
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ombre](hd_monsters_ombre.md)'
-Attributes: {}
+Attributes:
+  Name: Shadow
+  Markdown: >+
+    # <!--Name-->Shadow<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Ombre](hd_monsters_ombre.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->16 (3d8 + 3)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 6 (-2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Stealth +4 (+6 in dim light or darkness)<!--/Skills-->
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 10<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/2 (100 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->necrotic, poison<!--/DamageImmunities-->
+
+    - **Damage Resistances** <!--DamageResistances-->acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks<!--/DamageResistances-->
+
+    - **Damage Vulnerabilities** radiant
+
+    - **Condition Immunities** <!--ConditionImmunities-->exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Amorphous_**. The shadow can move through a space as narrow as 1 inch wide without squeezing.
+
+
+    **_Shadow Stealth_**. While in dim light or darkness, the shadow can take the Hide action as a bonus action.
+
+
+    **_Sunlight Weakness_**. While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
+
+
+    ## Actions
+
+
+    **_Strength Drain_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+
+    _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
+
+  AltName: '[Ombre](hd_monsters_ombre.md)'
+  Size: Medium
+  Type: undead
+  Alignment: chaotic evil
+  ArmorClass: 12
+  HitPoints: 16 (3d8 + 3)
+  Speed: 40 ft.
+  Strength: ' 6 (-2)'
+  Dexterity: 14 (+2)
+  Constitution: 13 (+1)
+  Intelligence: ' 6 (-2)'
+  Wisdom: 10 (+0)
+  Charisma: ' 8 (-1)'
+  Skills: Stealth +4 (+6 in dim light or darkness)
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
+  DamageImmunities: necrotic, poison
+  DamageResistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+  ConditionImmunities: exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 AttributesDictionary: >+
-  {}
+  Name: Shadow
+
+  Markdown: >+
+
+    # <!--Name-->Shadow<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Ombre](hd_monsters_ombre.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->16 (3d8 + 3)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 6 (-2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Stealth +4 (+6 in dim light or darkness)<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 10<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/2 (100 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->necrotic, poison<!--/DamageImmunities-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks<!--/DamageResistances-->
+
+
+
+    - **Damage Vulnerabilities** radiant
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Amorphous_**. The shadow can move through a space as narrow as 1 inch wide without squeezing.
+
+
+
+
+
+    **_Shadow Stealth_**. While in dim light or darkness, the shadow can take the Hide action as a bonus action.
+
+
+
+
+
+    **_Sunlight Weakness_**. While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Strength Drain_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+
+
+
+
+    _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
+
+
+
+  AltName: '[Ombre](hd_monsters_ombre.md)'
+
+  Size: Medium
+
+  Type: undead
+
+  Alignment: chaotic evil
+
+  ArmorClass: 12
+
+  HitPoints: 16 (3d8 + 3)
+
+  Speed: 40 ft.
+
+  Strength: ' 6 (-2)'
+
+  Dexterity: 14 (+2)
+
+  Constitution: 13 (+1)
+
+  Intelligence: ' 6 (-2)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 8 (-1)'
+
+  Skills: Stealth +4 (+6 in dim light or darkness)
+
+  Senses: darkvision 60 ft., passive Perception 10
+
+  Languages: '-'
+
+  Challenge: 1/2 (100 XP)
+
+  DamageImmunities: necrotic, poison
+
+  DamageResistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+
+  ConditionImmunities: exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

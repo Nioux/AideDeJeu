@@ -24,9 +24,241 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Chimera](srd_monsters_chimera.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Chimère
+  Markdown: >+
+    # <!--Name-->Chimère<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Chimera](srd_monsters_chimera.md)<!--/AltName-->
+
+    -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->19 (+4)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
+
+
+    - **Compétence** <!--Skills-->[Perception](hd_abilities_wisdom_perception.md) +8<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18<!--/Senses-->
+
+    - **Langues** <!--Languages-->comprend le draconique mais ne peut pas parler<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->6 (2 300 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** La chimère effectue trois attaques : une avec sa morsure, une avec ses cornes et une avec ses griffes. Quand son souffle de feu est disponible, elle peut l'utiliser à la place de sa morsure ou de ses cornes.
+
+
+    **_Cornes._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 10 (1d12+4) dégâts contondants.
+
+
+    **_Griffes._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 11 (2d6+4) dégâts tranchants.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 11 (2d6+4) dégâts perforants.
+
+
+    **_Souffle de feu (Recharge 5-6)._** La tête de dragon souffle un cône de feu de 4,50 mètres. Les créatures dans le cône doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 15 ; elles subissent 31 (7d8) dégâts de feu en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Chimera](srd_monsters_chimera.md)'
+  Type: Créature monstrueuse
+  Size: G
+  Alignment: Chaotique Mauvais
+  ArmorClass: 14 (armure naturelle)
+  HitPoints: 114 (12d10+48)
+  Speed: 9 m, vol 18 m
+  Strength: 19 (+4)
+  Dexterity: 11 (+0)
+  Constitution: 19 (+4)
+  Intelligence: ' 3 (-4)'
+  Wisdom: 14 (+2)
+  Charisma: 10 (+0)
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +8'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
+  Languages: comprend le draconique mais ne peut pas parler
+  Challenge: 6 (2 300 PX)
 AttributesDictionary: >+
-  {}
+  Name: Chimère
+
+  Markdown: >+
+
+    # <!--Name-->Chimère<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Chimera](srd_monsters_chimera.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->19 (+4)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétence** <!--Skills-->[Perception](hd_abilities_wisdom_perception.md) +8<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->comprend le draconique mais ne peut pas parler<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->6 (2 300 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** La chimère effectue trois attaques : une avec sa morsure, une avec ses cornes et une avec ses griffes. Quand son souffle de feu est disponible, elle peut l'utiliser à la place de sa morsure ou de ses cornes.
+
+
+
+
+
+    **_Cornes._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 10 (1d12+4) dégâts contondants.
+
+
+
+
+
+    **_Griffes._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 11 (2d6+4) dégâts tranchants.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 11 (2d6+4) dégâts perforants.
+
+
+
+
+
+    **_Souffle de feu (Recharge 5-6)._** La tête de dragon souffle un cône de feu de 4,50 mètres. Les créatures dans le cône doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 15 ; elles subissent 31 (7d8) dégâts de feu en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Chimera](srd_monsters_chimera.md)'
+
+  Type: Créature monstrueuse
+
+  Size: G
+
+  Alignment: Chaotique Mauvais
+
+  ArmorClass: 14 (armure naturelle)
+
+  HitPoints: 114 (12d10+48)
+
+  Speed: 9 m, vol 18 m
+
+  Strength: 19 (+4)
+
+  Dexterity: 11 (+0)
+
+  Constitution: 19 (+4)
+
+  Intelligence: ' 3 (-4)'
+
+  Wisdom: 14 (+2)
+
+  Charisma: 10 (+0)
+
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +8'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
+
+  Languages: comprend le draconique mais ne peut pas parler
+
+  Challenge: 6 (2 300 PX)
 
 ---
 > [Créatures](hd_monsters.md)

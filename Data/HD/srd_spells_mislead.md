@@ -15,9 +15,133 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Tromperie](hd_spells_tromperie.md)'
 Source: (SRD p165)
-Attributes: {}
+Attributes:
+  Name: Mislead
+  Markdown: >+
+    # <!--Name-->Mislead<!--/Name-->
+
+
+    - MDR: <!--AltName-->[Tromperie](hd_spells_tromperie.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p165)<!--/Source-->
+
+    -  <!--Level-->5<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+    - **Range :** <!--Range-->Self<!--/Range-->
+
+    - **Components :** <!--Components-->S<!--/Components-->
+
+    - **Duration :** <!--Duration-->Concentration, up to 1 hour<!--/Duration-->
+
+    - Classes: <!--Classes-->Bard, Wizard<!--/Classes-->
+
+
+    ### Description
+
+
+    You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.
+
+
+    You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
+
+
+    You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are [blinded](srd_conditions_blinded.md) and deafened in regard to your own surroundings.
+
+  AltName: '[Tromperie](hd_spells_tromperie.md)'
+  Source: (SRD p165)
+  Level: 5
+  Type: illusion
+  CastingTime: 1 action
+  Range: Self
+  Components: S
+  Duration: Concentration, up to 1 hour
+  Classes: Bard, Wizard
 AttributesDictionary: >+
-  {}
+  Name: Mislead
+
+  Markdown: >+
+
+    # <!--Name-->Mislead<!--/Name-->
+
+
+
+
+
+    - MDR: <!--AltName-->[Tromperie](hd_spells_tromperie.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p165)<!--/Source-->
+
+
+
+    -  <!--Level-->5<!--/Level-->th-level <!--Type-->illusion<!--/Type-->
+
+
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+    - **Range :** <!--Range-->Self<!--/Range-->
+
+
+
+    - **Components :** <!--Components-->S<!--/Components-->
+
+
+
+    - **Duration :** <!--Duration-->Concentration, up to 1 hour<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->Bard, Wizard<!--/Classes-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.
+
+
+
+
+
+    You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
+
+
+
+
+
+    You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are [blinded](srd_conditions_blinded.md) and deafened in regard to your own surroundings.
+
+
+
+  AltName: '[Tromperie](hd_spells_tromperie.md)'
+
+  Source: (SRD p165)
+
+  Level: 5
+
+  Type: illusion
+
+  CastingTime: 1 action
+
+  Range: Self
+
+  Components: S
+
+  Duration: Concentration, up to 1 hour
+
+  Classes: Bard, Wizard
 
 ---
 > [Spells (SRD p)](srd_spells.md)

@@ -6,9 +6,19 @@ Id: backgrounds_hd.md#solitaire
 ParentLink: backgrounds_hd.md#historique
 Name: Solitaire
 ParentName: Historique
-Attributes: {}
+Attributes:
+  NameLink: '[Solitaire](hd_background_solitaire.md)'
+  Markdown: >+
+    # <!--NameLink-->[Solitaire](hd_background_solitaire.md)<!--/NameLink-->
+
 AttributesDictionary: >+
-  {}
+  NameLink: '[Solitaire](hd_background_solitaire.md)'
+
+  Markdown: >+
+
+    # <!--NameLink-->[Solitaire](hd_background_solitaire.md)<!--/NameLink-->
+
+
 
 ---
 

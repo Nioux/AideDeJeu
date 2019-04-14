@@ -7,9 +7,31 @@ ParentLink: races_hd.md#races
 Name: Halfelin
 ParentName: Races
 AltName: '[Halfling](#)'
-Attributes: {}
+Attributes:
+  NameLink: '[Halfelin](hd_halfling.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Halfelin](hd_halfling.md)<!--/NameLink-->
+
+
+    - SRD: <!--AltName-->[Halfling](#)<!--/AltName-->
+
+  AltName: '[Halfling](#)'
 AttributesDictionary: >+
-  {}
+  NameLink: '[Halfelin](hd_halfling.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Halfelin](hd_halfling.md)<!--/NameLink-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Halfling](#)<!--/AltName-->
+
+
+
+  AltName: '[Halfling](#)'
 
 ---
 

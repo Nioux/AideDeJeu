@@ -25,9 +25,232 @@ Name: Air Elemental
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: "[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)"
-Attributes: {}
+Attributes:
+  Name: Air Elemental
+  Markdown: >+
+    # <!--Name-->Air Elemental<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->15<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->90 (12d10 + 24)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->0 ft., fly 90 ft. (hover)<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->20 (+5)<!--/Dexterity-->|<!--Constitution-->14 (+2)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 10<!--/Senses-->
+
+    - **Languages** <!--Languages-->Auran<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->5 (1800 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+    - **Damage Resistances** <!--DamageResistances-->lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Air Form_**. The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The elemental makes two slam attacks.
+
+
+    **_Slam_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 14 (2d8 + 5) bludgeoning damage.
+
+
+    **_Whirlwind (Recharge 4-6)_**. Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone. If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
+
+  AltName: "[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)"
+  Size: Large
+  Type: elemental
+  Alignment: neutral
+  ArmorClass: 15
+  HitPoints: 90 (12d10 + 24)
+  Speed: 0 ft., fly 90 ft. (hover)
+  Strength: 14 (+2)
+  Dexterity: 20 (+5)
+  Constitution: 14 (+2)
+  Intelligence: ' 6 (-2)'
+  Wisdom: 10 (+0)
+  Charisma: ' 6 (-2)'
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Auran
+  Challenge: 5 (1800 XP)
+  DamageImmunities: poison
+  DamageResistances: lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+  ConditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 AttributesDictionary: >+
-  {}
+  Name: Air Elemental
+
+  Markdown: >+
+
+    # <!--Name-->Air Elemental<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->15<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->90 (12d10 + 24)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->0 ft., fly 90 ft. (hover)<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->20 (+5)<!--/Dexterity-->|<!--Constitution-->14 (+2)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 10<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Auran<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->5 (1800 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Air Form_**. The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The elemental makes two slam attacks.
+
+
+
+
+
+    **_Slam_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 14 (2d8 + 5) bludgeoning damage.
+
+
+
+
+
+    **_Whirlwind (Recharge 4-6)_**. Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone. If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
+
+
+
+  AltName: "[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)"
+
+  Size: Large
+
+  Type: elemental
+
+  Alignment: neutral
+
+  ArmorClass: 15
+
+  HitPoints: 90 (12d10 + 24)
+
+  Speed: 0 ft., fly 90 ft. (hover)
+
+  Strength: 14 (+2)
+
+  Dexterity: 20 (+5)
+
+  Constitution: 14 (+2)
+
+  Intelligence: ' 6 (-2)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 6 (-2)'
+
+  Senses: darkvision 60 ft., passive Perception 10
+
+  Languages: Auran
+
+  Challenge: 5 (1800 XP)
+
+  DamageImmunities: poison
+
+  DamageResistances: lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+
+  ConditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

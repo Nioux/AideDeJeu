@@ -9,9 +9,70 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Necklace of Fireballs (SRD p231)
 Source: (COC p160)
-Attributes: {}
+Attributes:
+  Name: Collier de boules de feu
+  Markdown: >+
+    ### <!--Name-->Collier de boules de feu<!--/Name-->
+
+
+    - AltName: <!--AltName-->Necklace of Fireballs (SRD p231)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p160)<!--/Source-->
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
+
+
+    Ce collier possède 1d6+3 perles. Vous pouvez utiliser une action pour détacher une perle et la lancer sur une distance maximale de 18 mètres. Quand elle arrive au bout de sa trajectoire, elle explose comme le sort boule de feu de niveau 3 (DD 15).
+
+
+    Vous pouvez lancer plusieurs perles, ou même tout le collier, en une seule action. Dans ce cas, le niveau du sort de boule de feu augmente de 1 par perle en plus de la première.
+
+  AltName: Necklace of Fireballs (SRD p231)
+  Source: (COC p160)
+  Type: Objet merveilleux
+  Rarity: rare
 AttributesDictionary: >+
-  {}
+  Name: Collier de boules de feu
+
+  Markdown: >+
+
+    ### <!--Name-->Collier de boules de feu<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Necklace of Fireballs (SRD p231)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p160)<!--/Source-->
+
+
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
+
+
+
+
+
+    Ce collier possède 1d6+3 perles. Vous pouvez utiliser une action pour détacher une perle et la lancer sur une distance maximale de 18 mètres. Quand elle arrive au bout de sa trajectoire, elle explose comme le sort boule de feu de niveau 3 (DD 15).
+
+
+
+
+
+    Vous pouvez lancer plusieurs perles, ou même tout le collier, en une seule action. Dans ce cas, le niveau du sort de boule de feu augmente de 1 par perle en plus de la première.
+
+
+
+  AltName: Necklace of Fireballs (SRD p231)
+
+  Source: (COC p160)
+
+  Type: Objet merveilleux
+
+  Rarity: rare
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

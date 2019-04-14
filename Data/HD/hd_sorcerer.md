@@ -8,9 +8,73 @@ RootId: sorcerer_hd.md
 ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Classes](hd_classes.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Ensorceleur<!--/Name-->
+
+
+    - AltName: <!--AltName-->Sorcerer (SRD p41)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p152)<!--/Source-->
+
+
+    En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
+
+  Name: Ensorceleur
+  AltName: Sorcerer (SRD p41)
+  Source: (MDR p152)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Classes](hd_classes.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Ensorceleur<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Sorcerer (SRD p41)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p152)<!--/Source-->
+
+
+
+
+
+    En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
+
+
+
+  Name: Ensorceleur
+
+  AltName: Sorcerer (SRD p41)
+
+  Source: (MDR p152)
 
 ---
 >  [Classes](hd_classes.md)

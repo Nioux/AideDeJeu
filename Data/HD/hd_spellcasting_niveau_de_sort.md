@@ -1,15 +1,64 @@
 ﻿---
 !GenericItem
-Name: Niveau de sort
-AltName: Spell Level (SRD p100)
-Source: (MDR p306)
 Id: spellcasting_hd.md#niveau-de-sort
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Niveau de sort
 ParentName: Lancer des sorts
 NameLevel: 3
-Attributes: {}
+AltName: Spell Level (SRD p100)
+Source: (MDR p306)
+Attributes:
+  Name: Niveau de sort
+  Markdown: >+
+    ### <!--Name-->Niveau de sort<!--/Name-->
+
+
+    - AltName: <!--AltName-->Spell Level (SRD p100)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p306)<!--/Source-->
+
+
+    Tout sort s'accompagne d'un niveau, allant de 0 à 9. Ce niveau est une indication générale de la puissance du sort : l'humble (mais toujours efficace) projectile magique est de niveau 1 tandis que le souhait, capable de chambouler le monde, est de niveau 9. Les tours de magie (des sorts simples mais utiles qu'un personnage peut lancer à volonté) sont de niveau 0. Plus le niveau d'un sort est élevé, plus celui qui le lance doit avoir atteint un niveau élevé pour le jeter.
+
+
+    Les niveaux du sort ne correspondent pas directement au niveau du personnage : bien souvent, un personnage doit avoir atteint le niveau 17 et non le niveau 9 pour lancer un sort de niveau 9.
+
+  AltName: Spell Level (SRD p100)
+  Source: (MDR p306)
 AttributesDictionary: >+
-  {}
+  Name: Niveau de sort
+
+  Markdown: >+
+
+    ### <!--Name-->Niveau de sort<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Spell Level (SRD p100)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p306)<!--/Source-->
+
+
+
+
+
+    Tout sort s'accompagne d'un niveau, allant de 0 à 9. Ce niveau est une indication générale de la puissance du sort : l'humble (mais toujours efficace) projectile magique est de niveau 1 tandis que le souhait, capable de chambouler le monde, est de niveau 9. Les tours de magie (des sorts simples mais utiles qu'un personnage peut lancer à volonté) sont de niveau 0. Plus le niveau d'un sort est élevé, plus celui qui le lance doit avoir atteint un niveau élevé pour le jeter.
+
+
+
+
+
+    Les niveaux du sort ne correspondent pas directement au niveau du personnage : bien souvent, un personnage doit avoir atteint le niveau 17 et non le niveau 9 pour lancer un sort de niveau 9.
+
+
+
+  AltName: Spell Level (SRD p100)
+
+  Source: (MDR p306)
 
 ---
 > [Lancer des sorts](hd_spellcasting.md)

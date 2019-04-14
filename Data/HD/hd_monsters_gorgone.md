@@ -25,9 +25,250 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Gorgon](srd_monsters_gorgon.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Gorgone
+  Markdown: >+
+    # <!--Name-->Gorgone<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Gorgon](srd_monsters_gorgon.md)<!--/AltName-->
+
+    -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->20 (+5)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+    - **Compétence** <!--Skills-->[Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+    - **Langue** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->5 (1 800 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Charge écrasante._** Si la gorgone se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de coup de corne lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 16 pour ne pas être jetée [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), la gorgone peut effectuer contre elle une attaque de sabots par une action bonus.
+
+
+    ## Actions
+
+
+    **_Coup de corne._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 18 (2d12+5) dégâts perforants.
+
+
+    **_Sabots._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 16 (2d10+5) dégâts contondants.
+
+
+    **_Souffle pétrifiant (Recharge 5-6)._** La gorgone souffle un gaz pétrifiant dans un cône de 9 mètres.
+
+
+    Les créatures situées dans cette zone doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 13. En cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté, une cible commence à se transformer en pierre et elle est [entravée](hd_conditions_entrave.md). Une cible [entravée](hd_conditions_entrave.md) doit retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de son prochain tour. En cas de réussite, l'effet dont elle est victime prend fin. En cas d'échec, la cible est [pétrifiée](hd_conditions_petrifie.md) à moins qu'on ne la libère grâce à un sort de restauration supérieure ou une magie similaire.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Gorgon](srd_monsters_gorgon.md)'
+  Type: Créature monstrueuse
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 19 (armure naturelle)
+  HitPoints: 114 (12d10+48)
+  Speed: 12 m
+  Strength: 20 (+5)
+  Dexterity: 11 (+0)
+  Constitution: 18 (+4)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 12 (+1)
+  Charisma: ' 7 (-2)'
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  ConditionImmunities: '[pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: —
+  Challenge: 5 (1 800 PX)
 AttributesDictionary: >+
-  {}
+  Name: Gorgone
+
+  Markdown: >+
+
+    # <!--Name-->Gorgone<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Gorgon](srd_monsters_gorgon.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->20 (+5)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétence** <!--Skills-->[Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->5 (1 800 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Charge écrasante._** Si la gorgone se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de coup de corne lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 16 pour ne pas être jetée [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), la gorgone peut effectuer contre elle une attaque de sabots par une action bonus.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Coup de corne._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 18 (2d12+5) dégâts perforants.
+
+
+
+
+
+    **_Sabots._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 16 (2d10+5) dégâts contondants.
+
+
+
+
+
+    **_Souffle pétrifiant (Recharge 5-6)._** La gorgone souffle un gaz pétrifiant dans un cône de 9 mètres.
+
+
+
+
+
+    Les créatures situées dans cette zone doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 13. En cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté, une cible commence à se transformer en pierre et elle est [entravée](hd_conditions_entrave.md). Une cible [entravée](hd_conditions_entrave.md) doit retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de son prochain tour. En cas de réussite, l'effet dont elle est victime prend fin. En cas d'échec, la cible est [pétrifiée](hd_conditions_petrifie.md) à moins qu'on ne la libère grâce à un sort de restauration supérieure ou une magie similaire.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Gorgon](srd_monsters_gorgon.md)'
+
+  Type: Créature monstrueuse
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 19 (armure naturelle)
+
+  HitPoints: 114 (12d10+48)
+
+  Speed: 12 m
+
+  Strength: 20 (+5)
+
+  Dexterity: 11 (+0)
+
+  Constitution: 18 (+4)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 7 (-2)'
+
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+
+  ConditionImmunities: '[pétrifié](hd_conditions_petrifie.md)'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+
+  Languages: —
+
+  Challenge: 5 (1 800 PX)
 
 ---
 > [Créatures](hd_monsters.md)

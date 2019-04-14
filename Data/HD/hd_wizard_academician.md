@@ -8,9 +8,64 @@ RootId: wizard_academician_hd.md
 ParentLink: wizard_hd.md#traditions-arcaniques
 ParentName: Traditions arcaniques
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Traditions arcaniques](hd_wizard_traditions_arcaniques.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Traditions arcaniques](hd_wizard_traditions_arcaniques.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Académicien<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p169)<!--/Source-->
+
+
+    L'académicien a suivi le cursus classique d'étude, ce qui lui permet de se spécialiser très tôt dans l'une des huit écoles de magie – abjuration, divination, enchantement, évocation, illusion, invocation, nécromancie et transmutation – afin d'y exceller.
+
+  Name: Académicien
+  Source: (MDR p169)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Traditions arcaniques](hd_wizard_traditions_arcaniques.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Traditions arcaniques](hd_wizard_traditions_arcaniques.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Académicien<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p169)<!--/Source-->
+
+
+
+
+
+    L'académicien a suivi le cursus classique d'étude, ce qui lui permet de se spécialiser très tôt dans l'une des huit écoles de magie – abjuration, divination, enchantement, évocation, illusion, invocation, nécromancie et transmutation – afin d'y exceller.
+
+
+
+  Name: Académicien
+
+  Source: (MDR p169)
 
 ---
 >  [Traditions arcaniques](hd_wizard_traditions_arcaniques.md)

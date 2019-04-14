@@ -12,9 +12,81 @@ NameLevel: 2
 AltName: Lightfoot (SRD p5)
 Source: (MDR p52)
 Attributes:
+  Name: Halfelin pied-léger
+  Markdown: >+
+    ## <!--Name-->Halfelin pied-léger<!--/Name-->
+
+
+    - AltName: <!--AltName-->Lightfoot (SRD p5)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p52)<!--/Source-->
+
+
+    En tant que halfelin pied-léger, vous cacher est presque une seconde nature et vous n'hésitez pas à utiliser d'autres créatures pour échapper aux regards. Vous êtes d'un naturel plutôt affable et sympathique.
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.<!--/AbilityScoreIncrease-->
+
+
+    **<!--NaturallyStealthyKey-->Discrétion naturelle<!--/NaturallyStealthyKey-->.** <!--NaturallyStealthyValue-->Vous pouvez tenter de vous cacher même quand vous êtes seulement dissimulé par une créature qui fait une taille de plus que vous.<!--/NaturallyStealthyValue-->
+
+  AltName: Lightfoot (SRD p5)
+  Source: (MDR p52)
+  Description: >+
+    En tant que halfelin pied-léger, vous cacher est presque une seconde nature et vous n'hésitez pas à utiliser d'autres créatures pour échapper aux regards. Vous êtes d'un naturel plutôt affable et sympathique.
+
+  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.
   NaturallyStealthyKey: Discrétion naturelle
   NaturallyStealthyValue: Vous pouvez tenter de vous cacher même quand vous êtes seulement dissimulé par une créature qui fait une taille de plus que vous.
 AttributesDictionary: >+
+  Name: Halfelin pied-léger
+
+  Markdown: >+
+
+    ## <!--Name-->Halfelin pied-léger<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Lightfoot (SRD p5)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p52)<!--/Source-->
+
+
+
+
+
+    En tant que halfelin pied-léger, vous cacher est presque une seconde nature et vous n'hésitez pas à utiliser d'autres créatures pour échapper aux regards. Vous êtes d'un naturel plutôt affable et sympathique.
+
+
+
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.<!--/AbilityScoreIncrease-->
+
+
+
+
+
+    **<!--NaturallyStealthyKey-->Discrétion naturelle<!--/NaturallyStealthyKey-->.** <!--NaturallyStealthyValue-->Vous pouvez tenter de vous cacher même quand vous êtes seulement dissimulé par une créature qui fait une taille de plus que vous.<!--/NaturallyStealthyValue-->
+
+
+
+  AltName: Lightfoot (SRD p5)
+
+  Source: (MDR p52)
+
+  Description: >+
+
+    En tant que halfelin pied-léger, vous cacher est presque une seconde nature et vous n'hésitez pas à utiliser d'autres créatures pour échapper aux regards. Vous êtes d'un naturel plutôt affable et sympathique.
+
+
+
+  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.
+
   NaturallyStealthyKey: Discrétion naturelle
 
   NaturallyStealthyValue: Vous pouvez tenter de vous cacher même quand vous êtes seulement dissimulé par une créature qui fait une taille de plus que vous.

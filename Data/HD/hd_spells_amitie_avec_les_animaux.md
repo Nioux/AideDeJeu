@@ -15,9 +15,145 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Animal Friendship](srd_spells_animal_friendship.md)'
 Source: (MDR p321)(SRD)
-Attributes: {}
+Attributes:
+  Name: Amitié avec les animaux
+  Markdown: >+
+    # <!--Name-->Amitié avec les animaux<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Animal Friendship](srd_spells_animal_friendship.md)<!--/AltName-->
+
+
+    -  <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->9 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (un peu de nourriture)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->24 heures<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p321)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. Choisissez une bête située dans votre champ de vision et à portée. Elle doit vous voir et vous entendre. Le sort échoue si elle possède une [Intelligence](hd_abilities_intelligence.md) de 4 ou plus. Dans le cas contraire, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) ou être [charmée](hd_conditions_charme.md) par vous pendant toute la durée du sort. Le sort se termine si vous ou l'un de vos camarades blessez la cible.
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une bête supplémentaire par niveau au-delà du niveau 1.
+
+  AltName: '[Animal Friendship](srd_spells_animal_friendship.md)'
+  Type: Enchantement
+  Level: 1
+  CastingTime: 1 action
+  Range: 9 mètres
+  Components: V, S, M (un peu de nourriture)
+  Duration: 24 heures
+  Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+  Source: (MDR p321)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Amitié avec les animaux
+
+  Markdown: >+
+
+    # <!--Name-->Amitié avec les animaux<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Animal Friendship](srd_spells_animal_friendship.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->9 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (un peu de nourriture)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->24 heures<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p321)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. Choisissez une bête située dans votre champ de vision et à portée. Elle doit vous voir et vous entendre. Le sort échoue si elle possède une [Intelligence](hd_abilities_intelligence.md) de 4 ou plus. Dans le cas contraire, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) ou être [charmée](hd_conditions_charme.md) par vous pendant toute la durée du sort. Le sort se termine si vous ou l'un de vos camarades blessez la cible.
+
+
+
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une bête supplémentaire par niveau au-delà du niveau 1.
+
+
+
+  AltName: '[Animal Friendship](srd_spells_animal_friendship.md)'
+
+  Type: Enchantement
+
+  Level: 1
+
+  CastingTime: 1 action
+
+  Range: 9 mètres
+
+  Components: V, S, M (un peu de nourriture)
+
+  Duration: 24 heures
+
+  Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+
+  Source: (MDR p321)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

@@ -10,9 +10,67 @@ ParentLink: wizard_hd.md#magicien
 Name: Maîtrises
 ParentName: Magicien
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Maîtrises
+  Markdown: >+
+    ## <!--Name-->Maîtrises<!--/Name-->
+
+
+    **Armures :** <!--Armor-->aucune<!--/Armor-->
+
+    **Armes :** <!--Weapons-->[dagues], [fléchettes], [frondes], [bâtons], [arbalètes légères]<!--/Weapons-->
+
+    **Outils :** <!--Tools-->aucun<!--/Tools-->
+
+    **Jets de sauvegarde :** <!--SavingThrows-->[Intelligence](hd_abilities_intelligence.md), [Sagesse](hd_abilities_wisdom.md)<!--/SavingThrows-->
+
+    **Compétences :** <!--Skills-->choisissez deux compétences parmi [Arcanes](hd_abilities_intelligence_arcanes.md), [Histoire](hd_abilities_intelligence_histoire.md), [Investigation](hd_abilities_intelligence_investigation.md), [Médecine](hd_abilities_wisdom_medecine.md), [Perspicacité](hd_abilities_wisdom_perspicacite.md) et [Religion](hd_abilities_intelligence_religion.md)<!--/Skills-->
+
+  Armor: aucune
+  Weapons: '[dagues], [fléchettes], [frondes], [bâtons], [arbalètes légères]'
+  Tools: aucun
+  SavingThrows: '[Intelligence](hd_abilities_intelligence.md), [Sagesse](hd_abilities_wisdom.md)'
+  Skills: choisissez deux compétences parmi [Arcanes](hd_abilities_intelligence_arcanes.md), [Histoire](hd_abilities_intelligence_histoire.md), [Investigation](hd_abilities_intelligence_investigation.md), [Médecine](hd_abilities_wisdom_medecine.md), [Perspicacité](hd_abilities_wisdom_perspicacite.md) et [Religion](hd_abilities_intelligence_religion.md)
 AttributesDictionary: >+
-  {}
+  Name: Maîtrises
+
+  Markdown: >+
+
+    ## <!--Name-->Maîtrises<!--/Name-->
+
+
+
+
+
+    **Armures :** <!--Armor-->aucune<!--/Armor-->
+
+
+
+    **Armes :** <!--Weapons-->[dagues], [fléchettes], [frondes], [bâtons], [arbalètes légères]<!--/Weapons-->
+
+
+
+    **Outils :** <!--Tools-->aucun<!--/Tools-->
+
+
+
+    **Jets de sauvegarde :** <!--SavingThrows-->[Intelligence](hd_abilities_intelligence.md), [Sagesse](hd_abilities_wisdom.md)<!--/SavingThrows-->
+
+
+
+    **Compétences :** <!--Skills-->choisissez deux compétences parmi [Arcanes](hd_abilities_intelligence_arcanes.md), [Histoire](hd_abilities_intelligence_histoire.md), [Investigation](hd_abilities_intelligence_investigation.md), [Médecine](hd_abilities_wisdom_medecine.md), [Perspicacité](hd_abilities_wisdom_perspicacite.md) et [Religion](hd_abilities_intelligence_religion.md)<!--/Skills-->
+
+
+
+  Armor: aucune
+
+  Weapons: '[dagues], [fléchettes], [frondes], [bâtons], [arbalètes légères]'
+
+  Tools: aucun
+
+  SavingThrows: '[Intelligence](hd_abilities_intelligence.md), [Sagesse](hd_abilities_wisdom.md)'
+
+  Skills: choisissez deux compétences parmi [Arcanes](hd_abilities_intelligence_arcanes.md), [Histoire](hd_abilities_intelligence_histoire.md), [Investigation](hd_abilities_intelligence_investigation.md), [Médecine](hd_abilities_wisdom_medecine.md), [Perspicacité](hd_abilities_wisdom_perspicacite.md) et [Religion](hd_abilities_intelligence_religion.md)
 
 ---
 > [Magicien](hd_wizard.md)

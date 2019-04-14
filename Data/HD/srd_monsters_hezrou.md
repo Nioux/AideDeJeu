@@ -26,9 +26,259 @@ Name: Hezrou
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Hezrou](hd_monsters_hezrou.md)'
-Attributes: {}
+Attributes:
+  Name: Hezrou
+  Markdown: >+
+    # <!--Name-->Hezrou<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Hezrou](hd_monsters_hezrou.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->136 (13d10 + 65)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Str +7, Con +8, Wis +4<!--/SavingThrows-->
+
+    - **Senses** <!--Senses-->darkvision 120 ft., passive Perception 11<!--/Senses-->
+
+    - **Languages** <!--Languages-->Abyssal, telepathy 120 ft.<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->8 (3900 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+    - **Damage Resistances** <!--DamageResistances-->cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Magic Resistance_**. The hezrou has advantage on saving throws against spells and other magical effects.
+
+
+    **_Stench_**. Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The hezrou makes three attacks: one with its bite and two with its claws.
+
+
+    **_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 15 (2d10 + 4) piercing damage.
+
+
+    **_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 11 (2d6 + 4) slashing damage.
+
+  AltName: '[Hezrou](hd_monsters_hezrou.md)'
+  Size: Large
+  Type: fiend (demon)
+  Alignment: chaotic evil
+  ArmorClass: 16 (natural armor)
+  HitPoints: 136 (13d10 + 65)
+  Speed: 30 ft.
+  Strength: 19 (+4)
+  Dexterity: 17 (+3)
+  Constitution: 20 (+5)
+  Intelligence: ' 5 (-3)'
+  Wisdom: 12 (+1)
+  Charisma: 13 (+1)
+  SavingThrows: Str +7, Con +8, Wis +4
+  Senses: darkvision 120 ft., passive Perception 11
+  Languages: Abyssal, telepathy 120 ft.
+  Challenge: 8 (3900 XP)
+  DamageImmunities: poison
+  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+  ConditionImmunities: poisoned
 AttributesDictionary: >+
-  {}
+  Name: Hezrou
+
+  Markdown: >+
+
+    # <!--Name-->Hezrou<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Hezrou](hd_monsters_hezrou.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->136 (13d10 + 65)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Str +7, Con +8, Wis +4<!--/SavingThrows-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 120 ft., passive Perception 11<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Abyssal, telepathy 120 ft.<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->8 (3900 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Magic Resistance_**. The hezrou has advantage on saving throws against spells and other magical effects.
+
+
+
+
+
+    **_Stench_**. Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The hezrou makes three attacks: one with its bite and two with its claws.
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 15 (2d10 + 4) piercing damage.
+
+
+
+
+
+    **_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 11 (2d6 + 4) slashing damage.
+
+
+
+  AltName: '[Hezrou](hd_monsters_hezrou.md)'
+
+  Size: Large
+
+  Type: fiend (demon)
+
+  Alignment: chaotic evil
+
+  ArmorClass: 16 (natural armor)
+
+  HitPoints: 136 (13d10 + 65)
+
+  Speed: 30 ft.
+
+  Strength: 19 (+4)
+
+  Dexterity: 17 (+3)
+
+  Constitution: 20 (+5)
+
+  Intelligence: ' 5 (-3)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: 13 (+1)
+
+  SavingThrows: Str +7, Con +8, Wis +4
+
+  Senses: darkvision 120 ft., passive Perception 11
+
+  Languages: Abyssal, telepathy 120 ft.
+
+  Challenge: 8 (3900 XP)
+
+  DamageImmunities: poison
+
+  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+
+  ConditionImmunities: poisoned
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

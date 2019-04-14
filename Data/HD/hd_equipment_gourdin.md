@@ -11,9 +11,76 @@ ParentLink: equipment_hd.md#Équipement
 Name: Gourdin
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Gourdin
+  Markdown: >+
+    # <!--Name-->Gourdin<!--/Name-->
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+    - **Rareté** <!--Rarity-->Courante<!--/Rarity-->
+
+    - **Prix** <!--Price-->1 pa<!--/Price-->
+
+    - **Dégâts** <!--Damages-->1d4 contondant<!--/Damages-->
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+    - **Propriétés** <!--Properties-->[Légère](hd_weapons_legere.md)<!--/Properties-->
+
+  Type: Arme de corps-à-corps
+  Rarity: Courante
+  Price: 1 pa
+  Damages: 1d4 contondant
+  Weight: 1 kg
+  Properties: '[Légère](hd_weapons_legere.md)'
 AttributesDictionary: >+
-  {}
+  Name: Gourdin
+
+  Markdown: >+
+
+    # <!--Name-->Gourdin<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+
+
+    - **Rareté** <!--Rarity-->Courante<!--/Rarity-->
+
+
+
+    - **Prix** <!--Price-->1 pa<!--/Price-->
+
+
+
+    - **Dégâts** <!--Damages-->1d4 contondant<!--/Damages-->
+
+
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+
+
+    - **Propriétés** <!--Properties-->[Légère](hd_weapons_legere.md)<!--/Properties-->
+
+
+
+  Type: Arme de corps-à-corps
+
+  Rarity: Courante
+
+  Price: 1 pa
+
+  Damages: 1d4 contondant
+
+  Weight: 1 kg
+
+  Properties: '[Légère](hd_weapons_legere.md)'
 
 ---
 > [Équipement](hd_equipment.md)

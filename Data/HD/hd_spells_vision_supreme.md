@@ -15,9 +15,145 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[True Seeing](srd_spells_true_seeing.md)'
 Source: (MDR p)(SRD)
-Attributes: {}
+Attributes:
+  Name: Vision suprême
+  Markdown: >+
+    # <!--Name-->Vision suprême<!--/Name-->
+
+
+    - SRD: <!--AltName-->[True Seeing](srd_spells_true_seeing.md)<!--/AltName-->
+
+
+    -  <!--Type-->Divination<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->1 heure<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Grâce à ce sort, la créature consentante que vous touchez est capable de voir les choses telles qu'elles sont réellement.
+
+
+    Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repère les portes dérobées cachées par magie et voit le plan éthéré, tout cela dans un rayon de 36 mètres.
+
+  AltName: '[True Seeing](srd_spells_true_seeing.md)'
+  Type: Divination
+  Level: 6
+  CastingTime: 1 action
+  Range: contact
+  Components: V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
+  Duration: 1 heure
+  Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+  Source: (MDR p)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Vision suprême
+
+  Markdown: >+
+
+    # <!--Name-->Vision suprême<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[True Seeing](srd_spells_true_seeing.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Divination<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->contact<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->1 heure<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Grâce à ce sort, la créature consentante que vous touchez est capable de voir les choses telles qu'elles sont réellement.
+
+
+
+
+
+    Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repère les portes dérobées cachées par magie et voit le plan éthéré, tout cela dans un rayon de 36 mètres.
+
+
+
+  AltName: '[True Seeing](srd_spells_true_seeing.md)'
+
+  Type: Divination
+
+  Level: 6
+
+  CastingTime: 1 action
+
+  Range: contact
+
+  Components: V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
+
+  Duration: 1 heure
+
+  Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+
+  Source: (MDR p)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

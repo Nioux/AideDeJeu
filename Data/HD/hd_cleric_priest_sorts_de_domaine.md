@@ -1,13 +1,50 @@
 ﻿---
 !GenericItem
-Name: Sorts de domaine
 Id: cleric_priest_hd.md#sorts-de-domaine
 ParentLink: cleric_priest_hd.md#prêtre
+Name: Sorts de domaine
 ParentName: Prêtre
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Sorts de domaine
+  Markdown: >+
+    ## <!--Name-->Sorts de domaine<!--/Name-->
+
+
+    Vous obtenez des sorts spécifiques à la divinité que vous priez aux niveaux indiqués dans les tableaux ci-dessous, selon les domaines. Il est très fréquent qu'une religion englobe deux domaines divins, comme par exemple guerre et tonnerre, mort et temps ou encore connaissance et lumière. Dans ce cas, à chaque niveau indiqué, vous apprenez les nouveaux sorts de chacun des deux domaines auxquels vous avez accès, généralement deux sorts de même niveau.
+
+
+    Si votre divinité ne vous accorde qu'un seul domaine, vous obtenez en échange une canalisation d'énergie divine supplémentaire au niveau 4 (pour un total de deux) puis une autre au niveau 8 (pour un total de quatre).
+
+
+    Vous pouvez donc utiliser votre canalisation d'énergie divine cinq fois lorsque vous atteignez le niveau 18.
+
 AttributesDictionary: >+
-  {}
+  Name: Sorts de domaine
+
+  Markdown: >+
+
+    ## <!--Name-->Sorts de domaine<!--/Name-->
+
+
+
+
+
+    Vous obtenez des sorts spécifiques à la divinité que vous priez aux niveaux indiqués dans les tableaux ci-dessous, selon les domaines. Il est très fréquent qu'une religion englobe deux domaines divins, comme par exemple guerre et tonnerre, mort et temps ou encore connaissance et lumière. Dans ce cas, à chaque niveau indiqué, vous apprenez les nouveaux sorts de chacun des deux domaines auxquels vous avez accès, généralement deux sorts de même niveau.
+
+
+
+
+
+    Si votre divinité ne vous accorde qu'un seul domaine, vous obtenez en échange une canalisation d'énergie divine supplémentaire au niveau 4 (pour un total de deux) puis une autre au niveau 8 (pour un total de quatre).
+
+
+
+
+
+    Vous pouvez donc utiliser votre canalisation d'énergie divine cinq fois lorsque vous atteignez le niveau 18.
+
+
 
 ---
 > [Prêtre](hd_cleric_priest.md)

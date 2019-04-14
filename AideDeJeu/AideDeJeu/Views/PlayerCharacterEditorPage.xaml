@@ -24,20 +24,40 @@
             <StackLayout>
                 <views:ItemPickerView BindingContext="{Binding}" Title="Race" ItemsSource="{Binding Races.Result}" SelectedItem="{Binding SelectedRace, Mode=TwoWay}" />
                 <!--<Picker Title="Race" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" ItemsSource="{Binding Races.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}" />-->
-                
+
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Augmentation de caractéristiques" IsVisible="{Binding SelectedRace.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.AbilityScoreIncrease}" IsVisible="{Binding SelectedRace.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Âge" IsVisible="{Binding SelectedRace.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Age}" IsVisible="{Binding SelectedRace.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Alignement" IsVisible="{Binding SelectedRace.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Alignment}" IsVisible="{Binding SelectedRace.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Taille" IsVisible="{Binding SelectedRace.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Size}" IsVisible="{Binding SelectedRace.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vitesse" IsVisible="{Binding SelectedRace.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Speed}" IsVisible="{Binding SelectedRace.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vision dans le noir" IsVisible="{Binding SelectedRace.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Darkvision}" IsVisible="{Binding SelectedRace.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+
                 <StackLayout BindableLayout.ItemsSource="{Binding SelectedRace.AttributesKeyValue}">
                     <BindableLayout.ItemTemplate>
                         <DataTemplate>
-                            <StackLayout Orientation="Horizontal">
-                                <Label Text="{Binding Key}" />
-                                <Label Text="{Binding Value.Key}" />
-                                <Label Text="{Binding Value.Value}" />
+                            <StackLayout>
+                                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Value.Key, StringFormat='#### {0}'}" />
+                                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Value.Value}" />
                             </StackLayout>
                         </DataTemplate>
                     </BindableLayout.ItemTemplate>
                 </StackLayout>
 
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Markdown}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Langues" IsVisible="{Binding SelectedRace.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Languages}" IsVisible="{Binding SelectedRace.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Markdown}" />-->
             </StackLayout>
         </ScrollView>
     </ContentPage>

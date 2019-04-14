@@ -7,9 +7,31 @@ ParentLink: races_hd.md#races
 Name: Humain
 ParentName: Races
 AltName: '[Human](#)'
-Attributes: {}
+Attributes:
+  NameLink: '[Humain](hd_human.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Humain](hd_human.md)<!--/NameLink-->
+
+
+    - SRD: <!--AltName-->[Human](#)<!--/AltName-->
+
+  AltName: '[Human](#)'
 AttributesDictionary: >+
-  {}
+  NameLink: '[Humain](hd_human.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Humain](hd_human.md)<!--/NameLink-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Human](#)<!--/AltName-->
+
+
+
+  AltName: '[Human](#)'
 
 ---
 

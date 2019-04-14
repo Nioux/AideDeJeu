@@ -8,9 +8,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Palan
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Palan
+  Markdown: >+
+    # <!--Name-->Palan<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->1 po<!--/Price-->
+
+    - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
+
+
+    Un palan est un système de poulies avec un câble et un crochet qui vous permet de soulever jusqu'à quatre fois le poids que vous pouvez normalement porter.
+
+  Type: Équipement d'aventurier
+  Price: 1 po
+  Weight: 2,5 kg
 AttributesDictionary: >+
-  {}
+  Name: Palan
+
+  Markdown: >+
+
+    # <!--Name-->Palan<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->1 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
+
+
+
+
+
+    Un palan est un système de poulies avec un câble et un crochet qui vous permet de soulever jusqu'à quatre fois le poids que vous pouvez normalement porter.
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 1 po
+
+  Weight: 2,5 kg
 
 ---
 > [Équipement](hd_equipment.md)

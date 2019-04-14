@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Clous de girofle
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Clous de girofle
+  Markdown: >+
+    # <!--Name-->Clous de girofle<!--/Name-->
+
+
+    - **Type** <!--Type-->Marchandise<!--/Type-->
+
+    - **Prix** <!--Price-->3 po<!--/Price-->
+
+    - **Unité** <!--Unity-->1 livre<!--/Unity-->
+
+  Type: Marchandise
+  Price: 3 po
+  Unity: 1 livre
 AttributesDictionary: >+
-  {}
+  Name: Clous de girofle
+
+  Markdown: >+
+
+    # <!--Name-->Clous de girofle<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Marchandise<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->3 po<!--/Price-->
+
+
+
+    - **Unité** <!--Unity-->1 livre<!--/Unity-->
+
+
+
+  Type: Marchandise
+
+  Price: 3 po
+
+  Unity: 1 livre
 
 ---
 > [Équipement](hd_equipment.md)

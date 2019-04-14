@@ -23,9 +23,214 @@ Name: Orc
 ParentName: Créatures
 NameLevel: 1
 Source: (CEO p)
-Attributes: {}
+Attributes:
+  Name: Orc
+  Markdown: >+
+    # <!--Name-->Orc<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)<!--/Source-->
+
+    -  <!--Type-->Humanoïde (orc)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure de peau)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->15 (2d8+6)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 7 (-2)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Intimidation](hd_abilities_charisma_intimidation.md) +2<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->commun, orc<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Agressif._** Par une action bonus, l'orc peut se déplacer d'une distance maximale égale à sa vitesse vers une créature hostile dans son champ de vision.
+
+
+    ## Actions
+
+
+    **_Hache à deux mains._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 9 (1d12+3) dégâts tranchants.
+
+
+    **_Javeline._** Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.
+
+
+    _Touché :_ 6 (1d6+3) dégâts perforants.
+
+  Source: (CEO p)
+  Type: Humanoïde (orc)
+  Size: M
+  Alignment: Chaotique Mauvais
+  ArmorClass: 13 (armure de peau)
+  HitPoints: 15 (2d8+6)
+  Speed: 9 m
+  Strength: 16 (+3)
+  Dexterity: 12 (+1)
+  Constitution: 16 (+3)
+  Intelligence: ' 7 (-2)'
+  Wisdom: 11 (+0)
+  Charisma: 10 (+0)
+  Skills: '[Intimidation](hd_abilities_charisma_intimidation.md) +2'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun, orc
+  Challenge: 1/2 (100 PX)
 AttributesDictionary: >+
-  {}
+  Name: Orc
+
+  Markdown: >+
+
+    # <!--Name-->Orc<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)<!--/Source-->
+
+
+
+    -  <!--Type-->Humanoïde (orc)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure de peau)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->15 (2d8+6)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 7 (-2)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Intimidation](hd_abilities_charisma_intimidation.md) +2<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->commun, orc<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Agressif._** Par une action bonus, l'orc peut se déplacer d'une distance maximale égale à sa vitesse vers une créature hostile dans son champ de vision.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Hache à deux mains._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 9 (1d12+3) dégâts tranchants.
+
+
+
+
+
+    **_Javeline._** Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.
+
+
+
+
+
+    _Touché :_ 6 (1d6+3) dégâts perforants.
+
+
+
+  Source: (CEO p)
+
+  Type: Humanoïde (orc)
+
+  Size: M
+
+  Alignment: Chaotique Mauvais
+
+  ArmorClass: 13 (armure de peau)
+
+  HitPoints: 15 (2d8+6)
+
+  Speed: 9 m
+
+  Strength: 16 (+3)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 16 (+3)
+
+  Intelligence: ' 7 (-2)'
+
+  Wisdom: 11 (+0)
+
+  Charisma: 10 (+0)
+
+  Skills: '[Intimidation](hd_abilities_charisma_intimidation.md) +2'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+
+  Languages: commun, orc
+
+  Challenge: 1/2 (100 PX)
 
 ---
 > [Créatures](hd_monsters.md)

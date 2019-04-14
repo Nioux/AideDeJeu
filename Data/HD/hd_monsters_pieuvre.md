@@ -24,9 +24,232 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Octopus](srd_monsters_octopus.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Pieuvre
+  Markdown: >+
+    # <!--Name-->Pieuvre<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Octopus](srd_monsters_octopus.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->1,50 m, nage 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 4 (-3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 4 (-3)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->0 (10 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Camouflage sous l'eau._** La pieuvre obtient un avantage lors des tests de [Dextérité (Discrétion)](hd_abilities_dexterity_discretion.md) effectués sous l'eau.
+
+
+    **_Respiration aquatique._** La pieuvre peut respirer uniquement sous l'eau.
+
+
+    **_Retenir son souffle._** La pieuvre peut retenir son souffle pendant 30 minutes lorsqu'elle n'est plus dans l'eau.
+
+
+    ## Actions
+
+
+    **_Nuage d'encre (Recharge après un repos court ou long)._** Lorsqu'elle est sous l'eau, la pieuvre répand un nuage d'encre sur un rayon de 1,50 mètre autour d'elle. La visibilité dans la zone est fortement obstruée pendant 1 minute mais un courant significatif peut disperser l'encre. Après avoir répandu son nuage, la pieuvre peut effectuer l'action Se précipiter par une action bonus.
+
+
+    **_Tentacules._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 1 dégât contondant et la cible est [empoignée](hd_conditions_empoigne.md) (évasion DD 10). Jusqu'au terme de cette empoignade, la cible est [entravée](hd_conditions_entrave.md) et la pieuvre ne peut pas utiliser ses tentacules sur une autre cible.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Octopus](srd_monsters_octopus.md)'
+  Type: Bête
+  Size: P
+  Alignment: non-alignée
+  ArmorClass: 12
+  HitPoints: 3 (1d6)
+  Speed: 1,50 m, nage 9 m
+  Strength: ' 4 (-3)'
+  Dexterity: 15 (+2)
+  Constitution: 11 (+0)
+  Intelligence: ' 3 (-4)'
+  Wisdom: 10 (+0)
+  Charisma: ' 4 (-3)'
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: —
+  Challenge: 0 (10 PX)
 AttributesDictionary: >+
-  {}
+  Name: Pieuvre
+
+  Markdown: >+
+
+    # <!--Name-->Pieuvre<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Octopus](srd_monsters_octopus.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->1,50 m, nage 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 4 (-3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 4 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->0 (10 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Camouflage sous l'eau._** La pieuvre obtient un avantage lors des tests de [Dextérité (Discrétion)](hd_abilities_dexterity_discretion.md) effectués sous l'eau.
+
+
+
+
+
+    **_Respiration aquatique._** La pieuvre peut respirer uniquement sous l'eau.
+
+
+
+
+
+    **_Retenir son souffle._** La pieuvre peut retenir son souffle pendant 30 minutes lorsqu'elle n'est plus dans l'eau.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Nuage d'encre (Recharge après un repos court ou long)._** Lorsqu'elle est sous l'eau, la pieuvre répand un nuage d'encre sur un rayon de 1,50 mètre autour d'elle. La visibilité dans la zone est fortement obstruée pendant 1 minute mais un courant significatif peut disperser l'encre. Après avoir répandu son nuage, la pieuvre peut effectuer l'action Se précipiter par une action bonus.
+
+
+
+
+
+    **_Tentacules._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 1 dégât contondant et la cible est [empoignée](hd_conditions_empoigne.md) (évasion DD 10). Jusqu'au terme de cette empoignade, la cible est [entravée](hd_conditions_entrave.md) et la pieuvre ne peut pas utiliser ses tentacules sur une autre cible.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Octopus](srd_monsters_octopus.md)'
+
+  Type: Bête
+
+  Size: P
+
+  Alignment: non-alignée
+
+  ArmorClass: 12
+
+  HitPoints: 3 (1d6)
+
+  Speed: 1,50 m, nage 9 m
+
+  Strength: ' 4 (-3)'
+
+  Dexterity: 15 (+2)
+
+  Constitution: 11 (+0)
+
+  Intelligence: ' 3 (-4)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 4 (-3)'
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2'
+
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+
+  Languages: —
+
+  Challenge: 0 (10 PX)
 
 ---
 > [Créatures](hd_monsters.md)

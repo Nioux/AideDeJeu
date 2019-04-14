@@ -1,14 +1,123 @@
 ﻿---
 !GenericItem
-Name: Blessures sérieuses
-Source: (L5R p45)
 Id: l5r_hitpoints_hd.md#blessures-sérieuses
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
+Name: Blessures sérieuses
 ParentName: Points de vie et blessures
 NameLevel: 4
-Attributes: {}
+Source: (L5R p45)
+Attributes:
+  Name: Blessures sérieuses
+  Markdown: >+
+    #### <!--Name-->Blessures sérieuses<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p45)<!--/Source-->
+
+
+    |1d12|Blessure sérieuse|Technique|
+
+    |---|---|---|
+
+    |1|Commotion sévère|Désavantage sur tous les tests de Sagesse et d'Intelligence|
+
+    |2|Bras cassé|Désavantage sur tous les tests de Force, impossibilité de porter une seconde arme ou <!--br-->un bouclier.|
+
+    |3|Éventration|Désavantage sur tous les tests de Constitution et les jets de sauvegarde de <!--br-->Constitution. Les ennemis ont l'avantage lorsqu'ils attaquent le personnage.|
+
+    |4|Jambe fracturée|Désavantage sur tous les tests de Dextérité et les jets de sauvegarde de Dextérité.|
+
+    |5|Épaule brisée|Désavantage sur tous les tests de Force, impossibilité de rajouter son bonus de Force <!--br-->aux dégâts.|
+
+    |6|Main broyée|Désavantage sur tous les tests d'attaque impliquant la Dextérité, impossibilité de <!--br-->rajouter son bonus de caractéristique aux dégâts.|
+
+    |7|Côtes cassées|Désavantage sur tous les tests de Constitution et de Dextérité.|
+
+    |8|OEil balafré|Désavantage aux tests d'attaque et aux tests de Sagesse (Perception), ainsi qu'aux <!--br-->tests de Charisme (sauf Charisme (Intimidation)).|
+
+    |9|Hanche éclatée|Désavantage sur tous les tests de Dextérité et Force|
+
+    |10|Torse tailladé|Désavantage sur tous les tests de Dextérité et sur les jets de sauvegarde de <!--br-->Constitution.|
+
+    |11|Mâchoire brisée|Désavantage sur tous les tests de Charisme.|
+
+    |12|Pied transpercé|Désavantage sur tous les tests de Dextérité et les adversaires ont l'avantage sur leurs <!--br-->tests d'attaque.|
+
+  Source: (L5R p45)
 AttributesDictionary: >+
-  {}
+  Name: Blessures sérieuses
+
+  Markdown: >+
+
+    #### <!--Name-->Blessures sérieuses<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p45)<!--/Source-->
+
+
+
+
+
+    |1d12|Blessure sérieuse|Technique|
+
+
+
+    |---|---|---|
+
+
+
+    |1|Commotion sévère|Désavantage sur tous les tests de Sagesse et d'Intelligence|
+
+
+
+    |2|Bras cassé|Désavantage sur tous les tests de Force, impossibilité de porter une seconde arme ou <!--br-->un bouclier.|
+
+
+
+    |3|Éventration|Désavantage sur tous les tests de Constitution et les jets de sauvegarde de <!--br-->Constitution. Les ennemis ont l'avantage lorsqu'ils attaquent le personnage.|
+
+
+
+    |4|Jambe fracturée|Désavantage sur tous les tests de Dextérité et les jets de sauvegarde de Dextérité.|
+
+
+
+    |5|Épaule brisée|Désavantage sur tous les tests de Force, impossibilité de rajouter son bonus de Force <!--br-->aux dégâts.|
+
+
+
+    |6|Main broyée|Désavantage sur tous les tests d'attaque impliquant la Dextérité, impossibilité de <!--br-->rajouter son bonus de caractéristique aux dégâts.|
+
+
+
+    |7|Côtes cassées|Désavantage sur tous les tests de Constitution et de Dextérité.|
+
+
+
+    |8|OEil balafré|Désavantage aux tests d'attaque et aux tests de Sagesse (Perception), ainsi qu'aux <!--br-->tests de Charisme (sauf Charisme (Intimidation)).|
+
+
+
+    |9|Hanche éclatée|Désavantage sur tous les tests de Dextérité et Force|
+
+
+
+    |10|Torse tailladé|Désavantage sur tous les tests de Dextérité et sur les jets de sauvegarde de <!--br-->Constitution.|
+
+
+
+    |11|Mâchoire brisée|Désavantage sur tous les tests de Charisme.|
+
+
+
+    |12|Pied transpercé|Désavantage sur tous les tests de Dextérité et les adversaires ont l'avantage sur leurs <!--br-->tests d'attaque.|
+
+
+
+  Source: (L5R p45)
 
 ---
 > [Points de vie et blessures](hd_l5r_hitpoints.md)

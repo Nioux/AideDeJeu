@@ -24,9 +24,286 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Cube gélatineux
+  Markdown: >+
+    # <!--Name-->Cube gélatineux<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Gelatinous Cube](srd_monsters_gelatinous_cube.md)<!--/AltName-->
+
+    -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->6<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->84 (8d10+40)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->4,50 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity--> 3 (-4)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 6 (-2)<!--/Wisdom-->|<!--Charisma--> 1 (-5)<!--/Charisma-->|
+
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Cube de vase._** Le cube remplit entièrement l'emplacement qu'il occupe. D'autres créatures peuvent entrer dans cet emplacement, mais une créature qui le fait est victime de l'Enveloppement du cube et elle subit un désavantage lors du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md).
+
+
+    Les créatures à l'intérieur du cube sont toujours visibles, mais elles bénéficient d'un abri total.
+
+
+    Une créature située à 1,50 mètre ou moins du cube peut effectuer une action pour extraire une créature ou un objet à l'intérieur du cube. Cette action nécessite la réussite d'un test de [Force](hd_abilities_strength.md) DD 12 et la créature qui la tente subit 10 (3d6) points de dégâts d'acide.
+
+
+    Le cube ne peut contenir en même temps qu'une seule créature de taille G ou jusqu'à quatre créatures de taille M ou plus petites.
+
+
+    **_Transparent._** Même quand le cube est à la vue de tous, il faut réussir un test de [Sagesse](hd_abilities_wisdom.md) (Perception) DD 15 pour le repérer, à condition qu'il n'attaque pas ni ne se déplace. Une créature qui tente d'entrer dans l'emplacement qu'il occupe sans être consciente de sa présence est surprise par le cube.
+
+
+    ## Actions
+
+
+    **_Enveloppement._** Le cube se déplace d'une distance maximale égale à sa vitesse. Pendant ce déplacement, il peut entrer dans les emplacements occupés par des créatures de taille G ou plus petites.
+
+
+    Chaque fois que le cube entre dans l'emplacement d'une créature, celle-ci doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 12.
+
+
+    En cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) réussi, la créature peut décider qu'elle est repoussée de 1,50 mètre vers l'arrière ou sur le côté du cube. Une créature qui décide de rester subit les conséquences d'un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté.
+
+
+    En cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté, le cube entre dans l'emplacement de la créature ; elle subit 10 (3d6) dégâts d'acide et elle est enveloppée. La créature enveloppée ne peut plus respirer, elle est [entravée](hd_conditions_entrave.md) et subit 21 (6d6) dégâts d'acide au début de chacun des tours du cube. Quand le cube se déplace, la créature enveloppée se déplace avec lui.
+
+
+    Une créature enveloppée peut tenter de s'échapper en faisant une action pour effectuer un test de [Force](hd_abilities_strength.md) DD 12. En cas de réussite, la créature s'échappe et entre dans un emplacement de son choix situé à 1,50 mètre du cube.
+
+
+    **_Pseudopode._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+
+    _Touché :_ 10 (3d6) dégâts d'acide.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
+  Type: Vase
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 6
+  HitPoints: 84 (8d10+40)
+  Speed: 4,50 m
+  Strength: 14 (+2)
+  Dexterity: ' 3 (-4)'
+  Constitution: 20 (+5)
+  Intelligence: ' 1 (-5)'
+  Wisdom: ' 6 (-2)'
+  Charisma: ' 1 (-5)'
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 2 (450 PX)
 AttributesDictionary: >+
-  {}
+  Name: Cube gélatineux
+
+  Markdown: >+
+
+    # <!--Name-->Cube gélatineux<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Gelatinous Cube](srd_monsters_gelatinous_cube.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->6<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->84 (8d10+40)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->4,50 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity--> 3 (-4)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 6 (-2)<!--/Wisdom-->|<!--Charisma--> 1 (-5)<!--/Charisma-->|
+
+
+
+
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Cube de vase._** Le cube remplit entièrement l'emplacement qu'il occupe. D'autres créatures peuvent entrer dans cet emplacement, mais une créature qui le fait est victime de l'Enveloppement du cube et elle subit un désavantage lors du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md).
+
+
+
+
+
+    Les créatures à l'intérieur du cube sont toujours visibles, mais elles bénéficient d'un abri total.
+
+
+
+
+
+    Une créature située à 1,50 mètre ou moins du cube peut effectuer une action pour extraire une créature ou un objet à l'intérieur du cube. Cette action nécessite la réussite d'un test de [Force](hd_abilities_strength.md) DD 12 et la créature qui la tente subit 10 (3d6) points de dégâts d'acide.
+
+
+
+
+
+    Le cube ne peut contenir en même temps qu'une seule créature de taille G ou jusqu'à quatre créatures de taille M ou plus petites.
+
+
+
+
+
+    **_Transparent._** Même quand le cube est à la vue de tous, il faut réussir un test de [Sagesse](hd_abilities_wisdom.md) (Perception) DD 15 pour le repérer, à condition qu'il n'attaque pas ni ne se déplace. Une créature qui tente d'entrer dans l'emplacement qu'il occupe sans être consciente de sa présence est surprise par le cube.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Enveloppement._** Le cube se déplace d'une distance maximale égale à sa vitesse. Pendant ce déplacement, il peut entrer dans les emplacements occupés par des créatures de taille G ou plus petites.
+
+
+
+
+
+    Chaque fois que le cube entre dans l'emplacement d'une créature, celle-ci doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 12.
+
+
+
+
+
+    En cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) réussi, la créature peut décider qu'elle est repoussée de 1,50 mètre vers l'arrière ou sur le côté du cube. Une créature qui décide de rester subit les conséquences d'un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté.
+
+
+
+
+
+    En cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté, le cube entre dans l'emplacement de la créature ; elle subit 10 (3d6) dégâts d'acide et elle est enveloppée. La créature enveloppée ne peut plus respirer, elle est [entravée](hd_conditions_entrave.md) et subit 21 (6d6) dégâts d'acide au début de chacun des tours du cube. Quand le cube se déplace, la créature enveloppée se déplace avec lui.
+
+
+
+
+
+    Une créature enveloppée peut tenter de s'échapper en faisant une action pour effectuer un test de [Force](hd_abilities_strength.md) DD 12. En cas de réussite, la créature s'échappe et entre dans un emplacement de son choix situé à 1,50 mètre du cube.
+
+
+
+
+
+    **_Pseudopode._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+
+
+
+
+    _Touché :_ 10 (3d6) dégâts d'acide.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
+
+  Type: Vase
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 6
+
+  HitPoints: 84 (8d10+40)
+
+  Speed: 4,50 m
+
+  Strength: 14 (+2)
+
+  Dexterity: ' 3 (-4)'
+
+  Constitution: 20 (+5)
+
+  Intelligence: ' 1 (-5)'
+
+  Wisdom: ' 6 (-2)'
+
+  Charisma: ' 1 (-5)'
+
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+
+  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+
+  Languages: —
+
+  Challenge: 2 (450 PX)
 
 ---
 > [Créatures](hd_monsters.md)

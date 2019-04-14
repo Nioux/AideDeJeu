@@ -5,9 +5,28 @@ ParentLink: sorcerer_hd.md#ensorceleur
 Name: Régénération de l'ensorceleur
 ParentName: Ensorceleur
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Régénération de l'ensorceleur
+  Markdown: >+
+    ## <!--Name-->Régénération de l'ensorceleur<!--/Name-->
+
+
+    Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
+
 AttributesDictionary: >+
-  {}
+  Name: Régénération de l'ensorceleur
+
+  Markdown: >+
+
+    ## <!--Name-->Régénération de l'ensorceleur<!--/Name-->
+
+
+
+
+
+    Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
+
+
 
 ---
 > [Ensorceleur](hd_sorcerer.md)

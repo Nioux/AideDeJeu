@@ -22,9 +22,121 @@ ParentLink: background_serviteur_hd.md#personnalités-suggérées
 Name: Idéal
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Idéal
+  Markdown: >+
+    ##### <!--Name-->Idéal<!--/Name-->
+
+
+    |d6|Idéal|
+
+    |---|---|
+
+    |1|**Égalité.** Quel que soit leur rang, les individus <!--br-->doivent être bien traités. (Bon)|
+
+    |2|**Indépendance.** Servir un maître n'empêche <!--br-->pas de se forger ses propres opinions. (Neutre)|
+
+    |3|**Liberté.** Aucun homme ne devrait vivre dans <!--br-->la servitude d'un autre sous prétexte de sa <!--br-->naissance. (Chaotique)|
+
+    |4|**Responsabilité.** La société repose sur des <!--br-->piliers qui, s'ils peuvent paraître injustes, sont <!--br-->indispensables à la bonne marche du monde. <!--br-->(Loyal)|
+
+    |5|**Pouvoir.** Le vrai pouvoir n'est pas dans la <!--br-->lumières et les parures. Il est dans l'ombre des <!--br-->alcôves. (Mauvais)|
+
+    |6|**Ambition.** L'important n'est pas tant ce que l'on <!--br-->fait que ce que l'on ambitionne de faire. (Tous)|
+
+  Table: >+
+    |d6|Idéal|
+
+    |---|---|
+
+    |1|**Égalité.** Quel que soit leur rang, les individus <!--br-->doivent être bien traités. (Bon)|
+
+    |2|**Indépendance.** Servir un maître n'empêche <!--br-->pas de se forger ses propres opinions. (Neutre)|
+
+    |3|**Liberté.** Aucun homme ne devrait vivre dans <!--br-->la servitude d'un autre sous prétexte de sa <!--br-->naissance. (Chaotique)|
+
+    |4|**Responsabilité.** La société repose sur des <!--br-->piliers qui, s'ils peuvent paraître injustes, sont <!--br-->indispensables à la bonne marche du monde. <!--br-->(Loyal)|
+
+    |5|**Pouvoir.** Le vrai pouvoir n'est pas dans la <!--br-->lumières et les parures. Il est dans l'ombre des <!--br-->alcôves. (Mauvais)|
+
+    |6|**Ambition.** L'important n'est pas tant ce que l'on <!--br-->fait que ce que l'on ambitionne de faire. (Tous)|
+
 AttributesDictionary: >+
-  {}
+  Name: Idéal
+
+  Markdown: >+
+
+    ##### <!--Name-->Idéal<!--/Name-->
+
+
+
+
+
+    |d6|Idéal|
+
+
+
+    |---|---|
+
+
+
+    |1|**Égalité.** Quel que soit leur rang, les individus <!--br-->doivent être bien traités. (Bon)|
+
+
+
+    |2|**Indépendance.** Servir un maître n'empêche <!--br-->pas de se forger ses propres opinions. (Neutre)|
+
+
+
+    |3|**Liberté.** Aucun homme ne devrait vivre dans <!--br-->la servitude d'un autre sous prétexte de sa <!--br-->naissance. (Chaotique)|
+
+
+
+    |4|**Responsabilité.** La société repose sur des <!--br-->piliers qui, s'ils peuvent paraître injustes, sont <!--br-->indispensables à la bonne marche du monde. <!--br-->(Loyal)|
+
+
+
+    |5|**Pouvoir.** Le vrai pouvoir n'est pas dans la <!--br-->lumières et les parures. Il est dans l'ombre des <!--br-->alcôves. (Mauvais)|
+
+
+
+    |6|**Ambition.** L'important n'est pas tant ce que l'on <!--br-->fait que ce que l'on ambitionne de faire. (Tous)|
+
+
+
+  Table: >+
+
+    |d6|Idéal|
+
+
+
+    |---|---|
+
+
+
+    |1|**Égalité.** Quel que soit leur rang, les individus <!--br-->doivent être bien traités. (Bon)|
+
+
+
+    |2|**Indépendance.** Servir un maître n'empêche <!--br-->pas de se forger ses propres opinions. (Neutre)|
+
+
+
+    |3|**Liberté.** Aucun homme ne devrait vivre dans <!--br-->la servitude d'un autre sous prétexte de sa <!--br-->naissance. (Chaotique)|
+
+
+
+    |4|**Responsabilité.** La société repose sur des <!--br-->piliers qui, s'ils peuvent paraître injustes, sont <!--br-->indispensables à la bonne marche du monde. <!--br-->(Loyal)|
+
+
+
+    |5|**Pouvoir.** Le vrai pouvoir n'est pas dans la <!--br-->lumières et les parures. Il est dans l'ombre des <!--br-->alcôves. (Mauvais)|
+
+
+
+    |6|**Ambition.** L'important n'est pas tant ce que l'on <!--br-->fait que ce que l'on ambitionne de faire. (Tous)|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_serviteur_personnalites_suggerees.md)

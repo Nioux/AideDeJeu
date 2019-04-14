@@ -9,9 +9,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Cheval de selle
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Cheval de selle
+  Markdown: >+
+    # <!--Name-->Cheval de selle<!--/Name-->
+
+
+    - **Type** <!--Type-->Monture<!--/Type-->
+
+    - **Prix** <!--Price-->75 po<!--/Price-->
+
+    - **Vitesse** <!--Speed-->18 m<!--/Speed-->
+
+    - **Capacité de charge** <!--WeightCapacity-->240 kg<!--/WeightCapacity-->
+
+  Type: Monture
+  Price: 75 po
+  Speed: 18 m
+  WeightCapacity: 240 kg
 AttributesDictionary: >+
-  {}
+  Name: Cheval de selle
+
+  Markdown: >+
+
+    # <!--Name-->Cheval de selle<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Monture<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->75 po<!--/Price-->
+
+
+
+    - **Vitesse** <!--Speed-->18 m<!--/Speed-->
+
+
+
+    - **Capacité de charge** <!--WeightCapacity-->240 kg<!--/WeightCapacity-->
+
+
+
+  Type: Monture
+
+  Price: 75 po
+
+  Speed: 18 m
+
+  WeightCapacity: 240 kg
 
 ---
 > [Équipement](hd_equipment.md)

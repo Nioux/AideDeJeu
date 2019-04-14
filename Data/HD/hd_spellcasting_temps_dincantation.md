@@ -1,15 +1,55 @@
 ﻿---
 !GenericItem
-Name: Temps d'incantation
-AltName: Casting Time (SRD p101)
-Source: (MDR p307)
 Id: spellcasting_hd.md#temps-dincantation
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Temps d'incantation
 ParentName: Lancer des sorts
 NameLevel: 3
-Attributes: {}
+AltName: Casting Time (SRD p101)
+Source: (MDR p307)
+Attributes:
+  Name: Temps d'incantation
+  Markdown: >+
+    ### <!--Name-->Temps d'incantation<!--/Name-->
+
+
+    - AltName: <!--AltName-->Casting Time (SRD p101)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p307)<!--/Source-->
+
+
+    Généralement, un sort se lance par une seule action, mais certains exigent une action bonus, une réaction ou encore plus de temps.
+
+  AltName: Casting Time (SRD p101)
+  Source: (MDR p307)
 AttributesDictionary: >+
-  {}
+  Name: Temps d'incantation
+
+  Markdown: >+
+
+    ### <!--Name-->Temps d'incantation<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Casting Time (SRD p101)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p307)<!--/Source-->
+
+
+
+
+
+    Généralement, un sort se lance par une seule action, mais certains exigent une action bonus, une réaction ou encore plus de temps.
+
+
+
+  AltName: Casting Time (SRD p101)
+
+  Source: (MDR p307)
 
 ---
 > [Lancer des sorts](hd_spellcasting.md)

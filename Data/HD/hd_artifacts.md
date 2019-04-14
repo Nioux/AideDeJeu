@@ -8,9 +8,64 @@ ParentName: Cadre de campagne
 NameLevel: 1
 AltName: Artifacts (SRD p252)
 Source: (CDC p191)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Cadre de campagne](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Cadre de campagne](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Artefacts<!--/Name-->
+
+
+    - AltName: <!--AltName-->Artifacts (SRD p252)<!--/AltName-->
+
+    - Source: <!--Source-->(CDC p191)<!--/Source-->
+
+  Name: Artefacts
+  AltName: Artifacts (SRD p252)
+  Source: (CDC p191)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Cadre de campagne](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Cadre de campagne](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Artefacts<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Artifacts (SRD p252)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(CDC p191)<!--/Source-->
+
+
+
+  Name: Artefacts
+
+  AltName: Artifacts (SRD p252)
+
+  Source: (CDC p191)
 
 ---
 >  [Cadre de campagne](index.md)

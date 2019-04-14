@@ -8,9 +8,73 @@ ParentLink: background_primitif_hd.md#primitif
 Name: 'Variante : Gardien tribal'
 ParentName: Primitif
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Gardien tribal'
+  Markdown: >+
+    ### <!--Name-->Variante : Gardien tribal<!--/Name-->
+
+
+    Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre deux mondes. Vous connaissez le monde des esprits et préservez la tribu ou le clan des dangers physiques et spirituels. Certains pensent que vous comprenez les animaux ou que vous entendez la voix de la terre. Mais vous n'êtes que le garant des traditions, et le gardien de l'équilibre, ainsi que le défenseur de votre peuple.
+
+
+    **Compétences :** <!--Abilities-->Perspicacité, Survie.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un instrument de musique au choix.<!--/MasteredTools-->
+
+
+    **Équipement :** <!--Equipment-->Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.<!--/Equipment-->
+
+  Description: >+
+    Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre deux mondes. Vous connaissez le monde des esprits et préservez la tribu ou le clan des dangers physiques et spirituels. Certains pensent que vous comprenez les animaux ou que vous entendez la voix de la terre. Mais vous n'êtes que le garant des traditions, et le gardien de l'équilibre, ainsi que le défenseur de votre peuple.
+
+  Abilities: Perspicacité, Survie.
+  MasteredTools: Véhicules (terrestres), un instrument de musique au choix.
+  Equipment: Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Gardien tribal'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Gardien tribal<!--/Name-->
+
+
+
+
+
+    Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre deux mondes. Vous connaissez le monde des esprits et préservez la tribu ou le clan des dangers physiques et spirituels. Certains pensent que vous comprenez les animaux ou que vous entendez la voix de la terre. Mais vous n'êtes que le garant des traditions, et le gardien de l'équilibre, ainsi que le défenseur de votre peuple.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Perspicacité, Survie.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un instrument de musique au choix.<!--/MasteredTools-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre deux mondes. Vous connaissez le monde des esprits et préservez la tribu ou le clan des dangers physiques et spirituels. Certains pensent que vous comprenez les animaux ou que vous entendez la voix de la terre. Mais vous n'êtes que le garant des traditions, et le gardien de l'équilibre, ainsi que le défenseur de votre peuple.
+
+
+
+  Abilities: Perspicacité, Survie.
+
+  MasteredTools: Véhicules (terrestres), un instrument de musique au choix.
+
+  Equipment: Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
 
 Description: >+
   Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre deux mondes. Vous connaissez le monde des esprits et préservez la tribu ou le clan des dangers physiques et spirituels. Certains pensent que vous comprenez les animaux ou que vous entendez la voix de la terre. Mais vous n'êtes que le garant des traditions, et le gardien de l'équilibre, ainsi que le défenseur de votre peuple.

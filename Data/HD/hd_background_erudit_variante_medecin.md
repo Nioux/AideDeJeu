@@ -8,9 +8,73 @@ ParentLink: background_erudit_hd.md#Érudit
 Name: 'Variante : Médecin'
 ParentName: Érudit
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Médecin'
+  Markdown: >+
+    ### <!--Name-->Variante : Médecin<!--/Name-->
+
+
+    Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la guérison des blessures et maladies. Certaines parties de vos recherches vous ont amené sur des pistes sombres et terribles, mais cela vous a permis d'en apprendre plus et de mettre ces connaissances au service du bien commun.
+
+
+    **Compétences :** <!--Abilities-->Médecine, Nature.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste, matériel d'empoisonneur.<!--/MasteredTools-->
+
+
+    **Équipement :** <!--Equipment-->Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.<!--/Equipment-->
+
+  Description: >+
+    Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la guérison des blessures et maladies. Certaines parties de vos recherches vous ont amené sur des pistes sombres et terribles, mais cela vous a permis d'en apprendre plus et de mettre ces connaissances au service du bien commun.
+
+  Abilities: Médecine, Nature.
+  MasteredTools: Matériel d'herboriste, matériel d'empoisonneur.
+  Equipment: Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Médecin'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Médecin<!--/Name-->
+
+
+
+
+
+    Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la guérison des blessures et maladies. Certaines parties de vos recherches vous ont amené sur des pistes sombres et terribles, mais cela vous a permis d'en apprendre plus et de mettre ces connaissances au service du bien commun.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Médecine, Nature.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste, matériel d'empoisonneur.<!--/MasteredTools-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la guérison des blessures et maladies. Certaines parties de vos recherches vous ont amené sur des pistes sombres et terribles, mais cela vous a permis d'en apprendre plus et de mettre ces connaissances au service du bien commun.
+
+
+
+  Abilities: Médecine, Nature.
+
+  MasteredTools: Matériel d'herboriste, matériel d'empoisonneur.
+
+  Equipment: Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.
 
 Description: >+
   Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la guérison des blessures et maladies. Certaines parties de vos recherches vous ont amené sur des pistes sombres et terribles, mais cela vous a permis d'en apprendre plus et de mettre ces connaissances au service du bien commun.

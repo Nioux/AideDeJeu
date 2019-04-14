@@ -25,9 +25,214 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Nuée de serpents venimeux
+  Markdown: >+
+    # <!--Name-->Nuée de serpents venimeux<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)<!--/AltName-->
+
+    -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 8 (-1)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants<!--/DamageResistances-->
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un serpent de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
+
+
+    ## Actions
+
+
+    **_Morsures._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+
+
+    _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie. La cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 10. Elle subit 14 (4d6) dégâts de poison en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
+  Type: Nuée
+  Size: M composée de bêtes de taille TP
+  Alignment: non-alignée
+  ArmorClass: 14
+  HitPoints: 36 (8d8)
+  Speed: 9 m, nage 9 m
+  Strength: ' 8 (-1)'
+  Dexterity: 18 (+4)
+  Constitution: 11 (+0)
+  Intelligence: ' 1 (-5)'
+  Wisdom: 10 (+0)
+  Charisma: ' 3 (-4)'
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 2 (450 PX)
 AttributesDictionary: >+
-  {}
+  Name: Nuée de serpents venimeux
+
+  Markdown: >+
+
+    # <!--Name-->Nuée de serpents venimeux<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 8 (-1)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un serpent de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsures._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+
+
+
+
+
+    _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie. La cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 10. Elle subit 14 (4d6) dégâts de poison en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
+
+  Type: Nuée
+
+  Size: M composée de bêtes de taille TP
+
+  Alignment: non-alignée
+
+  ArmorClass: 14
+
+  HitPoints: 36 (8d8)
+
+  Speed: 9 m, nage 9 m
+
+  Strength: ' 8 (-1)'
+
+  Dexterity: 18 (+4)
+
+  Constitution: 11 (+0)
+
+  Intelligence: ' 1 (-5)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 3 (-4)'
+
+  DamageResistances: contondants, perforants et tranchants
+
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+
+  Languages: —
+
+  Challenge: 2 (450 PX)
 
 ---
 > [Créatures](hd_monsters.md)

@@ -24,9 +24,232 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Panther](srd_monsters_panther.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Panthère
+  Markdown: >+
+    # <!--Name-->Panthère<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Panther](srd_monsters_panther.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->15 m, escalade 12 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Bond agressif._** Si la panthère se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 12 pour ne pas être jetée [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
+
+
+    **_Odorat aiguisé._** La panthère obtient un avantage lors des tests de [Sagesse](hd_abilities_wisdom.md) (Perception) basés sur l'odorat.
+
+
+    ## Actions
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 4 (1d4+2) dégâts tranchants.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 5 (1d6+2) dégâts perforants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Panther](srd_monsters_panther.md)'
+  Type: Bête
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 12
+  HitPoints: 13 (3d8)
+  Speed: 15 m, escalade 12 m
+  Strength: 14 (+2)
+  Dexterity: 15 (+2)
+  Constitution: 10 (+0)
+  Intelligence: ' 3 (-4)'
+  Wisdom: 14 (+2)
+  Charisma: ' 7 (-2)'
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: —
+  Challenge: 1/4 (50 PX)
 AttributesDictionary: >+
-  {}
+  Name: Panthère
+
+  Markdown: >+
+
+    # <!--Name-->Panthère<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Panther](srd_monsters_panther.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->15 m, escalade 12 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Bond agressif._** Si la panthère se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 12 pour ne pas être jetée [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
+
+
+
+
+
+    **_Odorat aiguisé._** La panthère obtient un avantage lors des tests de [Sagesse](hd_abilities_wisdom.md) (Perception) basés sur l'odorat.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 4 (1d4+2) dégâts tranchants.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 5 (1d6+2) dégâts perforants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Panther](srd_monsters_panther.md)'
+
+  Type: Bête
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 12
+
+  HitPoints: 13 (3d8)
+
+  Speed: 15 m, escalade 12 m
+
+  Strength: 14 (+2)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 10 (+0)
+
+  Intelligence: ' 3 (-4)'
+
+  Wisdom: 14 (+2)
+
+  Charisma: ' 7 (-2)'
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +4'
+
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+
+  Languages: —
+
+  Challenge: 1/4 (50 PX)
 
 ---
 > [Créatures](hd_monsters.md)

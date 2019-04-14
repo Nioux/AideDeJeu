@@ -7,9 +7,55 @@ Name: Rôdeur des cinq Royaumes
 ParentName: Les Cinq Royaumes
 NameLevel: 2
 Source: (L5R p52)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    ## <!--Name-->Rôdeur des cinq Royaumes<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p52)<!--/Source-->
+
+  Name: Rôdeur des cinq Royaumes
+  Source: (L5R p52)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    ## <!--Name-->Rôdeur des cinq Royaumes<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p52)<!--/Source-->
+
+
+
+  Name: Rôdeur des cinq Royaumes
+
+  Source: (L5R p52)
 
 ---
 >  [Les Cinq Royaumes](hd_l5r_index.md)

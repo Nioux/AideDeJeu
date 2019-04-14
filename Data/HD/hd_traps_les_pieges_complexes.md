@@ -1,13 +1,50 @@
 ﻿---
 !GenericItem
-Name: Les pièges complexes
 Id: traps_hd.md#les-pièges-complexes
 ParentLink: traps_hd.md#les-pièges
+Name: Les pièges complexes
 ParentName: Les pièges
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Les pièges complexes
+  Markdown: >+
+    ## <!--Name-->Les pièges complexes<!--/Name-->
+
+
+    Les pièges complexes fonctionnent comme les pièges ordinaires mais, une fois activés, ils effectuent une série d'actions à chaque round. Une rencontre avec un piège complexe tient alors beaucoup du combat.
+
+
+    Quand un piège complexe s'active, il faut lancer le dé pour déterminer son initiative. Sa description mentionne son bonus d'initiative. À son tour, il s'active de nouveau et effectue souvent une action. Il peut porter des attaques successives contre les intrus, créer un effet qui se modifie au fil du temps ou offrir un défi dynamique. En dehors de cela, il se repère et se désamorce ou se neutralise comme les autres.
+
+
+    Prenons comme exemple un piège qui inonde progressivement une salle. Il fonctionne mieux sous forme de piège complexe. À son tour, le niveau de l'eau monte et, au bout de plusieurs rounds, la salle est complètement immergée.
+
 AttributesDictionary: >+
-  {}
+  Name: Les pièges complexes
+
+  Markdown: >+
+
+    ## <!--Name-->Les pièges complexes<!--/Name-->
+
+
+
+
+
+    Les pièges complexes fonctionnent comme les pièges ordinaires mais, une fois activés, ils effectuent une série d'actions à chaque round. Une rencontre avec un piège complexe tient alors beaucoup du combat.
+
+
+
+
+
+    Quand un piège complexe s'active, il faut lancer le dé pour déterminer son initiative. Sa description mentionne son bonus d'initiative. À son tour, il s'active de nouveau et effectue souvent une action. Il peut porter des attaques successives contre les intrus, créer un effet qui se modifie au fil du temps ou offrir un défi dynamique. En dehors de cela, il se repère et se désamorce ou se neutralise comme les autres.
+
+
+
+
+
+    Prenons comme exemple un piège qui inonde progressivement une salle. Il fonctionne mieux sous forme de piège complexe. À son tour, le niveau de l'eau monte et, au bout de plusieurs rounds, la salle est complètement immergée.
+
+
 
 ---
 > [Les pièges](hd_traps.md)

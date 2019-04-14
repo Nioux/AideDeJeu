@@ -24,9 +24,187 @@ Name: Pegasus
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Pégase](hd_monsters_pegase.md)'
-Attributes: {}
+Attributes:
+  Name: Pegasus
+  Markdown: >+
+    # <!--Name-->Pegasus<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Pégase](hd_monsters_pegase.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->60 ft., fly 90 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->15 (+2)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +4, Wis +4, Cha +3<!--/SavingThrows-->
+
+    - **Skills** <!--Skills-->Perception +6<!--/Skills-->
+
+    - **Senses** <!--Senses-->passive Perception 16<!--/Senses-->
+
+    - **Languages** <!--Languages-->understands Celestial, Common, Elvish, and Sylvan but can't speak<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->2 (450 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 11 (2d6 + 4) bludgeoning damage.
+
+  AltName: '[Pégase](hd_monsters_pegase.md)'
+  Size: Large
+  Type: celestial
+  Alignment: chaotic good
+  ArmorClass: 12
+  HitPoints: 59 (7d10 + 21)
+  Speed: 60 ft., fly 90 ft.
+  Strength: 18 (+4)
+  Dexterity: 15 (+2)
+  Constitution: 16 (+3)
+  Intelligence: 10 (+0)
+  Wisdom: 15 (+2)
+  Charisma: 13 (+1)
+  SavingThrows: Dex +4, Wis +4, Cha +3
+  Skills: Perception +6
+  Senses: passive Perception 16
+  Languages: understands Celestial, Common, Elvish, and Sylvan but can't speak
+  Challenge: 2 (450 XP)
 AttributesDictionary: >+
-  {}
+  Name: Pegasus
+
+  Markdown: >+
+
+    # <!--Name-->Pegasus<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Pégase](hd_monsters_pegase.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->60 ft., fly 90 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->15 (+2)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +4, Wis +4, Cha +3<!--/SavingThrows-->
+
+
+
+    - **Skills** <!--Skills-->Perception +6<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->passive Perception 16<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->understands Celestial, Common, Elvish, and Sylvan but can't speak<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->2 (450 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 11 (2d6 + 4) bludgeoning damage.
+
+
+
+  AltName: '[Pégase](hd_monsters_pegase.md)'
+
+  Size: Large
+
+  Type: celestial
+
+  Alignment: chaotic good
+
+  ArmorClass: 12
+
+  HitPoints: 59 (7d10 + 21)
+
+  Speed: 60 ft., fly 90 ft.
+
+  Strength: 18 (+4)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 16 (+3)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 15 (+2)
+
+  Charisma: 13 (+1)
+
+  SavingThrows: Dex +4, Wis +4, Cha +3
+
+  Skills: Perception +6
+
+  Senses: passive Perception 16
+
+  Languages: understands Celestial, Common, Elvish, and Sylvan but can't speak
+
+  Challenge: 2 (450 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

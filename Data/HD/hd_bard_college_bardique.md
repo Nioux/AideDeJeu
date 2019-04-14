@@ -5,9 +5,28 @@ ParentLink: bard_hd.md#barde
 Name: Collège bardique
 ParentName: Barde
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Collège bardique
+  Markdown: >+
+    ## <!--Name-->Collège bardique<!--/Name-->
+
+
+    Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir](hd_bard_knowledge.md), le [collège des diplomates](hd_bard_diplomats.md), le [collège des hérauts](hd_bard_heralds.md) ou le [collège des saltimbanques](hd_bard_acrobats.md). L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
+
 AttributesDictionary: >+
-  {}
+  Name: Collège bardique
+
+  Markdown: >+
+
+    ## <!--Name-->Collège bardique<!--/Name-->
+
+
+
+
+
+    Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir](hd_bard_knowledge.md), le [collège des diplomates](hd_bard_diplomats.md), le [collège des hérauts](hd_bard_heralds.md) ou le [collège des saltimbanques](hd_bard_acrobats.md). L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
+
+
 
 ---
 > [Barde](hd_bard.md)

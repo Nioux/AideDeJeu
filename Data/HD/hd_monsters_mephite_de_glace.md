@@ -27,9 +27,268 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Méphite de glace
+  Markdown: >+
+    # <!--Name-->Méphite de glace<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Ice Mephit](srd_monsters_ice_mephit.md)<!--/AltName-->
+
+    -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->21 (6d6)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, vol 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 7 (-3)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 9 (-1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2<!--/Skills-->
+
+    - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->contondants et de feu<!--/DamageVulnerabilities-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de froid et de poison<!--/DamageImmunities-->
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[empoisonné](hd_conditions_empoisonne.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+    - **Langues** <!--Languages-->aérien, aquatique<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Explosion finale._** Quand le méphite meurt, il explose en une gerbe d'éclats de glace coupants.
+
+
+    Les créatures situées à 1,50 mètre ou moins de lui doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 10 ; elles subissent 4 (1d8) dégâts tranchants en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté et la moitié de ces dégâts seulement en cas de réussite.
+
+
+    **_Faux-semblant._** Aussi longtemps que le méphite reste immobile, il est impossible de le distinguer d'un éclat de glace ordinaire.
+
+
+    **_Incantation innée (1/jour)._** Le méphite peut lancer _[nappe de brouillard](hd_spells_nappe_de_brouillard.md)_ de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le [Charisme](hd_abilities_charisma.md).
+
+
+    ## Actions
+
+
+    **_Griffes._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature.
+
+
+    _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
+
+
+    **_Souffle de givre (Recharge 6)._** Le méphite souffle de l'air froid sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 10 ; elles subissent 5 (2d4) dégâts de froid en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté et la moitié de ces dégâts seulement en cas de réussite.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
+  Type: Élémentaire
+  Size: P
+  Alignment: Neutre Mauvais
+  ArmorClass: 11
+  HitPoints: 21 (6d6)
+  Speed: 9 m, vol 9 m
+  Strength: ' 7 (-3)'
+  Dexterity: 13 (+1)
+  Constitution: 10 (+0)
+  Intelligence: ' 9 (-1)'
+  Wisdom: 11 (+0)
+  Charisma: 12 (+1)
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2'
+  DamageVulnerabilities: contondants et de feu
+  DamageImmunities: de froid et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: aérien, aquatique
+  Challenge: 1/2 (100 PX)
 AttributesDictionary: >+
-  {}
+  Name: Méphite de glace
+
+  Markdown: >+
+
+    # <!--Name-->Méphite de glace<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Ice Mephit](srd_monsters_ice_mephit.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->21 (6d6)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, vol 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 7 (-3)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 9 (-1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2<!--/Skills-->
+
+
+
+    - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->contondants et de feu<!--/DamageVulnerabilities-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de froid et de poison<!--/DamageImmunities-->
+
+
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[empoisonné](hd_conditions_empoisonne.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->aérien, aquatique<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Explosion finale._** Quand le méphite meurt, il explose en une gerbe d'éclats de glace coupants.
+
+
+
+
+
+    Les créatures situées à 1,50 mètre ou moins de lui doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 10 ; elles subissent 4 (1d8) dégâts tranchants en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté et la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+
+
+    **_Faux-semblant._** Aussi longtemps que le méphite reste immobile, il est impossible de le distinguer d'un éclat de glace ordinaire.
+
+
+
+
+
+    **_Incantation innée (1/jour)._** Le méphite peut lancer _[nappe de brouillard](hd_spells_nappe_de_brouillard.md)_ de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le [Charisme](hd_abilities_charisma.md).
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Griffes._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature.
+
+
+
+
+
+    _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
+
+
+
+
+
+    **_Souffle de givre (Recharge 6)._** Le méphite souffle de l'air froid sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 10 ; elles subissent 5 (2d4) dégâts de froid en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté et la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
+
+  Type: Élémentaire
+
+  Size: P
+
+  Alignment: Neutre Mauvais
+
+  ArmorClass: 11
+
+  HitPoints: 21 (6d6)
+
+  Speed: 9 m, vol 9 m
+
+  Strength: ' 7 (-3)'
+
+  Dexterity: 13 (+1)
+
+  Constitution: 10 (+0)
+
+  Intelligence: ' 9 (-1)'
+
+  Wisdom: 11 (+0)
+
+  Charisma: 12 (+1)
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2'
+
+  DamageVulnerabilities: contondants et de feu
+
+  DamageImmunities: de froid et de poison
+
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+
+  Languages: aérien, aquatique
+
+  Challenge: 1/2 (100 PX)
 
 ---
 > [Créatures](hd_monsters.md)

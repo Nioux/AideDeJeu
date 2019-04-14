@@ -11,9 +11,76 @@ ParentLink: equipment_hd.md#Équipement
 Name: Arc court
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Arc court
+  Markdown: >+
+    # <!--Name-->Arc court<!--/Name-->
+
+
+    - **Type** <!--Type-->Arme à distance<!--/Type-->
+
+    - **Rareté** <!--Rarity-->Courante<!--/Rarity-->
+
+    - **Prix** <!--Price-->25 po<!--/Price-->
+
+    - **Dégâts** <!--Damages-->1d6 perforant<!--/Damages-->
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+    - **Propriétés** <!--Properties-->[Munitions](hd_weapons_munitions.md) (portée 24/96), [à deux mains](hd_weapons_a_deux_mains.md)<!--/Properties-->
+
+  Type: Arme à distance
+  Rarity: Courante
+  Price: 25 po
+  Damages: 1d6 perforant
+  Weight: 1 kg
+  Properties: '[Munitions](hd_weapons_munitions.md) (portée 24/96), [à deux mains](hd_weapons_a_deux_mains.md)'
 AttributesDictionary: >+
-  {}
+  Name: Arc court
+
+  Markdown: >+
+
+    # <!--Name-->Arc court<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Arme à distance<!--/Type-->
+
+
+
+    - **Rareté** <!--Rarity-->Courante<!--/Rarity-->
+
+
+
+    - **Prix** <!--Price-->25 po<!--/Price-->
+
+
+
+    - **Dégâts** <!--Damages-->1d6 perforant<!--/Damages-->
+
+
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+
+
+    - **Propriétés** <!--Properties-->[Munitions](hd_weapons_munitions.md) (portée 24/96), [à deux mains](hd_weapons_a_deux_mains.md)<!--/Properties-->
+
+
+
+  Type: Arme à distance
+
+  Rarity: Courante
+
+  Price: 25 po
+
+  Damages: 1d6 perforant
+
+  Weight: 1 kg
+
+  Properties: '[Munitions](hd_weapons_munitions.md) (portée 24/96), [à deux mains](hd_weapons_a_deux_mains.md)'
 
 ---
 > [Équipement](hd_equipment.md)

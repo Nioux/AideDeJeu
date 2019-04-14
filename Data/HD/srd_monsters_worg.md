@@ -23,9 +23,196 @@ Name: Worg
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Worg](hd_monsters_worg.md)'
-Attributes: {}
+Attributes:
+  Name: Worg
+  Markdown: >+
+    # <!--Name-->Worg<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Worg](hd_monsters_worg.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->26 (4d10 + 4)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->50 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 7 (-2)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +4<!--/Skills-->
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+    - **Languages** <!--Languages-->Goblin, Worg<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/2 (100 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Keen Hearing and Smell_**. The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+
+    ## Actions
+
+
+    **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+  AltName: '[Worg](hd_monsters_worg.md)'
+  Size: Large
+  Type: monstrosity
+  Alignment: neutral evil
+  ArmorClass: 13 (natural armor)
+  HitPoints: 26 (4d10 + 4)
+  Speed: 50 ft.
+  Strength: 16 (+3)
+  Dexterity: 13 (+1)
+  Constitution: 13 (+1)
+  Intelligence: ' 7 (-2)'
+  Wisdom: 11 (+0)
+  Charisma: ' 8 (-1)'
+  Skills: Perception +4
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Goblin, Worg
+  Challenge: 1/2 (100 XP)
 AttributesDictionary: >+
-  {}
+  Name: Worg
+
+  Markdown: >+
+
+    # <!--Name-->Worg<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Worg](hd_monsters_worg.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->26 (4d10 + 4)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->50 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 7 (-2)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +4<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Goblin, Worg<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/2 (100 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Keen Hearing and Smell_**. The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+
+
+  AltName: '[Worg](hd_monsters_worg.md)'
+
+  Size: Large
+
+  Type: monstrosity
+
+  Alignment: neutral evil
+
+  ArmorClass: 13 (natural armor)
+
+  HitPoints: 26 (4d10 + 4)
+
+  Speed: 50 ft.
+
+  Strength: 16 (+3)
+
+  Dexterity: 13 (+1)
+
+  Constitution: 13 (+1)
+
+  Intelligence: ' 7 (-2)'
+
+  Wisdom: 11 (+0)
+
+  Charisma: ' 8 (-1)'
+
+  Skills: Perception +4
+
+  Senses: darkvision 60 ft., passive Perception 14
+
+  Languages: Goblin, Worg
+
+  Challenge: 1/2 (100 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

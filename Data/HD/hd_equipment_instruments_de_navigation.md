@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Instruments de navigation
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Instruments de navigation
+  Markdown: >+
+    # <!--Name-->Instruments de navigation<!--/Name-->
+
+
+    - **Type** <!--Type-->Outil<!--/Type-->
+
+    - **Prix** <!--Price-->25 po<!--/Price-->
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+  Type: Outil
+  Price: 25 po
+  Weight: 1 kg
 AttributesDictionary: >+
-  {}
+  Name: Instruments de navigation
+
+  Markdown: >+
+
+    # <!--Name-->Instruments de navigation<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Outil<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->25 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+
+
+  Type: Outil
+
+  Price: 25 po
+
+  Weight: 1 kg
 
 ---
 > [Équipement](hd_equipment.md)

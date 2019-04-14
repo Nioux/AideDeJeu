@@ -8,8 +8,62 @@ ParentName: ''
 NameLevel: 1
 AltName: Races
 Attributes:
+  ParentNameLink: '[](.md#)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[](.md#)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Sandbox<!--/Name-->
+
+
+    - SRD: <!--AltName-->Races<!--/AltName-->
+
+    - Book: <!--Book-->(MDR p36)(SRD p3)<!--/Book-->
+
+  Name: Sandbox
+  AltName: Races
   Book: (MDR p36)(SRD p3)
 AttributesDictionary: >+
+  ParentNameLink: '[](.md#)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[](.md#)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Sandbox<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->Races<!--/AltName-->
+
+
+
+    - Book: <!--Book-->(MDR p36)(SRD p3)<!--/Book-->
+
+
+
+  Name: Sandbox
+
+  AltName: Races
+
   Book: (MDR p36)(SRD p3)
 
 ---

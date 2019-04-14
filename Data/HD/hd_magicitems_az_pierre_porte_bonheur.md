@@ -10,9 +10,64 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Stone of Good Luck (Luckstone) (SRD p246)
 Source: (COC p176)
-Attributes: {}
+Attributes:
+  Name: Pierre porte-bonheur
+  Markdown: >+
+    ### <!--Name-->Pierre porte-bonheur<!--/Name-->
+
+
+    - AltName: <!--AltName-->Stone of Good Luck (Luckstone) (SRD p246)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p176)<!--/Source-->
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+    Tant que vous portez sur vous cette agate lustrée, vous bénéficiez d'un bonus de +1 aux tests de caractéristique et aux jets de sauvegarde.
+
+  AltName: Stone of Good Luck (Luckstone) (SRD p246)
+  Source: (COC p176)
+  Type: Objet merveilleux
+  Rarity: peu courant
+  Attunement: harmonisation requise
 AttributesDictionary: >+
-  {}
+  Name: Pierre porte-bonheur
+
+  Markdown: >+
+
+    ### <!--Name-->Pierre porte-bonheur<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Stone of Good Luck (Luckstone) (SRD p246)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p176)<!--/Source-->
+
+
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+
+
+
+    Tant que vous portez sur vous cette agate lustrée, vous bénéficiez d'un bonus de +1 aux tests de caractéristique et aux jets de sauvegarde.
+
+
+
+  AltName: Stone of Good Luck (Luckstone) (SRD p246)
+
+  Source: (COC p176)
+
+  Type: Objet merveilleux
+
+  Rarity: peu courant
+
+  Attunement: harmonisation requise
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

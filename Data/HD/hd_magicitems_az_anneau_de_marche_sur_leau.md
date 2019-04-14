@@ -9,9 +9,61 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Ring of Water Walking (SRD p238)
 Source: (COC p141)
-Attributes: {}
+Attributes:
+  Name: Anneau de marche sur l'eau
+  Markdown: >+
+    ### <!--Name-->Anneau de marche sur l'eau<!--/Name-->
+
+
+    - AltName: <!--AltName-->Ring of Water Walking (SRD p238)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p141)<!--/Source-->
+
+    -  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
+
+
+    Vous pouvez vous tenir debout sur toute surface liquide et vous déplacer dessus comme si elle était solide.
+
+  AltName: Ring of Water Walking (SRD p238)
+  Source: (COC p141)
+  Type: Anneau
+  Rarity: peu courant
 AttributesDictionary: >+
-  {}
+  Name: Anneau de marche sur l'eau
+
+  Markdown: >+
+
+    ### <!--Name-->Anneau de marche sur l'eau<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Ring of Water Walking (SRD p238)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p141)<!--/Source-->
+
+
+
+    -  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity-->
+
+
+
+
+
+    Vous pouvez vous tenir debout sur toute surface liquide et vous déplacer dessus comme si elle était solide.
+
+
+
+  AltName: Ring of Water Walking (SRD p238)
+
+  Source: (COC p141)
+
+  Type: Anneau
+
+  Rarity: peu courant
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

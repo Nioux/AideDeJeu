@@ -11,6 +11,33 @@ ParentName: Elfe
 NameLevel: 2
 Source: (MDR p45)
 Attributes:
+  Name: Elfe de fer
+  Markdown: >+
+    ## <!--Name-->Elfe de fer<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p45)<!--/Source-->
+
+
+    En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vous avez une grande aisance en société. Vous avez une affinité supérieure avec la magie et appréciez l'art sous toutes ses formes.
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.<!--/AbilityScoreIncrease-->
+
+
+    **<!--ElfWeaponTrainingKey-->Entraînement aux armes elfiques<!--/ElfWeaponTrainingKey-->.** <!--ElfWeaponTrainingValue-->Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.<!--/ElfWeaponTrainingValue-->
+
+
+    **<!--CantripKey-->Tour de magie<!--/CantripKey-->.** <!--CantripValue-->Vous connaissez un tour de magie de votre choix parmi la liste de sorts de barde. Votre caractéristique d'incantation pour ce tour de magie est le [Charisme](hd_abilities_charisma.md).<!--/CantripValue-->
+
+
+    **<!--ExtraLanguageKey-->Langue supplémentaire<!--/ExtraLanguageKey-->.** <!--ExtraLanguageValue-->Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.<!--/ExtraLanguageValue-->
+
+  Source: (MDR p45)
+  Description: >+
+    En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vous avez une grande aisance en société. Vous avez une affinité supérieure avec la magie et appréciez l'art sous toutes ses formes.
+
+  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.
   ElfWeaponTrainingKey: Entraînement aux armes elfiques
   ElfWeaponTrainingValue: Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
   CantripKey: Tour de magie
@@ -18,6 +45,60 @@ Attributes:
   ExtraLanguageKey: Langue supplémentaire
   ExtraLanguageValue: Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 AttributesDictionary: >+
+  Name: Elfe de fer
+
+  Markdown: >+
+
+    ## <!--Name-->Elfe de fer<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p45)<!--/Source-->
+
+
+
+
+
+    En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vous avez une grande aisance en société. Vous avez une affinité supérieure avec la magie et appréciez l'art sous toutes ses formes.
+
+
+
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.<!--/AbilityScoreIncrease-->
+
+
+
+
+
+    **<!--ElfWeaponTrainingKey-->Entraînement aux armes elfiques<!--/ElfWeaponTrainingKey-->.** <!--ElfWeaponTrainingValue-->Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.<!--/ElfWeaponTrainingValue-->
+
+
+
+
+
+    **<!--CantripKey-->Tour de magie<!--/CantripKey-->.** <!--CantripValue-->Vous connaissez un tour de magie de votre choix parmi la liste de sorts de barde. Votre caractéristique d'incantation pour ce tour de magie est le [Charisme](hd_abilities_charisma.md).<!--/CantripValue-->
+
+
+
+
+
+    **<!--ExtraLanguageKey-->Langue supplémentaire<!--/ExtraLanguageKey-->.** <!--ExtraLanguageValue-->Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.<!--/ExtraLanguageValue-->
+
+
+
+  Source: (MDR p45)
+
+  Description: >+
+
+    En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vous avez une grande aisance en société. Vous avez une affinité supérieure avec la magie et appréciez l'art sous toutes ses formes.
+
+
+
+  AbilityScoreIncrease: Votre valeur de [Charisme](hd_abilities_charisma.md) augmente de 1.
+
   ElfWeaponTrainingKey: Entraînement aux armes elfiques
 
   ElfWeaponTrainingValue: Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.

@@ -1,13 +1,32 @@
 ﻿---
 !GenericItem
-Name: Détruire un objet magique
 Id: magicitems_hd.md#détruire-un-objet-magique
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Détruire un objet magique
 ParentName: Objets magiques
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: Détruire un objet magique
+  Markdown: >+
+    ### <!--Name-->Détruire un objet magique<!--/Name-->
+
+
+    La majorité des objets magiques sont plus résistants que leur équivalent non-magique. La plupart, grâce à la magie qu'ils renferment, sont résistants à tous les types de dégâts. Les potions et les parchemins font exception. Les premières sont détruites si leur contenant est détruit ou renversé, les seconds peuvent aisément prendre feu ou être déchirés. Quant aux artefacts, ils sont pratiquement indestructibles. Chacun d'eux possède une méthode unique, souvent l'objet d'une quête épique, pour être détruit.
+
 AttributesDictionary: >+
-  {}
+  Name: Détruire un objet magique
+
+  Markdown: >+
+
+    ### <!--Name-->Détruire un objet magique<!--/Name-->
+
+
+
+
+
+    La majorité des objets magiques sont plus résistants que leur équivalent non-magique. La plupart, grâce à la magie qu'ils renferment, sont résistants à tous les types de dégâts. Les potions et les parchemins font exception. Les premières sont détruites si leur contenant est détruit ou renversé, les seconds peuvent aisément prendre feu ou être déchirés. Quant aux artefacts, ils sont pratiquement indestructibles. Chacun d'eux possède une méthode unique, souvent l'objet d'une quête épique, pour être détruit.
+
+
 
 ---
 > [Objets magiques](hd_magicitems.md)

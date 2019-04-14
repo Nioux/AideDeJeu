@@ -26,9 +26,259 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Jeune dragon d'airain
+  Markdown: >+
+    # <!--Name-->Jeune dragon d'airain<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Young Brass Dragon](srd_monsters_young_brass_dragon.md)<!--/AltName-->
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12 m, fouissement 6 m, vol 24 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +3, Con +6, Sag +3, Cha +5<!--/SavingThrows-->
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6, [Persuasion](hd_abilities_charisma_persuasion.md) +5<!--/Skills-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu<!--/DamageImmunities-->
+
+    - **Sens** <!--Senses-->vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16<!--/Senses-->
+
+    - **Langues** <!--Languages-->commun, draconique<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->6 (2 300 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes.
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 11 (2d6+4) dégâts tranchants.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une cible.
+
+
+    _Touché :_ 15 (2d10+4) dégâts perforants.
+
+
+    **_Souffles (Recharge 5-6)._** Le dragon utilise l'un des souffles suivants :
+
+
+    _Souffle de feu._ Le dragon souffle du feu sur une ligne de 12 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 14 ; elles subissent 42 (12d6) dégâts de feu en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+    _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 14 pour ne pas tomber [inconscientes](hd_conditions_inconscient.md) pendant 5 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
+  Type: Dragon
+  Size: G
+  Alignment: Chaotique Bon
+  ArmorClass: 17 (armure naturelle)
+  HitPoints: 110 (13d10+39)
+  Speed: 12 m, fouissement 6 m, vol 24 m
+  Strength: 19 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 17 (+3)
+  Intelligence: 12 (+1)
+  Wisdom: 11 (+0)
+  Charisma: 15 (+2)
+  SavingThrows: Dex +3, Con +6, Sag +3, Cha +5
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6, [Persuasion](hd_abilities_charisma_persuasion.md) +5'
+  DamageImmunities: de feu
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: commun, draconique
+  Challenge: 6 (2 300 PX)
 AttributesDictionary: >+
-  {}
+  Name: Jeune dragon d'airain
+
+  Markdown: >+
+
+    # <!--Name-->Jeune dragon d'airain<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Young Brass Dragon](srd_monsters_young_brass_dragon.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12 m, fouissement 6 m, vol 24 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +3, Con +6, Sag +3, Cha +5<!--/SavingThrows-->
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6, [Persuasion](hd_abilities_charisma_persuasion.md) +5<!--/Skills-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu<!--/DamageImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->commun, draconique<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->6 (2 300 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes.
+
+
+
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 11 (2d6+4) dégâts tranchants.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une cible.
+
+
+
+
+
+    _Touché :_ 15 (2d10+4) dégâts perforants.
+
+
+
+
+
+    **_Souffles (Recharge 5-6)._** Le dragon utilise l'un des souffles suivants :
+
+
+
+
+
+    _Souffle de feu._ Le dragon souffle du feu sur une ligne de 12 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 14 ; elles subissent 42 (12d6) dégâts de feu en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+
+
+    _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 14 pour ne pas tomber [inconscientes](hd_conditions_inconscient.md) pendant 5 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
+
+  Type: Dragon
+
+  Size: G
+
+  Alignment: Chaotique Bon
+
+  ArmorClass: 17 (armure naturelle)
+
+  HitPoints: 110 (13d10+39)
+
+  Speed: 12 m, fouissement 6 m, vol 24 m
+
+  Strength: 19 (+4)
+
+  Dexterity: 10 (+0)
+
+  Constitution: 17 (+3)
+
+  Intelligence: 12 (+1)
+
+  Wisdom: 11 (+0)
+
+  Charisma: 15 (+2)
+
+  SavingThrows: Dex +3, Con +6, Sag +3, Cha +5
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6, [Persuasion](hd_abilities_charisma_persuasion.md) +5'
+
+  DamageImmunities: de feu
+
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+
+  Languages: commun, draconique
+
+  Challenge: 6 (2 300 PX)
 
 ---
 > [Créatures](hd_monsters.md)

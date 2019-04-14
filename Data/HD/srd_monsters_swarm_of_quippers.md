@@ -24,9 +24,223 @@ Name: Swarm of Quippers
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)'
-Attributes: {}
+Attributes:
+  Name: Swarm of Quippers
+  Markdown: >+
+    # <!--Name-->Swarm of Quippers<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->28 (8d8 - 8)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->0 ft., swim 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution--> 9 (-1)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 7 (-2)<!--/Wisdom-->|<!--Charisma--> 2 (-4)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 8<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1 (200 XP)<!--/Challenge-->
+
+    - **Damage Resistances** <!--DamageResistances-->bludgeoning, piercing, slashing<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Blood Frenzy_**. The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+
+
+    **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.
+
+
+    **_Water Breathing_**. The swarm can breathe only underwater.
+
+
+    ## Actions
+
+
+    **_Bites_**. Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space.
+
+
+    _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
+
+  AltName: '[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)'
+  Size: Medium
+  Type: swarm of Tiny beasts
+  Alignment: unaligned
+  ArmorClass: 13
+  HitPoints: 28 (8d8 - 8)
+  Speed: 0 ft., swim 40 ft.
+  Strength: 13 (+1)
+  Dexterity: 16 (+3)
+  Constitution: ' 9 (-1)'
+  Intelligence: ' 1 (-5)'
+  Wisdom: ' 7 (-2)'
+  Charisma: ' 2 (-4)'
+  Senses: darkvision 60 ft., passive Perception 8
+  Languages: '-'
+  Challenge: 1 (200 XP)
+  DamageResistances: bludgeoning, piercing, slashing
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 AttributesDictionary: >+
-  {}
+  Name: Swarm of Quippers
+
+  Markdown: >+
+
+    # <!--Name-->Swarm of Quippers<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->28 (8d8 - 8)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->0 ft., swim 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution--> 9 (-1)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 7 (-2)<!--/Wisdom-->|<!--Charisma--> 2 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 8<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1 (200 XP)<!--/Challenge-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->bludgeoning, piercing, slashing<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Blood Frenzy_**. The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+
+
+
+
+
+    **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.
+
+
+
+
+
+    **_Water Breathing_**. The swarm can breathe only underwater.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Bites_**. Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space.
+
+
+
+
+
+    _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
+
+
+
+  AltName: '[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)'
+
+  Size: Medium
+
+  Type: swarm of Tiny beasts
+
+  Alignment: unaligned
+
+  ArmorClass: 13
+
+  HitPoints: 28 (8d8 - 8)
+
+  Speed: 0 ft., swim 40 ft.
+
+  Strength: 13 (+1)
+
+  Dexterity: 16 (+3)
+
+  Constitution: ' 9 (-1)'
+
+  Intelligence: ' 1 (-5)'
+
+  Wisdom: ' 7 (-2)'
+
+  Charisma: ' 2 (-4)'
+
+  Senses: darkvision 60 ft., passive Perception 8
+
+  Languages: '-'
+
+  Challenge: 1 (200 XP)
+
+  DamageResistances: bludgeoning, piercing, slashing
+
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

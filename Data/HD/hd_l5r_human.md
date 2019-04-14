@@ -7,9 +7,55 @@ Name: Humain des cinq royaumes
 ParentName: Les Cinq Royaumes
 NameLevel: 2
 Source: (L5R p49)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    ## <!--Name-->Humain des cinq royaumes<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p49)<!--/Source-->
+
+  Name: Humain des cinq royaumes
+  Source: (L5R p49)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    ## <!--Name-->Humain des cinq royaumes<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p49)<!--/Source-->
+
+
+
+  Name: Humain des cinq royaumes
+
+  Source: (L5R p49)
 
 ---
 >  [Les Cinq Royaumes](hd_l5r_index.md)

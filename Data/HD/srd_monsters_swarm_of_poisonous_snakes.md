@@ -24,9 +24,205 @@ Name: Swarm of Poisonous Snakes
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)'
-Attributes: {}
+Attributes:
+  Name: Swarm of Poisonous Snakes
+  Markdown: >+
+    # <!--Name-->Swarm of Poisonous Snakes<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 8 (-1)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->blindsight 10 ft., passive Perception 10<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->2 (450 XP)<!--/Challenge-->
+
+    - **Damage Resistances** <!--DamageResistances-->bludgeoning, piercing, slashing<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
+
+
+    ## Actions
+
+
+    **_Bites_**. Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space.
+
+
+    _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
+
+  AltName: '[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)'
+  Size: Medium
+  Type: swarm of Tiny beasts
+  Alignment: unaligned
+  ArmorClass: 14
+  HitPoints: 36 (8d8)
+  Speed: 30 ft., swim 30 ft.
+  Strength: ' 8 (-1)'
+  Dexterity: 18 (+4)
+  Constitution: 11 (+0)
+  Intelligence: ' 1 (-5)'
+  Wisdom: 10 (+0)
+  Charisma: ' 3 (-4)'
+  Senses: blindsight 10 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 2 (450 XP)
+  DamageResistances: bludgeoning, piercing, slashing
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 AttributesDictionary: >+
-  {}
+  Name: Swarm of Poisonous Snakes
+
+  Markdown: >+
+
+    # <!--Name-->Swarm of Poisonous Snakes<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 8 (-1)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->blindsight 10 ft., passive Perception 10<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->2 (450 XP)<!--/Challenge-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->bludgeoning, piercing, slashing<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Bites_**. Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space.
+
+
+
+
+
+    _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
+
+
+
+  AltName: '[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)'
+
+  Size: Medium
+
+  Type: swarm of Tiny beasts
+
+  Alignment: unaligned
+
+  ArmorClass: 14
+
+  HitPoints: 36 (8d8)
+
+  Speed: 30 ft., swim 30 ft.
+
+  Strength: ' 8 (-1)'
+
+  Dexterity: 18 (+4)
+
+  Constitution: 11 (+0)
+
+  Intelligence: ' 1 (-5)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 3 (-4)'
+
+  Senses: blindsight 10 ft., passive Perception 10
+
+  Languages: '-'
+
+  Challenge: 2 (450 XP)
+
+  DamageResistances: bludgeoning, piercing, slashing
+
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

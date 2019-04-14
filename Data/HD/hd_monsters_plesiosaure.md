@@ -24,9 +24,205 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Plésiosaure
+  Markdown: >+
+    # <!--Name-->Plésiosaure<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Plesiosaurus](srd_monsters_plesiosaurus.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->68 (8d10+24)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->6 m, nage 12 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3<!--/Skills-->
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+    - **Langue** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Retenir son souffle._** Le plésiosaure peut retenir son souffle pendant 1 heure.
+
+
+    ## Actions
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
+
+
+    _Touché :_ 14 (3d6+4) dégâts perforants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
+  Type: Bête
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 13 (armure naturelle)
+  HitPoints: 68 (8d10+24)
+  Speed: 6 m, nage 12 m
+  Strength: 18 (+4)
+  Dexterity: 15 (+2)
+  Constitution: 16 (+3)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 12 (+1)
+  Charisma: ' 5 (-3)'
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 2 (450 PX)
 AttributesDictionary: >+
-  {}
+  Name: Plésiosaure
+
+  Markdown: >+
+
+    # <!--Name-->Plésiosaure<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Plesiosaurus](srd_monsters_plesiosaurus.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->68 (8d10+24)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->6 m, nage 12 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Retenir son souffle._** Le plésiosaure peut retenir son souffle pendant 1 heure.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
+
+
+
+
+
+    _Touché :_ 14 (3d6+4) dégâts perforants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
+
+  Type: Bête
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 13 (armure naturelle)
+
+  HitPoints: 68 (8d10+24)
+
+  Speed: 6 m, nage 12 m
+
+  Strength: 18 (+4)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 16 (+3)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 5 (-3)'
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+
+  Languages: —
+
+  Challenge: 2 (450 PX)
 
 ---
 > [Créatures](hd_monsters.md)

@@ -11,9 +11,76 @@ ParentLink: equipment_hd.md#Équipement
 Name: Javeline
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Javeline
+  Markdown: >+
+    # <!--Name-->Javeline<!--/Name-->
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+    - **Rareté** <!--Rarity-->Courante<!--/Rarity-->
+
+    - **Prix** <!--Price-->5 pa<!--/Price-->
+
+    - **Dégâts** <!--Damages-->1d6 perforant<!--/Damages-->
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+    - **Propriétés** <!--Properties-->[Lancer](hd_weapons_lancer.md) (portée 9/36)<!--/Properties-->
+
+  Type: Arme de corps-à-corps
+  Rarity: Courante
+  Price: 5 pa
+  Damages: 1d6 perforant
+  Weight: 1 kg
+  Properties: '[Lancer](hd_weapons_lancer.md) (portée 9/36)'
 AttributesDictionary: >+
-  {}
+  Name: Javeline
+
+  Markdown: >+
+
+    # <!--Name-->Javeline<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+
+
+    - **Rareté** <!--Rarity-->Courante<!--/Rarity-->
+
+
+
+    - **Prix** <!--Price-->5 pa<!--/Price-->
+
+
+
+    - **Dégâts** <!--Damages-->1d6 perforant<!--/Damages-->
+
+
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+
+
+    - **Propriétés** <!--Properties-->[Lancer](hd_weapons_lancer.md) (portée 9/36)<!--/Properties-->
+
+
+
+  Type: Arme de corps-à-corps
+
+  Rarity: Courante
+
+  Price: 5 pa
+
+  Damages: 1d6 perforant
+
+  Weight: 1 kg
+
+  Properties: '[Lancer](hd_weapons_lancer.md) (portée 9/36)'
 
 ---
 > [Équipement](hd_equipment.md)

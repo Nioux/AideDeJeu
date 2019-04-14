@@ -1,13 +1,32 @@
 ﻿---
 !GenericItem
-Name: Charges
 Id: magicitems_hd.md#charges
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Charges
 ParentName: Objets magiques
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: Charges
+  Markdown: >+
+    #### <!--Name-->Charges<!--/Name-->
+
+
+    Certains objets magiques possèdent des charges qu'il faut dépenser pour activer leurs propriétés. Le nombre de charges restantes que contient un objet est révélé quand on lui lance un sort d'identification ou quand une créature s'harmonise avec lui. De plus, quand un objet récupère des charges, la créature harmonisée sait combien de charges celui-ci récupère.
+
 AttributesDictionary: >+
-  {}
+  Name: Charges
+
+  Markdown: >+
+
+    #### <!--Name-->Charges<!--/Name-->
+
+
+
+
+
+    Certains objets magiques possèdent des charges qu'il faut dépenser pour activer leurs propriétés. Le nombre de charges restantes que contient un objet est révélé quand on lui lance un sort d'identification ou quand une créature s'harmonise avec lui. De plus, quand un objet récupère des charges, la créature harmonisée sait combien de charges celui-ci récupère.
+
+
 
 ---
 > [Objets magiques](hd_magicitems.md)

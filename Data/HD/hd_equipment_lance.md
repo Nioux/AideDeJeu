@@ -11,9 +11,76 @@ ParentLink: equipment_hd.md#Équipement
 Name: Lance
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Lance
+  Markdown: >+
+    # <!--Name-->Lance<!--/Name-->
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+    - **Rareté** <!--Rarity-->Courante<!--/Rarity-->
+
+    - **Prix** <!--Price-->1 po<!--/Price-->
+
+    - **Dégâts** <!--Damages-->1d6 perforant<!--/Damages-->
+
+    - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
+
+    - **Propriétés** <!--Properties-->[Lancer](hd_weapons_lancer.md) (portée 6/18), [polyvalente](hd_weapons_polyvalente.md) (1d8)<!--/Properties-->
+
+  Type: Arme de corps-à-corps
+  Rarity: Courante
+  Price: 1 po
+  Damages: 1d6 perforant
+  Weight: 1,5 kg
+  Properties: '[Lancer](hd_weapons_lancer.md) (portée 6/18), [polyvalente](hd_weapons_polyvalente.md) (1d8)'
 AttributesDictionary: >+
-  {}
+  Name: Lance
+
+  Markdown: >+
+
+    # <!--Name-->Lance<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Arme de corps-à-corps<!--/Type-->
+
+
+
+    - **Rareté** <!--Rarity-->Courante<!--/Rarity-->
+
+
+
+    - **Prix** <!--Price-->1 po<!--/Price-->
+
+
+
+    - **Dégâts** <!--Damages-->1d6 perforant<!--/Damages-->
+
+
+
+    - **Poids** <!--Weight-->1,5 kg<!--/Weight-->
+
+
+
+    - **Propriétés** <!--Properties-->[Lancer](hd_weapons_lancer.md) (portée 6/18), [polyvalente](hd_weapons_polyvalente.md) (1d8)<!--/Properties-->
+
+
+
+  Type: Arme de corps-à-corps
+
+  Rarity: Courante
+
+  Price: 1 po
+
+  Damages: 1d6 perforant
+
+  Weight: 1,5 kg
+
+  Properties: '[Lancer](hd_weapons_lancer.md) (portée 6/18), [polyvalente](hd_weapons_polyvalente.md) (1d8)'
 
 ---
 > [Équipement](hd_equipment.md)

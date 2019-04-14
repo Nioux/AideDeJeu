@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Fontes
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Fontes
+  Markdown: >+
+    # <!--Name-->Fontes<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement, sellerie et véhicules à traction<!--/Type-->
+
+    - **Prix** <!--Price-->4 po<!--/Price-->
+
+    - **Poids** <!--Weight-->4 kg<!--/Weight-->
+
+  Type: Équipement, sellerie et véhicules à traction
+  Price: 4 po
+  Weight: 4 kg
 AttributesDictionary: >+
-  {}
+  Name: Fontes
+
+  Markdown: >+
+
+    # <!--Name-->Fontes<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement, sellerie et véhicules à traction<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->4 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->4 kg<!--/Weight-->
+
+
+
+  Type: Équipement, sellerie et véhicules à traction
+
+  Price: 4 po
+
+  Weight: 4 kg
 
 ---
 > [Équipement](hd_equipment.md)

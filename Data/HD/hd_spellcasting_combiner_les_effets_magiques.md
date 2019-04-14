@@ -1,15 +1,64 @@
 ﻿---
 !GenericItem
-Name: Combiner les effets magiques
-AltName: Combining Magical Effects (SRD p104)
-Source: (MDR p310)
 Id: spellcasting_hd.md#combiner-les-effets-magiques
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Combiner les effets magiques
 ParentName: Lancer des sorts
 NameLevel: 3
-Attributes: {}
+AltName: Combining Magical Effects (SRD p104)
+Source: (MDR p310)
+Attributes:
+  Name: Combiner les effets magiques
+  Markdown: >+
+    ### <!--Name-->Combiner les effets magiques<!--/Name-->
+
+
+    - AltName: <!--AltName-->Combining Magical Effects (SRD p104)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p310)<!--/Source-->
+
+
+    Les effets de différents sorts s'additionnent quand leurs durées se superposent. En revanche, les effets d'un même sort lancé à plusieurs reprises ne se cumulent pas. Dans ce cas, l'effet le plus puissant (par exemple, le bonus le plus élevé) s'applique tant que sa durée se superpose à celle des autres.
+
+
+    Par exemple, si deux clerc lancent bénédiction sur une même cible, cette dernière bénéficie des effets d'un seul de ces sorts, elle ne lance pas deux dés supplémentaires.
+
+  AltName: Combining Magical Effects (SRD p104)
+  Source: (MDR p310)
 AttributesDictionary: >+
-  {}
+  Name: Combiner les effets magiques
+
+  Markdown: >+
+
+    ### <!--Name-->Combiner les effets magiques<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Combining Magical Effects (SRD p104)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p310)<!--/Source-->
+
+
+
+
+
+    Les effets de différents sorts s'additionnent quand leurs durées se superposent. En revanche, les effets d'un même sort lancé à plusieurs reprises ne se cumulent pas. Dans ce cas, l'effet le plus puissant (par exemple, le bonus le plus élevé) s'applique tant que sa durée se superpose à celle des autres.
+
+
+
+
+
+    Par exemple, si deux clerc lancent bénédiction sur une même cible, cette dernière bénéficie des effets d'un seul de ces sorts, elle ne lance pas deux dés supplémentaires.
+
+
+
+  AltName: Combining Magical Effects (SRD p104)
+
+  Source: (MDR p310)
 
 ---
 > [Lancer des sorts](hd_spellcasting.md)

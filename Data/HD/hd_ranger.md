@@ -8,9 +8,73 @@ RootId: ranger_hd.md
 ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Classes](hd_classes.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Rôdeur<!--/Name-->
+
+
+    - AltName: <!--AltName-->Ranger (SRD p35)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p194)<!--/Source-->
+
+
+    En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
+
+  Name: Rôdeur
+  AltName: Ranger (SRD p35)
+  Source: (MDR p194)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Classes](hd_classes.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Rôdeur<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Ranger (SRD p35)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p194)<!--/Source-->
+
+
+
+
+
+    En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
+
+
+
+  Name: Rôdeur
+
+  AltName: Ranger (SRD p35)
+
+  Source: (MDR p194)
 
 ---
 >  [Classes](hd_classes.md)

@@ -9,9 +9,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Outre
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Outre
+  Markdown: >+
+    # <!--Name-->Outre<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->2 pa<!--/Price-->
+
+    - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
+
+    - **Capacité** <!--Capacity-->2 L de liquide<!--/Capacity-->
+
+  Type: Équipement d'aventurier
+  Price: 2 pa
+  Weight: 2,5 kg
+  Capacity: 2 L de liquide
 AttributesDictionary: >+
-  {}
+  Name: Outre
+
+  Markdown: >+
+
+    # <!--Name-->Outre<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->2 pa<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
+
+
+
+    - **Capacité** <!--Capacity-->2 L de liquide<!--/Capacity-->
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 2 pa
+
+  Weight: 2,5 kg
+
+  Capacity: 2 L de liquide
 
 ---
 > [Équipement](hd_equipment.md)

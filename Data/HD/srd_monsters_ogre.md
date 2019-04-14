@@ -22,9 +22,187 @@ Name: Ogre
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ogre](hd_monsters_ogre.md)'
-Attributes: {}
+Attributes:
+  Name: Ogre
+  Markdown: >+
+    # <!--Name-->Ogre<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Ogre](hd_monsters_ogre.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->11 (hide armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity--> 8 (-1)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom--> 7 (-2)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 8<!--/Senses-->
+
+    - **Languages** <!--Languages-->Common, Giant<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->2 (450 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Greatclub_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 13 (2d8 + 4) bludgeoning damage.
+
+
+    **_Javelin_**. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target.
+
+
+    _Hit_: 11 (2d6 + 4) piercing damage.
+
+  AltName: '[Ogre](hd_monsters_ogre.md)'
+  Size: Large
+  Type: giant
+  Alignment: chaotic evil
+  ArmorClass: 11 (hide armor)
+  HitPoints: 59 (7d10 + 21)
+  Speed: 40 ft.
+  Strength: 19 (+4)
+  Dexterity: ' 8 (-1)'
+  Constitution: 16 (+3)
+  Intelligence: ' 5 (-3)'
+  Wisdom: ' 7 (-2)'
+  Charisma: ' 7 (-2)'
+  Senses: darkvision 60 ft., passive Perception 8
+  Languages: Common, Giant
+  Challenge: 2 (450 XP)
 AttributesDictionary: >+
-  {}
+  Name: Ogre
+
+  Markdown: >+
+
+    # <!--Name-->Ogre<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Ogre](hd_monsters_ogre.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->11 (hide armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity--> 8 (-1)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom--> 7 (-2)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 8<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Common, Giant<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->2 (450 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Greatclub_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 13 (2d8 + 4) bludgeoning damage.
+
+
+
+
+
+    **_Javelin_**. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target.
+
+
+
+
+
+    _Hit_: 11 (2d6 + 4) piercing damage.
+
+
+
+  AltName: '[Ogre](hd_monsters_ogre.md)'
+
+  Size: Large
+
+  Type: giant
+
+  Alignment: chaotic evil
+
+  ArmorClass: 11 (hide armor)
+
+  HitPoints: 59 (7d10 + 21)
+
+  Speed: 40 ft.
+
+  Strength: 19 (+4)
+
+  Dexterity: ' 8 (-1)'
+
+  Constitution: 16 (+3)
+
+  Intelligence: ' 5 (-3)'
+
+  Wisdom: ' 7 (-2)'
+
+  Charisma: ' 7 (-2)'
+
+  Senses: darkvision 60 ft., passive Perception 8
+
+  Languages: Common, Giant
+
+  Challenge: 2 (450 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

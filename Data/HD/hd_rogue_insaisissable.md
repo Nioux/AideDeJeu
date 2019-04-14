@@ -5,9 +5,37 @@ ParentLink: rogue_hd.md#roublard
 Name: Insaisissable
 ParentName: Roublard
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Insaisissable
+  Markdown: >+
+    ## <!--Name-->Insaisissable<!--/Name-->
+
+
+    Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus quand ils vous affrontent.
+
+
+    Tant que vous n'êtes pas neutralisé, aucun jet d'attaque qui vous cible ne peut bénéficier d'un avantage.
+
 AttributesDictionary: >+
-  {}
+  Name: Insaisissable
+
+  Markdown: >+
+
+    ## <!--Name-->Insaisissable<!--/Name-->
+
+
+
+
+
+    Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus quand ils vous affrontent.
+
+
+
+
+
+    Tant que vous n'êtes pas neutralisé, aucun jet d'attaque qui vous cible ne peut bénéficier d'un avantage.
+
+
 
 ---
 > [Roublard](hd_rogue.md)

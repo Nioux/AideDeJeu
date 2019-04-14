@@ -25,9 +25,232 @@ Name: Wraith
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Âme en peine](hd_monsters_ame_en_peine.md)'
-Attributes: {}
+Attributes:
+  Name: Wraith
+  Markdown: >+
+    # <!--Name-->Wraith<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Âme en peine](hd_monsters_ame_en_peine.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->67 (9d8 + 27)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->0 ft., fly 60 ft. (hover)<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 6 (-2)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 12<!--/Senses-->
+
+    - **Languages** <!--Languages-->the languages it knew in life<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->5 (1800 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->necrotic, poison<!--/DamageImmunities-->
+
+    - **Damage Resistances** <!--DamageResistances-->acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Incorporeal Movement_**. The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
+
+    **_Sunlight Sensitivity_**. While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+
+    ## Actions
+
+
+    **_Life Drain_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
+
+
+    _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+
+    **_Create Specter_**. The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
+
+  AltName: '[Âme en peine](hd_monsters_ame_en_peine.md)'
+  Size: Medium
+  Type: undead
+  Alignment: neutral evil
+  ArmorClass: 13
+  HitPoints: 67 (9d8 + 27)
+  Speed: 0 ft., fly 60 ft. (hover)
+  Strength: ' 6 (-2)'
+  Dexterity: 16 (+3)
+  Constitution: 16 (+3)
+  Intelligence: 12 (+1)
+  Wisdom: 14 (+2)
+  Charisma: 15 (+2)
+  Senses: darkvision 60 ft., passive Perception 12
+  Languages: the languages it knew in life
+  Challenge: 5 (1800 XP)
+  DamageImmunities: necrotic, poison
+  DamageResistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  ConditionImmunities: charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 AttributesDictionary: >+
-  {}
+  Name: Wraith
+
+  Markdown: >+
+
+    # <!--Name-->Wraith<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Âme en peine](hd_monsters_ame_en_peine.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->67 (9d8 + 27)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->0 ft., fly 60 ft. (hover)<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 6 (-2)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 12<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->the languages it knew in life<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->5 (1800 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->necrotic, poison<!--/DamageImmunities-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Incorporeal Movement_**. The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
+
+
+
+
+    **_Sunlight Sensitivity_**. While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Life Drain_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
+
+
+
+
+
+    _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+
+
+
+
+    **_Create Specter_**. The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
+
+
+
+  AltName: '[Âme en peine](hd_monsters_ame_en_peine.md)'
+
+  Size: Medium
+
+  Type: undead
+
+  Alignment: neutral evil
+
+  ArmorClass: 13
+
+  HitPoints: 67 (9d8 + 27)
+
+  Speed: 0 ft., fly 60 ft. (hover)
+
+  Strength: ' 6 (-2)'
+
+  Dexterity: 16 (+3)
+
+  Constitution: 16 (+3)
+
+  Intelligence: 12 (+1)
+
+  Wisdom: 14 (+2)
+
+  Charisma: 15 (+2)
+
+  Senses: darkvision 60 ft., passive Perception 12
+
+  Languages: the languages it knew in life
+
+  Challenge: 5 (1800 XP)
+
+  DamageImmunities: necrotic, poison
+
+  DamageResistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+  ConditionImmunities: charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

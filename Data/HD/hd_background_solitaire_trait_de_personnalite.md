@@ -26,9 +26,145 @@ ParentLink: background_solitaire_hd.md#personnalités-suggérées
 Name: Trait de personnalité
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Trait de personnalité
+  Markdown: >+
+    ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+
+    |d8|Trait de personnalité|
+
+    |---|---|
+
+    |1|Je parle peu, mais jamais pour ne rien dire.|
+
+    |2|Je me mets toujours dans un recoin de la pièce, <!--br-->pour mieux observer mon environnement.|
+
+    |3|Les gens trop bavards me donnent mal à la <!--br-->tête. J'apprécie le calme avant tout.|
+
+    |4|Dès que je le peux, je m'éloigne des autres, et <!--br-->des lieux habités, afin de retrouver la nature et <!--br-->la solitude qui sont miennes.|
+
+    |5|J'ai toujours l'impression que quelqu'un me <!--br-->suit quand je suis en ville.|
+
+    |6|Je déteste le regard que les gens posent sur <!--br-->moi. Ils me jugent, je le sais.|
+
+    |7|Parfois, je plonge dans mes pensées et m'y <!--br-->perds. Et cela se voit.|
+
+    |8|J'ai toujours une pensée philosophique et <!--br-->profonde appropriée à la situation.|
+
+  Table: >+
+    |d8|Trait de personnalité|
+
+    |---|---|
+
+    |1|Je parle peu, mais jamais pour ne rien dire.|
+
+    |2|Je me mets toujours dans un recoin de la pièce, <!--br-->pour mieux observer mon environnement.|
+
+    |3|Les gens trop bavards me donnent mal à la <!--br-->tête. J'apprécie le calme avant tout.|
+
+    |4|Dès que je le peux, je m'éloigne des autres, et <!--br-->des lieux habités, afin de retrouver la nature et <!--br-->la solitude qui sont miennes.|
+
+    |5|J'ai toujours l'impression que quelqu'un me <!--br-->suit quand je suis en ville.|
+
+    |6|Je déteste le regard que les gens posent sur <!--br-->moi. Ils me jugent, je le sais.|
+
+    |7|Parfois, je plonge dans mes pensées et m'y <!--br-->perds. Et cela se voit.|
+
+    |8|J'ai toujours une pensée philosophique et <!--br-->profonde appropriée à la situation.|
+
 AttributesDictionary: >+
-  {}
+  Name: Trait de personnalité
+
+  Markdown: >+
+
+    ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+
+
+
+
+    |d8|Trait de personnalité|
+
+
+
+    |---|---|
+
+
+
+    |1|Je parle peu, mais jamais pour ne rien dire.|
+
+
+
+    |2|Je me mets toujours dans un recoin de la pièce, <!--br-->pour mieux observer mon environnement.|
+
+
+
+    |3|Les gens trop bavards me donnent mal à la <!--br-->tête. J'apprécie le calme avant tout.|
+
+
+
+    |4|Dès que je le peux, je m'éloigne des autres, et <!--br-->des lieux habités, afin de retrouver la nature et <!--br-->la solitude qui sont miennes.|
+
+
+
+    |5|J'ai toujours l'impression que quelqu'un me <!--br-->suit quand je suis en ville.|
+
+
+
+    |6|Je déteste le regard que les gens posent sur <!--br-->moi. Ils me jugent, je le sais.|
+
+
+
+    |7|Parfois, je plonge dans mes pensées et m'y <!--br-->perds. Et cela se voit.|
+
+
+
+    |8|J'ai toujours une pensée philosophique et <!--br-->profonde appropriée à la situation.|
+
+
+
+  Table: >+
+
+    |d8|Trait de personnalité|
+
+
+
+    |---|---|
+
+
+
+    |1|Je parle peu, mais jamais pour ne rien dire.|
+
+
+
+    |2|Je me mets toujours dans un recoin de la pièce, <!--br-->pour mieux observer mon environnement.|
+
+
+
+    |3|Les gens trop bavards me donnent mal à la <!--br-->tête. J'apprécie le calme avant tout.|
+
+
+
+    |4|Dès que je le peux, je m'éloigne des autres, et <!--br-->des lieux habités, afin de retrouver la nature et <!--br-->la solitude qui sont miennes.|
+
+
+
+    |5|J'ai toujours l'impression que quelqu'un me <!--br-->suit quand je suis en ville.|
+
+
+
+    |6|Je déteste le regard que les gens posent sur <!--br-->moi. Ils me jugent, je le sais.|
+
+
+
+    |7|Parfois, je plonge dans mes pensées et m'y <!--br-->perds. Et cela se voit.|
+
+
+
+    |8|J'ai toujours une pensée philosophique et <!--br-->profonde appropriée à la situation.|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_solitaire_personnalites_suggerees.md)

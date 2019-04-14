@@ -8,9 +8,73 @@ ParentLink: background_erudit_hd.md#Érudit
 Name: 'Variante : Juriste'
 ParentName: Érudit
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Juriste'
+  Markdown: >+
+    ### <!--Name-->Variante : Juriste<!--/Name-->
+
+
+    Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages essentiels de la justice et de la société civile médiévale. L'art du juriste mêle la rhétorique, la logique, la connaissance des textes anciens aussi bien que la théologie.
+
+
+    **Compétences :** <!--Abilities-->Histoire ou Religion, Persuasion.<!--/Abilities-->
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
+
+
+    **Équipement :** <!--Equipment-->Habits de bonne qualité, symbole ou emblème attestant de votre charge ou vos compétences, étui à parchemins avec 10 feuilles, plume et encre, bourse contenant 20 po.<!--/Equipment-->
+
+  Description: >+
+    Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages essentiels de la justice et de la société civile médiévale. L'art du juriste mêle la rhétorique, la logique, la connaissance des textes anciens aussi bien que la théologie.
+
+  Abilities: Histoire ou Religion, Persuasion.
+  MasteredLanguages: Deux langues au choix.
+  Equipment: Habits de bonne qualité, symbole ou emblème attestant de votre charge ou vos compétences, étui à parchemins avec 10 feuilles, plume et encre, bourse contenant 20 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Juriste'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Juriste<!--/Name-->
+
+
+
+
+
+    Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages essentiels de la justice et de la société civile médiévale. L'art du juriste mêle la rhétorique, la logique, la connaissance des textes anciens aussi bien que la théologie.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Histoire ou Religion, Persuasion.<!--/Abilities-->
+
+
+
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Habits de bonne qualité, symbole ou emblème attestant de votre charge ou vos compétences, étui à parchemins avec 10 feuilles, plume et encre, bourse contenant 20 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages essentiels de la justice et de la société civile médiévale. L'art du juriste mêle la rhétorique, la logique, la connaissance des textes anciens aussi bien que la théologie.
+
+
+
+  Abilities: Histoire ou Religion, Persuasion.
+
+  MasteredLanguages: Deux langues au choix.
+
+  Equipment: Habits de bonne qualité, symbole ou emblème attestant de votre charge ou vos compétences, étui à parchemins avec 10 feuilles, plume et encre, bourse contenant 20 po.
 
 Description: >+
   Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages essentiels de la justice et de la société civile médiévale. L'art du juriste mêle la rhétorique, la logique, la connaissance des textes anciens aussi bien que la théologie.

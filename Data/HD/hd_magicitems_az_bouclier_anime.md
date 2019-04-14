@@ -10,9 +10,64 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Animated Shield (SRD p208)
 Source: (COC p153)
-Attributes: {}
+Attributes:
+  Name: Bouclier animé
+  Markdown: >+
+    ### <!--Name-->Bouclier animé<!--/Name-->
+
+
+    - AltName: <!--AltName-->Animated Shield (SRD p208)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p153)<!--/Source-->
+
+    -  <!--Type-->Armure (bouclier)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+    Tant que vous maniez ce bouclier, vous pouvez prononcer son mot de commande par une action bonus. Il s'anime alors, bondit dans les airs et flotte dans votre emplacement pour vous protéger comme si vous le teniez alors que vous gardez les mains libres. Il reste animé pendant 1 minute, jusqu'à ce que vous utilisiez une action bonus pour mettre un terme à l'effet ou jusqu'à ce que vous soyez neutralisé ou mort. Il tombe alors à terre ou revient dans votre main si vous avez une main libre.
+
+  AltName: Animated Shield (SRD p208)
+  Source: (COC p153)
+  Type: Armure (bouclier)
+  Rarity: très rare
+  Attunement: harmonisation requise
 AttributesDictionary: >+
-  {}
+  Name: Bouclier animé
+
+  Markdown: >+
+
+    ### <!--Name-->Bouclier animé<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Animated Shield (SRD p208)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p153)<!--/Source-->
+
+
+
+    -  <!--Type-->Armure (bouclier)<!--/Type-->, <!--Rarity-->très rare<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+
+
+
+    Tant que vous maniez ce bouclier, vous pouvez prononcer son mot de commande par une action bonus. Il s'anime alors, bondit dans les airs et flotte dans votre emplacement pour vous protéger comme si vous le teniez alors que vous gardez les mains libres. Il reste animé pendant 1 minute, jusqu'à ce que vous utilisiez une action bonus pour mettre un terme à l'effet ou jusqu'à ce que vous soyez neutralisé ou mort. Il tombe alors à terre ou revient dans votre main si vous avez une main libre.
+
+
+
+  AltName: Animated Shield (SRD p208)
+
+  Source: (COC p153)
+
+  Type: Armure (bouclier)
+
+  Rarity: très rare
+
+  Attunement: harmonisation requise
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

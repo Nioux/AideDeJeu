@@ -22,9 +22,139 @@ ParentLink: background_itinerant_hd.md#variante--saltimbanque
 Name: Spécialité
 ParentName: 'Variante : Saltimbanque'
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: Spécialité
+  Markdown: >+
+    #### <!--Name-->Spécialité<!--/Name-->
+
+
+    Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner votre vie. Ce dernier vous ouvre l'accès à la maîtrise d'une compétence spécifique.
+
+
+    |d6|Spécialité|
+
+    |---|---|
+
+    |1|Musicien/Conteur (Histoire ou Religion)|
+
+    |2|Acteur (Persuasion ou Supercherie)|
+
+    |3|Acrobate (Acrobaties)|
+
+    |4|Jongleur (Escamotage)|
+
+    |5|Montreur d'animaux (Dressage)|
+
+    |6|Diseuse de bonne aventure (Perspicacité)|
+
+  Description: >+
+    Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner votre vie. Ce dernier vous ouvre l'accès à la maîtrise d'une compétence spécifique.
+
+  Table: >+
+    |d6|Spécialité|
+
+    |---|---|
+
+    |1|Musicien/Conteur (Histoire ou Religion)|
+
+    |2|Acteur (Persuasion ou Supercherie)|
+
+    |3|Acrobate (Acrobaties)|
+
+    |4|Jongleur (Escamotage)|
+
+    |5|Montreur d'animaux (Dressage)|
+
+    |6|Diseuse de bonne aventure (Perspicacité)|
+
 AttributesDictionary: >+
-  {}
+  Name: Spécialité
+
+  Markdown: >+
+
+    #### <!--Name-->Spécialité<!--/Name-->
+
+
+
+
+
+    Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner votre vie. Ce dernier vous ouvre l'accès à la maîtrise d'une compétence spécifique.
+
+
+
+
+
+    |d6|Spécialité|
+
+
+
+    |---|---|
+
+
+
+    |1|Musicien/Conteur (Histoire ou Religion)|
+
+
+
+    |2|Acteur (Persuasion ou Supercherie)|
+
+
+
+    |3|Acrobate (Acrobaties)|
+
+
+
+    |4|Jongleur (Escamotage)|
+
+
+
+    |5|Montreur d'animaux (Dressage)|
+
+
+
+    |6|Diseuse de bonne aventure (Perspicacité)|
+
+
+
+  Description: >+
+
+    Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner votre vie. Ce dernier vous ouvre l'accès à la maîtrise d'une compétence spécifique.
+
+
+
+  Table: >+
+
+    |d6|Spécialité|
+
+
+
+    |---|---|
+
+
+
+    |1|Musicien/Conteur (Histoire ou Religion)|
+
+
+
+    |2|Acteur (Persuasion ou Supercherie)|
+
+
+
+    |3|Acrobate (Acrobaties)|
+
+
+
+    |4|Jongleur (Escamotage)|
+
+
+
+    |5|Montreur d'animaux (Dressage)|
+
+
+
+    |6|Diseuse de bonne aventure (Perspicacité)|
+
+
 
 Description: >+
   Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner votre vie. Ce dernier vous ouvre l'accès à la maîtrise d'une compétence spécifique.

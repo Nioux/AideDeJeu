@@ -23,9 +23,259 @@ Name: Dryad
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dryade](hd_monsters_dryade.md)'
-Attributes: {}
+Attributes:
+  Name: Dryad
+  Markdown: >+
+    # <!--Name-->Dryad<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Dryade](hd_monsters_dryade.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->11 (16 with<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence-->14 (+2)<!--/Intelligence-->|<!--Wisdom-->15 (+2)<!--/Wisdom-->|<!--Charisma-->18 (+4)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +4, Stealth +5<!--/Skills-->
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+    - **Languages** <!--Languages-->Elvish, Sylvan<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1 (200 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Innate Spellcasting_**. The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
+
+
+    At will: _[druidcraft](srd_spells_druidcraft.md)_
+
+
+    3/day each: _[entangle](srd_spells_entangle.md)_, _[goodberry](srd_spells_goodberry.md)_
+
+
+    1/day each: _[barkskin](srd_spells_barkskin.md)_, _[pass without trace](srd_spells_pass_without_trace.md)_, _[shillelagh](srd_spells_shillelagh.md)_
+
+
+    **_Magic Resistance_**. The dryad has advantage on saving throws against spells and other magical effects.
+
+
+    **_Speak with Beasts and Plants_**. The dryad can communicate with beasts and plants as if they shared a language.
+
+
+    **_Tree Stride_**. Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
+
+
+    ## Actions
+
+
+    **_Club_**. Melee Weapon Attack: +2 to hit (+6 to hit with _[shillelagh](srd_spells_shillelagh.md)_), reach 5 ft., one target.
+
+
+    _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shillelagh](srd_spells_shillelagh.md)_.
+
+
+    **_Fey Charm_**. The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can. Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours. The dryad can have no more than one humanoid and up to three beasts charmed at a time.
+
+  AltName: '[Dryade](hd_monsters_dryade.md)'
+  Size: Medium
+  Type: fey
+  Alignment: neutral
+  ArmorClass: 11 (16 with
+  HitPoints: 22 (5d8)
+  Speed: 30 ft.
+  Strength: 10 (+0)
+  Dexterity: 12 (+1)
+  Constitution: 11 (+0)
+  Intelligence: 14 (+2)
+  Wisdom: 15 (+2)
+  Charisma: 18 (+4)
+  Skills: Perception +4, Stealth +5
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Elvish, Sylvan
+  Challenge: 1 (200 XP)
 AttributesDictionary: >+
-  {}
+  Name: Dryad
+
+  Markdown: >+
+
+    # <!--Name-->Dryad<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Dryade](hd_monsters_dryade.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->11 (16 with<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence-->14 (+2)<!--/Intelligence-->|<!--Wisdom-->15 (+2)<!--/Wisdom-->|<!--Charisma-->18 (+4)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +4, Stealth +5<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Elvish, Sylvan<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1 (200 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Innate Spellcasting_**. The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
+
+
+
+
+
+    At will: _[druidcraft](srd_spells_druidcraft.md)_
+
+
+
+
+
+    3/day each: _[entangle](srd_spells_entangle.md)_, _[goodberry](srd_spells_goodberry.md)_
+
+
+
+
+
+    1/day each: _[barkskin](srd_spells_barkskin.md)_, _[pass without trace](srd_spells_pass_without_trace.md)_, _[shillelagh](srd_spells_shillelagh.md)_
+
+
+
+
+
+    **_Magic Resistance_**. The dryad has advantage on saving throws against spells and other magical effects.
+
+
+
+
+
+    **_Speak with Beasts and Plants_**. The dryad can communicate with beasts and plants as if they shared a language.
+
+
+
+
+
+    **_Tree Stride_**. Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Club_**. Melee Weapon Attack: +2 to hit (+6 to hit with _[shillelagh](srd_spells_shillelagh.md)_), reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shillelagh](srd_spells_shillelagh.md)_.
+
+
+
+
+
+    **_Fey Charm_**. The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can. Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours. The dryad can have no more than one humanoid and up to three beasts charmed at a time.
+
+
+
+  AltName: '[Dryade](hd_monsters_dryade.md)'
+
+  Size: Medium
+
+  Type: fey
+
+  Alignment: neutral
+
+  ArmorClass: 11 (16 with
+
+  HitPoints: 22 (5d8)
+
+  Speed: 30 ft.
+
+  Strength: 10 (+0)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 11 (+0)
+
+  Intelligence: 14 (+2)
+
+  Wisdom: 15 (+2)
+
+  Charisma: 18 (+4)
+
+  Skills: Perception +4, Stealth +5
+
+  Senses: darkvision 60 ft., passive Perception 14
+
+  Languages: Elvish, Sylvan
+
+  Challenge: 1 (200 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

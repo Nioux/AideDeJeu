@@ -24,9 +24,286 @@ Name: Weretiger
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Tigre-garou](hd_monsters_tigre_garou.md)'
-Attributes: {}
+Attributes:
+  Name: Weretiger
+  Markdown: >+
+    # <!--Name-->Weretiger<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Tigre-garou](hd_monsters_tigre_garou.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->120 (16d8 + 48)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft. (40 ft. in tiger form)<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->17 (+3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->11 (+0)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +5, Stealth +4<!--/Skills-->
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 15<!--/Senses-->
+
+    - **Languages** <!--Languages-->Common (can't speak in tiger form)<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->4 (1100 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons<!--/DamageImmunities-->
+
+
+    ## Special Features
+
+
+    **_Shapechanger_**. The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+
+    **_Keen Hearing and Smell_**. The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+
+    **_Pounce (Tiger or Hybrid Form Only)_**. If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+
+
+    ## Actions
+
+
+    **_Multiattack (Humanoid or Hybrid Form Only)_**. In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
+
+
+    **_Bite (Tiger or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
+
+
+    **_Claw (Tiger or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 7 (1d8 + 3) slashing damage.
+
+
+    **_Scimitar (Humanoid or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 6 (1d6 + 3) slashing damage.
+
+
+    **_Longbow (Humanoid or Hybrid Form Only)_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target.
+
+
+    _Hit_: 6 (1d8 + 2) piercing damage.
+
+  AltName: '[Tigre-garou](hd_monsters_tigre_garou.md)'
+  Size: Medium
+  Type: humanoid (human
+  Alignment: shapechanger), neutral
+  ArmorClass: 12
+  HitPoints: 120 (16d8 + 48)
+  Speed: 30 ft. (40 ft. in tiger form)
+  Strength: 17 (+3)
+  Dexterity: 15 (+2)
+  Constitution: 16 (+3)
+  Intelligence: 10 (+0)
+  Wisdom: 13 (+1)
+  Charisma: 11 (+0)
+  Skills: Perception +5, Stealth +4
+  Senses: darkvision 60 ft., passive Perception 15
+  Languages: Common (can't speak in tiger form)
+  Challenge: 4 (1100 XP)
+  DamageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 AttributesDictionary: >+
-  {}
+  Name: Weretiger
+
+  Markdown: >+
+
+    # <!--Name-->Weretiger<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Tigre-garou](hd_monsters_tigre_garou.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->120 (16d8 + 48)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft. (40 ft. in tiger form)<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->17 (+3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->11 (+0)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +5, Stealth +4<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 15<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Common (can't speak in tiger form)<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->4 (1100 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons<!--/DamageImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Shapechanger_**. The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+
+
+
+
+    **_Keen Hearing and Smell_**. The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+
+
+
+
+    **_Pounce (Tiger or Hybrid Form Only)_**. If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack (Humanoid or Hybrid Form Only)_**. In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
+
+
+
+
+
+    **_Bite (Tiger or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
+
+
+
+
+
+    **_Claw (Tiger or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 7 (1d8 + 3) slashing damage.
+
+
+
+
+
+    **_Scimitar (Humanoid or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 6 (1d6 + 3) slashing damage.
+
+
+
+
+
+    **_Longbow (Humanoid or Hybrid Form Only)_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target.
+
+
+
+
+
+    _Hit_: 6 (1d8 + 2) piercing damage.
+
+
+
+  AltName: '[Tigre-garou](hd_monsters_tigre_garou.md)'
+
+  Size: Medium
+
+  Type: humanoid (human
+
+  Alignment: shapechanger), neutral
+
+  ArmorClass: 12
+
+  HitPoints: 120 (16d8 + 48)
+
+  Speed: 30 ft. (40 ft. in tiger form)
+
+  Strength: 17 (+3)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 16 (+3)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 13 (+1)
+
+  Charisma: 11 (+0)
+
+  Skills: Perception +5, Stealth +4
+
+  Senses: darkvision 60 ft., passive Perception 15
+
+  Languages: Common (can't speak in tiger form)
+
+  Challenge: 4 (1100 XP)
+
+  DamageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

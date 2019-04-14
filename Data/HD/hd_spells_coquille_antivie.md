@@ -15,9 +15,154 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Antilife Shell](srd_spells_antilife_shell.md)'
 Source: (MDR p342)(SRD)
-Attributes: {}
+Attributes:
+  Name: Coquille antivie
+  Markdown: >+
+    # <!--Name-->Coquille antivie<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Antilife Shell](srd_spells_antilife_shell.md)<!--/AltName-->
+
+
+    -  <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->personnelle (3 mètres de rayon)<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Druide](hd_druid.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p342)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Une barrière scintillante se déploie depuis votre personne, jusqu'à englober une zone d'un rayon de 3 mètres. Elle se déplace avec vous, reste centrée sur vous et repousse les créatures autres que les morts-vivants et les créatures artificielles. Cette barrière persiste pendant toute la durée du sort.
+
+
+    La barrière empêche les créatures affectées de la franchir ou de passer un membre au travers. Une créature affectée peut lancer des sorts ou porter des attaques à distance ou via une arme à allonge, tout cela franchissant la barrière.
+
+
+    Si vous vous déplacez de telle manière qu'une créature affectée est contrainte de traverser la barrière, le sort se termine.
+
+  AltName: '[Antilife Shell](srd_spells_antilife_shell.md)'
+  Type: Abjuration
+  Level: 5
+  CastingTime: 1 action
+  Range: personnelle (3 mètres de rayon)
+  Components: V, S
+  Duration: concentration, jusqu'à 1 heure
+  Classes: '[Druide](hd_druid.md)'
+  Source: (MDR p342)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Coquille antivie
+
+  Markdown: >+
+
+    # <!--Name-->Coquille antivie<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Antilife Shell](srd_spells_antilife_shell.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->personnelle (3 mètres de rayon)<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Druide](hd_druid.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p342)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Une barrière scintillante se déploie depuis votre personne, jusqu'à englober une zone d'un rayon de 3 mètres. Elle se déplace avec vous, reste centrée sur vous et repousse les créatures autres que les morts-vivants et les créatures artificielles. Cette barrière persiste pendant toute la durée du sort.
+
+
+
+
+
+    La barrière empêche les créatures affectées de la franchir ou de passer un membre au travers. Une créature affectée peut lancer des sorts ou porter des attaques à distance ou via une arme à allonge, tout cela franchissant la barrière.
+
+
+
+
+
+    Si vous vous déplacez de telle manière qu'une créature affectée est contrainte de traverser la barrière, le sort se termine.
+
+
+
+  AltName: '[Antilife Shell](srd_spells_antilife_shell.md)'
+
+  Type: Abjuration
+
+  Level: 5
+
+  CastingTime: 1 action
+
+  Range: personnelle (3 mètres de rayon)
+
+  Components: V, S
+
+  Duration: concentration, jusqu'à 1 heure
+
+  Classes: '[Druide](hd_druid.md)'
+
+  Source: (MDR p342)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

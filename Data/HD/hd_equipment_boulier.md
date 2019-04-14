@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Boulier
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Boulier
+  Markdown: >+
+    # <!--Name-->Boulier<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->2 po<!--/Price-->
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+  Type: Équipement d'aventurier
+  Price: 2 po
+  Weight: 1 kg
 AttributesDictionary: >+
-  {}
+  Name: Boulier
+
+  Markdown: >+
+
+    # <!--Name-->Boulier<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->2 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 2 po
+
+  Weight: 1 kg
 
 ---
 > [Équipement](hd_equipment.md)

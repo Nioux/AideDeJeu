@@ -7,9 +7,64 @@ RootId: ranger_pisteur_hd.md
 ParentLink: ranger_hd.md#archétypes-de-rôdeurs
 ParentName: Archétypes de rôdeur
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Pisteur : un rôdeur alternatif<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p200)<!--/Source-->
+
+
+    Pour obtenir un rôdeur moins basé sur la magie, vous pouvez opter pour l'aptitude rustique dès que le personnage atteint le niveau 3. Cette aptitude réduit votre accès à la magie et, en échange, vous pouvez choisir deux archétypes de rôdeur de votre choix (à l'exception d'archer arcanique) au lieu d'un seul et en cumuler les aptitudes. Cela revient à limiter votre accès à la magie en échange d'autres aptitudes.
+
+  Name: 'Pisteur : un rôdeur alternatif'
+  Source: (MDR p200)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Pisteur : un rôdeur alternatif<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p200)<!--/Source-->
+
+
+
+
+
+    Pour obtenir un rôdeur moins basé sur la magie, vous pouvez opter pour l'aptitude rustique dès que le personnage atteint le niveau 3. Cette aptitude réduit votre accès à la magie et, en échange, vous pouvez choisir deux archétypes de rôdeur de votre choix (à l'exception d'archer arcanique) au lieu d'un seul et en cumuler les aptitudes. Cela revient à limiter votre accès à la magie en échange d'autres aptitudes.
+
+
+
+  Name: 'Pisteur : un rôdeur alternatif'
+
+  Source: (MDR p200)
 
 ---
 >  [Archétypes de rôdeur](ranger_hd.md#archétypes-de-rôdeurs)

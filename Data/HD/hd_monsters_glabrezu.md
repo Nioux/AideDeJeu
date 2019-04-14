@@ -27,9 +27,286 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Glabrezu
+  Markdown: >+
+    # <!--Name-->Glabrezu<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Glabrezu](srd_monsters_glabrezu.md)<!--/AltName-->
+
+    -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->157 (15d10+75)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->20 (+5)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->21 (+5)<!--/Constitution-->|<!--Intelligence-->19 (+4)<!--/Intelligence-->|<!--Wisdom-->17 (+3)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->For +9, Con +9, Sag +7, Cha +7<!--/SavingThrows-->
+
+    - **Résistance aux dégâts** <!--DamageResistances-->de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques<!--/DamageResistances-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[empoisonné](hd_conditions_empoisonne.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+    - **Langues** <!--Languages-->abyssal, télépathie 36 m<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->9 (5 000 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Incantation innée._** La caractéristique d'incantation du glabrezu est l'[Intelligence](hd_abilities_intelligence.md) (DD du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts 16). Le glabrezu peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+
+
+    * **À volonté :** _[détection de la magie](hd_spells_detection_de_la_magie.md)_, _[dissipation de la magie](hd_spells_dissipation_de_la_magie.md)_, _[ténèbres](hd_spells_tenebres.md)_
+
+
+    * **1/jour chacun :** _[confusion](hd_spells_confusion.md)_, _[mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)_, _[vol](hd_spells_vol.md)_
+
+
+    **_Résistance à la magie._** Le glabrezu obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts et autres effets magiques.
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** Le glabrezu effectue quatre attaques : deux avec ses pinces et deux avec ses poings. Sinon, il effectue deux attaques avec ses pinces et lance un sort.
+
+
+    **_Pince._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une cible.
+
+
+    _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle est [empoignée](hd_conditions_empoigne.md) (évasion DD 15). Le glabrezu a deux pinces dont chacune peut empoigner qu'une seule créature.
+
+
+    **_Poing._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 7 (2d4+2) dégâts contondants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
+  Type: Fiélon (démon)
+  Size: G
+  Alignment: Chaotique Mauvais
+  ArmorClass: 17 (armure naturelle)
+  HitPoints: 157 (15d10+75)
+  Speed: 12 m
+  Strength: 20 (+5)
+  Dexterity: 15 (+2)
+  Constitution: 21 (+5)
+  Intelligence: 19 (+4)
+  Wisdom: 17 (+3)
+  Charisma: 16 (+3)
+  SavingThrows: For +9, Con +9, Sag +7, Cha +7
+  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: abyssal, télépathie 36 m
+  Challenge: 9 (5 000 PX)
 AttributesDictionary: >+
-  {}
+  Name: Glabrezu
+
+  Markdown: >+
+
+    # <!--Name-->Glabrezu<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Glabrezu](srd_monsters_glabrezu.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->157 (15d10+75)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->20 (+5)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->21 (+5)<!--/Constitution-->|<!--Intelligence-->19 (+4)<!--/Intelligence-->|<!--Wisdom-->17 (+3)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->For +9, Con +9, Sag +7, Cha +7<!--/SavingThrows-->
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
+
+
+
+    - **Immunité contre l'état** <!--ConditionImmunities-->[empoisonné](hd_conditions_empoisonne.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->abyssal, télépathie 36 m<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->9 (5 000 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Incantation innée._** La caractéristique d'incantation du glabrezu est l'[Intelligence](hd_abilities_intelligence.md) (DD du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts 16). Le glabrezu peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+
+
+
+
+
+    * **À volonté :** _[détection de la magie](hd_spells_detection_de_la_magie.md)_, _[dissipation de la magie](hd_spells_dissipation_de_la_magie.md)_, _[ténèbres](hd_spells_tenebres.md)_
+
+
+
+
+
+    * **1/jour chacun :** _[confusion](hd_spells_confusion.md)_, _[mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)_, _[vol](hd_spells_vol.md)_
+
+
+
+
+
+    **_Résistance à la magie._** Le glabrezu obtient un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts et autres effets magiques.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** Le glabrezu effectue quatre attaques : deux avec ses pinces et deux avec ses poings. Sinon, il effectue deux attaques avec ses pinces et lance un sort.
+
+
+
+
+
+    **_Pince._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une cible.
+
+
+
+
+
+    _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle est [empoignée](hd_conditions_empoigne.md) (évasion DD 15). Le glabrezu a deux pinces dont chacune peut empoigner qu'une seule créature.
+
+
+
+
+
+    **_Poing._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 7 (2d4+2) dégâts contondants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
+
+  Type: Fiélon (démon)
+
+  Size: G
+
+  Alignment: Chaotique Mauvais
+
+  ArmorClass: 17 (armure naturelle)
+
+  HitPoints: 157 (15d10+75)
+
+  Speed: 12 m
+
+  Strength: 20 (+5)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 21 (+5)
+
+  Intelligence: 19 (+4)
+
+  Wisdom: 17 (+3)
+
+  Charisma: 16 (+3)
+
+  SavingThrows: For +9, Con +9, Sag +7, Cha +7
+
+  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+
+  DamageImmunities: de poison
+
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+
+  Languages: abyssal, télépathie 36 m
+
+  Challenge: 9 (5 000 PX)
 
 ---
 > [Créatures](hd_monsters.md)

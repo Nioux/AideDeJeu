@@ -24,9 +24,223 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Araignée de phase
+  Markdown: >+
+    # <!--Name-->Araignée de phase<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Phase Spider](srd_monsters_phase_spider.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->32 (5d10+5)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 6 (-6)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +6<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Marche dans les toiles._** L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+
+    **_Pattes d'araignée._** L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+
+
+    **_Saut éthéré._** Par une action bonus, l'araignée peut passer dans le plan Éthéré depuis le plan Matériel ou vice versa.
+
+
+    ## Actions
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+
+    _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 11. Elle subit 18 (4d8) dégâts de poison en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée](hd_conditions_empoisonne.md) pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée](hd_conditions_paralyse.md) tant que le poison continue de faire effet.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
+  Type: Bête
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 13 (armure naturelle)
+  HitPoints: 32 (5d10+5)
+  Speed: 9 m, escalade 9 m
+  Strength: 15 (+2)
+  Dexterity: 15 (+2)
+  Constitution: 12 (+1)
+  Intelligence: ' 6 (-2)'
+  Wisdom: 10 (+0)
+  Charisma: ' 6 (-6)'
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 3 (700 PX)
 AttributesDictionary: >+
-  {}
+  Name: Araignée de phase
+
+  Markdown: >+
+
+    # <!--Name-->Araignée de phase<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Phase Spider](srd_monsters_phase_spider.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->32 (5d10+5)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 6 (-6)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +6<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Marche dans les toiles._** L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+
+
+
+
+    **_Pattes d'araignée._** L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+
+
+
+
+
+    **_Saut éthéré._** Par une action bonus, l'araignée peut passer dans le plan Éthéré depuis le plan Matériel ou vice versa.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+
+
+
+
+    _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 11. Elle subit 18 (4d8) dégâts de poison en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée](hd_conditions_empoisonne.md) pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée](hd_conditions_paralyse.md) tant que le poison continue de faire effet.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
+
+  Type: Bête
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 13 (armure naturelle)
+
+  HitPoints: 32 (5d10+5)
+
+  Speed: 9 m, escalade 9 m
+
+  Strength: 15 (+2)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 12 (+1)
+
+  Intelligence: ' 6 (-2)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 6 (-6)'
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+
+  Languages: —
+
+  Challenge: 3 (700 PX)
 
 ---
 > [Créatures](hd_monsters.md)

@@ -5,9 +5,37 @@ ParentLink: alignment_hd.md#alignement
 Name: Chaotique Mauvais (CM)
 ParentName: Alignement
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: Chaotique Mauvais (CM)
+  Markdown: >+
+    #### <!--Name-->Chaotique Mauvais (CM)<!--/Name-->
+
+
+    Ces créatures n'hésitent pas à être violentes de manière arbitraire. Elles se laissent mener par leur cupidité, leur haine ou leur soif de sang. Les démons, les dragons rouges et les orcs sont d'alignement Chaotique Mauvais.
+
+  Description: >+
+    Ces créatures n'hésitent pas à être violentes de manière arbitraire. Elles se laissent mener par leur cupidité, leur haine ou leur soif de sang. Les démons, les dragons rouges et les orcs sont d'alignement Chaotique Mauvais.
+
 AttributesDictionary: >+
-  {}
+  Name: Chaotique Mauvais (CM)
+
+  Markdown: >+
+
+    #### <!--Name-->Chaotique Mauvais (CM)<!--/Name-->
+
+
+
+
+
+    Ces créatures n'hésitent pas à être violentes de manière arbitraire. Elles se laissent mener par leur cupidité, leur haine ou leur soif de sang. Les démons, les dragons rouges et les orcs sont d'alignement Chaotique Mauvais.
+
+
+
+  Description: >+
+
+    Ces créatures n'hésitent pas à être violentes de manière arbitraire. Elles se laissent mener par leur cupidité, leur haine ou leur soif de sang. Les démons, les dragons rouges et les orcs sont d'alignement Chaotique Mauvais.
+
+
 
 Description: >+
   Ces créatures n'hésitent pas à être violentes de manière arbitraire. Elles se laissent mener par leur cupidité, leur haine ou leur soif de sang. Les démons, les dragons rouges et les orcs sont d'alignement Chaotique Mauvais.

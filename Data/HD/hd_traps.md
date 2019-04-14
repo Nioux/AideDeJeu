@@ -8,9 +8,82 @@ ParentName: Créatures et oppositions
 NameLevel: 2
 AltName: 'Traps '
 Source: (CEO 374)(SRD p195)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Créatures et oppositions](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Créatures et oppositions](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    ## <!--Name-->Les pièges<!--/Name-->
+
+
+    - AltName: <!--AltName-->Traps <!--/AltName-->
+
+    - Source: <!--Source-->(CEO 374)(SRD p195)<!--/Source-->
+
+
+    Les pièges se trouvent partout ou presque. Il suffit d'un faux pas dans une tombe millénaire pour mettre en mouvement toute une série de lames affûtées qui tranchent les armures comme les os. Ces plantes qui pendent innocemment au-dessus de l'entrée d'une caverne et forment un rideau devant pourraient bien s'enrouler autour du cou du premier qui tente de les écarter. Un filet peut être caché dans les arbres et tomber sur les voyageurs qui passent dessous. Dans un monde fantastique, les aventuriers imprudents risquent fort de faire une chute mortelle, d'être brûlés vifs ou de se trouver victimes d'une volée de fléchettes empoisonnées.
+
+
+    Un piège est de nature ordinaire ou magique. Parmi les pièges mécaniques se trouvent les fosses, les volées de flèches, les chutes de pierre, les salles inondables, les lames tournoyantes et tout ce qui opère grâce à un mécanisme quelconque. Les pièges magiques sont soit des pièges basés sur un objet magique, soit des pièges basés sur un sort. Un piège comprenant un objet magique provoque un effet de sort quand on le déclenche, tandis que l'autre catégorie regroupe les sorts fonctionnant comme des pièges, comme [glyphe de protection] et [symbole].
+
+  Name: Les pièges
+  AltName: 'Traps '
+  Source: (CEO 374)(SRD p195)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Créatures et oppositions](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Créatures et oppositions](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    ## <!--Name-->Les pièges<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Traps <!--/AltName-->
+
+
+
+    - Source: <!--Source-->(CEO 374)(SRD p195)<!--/Source-->
+
+
+
+
+
+    Les pièges se trouvent partout ou presque. Il suffit d'un faux pas dans une tombe millénaire pour mettre en mouvement toute une série de lames affûtées qui tranchent les armures comme les os. Ces plantes qui pendent innocemment au-dessus de l'entrée d'une caverne et forment un rideau devant pourraient bien s'enrouler autour du cou du premier qui tente de les écarter. Un filet peut être caché dans les arbres et tomber sur les voyageurs qui passent dessous. Dans un monde fantastique, les aventuriers imprudents risquent fort de faire une chute mortelle, d'être brûlés vifs ou de se trouver victimes d'une volée de fléchettes empoisonnées.
+
+
+
+
+
+    Un piège est de nature ordinaire ou magique. Parmi les pièges mécaniques se trouvent les fosses, les volées de flèches, les chutes de pierre, les salles inondables, les lames tournoyantes et tout ce qui opère grâce à un mécanisme quelconque. Les pièges magiques sont soit des pièges basés sur un objet magique, soit des pièges basés sur un sort. Un piège comprenant un objet magique provoque un effet de sort quand on le déclenche, tandis que l'autre catégorie regroupe les sorts fonctionnant comme des pièges, comme [glyphe de protection] et [symbole].
+
+
+
+  Name: Les pièges
+
+  AltName: 'Traps '
+
+  Source: (CEO 374)(SRD p195)
 
 ---
 >  [Créatures et oppositions](index.md)

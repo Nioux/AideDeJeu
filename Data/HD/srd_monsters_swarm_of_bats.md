@@ -24,9 +24,223 @@ Name: Swarm of Bats
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)'
-Attributes: {}
+Attributes:
+  Name: Swarm of Bats
+  Markdown: >+
+    # <!--Name-->Swarm of Bats<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->0 ft., fly 30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 5 (-3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 4 (-3)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->blindsight 60 ft., passive Perception 11<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+    - **Damage Resistances** <!--DamageResistances-->bludgeoning, piercing, slashing<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Echolocation_**. The swarm can't use its blindsight while deafened.
+
+
+    **_Keen Hearing_**. The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
+
+
+    **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
+
+
+    ## Actions
+
+
+    **_Bites_**. Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space.
+
+
+    _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
+
+  AltName: '[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)'
+  Size: Medium
+  Type: swarm of Tiny beasts
+  Alignment: unaligned
+  ArmorClass: 12
+  HitPoints: 22 (5d8)
+  Speed: 0 ft., fly 30 ft.
+  Strength: ' 5 (-3)'
+  Dexterity: 15 (+2)
+  Constitution: 10 (+0)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 12 (+1)
+  Charisma: ' 4 (-3)'
+  Senses: blindsight 60 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
+  DamageResistances: bludgeoning, piercing, slashing
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 AttributesDictionary: >+
-  {}
+  Name: Swarm of Bats
+
+  Markdown: >+
+
+    # <!--Name-->Swarm of Bats<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->0 ft., fly 30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 5 (-3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 4 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->blindsight 60 ft., passive Perception 11<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/4 (50 XP)<!--/Challenge-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->bludgeoning, piercing, slashing<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Echolocation_**. The swarm can't use its blindsight while deafened.
+
+
+
+
+
+    **_Keen Hearing_**. The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
+
+
+
+
+
+    **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Bites_**. Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space.
+
+
+
+
+
+    _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
+
+
+
+  AltName: '[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)'
+
+  Size: Medium
+
+  Type: swarm of Tiny beasts
+
+  Alignment: unaligned
+
+  ArmorClass: 12
+
+  HitPoints: 22 (5d8)
+
+  Speed: 0 ft., fly 30 ft.
+
+  Strength: ' 5 (-3)'
+
+  Dexterity: 15 (+2)
+
+  Constitution: 10 (+0)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 4 (-3)'
+
+  Senses: blindsight 60 ft., passive Perception 11
+
+  Languages: '-'
+
+  Challenge: 1/4 (50 XP)
+
+  DamageResistances: bludgeoning, piercing, slashing
+
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

@@ -22,9 +22,214 @@ Name: Kobold
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Kobold](hd_monsters_kobold.md)'
-Attributes: {}
+Attributes:
+  Name: Kobold
+  Markdown: >+
+    # <!--Name-->Kobold<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Kobold](hd_monsters_kobold.md)<!--/AltName-->
+
+    -  <!--Size-->Small<!--/Size--> <!--Type-->humanoid (kobold)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->5 (2d6 - 2)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 7 (-2)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution--> 9 (-1)<!--/Constitution-->|<!--Intelligence--> 8 (-1)<!--/Intelligence-->|<!--Wisdom--> 7 (-2)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 8<!--/Senses-->
+
+    - **Languages** <!--Languages-->Common, Draconic<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Sunlight Sensitivity_**. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+
+    **_Pack Tactics_**. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+
+    ## Actions
+
+
+    **_Dagger_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 4 (1d4 + 2) piercing damage.
+
+
+    **_Sling_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target.
+
+
+    _Hit_: 4 (1d4 + 2) bludgeoning damage.
+
+  AltName: '[Kobold](hd_monsters_kobold.md)'
+  Size: Small
+  Type: humanoid (kobold)
+  Alignment: lawful evil
+  ArmorClass: 12
+  HitPoints: 5 (2d6 - 2)
+  Speed: 30 ft.
+  Strength: ' 7 (-2)'
+  Dexterity: 15 (+2)
+  Constitution: ' 9 (-1)'
+  Intelligence: ' 8 (-1)'
+  Wisdom: ' 7 (-2)'
+  Charisma: ' 8 (-1)'
+  Senses: darkvision 60 ft., passive Perception 8
+  Languages: Common, Draconic
+  Challenge: 1/8 (25 XP)
 AttributesDictionary: >+
-  {}
+  Name: Kobold
+
+  Markdown: >+
+
+    # <!--Name-->Kobold<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Kobold](hd_monsters_kobold.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Small<!--/Size--> <!--Type-->humanoid (kobold)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->5 (2d6 - 2)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 7 (-2)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution--> 9 (-1)<!--/Constitution-->|<!--Intelligence--> 8 (-1)<!--/Intelligence-->|<!--Wisdom--> 7 (-2)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 8<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Common, Draconic<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Sunlight Sensitivity_**. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+
+
+
+
+    **_Pack Tactics_**. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Dagger_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 4 (1d4 + 2) piercing damage.
+
+
+
+
+
+    **_Sling_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target.
+
+
+
+
+
+    _Hit_: 4 (1d4 + 2) bludgeoning damage.
+
+
+
+  AltName: '[Kobold](hd_monsters_kobold.md)'
+
+  Size: Small
+
+  Type: humanoid (kobold)
+
+  Alignment: lawful evil
+
+  ArmorClass: 12
+
+  HitPoints: 5 (2d6 - 2)
+
+  Speed: 30 ft.
+
+  Strength: ' 7 (-2)'
+
+  Dexterity: 15 (+2)
+
+  Constitution: ' 9 (-1)'
+
+  Intelligence: ' 8 (-1)'
+
+  Wisdom: ' 7 (-2)'
+
+  Charisma: ' 8 (-1)'
+
+  Senses: darkvision 60 ft., passive Perception 8
+
+  Languages: Common, Draconic
+
+  Challenge: 1/8 (25 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

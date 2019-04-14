@@ -26,9 +26,241 @@ Name: Shambling Mound
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Tertre errant](hd_monsters_tertre_errant.md)'
-Attributes: {}
+Attributes:
+  Name: Shambling Mound
+  Markdown: >+
+    # <!--Name-->Shambling Mound<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Tertre errant](hd_monsters_tertre_errant.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->136 (16d10 + 48)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->20 ft., swim 20 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity--> 8 (-1)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Stealth +2<!--/Skills-->
+
+    - **Senses** <!--Senses-->blindsight 60 ft. (blind beyond this radius), passive Perception 10<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->5 (1800 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->lightning<!--/DamageImmunities-->
+
+    - **Damage Resistances** <!--DamageResistances-->cold, fire<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->blinded, deafened, exhaustion<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Lightning Absorption_**. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
+
+
+    **_Slam_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 13 (2d8 + 4) bludgeoning damage.
+
+
+    **_Engulf_**. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is [blinded](srd_conditions_blinded.md), restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+
+  AltName: '[Tertre errant](hd_monsters_tertre_errant.md)'
+  Size: Large
+  Type: plant
+  Alignment: unaligned
+  ArmorClass: 15 (natural armor)
+  HitPoints: 136 (16d10 + 48)
+  Speed: 20 ft., swim 20 ft.
+  Strength: 18 (+4)
+  Dexterity: ' 8 (-1)'
+  Constitution: 16 (+3)
+  Intelligence: ' 5 (-3)'
+  Wisdom: 10 (+0)
+  Charisma: ' 5 (-3)'
+  Skills: Stealth +2
+  Senses: blindsight 60 ft. (blind beyond this radius), passive Perception 10
+  Languages: '-'
+  Challenge: 5 (1800 XP)
+  DamageImmunities: lightning
+  DamageResistances: cold, fire
+  ConditionImmunities: blinded, deafened, exhaustion
 AttributesDictionary: >+
-  {}
+  Name: Shambling Mound
+
+  Markdown: >+
+
+    # <!--Name-->Shambling Mound<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Tertre errant](hd_monsters_tertre_errant.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->136 (16d10 + 48)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->20 ft., swim 20 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity--> 8 (-1)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Stealth +2<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->blindsight 60 ft. (blind beyond this radius), passive Perception 10<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->5 (1800 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->lightning<!--/DamageImmunities-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->cold, fire<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->blinded, deafened, exhaustion<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Lightning Absorption_**. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
+
+
+
+
+
+    **_Slam_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 13 (2d8 + 4) bludgeoning damage.
+
+
+
+
+
+    **_Engulf_**. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is [blinded](srd_conditions_blinded.md), restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+
+
+
+  AltName: '[Tertre errant](hd_monsters_tertre_errant.md)'
+
+  Size: Large
+
+  Type: plant
+
+  Alignment: unaligned
+
+  ArmorClass: 15 (natural armor)
+
+  HitPoints: 136 (16d10 + 48)
+
+  Speed: 20 ft., swim 20 ft.
+
+  Strength: 18 (+4)
+
+  Dexterity: ' 8 (-1)'
+
+  Constitution: 16 (+3)
+
+  Intelligence: ' 5 (-3)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 5 (-3)'
+
+  Skills: Stealth +2
+
+  Senses: blindsight 60 ft. (blind beyond this radius), passive Perception 10
+
+  Languages: '-'
+
+  Challenge: 5 (1800 XP)
+
+  DamageImmunities: lightning
+
+  DamageResistances: cold, fire
+
+  ConditionImmunities: blinded, deafened, exhaustion
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

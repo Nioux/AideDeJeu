@@ -8,9 +8,73 @@ ParentName: Partir à l'aventure
 NameLevel: 1
 AltName: The Environment (SRD p86)
 Source: (MDR p274)
-Attributes: {}
+Attributes:
+  ParentNameLink: "[Partir à l'aventure](hd_adventure.md)"
+  Markdown: >+
+    >  <!--ParentNameLink-->[Partir à l'aventure](hd_adventure.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->L’environnement<!--/Name-->
+
+
+    - AltName: <!--AltName-->The Environment (SRD p86)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p274)<!--/Source-->
+
+
+    Par définition, l’aventure rime avec l’exploration d’endroits dangereux et mystérieux. Les règles présentées dans cette section traitent des principales manières dont les aventuriers interagissent avec leur environnement dans ce genre de situations très particulières.
+
+  Name: L’environnement
+  AltName: The Environment (SRD p86)
+  Source: (MDR p274)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: "[Partir à l'aventure](hd_adventure.md)"
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Partir à l'aventure](hd_adventure.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->L’environnement<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->The Environment (SRD p86)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p274)<!--/Source-->
+
+
+
+
+
+    Par définition, l’aventure rime avec l’exploration d’endroits dangereux et mystérieux. Les règles présentées dans cette section traitent des principales manières dont les aventuriers interagissent avec leur environnement dans ce genre de situations très particulières.
+
+
+
+  Name: L’environnement
+
+  AltName: The Environment (SRD p86)
+
+  Source: (MDR p274)
 
 ---
 >  [Partir à l'aventure](hd_adventure.md)

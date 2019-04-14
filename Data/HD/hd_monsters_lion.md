@@ -24,9 +24,241 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Lion](srd_monsters_lion.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Lion
+  Markdown: >+
+    # <!--Name-->Lion<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Lion](srd_monsters_lion.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->26 (4d10+4)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->15 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->17 (+3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3<!--/Skills-->
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Bond agressif._** Si le lion se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 13 pour ne pas être jetée [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), le lion peut effectuer une attaque de morsure contre elle par une action bonus.
+
+
+    **_Odorat aiguisé._** Le lion obtient un avantage lors des tests de [Sagesse](hd_abilities_wisdom.md) (Perception) basés sur l'odorat. Saut avec élan. Le lion peut sauter une longueur maximale de 7,50 mètres s'il prend un élan de 3 mètres.
+
+
+    **_Tactique de groupe._** Le lion obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du lion qui n'est pas [neutralisé](hd_conditions_neutralise.md), se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+
+
+    ## Actions
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 6 (1d6+3) dégâts tranchants.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 7 (1d8+3) dégâts perforants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Lion](srd_monsters_lion.md)'
+  Type: Bête
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 12
+  HitPoints: 26 (4d10+4)
+  Speed: 15 m
+  Strength: 17 (+3)
+  Dexterity: 15 (+2)
+  Constitution: 13 (+1)
+  Intelligence: ' 3 (-4)'
+  Wisdom: 12 (+1)
+  Charisma: ' 8 (-1)'
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 1 (200 PX)
 AttributesDictionary: >+
-  {}
+  Name: Lion
+
+  Markdown: >+
+
+    # <!--Name-->Lion<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Lion](srd_monsters_lion.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->26 (4d10+4)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->15 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->17 (+3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 13<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Bond agressif._** Si le lion se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 13 pour ne pas être jetée [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), le lion peut effectuer une attaque de morsure contre elle par une action bonus.
+
+
+
+
+
+    **_Odorat aiguisé._** Le lion obtient un avantage lors des tests de [Sagesse](hd_abilities_wisdom.md) (Perception) basés sur l'odorat. Saut avec élan. Le lion peut sauter une longueur maximale de 7,50 mètres s'il prend un élan de 3 mètres.
+
+
+
+
+
+    **_Tactique de groupe._** Le lion obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du lion qui n'est pas [neutralisé](hd_conditions_neutralise.md), se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 6 (1d6+3) dégâts tranchants.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 7 (1d8+3) dégâts perforants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Lion](srd_monsters_lion.md)'
+
+  Type: Bête
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 12
+
+  HitPoints: 26 (4d10+4)
+
+  Speed: 15 m
+
+  Strength: 17 (+3)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 13 (+1)
+
+  Intelligence: ' 3 (-4)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 8 (-1)'
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3'
+
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+
+  Languages: —
+
+  Challenge: 1 (200 PX)
 
 ---
 > [Créatures](hd_monsters.md)

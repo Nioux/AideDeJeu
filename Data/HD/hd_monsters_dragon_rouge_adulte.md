@@ -26,9 +26,331 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Dragon rouge adulte
+  Markdown: >+
+    # <!--Name-->Dragon rouge adulte<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Adult Red Dragon](srd_monsters_adult_red_dragon.md)<!--/AltName-->
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->256 (19d12+133)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12 m, escalade 12 m, vol 24 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->27 (+8)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->25 (+7)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->21 (+5)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +6, Con +13, Sag +7, Cha +11<!--/SavingThrows-->
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +13<!--/Skills-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu<!--/DamageImmunities-->
+
+    - **Sens** <!--Senses-->vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 23<!--/Senses-->
+
+    - **Langues** <!--Languages-->commun, draconique<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->17 (18 000 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Résistance légendaire (3/jour)._** Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) par une réussite.
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** Le dragon peut utiliser sa Présence terrifiante. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes.
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 15 (2d6+8) dégâts tranchants.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une cible.
+
+
+    _Touché :_ 19 (2d10+8) dégâts perforants plus 7 (2d6) dégâts de feu.
+
+
+    **_Présence terrifiante._** Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) DD 19 pour ne pas être [terrorisées](hd_conditions_terrorise.md) pendant 1 minute. Une créature peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+
+
+    **_Queue._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 4,50 m, une cible.
+
+
+    _Touché :_ 17 (2d8+8) dégâts contondants.
+
+
+    **_Souffle de feu (Recharge 5-6)._** Le dragon souffle du feu sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 21 ; elles subissent 63 (18d6) dégâts de feu en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+    ## Actions légendaires
+
+
+    Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois et uniquement à la fin du tour d'une autre créature. Le dragon récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
+
+
+    **_Attaque avec la queue._** Le dragon effectue une attaque de queue.
+
+
+    **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 22 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre](hd_conditions_a_terre.md). Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+
+
+    **_Détecter._** Le dragon effectue un test de [Sagesse](hd_abilities_wisdom.md) (Perception).
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
+  Type: Dragon
+  Size: TG
+  Alignment: Chaotique Mauvais
+  ArmorClass: 19 (armure naturelle)
+  HitPoints: 256 (19d12+133)
+  Speed: 12 m, escalade 12 m, vol 24 m
+  Strength: 27 (+8)
+  Dexterity: 10 (+0)
+  Constitution: 25 (+7)
+  Intelligence: 16 (+3)
+  Wisdom: 13 (+1)
+  Charisma: 21 (+5)
+  SavingThrows: Dex +6, Con +13, Sag +7, Cha +11
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +13'
+  DamageImmunities: de feu
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 23
+  Languages: commun, draconique
+  Challenge: 17 (18 000 PX)
 AttributesDictionary: >+
-  {}
+  Name: Dragon rouge adulte
+
+  Markdown: >+
+
+    # <!--Name-->Dragon rouge adulte<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Adult Red Dragon](srd_monsters_adult_red_dragon.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->256 (19d12+133)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12 m, escalade 12 m, vol 24 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->27 (+8)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->25 (+7)<!--/Constitution-->|<!--Intelligence-->16 (+3)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->21 (+5)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +6, Con +13, Sag +7, Cha +11<!--/SavingThrows-->
+
+
+
+    - **Compétences** <!--Skills-->[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +13<!--/Skills-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de feu<!--/DamageImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 23<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->commun, draconique<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->17 (18 000 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Résistance légendaire (3/jour)._** Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) par une réussite.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** Le dragon peut utiliser sa Présence terrifiante. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes.
+
+
+
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 15 (2d6+8) dégâts tranchants.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une cible.
+
+
+
+
+
+    _Touché :_ 19 (2d10+8) dégâts perforants plus 7 (2d6) dégâts de feu.
+
+
+
+
+
+    **_Présence terrifiante._** Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) DD 19 pour ne pas être [terrorisées](hd_conditions_terrorise.md) pendant 1 minute. Une créature peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+
+
+
+
+
+    **_Queue._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 4,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 17 (2d8+8) dégâts contondants.
+
+
+
+
+
+    **_Souffle de feu (Recharge 5-6)._** Le dragon souffle du feu sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 21 ; elles subissent 63 (18d6) dégâts de feu en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+
+
+    ## Actions légendaires
+
+
+
+
+
+    Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois et uniquement à la fin du tour d'une autre créature. Le dragon récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
+
+
+
+
+
+    **_Attaque avec la queue._** Le dragon effectue une attaque de queue.
+
+
+
+
+
+    **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) DD 22 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre](hd_conditions_a_terre.md). Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+
+
+
+
+
+    **_Détecter._** Le dragon effectue un test de [Sagesse](hd_abilities_wisdom.md) (Perception).
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
+
+  Type: Dragon
+
+  Size: TG
+
+  Alignment: Chaotique Mauvais
+
+  ArmorClass: 19 (armure naturelle)
+
+  HitPoints: 256 (19d12+133)
+
+  Speed: 12 m, escalade 12 m, vol 24 m
+
+  Strength: 27 (+8)
+
+  Dexterity: 10 (+0)
+
+  Constitution: 25 (+7)
+
+  Intelligence: 16 (+3)
+
+  Wisdom: 13 (+1)
+
+  Charisma: 21 (+5)
+
+  SavingThrows: Dex +6, Con +13, Sag +7, Cha +11
+
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +13'
+
+  DamageImmunities: de feu
+
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 23
+
+  Languages: commun, draconique
+
+  Challenge: 17 (18 000 PX)
 
 ---
 > [Créatures](hd_monsters.md)

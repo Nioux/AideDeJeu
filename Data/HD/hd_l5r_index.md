@@ -7,9 +7,64 @@ Name: 'Les Cinq Royaumes : Les règles spécifiques'
 ParentName: Les Cinq Royaumes
 NameLevel: 1
 Source: (L5R p42)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Les Cinq Royaumes](index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Les Cinq Royaumes : Les règles spécifiques<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p42)<!--/Source-->
+
+
+    Le jeu dans l'univers des cinq royaumes est un peu plus « dur » que dans les autres univers pour Héros & Dragons. Il comporte ses propres spécificités, imposant quelques modifications de règles. Créer un univers, c'est aussi faire des choix techniques, parfois drastiques. Ici, il s'agit de rendre la magie moins présente, voire totalement absente, de recentrer sur les PJ humains et de revoir certaines classes de personnages.
+
+  Name: 'Les Cinq Royaumes : Les règles spécifiques'
+  Source: (L5R p42)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Les Cinq Royaumes](index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Les Cinq Royaumes : Les règles spécifiques<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p42)<!--/Source-->
+
+
+
+
+
+    Le jeu dans l'univers des cinq royaumes est un peu plus « dur » que dans les autres univers pour Héros & Dragons. Il comporte ses propres spécificités, imposant quelques modifications de règles. Créer un univers, c'est aussi faire des choix techniques, parfois drastiques. Ici, il s'agit de rendre la magie moins présente, voire totalement absente, de recentrer sur les PJ humains et de revoir certaines classes de personnages.
+
+
+
+  Name: 'Les Cinq Royaumes : Les règles spécifiques'
+
+  Source: (L5R p42)
 
 ---
 >  [Les Cinq Royaumes](index.md)

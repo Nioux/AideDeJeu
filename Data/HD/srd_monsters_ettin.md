@@ -23,9 +23,232 @@ Name: Ettin
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Ettin](hd_monsters_ettin.md)'
-Attributes: {}
+Attributes:
+  Name: Ettin
+  Markdown: >+
+    # <!--Name-->Ettin<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Ettin](hd_monsters_ettin.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->85 (10d10 + 30)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->21 (+5)<!--/Strength-->|<!--Dexterity--> 8 (-1)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +4<!--/Skills-->
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+    - **Languages** <!--Languages-->Giant, Orc<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->4 (1100 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Two Heads_**. The ettin has advantage on Wisdom (Perception) checks and on saving throws against being [blinded](srd_conditions_blinded.md), charmed, deafened, frightened, stunned and knocked unconscious.
+
+
+    **_Wakeful_**. When one of the ettin's heads is asleep, its other head is awake.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The ettin makes two attacks: one with its battleaxe and one with its morningstar.
+
+
+    **_Battleaxe_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 14 (2d8 + 5) slashing damage.
+
+
+    **_Morningstar_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 14 (2d8 + 5) piercing damage.
+
+  AltName: '[Ettin](hd_monsters_ettin.md)'
+  Size: Large
+  Type: giant
+  Alignment: chaotic evil
+  ArmorClass: 12 (natural armor)
+  HitPoints: 85 (10d10 + 30)
+  Speed: 40 ft.
+  Strength: 21 (+5)
+  Dexterity: ' 8 (-1)'
+  Constitution: 17 (+3)
+  Intelligence: ' 6 (-2)'
+  Wisdom: 10 (+0)
+  Charisma: ' 8 (-1)'
+  Skills: Perception +4
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Giant, Orc
+  Challenge: 4 (1100 XP)
 AttributesDictionary: >+
-  {}
+  Name: Ettin
+
+  Markdown: >+
+
+    # <!--Name-->Ettin<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Ettin](hd_monsters_ettin.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->85 (10d10 + 30)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->21 (+5)<!--/Strength-->|<!--Dexterity--> 8 (-1)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence--> 6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +4<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Giant, Orc<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->4 (1100 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Two Heads_**. The ettin has advantage on Wisdom (Perception) checks and on saving throws against being [blinded](srd_conditions_blinded.md), charmed, deafened, frightened, stunned and knocked unconscious.
+
+
+
+
+
+    **_Wakeful_**. When one of the ettin's heads is asleep, its other head is awake.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The ettin makes two attacks: one with its battleaxe and one with its morningstar.
+
+
+
+
+
+    **_Battleaxe_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 14 (2d8 + 5) slashing damage.
+
+
+
+
+
+    **_Morningstar_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 14 (2d8 + 5) piercing damage.
+
+
+
+  AltName: '[Ettin](hd_monsters_ettin.md)'
+
+  Size: Large
+
+  Type: giant
+
+  Alignment: chaotic evil
+
+  ArmorClass: 12 (natural armor)
+
+  HitPoints: 85 (10d10 + 30)
+
+  Speed: 40 ft.
+
+  Strength: 21 (+5)
+
+  Dexterity: ' 8 (-1)'
+
+  Constitution: 17 (+3)
+
+  Intelligence: ' 6 (-2)'
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 8 (-1)'
+
+  Skills: Perception +4
+
+  Senses: darkvision 60 ft., passive Perception 14
+
+  Languages: Giant, Orc
+
+  Challenge: 4 (1100 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

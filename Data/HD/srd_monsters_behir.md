@@ -25,9 +25,241 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Béhir](hd_monsters_behir.md)'
 Source: (SRD p265)
-Attributes: {}
+Attributes:
+  Name: Behir
+  Markdown: >+
+    # <!--Name-->Behir<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Béhir](hd_monsters_behir.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p265)<!--/Source-->
+
+    -  <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->168 (16d12 + 64)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->50 ft., climb 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->23 (+6)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence--> 7 (-2)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +6, Stealth +7<!--/Skills-->
+
+    - **Senses** <!--Senses-->darkvision 90 ft., passive Perception 16<!--/Senses-->
+
+    - **Languages** <!--Languages-->Draconic<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->11 (7200 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->lightning<!--/DamageImmunities-->
+
+
+    ## Special Features
+
+
+    **_Multiattack_**. The behir makes two attacks: one with its bite and one to constrict.
+
+
+    **_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
+
+
+    _Hit_: 22 (3d10 + 6) piercing damage.
+
+
+    **_Constrict_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one Large or smaller creature.
+
+
+    _Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.
+
+
+    **_Lightning Breath (Recharge 5-6)_**. The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+
+    **_Swallow_**. The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is [blinded](srd_conditions_blinded.md) and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time. If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+
+  AltName: '[Béhir](hd_monsters_behir.md)'
+  Source: (SRD p265)
+  Size: Huge
+  Type: monstrosity
+  Alignment: neutral evil
+  ArmorClass: 17 (natural armor)
+  HitPoints: 168 (16d12 + 64)
+  Speed: 50 ft., climb 40 ft.
+  Strength: 23 (+6)
+  Dexterity: 16 (+3)
+  Constitution: 18 (+4)
+  Intelligence: ' 7 (-2)'
+  Wisdom: 14 (+2)
+  Charisma: 12 (+1)
+  Skills: Perception +6, Stealth +7
+  Senses: darkvision 90 ft., passive Perception 16
+  Languages: Draconic
+  Challenge: 11 (7200 XP)
+  DamageImmunities: lightning
 AttributesDictionary: >+
-  {}
+  Name: Behir
+
+  Markdown: >+
+
+    # <!--Name-->Behir<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Béhir](hd_monsters_behir.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p265)<!--/Source-->
+
+
+
+    -  <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->168 (16d12 + 64)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->50 ft., climb 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->23 (+6)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence--> 7 (-2)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +6, Stealth +7<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 90 ft., passive Perception 16<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Draconic<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->11 (7200 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->lightning<!--/DamageImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Multiattack_**. The behir makes two attacks: one with its bite and one to constrict.
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
+
+
+
+
+
+    _Hit_: 22 (3d10 + 6) piercing damage.
+
+
+
+
+
+    **_Constrict_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one Large or smaller creature.
+
+
+
+
+
+    _Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.
+
+
+
+
+
+    **_Lightning Breath (Recharge 5-6)_**. The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+
+
+
+
+    **_Swallow_**. The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is [blinded](srd_conditions_blinded.md) and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time. If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+
+
+
+  AltName: '[Béhir](hd_monsters_behir.md)'
+
+  Source: (SRD p265)
+
+  Size: Huge
+
+  Type: monstrosity
+
+  Alignment: neutral evil
+
+  ArmorClass: 17 (natural armor)
+
+  HitPoints: 168 (16d12 + 64)
+
+  Speed: 50 ft., climb 40 ft.
+
+  Strength: 23 (+6)
+
+  Dexterity: 16 (+3)
+
+  Constitution: 18 (+4)
+
+  Intelligence: ' 7 (-2)'
+
+  Wisdom: 14 (+2)
+
+  Charisma: 12 (+1)
+
+  Skills: Perception +6, Stealth +7
+
+  Senses: darkvision 90 ft., passive Perception 16
+
+  Languages: Draconic
+
+  Challenge: 11 (7200 XP)
+
+  DamageImmunities: lightning
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

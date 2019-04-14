@@ -9,9 +9,97 @@ ParentLink: backgrounds_hd.md
 Name: Brigand
 ParentName: Historique
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Brigand<!--/Name-->
+
+
+    Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en marge de la société. Par choix ou par contrainte, vous avez préféré vous tenir loin des villes et des routes les plus fréquentées, préférant les chemins de terre et les pistes sinueuses aux rues étroites des cités. Une large part de votre existence a été consacrée à assurer votre survie et celle de vos proches, qu'il s'agisse de votre famille ou de compagnons de brigandage. Et lorsque la nature n'y suffisait pas, vous n'avez jamais rechigné à vous en prendre aux voyageurs ou aux villageois afin d'assurer votre subsistance.
+
+
+    **Compétences :** <!--Abilities-->Discrétion, Survie.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
+
+
+    **Équipement :** <!--Equipment-->Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.<!--/Equipment-->
+
+  Name: Brigand
+  Description: >+
+    Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en marge de la société. Par choix ou par contrainte, vous avez préféré vous tenir loin des villes et des routes les plus fréquentées, préférant les chemins de terre et les pistes sinueuses aux rues étroites des cités. Une large part de votre existence a été consacrée à assurer votre survie et celle de vos proches, qu'il s'agisse de votre famille ou de compagnons de brigandage. Et lorsque la nature n'y suffisait pas, vous n'avez jamais rechigné à vous en prendre aux voyageurs ou aux villageois afin d'assurer votre subsistance.
+
+  Abilities: Discrétion, Survie.
+  MasteredTools: Véhicules (terrestres), un type de jeu au choix.
+  Equipment: Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Brigand<!--/Name-->
+
+
+
+
+
+    Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en marge de la société. Par choix ou par contrainte, vous avez préféré vous tenir loin des villes et des routes les plus fréquentées, préférant les chemins de terre et les pistes sinueuses aux rues étroites des cités. Une large part de votre existence a été consacrée à assurer votre survie et celle de vos proches, qu'il s'agisse de votre famille ou de compagnons de brigandage. Et lorsque la nature n'y suffisait pas, vous n'avez jamais rechigné à vous en prendre aux voyageurs ou aux villageois afin d'assurer votre subsistance.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Discrétion, Survie.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.<!--/Equipment-->
+
+
+
+  Name: Brigand
+
+  Description: >+
+
+    Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en marge de la société. Par choix ou par contrainte, vous avez préféré vous tenir loin des villes et des routes les plus fréquentées, préférant les chemins de terre et les pistes sinueuses aux rues étroites des cités. Une large part de votre existence a été consacrée à assurer votre survie et celle de vos proches, qu'il s'agisse de votre famille ou de compagnons de brigandage. Et lorsque la nature n'y suffisait pas, vous n'avez jamais rechigné à vous en prendre aux voyageurs ou aux villageois afin d'assurer votre subsistance.
+
+
+
+  Abilities: Discrétion, Survie.
+
+  MasteredTools: Véhicules (terrestres), un type de jeu au choix.
+
+  Equipment: Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.
 
 Description: >+
   Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en marge de la société. Par choix ou par contrainte, vous avez préféré vous tenir loin des villes et des routes les plus fréquentées, préférant les chemins de terre et les pistes sinueuses aux rues étroites des cités. Une large part de votre existence a été consacrée à assurer votre survie et celle de vos proches, qu'il s'agisse de votre famille ou de compagnons de brigandage. Et lorsque la nature n'y suffisait pas, vous n'avez jamais rechigné à vous en prendre aux voyageurs ou aux villageois afin d'assurer votre subsistance.

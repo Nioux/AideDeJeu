@@ -22,9 +22,205 @@ Name: Triceratops
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Tricératops](hd_monsters_triceratops.md)'
-Attributes: {}
+Attributes:
+  Name: Triceratops
+  Markdown: >+
+    # <!--Name-->Triceratops<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Tricératops](hd_monsters_triceratops.md)<!--/AltName-->
+
+    -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->95 (10d12 + 30)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->50 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->22 (+6)<!--/Strength-->|<!--Dexterity--> 9 (-1)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->passive Perception 10<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->5 (1800 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Trampling Charge_**. If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
+
+
+    ## Actions
+
+
+    **_Gore_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 24 (4d8 + 6) piercing damage.
+
+
+    **_Stomp_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one prone creature.
+
+
+    _Hit_: 22 (3d10 + 6) bludgeoning damage
+
+  AltName: '[Tricératops](hd_monsters_triceratops.md)'
+  Size: Huge
+  Type: beast
+  Alignment: unaligned
+  ArmorClass: 13 (natural armor)
+  HitPoints: 95 (10d12 + 30)
+  Speed: 50 ft.
+  Strength: 22 (+6)
+  Dexterity: ' 9 (-1)'
+  Constitution: 17 (+3)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 11 (+0)
+  Charisma: ' 5 (-3)'
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 5 (1800 XP)
 AttributesDictionary: >+
-  {}
+  Name: Triceratops
+
+  Markdown: >+
+
+    # <!--Name-->Triceratops<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Tricératops](hd_monsters_triceratops.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->95 (10d12 + 30)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->50 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->22 (+6)<!--/Strength-->|<!--Dexterity--> 9 (-1)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->passive Perception 10<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->5 (1800 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Trampling Charge_**. If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Gore_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 24 (4d8 + 6) piercing damage.
+
+
+
+
+
+    **_Stomp_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one prone creature.
+
+
+
+
+
+    _Hit_: 22 (3d10 + 6) bludgeoning damage
+
+
+
+  AltName: '[Tricératops](hd_monsters_triceratops.md)'
+
+  Size: Huge
+
+  Type: beast
+
+  Alignment: unaligned
+
+  ArmorClass: 13 (natural armor)
+
+  HitPoints: 95 (10d12 + 30)
+
+  Speed: 50 ft.
+
+  Strength: 22 (+6)
+
+  Dexterity: ' 9 (-1)'
+
+  Constitution: 17 (+3)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 11 (+0)
+
+  Charisma: ' 5 (-3)'
+
+  Senses: passive Perception 10
+
+  Languages: '-'
+
+  Challenge: 5 (1800 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

@@ -8,9 +8,64 @@ RootId: cleric_theurgist_hd.md
 ParentLink: cleric_hd.md#domaines-divins
 ParentName: Domaines divins
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Domaines divins](hd_cleric_domaines_divins.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Domaines divins](hd_cleric_domaines_divins.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Théurge<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p139)<!--/Source-->
+
+
+    Le théurge est un clerc attiré par la magie sous toutes ses formes, qu'elle soit d'origine divine ou profane. À la façon des magiciens, il cherche à comprendre et à analyser la magie divine pour en faire un usage plus varié et universel, que ce soit dans le but de repousser les limites de la connaissance ou pour asseoir sa puissance au service des principes moraux qu'il prêche. C'est pourquoi il étudie tous les parchemins et les livres de magie qu'il trouve, visite les bibliothèques et, enfin, il inscrit ses sorts, ses recherches et ses prières dans un épais grimoire qu'il conserve précieusement (voir Votre grimoire page 169). Il réussit ainsi à allier le meilleur des deux mondes : la maîtrise du corps et de l'âme accordée par la magie divine et l'aspect pratique et universel de la magie profane.
+
+  Name: Théurge
+  Source: (MDR p139)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Domaines divins](hd_cleric_domaines_divins.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Domaines divins](hd_cleric_domaines_divins.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Théurge<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p139)<!--/Source-->
+
+
+
+
+
+    Le théurge est un clerc attiré par la magie sous toutes ses formes, qu'elle soit d'origine divine ou profane. À la façon des magiciens, il cherche à comprendre et à analyser la magie divine pour en faire un usage plus varié et universel, que ce soit dans le but de repousser les limites de la connaissance ou pour asseoir sa puissance au service des principes moraux qu'il prêche. C'est pourquoi il étudie tous les parchemins et les livres de magie qu'il trouve, visite les bibliothèques et, enfin, il inscrit ses sorts, ses recherches et ses prières dans un épais grimoire qu'il conserve précieusement (voir Votre grimoire page 169). Il réussit ainsi à allier le meilleur des deux mondes : la maîtrise du corps et de l'âme accordée par la magie divine et l'aspect pratique et universel de la magie profane.
+
+
+
+  Name: Théurge
+
+  Source: (MDR p139)
 
 ---
 >  [Domaines divins](hd_cleric_domaines_divins.md)

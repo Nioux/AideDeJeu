@@ -23,9 +23,214 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Hobgobelin
+  Markdown: >+
+    # <!--Name-->Hobgobelin<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Hobgoblin](srd_monsters_hobgoblin.md)<!--/AltName-->
+
+    -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->18 (bouclier, cotte de mailles)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 9 (-1)<!--/Charisma-->|
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langues** <!--Languages-->commun, gobelin<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Avantage martial._** Une fois par tour, le hobgobelin peut infliger 7 (2d6) dégâts supplémentaires à une créature contre laquelle il réussit une attaque d'arme, si cette créature se trouve à 1,50 mètre ou moins d'un allié du hobgobelin et si cet allié n'est pas [neutralisé](hd_conditions_neutralise.md).
+
+
+    ## Actions
+
+
+    **_Arc long._** Attaque d'arme à distance : +3 pour toucher, portée 45/180 m, une cible.
+
+
+    _Touché :_ 5 (1d8+1) dégâts perforants.
+
+
+    **_Épée longue._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si elle est maniée à deux mains.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
+  Type: Humanoïde (gobelinoïde)
+  Size: M
+  Alignment: Loyal Mauvais
+  ArmorClass: 18 (bouclier, cotte de mailles)
+  HitPoints: 11 (2d8+2)
+  Speed: 9 m
+  Strength: 13 (+1)
+  Dexterity: 12 (+1)
+  Constitution: 12 (+1)
+  Intelligence: 10 (+0)
+  Wisdom: 10 (+0)
+  Charisma: ' 9 (-1)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun, gobelin
+  Challenge: 1/2 (100 PX)
 AttributesDictionary: >+
-  {}
+  Name: Hobgobelin
+
+  Markdown: >+
+
+    # <!--Name-->Hobgobelin<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Hobgoblin](srd_monsters_hobgoblin.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->18 (bouclier, cotte de mailles)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 9 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->commun, gobelin<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Avantage martial._** Une fois par tour, le hobgobelin peut infliger 7 (2d6) dégâts supplémentaires à une créature contre laquelle il réussit une attaque d'arme, si cette créature se trouve à 1,50 mètre ou moins d'un allié du hobgobelin et si cet allié n'est pas [neutralisé](hd_conditions_neutralise.md).
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Arc long._** Attaque d'arme à distance : +3 pour toucher, portée 45/180 m, une cible.
+
+
+
+
+
+    _Touché :_ 5 (1d8+1) dégâts perforants.
+
+
+
+
+
+    **_Épée longue._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si elle est maniée à deux mains.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
+
+  Type: Humanoïde (gobelinoïde)
+
+  Size: M
+
+  Alignment: Loyal Mauvais
+
+  ArmorClass: 18 (bouclier, cotte de mailles)
+
+  HitPoints: 11 (2d8+2)
+
+  Speed: 9 m
+
+  Strength: 13 (+1)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 12 (+1)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 9 (-1)'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+
+  Languages: commun, gobelin
+
+  Challenge: 1/2 (100 PX)
 
 ---
 > [Créatures](hd_monsters.md)

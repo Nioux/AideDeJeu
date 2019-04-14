@@ -1,13 +1,41 @@
 ﻿---
 !GenericItem
-Name: Murmures d'outre-tombe
 Id: warlock_occultsummons_hd.md#murmures-doutre-tombe
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Murmures d'outre-tombe
 ParentName: Invocations occultes
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Murmures d'outre-tombe
+  Markdown: >+
+    ## <!--Name-->Murmures d'outre-tombe<!--/Name-->
+
+
+    Prérequis : niveau 9
+
+
+    Vous pouvez lancer communication avec les morts à volonté, sans utiliser d'emplacement de sorts.
+
 AttributesDictionary: >+
-  {}
+  Name: Murmures d'outre-tombe
+
+  Markdown: >+
+
+    ## <!--Name-->Murmures d'outre-tombe<!--/Name-->
+
+
+
+
+
+    Prérequis : niveau 9
+
+
+
+
+
+    Vous pouvez lancer communication avec les morts à volonté, sans utiliser d'emplacement de sorts.
+
+
 
 ---
 > [Invocations occultes](hd_warlock_occultsummons.md)

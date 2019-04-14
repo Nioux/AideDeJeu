@@ -5,9 +5,37 @@ ParentLink: sorcerer_hd.md#ensorceleur
 Name: Sort distant
 ParentName: Ensorceleur
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Sort distant
+  Markdown: >+
+    ## <!--Name-->Sort distant<!--/Name-->
+
+
+    Quand vous lancez un sort qui a une portée de 1,50 mètre ou plus, vous pouvez dépenser 1 point de sorcellerie pour doubler la portée de ce sort.
+
+
+    Quand vous lancez un sort de contact, vous pouvez dépenser 1 point de sorcellerie pour en modifier la portée à 9 mètres.
+
 AttributesDictionary: >+
-  {}
+  Name: Sort distant
+
+  Markdown: >+
+
+    ## <!--Name-->Sort distant<!--/Name-->
+
+
+
+
+
+    Quand vous lancez un sort qui a une portée de 1,50 mètre ou plus, vous pouvez dépenser 1 point de sorcellerie pour doubler la portée de ce sort.
+
+
+
+
+
+    Quand vous lancez un sort de contact, vous pouvez dépenser 1 point de sorcellerie pour en modifier la portée à 9 mètres.
+
+
 
 ---
 > [Ensorceleur](hd_sorcerer.md)

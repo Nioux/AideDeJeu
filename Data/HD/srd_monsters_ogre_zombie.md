@@ -25,9 +25,214 @@ Name: Ogre Zombie
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Zombi ogre](hd_monsters_zombi_ogre.md)'
-Attributes: {}
+Attributes:
+  Name: Ogre Zombie
+  Markdown: >+
+    # <!--Name-->Ogre Zombie<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Zombi ogre](hd_monsters_zombi_ogre.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->85 (9d10 + 36)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity--> 6 (-2)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom--> 6 (-2)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Wis +0<!--/SavingThrows-->
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 8<!--/Senses-->
+
+    - **Languages** <!--Languages-->understands Common and Giant but can't speak<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->2 (450 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Undead Fortitude_**. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+
+    ## Actions
+
+
+    **_Morningstar_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 13 (2d8 + 4) bludgeoning damage.
+
+  AltName: '[Zombi ogre](hd_monsters_zombi_ogre.md)'
+  Size: Large
+  Type: undead
+  Alignment: neutral evil
+  ArmorClass: 8
+  HitPoints: 85 (9d10 + 36)
+  Speed: 30 ft.
+  Strength: 19 (+4)
+  Dexterity: ' 6 (-2)'
+  Constitution: 18 (+4)
+  Intelligence: ' 3 (-4)'
+  Wisdom: ' 6 (-2)'
+  Charisma: ' 5 (-3)'
+  SavingThrows: Wis +0
+  Senses: darkvision 60 ft., passive Perception 8
+  Languages: understands Common and Giant but can't speak
+  Challenge: 2 (450 XP)
+  DamageImmunities: poison
+  ConditionImmunities: poisoned
 AttributesDictionary: >+
-  {}
+  Name: Ogre Zombie
+
+  Markdown: >+
+
+    # <!--Name-->Ogre Zombie<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Zombi ogre](hd_monsters_zombi_ogre.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->85 (9d10 + 36)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity--> 6 (-2)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence--> 3 (-4)<!--/Intelligence-->|<!--Wisdom--> 6 (-2)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Wis +0<!--/SavingThrows-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 8<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->understands Common and Giant but can't speak<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->2 (450 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->poisoned<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Undead Fortitude_**. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morningstar_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 13 (2d8 + 4) bludgeoning damage.
+
+
+
+  AltName: '[Zombi ogre](hd_monsters_zombi_ogre.md)'
+
+  Size: Large
+
+  Type: undead
+
+  Alignment: neutral evil
+
+  ArmorClass: 8
+
+  HitPoints: 85 (9d10 + 36)
+
+  Speed: 30 ft.
+
+  Strength: 19 (+4)
+
+  Dexterity: ' 6 (-2)'
+
+  Constitution: 18 (+4)
+
+  Intelligence: ' 3 (-4)'
+
+  Wisdom: ' 6 (-2)'
+
+  Charisma: ' 5 (-3)'
+
+  SavingThrows: Wis +0
+
+  Senses: darkvision 60 ft., passive Perception 8
+
+  Languages: understands Common and Giant but can't speak
+
+  Challenge: 2 (450 XP)
+
+  DamageImmunities: poison
+
+  ConditionImmunities: poisoned
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

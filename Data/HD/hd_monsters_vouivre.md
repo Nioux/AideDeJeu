@@ -24,9 +24,232 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Wyvern](srd_monsters_wyvern.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Vouivre
+  Markdown: >+
+    # <!--Name-->Vouivre<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Wyvern](srd_monsters_wyvern.md)<!--/AltName-->
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->6 m, vol 24 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+    - **Compétences** <!--Skills-->[Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->6 (2 300 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** La vouivre effectue deux attaques : une avec sa morsure et une avec son dard caudal. En vol, elle peut utiliser ses griffes à la place de l'une de ses autres attaques.
+
+
+    **_Dard caudal._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une créature.
+
+
+    _Touché :_ 11 (2d6+4) dégâts perforants. La cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 15 ; elle subit 24 (7d6) dégâts de poison en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 13 (2d8+4) dégâts tranchants.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une créature.
+
+
+    _Touché :_ 11 (2d6+4) dégâts perforants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Wyvern](srd_monsters_wyvern.md)'
+  Type: Dragon
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 13 (armure naturelle)
+  HitPoints: 110 (13d10+39)
+  Speed: 6 m, vol 24 m
+  Strength: 19 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 16 (+3)
+  Intelligence: ' 5 (-3)'
+  Wisdom: 12 (+1)
+  Charisma: ' 6 (-2)'
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: —
+  Challenge: 6 (2 300 PX)
 AttributesDictionary: >+
-  {}
+  Name: Vouivre
+
+  Markdown: >+
+
+    # <!--Name-->Vouivre<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Wyvern](srd_monsters_wyvern.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->6 m, vol 24 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Compétences** <!--Skills-->[Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->6 (2 300 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** La vouivre effectue deux attaques : une avec sa morsure et une avec son dard caudal. En vol, elle peut utiliser ses griffes à la place de l'une de ses autres attaques.
+
+
+
+
+
+    **_Dard caudal._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une créature.
+
+
+
+
+
+    _Touché :_ 11 (2d6+4) dégâts perforants. La cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 15 ; elle subit 24 (7d6) dégâts de poison en cas de [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
+
+
+
+    **_Griffe._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 13 (2d8+4) dégâts tranchants.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une créature.
+
+
+
+
+
+    _Touché :_ 11 (2d6+4) dégâts perforants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Wyvern](srd_monsters_wyvern.md)'
+
+  Type: Dragon
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 13 (armure naturelle)
+
+  HitPoints: 110 (13d10+39)
+
+  Speed: 6 m, vol 24 m
+
+  Strength: 19 (+4)
+
+  Dexterity: 10 (+0)
+
+  Constitution: 16 (+3)
+
+  Intelligence: ' 5 (-3)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 6 (-2)'
+
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+
+  Languages: —
+
+  Challenge: 6 (2 300 PX)
 
 ---
 > [Créatures](hd_monsters.md)

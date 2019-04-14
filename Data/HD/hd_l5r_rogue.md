@@ -7,9 +7,64 @@ Name: Le savant
 ParentName: Les Cinq Royaumes
 NameLevel: 2
 Source: (L5R p65)
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    ## <!--Name-->Le savant<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p65)<!--/Source-->
+
+
+    Il s'agit en réalité d'une variante de la classe de roublard dont il partage un certain nombre de caractéristiques. Vous pourrez d'ailleurs sans peine utiliser les archétypes de roublard avec ce savant. Modifiez la classe de roublard comme suit.
+
+  Name: Le savant
+  Source: (L5R p65)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Les Cinq Royaumes](hd_l5r_index.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    ## <!--Name-->Le savant<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p65)<!--/Source-->
+
+
+
+
+
+    Il s'agit en réalité d'une variante de la classe de roublard dont il partage un certain nombre de caractéristiques. Vous pourrez d'ailleurs sans peine utiliser les archétypes de roublard avec ce savant. Modifiez la classe de roublard comme suit.
+
+
+
+  Name: Le savant
+
+  Source: (L5R p65)
 
 ---
 >  [Les Cinq Royaumes](hd_l5r_index.md)

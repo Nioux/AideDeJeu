@@ -8,9 +8,73 @@ ParentLink: background_hommedeloi_hd.md#homme-de-loi
 Name: 'Variante : Limier'
 ParentName: Homme de loi
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Limier'
+  Markdown: >+
+    ### <!--Name-->Variante : Limier<!--/Name-->
+
+
+    Quand on veut retrouver la trace d'un homme ou élucider une affaire particulière, c'est vous que l'on dépêche. Vous savez évoluer entre deux mondes, connaissez les codes des bas-fonds, et avez appris à vous faire discret.
+
+
+    **Compétences :** <!--Abilities-->Investigation ou Perspicacité, Supercherie.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement, outils de voleur.<!--/MasteredTools-->
+
+
+    **Équipement :** <!--Equipment-->Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.<!--/Equipment-->
+
+  Description: >+
+    Quand on veut retrouver la trace d'un homme ou élucider une affaire particulière, c'est vous que l'on dépêche. Vous savez évoluer entre deux mondes, connaissez les codes des bas-fonds, et avez appris à vous faire discret.
+
+  Abilities: Investigation ou Perspicacité, Supercherie.
+  MasteredTools: Accessoires de déguisement, outils de voleur.
+  Equipment: Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Limier'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Limier<!--/Name-->
+
+
+
+
+
+    Quand on veut retrouver la trace d'un homme ou élucider une affaire particulière, c'est vous que l'on dépêche. Vous savez évoluer entre deux mondes, connaissez les codes des bas-fonds, et avez appris à vous faire discret.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Investigation ou Perspicacité, Supercherie.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement, outils de voleur.<!--/MasteredTools-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    Quand on veut retrouver la trace d'un homme ou élucider une affaire particulière, c'est vous que l'on dépêche. Vous savez évoluer entre deux mondes, connaissez les codes des bas-fonds, et avez appris à vous faire discret.
+
+
+
+  Abilities: Investigation ou Perspicacité, Supercherie.
+
+  MasteredTools: Accessoires de déguisement, outils de voleur.
+
+  Equipment: Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.
 
 Description: >+
   Quand on veut retrouver la trace d'un homme ou élucider une affaire particulière, c'est vous que l'on dépêche. Vous savez évoluer entre deux mondes, connaissez les codes des bas-fonds, et avez appris à vous faire discret.

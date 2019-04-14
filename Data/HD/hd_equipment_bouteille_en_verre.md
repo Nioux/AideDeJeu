@@ -9,9 +9,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Bouteille en verre
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Bouteille en verre
+  Markdown: >+
+    # <!--Name-->Bouteille en verre<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->2 po<!--/Price-->
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+    - **Capacité** <!--Capacity-->0,75 L de liquide<!--/Capacity-->
+
+  Type: Équipement d'aventurier
+  Price: 2 po
+  Weight: 1 kg
+  Capacity: 0,75 L de liquide
 AttributesDictionary: >+
-  {}
+  Name: Bouteille en verre
+
+  Markdown: >+
+
+    # <!--Name-->Bouteille en verre<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->2 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->1 kg<!--/Weight-->
+
+
+
+    - **Capacité** <!--Capacity-->0,75 L de liquide<!--/Capacity-->
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 2 po
+
+  Weight: 1 kg
+
+  Capacity: 0,75 L de liquide
 
 ---
 > [Équipement](hd_equipment.md)

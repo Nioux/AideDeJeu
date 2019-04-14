@@ -1,15 +1,73 @@
 ﻿---
 !GenericItem
-Name: Prone
-AltName: '[À terre](hd_conditions_a_terre.md)'
-Source: (SRD p359)
 Id: conditions_vo.md#prone
 ParentLink: conditions_vo.md#conditions
+Name: Prone
 ParentName: Conditions
 NameLevel: 1
-Attributes: {}
+AltName: '[À terre](hd_conditions_a_terre.md)'
+Source: (SRD p359)
+Attributes:
+  Name: Prone
+  Markdown: >+
+    # <!--Name-->Prone<!--/Name-->
+
+
+    - AltName: <!--AltName-->[À terre](hd_conditions_a_terre.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p359)<!--/Source-->
+
+
+    * A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
+
+
+    * The creature has disadvantage on attack rolls.
+
+
+    * An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+
+  AltName: '[À terre](hd_conditions_a_terre.md)'
+  Source: (SRD p359)
 AttributesDictionary: >+
-  {}
+  Name: Prone
+
+  Markdown: >+
+
+    # <!--Name-->Prone<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->[À terre](hd_conditions_a_terre.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p359)<!--/Source-->
+
+
+
+
+
+    * A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
+
+
+
+
+
+    * The creature has disadvantage on attack rolls.
+
+
+
+
+
+    * An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+
+
+
+  AltName: '[À terre](hd_conditions_a_terre.md)'
+
+  Source: (SRD p359)
 
 ---
 > [Conditions](srd_conditions.md)

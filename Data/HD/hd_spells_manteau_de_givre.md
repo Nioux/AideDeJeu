@@ -14,9 +14,115 @@ Name: Manteau de givre
 ParentName: Sorts
 NameLevel: 1
 Source: (MDR p)
-Attributes: {}
+Attributes:
+  Name: Manteau de givre
+  Markdown: >+
+    # <!--Name-->Manteau de givre<!--/Name-->
+
+
+    -  <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+    - **Portée :** <!--Range-->personnelle<!--/Range-->
+
+    - **Composantes :** <!--Components-->V, S, M (un peu d'eau)<!--/Components-->
+
+    - **Durée :** <!--Duration-->8 heures<!--/Duration-->
+
+    - Classes: <!--Classes-->[Sorcier](hd_warlock.md)<!--/Classes-->
+
+    - Source: <!--Source-->(MDR p)<!--/Source-->
+
+
+    ### Description
+
+
+    Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistance aux dégâts contre la prochaine attaque réussie contre vous, tandis que la créature qui vous a attaqué subit la moitié des dégâts de son attaque sous forme de dégâts de froid. Ensuite, le sort cesse de faire effet.
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort fait effet sur une attaque supplémentaire par niveau au-dessus du premier.
+
+  Type: Abjuration
+  Level: 1
+  CastingTime: 1 action
+  Range: personnelle
+  Components: V, S, M (un peu d'eau)
+  Duration: 8 heures
+  Classes: '[Sorcier](hd_warlock.md)'
+  Source: (MDR p)
 AttributesDictionary: >+
-  {}
+  Name: Manteau de givre
+
+  Markdown: >+
+
+    # <!--Name-->Manteau de givre<!--/Name-->
+
+
+
+
+
+    -  <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+    - **Portée :** <!--Range-->personnelle<!--/Range-->
+
+
+
+    - **Composantes :** <!--Components-->V, S, M (un peu d'eau)<!--/Components-->
+
+
+
+    - **Durée :** <!--Duration-->8 heures<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->[Sorcier](hd_warlock.md)<!--/Classes-->
+
+
+
+    - Source: <!--Source-->(MDR p)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistance aux dégâts contre la prochaine attaque réussie contre vous, tandis que la créature qui vous a attaqué subit la moitié des dégâts de son attaque sous forme de dégâts de froid. Ensuite, le sort cesse de faire effet.
+
+
+
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort fait effet sur une attaque supplémentaire par niveau au-dessus du premier.
+
+
+
+  Type: Abjuration
+
+  Level: 1
+
+  CastingTime: 1 action
+
+  Range: personnelle
+
+  Components: V, S, M (un peu d'eau)
+
+  Duration: 8 heures
+
+  Classes: '[Sorcier](hd_warlock.md)'
+
+  Source: (MDR p)
 
 ---
 > [Sorts](hd_spells.md)

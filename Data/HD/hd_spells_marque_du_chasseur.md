@@ -15,9 +15,145 @@ ParentName: Sorts
 NameLevel: 1
 AltName: "[Hunter's Mark](srd_spells_hunters_mark.md)"
 Source: (MDR p)(SRD)
-Attributes: {}
+Attributes:
+  Name: Marque du chasseur
+  Markdown: >+
+    # <!--Name-->Marque du chasseur<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Hunter's Mark](srd_spells_hunters_mark.md)<!--/AltName-->
+
+
+    -  <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->27 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Rôdeur](hd_ranger.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Vous choisissez une créature située dans votre champ de vision et à portée et lui apposez une marque mystique la désignant comme votre proie. Jusqu'à la fin du sort, vous lui infligez 1d6 dégâts supplémentaires à chaque fois que vous réussissez à lui infliger des dégâts avec une arme et vous avez l'avantage sur les éventuels tests de [Sagesse (Perception)](hd_abilities_wisdom_perception.md) ou [Sagesse (Survie)](hd_abilities_wisdom_survie.md) que vous faites pour la retrouver. Si la cible tombe à 0 point de vie avant que ce sort se termine, vous pouvez utiliser une action bonus lors d'un tour ultérieur pour marquer une nouvelle créature.
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou 4, vous pouvez vous concentrer sur le sort pendant 8 heures. Si vous utilisez un emplacement de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur le sort jusqu'à 24 heures.
+
+  AltName: "[Hunter's Mark](srd_spells_hunters_mark.md)"
+  Type: Divination
+  Level: 1
+  CastingTime: 1 action bonus
+  Range: 27 mètres
+  Components: V
+  Duration: concentration, jusqu'à 1 heure
+  Classes: '[Rôdeur](hd_ranger.md)'
+  Source: (MDR p)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Marque du chasseur
+
+  Markdown: >+
+
+    # <!--Name-->Marque du chasseur<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Hunter's Mark](srd_spells_hunters_mark.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->27 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Rôdeur](hd_ranger.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Vous choisissez une créature située dans votre champ de vision et à portée et lui apposez une marque mystique la désignant comme votre proie. Jusqu'à la fin du sort, vous lui infligez 1d6 dégâts supplémentaires à chaque fois que vous réussissez à lui infliger des dégâts avec une arme et vous avez l'avantage sur les éventuels tests de [Sagesse (Perception)](hd_abilities_wisdom_perception.md) ou [Sagesse (Survie)](hd_abilities_wisdom_survie.md) que vous faites pour la retrouver. Si la cible tombe à 0 point de vie avant que ce sort se termine, vous pouvez utiliser une action bonus lors d'un tour ultérieur pour marquer une nouvelle créature.
+
+
+
+
+
+    **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou 4, vous pouvez vous concentrer sur le sort pendant 8 heures. Si vous utilisez un emplacement de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur le sort jusqu'à 24 heures.
+
+
+
+  AltName: "[Hunter's Mark](srd_spells_hunters_mark.md)"
+
+  Type: Divination
+
+  Level: 1
+
+  CastingTime: 1 action bonus
+
+  Range: 27 mètres
+
+  Components: V
+
+  Duration: concentration, jusqu'à 1 heure
+
+  Classes: '[Rôdeur](hd_ranger.md)'
+
+  Source: (MDR p)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

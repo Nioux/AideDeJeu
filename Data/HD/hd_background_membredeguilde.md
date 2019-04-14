@@ -10,9 +10,109 @@ ParentLink: backgrounds_hd.md
 Name: Membre de guilde
 ParentName: Historique
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Membre de guilde<!--/Name-->
+
+
+    Vous appartenez à une guilde, une caste ou un groupe relativement fermé de personnes qui s'entraident dans un but commun. Votre prospérité est due au moins autant à l'appartenance à ce groupe qu'à vos talents individuels. En formant un réseau de personnes dont les intérêts convergent, les guildes passent bien souvent outre l'ordre féodal et permettent à leurs membres d'accéder à la richesse et au pouvoir. Elles défendent jalousement leurs prérogatives, et font généralement payer l'adhésion à prix d'or. Cependant, une fois lié au groupe, chaque membre bénéficie de l'aide et de l'expérience des autres membres plus anciens, en plus d'un réseau étendu de contacts.
+
+
+    **Compétences :** <!--Abilities-->Perspicacité, Persuasion.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Un ensemble d'outils d'artisan au choix.<!--/MasteredTools-->
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+    **Équipement :** <!--Equipment-->Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, outils d'artisan correspondant à votre métier, sceau de la guilde, étui avec quelques cartes terrestres ou maritimes, bourse contenant 20 po.<!--/Equipment-->
+
+  Name: Membre de guilde
+  Description: >+
+    Vous appartenez à une guilde, une caste ou un groupe relativement fermé de personnes qui s'entraident dans un but commun. Votre prospérité est due au moins autant à l'appartenance à ce groupe qu'à vos talents individuels. En formant un réseau de personnes dont les intérêts convergent, les guildes passent bien souvent outre l'ordre féodal et permettent à leurs membres d'accéder à la richesse et au pouvoir. Elles défendent jalousement leurs prérogatives, et font généralement payer l'adhésion à prix d'or. Cependant, une fois lié au groupe, chaque membre bénéficie de l'aide et de l'expérience des autres membres plus anciens, en plus d'un réseau étendu de contacts.
+
+  Abilities: Perspicacité, Persuasion.
+  MasteredTools: Un ensemble d'outils d'artisan au choix.
+  MasteredLanguages: Une langue au choix.
+  Equipment: Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, outils d'artisan correspondant à votre métier, sceau de la guilde, étui avec quelques cartes terrestres ou maritimes, bourse contenant 20 po.
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Historique](hd_backgrounds.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Historique](hd_backgrounds.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Membre de guilde<!--/Name-->
+
+
+
+
+
+    Vous appartenez à une guilde, une caste ou un groupe relativement fermé de personnes qui s'entraident dans un but commun. Votre prospérité est due au moins autant à l'appartenance à ce groupe qu'à vos talents individuels. En formant un réseau de personnes dont les intérêts convergent, les guildes passent bien souvent outre l'ordre féodal et permettent à leurs membres d'accéder à la richesse et au pouvoir. Elles défendent jalousement leurs prérogatives, et font généralement payer l'adhésion à prix d'or. Cependant, une fois lié au groupe, chaque membre bénéficie de l'aide et de l'expérience des autres membres plus anciens, en plus d'un réseau étendu de contacts.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Perspicacité, Persuasion.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Un ensemble d'outils d'artisan au choix.<!--/MasteredTools-->
+
+
+
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, outils d'artisan correspondant à votre métier, sceau de la guilde, étui avec quelques cartes terrestres ou maritimes, bourse contenant 20 po.<!--/Equipment-->
+
+
+
+  Name: Membre de guilde
+
+  Description: >+
+
+    Vous appartenez à une guilde, une caste ou un groupe relativement fermé de personnes qui s'entraident dans un but commun. Votre prospérité est due au moins autant à l'appartenance à ce groupe qu'à vos talents individuels. En formant un réseau de personnes dont les intérêts convergent, les guildes passent bien souvent outre l'ordre féodal et permettent à leurs membres d'accéder à la richesse et au pouvoir. Elles défendent jalousement leurs prérogatives, et font généralement payer l'adhésion à prix d'or. Cependant, une fois lié au groupe, chaque membre bénéficie de l'aide et de l'expérience des autres membres plus anciens, en plus d'un réseau étendu de contacts.
+
+
+
+  Abilities: Perspicacité, Persuasion.
+
+  MasteredTools: Un ensemble d'outils d'artisan au choix.
+
+  MasteredLanguages: Une langue au choix.
+
+  Equipment: Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, outils d'artisan correspondant à votre métier, sceau de la guilde, étui avec quelques cartes terrestres ou maritimes, bourse contenant 20 po.
 
 Description: >+
   Vous appartenez à une guilde, une caste ou un groupe relativement fermé de personnes qui s'entraident dans un but commun. Votre prospérité est due au moins autant à l'appartenance à ce groupe qu'à vos talents individuels. En formant un réseau de personnes dont les intérêts convergent, les guildes passent bien souvent outre l'ordre féodal et permettent à leurs membres d'accéder à la richesse et au pouvoir. Elles défendent jalousement leurs prérogatives, et font généralement payer l'adhésion à prix d'or. Cependant, une fois lié au groupe, chaque membre bénéficie de l'aide et de l'expérience des autres membres plus anciens, en plus d'un réseau étendu de contacts.

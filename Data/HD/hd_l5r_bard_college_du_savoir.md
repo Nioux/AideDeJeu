@@ -1,14 +1,45 @@
 ﻿---
 !GenericItem
-Name: Collège du savoir
-Source: (L5R p58)
 Id: l5r_bard_hd.md#collège-du-savoir
 ParentLink: l5r_bard_hd.md#barde-des-cinq-royaumes
+Name: Collège du savoir
 ParentName: Barde des cinq royaumes
 NameLevel: 4
-Attributes: {}
+Source: (L5R p58)
+Attributes:
+  Name: Collège du savoir
+  Markdown: >+
+    #### <!--Name-->Collège du savoir<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p58)<!--/Source-->
+
+
+    La capacité [secrets magiques supplémentaires](hd_bard_knowledge_secrets_magiques_supplementaires.md) est remplacée par [maître espion aguerri](hd_l5r_bard_maitre_espion.md). Choisissez deux compétences ou outils supplémentaires dans la liste de [maître espion](hd_l5r_bard_maitre_espion.md) et appliquez-leur cette dernière aptitude. Lorsque vous arrivez au niveau 10 et que vous obtenez la capacité Maître espion, choisissez les compétences et outils normalement.
+
+  Source: (L5R p58)
 AttributesDictionary: >+
-  {}
+  Name: Collège du savoir
+
+  Markdown: >+
+
+    #### <!--Name-->Collège du savoir<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p58)<!--/Source-->
+
+
+
+
+
+    La capacité [secrets magiques supplémentaires](hd_bard_knowledge_secrets_magiques_supplementaires.md) est remplacée par [maître espion aguerri](hd_l5r_bard_maitre_espion.md). Choisissez deux compétences ou outils supplémentaires dans la liste de [maître espion](hd_l5r_bard_maitre_espion.md) et appliquez-leur cette dernière aptitude. Lorsque vous arrivez au niveau 10 et que vous obtenez la capacité Maître espion, choisissez les compétences et outils normalement.
+
+
+
+  Source: (L5R p58)
 
 ---
 > [Barde des cinq royaumes](hd_l5r_bard.md)

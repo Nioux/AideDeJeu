@@ -15,9 +15,124 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Flèche acide](hd_spells_fleche_acide.md)'
 Source: (SRD p114)
-Attributes: {}
+Attributes:
+  Name: Acid Arrow
+  Markdown: >+
+    # <!--Name-->Acid Arrow<!--/Name-->
+
+
+    - MDR: <!--AltName-->[Flèche acide](hd_spells_fleche_acide.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p114)<!--/Source-->
+
+    -  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+    - **Range :** <!--Range-->90 feet<!--/Range-->
+
+    - **Components :** <!--Components-->V, S, M (powdered rhubarb leaf and an adder's stomach)<!--/Components-->
+
+    - **Duration :** <!--Duration-->Instantaneous<!--/Duration-->
+
+    - Classes: <!--Classes-->Wizard<!--/Classes-->
+
+
+    ### Description
+
+
+    A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
+
+
+    **_At Higher Levels_**. When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
+
+  AltName: '[Flèche acide](hd_spells_fleche_acide.md)'
+  Source: (SRD p114)
+  Level: 2
+  Type: evocation
+  CastingTime: 1 action
+  Range: 90 feet
+  Components: V, S, M (powdered rhubarb leaf and an adder's stomach)
+  Duration: Instantaneous
+  Classes: Wizard
 AttributesDictionary: >+
-  {}
+  Name: Acid Arrow
+
+  Markdown: >+
+
+    # <!--Name-->Acid Arrow<!--/Name-->
+
+
+
+
+
+    - MDR: <!--AltName-->[Flèche acide](hd_spells_fleche_acide.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p114)<!--/Source-->
+
+
+
+    -  <!--Level-->2<!--/Level-->nd-level <!--Type-->evocation<!--/Type-->
+
+
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+    - **Range :** <!--Range-->90 feet<!--/Range-->
+
+
+
+    - **Components :** <!--Components-->V, S, M (powdered rhubarb leaf and an adder's stomach)<!--/Components-->
+
+
+
+    - **Duration :** <!--Duration-->Instantaneous<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->Wizard<!--/Classes-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
+
+
+
+
+
+    **_At Higher Levels_**. When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
+
+
+
+  AltName: '[Flèche acide](hd_spells_fleche_acide.md)'
+
+  Source: (SRD p114)
+
+  Level: 2
+
+  Type: evocation
+
+  CastingTime: 1 action
+
+  Range: 90 feet
+
+  Components: V, S, M (powdered rhubarb leaf and an adder's stomach)
+
+  Duration: Instantaneous
+
+  Classes: Wizard
 
 ---
 > [Spells (SRD p)](srd_spells.md)

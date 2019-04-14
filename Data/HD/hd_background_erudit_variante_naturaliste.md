@@ -8,9 +8,73 @@ ParentLink: background_erudit_hd.md#Érudit
 Name: 'Variante : Naturaliste'
 ParentName: Érudit
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Naturaliste'
+  Markdown: >+
+    ### <!--Name-->Variante : Naturaliste<!--/Name-->
+
+
+    Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de faire de la nature votre principal domaine d'expertise, et des forêts ou des montagnes votre salle d'étude. Vous avez passé de longues heures sur les chemins, et plantes et animaux n'ont plus de secret pour vous.
+
+
+    **Compétences :** <!--Abilities-->Nature, Survie.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), matériel d'herboriste.<!--/MasteredTools-->
+
+
+    **Équipement :** <!--Equipment-->Tenue de voyageur, sac contenant tente et couverture, matériel d'herboriste, boîte à amadou, bourse contenant 20 po.<!--/Equipment-->
+
+  Description: >+
+    Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de faire de la nature votre principal domaine d'expertise, et des forêts ou des montagnes votre salle d'étude. Vous avez passé de longues heures sur les chemins, et plantes et animaux n'ont plus de secret pour vous.
+
+  Abilities: Nature, Survie.
+  MasteredTools: Véhicules (terrestres), matériel d'herboriste.
+  Equipment: Tenue de voyageur, sac contenant tente et couverture, matériel d'herboriste, boîte à amadou, bourse contenant 20 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Naturaliste'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Naturaliste<!--/Name-->
+
+
+
+
+
+    Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de faire de la nature votre principal domaine d'expertise, et des forêts ou des montagnes votre salle d'étude. Vous avez passé de longues heures sur les chemins, et plantes et animaux n'ont plus de secret pour vous.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Nature, Survie.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), matériel d'herboriste.<!--/MasteredTools-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Tenue de voyageur, sac contenant tente et couverture, matériel d'herboriste, boîte à amadou, bourse contenant 20 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de faire de la nature votre principal domaine d'expertise, et des forêts ou des montagnes votre salle d'étude. Vous avez passé de longues heures sur les chemins, et plantes et animaux n'ont plus de secret pour vous.
+
+
+
+  Abilities: Nature, Survie.
+
+  MasteredTools: Véhicules (terrestres), matériel d'herboriste.
+
+  Equipment: Tenue de voyageur, sac contenant tente et couverture, matériel d'herboriste, boîte à amadou, bourse contenant 20 po.
 
 Description: >+
   Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de faire de la nature votre principal domaine d'expertise, et des forêts ou des montagnes votre salle d'étude. Vous avez passé de longues heures sur les chemins, et plantes et animaux n'ont plus de secret pour vous.

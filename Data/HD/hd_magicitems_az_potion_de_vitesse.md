@@ -9,9 +9,61 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Potion of Speed (SRD p235)
 Source: (COC p178)
-Attributes: {}
+Attributes:
+  Name: Potion de vitesse
+  Markdown: >+
+    ### <!--Name-->Potion de vitesse<!--/Name-->
+
+
+    - AltName: <!--AltName-->Potion of Speed (SRD p235)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p178)<!--/Source-->
+
+    -  <!--Type-->Potion<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
+
+
+    Vous bénéficiez des effets d'un sort de hâte pendant 1 minute (aucune concentration requise) après avoir bu cette potion. Le liquide jaune strié de noir de cette concoction tournoie de lui-même sans qu'on le remue.
+
+  AltName: Potion of Speed (SRD p235)
+  Source: (COC p178)
+  Type: Potion
+  Rarity: très rare
 AttributesDictionary: >+
-  {}
+  Name: Potion de vitesse
+
+  Markdown: >+
+
+    ### <!--Name-->Potion de vitesse<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Potion of Speed (SRD p235)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p178)<!--/Source-->
+
+
+
+    -  <!--Type-->Potion<!--/Type-->, <!--Rarity-->très rare<!--/Rarity-->
+
+
+
+
+
+    Vous bénéficiez des effets d'un sort de hâte pendant 1 minute (aucune concentration requise) après avoir bu cette potion. Le liquide jaune strié de noir de cette concoction tournoie de lui-même sans qu'on le remue.
+
+
+
+  AltName: Potion of Speed (SRD p235)
+
+  Source: (COC p178)
+
+  Type: Potion
+
+  Rarity: très rare
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

@@ -26,9 +26,250 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Ghast](srd_monsters_ghast.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Blême
+  Markdown: >+
+    # <!--Name-->Blême<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Ghast](srd_monsters_ghast.md)<!--/AltName-->
+
+    -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence-->11 (+0)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->nécrotiques<!--/DamageResistances-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
+
+    - **Immunités contre les états** <!--ConditionImmunities-->[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+    - **Langue** <!--Languages-->commun<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Mépris du renvoi._** Le blême et toutes les goules situées à 9 mètres ou moins de lui bénéficient d'un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les effets qui renvoient les morts-vivants.
+
+
+    **_Puanteur._** Les créatures qui commencent leur tour à 1,50 mètre ou moins du blême doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 10 pour ne pas être [empoisonnées](hd_conditions_empoisonne.md) jusqu'au début de leur prochain tour. Les créatures qui ont réussi leur [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) sont immunisées contre la puanteur du blême pendant 24 heures.
+
+
+    ## Actions
+
+
+    **_Griffes._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 10 (2d6+3) dégâts tranchants. Si la cible n'est pas un mort-vivant, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 10 pour ne pas être [paralysée](hd_conditions_paralyse.md) pendant 1 minute. La cible peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature.
+
+
+    _Touché :_ 12 (2d8+3) dégâts perforants.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Ghast](srd_monsters_ghast.md)'
+  Type: Mort-vivant
+  Size: M
+  Alignment: Chaotique Mauvais
+  ArmorClass: 13
+  HitPoints: 36 (8d8)
+  Speed: 9 m
+  Strength: 16 (+3)
+  Dexterity: 17 (+3)
+  Constitution: 10 (+0)
+  Intelligence: 11 (+0)
+  Wisdom: 10 (+0)
+  Charisma: ' 8 (-1)'
+  DamageResistances: nécrotiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun
+  Challenge: 2 (450 PX)
 AttributesDictionary: >+
-  {}
+  Name: Blême
+
+  Markdown: >+
+
+    # <!--Name-->Blême<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Ghast](srd_monsters_ghast.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence-->11 (+0)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->nécrotiques<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
+
+
+
+    - **Immunités contre les états** <!--ConditionImmunities-->[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->commun<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Mépris du renvoi._** Le blême et toutes les goules situées à 9 mètres ou moins de lui bénéficient d'un avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les effets qui renvoient les morts-vivants.
+
+
+
+
+
+    **_Puanteur._** Les créatures qui commencent leur tour à 1,50 mètre ou moins du blême doivent chacune réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 10 pour ne pas être [empoisonnées](hd_conditions_empoisonne.md) jusqu'au début de leur prochain tour. Les créatures qui ont réussi leur [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) sont immunisées contre la puanteur du blême pendant 24 heures.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Griffes._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 10 (2d6+3) dégâts tranchants. Si la cible n'est pas un mort-vivant, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 10 pour ne pas être [paralysée](hd_conditions_paralyse.md) pendant 1 minute. La cible peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature.
+
+
+
+
+
+    _Touché :_ 12 (2d8+3) dégâts perforants.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Ghast](srd_monsters_ghast.md)'
+
+  Type: Mort-vivant
+
+  Size: M
+
+  Alignment: Chaotique Mauvais
+
+  ArmorClass: 13
+
+  HitPoints: 36 (8d8)
+
+  Speed: 9 m
+
+  Strength: 16 (+3)
+
+  Dexterity: 17 (+3)
+
+  Constitution: 10 (+0)
+
+  Intelligence: 11 (+0)
+
+  Wisdom: 10 (+0)
+
+  Charisma: ' 8 (-1)'
+
+  DamageResistances: nécrotiques
+
+  DamageImmunities: de poison
+
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+
+  Languages: commun
+
+  Challenge: 2 (450 PX)
 
 ---
 > [Créatures](hd_monsters.md)

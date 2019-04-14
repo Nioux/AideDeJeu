@@ -26,9 +26,145 @@ ParentLink: background_militaire_hd.md#personnalités-suggérées
 Name: Trait de personnalité
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Trait de personnalité
+  Markdown: >+
+    ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+
+    |d8|Trait de personnalité|
+
+    |---|---|
+
+    |1|Je suis impétueux et direct, privilégiant <!--br-->toujours la solution la plus simple.|
+
+    |2|J'aime partager mon expérience du combat <!--br-->avec d'autres plus jeunes que moi.|
+
+    |3|J'ai vu assez de batailles pour savoir que la <!--br-->prudence sauve des vies.|
+
+    |4|Je laisse l'héroïsme aux autres. Survivre à la <!--br-->prochaine bataille me suffit.|
+
+    |5|J'ai vu trop de mes compagnons mourir, et je <!--br-->ne supporterai pas d'en voir d'autres tomber.|
+
+    |6|Je n'accorde aucune importance aux paroles, <!--br-->et ne me fie qu'aux actes.|
+
+    |7|J'ai le plus grand respect pour la hiérarchie et <!--br-->le règlement.|
+
+    |8|Je masque les blessures du passé sous un <!--br-->humour salace et imagé.|
+
+  Table: >+
+    |d8|Trait de personnalité|
+
+    |---|---|
+
+    |1|Je suis impétueux et direct, privilégiant <!--br-->toujours la solution la plus simple.|
+
+    |2|J'aime partager mon expérience du combat <!--br-->avec d'autres plus jeunes que moi.|
+
+    |3|J'ai vu assez de batailles pour savoir que la <!--br-->prudence sauve des vies.|
+
+    |4|Je laisse l'héroïsme aux autres. Survivre à la <!--br-->prochaine bataille me suffit.|
+
+    |5|J'ai vu trop de mes compagnons mourir, et je <!--br-->ne supporterai pas d'en voir d'autres tomber.|
+
+    |6|Je n'accorde aucune importance aux paroles, <!--br-->et ne me fie qu'aux actes.|
+
+    |7|J'ai le plus grand respect pour la hiérarchie et <!--br-->le règlement.|
+
+    |8|Je masque les blessures du passé sous un <!--br-->humour salace et imagé.|
+
 AttributesDictionary: >+
-  {}
+  Name: Trait de personnalité
+
+  Markdown: >+
+
+    ##### <!--Name-->Trait de personnalité<!--/Name-->
+
+
+
+
+
+    |d8|Trait de personnalité|
+
+
+
+    |---|---|
+
+
+
+    |1|Je suis impétueux et direct, privilégiant <!--br-->toujours la solution la plus simple.|
+
+
+
+    |2|J'aime partager mon expérience du combat <!--br-->avec d'autres plus jeunes que moi.|
+
+
+
+    |3|J'ai vu assez de batailles pour savoir que la <!--br-->prudence sauve des vies.|
+
+
+
+    |4|Je laisse l'héroïsme aux autres. Survivre à la <!--br-->prochaine bataille me suffit.|
+
+
+
+    |5|J'ai vu trop de mes compagnons mourir, et je <!--br-->ne supporterai pas d'en voir d'autres tomber.|
+
+
+
+    |6|Je n'accorde aucune importance aux paroles, <!--br-->et ne me fie qu'aux actes.|
+
+
+
+    |7|J'ai le plus grand respect pour la hiérarchie et <!--br-->le règlement.|
+
+
+
+    |8|Je masque les blessures du passé sous un <!--br-->humour salace et imagé.|
+
+
+
+  Table: >+
+
+    |d8|Trait de personnalité|
+
+
+
+    |---|---|
+
+
+
+    |1|Je suis impétueux et direct, privilégiant <!--br-->toujours la solution la plus simple.|
+
+
+
+    |2|J'aime partager mon expérience du combat <!--br-->avec d'autres plus jeunes que moi.|
+
+
+
+    |3|J'ai vu assez de batailles pour savoir que la <!--br-->prudence sauve des vies.|
+
+
+
+    |4|Je laisse l'héroïsme aux autres. Survivre à la <!--br-->prochaine bataille me suffit.|
+
+
+
+    |5|J'ai vu trop de mes compagnons mourir, et je <!--br-->ne supporterai pas d'en voir d'autres tomber.|
+
+
+
+    |6|Je n'accorde aucune importance aux paroles, <!--br-->et ne me fie qu'aux actes.|
+
+
+
+    |7|J'ai le plus grand respect pour la hiérarchie et <!--br-->le règlement.|
+
+
+
+    |8|Je masque les blessures du passé sous un <!--br-->humour salace et imagé.|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_militaire_personnalites_suggerees.md)

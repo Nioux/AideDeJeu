@@ -10,9 +10,64 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Ring of Jumping (SRD p236)
 Source: (COC p142)
-Attributes: {}
+Attributes:
+  Name: Anneau de saut
+  Markdown: >+
+    ### <!--Name-->Anneau de saut<!--/Name-->
+
+
+    - AltName: <!--AltName-->Ring of Jumping (SRD p236)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p142)<!--/Source-->
+
+    -  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+    Vous pouvez lancer le sort de saut, à volonté et par une action bonus, tant que vous portez cet anneau au doigt. Seul vous bénéficiez des effets de ce sort.
+
+  AltName: Ring of Jumping (SRD p236)
+  Source: (COC p142)
+  Type: Anneau
+  Rarity: peu courant
+  Attunement: harmonisation requise
 AttributesDictionary: >+
-  {}
+  Name: Anneau de saut
+
+  Markdown: >+
+
+    ### <!--Name-->Anneau de saut<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Ring of Jumping (SRD p236)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p142)<!--/Source-->
+
+
+
+    -  <!--Type-->Anneau<!--/Type-->, <!--Rarity-->peu courant<!--/Rarity--> (<!--Attunement-->harmonisation requise<!--/Attunement-->)
+
+
+
+
+
+    Vous pouvez lancer le sort de saut, à volonté et par une action bonus, tant que vous portez cet anneau au doigt. Seul vous bénéficiez des effets de ce sort.
+
+
+
+  AltName: Ring of Jumping (SRD p236)
+
+  Source: (COC p142)
+
+  Type: Anneau
+
+  Rarity: peu courant
+
+  Attunement: harmonisation requise
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

@@ -1,13 +1,98 @@
 ﻿---
 !GenericItem
-Name: Ascendance
 Id: dragonborn_hd.md#ascendance
 ParentLink: dragonborn_hd.md#sangdragon
+Name: Ascendance
 ParentName: Sangdragon
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: Ascendance
+  Markdown: >+
+    ### <!--Name-->Ascendance<!--/Name-->
+
+
+    |Dragon|Type <!--br-->de <!--br-->dégâts|Souffle|[Jet <!--br-->de <!--br-->sauvegarde](hd_abilities_jets_de_sauvegarde.md)|
+
+    |---|---|---|---|
+
+    |Airain|Feu|Ligne de 1,50 m sur 9 m|[Dextérité](hd_abilities_dexterity.md)|
+
+    |Argent|Froid|Cône de 4,50 m|[Constitution](hd_abilities_constitution.md)|
+
+    |Blanc|Froid|Cône de 4,50 m|[Constitution](hd_abilities_constitution.md)|
+
+    |Bleu|Foudre|Ligne de 1,50 m sur 9 m|[Dextérité](hd_abilities_dexterity.md)|
+
+    |Bronze|Foudre|Ligne de 1,50 m sur 9 m|[Dextérité](hd_abilities_dexterity.md)|
+
+    |Cuivre|Acide|Ligne de 1,50 m sur 9 m|[Dextérité](hd_abilities_dexterity.md)|
+
+    |Noir|Acide|Ligne de 1,50 m sur 9 m|[Dextérité](hd_abilities_dexterity.md)|
+
+    |Or|Feu|Cône de 4,50 m|[Dextérité](hd_abilities_dexterity.md)|
+
+    |Rouge|Feu|Cône de 4,50 m|[Dextérité](hd_abilities_dexterity.md)|
+
+    |Vert|Poison|Cône de 4,50 m|[Constitution](hd_abilities_constitution.md)|
+
 AttributesDictionary: >+
-  {}
+  Name: Ascendance
+
+  Markdown: >+
+
+    ### <!--Name-->Ascendance<!--/Name-->
+
+
+
+
+
+    |Dragon|Type <!--br-->de <!--br-->dégâts|Souffle|[Jet <!--br-->de <!--br-->sauvegarde](hd_abilities_jets_de_sauvegarde.md)|
+
+
+
+    |---|---|---|---|
+
+
+
+    |Airain|Feu|Ligne de 1,50 m sur 9 m|[Dextérité](hd_abilities_dexterity.md)|
+
+
+
+    |Argent|Froid|Cône de 4,50 m|[Constitution](hd_abilities_constitution.md)|
+
+
+
+    |Blanc|Froid|Cône de 4,50 m|[Constitution](hd_abilities_constitution.md)|
+
+
+
+    |Bleu|Foudre|Ligne de 1,50 m sur 9 m|[Dextérité](hd_abilities_dexterity.md)|
+
+
+
+    |Bronze|Foudre|Ligne de 1,50 m sur 9 m|[Dextérité](hd_abilities_dexterity.md)|
+
+
+
+    |Cuivre|Acide|Ligne de 1,50 m sur 9 m|[Dextérité](hd_abilities_dexterity.md)|
+
+
+
+    |Noir|Acide|Ligne de 1,50 m sur 9 m|[Dextérité](hd_abilities_dexterity.md)|
+
+
+
+    |Or|Feu|Cône de 4,50 m|[Dextérité](hd_abilities_dexterity.md)|
+
+
+
+    |Rouge|Feu|Cône de 4,50 m|[Dextérité](hd_abilities_dexterity.md)|
+
+
+
+    |Vert|Poison|Cône de 4,50 m|[Constitution](hd_abilities_constitution.md)|
+
+
 
 ---
 > [Sangdragon](hd_dragonborn.md)

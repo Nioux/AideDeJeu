@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Viole
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Viole
+  Markdown: >+
+    # <!--Name-->Viole<!--/Name-->
+
+
+    - **Type** <!--Type-->Outil - Instrument de musique<!--/Type-->
+
+    - **Prix** <!--Price-->30 po<!--/Price-->
+
+    - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
+
+  Type: Outil - Instrument de musique
+  Price: 30 po
+  Weight: 0,5 kg
 AttributesDictionary: >+
-  {}
+  Name: Viole
+
+  Markdown: >+
+
+    # <!--Name-->Viole<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Outil - Instrument de musique<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->30 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
+
+
+
+  Type: Outil - Instrument de musique
+
+  Price: 30 po
+
+  Weight: 0,5 kg
 
 ---
 > [Équipement](hd_equipment.md)

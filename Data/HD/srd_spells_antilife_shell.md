@@ -15,9 +15,133 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Coquille antivie](hd_spells_coquille_antivie.md)'
 Source: (SRD p116)
-Attributes: {}
+Attributes:
+  Name: Antilife Shell
+  Markdown: >+
+    # <!--Name-->Antilife Shell<!--/Name-->
+
+
+    - MDR: <!--AltName-->[Coquille antivie](hd_spells_coquille_antivie.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p116)<!--/Source-->
+
+    -  <!--Level-->5<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+    - **Range :** <!--Range-->Self (10-foot radius)<!--/Range-->
+
+    - **Components :** <!--Components-->V, S<!--/Components-->
+
+    - **Duration :** <!--Duration-->Concentration, up to 1 hour<!--/Duration-->
+
+    - Classes: <!--Classes-->Druid<!--/Classes-->
+
+
+    ### Description
+
+
+    A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
+
+
+    The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.
+
+
+    If you move so that an affected creature is forced to pass through the barrier, the spell ends.
+
+  AltName: '[Coquille antivie](hd_spells_coquille_antivie.md)'
+  Source: (SRD p116)
+  Level: 5
+  Type: abjuration
+  CastingTime: 1 action
+  Range: Self (10-foot radius)
+  Components: V, S
+  Duration: Concentration, up to 1 hour
+  Classes: Druid
 AttributesDictionary: >+
-  {}
+  Name: Antilife Shell
+
+  Markdown: >+
+
+    # <!--Name-->Antilife Shell<!--/Name-->
+
+
+
+
+
+    - MDR: <!--AltName-->[Coquille antivie](hd_spells_coquille_antivie.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p116)<!--/Source-->
+
+
+
+    -  <!--Level-->5<!--/Level-->th-level <!--Type-->abjuration<!--/Type-->
+
+
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+    - **Range :** <!--Range-->Self (10-foot radius)<!--/Range-->
+
+
+
+    - **Components :** <!--Components-->V, S<!--/Components-->
+
+
+
+    - **Duration :** <!--Duration-->Concentration, up to 1 hour<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->Druid<!--/Classes-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
+
+
+
+
+
+    The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.
+
+
+
+
+
+    If you move so that an affected creature is forced to pass through the barrier, the spell ends.
+
+
+
+  AltName: '[Coquille antivie](hd_spells_coquille_antivie.md)'
+
+  Source: (SRD p116)
+
+  Level: 5
+
+  Type: abjuration
+
+  CastingTime: 1 action
+
+  Range: Self (10-foot radius)
+
+  Components: V, S
+
+  Duration: Concentration, up to 1 hour
+
+  Classes: Druid
 
 ---
 > [Spells (SRD p)](srd_spells.md)

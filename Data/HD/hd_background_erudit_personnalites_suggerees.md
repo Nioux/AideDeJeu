@@ -5,9 +5,37 @@ ParentLink: background_erudit_hd.md#Érudit
 Name: Personnalités suggérées
 ParentName: Érudit
 NameLevel: 4
-Attributes: {}
+Attributes:
+  Name: Personnalités suggérées
+  Markdown: >+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+    Les érudits se distinguent par leur soif inextinguible de connaissances. Pour certains, ce savoir est une fin en soi. Pour d'autres, il ne s'agit que d'un moyen parmi d'autres d'arriver à d'autres fins. Parvenir à un tel niveau d'érudition requiert cependant toujours une détermination sans faille.
+
+  Description: >+
+    Les érudits se distinguent par leur soif inextinguible de connaissances. Pour certains, ce savoir est une fin en soi. Pour d'autres, il ne s'agit que d'un moyen parmi d'autres d'arriver à d'autres fins. Parvenir à un tel niveau d'érudition requiert cependant toujours une détermination sans faille.
+
 AttributesDictionary: >+
-  {}
+  Name: Personnalités suggérées
+
+  Markdown: >+
+
+    #### <!--Name-->Personnalités suggérées<!--/Name-->
+
+
+
+
+
+    Les érudits se distinguent par leur soif inextinguible de connaissances. Pour certains, ce savoir est une fin en soi. Pour d'autres, il ne s'agit que d'un moyen parmi d'autres d'arriver à d'autres fins. Parvenir à un tel niveau d'érudition requiert cependant toujours une détermination sans faille.
+
+
+
+  Description: >+
+
+    Les érudits se distinguent par leur soif inextinguible de connaissances. Pour certains, ce savoir est une fin en soi. Pour d'autres, il ne s'agit que d'un moyen parmi d'autres d'arriver à d'autres fins. Parvenir à un tel niveau d'érudition requiert cependant toujours une détermination sans faille.
+
+
 
 Description: >+
   Les érudits se distinguent par leur soif inextinguible de connaissances. Pour certains, ce savoir est une fin en soi. Pour d'autres, il ne s'agit que d'un moyen parmi d'autres d'arriver à d'autres fins. Parvenir à un tel niveau d'érudition requiert cependant toujours une détermination sans faille.

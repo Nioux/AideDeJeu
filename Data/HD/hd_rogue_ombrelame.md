@@ -8,9 +8,73 @@ RootId: rogue_ombrelame_hd.md
 ParentLink: rogue_hd.md#archétypes-de-roublard
 ParentName: Archétypes de roublard
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Ombrelame<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p206)<!--/Source-->
+
+
+    Si la plupart des roublards cultivent la discrétion et la manipulation, se fondre dans les ombres et tromper l'adversaire semble une seconde nature chez certain.
+
+
+    Ceux-ci semblent avoir une connexion surnaturelle avec le monde des ombres et de l'obscurité, quelque chose d'inexplicable qui coule dans leur sang et leur donne accès à une magie étrange et inquiétante, parfois sombre et mortelle.
+
+  Name: Ombrelame
+  Source: (MDR p206)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Ombrelame<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p206)<!--/Source-->
+
+
+
+
+
+    Si la plupart des roublards cultivent la discrétion et la manipulation, se fondre dans les ombres et tromper l'adversaire semble une seconde nature chez certain.
+
+
+
+
+
+    Ceux-ci semblent avoir une connexion surnaturelle avec le monde des ombres et de l'obscurité, quelque chose d'inexplicable qui coule dans leur sang et leur donne accès à une magie étrange et inquiétante, parfois sombre et mortelle.
+
+
+
+  Name: Ombrelame
+
+  Source: (MDR p206)
 
 ---
 >  [Archétypes de roublard](hd_rogue_archetypes_de_roublard.md)

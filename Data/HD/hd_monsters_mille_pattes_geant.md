@@ -23,9 +23,178 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Mille-pattes géant
+  Markdown: >+
+    # <!--Name-->Mille-pattes géant<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Giant Centipede](srd_monsters_giant_centipede.md)<!--/AltName-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->4 (1d6+1)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 5 (-3)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 7 (-2)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+    - **Sens** <!--Senses-->vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
+
+
+    ## Actions
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+
+    _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 11 pour ne pas subir 10 (3d6) dégâts de poison. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée](hd_conditions_empoisonne.md) pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée](hd_conditions_paralyse.md) tant que le poison continue de faire effet.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
+  Type: Bête
+  Size: P
+  Alignment: non-alignée
+  ArmorClass: 13 (armure naturelle)
+  HitPoints: 4 (1d6+1)
+  Speed: 9 m, escalade 9 m
+  Strength: ' 5 (-3)'
+  Dexterity: 14 (+2)
+  Constitution: 12 (+1)
+  Intelligence: ' 1 (-5)'
+  Wisdom: ' 7 (-2)'
+  Charisma: ' 3 (-4)'
+  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 1/4 (50 PX)
 AttributesDictionary: >+
-  {}
+  Name: Mille-pattes géant
+
+  Markdown: >+
+
+    # <!--Name-->Mille-pattes géant<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Giant Centipede](srd_monsters_giant_centipede.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->4 (1d6+1)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 5 (-3)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 7 (-2)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Sens** <!--Senses-->vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Morsure._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+
+
+
+
+    _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 11 pour ne pas subir 10 (3d6) dégâts de poison. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée](hd_conditions_empoisonne.md) pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée](hd_conditions_paralyse.md) tant que le poison continue de faire effet.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
+
+  Type: Bête
+
+  Size: P
+
+  Alignment: non-alignée
+
+  ArmorClass: 13 (armure naturelle)
+
+  HitPoints: 4 (1d6+1)
+
+  Speed: 9 m, escalade 9 m
+
+  Strength: ' 5 (-3)'
+
+  Dexterity: 14 (+2)
+
+  Constitution: 12 (+1)
+
+  Intelligence: ' 1 (-5)'
+
+  Wisdom: ' 7 (-2)'
+
+  Charisma: ' 3 (-4)'
+
+  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+
+  Languages: —
+
+  Challenge: 1/4 (50 PX)
 
 ---
 > [Créatures](hd_monsters.md)

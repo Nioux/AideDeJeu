@@ -6,9 +6,19 @@ Id: backgrounds_hd.md#villageois
 ParentLink: backgrounds_hd.md#historique
 Name: Villageois
 ParentName: Historique
-Attributes: {}
+Attributes:
+  NameLink: '[Villageois](hd_background_villageois.md)'
+  Markdown: >+
+    # <!--NameLink-->[Villageois](hd_background_villageois.md)<!--/NameLink-->
+
 AttributesDictionary: >+
-  {}
+  NameLink: '[Villageois](hd_background_villageois.md)'
+
+  Markdown: >+
+
+    # <!--NameLink-->[Villageois](hd_background_villageois.md)<!--/NameLink-->
+
+
 
 ---
 

@@ -11,11 +11,83 @@ ParentName: Halfelin
 NameLevel: 2
 Source: (MDR p52)
 Attributes:
+  Name: Halfelin grand-sabot
+  Markdown: >+
+    ## <!--Name-->Halfelin grand-sabot<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p52)<!--/Source-->
+
+
+    En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu crédule. Grâce à votre vie de labeur, vous êtes résistant et très manuel.
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 1.<!--/AbilityScoreIncrease-->
+
+
+    **<!--PragmaticMindKey-->Esprit pragmatique<!--/PragmaticMindKey-->.** <!--PragmaticMindValue-->Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)](hd_abilities_wisdom_perspicacite.md) lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts de charme.<!--/PragmaticMindValue-->
+
+
+    **<!--HardWorkerKey-->Travailleur acharné<!--/HardWorkerKey-->.** <!--HardWorkerValue-->Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.<!--/HardWorkerValue-->
+
+  Source: (MDR p52)
+  Description: >+
+    En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu crédule. Grâce à votre vie de labeur, vous êtes résistant et très manuel.
+
+  AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 1.
   PragmaticMindKey: Esprit pragmatique
   PragmaticMindValue: Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)](hd_abilities_wisdom_perspicacite.md) lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts de charme.
   HardWorkerKey: Travailleur acharné
   HardWorkerValue: Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.
 AttributesDictionary: >+
+  Name: Halfelin grand-sabot
+
+  Markdown: >+
+
+    ## <!--Name-->Halfelin grand-sabot<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p52)<!--/Source-->
+
+
+
+
+
+    En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu crédule. Grâce à votre vie de labeur, vous êtes résistant et très manuel.
+
+
+
+
+
+    **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 1.<!--/AbilityScoreIncrease-->
+
+
+
+
+
+    **<!--PragmaticMindKey-->Esprit pragmatique<!--/PragmaticMindKey-->.** <!--PragmaticMindValue-->Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)](hd_abilities_wisdom_perspicacite.md) lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts de charme.<!--/PragmaticMindValue-->
+
+
+
+
+
+    **<!--HardWorkerKey-->Travailleur acharné<!--/HardWorkerKey-->.** <!--HardWorkerValue-->Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.<!--/HardWorkerValue-->
+
+
+
+  Source: (MDR p52)
+
+  Description: >+
+
+    En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu crédule. Grâce à votre vie de labeur, vous êtes résistant et très manuel.
+
+
+
+  AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 1.
+
   PragmaticMindKey: Esprit pragmatique
 
   PragmaticMindValue: Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)](hd_abilities_wisdom_perspicacite.md) lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts de charme.

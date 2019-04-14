@@ -10,9 +10,73 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Holy Avenger (SRD p225)
 Source: (COC p188)
-Attributes: {}
+Attributes:
+  Name: Vengeresse sacrée
+  Markdown: >+
+    ### <!--Name-->Vengeresse sacrée<!--/Name-->
+
+
+    - AltName: <!--AltName-->Holy Avenger (SRD p225)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p188)<!--/Source-->
+
+    -  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise avec un paladin<!--/Attunement-->)
+
+
+    Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme magique. Quand vous touchez un fiélon ou un mort-vivant avec, il subit 2d10 dégâts radiants supplémentaires.
+
+
+    Tant que vous tenez l'arme en main, elle génère une aura de 3 mètres de rayon autour de vous. Vous et toutes les créatures amicales envers vous affectées par l'aura obtenez l'avantage lors des jets de sauvegarde contre les sorts et autres effets magiques. Si vous possédez 17 niveaux ou plus dans la classe de paladin, le rayon de l'aura passe à 9 mètres.
+
+  AltName: Holy Avenger (SRD p225)
+  Source: (COC p188)
+  Type: Arme (épée)
+  Rarity: légendaire
+  Attunement: harmonisation requise avec un paladin
 AttributesDictionary: >+
-  {}
+  Name: Vengeresse sacrée
+
+  Markdown: >+
+
+    ### <!--Name-->Vengeresse sacrée<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Holy Avenger (SRD p225)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p188)<!--/Source-->
+
+
+
+    -  <!--Type-->Arme (épée)<!--/Type-->, <!--Rarity-->légendaire<!--/Rarity--> (<!--Attunement-->harmonisation requise avec un paladin<!--/Attunement-->)
+
+
+
+
+
+    Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme magique. Quand vous touchez un fiélon ou un mort-vivant avec, il subit 2d10 dégâts radiants supplémentaires.
+
+
+
+
+
+    Tant que vous tenez l'arme en main, elle génère une aura de 3 mètres de rayon autour de vous. Vous et toutes les créatures amicales envers vous affectées par l'aura obtenez l'avantage lors des jets de sauvegarde contre les sorts et autres effets magiques. Si vous possédez 17 niveaux ou plus dans la classe de paladin, le rayon de l'aura passe à 9 mètres.
+
+
+
+  AltName: Holy Avenger (SRD p225)
+
+  Source: (COC p188)
+
+  Type: Arme (épée)
+
+  Rarity: légendaire
+
+  Attunement: harmonisation requise avec un paladin
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)

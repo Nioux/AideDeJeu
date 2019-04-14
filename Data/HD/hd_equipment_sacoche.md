@@ -9,9 +9,67 @@ ParentLink: equipment_hd.md#Équipement
 Name: Sacoche
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Sacoche
+  Markdown: >+
+    # <!--Name-->Sacoche<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+    - **Prix** <!--Price-->5 pa<!--/Price-->
+
+    - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
+
+    - **Capacité** <!--Capacity-->6 L/3 kg d'équipement<!--/Capacity-->
+
+
+    Une bourse en tissu ou en cuir peut notamment contenir jusqu'à vingt billes de fronde ou cinquante dards de sarbacane. Une sacoche à compartiments qui est utilisée pour stocker les composantes de sorts s'appelle une sacoche à composantes (voir ci-dessous).
+
+  Type: Équipement d'aventurier
+  Price: 5 pa
+  Weight: 0,5 kg
+  Capacity: 6 L/3 kg d'équipement
 AttributesDictionary: >+
-  {}
+  Name: Sacoche
+
+  Markdown: >+
+
+    # <!--Name-->Sacoche<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->5 pa<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->0,5 kg<!--/Weight-->
+
+
+
+    - **Capacité** <!--Capacity-->6 L/3 kg d'équipement<!--/Capacity-->
+
+
+
+
+
+    Une bourse en tissu ou en cuir peut notamment contenir jusqu'à vingt billes de fronde ou cinquante dards de sarbacane. Une sacoche à compartiments qui est utilisée pour stocker les composantes de sorts s'appelle une sacoche à composantes (voir ci-dessous).
+
+
+
+  Type: Équipement d'aventurier
+
+  Price: 5 pa
+
+  Weight: 0,5 kg
+
+  Capacity: 6 L/3 kg d'équipement
 
 ---
 > [Équipement](hd_equipment.md)

@@ -23,9 +23,196 @@ Name: Giant Crab
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Crabe géant](hd_monsters_crabe_geant.md)'
-Attributes: {}
+Attributes:
+  Name: Giant Crab
+  Markdown: >+
+    # <!--Name-->Giant Crab<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Crabe géant](hd_monsters_crabe_geant.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 9 (-1)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Stealth +4<!--/Skills-->
+
+    - **Senses** <!--Senses-->blindsight 30 ft., passive Perception 9<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Amphibious_**. The crab can breathe air and water.
+
+
+    ## Actions
+
+
+    **_Claw_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+
+  AltName: '[Crabe géant](hd_monsters_crabe_geant.md)'
+  Size: Medium
+  Type: beast
+  Alignment: unaligned
+  ArmorClass: 15 (natural armor)
+  HitPoints: 13 (3d8)
+  Speed: 30 ft., swim 30 ft.
+  Strength: 13 (+1)
+  Dexterity: 15 (+2)
+  Constitution: 11 (+0)
+  Intelligence: ' 1 (-5)'
+  Wisdom: ' 9 (-1)'
+  Charisma: ' 3 (-4)'
+  Skills: Stealth +4
+  Senses: blindsight 30 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
 AttributesDictionary: >+
-  {}
+  Name: Giant Crab
+
+  Markdown: >+
+
+    # <!--Name-->Giant Crab<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Crabe géant](hd_monsters_crabe_geant.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft., swim 30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 1 (-5)<!--/Intelligence-->|<!--Wisdom--> 9 (-1)<!--/Wisdom-->|<!--Charisma--> 3 (-4)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Stealth +4<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->blindsight 30 ft., passive Perception 9<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Amphibious_**. The crab can breathe air and water.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Claw_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+
+
+
+  AltName: '[Crabe géant](hd_monsters_crabe_geant.md)'
+
+  Size: Medium
+
+  Type: beast
+
+  Alignment: unaligned
+
+  ArmorClass: 15 (natural armor)
+
+  HitPoints: 13 (3d8)
+
+  Speed: 30 ft., swim 30 ft.
+
+  Strength: 13 (+1)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 11 (+0)
+
+  Intelligence: ' 1 (-5)'
+
+  Wisdom: ' 9 (-1)'
+
+  Charisma: ' 3 (-4)'
+
+  Skills: Stealth +4
+
+  Senses: blindsight 30 ft., passive Perception 9
+
+  Languages: '-'
+
+  Challenge: 1/8 (25 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

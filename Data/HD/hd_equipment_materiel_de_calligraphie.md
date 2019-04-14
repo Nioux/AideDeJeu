@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Matériel de calligraphie
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Matériel de calligraphie
+  Markdown: >+
+    # <!--Name-->Matériel de calligraphie<!--/Name-->
+
+
+    - **Type** <!--Type-->Outil d'artisan<!--/Type-->
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+    - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
+
+  Type: Outil d'artisan
+  Price: 10 po
+  Weight: 2,5 kg
 AttributesDictionary: >+
-  {}
+  Name: Matériel de calligraphie
+
+  Markdown: >+
+
+    # <!--Name-->Matériel de calligraphie<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Outil d'artisan<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->2,5 kg<!--/Weight-->
+
+
+
+  Type: Outil d'artisan
+
+  Price: 10 po
+
+  Weight: 2,5 kg
 
 ---
 > [Équipement](hd_equipment.md)

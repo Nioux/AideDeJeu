@@ -5,9 +5,37 @@ ParentLink: monk_hd.md#moine
 Name: Âme de diamant
 ParentName: Moine
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Âme de diamant
+  Markdown: >+
+    ## <!--Name-->Âme de diamant<!--/Name-->
+
+
+    À partir du niveau 14, votre contrôle du ki vous permet de maîtriser tous les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md).
+
+
+    De plus, quand vous faites un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) et échouez, vous pouvez dépenser 1 point de ki pour le retenter et conserver le deuxième résultat.
+
 AttributesDictionary: >+
-  {}
+  Name: Âme de diamant
+
+  Markdown: >+
+
+    ## <!--Name-->Âme de diamant<!--/Name-->
+
+
+
+
+
+    À partir du niveau 14, votre contrôle du ki vous permet de maîtriser tous les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md).
+
+
+
+
+
+    De plus, quand vous faites un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) et échouez, vous pouvez dépenser 1 point de ki pour le retenter et conserver le deuxième résultat.
+
+
 
 ---
 > [Moine](hd_monk.md)

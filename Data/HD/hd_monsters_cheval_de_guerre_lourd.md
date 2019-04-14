@@ -22,9 +22,196 @@ Name: Cheval de guerre lourd
 ParentName: Créatures
 NameLevel: 1
 Source: (CEO p)
-Attributes: {}
+Attributes:
+  Name: Cheval de guerre lourd
+  Markdown: >+
+    # <!--Name-->Cheval de guerre lourd<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)<!--/Source-->
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->37 (5d10+10)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->18 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 11<!--/Senses-->
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Charge écrasante._** Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 14 pour ne pas être [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
+
+
+    **_Monture d'élite._** Le cheval de guerre lourd est réservé à une élite parmi les paladins : les chevaliers du serment de perfection. Les autres personnages n'ont pas accès à cette monture. Un cheval de guerre lourd ne peut pas être acheté, il s'agit en réalité d'un cheval de guerre ordinaire que le paladin a dressé pour en faire une monture d'exception. Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre lourd, il lui faut une action pour diriger la monture à chaque round.
+
+
+    ## Actions
+
+
+    **_Sabots._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+    _Touché :_ 11 (2d6+4) dégâts contondants.
+
+  Source: (CEO p)
+  Type: Bête
+  Size: G
+  Alignment: non-alignée
+  ArmorClass: 12
+  HitPoints: 37 (5d10+10)
+  Speed: 18 m
+  Strength: 18 (+4)
+  Dexterity: 12 (+1)
+  Constitution: 15 (+2)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 12 (+1)
+  Charisma: ' 7 (-2)'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: —
+  Challenge: 1 (200 PX)
 AttributesDictionary: >+
-  {}
+  Name: Cheval de guerre lourd
+
+  Markdown: >+
+
+    # <!--Name-->Cheval de guerre lourd<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)<!--/Source-->
+
+
+
+    -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->37 (5d10+10)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->18 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->18 (+4)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Sens** <!--Senses-->[Perception passive](hd_abilities_dexterity_perception_passive.md) 11<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->—<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Charge écrasante._** Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 14 pour ne pas être [à terre](hd_conditions_a_terre.md). Si la cible est [à terre](hd_conditions_a_terre.md), le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
+
+
+
+
+
+    **_Monture d'élite._** Le cheval de guerre lourd est réservé à une élite parmi les paladins : les chevaliers du serment de perfection. Les autres personnages n'ont pas accès à cette monture. Un cheval de guerre lourd ne peut pas être acheté, il s'agit en réalité d'un cheval de guerre ordinaire que le paladin a dressé pour en faire une monture d'exception. Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre lourd, il lui faut une action pour diriger la monture à chaque round.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Sabots._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 11 (2d6+4) dégâts contondants.
+
+
+
+  Source: (CEO p)
+
+  Type: Bête
+
+  Size: G
+
+  Alignment: non-alignée
+
+  ArmorClass: 12
+
+  HitPoints: 37 (5d10+10)
+
+  Speed: 18 m
+
+  Strength: 18 (+4)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 15 (+2)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 7 (-2)'
+
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+
+  Languages: —
+
+  Challenge: 1 (200 PX)
 
 ---
 > [Créatures](hd_monsters.md)

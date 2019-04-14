@@ -16,9 +16,139 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Purify Food and Drink](srd_spells_purify_food_and_drink.md)'
 Source: (MDR p)
-Attributes: {}
+Attributes:
+  Name: Purification de la nourriture et de l'eau
+  Markdown: >+
+    # <!--Name-->Purification de la nourriture et de l'eau<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Purify Food and Drink](srd_spells_purify_food_and_drink.md)<!--/AltName-->
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->3 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->instantanée<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)<!--/Source-->
+
+
+    ### Description
+
+
+    Toute la nourriture et les boissons non magiques présentes dans une sphère d'un rayon de 1,50 mètre centrée autour d'un point de votre choix situé à portée sont purifiées et débarrassées de tout poison et maladie.
+
+  AltName: '[Purify Food and Drink](srd_spells_purify_food_and_drink.md)'
+  Type: Transmutation
+  Level: 1
+  Ritual: rituel
+  CastingTime: 1 action
+  Range: 3 mètres
+  Components: V, S
+  Duration: instantanée
+  Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md)'
+  Source: (MDR p)
 AttributesDictionary: >+
-  {}
+  Name: Purification de la nourriture et de l'eau
+
+  Markdown: >+
+
+    # <!--Name-->Purification de la nourriture et de l'eau<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Purify Food and Drink](srd_spells_purify_food_and_drink.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->3 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->instantanée<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Toute la nourriture et les boissons non magiques présentes dans une sphère d'un rayon de 1,50 mètre centrée autour d'un point de votre choix situé à portée sont purifiées et débarrassées de tout poison et maladie.
+
+
+
+  AltName: '[Purify Food and Drink](srd_spells_purify_food_and_drink.md)'
+
+  Type: Transmutation
+
+  Level: 1
+
+  Ritual: rituel
+
+  CastingTime: 1 action
+
+  Range: 3 mètres
+
+  Components: V, S
+
+  Duration: instantanée
+
+  Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md)'
+
+  Source: (MDR p)
 
 ---
 > [Sorts](hd_spells.md)

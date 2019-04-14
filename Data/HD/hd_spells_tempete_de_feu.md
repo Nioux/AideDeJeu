@@ -15,9 +15,154 @@ ParentName: Sorts
 NameLevel: 1
 AltName: '[Fire Storm](srd_spells_fire_storm.md)'
 Source: (MDR p)(SRD)
-Attributes: {}
+Attributes:
+  Name: Tempête de feu
+  Markdown: >+
+    # <!--Name-->Tempête de feu<!--/Name-->
+
+
+    - SRD: <!--AltName-->[Fire Storm](srd_spells_fire_storm.md)<!--/AltName-->
+
+
+    -  <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+    - **Portée :** <!--Range-->45 mètres<!--/Range-->
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+    - **Durée :** <!--Duration-->instantanée<!--/Duration-->
+
+
+    - Classes: <!--Classes-->[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)<!--/Classes-->
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+    ### Description
+
+
+    Une tempête faite de nuages de feu ronflant se forme à l'endroit que vous avez choisi, à portée. La tempête occupe une zone composée d'un maximum de dix cubes de 3 mètres d'arête, que vous pouvez disposer comme bon vous semble. Chaque cube doit avoir au moins une face adjacente à celle d'un autre cube. Chaque créature de la zone doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md).
+
+
+    Celles qui échouent subissent 7d10 dégâts de feu, les autres la moitié seulement.
+
+
+    Le feu endommage les objets présents dans la zone et embrase les objets inflammables de la zone que personne ne porte ou ne transporte. Si vous le désirez, les flammes peuvent épargner la végétation présente dans la zone.
+
+  AltName: '[Fire Storm](srd_spells_fire_storm.md)'
+  Type: Évocation
+  Level: 7
+  CastingTime: 1 action
+  Range: 45 mètres
+  Components: V, S
+  Duration: instantanée
+  Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
+  Source: (MDR p)(SRD)
 AttributesDictionary: >+
-  {}
+  Name: Tempête de feu
+
+  Markdown: >+
+
+    # <!--Name-->Tempête de feu<!--/Name-->
+
+
+
+
+
+    - SRD: <!--AltName-->[Fire Storm](srd_spells_fire_storm.md)<!--/AltName-->
+
+
+
+
+
+    -  <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+
+
+
+
+
+    - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+
+
+    - **Portée :** <!--Range-->45 mètres<!--/Range-->
+
+
+
+
+
+    - **Composantes :** <!--Components-->V, S<!--/Components-->
+
+
+
+
+
+    - **Durée :** <!--Duration-->instantanée<!--/Duration-->
+
+
+
+
+
+    - Classes: <!--Classes-->[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)<!--/Classes-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    Une tempête faite de nuages de feu ronflant se forme à l'endroit que vous avez choisi, à portée. La tempête occupe une zone composée d'un maximum de dix cubes de 3 mètres d'arête, que vous pouvez disposer comme bon vous semble. Chaque cube doit avoir au moins une face adjacente à celle d'un autre cube. Chaque créature de la zone doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md).
+
+
+
+
+
+    Celles qui échouent subissent 7d10 dégâts de feu, les autres la moitié seulement.
+
+
+
+
+
+    Le feu endommage les objets présents dans la zone et embrase les objets inflammables de la zone que personne ne porte ou ne transporte. Si vous le désirez, les flammes peuvent épargner la végétation présente dans la zone.
+
+
+
+  AltName: '[Fire Storm](srd_spells_fire_storm.md)'
+
+  Type: Évocation
+
+  Level: 7
+
+  CastingTime: 1 action
+
+  Range: 45 mètres
+
+  Components: V, S
+
+  Duration: instantanée
+
+  Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
+
+  Source: (MDR p)(SRD)
 
 ---
 > [Sorts](hd_spells.md)

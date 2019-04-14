@@ -22,9 +22,121 @@ ParentLink: background_militaire_hd.md#personnalités-suggérées
 Name: Idéal
 ParentName: Personnalités suggérées
 NameLevel: 5
-Attributes: {}
+Attributes:
+  Name: Idéal
+  Markdown: >+
+    ##### <!--Name-->Idéal<!--/Name-->
+
+
+    |d6|Idéal|
+
+    |---|---|
+
+    |1|**Devoir.** Être un soldat, c'est suivre les ordres <!--br-->sans poser de question. (Loyal)|
+
+    |2|**Bien commun.** Les soldats risquent leur vie <!--br-->afin que d'autres vivent la leur en paix. (Bon)|
+
+    |3|**Force.** Écraser ses ennemis, les voir mourir <!--br-->devant soi, et entendre les lamentations de <!--br-->leurs femmes. (Mauvais)|
+
+    |4|**Responsabilité.** Dans certaines circonstances, <!--br-->la guerre est un mal nécessaire. (Neutre)|
+
+    |5|**Changement.** Le chaos de la bataille est une <!--br-->source primale d'énergie et de changement. <!--br-->(Chaotique)|
+
+    |6|**Honneur.** Servir son seigneur, sa cité ou sa <!--br-->patrie est la mission la plus honorable qui soit. <!--br-->(Loyal)|
+
+  Table: >+
+    |d6|Idéal|
+
+    |---|---|
+
+    |1|**Devoir.** Être un soldat, c'est suivre les ordres <!--br-->sans poser de question. (Loyal)|
+
+    |2|**Bien commun.** Les soldats risquent leur vie <!--br-->afin que d'autres vivent la leur en paix. (Bon)|
+
+    |3|**Force.** Écraser ses ennemis, les voir mourir <!--br-->devant soi, et entendre les lamentations de <!--br-->leurs femmes. (Mauvais)|
+
+    |4|**Responsabilité.** Dans certaines circonstances, <!--br-->la guerre est un mal nécessaire. (Neutre)|
+
+    |5|**Changement.** Le chaos de la bataille est une <!--br-->source primale d'énergie et de changement. <!--br-->(Chaotique)|
+
+    |6|**Honneur.** Servir son seigneur, sa cité ou sa <!--br-->patrie est la mission la plus honorable qui soit. <!--br-->(Loyal)|
+
 AttributesDictionary: >+
-  {}
+  Name: Idéal
+
+  Markdown: >+
+
+    ##### <!--Name-->Idéal<!--/Name-->
+
+
+
+
+
+    |d6|Idéal|
+
+
+
+    |---|---|
+
+
+
+    |1|**Devoir.** Être un soldat, c'est suivre les ordres <!--br-->sans poser de question. (Loyal)|
+
+
+
+    |2|**Bien commun.** Les soldats risquent leur vie <!--br-->afin que d'autres vivent la leur en paix. (Bon)|
+
+
+
+    |3|**Force.** Écraser ses ennemis, les voir mourir <!--br-->devant soi, et entendre les lamentations de <!--br-->leurs femmes. (Mauvais)|
+
+
+
+    |4|**Responsabilité.** Dans certaines circonstances, <!--br-->la guerre est un mal nécessaire. (Neutre)|
+
+
+
+    |5|**Changement.** Le chaos de la bataille est une <!--br-->source primale d'énergie et de changement. <!--br-->(Chaotique)|
+
+
+
+    |6|**Honneur.** Servir son seigneur, sa cité ou sa <!--br-->patrie est la mission la plus honorable qui soit. <!--br-->(Loyal)|
+
+
+
+  Table: >+
+
+    |d6|Idéal|
+
+
+
+    |---|---|
+
+
+
+    |1|**Devoir.** Être un soldat, c'est suivre les ordres <!--br-->sans poser de question. (Loyal)|
+
+
+
+    |2|**Bien commun.** Les soldats risquent leur vie <!--br-->afin que d'autres vivent la leur en paix. (Bon)|
+
+
+
+    |3|**Force.** Écraser ses ennemis, les voir mourir <!--br-->devant soi, et entendre les lamentations de <!--br-->leurs femmes. (Mauvais)|
+
+
+
+    |4|**Responsabilité.** Dans certaines circonstances, <!--br-->la guerre est un mal nécessaire. (Neutre)|
+
+
+
+    |5|**Changement.** Le chaos de la bataille est une <!--br-->source primale d'énergie et de changement. <!--br-->(Chaotique)|
+
+
+
+    |6|**Honneur.** Servir son seigneur, sa cité ou sa <!--br-->patrie est la mission la plus honorable qui soit. <!--br-->(Loyal)|
+
+
 
 ---
 > [Personnalités suggérées](hd_background_militaire_personnalites_suggerees.md)

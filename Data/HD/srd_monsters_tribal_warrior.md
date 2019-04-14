@@ -22,9 +22,187 @@ Name: Tribal Warrior
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Guerrier tribal](hd_monsters_guerrier_tribal.md)'
-Attributes: {}
+Attributes:
+  Name: Tribal Warrior
+  Markdown: >+
+    # <!--Name-->Tribal Warrior<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Guerrier tribal](hd_monsters_guerrier_tribal.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12 (hide armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 8 (-1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->passive Perception 10<!--/Senses-->
+
+    - **Languages** <!--Languages-->any one language<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Pack Tactics_**. The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+
+    ## Actions
+
+
+    **_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+
+    _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+
+  AltName: '[Guerrier tribal](hd_monsters_guerrier_tribal.md)'
+  Size: Medium
+  Type: humanoid (any race)
+  Alignment: any alignment
+  ArmorClass: 12 (hide armor)
+  HitPoints: 11 (2d8 + 2)
+  Speed: 30 ft.
+  Strength: 13 (+1)
+  Dexterity: 11 (+0)
+  Constitution: 12 (+1)
+  Intelligence: ' 8 (-1)'
+  Wisdom: 11 (+0)
+  Charisma: ' 8 (-1)'
+  Senses: passive Perception 10
+  Languages: any one language
+  Challenge: 1/8 (25 XP)
 AttributesDictionary: >+
-  {}
+  Name: Tribal Warrior
+
+  Markdown: >+
+
+    # <!--Name-->Tribal Warrior<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Guerrier tribal](hd_monsters_guerrier_tribal.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12 (hide armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence--> 8 (-1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->passive Perception 10<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->any one language<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Pack Tactics_**. The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+
+
+
+
+    _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+
+
+
+  AltName: '[Guerrier tribal](hd_monsters_guerrier_tribal.md)'
+
+  Size: Medium
+
+  Type: humanoid (any race)
+
+  Alignment: any alignment
+
+  ArmorClass: 12 (hide armor)
+
+  HitPoints: 11 (2d8 + 2)
+
+  Speed: 30 ft.
+
+  Strength: 13 (+1)
+
+  Dexterity: 11 (+0)
+
+  Constitution: 12 (+1)
+
+  Intelligence: ' 8 (-1)'
+
+  Wisdom: 11 (+0)
+
+  Charisma: ' 8 (-1)'
+
+  Senses: passive Perception 10
+
+  Languages: any one language
+
+  Challenge: 1/8 (25 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

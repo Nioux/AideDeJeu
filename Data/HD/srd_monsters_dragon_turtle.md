@@ -24,9 +24,259 @@ Name: Dragon Turtle
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Dragon-tortue](hd_monsters_dragon_tortue.md)'
-Attributes: {}
+Attributes:
+  Name: Dragon Turtle
+  Markdown: >+
+    # <!--Name-->Dragon Turtle<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Dragon-tortue](hd_monsters_dragon_tortue.md)<!--/AltName-->
+
+    -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->341 (22d20 + 110)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->20 ft., swim 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->25 (+7)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +6, Con +11, Wis +7<!--/SavingThrows-->
+
+    - **Senses** <!--Senses-->darkvision 120 ft., passive Perception 11<!--/Senses-->
+
+    - **Languages** <!--Languages-->Aquan, Draconic<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->17 (18000 XP)<!--/Challenge-->
+
+    - **Damage Resistances** <!--DamageResistances-->fire<!--/DamageResistances-->
+
+
+    ## Special Features
+
+
+    **_Amphibious_**. The dragon turtle can breathe air and water.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
+
+
+    **_Bite_**. Melee Weapon Attack: +13 to hit, reach 15 ft., one target.
+
+
+    _Hit_: 26 (3d12 + 7) piercing damage.
+
+
+    **_Claw_**. Melee Weapon Attack: +13 to hit, reach 10 ft., one target.
+
+
+    _Hit_: 16 (2d8 + 7) slashing damage.
+
+
+    **_Tail_**. Melee Weapon Attack: +13 to hit, reach 15 ft., one target.
+
+
+    _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.
+
+
+    **_Steam Breath (Recharge 5-6)_**. The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d 6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
+
+  AltName: '[Dragon-tortue](hd_monsters_dragon_tortue.md)'
+  Size: Gargantuan
+  Type: dragon
+  Alignment: neutral
+  ArmorClass: 20 (natural armor)
+  HitPoints: 341 (22d20 + 110)
+  Speed: 20 ft., swim 40 ft.
+  Strength: 25 (+7)
+  Dexterity: 10 (+0)
+  Constitution: 20 (+5)
+  Intelligence: 10 (+0)
+  Wisdom: 12 (+1)
+  Charisma: 12 (+1)
+  SavingThrows: Dex +6, Con +11, Wis +7
+  Senses: darkvision 120 ft., passive Perception 11
+  Languages: Aquan, Draconic
+  Challenge: 17 (18000 XP)
+  DamageResistances: fire
 AttributesDictionary: >+
-  {}
+  Name: Dragon Turtle
+
+  Markdown: >+
+
+    # <!--Name-->Dragon Turtle<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Dragon-tortue](hd_monsters_dragon_tortue.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->341 (22d20 + 110)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->20 ft., swim 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->25 (+7)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
+
+
+
+
+
+    - **Saving Throws** <!--SavingThrows-->Dex +6, Con +11, Wis +7<!--/SavingThrows-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 120 ft., passive Perception 11<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Aquan, Draconic<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->17 (18000 XP)<!--/Challenge-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->fire<!--/DamageResistances-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Amphibious_**. The dragon turtle can breathe air and water.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +13 to hit, reach 15 ft., one target.
+
+
+
+
+
+    _Hit_: 26 (3d12 + 7) piercing damage.
+
+
+
+
+
+    **_Claw_**. Melee Weapon Attack: +13 to hit, reach 10 ft., one target.
+
+
+
+
+
+    _Hit_: 16 (2d8 + 7) slashing damage.
+
+
+
+
+
+    **_Tail_**. Melee Weapon Attack: +13 to hit, reach 15 ft., one target.
+
+
+
+
+
+    _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.
+
+
+
+
+
+    **_Steam Breath (Recharge 5-6)_**. The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d 6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
+
+
+
+  AltName: '[Dragon-tortue](hd_monsters_dragon_tortue.md)'
+
+  Size: Gargantuan
+
+  Type: dragon
+
+  Alignment: neutral
+
+  ArmorClass: 20 (natural armor)
+
+  HitPoints: 341 (22d20 + 110)
+
+  Speed: 20 ft., swim 40 ft.
+
+  Strength: 25 (+7)
+
+  Dexterity: 10 (+0)
+
+  Constitution: 20 (+5)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 12 (+1)
+
+  Charisma: 12 (+1)
+
+  SavingThrows: Dex +6, Con +11, Wis +7
+
+  Senses: darkvision 120 ft., passive Perception 11
+
+  Languages: Aquan, Draconic
+
+  Challenge: 17 (18000 XP)
+
+  DamageResistances: fire
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

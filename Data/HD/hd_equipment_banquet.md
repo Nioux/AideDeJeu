@@ -8,9 +8,49 @@ ParentLink: equipment_hd.md#Équipement
 Name: Banquet
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Banquet
+  Markdown: >+
+    # <!--Name-->Banquet<!--/Name-->
+
+
+    - **Type** <!--Type-->Nourriture, boisson et logement<!--/Type-->
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+    - **Unité** <!--Unity-->par personne<!--/Unity-->
+
+  Type: Nourriture, boisson et logement
+  Price: 10 po
+  Unity: par personne
 AttributesDictionary: >+
-  {}
+  Name: Banquet
+
+  Markdown: >+
+
+    # <!--Name-->Banquet<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Nourriture, boisson et logement<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+
+
+    - **Unité** <!--Unity-->par personne<!--/Unity-->
+
+
+
+  Type: Nourriture, boisson et logement
+
+  Price: 10 po
+
+  Unity: par personne
 
 ---
 > [Équipement](hd_equipment.md)

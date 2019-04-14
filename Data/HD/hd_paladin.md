@@ -8,9 +8,73 @@ RootId: paladin_hd.md
 ParentLink: classes_hd.md
 ParentName: Classes
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Classes](hd_classes.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Paladin<!--/Name-->
+
+
+    - AltName: <!--AltName-->Paladin (SRD p30)<!--/AltName-->
+
+    - Source: <!--Source-->(MDR p183)<!--/Source-->
+
+
+    En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
+
+  Name: Paladin
+  AltName: Paladin (SRD p30)
+  Source: (MDR p183)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Classes](hd_classes.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Classes](hd_classes.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Paladin<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Paladin (SRD p30)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(MDR p183)<!--/Source-->
+
+
+
+
+
+    En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
+
+
+
+  Name: Paladin
+
+  AltName: Paladin (SRD p30)
+
+  Source: (MDR p183)
 
 ---
 >  [Classes](hd_classes.md)

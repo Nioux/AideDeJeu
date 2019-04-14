@@ -9,9 +9,58 @@ ParentLink: equipment_hd.md#Équipement
 Name: Billes de fronde
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Billes de fronde
+  Markdown: >+
+    # <!--Name-->Billes de fronde<!--/Name-->
+
+
+    - **Type** <!--Type-->Équipement d'aventurier / Munitions<!--/Type-->
+
+    - **Prix** <!--Price-->4 pc<!--/Price-->
+
+    - **Poids** <!--Weight-->0,75 kg<!--/Weight-->
+
+    - **Unité** <!--Unity-->20<!--/Unity-->
+
+  Type: Équipement d'aventurier / Munitions
+  Price: 4 pc
+  Weight: 0,75 kg
+  Unity: 20
 AttributesDictionary: >+
-  {}
+  Name: Billes de fronde
+
+  Markdown: >+
+
+    # <!--Name-->Billes de fronde<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Équipement d'aventurier / Munitions<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->4 pc<!--/Price-->
+
+
+
+    - **Poids** <!--Weight-->0,75 kg<!--/Weight-->
+
+
+
+    - **Unité** <!--Unity-->20<!--/Unity-->
+
+
+
+  Type: Équipement d'aventurier / Munitions
+
+  Price: 4 pc
+
+  Weight: 0,75 kg
+
+  Unity: 20
 
 ---
 > [Équipement](hd_equipment.md)

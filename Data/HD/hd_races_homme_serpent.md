@@ -6,9 +6,19 @@ Id: races_hd.md#homme-serpent
 ParentLink: races_hd.md#races
 Name: Homme serpent
 ParentName: Races
-Attributes: {}
+Attributes:
+  NameLink: '[Homme serpent](hd_homme_serpent.md)'
+  Markdown: >+
+    ## <!--NameLink-->[Homme serpent](hd_homme_serpent.md)<!--/NameLink-->
+
 AttributesDictionary: >+
-  {}
+  NameLink: '[Homme serpent](hd_homme_serpent.md)'
+
+  Markdown: >+
+
+    ## <!--NameLink-->[Homme serpent](hd_homme_serpent.md)<!--/NameLink-->
+
+
 
 ---
 

@@ -1,13 +1,32 @@
 ﻿---
 !GenericItem
-Name: Points d'expérience
 Id: multiclassing_hd.md#points-dexpérience
 ParentLink: multiclassing_hd.md#multiclassage
+Name: Points d'expérience
 ParentName: Multiclassage
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Points d'expérience
+  Markdown: >+
+    ## <!--Name-->Points d'expérience<!--/Name-->
+
+
+    Le nombre de points d'expérience permettant de passer au niveau supérieur se base sur le niveau total de votre personnage, comme vous pouvez le voir sur le tableau d'évolution des personnages, et non sur son niveau dans une classe donnée. Donc si votre personnage est un clerc 6/guerrier 1, il doit gagner assez de points d'expérience pour atteindre le niveau 8 avant de pouvoir gagner un deuxième niveau en tant que guerrier ou un septième en tant que clerc.
+
 AttributesDictionary: >+
-  {}
+  Name: Points d'expérience
+
+  Markdown: >+
+
+    ## <!--Name-->Points d'expérience<!--/Name-->
+
+
+
+
+
+    Le nombre de points d'expérience permettant de passer au niveau supérieur se base sur le niveau total de votre personnage, comme vous pouvez le voir sur le tableau d'évolution des personnages, et non sur son niveau dans une classe donnée. Donc si votre personnage est un clerc 6/guerrier 1, il doit gagner assez de points d'expérience pour atteindre le niveau 8 avant de pouvoir gagner un deuxième niveau en tant que guerrier ou un septième en tant que clerc.
+
+
 
 ---
 > [Multiclassage](hd_multiclassing.md)

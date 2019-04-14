@@ -26,9 +26,268 @@ Name: Wight
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Nécrophage](hd_monsters_necrophage.md)'
-Attributes: {}
+Attributes:
+  Name: Wight
+  Markdown: >+
+    # <!--Name-->Wight<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Nécrophage](hd_monsters_necrophage.md)<!--/AltName-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->14 (studded leather)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->45 (6d8 + 18)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +3, Stealth +4<!--/Skills-->
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 13<!--/Senses-->
+
+    - **Languages** <!--Languages-->the languages it knew in life<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->3 (700 XP)<!--/Challenge-->
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+    - **Damage Resistances** <!--DamageResistances-->necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<!--/DamageResistances-->
+
+    - **Condition Immunities** <!--ConditionImmunities-->exhaustion, poisoned<!--/ConditionImmunities-->
+
+
+    ## Special Features
+
+
+    **_Sunlight Sensitivity_**. While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
+
+
+    **_Life Drain_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+
+    _Hit_: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
+
+
+    **_Longsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
+
+
+    **_Longbow_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target.
+
+
+    _Hit_: 6 (1d8 + 2) piercing damage.
+
+  AltName: '[Nécrophage](hd_monsters_necrophage.md)'
+  Size: Medium
+  Type: undead
+  Alignment: neutral evil
+  ArmorClass: 14 (studded leather)
+  HitPoints: 45 (6d8 + 18)
+  Speed: 30 ft.
+  Strength: 15 (+2)
+  Dexterity: 14 (+2)
+  Constitution: 16 (+3)
+  Intelligence: 10 (+0)
+  Wisdom: 13 (+1)
+  Charisma: 15 (+2)
+  Skills: Perception +3, Stealth +4
+  Senses: darkvision 60 ft., passive Perception 13
+  Languages: the languages it knew in life
+  Challenge: 3 (700 XP)
+  DamageImmunities: poison
+  DamageResistances: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  ConditionImmunities: exhaustion, poisoned
 AttributesDictionary: >+
-  {}
+  Name: Wight
+
+  Markdown: >+
+
+    # <!--Name-->Wight<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Nécrophage](hd_monsters_necrophage.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->14 (studded leather)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->45 (6d8 + 18)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +3, Stealth +4<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 13<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->the languages it knew in life<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->3 (700 XP)<!--/Challenge-->
+
+
+
+    - **Damage Immunities** <!--DamageImmunities-->poison<!--/DamageImmunities-->
+
+
+
+    - **Damage Resistances** <!--DamageResistances-->necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<!--/DamageResistances-->
+
+
+
+    - **Condition Immunities** <!--ConditionImmunities-->exhaustion, poisoned<!--/ConditionImmunities-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Sunlight Sensitivity_**. While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
+
+
+
+
+
+    **_Life Drain_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+
+
+
+
+    _Hit_: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
+
+
+
+
+
+    **_Longsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
+
+
+
+
+
+    **_Longbow_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target.
+
+
+
+
+
+    _Hit_: 6 (1d8 + 2) piercing damage.
+
+
+
+  AltName: '[Nécrophage](hd_monsters_necrophage.md)'
+
+  Size: Medium
+
+  Type: undead
+
+  Alignment: neutral evil
+
+  ArmorClass: 14 (studded leather)
+
+  HitPoints: 45 (6d8 + 18)
+
+  Speed: 30 ft.
+
+  Strength: 15 (+2)
+
+  Dexterity: 14 (+2)
+
+  Constitution: 16 (+3)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 13 (+1)
+
+  Charisma: 15 (+2)
+
+  Skills: Perception +3, Stealth +4
+
+  Senses: darkvision 60 ft., passive Perception 13
+
+  Languages: the languages it knew in life
+
+  Challenge: 3 (700 XP)
+
+  DamageImmunities: poison
+
+  DamageResistances: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+  ConditionImmunities: exhaustion, poisoned
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

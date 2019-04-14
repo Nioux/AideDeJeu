@@ -22,9 +22,196 @@ Name: Giant Sea Horse
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Hippocampe géant](hd_monsters_hippocampe_geant.md)'
-Attributes: {}
+Attributes:
+  Name: Giant Sea Horse
+  Markdown: >+
+    # <!--Name-->Giant Sea Horse<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Hippocampe géant](hd_monsters_hippocampe_geant.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->16 (3d10)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->0 ft., swim 40 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->passive Perception 11<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/2 (100 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Charge_**. If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+
+
+    **_Water Breathing_**. The sea horse can breathe only underwater.
+
+
+    ## Actions
+
+
+    **_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 4 (1d6 + 1) bludgeoning damage.
+
+  AltName: '[Hippocampe géant](hd_monsters_hippocampe_geant.md)'
+  Size: Large
+  Type: beast
+  Alignment: unaligned
+  ArmorClass: 13 (natural armor)
+  HitPoints: 16 (3d10)
+  Speed: 0 ft., swim 40 ft.
+  Strength: 12 (+1)
+  Dexterity: 15 (+2)
+  Constitution: 11 (+0)
+  Intelligence: ' 2 (-4)'
+  Wisdom: 12 (+1)
+  Charisma: ' 5 (-3)'
+  Senses: passive Perception 11
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
 AttributesDictionary: >+
-  {}
+  Name: Giant Sea Horse
+
+  Markdown: >+
+
+    # <!--Name-->Giant Sea Horse<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Hippocampe géant](hd_monsters_hippocampe_geant.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->16 (3d10)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->0 ft., swim 40 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 5 (-3)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->passive Perception 11<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/2 (100 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Charge_**. If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+
+
+
+
+
+    **_Water Breathing_**. The sea horse can breathe only underwater.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 4 (1d6 + 1) bludgeoning damage.
+
+
+
+  AltName: '[Hippocampe géant](hd_monsters_hippocampe_geant.md)'
+
+  Size: Large
+
+  Type: beast
+
+  Alignment: unaligned
+
+  ArmorClass: 13 (natural armor)
+
+  HitPoints: 16 (3d10)
+
+  Speed: 0 ft., swim 40 ft.
+
+  Strength: 12 (+1)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 11 (+0)
+
+  Intelligence: ' 2 (-4)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 5 (-3)'
+
+  Senses: passive Perception 11
+
+  Languages: '-'
+
+  Challenge: 1/2 (100 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

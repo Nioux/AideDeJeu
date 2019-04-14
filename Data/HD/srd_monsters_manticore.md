@@ -22,9 +22,232 @@ Name: Manticore
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Manticore](hd_monsters_manticore.md)'
-Attributes: {}
+Attributes:
+  Name: Manticore
+  Markdown: >+
+    # <!--Name-->Manticore<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Manticore](hd_monsters_manticore.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->68 (8d10 + 24)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft., fly 50 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->17 (+3)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence--> 7 (-2)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 11<!--/Senses-->
+
+    - **Languages** <!--Languages-->Common<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->3 (700 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Tail Spike Regrowth_**. The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
+
+
+    ## Actions
+
+
+    **_Multiattack_**. The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
+
+
+    **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 7 (1d8 + 3) piercing damage.
+
+
+    **_Claw_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 6 (1d6 + 3) slashing damage.
+
+
+    **_Tail Spike_**. Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target.
+
+
+    _Hit_: 7 (1d8 + 3) piercing damage.
+
+  AltName: '[Manticore](hd_monsters_manticore.md)'
+  Size: Large
+  Type: monstrosity
+  Alignment: lawful evil
+  ArmorClass: 14 (natural armor)
+  HitPoints: 68 (8d10 + 24)
+  Speed: 30 ft., fly 50 ft.
+  Strength: 17 (+3)
+  Dexterity: 16 (+3)
+  Constitution: 17 (+3)
+  Intelligence: ' 7 (-2)'
+  Wisdom: 12 (+1)
+  Charisma: ' 8 (-1)'
+  Senses: darkvision 60 ft., passive Perception 11
+  Languages: Common
+  Challenge: 3 (700 XP)
 AttributesDictionary: >+
-  {}
+  Name: Manticore
+
+  Markdown: >+
+
+    # <!--Name-->Manticore<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Manticore](hd_monsters_manticore.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->68 (8d10 + 24)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft., fly 50 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->17 (+3)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence--> 7 (-2)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 8 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 11<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->Common<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->3 (700 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Tail Spike Regrowth_**. The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Multiattack_**. The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 7 (1d8 + 3) piercing damage.
+
+
+
+
+
+    **_Claw_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 6 (1d6 + 3) slashing damage.
+
+
+
+
+
+    **_Tail Spike_**. Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target.
+
+
+
+
+
+    _Hit_: 7 (1d8 + 3) piercing damage.
+
+
+
+  AltName: '[Manticore](hd_monsters_manticore.md)'
+
+  Size: Large
+
+  Type: monstrosity
+
+  Alignment: lawful evil
+
+  ArmorClass: 14 (natural armor)
+
+  HitPoints: 68 (8d10 + 24)
+
+  Speed: 30 ft., fly 50 ft.
+
+  Strength: 17 (+3)
+
+  Dexterity: 16 (+3)
+
+  Constitution: 17 (+3)
+
+  Intelligence: ' 7 (-2)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 8 (-1)'
+
+  Senses: darkvision 60 ft., passive Perception 11
+
+  Languages: Common
+
+  Challenge: 3 (700 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

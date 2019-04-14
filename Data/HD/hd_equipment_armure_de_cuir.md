@@ -9,9 +9,67 @@ ParentLink: equipment_hd.md#Équipement
 Name: Armure de cuir
 ParentName: Équipement
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Armure de cuir
+  Markdown: >+
+    # <!--Name-->Armure de cuir<!--/Name-->
+
+
+    - **Type** <!--Type-->Armure légère<!--/Type-->
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+    - **Classe d'armure** <!--ArmorClass-->11 + modifcateur de Dex<!--/ArmorClass-->
+
+    - **Poids** <!--Weight-->5 kg<!--/Weight-->
+
+
+    La cuirasse et les spalières de cette armure sont en cuir bouilli dans l'huile pour le durcir. Le reste de l'armure est composé de matériaux plus souples et plus flexibles.
+
+  Type: Armure légère
+  Price: 10 po
+  ArmorClass: 11 + modifcateur de Dex
+  Weight: 5 kg
 AttributesDictionary: >+
-  {}
+  Name: Armure de cuir
+
+  Markdown: >+
+
+    # <!--Name-->Armure de cuir<!--/Name-->
+
+
+
+
+
+    - **Type** <!--Type-->Armure légère<!--/Type-->
+
+
+
+    - **Prix** <!--Price-->10 po<!--/Price-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->11 + modifcateur de Dex<!--/ArmorClass-->
+
+
+
+    - **Poids** <!--Weight-->5 kg<!--/Weight-->
+
+
+
+
+
+    La cuirasse et les spalières de cette armure sont en cuir bouilli dans l'huile pour le durcir. Le reste de l'armure est composé de matériaux plus souples et plus flexibles.
+
+
+
+  Type: Armure légère
+
+  Price: 10 po
+
+  ArmorClass: 11 + modifcateur de Dex
+
+  Weight: 5 kg
 
 ---
 > [Équipement](hd_equipment.md)

@@ -1,14 +1,63 @@
 ﻿---
 !GenericItem
-Name: Cercle de la Terre
-Source: (L5R p64)
 Id: l5r_druid_hd.md#cercle-de-la-terre
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
+Name: Cercle de la Terre
 ParentName: Druide des cinq royaumes
 NameLevel: 4
-Attributes: {}
+Source: (L5R p64)
+Attributes:
+  Name: Cercle de la Terre
+  Markdown: >+
+    #### <!--Name-->Cercle de la Terre<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p64)<!--/Source-->
+
+
+    Le fonctionnement de ce cercle reste peu ou prou le même. Cependant, deux aptitudes changent :
+
+
+    Tour de magie bonus devient [secret ancestral bonus](hd_l5r_druid_secrets_ancestraux.md). Quand vous sélectionnez ce cercle au niveau 2, choisissez une compétence d'Intelligence supplémentaire et appliquez-lui le bonus de l'aptitude de classe secrets ancestraux.
+
+
+    Récupération naturelle devient [sens de la terre](#sens-de-la-terre). Vous posez vos deux mains à même la terre (en pleine nature) et passez une minute à vous concentrer. Vous devenez capable de sentir les formes de vie et autres créatures présentes dans un rayon égal, en mètres, à votre niveau multiplié par 20. Vous ne distinguez rien de précis, seulement leur type et leur taille. Si ces créatures se trouvent dans une construction, vous ne distinguez alors plus que leur type. Vous ne pouvez utiliser cette capacité qu'une fois entre deux repos longs.
+
+  Source: (L5R p64)
 AttributesDictionary: >+
-  {}
+  Name: Cercle de la Terre
+
+  Markdown: >+
+
+    #### <!--Name-->Cercle de la Terre<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p64)<!--/Source-->
+
+
+
+
+
+    Le fonctionnement de ce cercle reste peu ou prou le même. Cependant, deux aptitudes changent :
+
+
+
+
+
+    Tour de magie bonus devient [secret ancestral bonus](hd_l5r_druid_secrets_ancestraux.md). Quand vous sélectionnez ce cercle au niveau 2, choisissez une compétence d'Intelligence supplémentaire et appliquez-lui le bonus de l'aptitude de classe secrets ancestraux.
+
+
+
+
+
+    Récupération naturelle devient [sens de la terre](#sens-de-la-terre). Vous posez vos deux mains à même la terre (en pleine nature) et passez une minute à vous concentrer. Vous devenez capable de sentir les formes de vie et autres créatures présentes dans un rayon égal, en mètres, à votre niveau multiplié par 20. Vous ne distinguez rien de précis, seulement leur type et leur taille. Si ces créatures se trouvent dans une construction, vous ne distinguez alors plus que leur type. Vous ne pouvez utiliser cette capacité qu'une fois entre deux repos longs.
+
+
+
+  Source: (L5R p64)
 
 ---
 > [Druide des cinq royaumes](hd_l5r_druid.md)

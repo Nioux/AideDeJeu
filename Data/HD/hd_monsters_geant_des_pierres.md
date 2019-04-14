@@ -25,9 +25,241 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Géant des pierres
+  Markdown: >+
+    # <!--Name-->Géant des pierres<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Stone Giant](srd_monsters_stone_giant.md)<!--/AltName-->
+
+    -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->126 (11d12+55)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->12 m<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->23 (+6)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 9 (-1)<!--/Charisma-->|
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +5, Con +8, Sag +4<!--/SavingThrows-->
+
+    - **Compétences** <!--Skills-->[Athlétisme](hd_abilities_strength_athletisme.md) +12, [Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+    - **Langue** <!--Languages-->géant<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->7 (2 900 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Camouflage dans la rocaille._** Le géant obtient un avantage lors des tests de [Dextérité (Discrétion)](hd_abilities_dexterity_discretion.md) effectués pour se cacher dans des environnements rocailleux.
+
+
+    ## Actions
+
+
+    **_Attaques multiples._** Le géant effectue deux attaques avec sa massue.
+
+
+    **_Massue._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 4,50 m, une cible.
+
+
+    _Touché :_ 19 (3d8+6) dégâts contondants.
+
+
+    **_Rocher._** Attaque d'arme à distance : +9 pour toucher, portée 18/72 m, une cible.
+
+
+    _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 17 pour ne pas être jetée [à terre](hd_conditions_a_terre.md).
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
+  Type: Géant
+  Size: TG
+  Alignment: neutre
+  ArmorClass: 17 (armure naturelle)
+  HitPoints: 126 (11d12+55)
+  Speed: 12 m
+  Strength: 23 (+6)
+  Dexterity: 15 (+2)
+  Constitution: 20 (+5)
+  Intelligence: 10 (+0)
+  Wisdom: 12 (+1)
+  Charisma: ' 9 (-1)'
+  SavingThrows: Dex +5, Con +8, Sag +4
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +12, [Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: géant
+  Challenge: 7 (2 900 PX)
 AttributesDictionary: >+
-  {}
+  Name: Géant des pierres
+
+  Markdown: >+
+
+    # <!--Name-->Géant des pierres<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Stone Giant](srd_monsters_stone_giant.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->126 (11d12+55)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->12 m<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->23 (+6)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 9 (-1)<!--/Charisma-->|
+
+
+
+
+
+    - **Jets de sauvegarde** <!--SavingThrows-->Dex +5, Con +8, Sag +4<!--/SavingThrows-->
+
+
+
+    - **Compétences** <!--Skills-->[Athlétisme](hd_abilities_strength_athletisme.md) +12, [Perception](hd_abilities_wisdom_perception.md) +4<!--/Skills-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14<!--/Senses-->
+
+
+
+    - **Langue** <!--Languages-->géant<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->7 (2 900 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Camouflage dans la rocaille._** Le géant obtient un avantage lors des tests de [Dextérité (Discrétion)](hd_abilities_dexterity_discretion.md) effectués pour se cacher dans des environnements rocailleux.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Attaques multiples._** Le géant effectue deux attaques avec sa massue.
+
+
+
+
+
+    **_Massue._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 4,50 m, une cible.
+
+
+
+
+
+    _Touché :_ 19 (3d8+6) dégâts contondants.
+
+
+
+
+
+    **_Rocher._** Attaque d'arme à distance : +9 pour toucher, portée 18/72 m, une cible.
+
+
+
+
+
+    _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) DD 17 pour ne pas être jetée [à terre](hd_conditions_a_terre.md).
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
+
+  Type: Géant
+
+  Size: TG
+
+  Alignment: neutre
+
+  ArmorClass: 17 (armure naturelle)
+
+  HitPoints: 126 (11d12+55)
+
+  Speed: 12 m
+
+  Strength: 23 (+6)
+
+  Dexterity: 15 (+2)
+
+  Constitution: 20 (+5)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 9 (-1)'
+
+  SavingThrows: Dex +5, Con +8, Sag +4
+
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +12, [Perception](hd_abilities_wisdom_perception.md) +4'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+
+  Languages: géant
+
+  Challenge: 7 (2 900 PX)
 
 ---
 > [Créatures](hd_monsters.md)

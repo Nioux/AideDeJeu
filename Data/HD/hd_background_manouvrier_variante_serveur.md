@@ -9,9 +9,85 @@ ParentLink: background_manouvrier_hd.md#manouvrier
 Name: 'Variante : Serveur'
 ParentName: Manouvrier
 NameLevel: 3
-Attributes: {}
+Attributes:
+  Name: 'Variante : Serveur'
+  Markdown: >+
+    ### <!--Name-->Variante : Serveur<!--/Name-->
+
+
+    Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes tavernes où artisans, ouvriers et autres bourgeois se rencontrent autour d'une chope et d'une assiette bien remplie. Vous avez longtemps travaillé dans ce type d'établissements, servant à boire et nettoyant les tables en écoutant les multiples histoires des clients.
+
+
+    **Compétences :** <!--Abilities-->Athlétisme, Représentation.<!--/Abilities-->
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Ustensiles de cuisinier ou un type de jeu au choix.<!--/MasteredTools-->
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+    **Équipement :** <!--Equipment-->Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.<!--/Equipment-->
+
+  Description: >+
+    Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes tavernes où artisans, ouvriers et autres bourgeois se rencontrent autour d'une chope et d'une assiette bien remplie. Vous avez longtemps travaillé dans ce type d'établissements, servant à boire et nettoyant les tables en écoutant les multiples histoires des clients.
+
+  Abilities: Athlétisme, Représentation.
+  MasteredTools: Ustensiles de cuisinier ou un type de jeu au choix.
+  MasteredLanguages: Une langue au choix.
+  Equipment: Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.
 AttributesDictionary: >+
-  {}
+  Name: 'Variante : Serveur'
+
+  Markdown: >+
+
+    ### <!--Name-->Variante : Serveur<!--/Name-->
+
+
+
+
+
+    Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes tavernes où artisans, ouvriers et autres bourgeois se rencontrent autour d'une chope et d'une assiette bien remplie. Vous avez longtemps travaillé dans ce type d'établissements, servant à boire et nettoyant les tables en écoutant les multiples histoires des clients.
+
+
+
+
+
+    **Compétences :** <!--Abilities-->Athlétisme, Représentation.<!--/Abilities-->
+
+
+
+
+
+    **Outils maîtrisés :** <!--MasteredTools-->Ustensiles de cuisinier ou un type de jeu au choix.<!--/MasteredTools-->
+
+
+
+
+
+    **Langues maîtrisées :** <!--MasteredLanguages-->Une langue au choix.<!--/MasteredLanguages-->
+
+
+
+
+
+    **Équipement :** <!--Equipment-->Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.<!--/Equipment-->
+
+
+
+  Description: >+
+
+    Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes tavernes où artisans, ouvriers et autres bourgeois se rencontrent autour d'une chope et d'une assiette bien remplie. Vous avez longtemps travaillé dans ce type d'établissements, servant à boire et nettoyant les tables en écoutant les multiples histoires des clients.
+
+
+
+  Abilities: Athlétisme, Représentation.
+
+  MasteredTools: Ustensiles de cuisinier ou un type de jeu au choix.
+
+  MasteredLanguages: Une langue au choix.
+
+  Equipment: Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.
 
 Description: >+
   Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes tavernes où artisans, ouvriers et autres bourgeois se rencontrent autour d'une chope et d'une assiette bien remplie. Vous avez longtemps travaillé dans ce type d'établissements, servant à boire et nettoyant les tables en écoutant les multiples histoires des clients.

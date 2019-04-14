@@ -5,9 +5,37 @@ ParentLink: paladin_hd.md#paladin
 Name: Auras
 ParentName: Paladin
 NameLevel: 1
-Attributes: {}
+Attributes:
+  Name: Auras
+  Markdown: >+
+    # <!--Name-->Auras<!--/Name-->
+
+
+    ## [Aura de protection](hd_paladin_aura_de_protection.md)
+
+
+    ## [Aura de courage](hd_paladin_aura_de_courage.md)
+
 AttributesDictionary: >+
-  {}
+  Name: Auras
+
+  Markdown: >+
+
+    # <!--Name-->Auras<!--/Name-->
+
+
+
+
+
+    ## [Aura de protection](hd_paladin_aura_de_protection.md)
+
+
+
+
+
+    ## [Aura de courage](hd_paladin_aura_de_courage.md)
+
+
 
 ---
 > [Paladin](hd_paladin.md)

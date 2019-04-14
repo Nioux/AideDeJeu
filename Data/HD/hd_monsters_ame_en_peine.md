@@ -26,9 +26,241 @@ ParentName: Créatures
 NameLevel: 1
 AltName: '[Wraith](srd_monsters_wraith.md)'
 Source: (CEO p)(SRD p)
-Attributes: {}
+Attributes:
+  Name: Âme-en-peine
+  Markdown: >+
+    # <!--Name-->Âme-en-peine<!--/Name-->
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+    - SRD: <!--AltName-->[Wraith](srd_monsters_wraith.md)<!--/AltName-->
+
+    -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+    - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+
+    - **Points de vie** <!--HitPoints-->67 (9d8+27)<!--/HitPoints-->
+
+    - **Vitesse** <!--Speed-->0 m, vol 18 m (vol stationnaire)<!--/Speed-->
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength--> 6 (-2)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent<!--/DamageResistances-->
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et nécrotiques<!--/DamageImmunities-->
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+    - **Langues** <!--Languages-->celles qu'elle connaissait de son vivant<!--/Languages-->
+
+    - **Dangerosité** <!--Challenge-->5 (1 800 PX)<!--/Challenge-->
+
+
+    ## Capacités
+
+
+    **_Déplacement intangible._** L'âme-en-peine peut traverser créatures et objets en les considérant comme un terrain difficile. Elle subit 5 (1d10) dégâts de force si elle termine son tour à l'intérieur d'un objet.
+
+
+    **_Sensibilité à la lumière du soleil._** L'âme-en-peine subit un désavantage lors des jets d'attaque et des tests de [Sagesse](hd_abilities_wisdom.md) (Perception) basés sur la vue lorsqu'elle est exposée à la lumière du soleil.
+
+
+    ## Actions
+
+
+    **_Absorption de vie._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
+
+
+    _Touché :_ 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 14 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.
+
+
+    **_Création de spectre._** L'âme-en-peine cible un humanoïde mort depuis moins d'une minute d'une mort violente et situé à 3 mètres ou moins d'elle. L'esprit de la cible s'élève alors sous forme de spectre dans l'emplacement occupé par son cadavre ou dans l'emplacement inoccupé le plus proche. Le spectre est contrôlé par l'âme-en-peine qui ne peut contrôler de la sorte plus de sept spectres en même temps.
+
+  Source: (CEO p)(SRD p)
+  AltName: '[Wraith](srd_monsters_wraith.md)'
+  Type: Mort-vivant
+  Size: M
+  Alignment: Neutre Mauvais
+  ArmorClass: 13
+  HitPoints: 67 (9d8+27)
+  Speed: 0 m, vol 18 m (vol stationnaire)
+  Strength: ' 6 (-2)'
+  Dexterity: 16 (+3)
+  Constitution: 16 (+3)
+  Intelligence: 12 (+1)
+  Wisdom: 14 (+2)
+  Charisma: 15 (+2)
+  DamageResistances: d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de poison et nécrotiques
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: celles qu'elle connaissait de son vivant
+  Challenge: 5 (1 800 PX)
 AttributesDictionary: >+
-  {}
+  Name: Âme-en-peine
+
+  Markdown: >+
+
+    # <!--Name-->Âme-en-peine<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
+
+
+
+    - SRD: <!--AltName-->[Wraith](srd_monsters_wraith.md)<!--/AltName-->
+
+
+
+    -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+    - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+
+
+
+    - **Points de vie** <!--HitPoints-->67 (9d8+27)<!--/HitPoints-->
+
+
+
+    - **Vitesse** <!--Speed-->0 m, vol 18 m (vol stationnaire)<!--/Speed-->
+
+
+
+
+
+    |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength--> 6 (-2)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
+
+
+
+
+
+    - **Résistance aux dégâts** <!--DamageResistances-->d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent<!--/DamageResistances-->
+
+
+
+    - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et nécrotiques<!--/DamageImmunities-->
+
+
+
+    - **Immunité contre les états** <!--ConditionImmunities-->[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)<!--/ConditionImmunities-->
+
+
+
+    - **Sens** <!--Senses-->vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12<!--/Senses-->
+
+
+
+    - **Langues** <!--Languages-->celles qu'elle connaissait de son vivant<!--/Languages-->
+
+
+
+    - **Dangerosité** <!--Challenge-->5 (1 800 PX)<!--/Challenge-->
+
+
+
+
+
+    ## Capacités
+
+
+
+
+
+    **_Déplacement intangible._** L'âme-en-peine peut traverser créatures et objets en les considérant comme un terrain difficile. Elle subit 5 (1d10) dégâts de force si elle termine son tour à l'intérieur d'un objet.
+
+
+
+
+
+    **_Sensibilité à la lumière du soleil._** L'âme-en-peine subit un désavantage lors des jets d'attaque et des tests de [Sagesse](hd_abilities_wisdom.md) (Perception) basés sur la vue lorsqu'elle est exposée à la lumière du soleil.
+
+
+
+
+
+    ## Actions
+
+
+
+
+
+    **_Absorption de vie._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
+
+
+
+
+
+    _Touché :_ 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) DD 14 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.
+
+
+
+
+
+    **_Création de spectre._** L'âme-en-peine cible un humanoïde mort depuis moins d'une minute d'une mort violente et situé à 3 mètres ou moins d'elle. L'esprit de la cible s'élève alors sous forme de spectre dans l'emplacement occupé par son cadavre ou dans l'emplacement inoccupé le plus proche. Le spectre est contrôlé par l'âme-en-peine qui ne peut contrôler de la sorte plus de sept spectres en même temps.
+
+
+
+  Source: (CEO p)(SRD p)
+
+  AltName: '[Wraith](srd_monsters_wraith.md)'
+
+  Type: Mort-vivant
+
+  Size: M
+
+  Alignment: Neutre Mauvais
+
+  ArmorClass: 13
+
+  HitPoints: 67 (9d8+27)
+
+  Speed: 0 m, vol 18 m (vol stationnaire)
+
+  Strength: ' 6 (-2)'
+
+  Dexterity: 16 (+3)
+
+  Constitution: 16 (+3)
+
+  Intelligence: 12 (+1)
+
+  Wisdom: 14 (+2)
+
+  Charisma: 15 (+2)
+
+  DamageResistances: d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+
+  DamageImmunities: de poison et nécrotiques
+
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+
+  Languages: celles qu'elle connaissait de son vivant
+
+  Challenge: 5 (1 800 PX)
 
 ---
 > [Créatures](hd_monsters.md)

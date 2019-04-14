@@ -1,13 +1,41 @@
 ﻿---
 !GenericItem
-Name: Mot d'effroi
 Id: warlock_occultsummons_hd.md#mot-deffroi
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Mot d'effroi
 ParentName: Invocations occultes
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Mot d'effroi
+  Markdown: >+
+    ## <!--Name-->Mot d'effroi<!--/Name-->
+
+
+    Prérequis : niveau 7
+
+
+    Vous pouvez lancer confusion en utilisant un emplacement de sort de sorcier. Vous devez finir un repos long avant de pouvoir utiliser cette invocation de nouveau.
+
 AttributesDictionary: >+
-  {}
+  Name: Mot d'effroi
+
+  Markdown: >+
+
+    ## <!--Name-->Mot d'effroi<!--/Name-->
+
+
+
+
+
+    Prérequis : niveau 7
+
+
+
+
+
+    Vous pouvez lancer confusion en utilisant un emplacement de sort de sorcier. Vous devez finir un repos long avant de pouvoir utiliser cette invocation de nouveau.
+
+
 
 ---
 > [Invocations occultes](hd_warlock_occultsummons.md)

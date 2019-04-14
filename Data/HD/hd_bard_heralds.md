@@ -8,9 +8,64 @@ RootId: bard_heralds_hd.md
 ParentLink: bard_hd.md#collèges-bardiques
 ParentName: Collèges bardiques
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Collèges bardiques](hd_bard_colleges_bardiques.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Collèges bardiques](hd_bard_colleges_bardiques.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Collège des hérauts<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p126)<!--/Source-->
+
+
+    Le héraut est à la fois un lettré, un spécialiste de l'héraldique, et un combattant capable de survivre aux dangers d'un champ de bataille. Il ne manque jamais d'emploi : tantôt il sillonne le domaine d'un seigneur comme messager ou pour proclamer les déclarations officielles, tantôt il annonce titres et rangs, lors des joutes et des tournois. Mais c'est en temps de guerre que son rôle devient le plus excitant. Présent aux côtés d'un seigneur sur le champ de bataille, il décode pour lui les armoiries et la réputation de ses adversaires. Il n'est pas lié à un mécène en particulier et mène une vie d'errance. Témoin privilégié des hauts faits de la noblesse, il chante ses louanges, contribuant ainsi au renom des chevaliers, dont il relate les faits d'armes partout où il se rend. Parfois, certains hérauts choisissent la vie d'aventurier et s'associent à de jeunes va-t'en-guerre, espérant ainsi assister à des exploits dignes d'être narrés et de nature à les rendre célèbres.
+
+  Name: Collège des hérauts
+  Source: (MDR p126)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Collèges bardiques](hd_bard_colleges_bardiques.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Collèges bardiques](hd_bard_colleges_bardiques.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Collège des hérauts<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p126)<!--/Source-->
+
+
+
+
+
+    Le héraut est à la fois un lettré, un spécialiste de l'héraldique, et un combattant capable de survivre aux dangers d'un champ de bataille. Il ne manque jamais d'emploi : tantôt il sillonne le domaine d'un seigneur comme messager ou pour proclamer les déclarations officielles, tantôt il annonce titres et rangs, lors des joutes et des tournois. Mais c'est en temps de guerre que son rôle devient le plus excitant. Présent aux côtés d'un seigneur sur le champ de bataille, il décode pour lui les armoiries et la réputation de ses adversaires. Il n'est pas lié à un mécène en particulier et mène une vie d'errance. Témoin privilégié des hauts faits de la noblesse, il chante ses louanges, contribuant ainsi au renom des chevaliers, dont il relate les faits d'armes partout où il se rend. Parfois, certains hérauts choisissent la vie d'aventurier et s'associent à de jeunes va-t'en-guerre, espérant ainsi assister à des exploits dignes d'être narrés et de nature à les rendre célèbres.
+
+
+
+  Name: Collège des hérauts
+
+  Source: (MDR p126)
 
 ---
 >  [Collèges bardiques](hd_bard_colleges_bardiques.md)

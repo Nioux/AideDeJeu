@@ -23,9 +23,223 @@ Name: Wyvern
 ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Vouivre](hd_monsters_vouivre.md)'
-Attributes: {}
+Attributes:
+  Name: Wyvern
+  Markdown: >+
+    # <!--Name-->Wyvern<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Vouivre](hd_monsters_vouivre.md)<!--/AltName-->
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->110 (13d10 + 39)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->20 ft., fly 80 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+    - **Skills** <!--Skills-->Perception +4<!--/Skills-->
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->6 (2300 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Multiattack_**. The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
+
+
+    **_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature.
+
+
+    _Hit_: 11 (2d6 + 4) piercing damage.
+
+
+    **_Claws_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 13 (2d8 + 4) slashing damage.
+
+
+    **_Stinger_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature.
+
+
+    _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+
+  AltName: '[Vouivre](hd_monsters_vouivre.md)'
+  Size: Large
+  Type: dragon
+  Alignment: unaligned
+  ArmorClass: 13 (natural armor)
+  HitPoints: 110 (13d10 + 39)
+  Speed: 20 ft., fly 80 ft.
+  Strength: 19 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 16 (+3)
+  Intelligence: ' 5 (-3)'
+  Wisdom: 12 (+1)
+  Charisma: ' 6 (-2)'
+  Skills: Perception +4
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: '-'
+  Challenge: 6 (2300 XP)
 AttributesDictionary: >+
-  {}
+  Name: Wyvern
+
+  Markdown: >+
+
+    # <!--Name-->Wyvern<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Vouivre](hd_monsters_vouivre.md)<!--/AltName-->
+
+
+
+    -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->110 (13d10 + 39)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->20 ft., fly 80 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->19 (+4)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence--> 5 (-3)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 6 (-2)<!--/Charisma-->|
+
+
+
+
+
+    - **Skills** <!--Skills-->Perception +4<!--/Skills-->
+
+
+
+    - **Senses** <!--Senses-->darkvision 60 ft., passive Perception 14<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->-<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->6 (2300 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Multiattack_**. The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
+
+
+
+
+
+    **_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature.
+
+
+
+
+
+    _Hit_: 11 (2d6 + 4) piercing damage.
+
+
+
+
+
+    **_Claws_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 13 (2d8 + 4) slashing damage.
+
+
+
+
+
+    **_Stinger_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature.
+
+
+
+
+
+    _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+
+
+
+  AltName: '[Vouivre](hd_monsters_vouivre.md)'
+
+  Size: Large
+
+  Type: dragon
+
+  Alignment: unaligned
+
+  ArmorClass: 13 (natural armor)
+
+  HitPoints: 110 (13d10 + 39)
+
+  Speed: 20 ft., fly 80 ft.
+
+  Strength: 19 (+4)
+
+  Dexterity: 10 (+0)
+
+  Constitution: 16 (+3)
+
+  Intelligence: ' 5 (-3)'
+
+  Wisdom: 12 (+1)
+
+  Charisma: ' 6 (-2)'
+
+  Skills: Perception +4
+
+  Senses: darkvision 60 ft., passive Perception 14
+
+  Languages: '-'
+
+  Challenge: 6 (2300 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

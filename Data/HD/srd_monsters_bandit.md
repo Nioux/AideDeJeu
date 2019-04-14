@@ -23,9 +23,196 @@ ParentName: Monsters, NPC and Animals
 NameLevel: 1
 AltName: '[Bandit](hd_monsters_bandit.md)'
 Source: (SRD p396)
-Attributes: {}
+Attributes:
+  Name: Bandit
+  Markdown: >+
+    # <!--Name-->Bandit<!--/Name-->
+
+
+    - CEO: <!--AltName-->[Bandit](hd_monsters_bandit.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p396)<!--/Source-->
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-lawful alignment<!--/Alignment-->
+
+    - **Armor Class** <!--ArmorClass-->12 (leather armor)<!--/ArmorClass-->
+
+    - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+    |---|---|---|---|---|---|
+
+    |<!--Strength-->11 (+0)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
+
+
+    - **Senses** <!--Senses-->passive Perception 10<!--/Senses-->
+
+    - **Languages** <!--Languages-->any one language (usually Common)<!--/Languages-->
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+    ## Special Features
+
+
+    **_Scimitar_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+    _Hit_: 4 (1d6 + 1) slashing damage.
+
+
+    **_Light Crossbow_**. Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target.
+
+
+    _Hit_: 5 (1d8 + 1) piercing damage.
+
+  AltName: '[Bandit](hd_monsters_bandit.md)'
+  Source: (SRD p396)
+  Size: Medium
+  Type: humanoid (any race)
+  Alignment: any non-lawful alignment
+  ArmorClass: 12 (leather armor)
+  HitPoints: 11 (2d8 + 2)
+  Speed: 30 ft.
+  Strength: 11 (+0)
+  Dexterity: 12 (+1)
+  Constitution: 12 (+1)
+  Intelligence: 10 (+0)
+  Wisdom: 10 (+0)
+  Charisma: 10 (+0)
+  Senses: passive Perception 10
+  Languages: any one language (usually Common)
+  Challenge: 1/8 (25 XP)
 AttributesDictionary: >+
-  {}
+  Name: Bandit
+
+  Markdown: >+
+
+    # <!--Name-->Bandit<!--/Name-->
+
+
+
+
+
+    - CEO: <!--AltName-->[Bandit](hd_monsters_bandit.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p396)<!--/Source-->
+
+
+
+    -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-lawful alignment<!--/Alignment-->
+
+
+
+    - **Armor Class** <!--ArmorClass-->12 (leather armor)<!--/ArmorClass-->
+
+
+
+    - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
+
+
+
+    - **Speed** <!--Speed-->30 ft.<!--/Speed-->
+
+
+
+
+
+    |STR|DEX|CON|INT|WIS|CHA|
+
+
+
+    |---|---|---|---|---|---|
+
+
+
+    |<!--Strength-->11 (+0)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
+
+
+
+
+
+    - **Senses** <!--Senses-->passive Perception 10<!--/Senses-->
+
+
+
+    - **Languages** <!--Languages-->any one language (usually Common)<!--/Languages-->
+
+
+
+    - **Challenge** <!--Challenge-->1/8 (25 XP)<!--/Challenge-->
+
+
+
+
+
+    ## Special Features
+
+
+
+
+
+    **_Scimitar_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+
+
+
+
+    _Hit_: 4 (1d6 + 1) slashing damage.
+
+
+
+
+
+    **_Light Crossbow_**. Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target.
+
+
+
+
+
+    _Hit_: 5 (1d8 + 1) piercing damage.
+
+
+
+  AltName: '[Bandit](hd_monsters_bandit.md)'
+
+  Source: (SRD p396)
+
+  Size: Medium
+
+  Type: humanoid (any race)
+
+  Alignment: any non-lawful alignment
+
+  ArmorClass: 12 (leather armor)
+
+  HitPoints: 11 (2d8 + 2)
+
+  Speed: 30 ft.
+
+  Strength: 11 (+0)
+
+  Dexterity: 12 (+1)
+
+  Constitution: 12 (+1)
+
+  Intelligence: 10 (+0)
+
+  Wisdom: 10 (+0)
+
+  Charisma: 10 (+0)
+
+  Senses: passive Perception 10
+
+  Languages: any one language (usually Common)
+
+  Challenge: 1/8 (25 XP)
 
 ---
 > [Monsters, NPC and Animals](srd_monsters.md)

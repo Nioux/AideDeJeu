@@ -15,9 +15,124 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)'
 Source: (SRD p134)
-Attributes: {}
+Attributes:
+  Name: Detect Evil and Good
+  Markdown: >+
+    # <!--Name-->Detect Evil and Good<!--/Name-->
+
+
+    - MDR: <!--AltName-->[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p134)<!--/Source-->
+
+    -  <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type-->
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+    - **Range :** <!--Range-->Self<!--/Range-->
+
+    - **Components :** <!--Components-->V, S<!--/Components-->
+
+    - **Duration :** <!--Duration-->Concentration, up to 10 minutes<!--/Duration-->
+
+    - Classes: <!--Classes-->Cleric, Paladin<!--/Classes-->
+
+
+    ### Description
+
+
+    For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.
+
+
+    The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+  AltName: '[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)'
+  Source: (SRD p134)
+  Level: 1
+  Type: divination
+  CastingTime: 1 action
+  Range: Self
+  Components: V, S
+  Duration: Concentration, up to 10 minutes
+  Classes: Cleric, Paladin
 AttributesDictionary: >+
-  {}
+  Name: Detect Evil and Good
+
+  Markdown: >+
+
+    # <!--Name-->Detect Evil and Good<!--/Name-->
+
+
+
+
+
+    - MDR: <!--AltName-->[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p134)<!--/Source-->
+
+
+
+    -  <!--Level-->1<!--/Level-->st-level <!--Type-->divination<!--/Type-->
+
+
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+    - **Range :** <!--Range-->Self<!--/Range-->
+
+
+
+    - **Components :** <!--Components-->V, S<!--/Components-->
+
+
+
+    - **Duration :** <!--Duration-->Concentration, up to 10 minutes<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->Cleric, Paladin<!--/Classes-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.
+
+
+
+
+
+    The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+
+
+  AltName: '[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)'
+
+  Source: (SRD p134)
+
+  Level: 1
+
+  Type: divination
+
+  CastingTime: 1 action
+
+  Range: Self
+
+  Components: V, S
+
+  Duration: Concentration, up to 10 minutes
+
+  Classes: Cleric, Paladin
 
 ---
 > [Spells (SRD p)](srd_spells.md)

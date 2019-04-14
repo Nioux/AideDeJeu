@@ -1,14 +1,45 @@
 ﻿---
 !GenericItem
-Name: "Étape 3 : déterminer l'effet en cas d'échec"
-Source: (L5R p70)
 Id: l5r_rituals_hd.md#Étape-3--déterminer-leffet-en-cas-déchec
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: "Étape 3 : déterminer l'effet en cas d'échec"
 ParentName: Lancer un rituel
 NameLevel: 4
-Attributes: {}
+Source: (L5R p70)
+Attributes:
+  Name: "Étape 3 : déterminer l'effet en cas d'échec"
+  Markdown: >+
+    #### <!--Name-->Étape 3 : déterminer l'effet en cas d'échec<!--/Name-->
+
+
+    - Source: <!--Source-->(L5R p70)<!--/Source-->
+
+
+    En cas d'échec, un rituel peut avoir des effets plus ou moins désastreux et plus ou moins immédiats. Plus le rituel viole l'ordre naturel, plus il fait appel à des puissances issues d'autres réalités, et plus les conséquences sont désastreuses en cas d'échec. Voici quelques exemples. Cette liste est non-exhaustive et vous êtes libre d'en inventer d'autres.
+
+  Source: (L5R p70)
 AttributesDictionary: >+
-  {}
+  Name: "Étape 3 : déterminer l'effet en cas d'échec"
+
+  Markdown: >+
+
+    #### <!--Name-->Étape 3 : déterminer l'effet en cas d'échec<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(L5R p70)<!--/Source-->
+
+
+
+
+
+    En cas d'échec, un rituel peut avoir des effets plus ou moins désastreux et plus ou moins immédiats. Plus le rituel viole l'ordre naturel, plus il fait appel à des puissances issues d'autres réalités, et plus les conséquences sont désastreuses en cas d'échec. Voici quelques exemples. Cette liste est non-exhaustive et vous êtes libre d'en inventer d'autres.
+
+
+
+  Source: (L5R p70)
 
 ---
 > [Lancer un rituel](hd_l5r_rituals.md)

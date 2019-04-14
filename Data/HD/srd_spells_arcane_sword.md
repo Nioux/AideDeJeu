@@ -15,9 +15,124 @@ ParentName: Spells (SRD p)
 NameLevel: 1
 AltName: '[Épée magique](hd_spells_epee_magique.md)'
 Source: (SRD p119)
-Attributes: {}
+Attributes:
+  Name: Arcane Sword
+  Markdown: >+
+    # <!--Name-->Arcane Sword<!--/Name-->
+
+
+    - MDR: <!--AltName-->[Épée magique](hd_spells_epee_magique.md)<!--/AltName-->
+
+    - Source: <!--Source-->(SRD p119)<!--/Source-->
+
+    -  <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+    - **Range :** <!--Range-->60 feet<!--/Range-->
+
+    - **Components :** <!--Components-->V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)<!--/Components-->
+
+    - **Duration :** <!--Duration-->Concentration, up to 1 minute<!--/Duration-->
+
+    - Classes: <!--Classes-->Bard, Wizard<!--/Classes-->
+
+
+    ### Description
+
+
+    You create a sword-shaped plane of force that hovers within range. It lasts for the duration.
+
+
+    When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
+
+  AltName: '[Épée magique](hd_spells_epee_magique.md)'
+  Source: (SRD p119)
+  Level: 7
+  Type: evocation
+  CastingTime: 1 action
+  Range: 60 feet
+  Components: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
+  Duration: Concentration, up to 1 minute
+  Classes: Bard, Wizard
 AttributesDictionary: >+
-  {}
+  Name: Arcane Sword
+
+  Markdown: >+
+
+    # <!--Name-->Arcane Sword<!--/Name-->
+
+
+
+
+
+    - MDR: <!--AltName-->[Épée magique](hd_spells_epee_magique.md)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(SRD p119)<!--/Source-->
+
+
+
+    -  <!--Level-->7<!--/Level-->th-level <!--Type-->evocation<!--/Type-->
+
+
+
+    - **Casting Time :** <!--CastingTime-->1 action<!--/CastingTime-->
+
+
+
+    - **Range :** <!--Range-->60 feet<!--/Range-->
+
+
+
+    - **Components :** <!--Components-->V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)<!--/Components-->
+
+
+
+    - **Duration :** <!--Duration-->Concentration, up to 1 minute<!--/Duration-->
+
+
+
+    - Classes: <!--Classes-->Bard, Wizard<!--/Classes-->
+
+
+
+
+
+    ### Description
+
+
+
+
+
+    You create a sword-shaped plane of force that hovers within range. It lasts for the duration.
+
+
+
+
+
+    When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
+
+
+
+  AltName: '[Épée magique](hd_spells_epee_magique.md)'
+
+  Source: (SRD p119)
+
+  Level: 7
+
+  Type: evocation
+
+  CastingTime: 1 action
+
+  Range: 60 feet
+
+  Components: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
+
+  Duration: Concentration, up to 1 minute
+
+  Classes: Bard, Wizard
 
 ---
 > [Spells (SRD p)](srd_spells.md)

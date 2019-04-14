@@ -5,9 +5,28 @@ ParentLink: ranger_hd.md#rôdeur
 Name: Archerie
 ParentName: Rôdeur
 NameLevel: 2
-Attributes: {}
+Attributes:
+  Name: Archerie
+  Markdown: >+
+    ## <!--Name-->Archerie<!--/Name-->
+
+
+    Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance.
+
 AttributesDictionary: >+
-  {}
+  Name: Archerie
+
+  Markdown: >+
+
+    ## <!--Name-->Archerie<!--/Name-->
+
+
+
+
+
+    Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance.
+
+
 
 ---
 > [Rôdeur](hd_ranger.md)

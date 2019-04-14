@@ -8,9 +8,64 @@ RootId: fighter_defender_hd.md
 ParentLink: fighter_hd.md#archétypes-martiaux
 ParentName: Archétypes martiaux
 NameLevel: 1
-Attributes: {}
+Attributes:
+  ParentNameLink: '[Archétypes martiaux](hd_fighter_archetypes_martiaux.md)'
+  Markdown: >+
+    >  <!--ParentNameLink-->[Archétypes martiaux](hd_fighter_archetypes_martiaux.md)<!--/ParentNameLink-->
+
+
+    ---
+
+
+
+    # <!--Name-->Défenseur<!--/Name-->
+
+
+    - Source: <!--Source-->(MDR p163)<!--/Source-->
+
+
+    Généralement revêtu d'une lourde armure, le défenseur est un spécialiste de la protection, un garde du corps et un guerrier très résistant. Il est capable de gérer les créatures dans une mêlée de façon à ce qu'elles restent à son contact et ne puissent pas atteindre ses alliés. Ce type de guerrier devient rapidement le meilleur ami de tous ses compagnons d'aventure, mais il exige une certaine maîtrise tactique et une coordination de l'ensemble du groupe pour être efficace.
+
+  Name: Défenseur
+  Source: (MDR p163)
 AttributesDictionary: >+
-  {}
+  ParentNameLink: '[Archétypes martiaux](hd_fighter_archetypes_martiaux.md)'
+
+  Markdown: >+
+
+    >  <!--ParentNameLink-->[Archétypes martiaux](hd_fighter_archetypes_martiaux.md)<!--/ParentNameLink-->
+
+
+
+
+
+    ---
+
+
+
+
+
+
+
+    # <!--Name-->Défenseur<!--/Name-->
+
+
+
+
+
+    - Source: <!--Source-->(MDR p163)<!--/Source-->
+
+
+
+
+
+    Généralement revêtu d'une lourde armure, le défenseur est un spécialiste de la protection, un garde du corps et un guerrier très résistant. Il est capable de gérer les créatures dans une mêlée de façon à ce qu'elles restent à son contact et ne puissent pas atteindre ses alliés. Ce type de guerrier devient rapidement le meilleur ami de tous ses compagnons d'aventure, mais il exige une certaine maîtrise tactique et une coordination de l'ensemble du groupe pour être efficace.
+
+
+
+  Name: Défenseur
+
+  Source: (MDR p163)
 
 ---
 >  [Archétypes martiaux](hd_fighter_archetypes_martiaux.md)

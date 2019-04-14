@@ -9,9 +9,70 @@ ParentName: Les objets magiques de A à Z
 NameLevel: 3
 AltName: Brazier of Commanding Fire Elementals (SRD p212)
 Source: (COC p154)
-Attributes: {}
+Attributes:
+  Name: Brasero de contrôle des élémentaires du feu
+  Markdown: >+
+    ### <!--Name-->Brasero de contrôle des élémentaires du feu<!--/Name-->
+
+
+    - AltName: <!--AltName-->Brazier of Commanding Fire Elementals (SRD p212)<!--/AltName-->
+
+    - Source: <!--Source-->(COC p154)<!--/Source-->
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
+
+
+    Tant qu'un feu brûle dans ce brasero en laiton, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire du feu, comme si vous aviez lancé le sort invocation d'élémentaires. Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi le brasero.
+
+
+    Le brasero pèse 2,5 kilos.
+
+  AltName: Brazier of Commanding Fire Elementals (SRD p212)
+  Source: (COC p154)
+  Type: Objet merveilleux
+  Rarity: rare
 AttributesDictionary: >+
-  {}
+  Name: Brasero de contrôle des élémentaires du feu
+
+  Markdown: >+
+
+    ### <!--Name-->Brasero de contrôle des élémentaires du feu<!--/Name-->
+
+
+
+
+
+    - AltName: <!--AltName-->Brazier of Commanding Fire Elementals (SRD p212)<!--/AltName-->
+
+
+
+    - Source: <!--Source-->(COC p154)<!--/Source-->
+
+
+
+    -  <!--Type-->Objet merveilleux<!--/Type-->, <!--Rarity-->rare<!--/Rarity-->
+
+
+
+
+
+    Tant qu'un feu brûle dans ce brasero en laiton, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire du feu, comme si vous aviez lancé le sort invocation d'élémentaires. Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi le brasero.
+
+
+
+
+
+    Le brasero pèse 2,5 kilos.
+
+
+
+  AltName: Brazier of Commanding Fire Elementals (SRD p212)
+
+  Source: (COC p154)
+
+  Type: Objet merveilleux
+
+  Rarity: rare
 
 ---
 > [Les objets magiques de A à Z](hd_magicitems_az_les_objets_magiques_de_a_a_z.md)
