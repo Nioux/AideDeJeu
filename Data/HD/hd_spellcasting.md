@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Lancer des sorts
-AltName: Spellcasting (SRD p100)
-Source: (MDR p306)
 Id: spellcasting_hd.md#lancer-des-sorts
 RootId: spellcasting_hd.md
 ParentLink: index.md
+Name: Lancer des sorts
 ParentName: Manuel des règles
 NameLevel: 1
+AltName: Spellcasting (SRD p100)
+Source: (MDR p306)
 Attributes: {}
 AttributesDictionary: >+
   {}

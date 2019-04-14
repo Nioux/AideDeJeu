@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Contre-charme
 Id: bard_hd.md#contre-charme
 ParentLink: bard_hd.md#barde
+Name: Contre-charme
 ParentName: Barde
 NameLevel: 2
 Attributes: {}

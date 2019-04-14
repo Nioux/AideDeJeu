@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Alignement
-AltName: Alignment (SRD p58)
-Source: (MDR p75)
 Id: alignment_hd.md#alignement
 RootId: alignment_hd.md
 ParentLink: personnality_background_hd.md#
+Name: Alignement
 ParentName: Personnalité et Historique
 NameLevel: 1
+AltName: Alignment (SRD p58)
+Source: (MDR p75)
 Attributes: {}
 AttributesDictionary: >+
   {}

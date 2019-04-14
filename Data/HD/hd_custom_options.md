@@ -1,9 +1,9 @@
 ﻿---
 !Items
-Name: Options de personnalisation
 Id: custom_options_hd.md#options-de-personnalisation
 RootId: custom_options_hd.md
 ParentLink: index.md
+Name: Options de personnalisation
 ParentName: Manuel des règles
 NameLevel: 1
 Attributes: {}

@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Châtiment divin
 Id: paladin_hd.md#châtiment-divin
 ParentLink: paladin_hd.md#paladin
+Name: Châtiment divin
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

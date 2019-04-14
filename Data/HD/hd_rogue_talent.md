@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Talent
 Id: rogue_hd.md#talent
 ParentLink: rogue_hd.md#roublard
+Name: Talent
 ParentName: Roublard
 NameLevel: 2
 Attributes: {}

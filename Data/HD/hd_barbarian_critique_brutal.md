@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Critique brutal
 Id: barbarian_hd.md#critique-brutal
 ParentLink: barbarian_hd.md#barbare
+Name: Critique brutal
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

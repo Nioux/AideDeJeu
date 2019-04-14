@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Santé divine
 Id: paladin_hd.md#santé-divine
 ParentLink: paladin_hd.md#paladin
+Name: Santé divine
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

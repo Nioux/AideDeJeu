@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Traversée des terrains
 Id: ranger_hd.md#traversée-des-terrains
 ParentLink: ranger_hd.md#rôdeur
+Name: Traversée des terrains
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

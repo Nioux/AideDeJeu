@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Force
-AltName: Strength (SRD p79)
-Source: (MDR p262)
 Id: abilities_strength_hd.md#force
 RootId: abilities_strength_hd.md
 ParentLink: abilities_hd.md
+Name: Force
 ParentName: Caractéristiques
 NameLevel: 1
+AltName: Strength (SRD p79)
+Source: (MDR p262)
 Attributes: {}
 AttributesDictionary: >+
   {}

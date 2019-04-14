@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: La folie
-AltName: Madness
-Source: (CEO p380)(SRD p201)
 Id: madness_hd.md#la-folie
 RootId: madness_hd.md
 ParentLink: index.md
+Name: La folie
 ParentName: Créatures et oppositions
 NameLevel: 2
+AltName: Madness
+Source: (CEO p380)(SRD p201)
 Attributes: {}
 AttributesDictionary: >+
   {}

@@ -1,12 +1,12 @@
 ﻿---
 !Items
-Name: Druide des cinq royaumes
-Source: (L5R p59)
 Id: l5r_druid_hd.md#druide-des-cinq-royaumes
 RootId: l5r_druid_hd.md
 ParentLink: l5r_index_hd.md
+Name: Druide des cinq royaumes
 ParentName: Les Cinq Royaumes
 NameLevel: 2
+Source: (L5R p59)
 Attributes: {}
 AttributesDictionary: >+
   {}

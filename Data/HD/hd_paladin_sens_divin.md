@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Sens divin
 Id: paladin_hd.md#sens-divin
 ParentLink: paladin_hd.md#paladin
+Name: Sens divin
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

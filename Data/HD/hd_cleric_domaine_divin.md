@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Domaine divin
 Id: cleric_hd.md#domaine-divin
 ParentLink: cleric_hd.md#clerc
+Name: Domaine divin
 ParentName: Clerc
 NameLevel: 2
 Attributes: {}

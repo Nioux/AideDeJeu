@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Frappe étourdissante
 Id: monk_hd.md#frappe-étourdissante
 ParentLink: monk_hd.md#moine
+Name: Frappe étourdissante
 ParentName: Moine
 NameLevel: 2
 Attributes: {}

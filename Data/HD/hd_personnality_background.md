@@ -1,9 +1,9 @@
 ﻿---
 !Items
-Name: Personnalité et Historique
 Id: personnality_background_hd.md#personnalité-et-historique
 RootId: personnality_background_hd.md
 ParentLink: index.md
+Name: Personnalité et Historique
 ParentName: Manuel des règles
 NameLevel: 1
 Attributes: {}

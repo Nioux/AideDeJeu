@@ -1,8 +1,8 @@
 ﻿---
 !ClassEvolutionItem
+Name: Tableau d'évolution
 Id: rogue_hd.md#tableau-dévolution
 ParentLink: rogue_hd.md#roublard
-Name: Tableau d'évolution
 ParentName: Roublard
 NameLevel: 1
 Attributes: {}

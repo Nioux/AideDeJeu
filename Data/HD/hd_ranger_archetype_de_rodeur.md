@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Archétype de rôdeur
 Id: ranger_hd.md#archétype-de-rôdeur
 ParentLink: ranger_hd.md#rôdeur
+Name: Archétype de rôdeur
 ParentName: Rôdeur
 NameLevel: 2
 Attributes: {}

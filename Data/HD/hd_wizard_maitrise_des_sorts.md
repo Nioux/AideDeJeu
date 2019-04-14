@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Maîtrise des sorts
 Id: wizard_hd.md#maîtrise-des-sorts
 ParentLink: wizard_hd.md#magicien
+Name: Maîtrise des sorts
 ParentName: Magicien
 NameLevel: 2
 Attributes: {}

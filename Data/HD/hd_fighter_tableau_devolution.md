@@ -1,8 +1,8 @@
 ﻿---
 !ClassEvolutionItem
+Name: Tableau d'évolution
 Id: fighter_hd.md#tableau-dévolution
 ParentLink: fighter_hd.md#guerrier
-Name: Tableau d'évolution
 ParentName: Guerrier
 NameLevel: 1
 Attributes: {}

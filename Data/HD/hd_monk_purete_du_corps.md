@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Pureté du corps
 Id: monk_hd.md#pureté-du-corps
 ParentLink: monk_hd.md#moine
+Name: Pureté du corps
 ParentName: Moine
 NameLevel: 2
 Attributes: {}

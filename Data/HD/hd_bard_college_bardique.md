@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Collège bardique
 Id: bard_hd.md#collège-bardique
 ParentLink: bard_hd.md#barde
+Name: Collège bardique
 ParentName: Barde
 NameLevel: 2
 Attributes: {}

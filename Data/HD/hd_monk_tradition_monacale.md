@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Tradition monacale
 Id: monk_hd.md#tradition-monacale
 ParentLink: monk_hd.md#moine
+Name: Tradition monacale
 ParentName: Moine
 NameLevel: 2
 Attributes: {}

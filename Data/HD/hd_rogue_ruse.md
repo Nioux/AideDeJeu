@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Ruse
 Id: rogue_hd.md#ruse
 ParentLink: rogue_hd.md#roublard
+Name: Ruse
 ParentName: Roublard
 NameLevel: 2
 Attributes: {}

@@ -1,12 +1,12 @@
 ﻿---
 !Items
-Name: Les poisons
-AltName: Poisons
 Id: poisons_hd.md#les-poisons
 RootId: poisons_hd.md
 ParentLink: index.md
+Name: Les poisons
 ParentName: Créatures et oppositions
 NameLevel: 2
+AltName: Poisons
 Attributes: {}
 AttributesDictionary: >+
   {}

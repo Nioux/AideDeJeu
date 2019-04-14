@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Amélioration de caractéristiques
 Id: cleric_hd.md#amélioration-de-caractéristiques
 ParentLink: cleric_hd.md#clerc
+Name: Amélioration de caractéristiques
 ParentName: Clerc
 NameLevel: 2
 Attributes: {}

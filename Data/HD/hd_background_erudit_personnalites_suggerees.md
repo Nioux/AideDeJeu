@@ -1,8 +1,8 @@
 ﻿---
 !Items
-Name: Personnalités suggérées
 Id: background_erudit_hd.md#personnalités-suggérées
 ParentLink: background_erudit_hd.md#Érudit
+Name: Personnalités suggérées
 ParentName: Érudit
 NameLevel: 4
 Attributes: {}

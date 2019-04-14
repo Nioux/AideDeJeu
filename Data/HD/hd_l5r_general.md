@@ -1,12 +1,12 @@
 ﻿---
 !Items
-Name: Règles générales
-Source: (L5R p42)
 Id: l5r_general_hd.md#règles-générales
 RootId: l5r_general_hd.md
 ParentLink: l5r_index_hd.md
+Name: Règles générales
 ParentName: Les Cinq Royaumes
 NameLevel: 2
+Source: (L5R p42)
 Attributes: {}
 AttributesDictionary: >+
   {}

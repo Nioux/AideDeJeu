@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Sort étendu
 Id: sorcerer_hd.md#sort-étendu
 ParentLink: sorcerer_hd.md#ensorceleur
+Name: Sort étendu
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

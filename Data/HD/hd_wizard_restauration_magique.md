@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Restauration magique
 Id: wizard_hd.md#restauration-magique
 ParentLink: wizard_hd.md#magicien
+Name: Restauration magique
 ParentName: Magicien
 NameLevel: 2
 Attributes: {}

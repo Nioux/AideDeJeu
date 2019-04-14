@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Création d'emplacements de sorts
 Id: sorcerer_hd.md#création-demplacements-de-sorts
 ParentLink: sorcerer_hd.md#ensorceleur
+Name: Création d'emplacements de sorts
 ParentName: Ensorceleur
 NameLevel: 2
 Attributes: {}

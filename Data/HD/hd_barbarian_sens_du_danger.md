@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Sens du danger
 Id: barbarian_hd.md#sens-du-danger
 ParentLink: barbarian_hd.md#barbare
+Name: Sens du danger
 ParentName: Barbare
 NameLevel: 2
 Attributes: {}

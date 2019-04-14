@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Armes à deux mains
 Id: paladin_hd.md#armes-à-deux-mains
 ParentLink: paladin_hd.md#paladin
+Name: Armes à deux mains
 ParentName: Paladin
 NameLevel: 2
 Attributes: {}

@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Multiclassage
-AltName: Multiclassing (SRD p56)
-Source: (MDR p242)
 Id: multiclassing_hd.md#multiclassage
 RootId: multiclassing_hd.md
 ParentLink: custom_options_hd.md
+Name: Multiclassage
 ParentName: Options de personnalisation
 NameLevel: 1
+AltName: Multiclassing (SRD p56)
+Source: (MDR p242)
 Attributes: {}
 AttributesDictionary: >+
   {}

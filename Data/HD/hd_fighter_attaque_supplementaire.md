@@ -1,8 +1,8 @@
 ﻿---
 !ClassFeatureItem
-Name: Attaque supplémentaire
 Id: fighter_hd.md#attaque-supplémentaire
 ParentLink: fighter_hd.md#guerrier
+Name: Attaque supplémentaire
 ParentName: Guerrier
 NameLevel: 1
 Attributes: {}
