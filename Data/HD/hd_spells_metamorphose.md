@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Métamorphose
-AltName: '[Polymorph](srd_spells_polymorph.md)'
-Type: Transmutation
 Level: 4
+Type: Transmutation
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (un cocon de chenille)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#métamorphose
 ParentLink: spells_hd.md#sorts
+Name: Métamorphose
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Polymorph](srd_spells_polymorph.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

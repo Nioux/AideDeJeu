@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Éclat de bois
-Type: Invocation
 Level: tour de magie
+Type: Invocation
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (une écharde de bois)
 Duration: instantanée
 Classes: '[Druide](hd_druid.md)'
-Source: (MDR p350)
 Id: spells_hd.md#Éclat-de-bois
 ParentLink: spells_hd.md#sorts
+Name: Éclat de bois
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p350)
 Attributes: {}
 AttributesDictionary: >+
   {}

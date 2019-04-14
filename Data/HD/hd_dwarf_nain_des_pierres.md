@@ -10,9 +10,16 @@ Name: Nain des pierres
 ParentName: Nain
 NameLevel: 2
 Source: (MDR p57)
-Attributes: {}
+Attributes:
+  HammerMasterKey: Maître des marteaux
+  HammerMasterValue: Lorsqu'un nain des pierres inflige des dégâts avec un marteau ou toute autre arme de corps-à-corps contondante, il ignore une éventuelle résistance aux dégâts contondants de sa cible sauf si cette résistance a été accordée par un sort.
 AttributesDictionary: >+
-  {}
+  HammerMasterKey: Maître des marteaux
+
+  HammerMasterValue: Lorsqu'un nain des pierres inflige des dégâts avec un marteau ou toute autre arme de corps-à-corps contondante, il ignore une éventuelle résistance aux dégâts contondants de sa cible sauf si cette résistance a été accordée par un sort.
+
+Description: >+
+  En tant que nain des pierres, vous êtes ingénieux et savez comment tourner une situation à votre bénéfice.
 
 ---
 > [Nain](hd_dwarf.md)

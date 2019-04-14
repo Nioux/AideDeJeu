@@ -181,8 +181,15 @@ namespace AideDeJeu.ViewModels
             var md = block.ToMarkdownString();
             foreach (var propkv in props)
             {
-                var prop = propkv.Value;
-                prop.SetValue(currentItem, prop.GetValue(currentItem) + md, null);
+                if (propkv.Value.PropertyType == typeof(string))
+                {
+                    currentItem.SetAttribute(propkv.Key, md);
+                }
+                else
+                {
+                    var prop = propkv.Value;
+                    prop.SetValue(currentItem, prop.GetValue(currentItem) + md, null);
+                }
             }
         }
 
@@ -220,9 +227,10 @@ namespace AideDeJeu.ViewModels
             {
                 return;
             }
-            PropertyInfo prop = null;
-            string propertyName = null;
-            var ilist = inlines.ToList();
+            var properties = new HashSet<string>();
+            //PropertyInfo prop = null;
+            //string propertyName = null;
+            //var ilist = inlines.ToList();
             foreach (var inline in inlines.ToList())
             {
                 if(inline is ContainerInline)
@@ -233,85 +241,64 @@ namespace AideDeJeu.ViewModels
                 if (inline is HtmlInline)
                 {
                     var tag = (inline as HtmlInline).Tag;
-                    Debug.WriteLine(tag);
-                    if(tag.EndsWith("Key-->"))
-                    {
-                        Debug.WriteLine("break");
-                    }
+                    //Debug.WriteLine(tag);
+                    //if(tag.EndsWith("Key-->"))
+                    //{
+                    //    Debug.WriteLine("break");
+                    //}
                     if (tag.StartsWith("<!--"))
                     {
                         var parsedComment = new ParsedComment(tag, true);
                         if(parsedComment.Type == ParsedCommentType.Property)
                         {
-                            if(parsedComment.Name.EndsWith("Value"))
-                            {
-                                Debug.WriteLine("break");
-                            }
+                            //if(parsedComment.Name.EndsWith("Value"))
+                            //{
+                            //    Debug.WriteLine("break");
+                            //}
                             if(!parsedComment.IsClosing)
                             {
-                                propertyName = parsedComment.Name;
-                                if (propertyName == "Name")
+                                properties.Add(parsedComment.Name);
+                                //propertyName = parsedComment.Name;
+                                if (parsedComment.Name == "Name")
                                 {
                                     if (headingBlock != null)
                                     {
                                         item.NameLevel = headingBlock.Level;
                                     }
                                 }
-                                prop = item.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
+                                //prop = item.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
                             }
                             else
                             {
-                                prop = null;
-                                propertyName = null;
+                                properties.Remove(parsedComment.Name);
+                                //prop = null;
+                                //propertyName = null;
                             }
                         }
                     }
-                    //if (tag == "<!--br-->" || tag == "<br>")
-                    //{
-
-                    //}
-                    //else if (tag.StartsWith("<!--/"))
-                    //{
-                    //    prop = null;
-                    //    propertyName = null;
-                    //}
-                    //else if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
-                    //{
-                    //    propertyName = tag.Substring(4, tag.Length - 7);
-                    //    if(propertyName == "Name")
-                    //    {
-                    //        if (headingBlock != null)
-                    //        {
-                    //            item.NameLevel = headingBlock.Level;
-                    //        }
-                    //    }
-                    //    prop = item.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
-                    //}
                 }
                 else
                 {
-                    if (null != prop && prop.CanWrite)
+                    foreach(var prop in properties)
                     {
-                        prop.SetValue(item, prop.GetValue(item) + inline.ToMarkdownString(), null);
+                        item.SetAttribute(prop, inline.ToMarkdownString());
                     }
-                    else if(propertyName != null)
-                    {
-                        Debug.WriteLine(propertyName);
-                        if (item.Attributes.ContainsKey(propertyName))
-                        {
-                            item.Attributes[propertyName] += inline.ToMarkdownString();
-                        }
-                        else
-                        {
-                            item.Attributes[propertyName] = inline.ToMarkdownString();
-                        }
-                        if (propertyName.EndsWith("Value"))
-                        {
-                            //Debug.WriteLine(item.AttributesKeyValue);
-                            //Debug.WriteLine(item.AttributesDictionary);
-                            Debug.WriteLine("break");
-                        }
-                    }
+                    //if (null != prop && prop.CanWrite)
+                    //{
+                    //    prop.SetValue(item, prop.GetValue(item) + inline.ToMarkdownString(), null);
+                    //}
+                    //else if(propertyName != null)
+                    //{
+                    //    Debug.WriteLine(propertyName);
+                    //    if (item.Attributes.ContainsKey(propertyName))
+                    //    {
+                    //        item.Attributes[propertyName] += inline.ToMarkdownString();
+                    //    }
+                    //    else
+                    //    {
+                    //        item.Attributes[propertyName] = inline.ToMarkdownString();
+                    //    }
+                    //}
                 }
             }
         }

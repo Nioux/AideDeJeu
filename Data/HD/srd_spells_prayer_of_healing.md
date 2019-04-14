@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Prayer of Healing
-AltName: '[Prière de soins](hd_spells_priere_de_soins.md)'
-Type: evocation
 Level: 2
+Type: evocation
 CastingTime: 10 minutes
 Range: 30 feet
 Components: V
 Duration: Instantaneous
 Classes: Cleric
-Source: (SRD p170)
 Id: spells_vo.md#prayer-of-healing
 ParentLink: spells_vo.md#spells-srd-p
+Name: Prayer of Healing
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Prière de soins](hd_spells_priere_de_soins.md)'
+Source: (SRD p170)
 Attributes: {}
 AttributesDictionary: >+
   {}

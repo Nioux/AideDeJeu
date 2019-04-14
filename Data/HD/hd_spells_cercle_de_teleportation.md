@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Cercle de téléportation
-AltName: '[Teleportation Circle](srd_spells_teleportation_circle.md)'
-Type: Invocation
 Level: 5
+Type: Invocation
 CastingTime: 1 minute
 Range: 3 mètres
 Components: V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)
 Duration: 1 round
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Source: (MDR p331)(SRD)
 Id: spells_hd.md#cercle-de-téléportation
 ParentLink: spells_hd.md#sorts
+Name: Cercle de téléportation
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Teleportation Circle](srd_spells_teleportation_circle.md)'
+Source: (MDR p331)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

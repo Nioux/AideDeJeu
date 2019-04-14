@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Arc enchanté
-Type: Enchantement
 Level: 5
+Type: Enchantement
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (un arc)
 Duration: 1 minute
 Classes: '[Rôdeur](hd_ranger.md)'
-Source: (MDR p324)
 Id: spells_hd.md#arc-enchanté
 ParentLink: spells_hd.md#sorts
+Name: Arc enchanté
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p324)
 Attributes: {}
 AttributesDictionary: >+
   {}

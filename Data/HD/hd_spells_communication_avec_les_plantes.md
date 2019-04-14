@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Communication avec les plantes
-AltName: '[Speak with Plants](srd_spells_speak_with_plants.md)'
-Type: Transmutation
 Level: 3
+Type: Transmutation
 CastingTime: 1 action
 Range: personnelle (9 mètres de rayon)
 Components: V, S
 Duration: 10 minutes
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-Source: (MDR p337)(SRD)
 Id: spells_hd.md#communication-avec-les-plantes
 ParentLink: spells_hd.md#sorts
+Name: Communication avec les plantes
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Speak with Plants](srd_spells_speak_with_plants.md)'
+Source: (MDR p337)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

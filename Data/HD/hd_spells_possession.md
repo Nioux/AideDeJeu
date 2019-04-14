@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Possession
-AltName: '[Magic Jar](srd_spells_magic_jar.md)'
-Type: Nécromancie
 Level: 6
+Type: Nécromancie
 CastingTime: 1 minute
 Range: personnelle
 Components: V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
 Duration: jusqu'à dissipation
 Classes: '[Magicien](hd_wizard.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#possession
 ParentLink: spells_hd.md#sorts
+Name: Possession
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Magic Jar](srd_spells_magic_jar.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

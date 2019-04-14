@@ -18,9 +18,16 @@ ParentName: Races
 NameLevel: 1
 AltName: Gnome (SRD p6)
 Source: (MDR p48)
-Attributes: {}
+Attributes:
+  GnomeCunningKey: Ruse gnome
+  GnomeCunningValue: Vous bénéficiez d'un avantage pour tous les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d'[Intelligence](hd_abilities_intelligence.md), [Sagesse](hd_abilities_wisdom.md) et [Charisme](hd_abilities_charisma.md) contre la magie.
 AttributesDictionary: >+
-  {}
+  GnomeCunningKey: Ruse gnome
+
+  GnomeCunningValue: Vous bénéficiez d'un avantage pour tous les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d'[Intelligence](hd_abilities_intelligence.md), [Sagesse](hd_abilities_wisdom.md) et [Charisme](hd_abilities_charisma.md) contre la magie.
+
+Description: >+
+  Un personnage gnome partage de nombreux traits avec tous les autres gnomes.
 
 ---
 >  [Races](races_hd.md#)

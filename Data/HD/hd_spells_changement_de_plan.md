@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Changement de plan
-AltName: '[Plane Shift](srd_spells_plane_shift.md)'
-Type: Invocation
 Level: 7
+Type: Invocation
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p333)(SRD)
 Id: spells_hd.md#changement-de-plan
 ParentLink: spells_hd.md#sorts
+Name: Changement de plan
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Plane Shift](srd_spells_plane_shift.md)'
+Source: (MDR p333)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

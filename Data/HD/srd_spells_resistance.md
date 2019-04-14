@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Resistance
-AltName: '[Résistance](hd_spells_resistance.md)'
-Type: Abjuration
 Level: cantrip
+Type: Abjuration
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (a miniature cloak)
 Duration: Concentration, up to 1 minute
 Classes: Cleric, Druid
-Source: (SRD p175)
 Id: spells_vo.md#resistance
 ParentLink: spells_vo.md#spells-srd-p
+Name: Resistance
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Résistance](hd_spells_resistance.md)'
+Source: (SRD p175)
 Attributes: {}
 AttributesDictionary: >+
   {}

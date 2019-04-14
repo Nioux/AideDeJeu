@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Fire Shield
-AltName: '[Bouclier de feu](hd_spells_bouclier_de_feu.md)'
-Type: evocation
 Level: 4
+Type: evocation
 CastingTime: 1 action
 Range: Self
 Components: V, S, M (a bit of phosphorus or a firefly)
 Duration: 10 minutes
 Classes: Wizard
-Source: (SRD p144)
 Id: spells_vo.md#fire-shield
 ParentLink: spells_vo.md#spells-srd-p
+Name: Fire Shield
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Bouclier de feu](hd_spells_bouclier_de_feu.md)'
+Source: (SRD p144)
 Attributes: {}
 AttributesDictionary: >+
   {}

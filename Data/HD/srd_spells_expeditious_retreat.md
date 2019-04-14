@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Expeditious Retreat
-AltName: '[Repli expéditif](hd_spells_repli_expeditif.md)'
-Type: transmutation
 Level: 1
+Type: transmutation
 CastingTime: 1 bonus action
 Range: Self
 Components: V, S
 Duration: Concentration, up to 10 minutes
 Classes: Sorcerer, Warlock, Wizard
-Source: (SRD p141)
 Id: spells_vo.md#expeditious-retreat
 ParentLink: spells_vo.md#spells-srd-p
+Name: Expeditious Retreat
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Repli expéditif](hd_spells_repli_expeditif.md)'
+Source: (SRD p141)
 Attributes: {}
 AttributesDictionary: >+
   {}

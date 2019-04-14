@@ -10,9 +10,28 @@ Name: Nain des laves
 ParentName: Nain
 NameLevel: 2
 Source: (MDR p57)
-Attributes: {}
+Attributes:
+  ImprovedDarkvisionKey: Vision dans le noir améliorée
+  ImprovedDarkvisionValue: Quand vous vous trouvez dans le noir total, vous voyez comme en plein jour jusqu'à 18 mètres. Vous êtes cependant toujours incapable de distinguer les couleurs.
+  LightSensitivityKey: Sensibilité à la lumière
+  LightSensitivityValue: Vous supportez mal les changements de luminosité. Lorsque la lumière augmente soudainement d'intensité (de lumière faible à lumière vive, ou d'obscurité à lumière vive), vous subissez un désavantage à tous vos tests de caractéristique nécessitant votre vue (dont les tests physique pour se précipiter, grimper ou autres). Il en va de même pour tous vos jets d'attaque, et les ennemis bénéficient d'un avantage s'ils vous attaquent au corps-à-corps. L'effet dure 3 rounds.
+  HeatResistanceKey: Résistance à la chaleur
+  HeatResistanceValue: Vous bénéficiez d'une résistance aux dégâts de feu.
 AttributesDictionary: >+
-  {}
+  ImprovedDarkvisionKey: Vision dans le noir améliorée
+
+  ImprovedDarkvisionValue: Quand vous vous trouvez dans le noir total, vous voyez comme en plein jour jusqu'à 18 mètres. Vous êtes cependant toujours incapable de distinguer les couleurs.
+
+  LightSensitivityKey: Sensibilité à la lumière
+
+  LightSensitivityValue: Vous supportez mal les changements de luminosité. Lorsque la lumière augmente soudainement d'intensité (de lumière faible à lumière vive, ou d'obscurité à lumière vive), vous subissez un désavantage à tous vos tests de caractéristique nécessitant votre vue (dont les tests physique pour se précipiter, grimper ou autres). Il en va de même pour tous vos jets d'attaque, et les ennemis bénéficient d'un avantage s'ils vous attaquent au corps-à-corps. L'effet dure 3 rounds.
+
+  HeatResistanceKey: Résistance à la chaleur
+
+  HeatResistanceValue: Vous bénéficiez d'une résistance aux dégâts de feu.
+
+Description: >+
+  En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les conflits et vous ne craignez pas la chaleur.
 
 ---
 > [Nain](hd_dwarf.md)

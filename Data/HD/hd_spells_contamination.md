@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Contamination
-AltName: '[Harm](srd_spells_harm.md)'
-Type: Nécromancie
 Level: 6
+Type: Nécromancie
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
-Source: (MDR p340)(SRD)
 Id: spells_hd.md#contamination
 ParentLink: spells_hd.md#sorts
+Name: Contamination
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Harm](srd_spells_harm.md)'
+Source: (MDR p340)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

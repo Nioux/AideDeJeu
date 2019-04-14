@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Light
-AltName: '[Lumière](hd_spells_lumiere.md)'
-Type: Evocation
 Level: cantrip
+Type: Evocation
 CastingTime: 1 action
 Range: Touch
 Components: V, M (a firefly or phosphorescent moss)
 Duration: 1 hour
 Classes: Bard, Cleric, Sorcerer, Wizard
-Source: (SRD p159)
 Id: spells_vo.md#light
 ParentLink: spells_vo.md#spells-srd-p
+Name: Light
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Lumière](hd_spells_lumiere.md)'
+Source: (SRD p159)
 Attributes: {}
 AttributesDictionary: >+
   {}

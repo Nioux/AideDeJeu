@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Lueurs féeriques
-AltName: '[Faerie Fire](srd_spells_faerie_fire.md)'
-Type: Évocation
 Level: 1
+Type: Évocation
 CastingTime: 1 action
 Range: 18 mètres
 Components: V
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#lueurs-féeriques
 ParentLink: spells_hd.md#sorts
+Name: Lueurs féeriques
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Faerie Fire](srd_spells_faerie_fire.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

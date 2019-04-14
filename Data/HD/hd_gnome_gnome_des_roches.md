@@ -11,9 +11,22 @@ ParentName: Gnome
 NameLevel: 2
 AltName: Rock Gnome (SRD p6)
 Source: (MDR p48)
-Attributes: {}
+Attributes:
+  ArtificersLoreKey: Connaissances en ingénierie
+  ArtificersLoreValue: Quand vous faites un test d'[Intelligence (Histoire)](hd_abilities_intelligence_histoire.md) relatif aux objets magiques, alchimiques ou technologiques, et que vous disposez de la maîtrise de cette compétence, vous ajoutez le double de votre bonus de maîtrise au résultat du test au lieu de votre bonus de maîtrise normal.
+  TinkerKey: Bricoleur
+  TinkerValue: Vous maîtrisez les outils d'artisans (outils de bricoleur). Grâce à ces outils, vous pouvez passer 1 heure et dépenser pour 10 po de matériaux pour construire un mécanisme de taille très petite (CA 5, 1 pv). Ce mécanisme cesse de fonctionner au bout de 24 heures (sauf si vous passez 1 heure à le réparer) ou si vous utilisez une action pour le démanteler. Vous pouvez à ce moment récupérer les matériaux qui ont servi à sa construction. Vous pouvez avoir jusqu'à trois mécanismes fonctionnant en même temps.
 AttributesDictionary: >+
-  {}
+  ArtificersLoreKey: Connaissances en ingénierie
+
+  ArtificersLoreValue: Quand vous faites un test d'[Intelligence (Histoire)](hd_abilities_intelligence_histoire.md) relatif aux objets magiques, alchimiques ou technologiques, et que vous disposez de la maîtrise de cette compétence, vous ajoutez le double de votre bonus de maîtrise au résultat du test au lieu de votre bonus de maîtrise normal.
+
+  TinkerKey: Bricoleur
+
+  TinkerValue: Vous maîtrisez les outils d'artisans (outils de bricoleur). Grâce à ces outils, vous pouvez passer 1 heure et dépenser pour 10 po de matériaux pour construire un mécanisme de taille très petite (CA 5, 1 pv). Ce mécanisme cesse de fonctionner au bout de 24 heures (sauf si vous passez 1 heure à le réparer) ou si vous utilisez une action pour le démanteler. Vous pouvez à ce moment récupérer les matériaux qui ont servi à sa construction. Vous pouvez avoir jusqu'à trois mécanismes fonctionnant en même temps.
+
+Description: >+
+  Les gnomes des roches sont naturellement plus inventifs et résistants que les autres gnomes.
 
 ---
 > [Gnome](hd_gnome.md)

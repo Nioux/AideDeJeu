@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Entangle
-AltName: '[Enchevêtrement](hd_spells_enchevetrement.md)'
-Type: conjuration
 Level: 1
+Type: conjuration
 CastingTime: 1 action
 Range: 90 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Druid
-Source: (SRD p140)
 Id: spells_vo.md#entangle
 ParentLink: spells_vo.md#spells-srd-p
+Name: Entangle
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Enchevêtrement](hd_spells_enchevetrement.md)'
+Source: (SRD p140)
 Attributes: {}
 AttributesDictionary: >+
   {}

@@ -12,7 +12,11 @@
 
 ## Traits des tieffelins
 
+<!--Description-->
+
 Les tieffelins ont hérité de certains traits raciaux infernaux liés à leur ascendance infernale.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme] augmente de 2 et votre valeur d'[Intelligence] de 1.<!--/AbilityScoreIncrease-->
 
@@ -26,9 +30,9 @@ Les tieffelins ont hérité de certains traits raciaux infernaux liés à leur a
 
 **Vision dans le noir.** <!--Darkvision-->Grâce à votre ascendance infernale, vous avez hérité d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.<!--/Darkvision-->
 
-**Résistance infernale.** <!--HellishResistance-->Vous êtes résistant aux dégâts de feu.<!--/HellishResistance-->
+**<!--HellishResistanceKey-->Résistance infernale<!--/HellishResistanceKey-->.** <!--HellishResistanceValue-->Vous êtes résistant aux dégâts de feu.<!--/HellishResistanceValue-->
 
-**Ascendance infernale.** <!--InfernalLegacy-->Vous connaissez le tour de magie thaumaturgie. Quand vous atteignez le niveau 3, vous pouvez lancer une fois le sort représailles infernales comme sort de niveau 2 grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez terminer un repos long. À partir du niveau 5, vous pouvez lancer une fois le sort ténèbres grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez finir un repos long. Votre caractéristique d'incantation pour lancer ces sorts est le [Charisme].<!--/InfernalLegacy-->
+**<!--InfernalLegacyKey-->Ascendance infernale<!--/InfernalLegacyKey-->.** <!--InfernalLegacyValue-->Vous connaissez le tour de magie thaumaturgie. Quand vous atteignez le niveau 3, vous pouvez lancer une fois le sort représailles infernales comme sort de niveau 2 grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez terminer un repos long. À partir du niveau 5, vous pouvez lancer une fois le sort ténèbres grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez finir un repos long. Votre caractéristique d'incantation pour lancer ces sorts est le [Charisme].<!--/InfernalLegacyValue-->
 
 **Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en commun et en infernal.<!--/Languages-->
 

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Project Image
-AltName: '[Image projetée](hd_spells_image_projetee.md)'
-Type: illusion
 Level: 7
+Type: illusion
 CastingTime: 1 action
 Range: 500 miles
 Components: V, S, M (a small replica of you made from materials worth at least 5 gp)
 Duration: Concentration, up to 1 day
 Classes: Bard, Wizard
-Source: (SRD p172)
 Id: spells_vo.md#project-image
 ParentLink: spells_vo.md#spells-srd-p
+Name: Project Image
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Image projetée](hd_spells_image_projetee.md)'
+Source: (SRD p172)
 Attributes: {}
 AttributesDictionary: >+
   {}

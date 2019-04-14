@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Projectile magique
-AltName: '[Magic Missile](srd_spells_magic_missile.md)'
-Type: Évocation
 Level: 1
+Type: Évocation
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#projectile-magique
 ParentLink: spells_hd.md#sorts
+Name: Projectile magique
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Magic Missile](srd_spells_magic_missile.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

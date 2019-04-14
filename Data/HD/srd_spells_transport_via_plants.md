@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Transport via Plants
-AltName: '[Transport végétal](hd_spells_transport_vegetal.md)'
-Type: conjuration
 Level: 6
+Type: conjuration
 CastingTime: 1 action
 Range: 10 feet
 Components: V, S
 Duration: 1 round
 Classes: Druid
-Source: (SRD p188)
 Id: spells_vo.md#transport-via-plants
 ParentLink: spells_vo.md#spells-srd-p
+Name: Transport via Plants
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Transport végétal](hd_spells_transport_vegetal.md)'
+Source: (SRD p188)
 Attributes: {}
 AttributesDictionary: >+
   {}

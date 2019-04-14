@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Putréfaction
-Type: Nécromancie
 Level: 1
+Type: Nécromancie
 CastingTime: 1 action
 Range: 30 mètres
 Components: V, S, M
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Sorcier](hd_warlock.md)'
-Source: (MDR p)
 Id: spells_hd.md#putréfaction
 ParentLink: spells_hd.md#sorts
+Name: Putréfaction
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p)
 Attributes: {}
 AttributesDictionary: >+
   {}

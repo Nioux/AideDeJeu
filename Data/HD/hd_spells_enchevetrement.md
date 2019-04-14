@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Enchevêtrement
-AltName: '[Entangle](srd_spells_entangle.md)'
-Type: Invocation
 Level: 1
+Type: Invocation
 CastingTime: 1 action
 Range: 27 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md)'
-Source: (MDR p352)(SRD)
 Id: spells_hd.md#enchevêtrement
 ParentLink: spells_hd.md#sorts
+Name: Enchevêtrement
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Entangle](srd_spells_entangle.md)'
+Source: (MDR p352)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Conjure Woodland Beings
-AltName: '[Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)'
-Type: conjuration
 Level: 4
+Type: conjuration
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (one holly berry per creature summoned)
 Duration: Concentration, up to 1 hour
 Classes: Druid, Ranger
-Source: (SRD p129)
 Id: spells_vo.md#conjure-woodland-beings
 ParentLink: spells_vo.md#spells-srd-p
+Name: Conjure Woodland Beings
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)'
+Source: (SRD p129)
 Attributes: {}
 AttributesDictionary: >+
   {}

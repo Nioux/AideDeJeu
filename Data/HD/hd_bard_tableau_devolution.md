@@ -1,8 +1,8 @@
 ﻿---
 !ClassEvolutionItem
-Name: Tableau d'évolution
 Id: bard_hd.md#tableau-dévolution
 ParentLink: bard_hd.md#barde
+Name: Tableau d'évolution
 ParentName: Barde
 NameLevel: 1
 Attributes: {}

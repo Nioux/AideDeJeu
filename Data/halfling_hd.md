@@ -12,7 +12,11 @@
 
 ## Traits des halfelins
 
+<!--Description-->
+
 Un halfelin possède de nombreux traits en commun avec tous les autres halfelins.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Dextérité] augmente de 2.<!--/AbilityScoreIncrease-->
 
@@ -24,11 +28,11 @@ Un halfelin possède de nombreux traits en commun avec tous les autres halfelins
 
 **Vitesse.** <!--Speed-->Votre vitesse au sol de base est de 7,50 mètres.<!--/Speed-->
 
-**Chanceux.** Quand vous faites un 1 avec le d20 d'un jet d'attaque, d'un test de caractéristiques ou d'un [jet de sauvegarde], vous pouvez relancer le dé. Mais vous devez utiliser le nouveau résultat du jet.
+**<!--LuckyKey-->Chanceux<!--/LuckyKey-->.** <!--LuckyValue-->Quand vous faites un 1 avec le d20 d'un jet d'attaque, d'un test de caractéristiques ou d'un [jet de sauvegarde], vous pouvez relancer le dé. Mais vous devez utiliser le nouveau résultat du jet.<!--/LuckyValue-->
 
-**Brave.** Vous bénéficiez d'un avantage sur les [jets de sauvegarde] contre la terreur.
+**<!--BraveKey-->Brave<!--/BraveKey-->.** <!--BraveValue-->Vous bénéficiez d'un avantage sur les [jets de sauvegarde] contre la terreur.<!--/BraveValue-->
 
-**Agilité halfeline.** Vous pouvez traverser n'importe quel emplacement occupé par une créature plus grande que vous.
+**<!--HalflingNimblenessKey-->Agilité halfeline<!--/HalflingNimblenessKey-->.** <!--HalflingNimblenessValue-->Vous pouvez traverser n'importe quel emplacement occupé par une créature plus grande que vous.<!--/HalflingNimblenessValue-->
 
 **Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.<!--/Languages-->
 
@@ -39,11 +43,15 @@ Un halfelin possède de nombreux traits en commun avec tous les autres halfelins
 - AltName: <!--AltName-->Lightfoot (SRD p5)<!--/AltName-->
 - Source: <!--Source-->(MDR p52)<!--/Source-->
 
+<!--Description-->
+
 En tant que halfelin pied-léger, vous cacher est presque une seconde nature et vous n'hésitez pas à utiliser d'autres créatures pour échapper aux regards. Vous êtes d'un naturel plutôt affable et sympathique.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme] augmente de 1.<!--/AbilityScoreIncrease-->
 
-**Discrétion naturelle.** Vous pouvez tenter de vous cacher même quand vous êtes seulement dissimulé par une créature qui fait une taille de plus que vous.
+**<!--NaturallyStealthyKey-->Discrétion naturelle<!--/NaturallyStealthyKey-->.** <!--NaturallyStealthyValue-->Vous pouvez tenter de vous cacher même quand vous êtes seulement dissimulé par une créature qui fait une taille de plus que vous.<!--/NaturallyStealthyValue-->
 
 <!--/SubRaceItem-->
 
@@ -53,13 +61,17 @@ En tant que halfelin pied-léger, vous cacher est presque une seconde nature et 
 
 - Source: <!--Source-->(MDR p52)<!--/Source-->
 
+<!--Description-->
+
 En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu crédule. Grâce à votre vie de labeur, vous êtes résistant et très manuel.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Constitution] augmente de 1.<!--/AbilityScoreIncrease-->
 
-**Esprit pragmatique.** Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)] lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde] contre les sorts de charme.
+**<!--PragmaticMindKey-->Esprit pragmatique<!--/PragmaticMindKey-->.** <!--PragmaticMindValue-->Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)] lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde] contre les sorts de charme.<!--/PragmaticMindValue-->
 
-**Travailleur acharné.** Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.
+**<!--HardWorkerKey-->Travailleur acharné<!--/HardWorkerKey-->.** <!--HardWorkerValue-->Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.<!--/HardWorkerValue-->
 
 <!--/SubRaceItem-->
 

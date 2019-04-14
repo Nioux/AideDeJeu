@@ -18,9 +18,22 @@ ParentName: Races
 NameLevel: 1
 AltName: Half-Elf (SRD p6)
 Source: (MDR p39)
-Attributes: {}
+Attributes:
+  FeyAncestryKey: Ascendance féerique
+  FeyAncestryValue: Vous bénéficiez d'un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre l'effet [charmé](hd_conditions_charme.md) et un effet magique ne peut pas vous plonger dans le sommeil.
+  SkillVersatilityKey: Polyvalence
+  SkillVersatilityValue: Vous gagnez la maîtrise de deux [compétences](hd_abilities_competences.md) de votre choix.
 AttributesDictionary: >+
-  {}
+  FeyAncestryKey: Ascendance féerique
+
+  FeyAncestryValue: Vous bénéficiez d'un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre l'effet [charmé](hd_conditions_charme.md) et un effet magique ne peut pas vous plonger dans le sommeil.
+
+  SkillVersatilityKey: Polyvalence
+
+  SkillVersatilityValue: Vous gagnez la maîtrise de deux [compétences](hd_abilities_competences.md) de votre choix.
+
+Description: >+
+  Un demi-elfe a quelques qualités communes avec les [elfes], mais d'autres qui sont propres aux demi-elfes.
 
 ---
 >  [Races](races_hd.md#)

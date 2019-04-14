@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Protection contre le mal et le bien
-AltName: '[Protection from Evil and Good](srd_spells_protection_from_evil_and_good.md)'
-Type: Abjuration
 Level: 1
+Type: Abjuration
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#protection-contre-le-mal-et-le-bien
 ParentLink: spells_hd.md#sorts
+Name: Protection contre le mal et le bien
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Protection from Evil and Good](srd_spells_protection_from_evil_and_good.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

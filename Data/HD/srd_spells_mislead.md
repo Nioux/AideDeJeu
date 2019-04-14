@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Mislead
-AltName: '[Tromperie](hd_spells_tromperie.md)'
-Type: illusion
 Level: 5
+Type: illusion
 CastingTime: 1 action
 Range: Self
 Components: S
 Duration: Concentration, up to 1 hour
 Classes: Bard, Wizard
-Source: (SRD p165)
 Id: spells_vo.md#mislead
 ParentLink: spells_vo.md#spells-srd-p
+Name: Mislead
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Tromperie](hd_spells_tromperie.md)'
+Source: (SRD p165)
 Attributes: {}
 AttributesDictionary: >+
   {}

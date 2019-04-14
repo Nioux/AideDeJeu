@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Guidance
-AltName: '[Assistance](hd_spells_assistance.md)'
-Type: Divination
 Level: cantrip
+Type: Divination
 CastingTime: 1 action
 Range: Touch
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Cleric, Druid
-Source: (SRD p151)
 Id: spells_vo.md#guidance
 ParentLink: spells_vo.md#spells-srd-p
+Name: Guidance
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Assistance](hd_spells_assistance.md)'
+Source: (SRD p151)
 Attributes: {}
 AttributesDictionary: >+
   {}

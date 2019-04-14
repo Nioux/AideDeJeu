@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Image majeure
-AltName: '[Major Image](srd_spells_major_image.md)'
-Type: Illusion
 Level: 3
+Type: Illusion
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S, M (un morceau de toison)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#image-majeure
 ParentLink: spells_hd.md#sorts
+Name: Image majeure
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Major Image](srd_spells_major_image.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

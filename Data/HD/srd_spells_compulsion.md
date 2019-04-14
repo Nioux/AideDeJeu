@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Compulsion
-AltName: '[Compulsion](hd_spells_compulsion.md)'
-Type: enchantment
 Level: 4
+Type: enchantment
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard
-Source: (SRD p126)
 Id: spells_vo.md#compulsion
 ParentLink: spells_vo.md#spells-srd-p
+Name: Compulsion
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Compulsion](hd_spells_compulsion.md)'
+Source: (SRD p126)
 Attributes: {}
 AttributesDictionary: >+
   {}

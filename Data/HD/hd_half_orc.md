@@ -18,9 +18,28 @@ ParentName: Races
 NameLevel: 1
 AltName: Half-Orc (SRD p7)
 Source: (MDR p41)
-Attributes: {}
+Attributes:
+  MenacingKey: Menaçant
+  MenacingValue: Vous gagnez la maîtrise de la compétence [Intimidation](hd_abilities_charisma_intimidation.md).
+  RelentlessEnduranceKey: Acharnement
+  RelentlessEnduranceValue: Quand vous vous retrouvez à 0 point de vie, mais que vous n'êtes pas tué sur le champ, vous pouvez choisir d'être réduit à 1 point de vie à la place. Vous ne pouvez pas réutiliser cette aptitude tant que vous n'avez pas terminé un repos long.
+  SavageAttacksKey: Sauvagerie
+  SavageAttacksValue: Quand vous réussissez un coup critique avec une attaque de corps-à-corps, vous pouvez lancer un dé de dégâts supplémentaire correspondant à l'arme utilisée et l'ajouter aux dégâts bonus du coup critique.
 AttributesDictionary: >+
-  {}
+  MenacingKey: Menaçant
+
+  MenacingValue: Vous gagnez la maîtrise de la compétence [Intimidation](hd_abilities_charisma_intimidation.md).
+
+  RelentlessEnduranceKey: Acharnement
+
+  RelentlessEnduranceValue: Quand vous vous retrouvez à 0 point de vie, mais que vous n'êtes pas tué sur le champ, vous pouvez choisir d'être réduit à 1 point de vie à la place. Vous ne pouvez pas réutiliser cette aptitude tant que vous n'avez pas terminé un repos long.
+
+  SavageAttacksKey: Sauvagerie
+
+  SavageAttacksValue: Quand vous réussissez un coup critique avec une attaque de corps-à-corps, vous pouvez lancer un dé de dégâts supplémentaire correspondant à l'arme utilisée et l'ajouter aux dégâts bonus du coup critique.
+
+Description: >+
+  Un demi-orc a hérité de certains traits de son ascendance orc.
 
 ---
 >  [Races](races_hd.md#)

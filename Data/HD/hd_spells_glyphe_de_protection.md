@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Glyphe de protection
-AltName: '[Glyph of Warding](srd_spells_glyph_of_warding.md)'
-Type: Abjuration
 Level: 3
+Type: Abjuration
 CastingTime: 1 heure
 Range: contact
 Components: V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
 Duration: jusqu'à dissipation ou déclenchement
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-Source: (MDR p359)(SRD)
 Id: spells_hd.md#glyphe-de-protection
 ParentLink: spells_hd.md#sorts
+Name: Glyphe de protection
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Glyph of Warding](srd_spells_glyph_of_warding.md)'
+Source: (MDR p359)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

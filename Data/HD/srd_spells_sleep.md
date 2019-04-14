@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Sleep
-AltName: '[Sommeil](hd_spells_sommeil.md)'
-Type: enchantment
 Level: 1
+Type: enchantment
 CastingTime: 1 action
 Range: 90 feet
 Components: V, S, M (a pinch of fine sand, rose petals, or a cricket)
 Duration: 1 minute
 Classes: Bard, Sorcerer, Wizard
-Source: (SRD p180)
 Id: spells_vo.md#sleep
 ParentLink: spells_vo.md#spells-srd-p
+Name: Sleep
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Sommeil](hd_spells_sommeil.md)'
+Source: (SRD p180)
 Attributes: {}
 AttributesDictionary: >+
   {}

@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Catalepsie
-Type: Nécromancie
 Level: 3
+Type: Nécromancie
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (un petit morceau de linceul)
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Source: (MDR p331)
 Id: spells_hd.md#catalepsie
 ParentLink: spells_hd.md#sorts
+Name: Catalepsie
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p331)
 Attributes: {}
 AttributesDictionary: >+
   {}

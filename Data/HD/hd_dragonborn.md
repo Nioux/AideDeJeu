@@ -9,8 +9,6 @@ Size: Les sangdragons sont plus grands et lourds que les humains. Ils dépassent
 Speed: Votre vitesse au sol de base est de 9 mètres.
 Languages: Vous pouvez parler, lire et écrire en commun et en draconique. Le draconique est considéré comme une des langues les plus anciennes et est souvent utilisé pour étudier la magie. C'est une langue composée de consonnes dures et de sifflement, qui semble rude à la plupart des autres créatures.
 AbilityScoreIncrease: Votre valeur de [Force](hd_abilities_strength.md) augmente de 2 et votre valeur de [Charisme](hd_abilities_charisma.md) de 1.
-DraconicAncestry: Vous avez des ancêtres draconiques. Choisissez un type de dragon dans le tableau des ascendances. Votre choix détermine votre souffle et votre résistance aux dégâts, comme indiqué dans le tableau.
-BreathWeapon: Vous pouvez utiliser votre action pour exhaler une vague d'énergie destructrice. La taille, la forme et le type de dégâts que vous causez sont liés à votre ascendance.
 DamageResistance: Vous bénéficiez d'une résistance au type de dégâts associé à votre ascendance.
 Id: dragonborn_hd.md#sangdragon
 RootId: dragonborn_hd.md
@@ -20,9 +18,22 @@ ParentName: Races
 NameLevel: 1
 AltName: Dragonborn (SRD p5)
 Source: (MDR p69)
-Attributes: {}
+Attributes:
+  DraconicAncestryKey: Ascendance
+  DraconicAncestryValue: Vous avez des ancêtres draconiques. Choisissez un type de dragon dans le tableau des ascendances. Votre choix détermine votre souffle et votre résistance aux dégâts, comme indiqué dans le tableau.
+  BreathWeaponKey: Souffle
+  BreathWeaponValue: Vous pouvez utiliser votre action pour exhaler une vague d'énergie destructrice. La taille, la forme et le type de dégâts que vous causez sont liés à votre ascendance.
 AttributesDictionary: >+
-  {}
+  DraconicAncestryKey: Ascendance
+
+  DraconicAncestryValue: Vous avez des ancêtres draconiques. Choisissez un type de dragon dans le tableau des ascendances. Votre choix détermine votre souffle et votre résistance aux dégâts, comme indiqué dans le tableau.
+
+  BreathWeaponKey: Souffle
+
+  BreathWeaponValue: Vous pouvez utiliser votre action pour exhaler une vague d'énergie destructrice. La taille, la forme et le type de dégâts que vous causez sont liés à votre ascendance.
+
+Description: >+
+  Votre lignée draconique se manifeste par différents traits que vous partagez avec les autres sangdragons.
 
 ---
 >  [Races](races_hd.md#)

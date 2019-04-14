@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Terrain hallucinatoire
-AltName: '[Hallucinatory Terrain](srd_spells_hallucinatory_terrain.md)'
-Type: Illusion
 Level: 4
+Type: Illusion
 CastingTime: 10 minutes
 Range: 90 mètres
 Components: V, S, M (une pierre, une brindille et un bout de plante verte)
 Duration: 24 heures
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#terrain-hallucinatoire
 ParentLink: spells_hd.md#sorts
+Name: Terrain hallucinatoire
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Hallucinatory Terrain](srd_spells_hallucinatory_terrain.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

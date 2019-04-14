@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Restauration supérieure
-AltName: '[Greater Restoration](srd_spells_greater_restoration.md)'
-Type: Abjuration
 Level: 5
+Type: Abjuration
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#restauration-supérieure
 ParentLink: spells_hd.md#sorts
+Name: Restauration supérieure
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Greater Restoration](srd_spells_greater_restoration.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

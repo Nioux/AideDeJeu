@@ -30,9 +30,9 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 **Vision dans le noir.** <!--Darkvision-->Habitué à la pénombre des forêts et au ciel nocturne, vous jouissez d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris. <!--/Darkvision-->
 
-**<!--SharpSenseKey-->Sens aiguisés<!--/SharpSenseKey-->.** <!--SharpSenseValue-->Vous maîtrisez la compétence [Perception].<!--/SharpSenseValue-->
+**<!--KeenSensesKey-->Sens aiguisés<!--/KeenSensesKey-->.** <!--KeenSensesValue-->Vous maîtrisez la compétence [Perception].<!--/KeenSensesValue-->
 
-**<!--FairyAncestryKey-->Ascendance féerique<!--/FairyAncestryKey-->.** <!--FairyAncestryValue-->Vous obtenez un avantage sur les [jets de sauvegarde] contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.<!--/FairyAncestryValue-->
+**<!--FeyAncestryKey-->Ascendance féerique<!--/FeyAncestryKey-->.** <!--FeyAncestryValue-->Vous obtenez un avantage sur les [jets de sauvegarde] contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.<!--/FeyAncestryValue-->
 
 **<!--TranceKey-->Transe<!--/TranceKey-->.** <!--TranceValue-->Les elfes n'ont pas besoin de dormir. À la place, ils passent 4 heures par jour dans un état de méditation profonde, tout en restant semi-conscients. Le mot qui décrit cette méditation en langage commun est « transe ». Pendant cette méditation, vous pouvez avoir un équivalent de rêves. De tels rêves sont en réalité des exercices mentaux qui sont devenus des réflexes au bout de plusieurs années de pratique. En vous reposant ainsi, vous obtenez les mêmes bénéfices que ceux d'un sommeil de 8 heures pour un humain. Toutefois, il faut toujours 8 heures à un elfe pour obtenir les effets d'un repos long.<!--/TranceValue-->
 
@@ -53,11 +53,11 @@ En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples 
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur d'[Intelligence] augmente de 1.<!--/AbilityScoreIncrease-->
 
-**<!--TrainingInElvenWeaponsKey-->Entraînement aux armes elfiques<!--/TrainingInElvenWeaponsKey-->.** <!--TrainingInElvenWeaponsValue-->Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.<!--/TrainingInElvenWeaponsValue-->
+**<!--ElfWeaponTrainingKey-->Entraînement aux armes elfiques<!--/ElfWeaponTrainingKey-->.** <!--ElfWeaponTrainingValue-->Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.<!--/ElfWeaponTrainingValue-->
 
-**<!--MagicTrickKey-->Tour de magie<!--/MagicTrickKey-->.** <!--MagicTrickValue-->Vous connaissez un tour de magie de votre choix parmi la liste de sorts de magicien. Votre caractéristique d'incantation pour ce tour de magie est l'[Intelligence].<!--/MagicTrickValue-->
+**<!--CantripKey-->Tour de magie<!--/CantripKey-->.** <!--CantripValue-->Vous connaissez un tour de magie de votre choix parmi la liste de sorts de magicien. Votre caractéristique d'incantation pour ce tour de magie est l'[Intelligence].<!--/CantripValue-->
 
-**<!--AdditionalLanguageKey-->Langue supplémentaire<!--/AdditionalLanguageKey-->.** <!--AdditionalLanguageValue-->Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.<!--/AdditionalLanguageValue-->
+**<!--ExtraLanguageKey-->Langue supplémentaire<!--/ExtraLanguageKey-->.** <!--ExtraLanguageValue-->Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.<!--/ExtraLanguageValue-->
 
 <!--/SubRaceItem-->
 
@@ -75,11 +75,11 @@ En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vo
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme] augmente de 1.<!--/AbilityScoreIncrease-->
 
-**<!--TrainingInElvenWeaponsKey-->Entraînement aux armes elfiques<!--/TrainingInElvenWeaponsKey-->.** <!--TrainingInElvenWeaponsValue-->Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.<!--/TrainingInElvenWeaponsValue-->
+**<!--ElfWeaponTrainingKey-->Entraînement aux armes elfiques<!--/ElfWeaponTrainingKey-->.** <!--ElfWeaponTrainingValue-->Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.<!--/ElfWeaponTrainingValue-->
 
-**<!--MagicTrickKey-->Tour de magie<!--MagicTrickKey/-->.** <!--MagicTrickValue-->Vous connaissez un tour de magie de votre choix parmi la liste de sorts de barde. Votre caractéristique d'incantation pour ce tour de magie est le [Charisme].<!--/MagicTrickValue-->
+**<!--CantripKey-->Tour de magie<!--/CantripKey-->.** <!--CantripValue-->Vous connaissez un tour de magie de votre choix parmi la liste de sorts de barde. Votre caractéristique d'incantation pour ce tour de magie est le [Charisme].<!--/CantripValue-->
 
-**<!--AdditionalLanguageKey-->Langue supplémentaire<!--/AdditionalLanguageKey-->.** <!--AdditionalLanguageValue-->Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.<!--/AdditionalLanguageValue-->
+**<!--ExtraLanguageKey-->Langue supplémentaire<!--/ExtraLanguageKey-->.** <!--ExtraLanguageValue-->Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.<!--/ExtraLanguageValue-->
 
 <!--/SubRaceItem-->
 

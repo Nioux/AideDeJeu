@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Detect Evil and Good
-AltName: '[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)'
-Type: divination
 Level: 1
+Type: divination
 CastingTime: 1 action
 Range: Self
 Components: V, S
 Duration: Concentration, up to 10 minutes
 Classes: Cleric, Paladin
-Source: (SRD p134)
 Id: spells_vo.md#detect-evil-and-good
 ParentLink: spells_vo.md#spells-srd-p
+Name: Detect Evil and Good
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)'
+Source: (SRD p134)
 Attributes: {}
 AttributesDictionary: >+
   {}

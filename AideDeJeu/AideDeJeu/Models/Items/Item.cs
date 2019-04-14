@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
+using System.Reflection;
 using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -378,6 +379,26 @@ namespace AideDeJeuLib
                     .WithNamingConvention(new PascalCaseNamingConvention())
                     .Build();
                 Attributes = deserializer.Deserialize<Dictionary<string, string>>(value);
+            }
+        }
+
+        public void SetAttribute(string name, string value)
+        {
+            var prop = this.GetType().GetProperty(name, BindingFlags.Public | BindingFlags.Instance);
+            if (null != prop && prop.CanWrite)
+            {
+                prop.SetValue(this, prop.GetValue(this) + value, null);
+            }
+            else
+            {
+                if (this.Attributes.ContainsKey(name))
+                {
+                    this.Attributes[name] += value;
+                }
+                else
+                {
+                    this.Attributes[name] = value;
+                }
             }
         }
 

@@ -19,20 +19,20 @@ NameLevel: 1
 AltName: Elf (SRD p4)
 Source: (MDR p44)
 Attributes:
-  SharpSenseKey: Sens aiguisés
-  SharpSenseValue: Vous maîtrisez la compétence [Perception](hd_abilities_wisdom_perception.md).
-  FairyAncestryKey: Ascendance féerique
-  FairyAncestryValue: Vous obtenez un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.
+  KeenSensesKey: Sens aiguisés
+  KeenSensesValue: Vous maîtrisez la compétence [Perception](hd_abilities_wisdom_perception.md).
+  FeyAncestryKey: Ascendance féerique
+  FeyAncestryValue: Vous obtenez un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.
   TranceKey: Transe
   TranceValue: Les elfes n'ont pas besoin de dormir. À la place, ils passent 4 heures par jour dans un état de méditation profonde, tout en restant semi-conscients. Le mot qui décrit cette méditation en langage commun est « transe ». Pendant cette méditation, vous pouvez avoir un équivalent de rêves. De tels rêves sont en réalité des exercices mentaux qui sont devenus des réflexes au bout de plusieurs années de pratique. En vous reposant ainsi, vous obtenez les mêmes bénéfices que ceux d'un sommeil de 8 heures pour un humain. Toutefois, il faut toujours 8 heures à un elfe pour obtenir les effets d'un repos long.
 AttributesDictionary: >+
-  SharpSenseKey: Sens aiguisés
+  KeenSensesKey: Sens aiguisés
 
-  SharpSenseValue: Vous maîtrisez la compétence [Perception](hd_abilities_wisdom_perception.md).
+  KeenSensesValue: Vous maîtrisez la compétence [Perception](hd_abilities_wisdom_perception.md).
 
-  FairyAncestryKey: Ascendance féerique
+  FeyAncestryKey: Ascendance féerique
 
-  FairyAncestryValue: Vous obtenez un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.
+  FeyAncestryValue: Vous obtenez un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.
 
   TranceKey: Transe
 

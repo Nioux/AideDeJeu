@@ -12,7 +12,11 @@
 
 ## Traits des demi-orcs
 
+<!--Description-->
+
 Un demi-orc a hérité de certains traits de son ascendance orc.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Force] augmente de 2 et votre valeur de [Constitution] de 1.<!--/AbilityScoreIncrease-->
 
@@ -26,11 +30,11 @@ Un demi-orc a hérité de certains traits de son ascendance orc.
 
 **Vision dans le noir.** <!--Darkvision-->Grâce à votre sang orc, vous avez hérité d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.<!--/Darkvision-->
 
-**Menaçant.** Vous gagnez la maîtrise de la compétence [Intimidation].
+**<!--MenacingKey-->Menaçant<!--/MenacingKey-->.** <!--MenacingValue-->Vous gagnez la maîtrise de la compétence [Intimidation].<!--/MenacingValue-->
 
-**Acharnement.** Quand vous vous retrouvez à 0 point de vie, mais que vous n'êtes pas tué sur le champ, vous pouvez choisir d'être réduit à 1 point de vie à la place. Vous ne pouvez pas réutiliser cette aptitude tant que vous n'avez pas terminé un repos long.
+**<!--RelentlessEnduranceKey-->Acharnement<!--/RelentlessEnduranceKey-->.** <!--RelentlessEnduranceValue-->Quand vous vous retrouvez à 0 point de vie, mais que vous n'êtes pas tué sur le champ, vous pouvez choisir d'être réduit à 1 point de vie à la place. Vous ne pouvez pas réutiliser cette aptitude tant que vous n'avez pas terminé un repos long.<!--/RelentlessEnduranceValue-->
 
-**Sauvagerie.** Quand vous réussissez un coup critique avec une attaque de corps-à-corps, vous pouvez lancer un dé de dégâts supplémentaire correspondant à l'arme utilisée et l'ajouter aux dégâts bonus du coup critique.
+**<!--SavageAttacksKey-->Sauvagerie<!--/SavageAttacksKey-->.** <!--SavageAttacksValue-->Quand vous réussissez un coup critique avec une attaque de corps-à-corps, vous pouvez lancer un dé de dégâts supplémentaire correspondant à l'arme utilisée et l'ajouter aux dégâts bonus du coup critique.<!--/SavageAttacksValue-->
 
 **Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en commun et en orc. La langue orc a une sonorité dure et certains sons évoquent des grincements. Les orcs n'ont pas d'alphabet propre et utilisent donc le même alphabet que les nains : le Runique.<!--/Languages-->
 

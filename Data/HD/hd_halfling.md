@@ -17,9 +17,28 @@ ParentName: Races
 NameLevel: 1
 AltName: Halfling (SRD p4)
 Source: (MDR p52)
-Attributes: {}
+Attributes:
+  LuckyKey: Chanceux
+  LuckyValue: Quand vous faites un 1 avec le d20 d'un jet d'attaque, d'un test de caractéristiques ou d'un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md), vous pouvez relancer le dé. Mais vous devez utiliser le nouveau résultat du jet.
+  BraveKey: Brave
+  BraveValue: Vous bénéficiez d'un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre la terreur.
+  HalflingNimblenessKey: Agilité halfeline
+  HalflingNimblenessValue: Vous pouvez traverser n'importe quel emplacement occupé par une créature plus grande que vous.
 AttributesDictionary: >+
-  {}
+  LuckyKey: Chanceux
+
+  LuckyValue: Quand vous faites un 1 avec le d20 d'un jet d'attaque, d'un test de caractéristiques ou d'un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md), vous pouvez relancer le dé. Mais vous devez utiliser le nouveau résultat du jet.
+
+  BraveKey: Brave
+
+  BraveValue: Vous bénéficiez d'un avantage sur les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre la terreur.
+
+  HalflingNimblenessKey: Agilité halfeline
+
+  HalflingNimblenessValue: Vous pouvez traverser n'importe quel emplacement occupé par une créature plus grande que vous.
+
+Description: >+
+  Un halfelin possède de nombreux traits en commun avec tous les autres halfelins.
 
 ---
 >  [Races](races_hd.md#)

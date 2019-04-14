@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Flaming Sphere
-AltName: '[Sphère de feu](hd_spells_sphere_de_feu.md)'
-Type: conjuration
 Level: 2
+Type: conjuration
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)
 Duration: Concentration, up to 1 minute
 Classes: Druid, Wizard
-Source: (SRD p145)
 Id: spells_vo.md#flaming-sphere
 ParentLink: spells_vo.md#spells-srd-p
+Name: Flaming Sphere
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Sphère de feu](hd_spells_sphere_de_feu.md)'
+Source: (SRD p145)
 Attributes: {}
 AttributesDictionary: >+
   {}

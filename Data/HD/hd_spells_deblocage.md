@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Déblocage
-AltName: '[Knock](srd_spells_knock.md)'
-Type: Transmutation
 Level: 2
+Type: Transmutation
 CastingTime: 1 action
 Range: 18 mètres
 Components: V
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Source: (MDR p345)(SRD)
 Id: spells_hd.md#déblocage
 ParentLink: spells_hd.md#sorts
+Name: Déblocage
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Knock](srd_spells_knock.md)'
+Source: (MDR p345)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

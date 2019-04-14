@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Calm Emotions
-AltName: '[Apaisement des émotions](hd_spells_apaisement_des_emotions.md)'
-Type: enchantment
 Level: 2
+Type: enchantment
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard, Cleric
-Source: (SRD p123)
 Id: spells_vo.md#calm-emotions
 ParentLink: spells_vo.md#spells-srd-p
+Name: Calm Emotions
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Apaisement des émotions](hd_spells_apaisement_des_emotions.md)'
+Source: (SRD p123)
 Attributes: {}
 AttributesDictionary: >+
   {}

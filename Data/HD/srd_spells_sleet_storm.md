@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Sleet Storm
-AltName: '[Tempête de neige](hd_spells_tempete_de_neige.md)'
-Type: conjuration
 Level: 3
+Type: conjuration
 CastingTime: 1 action
 Range: 150 feet
 Components: V, S, M (a pinch of dust and a few drops of water)
 Duration: Concentration, up to 1 minute
 Classes: Druid, Sorcerer, Wizard
-Source: (SRD p180)
 Id: spells_vo.md#sleet-storm
 ParentLink: spells_vo.md#spells-srd-p
+Name: Sleet Storm
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Tempête de neige](hd_spells_tempete_de_neige.md)'
+Source: (SRD p180)
 Attributes: {}
 AttributesDictionary: >+
   {}

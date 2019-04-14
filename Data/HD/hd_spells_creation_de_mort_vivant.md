@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Création de mort-vivant
-AltName: '[Create Undead](srd_spells_create_undead.md)'
-Type: Nécromancie
 Level: 6
+Type: Nécromancie
 CastingTime: 1 minute
 Range: 3 mètres
 Components: V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p343)(SRD)
 Id: spells_hd.md#création-de-mort-vivant
 ParentLink: spells_hd.md#sorts
+Name: Création de mort-vivant
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Create Undead](srd_spells_create_undead.md)'
+Source: (MDR p343)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Mur de vent
-AltName: '[Wind Wall](srd_spells_wind_wall.md)'
-Type: Évocation
 Level: 3
+Type: Évocation
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S, M (un petit éventail et une plume exotique)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#mur-de-vent
 ParentLink: spells_hd.md#sorts
+Name: Mur de vent
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Wind Wall](srd_spells_wind_wall.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

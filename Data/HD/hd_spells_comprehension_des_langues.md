@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Compréhension des langues
-AltName: '[Comprehend Languages](srd_spells_comprehend_languages.md)'
-Type: Divination
 Level: 1
+Type: Divination
+Ritual: rituel
 CastingTime: 1 action
 Range: personnelle
 Components: V, S, M (une pincée de suie et de sel)
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p338)(SRD)
-Ritual: rituel
 Id: spells_hd.md#compréhension-des-langues
 ParentLink: spells_hd.md#sorts
+Name: Compréhension des langues
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Comprehend Languages](srd_spells_comprehend_languages.md)'
+Source: (MDR p338)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

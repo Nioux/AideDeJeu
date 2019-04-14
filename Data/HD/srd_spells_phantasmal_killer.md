@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Phantasmal Killer
-AltName: '[Assassin imaginaire](hd_spells_assassin_imaginaire.md)'
-Type: illusion
 Level: 4
+Type: illusion
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Wizard
-Source: (SRD p167)
 Id: spells_vo.md#phantasmal-killer
 ParentLink: spells_vo.md#spells-srd-p
+Name: Phantasmal Killer
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Assassin imaginaire](hd_spells_assassin_imaginaire.md)'
+Source: (SRD p167)
 Attributes: {}
 AttributesDictionary: >+
   {}

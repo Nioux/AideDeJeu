@@ -11,9 +11,16 @@ ParentName: Nain
 NameLevel: 2
 AltName: Hill Dwarf (SRD p3)
 Source: (MDR p57)
-Attributes: {}
+Attributes:
+  DwarvenToughnessKey: Ténacité naine
+  DwarvenToughnessValue: Votre nombre maximum de points de vie augmente de 1. Il augmente à nouveau de +1 à chaque niveau que vous gagnez.
 AttributesDictionary: >+
-  {}
+  DwarvenToughnessKey: Ténacité naine
+
+  DwarvenToughnessValue: Votre nombre maximum de points de vie augmente de 1. Il augmente à nouveau de +1 à chaque niveau que vous gagnez.
+
+Description: >+
+  En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif et vous faites preuve d'une résistance remarquable.
 
 ---
 > [Nain](hd_dwarf.md)

@@ -12,24 +12,24 @@ NameLevel: 2
 AltName: High Elf (SRD p4)
 Source: (MDR p45)
 Attributes:
-  TrainingInElvenWeaponsKey: Entraînement aux armes elfiques
-  TrainingInElvenWeaponsValue: Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
-  MagicTrickKey: Tour de magie
-  MagicTrickValue: Vous connaissez un tour de magie de votre choix parmi la liste de sorts de magicien. Votre caractéristique d'incantation pour ce tour de magie est l'[Intelligence](hd_abilities_intelligence.md).
-  AdditionalLanguageKey: Langue supplémentaire
-  AdditionalLanguageValue: Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
+  ElfWeaponTrainingKey: Entraînement aux armes elfiques
+  ElfWeaponTrainingValue: Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
+  CantripKey: Tour de magie
+  CantripValue: Vous connaissez un tour de magie de votre choix parmi la liste de sorts de magicien. Votre caractéristique d'incantation pour ce tour de magie est l'[Intelligence](hd_abilities_intelligence.md).
+  ExtraLanguageKey: Langue supplémentaire
+  ExtraLanguageValue: Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 AttributesDictionary: >+
-  TrainingInElvenWeaponsKey: Entraînement aux armes elfiques
+  ElfWeaponTrainingKey: Entraînement aux armes elfiques
 
-  TrainingInElvenWeaponsValue: Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
+  ElfWeaponTrainingValue: Vous maîtrisez les épées longues, les épées courtes, les arcs longs et les arcs courts.
 
-  MagicTrickKey: Tour de magie
+  CantripKey: Tour de magie
 
-  MagicTrickValue: Vous connaissez un tour de magie de votre choix parmi la liste de sorts de magicien. Votre caractéristique d'incantation pour ce tour de magie est l'[Intelligence](hd_abilities_intelligence.md).
+  CantripValue: Vous connaissez un tour de magie de votre choix parmi la liste de sorts de magicien. Votre caractéristique d'incantation pour ce tour de magie est l'[Intelligence](hd_abilities_intelligence.md).
 
-  AdditionalLanguageKey: Langue supplémentaire
+  ExtraLanguageKey: Langue supplémentaire
 
-  AdditionalLanguageValue: Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
+  ExtraLanguageValue: Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 
 Description: >+
   En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples elfiques. Vous avez une affinité supérieure avec la magie et placez la quête du savoir avant toute chose.

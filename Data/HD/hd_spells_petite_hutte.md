@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Petite hutte
-AltName: '[Tiny Hut](srd_spells_tiny_hut.md)'
-Type: Évocation
 Level: 3
+Type: Évocation
+Ritual: rituel
 CastingTime: 1 minute
 Range: personnelle (hémisphère de 3 mètres de rayon)
 Components: V, S, M (une petite perle de cristal)
 Duration: 8 heures
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-Source: (MDR p)
-Ritual: rituel
 Id: spells_hd.md#petite-hutte
 ParentLink: spells_hd.md#sorts
+Name: Petite hutte
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Tiny Hut](srd_spells_tiny_hut.md)'
+Source: (MDR p)
 Attributes: {}
 AttributesDictionary: >+
   {}

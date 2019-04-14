@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Bane
-AltName: '[Fléau](hd_spells_fleau.md)'
-Type: enchantment
 Level: 1
+Type: enchantment
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S, M (a drop of blood)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Cleric
-Source: (SRD p120)
 Id: spells_vo.md#bane
 ParentLink: spells_vo.md#spells-srd-p
+Name: Bane
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Fléau](hd_spells_fleau.md)'
+Source: (SRD p120)
 Attributes: {}
 AttributesDictionary: >+
   {}

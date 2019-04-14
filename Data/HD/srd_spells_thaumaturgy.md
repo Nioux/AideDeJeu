@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Thaumaturgy
-AltName: '[Thaumaturgie](hd_spells_thaumaturgie.md)'
-Type: Transmutation
 Level: cantrip
+Type: Transmutation
 CastingTime: 1 action
 Range: 30 feet
 Components: V
 Duration: Up to 1 minute
 Classes: Cleric
-Source: (SRD p187)
 Id: spells_vo.md#thaumaturgy
 ParentLink: spells_vo.md#spells-srd-p
+Name: Thaumaturgy
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Thaumaturgie](hd_spells_thaumaturgie.md)'
+Source: (SRD p187)
 Attributes: {}
 AttributesDictionary: >+
   {}

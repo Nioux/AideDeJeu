@@ -10,9 +10,22 @@ Name: Halfelin grand-sabot
 ParentName: Halfelin
 NameLevel: 2
 Source: (MDR p52)
-Attributes: {}
+Attributes:
+  PragmaticMindKey: Esprit pragmatique
+  PragmaticMindValue: Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)](hd_abilities_wisdom_perspicacite.md) lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts de charme.
+  HardWorkerKey: Travailleur acharné
+  HardWorkerValue: Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.
 AttributesDictionary: >+
-  {}
+  PragmaticMindKey: Esprit pragmatique
+
+  PragmaticMindValue: Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)](hd_abilities_wisdom_perspicacite.md) lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts de charme.
+
+  HardWorkerKey: Travailleur acharné
+
+  HardWorkerValue: Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.
+
+Description: >+
+  En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu crédule. Grâce à votre vie de labeur, vous êtes résistant et très manuel.
 
 ---
 > [Halfelin](hd_halfling.md)

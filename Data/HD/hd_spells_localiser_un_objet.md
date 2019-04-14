@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Localiser un objet
-AltName: '[Locate Object](srd_spells_locate_object.md)'
-Type: Divination
 Level: 2
+Type: Divination
 CastingTime: 1 action
 Range: personnelle
 Components: V, S, M (une branche fourchue)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#localiser-un-objet
 ParentLink: spells_hd.md#sorts
+Name: Localiser un objet
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Locate Object](srd_spells_locate_object.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

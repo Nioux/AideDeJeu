@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Festin des héros
-AltName: "[Heroes' Feast](srd_spells_heroes_feast.md)"
-Type: Invocation
 Level: 6
+Type: Invocation
 CastingTime: 10 minutes
 Range: 9 mètres
 Components: V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-Source: (MDR p355)(SRD)
 Id: spells_hd.md#festin-des-héros
 ParentLink: spells_hd.md#sorts
+Name: Festin des héros
 ParentName: Sorts
 NameLevel: 1
+AltName: "[Heroes' Feast](srd_spells_heroes_feast.md)"
+Source: (MDR p355)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

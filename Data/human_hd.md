@@ -12,7 +12,11 @@
 
 ## Traits des humains
 
+<!--Description-->
+
 Il est difficile de faire des généralisations en ce qui concerne les humains. Ils possèdent les traits suivants :
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->La valeur de toutes vos caractéristiques augmente de 1.<!--/AbilityScoreIncrease-->
 
@@ -30,10 +34,14 @@ Il est difficile de faire des généralisations en ce qui concerne les humains. 
 
 ## <!--Name-->Variante technique<!--/Name-->
 
+<!--Description-->
+
 En lieu et place de l’augmentation de caractéristiques, vous pouvez opter pour l’une ou l’autre des options techniques qui suivent :
 
 * La valeur de trois de vos caractéristiques augmente de 1 ; choisissez un don.
 * La valeur de quatre de vos caractéristiques augmente de 1 ; choisissez deux compétences, outils ou langues, que vous maîtrisez désormais.
+
+<!--/Description-->
 
 <!--/GenericItem-->
 

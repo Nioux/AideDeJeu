@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Mass Heal
-AltName: '[Guérison de groupe](hd_spells_guerison_de_groupe.md)'
-Type: evocation
 Level: 9
+Type: evocation
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric
-Source: (SRD p163)
 Id: spells_vo.md#mass-heal
 ParentLink: spells_vo.md#spells-srd-p
+Name: Mass Heal
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Guérison de groupe](hd_spells_guerison_de_groupe.md)'
+Source: (SRD p163)
 Attributes: {}
 AttributesDictionary: >+
   {}

@@ -18,9 +18,34 @@ ParentName: Races
 NameLevel: 1
 AltName: Dwarf (SRD p3)
 Source: (MDR p57)
-Attributes: {}
+Attributes:
+  DwarvenResilienceKey: Résistance naine
+  DwarvenResilienceValue: Vous bénéficiez d'un avantage sur vos [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre le poison et vous bénéficiez d'une résistance innée aux dégâts de poison.
+  DwarvenCombatTrainingKey: Entraînement aux armes naines
+  DwarvenCombatTrainingValue: Vous maîtrisez les haches de guerre, les hachettes, les marteaux légers et les marteaux de guerre.
+  ToolProficiencyKey: Maîtrise des outils
+  ToolProficiencyValue: "Vous obtenez la maîtrise des outils d'un artisanat de votre choix parmi cette liste : outils de forgeron, matériel de brasseur, outils de maçon."
+  StonecunningKey: Connaissance de la pierre
+  StonecunningValue: Quand vous faites un test d'[Intelligence (Histoire)](hd_abilities_intelligence_histoire.md) relatif au travail de la pierre, vous considérez que vous possédez la maîtrise de la compétence [Histoire](hd_abilities_intelligence_histoire.md) et vous ajoutez le double de votre bonus de maîtrise au résultat du test au lieu de votre bonus de maîtrise normal.
 AttributesDictionary: >+
-  {}
+  DwarvenResilienceKey: Résistance naine
+
+  DwarvenResilienceValue: Vous bénéficiez d'un avantage sur vos [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre le poison et vous bénéficiez d'une résistance innée aux dégâts de poison.
+
+  DwarvenCombatTrainingKey: Entraînement aux armes naines
+
+  DwarvenCombatTrainingValue: Vous maîtrisez les haches de guerre, les hachettes, les marteaux légers et les marteaux de guerre.
+
+  ToolProficiencyKey: Maîtrise des outils
+
+  ToolProficiencyValue: "Vous obtenez la maîtrise des outils d'un artisanat de votre choix parmi cette liste : outils de forgeron, matériel de brasseur, outils de maçon."
+
+  StonecunningKey: Connaissance de la pierre
+
+  StonecunningValue: Quand vous faites un test d'[Intelligence (Histoire)](hd_abilities_intelligence_histoire.md) relatif au travail de la pierre, vous considérez que vous possédez la maîtrise de la compétence [Histoire](hd_abilities_intelligence_histoire.md) et vous ajoutez le double de votre bonus de maîtrise au résultat du test au lieu de votre bonus de maîtrise normal.
+
+Description: >+
+  Votre personnage nain est doté d'un ensemble de capacités innées liées à sa nature de nain.
 
 ---
 >  [Races](races_hd.md#)

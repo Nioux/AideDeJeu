@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Giant Insect
-AltName: '[Insecte géant](hd_spells_insecte_geant.md)'
-Type: transmutation
 Level: 4
+Type: transmutation
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S
 Duration: Concentration, up to 10 minutes
 Classes: Druid
-Source: (SRD p149)
 Id: spells_vo.md#giant-insect
 ParentLink: spells_vo.md#spells-srd-p
+Name: Giant Insect
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Insecte géant](hd_spells_insecte_geant.md)'
+Source: (SRD p149)
 Attributes: {}
 AttributesDictionary: >+
   {}

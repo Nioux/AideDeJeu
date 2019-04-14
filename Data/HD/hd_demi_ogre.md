@@ -17,9 +17,34 @@ Name: Demi-ogre
 ParentName: Races
 NameLevel: 1
 Source: (MDR p62)
-Attributes: {}
+Attributes:
+  ScaryKey: Effrayant
+  ScaryValue: Vous utilisez votre action et vous adoptez une posture agressive, hurlez ou lancez un regard noir suivi d'un grognement effrayant à un adversaire. Ce dernier doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md) contre une difficulté égale à 8 + votre modificateur de [Force](hd_abilities_strength.md) + votre bonus de maîtrise. S'il échoue, il est effrayé pour un nombre de rounds égal à votre bonus de maîtrise. Vous devez effectuer un repos long avant de pouvoir utiliser cette capacité de nouveau.
+  HeavyLeatherKey: Cuir épais
+  HeavyLeatherValue: Votre peau est si épaisse que vous résistez mieux aux coups que les autres. Vous obtenez une résistance aux dégâts de type contondant.
+  SizeProblemKey: Problème de taille
+  SizeProblemValue: Vous êtes grand et massif… trop grand et trop massif. Vos armures doivent être taillées sur mesure pour votre taille et votre corpulence. Quand vous achetez une armure, vous devez payer le double de son prix. De même, lorsque vous faites ajuster une armure magique à votre taille, vous devez payer un prix égal au prix de l'armure magique concernée. Si vous portez une armure qui n'a pas été spécialement ajustée à votre taille, votre CA est réduite de 1.
+  PariahKey: Paria
+  PariahValue: "Votre nature même rend souvent les gens nerveux. Vous êtes craint par les races civilisées et méprisé par les ogres. Vous subissez d'un désavantage sur vos tests de [Charisme (Persuasion)](hd_abilities_charisma_persuasion.md) et [Charisme (Supercherie)](hd_abilities_charisma_supercherie.md). De plus, la plupart des gens ont une attitude méfiante, au mieux, vis-àvis de vous : les gardes vous contrôlent, vous êtes victime de délit de sale gueule et il n'est pas rare que vous soyez le bouc émissaire rêvé pour les populations locales."
 AttributesDictionary: >+
-  {}
+  ScaryKey: Effrayant
+
+  ScaryValue: Vous utilisez votre action et vous adoptez une posture agressive, hurlez ou lancez un regard noir suivi d'un grognement effrayant à un adversaire. Ce dernier doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md) contre une difficulté égale à 8 + votre modificateur de [Force](hd_abilities_strength.md) + votre bonus de maîtrise. S'il échoue, il est effrayé pour un nombre de rounds égal à votre bonus de maîtrise. Vous devez effectuer un repos long avant de pouvoir utiliser cette capacité de nouveau.
+
+  HeavyLeatherKey: Cuir épais
+
+  HeavyLeatherValue: Votre peau est si épaisse que vous résistez mieux aux coups que les autres. Vous obtenez une résistance aux dégâts de type contondant.
+
+  SizeProblemKey: Problème de taille
+
+  SizeProblemValue: Vous êtes grand et massif… trop grand et trop massif. Vos armures doivent être taillées sur mesure pour votre taille et votre corpulence. Quand vous achetez une armure, vous devez payer le double de son prix. De même, lorsque vous faites ajuster une armure magique à votre taille, vous devez payer un prix égal au prix de l'armure magique concernée. Si vous portez une armure qui n'a pas été spécialement ajustée à votre taille, votre CA est réduite de 1.
+
+  PariahKey: Paria
+
+  PariahValue: "Votre nature même rend souvent les gens nerveux. Vous êtes craint par les races civilisées et méprisé par les ogres. Vous subissez d'un désavantage sur vos tests de [Charisme (Persuasion)](hd_abilities_charisma_persuasion.md) et [Charisme (Supercherie)](hd_abilities_charisma_supercherie.md). De plus, la plupart des gens ont une attitude méfiante, au mieux, vis-àvis de vous : les gardes vous contrôlent, vous êtes victime de délit de sale gueule et il n'est pas rare que vous soyez le bouc émissaire rêvé pour les populations locales."
+
+Description: >+
+  Un demi-ogre a hérité de certains traits de son ascendance ogre.
 
 ---
 >  [Races](races_hd.md#)

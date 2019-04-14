@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Charm Person
-AltName: '[Charme-personne](hd_spells_charme_personne.md)'
-Type: enchantment
 Level: 1
+Type: enchantment
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S
 Duration: 1 hour
 Classes: Bard, Druid, Sorcerer, Warlock, Wizard
-Source: (SRD p124)
 Id: spells_vo.md#charm-person
 ParentLink: spells_vo.md#spells-srd-p
+Name: Charm Person
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Charme-personne](hd_spells_charme_personne.md)'
+Source: (SRD p124)
 Attributes: {}
 AttributesDictionary: >+
   {}

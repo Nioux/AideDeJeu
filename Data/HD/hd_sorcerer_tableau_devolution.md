@@ -1,8 +1,8 @@
 ﻿---
 !ClassEvolutionItem
-Name: Tableau d'évolution
 Id: sorcerer_hd.md#tableau-dévolution
 ParentLink: sorcerer_hd.md#ensorceleur
+Name: Tableau d'évolution
 ParentName: Ensorceleur
 NameLevel: 1
 Attributes: {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Sanctuaire
-AltName: '[Sanctuary](srd_spells_sanctuary.md)'
-Type: Abjuration
 Level: 1
+Type: Abjuration
 CastingTime: 1 action bonus
 Range: 9 mètres
 Components: V, S, M (un petit miroir en argent)
 Duration: 1 minute
 Classes: '[Clerc](hd_cleric.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#sanctuaire
 ParentLink: spells_hd.md#sorts
+Name: Sanctuaire
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Sanctuary](srd_spells_sanctuary.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

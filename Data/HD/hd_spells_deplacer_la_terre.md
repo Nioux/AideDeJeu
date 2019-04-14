@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Déplacer la terre
-AltName: '[Move Earth](srd_spells_move_earth.md)'
-Type: Transmutation
 Level: 6
+Type: Transmutation
 CastingTime: 1 action
 Range: 36 mètres
 Components: "V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)"
 Duration: concentration, jusqu'à 2 heures
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Source: (MDR p345)(SRD)
 Id: spells_hd.md#déplacer-la-terre
 ParentLink: spells_hd.md#sorts
+Name: Déplacer la terre
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Move Earth](srd_spells_move_earth.md)'
+Source: (MDR p345)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

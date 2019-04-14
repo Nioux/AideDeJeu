@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Danse irrésistible
-AltName: '[Irresistible Dance](srd_spells_irresistible_dance.md)'
-Type: Enchantement
 Level: 6
+Type: Enchantement
 CastingTime: 1 action
 Range: 9 mètres
 Components: V
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-Source: (MDR p344)
 Id: spells_hd.md#danse-irrésistible
 ParentLink: spells_hd.md#sorts
+Name: Danse irrésistible
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Irresistible Dance](srd_spells_irresistible_dance.md)'
+Source: (MDR p344)
 Attributes: {}
 AttributesDictionary: >+
   {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Resurrection
-AltName: '[Résurrection](hd_spells_resurrection.md)'
-Type: necromancy
 Level: 7
+Type: necromancy
 CastingTime: 1 hour
 Range: Touch
 Components: V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Bard, Cleric
-Source: (SRD p175)
 Id: spells_vo.md#resurrection
 ParentLink: spells_vo.md#spells-srd-p
+Name: Resurrection
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Résurrection](hd_spells_resurrection.md)'
+Source: (SRD p175)
 Attributes: {}
 AttributesDictionary: >+
   {}

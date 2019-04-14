@@ -12,7 +12,11 @@
 
 ## Traits des demi-elfes
 
+<!--Description-->
+
 Un demi-elfe a quelques qualités communes avec les [elfes], mais d'autres qui sont propres aux demi-elfes.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Charisme] augmente de 2 et deux autres valeurs de votre choix de 1.<!--/AbilityScoreIncrease-->
 
@@ -26,9 +30,9 @@ Un demi-elfe a quelques qualités communes avec les [elfes], mais d'autres qui s
 
 **Vision dans le noir.** <!--Darkvision-->Grâce à votre sang [elfe], vous avez hérité d'une vision supérieure dans l'[obscurité] et dans la [lumière faible]. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de [lumière faible] comme s'il s'agissait d'une [lumière vive] et dans l'[obscurité] comme s'il s'agissait d'une [lumière faible]. Par contre, vous ne distinguez pas les couleurs dans l'[obscurité], seulement des nuances de gris.<!--/Darkvision-->
 
-**Ascendance féerique.** Vous bénéficiez d'un avantage sur les [jets de sauvegarde] contre l'effet [charmé] et un effet magique ne peut pas vous plonger dans le sommeil.
+**<!--FeyAncestryKey-->Ascendance féerique<!--/FeyAncestryKey-->.** <!--FeyAncestryValue-->Vous bénéficiez d'un avantage sur les [jets de sauvegarde] contre l'effet [charmé] et un effet magique ne peut pas vous plonger dans le sommeil.<!--/FeyAncestryValue-->
 
-**Polyvalence.** Vous gagnez la maîtrise de deux [compétences] de votre choix.
+**<!--SkillVersatilityKey-->Polyvalence<!--/SkillVersatilityKey-->.** <!--SkillVersatilityValue-->Vous gagnez la maîtrise de deux [compétences] de votre choix.<!--/SkillVersatilityValue-->
 
 **Langues.** <!--Languages-->Vous pouvez parler, lire et écrire en [commun], en [elfe] et dans une autre langue de votre choix.<!--/Languages-->
 

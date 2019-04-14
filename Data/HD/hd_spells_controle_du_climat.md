@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Contrôle du climat
-AltName: '[Control Weather](srd_spells_control_weather.md)'
-Type: Transmutation
 Level: 8
+Type: Transmutation
 CastingTime: 10 minutes
 Range: personnelle (rayon de 7,5 kilomètres)
 Components: V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
 Duration: concentration, jusqu'à 8 heures
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-Source: (MDR p341)(SRD)
 Id: spells_hd.md#contrôle-du-climat
 ParentLink: spells_hd.md#sorts
+Name: Contrôle du climat
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Control Weather](srd_spells_control_weather.md)'
+Source: (MDR p341)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

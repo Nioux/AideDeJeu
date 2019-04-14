@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Aura de force
-Type: Abjuration
 Level: 5
+Type: Abjuration
 CastingTime: 1 action
 Range: 9 mètres
 Components: V
 Duration: Concentration, jusqu'à 10 minutes
 Classes: '[Paladin](hd_paladin.md)'
-Source: (MDR p325)
 Id: spells_hd.md#aura-de-force
 ParentLink: spells_hd.md#sorts
+Name: Aura de force
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p325)
 Attributes: {}
 AttributesDictionary: >+
   {}

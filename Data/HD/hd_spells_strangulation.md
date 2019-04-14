@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Strangulation
-Type: Invocation
 Level: 1
+Type: Invocation
 CastingTime: 1 action
 Range: 9 m
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-Source: (MDR p)
 Id: spells_hd.md#strangulation
 ParentLink: spells_hd.md#sorts
+Name: Strangulation
 ParentName: Sorts
 NameLevel: 1
+Source: (MDR p)
 Attributes: {}
 AttributesDictionary: >+
   {}

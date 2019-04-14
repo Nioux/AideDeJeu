@@ -1,8 +1,8 @@
 ﻿---
 !ClassEvolutionItem
-Name: Tableau d'évolution
 Id: cleric_hd.md#tableau-dévolution
 ParentLink: cleric_hd.md#clerc
+Name: Tableau d'évolution
 ParentName: Clerc
 NameLevel: 1
 Attributes: {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Control Water
-AltName: "[Contrôle de l'eau](hd_spells_controle_de_leau.md)"
-Type: transmutation
 Level: 4
+Type: transmutation
 CastingTime: 1 action
 Range: 300 feet
 Components: V, S, M (a drop of water and a pinch of dust)
 Duration: Concentration, up to 10 minutes
 Classes: Cleric, Druid, Wizard
-Source: (SRD p130)
 Id: spells_vo.md#control-water
 ParentLink: spells_vo.md#spells-srd-p
+Name: Control Water
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: "[Contrôle de l'eau](hd_spells_controle_de_leau.md)"
+Source: (SRD p130)
 Attributes: {}
 AttributesDictionary: >+
   {}

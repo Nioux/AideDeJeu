@@ -12,7 +12,11 @@
 
 ## Traits des sangdragons
 
+<!--Description-->
+
 Votre lignée draconique se manifeste par différents traits que vous partagez avec les autres sangdragons.
+
+<!--/Description-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Force] augmente de 2 et votre valeur de [Charisme] de 1.<!--/AbilityScoreIncrease-->
 
@@ -24,13 +28,17 @@ Votre lignée draconique se manifeste par différents traits que vous partagez a
 
 **Vitesse.** <!--Speed-->Votre vitesse au sol de base est de 9 mètres.<!--/Speed-->
 
-**Ascendance.** <!--DraconicAncestry-->Vous avez des ancêtres draconiques. Choisissez un type de dragon dans le tableau des ascendances. Votre choix détermine votre souffle et votre résistance aux dégâts, comme indiqué dans le tableau.<!--/DraconicAncestry-->
+**<!--DraconicAncestryKey-->Ascendance<!--/DraconicAncestryKey-->.** <!--DraconicAncestryValue-->Vous avez des ancêtres draconiques. Choisissez un type de dragon dans le tableau des ascendances. Votre choix détermine votre souffle et votre résistance aux dégâts, comme indiqué dans le tableau.<!--/DraconicAncestryValue-->
 
-**Souffle.** <!--BreathWeapon-->Vous pouvez utiliser votre action pour exhaler une vague d'énergie destructrice. La taille, la forme et le type de dégâts que vous causez sont liés à votre ascendance.
+**<!--BreathWeaponKey-->Souffle<!--/BreathWeaponKey-->.** <!--BreathWeaponValue-->Vous pouvez utiliser votre action pour exhaler une vague d'énergie destructrice. La taille, la forme et le type de dégâts que vous causez sont liés à votre ascendance.<!--/BreathWeaponValue-->
+
+<!--BreathWeaponValue-->
 
 Quand vous utilisez votre souffle, chaque créature qui se trouve dans la zone affectée doit faire un [jet de sauvegarde], dont le type dépend de votre ascendance. Le DD de ce [jet de sauvegarde] est égal à 8 + votre modificateur de [Constitution] + votre bonus de maîtrise. Une créature qui rate son [jet de sauvegarde] subit 2d6 dégâts. Elle n'en subit que la moitié dans le cas contraire. La quantité de dégâts que vous infligez augmente avec votre niveau et atteint 3d6 au niveau 6, 4d6 au niveau 11 et 5d6 au niveau 16.
 
-Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou un repos long.<!--/BreathWeapon-->
+Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou un repos long.
+
+<!--/BreathWeaponValue-->
 
 **Résistance aux dégâts.** <!--DamageResistance-->Vous bénéficiez d'une résistance au type de dégâts associé à votre ascendance.<!--/DamageResistance-->
 
@@ -39,6 +47,8 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 <!--GenericItem-->
 
 ### <!--Name-->Ascendance<!--/Name-->
+
+<!--Table-->
 
 |Dragon|Type <!--br-->de <!--br-->dégâts|Souffle|[Jet <!--br-->de <!--br-->sauvegarde]|
 |---|---|---|---|
@@ -53,6 +63,7 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 |Rouge|Feu|Cône de 4,50 m|[Dextérité]|
 |Vert|Poison|Cône de 4,50 m|[Constitution]|
 
+<!--/Table-->
 
 <!--/GenericItem-->
 

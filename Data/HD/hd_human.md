@@ -25,6 +25,9 @@ Attributes: {}
 AttributesDictionary: >+
   {}
 
+Description: >+
+  Il est difficile de faire des généralisations en ce qui concerne les humains. Ils possèdent les traits suivants :
+
 ---
 >  [Races](races_hd.md#)
 

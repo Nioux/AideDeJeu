@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Moquerie cruelle
-AltName: '[Vicious Mockery](srd_spells_vicious_mockery.md)'
-Type: Enchantement
 Level: tour de magie
+Type: Enchantement
 CastingTime: 1 action
 Range: 18 mètres
 Components: V
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#moquerie-cruelle
 ParentLink: spells_hd.md#sorts
+Name: Moquerie cruelle
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Vicious Mockery](srd_spells_vicious_mockery.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

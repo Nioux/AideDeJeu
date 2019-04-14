@@ -560,7 +560,8 @@
 
                 case EmphasisInline emphasis:
                     var childAttributes = attributes | (emphasis.DelimiterCount == 2 /*.IsDouble*/ ? FontAttributes.Bold : FontAttributes.Italic);
-                    return emphasis.SelectMany(x => CreateSpans(x, family, childAttributes, foregroundColor, backgroundColor, size)).ToArray();
+                    var espans = emphasis.SelectMany(x => CreateSpans(x, family, childAttributes, foregroundColor, backgroundColor, size));
+                    return espans.ToArray();
 
                 case LineBreakInline breakline:
                     return new[] { new Span { Text = "\n" } };
@@ -647,11 +648,11 @@
                             },
                         };
                     }
-                    return null;
+                    return new Span[0];
 
                 default:
                     Debug.WriteLine($"Can't render {inline.GetType()} inlines.");
-                    return null;
+                    return new Span[0];
             }
         }
 

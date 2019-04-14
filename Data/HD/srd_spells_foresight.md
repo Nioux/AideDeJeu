@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Foresight
-AltName: '[Prémonition](hd_spells_premonition.md)'
-Type: divination
 Level: 9
+Type: divination
 CastingTime: 1 minute
 Range: Touch
 Components: V, S, M (a hummingbird feather)
 Duration: 8 hours
 Classes: Bard, Druid, Warlock, Wizard
-Source: (SRD p147)
 Id: spells_vo.md#foresight
 ParentLink: spells_vo.md#spells-srd-p
+Name: Foresight
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Prémonition](hd_spells_premonition.md)'
+Source: (SRD p147)
 Attributes: {}
 AttributesDictionary: >+
   {}

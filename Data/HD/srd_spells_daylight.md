@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: Daylight
-AltName: '[Lumière du jour](hd_spells_lumiere_du_jour.md)'
-Type: evocation
 Level: 3
+Type: evocation
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: 1 hour
 Classes: Cleric, Druid, Paladin, Ranger, Sorcerer
-Source: (SRD p133)
 Id: spells_vo.md#daylight
 ParentLink: spells_vo.md#spells-srd-p
+Name: Daylight
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Lumière du jour](hd_spells_lumiere_du_jour.md)'
+Source: (SRD p133)
 Attributes: {}
 AttributesDictionary: >+
   {}

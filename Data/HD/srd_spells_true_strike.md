@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Name: True Strike
-AltName: '[Viser juste](hd_spells_viser_juste.md)'
-Type: Divination
 Level: cantrip
+Type: Divination
 CastingTime: 1 action
 Range: 30 feet
 Components: S
 Duration: Concentration, up to 1 round
 Classes: Bard, Sorcerer, Warlock, Wizard
-Source: (SRD p189)
 Id: spells_vo.md#true-strike
 ParentLink: spells_vo.md#spells-srd-p
+Name: True Strike
 ParentName: Spells (SRD p)
 NameLevel: 1
+AltName: '[Viser juste](hd_spells_viser_juste.md)'
+Source: (SRD p189)
 Attributes: {}
 AttributesDictionary: >+
   {}

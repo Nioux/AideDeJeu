@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Invoquer des êtres des bois
-AltName: '[Conjure Woodland Beings](srd_spells_conjure_woodland_beings.md)'
-Type: Invocation
 Level: 4
+Type: Invocation
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (une baie de houx par créature invoquée)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#invoquer-des-êtres-des-bois
 ParentLink: spells_hd.md#sorts
+Name: Invoquer des êtres des bois
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Conjure Woodland Beings](srd_spells_conjure_woodland_beings.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

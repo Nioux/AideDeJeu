@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Nuée de météores
-AltName: '[Meteor Swarm](srd_spells_meteor_swarm.md)'
-Type: Évocation
 Level: 9
+Type: Évocation
 CastingTime: 1 action
 Range: 1,5 kilomètre
 Components: V, S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#nuée-de-météores
 ParentLink: spells_hd.md#sorts
+Name: Nuée de météores
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Meteor Swarm](srd_spells_meteor_swarm.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Nuage puant
-AltName: '[Stinking Cloud](srd_spells_stinking_cloud.md)'
-Type: Invocation
 Level: 3
+Type: Invocation
 CastingTime: 1 action
 Range: 27 mètres
 Components: V, S, M (un oeuf pourri ou des feuilles de chou pourri)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#nuage-puant
 ParentLink: spells_hd.md#sorts
+Name: Nuage puant
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Stinking Cloud](srd_spells_stinking_cloud.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}

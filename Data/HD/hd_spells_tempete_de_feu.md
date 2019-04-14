@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Name: Tempête de feu
-AltName: '[Fire Storm](srd_spells_fire_storm.md)'
-Type: Évocation
 Level: 7
+Type: Évocation
 CastingTime: 1 action
 Range: 45 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
-Source: (MDR p)(SRD)
 Id: spells_hd.md#tempête-de-feu
 ParentLink: spells_hd.md#sorts
+Name: Tempête de feu
 ParentName: Sorts
 NameLevel: 1
+AltName: '[Fire Storm](srd_spells_fire_storm.md)'
+Source: (MDR p)(SRD)
 Attributes: {}
 AttributesDictionary: >+
   {}
