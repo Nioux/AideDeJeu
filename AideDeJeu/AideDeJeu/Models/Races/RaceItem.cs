@@ -6,39 +6,39 @@ namespace AideDeJeuLib
     public class RaceItem : Item
     {
         [DataMember]
-        public string FullName { get; set; }
+        public virtual string FullName { get; set; }
         [DataMember]
-        public bool HasSubRaces { get; set; }
+        public virtual bool HasSubRaces { get; set; }
 
         [DataMember]
-        public string StrengthBonus { get; set; }
+        public virtual string StrengthBonus { get; set; }
         [DataMember]
-        public string DexterityBonus { get; set; }
+        public virtual string DexterityBonus { get; set; }
         [DataMember]
-        public string ConstitutionBonus { get; set; }
+        public virtual string ConstitutionBonus { get; set; }
         [DataMember]
-        public string IntelligenceBonus { get; set; }
+        public virtual string IntelligenceBonus { get; set; }
         [DataMember]
-        public string WisdomBonus { get; set; }
+        public virtual string WisdomBonus { get; set; }
         [DataMember]
-        public string CharismaBonus { get; set; }
+        public virtual string CharismaBonus { get; set; }
         [DataMember]
-        public string AnyAbilityBonus { get; set; }
+        public virtual string AnyAbilityBonus { get; set; }
 
         [DataMember]
-        public string AbilityScoreIncrease { get; set; }
+        public virtual string AbilityScoreIncrease { get; set; }
         [DataMember]
-        public string Age { get; set; }
+        public virtual string Age { get; set; }
         [DataMember]
-        public string Alignment { get; set; }
+        public virtual string Alignment { get; set; }
         [DataMember]
-        public string Size { get; set; }
+        public virtual string Size { get; set; }
         [DataMember]
-        public string Speed { get; set; }
+        public virtual string Speed { get; set; }
         [DataMember]
-        public string Darkvision { get; set; }
+        public virtual string Darkvision { get; set; }
         [DataMember]
-        public string Languages { get; set; }
+        public virtual string Languages { get; set; }
 
     }
 }

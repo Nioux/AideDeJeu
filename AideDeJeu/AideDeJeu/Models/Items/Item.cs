@@ -38,7 +38,7 @@ namespace AideDeJeuLib
             _Items = new List<Item>();
         }
 
-        public async Task<IEnumerable<Item>> GetChildrenAsync()
+        public virtual async Task<IEnumerable<Item>> GetChildrenAsync()
         {
             return _Items;
         }
@@ -86,7 +86,7 @@ namespace AideDeJeuLib
         //    _Items.RemoveAt(index);
         //}
 
-        public void AddChild(Item item)
+        public virtual void AddChild(Item item)
         {
             _Items.Add(item);
         }
@@ -117,22 +117,22 @@ namespace AideDeJeuLib
 
         [DataMember(Name = "Item_RootId", Order = 1)]
         [Indexed]
-        public string RootId { get; set; }
+        public virtual string RootId { get; set; }
 
         [DataMember(Name = "Item_ParentLink", Order = 2)]
         [Indexed]
-        public string ParentLink { get; set; }
+        public virtual string ParentLink { get; set; }
 
         [DataMember(Name = "Item_Name", Order = 3)]
-        public string Name { get; set; }
+        public virtual string Name { get; set; }
 
         [DataMember(Name = "Item_ParentName", Order = 4)]
-        public string ParentName { get; set; }
+        public virtual string ParentName { get; set; }
 
         [YamlIgnore]
         [IgnoreDataMember]
         [Ignore]
-        public string ParentNameLink
+        public virtual string ParentNameLink
         {
             get
             {
@@ -155,13 +155,13 @@ namespace AideDeJeuLib
         }
 
         [DataMember(Name = "Item_NameLevel", Order = 5)]
-        public int NameLevel { get; set; }
+        public virtual int NameLevel { get; set; }
         [DataMember(Name = "Item_AltName", Order = 6)]
-        public string AltName { get; set; }
+        public virtual string AltName { get; set; }
 
         [YamlIgnore]
         [IgnoreDataMember]
-        public string AltNameText
+        public virtual string AltNameText
         {
             get
             {
@@ -184,13 +184,13 @@ namespace AideDeJeuLib
             }
         }
         [DataMember(Name = "Item_Source", Order = 7)]
-        public string Source { get; set; }
+        public virtual string Source { get; set; }
 
         [YamlIgnore]
         [DataMember(Name = "Item_Markdown", Order = 8)]
         public virtual string Markdown { get; set; }
         [DataMember(Name = "Item_FullText", Order = 9)]
-        public string FullText { get; set; }
+        public virtual string FullText { get; set; }
 
         [IgnoreDataMember]
         [YamlIgnore]
@@ -234,7 +234,7 @@ namespace AideDeJeuLib
 
         [IgnoreDataMember]
         [YamlIgnore]
-        public string Yaml
+        public virtual string Yaml
         {
             get
             {
@@ -263,7 +263,7 @@ namespace AideDeJeuLib
 
         [IgnoreDataMember]
         [YamlIgnore]
-        public string SubMarkdown
+        public virtual string SubMarkdown
         {
             get
             {
@@ -306,7 +306,7 @@ namespace AideDeJeuLib
             return post as Item;
         }
 
-        public string CleanMarkdown
+        public virtual string CleanMarkdown
         {
             get
             {
@@ -317,7 +317,7 @@ namespace AideDeJeuLib
             }
         }
 
-        public string NewId
+        public virtual string NewId
         {
             get
             {
@@ -357,9 +357,9 @@ namespace AideDeJeuLib
         }
         [NotMapped]
         [IgnoreDataMember]
-        public OrderedDictionary Attributes { get; set; } = new OrderedDictionary();
+        public virtual OrderedDictionary Attributes { get; set; } = new OrderedDictionary();
 
-        public OrderedDictionary AttributesKeyValue
+        public virtual OrderedDictionary AttributesKeyValue
         {
             get
             {
@@ -380,7 +380,7 @@ namespace AideDeJeuLib
         }
 
         [DataMember]
-        public string AttributesDictionary
+        public virtual string AttributesDictionary
         {
             get
             {
@@ -400,7 +400,7 @@ namespace AideDeJeuLib
             }
         }
 
-        public void ResetAttribute(string name)
+        public virtual void ResetAttribute(string name)
         {
             if (name != null)
             {
@@ -415,7 +415,7 @@ namespace AideDeJeuLib
                 }
             }
         }
-        public void SetAttribute(string name, string value)
+        public virtual void SetAttribute(string name, string value)
         {
             if (name != null && value != null)
             {
@@ -434,7 +434,7 @@ namespace AideDeJeuLib
                 }
             }
         }
-        public string GetAttribute(string name)
+        public virtual string GetAttribute(string name)
         {
             if (this.Attributes.Contains(name))
             {
@@ -445,6 +445,6 @@ namespace AideDeJeuLib
 
 
         [DataMember]
-        public string Description { get; set; }
+        public virtual string Description { get; set; }
     }
 }

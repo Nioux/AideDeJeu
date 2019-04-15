@@ -2,7 +2,9 @@
 using AideDeJeuLib;
 using Microsoft.EntityFrameworkCore;
 using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Collections.Specialized;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -16,7 +18,7 @@ namespace AideDeJeu.ViewModels
         public PlayerCharacterEditorViewModel()
         {
             ResetAlignments();
-            Races = new NotifyTaskCompletion<List<RaceItem>>(Task.Run(() => LoadRacesAsync()));
+            Races = new NotifyTaskCompletion<List<RaceItemExpanded>>(Task.Run(() => LoadRacesAsync()));
             Classes = new NotifyTaskCompletion<List<ClassItem>>(Task.Run(() => LoadClassesAsync()));
 
             Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
@@ -147,7 +149,7 @@ namespace AideDeJeu.ViewModels
         #endregion Alignment
 
         #region Race
-        public NotifyTaskCompletion<List<RaceItem>> Races { get; private set; }
+        public NotifyTaskCompletion<List<RaceItemExpanded>> Races { get; private set; }
         private int _RaceSelectedIndex = -1;
         public int RaceSelectedIndex
         {
@@ -164,8 +166,8 @@ namespace AideDeJeu.ViewModels
                 }
             }
         }
-        private RaceItem _SelectedRace = null;
-        public RaceItem SelectedRace
+        private RaceItemExpanded _SelectedRace = null;
+        public RaceItemExpanded SelectedRace
         {
             get
             {
@@ -174,15 +176,120 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _SelectedRace, value);
-                SelectedPlayerCharacter.Race = _SelectedRace;
+                //SelectedPlayerCharacter.Race = _SelectedRace;
             }
         }
 
-        public async Task<List<RaceItem>> LoadRacesAsync()
+        public class RaceItemExpanded : RaceItem
+        {
+            public RaceItem Race { get; set; }
+            public SubRaceItem SubRace { get; set; }
+
+            private RaceItem RaceOrSubRace
+            {
+                get
+                {
+                    return SubRace ?? Race;
+                }
+            }
+            public override string Name
+            {
+                get
+                {
+                    return RaceOrSubRace.Name;
+                }
+            }
+            public override string Description
+            {
+                get
+                {
+                    return RaceOrSubRace.Description;
+                }
+            }
+            public override string NewId
+            {
+                get
+                {
+                    return RaceOrSubRace.NewId;
+                }
+            }
+            public override string Id
+            {
+                get
+                {
+                    return RaceOrSubRace.Id;
+                }
+            }
+            public override string RootId
+            {
+                get
+                {
+                    return RaceOrSubRace.RootId;
+                }
+            }
+
+            public override string AbilityScoreIncrease
+            {
+                get
+                {
+                    if(SubRace?.AbilityScoreIncrease != null)
+                    {
+                        return Race.AbilityScoreIncrease + "\n\n" + SubRace.AbilityScoreIncrease;
+                    }
+                    return Race.AbilityScoreIncrease;
+                }
+            }
+            public override OrderedDictionary Attributes
+            {
+                get
+                {
+                    if(SubRace == null)
+                    {
+                        return Race.Attributes;
+                    }
+                    var dico = new OrderedDictionary();
+                    foreach(DictionaryEntry attr in Race.Attributes)
+                    {
+                        dico[attr.Key] = attr.Value;
+                    }
+                    foreach (DictionaryEntry attr in SubRace.Attributes)
+                    {
+                        dico[attr.Key] = attr.Value;
+                    }
+                    return dico;
+                }
+            }
+
+            public override string Age { get { return Race.Age; } }
+            public override string Alignment { get { return Race.Alignment; } }
+            public override string Size { get { return Race.Size; } }
+            public override string Speed { get { return Race.Speed; } }
+            public override string Darkvision { get { return Race.Darkvision; } }
+            public override string Languages { get { return Race.Languages; } }
+        }
+        public async Task<List<RaceItemExpanded>> LoadRacesAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                return await context.Races.Where(r => !r.HasSubRaces).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync().ConfigureAwait(false);
+                var expandedRaces = new List<RaceItemExpanded>();
+                var races = context.Races.Where(r => r.GetType() == typeof(RaceItem));
+                foreach(var race in races)
+                {
+                    if(race.HasSubRaces)
+                    {
+                        var subraces = context.SubRaces.Where(sr => sr.ParentLink == race.Id);
+                        foreach(var subrace in subraces)
+                        {
+                            expandedRaces.Add(new RaceItemExpanded() { Race = race, SubRace = subrace });
+                        }
+                    }
+                    else
+                    {
+                        expandedRaces.Add(new RaceItemExpanded() { Race = race, SubRace = null });
+                    }
+                }
+                return expandedRaces;
+                //return await context.Races.Where(r => !r.HasSubRaces).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync().ConfigureAwait(false);
             }
         }
         #endregion Race
