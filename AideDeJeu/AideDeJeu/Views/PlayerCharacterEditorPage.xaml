@@ -22,7 +22,7 @@
     <ContentPage Title="Race">
         <ScrollView Orientation="Vertical">
             <StackLayout>
-                <views:ItemPickerView BindingContext="{Binding}" Title="Race" ItemsSource="{Binding Races.Result}" SelectedItem="{Binding SelectedRace, Mode=TwoWay}" />
+                <views:ItemPickerView BindingContext="{Binding}" Title="Race" ItemsSource="{Binding Races.Result}" SelectedItem="{Binding SelectedRace, Mode=TwoWay}" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" />
                 <!--<Picker Title="Race" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" ItemsSource="{Binding Races.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}" />-->
 
                 <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Augmentation de caractéristiques" IsVisible="{Binding SelectedRace.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
