@@ -11,6 +11,14 @@
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </StackLayout.Resources>
+    <StackLayout.Triggers>
+        <DataTrigger TargetType="StackLayout" Binding="{Binding Source={x:Reference this}, Path=IsEnabled}" Value="False">
+            <Setter Property="Opacity" Value="0.5" />
+        </DataTrigger>
+        <DataTrigger TargetType="StackLayout" Binding="{Binding Source={x:Reference this}, Path=IsEnabled}" Value="True">
+            <Setter Property="Opacity" Value="1" />
+        </DataTrigger>
+    </StackLayout.Triggers>
     <Frame BorderColor="Black" Padding="2" Margin="10">
         <Grid>
             <Grid.ColumnDefinitions>

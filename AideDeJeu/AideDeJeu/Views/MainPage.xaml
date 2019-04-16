@@ -16,6 +16,12 @@
                 width: 150;
                 height: 150;
             }
+            grid image {
+                background-color: transparent;
+                padding: 30;
+                width: 150;
+                height: 150;
+            }
             grid label {
                 text-align: center;
                 font-family: LinuxLibertineCapitalsBold;
@@ -38,23 +44,49 @@
             <FlexLayout>
                 <Grid>
                     <Label Text="Personnages" />
-                    <ImageButton Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}"/>
+                    <!--<Image Source="battle_axe.png" Parent="30" />-->
+                    <ImageButton 
+                        HorizontalOptions="Center"
+                        VerticalOptions="CenterAndExpand"
+                        Source="battle_axe.png" 
+                        Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}"/>
+
+                    <!--<Grid.GestureRecognizers>
+                        <ClickGestureRecognizer Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}" />
+                    </Grid.GestureRecognizers>-->
                 </Grid>
                 <Grid>
                     <Label Text="Bibliothèque" />
                     <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand}" />
+                    <Grid.GestureRecognizers>
+                        <ClickGestureRecognizer Command="{Binding Main.Navigator.LibraryCommand}" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.LibraryCommand}" />
+                    </Grid.GestureRecognizers>
                 </Grid>
                 <Grid>
                     <Label Text="Favoris" />
                     <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand}" />
+                    <Grid.GestureRecognizers>
+                        <ClickGestureRecognizer Command="{Binding Main.Navigator.BookmarksCommand}" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.BookmarksCommand}" />
+                    </Grid.GestureRecognizers>
                 </Grid>
                 <Grid>
                     <Label Text="Recherche" />
                     <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
+                    <Grid.GestureRecognizers>
+                        <ClickGestureRecognizer Command="{Binding Main.Navigator.DeepSearchCommand}" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.DeepSearchCommand}" />
+                    </Grid.GestureRecognizers>
                 </Grid>
                 <Grid>
                     <Label Text="A propos de..." />
                     <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
+                    <Grid.GestureRecognizers>
+                        <ClickGestureRecognizer Command="{Binding Main.Navigator.AboutCommand}" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.AboutCommand}" />
+                    </Grid.GestureRecognizers>
                 </Grid>
             </FlexLayout>
         </ScrollView>
