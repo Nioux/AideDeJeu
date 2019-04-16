@@ -38,56 +38,48 @@
             }
             ]]>
         </StyleSheet>
+        <Style TargetType="ImageButton">
+            <Setter Property="VisualStateManager.VisualStateGroups">
+                <VisualStateGroupList>
+                    <VisualStateGroup x:Name="CommonStates">
+                        <VisualState x:Name="Normal">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="1" />
+                            </VisualState.Setters>
+                        </VisualState>
+                        <VisualState x:Name="Pressed">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="0.8" />
+                            </VisualState.Setters>
+                        </VisualState>
+                    </VisualStateGroup>
+                </VisualStateGroupList>
+            </Setter>
+        </Style>
     </ContentPage.Resources>
     <ContentPage.Content>
         <ScrollView>
             <FlexLayout>
-                <Label Text="{Binding Main.DebugCount.Result, StringFormat='Count : {0}'}" TextColor="Red" />
+                <Label Text="{Binding Main.DebugCount.Result, StringFormat='Count : {0}'}" TextColor="Transparent" />
                 <Grid>
                     <Label Text="Personnages" />
-                    <!--<Image Source="battle_axe.png" Parent="30" />-->
-                    <ImageButton 
-                        HorizontalOptions="Center"
-                        VerticalOptions="CenterAndExpand"
-                        Source="battle_axe.png" 
-                        Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}"/>
-
-                    <!--<Grid.GestureRecognizers>
-                        <ClickGestureRecognizer Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}" />
-                        <TapGestureRecognizer Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}" />
-                    </Grid.GestureRecognizers>-->
+                    <ImageButton Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}" />
                 </Grid>
                 <Grid>
                     <Label Text="Bibliothèque" />
                     <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand}" />
-                    <Grid.GestureRecognizers>
-                        <ClickGestureRecognizer Command="{Binding Main.Navigator.LibraryCommand}" />
-                        <TapGestureRecognizer Command="{Binding Main.Navigator.LibraryCommand}" />
-                    </Grid.GestureRecognizers>
                 </Grid>
                 <Grid>
                     <Label Text="Favoris" />
                     <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand}" />
-                    <Grid.GestureRecognizers>
-                        <ClickGestureRecognizer Command="{Binding Main.Navigator.BookmarksCommand}" />
-                        <TapGestureRecognizer Command="{Binding Main.Navigator.BookmarksCommand}" />
-                    </Grid.GestureRecognizers>
                 </Grid>
                 <Grid>
                     <Label Text="Recherche" />
                     <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
-                    <Grid.GestureRecognizers>
-                        <ClickGestureRecognizer Command="{Binding Main.Navigator.DeepSearchCommand}" />
-                        <TapGestureRecognizer Command="{Binding Main.Navigator.DeepSearchCommand}" />
-                    </Grid.GestureRecognizers>
                 </Grid>
                 <Grid>
                     <Label Text="A propos de..." />
                     <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
-                    <Grid.GestureRecognizers>
-                        <ClickGestureRecognizer Command="{Binding Main.Navigator.AboutCommand}" />
-                        <TapGestureRecognizer Command="{Binding Main.Navigator.AboutCommand}" />
-                    </Grid.GestureRecognizers>
                 </Grid>
             </FlexLayout>
         </ScrollView>
