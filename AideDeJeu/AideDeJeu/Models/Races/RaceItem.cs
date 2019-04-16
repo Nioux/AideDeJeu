@@ -2,7 +2,27 @@
 
 namespace AideDeJeuLib
 {
+    interface IRaceItem : IItem
+    {
+        string FullName { get; set; }
+        bool HasSubRaces { get; set; }
 
+        string StrengthBonus { get; set; }
+        string DexterityBonus { get; set; }
+        string ConstitutionBonus { get; set; }
+        string IntelligenceBonus { get; set; }
+        string WisdomBonus { get; set; }
+        string CharismaBonus { get; set; }
+        string AnyAbilityBonus { get; set; }
+
+        string AbilityScoreIncrease { get; set; }
+        string Age { get; set; }
+        string Alignment { get; set; }
+        string Size { get; set; }
+        string Speed { get; set; }
+        string Darkvision { get; set; }
+        string Languages { get; set; }
+    }
     public class RaceItem : Item
     {
         [DataMember]

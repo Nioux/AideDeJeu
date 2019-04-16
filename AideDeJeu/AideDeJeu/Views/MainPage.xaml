@@ -42,6 +42,7 @@
     <ContentPage.Content>
         <ScrollView>
             <FlexLayout>
+                <Label Text="{Binding Main.DebugCount.Result, StringFormat='Count : {0}'}" TextColor="Red" />
                 <Grid>
                     <Label Text="Personnages" />
                     <!--<Image Source="battle_axe.png" Parent="30" />-->

@@ -18,8 +18,12 @@ using YamlDotNet.Serialization.NamingConventions;
 
 namespace AideDeJeuLib
 {
+    interface IItem
+    {
+
+    }
     [DataContract]
-    public class Item //: IList<Item>
+    public class Item : IItem //: IList<Item>
     {
         protected List<Item> _Items;
 

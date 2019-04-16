@@ -29,7 +29,15 @@ namespace AideDeJeu.ViewModels
             get => !_isLoading;
         }
 
+        public NotifyTaskCompletion<int> DebugCount = new NotifyTaskCompletion<int>(Task.Run(() => GetItemsCountAsync()));
 
+        public static async Task<int> GetItemsCountAsync()
+        {
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
+            {
+                return context.Items.Count();
+            }
+        }
         /*
         void AddAnchor(string source, Dictionary<string, Item> anchors, Item item)
         {

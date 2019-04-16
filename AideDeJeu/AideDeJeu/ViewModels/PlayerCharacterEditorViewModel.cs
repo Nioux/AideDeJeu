@@ -18,7 +18,7 @@ namespace AideDeJeu.ViewModels
         public PlayerCharacterEditorViewModel()
         {
             ResetAlignments();
-            Races = new NotifyTaskCompletion<List<RaceItemExpanded>>(Task.Run(() => LoadRacesAsync()));
+            Races = new NotifyTaskCompletion<List<ExpandedRaceItem>>(Task.Run(() => LoadRacesAsync()));
             Classes = new NotifyTaskCompletion<List<ClassItem>>(Task.Run(() => LoadClassesAsync()));
 
             Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
@@ -149,7 +149,7 @@ namespace AideDeJeu.ViewModels
         #endregion Alignment
 
         #region Race
-        public NotifyTaskCompletion<List<RaceItemExpanded>> Races { get; private set; }
+        public NotifyTaskCompletion<List<ExpandedRaceItem>> Races { get; private set; }
         private int _RaceSelectedIndex = -1;
         public int RaceSelectedIndex
         {
@@ -166,8 +166,8 @@ namespace AideDeJeu.ViewModels
                 }
             }
         }
-        private RaceItemExpanded _SelectedRace = null;
-        public RaceItemExpanded SelectedRace
+        private ExpandedRaceItem _SelectedRace = null;
+        public ExpandedRaceItem SelectedRace
         {
             get
             {
@@ -180,53 +180,17 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public class RaceItemExpanded : RaceItem
+        public class ExpandedRaceItem : RaceItem
         {
             public RaceItem Race { get; set; }
             public SubRaceItem SubRace { get; set; }
 
-            private RaceItem RaceOrSubRace
-            {
-                get
-                {
-                    return SubRace ?? Race;
-                }
-            }
-            public override string Name
-            {
-                get
-                {
-                    return RaceOrSubRace.Name;
-                }
-            }
-            public override string Description
-            {
-                get
-                {
-                    return RaceOrSubRace.Description;
-                }
-            }
-            public override string NewId
-            {
-                get
-                {
-                    return RaceOrSubRace.NewId;
-                }
-            }
-            public override string Id
-            {
-                get
-                {
-                    return RaceOrSubRace.Id;
-                }
-            }
-            public override string RootId
-            {
-                get
-                {
-                    return RaceOrSubRace.RootId;
-                }
-            }
+            private RaceItem RaceOrSubRace { get { return SubRace ?? Race; } }
+            public override string Name { get { return RaceOrSubRace.Name; } }
+            public override string Description { get { return RaceOrSubRace.Description; } }
+            public override string NewId { get { return RaceOrSubRace.NewId; } }
+            public override string Id { get { return RaceOrSubRace.Id; } }
+            public override string RootId { get { return RaceOrSubRace.RootId; } }
 
             public override string AbilityScoreIncrease
             {
@@ -267,11 +231,11 @@ namespace AideDeJeu.ViewModels
             public override string Darkvision { get { return Race.Darkvision; } }
             public override string Languages { get { return Race.Languages; } }
         }
-        public async Task<List<RaceItemExpanded>> LoadRacesAsync()
+        public async Task<List<ExpandedRaceItem>> LoadRacesAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                var expandedRaces = new List<RaceItemExpanded>();
+                var expandedRaces = new List<ExpandedRaceItem>();
                 var races = context.Races.Where(r => r.GetType() == typeof(RaceItem));
                 foreach(var race in races)
                 {
@@ -280,12 +244,12 @@ namespace AideDeJeu.ViewModels
                         var subraces = context.SubRaces.Where(sr => sr.ParentLink == race.Id);
                         foreach(var subrace in subraces)
                         {
-                            expandedRaces.Add(new RaceItemExpanded() { Race = race, SubRace = subrace });
+                            expandedRaces.Add(new ExpandedRaceItem() { Race = race, SubRace = subrace });
                         }
                     }
                     else
                     {
-                        expandedRaces.Add(new RaceItemExpanded() { Race = race, SubRace = null });
+                        expandedRaces.Add(new ExpandedRaceItem() { Race = race, SubRace = null });
                     }
                 }
                 return expandedRaces;
@@ -322,6 +286,17 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _SelectedClass, value);
                 SelectedPlayerCharacter.Class = _SelectedClass;
             }
+        }
+
+        public class ExpandedClassItem
+        {
+            public ClassItem Class { get; set; }
+            public SubClassItem SubClass { get; set; }
+            public ClassHitPointsItem HitPoints { get; set; }
+            public ClassProficienciesItem Proficiencies { get; set; }
+            public ClassEquipmentItem Equipment { get; set; }
+            public ClassEvolutionItem Evolution { get; set; }
+            public List<ClassFeatureItem> Features { get; set; }
         }
 
         public async Task<List<ClassItem>> LoadClassesAsync()
