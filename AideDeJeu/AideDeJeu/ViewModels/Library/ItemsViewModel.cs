@@ -85,11 +85,11 @@ namespace AideDeJeu.ViewModels.Library
                 {
                     if (_SelectedItem is LinkItem)
                     {
-                        Main.Navigator.NavigateToLinkAsync("/" + (_SelectedItem as LinkItem).Link);
+                        Main.Navigator.NavigateToLinkAsync("/" + (_SelectedItem as LinkItem).Link).ConfigureAwait(true);
                     }
                     else
                     { 
-                        Main.Navigator.GotoItemDetailPageAsync(_SelectedItem);
+                        Main.Navigator.GotoItemDetailPageAsync(_SelectedItem).ConfigureAwait(true);
                     }
                 }
             }

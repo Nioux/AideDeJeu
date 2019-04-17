@@ -385,13 +385,11 @@
                 }
                 else
                 {
-                    var test = "";
                     // ?
                 }
             }
             else
             {
-                var test = "";
                 // ?
             }
             // ?

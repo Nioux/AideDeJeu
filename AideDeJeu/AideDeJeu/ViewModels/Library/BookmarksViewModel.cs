@@ -17,7 +17,7 @@ namespace AideDeJeu.ViewModels.Library
     {
         public BookmarksViewModel()
         {
-            LoadBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]);
+            LoadBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]).ConfigureAwait(true);
         }
 
         public ObservableCollection<string> BookmarkCollectionNames { get; set; } = new ObservableCollection<string>()
