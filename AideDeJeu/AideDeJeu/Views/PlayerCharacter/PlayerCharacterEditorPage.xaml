@@ -22,31 +22,31 @@
     <ContentPage Title="Race">
         <ScrollView Orientation="Vertical">
             <StackLayout>
-                <views:ItemPickerView BindingContext="{Binding}" Title="Race" ItemsSource="{Binding Races.Result}" SelectedItem="{Binding SelectedRace, Mode=TwoWay}" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" />
+                <views:ItemPickerView BindingContext="{Binding}" Title="Race" ItemsSource="{Binding Races.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Race, Mode=TwoWay}" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" />
                 <!--<Picker Title="Race" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" ItemsSource="{Binding Races.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}" />-->
 
-                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedRace, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" >
+                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Race, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" >
                     <StackLayout Padding="0">
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Augmentation de caractéristiques" IsVisible="{Binding SelectedRace.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.AbilityScoreIncrease}" IsVisible="{Binding SelectedRace.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Augmentation de caractéristiques" IsVisible="{Binding SelectedPlayerCharacter.Race.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.AbilityScoreIncrease}" IsVisible="{Binding SelectedPlayerCharacter.Race.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Âge" IsVisible="{Binding SelectedRace.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Age}" IsVisible="{Binding SelectedRace.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Âge" IsVisible="{Binding SelectedPlayerCharacter.Race.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Age}" IsVisible="{Binding SelectedPlayerCharacter.Race.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Alignement" IsVisible="{Binding SelectedRace.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Alignment}" IsVisible="{Binding SelectedRace.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Alignement" IsVisible="{Binding SelectedPlayerCharacter.Race.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Alignment}" IsVisible="{Binding SelectedPlayerCharacter.Race.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Taille" IsVisible="{Binding SelectedRace.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Size}" IsVisible="{Binding SelectedRace.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Taille" IsVisible="{Binding SelectedPlayerCharacter.Race.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Size}" IsVisible="{Binding SelectedPlayerCharacter.Race.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vitesse" IsVisible="{Binding SelectedRace.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Speed}" IsVisible="{Binding SelectedRace.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vitesse" IsVisible="{Binding SelectedPlayerCharacter.Race.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Speed}" IsVisible="{Binding SelectedPlayerCharacter.Race.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vision dans le noir" IsVisible="{Binding SelectedRace.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Darkvision}" IsVisible="{Binding SelectedRace.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vision dans le noir" IsVisible="{Binding SelectedPlayerCharacter.Race.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Darkvision}" IsVisible="{Binding SelectedPlayerCharacter.Race.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
-                        <StackLayout BindableLayout.ItemsSource="{Binding SelectedRace.AttributesKeyValue}">
+                        <StackLayout BindableLayout.ItemsSource="{Binding SelectedPlayerCharacter.Race.AttributesKeyValue}">
                             <BindableLayout.ItemTemplate>
                                 <DataTemplate>
                                     <StackLayout>
@@ -57,8 +57,8 @@
                             </BindableLayout.ItemTemplate>
                         </StackLayout>
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Langues" IsVisible="{Binding SelectedRace.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Languages}" IsVisible="{Binding SelectedRace.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Langues" IsVisible="{Binding SelectedPlayerCharacter.Race.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Languages}" IsVisible="{Binding SelectedPlayerCharacter.Race.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
                     </StackLayout>
                 </Frame>
@@ -69,9 +69,9 @@
     <ContentPage Title="Classe">
         <ScrollView Orientation="Vertical">
             <StackLayout>
-                <views:ItemPickerView BindingContext="{Binding}" Title="Classe" ItemsSource="{Binding Classes.Result}" SelectedItem="{Binding SelectedClass, Mode=TwoWay}" />
+                <views:ItemPickerView BindingContext="{Binding}" Title="Classe" ItemsSource="{Binding Classes.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Class, Mode=TwoWay}" />
                 <!--<Picker Title="Classe" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Classes.IsSuccessfullyCompleted}" ItemsSource="{Binding Classes.Result}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />-->
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedClass.Markdown}" />
+                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" />
             </StackLayout>
         </ScrollView>
     </ContentPage>

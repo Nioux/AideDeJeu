@@ -19,8 +19,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SetProperty(ref _Alignment, value);
             }
         }
-        private RaceItem _Race = null;
-        public RaceItem Race
+        private RaceViewModel _Race = null;
+        public RaceViewModel Race
         {
             get
             {
@@ -31,8 +31,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SetProperty(ref _Race, value);
             }
         }
-        private ClassItem _Class = null;
-        public ClassItem Class
+        private ClassViewModel _Class = null;
+        public ClassViewModel Class
         {
             get
             {

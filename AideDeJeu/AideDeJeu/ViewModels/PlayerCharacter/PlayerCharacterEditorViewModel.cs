@@ -150,95 +150,21 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
         #region Race
         public NotifyTaskCompletion<List<RaceViewModel>> Races { get; private set; }
-        private int _RaceSelectedIndex = -1;
-        public int RaceSelectedIndex
-        {
-            get
-            {
-                return _RaceSelectedIndex;
-            }
-            set
-            {
-                SetProperty(ref _RaceSelectedIndex, value);
-                if (Races.Result.Count > _RaceSelectedIndex && _RaceSelectedIndex >= 0)
-                {
-                    SelectedRace = Races.Result[_RaceSelectedIndex];
-                }
-            }
-        }
-        private RaceViewModel _SelectedRace = null;
-        public RaceViewModel SelectedRace
-        {
-            get
-            {
-                return _SelectedRace;
-            }
-            set
-            {
-                SetProperty(ref _SelectedRace, value);
-                //SelectedPlayerCharacter.Race = _SelectedRace;
-            }
-        }
 
-        public class RaceViewModel : BaseViewModel
-        {
-            public RaceItem Race { get; set; }
-            public SubRaceItem SubRace { get; set; }
+        //private RaceViewModel _SelectedRace = null;
+        //public RaceViewModel SelectedRace
+        //{
+        //    get
+        //    {
+        //        return _SelectedRace;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SelectedRace, value);
+        //        //SelectedPlayerCharacter.Race = _SelectedRace;
+        //    }
+        //}
 
-            private RaceItem RaceOrSubRace { get { return SubRace ?? Race; } }
-            public string Name { get { return RaceOrSubRace.Name; } }
-            public string Description { get { return RaceOrSubRace.Description; } }
-            public string NewId { get { return RaceOrSubRace.NewId; } }
-            public string Id { get { return RaceOrSubRace.Id; } }
-            public string RootId { get { return RaceOrSubRace.RootId; } }
-
-            public string AbilityScoreIncrease
-            {
-                get
-                {
-                    if(SubRace?.AbilityScoreIncrease != null)
-                    {
-                        return Race.AbilityScoreIncrease + "\n\n" + SubRace.AbilityScoreIncrease;
-                    }
-                    return Race.AbilityScoreIncrease;
-                }
-            }
-            public OrderedDictionary Attributes
-            {
-                get
-                {
-                    if(SubRace == null)
-                    {
-                        return Race.Attributes;
-                    }
-                    var dico = new OrderedDictionary();
-                    foreach(DictionaryEntry attr in Race.Attributes)
-                    {
-                        dico[attr.Key] = attr.Value;
-                    }
-                    foreach (DictionaryEntry attr in SubRace.Attributes)
-                    {
-                        dico[attr.Key] = attr.Value;
-                    }
-                    return dico;
-                }
-            }
-
-            public virtual OrderedDictionary AttributesKeyValue
-            {
-                get
-                {
-                    return AideDeJeuLib.ItemAttribute.ExtractKeyValues(Attributes);
-                }
-            }
-
-            public string Age { get { return Race.Age; } }
-            public string Alignment { get { return Race.Alignment; } }
-            public string Size { get { return Race.Size; } }
-            public string Speed { get { return Race.Speed; } }
-            public string Darkvision { get { return Race.Darkvision; } }
-            public string Languages { get { return Race.Languages; } }
-        }
         public async Task<List<RaceViewModel>> LoadRacesAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
@@ -269,47 +195,32 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         #region Class
         public NotifyTaskCompletion<List<ClassViewModel>> Classes { get; private set; }
 
-        private int _ClassSelectedIndex = -1;
-        public int ClassSelectedIndex
-        {
-            get
-            {
-                return _ClassSelectedIndex;
-            }
-            set
-            {
-                SetProperty(ref _ClassSelectedIndex, value);
-                SelectedClass = Classes.Result[_ClassSelectedIndex];
-            }
-        }
-        private ClassViewModel _SelectedClass = null;
-        public ClassViewModel SelectedClass
-        {
-            get
-            {
-                return _SelectedClass;
-            }
-            set
-            {
-                SetProperty(ref _SelectedClass, value);
-                //SelectedPlayerCharacter.Class = _SelectedClass;
-            }
-        }
-
-        public class ClassViewModel : BaseViewModel
-        {
-            public ClassItem Class { get; set; }
-            public SubClassItem SubClass { get; set; }
-            public ClassHitPointsItem HitPoints { get; set; }
-            public ClassProficienciesItem Proficiencies { get; set; }
-            public ClassEquipmentItem Equipment { get; set; }
-            public ClassEvolutionItem Evolution { get; set; }
-            public List<ClassFeatureItem> Features { get; set; }
-
-            public string Name { get { return Class?.Name; } }
-            public string Description { get { return Class?.Description; } }
-            public string Markdown { get { return Class?.Markdown; } }
-        }
+        //private int _ClassSelectedIndex = -1;
+        //public int ClassSelectedIndex
+        //{
+        //    get
+        //    {
+        //        return _ClassSelectedIndex;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _ClassSelectedIndex, value);
+        //        SelectedClass = Classes.Result[_ClassSelectedIndex];
+        //    }
+        //}
+        //private ClassViewModel _SelectedClass = null;
+        //public ClassViewModel SelectedClass
+        //{
+        //    get
+        //    {
+        //        return _SelectedClass;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SelectedClass, value);
+        //        //SelectedPlayerCharacter.Class = _SelectedClass;
+        //    }
+        //}
 
         public async Task<List<ClassViewModel>> LoadClassesAsync()
         {
