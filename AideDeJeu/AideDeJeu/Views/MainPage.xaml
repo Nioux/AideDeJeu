@@ -34,7 +34,12 @@
                 align-items: start;
                 flex-direction: row;
                 direction: ltr;
-                justify-content: spaceevenly;
+                justify-content: center;
+            }            
+            frame {
+                border-color: black;
+                padding: 2;
+                margin: 10;
             }
             ]]>
         </StyleSheet>
@@ -61,26 +66,36 @@
         <ScrollView>
             <FlexLayout>
                 <Label Text="{Binding Main.DebugCount.Result, StringFormat='Count : {0}'}" TextColor="Transparent" />
-                <Grid>
-                    <Label Text="Personnages" />
-                    <ImageButton Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}" />
-                </Grid>
-                <Grid>
-                    <Label Text="Bibliothèque" />
-                    <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand}" />
-                </Grid>
-                <Grid>
-                    <Label Text="Favoris" />
-                    <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand}" />
-                </Grid>
-                <Grid>
-                    <Label Text="Recherche" />
-                    <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
-                </Grid>
-                <Grid>
-                    <Label Text="A propos de..." />
-                    <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
-                </Grid>
+                <Frame>
+                    <Grid>
+                        <Label Text="Personnages" />
+                        <ImageButton Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}" />
+                    </Grid>
+                </Frame>
+                <Frame>
+                    <Grid>
+                        <Label Text="Bibliothèque" />
+                        <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand}" />
+                    </Grid>
+                </Frame>
+                <Frame>
+                    <Grid>
+                        <Label Text="Favoris" />
+                        <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand}" />
+                    </Grid>
+                </Frame>
+                <Frame>
+                    <Grid>
+                        <Label Text="Recherche" />
+                        <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
+                    </Grid>
+                </Frame>
+                <Frame>
+                    <Grid>
+                        <Label Text="A propos de..." />
+                        <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
+                    </Grid>
+                </Frame>
             </FlexLayout>
         </ScrollView>
     </ContentPage.Content>
