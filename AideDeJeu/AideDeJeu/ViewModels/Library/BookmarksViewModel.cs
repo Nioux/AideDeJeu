@@ -11,7 +11,7 @@ using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Internals;
 
-namespace AideDeJeu.ViewModels
+namespace AideDeJeu.ViewModels.Library
 {
     public class BookmarksViewModel : BaseViewModel
     {

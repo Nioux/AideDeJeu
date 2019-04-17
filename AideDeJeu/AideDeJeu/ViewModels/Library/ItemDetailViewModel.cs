@@ -1,6 +1,6 @@
 ﻿using AideDeJeuLib;
 
-namespace AideDeJeu.ViewModels
+namespace AideDeJeu.ViewModels.Library
 {
     public class ItemDetailViewModel : BaseViewModel
     {

@@ -11,14 +11,14 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
 
-namespace AideDeJeu.ViewModels
+namespace AideDeJeu.ViewModels.PlayerCharacter
 {
     public class PlayerCharacterEditorViewModel : BaseViewModel
     {
         public PlayerCharacterEditorViewModel()
         {
             ResetAlignments();
-            Races = new NotifyTaskCompletion<List<ExpandedRaceItem>>(Task.Run(() => LoadRacesAsync()));
+            Races = new NotifyTaskCompletion<List<RaceViewModel>>(Task.Run(() => LoadRacesAsync()));
             Classes = new NotifyTaskCompletion<List<ClassItem>>(Task.Run(() => LoadClassesAsync()));
 
             Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
@@ -149,7 +149,7 @@ namespace AideDeJeu.ViewModels
         #endregion Alignment
 
         #region Race
-        public NotifyTaskCompletion<List<ExpandedRaceItem>> Races { get; private set; }
+        public NotifyTaskCompletion<List<RaceViewModel>> Races { get; private set; }
         private int _RaceSelectedIndex = -1;
         public int RaceSelectedIndex
         {
@@ -166,8 +166,8 @@ namespace AideDeJeu.ViewModels
                 }
             }
         }
-        private ExpandedRaceItem _SelectedRace = null;
-        public ExpandedRaceItem SelectedRace
+        private RaceViewModel _SelectedRace = null;
+        public RaceViewModel SelectedRace
         {
             get
             {
@@ -180,19 +180,19 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public class ExpandedRaceItem : RaceItem
+        public class RaceViewModel : BaseViewModel
         {
             public RaceItem Race { get; set; }
             public SubRaceItem SubRace { get; set; }
 
             private RaceItem RaceOrSubRace { get { return SubRace ?? Race; } }
-            public override string Name { get { return RaceOrSubRace.Name; } }
-            public override string Description { get { return RaceOrSubRace.Description; } }
-            public override string NewId { get { return RaceOrSubRace.NewId; } }
-            public override string Id { get { return RaceOrSubRace.Id; } }
-            public override string RootId { get { return RaceOrSubRace.RootId; } }
+            public string Name { get { return RaceOrSubRace.Name; } }
+            public string Description { get { return RaceOrSubRace.Description; } }
+            public string NewId { get { return RaceOrSubRace.NewId; } }
+            public string Id { get { return RaceOrSubRace.Id; } }
+            public string RootId { get { return RaceOrSubRace.RootId; } }
 
-            public override string AbilityScoreIncrease
+            public string AbilityScoreIncrease
             {
                 get
                 {
@@ -203,7 +203,7 @@ namespace AideDeJeu.ViewModels
                     return Race.AbilityScoreIncrease;
                 }
             }
-            public override OrderedDictionary Attributes
+            public OrderedDictionary Attributes
             {
                 get
                 {
@@ -224,18 +224,26 @@ namespace AideDeJeu.ViewModels
                 }
             }
 
-            public override string Age { get { return Race.Age; } }
-            public override string Alignment { get { return Race.Alignment; } }
-            public override string Size { get { return Race.Size; } }
-            public override string Speed { get { return Race.Speed; } }
-            public override string Darkvision { get { return Race.Darkvision; } }
-            public override string Languages { get { return Race.Languages; } }
+            public virtual OrderedDictionary AttributesKeyValue
+            {
+                get
+                {
+                    return AideDeJeuLib.ItemAttribute.ExtractKeyValues(Attributes);
+                }
+            }
+
+            public string Age { get { return Race.Age; } }
+            public string Alignment { get { return Race.Alignment; } }
+            public string Size { get { return Race.Size; } }
+            public string Speed { get { return Race.Speed; } }
+            public string Darkvision { get { return Race.Darkvision; } }
+            public string Languages { get { return Race.Languages; } }
         }
-        public async Task<List<ExpandedRaceItem>> LoadRacesAsync()
+        public async Task<List<RaceViewModel>> LoadRacesAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                var expandedRaces = new List<ExpandedRaceItem>();
+                var expandedRaces = new List<RaceViewModel>();
                 var races = context.Races.Where(r => r.GetType() == typeof(RaceItem));
                 foreach(var race in races)
                 {
@@ -244,12 +252,12 @@ namespace AideDeJeu.ViewModels
                         var subraces = context.SubRaces.Where(sr => sr.ParentLink == race.Id);
                         foreach(var subrace in subraces)
                         {
-                            expandedRaces.Add(new ExpandedRaceItem() { Race = race, SubRace = subrace });
+                            expandedRaces.Add(new RaceViewModel() { Race = race, SubRace = subrace });
                         }
                     }
                     else
                     {
-                        expandedRaces.Add(new ExpandedRaceItem() { Race = race, SubRace = null });
+                        expandedRaces.Add(new RaceViewModel() { Race = race, SubRace = null });
                     }
                 }
                 return expandedRaces.OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToList();

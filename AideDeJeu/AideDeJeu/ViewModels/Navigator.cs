@@ -1,4 +1,5 @@
 ﻿using AideDeJeu.Tools;
+using AideDeJeu.ViewModels.Library;
 using AideDeJeu.Views;
 using AideDeJeuLib;
 using Rg.Plugins.Popup.Services;

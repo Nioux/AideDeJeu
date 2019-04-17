@@ -1,4 +1,5 @@
 ﻿using AideDeJeu.ViewModels;
+using AideDeJeu.ViewModels.Library;
 using System;
 using System.Collections.Generic;
 using System.Text;

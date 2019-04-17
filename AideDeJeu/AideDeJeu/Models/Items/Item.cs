@@ -1,5 +1,6 @@
 ﻿using AideDeJeu.Tools;
 using AideDeJeu.ViewModels;
+using AideDeJeu.ViewModels.Library;
 using SQLite;
 using System;
 using System.Collections.Generic;
@@ -349,16 +350,6 @@ namespace AideDeJeuLib
             return $"{Name} ({NewId})";
         }
 
-        public class Attribute
-        {
-            public Attribute(string key, string value)
-            {
-                Key = key;
-                Value = value;
-            }
-            public string Key { get; set; }
-            public string Value { get; set; }
-        }
         [NotMapped]
         [IgnoreDataMember]
         public virtual OrderedDictionary Attributes { get; set; } = new OrderedDictionary();
@@ -367,19 +358,7 @@ namespace AideDeJeuLib
         {
             get
             {
-                var dico = new OrderedDictionary();
-                foreach (string akey in Attributes.Keys)
-                {
-                    if (akey.EndsWith("Key"))
-                    {
-                        var key = akey.Substring(0, akey.Length - 3);
-                        if (Attributes.Contains(key + "Value"))
-                        {
-                            dico[key] = new Attribute(Attributes[key + "Key"] as string, Attributes[key + "Value"] as string);
-                        }
-                    }
-                }
-                return dico;
+                return ItemAttribute.ExtractKeyValues(Attributes);
             }
         }
 

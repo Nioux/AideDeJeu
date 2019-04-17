@@ -5,6 +5,7 @@ using System.Runtime.Serialization;
 using System.Text;
 using YamlDotNet.Serialization;
 using System.Linq;
+using AideDeJeu.ViewModels.Library;
 
 namespace AideDeJeuLib
 {

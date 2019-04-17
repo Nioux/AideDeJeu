@@ -49,16 +49,16 @@ namespace AideDeJeu.Views
             typeof(ItemPickerView),
             defaultValue: default(string));
 
-        public Item SelectedItem
+        public object SelectedItem
         {
-            get { return (Item)GetValue(SelectedItemProperty); }
+            get { return (object)GetValue(SelectedItemProperty); }
             set { SetValue(SelectedItemProperty, value); }
         }
         public static readonly BindableProperty SelectedItemProperty = BindableProperty.Create(
             nameof(SelectedItem), 
-            typeof(Item), 
+            typeof(object), 
             typeof(ItemPickerView), 
-            defaultValue: default(Item), 
+            defaultValue: default(object), 
             defaultBindingMode: BindingMode.TwoWay);
 
         public System.Collections.IEnumerable ItemsSource
@@ -85,7 +85,7 @@ namespace AideDeJeu.Views
                 return new Command<System.Collections.IList>(async (items) => SelectedItem = await ExecuteItemPickerCommandAsync(items));
             }
         }
-        private async Task<Item> ExecuteItemPickerCommandAsync(System.Collections.IEnumerable items)
+        private async Task<object> ExecuteItemPickerCommandAsync(System.Collections.IEnumerable items)
         {
             var picker = new Views.ItemPicker();
             var vm = picker.ViewModel;

@@ -1,4 +1,5 @@
 ﻿using AideDeJeu.ViewModels;
+using AideDeJeu.ViewModels.Library;
 
 namespace AideDeJeuLib
 {

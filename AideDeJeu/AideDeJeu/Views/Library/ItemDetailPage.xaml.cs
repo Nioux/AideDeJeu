@@ -1,5 +1,6 @@
 ﻿
 using AideDeJeu.ViewModels;
+using AideDeJeu.ViewModels.Library;
 using AideDeJeuLib;
 using SkiaSharp;
 using SkiaSharp.Views.Forms;

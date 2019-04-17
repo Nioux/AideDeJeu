@@ -14,7 +14,7 @@ namespace AideDeJeu.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ItemPicker : ContentPage
     {
-        public PickerViewModel<Item> ViewModel { get; set; } = new PickerViewModel<Item>();
+        public PickerViewModel<object> ViewModel { get; set; } = new PickerViewModel<object>();
         public ItemPicker()
         {
             InitializeComponent();

@@ -1,4 +1,5 @@
 ﻿using AideDeJeu.ViewModels;
+using AideDeJeu.ViewModels.PlayerCharacter;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,4 +1,5 @@
 ﻿using AideDeJeu.ViewModels;
+using AideDeJeu.ViewModels.Library;
 using System;
 using System.Linq;
 using Xamarin.Forms;
@@ -7,9 +8,9 @@ using Xamarin.Forms.Xaml;
 namespace AideDeJeu.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class ItemsPage : ContentPage
+	public partial class FilteredItemsPage : MasterDetailPage
     {
-        public MainViewModel Main
+        MainViewModel Main
         {
             get
             {
@@ -25,15 +26,13 @@ namespace AideDeJeu.Views
                 return _ItemsViewModel;
             }
         }
-        public ItemsPage (ItemsViewModel itemsViewModel)
+        public FilteredItemsPage (ItemsViewModel itemsViewModel)
 		{
-			InitializeComponent ();
+			InitializeComponent();
 
             BindingContext = _ItemsViewModel = itemsViewModel;
-
-            //mdMarkdown.NavigateToLink = async (s) => await itemsViewModel.Main.Navigator.NavigateToLinkAsync(s);
         }
-        public ItemsPage()
+        public FilteredItemsPage()
         {
             InitializeComponent();
 
@@ -44,6 +43,11 @@ namespace AideDeJeu.Views
         {
             if (e.Item == null) return;
             ((ListView)sender).SelectedItem = null;
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            this.IsPresented = !this.IsPresented;
         }
     }
 }

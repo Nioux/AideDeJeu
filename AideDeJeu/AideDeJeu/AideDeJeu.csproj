@@ -50,22 +50,22 @@
     <Compile Update="Views\AboutPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\ItemDetailPage.xaml.cs">
+    <Compile Update="Views\Library\ItemDetailPage.xaml.cs">
       <DependentUpon>ItemDetailPage.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\FilteredItemsPage.xaml.cs">
+    <Compile Update="Views\Library\FilteredItemsPage.xaml.cs">
       <DependentUpon>FilteredItemsPage.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\ItemsPage.xaml.cs">
+    <Compile Update="Views\Library\ItemsPage.xaml.cs">
       <DependentUpon>ItemsPage.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\MainTabbedPage.xaml.cs">
+    <Compile Update="Views\Library\MainTabbedPage.xaml.cs">
       <DependentUpon>MainTabbedPage.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\ItemPicker.xaml.cs">
+    <Compile Update="Views\PlayerCharacter\ItemPicker.xaml.cs">
       <DependentUpon>ItemPicker.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\ItemPickerView.xaml.cs">
+    <Compile Update="Views\PlayerCharacter\ItemPickerView.xaml.cs">
       <DependentUpon>ItemPickerView.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
@@ -85,10 +85,10 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resource.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\BookmarksPage.xaml">
+    <EmbeddedResource Update="Views\Library\BookmarksPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\DeepSearchPage.xaml">
+    <EmbeddedResource Update="Views\Library\DeepSearchPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
@@ -100,16 +100,16 @@
     <EmbeddedResource Update="Views\MainShell.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\MainTabbedPage.xaml">
+    <EmbeddedResource Update="Views\Library\MainTabbedPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\PlayerCharacterEditorPage.xaml">
+    <EmbeddedResource Update="Views\PlayerCharacter\PlayerCharacterEditorPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\StringPicker.xaml">
+    <EmbeddedResource Update="Views\PlayerCharacter\StringPicker.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\StringPickerView.xaml">
+    <EmbeddedResource Update="Views\PlayerCharacter\StringPickerView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\TextInputCancellableView.xaml">

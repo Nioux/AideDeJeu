@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace AideDeJeu.ViewModels
+namespace AideDeJeu.ViewModels.Library
 {
     public abstract class FilterViewModel : BaseViewModel
     {

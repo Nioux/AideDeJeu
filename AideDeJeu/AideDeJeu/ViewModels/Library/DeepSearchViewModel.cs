@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
 
-namespace AideDeJeu.ViewModels
+namespace AideDeJeu.ViewModels.Library
 {
     public class DeepSearchViewModel : BaseViewModel
     {

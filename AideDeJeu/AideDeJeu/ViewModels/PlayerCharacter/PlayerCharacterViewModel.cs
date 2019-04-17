@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace AideDeJeu.ViewModels
+namespace AideDeJeu.ViewModels.PlayerCharacter
 {
     public class PlayerCharacterViewModel : BaseViewModel
     {
