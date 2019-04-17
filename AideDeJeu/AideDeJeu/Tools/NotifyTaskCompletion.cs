@@ -6,19 +6,21 @@ namespace AideDeJeu.Tools
 {
     public class NotifyTaskCompletion<TResult> : INotifyPropertyChanged
     {
-        public NotifyTaskCompletion(Task<TResult> task)
+        private bool ContinueOnCapturedContext = false;
+        public NotifyTaskCompletion(Task<TResult> task, bool continueOnCapturedContext = false)
         {
             Task = task;
+            ContinueOnCapturedContext = continueOnCapturedContext;
             if (task != null && !task.IsCompleted)
             {
-                var _ = WatchTaskAsync(task);
+                var _ = WatchTaskAsync(task, continueOnCapturedContext);
             }
         }
-        private async Task WatchTaskAsync(Task task)
+        private async Task WatchTaskAsync(Task task, bool continueOnCapturedContext = false)
         {
             try
             {
-                await task.ConfigureAwait(false);
+                await task.ConfigureAwait(continueOnCapturedContext);
             }
             catch
             {

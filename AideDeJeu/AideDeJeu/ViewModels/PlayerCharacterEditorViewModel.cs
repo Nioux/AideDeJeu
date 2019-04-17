@@ -252,7 +252,7 @@ namespace AideDeJeu.ViewModels
                         expandedRaces.Add(new ExpandedRaceItem() { Race = race, SubRace = null });
                     }
                 }
-                return expandedRaces;
+                return expandedRaces.OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToList();
                 //return await context.Races.Where(r => !r.HasSubRaces).OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync().ConfigureAwait(false);
             }
         }

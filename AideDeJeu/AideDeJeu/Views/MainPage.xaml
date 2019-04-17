@@ -65,7 +65,26 @@
     <ContentPage.Content>
         <ScrollView>
             <FlexLayout>
+                <!--<ActivityIndicator 
+                            VerticalOptions="StartAndExpand"
+                            HorizontalOptions="End"
+                            Color="{StaticResource HDRed}"
+                            IsVisible="{Binding Main.Navigator.TestNotify.IsNotCompleted, FallbackValue=False}" IsRunning="{Binding Main.Navigator.TestNotify.IsNotCompleted, FallbackValue=False}" >
+                    <ActivityIndicator.WidthRequest>
+                        <OnPlatform x:TypeArguments="x:Double">
+                            <On Platform="UWP" Value="400" />
+                            <On Platform="iOS, Android" Value="50" />
+                        </OnPlatform>
+                    </ActivityIndicator.WidthRequest>
+                    <ActivityIndicator.HeightRequest>
+                        <OnPlatform x:TypeArguments="x:Double">
+                            <On Platform="UWP" Value="10" />
+                            <On Platform="iOS, Android" Value="50" />
+                        </OnPlatform>
+                    </ActivityIndicator.HeightRequest>
+                </ActivityIndicator>-->
                 <Label Text="{Binding Main.DebugCount.Result, StringFormat='Count : {0}'}" TextColor="Transparent" />
+                <!--<Label Text="{Binding Main.Navigator.TestNotify}" TextColor="Transparent" />-->
                 <Frame>
                     <Grid>
                         <Label Text="Personnages" />

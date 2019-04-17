@@ -1,4 +1,5 @@
-﻿using AideDeJeu.Views;
+﻿using AideDeJeu.Tools;
+using AideDeJeu.Views;
 using AideDeJeuLib;
 using Rg.Plugins.Popup.Services;
 using System;
@@ -48,10 +49,31 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        //private NotifyTaskCompletion<bool> _TestNotify = null;
+        //public NotifyTaskCompletion<bool> TestNotify
+        //{
+        //    get
+        //    {
+        //        return _TestNotify;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _TestNotify, value);
+        //    }
+        //}
+
+        //public async Task<bool> TestGotoAsync()
+        //{
+        //    var page = new Views.MainTabbedPage();
+        //    Device.BeginInvokeOnMainThread(async() => 
+        //    await Navigation.PushAsync(page, true));
+        //    return true;
+        //}
         public async Task GotoLibraryPageAsync()
         {
             //await Navigation.PushAsync(new Views.ItemDetailPage(),true);
             await Navigation.PushAsync(new Views.MainTabbedPage(), true);
+            //TestNotify = new NotifyTaskCompletion<bool>(TestGotoAsync(), true);
         }
 
         private Command _BookmarksCommand = null;
