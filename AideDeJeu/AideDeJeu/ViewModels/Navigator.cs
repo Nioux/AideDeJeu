@@ -50,7 +50,8 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoLibraryPageAsync()
         {
-            await Navigation.PushAsync(new Views.ItemDetailPage(),true);
+            //await Navigation.PushAsync(new Views.ItemDetailPage(),true);
+            await Navigation.PushAsync(new Views.MainTabbedPage(), true);
         }
 
         private Command _BookmarksCommand = null;

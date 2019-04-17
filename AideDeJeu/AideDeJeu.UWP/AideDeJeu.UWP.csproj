@@ -185,6 +185,14 @@
     <Content Include="trash_can.png" />
     <Content Include="wooden_sign.png" />
     <Content Include="xamarin_logo.png" />
+    <Content Include="d4.png" />
+    <Content Include="d6.png" />
+    <Content Include="d8.png" />
+    <Content Include="d10.png" />
+    <Content Include="d12.png" />
+    <Content Include="d20.png" />
+    <Content Include="cubes.png" />
+    <Content Include="rolling_dice_cup.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

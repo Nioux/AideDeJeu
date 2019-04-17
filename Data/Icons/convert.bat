@@ -23,9 +23,26 @@ call convertone.bat trash_can trash-can
 
 rem call convertone.bat battle_axe battle-axe
 
+call convertone.bat click click
+
 :nouveau
 rem call convertmain.bat battle_axe.png battle-axe.svg
 
-call convertone.bat click click
+call convertone.bat d4 d4
+
+call convertone.bat d6 d6
+
+call convertone.bat d8 d8
+
+call convertone.bat d10 d10
+
+call convertone.bat d12 d12
+
+call convertone.bat d20 d20
+
+call convertone.bat cubes cubes
+
+call convertone.bat rolling_dice_cup rolling-dice-cup
+
 
 pause

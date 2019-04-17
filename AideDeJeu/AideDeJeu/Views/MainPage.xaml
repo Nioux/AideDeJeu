@@ -74,11 +74,17 @@
                 </Frame>
                 <Frame>
                     <Grid>
+                        <Label Text="Dés" />
+                        <ImageButton Source="d20.png" Command="{Binding Main.Navigator.DicesCommand}" />
+                    </Grid>
+                </Frame>
+                <Frame>
+                    <Grid>
                         <Label Text="Bibliothèque" />
                         <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand}" />
                     </Grid>
                 </Frame>
-                <Frame>
+                <!--<Frame>
                     <Grid>
                         <Label Text="Favoris" />
                         <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand}" />
@@ -89,7 +95,7 @@
                         <Label Text="Recherche" />
                         <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
                     </Grid>
-                </Frame>
+                </Frame>-->
                 <Frame>
                     <Grid>
                         <Label Text="A propos de..." />
