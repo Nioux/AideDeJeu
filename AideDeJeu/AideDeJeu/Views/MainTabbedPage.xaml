@@ -8,10 +8,10 @@
     x:Class="AideDeJeu.Views.MainTabbedPage"
     Padding="0"
     IsEnabled="{Binding Main.IsEnabled}"
-    android:TabbedPage.ToolbarPlacement="Bottom"
+    SelectedTabColor="{StaticResource HDRed}"
+    UnselectedTabColor="{StaticResource HDMidGrey}"
     android:TabbedPage.IsSwipePagingEnabled="False"
-    android:TabbedPage.BarItemColor="{StaticResource HDMidGrey}"
-    android:TabbedPage.BarSelectedItemColor="{StaticResource HDRed}"
+    android:TabbedPage.ToolbarPlacement="Bottom"
     windows:TabbedPage.HeaderIconsEnabled="true">
     <windows:TabbedPage.HeaderIconsSize>
         <Size>
@@ -21,21 +21,21 @@
             </x:Arguments>
         </Size>
     </windows:TabbedPage.HeaderIconsSize>
-    <views:MainNavigationPage x:Name="NavigationPage" Title="Bibliothèque" Icon="spell_book.png">
-        <x:Arguments>
+    <views:ItemDetailPage x:Name="NavigationPage" Title="Bibliothèque" Icon="spell_book.png">
+        <!--<x:Arguments>
             <views:ItemDetailPage />
-        </x:Arguments>
-    </views:MainNavigationPage>
-    <views:MainNavigationPage Title="Favoris" Icon="stars_stack.png">
-        <x:Arguments>
+        </x:Arguments>-->
+    </views:ItemDetailPage>
+    <views:BookmarksPage Title="Favoris" Icon="stars_stack.png">
+        <!--<x:Arguments>
             <views:BookmarksPage />
-        </x:Arguments>
-    </views:MainNavigationPage>
-    <views:MainNavigationPage Title="Recherche" Icon="crystal_ball.png">
-        <x:Arguments>
+        </x:Arguments>-->
+    </views:BookmarksPage>
+    <views:DeepSearchPage Title="Recherche" Icon="crystal_ball.png">
+        <!--<x:Arguments>
             <views:DeepSearchPage />
-        </x:Arguments>
-    </views:MainNavigationPage>
-    <views:AboutPage Title="À propos de..." Icon="wooden_sign.png">
-    </views:AboutPage>
+        </x:Arguments>-->
+    </views:DeepSearchPage>
+    <!--<views:AboutPage Title="À propos de..." Icon="wooden_sign.png">
+    </views:AboutPage>-->
 </TabbedPage>

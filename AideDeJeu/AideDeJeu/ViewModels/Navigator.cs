@@ -132,7 +132,7 @@ namespace AideDeJeu.ViewModels
         public async Task ExecuteAddToFavoritesCommandAsync()
         {
             var tabbedPage = App.Current.MainPage as MainTabbedPage;
-            var navigationPage = tabbedPage.MainNavigationPage;
+            var navigationPage = tabbedPage; //.MainNavigationPage;
             var lastPage = navigationPage.Navigation.NavigationStack.LastOrDefault();
             var context = lastPage.BindingContext;
             Item item = null;
@@ -189,7 +189,7 @@ namespace AideDeJeu.ViewModels
             if (tabbedPage != null)
             {
                 tabbedPage.SelectedItem = null;
-                tabbedPage.SelectedItem = tabbedPage.MainNavigationPage;
+                tabbedPage.SelectedItem = tabbedPage; //.MainNavigationPage;
             }
         }
 
