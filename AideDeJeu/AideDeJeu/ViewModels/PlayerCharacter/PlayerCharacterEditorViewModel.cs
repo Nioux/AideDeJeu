@@ -19,7 +19,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         {
             ResetAlignments();
             Races = new NotifyTaskCompletion<List<RaceViewModel>>(Task.Run(() => LoadRacesAsync()));
-            Classes = new NotifyTaskCompletion<List<ClassItem>>(Task.Run(() => LoadClassesAsync()));
+            Classes = new NotifyTaskCompletion<List<ClassViewModel>>(Task.Run(() => LoadClassesAsync()));
 
             Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
             SelectedBackground = null;
@@ -267,7 +267,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         #endregion Race
 
         #region Class
-        public NotifyTaskCompletion<List<ClassItem>> Classes { get; private set; }
+        public NotifyTaskCompletion<List<ClassViewModel>> Classes { get; private set; }
 
         private int _ClassSelectedIndex = -1;
         public int ClassSelectedIndex
@@ -282,8 +282,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SelectedClass = Classes.Result[_ClassSelectedIndex];
             }
         }
-        private ClassItem _SelectedClass = null;
-        public ClassItem SelectedClass
+        private ClassViewModel _SelectedClass = null;
+        public ClassViewModel SelectedClass
         {
             get
             {
@@ -292,11 +292,11 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SelectedClass, value);
-                SelectedPlayerCharacter.Class = _SelectedClass;
+                //SelectedPlayerCharacter.Class = _SelectedClass;
             }
         }
 
-        public class ExpandedClassItem
+        public class ClassViewModel : BaseViewModel
         {
             public ClassItem Class { get; set; }
             public SubClassItem SubClass { get; set; }
@@ -305,13 +305,17 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             public ClassEquipmentItem Equipment { get; set; }
             public ClassEvolutionItem Evolution { get; set; }
             public List<ClassFeatureItem> Features { get; set; }
+
+            public string Name { get { return Class?.Name; } }
+            public string Description { get { return Class?.Description; } }
+            public string Markdown { get { return Class?.Markdown; } }
         }
 
-        public async Task<List<ClassItem>> LoadClassesAsync()
+        public async Task<List<ClassViewModel>> LoadClassesAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                return await context.Classes.Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).ToListAsync().ConfigureAwait(false);
+                return await context.Classes.Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).Select(c => new ClassViewModel() { Class = c }).ToListAsync().ConfigureAwait(false);
             }
         }
         #endregion Class
