@@ -3,9 +3,11 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:views="clr-namespace:AideDeJeu.Views"
+    xmlns:libviews="clr-namespace:AideDeJeu.Views.Library"
+    xmlns:pcviews="clr-namespace:AideDeJeu.Views.PlayerCharacter"
     xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
     xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
-    x:Class="AideDeJeu.Views.MainTabbedPage"
+    x:Class="AideDeJeu.Views.Library.MainTabbedPage"
     Padding="0"
     IsEnabled="{Binding Main.IsEnabled}"
     SelectedTabColor="{StaticResource HDRed}"
@@ -21,21 +23,21 @@
             </x:Arguments>
         </Size>
     </windows:TabbedPage.HeaderIconsSize>
-    <views:ItemDetailPage x:Name="NavigationPage" Title="Bibliothèque" Icon="spell_book.png">
+    <libviews:ItemDetailPage x:Name="NavigationPage" Title="Bibliothèque" Icon="spell_book.png">
         <!--<x:Arguments>
             <views:ItemDetailPage />
         </x:Arguments>-->
-    </views:ItemDetailPage>
-    <views:BookmarksPage Title="Favoris" Icon="stars_stack.png">
+    </libviews:ItemDetailPage>
+    <libviews:BookmarksPage Title="Favoris" Icon="stars_stack.png">
         <!--<x:Arguments>
             <views:BookmarksPage />
         </x:Arguments>-->
-    </views:BookmarksPage>
-    <views:DeepSearchPage Title="Recherche" Icon="crystal_ball.png">
+    </libviews:BookmarksPage>
+    <libviews:DeepSearchPage Title="Recherche" Icon="crystal_ball.png">
         <!--<x:Arguments>
             <views:DeepSearchPage />
         </x:Arguments>-->
-    </views:DeepSearchPage>
+    </libviews:DeepSearchPage>
     <!--<views:AboutPage Title="À propos de..." Icon="wooden_sign.png">
     </views:AboutPage>-->
 </TabbedPage>

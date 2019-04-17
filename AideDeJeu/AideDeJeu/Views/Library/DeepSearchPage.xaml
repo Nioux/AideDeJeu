@@ -2,7 +2,7 @@
 <ContentPage 
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    x:Class="AideDeJeu.Views.DeepSearchPage"
+    x:Class="AideDeJeu.Views.Library.DeepSearchPage"
     xmlns:tools="clr-namespace:AideDeJeu.Tools" 
     xmlns:properties="clr-namespace:AideDeJeu.Properties"
     x:Name="This" 

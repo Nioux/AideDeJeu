@@ -1,6 +1,7 @@
 ﻿using AideDeJeu.Tools;
 using AideDeJeu.ViewModels.Library;
 using AideDeJeu.Views;
+using AideDeJeu.Views.Library;
 using AideDeJeuLib;
 using Rg.Plugins.Popup.Services;
 using System;
@@ -73,7 +74,7 @@ namespace AideDeJeu.ViewModels
         public async Task GotoLibraryPageAsync()
         {
             //await Navigation.PushAsync(new Views.ItemDetailPage(),true);
-            await Navigation.PushAsync(new Views.MainTabbedPage(), true);
+            await Navigation.PushAsync(new Views.Library.MainTabbedPage(), true);
             //TestNotify = new NotifyTaskCompletion<bool>(TestGotoAsync(), true);
         }
 
@@ -88,7 +89,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoBookmarksPageAsync()
         {
-            await Navigation.PushAsync(new Views.BookmarksPage(), true);
+            await Navigation.PushAsync(new Views.Library.BookmarksPage(), true);
         }
 
 
@@ -104,7 +105,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoPlayerCharacterEditorPageAsync()
         {
-            await Navigation.PushAsync(new Views.PlayerCharacterEditorPage(), true);
+            await Navigation.PushAsync(new Views.PlayerCharacter.PlayerCharacterEditorPage(), true);
         }
 
         private Command _DeepSearchCommand = null;
@@ -118,7 +119,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoDeepSearchPageAsync()
         {
-            await Navigation.PushAsync(new Views.DeepSearchPage(), true);
+            await Navigation.PushAsync(new Views.Library.DeepSearchPage(), true);
         }
 
         private Command _AddToFavoritesCommand = null;

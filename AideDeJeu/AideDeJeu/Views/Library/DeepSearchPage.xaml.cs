@@ -10,7 +10,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using static AideDeJeu.ViewModels.Library.DeepSearchViewModel;
 
-namespace AideDeJeu.Views
+namespace AideDeJeu.Views.Library
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class DeepSearchPage : ContentPage
