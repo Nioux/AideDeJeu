@@ -41,6 +41,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _Class, value);
+                _Class.LoadDetailsAsync().ConfigureAwait(true);
             }
         }
 

@@ -610,14 +610,21 @@ namespace AideDeJeu.ViewModels
             public DbSet<MagicItem> MagicItems { get; set; }
             public DbSet<SpellItem> Spells { get; set; }
             public DbSet<MonsterItem> Monsters { get; set; }
-            //public DbSet<Spell> Spells { get; set; }
-            //public DbSet<MonsterHD> MonstersHD { get; set; }
-            //public DbSet<SpellVO> SpellsVO { get; set; }
-            //public DbSet<MonsterVO> MonstersVO { get; set; }
+
+
             public DbSet<RaceItem> Races { get; set; }
-            public DbSet<ClassItem> Classes { get; set; }
             public DbSet<SubRaceItem> SubRaces { get; set; }
+
+
+            public DbSet<ClassItem> Classes { get; set; }
             public DbSet<SubClassItem> SubClasses { get; set; }
+            public DbSet<ClassHitPointsItem> ClassHitPoints { get; set; }
+            public DbSet<ClassProficienciesItem> ClassProficiencies { get; set; }
+            public DbSet<ClassEquipmentItem> ClassEquipments { get; set; }
+            public DbSet<ClassEvolutionItem> ClassEvolutions { get; set; }
+            public DbSet<ClassFeatureItem> ClassFeatures { get; set; }
+
+
             public DbSet<BackgroundItem> Backgrounds { get; set; }
             public DbSet<SubBackgroundItem> SubBackgrounds { get; set; }
             public DbSet<PersonalityTraitItem> PersonalityTraits { get; set; }
@@ -626,6 +633,8 @@ namespace AideDeJeu.ViewModels
             public DbSet<PersonalityDefectItem> PersonalityDefects { get; set; }
             public DbSet<SkillItem> Skills { get; set; }
             public DbSet<BackgroundSpecialtyItem> BackgroundSpecialties { get; set; }
+
+
             public DbSet<AlignmentItem> Alignments { get; set; }
 
             public AideDeJeuContext(string dbPath)

@@ -50,6 +50,9 @@
     <Compile Update="Views\AboutPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\ItemView.xaml.cs">
+      <DependentUpon>ItemView.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\Library\ItemDetailPage.xaml.cs">
       <DependentUpon>ItemDetailPage.xaml</DependentUpon>
     </Compile>

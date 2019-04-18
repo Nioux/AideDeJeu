@@ -151,20 +151,6 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         #region Race
         public NotifyTaskCompletion<List<RaceViewModel>> Races { get; private set; }
 
-        //private RaceViewModel _SelectedRace = null;
-        //public RaceViewModel SelectedRace
-        //{
-        //    get
-        //    {
-        //        return _SelectedRace;
-        //    }
-        //    set
-        //    {
-        //        SetProperty(ref _SelectedRace, value);
-        //        //SelectedPlayerCharacter.Race = _SelectedRace;
-        //    }
-        //}
-
         public async Task<List<RaceViewModel>> LoadRacesAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
@@ -194,33 +180,6 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
         #region Class
         public NotifyTaskCompletion<List<ClassViewModel>> Classes { get; private set; }
-
-        //private int _ClassSelectedIndex = -1;
-        //public int ClassSelectedIndex
-        //{
-        //    get
-        //    {
-        //        return _ClassSelectedIndex;
-        //    }
-        //    set
-        //    {
-        //        SetProperty(ref _ClassSelectedIndex, value);
-        //        SelectedClass = Classes.Result[_ClassSelectedIndex];
-        //    }
-        //}
-        //private ClassViewModel _SelectedClass = null;
-        //public ClassViewModel SelectedClass
-        //{
-        //    get
-        //    {
-        //        return _SelectedClass;
-        //    }
-        //    set
-        //    {
-        //        SetProperty(ref _SelectedClass, value);
-        //        //SelectedPlayerCharacter.Class = _SelectedClass;
-        //    }
-        //}
 
         public async Task<List<ClassViewModel>> LoadClassesAsync()
         {

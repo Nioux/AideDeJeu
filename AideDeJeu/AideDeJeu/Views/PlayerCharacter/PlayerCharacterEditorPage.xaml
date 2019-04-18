@@ -71,6 +71,22 @@
             <StackLayout>
                 <views:ItemPickerView BindingContext="{Binding}" Title="Classe" ItemsSource="{Binding Classes.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Class, Mode=TwoWay}" />
                 <!--<Picker Title="Classe" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Classes.IsSuccessfullyCompleted}" ItemsSource="{Binding Classes.Result}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />-->
+
+                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Class, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" >
+                    <StackLayout Padding="0">
+
+                        <views:ItemView BindingContext="{Binding}" Name="#### Dés de vie" Description="{Binding SelectedPlayerCharacter.Class.HitPoints.HitDice}" />
+                        <views:ItemView BindingContext="{Binding}" Name="#### Points de vie au niveau 1" Description="{Binding SelectedPlayerCharacter.Class.HitPoints.HitPointsAt1stLevel}" />
+                        <views:ItemView BindingContext="{Binding}" Name="#### Points de vie aux niveaux supérieurs" Description="{Binding SelectedPlayerCharacter.Class.HitPoints.HitPointsAtHigherLevels}" />
+
+                        <views:ItemView BindingContext="{Binding}" Name="#### Armures" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Armor}" />
+                        <views:ItemView BindingContext="{Binding}" Name="#### Armes" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Weapons}" />
+                        <views:ItemView BindingContext="{Binding}" Name="#### Outils" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Tools}" />
+                        <views:ItemView BindingContext="{Binding}" Name="#### Jets de sauvegarde" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.SavingThrows}" />
+                        <views:ItemView BindingContext="{Binding}" Name="#### Compétences" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Skills}" />
+
+                    </StackLayout>
+                </Frame>
                 <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" />
             </StackLayout>
         </ScrollView>

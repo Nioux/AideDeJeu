@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<StackLayout 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:tools="clr-namespace:AideDeJeu.Tools"
+    xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
+    x:Class="AideDeJeu.Views.ItemView"
+    x:Name="this"
+    >
+    <!--IsVisible="{Binding Description, Converter={x:StaticResource NullToFalseConverter}}"-->
+    <StackLayout.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+        </ResourceDictionary>
+    </StackLayout.Resources>
+    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Name, Source={x:Reference this}}" />
+    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Description, Source={x:Reference this}}" />
+</StackLayout>
