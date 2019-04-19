@@ -24,25 +24,38 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         public ClassEquipmentItem Equipment { get { return _Equipment; } set { SetProperty(ref _Equipment, value); } }
 
         public ClassEvolutionItem _Evolution = null;
-        public ClassEvolutionItem Evolution { get { return _Evolution; } set { SetProperty(ref _Evolution, value); } }
+        public ClassEvolutionItem Evolution { get { return _Evolution; } set { SetProperty(ref _Evolution, value); OnPropertyChanged(nameof(LeveledFeatures)); } }
 
         public List<ClassFeatureItem> _Features = null;
-        public List<ClassFeatureItem> Features { get { return _Features; } set { SetProperty(ref _Features, value); } }
+        public List<ClassFeatureItem> Features { get { return _Features; } set { SetProperty(ref _Features, value); OnPropertyChanged(nameof(LeveledFeatures)); } }
 
         public string Name { get { return Class?.Name; } }
         public string Description { get { return Class?.Description; } }
         public string Markdown { get { return Class?.Markdown; } }
 
-        private List<ClassFeatureItem> _LeveledFeatures = null;
         public List<ClassFeatureItem> LeveledFeatures
         {
             get
             {
-                return _LeveledFeatures;
-            }
-            set
-            {
-                SetProperty(ref _LeveledFeatures, value);
+                if (Evolution != null && Features != null)
+                {
+                    var table = Evolution.ExtractSimpleTable(Evolution.Table);
+
+                    if (table != null)
+                    {
+                        var feats = table[ColumnIndex(table, "Aptitudes"), 2];
+                        var leveledFeats = new List<ClassFeatureItem>();
+                        foreach (var feature in Features)
+                        {
+                            if (feats.Contains(feature.Id))
+                            {
+                                leveledFeats.Add(feature);
+                            }
+                        }
+                        return leveledFeats;
+                    }
+                }
+                return null;
             }
         }
 
@@ -57,24 +70,6 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
             return -1;
         }
-        public void InitLeveledFeatures()
-        {
-            if (Evolution != null)
-            {
-                var table = Evolution.ExtractSimpleTable(Evolution.Table);
-                
-                var feats = table[ColumnIndex(table, "Aptitudes"), 2];
-                var leveledFeats = new List<ClassFeatureItem>();
-                foreach (var feature in Features)
-                {
-                    if (feats.Contains(feature.Id))
-                    {
-                        leveledFeats.Add(feature);
-                    }
-                }
-                LeveledFeatures = leveledFeats;
-            }
-        }
 
         public async Task LoadDetailsAsync()
         {
@@ -85,7 +80,6 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 Equipment = await context.ClassEquipments.Where(c => c.ParentLink == Class.Id).FirstOrDefaultAsync();
                 Evolution = await context.ClassEvolutions.Where(c => c.ParentLink == Class.Id).FirstOrDefaultAsync();
                 Features = await context.ClassFeatures.Where(c => c.ParentLink == Class.Id).ToListAsync();
-                InitLeveledFeatures();
             }
         }
     }
