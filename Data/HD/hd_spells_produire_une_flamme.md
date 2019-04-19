@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Produire une flamme
+AltName: '[Produce Flame](srd_spells_produce_flame.md)'
 Type: Invocation
 Level: tour de magie
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V, S
 Duration: 10 minutes
 Classes: '[Druide](hd_druid.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Produce Flame](srd_spells_produce_flame.md)'
 Id: spells_hd.md#produire-une-flamme
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

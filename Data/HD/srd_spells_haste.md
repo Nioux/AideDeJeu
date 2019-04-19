@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Haste
+AltName: '[Hâte](hd_spells_hate.md)'
 Type: transmutation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S, M (a shaving of licorice root)
 Duration: Concentration, up to 1 minute
 Classes: Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p153)
-AltName: '[Hâte](hd_spells_hate.md)'
 Id: spells_vo.md#haste
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

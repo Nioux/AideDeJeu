@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Soins
-AltName: Healing
-Source: (MDR p298)(SRD p97)
 Id: damage_healing_hd.md#soins
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
+Name: Soins
 ParentName: 'Dégâts et guérison '
 NameLevel: 3
+AltName: Healing
+Source: (MDR p298)(SRD p97)
 Attributes:
   Name: Soins
   Markdown: >+

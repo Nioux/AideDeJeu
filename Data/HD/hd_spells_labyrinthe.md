@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Labyrinthe
+AltName: '[Maze](srd_spells_maze.md)'
 Type: Invocation
 Level: 8
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Maze](srd_spells_maze.md)'
 Id: spells_hd.md#labyrinthe
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

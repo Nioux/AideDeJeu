@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Drain d'énergie
 Id: fighter_spellblade_hd.md#drain-dénergie
 ParentLink: fighter_spellblade_hd.md#sorcelame
+Name: Drain d'énergie
 ParentName: Sorcelame
 NameLevel: 2
 Attributes:

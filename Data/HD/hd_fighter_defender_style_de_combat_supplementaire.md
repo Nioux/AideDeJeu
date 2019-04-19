@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Style de combat supplémentaire
 Id: fighter_defender_hd.md#style-de-combat-supplémentaire
 ParentLink: fighter_defender_hd.md#défenseur
+Name: Style de combat supplémentaire
 ParentName: Défenseur
 NameLevel: 2
 Attributes:

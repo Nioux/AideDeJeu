@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Geyser d'énergie
 Type: Évocation
 Level: 1
@@ -9,6 +8,7 @@ Range: 27 mètres
 Components: V, S, M (une petite poire remplie d'air)
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md)'
+Family: SpellHD
 Source: (MDR p359)
 Id: spells_hd.md#geyser-dénergie
 ParentLink: spells_hd.md#sorts

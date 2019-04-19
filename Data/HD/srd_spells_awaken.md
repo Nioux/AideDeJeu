@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Awaken
+AltName: '[Éveil](hd_spells_eveil.md)'
 Type: transmutation
 Level: 5
 CastingTime: 8 hours
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (an agate worth at least 1,000 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Bard, Druid
+Family: SpellVO
 Source: (SRD p120)
-AltName: '[Éveil](hd_spells_eveil.md)'
 Id: spells_vo.md#awaken
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

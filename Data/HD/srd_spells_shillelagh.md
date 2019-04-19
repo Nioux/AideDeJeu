@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Shillelagh
+AltName: '[Gourdin magique](hd_spells_gourdin_magique.md)'
 Type: Transmutation
 Level: cantrip
 CastingTime: 1 bonus action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)
 Duration: 1 minute
 Classes: Druid
+Family: SpellVO
 Source: (SRD p179)
-AltName: '[Gourdin magique](hd_spells_gourdin_magique.md)'
 Id: spells_vo.md#shillelagh
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

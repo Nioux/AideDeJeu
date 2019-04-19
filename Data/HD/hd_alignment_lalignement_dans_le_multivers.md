@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: L'alignement dans le multivers
 Id: alignment_hd.md#lalignement-dans-le-multivers
 ParentLink: alignment_hd.md#alignement
+Name: L'alignement dans le multivers
 ParentName: Alignement
 NameLevel: 3
 Attributes:

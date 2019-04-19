@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Voyageur des terres
-Source: (L5R p62)
 Id: l5r_druid_hd.md#voyageur-des-terres
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
+Name: Voyageur des terres
 ParentName: Druide des cinq royaumes
 NameLevel: 5
+Source: (L5R p62)
 Attributes:
   Name: Voyageur des terres
   Markdown: >+

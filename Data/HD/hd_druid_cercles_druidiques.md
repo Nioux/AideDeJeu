@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Cercles druidiques
 Id: druid_hd.md#cercles-druidiques
 ParentLink: druid_hd.md#druide
+Name: Cercles druidiques
 ParentName: Druide
 NameLevel: 1
 Attributes:

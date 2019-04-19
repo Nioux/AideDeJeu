@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sur un champ de bataille
 Id: bard_heralds_hd.md#sur-un-champ-de-bataille
 ParentLink: bard_heralds_hd.md#collège-des-hérauts
+Name: Sur un champ de bataille
 ParentName: Collège des hérauts
 NameLevel: 2
 Attributes:

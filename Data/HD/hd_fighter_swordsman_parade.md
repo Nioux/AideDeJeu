@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Parade
 Id: fighter_swordsman_hd.md#parade
 ParentLink: fighter_swordsman_hd.md#bretteur
+Name: Parade
 ParentName: Bretteur
 NameLevel: 2
 Attributes:

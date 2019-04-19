@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Warding Bond
+AltName: '[Lien de protection](hd_spells_lien_de_protection.md)'
 Type: abjuration
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)
 Duration: 1 hour
 Classes: Cleric
+Family: SpellVO
 Source: (SRD p191)
-AltName: '[Lien de protection](hd_spells_lien_de_protection.md)'
 Id: spells_vo.md#warding-bond
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

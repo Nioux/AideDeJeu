@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Interdiction
+AltName: '[Forbiddance](srd_spells_forbiddance.md)'
 Type: Abjuration
 Level: 6
 CastingTime: 10 minutes
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)
 Duration: 1 jour
 Classes: '[Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Forbiddance](srd_spells_forbiddance.md)'
 Ritual: rituel
 Id: spells_hd.md#interdiction
 ParentLink: spells_hd.md#sorts

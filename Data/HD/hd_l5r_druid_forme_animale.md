@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Forme animale
-Source: (L5R p64)
 Id: l5r_druid_hd.md#forme-animale
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
+Name: Forme animale
 ParentName: Druide des cinq royaumes
 NameLevel: 4
+Source: (L5R p64)
 Attributes:
   Name: Forme animale
   Markdown: >+

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Magic Jar
+AltName: '[Possession](hd_spells_possession.md)'
 Type: necromancy
 Level: 6
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: Self
 Components: V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)
 Duration: Until dispelled
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p160)
-AltName: '[Possession](hd_spells_possession.md)'
 Id: spells_vo.md#magic-jar
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

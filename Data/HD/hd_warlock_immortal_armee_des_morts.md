@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Armée des morts
 Id: warlock_immortal_hd.md#armée-des-morts
 ParentLink: warlock_immortal_hd.md#le-seigneur-immortel
+Name: Armée des morts
 ParentName: Le seigneur immortel
 NameLevel: 2
 Attributes:

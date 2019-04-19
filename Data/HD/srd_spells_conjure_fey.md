@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Conjure Fey
+AltName: '[Invoquer une fée](hd_spells_invoquer_une_fee.md)'
 Type: conjuration
 Level: 6
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: 90 feet
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Druid, Warlock
+Family: SpellVO
 Source: (SRD p128)
-AltName: '[Invoquer une fée](hd_spells_invoquer_une_fee.md)'
 Id: spells_vo.md#conjure-fey
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

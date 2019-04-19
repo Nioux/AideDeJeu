@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Sang du démon
 Type: Nécromancie
 Level: 1
@@ -9,6 +8,7 @@ Range: contact
 Components: V, S, M (une fiole d'un mélange de sang et d'acide)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#sang-du-démon
 ParentLink: spells_hd.md#sorts

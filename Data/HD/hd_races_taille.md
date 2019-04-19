@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Taille
-AltName: Size
-Source: (MDR p37)(SRD p3)
 Id: races_hd.md#taille
 ParentLink: races_hd.md#traits-raciaux
+Name: Taille
 ParentName: Traits raciaux
 NameLevel: 4
+AltName: Size
+Source: (MDR p37)(SRD p3)
 Attributes:
   Name: Taille
   Markdown: >+

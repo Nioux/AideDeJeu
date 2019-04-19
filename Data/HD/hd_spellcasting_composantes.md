@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Composantes
-AltName: Components (SRD p101)
-Source: (MDR p308)
 Id: spellcasting_hd.md#composantes
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Composantes
 ParentName: Lancer des sorts
 NameLevel: 3
+AltName: Components (SRD p101)
+Source: (MDR p308)
 Attributes:
   Name: Composantes
   Markdown: >+

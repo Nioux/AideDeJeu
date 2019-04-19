@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Création ou destruction d'eau
+AltName: '[Create or Destroy Water](srd_spells_create_or_destroy_water.md)'
 Type: Transmutation
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
+Family: SpellHD
 Source: (MDR p344)
-AltName: '[Create or Destroy Water](srd_spells_create_or_destroy_water.md)'
 Id: spells_hd.md#création-ou-destruction-deau
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Exemples de maladies
 Id: diseases_hd.md#exemples-de-maladies
 ParentLink: diseases_hd.md#les-maladies
+Name: Exemples de maladies
 ParentName: Les maladies
 NameLevel: 3
 Attributes:

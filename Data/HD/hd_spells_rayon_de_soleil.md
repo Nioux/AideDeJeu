@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Rayon de soleil
+AltName: '[Sunbeam](srd_spells_sunbeam.md)'
 Type: Évocation
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle (ligne de 18 mètres)
 Components: V, S, M (une loupe)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Sunbeam](srd_spells_sunbeam.md)'
 Id: spells_hd.md#rayon-de-soleil
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

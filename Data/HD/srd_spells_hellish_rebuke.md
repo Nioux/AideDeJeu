@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Hellish Rebuke
+AltName: '[Représailles infernales](hd_spells_represailles_infernales.md)'
 Type: evocation
 Level: 1
 CastingTime: 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Warlock
+Family: SpellVO
 Source: (SRD p154)
-AltName: '[Représailles infernales](hd_spells_represailles_infernales.md)'
 Id: spells_vo.md#hellish-rebuke
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

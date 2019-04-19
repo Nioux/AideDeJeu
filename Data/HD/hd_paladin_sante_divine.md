@@ -13,6 +13,9 @@ Attributes:
 
     Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
 
+  Description: >+
+    Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
+
 AttributesDictionary: >+
   Name: Santé divine
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
 
 
+
+  Description: >+
+
+    Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
+
+
+
+Description: >+
+  Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
 
 ---
 > [Paladin](hd_paladin.md)

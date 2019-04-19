@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Résistance supérieure
 Id: sorcerer_infernal_hd.md#résistance-supérieure
 ParentLink: sorcerer_infernal_hd.md#lignée-infernale
+Name: Résistance supérieure
 ParentName: Lignée infernale
 NameLevel: 2
 Attributes:

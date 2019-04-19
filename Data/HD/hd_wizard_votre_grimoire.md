@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Votre grimoire
 Id: wizard_hd.md#votre-grimoire
 ParentLink: wizard_hd.md#magicien
+Name: Votre grimoire
 ParentName: Magicien
 NameLevel: 1
 Attributes:

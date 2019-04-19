@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Gardien de la foi
+AltName: '[Guardian of Faith](srd_spells_guardian_of_faith.md)'
 Type: Invocation
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V
 Duration: 8 heures
 Classes: '[Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p358)(SRD)
-AltName: '[Guardian of Faith](srd_spells_guardian_of_faith.md)'
 Id: spells_hd.md#gardien-de-la-foi
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

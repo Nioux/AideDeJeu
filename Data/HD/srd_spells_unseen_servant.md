@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Unseen Servant
+AltName: '[Serviteur invisible](hd_spells_serviteur_invisible.md)'
 Type: conjuration
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: V, S, M (a piece of string and a bit of wood)
 Duration: 1 hour
 Classes: Bard, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p189)
-AltName: '[Serviteur invisible](hd_spells_serviteur_invisible.md)'
 Ritual: ritual
 Id: spells_vo.md#unseen-servant
 ParentLink: spells_vo.md#spells-srd-p

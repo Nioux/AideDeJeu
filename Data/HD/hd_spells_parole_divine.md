@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Parole divine
+AltName: '[Divine Word](srd_spells_divine_word.md)'
 Type: Évocation
 Level: 7
 CastingTime: 1 action bonus
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Divine Word](srd_spells_divine_word.md)'
 Id: spells_hd.md#parole-divine
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

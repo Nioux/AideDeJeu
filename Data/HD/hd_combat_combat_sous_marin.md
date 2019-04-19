@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Combat sous-marin
-AltName: Underwater Combat (SRD p99)
-Source: (MDR p295)
 Id: combat_hd.md#combat-sous-marin
 ParentLink: combat_hd.md#combattre
+Name: Combat sous-marin
 ParentName: Combattre
 NameLevel: 2
+AltName: Underwater Combat (SRD p99)
+Source: (MDR p295)
 Attributes:
   Name: Combat sous-marin
   Markdown: >+

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Survivant
 Id: fighter_champion_hd.md#survivant
 ParentLink: fighter_champion_hd.md#champion
+Name: Survivant
 ParentName: Champion
 NameLevel: 2
 Attributes:

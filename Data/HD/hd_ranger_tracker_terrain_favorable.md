@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Terrain favorable
 Id: ranger_tracker_hd.md#terrain-favorable
 ParentLink: ranger_tracker_hd.md#traqueur
+Name: Terrain favorable
 ParentName: Traqueur
 NameLevel: 2
 Attributes:

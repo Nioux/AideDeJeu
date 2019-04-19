@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Né dans la nature
 Id: barbarian_spirits_hd.md#né-dans-la-nature
 ParentLink: barbarian_spirits_hd.md#voie-des-esprits
+Name: Né dans la nature
 ParentName: Voie des esprits
 NameLevel: 2
 Attributes:

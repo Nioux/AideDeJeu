@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Guardian of Faith
+AltName: '[Gardien de la foi](hd_spells_gardien_de_la_foi.md)'
 Type: conjuration
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V
 Duration: 8 hours
 Classes: Cleric
+Family: SpellVO
 Source: (SRD p150)
-AltName: '[Gardien de la foi](hd_spells_gardien_de_la_foi.md)'
 Id: spells_vo.md#guardian-of-faith
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

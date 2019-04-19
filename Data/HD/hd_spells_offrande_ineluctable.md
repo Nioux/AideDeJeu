@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Offrande inéluctable
 Type: Enchantement
 Level: 2
@@ -9,6 +8,7 @@ Range: 36 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#offrande-inéluctable
 ParentLink: spells_hd.md#sorts

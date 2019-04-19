@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Buveuse de vie
 Id: warlock_occultsummons_hd.md#buveuse-de-vie
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Buveuse de vie
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

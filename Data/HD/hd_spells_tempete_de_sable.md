@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Tempête de sable
 Type: Invocation
 Level: 8
@@ -9,6 +8,7 @@ Range: 1 kilomètre
 Components: V, S, M (une rose des sables)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md)'
+Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#tempête-de-sable
 ParentLink: spells_hd.md#sorts

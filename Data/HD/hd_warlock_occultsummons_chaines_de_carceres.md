@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Chaînes de Carcères
 Id: warlock_occultsummons_hd.md#chaînes-de-carcères
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Chaînes de Carcères
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

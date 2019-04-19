@@ -1,8 +1,8 @@
 ﻿---
 !Items
-Name: Personnalités suggérées
 Id: background_brigand_hd.md#personnalités-suggérées
 ParentLink: background_brigand_hd.md#brigand
+Name: Personnalités suggérées
 ParentName: Brigand
 NameLevel: 4
 Attributes:

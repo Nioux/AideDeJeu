@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Incantations
 Id: multiclassing_hd.md#incantations
 ParentLink: multiclassing_hd.md#multiclassage
+Name: Incantations
 ParentName: Multiclassage
 NameLevel: 3
 Attributes:

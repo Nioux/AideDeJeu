@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Inversion
-Source: (L5R p72)
 Id: l5r_rituals_hd.md#inversion
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: Inversion
 ParentName: Lancer un rituel
 NameLevel: 5
+Source: (L5R p72)
 Attributes:
   Name: Inversion
   Markdown: >+

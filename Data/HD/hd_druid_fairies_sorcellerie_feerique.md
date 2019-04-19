@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sorcellerie féerique
 Id: druid_fairies_hd.md#sorcellerie-féerique
 ParentLink: druid_fairies_hd.md#cercle-des-fées
+Name: Sorcellerie féerique
 ParentName: Cercle des fées
 NameLevel: 2
 Attributes:

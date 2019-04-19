@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Localiser des animaux ou des plantes
+AltName: '[Locate Animals or Plants](srd_spells_locate_animals_or_plants.md)'
 Type: Divination
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (des poils de chien de chasse)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Locate Animals or Plants](srd_spells_locate_animals_or_plants.md)'
 Ritual: rituel
 Id: spells_hd.md#localiser-des-animaux-ou-des-plantes
 ParentLink: spells_hd.md#sorts

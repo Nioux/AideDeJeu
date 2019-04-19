@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: ANNEAU DE LUNE
-Source: (CDC p191)
 Id: artifacts_hd.md#anneau-de-lune
 ParentLink: artifacts_hd.md#artefacts
+Name: ANNEAU DE LUNE
 ParentName: Artefacts
 NameLevel: 2
+Source: (CDC p191)
 Attributes:
   Name: ANNEAU DE LUNE
   Markdown: >+

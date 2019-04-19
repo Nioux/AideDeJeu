@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Duo-dimension
 Id: warlock_extradimensional_hd.md#duo-dimension
 ParentLink: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
+Name: Duo-dimension
 ParentName: L'entité extra-dimensionnelle
 NameLevel: 2
 Attributes:

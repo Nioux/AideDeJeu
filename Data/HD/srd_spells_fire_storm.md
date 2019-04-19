@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Fire Storm
+AltName: '[Tempête de feu](hd_spells_tempete_de_feu.md)'
 Type: evocation
 Level: 7
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 150 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric, Druid, Sorcerer
+Family: SpellVO
 Source: (SRD p145)
-AltName: '[Tempête de feu](hd_spells_tempete_de_feu.md)'
 Id: spells_vo.md#fire-storm
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

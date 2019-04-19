@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Reverse Gravity
+AltName: '[Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)'
 Type: transmutation
 Level: 7
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 100 feet
 Components: V, S, M (a lodestone and iron filings)
 Duration: Concentration, up to 1 minute
 Classes: Druid, Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p175)
-AltName: '[Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)'
 Id: spells_vo.md#reverse-gravity
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

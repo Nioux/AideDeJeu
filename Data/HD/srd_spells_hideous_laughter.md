@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Hideous Laughter
+AltName: '[Fou rire](hd_spells_fou_rire.md)'
 Type: enchantment
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S, M (tiny tarts and a feather that is waved in the air)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Wizard
+Family: SpellVO
 Source: (SRD p154)
-AltName: '[Fou rire](hd_spells_fou_rire.md)'
 Id: spells_vo.md#hideous-laughter
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

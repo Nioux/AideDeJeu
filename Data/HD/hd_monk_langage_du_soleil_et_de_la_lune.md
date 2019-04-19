@@ -13,6 +13,9 @@ Attributes:
 
     À partir du niveau 13, vous apprenez à entrer en contact avec le ki d'autres esprits, ce qui vous permet de comprendre toutes les langues. De plus, n'importe quelle créature qui a la capacité de comprendre une langue peut vous comprendre.
 
+  Description: >+
+    À partir du niveau 13, vous apprenez à entrer en contact avec le ki d'autres esprits, ce qui vous permet de comprendre toutes les langues. De plus, n'importe quelle créature qui a la capacité de comprendre une langue peut vous comprendre.
+
 AttributesDictionary: >+
   Name: Langage du Soleil et de la Lune
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     À partir du niveau 13, vous apprenez à entrer en contact avec le ki d'autres esprits, ce qui vous permet de comprendre toutes les langues. De plus, n'importe quelle créature qui a la capacité de comprendre une langue peut vous comprendre.
 
 
+
+  Description: >+
+
+    À partir du niveau 13, vous apprenez à entrer en contact avec le ki d'autres esprits, ce qui vous permet de comprendre toutes les langues. De plus, n'importe quelle créature qui a la capacité de comprendre une langue peut vous comprendre.
+
+
+
+Description: >+
+  À partir du niveau 13, vous apprenez à entrer en contact avec le ki d'autres esprits, ce qui vous permet de comprendre toutes les langues. De plus, n'importe quelle créature qui a la capacité de comprendre une langue peut vous comprendre.
 
 ---
 > [Moine](hd_monk.md)

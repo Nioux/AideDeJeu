@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Flamme sacrée
+AltName: '[Sacred Flame](srd_spells_sacred_flame.md)'
 Type: Évocation
 Level: tour de magie
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p355)(SRD)
-AltName: '[Sacred Flame](srd_spells_sacred_flame.md)'
 Id: spells_hd.md#flamme-sacrée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

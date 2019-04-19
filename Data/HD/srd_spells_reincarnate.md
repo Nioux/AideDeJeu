@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Reincarnate
+AltName: '[Réincarnation](hd_spells_reincarnation.md)'
 Type: transmutation
 Level: 5
 CastingTime: 1 hour
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Druid
+Family: SpellVO
 Source: (SRD p174)
-AltName: '[Réincarnation](hd_spells_reincarnation.md)'
 Id: spells_vo.md#reincarnate
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

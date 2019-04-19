@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Envoûtement
+AltName: '[Enthrall](srd_spells_enthrall.md)'
 Type: Enchantement
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S
 Duration: 1 minute
 Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p352)(SRD)
-AltName: '[Enthrall](srd_spells_enthrall.md)'
 Id: spells_hd.md#envoûtement
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

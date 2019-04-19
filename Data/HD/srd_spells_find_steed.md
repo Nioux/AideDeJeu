@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Find Steed
+AltName: '[Trouver une monture](hd_spells_trouver_une_monture.md)'
 Type: conjuration
 Level: 2
 CastingTime: 10 minutes
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Paladin
+Family: SpellVO
 Source: (SRD p143)
-AltName: '[Trouver une monture](hd_spells_trouver_une_monture.md)'
 Id: spells_vo.md#find-steed
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

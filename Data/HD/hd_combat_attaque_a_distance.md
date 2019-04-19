@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Attaque à distance
-AltName: Ranged Attacks (SRD p95)
-Source: (MDR p291)
 Id: combat_hd.md#attaque-à-distance
 ParentLink: combat_hd.md#combattre
+Name: Attaque à distance
 ParentName: Combattre
 NameLevel: 3
+AltName: Ranged Attacks (SRD p95)
+Source: (MDR p291)
 Attributes:
   Name: Attaque à distance
   Markdown: >+

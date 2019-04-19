@@ -1,12 +1,12 @@
 ﻿---
 !Items
-Name: Barde des cinq royaumes
-Source: (L5R p55)
 Id: l5r_bard_hd.md#barde-des-cinq-royaumes
 RootId: l5r_bard_hd.md
 ParentLink: l5r_index_hd.md
+Name: Barde des cinq royaumes
 ParentName: Les Cinq Royaumes
 NameLevel: 2
+Source: (L5R p55)
 Attributes:
   ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
   Markdown: >+

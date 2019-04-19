@@ -10,7 +10,11 @@
 - AltName: <!--AltName-->Paladin (SRD p30)<!--/AltName-->
 - Source: <!--Source-->(MDR p183)<!--/Source-->
 
+<!--Description-->
+
 En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
+
+<!--/Description-->
 
 <!--ClassHitPointsItem-->
 
@@ -38,6 +42,8 @@ En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
 
 ## <!--Name-->Équipement<!--/Name-->
 
+<!--Description-->
+
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
 * (a) une arme de guerre et un bouclier ou (b) deux armes de guerre
@@ -45,11 +51,15 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) un paquetage d'ecclésiastique ou (b) un paquetage d'explorateur
 * une cotte de mailles et un symbole sacré
 
+<!--/Description-->
+
 <!--/ClassEquipmentItem-->
 
 <!--ClassEvolutionItem-->
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
+
+<!--Table-->
 
 |Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|1|2|3|4|5|
 |---|---|---|---|---|---|---|---|
@@ -74,6 +84,8 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 |19|+6|[Amélioration de caractéristiques]|4|3|3|3|2|
 |20|+6|[Aptitude de serment sacré]|4|3|3|3|2|
 
+<!--/Table-->
+
 (* Emplacement de sorts par niveau de sort)
 
 <!--/ClassEvolutionItem-->
@@ -82,17 +94,23 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 ## <!--Name-->Sens divin<!--/Name-->
 
+<!--Description-->
+
 Vous ressentez le mal comme une odeur nauséabonde, tandis que le bien résonne comme une musique céleste à vos oreilles. Vous pouvez utiliser une action pour mettre vos sens en éveil afin de détecter de telles forces.
 
 Jusqu'à la fin de votre prochain tour, vous savez où se trouve toute créature céleste, fiélonne ou mort-vivante qui n'est pas cachée derrière un abri total dans un rayon de 18 mètres autour de vous. Vous connaissez le type (céleste, fiélon ou mort-vivant) de chaque être dont vous ressentez la présence, mais vous n'en savez pas plus sur cette créature. Dans le même rayon, vous détectez aussi la présence de tout lieu ou objet qui a été consacré ou profané, comme cela peut être fait avec un sort comme sanctification.
 
 Entre deux repos longs, vous pouvez utiliser cette aptitude un nombre de fois égal à 1 + votre modificateur de [Charisme].
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Imposition des mains<!--/Name-->
+
+<!--Description-->
 
 Votre contact béni peut guérir les blessures. Vous avez une réserve de guérison qui se régénère quand vous terminez un repos long. Grâce à celle-ci, vous pouvez restaurer un nombre de points de vie égal à cinq fois votre niveau de paladin.
 
@@ -102,13 +120,19 @@ Vous pouvez aussi choisir de puiser 5 points de vie dans cette réserve de guér
 
 Cette aptitude n'a aucun effet sur les morts-vivants ou les créatures artificielles.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Style de combat<!--/Name-->
 
+<!--Description-->
+
 Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -116,7 +140,11 @@ Au niveau 2, vous choisissez de vous spécialiser dans un style de combat partic
 
 ## <!--Name-->Défense<!--/Name-->
 
+<!--Description-->
+
 Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -124,7 +152,11 @@ Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
 ## <!--Name-->Duel<!--/Name-->
 
+<!--Description-->
+
 Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux dégâts infligés avec cette arme.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -132,7 +164,11 @@ Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, v
 
 ## <!--Name-->Armes à deux mains<!--/Name-->
 
+<!--Description-->
+
 Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1 ou d'un 2. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -140,13 +176,19 @@ Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme 
 
 ## <!--Name-->Protection<!--/Name-->
 
+<!--Description-->
+
 Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 # <!--Name-->Incantations<!--/Name-->
+
+<!--Description-->
 
 En arrivant au niveau 2, vous avez appris à puiser dans la magie divine grâce à vos méditations et vos prières, et vous êtes capable de lancer des sorts comme un clerc.
 
@@ -172,15 +214,21 @@ Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur d
 
 Vous pouvez utiliser un symbole sacré comme focaliseur d'incantation pour vos sorts de paladin.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Châtiment divin<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 2, quand vous touchez une créature avec une arme de corps-à-corps, vous pouvez utiliser un emplacement de sort pour infliger des dégâts radiants à cette créature en plus des dégâts normaux de l'arme. 
 
 Vous infligez 2d8 dégâts supplémentaires si vous utilisez un emplacement de sort de niveau 1, auquel vous ajoutez 1d8 par niveau de sort supplémentaire, jusqu'à un maximum de 5d8. Les dégâts subis sont augmentés d'1d8 supplémentaire si la cible est un mortvivant ou un fiélon.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -188,7 +236,11 @@ Vous infligez 2d8 dégâts supplémentaires si vous utilisez un emplacement de s
 
 ## <!--Name-->Santé divine<!--/Name-->
 
+<!--Description-->
+
 Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -196,9 +248,13 @@ Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
 
 ## <!--Name-->Serment sacré<!--/Name-->
 
+<!--Description-->
+
 Quand vous atteignez le niveau 3, vous prêtez un serment qui vous engage à tout jamais. Jusqu'à ce moment-là, vous étiez encore à un stade préparatoire, engagé dans la voie, mais sans vous y être entièrement dévoué. Vous devez maintenant choisir entre le serment de dévotion, le serment d'obédience, le serment de perfection et le serment de piété, détaillés à la fin de la section consacrée à cette classe.
 
 Votre choix vous permet d'avoir accès à des aptitudes particulières aux niveaux 3, 7, 15 et 20. Parmi ces aptitudes se trouvent les sorts de serment et la canalisation d'énergie divine.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -206,15 +262,21 @@ Votre choix vous permet d'avoir accès à des aptitudes particulières aux nivea
 
 ## <!--Name-->Sorts de serment<!--/Name-->
 
+<!--Description-->
+
 À chaque serment est associée une liste de sorts. Vous gagnez accès à ces sorts aux niveaux indiqués dans la description du serment que vous avez choisi. Une fois que vous avez accès à ces sorts, vous pouvez les considérer comme préparés en permanence. Les sorts de serment ne sont pas comptabilisés dans le total des sorts que vous préparez chaque jour.
 
 Si vous gagnez un sort de serment qui n'apparaît pas dans la liste de sorts de paladin, vous le considérez tout de même comme un sort de paladin en ce qui vous concerne.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Canalisation d'énergie divine<!--/Name-->
+
+<!--Description-->
 
 Votre serment vous permet de canaliser l'énergie divine pour alimenter vos effets magiques. Vous trouverez une description de vos options de canalisation d'énergie divine et de leur utilisation dans la section consacrée à votre serment.
 
@@ -224,13 +286,19 @@ Après avoir utilisé une fois cette aptitude, vous devez finir un repos court o
 
 Certains effets de la canalisation d'énergie divine impliquent des [jets de sauvegarde]. Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des [jets de sauvegarde] de vos sorts de paladin.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
+<!--Description-->
+
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -238,7 +306,11 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## <!--Name-->Attaque supplémentaire<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -256,9 +328,13 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## <!--Name-->Aura de protection<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 6, quand vous ou une créature amicale qui se trouve dans un rayon de 3 mètres doit faire un [jet de sauvegarde], cette créature gagne un bonus à son [jet de sauvegarde] égal à votre modificateur de [Charisme] (avec un bonus minimum de +1). Vous ne devez pas être inconscient pour que ce bonus soit pris en compte.
 
 Au niveau 18, le rayon de cette aura atteint 9 mètres.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -266,9 +342,13 @@ Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
 ## <!--Name-->Aura de courage<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 10, vous, ainsi que toute créature amicale qui se trouve à 3 mètres de vous, ne pouvez être terrorisés. Cette aura persiste tant que vous n'êtes pas inconscient.
 
 Au niveau 18, le rayon de cette aura atteint 9 mètres.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -276,9 +356,13 @@ Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
 ## <!--Name-->Châtiment divin amélioré<!--/Name-->
 
+<!--Description-->
+
 Au niveau 11, vous débordez tellement de vertu que tous les coups que vous portez avec vos armes de corpsà- corps sont alimentés par de l'énergie divine. Quand vous touchez une créature avec une arme de corps-àcorps, celle-ci subit 1d8 dégâts radiants supplémentaires.
 
 Si vous utilisez aussi votre châtiment divin lors d'une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment divin.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -286,9 +370,13 @@ Si vous utilisez aussi votre châtiment divin lors d'une attaque, vous additionn
 
 ## <!--Name-->Contact purifiant<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 14, vous pouvez utiliser votre action pour mettre fin à un sort qui vous affecte ou qui affecte une créature consentante que vous touchez.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de [Charisme] (avec un minimum d'une fois) entre deux repos longs.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 

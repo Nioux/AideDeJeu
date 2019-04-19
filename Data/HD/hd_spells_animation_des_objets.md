@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Animation des objets
+AltName: '[Animate Objects](srd_spells_animate_objects.md)'
 Type: Transmutation
 Level: 5
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 36 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p322)(SRD)
-AltName: '[Animate Objects](srd_spells_animate_objects.md)'
 Id: spells_hd.md#animation-des-objets
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

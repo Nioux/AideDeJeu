@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Hold Person
+AltName: '[Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)'
 Type: enchantment
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: V, S, M (a small, straight piece of iron)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p154)
-AltName: '[Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)'
 Id: spells_vo.md#hold-person
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

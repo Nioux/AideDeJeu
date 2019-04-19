@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Liste de sorts étendue
 Id: warlock_immortal_hd.md#liste-de-sorts-étendue
 ParentLink: warlock_immortal_hd.md#le-seigneur-immortel
+Name: Liste de sorts étendue
 ParentName: Le seigneur immortel
 NameLevel: 2
 Attributes:

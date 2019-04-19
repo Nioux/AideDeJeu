@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Pacte du grimoire
 Id: warlock_pact_hd.md#pacte-du-grimoire
 ParentLink: warlock_pact_hd.md#pacte
+Name: Pacte du grimoire
 ParentName: Pacte
 NameLevel: 2
 Attributes:

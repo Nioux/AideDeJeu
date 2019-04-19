@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Le panthéon celtique
-AltName: The Celtic Pantheon
-Source: (MDR p413)(SRD p360)
 Id: pantheons_hd.md#le-panthéon-celtique
 ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
+Name: Le panthéon celtique
 ParentName: Panthéons historiques et fantastiques
 NameLevel: 3
+AltName: The Celtic Pantheon
+Source: (MDR p413)(SRD p360)
 Attributes:
   Name: Le panthéon celtique
   Markdown: >+

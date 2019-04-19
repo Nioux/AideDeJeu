@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Garde du corps
 Id: fighter_defender_hd.md#garde-du-corps
 ParentLink: fighter_defender_hd.md#défenseur
+Name: Garde du corps
 ParentName: Défenseur
 NameLevel: 2
 Attributes:

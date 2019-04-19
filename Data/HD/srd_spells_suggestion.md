@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Suggestion
+AltName: '[Suggestion](hd_spells_suggestion.md)'
 Type: enchantment
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
 Duration: Concentration, up to 8 hours
 Classes: Bard, Sorcerer, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p183)
-AltName: '[Suggestion](hd_spells_suggestion.md)'
 Id: spells_vo.md#suggestion
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

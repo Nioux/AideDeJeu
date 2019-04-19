@@ -1,12 +1,12 @@
 ﻿---
 !Items
-Name: Lancer un rituel
-Source: (L5R p67)
 Id: l5r_rituals_hd.md#lancer-un-rituel
 RootId: l5r_rituals_hd.md
 ParentLink: l5r_index_hd.md
+Name: Lancer un rituel
 ParentName: Les Cinq Royaumes
 NameLevel: 2
+Source: (L5R p67)
 Attributes:
   ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
   Markdown: >+

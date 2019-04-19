@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Téléportation
+AltName: '[Teleport](srd_spells_teleport.md)'
 Type: Invocation
 Level: 7
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 3 mètres
 Components: V
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Teleport](srd_spells_teleport.md)'
 Id: spells_hd.md#téléportation
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sorts du domaine de la vie
 Id: cleric_life_hd.md#sorts-du-domaine-de-la-vie
 ParentLink: cleric_life_hd.md#domaine-de-la-vie
+Name: Sorts du domaine de la vie
 ParentName: Domaine de la Vie
 NameLevel: 2
 Attributes:

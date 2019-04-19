@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Blur
+AltName: '[Flou](hd_spells_flou.md)'
 Type: illusion
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Self
 Components: V
 Duration: Concentration, up to 1 minute
 Classes: Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p123)
-AltName: '[Flou](hd_spells_flou.md)'
 Id: spells_vo.md#blur
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

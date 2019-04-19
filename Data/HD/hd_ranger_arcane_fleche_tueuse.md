@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Flèche tueuse
 Id: ranger_arcane_hd.md#flèche-tueuse
 ParentLink: ranger_arcane_hd.md#archer-arcanique
+Name: Flèche tueuse
 ParentName: Archer arcanique
 NameLevel: 2
 Attributes:

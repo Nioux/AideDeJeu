@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Liberté de mouvement
+AltName: '[Freedom of Movement](srd_spells_freedom_of_movement.md)'
 Type: Abjuration
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Freedom of Movement](srd_spells_freedom_of_movement.md)'
 Id: spells_hd.md#liberté-de-mouvement
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

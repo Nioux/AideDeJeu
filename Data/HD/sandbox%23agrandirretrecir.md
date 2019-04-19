@@ -1,6 +1,7 @@
 ﻿---
 !SpellItem
 Name: Agrandir/rétrécir
+AltName: '[Enlarge/Reduce](srd_spells_enlargereduce.md)'
 Type: Transmutation
 Level: 2
 CastingTime: 1 action
@@ -8,7 +9,6 @@ Range: 9 mètres
 Components: V, S, M (une pincée de limaille de fer)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur], [Magicien]'
-AltName: '[Enlarge/Reduce](srd_spells_enlargereduce.md)'
 Id: sandbox.md#agrandirrétrécir
 ParentLink: sandbox.md#sandbox
 ParentName: Sandbox

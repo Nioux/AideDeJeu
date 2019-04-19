@@ -3,6 +3,9 @@
 Name: Clerc
 AltName: Cleric (SRD p15)
 Source: (MDR p129)
+Description: >+
+  En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
+
 Id: cleric_hd.md#clerc
 RootId: cleric_hd.md
 ParentLink: classes_hd.md
@@ -31,6 +34,9 @@ Attributes:
   Name: Clerc
   AltName: Cleric (SRD p15)
   Source: (MDR p129)
+  Description: >+
+    En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
+
 AttributesDictionary: >+
   ParentNameLink: '[Classes](hd_classes.md)'
 
@@ -75,6 +81,12 @@ AttributesDictionary: >+
   AltName: Cleric (SRD p15)
 
   Source: (MDR p129)
+
+  Description: >+
+
+    En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
+
+
 
 ---
 >  [Classes](hd_classes.md)

@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Chasse ancestrale
-Source: (L5R p72)
 Id: l5r_rituals_hd.md#chasse-ancestrale
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: Chasse ancestrale
 ParentName: Lancer un rituel
 NameLevel: 3
+Source: (L5R p72)
 Attributes:
   Name: Chasse ancestrale
   Markdown: >+

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Ligne
-AltName: Line (SRD p103)
-Source: (MDR p309)
 Id: spellcasting_hd.md#ligne
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Ligne
 ParentName: Lancer des sorts
 NameLevel: 4
+AltName: Line (SRD p103)
+Source: (MDR p309)
 Attributes:
   Name: Ligne
   Markdown: >+

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Points de vie des objets
 Id: objects_hd.md#points-de-vie-des-objets
 ParentLink: objects_hd.md#les-objets
+Name: Points de vie des objets
 ParentName: Les objets
 NameLevel: 4
 Attributes:

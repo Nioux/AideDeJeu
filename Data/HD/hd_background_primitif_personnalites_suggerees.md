@@ -1,8 +1,8 @@
 ﻿---
 !Items
-Name: Personnalités suggérées
 Id: background_primitif_hd.md#personnalités-suggérées
 ParentLink: background_primitif_hd.md#primitif
+Name: Personnalités suggérées
 ParentName: Primitif
 NameLevel: 4
 Attributes:

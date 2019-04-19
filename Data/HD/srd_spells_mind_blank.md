@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Mind Blank
+AltName: '[Esprit impénétrable](hd_spells_esprit_impenetrable.md)'
 Type: abjuration
 Level: 8
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S
 Duration: 24 hours
 Classes: Bard, Wizard
+Family: SpellVO
 Source: (SRD p164)
-AltName: '[Esprit impénétrable](hd_spells_esprit_impenetrable.md)'
 Id: spells_vo.md#mind-blank
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

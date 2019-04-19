@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Private Sanctum
+AltName: '[Sanctuaire privé](hd_spells_sanctuaire_prive.md)'
 Type: abjuration
 Level: 4
 CastingTime: 10 minutes
@@ -9,8 +9,8 @@ Range: 120 feet
 Components: V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)
 Duration: 24 hours
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p171)
-AltName: '[Sanctuaire privé](hd_spells_sanctuaire_prive.md)'
 Id: spells_vo.md#private-sanctum
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

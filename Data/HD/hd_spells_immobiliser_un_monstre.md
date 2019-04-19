@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Immobiliser un monstre
+AltName: '[Hold Monster](srd_spells_hold_monster.md)'
 Type: Enchantement
 Level: 5
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 27 mètres
 Components: V, S, M (un petit morceau de fer bien droit)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Hold Monster](srd_spells_hold_monster.md)'
 Id: spells_hd.md#immobiliser-un-monstre
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

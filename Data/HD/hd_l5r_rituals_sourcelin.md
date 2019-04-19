@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Sourcelin
-Source: (L5R p75)
 Id: l5r_rituals_hd.md#sourcelin
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: Sourcelin
 ParentName: Lancer un rituel
 NameLevel: 2
+Source: (L5R p75)
 Attributes:
   Name: Sourcelin
   Markdown: >+

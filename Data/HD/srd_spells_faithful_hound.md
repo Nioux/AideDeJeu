@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Faithful Hound
+AltName: '[Chien de garde](hd_spells_chien_de_garde.md)'
 Type: conjuration
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S, M (a tiny silver whistle, a piece of bone, and a thread)
 Duration: 8 hours
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p142)
-AltName: '[Chien de garde](hd_spells_chien_de_garde.md)'
 Id: spells_vo.md#faithful-hound
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

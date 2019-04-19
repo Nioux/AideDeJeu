@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Voir l'invisible
+AltName: '[See Invisibility](srd_spells_see_invisibility.md)'
 Type: Divination
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)
-AltName: '[See Invisibility](srd_spells_see_invisibility.md)'
 Id: spells_hd.md#voir-linvisible
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

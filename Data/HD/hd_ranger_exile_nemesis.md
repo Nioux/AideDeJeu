@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Némésis
 Id: ranger_exile_hd.md#némésis
 ParentLink: ranger_exile_hd.md#exilé
+Name: Némésis
 ParentName: Exilé
 NameLevel: 2
 Attributes:

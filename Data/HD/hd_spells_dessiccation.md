@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Dessiccation
 Type: Transmutation
 Level: 2
@@ -9,6 +8,7 @@ Range: 18 mètres
 Components: V, S, M (une goutte d'eau)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p346)
 Id: spells_hd.md#dessiccation
 ParentLink: spells_hd.md#sorts

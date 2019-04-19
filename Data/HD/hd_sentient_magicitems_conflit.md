@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Conflit
 Id: sentient_magicitems_hd.md#conflit
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
+Name: Conflit
 ParentName: Objets magiques intelligents
 NameLevel: 5
 Attributes:

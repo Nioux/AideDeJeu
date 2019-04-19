@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Shapechange
+AltName: '[Changement de forme](hd_spells_changement_de_forme.md)'
 Type: transmutation
 Level: 9
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Self
 Components: V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
 Duration: Concentration, up to 1 hour
 Classes: Druid, Wizard
+Family: SpellVO
 Source: (SRD p178)
-AltName: '[Changement de forme](hd_spells_changement_de_forme.md)'
 Id: spells_vo.md#shapechange
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

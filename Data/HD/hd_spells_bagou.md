@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Bagou
+AltName: '[Glibness](srd_spells_glibness.md)'
 Type: Transmutation
 Level: 8
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p326)(SRD)
-AltName: '[Glibness](srd_spells_glibness.md)'
 Id: spells_hd.md#bagou
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

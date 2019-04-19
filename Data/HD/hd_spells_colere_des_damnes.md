@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Colère des damnés
 Type: Invocation
 Level: 3
@@ -9,6 +8,7 @@ Range: 30 mètres
 Components: V, S, M (un peu de cendre et de poussière d'os)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p336)
 Id: spells_hd.md#colère-des-damnés
 ParentLink: spells_hd.md#sorts

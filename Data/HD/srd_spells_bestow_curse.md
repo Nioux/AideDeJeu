@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Bestow curse
+AltName: '[Jeter une malédiction](hd_spells_jeter_une_malediction.md)'
 Type: necromancy
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard, Cleric, Wizard
+Family: SpellVO
 Source: (SRD p121)
-AltName: '[Jeter une malédiction](hd_spells_jeter_une_malediction.md)'
 Id: spells_vo.md#bestow-curse
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

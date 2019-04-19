@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Supercherie
 Id: abilities_charisma_hd.md#supercherie
 ParentLink: abilities_charisma_hd.md#charisme
+Name: Supercherie
 ParentName: Charisme
 NameLevel: 3
 Attributes:

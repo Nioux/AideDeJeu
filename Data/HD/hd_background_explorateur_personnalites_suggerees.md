@@ -1,8 +1,8 @@
 ﻿---
 !Items
-Name: Personnalités suggérées
 Id: background_explorateur_hd.md#personnalités-suggérées
 ParentLink: background_explorateur_hd.md#explorateur
+Name: Personnalités suggérées
 ParentName: Explorateur
 NameLevel: 4
 Attributes:

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Spirit Guardians
+AltName: '[Esprits gardiens](hd_spells_esprits_gardiens.md)'
 Type: conjuration
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Self (15-foot radius)
 Components: V, S, M (a holy symbol)
 Duration: Concentration, up to 10 minutes
 Classes: Cleric
+Family: SpellVO
 Source: (SRD p182)
-AltName: '[Esprits gardiens](hd_spells_esprits_gardiens.md)'
 Id: spells_vo.md#spirit-guardians
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

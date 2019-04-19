@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Commune with Nature
+AltName: '[Communion avec la nature](hd_spells_communion_avec_la_nature.md)'
 Type: divination
 Level: 5
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: Self
 Components: V, S
 Duration: Instantaneous
 Classes: Druid, Ranger
+Family: SpellVO
 Source: (SRD p126)
-AltName: '[Communion avec la nature](hd_spells_communion_avec_la_nature.md)'
 Ritual: ritual
 Id: spells_vo.md#commune-with-nature
 ParentLink: spells_vo.md#spells-srd-p

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Résistance draconique
 Id: sorcerer_draconic_hd.md#résistance-draconique
 ParentLink: sorcerer_draconic_hd.md#lignée-draconique
+Name: Résistance draconique
 ParentName: Lignée draconique
 NameLevel: 2
 Attributes:

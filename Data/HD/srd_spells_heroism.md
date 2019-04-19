@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Heroism
+AltName: '[Héroïsme](hd_spells_heroisme.md)'
 Type: enchantment
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard, Paladin
+Family: SpellVO
 Source: (SRD p154)
-AltName: '[Héroïsme](hd_spells_heroisme.md)'
 Id: spells_vo.md#heroism
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

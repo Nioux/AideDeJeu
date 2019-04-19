@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Prière de soins
+AltName: '[Prayer of Healing](srd_spells_prayer_of_healing.md)'
 Type: Évocation
 Level: 2
 CastingTime: 10 minutes
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Prayer of Healing](srd_spells_prayer_of_healing.md)'
 Id: spells_hd.md#prière-de-soins
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

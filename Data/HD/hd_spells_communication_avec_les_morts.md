@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Communication avec les morts
+AltName: '[Speak with Dead](srd_spells_speak_with_dead.md)'
 Type: Nécromancie
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 3 mètres
 Components: V, S, M (encens incandescent)
 Duration: 10 minutes
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p336)(SRD)
-AltName: '[Speak with Dead](srd_spells_speak_with_dead.md)'
 Id: spells_hd.md#communication-avec-les-morts
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

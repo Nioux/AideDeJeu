@@ -60,6 +60,8 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
+<!--Table-->
+
 |Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Tours <!--br-->de <!--br-->magie <!--br-->connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|+2|[Incantations], [Domaine divin]|3|2|-|-|-|-|-|-|-|-|
@@ -82,6 +84,8 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 |18|+6|[Canalisation d'énergie divine] (3/repos)|5|4|3|3|3|3|1|1|1|1|
 |19|+6|[Amélioration de caractéristiques]|5|4|3|3|3|3|2|1|1|1|
 |20|+6|[Intervention divine supérieure]|5|4|3|3|3|3|2|2|1|1|
+
+<!--/Table-->
 
 (* Emplacement de sorts par niveau de sort)
 

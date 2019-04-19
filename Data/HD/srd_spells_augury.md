@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Augury
+AltName: '[Augure](hd_spells_augure.md)'
 Type: divination
 Level: 2
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: Self
 Components: V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)
 Duration: Instantaneous
 Classes: Cleric
+Family: SpellVO
 Source: (SRD p120)
-AltName: '[Augure](hd_spells_augure.md)'
 Ritual: ritual
 Id: spells_vo.md#augury
 ParentLink: spells_vo.md#spells-srd-p

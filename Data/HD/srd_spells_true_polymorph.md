@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: True Polymorph
+AltName: '[Métamorphose suprême](hd_spells_metamorphose_supreme.md)'
 Type: transmutation
 Level: 9
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
 Duration: Concentration, up to 1 hour
 Classes: Bard, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p188)
-AltName: '[Métamorphose suprême](hd_spells_metamorphose_supreme.md)'
 Id: spells_vo.md#true-polymorph
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

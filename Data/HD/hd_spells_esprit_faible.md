@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Esprit faible
+AltName: '[Feeblemind](srd_spells_feeblemind.md)'
 Type: Enchantement
 Level: 8
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 45 mètres
 Components: V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p353)(SRD)
-AltName: '[Feeblemind](srd_spells_feeblemind.md)'
 Id: spells_hd.md#esprit-faible
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

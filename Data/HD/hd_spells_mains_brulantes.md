@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Mains brûlantes
+AltName: '[Burning Hands](srd_spells_burning_hands.md)'
 Type: Évocation
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle (cône de 4,50 mètres)
 Components: V, S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Burning Hands](srd_spells_burning_hands.md)'
 Id: spells_hd.md#mains-brûlantes
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

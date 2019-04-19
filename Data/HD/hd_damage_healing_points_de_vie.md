@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Points de vie
-AltName: Hit Points
-Source: (MDR p298)(SRD p96)
 Id: damage_healing_hd.md#points-de-vie
 ParentLink: damage_healing_hd.md#dégâts-et-guérison-
+Name: Points de vie
 ParentName: 'Dégâts et guérison '
 NameLevel: 3
+AltName: Hit Points
+Source: (MDR p298)(SRD p96)
 Attributes:
   Name: Points de vie
   Markdown: >+

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Bless
+AltName: '[Bénédiction](hd_spells_benediction.md)'
 Type: enchantment
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S, M (a sprinkling of holy water)
 Duration: Concentration, up to 1 minute
 Classes: Cleric, Paladin
+Family: SpellVO
 Source: (SRD p122)
-AltName: '[Bénédiction](hd_spells_benediction.md)'
 Id: spells_vo.md#bless
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

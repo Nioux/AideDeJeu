@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Folie à durée illimitée
 Id: madness_hd.md#folie-à-durée-illimitée
 ParentLink: madness_hd.md#la-folie
+Name: Folie à durée illimitée
 ParentName: La folie
 NameLevel: 4
 Attributes:

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Thaumaturgie
+AltName: '[Thaumaturgy](srd_spells_thaumaturgy.md)'
 Type: Transmutation
 Level: tour de magie
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V
 Duration: jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Thaumaturgy](srd_spells_thaumaturgy.md)'
 Id: spells_hd.md#thaumaturgie
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

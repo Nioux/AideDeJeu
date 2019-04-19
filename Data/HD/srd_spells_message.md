@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Message
+AltName: '[Message](hd_spells_message.md)'
 Type: Transmutation
 Level: cantrip
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 120 feet
 Components: V, S, M (a short piece of copper wire)
 Duration: 1 round
 Classes: Bard, Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p164)
-AltName: '[Message](hd_spells_message.md)'
 Id: spells_vo.md#message
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

@@ -13,6 +13,9 @@ Attributes:
 
     Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de ki en réserve, vous regagnez automatiquement 4 points de ki.
 
+  Description: >+
+    Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de ki en réserve, vous regagnez automatiquement 4 points de ki.
+
 AttributesDictionary: >+
   Name: Perfection
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de ki en réserve, vous regagnez automatiquement 4 points de ki.
 
 
+
+  Description: >+
+
+    Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de ki en réserve, vous regagnez automatiquement 4 points de ki.
+
+
+
+Description: >+
+  Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de ki en réserve, vous regagnez automatiquement 4 points de ki.
 
 ---
 > [Moine](hd_monk.md)

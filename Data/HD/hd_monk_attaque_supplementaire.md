@@ -13,6 +13,9 @@ Attributes:
 
     À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer lors de votre tour.
 
+  Description: >+
+    À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer lors de votre tour.
+
 AttributesDictionary: >+
   Name: Attaque supplémentaire
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer lors de votre tour.
 
 
+
+  Description: >+
+
+    À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer lors de votre tour.
+
+
+
+Description: >+
+  À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer lors de votre tour.
 
 ---
 > [Moine](hd_monk.md)

@@ -13,6 +13,9 @@ Attributes:
 
     Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
 
+  Description: >+
+    Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
+
 AttributesDictionary: >+
   Name: Style de combat
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
 
 
+
+  Description: >+
+
+    Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
+
+
+
+Description: >+
+  Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
 
 ---
 > [Paladin](hd_paladin.md)

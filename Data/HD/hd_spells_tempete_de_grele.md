@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Tempête de grêle
+AltName: '[Ice Storm](srd_spells_ice_storm.md)'
 Type: Évocation
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 90 mètres
 Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
 Duration: instantanée
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Ice Storm](srd_spells_ice_storm.md)'
 Id: spells_hd.md#tempête-de-grêle
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

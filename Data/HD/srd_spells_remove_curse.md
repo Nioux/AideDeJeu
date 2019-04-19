@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Remove Curse
+AltName: '[Lever une malédiction](hd_spells_lever_une_malediction.md)'
 Type: abjuration
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric, Paladin, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p174)
-AltName: '[Lever une malédiction](hd_spells_lever_une_malediction.md)'
 Id: spells_vo.md#remove-curse
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

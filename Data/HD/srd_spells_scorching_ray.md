@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Scorching Ray
+AltName: '[Rayon ardent](hd_spells_rayon_ardent.md)'
 Type: evocation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 120 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p176)
-AltName: '[Rayon ardent](hd_spells_rayon_ardent.md)'
 Id: spells_vo.md#scorching-ray
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

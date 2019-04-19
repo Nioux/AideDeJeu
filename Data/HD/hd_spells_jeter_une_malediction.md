@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Jeter une malédiction
+AltName: '[Bestow curse](srd_spells_bestow_curse.md)'
 Type: Nécromancie
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Bestow curse](srd_spells_bestow_curse.md)'
 Id: spells_hd.md#jeter-une-malédiction
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

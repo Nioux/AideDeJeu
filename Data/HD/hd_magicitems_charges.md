@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Charges
 Id: magicitems_hd.md#charges
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Charges
 ParentName: Objets magiques
 NameLevel: 4
 Attributes:

@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Instrument fantomatique
 Type: Illusion
 Level: 1
@@ -9,6 +8,7 @@ Range: 18 mètres
 Components: V, S, M (un archet et un morceau d'os)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md)'
+Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#instrument-fantomatique
 ParentLink: spells_hd.md#sorts

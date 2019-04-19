@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Aura de force
 Type: Abjuration
 Level: 5
@@ -9,6 +8,7 @@ Range: 9 mètres
 Components: V
 Duration: Concentration, jusqu'à 10 minutes
 Classes: '[Paladin](hd_paladin.md)'
+Family: SpellHD
 Source: (MDR p325)
 Id: spells_hd.md#aura-de-force
 ParentLink: spells_hd.md#sorts

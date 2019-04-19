@@ -3,6 +3,9 @@
 Name: Barbare
 AltName: Barbarian (SRD p8)
 Source: (MDR p114)
+Description: >+
+  En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
+
 Id: barbarian_hd.md#barbare
 RootId: barbarian_hd.md
 ParentLink: classes_hd.md
@@ -84,9 +87,6 @@ AttributesDictionary: >+
     En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 
 
-
-Description: >+
-  En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 
 ---
 >  [Classes](hd_classes.md)

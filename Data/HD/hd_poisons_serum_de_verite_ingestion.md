@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sérum de vérité (ingestion)
 Id: poisons_hd.md#sérum-de-vérité-ingestion
 ParentLink: poisons_hd.md#les-poisons
+Name: Sérum de vérité (ingestion)
 ParentName: Les poisons
 NameLevel: 4
 Attributes:

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Counterspell
+AltName: '[Contresort](hd_spells_contresort.md)'
 Type: abjuration
 Level: 3
 CastingTime: 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: S
 Duration: Instantaneous
 Classes: Sorcerer, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p131)
-AltName: '[Contresort](hd_spells_contresort.md)'
 Id: spells_vo.md#counterspell
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

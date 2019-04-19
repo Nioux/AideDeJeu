@@ -3,6 +3,9 @@
 Name: Paladin
 AltName: Paladin (SRD p30)
 Source: (MDR p183)
+Description: >+
+  En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
+
 Id: paladin_hd.md#paladin
 RootId: paladin_hd.md
 ParentLink: classes_hd.md
@@ -31,6 +34,9 @@ Attributes:
   Name: Paladin
   AltName: Paladin (SRD p30)
   Source: (MDR p183)
+  Description: >+
+    En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
+
 AttributesDictionary: >+
   ParentNameLink: '[Classes](hd_classes.md)'
 
@@ -75,6 +81,12 @@ AttributesDictionary: >+
   AltName: Paladin (SRD p30)
 
   Source: (MDR p183)
+
+  Description: >+
+
+    En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
+
+
 
 ---
 >  [Classes](hd_classes.md)

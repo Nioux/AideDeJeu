@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Lumière du jour
+AltName: '[Daylight](srd_spells_daylight.md)'
 Type: Évocation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S
 Duration: 1 heure
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Daylight](srd_spells_daylight.md)'
 Id: spells_hd.md#lumière-du-jour
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

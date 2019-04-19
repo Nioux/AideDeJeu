@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Se cacher
-AltName: Hide (SRD p93)
-Source: (MDR p288)
 Id: combat_hd.md#se-cacher
 ParentLink: combat_hd.md#combattre
+Name: Se cacher
 ParentName: Combattre
 NameLevel: 3
+AltName: Hide (SRD p93)
+Source: (MDR p288)
 Attributes:
   Name: Se cacher
   Markdown: >+

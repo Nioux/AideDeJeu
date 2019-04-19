@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Manoir somptueux
+AltName: '[Magnificent Mansion](srd_spells_magnificent_mansion.md)'
 Type: Invocation
 Level: 7
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: 90 mètres
 Components: V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
 Duration: 24 heures
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)
-AltName: '[Magnificent Mansion](srd_spells_magnificent_mansion.md)'
 Id: spells_hd.md#manoir-somptueux
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

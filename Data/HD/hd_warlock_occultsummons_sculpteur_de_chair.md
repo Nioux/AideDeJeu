@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sculpteur de chair
 Id: warlock_occultsummons_hd.md#sculpteur-de-chair
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Sculpteur de chair
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

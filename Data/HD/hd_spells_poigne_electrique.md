@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Poigne électrique
+AltName: '[Shocking Grasp](srd_spells_shocking_grasp.md)'
 Type: Évocation
 Level: tour de magie
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Shocking Grasp](srd_spells_shocking_grasp.md)'
 Id: spells_hd.md#poigne-électrique
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

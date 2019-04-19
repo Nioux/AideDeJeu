@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Option encore plus mortelle
-Source: (L5R p44)
 Id: l5r_hitpoints_hd.md#option-encore-plus-mortelle
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
+Name: Option encore plus mortelle
 ParentName: Points de vie et blessures
 NameLevel: 4
+Source: (L5R p44)
 Attributes:
   Name: Option encore plus mortelle
   Markdown: >+

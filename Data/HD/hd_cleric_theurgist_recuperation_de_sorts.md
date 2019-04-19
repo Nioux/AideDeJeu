@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Récupération de sorts
 Id: cleric_theurgist_hd.md#récupération-de-sorts
 ParentLink: cleric_theurgist_hd.md#théurge
+Name: Récupération de sorts
 ParentName: Théurge
 NameLevel: 2
 Attributes:

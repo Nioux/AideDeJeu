@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Étrangeté
+AltName: '[Weird](srd_spells_weird.md)'
 Type: Illusion
 Level: 9
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 36 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p354)(SRD)
-AltName: '[Weird](srd_spells_weird.md)'
 Id: spells_hd.md#Étrangeté
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

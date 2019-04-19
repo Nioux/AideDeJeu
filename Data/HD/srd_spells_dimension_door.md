@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Dimension Door
+AltName: '[Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)'
 Type: conjuration
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 500 feet
 Components: V
 Duration: Instantaneous
 Classes: Bard, Sorcerer, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p135)
-AltName: '[Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)'
 Id: spells_vo.md#dimension-door
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

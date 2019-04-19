@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Cri sauvage
 Id: barbarian_howling_hd.md#cri-sauvage
 ParentLink: barbarian_howling_hd.md#voie-du-hurlement
+Name: Cri sauvage
 ParentName: Voie du hurlement
 NameLevel: 2
 Attributes:

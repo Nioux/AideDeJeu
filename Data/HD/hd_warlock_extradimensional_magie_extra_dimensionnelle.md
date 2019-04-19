@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Magie extra-dimensionnelle
 Id: warlock_extradimensional_hd.md#magie-extra-dimensionnelle
 ParentLink: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
+Name: Magie extra-dimensionnelle
 ParentName: L'entité extra-dimensionnelle
 NameLevel: 2
 Attributes:

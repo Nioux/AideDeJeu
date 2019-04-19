@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Weird
+AltName: '[Étrangeté](hd_spells_etrangete.md)'
 Type: illusion
 Level: 9
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 120 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p192)
-AltName: '[Étrangeté](hd_spells_etrangete.md)'
 Id: spells_vo.md#weird
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

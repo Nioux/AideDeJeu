@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Wish
+AltName: '[Souhait](hd_spells_souhait.md)'
 Type: conjuration
 Level: 9
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Self
 Components: V
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p193)
-AltName: '[Souhait](hd_spells_souhait.md)'
 Id: spells_vo.md#wish
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

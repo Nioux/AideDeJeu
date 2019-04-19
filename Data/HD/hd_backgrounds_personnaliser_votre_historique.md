@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Personnaliser votre historique
-AltName: Customizing a Background (SRD p60)
-Source: (MDR p78)
 Id: backgrounds_hd.md#personnaliser-votre-historique
 ParentLink: backgrounds_hd.md#historique
+Name: Personnaliser votre historique
 ParentName: Historique
 NameLevel: 3
+AltName: Customizing a Background (SRD p60)
+Source: (MDR p78)
 Attributes:
   Name: Personnaliser votre historique
   Markdown: >+

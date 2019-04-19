@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Locate Object
+AltName: '[Localiser un objet](hd_spells_localiser_un_objet.md)'
 Type: divination
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Self
 Components: V, S, M (a forked twig)
 Duration: Concentration, up to 10 minutes
 Classes: Bard, Cleric, Druid, Paladin, Ranger, Wizard
+Family: SpellVO
 Source: (SRD p159)
-AltName: '[Localiser un objet](hd_spells_localiser_un_objet.md)'
 Id: spells_vo.md#locate-object
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

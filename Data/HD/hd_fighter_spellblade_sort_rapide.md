@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sort rapide
 Id: fighter_spellblade_hd.md#sort-rapide
 ParentLink: fighter_spellblade_hd.md#sorcelame
+Name: Sort rapide
 ParentName: Sorcelame
 NameLevel: 2
 Attributes:

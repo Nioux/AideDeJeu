@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Arme magique
+AltName: '[Magic Weapon](srd_spells_magic_weapon.md)'
 Type: Transmutation
 Level: 2
 CastingTime: 1 action bonus
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
+Family: SpellHD
 Source: (MDR p324)(SRD)
-AltName: '[Magic Weapon](srd_spells_magic_weapon.md)'
 Id: spells_hd.md#arme-magique
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

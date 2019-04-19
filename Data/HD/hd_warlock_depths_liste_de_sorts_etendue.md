@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Liste de sorts étendue
 Id: warlock_depths_hd.md#liste-de-sorts-étendue
 ParentLink: warlock_depths_hd.md#la-puissance-des-profondeurs
+Name: Liste de sorts étendue
 ParentName: La puissance des profondeurs
 NameLevel: 2
 Attributes:

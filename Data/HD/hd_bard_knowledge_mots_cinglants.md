@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Mots cinglants
 Id: bard_knowledge_hd.md#mots-cinglants
 ParentLink: bard_knowledge_hd.md#collège-du-savoir
+Name: Mots cinglants
 ParentName: Collège du savoir
 NameLevel: 2
 Attributes:

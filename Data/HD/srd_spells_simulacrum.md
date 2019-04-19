@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Simulacrum
+AltName: '[Simulacre](hd_spells_simulacre.md)'
 Type: illusion
 Level: 7
 CastingTime: 12 hours
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)
 Duration: Until dispelled
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p180)
-AltName: '[Simulacre](hd_spells_simulacre.md)'
 Id: spells_vo.md#simulacrum
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

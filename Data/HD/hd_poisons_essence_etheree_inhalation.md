@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Essence éthérée (inhalation)
 Id: poisons_hd.md#essence-éthérée-inhalation
 ParentLink: poisons_hd.md#les-poisons
+Name: Essence éthérée (inhalation)
 ParentName: Les poisons
 NameLevel: 4
 Attributes:

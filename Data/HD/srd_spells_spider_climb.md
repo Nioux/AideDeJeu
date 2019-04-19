@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Spider Climb
+AltName: "[Pattes d'araignée](hd_spells_pattes_daraignee.md)"
 Type: transmutation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (a drop of bitumen and a spider)
 Duration: Concentration, up to 1 hour
 Classes: Sorcerer, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p182)
-AltName: "[Pattes d'araignée](hd_spells_pattes_daraignee.md)"
 Id: spells_vo.md#spider-climb
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

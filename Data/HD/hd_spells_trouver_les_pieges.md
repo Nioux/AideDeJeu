@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Trouver les pièges
+AltName: '[Find Traps](srd_spells_find_traps.md)'
 Type: Divination
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 36 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Find Traps](srd_spells_find_traps.md)'
 Id: spells_hd.md#trouver-les-pièges
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

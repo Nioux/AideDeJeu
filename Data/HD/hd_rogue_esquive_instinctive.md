@@ -13,6 +13,9 @@ Attributes:
 
     À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque.
 
+  Description: >+
+    À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque.
+
 AttributesDictionary: >+
   Name: Esquive instinctive
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque.
 
 
+
+  Description: >+
+
+    À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque.
+
+
+
+Description: >+
+  À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque.
 
 ---
 > [Roublard](hd_rogue.md)

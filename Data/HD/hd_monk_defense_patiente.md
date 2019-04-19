@@ -13,6 +13,9 @@ Attributes:
 
     Vous pouvez dépenser 1 point de ki pour utiliser l'action esquiver en action bonus lors de votre tour.
 
+  Description: >+
+    Vous pouvez dépenser 1 point de ki pour utiliser l'action esquiver en action bonus lors de votre tour.
+
 AttributesDictionary: >+
   Name: Défense patiente
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Vous pouvez dépenser 1 point de ki pour utiliser l'action esquiver en action bonus lors de votre tour.
 
 
+
+  Description: >+
+
+    Vous pouvez dépenser 1 point de ki pour utiliser l'action esquiver en action bonus lors de votre tour.
+
+
+
+Description: >+
+  Vous pouvez dépenser 1 point de ki pour utiliser l'action esquiver en action bonus lors de votre tour.
 
 ---
 > [Moine](hd_monk.md)

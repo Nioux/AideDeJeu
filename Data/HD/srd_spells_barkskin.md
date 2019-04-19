@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Barkskin
+AltName: "[Peau d'écorce](hd_spells_peau_decorce.md)"
 Type: transmutation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (a handful of oak bark)
 Duration: Concentration, up to 1 hour
 Classes: Druid, Ranger
+Family: SpellVO
 Source: (SRD p121)
-AltName: "[Peau d'écorce](hd_spells_peau_decorce.md)"
 Id: spells_vo.md#barkskin
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

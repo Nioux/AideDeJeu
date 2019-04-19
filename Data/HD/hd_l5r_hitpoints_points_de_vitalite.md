@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Points de vitalité
-Source: (L5R p43)
 Id: l5r_hitpoints_hd.md#points-de-vitalité
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
+Name: Points de vitalité
 ParentName: Points de vie et blessures
 NameLevel: 3
+Source: (L5R p43)
 Attributes:
   Name: Points de vitalité
   Markdown: >+

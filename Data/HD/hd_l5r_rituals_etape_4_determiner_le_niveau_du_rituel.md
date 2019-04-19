@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: 'Étape 4 : déterminer le niveau du rituel'
-Source: (L5R p72)
 Id: l5r_rituals_hd.md#Étape-4--déterminer-le-niveau-du-rituel
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: 'Étape 4 : déterminer le niveau du rituel'
 ParentName: Lancer un rituel
 NameLevel: 4
+Source: (L5R p72)
 Attributes:
   Name: 'Étape 4 : déterminer le niveau du rituel'
   Markdown: >+

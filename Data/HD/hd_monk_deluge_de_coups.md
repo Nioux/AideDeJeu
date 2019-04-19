@@ -13,6 +13,9 @@ Attributes:
 
     Immédiatement après avoir choisi l'action attaquer lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
 
+  Description: >+
+    Immédiatement après avoir choisi l'action attaquer lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
+
 AttributesDictionary: >+
   Name: Déluge de coups
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Immédiatement après avoir choisi l'action attaquer lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
 
 
+
+  Description: >+
+
+    Immédiatement après avoir choisi l'action attaquer lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
+
+
+
+Description: >+
+  Immédiatement après avoir choisi l'action attaquer lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
 
 ---
 > [Moine](hd_monk.md)

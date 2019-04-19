@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Perception
 Id: abilities_wisdom_hd.md#perception
 ParentLink: abilities_wisdom_hd.md#sagesse
+Name: Perception
 ParentName: Sagesse
 NameLevel: 3
 Attributes:

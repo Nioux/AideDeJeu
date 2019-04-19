@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Canalisation d'énergie divine
 Id: paladin_piety_hd.md#canalisation-dénergie-divine
 ParentLink: paladin_piety_hd.md#serment-de-piété
+Name: Canalisation d'énergie divine
 ParentName: Serment de piété
 NameLevel: 2
 Attributes:

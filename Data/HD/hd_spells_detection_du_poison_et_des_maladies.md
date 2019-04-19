@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Détection du poison et des maladies
+AltName: '[Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)'
 Type: Divination
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V, S, M (un brin d'if)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p347)(SRD)
-AltName: '[Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)'
 Ritual: rituel
 Id: spells_hd.md#détection-du-poison-et-des-maladies
 ParentLink: spells_hd.md#sorts

@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Perce-rêves
-Source: (L5R p74)
 Id: l5r_rituals_hd.md#perce-rêves
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: Perce-rêves
 ParentName: Lancer un rituel
 NameLevel: 3
+Source: (L5R p74)
 Attributes:
   Name: Perce-rêves
   Markdown: >+

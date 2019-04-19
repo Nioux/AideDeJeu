@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Protection contre les énergies
+AltName: '[Protection from Energy](srd_spells_protection_from_energy.md)'
 Type: Abjuration
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Ombrelame](hd_rogue_ombrelame.md)'
+Family: SpellHD
 Source: (MDR p)
-AltName: '[Protection from Energy](srd_spells_protection_from_energy.md)'
 Id: spells_hd.md#protection-contre-les-énergies
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

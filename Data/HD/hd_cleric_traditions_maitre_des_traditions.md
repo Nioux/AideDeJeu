@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Maître des traditions
 Id: cleric_traditions_hd.md#maître-des-traditions
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
+Name: Maître des traditions
 ParentName: Gardien des traditions
 NameLevel: 2
 Attributes:

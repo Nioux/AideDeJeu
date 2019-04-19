@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Earthquake
+AltName: '[Tremblement de terre](hd_spells_tremblement_de_terre.md)'
 Type: evocation
 Level: 8
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 500 feet
 Components: V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
 Duration: Concentration, up to 1 minute
 Classes: Cleric, Druid, Sorcerer
+Family: SpellVO
 Source: (SRD p139)
-AltName: '[Tremblement de terre](hd_spells_tremblement_de_terre.md)'
 Id: spells_vo.md#earthquake
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

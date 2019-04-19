@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Acid Arrow
+AltName: '[Flèche acide](hd_spells_fleche_acide.md)'
 Type: evocation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 90 feet
 Components: V, S, M (powdered rhubarb leaf and an adder's stomach)
 Duration: Instantaneous
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p114)
-AltName: '[Flèche acide](hd_spells_fleche_acide.md)'
 Id: spells_vo.md#acid-arrow
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

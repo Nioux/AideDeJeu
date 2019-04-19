@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Les statistiques des objets
 Id: objects_hd.md#les-statistiques-des-objets
 ParentLink: objects_hd.md#les-objets
+Name: Les statistiques des objets
 ParentName: Les objets
 NameLevel: 3
 Attributes:

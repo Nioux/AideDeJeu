@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Charme-personne
+AltName: '[Charm Person](srd_spells_charm_person.md)'
 Type: Enchantement
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p333)(SRD)
-AltName: '[Charm Person](srd_spells_charm_person.md)'
 Id: spells_hd.md#charme-personne
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

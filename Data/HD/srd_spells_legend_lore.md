@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Legend Lore
+AltName: '[Légende](hd_spells_legende.md)'
 Type: divination
 Level: 5
 CastingTime: 10 minutes
@@ -9,8 +9,8 @@ Range: Self
 Components: V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)
 Duration: Instantaneous
 Classes: Bard, Cleric, Wizard
+Family: SpellVO
 Source: (SRD p158)
-AltName: '[Légende](hd_spells_legende.md)'
 Id: spells_vo.md#legend-lore
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

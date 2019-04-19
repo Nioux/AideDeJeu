@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Langage animal
 Id: warlock_occultsummons_hd.md#langage-animal
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Langage animal
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

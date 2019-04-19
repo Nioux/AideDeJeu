@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Empoignade
-AltName: Grappling (SRD p95)
-Source: (MDR p292)
 Id: combat_hd.md#empoignade
 ParentLink: combat_hd.md#combattre
+Name: Empoignade
 ParentName: Combattre
 NameLevel: 4
+AltName: Grappling (SRD p95)
+Source: (MDR p292)
 Attributes:
   Name: Empoignade
   Markdown: >+

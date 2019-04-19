@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Animate Dead
+AltName: '[Animation des morts](hd_spells_animation_des_morts.md)'
 Type: necromancy
 Level: 3
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: 10 feet
 Components: V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
 Duration: Instantaneous
 Classes: Cleric, Wizard
+Family: SpellVO
 Source: (SRD p115)
-AltName: '[Animation des morts](hd_spells_animation_des_morts.md)'
 Id: spells_vo.md#animate-dead
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

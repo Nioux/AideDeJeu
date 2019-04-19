@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Nuage mortel
+AltName: '[Cloudkill](srd_spells_cloudkill.md)'
 Type: Invocation
 Level: 5
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 36 mètres
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Cloudkill](srd_spells_cloudkill.md)'
 Id: spells_hd.md#nuage-mortel
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

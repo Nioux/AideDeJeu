@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Burning Hands
+AltName: '[Mains brûlantes](hd_spells_mains_brulantes.md)'
 Type: evocation
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Self (15-foot cone)
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p123)
-AltName: '[Mains brûlantes](hd_spells_mains_brulantes.md)'
 Id: spells_vo.md#burning-hands
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

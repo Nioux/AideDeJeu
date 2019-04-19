@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Regard noir
 Id: rogue_brute_hd.md#regard-noir
 ParentLink: rogue_brute_hd.md#brute
+Name: Regard noir
 ParentName: Brute
 NameLevel: 2
 Attributes:

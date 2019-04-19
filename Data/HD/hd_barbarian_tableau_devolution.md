@@ -1,6 +1,5 @@
 ﻿---
 !ClassEvolutionItem
-Name: Tableau d'évolution
 Table: >+
   |Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Rages|Dégâts <!--br-->de <!--br-->rage|
 
@@ -48,6 +47,7 @@ Table: >+
 
 Id: barbarian_hd.md#tableau-dévolution
 ParentLink: barbarian_hd.md#barbare
+Name: Tableau d'évolution
 ParentName: Barbare
 NameLevel: 1
 Attributes:

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Résistance des fiélons
 Id: sorcerer_infernal_hd.md#résistance-des-fiélons
 ParentLink: sorcerer_infernal_hd.md#lignée-infernale
+Name: Résistance des fiélons
 ParentName: Lignée infernale
 NameLevel: 2
 Attributes:

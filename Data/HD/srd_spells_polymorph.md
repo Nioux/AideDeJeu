@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Polymorph
+AltName: '[Métamorphose](hd_spells_metamorphose.md)'
 Type: transmutation
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: V, S, M (a caterpillar cocoon)
 Duration: Concentration, up to 1 hour
 Classes: Bard, Druid, Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p169)
-AltName: '[Métamorphose](hd_spells_metamorphose.md)'
 Id: spells_vo.md#polymorph
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

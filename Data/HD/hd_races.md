@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Races
-AltName: Races
-Source: (MDR p36)(SRD p3)
 Id: races_hd.md#races
 RootId: races_hd.md
 ParentLink: index.md
+Name: Races
 ParentName: Manuel des règles
 NameLevel: 1
+AltName: Races
+Source: (MDR p36)(SRD p3)
 Attributes:
   ParentNameLink: '[Manuel des règles](index.md)'
   Markdown: >+

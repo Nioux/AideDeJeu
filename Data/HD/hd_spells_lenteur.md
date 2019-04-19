@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Lenteur
+AltName: '[Slow](srd_spells_slow.md)'
 Type: Transmutation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 36 mètres
 Components: V, S, M (une goutte de mélasse)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Slow](srd_spells_slow.md)'
 Id: spells_hd.md#lenteur
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

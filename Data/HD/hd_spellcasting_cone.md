@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Cône
-AltName: Cone (SRD p103)
-Source: (MDR p309)
 Id: spellcasting_hd.md#cône
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Cône
 ParentName: Lancer des sorts
 NameLevel: 4
+AltName: Cone (SRD p103)
+Source: (MDR p309)
 Attributes:
   Name: Cône
   Markdown: >+

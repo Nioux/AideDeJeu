@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Regard de deux esprits
 Id: warlock_occultsummons_hd.md#regard-de-deux-esprits
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Regard de deux esprits
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

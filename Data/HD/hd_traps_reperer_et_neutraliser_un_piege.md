@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Repérer et neutraliser un piège
 Id: traps_hd.md#repérer-et-neutraliser-un-piège
 ParentLink: traps_hd.md#les-pièges
+Name: Repérer et neutraliser un piège
 ParentName: Les pièges
 NameLevel: 3
 Attributes:

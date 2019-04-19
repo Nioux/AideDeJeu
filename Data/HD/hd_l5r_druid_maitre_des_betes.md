@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Maître des bêtes
-Source: (L5R p60)
 Id: l5r_druid_hd.md#maître-des-bêtes
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
+Name: Maître des bêtes
 ParentName: Druide des cinq royaumes
 NameLevel: 5
+Source: (L5R p60)
 Attributes:
   Name: Maître des bêtes
   Markdown: >+

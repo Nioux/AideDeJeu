@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sévérité des dégâts par niveau
 Id: traps_hd.md#sévérité-des-dégâts-par-niveau
 ParentLink: traps_hd.md#les-pièges
+Name: Sévérité des dégâts par niveau
 ParentName: Les pièges
 NameLevel: 4
 Attributes:

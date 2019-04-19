@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Incarnation
 Id: barbarian_spirits_hd.md#incarnation
 ParentLink: barbarian_spirits_hd.md#voie-des-esprits
+Name: Incarnation
 ParentName: Voie des esprits
 NameLevel: 2
 Attributes:

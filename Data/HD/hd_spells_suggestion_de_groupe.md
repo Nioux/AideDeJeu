@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Suggestion de groupe
+AltName: '[Mass Suggestion](srd_spells_mass_suggestion.md)'
 Type: Enchantement
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
 Duration: 24 heures
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Mass Suggestion](srd_spells_mass_suggestion.md)'
 Id: spells_hd.md#suggestion-de-groupe
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

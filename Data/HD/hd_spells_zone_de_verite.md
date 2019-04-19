@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Zone de vérité
+AltName: '[Zone of Truth](srd_spells_zone_of_truth.md)'
 Type: Enchantement
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S
 Duration: 10 minutes
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Zone of Truth](srd_spells_zone_of_truth.md)'
 Id: spells_hd.md#zone-de-vérité
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

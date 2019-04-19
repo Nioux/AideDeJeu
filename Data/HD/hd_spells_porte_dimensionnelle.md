@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Porte dimensionnelle
+AltName: '[Dimension Door](srd_spells_dimension_door.md)'
 Type: Invocation
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 150 mètres
 Components: V
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Dimension Door](srd_spells_dimension_door.md)'
 Id: spells_hd.md#porte-dimensionnelle
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

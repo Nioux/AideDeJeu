@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Résurrection suprême
+AltName: '[True Resurrection](srd_spells_true_resurrection.md)'
 Type: Nécromancie
 Level: 9
 CastingTime: 1 heure
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[True Resurrection](srd_spells_true_resurrection.md)'
 Id: spells_hd.md#résurrection-suprême
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

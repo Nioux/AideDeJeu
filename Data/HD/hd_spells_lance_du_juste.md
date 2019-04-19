@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Lance du juste
 Type: Transmutation
 Level: 3
@@ -9,6 +8,7 @@ Range: 18 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Paladin](hd_paladin.md)'
+Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#lance-du-juste
 ParentLink: spells_hd.md#sorts

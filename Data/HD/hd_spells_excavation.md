@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Excavation
 Type: Transmutation
 Level: 8
@@ -9,6 +8,7 @@ Range: 18 mètres
 Components: V, S, M (une cuillère)
 Duration: instantanée
 Classes: '[Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p354)
 Id: spells_hd.md#excavation
 ParentLink: spells_hd.md#sorts

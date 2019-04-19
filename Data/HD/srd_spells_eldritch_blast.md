@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Eldritch Blast
+AltName: '[Explosion occulte](hd_spells_explosion_occulte.md)'
 Type: Evocation
 Level: cantrip
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 120 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Warlock
+Family: SpellVO
 Source: (SRD p139)
-AltName: '[Explosion occulte](hd_spells_explosion_occulte.md)'
 Id: spells_vo.md#eldritch-blast
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

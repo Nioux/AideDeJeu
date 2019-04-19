@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Caresse du vampire
+AltName: '[Vampiric Touch](srd_spells_vampiric_touch.md)'
 Type: Nécromancie
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p330)(SRD)
-AltName: '[Vampiric Touch](srd_spells_vampiric_touch.md)'
 Id: spells_hd.md#caresse-du-vampire
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

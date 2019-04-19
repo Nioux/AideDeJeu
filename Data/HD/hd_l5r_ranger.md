@@ -1,12 +1,12 @@
 ﻿---
 !Items
-Name: Rôdeur des cinq Royaumes
-Source: (L5R p52)
 Id: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
 RootId: l5r_ranger_hd.md
 ParentLink: l5r_index_hd.md
+Name: Rôdeur des cinq Royaumes
 ParentName: Les Cinq Royaumes
 NameLevel: 2
+Source: (L5R p52)
 Attributes:
   ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
   Markdown: >+

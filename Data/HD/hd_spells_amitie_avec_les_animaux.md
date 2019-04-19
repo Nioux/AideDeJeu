@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Amitié avec les animaux
+AltName: '[Animal Friendship](srd_spells_animal_friendship.md)'
 Type: Enchantement
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S, M (un peu de nourriture)
 Duration: 24 heures
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p321)(SRD)
-AltName: '[Animal Friendship](srd_spells_animal_friendship.md)'
 Id: spells_hd.md#amitié-avec-les-animaux
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

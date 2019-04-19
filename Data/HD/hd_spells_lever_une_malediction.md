@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Lever une malédiction
+AltName: '[Remove Curse](srd_spells_remove_curse.md)'
 Type: Abjuration
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Remove Curse](srd_spells_remove_curse.md)'
 Id: spells_hd.md#lever-une-malédiction
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

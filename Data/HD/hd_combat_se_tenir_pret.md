@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Se tenir prêt
-AltName: Ready (SRD p93)
-Source: (MDR p290)
 Id: combat_hd.md#se-tenir-prêt
 ParentLink: combat_hd.md#combattre
+Name: Se tenir prêt
 ParentName: Combattre
 NameLevel: 3
+AltName: Ready (SRD p93)
+Source: (MDR p290)
 Attributes:
   Name: Se tenir prêt
   Markdown: >+

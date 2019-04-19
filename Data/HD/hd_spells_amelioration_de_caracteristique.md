@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Amélioration de caractéristique
+AltName: '[Enhance Ability](srd_spells_enhance_ability.md)'
 Type: Transmutation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (des poils ou des plumes venant d'un animal)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
+Family: SpellHD
 Source: (MDR p321)(SRD)
-AltName: '[Enhance Ability](srd_spells_enhance_ability.md)'
 Id: spells_hd.md#amélioration-de-caractéristique
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

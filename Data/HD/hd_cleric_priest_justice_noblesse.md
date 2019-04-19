@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Justice, noblesse
 Id: cleric_priest_hd.md#justice-noblesse
 ParentLink: cleric_priest_hd.md#liste-des-domaines
+Name: Justice, noblesse
 ParentName: Liste des domaines
 NameLevel: 4
 Attributes:

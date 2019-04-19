@@ -1,8 +1,8 @@
 ﻿---
 !Items
-Name: Personnalités suggérées
 Id: background_solitaire_hd.md#personnalités-suggérées
 ParentLink: background_solitaire_hd.md#solitaire
+Name: Personnalités suggérées
 ParentName: Solitaire
 NameLevel: 4
 Attributes:

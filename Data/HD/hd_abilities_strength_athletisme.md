@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Athlétisme
 Id: abilities_strength_hd.md#athlétisme
 ParentLink: abilities_strength_hd.md#force
+Name: Athlétisme
 ParentName: Force
 NameLevel: 3
 Attributes:

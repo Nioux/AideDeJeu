@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Transpercer
 Type: Invocation
 Level: 1
@@ -9,6 +8,7 @@ Range: personnelle
 Components: V
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#transpercer
 ParentLink: spells_hd.md#sorts

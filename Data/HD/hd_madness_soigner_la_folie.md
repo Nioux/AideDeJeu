@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Soigner la folie
 Id: madness_hd.md#soigner-la-folie
 ParentLink: madness_hd.md#la-folie
+Name: Soigner la folie
 ParentName: La folie
 NameLevel: 3
 Attributes:

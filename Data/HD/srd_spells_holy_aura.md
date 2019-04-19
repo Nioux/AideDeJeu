@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Holy Aura
+AltName: '[Aura sacrée](hd_spells_aura_sacree.md)'
 Type: abjuration
 Level: 8
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Self
 Components: V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)
 Duration: Concentration, up to 1 minute
 Classes: Cleric
+Family: SpellVO
 Source: (SRD p155)
-AltName: '[Aura sacrée](hd_spells_aura_sacree.md)'
 Id: spells_vo.md#holy-aura
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

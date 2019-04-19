@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Minor Illusion
+AltName: '[Illusion mineure](hd_spells_illusion_mineure.md)'
 Type: Illusion
 Level: cantrip
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: S, M (a bit of fleece)
 Duration: 1 minute
 Classes: Bard, Sorcerer, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p164)
-AltName: '[Illusion mineure](hd_spells_illusion_mineure.md)'
 Id: spells_vo.md#minor-illusion
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

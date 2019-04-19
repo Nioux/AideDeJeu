@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Alarme
+AltName: '[Alarm](srd_spells_alarm.md)'
 Type: Abjuration
 Level: 1
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S, M (une minuscule clochette et un filament en argent)
 Duration: 8 heures
 Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p320)(SRD)
-AltName: '[Alarm](srd_spells_alarm.md)'
 Ritual: rituel
 Id: spells_hd.md#alarme
 ParentLink: spells_hd.md#sorts

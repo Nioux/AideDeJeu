@@ -10,7 +10,11 @@
 - AltName: <!--AltName-->Warlock (SRD p46)<!--/AltName-->
 - Source: <!--Source-->(MDR p209)<!--/Source-->
 
+<!--Description-->
+
 En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
+
+<!--/Description-->
 
 <!--ClassHitPointsItem-->
 
@@ -38,6 +42,8 @@ En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
 
 ## <!--Name-->Équipement<!--/Name-->
 
+<!--Description-->
+
 Vous commencez avec l'équipement suivant, en plus de celui accordé par votre historique :
 
 * (a) une [arbalète légère] et vingt [carreaux] ou (b) n'importe quelle [arme courante]
@@ -45,11 +51,15 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 * (a) un [paquetage d'érudit] ou (b) un [paquetage d'exploration souterraine]
 * une [armure de cuir], n'importe quelle [arme courante] et deux [dagues]
 
+<!--/Description-->
+
 <!--/ClassEquipmentItem-->
 
 <!--ClassEvolutionItem-->
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
+
+<!--Table-->
 
 |Niv.|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Tours <!--br-->de <!--br-->magie <!--br-->connus|Sorts <!--br-->connus|Emplacements <!--br-->de <!--br-->sorts|Niveau <!--br-->des <!--br-->emplacements|Invocations <!--br-->occultes|
 |---|---|---|---|---|---|---|---|
@@ -74,19 +84,27 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 |19|+6|[Amélioration de caractéristiques]|4|15|4|5|8|
 |20|+6|[Maître de l'occulte]|4|15|4|5|8|
 
+<!--/Table-->
+
 <!--/ClassEvolutionItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Protecteur de l'outre-monde<!--/Name-->
 
+<!--Description-->
+
 Au niveau 1, vous avez passé un pacte avec un être de l'outre-monde de votre choix : un fiélon, un seigneur immortel, une puissance des profondeurs ou une entité extra-dimensionnelle. Chacun est détaillé à la fin de la section consacrée à cette classe. Ce choix vous permet de bénéficier de certaines aptitudes particulières au niveau 1 puis aux niveaux 6, 10 et 14.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 # <!--Name-->Magie de pacte<!--/Name-->
+
+<!--Description-->
 
 Vos recherches ésotériques ainsi que la magie dont vous a fait don votre protecteur vous permettent de lancer des sorts avec facilité.
 
@@ -126,11 +144,15 @@ Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur d
 
 Vous pouvez utiliser un focaliseur arcanique comme focaliseur d'incantation pour vos sorts de sorcier.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 # <!--Name-->Invocations occultes<!--/Name-->
+
+<!--Description-->
 
 Vos recherches ésotériques vous ont permis de découvrir des invocations occultes, fragments d'un savoir interdit, qui vous confèrent des capacités magiques permanentes.
 
@@ -139,6 +161,8 @@ Au niveau 2, vous gagnez deux invocations occultes de votre choix. Vos options d
 Une fois que vous atteignez certains niveaux de sorcier, vous pouvez apprendre de nouvelles invocations occultes de votre choix, comme indiqué dans la colonne invocations occultes du tableau d'évolution du sorcier.
 
 De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir une invocation que vous connaissez et la remplacer par une autre que vous pouvez apprendre à ce niveau.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -152,7 +176,11 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir une 
 
 # <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
+<!--Description-->
+
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -160,11 +188,15 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 # <!--Name-->Arcanum mystique<!--/Name-->
 
+<!--Description-->
+
 Au niveau 11, votre protecteur vous transmet un secret magique appelé un arcanum. Choisissez un sort de niveau 6 dans la liste de sorts de sorcier pour qu'il devienne cet arcanum.
 
 Vous pouvez lancer votre sort d'arcanum une fois sans utiliser d'emplacement de sort. Vous devez finir un repos long avant de pouvoir recommencer.
 
 Au fil de votre progression, vous obtenez de nouveaux sorts de sorciers de votre choix que vous pouvez lancer ainsi : un sort de niveau 7 quand vous atteignez le niveau 13, un sort de niveau 8 quand vous atteignez le niveau 15 et un sort de niveau 9 quand vous atteignez le niveau 17. Il vous suffit d'un repos long pour regagner la possibilité d'utiliser tous vos sorts d'arcanum.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -172,7 +204,11 @@ Au fil de votre progression, vous obtenez de nouveaux sorts de sorciers de votre
 
 # <!--Name-->Maître de l'occulte<!--/Name-->
 
+<!--Description-->
+
 Au niveau 20, vous pouvez puiser dans vos réserves d'énergie mystique et demander à votre protecteur de regagner vos emplacements de sorts utilisés. Vous passez 1 minute à demander l'aide de votre protecteur pour qu'il vous fasse regagner tous les emplacements de sorts liés à votre aptitude magie de pacte. Dès que vous avez utilisé cette aptitude pour regagner vos emplacements de sorts, vous devrez attendre d'avoir terminé un repos long avant de pouvoir de nouveau faire appel à votre protecteur de la sorte.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 

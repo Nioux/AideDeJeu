@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Pas brumeux
+AltName: '[Misty Step](srd_spells_misty_step.md)'
 Type: Invocation
 Level: 2
 CastingTime: 1 action bonus
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Misty Step](srd_spells_misty_step.md)'
 Id: spells_hd.md#pas-brumeux
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

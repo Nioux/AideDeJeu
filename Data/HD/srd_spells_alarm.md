@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Alarm
+AltName: '[Alarme](hd_spells_alarme.md)'
 Type: abjuration
 Level: 1
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S, M (a tiny bell and a piece of fine silver wire)
 Duration: 8 hours
 Classes: Ranger, Wizard
+Family: SpellVO
 Source: (SRD p114)
-AltName: '[Alarme](hd_spells_alarme.md)'
 Ritual: ritual
 Id: spells_vo.md#alarm
 ParentLink: spells_vo.md#spells-srd-p

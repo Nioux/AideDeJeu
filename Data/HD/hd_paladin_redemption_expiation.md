@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Expiation
 Id: paladin_redemption_hd.md#expiation
 ParentLink: paladin_redemption_hd.md#serment-de-rédemption
+Name: Expiation
 ParentName: Serment de rédemption
 NameLevel: 2
 Attributes:

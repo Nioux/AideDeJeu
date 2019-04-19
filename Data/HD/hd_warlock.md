@@ -3,6 +3,9 @@
 Name: Sorcier
 AltName: Warlock (SRD p46)
 Source: (MDR p209)
+Description: >+
+  En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
+
 Id: warlock_hd.md#sorcier
 RootId: warlock_hd.md
 ParentLink: classes_hd.md
@@ -31,6 +34,9 @@ Attributes:
   Name: Sorcier
   AltName: Warlock (SRD p46)
   Source: (MDR p209)
+  Description: >+
+    En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
+
 AttributesDictionary: >+
   ParentNameLink: '[Classes](hd_classes.md)'
 
@@ -75,6 +81,12 @@ AttributesDictionary: >+
   AltName: Warlock (SRD p46)
 
   Source: (MDR p209)
+
+  Description: >+
+
+    En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
+
+
 
 ---
 >  [Classes](hd_classes.md)

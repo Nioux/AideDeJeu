@@ -3,6 +3,9 @@
 Name: Druide
 AltName: Druid (SRD p17)
 Source: (MDR p142)
+Description: >+
+  En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
+
 Id: druid_hd.md#druide
 RootId: druid_hd.md
 ParentLink: classes_hd.md
@@ -31,6 +34,9 @@ Attributes:
   Name: Druide
   AltName: Druid (SRD p17)
   Source: (MDR p142)
+  Description: >+
+    En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
+
 AttributesDictionary: >+
   ParentNameLink: '[Classes](hd_classes.md)'
 
@@ -75,6 +81,12 @@ AttributesDictionary: >+
   AltName: Druid (SRD p17)
 
   Source: (MDR p142)
+
+  Description: >+
+
+    En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
+
+
 
 ---
 >  [Classes](hd_classes.md)

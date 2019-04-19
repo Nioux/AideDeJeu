@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Aura de piété
 Id: paladin_piety_hd.md#aura-de-piété
 ParentLink: paladin_piety_hd.md#serment-de-piété
+Name: Aura de piété
 ParentName: Serment de piété
 NameLevel: 2
 Attributes:

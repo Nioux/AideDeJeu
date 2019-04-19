@@ -13,6 +13,9 @@ Attributes:
 
     Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1 ou d'un 2. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.
 
+  Description: >+
+    Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1 ou d'un 2. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.
+
 AttributesDictionary: >+
   Name: Armes à deux mains
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1 ou d'un 2. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.
 
 
+
+  Description: >+
+
+    Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1 ou d'un 2. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.
+
+
+
+Description: >+
+  Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1 ou d'un 2. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.
 
 ---
 > [Paladin](hd_paladin.md)

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Guérison
+AltName: '[Heal](srd_spells_heal.md)'
 Type: Évocation
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
+Family: SpellHD
 Source: (MDR p360)(SRD)
-AltName: '[Heal](srd_spells_heal.md)'
 Id: spells_hd.md#guérison
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

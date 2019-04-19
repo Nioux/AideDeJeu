@@ -13,6 +13,9 @@ Attributes:
 
     Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque.
 
+  Description: >+
+    Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque.
+
 AttributesDictionary: >+
   Name: Combat à deux armes
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque.
 
 
+
+  Description: >+
+
+    Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque.
+
+
+
+Description: >+
+  Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque.
 
 ---
 > [Rôdeur](hd_ranger.md)

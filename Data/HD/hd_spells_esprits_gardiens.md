@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Esprits gardiens
+AltName: '[Spirit Guardians](srd_spells_spirit_guardians.md)'
 Type: Invocation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle (4,5 mètres de rayon)
 Components: V, S M (un symbole sacré)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p353)(SRD)
-AltName: '[Spirit Guardians](srd_spells_spirit_guardians.md)'
 Id: spells_hd.md#esprits-gardiens
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

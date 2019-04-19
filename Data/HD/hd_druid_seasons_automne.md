@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Automne
 Id: druid_seasons_hd.md#automne
 ParentLink: druid_seasons_hd.md#cercle-des-saisons
+Name: Automne
 ParentName: Cercle des saisons
 NameLevel: 2
 Attributes:

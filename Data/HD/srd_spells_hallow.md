@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Hallow
+AltName: '[Sanctification](hd_spells_sanctification.md)'
 Type: evocation
 Level: 5
 CastingTime: 24 hours
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)
 Duration: Until dispelled
 Classes: Cleric
+Family: SpellVO
 Source: (SRD p152)
-AltName: '[Sanctification](hd_spells_sanctification.md)'
 Id: spells_vo.md#hallow
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Revigorer
+AltName: '[Revivify](srd_spells_revivify.md)'
 Type: Nécromancie
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (diamant d'une valeur de 300 po, que le sort consume)
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Revivify](srd_spells_revivify.md)'
 Id: spells_hd.md#revigorer
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

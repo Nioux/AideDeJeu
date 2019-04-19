@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Magic Weapon
+AltName: '[Arme magique](hd_spells_arme_magique.md)'
 Type: transmutation
 Level: 2
 CastingTime: 1 bonus action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Paladin, Wizard
+Family: SpellVO
 Source: (SRD p161)
-AltName: '[Arme magique](hd_spells_arme_magique.md)'
 Id: spells_vo.md#magic-weapon
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Détection des pensées
+AltName: '[Detect Thoughts](srd_spells_detect_thoughts.md)'
 Type: Divination
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V, S, M (une pièce de cuivre)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p346)(SRD)
-AltName: '[Detect Thoughts](srd_spells_detect_thoughts.md)'
 Id: spells_hd.md#détection-des-pensées
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

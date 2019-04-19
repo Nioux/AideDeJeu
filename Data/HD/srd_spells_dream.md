@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Dream
+AltName: '[Rêve](hd_spells_reve.md)'
 Type: illusion
 Level: 5
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: Special
 Components: V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)
 Duration: 8 hours
 Classes: Bard, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p138)
-AltName: '[Rêve](hd_spells_reve.md)'
 Id: spells_vo.md#dream
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

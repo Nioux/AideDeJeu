@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Mirage
+AltName: '[Mirage Arcane](srd_spells_mirage_arcane.md)'
 Type: Illusion
 Level: 7
 CastingTime: 10 minutes
@@ -9,8 +9,8 @@ Range: vision
 Components: V, S
 Duration: 10 jours
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Mirage Arcane](srd_spells_mirage_arcane.md)'
 Id: spells_hd.md#mirage
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Plusieurs objets du même type
 Id: magicitems_hd.md#plusieurs-objets-du-même-type
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Plusieurs objets du même type
 ParentName: Objets magiques
 NameLevel: 4
 Attributes:

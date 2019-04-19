@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Telepathic Bond
+AltName: '[Lien télépathique](hd_spells_lien_telepathique.md)'
 Type: divination
 Level: 5
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S, M (pieces of eggshell from two different kinds of creatures)
 Duration: 1 hour
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p185)
-AltName: '[Lien télépathique](hd_spells_lien_telepathique.md)'
 Ritual: ritual
 Id: spells_vo.md#telepathic-bond
 ParentLink: spells_vo.md#spells-srd-p

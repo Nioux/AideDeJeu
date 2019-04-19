@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Comme une anguille
 Id: warlock_depths_hd.md#comme-une-anguille
 ParentLink: warlock_depths_hd.md#la-puissance-des-profondeurs
+Name: Comme une anguille
 ParentName: La puissance des profondeurs
 NameLevel: 2
 Attributes:

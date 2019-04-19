@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Emplacements de sorts
-AltName: Spell Slots (SRD p100)
-Source: (MDR p306)
 Id: spellcasting_hd.md#emplacements-de-sorts
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Emplacements de sorts
 ParentName: Lancer des sorts
 NameLevel: 3
+AltName: Spell Slots (SRD p100)
+Source: (MDR p306)
 Attributes:
   Name: Emplacements de sorts
   Markdown: >+

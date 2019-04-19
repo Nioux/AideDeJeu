@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Paume frémissante
 Id: monk_openhand_hd.md#paume-frémissante
 ParentLink: monk_openhand_hd.md#voie-de-la-main-ouverte
+Name: Paume frémissante
 ParentName: Voie de la main ouverte
 NameLevel: 2
 Attributes:

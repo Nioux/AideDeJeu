@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Tableau d'évolution
-Source: (L5R p56)
 Id: l5r_bard_hd.md#tableau-dévolution
 ParentLink: l5r_bard_hd.md#barde-des-cinq-royaumes
+Name: Tableau d'évolution
 ParentName: Barde des cinq royaumes
 NameLevel: 4
+Source: (L5R p56)
 Attributes:
   Name: Tableau d'évolution
   Markdown: >+

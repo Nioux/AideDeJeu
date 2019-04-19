@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Passage sans trace
+AltName: '[Pass without Trace](srd_spells_pass_without_trace.md)'
 Type: Abjuration
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Pass without Trace](srd_spells_pass_without_trace.md)'
 Id: spells_hd.md#passage-sans-trace
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

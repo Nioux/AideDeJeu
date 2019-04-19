@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Gwynnddaerain
-Source: (L5R p51)
 Id: l5r_human_hd.md#gwynnddaerain
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
+Name: Gwynnddaerain
 ParentName: Humain des cinq royaumes
 NameLevel: 4
+Source: (L5R p51)
 Attributes:
   Name: Gwynnddaerain
   Markdown: >+

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Riposte
 Id: fighter_swordsman_hd.md#riposte
 ParentLink: fighter_swordsman_hd.md#bretteur
+Name: Riposte
 ParentName: Bretteur
 NameLevel: 2
 Attributes:

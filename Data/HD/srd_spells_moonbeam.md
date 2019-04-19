@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Moonbeam
+AltName: '[Rayon de lune](hd_spells_rayon_de_lune.md)'
 Type: evocation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 120 feet
 Components: V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)
 Duration: Concentration, up to 1 minute
 Classes: Druid
+Family: SpellVO
 Source: (SRD p166)
-AltName: '[Rayon de lune](hd_spells_rayon_de_lune.md)'
 Id: spells_vo.md#moonbeam
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

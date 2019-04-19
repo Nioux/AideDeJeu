@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Et pour les créatures et PNJ ?
-Source: (L5R p46)
 Id: l5r_hitpoints_hd.md#et-pour-les-créatures-et-pnj-?
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
+Name: Et pour les créatures et PNJ ?
 ParentName: Points de vie et blessures
 NameLevel: 3
+Source: (L5R p46)
 Attributes:
   Name: Et pour les créatures et PNJ ?
   Markdown: >+

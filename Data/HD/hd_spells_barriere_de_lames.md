@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Barrière de lames
+AltName: '[Blade Barrier](srd_spells_blade_barrier.md)'
 Type: Évocation
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 27 mètres
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p327)(SRD)
-AltName: '[Blade Barrier](srd_spells_blade_barrier.md)'
 Id: spells_hd.md#barrière-de-lames
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

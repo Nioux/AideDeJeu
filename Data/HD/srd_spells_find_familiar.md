@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Find Familiar
+AltName: '[Appel de familier](hd_spells_appel_de_familier.md)'
 Type: conjuration
 Level: 1
 CastingTime: 1 hour
@@ -9,8 +9,8 @@ Range: 10 feet
 Components: V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
 Duration: Instantaneous
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p143)
-AltName: '[Appel de familier](hd_spells_appel_de_familier.md)'
 Ritual: ritual
 Id: spells_vo.md#find-familiar
 ParentLink: spells_vo.md#spells-srd-p

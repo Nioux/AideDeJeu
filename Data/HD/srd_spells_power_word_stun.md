@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Power Word Stun
+AltName: '[Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)'
 Type: enchantment
 Level: 8
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: V
 Duration: Instantaneous
 Classes: Bard, Sorcerer, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p170)
-AltName: '[Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)'
 Id: spells_vo.md#power-word-stun
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

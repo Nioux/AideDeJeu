@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Main du mage
+AltName: '[Mage Hand](srd_spells_mage_hand.md)'
 Type: Invocation
 Level: tour de magie
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S
 Duration: 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Mage Hand](srd_spells_mage_hand.md)'
 Id: spells_hd.md#main-du-mage
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

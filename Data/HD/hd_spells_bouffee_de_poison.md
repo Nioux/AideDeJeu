@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Bouffée de poison
+AltName: '[Poison Spray](srd_spells_poison_spray.md)'
 Type: Invocation
 Level: tour de magie
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 3 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p328)(SRD)
-AltName: '[Poison Spray](srd_spells_poison_spray.md)'
 Id: spells_hd.md#bouffée-de-poison
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Scrying
+AltName: '[Scrutation](hd_spells_scrutation.md)'
 Type: divination
 Level: 5
 CastingTime: 10 minutes
@@ -9,8 +9,8 @@ Range: Self
 Components: V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)
 Duration: Concentration, up to 10 minutes
 Classes: Bard, Cleric, Druid, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p176)
-AltName: '[Scrutation](hd_spells_scrutation.md)'
 Id: spells_vo.md#scrying
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

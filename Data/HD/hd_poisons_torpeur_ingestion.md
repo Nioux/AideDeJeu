@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Torpeur (ingestion)
 Id: poisons_hd.md#torpeur-ingestion
 ParentLink: poisons_hd.md#les-poisons
+Name: Torpeur (ingestion)
 ParentName: Les poisons
 NameLevel: 4
 Attributes:

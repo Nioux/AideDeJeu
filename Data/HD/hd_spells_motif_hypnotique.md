@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Motif hypnotique
+AltName: '[Hypnotic Pattern](srd_spells_hypnotic_pattern.md)'
 Type: Illusion
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 36 mètres
 Components: S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Hypnotic Pattern](srd_spells_hypnotic_pattern.md)'
 Id: spells_hd.md#motif-hypnotique
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

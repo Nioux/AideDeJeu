@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Investigation
 Id: abilities_intelligence_hd.md#investigation
 ParentLink: abilities_intelligence_hd.md#intelligence
+Name: Investigation
 ParentName: Intelligence
 NameLevel: 3
 Attributes:

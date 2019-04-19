@@ -13,6 +13,9 @@ Attributes:
 
     Vous pouvez dépenser 1 point de ki pour utiliser l'action se désengager ou se précipiter en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
 
+  Description: >+
+    Vous pouvez dépenser 1 point de ki pour utiliser l'action se désengager ou se précipiter en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
+
 AttributesDictionary: >+
   Name: Déplacement aérien
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Vous pouvez dépenser 1 point de ki pour utiliser l'action se désengager ou se précipiter en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
 
 
+
+  Description: >+
+
+    Vous pouvez dépenser 1 point de ki pour utiliser l'action se désengager ou se précipiter en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
+
+
+
+Description: >+
+  Vous pouvez dépenser 1 point de ki pour utiliser l'action se désengager ou se précipiter en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
 
 ---
 > [Moine](hd_monk.md)

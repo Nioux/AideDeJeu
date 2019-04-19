@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Druidcraft
+AltName: '[Druidisme](hd_spells_druidisme.md)'
 Type: Transmutation
 Level: cantrip
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Druid
+Family: SpellVO
 Source: (SRD p138)
-AltName: '[Druidisme](hd_spells_druidisme.md)'
 Id: spells_vo.md#druidcraft
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

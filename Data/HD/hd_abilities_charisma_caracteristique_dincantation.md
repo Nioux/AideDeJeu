@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Caractéristique d'incantation
 Id: abilities_charisma_hd.md#caractéristique-dincantation
 ParentLink: abilities_charisma_hd.md#charisme
+Name: Caractéristique d'incantation
 ParentName: Charisme
 NameLevel: 2
 Attributes:

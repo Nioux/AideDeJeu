@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Prémonition
+AltName: '[Foresight](srd_spells_foresight.md)'
 Type: Divination
 Level: 9
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (une plume d'oiseau chanteur)
 Duration: 8 heures
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Foresight](srd_spells_foresight.md)'
 Id: spells_hd.md#prémonition
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

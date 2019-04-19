@@ -3,6 +3,9 @@
 Name: Barde
 AltName: Bard (SRD p11)
 Source: (MDR p121)
+Description: >+
+  En tant que barde, vous bénéficiez des aptitudes de classe suivantes.
+
 Id: bard_hd.md#barde
 RootId: bard_hd.md
 ParentLink: classes_hd.md
@@ -31,6 +34,9 @@ Attributes:
   Name: Barde
   AltName: Bard (SRD p11)
   Source: (MDR p121)
+  Description: >+
+    En tant que barde, vous bénéficiez des aptitudes de classe suivantes.
+
 AttributesDictionary: >+
   ParentNameLink: '[Classes](hd_classes.md)'
 
@@ -75,6 +81,12 @@ AttributesDictionary: >+
   AltName: Bard (SRD p11)
 
   Source: (MDR p121)
+
+  Description: >+
+
+    En tant que barde, vous bénéficiez des aptitudes de classe suivantes.
+
+
 
 ---
 >  [Classes](hd_classes.md)

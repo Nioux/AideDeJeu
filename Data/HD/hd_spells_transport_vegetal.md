@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Transport végétal
+AltName: '[Transport via Plants](srd_spells_transport_via_plants.md)'
 Type: Invocation
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 3 mètres
 Components: V, S
 Duration: 1 round
 Classes: '[Druide](hd_druid.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Transport via Plants](srd_spells_transport_via_plants.md)'
 Id: spells_hd.md#transport-végétal
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

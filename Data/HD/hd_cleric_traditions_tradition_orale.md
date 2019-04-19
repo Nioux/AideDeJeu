@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Tradition orale
 Id: cleric_traditions_hd.md#tradition-orale
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
+Name: Tradition orale
 ParentName: Gardien des traditions
 NameLevel: 2
 Attributes:

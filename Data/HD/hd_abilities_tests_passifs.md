@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Tests passifs
 Id: abilities_hd.md#tests-passifs
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
+Name: Tests passifs
 ParentName: Utiliser les caractéristiques
 NameLevel: 2
 Attributes:

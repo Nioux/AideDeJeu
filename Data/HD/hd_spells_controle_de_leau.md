@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Contrôle de l'eau
+AltName: '[Control Water](srd_spells_control_water.md)'
 Type: Transmutation
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 90 mètres
 Components: V, S, M (une goutte d'eau et une pincée de poussière)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p340)
-AltName: '[Control Water](srd_spells_control_water.md)'
 Id: spells_hd.md#contrôle-de-leau
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

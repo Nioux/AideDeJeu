@@ -3,6 +3,9 @@
 Name: Rôdeur
 AltName: Ranger (SRD p35)
 Source: (MDR p194)
+Description: >+
+  En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
+
 Id: ranger_hd.md#rôdeur
 RootId: ranger_hd.md
 ParentLink: classes_hd.md
@@ -31,6 +34,9 @@ Attributes:
   Name: Rôdeur
   AltName: Ranger (SRD p35)
   Source: (MDR p194)
+  Description: >+
+    En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
+
 AttributesDictionary: >+
   ParentNameLink: '[Classes](hd_classes.md)'
 
@@ -75,6 +81,12 @@ AttributesDictionary: >+
   AltName: Ranger (SRD p35)
 
   Source: (MDR p194)
+
+  Description: >+
+
+    En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
+
+
 
 ---
 >  [Classes](hd_classes.md)

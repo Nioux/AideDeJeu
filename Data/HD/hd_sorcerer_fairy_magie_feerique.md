@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Magie féerique
 Id: sorcerer_fairy_hd.md#magie-féerique
 ParentLink: sorcerer_fairy_hd.md#lignée-féerique
+Name: Magie féerique
 ParentName: Lignée féerique
 NameLevel: 2
 Attributes:

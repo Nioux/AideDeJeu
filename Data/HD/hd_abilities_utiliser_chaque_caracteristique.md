@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Utiliser chaque caractéristique
 Id: abilities_hd.md#utiliser-chaque-caractéristique
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
+Name: Utiliser chaque caractéristique
 ParentName: Utiliser les caractéristiques
 NameLevel: 1
 Attributes:

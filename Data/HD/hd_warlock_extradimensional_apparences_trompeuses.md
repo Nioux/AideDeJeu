@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Apparences trompeuses
 Id: warlock_extradimensional_hd.md#apparences-trompeuses
 ParentLink: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
+Name: Apparences trompeuses
 ParentName: L'entité extra-dimensionnelle
 NameLevel: 2
 Attributes:

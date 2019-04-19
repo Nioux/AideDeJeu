@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Protection contre la mort
+AltName: '[Death Ward](srd_spells_death_ward.md)'
 Type: Abjuration
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S
 Duration: 8 heures
 Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Death Ward](srd_spells_death_ward.md)'
 Id: spells_hd.md#protection-contre-la-mort
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

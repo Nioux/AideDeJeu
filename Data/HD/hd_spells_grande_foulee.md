@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Grande foulée
+AltName: '[Longstrider](srd_spells_longstrider.md)'
 Type: Transmutation
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (une pincée de poussière)
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p360)(SRD)
-AltName: '[Longstrider](srd_spells_longstrider.md)'
 Id: spells_hd.md#grande-foulée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

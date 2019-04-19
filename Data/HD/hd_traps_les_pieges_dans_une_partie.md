@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Les pièges dans une partie
 Id: traps_hd.md#les-pièges-dans-une-partie
 ParentLink: traps_hd.md#les-pièges
+Name: Les pièges dans une partie
 ParentName: Les pièges
 NameLevel: 2
 Attributes:

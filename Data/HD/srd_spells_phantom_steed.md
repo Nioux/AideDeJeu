@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Phantom Steed
+AltName: '[Monture fantôme](hd_spells_monture_fantome.md)'
 Type: illusion
 Level: 3
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S
 Duration: 1 hour
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p167)
-AltName: '[Monture fantôme](hd_spells_monture_fantome.md)'
 Ritual: ritual
 Id: spells_vo.md#phantom-steed
 ParentLink: spells_vo.md#spells-srd-p

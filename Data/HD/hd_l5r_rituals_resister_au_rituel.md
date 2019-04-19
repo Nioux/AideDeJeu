@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Résister au rituel
-Source: (L5R p68)
 Id: l5r_rituals_hd.md#résister-au-rituel
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: Résister au rituel
 ParentName: Lancer un rituel
 NameLevel: 4
+Source: (L5R p68)
 Attributes:
   Name: Résister au rituel
   Markdown: >+

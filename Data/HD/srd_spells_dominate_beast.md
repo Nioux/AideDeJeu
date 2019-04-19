@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Dominate Beast
+AltName: '[Dominer une bête](hd_spells_dominer_une_bete.md)'
 Type: enchantment
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Druid, Sorcerer
+Family: SpellVO
 Source: (SRD p137)
-AltName: '[Dominer une bête](hd_spells_dominer_une_bete.md)'
 Id: spells_vo.md#dominate-beast
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

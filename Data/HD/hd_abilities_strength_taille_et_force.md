@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Taille et Force
 Id: abilities_strength_hd.md#taille-et-force
 ParentLink: abilities_strength_hd.md#force
+Name: Taille et Force
 ParentName: Force
 NameLevel: 3
 Attributes:

@@ -3,6 +3,9 @@
 Name: Roublard
 AltName: Rogue (SRD p39)
 Source: (MDR p202)
+Description: >+
+  En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
+
 Id: rogue_hd.md#roublard
 RootId: rogue_hd.md
 ParentLink: classes_hd.md
@@ -31,6 +34,9 @@ Attributes:
   Name: Roublard
   AltName: Rogue (SRD p39)
   Source: (MDR p202)
+  Description: >+
+    En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
+
 AttributesDictionary: >+
   ParentNameLink: '[Classes](hd_classes.md)'
 
@@ -75,6 +81,12 @@ AttributesDictionary: >+
   AltName: Rogue (SRD p39)
 
   Source: (MDR p202)
+
+  Description: >+
+
+    En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
+
+
 
 ---
 >  [Classes](hd_classes.md)

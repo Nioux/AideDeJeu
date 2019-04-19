@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Teinture pâle (ingestion)
 Id: poisons_hd.md#teinture-pâle-ingestion
 ParentLink: poisons_hd.md#les-poisons
+Name: Teinture pâle (ingestion)
 ParentName: Les poisons
 NameLevel: 4
 Attributes:

@@ -3,6 +3,9 @@
 Name: Moine
 AltName: Monk (SRD p26)
 Source: (MDR p176)
+Description: >+
+  En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
+
 Id: monk_hd.md#moine
 RootId: monk_hd.md
 ParentLink: classes_hd.md
@@ -31,6 +34,9 @@ Attributes:
   Name: Moine
   AltName: Monk (SRD p26)
   Source: (MDR p176)
+  Description: >+
+    En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
+
 AttributesDictionary: >+
   ParentNameLink: '[Classes](hd_classes.md)'
 
@@ -75,6 +81,12 @@ AttributesDictionary: >+
   AltName: Monk (SRD p26)
 
   Source: (MDR p176)
+
+  Description: >+
+
+    En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
+
+
 
 ---
 >  [Classes](hd_classes.md)

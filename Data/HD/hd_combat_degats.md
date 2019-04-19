@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Dégâts
-AltName: Hit Points (SRD p96)
-Source: (MDR p293)
 Id: combat_hd.md#dégâts
 ParentLink: combat_hd.md#combattre
+Name: Dégâts
 ParentName: Combattre
 NameLevel: 2
+AltName: Hit Points (SRD p96)
+Source: (MDR p293)
 Attributes:
   Name: Dégâts
   Markdown: >+

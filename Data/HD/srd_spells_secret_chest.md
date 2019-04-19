@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Secret Chest
+AltName: '[Coffre secret](hd_spells_coffre_secret.md)'
 Type: conjuration
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)
 Duration: Instantaneous
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p177)
-AltName: '[Coffre secret](hd_spells_coffre_secret.md)'
 Id: spells_vo.md#secret-chest
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

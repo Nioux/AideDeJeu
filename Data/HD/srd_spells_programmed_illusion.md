@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Programmed Illusion
+AltName: '[Illusion programmée](hd_spells_illusion_programmee.md)'
 Type: illusion
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 120 feet
 Components: V, S, M (a bit of fleece and jade dust worth at least 25 gp)
 Duration: Until dispelled
 Classes: Bard, Wizard
+Family: SpellVO
 Source: (SRD p172)
-AltName: '[Illusion programmée](hd_spells_illusion_programmee.md)'
 Id: spells_vo.md#programmed-illusion
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

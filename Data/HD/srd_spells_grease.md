@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Grease
+AltName: '[Graisse](hd_spells_graisse.md)'
 Type: conjuration
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: V, S, M (a bit of pork rind or butter)
 Duration: 1 minute
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p150)
-AltName: '[Graisse](hd_spells_graisse.md)'
 Id: spells_vo.md#grease
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

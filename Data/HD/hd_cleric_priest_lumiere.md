@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Lumière
 Id: cleric_priest_hd.md#lumière
 ParentLink: cleric_priest_hd.md#liste-des-domaines
+Name: Lumière
 ParentName: Liste des domaines
 NameLevel: 4
 Attributes:

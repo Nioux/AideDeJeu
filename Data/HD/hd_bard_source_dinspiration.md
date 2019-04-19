@@ -13,6 +13,9 @@ Attributes:
 
     Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.
 
+  Description: >+
+    Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.
+
 AttributesDictionary: >+
   Name: Source d'inspiration
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.
 
 
+
+  Description: >+
+
+    Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.
+
+
+
+Description: >+
+  Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.
 
 ---
 > [Barde](hd_bard.md)

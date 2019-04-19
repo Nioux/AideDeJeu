@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Magie
 Id: cleric_priest_hd.md#magie
 ParentLink: cleric_priest_hd.md#liste-des-domaines
+Name: Magie
 ParentName: Liste des domaines
 NameLevel: 4
 Attributes:

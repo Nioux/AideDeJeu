@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Inspirer la bravoure
 Id: bard_heralds_hd.md#inspirer-la-bravoure
 ParentLink: bard_heralds_hd.md#collège-des-hérauts
+Name: Inspirer la bravoure
 ParentName: Collège des hérauts
 NameLevel: 2
 Attributes:

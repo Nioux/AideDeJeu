@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Tactiques défensives
 Id: ranger_hunter_hd.md#tactiques-défensives
 ParentLink: ranger_hunter_hd.md#chasseur
+Name: Tactiques défensives
 ParentName: Chasseur
 NameLevel: 2
 Attributes:

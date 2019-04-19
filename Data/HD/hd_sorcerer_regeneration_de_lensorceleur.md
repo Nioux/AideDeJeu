@@ -13,6 +13,9 @@ Attributes:
 
     Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
 
+  Description: >+
+    Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
+
 AttributesDictionary: >+
   Name: Régénération de l'ensorceleur
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
 
 
+
+  Description: >+
+
+    Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
+
+
+
+Description: >+
+  Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
 
 ---
 > [Ensorceleur](hd_sorcerer.md)

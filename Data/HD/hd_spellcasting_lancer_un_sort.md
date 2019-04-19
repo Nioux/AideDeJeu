@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Lancer un sort
-AltName: Casting a Spell (SRD p101)
-Source: (MDR p307)
 Id: spellcasting_hd.md#lancer-un-sort
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Lancer un sort
 ParentName: Lancer des sorts
 NameLevel: 2
+AltName: Casting a Spell (SRD p101)
+Source: (MDR p307)
 Attributes:
   Name: Lancer un sort
   Markdown: >+

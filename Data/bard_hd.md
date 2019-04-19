@@ -59,6 +59,8 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
+<!--Table-->
+
 |Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Tours <!--br-->de <!--br-->magie <!--br-->connus|Sorts <!--br-->connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|+2|[Incantations], <!--br-->[Inspiration bardique] (d6)|2|4|2|-|-|-|-|-|-|-|-|
@@ -81,6 +83,8 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 |18|+6|[Secrets magiques]|4|22|4|3|3|3|3|1|1|1|1|
 |19|+6|[Amélioration de <!--br-->caractéristiques]|4|22|4|3|3|3|3|2|1|1|1|
 |20|+6|[Inspiration supérieure]|4|22|4|3|3|3|3|2|2|1|1|
+
+<!--/Table-->
 
 (* Emplacement de sorts par niveau de sort)
 

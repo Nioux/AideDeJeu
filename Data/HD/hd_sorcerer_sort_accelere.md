@@ -13,6 +13,9 @@ Attributes:
 
     Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pouvez dépenser 2 points de sorcellerie pour transformer ce temps d'incantation en une action bonus pour cette fois-ci.
 
+  Description: >+
+    Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pouvez dépenser 2 points de sorcellerie pour transformer ce temps d'incantation en une action bonus pour cette fois-ci.
+
 AttributesDictionary: >+
   Name: Sort accéléré
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pouvez dépenser 2 points de sorcellerie pour transformer ce temps d'incantation en une action bonus pour cette fois-ci.
 
 
+
+  Description: >+
+
+    Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pouvez dépenser 2 points de sorcellerie pour transformer ce temps d'incantation en une action bonus pour cette fois-ci.
+
+
+
+Description: >+
+  Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pouvez dépenser 2 points de sorcellerie pour transformer ce temps d'incantation en une action bonus pour cette fois-ci.
 
 ---
 > [Ensorceleur](hd_sorcerer.md)

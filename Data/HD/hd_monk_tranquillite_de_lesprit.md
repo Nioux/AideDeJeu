@@ -13,6 +13,9 @@ Attributes:
 
     À partir du niveau 7, vous pouvez utiliser votre action pour mettre fin à un effet qui vous affecte et qui cause l'état charmé ou terrorisé.
 
+  Description: >+
+    À partir du niveau 7, vous pouvez utiliser votre action pour mettre fin à un effet qui vous affecte et qui cause l'état charmé ou terrorisé.
+
 AttributesDictionary: >+
   Name: Tranquillité de l'esprit
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     À partir du niveau 7, vous pouvez utiliser votre action pour mettre fin à un effet qui vous affecte et qui cause l'état charmé ou terrorisé.
 
 
+
+  Description: >+
+
+    À partir du niveau 7, vous pouvez utiliser votre action pour mettre fin à un effet qui vous affecte et qui cause l'état charmé ou terrorisé.
+
+
+
+Description: >+
+  À partir du niveau 7, vous pouvez utiliser votre action pour mettre fin à un effet qui vous affecte et qui cause l'état charmé ou terrorisé.
 
 ---
 > [Moine](hd_monk.md)

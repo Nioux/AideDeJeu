@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Emprisonnement
+AltName: '[Imprisonment](srd_spells_imprisonment.md)'
 Type: Abjuration
 Level: 9
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)
 Duration: jusqu'à dissipation
 Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p351)(SRD)
-AltName: '[Imprisonment](srd_spells_imprisonment.md)'
 Id: spells_hd.md#emprisonnement
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

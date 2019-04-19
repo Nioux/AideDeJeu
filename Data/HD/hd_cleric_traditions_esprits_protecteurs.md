@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Esprits protecteurs
 Id: cleric_traditions_hd.md#esprits-protecteurs
 ParentLink: cleric_traditions_hd.md#gardien-des-traditions
+Name: Esprits protecteurs
 ParentName: Gardien des traditions
 NameLevel: 2
 Attributes:

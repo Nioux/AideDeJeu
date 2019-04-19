@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Dominer un humanoïde
+AltName: '[Dominate Person](srd_spells_dominate_person.md)'
 Type: Enchantement
 Level: 5
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p348)(SRD)
-AltName: '[Dominate Person](srd_spells_dominate_person.md)'
 Id: spells_hd.md#dominer-un-humanoïde
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

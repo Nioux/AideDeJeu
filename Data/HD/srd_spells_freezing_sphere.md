@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Freezing Sphere
+AltName: '[Sphère glacée](hd_spells_sphere_glacee.md)'
 Type: evocation
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 300 feet
 Components: V, S, M (a small crystal sphere
 Duration: Instantaneous
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p147)
-AltName: '[Sphère glacée](hd_spells_sphere_glacee.md)'
 Id: spells_vo.md#freezing-sphere
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Protection from Poison
+AltName: '[Protection contre le poison](hd_spells_protection_contre_le_poison.md)'
 Type: abjuration
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S
 Duration: 1 hour
 Classes: Cleric, Druid, Paladin, Ranger
+Family: SpellVO
 Source: (SRD p173)
-AltName: '[Protection contre le poison](hd_spells_protection_contre_le_poison.md)'
 Id: spells_vo.md#protection-from-poison
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

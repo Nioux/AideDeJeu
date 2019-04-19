@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Spiritual Weapon
+AltName: '[Arme spirituelle](hd_spells_arme_spirituelle.md)'
 Type: evocation
 Level: 2
 CastingTime: 1 bonus action
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: V, S
 Duration: 1 minute
 Classes: Cleric
+Family: SpellVO
 Source: (SRD p182)
-AltName: '[Arme spirituelle](hd_spells_arme_spirituelle.md)'
 Id: spells_vo.md#spiritual-weapon
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Teleport
+AltName: '[Téléportation](hd_spells_teleportation.md)'
 Type: conjuration
 Level: 7
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 10 feet
 Components: V
 Duration: Instantaneous
 Classes: Bard, Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p185)
-AltName: '[Téléportation](hd_spells_teleportation.md)'
 Id: spells_vo.md#teleport
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

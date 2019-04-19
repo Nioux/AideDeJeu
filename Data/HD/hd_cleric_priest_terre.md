@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Terre
 Id: cleric_priest_hd.md#terre
 ParentLink: cleric_priest_hd.md#liste-des-domaines
+Name: Terre
 ParentName: Liste des domaines
 NameLevel: 4
 Attributes:

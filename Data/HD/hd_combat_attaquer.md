@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Attaquer
-AltName: Attack (SRD p93)
-Source: (MDR p288)
 Id: combat_hd.md#attaquer
 ParentLink: combat_hd.md#combattre
+Name: Attaquer
 ParentName: Combattre
 NameLevel: 3
+AltName: Attack (SRD p93)
+Source: (MDR p288)
 Attributes:
   Name: Attaquer
   Markdown: >+

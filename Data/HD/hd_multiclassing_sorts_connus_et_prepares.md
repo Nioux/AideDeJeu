@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sorts connus et préparés
 Id: multiclassing_hd.md#sorts-connus-et-préparés
 ParentLink: multiclassing_hd.md#multiclassage
+Name: Sorts connus et préparés
 ParentName: Multiclassage
 NameLevel: 4
 Attributes:

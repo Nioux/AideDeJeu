@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Enhance Ability
+AltName: '[Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)'
 Type: transmutation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (fur or a feather from a beast)
 Duration: Concentration, up to 1 hour
 Classes: Bard, Cleric, Druid, Sorcerer
+Family: SpellVO
 Source: (SRD p139)
-AltName: '[Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)'
 Id: spells_vo.md#enhance-ability
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

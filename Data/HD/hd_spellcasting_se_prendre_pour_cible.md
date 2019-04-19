@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Se prendre pour cible
-AltName: Targeting Yourself (SRD p102)
-Source: (MDR p309)
 Id: spellcasting_hd.md#se-prendre-pour-cible
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Se prendre pour cible
 ParentName: Lancer des sorts
 NameLevel: 4
+AltName: Targeting Yourself (SRD p102)
+Source: (MDR p309)
 Attributes:
   Name: Se prendre pour cible
   Markdown: >+

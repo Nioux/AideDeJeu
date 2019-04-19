@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Paralysé
-AltName: '[Paralyzed](srd_conditions_paralyzed.md)'
 Id: conditions_hd.md#paralysé
 ParentLink: conditions_hd.md#États-spéciaux
+Name: Paralysé
 ParentName: États spéciaux
 NameLevel: 1
+AltName: '[Paralyzed](srd_conditions_paralyzed.md)'
 Attributes:
   Name: Paralysé
   Markdown: >+

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Aura magique de l'arcaniste
+AltName: "[Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)"
 Type: Illusion
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (un petit carré de soie)
 Duration: 24 heures
 Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+Family: SpellHD
 Source: (MDR p326)
-AltName: "[Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)"
 Id: spells_hd.md#aura-magique-de-larcaniste
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

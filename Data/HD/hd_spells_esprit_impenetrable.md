@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Esprit impénétrable
+AltName: '[Mind Blank](srd_spells_mind_blank.md)'
 Type: Abjuration
 Level: 8
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S
 Duration: 24 heures
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p353)(SRD)
-AltName: '[Mind Blank](srd_spells_mind_blank.md)'
 Id: spells_hd.md#esprit-impénétrable
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

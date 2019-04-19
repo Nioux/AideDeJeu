@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Nappe de brouillard
+AltName: '[Fog Cloud](srd_spells_fog_cloud.md)'
 Type: Invocation
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 36 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Fog Cloud](srd_spells_fog_cloud.md)'
 Id: spells_hd.md#nappe-de-brouillard
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

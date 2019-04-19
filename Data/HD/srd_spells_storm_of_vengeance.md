@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Storm of Vengeance
+AltName: '[Tempête vengeresse](hd_spells_tempete_vengeresse.md)'
 Type: conjuration
 Level: 9
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Sight
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Druid
+Family: SpellVO
 Source: (SRD p183)
-AltName: '[Tempête vengeresse](hd_spells_tempete_vengeresse.md)'
 Id: spells_vo.md#storm-of-vengeance
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

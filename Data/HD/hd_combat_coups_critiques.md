@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Coups critiques
-AltName: Critical Hits (SRD p96)
-Source: (MDR p293)
 Id: combat_hd.md#coups-critiques
 ParentLink: combat_hd.md#combattre
+Name: Coups critiques
 ParentName: Combattre
 NameLevel: 4
+AltName: Critical Hits (SRD p96)
+Source: (MDR p293)
 Attributes:
   Name: Coups critiques
   Markdown: >+

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Water Breathing
+AltName: '[Respiration aquatique](hd_spells_respiration_aquatique.md)'
 Type: transmutation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S, M (a short reed or piece of straw)
 Duration: 24 hours
 Classes: Druid, Ranger, Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p191)
-AltName: '[Respiration aquatique](hd_spells_respiration_aquatique.md)'
 Ritual: ritual
 Id: spells_vo.md#water-breathing
 ParentLink: spells_vo.md#spells-srd-p

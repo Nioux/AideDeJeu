@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Assistance
+AltName: '[Guidance](srd_spells_guidance.md)'
 Type: Divination
 Level: tour de magie
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
+Family: SpellHD
 Source: (MDR p325)(SRD)
-AltName: '[Guidance](srd_spells_guidance.md)'
 Id: spells_hd.md#assistance
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

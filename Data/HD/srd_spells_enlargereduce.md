@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Enlarge/Reduce
+AltName: '[Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)'
 Type: transmutation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S, M (a pinch of powdered iron)
 Duration: Concentration, up to 1 minute
 Classes: Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p140)
-AltName: '[Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)'
 Id: spells_vo.md#enlargereduce
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

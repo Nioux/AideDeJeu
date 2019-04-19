@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Les divinités celtiques
-AltName: Celtic Deities
-Source: (MDR p414)(SRD p360)
 Id: pantheons_hd.md#les-divinités-celtiques
 ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
+Name: Les divinités celtiques
 ParentName: Panthéons historiques et fantastiques
 NameLevel: 4
+AltName: Celtic Deities
+Source: (MDR p414)(SRD p360)
 Attributes:
   Name: Les divinités celtiques
   Markdown: >+

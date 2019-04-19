@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Compagnon animal
 Type: Enchantement
 Level: 2
@@ -9,6 +8,7 @@ Range: 12 mètres
 Components: V, S, M (un peu de nourriture adaptée à l'animal)
 Duration: 24 heures
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p337)
 Id: spells_hd.md#compagnon-animal
 ParentLink: spells_hd.md#sorts

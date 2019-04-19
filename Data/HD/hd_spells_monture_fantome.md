@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Monture fantôme
+AltName: '[Phantom Steed](srd_spells_phantom_steed.md)'
 Type: Illusion
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S
 Duration: 1 heure
 Classes: '[Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Phantom Steed](srd_spells_phantom_steed.md)'
 Ritual: rituel
 Id: spells_hd.md#monture-fantôme
 ParentLink: spells_hd.md#sorts

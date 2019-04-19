@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Fléau
+AltName: '[Bane](srd_spells_bane.md)'
 Type: Enchantement
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S, M (une goutte de sang)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p356)(SRD)
-AltName: '[Bane](srd_spells_bane.md)'
 Id: spells_hd.md#fléau
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

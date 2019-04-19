@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Armure du mage
+AltName: '[Mage Armor](srd_spells_mage_armor.md)'
 Type: Abjuration
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (un bout de cuir tanné)
 Duration: 8 heures
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p324)(SRD)
-AltName: '[Mage Armor](srd_spells_mage_armor.md)'
 Id: spells_hd.md#armure-du-mage
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

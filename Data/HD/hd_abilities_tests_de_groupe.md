@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Tests de groupe
 Id: abilities_hd.md#tests-de-groupe
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
+Name: Tests de groupe
 ParentName: Utiliser les caractéristiques
 NameLevel: 3
 Attributes:

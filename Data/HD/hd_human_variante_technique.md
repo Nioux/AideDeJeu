@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Variante technique
 Id: human_hd.md#variante-technique
 ParentLink: human_hd.md#humain
+Name: Variante technique
 ParentName: Humain
 NameLevel: 2
 Attributes:

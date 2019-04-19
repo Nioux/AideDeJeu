@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Canalisation d'énergie divine
 Id: paladin_devotion_hd.md#canalisation-dénergie-divine
 ParentLink: paladin_devotion_hd.md#serment-de-dévotion
+Name: Canalisation d'énergie divine
 ParentName: Serment de dévotion
 NameLevel: 2
 Attributes:

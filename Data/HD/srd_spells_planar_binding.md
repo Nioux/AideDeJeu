@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Planar Binding
+AltName: '[Entrave planaire](hd_spells_entrave_planaire.md)'
 Type: abjuration
 Level: 5
 CastingTime: 1 hour
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)
 Duration: 24 hours
 Classes: Bard, Cleric, Druid, Wizard
+Family: SpellVO
 Source: (SRD p168)
-AltName: '[Entrave planaire](hd_spells_entrave_planaire.md)'
 Id: spells_vo.md#planar-binding
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

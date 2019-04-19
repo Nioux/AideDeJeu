@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Ruse devient maître herboriste
-Source: (L5R p66)
 Id: l5r_rogue_hd.md#ruse-devient-maître-herboriste
 ParentLink: l5r_rogue_hd.md#le-savant
+Name: Ruse devient maître herboriste
 ParentName: Le savant
 NameLevel: 4
+Source: (L5R p66)
 Attributes:
   Name: Ruse devient maître herboriste
   Markdown: >+

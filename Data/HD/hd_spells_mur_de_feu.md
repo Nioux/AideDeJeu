@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Mur de feu
+AltName: '[Wall of Fire](srd_spells_wall_of_fire.md)'
 Type: Évocation
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 36 mètres
 Components: V, S, M (un éclat de phosphore)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Wall of Fire](srd_spells_wall_of_fire.md)'
 Id: spells_hd.md#mur-de-feu
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

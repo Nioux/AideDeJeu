@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Langues
+AltName: '[Tongues](srd_spells_tongues.md)'
 Type: Divination
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, M (un modèle réduit de ziggourat en argile)
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Tongues](srd_spells_tongues.md)'
 Id: spells_hd.md#langues
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

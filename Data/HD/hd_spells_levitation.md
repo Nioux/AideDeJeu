@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Lévitation
+AltName: '[Levitate](srd_spells_levitate.md)'
 Type: Transmutation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Levitate](srd_spells_levitate.md)'
 Id: spells_hd.md#lévitation
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

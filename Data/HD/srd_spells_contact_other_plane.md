@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Contact Other Plane
+AltName: '[Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)'
 Type: divination
 Level: 5
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: Self
 Components: V
 Duration: 1 minute
 Classes: Warlock, Wizard
+Family: SpellVO
 Source: (SRD p129)
-AltName: '[Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)'
 Ritual: ritual
 Id: spells_vo.md#contact-other-plane
 ParentLink: spells_vo.md#spells-srd-p

@@ -3,6 +3,9 @@
 Name: Magicien
 AltName: Wizard (SRD p52)
 Source: (MDR p166)
+Description: >+
+  En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
+
 Id: wizard_hd.md#magicien
 RootId: wizard_hd.md
 ParentLink: classes_hd.md
@@ -31,6 +34,9 @@ Attributes:
   Name: Magicien
   AltName: Wizard (SRD p52)
   Source: (MDR p166)
+  Description: >+
+    En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
+
 AttributesDictionary: >+
   ParentNameLink: '[Classes](hd_classes.md)'
 
@@ -75,6 +81,12 @@ AttributesDictionary: >+
   AltName: Wizard (SRD p52)
 
   Source: (MDR p166)
+
+  Description: >+
+
+    En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
+
+
 
 ---
 >  [Classes](hd_classes.md)

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Repli expéditif
+AltName: '[Expeditious Retreat](srd_spells_expeditious_retreat.md)'
 Type: Transmutation
 Level: 1
 CastingTime: 1 action bonus
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Expeditious Retreat](srd_spells_expeditious_retreat.md)'
 Id: spells_hd.md#repli-expéditif
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

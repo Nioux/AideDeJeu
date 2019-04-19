@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Ténèbres
+AltName: '[Darkness](srd_spells_darkness.md)'
 Type: Évocation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Darkness](srd_spells_darkness.md)'
 Id: spells_hd.md#ténèbres
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

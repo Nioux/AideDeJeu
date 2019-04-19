@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: À deux mains
-AltName: Two-Handed (SRD p65)
-Source: (MDR p226)
 Id: weapons_hd.md#À-deux-mains
 ParentLink: weapons_hd.md#armes
+Name: À deux mains
 ParentName: Armes
 NameLevel: 5
+AltName: Two-Handed (SRD p65)
+Source: (MDR p226)
 Attributes:
   Name: À deux mains
   Markdown: >+

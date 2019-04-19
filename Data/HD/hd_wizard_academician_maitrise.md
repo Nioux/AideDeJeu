@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Maîtrise
 Id: wizard_academician_hd.md#maîtrise
 ParentLink: wizard_academician_hd.md#académicien
+Name: Maîtrise
 ParentName: Académicien
 NameLevel: 2
 Attributes:

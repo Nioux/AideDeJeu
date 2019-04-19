@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Forbiddance
+AltName: '[Interdiction](hd_spells_interdiction.md)'
 Type: abjuration
 Level: 6
 CastingTime: 10 minutes
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)
 Duration: 1 day
 Classes: Cleric
+Family: SpellVO
 Source: (SRD p146)
-AltName: '[Interdiction](hd_spells_interdiction.md)'
 Ritual: ritual
 Id: spells_vo.md#forbiddance
 ParentLink: spells_vo.md#spells-srd-p

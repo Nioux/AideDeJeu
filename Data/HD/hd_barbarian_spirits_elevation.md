@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Élévation
 Id: barbarian_spirits_hd.md#Élévation
 ParentLink: barbarian_spirits_hd.md#voie-des-esprits
+Name: Élévation
 ParentName: Voie des esprits
 NameLevel: 2
 Attributes:

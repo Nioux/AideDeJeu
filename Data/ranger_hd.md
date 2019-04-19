@@ -10,7 +10,11 @@
 - AltName: <!--AltName-->Ranger (SRD p35)<!--/AltName-->
 - Source: <!--Source-->(MDR p194)<!--/Source-->
 
+<!--Description-->
+
 En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
+
+<!--/Description-->
 
 <!--ClassHitPointsItem-->
 
@@ -38,6 +42,8 @@ En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
 
 ## <!--Name-->Équipement<!--/Name-->
 
+<!--Description-->
+
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
 * (a) une armure d'écailles ou (b) une armure de cuir
@@ -45,11 +51,15 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) un paquetage d'exploration souterraine ou (b) un paquetage d'explorateur
 * un arc long et un carquois contenant vingt flèches Ennemi juré
 
+<!--/Description-->
+
 <!--/ClassEquipmentItem-->
 
 <!--ClassEvolutionItem-->
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
+
+<!--Table-->
 
 |Niv.|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Sorts <!--br-->connus|1|2|3|4|5|
 |---|---|---|---|---|---|---|---|---|
@@ -74,6 +84,8 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 |19|+6|[Amélioration de caractéristiques]|11|4|3|3|3|2|
 |20|+6|[Tueur d'ennemis]|11|4|3|3|3|2|
 
+<!--/Table-->
+
 (* Emplacement de sorts par niveau de sort)
 
 <!--/ClassEvolutionItem-->
@@ -81,6 +93,8 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Ennemi juré<!--/Name-->
+
+<!--Description-->
 
 Dès le niveau 1, vous avez une expérience significative quand il s'agit d'étudier, de traquer, de chasser et même de parler à un certain type d'ennemi.
 
@@ -94,11 +108,15 @@ Quand vous gagnez cette aptitude, vous apprenez également une langue de votre c
 
 Vous pouvez choisir un nouvel ennemi juré ainsi qu'une langue qui lui est associée au niveau 6, puis au niveau 14. Ces choix devraient être faits en fonction du type de monstres que vous avez rencontrés pendant vos aventures.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Explorateur-né<!--/Name-->
+
+<!--Description-->
 
 Vous êtes particulièrement familier d'un certain type d'environnement naturel et vous avez des facilités à voyager et survivre dans ce type de régions. Choisissez un terrain de prédilection parmi : arctique, littoral, désert, forêt, plaine, montagne ou marais. Quand vous faites un test d'[Intelligence] ou de [Sagesse] lié à votre terrain de prédilection, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.
 
@@ -113,13 +131,19 @@ Lorsque vous voyagez une heure ou plus sur votre terrain de prédilection, vous 
 
 Au niveau 6 et au niveau 10, vous pouvez choisir un terrain de prédilection supplémentaire.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Style de combat<!--/Name-->
 
+<!--Description-->
+
 Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -127,7 +151,11 @@ Au niveau 2, vous choisissez de vous spécialiser dans un style de combat partic
 
 ## <!--Name-->Archerie<!--/Name-->
 
+<!--Description-->
+
 Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -135,7 +163,11 @@ Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes
 
 ## <!--Name-->Combat à deux armes<!--/Name-->
 
+<!--Description-->
+
 Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -143,7 +175,11 @@ Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de 
 
 ## <!--Name-->Défense<!--/Name-->
 
+<!--Description-->
+
 Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -151,13 +187,19 @@ Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
 ## <!--Name-->Duel<!--/Name-->
 
+<!--Description-->
+
 Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux jets de dégâts infligés avec cette arme.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 # <!--Name-->Incantations<!--/Name-->
+
+<!--Description-->
 
 Quand vous arrivez au niveau 2, vous apprenez à utiliser l'essence magique qui se trouve dans la nature pour lancer des sorts, un peu comme le ferait un druide. Reportez- vous au chapitre 11, Lancer des sorts, pages 306- 310, pour en savoir plus sur les règles d'incantation et à Listes de sorts par classe, pages 312-319 pour la liste de sorts de rôdeur.
 
@@ -185,13 +227,19 @@ DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur 
 
 Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Sagesse]
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Archétype de rôdeur<!--/Name-->
 
+<!--Description-->
+
 Au niveau 3, vous choisissez un archétype auquel vous vous efforcez d'adhérer : chasseur, archer arcanique, exilé ou traqueur. Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 7, 11 et 15.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -199,9 +247,13 @@ Au niveau 3, vous choisissez un archétype auquel vous vous efforcez d'adhérer 
 
 ## <!--Name-->Vigilance primitive<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 3, vous pouvez utiliser une action et dépenser un emplacement de sort de rôdeur pour exacerber votre vigilance et ouvrir vos sens à la région qui vous entoure. Pendant un nombre de minutes équivalent au niveau de l'emplacement de sort que vous avez dépensé, vous pouvez déterminer si les créatures des types suivants se trouvent dans un rayon de 1,5 kilomètre de vous (si vous êtes sur votre terrain de prédilection, ce rayon est de 9 kilomètres) : aberrations, célestes, dragons, élémentaires, fées, fiélons et mortsvivants.
 
 Cette aptitude ne vous permet pas de savoir où se trouvent ces créatures, ni leur nombre.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -209,7 +261,11 @@ Cette aptitude ne vous permet pas de savoir où se trouvent ces créatures, ni l
 
 ## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
+<!--Description-->
+
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -217,7 +273,11 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## <!--Name-->Attaque supplémentaire<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -225,9 +285,13 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## <!--Name-->Traversée des terrains<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 8, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle a des aiguilles, ou présente un quelconque risque de ce type.
 
 En plus de cela, vous obtenez un avantage sur les [jets de sauvegarde] contre les plantes créées par la magie ou manipulées pour gêner les déplacements, comme par exemple celles créées par le sort enchevêtrement.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -235,9 +299,13 @@ En plus de cela, vous obtenez un avantage sur les [jets de sauvegarde] contre le
 
 ## <!--Name-->Camouflage naturel<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 10, vous pouvez passer une minute à créer de quoi vous camoufler. Vous devez pour cela avoir accès à de la boue, de la terre, des plantes, de la suie et d'autres matériaux naturels avec lesquels créer votre camouflage.
 
 Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une surface solide, comme un arbre ou un mur, qui est au moins aussi grande et large que vous. Vous gagnez un bonus de +10 aux tests de [Dextérité (Discrétion)] tant que vous vous restez immobile et ne faites pas d'action. Dès que vous bougez ou choisissez d'effectuer une action ou une réaction, vous devez vous camoufler de nouveau pour regagner ce bonus.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -245,7 +313,11 @@ Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une s
 
 ## <!--Name-->Disparition<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 14, vous pouvez utiliser l'action se cacher comme action bonus lors de votre tour. Vous arrivez aussi à échapper aux tentatives de pistage par tout moyen non magique, sauf si vous choisissez de laisser des traces de votre passage.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -253,9 +325,13 @@ Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une s
 
 ## <!--Name-->Sens sauvages<!--/Name-->
 
+<!--Description-->
+
 Au niveau 18, vous gagnez des sens surnaturels qui vous aident à combattre les créatures que vous ne pouvez pas voir. Quand vous attaquez une créature que vous ne pouvez pas voir, le fait de ne pas la voir ne vous impose pas de désavantage sur vos jets d'attaque contre cette créature.
 
 Vous arrivez aussi à percevoir l'endroit où se trouve toute créature invisible dans un rayon de 9 mètres autour de vous, dans la mesure où elle n'est pas cachée et que vous n'êtes ni aveuglé ni assourdi.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -263,7 +339,11 @@ Vous arrivez aussi à percevoir l'endroit où se trouve toute créature invisibl
 
 ## <!--Name-->Tueur d'ennemis<!--/Name-->
 
+<!--Description-->
+
 Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de [Sagesse] au jet d'attaque ou de dégâts d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 

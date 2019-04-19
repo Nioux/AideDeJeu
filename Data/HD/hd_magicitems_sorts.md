@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Sorts
 Id: magicitems_hd.md#sorts
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Sorts
 ParentName: Objets magiques
 NameLevel: 4
 Attributes:

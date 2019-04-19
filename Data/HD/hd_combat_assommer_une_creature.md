@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Assommer une créature
-AltName: Knocking a Creature Out (SRD p98)
-Source: (MDR p294)
 Id: combat_hd.md#assommer-une-créature
 ParentLink: combat_hd.md#combattre
+Name: Assommer une créature
 ParentName: Combattre
 NameLevel: 3
+AltName: Knocking a Creature Out (SRD p98)
+Source: (MDR p294)
 Attributes:
   Name: Assommer une créature
   Markdown: >+

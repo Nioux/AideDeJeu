@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Séduction
 Id: warlock_occultsummons_hd.md#séduction
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Séduction
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

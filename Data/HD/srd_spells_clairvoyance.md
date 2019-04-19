@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Clairvoyance
+AltName: '[Clairvoyance](hd_spells_clairvoyance.md)'
 Type: divination
 Level: 3
 CastingTime: 10 minutes
@@ -9,8 +9,8 @@ Range: 1 mile
 Components: V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
 Duration: Concentration, up to 10 minutes
 Classes: Bard, Cleric, Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p124)
-AltName: '[Clairvoyance](hd_spells_clairvoyance.md)'
 Id: spells_vo.md#clairvoyance
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

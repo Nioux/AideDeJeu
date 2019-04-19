@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Speak with Plants
+AltName: '[Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)'
 Type: transmutation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Self (30-foot radius)
 Components: V, S
 Duration: 10 minutes
 Classes: Bard, Druid, Ranger
+Family: SpellVO
 Source: (SRD p181)
-AltName: '[Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)'
 Id: spells_vo.md#speak-with-plants
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

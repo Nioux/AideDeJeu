@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Esprit insondable
-Source: (L5R p57)
 Id: l5r_bard_hd.md#esprit-insondable
 ParentLink: l5r_bard_hd.md#barde-des-cinq-royaumes
+Name: Esprit insondable
 ParentName: Barde des cinq royaumes
 NameLevel: 4
+Source: (L5R p57)
 Attributes:
   Name: Esprit insondable
   Markdown: >+

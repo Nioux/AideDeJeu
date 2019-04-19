@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Baies nourricières
+AltName: '[Goodberry](srd_spells_goodberry.md)'
 Type: Transmutation
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (un brin de gui)
 Duration: instantanée
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p326)(SRD)
-AltName: '[Goodberry](srd_spells_goodberry.md)'
 Id: spells_hd.md#baies-nourricières
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

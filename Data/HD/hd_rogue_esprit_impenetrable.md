@@ -13,6 +13,9 @@ Attributes:
 
     Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md).
 
+  Description: >+
+    Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md).
+
 AttributesDictionary: >+
   Name: Esprit impénétrable
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md).
 
 
+
+  Description: >+
+
+    Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md).
+
+
+
+Description: >+
+  Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md).
 
 ---
 > [Roublard](hd_rogue.md)

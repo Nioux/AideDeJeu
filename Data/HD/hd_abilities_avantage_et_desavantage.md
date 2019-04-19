@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Avantage et désavantage
 Id: abilities_hd.md#avantage-et-désavantage
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
+Name: Avantage et désavantage
 ParentName: Utiliser les caractéristiques
 NameLevel: 1
 Attributes:

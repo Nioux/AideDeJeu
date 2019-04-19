@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Finesse
-AltName: Finesse (SRD p64)
-Source: (MDR p227)
 Id: weapons_hd.md#finesse
 ParentLink: weapons_hd.md#armes
+Name: Finesse
 ParentName: Armes
 NameLevel: 5
+AltName: Finesse (SRD p64)
+Source: (MDR p227)
 Attributes:
   Name: Finesse
   Markdown: >+

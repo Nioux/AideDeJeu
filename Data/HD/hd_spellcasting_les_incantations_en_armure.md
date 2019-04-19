@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Les incantations en armure
-AltName: Casting in Armor (SRD p100)
-Source: (MDR p307)
 Id: spellcasting_hd.md#les-incantations-en-armure
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Les incantations en armure
 ParentName: Lancer des sorts
 NameLevel: 3
+AltName: Casting in Armor (SRD p100)
+Source: (MDR p307)
 Attributes:
   Name: Les incantations en armure
   Markdown: >+

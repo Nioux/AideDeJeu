@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Magie universelle
 Id: cleric_theurgist_hd.md#magie-universelle
 ParentLink: cleric_theurgist_hd.md#théurge
+Name: Magie universelle
 ParentName: Théurge
 NameLevel: 2
 Attributes:

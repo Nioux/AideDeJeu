@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Bouclier
+AltName: '[Shield](srd_spells_shield.md)'
 Type: Abjuration
 Level: 1
 CastingTime: 1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de _[projectile magique](hd_spells_projectile_magique.md)_
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V, S
 Duration: 1 round
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p328)(SRD)
-AltName: '[Shield](srd_spells_shield.md)'
 Id: spells_hd.md#bouclier
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

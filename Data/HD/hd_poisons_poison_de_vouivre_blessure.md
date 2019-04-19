@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Poison de vouivre (blessure)
 Id: poisons_hd.md#poison-de-vouivre-blessure
 ParentLink: poisons_hd.md#les-poisons
+Name: Poison de vouivre (blessure)
 ParentName: Les poisons
 NameLevel: 4
 Attributes:

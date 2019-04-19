@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Politicien
 Id: wizard_eminence_hd.md#politicien
 ParentLink: wizard_eminence_hd.md#Éminence-grise
+Name: Politicien
 ParentName: Éminence grise
 NameLevel: 2
 Attributes:

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Toile d'araignée
+AltName: '[Web](srd_spells_web.md)'
 Type: Invocation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S, M (un bout de toile d'araignée)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)
-AltName: '[Web](srd_spells_web.md)'
 Id: spells_hd.md#toile-daraignée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

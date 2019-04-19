@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Slow
+AltName: '[Lenteur](hd_spells_lenteur.md)'
 Type: transmutation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 120 feet
 Components: V, S, M (a drop of molasses)
 Duration: Concentration, up to 1 minute
 Classes: Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p180)
-AltName: '[Lenteur](hd_spells_lenteur.md)'
 Id: spells_vo.md#slow
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

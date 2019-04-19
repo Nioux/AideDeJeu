@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Ancêtre dragon
 Id: sorcerer_draconic_hd.md#ancêtre-dragon
 ParentLink: sorcerer_draconic_hd.md#lignée-draconique
+Name: Ancêtre dragon
 ParentName: Lignée draconique
 NameLevel: 2
 Attributes:

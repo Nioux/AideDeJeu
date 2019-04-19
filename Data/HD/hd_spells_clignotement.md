@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Clignotement
+AltName: '[Blink](srd_spells_blink.md)'
 Type: Transmutation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V, S
 Duration: 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p334)(SRD)
-AltName: '[Blink](srd_spells_blink.md)'
 Id: spells_hd.md#clignotement
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

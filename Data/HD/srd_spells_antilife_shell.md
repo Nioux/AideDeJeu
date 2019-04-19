@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Antilife Shell
+AltName: '[Coquille antivie](hd_spells_coquille_antivie.md)'
 Type: abjuration
 Level: 5
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Self (10-foot radius)
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Druid
+Family: SpellVO
 Source: (SRD p116)
-AltName: '[Coquille antivie](hd_spells_coquille_antivie.md)'
 Id: spells_vo.md#antilife-shell
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

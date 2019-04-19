@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Tests de compétence
-Source: (L5R p68)
 Id: l5r_rituals_hd.md#tests-de-compétence
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
+Name: Tests de compétence
 ParentName: Lancer un rituel
 NameLevel: 3
+Source: (L5R p68)
 Attributes:
   Name: Tests de compétence
   Markdown: >+

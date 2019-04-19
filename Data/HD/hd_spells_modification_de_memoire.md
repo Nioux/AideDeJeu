@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Modification de mémoire
+AltName: '[Modify Memory](srd_spells_modify_memory.md)'
 Type: Enchantement
 Level: 5
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S
 Duration: "concentration, jusqu'à 1 minute "
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Modify Memory](srd_spells_modify_memory.md)'
 Id: spells_hd.md#modification-de-mémoire
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

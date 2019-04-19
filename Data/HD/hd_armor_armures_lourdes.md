@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Armures lourdes
-AltName: Heavy Armor (SRD p63)
-Source: (MDR p225)
 Id: armor_hd.md#armures-lourdes
 ParentLink: armor_hd.md#armures
+Name: Armures lourdes
 ParentName: Armures
 NameLevel: 3
+AltName: Heavy Armor (SRD p63)
+Source: (MDR p225)
 Attributes:
   Name: Armures lourdes
   Markdown: >+

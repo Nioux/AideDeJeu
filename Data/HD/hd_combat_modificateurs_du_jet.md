@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Modificateurs du jet
-AltName: Modifiers to the Roll (SRD p94)
-Source: (MDR p290)
 Id: combat_hd.md#modificateurs-du-jet
 ParentLink: combat_hd.md#combattre
+Name: Modificateurs du jet
 ParentName: Combattre
 NameLevel: 4
+AltName: Modifiers to the Roll (SRD p94)
+Source: (MDR p290)
 Attributes:
   Name: Modificateurs du jet
   Markdown: >+

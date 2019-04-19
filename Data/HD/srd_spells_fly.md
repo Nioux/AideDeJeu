@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Fly
+AltName: '[Vol](hd_spells_vol.md)'
 Type: transmutation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (a wing feather from any bird)
 Duration: Concentration, up to 10 minutes
 Classes: Sorcerer, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p146)
-AltName: '[Vol](hd_spells_vol.md)'
 Id: spells_vo.md#fly
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

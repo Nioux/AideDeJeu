@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: Combattre
-AltName: The Order of Combat (SRD p90)
-Source: (MDR p283)
 Id: combat_hd.md#combattre
 RootId: combat_hd.md
 ParentLink: index.md
+Name: Combattre
 ParentName: Manuel des règles
 NameLevel: 1
+AltName: The Order of Combat (SRD p90)
+Source: (MDR p283)
 Attributes:
   ParentNameLink: '[Manuel des règles](index.md)'
   Markdown: >+

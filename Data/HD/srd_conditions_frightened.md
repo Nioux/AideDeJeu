@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Frightened
-AltName: '[Terrorisé](hd_conditions_terrorise.md)'
-Source: (SRD p358)
 Id: conditions_vo.md#frightened
 ParentLink: conditions_vo.md#conditions
+Name: Frightened
 ParentName: Conditions
 NameLevel: 1
+AltName: '[Terrorisé](hd_conditions_terrorise.md)'
+Source: (SRD p358)
 Attributes:
   Name: Frightened
   Markdown: >+

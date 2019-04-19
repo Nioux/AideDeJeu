@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Guérisseur béni
 Id: cleric_life_hd.md#guérisseur-béni
 ParentLink: cleric_life_hd.md#domaine-de-la-vie
+Name: Guérisseur béni
 ParentName: Domaine de la Vie
 NameLevel: 2
 Attributes:

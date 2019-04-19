@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Sending
+AltName: '[Envoi de message](hd_spells_envoi_de_message.md)'
 Type: evocation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Unlimited
 Components: V, S, M (a short piece of fine copper wire)
 Duration: 1 round
 Classes: Bard, Cleric, Wizard
+Family: SpellVO
 Source: (SRD p177)
-AltName: '[Envoi de message](hd_spells_envoi_de_message.md)'
 Id: spells_vo.md#sending
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

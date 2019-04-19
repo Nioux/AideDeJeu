@@ -1,12 +1,12 @@
 ﻿---
 !Items
-Name: Points de vie et blessures
-Source: (L5R p42)
 Id: l5r_hitpoints_hd.md#points-de-vie-et-blessures
 RootId: l5r_hitpoints_hd.md
 ParentLink: l5r_index_hd.md
+Name: Points de vie et blessures
 ParentName: Les Cinq Royaumes
 NameLevel: 2
+Source: (L5R p42)
 Attributes:
   ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
   Markdown: >+

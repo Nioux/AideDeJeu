@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Insecte géant
+AltName: '[Giant Insect](srd_spells_giant_insect.md)'
 Type: Transmutation
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Druide](hd_druid.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Giant Insect](srd_spells_giant_insect.md)'
 Id: spells_hd.md#insecte-géant
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

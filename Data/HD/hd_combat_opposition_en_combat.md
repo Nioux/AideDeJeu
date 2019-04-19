@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Opposition en combat
-AltName: Contests in Combat (SRD p96)
-Source: (MDR p292)
 Id: combat_hd.md#opposition-en-combat
 ParentLink: combat_hd.md#combattre
+Name: Opposition en combat
 ParentName: Combattre
 NameLevel: 4
+AltName: Contests in Combat (SRD p96)
+Source: (MDR p292)
 Attributes:
   Name: Opposition en combat
   Markdown: >+

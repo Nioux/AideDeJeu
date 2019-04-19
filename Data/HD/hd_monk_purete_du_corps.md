@@ -13,6 +13,9 @@ Attributes:
 
     Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies et aux poisons.
 
+  Description: >+
+    Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies et aux poisons.
+
 AttributesDictionary: >+
   Name: Pureté du corps
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies et aux poisons.
 
 
+
+  Description: >+
+
+    Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies et aux poisons.
+
+
+
+Description: >+
+  Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies et aux poisons.
 
 ---
 > [Moine](hd_monk.md)

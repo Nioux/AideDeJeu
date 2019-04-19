@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Illusion programmée
+AltName: '[Programmed Illusion](srd_spells_programmed_illusion.md)'
 Type: Illusion
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 36 mètres
 Components: V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
 Duration: jusqu'à dissipation
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Programmed Illusion](srd_spells_programmed_illusion.md)'
 Id: spells_hd.md#illusion-programmée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

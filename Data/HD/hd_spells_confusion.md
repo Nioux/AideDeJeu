@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Confusion
+AltName: '[Confusion](srd_spells_confusion.md)'
 Type: Enchantement
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 27 mètres
 Components: V, S, M (trois coquilles de noix)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+Family: SpellHD
 Source: (MDR p338)(SRD)
-AltName: '[Confusion](srd_spells_confusion.md)'
 Id: spells_hd.md#confusion
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Objets à utilisation unique
 Id: magicitems_hd.md#objets-à-utilisation-unique
 ParentLink: magicitems_hd.md#objets-magiques
+Name: Objets à utilisation unique
 ParentName: Objets magiques
 NameLevel: 4
 Attributes:

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Find the Path
+AltName: '[Trouver un chemin](hd_spells_trouver_un_chemin.md)'
 Type: divination
 Level: 6
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: Self
 Components: V, S, M (a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find)
 Duration: Concentration, up to 1 day
 Classes: Bard, Cleric, Druid
+Family: SpellVO
 Source: (SRD p143)
-AltName: '[Trouver un chemin](hd_spells_trouver_un_chemin.md)'
 Id: spells_vo.md#find-the-path
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

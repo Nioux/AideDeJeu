@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Fantôme insaisissable
-Source: (L5R p54)
 Id: l5r_ranger_hd.md#fantôme-insaisissable
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
+Name: Fantôme insaisissable
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 5
+Source: (L5R p54)
 Attributes:
   Name: Fantôme insaisissable
   Markdown: >+

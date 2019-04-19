@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Vision occulte
 Id: warlock_occultsummons_hd.md#vision-occulte
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
+Name: Vision occulte
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

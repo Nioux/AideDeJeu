@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Ice Storm
+AltName: '[Tempête de grêle](hd_spells_tempete_de_grele.md)'
 Type: evocation
 Level: 4
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 300 feet
 Components: V, S, M (a pinch of dust and a few drops of water)
 Duration: Instantaneous
 Classes: Druid, Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p155)
-AltName: '[Tempête de grêle](hd_spells_tempete_de_grele.md)'
 Id: spells_vo.md#ice-storm
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

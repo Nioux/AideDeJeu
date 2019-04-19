@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Gaseous Form
+AltName: '[Forme gazeuse](hd_spells_forme_gazeuse.md)'
 Type: transmutation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (a bit of gauze and a wisp of smoke)
 Duration: Concentration, up to 1 hour
 Classes: Sorcerer, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p148)
-AltName: '[Forme gazeuse](hd_spells_forme_gazeuse.md)'
 Id: spells_vo.md#gaseous-form
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

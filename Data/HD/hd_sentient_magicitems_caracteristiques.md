@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Caractéristiques
 Id: sentient_magicitems_hd.md#caractéristiques
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
+Name: Caractéristiques
 ParentName: Objets magiques intelligents
 NameLevel: 5
 Attributes:

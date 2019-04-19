@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Peau d'écorce
+AltName: '[Barkskin](srd_spells_barkskin.md)'
 Type: Transmutation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (une poignée d'écorce de chêne)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Family: SpellHD
 Source: (MDR p)
-AltName: '[Barkskin](srd_spells_barkskin.md)'
 Id: spells_hd.md#peau-décorce
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Épée du juste
 Type: Évocation
 Level: 5
@@ -9,6 +8,7 @@ Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Paladin](hd_paladin.md)'
+Family: SpellHD
 Source: (MDR p353)
 Id: spells_hd.md#Épée-du-juste
 ParentLink: spells_hd.md#sorts

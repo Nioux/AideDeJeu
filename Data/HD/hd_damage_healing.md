@@ -1,13 +1,13 @@
 ﻿---
 !Items
-Name: 'Dégâts et guérison '
-AltName: Damage and Healing
-Source: (MDR p298)(SRD p96)
 Id: damage_healing_hd.md#dégâts-et-guérison-
 RootId: damage_healing_hd.md
 ParentLink: manage_health_hd.md
+Name: 'Dégâts et guérison '
 ParentName: Gérer la santé
 NameLevel: 2
+AltName: Damage and Healing
+Source: (MDR p298)(SRD p96)
 Attributes:
   ParentNameLink: '[Gérer la santé](hd_manage_health.md)'
   Markdown: >+

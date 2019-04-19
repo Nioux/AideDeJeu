@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Water Walk
+AltName: "[Marche sur l'eau](hd_spells_marche_sur_leau.md)"
 Type: transmutation
 Level: 3
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 30 feet
 Components: V, S, M (a piece of cork)
 Duration: 1 hour
 Classes: Cleric, Druid, Ranger, Sorcerer
+Family: SpellVO
 Source: (SRD p191)
-AltName: "[Marche sur l'eau](hd_spells_marche_sur_leau.md)"
 Ritual: ritual
 Id: spells_vo.md#water-walk
 ParentLink: spells_vo.md#spells-srd-p

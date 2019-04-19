@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Mauvais oeil
+AltName: '[Eyebite](srd_spells_eyebite.md)'
 Type: Nécromancie
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Eyebite](srd_spells_eyebite.md)'
 Id: spells_hd.md#mauvais-oeil
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

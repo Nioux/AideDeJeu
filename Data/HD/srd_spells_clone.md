@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Clone
+AltName: '[Clone](hd_spells_clone.md)'
 Type: necromancy
 Level: 8
 CastingTime: 1 hour
@@ -9,8 +9,8 @@ Range: Touch
 Components: V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)
 Duration: Instantaneous
 Classes: Wizard
+Family: SpellVO
 Source: (SRD p125)
-AltName: '[Clone](hd_spells_clone.md)'
 Id: spells_vo.md#clone
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

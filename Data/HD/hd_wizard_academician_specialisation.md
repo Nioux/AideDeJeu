@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Spécialisation
 Id: wizard_academician_hd.md#spécialisation
 ParentLink: wizard_academician_hd.md#académicien
+Name: Spécialisation
 ParentName: Académicien
 NameLevel: 2
 Attributes:

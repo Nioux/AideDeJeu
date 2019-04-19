@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Tempête vengeresse
+AltName: '[Storm of Vengeance](srd_spells_storm_of_vengeance.md)'
 Type: Invocation
 Level: 9
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: champ de vision
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Storm of Vengeance](srd_spells_storm_of_vengeance.md)'
 Id: spells_hd.md#tempête-vengeresse
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

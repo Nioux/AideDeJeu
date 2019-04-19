@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Durée
-AltName: Duration (SRD p102)
-Source: (MDR p308)
 Id: spellcasting_hd.md#durée
 ParentLink: spellcasting_hd.md#lancer-des-sorts
+Name: Durée
 ParentName: Lancer des sorts
 NameLevel: 3
+AltName: Duration (SRD p102)
+Source: (MDR p308)
 Attributes:
   Name: Durée
   Markdown: >+

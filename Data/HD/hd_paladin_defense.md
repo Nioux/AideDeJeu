@@ -13,6 +13,9 @@ Attributes:
 
     Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
+  Description: >+
+    Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
+
 AttributesDictionary: >+
   Name: Défense
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
 
+
+  Description: >+
+
+    Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
+
+
+
+Description: >+
+  Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
 ---
 > [Paladin](hd_paladin.md)

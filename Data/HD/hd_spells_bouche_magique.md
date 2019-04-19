@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Bouche magique
+AltName: '[Magic Mouth](srd_spells_magic_mouth.md)'
 Type: Illusion
 Level: 2
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
 Duration: jusqu'à dissipation
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p328)(SRD)
-AltName: '[Magic Mouth](srd_spells_magic_mouth.md)'
 Ritual: rituel
 Id: spells_hd.md#bouche-magique
 ParentLink: spells_hd.md#sorts

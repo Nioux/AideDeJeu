@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Flame Blade
+AltName: '[Lame de feu](hd_spells_lame_de_feu.md)'
 Type: evocation
 Level: 2
 CastingTime: 1 bonus action
@@ -9,8 +9,8 @@ Range: Self
 Components: V, S, M (leaf of sumac)
 Duration: Concentration, up to 10 minutes
 Classes: Druid
+Family: SpellVO
 Source: (SRD p145)
-AltName: '[Lame de feu](hd_spells_lame_de_feu.md)'
 Id: spells_vo.md#flame-blade
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

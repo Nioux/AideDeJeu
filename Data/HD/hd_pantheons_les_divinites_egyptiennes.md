@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Name: Les divinités égyptiennes
-AltName: Egyptian Deities
-Source: (MDR p415)(SRD p361)
 Id: pantheons_hd.md#les-divinités-égyptiennes
 ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
+Name: Les divinités égyptiennes
 ParentName: Panthéons historiques et fantastiques
 NameLevel: 4
+AltName: Egyptian Deities
+Source: (MDR p415)(SRD p361)
 Attributes:
   Name: Les divinités égyptiennes
   Markdown: >+

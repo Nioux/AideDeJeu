@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Arsenal diplomatique
 Id: bard_diplomats_hd.md#arsenal-diplomatique
 ParentLink: bard_diplomats_hd.md#collège-des-diplomates
+Name: Arsenal diplomatique
 ParentName: Collège des diplomates
 NameLevel: 2
 Attributes:

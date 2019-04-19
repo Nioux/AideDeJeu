@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Doigt de mort
+AltName: '[Finger of Death](srd_spells_finger_of_death.md)'
 Type: Nécromancie
 Level: 7
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p348)(SRD)
-AltName: '[Finger of Death](srd_spells_finger_of_death.md)'
 Id: spells_hd.md#doigt-de-mort
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

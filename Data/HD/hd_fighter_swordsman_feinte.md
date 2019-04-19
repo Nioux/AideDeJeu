@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Feinte
 Id: fighter_swordsman_hd.md#feinte
 ParentLink: fighter_swordsman_hd.md#bretteur
+Name: Feinte
 ParentName: Bretteur
 NameLevel: 2
 Attributes:

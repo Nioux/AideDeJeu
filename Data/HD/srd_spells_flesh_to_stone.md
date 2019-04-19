@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Flesh to Stone
+AltName: '[Pétrification](hd_spells_petrification.md)'
 Type: transmutation
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 60 feet
 Components: V, S, M (a pinch of lime, water, and earth)
 Duration: Concentration, up to 1 minute
 Classes: Warlock, Wizard
+Family: SpellVO
 Source: (SRD p145)
-AltName: '[Pétrification](hd_spells_petrification.md)'
 Id: spells_vo.md#flesh-to-stone
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

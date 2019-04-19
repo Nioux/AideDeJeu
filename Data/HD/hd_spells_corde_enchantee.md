@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Corde enchantée
+AltName: '[Rope Trick](srd_spells_rope_trick.md)'
 Type: Transmutation
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)
 Duration: 1 heure
 Classes: '[Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p342)(SRD)
-AltName: '[Rope Trick](srd_spells_rope_trick.md)'
 Id: spells_hd.md#corde-enchantée
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

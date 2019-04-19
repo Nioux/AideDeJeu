@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Guérison de groupe
+AltName: '[Mass Heal](srd_spells_mass_heal.md)'
 Type: Évocation
 Level: 9
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Mass Heal](srd_spells_mass_heal.md)'
 Id: spells_hd.md#guérison-de-groupe
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

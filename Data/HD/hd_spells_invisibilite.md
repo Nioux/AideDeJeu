@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Invisibilité
+AltName: '[Invisibility](srd_spells_invisibility.md)'
 Type: Illusion
 Level: 2
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: contact
 Components: V, S, M (un cil enrobé de gomme arabique)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)(SRD)
-AltName: '[Invisibility](srd_spells_invisibility.md)'
 Id: spells_hd.md#invisibilité
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

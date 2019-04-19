@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Apparence trompeuse
+AltName: '[Seeming](srd_spells_seeming.md)'
 Type: Illusion
 Level: 5
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 9 mètres
 Components: V, S
 Duration: 8 heures
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p323)(SRD)
-AltName: '[Seeming](srd_spells_seeming.md)'
 Id: spells_hd.md#apparence-trompeuse
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

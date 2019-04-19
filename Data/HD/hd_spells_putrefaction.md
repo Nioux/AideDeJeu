@@ -1,6 +1,5 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Putréfaction
 Type: Nécromancie
 Level: 1
@@ -9,6 +8,7 @@ Range: 30 mètres
 Components: V, S, M
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Sorcier](hd_warlock.md)'
+Family: SpellHD
 Source: (MDR p)
 Id: spells_hd.md#putréfaction
 ParentLink: spells_hd.md#sorts

@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Conjure Celestial
+AltName: '[Invoquer un céleste](hd_spells_invoquer_un_celeste.md)'
 Type: conjuration
 Level: 7
 CastingTime: 1 minute
@@ -9,8 +9,8 @@ Range: 90 feet
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Cleric
+Family: SpellVO
 Source: (SRD p127)
-AltName: '[Invoquer un céleste](hd_spells_invoquer_un_celeste.md)'
 Id: spells_vo.md#conjure-celestial
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

@@ -10,7 +10,11 @@
 - AltName: <!--AltName-->Fighter (SRD p24)<!--/AltName-->
 - Source: <!--Source-->(MDR p160)<!--/Source-->
 
+<!--Description-->
+
 En tant que guerrier, vous bénéficiez des aptitudes de classe suivantes.
+
+<!--/Description-->
 
 <!--ClassHitPointsItem-->
 
@@ -38,6 +42,8 @@ En tant que guerrier, vous bénéficiez des aptitudes de classe suivantes.
 
 ## <!--Name-->Équipement<!--/Name-->
 
+<!--Description-->
+
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
 * (a) une [cotte de mailles] ou (b) une [armure de cuir], un [arc long] et vingt [flèches]
@@ -45,11 +51,15 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) une [arbalète légère] avec vingt [carreaux] ou (b) deux [hachettes]
 * (a) un [paquetage d'exploration souterraine] ou (b) un [paquetage d'explorateur]
 
+<!--/Description-->
+
 <!--/ClassEquipmentItem-->
 
 <!--ClassEvolutionItem-->
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
+
+<!--Table-->
 
 |Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|
 |---|---|---|
@@ -74,11 +84,15 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 |19|+6|[Amélioration de caractéristiques]|
 |20|+6|[Attaque supplémentaire] (3)|
 
+<!--/Table-->
+
 <!--/ClassEvolutionItem-->
 
 <!--ClassFeatureItem-->
 
 # <!--Name-->Style de combat<!--/Name-->
+
+<!--Description-->
 
 Vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes.
 
@@ -108,15 +122,21 @@ Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, v
 
 Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 # <!--Name-->Second souffle<!--/Name-->
 
+<!--Description-->
+
 Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points de vie égal à 1d10 + votre niveau de guerrier.
 
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de l'utiliser de nouveau.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -124,9 +144,13 @@ Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court 
 
 # <!--Name-->Sursaut d'activité<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus.
 
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -134,7 +158,11 @@ Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court 
 
 # <!--Name-->Archétype martial<!--/Name-->
 
+<!--Description-->
+
 Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des archétypes martiaux disponibles : champion, bretteur, défenseur et sorcelame. En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -142,7 +170,11 @@ Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techn
 
 # <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
+<!--Description-->
+
 Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -150,9 +182,13 @@ Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmente
 
 # <!--Name-->Attaque supplémentaire<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 
 Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 11, puis à quatre quand vous atteignez le niveau 20 de cette classe.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -160,9 +196,13 @@ Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez 
 
 # <!--Name-->Indomptable<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 9, vous pouvez relancer un [jet de sauvegarde] raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un repos long.
 
 À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux repos longs et trois fois à partir du niveau 17.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 

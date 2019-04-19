@@ -1,15 +1,15 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Contagion
+AltName: '[Contagion](hd_spells_contagion.md)'
 Type: necromancy
 Level: 5
 CastingTime: 1 action
 Range: Touch
 Duration: 7 days
 Classes: Cleric, Druid
+Family: SpellVO
 Source: (SRD p129)
-AltName: '[Contagion](hd_spells_contagion.md)'
 Id: spells_vo.md#contagion
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

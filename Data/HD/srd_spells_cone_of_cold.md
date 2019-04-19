@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Cone of Cold
+AltName: '[Cône de froid](hd_spells_cone_de_froid.md)'
 Type: evocation
 Level: 5
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: Self (60-foot cone)
 Components: V, S, M (a small crystal or glass cone)
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Family: SpellVO
 Source: (SRD p127)
-AltName: '[Cône de froid](hd_spells_cone_de_froid.md)'
 Id: spells_vo.md#cone-of-cold
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

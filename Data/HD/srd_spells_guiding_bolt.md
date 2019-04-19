@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Guiding Bolt
+AltName: '[Balisage](hd_spells_balisage.md)'
 Type: evocation
 Level: 1
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 120 feet
 Components: V, S
 Duration: 1 round
 Classes: Cleric
+Family: SpellVO
 Source: (SRD p151)
-AltName: '[Balisage](hd_spells_balisage.md)'
 Id: spells_vo.md#guiding-bolt
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

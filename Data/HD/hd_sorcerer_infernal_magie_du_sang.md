@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
-Name: Magie du sang
 Id: sorcerer_infernal_hd.md#magie-du-sang
 ParentLink: sorcerer_infernal_hd.md#lignée-infernale
+Name: Magie du sang
 ParentName: Lignée infernale
 NameLevel: 2
 Attributes:

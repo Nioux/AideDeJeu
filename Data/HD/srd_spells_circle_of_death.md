@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellVO
 Name: Circle of Death
+AltName: '[Cercle de mort](hd_spells_cercle_de_mort.md)'
 Type: necromancy
 Level: 6
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: 150 feet
 Components: V, S, M (the powder of a crushed black pearl worth at least 500 gp)
 Duration: Instantaneous
 Classes: Sorcerer, Warlock, Wizard
+Family: SpellVO
 Source: (SRD p124)
-AltName: '[Cercle de mort](hd_spells_cercle_de_mort.md)'
 Id: spells_vo.md#circle-of-death
 ParentLink: spells_vo.md#spells-srd-p
 ParentName: Spells (SRD p)

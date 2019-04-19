@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Embruns prismatiques
+AltName: '[Prismatic Spray](srd_spells_prismatic_spray.md)'
 Type: Évocation
 Level: 7
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle (cône de 18 mètres)
 Components: V, S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p350)(SRD)
-AltName: '[Prismatic Spray](srd_spells_prismatic_spray.md)'
 Id: spells_hd.md#embruns-prismatiques
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts

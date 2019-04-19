@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
-Name: Fils des bois
-Source: (L5R p50)
 Id: l5r_human_hd.md#fils-des-bois
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
+Name: Fils des bois
 ParentName: Humain des cinq royaumes
 NameLevel: 4
+Source: (L5R p50)
 Attributes:
   Name: Fils des bois
   Markdown: >+

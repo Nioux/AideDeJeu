@@ -1,7 +1,7 @@
 ﻿---
 !SpellItem
-Family: SpellHD
 Name: Champ antimagie
+AltName: '[Antimagic Field](srd_spells_antimagic_field.md)'
 Type: Abjuration
 Level: 8
 CastingTime: 1 action
@@ -9,8 +9,8 @@ Range: personnelle (sphère de 3 mètres de rayon)
 Components: V, S, M (une pincée de poudre de fer ou de limaille)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
+Family: SpellHD
 Source: (MDR p332)(SRD)
-AltName: '[Antimagic Field](srd_spells_antimagic_field.md)'
 Id: spells_hd.md#champ-antimagie
 ParentLink: spells_hd.md#sorts
 ParentName: Sorts
