@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Attaque supplémentaire
 Id: multiclassing_hd.md#attaque-supplémentaire
 ParentLink: multiclassing_hd.md#multiclassage
-Name: Attaque supplémentaire
 ParentName: Multiclassage
 NameLevel: 3
 Attributes:

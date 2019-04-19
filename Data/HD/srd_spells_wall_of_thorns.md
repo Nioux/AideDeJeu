@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 6
+Name: Wall of Thorns
 Type: conjuration
+Level: 6
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S, M (a handful of thorns)
 Duration: Concentration, up to 10 minutes
 Classes: Druid
+Source: (SRD p191)
+AltName: "[Mur d'épines](hd_spells_mur_depines.md)"
 Id: spells_vo.md#wall-of-thorns
 ParentLink: spells_vo.md#spells-srd-p
-Name: Wall of Thorns
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: "[Mur d'épines](hd_spells_mur_depines.md)"
-Source: (SRD p191)
 Attributes:
   Name: Wall of Thorns
   Markdown: >+

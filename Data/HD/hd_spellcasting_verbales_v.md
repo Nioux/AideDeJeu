@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#verbales-v
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Verbales (V)
-ParentName: Lancer des sorts
-NameLevel: 4
 AltName: Verbal (V) (SRD p101)
 Source: (MDR p308)
+Id: spellcasting_hd.md#verbales-v
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 4
 Attributes:
   Name: Verbales (V)
   Markdown: >+

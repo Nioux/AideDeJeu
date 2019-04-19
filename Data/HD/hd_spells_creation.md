@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Création
 Type: Illusion
+Level: 5
 CastingTime: 1 minute
 Range: 9 mètres
 Components: V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)
 Duration: spéciale
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p343)(SRD)
+AltName: '[Creation](srd_spells_creation.md)'
 Id: spells_hd.md#création
 ParentLink: spells_hd.md#sorts
-Name: Création
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Creation](srd_spells_creation.md)'
-Source: (MDR p343)(SRD)
 Attributes:
   Name: Création
   Markdown: >+

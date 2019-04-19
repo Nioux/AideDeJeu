@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: cantrip
+Name: Ray of Frost
 Type: Evocation
+Level: cantrip
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Source: (SRD p174)
+AltName: '[Rayon de givre](hd_spells_rayon_de_givre.md)'
 Id: spells_vo.md#ray-of-frost
 ParentLink: spells_vo.md#spells-srd-p
-Name: Ray of Frost
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Rayon de givre](hd_spells_rayon_de_givre.md)'
-Source: (SRD p174)
 Attributes:
   Name: Ray of Frost
   Markdown: >+

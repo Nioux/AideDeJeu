@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Detect Poison and Disease
 Type: divination
-Ritual: ritual
+Level: 1
 CastingTime: 1 action
 Range: Self
 Components: V, S, M (a yew leaf)
 Duration: Concentration, up to 10 minutes
 Classes: Cleric, Druid, Paladin, Ranger
+Source: (SRD p134)
+AltName: '[Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)'
+Ritual: ritual
 Id: spells_vo.md#detect-poison-and-disease
 ParentLink: spells_vo.md#spells-srd-p
-Name: Detect Poison and Disease
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)'
-Source: (SRD p134)
 Attributes:
   Name: Detect Poison and Disease
   Markdown: >+

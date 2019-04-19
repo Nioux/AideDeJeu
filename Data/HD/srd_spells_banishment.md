@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 4
+Name: Banishment
 Type: abjuration
+Level: 4
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (an item distasteful to the target)
 Duration: Concentration, up to 1 minute
 Classes: Cleric, Paladin, Sorcerer, Warlock, Wizard
+Source: (SRD p120)
+AltName: '[Bannissement](hd_spells_bannissement.md)'
 Id: spells_vo.md#banishment
 ParentLink: spells_vo.md#spells-srd-p
-Name: Banishment
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Bannissement](hd_spells_bannissement.md)'
-Source: (SRD p120)
 Attributes:
   Name: Banishment
   Markdown: >+

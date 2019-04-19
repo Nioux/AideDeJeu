@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Frappe divine
 Id: cleric_life_hd.md#frappe-divine
 ParentLink: cleric_life_hd.md#domaine-de-la-vie
-Name: Frappe divine
 ParentName: Domaine de la Vie
 NameLevel: 2
 Attributes:

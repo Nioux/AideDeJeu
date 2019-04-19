@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Opposition
 Id: abilities_hd.md#opposition
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
-Name: Opposition
 ParentName: Utiliser les caractéristiques
 NameLevel: 2
 Attributes:

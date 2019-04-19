@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sphère d'annihilation
 Id: traps_hd.md#sphère-dannihilation
 ParentLink: traps_hd.md#les-pièges
-Name: Sphère d'annihilation
 ParentName: Les pièges
 NameLevel: 4
 Attributes:

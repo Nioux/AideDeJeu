@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Sommeil
 Type: Enchantement
+Level: 1
 CastingTime: 1 action
 Range: 27 mètres
 Components: V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)
 Duration: 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Sleep](srd_spells_sleep.md)'
 Id: spells_hd.md#sommeil
 ParentLink: spells_hd.md#sorts
-Name: Sommeil
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Sleep](srd_spells_sleep.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Sommeil
   Markdown: >+

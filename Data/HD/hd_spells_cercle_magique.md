@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Cercle magique
 Type: Abjuration
+Level: 3
 CastingTime: 1 minute
 Range: 3 mètres
 Components: V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
 Duration: 1 heure
 Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p331)(SRD)
+AltName: '[Magic Circle](srd_spells_magic_circle.md)'
 Id: spells_hd.md#cercle-magique
 ParentLink: spells_hd.md#sorts
-Name: Cercle magique
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Magic Circle](srd_spells_magic_circle.md)'
-Source: (MDR p331)(SRD)
 Attributes:
   Name: Cercle magique
   Markdown: >+

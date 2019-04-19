@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 6
+Name: Vision suprême
 Type: Divination
+Level: 6
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
 Duration: 1 heure
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p)(SRD)
+AltName: '[True Seeing](srd_spells_true_seeing.md)'
 Id: spells_hd.md#vision-suprême
 ParentLink: spells_hd.md#sorts
-Name: Vision suprême
 ParentName: Sorts
 NameLevel: 1
-AltName: '[True Seeing](srd_spells_true_seeing.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Vision suprême
   Markdown: >+

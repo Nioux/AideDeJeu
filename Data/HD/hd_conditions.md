@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: États spéciaux
+AltName: '[Conditions](srd_conditions.md)'
+Source: (MDR p299)
 Id: conditions_hd.md#États-spéciaux
 RootId: conditions_hd.md
 ParentLink: manage_health_hd.md
-Name: États spéciaux
 ParentName: Gérer la santé
 NameLevel: 1
-AltName: '[Conditions](srd_conditions.md)'
-Source: (MDR p299)
 Attributes:
   ParentNameLink: '[Gérer la santé](hd_manage_health.md)'
   Markdown: >+

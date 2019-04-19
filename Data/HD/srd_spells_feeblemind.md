@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 8
+Name: Feeblemind
 Type: enchantment
+Level: 8
 CastingTime: 1 action
 Range: 150 feet
 Components: V, S, M (a handful of clay, crystal, glass, or mineral spheres)
 Duration: Instantaneous
 Classes: Bard, Druid, Warlock, Wizard
+Source: (SRD p142)
+AltName: '[Esprit faible](hd_spells_esprit_faible.md)'
 Id: spells_vo.md#feeblemind
 ParentLink: spells_vo.md#spells-srd-p
-Name: Feeblemind
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Esprit faible](hd_spells_esprit_faible.md)'
-Source: (SRD p142)
 Attributes:
   Name: Feeblemind
   Markdown: >+

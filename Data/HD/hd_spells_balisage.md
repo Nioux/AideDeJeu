@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Balisage
 Type: Évocation
+Level: 1
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S
 Duration: 1 round
 Classes: '[Clerc](hd_cleric.md)'
+Source: (MDR p327)(SRD)
+AltName: '[Guiding Bolt](srd_spells_guiding_bolt.md)'
 Id: spells_hd.md#balisage
 ParentLink: spells_hd.md#sorts
-Name: Balisage
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Guiding Bolt](srd_spells_guiding_bolt.md)'
-Source: (MDR p327)(SRD)
 Attributes:
   Name: Balisage
   Markdown: >+

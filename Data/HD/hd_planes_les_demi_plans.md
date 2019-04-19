@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Les demi-plans
 Id: planes_hd.md#les-demi-plans
 ParentLink: planes_hd.md#jouer-dans-un-multivers
-Name: Les demi-plans
 ParentName: Jouer dans un multivers
 NameLevel: 4
 Attributes:

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Résistance élémentaire
 Id: wizard_elementalist_hd.md#résistance-élémentaire
 ParentLink: wizard_elementalist_hd.md#Élémentaliste
-Name: Résistance élémentaire
 ParentName: Élémentaliste
 NameLevel: 2
 Attributes:

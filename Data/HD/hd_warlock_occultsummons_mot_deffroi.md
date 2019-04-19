@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Mot d'effroi
 Id: warlock_occultsummons_hd.md#mot-deffroi
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Mot d'effroi
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

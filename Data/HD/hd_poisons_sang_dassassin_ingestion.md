@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sang d'assassin (ingestion)
 Id: poisons_hd.md#sang-dassassin-ingestion
 ParentLink: poisons_hd.md#les-poisons
-Name: Sang d'assassin (ingestion)
 ParentName: Les poisons
 NameLevel: 4
 Attributes:

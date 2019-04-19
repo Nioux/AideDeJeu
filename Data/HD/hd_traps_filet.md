@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Filet
 Id: traps_hd.md#filet
 ParentLink: traps_hd.md#les-pièges
-Name: Filet
 ParentName: Les pièges
 NameLevel: 4
 Attributes:

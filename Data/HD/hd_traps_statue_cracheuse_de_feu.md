@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Statue cracheuse de feu
 Id: traps_hd.md#statue-cracheuse-de-feu
 ParentLink: traps_hd.md#les-pièges
-Name: Statue cracheuse de feu
 ParentName: Les pièges
 NameLevel: 4
 Attributes:

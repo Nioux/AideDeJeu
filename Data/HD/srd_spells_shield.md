@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Shield
 Type: abjuration
+Level: 1
 CastingTime: 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell
 Range: Self
 Components: V, S
 Duration: 1 round
 Classes: Sorcerer, Wizard
+Source: (SRD p179)
+AltName: '[Bouclier](hd_spells_bouclier.md)'
 Id: spells_vo.md#shield
 ParentLink: spells_vo.md#spells-srd-p
-Name: Shield
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Bouclier](hd_spells_bouclier.md)'
-Source: (SRD p179)
 Attributes:
   Name: Shield
   Markdown: >+

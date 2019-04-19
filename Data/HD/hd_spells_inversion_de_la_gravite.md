@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 7
+Name: Inversion de la gravité
 Type: Transmutation
+Level: 7
 CastingTime: 1 action
 Range: 30 mètres
 Components: V, S, M (de la magnétite et de la limaille de fer)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Reverse Gravity](srd_spells_reverse_gravity.md)'
 Id: spells_hd.md#inversion-de-la-gravité
 ParentLink: spells_hd.md#sorts
-Name: Inversion de la gravité
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Reverse Gravity](srd_spells_reverse_gravity.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Inversion de la gravité
   Markdown: >+

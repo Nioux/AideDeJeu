@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Heat Metal
 Type: transmutation
+Level: 2
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (a piece of iron and a flame)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Druid
+Source: (SRD p153)
+AltName: '[Chauffer le métal](hd_spells_chauffer_le_metal.md)'
 Id: spells_vo.md#heat-metal
 ParentLink: spells_vo.md#spells-srd-p
-Name: Heat Metal
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Chauffer le métal](hd_spells_chauffer_le_metal.md)'
-Source: (SRD p153)
 Attributes:
   Name: Heat Metal
   Markdown: >+

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#contrôler-sa-monture
-ParentLink: combat_hd.md#combattre
 Name: Contrôler sa monture
-ParentName: Combattre
-NameLevel: 3
 AltName: Controlling a Mount (SRD p99)
 Source: (MDR p295)
+Id: combat_hd.md#contrôler-sa-monture
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 3
 Attributes:
   Name: Contrôler sa monture
   Markdown: >+

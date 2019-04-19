@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Façonneur de sorts
 Id: wizard_evocation_hd.md#façonneur-de-sorts
 ParentLink: wizard_evocation_hd.md#École-dévocation
-Name: Façonneur de sorts
 ParentName: École d'évocation
 NameLevel: 2
 Attributes:

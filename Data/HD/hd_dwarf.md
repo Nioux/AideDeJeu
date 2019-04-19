@@ -3,13 +3,13 @@
 FullName: Nain
 HasSubRaces: true
 ConstitutionBonus: 2
+AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 2.
 Age: Les nains deviennent matures au même rythme que les humains, mais ils se considèrent encore jeunes jusqu'à l'âge de 50 ans. Ils vivent en moyenne 350 ans.
 Alignment: La majorité des nains est d'alignement Loyal et croit profondément aux bienfaits d'une société organisée. Les nains sont plutôt attirés vers le bien, ont un sens inné de ce qui est juste et sont convaincus que tout le monde mérite de partager les bienfaits de l'ordre et de la justice.
 Size: Les nains mesurent entre 1,10 et 1,50 mètre et pèsent en moyenne 75 kilos. Ils sont de taille moyenne.
 Speed: Votre vitesse au sol de base est de 7,50 mètres. Vous pouvez porter une armure lourde sans que cela réduise votre vitesse.
 Darkvision: Habitué à la vie souterraine, vous avez une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
 Languages: Vous pouvez parler et écrire en commun et en nain. Le nain est une langue aux consonnes dures et aux sons gutturaux, des spécificités qui se retrouvent dans l'accent qu'ont les nains en parlant un autre langage.
-AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 2.
 Id: dwarf_hd.md#nain
 RootId: dwarf_hd.md
 ParentLink: races_hd.md#

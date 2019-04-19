@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Frappe chirurgicale
 Id: fighter_swordsman_hd.md#frappe-chirurgicale
 ParentLink: fighter_swordsman_hd.md#bretteur
-Name: Frappe chirurgicale
 ParentName: Bretteur
 NameLevel: 2
 Attributes:

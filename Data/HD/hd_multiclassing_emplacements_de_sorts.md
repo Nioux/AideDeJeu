@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Emplacements de sorts
 Id: multiclassing_hd.md#emplacements-de-sorts
 ParentLink: multiclassing_hd.md#multiclassage
-Name: Emplacements de sorts
 ParentName: Multiclassage
 NameLevel: 4
 Attributes:

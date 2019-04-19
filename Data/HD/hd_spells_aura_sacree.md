@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 8
+Name: Aura sacrée
 Type: Abjuration
+Level: 8
 CastingTime: 1 action
 Range: personnelle
 Components: V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md)'
+Source: (MDR p326)
+AltName: '[Holy Aura](srd_spells_holy_aura.md)'
 Id: spells_hd.md#aura-sacrée
 ParentLink: spells_hd.md#sorts
-Name: Aura sacrée
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Holy Aura](srd_spells_holy_aura.md)'
-Source: (MDR p326)
 Attributes:
   Name: Aura sacrée
   Markdown: >+

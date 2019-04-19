@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Hold Monster
 Type: enchantment
+Level: 5
 CastingTime: 1 action
 Range: 90 feet
 Components: V, S, M (a small, straight piece of iron)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Warlock, Wizard
+Source: (SRD p154)
+AltName: '[Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)'
 Id: spells_vo.md#hold-monster
 ParentLink: spells_vo.md#spells-srd-p
-Name: Hold Monster
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)'
-Source: (SRD p154)
 Attributes:
   Name: Hold Monster
   Markdown: >+

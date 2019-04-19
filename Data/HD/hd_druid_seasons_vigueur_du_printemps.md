@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Vigueur du printemps
 Id: druid_seasons_hd.md#vigueur-du-printemps
 ParentLink: druid_seasons_hd.md#cercle-des-saisons
-Name: Vigueur du printemps
 ParentName: Cercle des saisons
 NameLevel: 2
 Attributes:

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Charme, amour
 Id: cleric_priest_hd.md#charme-amour
 ParentLink: cleric_priest_hd.md#liste-des-domaines
-Name: Charme, amour
 ParentName: Liste des domaines
 NameLevel: 4
 Attributes:

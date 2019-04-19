@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Croissance d'épines
 Type: Transmutation
+Level: 2
 CastingTime: 1 action
 Range: 45 mètres
 Components: V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Source: (MDR p344)
+AltName: '[Spike Growth](srd_spells_spike_growth.md)'
 Id: spells_hd.md#croissance-dépines
 ParentLink: spells_hd.md#sorts
-Name: Croissance d'épines
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Spike Growth](srd_spells_spike_growth.md)'
-Source: (MDR p344)
 Attributes:
   Name: Croissance d'épines
   Markdown: >+

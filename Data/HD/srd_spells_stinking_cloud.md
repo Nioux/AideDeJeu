@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Stinking Cloud
 Type: conjuration
+Level: 3
 CastingTime: 1 action
 Range: 90 feet
 Components: V, S, M (a rotten egg or several skunk cabbage leaves)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Wizard
+Source: (SRD p182)
+AltName: '[Nuage puant](hd_spells_nuage_puant.md)'
 Id: spells_vo.md#stinking-cloud
 ParentLink: spells_vo.md#spells-srd-p
-Name: Stinking Cloud
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Nuage puant](hd_spells_nuage_puant.md)'
-Source: (SRD p182)
 Attributes:
   Name: Stinking Cloud
   Markdown: >+

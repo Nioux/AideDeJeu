@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Lueur d'espoir
 Type: Abjuration
+Level: 3
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md)'
+Source: (MDR p)
+AltName: '[Beacon of Hope](srd_spells_beacon_of_hope.md)'
 Id: spells_hd.md#lueur-despoir
 ParentLink: spells_hd.md#sorts
-Name: Lueur d'espoir
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Beacon of Hope](srd_spells_beacon_of_hope.md)'
-Source: (MDR p)
 Attributes:
   Name: Lueur d'espoir
   Markdown: >+

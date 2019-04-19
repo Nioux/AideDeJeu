@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Maître du terrain
 Id: ranger_tracker_hd.md#maître-du-terrain
 ParentLink: ranger_tracker_hd.md#traqueur
-Name: Maître du terrain
 ParentName: Traqueur
 NameLevel: 2
 Attributes:

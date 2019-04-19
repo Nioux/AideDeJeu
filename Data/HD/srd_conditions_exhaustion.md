@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: conditions_vo.md#exhaustion
-ParentLink: conditions_vo.md#conditions
 Name: Exhaustion
-ParentName: Conditions
-NameLevel: 1
 AltName: '[Fatigue et épuisement](hd_conditions_fatigue_et_epuisement.md)'
 Source: (SRD p358)
+Id: conditions_vo.md#exhaustion
+ParentLink: conditions_vo.md#conditions
+ParentName: Conditions
+NameLevel: 1
 Attributes:
   Name: Exhaustion
   Markdown: >+

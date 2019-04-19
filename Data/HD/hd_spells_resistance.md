@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Résistance
 Type: Abjuration
+Level: tour de magie
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (une cape miniature)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
+Source: (MDR p)(SRD)
+AltName: '[Resistance](srd_spells_resistance.md)'
 Id: spells_hd.md#résistance
 ParentLink: spells_hd.md#sorts
-Name: Résistance
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Resistance](srd_spells_resistance.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Résistance
   Markdown: >+

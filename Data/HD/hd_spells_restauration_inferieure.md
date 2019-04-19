@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Restauration inférieure
 Type: Abjuration
+Level: 2
 CastingTime: 1 action
 Range: contact
 Components: V, S
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
+Source: (MDR p)(SRD)
+AltName: '[Lesser Restoration](srd_spells_lesser_restoration.md)'
 Id: spells_hd.md#restauration-inférieure
 ParentLink: spells_hd.md#sorts
-Name: Restauration inférieure
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Lesser Restoration](srd_spells_lesser_restoration.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Restauration inférieure
   Markdown: >+

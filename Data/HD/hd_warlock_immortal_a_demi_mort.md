@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: À demi-mort
 Id: warlock_immortal_hd.md#À-demi-mort
 ParentLink: warlock_immortal_hd.md#le-seigneur-immortel
-Name: À demi-mort
 ParentName: Le seigneur immortel
 NameLevel: 2
 Attributes:

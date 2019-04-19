@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Intégrité physique
 Id: monk_openhand_hd.md#intégrité-physique
 ParentLink: monk_openhand_hd.md#voie-de-la-main-ouverte
-Name: Intégrité physique
 ParentName: Voie de la main ouverte
 NameLevel: 2
 Attributes:

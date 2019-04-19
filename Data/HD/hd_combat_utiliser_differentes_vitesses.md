@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#utiliser-différentes-vitesses
-ParentLink: combat_hd.md#combattre
 Name: Utiliser différentes vitesses
-ParentName: Combattre
-NameLevel: 4
 AltName: Using Different Speeds (SRD p91)
 Source: (MDR p286)
+Id: combat_hd.md#utiliser-différentes-vitesses
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 4
 Attributes:
   Name: Utiliser différentes vitesses
   Markdown: >+

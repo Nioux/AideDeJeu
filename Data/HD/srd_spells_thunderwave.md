@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Thunderwave
 Type: evocation
+Level: 1
 CastingTime: 1 action
 Range: Self (15-foot cube)
 Components: V, S
 Duration: Instantaneous
 Classes: Bard, Druid, Sorcerer, Wizard
+Source: (SRD p187)
+AltName: '[Vague tonnante](hd_spells_vague_tonnante.md)'
 Id: spells_vo.md#thunderwave
 ParentLink: spells_vo.md#spells-srd-p
-Name: Thunderwave
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Vague tonnante](hd_spells_vague_tonnante.md)'
-Source: (SRD p187)
 Attributes:
   Name: Thunderwave
   Markdown: >+

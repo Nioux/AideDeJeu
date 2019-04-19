@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Invoquer des élémentaires mineurs
 Type: Invocation
+Level: 4
 CastingTime: 1 minute
 Range: 27 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Conjure Minor Elementals](srd_spells_conjure_minor_elementals.md)'
 Id: spells_hd.md#invoquer-des-élémentaires-mineurs
 ParentLink: spells_hd.md#sorts
-Name: Invoquer des élémentaires mineurs
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Conjure Minor Elementals](srd_spells_conjure_minor_elementals.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Invoquer des élémentaires mineurs
   Markdown: >+

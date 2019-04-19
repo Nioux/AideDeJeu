@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 6
+Name: Instant Summons
 Type: conjuration
-Ritual: ritual
+Level: 6
 CastingTime: 1 minute
 Range: Touch
 Components: V, S, M (a sapphire worth 1,000 gp)
 Duration: Until dispelled
 Classes: Wizard
+Source: (SRD p157)
+AltName: '[Convocations instantanées](hd_spells_convocations_instantanees.md)'
+Ritual: ritual
 Id: spells_vo.md#instant-summons
 ParentLink: spells_vo.md#spells-srd-p
-Name: Instant Summons
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Convocations instantanées](hd_spells_convocations_instantanees.md)'
-Source: (SRD p157)
 Attributes:
   Name: Instant Summons
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Dispel Magic
 Type: abjuration
+Level: 3
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard
+Source: (SRD p136)
+AltName: '[Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)'
 Id: spells_vo.md#dispel-magic
 ParentLink: spells_vo.md#spells-srd-p
-Name: Dispel Magic
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)'
-Source: (SRD p136)
 Attributes:
   Name: Dispel Magic
   Markdown: >+

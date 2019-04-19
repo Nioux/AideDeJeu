@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Flame Strike
 Type: evocation
+Level: 5
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (pinch of sulfur)
 Duration: Instantaneous
 Classes: Cleric
+Source: (SRD p145)
+AltName: '[Colonne de flamme](hd_spells_colonne_de_flamme.md)'
 Id: spells_vo.md#flame-strike
 ParentLink: spells_vo.md#spells-srd-p
-Name: Flame Strike
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Colonne de flamme](hd_spells_colonne_de_flamme.md)'
-Source: (SRD p145)
 Attributes:
   Name: Flame Strike
   Markdown: >+

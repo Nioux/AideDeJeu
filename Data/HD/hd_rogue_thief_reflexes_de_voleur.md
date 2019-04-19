@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Réflexes de voleur
 Id: rogue_thief_hd.md#réflexes-de-voleur
 ParentLink: rogue_thief_hd.md#voleur
-Name: Réflexes de voleur
 ParentName: Voleur
 NameLevel: 2
 Attributes:

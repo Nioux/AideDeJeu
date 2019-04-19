@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Exilé
+Source: (L5R p55)
 Id: l5r_ranger_hd.md#exilé
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
-Name: Exilé
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 4
-Source: (L5R p55)
 Attributes:
   Name: Exilé
   Markdown: >+

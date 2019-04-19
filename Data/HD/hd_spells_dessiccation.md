@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Dessiccation
 Type: Transmutation
+Level: 2
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (une goutte d'eau)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p346)
 Id: spells_hd.md#dessiccation
 ParentLink: spells_hd.md#sorts
-Name: Dessiccation
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p346)
 Attributes:
   Name: Dessiccation
   Markdown: >+

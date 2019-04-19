@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 4
+Name: Stoneskin
 Type: abjuration
+Level: 4
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (diamond dust worth 100 gp, which the spell consumes)
 Duration: Concentration, up to 1 hour
 Classes: Druid, Ranger, Sorcerer, Wizard
+Source: (SRD p183)
+AltName: '[Peau de pierre](hd_spells_peau_de_pierre.md)'
 Id: spells_vo.md#stoneskin
 ParentLink: spells_vo.md#spells-srd-p
-Name: Stoneskin
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Peau de pierre](hd_spells_peau_de_pierre.md)'
-Source: (SRD p183)
 Attributes:
   Name: Stoneskin
   Markdown: >+

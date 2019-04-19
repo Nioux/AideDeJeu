@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Liste de sorts étendue
 Id: warlock_extradimensional_hd.md#liste-de-sorts-étendue
 ParentLink: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
-Name: Liste de sorts étendue
 ParentName: L'entité extra-dimensionnelle
 NameLevel: 2
 Attributes:

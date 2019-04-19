@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#action-bonus
-ParentLink: combat_hd.md#combattre
 Name: Action bonus
-ParentName: Combattre
-NameLevel: 4
 AltName: Bonus Actions (SRD p90)
 Source: (MDR p285)
+Id: combat_hd.md#action-bonus
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 4
 Attributes:
   Name: Action bonus
   Markdown: >+

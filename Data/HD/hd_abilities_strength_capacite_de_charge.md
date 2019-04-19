@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Capacité de charge
 Id: abilities_strength_hd.md#capacité-de-charge
 ParentLink: abilities_strength_hd.md#force
-Name: Capacité de charge
 ParentName: Force
 NameLevel: 3
 Attributes:

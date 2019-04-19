@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Sanctuaire privé
 Type: Abjuration
+Level: 4
 CastingTime: 10 minutes
 Range: 36 mètres
 Components: V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)
 Duration: 24 heures
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p)
+AltName: '[Private Sanctum](srd_spells_private_sanctum.md)'
 Id: spells_hd.md#sanctuaire-privé
 ParentLink: spells_hd.md#sorts
-Name: Sanctuaire privé
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Private Sanctum](srd_spells_private_sanctum.md)'
-Source: (MDR p)
 Attributes:
   Name: Sanctuaire privé
   Markdown: >+

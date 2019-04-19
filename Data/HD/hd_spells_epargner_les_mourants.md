@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Épargner les mourants
 Type: Nécromancie
+Level: tour de magie
 CastingTime: 1 action
 Range: contact
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Source: (MDR p352)(SRD)
+AltName: '[Spare the Dying](srd_spells_spare_the_dying.md)'
 Id: spells_hd.md#Épargner-les-mourants
 ParentLink: spells_hd.md#sorts
-Name: Épargner les mourants
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Spare the Dying](srd_spells_spare_the_dying.md)'
-Source: (MDR p352)(SRD)
 Attributes:
   Name: Épargner les mourants
   Markdown: >+

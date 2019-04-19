@@ -1,8 +1,8 @@
 ﻿---
 !Items
+Name: Personnalités suggérées
 Id: background_misereux_hd.md#personnalités-suggérées
 ParentLink: background_misereux_hd.md#miséreux
-Name: Personnalités suggérées
 ParentName: Miséreux
 NameLevel: 4
 Attributes:

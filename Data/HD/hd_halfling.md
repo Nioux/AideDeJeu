@@ -3,12 +3,12 @@
 FullName: Halfelin
 HasSubRaces: true
 DexterityBonus: 2
+AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.
 Age: Un halfelin atteint la maturité vers 20 ans et vit généralement 150 ans.
 Alignment: La majorité des halfelins est d'alignement Loyal Bon. Ce sont par nature des êtres qui ont un bon coeur et qui sont affables. Ils détestent voir les autres créatures souffrir et ne tolèrent pas l'oppression. Ils sont aussi très organisés et respectueux des traditions. Ils se reposent beaucoup sur leur communauté et le confort apporté par leurs coutumes.
 Size: D'une taille moyenne de 90 centimètres, les halfelins pèsent environ 20 kg. Ils sont de petite taille.
 Speed: Votre vitesse au sol de base est de 7,50 mètres.
 Languages: Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.
-AbilityScoreIncrease: Votre valeur de [Dextérité](hd_abilities_dexterity.md) augmente de 2.
 Id: halfling_hd.md#halfelin
 RootId: halfling_hd.md
 ParentLink: races_hd.md#

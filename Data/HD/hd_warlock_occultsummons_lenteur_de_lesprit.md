@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Lenteur de l'esprit
 Id: warlock_occultsummons_hd.md#lenteur-de-lesprit
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Lenteur de l'esprit
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

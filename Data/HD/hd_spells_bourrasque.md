@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Bourrasque
 Type: Évocation
+Level: 2
 CastingTime: 1 action
 Range: personnelle (ligne de 18 mètres)
 Components: V, S, M (une graine de légume)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p329)(SRD)
+AltName: '[Gust of Wind](srd_spells_gust_of_wind.md)'
 Id: spells_hd.md#bourrasque
 ParentLink: spells_hd.md#sorts
-Name: Bourrasque
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Gust of Wind](srd_spells_gust_of_wind.md)'
-Source: (MDR p329)(SRD)
 Attributes:
   Name: Bourrasque
   Markdown: >+

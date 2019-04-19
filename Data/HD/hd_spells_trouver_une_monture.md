@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Trouver une monture
 Type: Invocation
+Level: 2
 CastingTime: 10 minutes
 Range: 9 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Paladin](hd_paladin.md)'
+Source: (MDR p)(SRD)
+AltName: '[Find Steed](srd_spells_find_steed.md)'
 Id: spells_hd.md#trouver-une-monture
 ParentLink: spells_hd.md#sorts
-Name: Trouver une monture
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Find Steed](srd_spells_find_steed.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Trouver une monture
   Markdown: >+

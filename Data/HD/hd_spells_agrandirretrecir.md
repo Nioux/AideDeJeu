@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Agrandir/rétrécir
 Type: Transmutation
+Level: 2
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (une pincée de limaille de fer)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p320)(SRD)
+AltName: '[Enlarge/Reduce](srd_spells_enlargereduce.md)'
 Id: spells_hd.md#agrandirrétrécir
 ParentLink: spells_hd.md#sorts
-Name: Agrandir/rétrécir
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Enlarge/Reduce](srd_spells_enlargereduce.md)'
-Source: (MDR p320)(SRD)
 Attributes:
   Name: Agrandir/rétrécir
   Markdown: >+

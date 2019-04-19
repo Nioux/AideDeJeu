@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Armure des ombres
 Id: warlock_occultsummons_hd.md#armure-des-ombres
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Armure des ombres
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

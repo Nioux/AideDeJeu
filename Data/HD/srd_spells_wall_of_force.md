@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Wall of Force
 Type: evocation
+Level: 5
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S, M (a pinch of powder made by crushing a clear gemstone)
 Duration: Concentration, up to 10 minutes
 Classes: Wizard
+Source: (SRD p190)
+AltName: '[Mur de force](hd_spells_mur_de_force.md)'
 Id: spells_vo.md#wall-of-force
 ParentLink: spells_vo.md#spells-srd-p
-Name: Wall of Force
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Mur de force](hd_spells_mur_de_force.md)'
-Source: (SRD p190)
 Attributes:
   Name: Wall of Force
   Markdown: >+

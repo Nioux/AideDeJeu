@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Soutien rapide
 Id: cleric_guide_hd.md#soutien-rapide
 ParentLink: cleric_guide_hd.md#guide-spirituel
-Name: Soutien rapide
 ParentName: Guide spirituel
 NameLevel: 2
 Attributes:

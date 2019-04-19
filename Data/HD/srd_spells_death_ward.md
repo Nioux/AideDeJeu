@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 4
+Name: Death Ward
 Type: abjuration
+Level: 4
 CastingTime: 1 action
 Range: Touch
 Components: V, S
 Duration: 8 hours
 Classes: Cleric, Paladin
+Source: (SRD p133)
+AltName: '[Protection contre la mort](hd_spells_protection_contre_la_mort.md)'
 Id: spells_vo.md#death-ward
 ParentLink: spells_vo.md#spells-srd-p
-Name: Death Ward
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Protection contre la mort](hd_spells_protection_contre_la_mort.md)'
-Source: (SRD p133)
 Attributes:
   Name: Death Ward
   Markdown: >+

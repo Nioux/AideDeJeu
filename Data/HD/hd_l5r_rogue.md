@@ -1,12 +1,12 @@
 ﻿---
 !Items
+Name: Le savant
+Source: (L5R p65)
 Id: l5r_rogue_hd.md#le-savant
 RootId: l5r_rogue_hd.md
 ParentLink: l5r_index_hd.md
-Name: Le savant
 ParentName: Les Cinq Royaumes
 NameLevel: 2
-Source: (L5R p65)
 Attributes:
   ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
   Markdown: >+

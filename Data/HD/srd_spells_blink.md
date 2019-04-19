@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Blink
 Type: transmutation
+Level: 3
 CastingTime: 1 action
 Range: Self
 Components: V, S
 Duration: 1 minute
 Classes: Sorcerer, Wizard
+Source: (SRD p122)
+AltName: '[Clignotement](hd_spells_clignotement.md)'
 Id: spells_vo.md#blink
 ParentLink: spells_vo.md#spells-srd-p
-Name: Blink
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Clignotement](hd_spells_clignotement.md)'
-Source: (SRD p122)
 Attributes:
   Name: Blink
   Markdown: >+

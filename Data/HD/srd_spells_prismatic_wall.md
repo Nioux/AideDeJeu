@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 9
+Name: Prismatic Wall
 Type: abjuration
+Level: 9
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: 10 minutes
 Classes: Wizard
+Source: (SRD p171)
+AltName: '[Mur prismatique](hd_spells_mur_prismatique.md)'
 Id: spells_vo.md#prismatic-wall
 ParentLink: spells_vo.md#spells-srd-p
-Name: Prismatic Wall
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Mur prismatique](hd_spells_mur_prismatique.md)'
-Source: (SRD p171)
 Attributes:
   Name: Prismatic Wall
   Markdown: >+

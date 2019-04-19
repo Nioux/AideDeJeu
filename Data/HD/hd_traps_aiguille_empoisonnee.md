@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Aiguille empoisonnée
 Id: traps_hd.md#aiguille-empoisonnée
 ParentLink: traps_hd.md#les-pièges
-Name: Aiguille empoisonnée
 ParentName: Les pièges
 NameLevel: 4
 Attributes:

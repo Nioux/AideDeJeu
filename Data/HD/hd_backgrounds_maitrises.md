@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: backgrounds_hd.md#maîtrises
-ParentLink: backgrounds_hd.md#historique
 Name: Maîtrises
-ParentName: Historique
-NameLevel: 3
 AltName: Proficiencies (SRD p60)
 Source: (MDR p77)
+Id: backgrounds_hd.md#maîtrises
+ParentLink: backgrounds_hd.md#historique
+ParentName: Historique
+NameLevel: 3
 Attributes:
   Name: Maîtrises
   Markdown: >+

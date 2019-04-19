@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Assistants
+Source: (L5R p68)
 Id: l5r_rituals_hd.md#assistants
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
-Name: Assistants
 ParentName: Lancer un rituel
 NameLevel: 4
-Source: (L5R p68)
 Attributes:
   Name: Assistants
   Markdown: >+

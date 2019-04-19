@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Instrument fantomatique
 Type: Illusion
+Level: 1
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (un archet et un morceau d'os)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md)'
+Source: (MDR p)
 Id: spells_hd.md#instrument-fantomatique
 ParentLink: spells_hd.md#sorts
-Name: Instrument fantomatique
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p)
 Attributes:
   Name: Instrument fantomatique
   Markdown: >+

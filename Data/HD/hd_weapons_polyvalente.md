@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: weapons_hd.md#polyvalente
-ParentLink: weapons_hd.md#armes
 Name: Polyvalente
-ParentName: Armes
-NameLevel: 5
 AltName: Versatile (SRD p65)
 Source: (MDR p227)
+Id: weapons_hd.md#polyvalente
+ParentLink: weapons_hd.md#armes
+ParentName: Armes
+NameLevel: 5
 Attributes:
   Name: Polyvalente
   Markdown: >+

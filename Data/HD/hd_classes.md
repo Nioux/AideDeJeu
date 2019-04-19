@@ -1,9 +1,9 @@
 ﻿---
 !Items
+Name: Classes
 Id: classes_hd.md#classes
 RootId: classes_hd.md
 ParentLink: index.md
-Name: Classes
 ParentName: Manuel des règles
 NameLevel: 1
 Attributes:

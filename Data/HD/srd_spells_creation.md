@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Creation
 Type: illusion
+Level: 5
 CastingTime: 1 minute
 Range: 30 feet
 Components: V, S, M (a tiny piece of matter of the same type of the item you plan to create)
 Duration: Special
 Classes: Sorcerer, Wizard
+Source: (SRD p132)
+AltName: '[Création](hd_spells_creation.md)'
 Id: spells_vo.md#creation
 ParentLink: spells_vo.md#spells-srd-p
-Name: Creation
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Création](hd_spells_creation.md)'
-Source: (SRD p132)
 Attributes:
   Name: Creation
   Markdown: >+

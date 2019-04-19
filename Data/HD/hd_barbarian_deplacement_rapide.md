@@ -13,6 +13,9 @@ Attributes:
 
     À partir du niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'[armure lourde](equipment_hd_with_type_armurelourde.md).
 
+  Description: >+
+    À partir du niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'[armure lourde](equipment_hd_with_type_armurelourde.md).
+
 AttributesDictionary: >+
   Name: Déplacement rapide
 
@@ -27,6 +30,15 @@ AttributesDictionary: >+
     À partir du niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'[armure lourde](equipment_hd_with_type_armurelourde.md).
 
 
+
+  Description: >+
+
+    À partir du niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'[armure lourde](equipment_hd_with_type_armurelourde.md).
+
+
+
+Description: >+
+  À partir du niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'[armure lourde](equipment_hd_with_type_armurelourde.md).
 
 ---
 > [Barbare](hd_barbarian.md)

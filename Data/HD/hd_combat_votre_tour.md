@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#votre-tour
-ParentLink: combat_hd.md#combattre
 Name: Votre tour
-ParentName: Combattre
-NameLevel: 3
 AltName: Your Turn (SRD p90)
 Source: (MDR p285)
+Id: combat_hd.md#votre-tour
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 3
 Attributes:
   Name: Votre tour
   Markdown: >+

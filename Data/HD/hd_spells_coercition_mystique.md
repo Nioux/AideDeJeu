@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Coercition mystique
 Type: Enchantement
+Level: 5
 CastingTime: 1 minute
 Range: 18 mètres
 Components: V
 Duration: 30 jours
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
+Source: (MDR p335)(SRD)
+AltName: '[Geas](srd_spells_geas.md)'
 Id: spells_hd.md#coercition-mystique
 ParentLink: spells_hd.md#sorts
-Name: Coercition mystique
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Geas](srd_spells_geas.md)'
-Source: (MDR p335)(SRD)
 Attributes:
   Name: Coercition mystique
   Markdown: >+

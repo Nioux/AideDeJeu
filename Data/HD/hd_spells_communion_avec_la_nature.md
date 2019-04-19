@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Communion avec la nature
 Type: Divination
-Ritual: rituel
+Level: 5
 CastingTime: 1 minute
 Range: personnelle
 Components: V, S
 Duration: instantanée
 Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Source: (MDR p337)(SRD)
+AltName: '[Commune with Nature](srd_spells_commune_with_nature.md)'
+Ritual: rituel
 Id: spells_hd.md#communion-avec-la-nature
 ParentLink: spells_hd.md#sorts
-Name: Communion avec la nature
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Commune with Nature](srd_spells_commune_with_nature.md)'
-Source: (MDR p337)(SRD)
 Attributes:
   Name: Communion avec la nature
   Markdown: >+

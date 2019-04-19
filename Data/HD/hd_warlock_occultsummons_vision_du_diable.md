@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Vision du diable
 Id: warlock_occultsummons_hd.md#vision-du-diable
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Vision du diable
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

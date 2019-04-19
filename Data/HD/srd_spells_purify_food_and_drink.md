@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Purify Food and Drink
 Type: transmutation
-Ritual: ritual
+Level: 1
 CastingTime: 1 action
 Range: 10 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric, Druid, Paladin
+Source: (SRD p173)
+AltName: "[Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)"
+Ritual: ritual
 Id: spells_vo.md#purify-food-and-drink
 ParentLink: spells_vo.md#spells-srd-p
-Name: Purify Food and Drink
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: "[Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)"
-Source: (SRD p173)
 Attributes:
   Name: Purify Food and Drink
   Markdown: >+

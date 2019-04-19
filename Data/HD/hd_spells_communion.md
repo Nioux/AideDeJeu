@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Communion
 Type: Divination
-Ritual: rituel
+Level: 5
 CastingTime: 1 minute
 Range: personnelle
 Components: V, S, M (de l'encens et une fiole d'eau bénite ou maudite)
 Duration: 1 minute
 Classes: '[Clerc](hd_cleric.md)'
+Source: (MDR p337)(SRD)
+AltName: '[Commune](srd_spells_commune.md)'
+Ritual: rituel
 Id: spells_hd.md#communion
 ParentLink: spells_hd.md#sorts
-Name: Communion
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Commune](srd_spells_commune.md)'
-Source: (MDR p337)(SRD)
 Attributes:
   Name: Communion
   Markdown: >+

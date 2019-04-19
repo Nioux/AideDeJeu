@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Folie passagère
 Id: madness_hd.md#folie-passagère
 ParentLink: madness_hd.md#la-folie
-Name: Folie passagère
 ParentName: La folie
 NameLevel: 4
 Attributes:

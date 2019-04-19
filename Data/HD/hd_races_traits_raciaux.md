@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: races_hd.md#traits-raciaux
-ParentLink: races_hd.md#races
 Name: Traits raciaux
-ParentName: Races
-NameLevel: 3
 AltName: Racial Traits
 Source: (MDR p36)(SRD p3)
+Id: races_hd.md#traits-raciaux
+ParentLink: races_hd.md#races
+ParentName: Races
+NameLevel: 3
 Attributes:
   Name: Traits raciaux
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Conjure Animals
 Type: conjuration
+Level: 3
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Druid, Ranger
+Source: (SRD p127)
+AltName: '[Invoquer des animaux](hd_spells_invoquer_des_animaux.md)'
 Id: spells_vo.md#conjure-animals
 ParentLink: spells_vo.md#spells-srd-p
-Name: Conjure Animals
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Invoquer des animaux](hd_spells_invoquer_des_animaux.md)'
-Source: (SRD p127)
 Attributes:
   Name: Conjure Animals
   Markdown: >+

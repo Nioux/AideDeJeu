@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Soulever et transporter
 Id: abilities_strength_hd.md#soulever-et-transporter
 ParentLink: abilities_strength_hd.md#force
-Name: Soulever et transporter
 ParentName: Force
 NameLevel: 2
 Attributes:

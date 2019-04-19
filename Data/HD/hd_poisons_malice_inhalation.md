@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Malice (inhalation)
 Id: poisons_hd.md#malice-inhalation
 ParentLink: poisons_hd.md#les-poisons
-Name: Malice (inhalation)
 ParentName: Les poisons
 NameLevel: 4
 Attributes:

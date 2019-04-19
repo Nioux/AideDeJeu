@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Empoigné
+AltName: '[Grappled](srd_conditions_grappled.md)'
 Id: conditions_hd.md#empoigné
 ParentLink: conditions_hd.md#États-spéciaux
-Name: Empoigné
 ParentName: États spéciaux
 NameLevel: 1
-AltName: '[Grappled](srd_conditions_grappled.md)'
 Attributes:
   Name: Empoigné
   Markdown: >+

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#terrain-difficile
-ParentLink: combat_hd.md#combattre
 Name: Terrain difficile
-ParentName: Combattre
-NameLevel: 3
 AltName: Difficult Terrain (SRD p91)
 Source: (MDR p286)
+Id: combat_hd.md#terrain-difficile
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 3
 Attributes:
   Name: Terrain difficile
   Markdown: >+

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sorts de saison
 Id: druid_seasons_hd.md#sorts-de-saison
 ParentLink: druid_seasons_hd.md#cercle-des-saisons
-Name: Sorts de saison
 ParentName: Cercle des saisons
 NameLevel: 2
 Attributes:

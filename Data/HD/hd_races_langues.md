@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: races_hd.md#langues
-ParentLink: races_hd.md#traits-raciaux
 Name: Langues
-ParentName: Traits raciaux
-NameLevel: 4
 AltName: Languages
 Source: (MDR p37)(SRD p3)
+Id: races_hd.md#langues
+ParentLink: races_hd.md#traits-raciaux
+ParentName: Traits raciaux
+NameLevel: 4
 Attributes:
   Name: Langues
   Markdown: >+

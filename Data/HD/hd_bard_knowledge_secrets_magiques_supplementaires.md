@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Secrets magiques supplémentaires
 Id: bard_knowledge_hd.md#secrets-magiques-supplémentaires
 ParentLink: bard_knowledge_hd.md#collège-du-savoir
-Name: Secrets magiques supplémentaires
 ParentName: Collège du savoir
 NameLevel: 2
 Attributes:

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Détails amusants
 Id: magicitems_hd.md#détails-amusants
 ParentLink: magicitems_hd.md#objets-magiques
-Name: Détails amusants
 ParentName: Objets magiques
 NameLevel: 4
 Attributes:

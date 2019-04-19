@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: damage_healing_hd.md#jets-de-sauvegarde-contre-la-mort
-ParentLink: damage_healing_hd.md#dégâts-et-guérison-
 Name: Jets de sauvegarde contre la mort
-ParentName: 'Dégâts et guérison '
-NameLevel: 4
 AltName: Death Saving Throws
 Source: (MDR p298)(SRD p98)
+Id: damage_healing_hd.md#jets-de-sauvegarde-contre-la-mort
+ParentLink: damage_healing_hd.md#dégâts-et-guérison-
+ParentName: 'Dégâts et guérison '
+NameLevel: 4
 Attributes:
   Name: Jets de sauvegarde contre la mort
   Markdown: >+

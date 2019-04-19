@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Localiser une créature
 Type: Divination
+Level: 4
 CastingTime: 1 action
 Range: personnelle
 Components: V, S, M (des poils de chien de chasse)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
+Source: (MDR p)(SRD)
+AltName: '[Locate Creature](srd_spells_locate_creature.md)'
 Id: spells_hd.md#localiser-une-créature
 ParentLink: spells_hd.md#sorts
-Name: Localiser une créature
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Locate Creature](srd_spells_locate_creature.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Localiser une créature
   Markdown: >+

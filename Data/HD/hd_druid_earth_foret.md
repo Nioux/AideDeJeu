@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Forêt
 Id: druid_earth_hd.md#forêt
 ParentLink: druid_earth_hd.md#cercle-de-la-terre
-Name: Forêt
 ParentName: Cercle de la terre
 NameLevel: 2
 Attributes:

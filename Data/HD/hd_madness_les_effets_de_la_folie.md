@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Les effets de la folie
 Id: madness_hd.md#les-effets-de-la-folie
 ParentLink: madness_hd.md#la-folie
-Name: Les effets de la folie
 ParentName: La folie
 NameLevel: 3
 Attributes:

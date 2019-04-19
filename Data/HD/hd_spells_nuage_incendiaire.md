@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 8
+Name: Nuage incendiaire
 Type: Invocation
+Level: 8
 CastingTime: 1 action
 Range: 45 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Incendiary Cloud](srd_spells_incendiary_cloud.md)'
 Id: spells_hd.md#nuage-incendiaire
 ParentLink: spells_hd.md#sorts
-Name: Nuage incendiaire
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Incendiary Cloud](srd_spells_incendiary_cloud.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Nuage incendiaire
   Markdown: >+

@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Flamboiement funeste
 Type: Invocation
+Level: 1
 CastingTime: 1 action
 Range: personnelle
 Components: V, S, M (morceau d'onyx)
 Duration: instantanée
 Classes: '[Sorcier](hd_warlock.md)'
+Source: (MDR p355)
 Id: spells_hd.md#flamboiement-funeste
 ParentLink: spells_hd.md#sorts
-Name: Flamboiement funeste
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p355)
 Attributes:
   Name: Flamboiement funeste
   Markdown: >+

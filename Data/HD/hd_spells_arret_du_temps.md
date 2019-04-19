@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 9
+Name: Arrêt du temps
 Type: Transmutation
+Level: 9
 CastingTime: 1 action
 Range: personnelle
 Components: V
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p325)(SRD)
+AltName: '[Time Stop](srd_spells_time_stop.md)'
 Id: spells_hd.md#arrêt-du-temps
 ParentLink: spells_hd.md#sorts
-Name: Arrêt du temps
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Time Stop](srd_spells_time_stop.md)'
-Source: (MDR p325)(SRD)
 Attributes:
   Name: Arrêt du temps
   Markdown: >+

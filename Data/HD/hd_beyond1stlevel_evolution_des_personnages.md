@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Évolution des personnages
 Id: beyond1stlevel_hd.md#Évolution-des-personnages
 ParentLink: beyond1stlevel_hd.md#au-delà-du-niveau-1
-Name: Évolution des personnages
 ParentName: Au-delà du niveau 1
 NameLevel: 2
 Attributes:

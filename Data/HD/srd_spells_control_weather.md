@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 8
+Name: Control Weather
 Type: transmutation
+Level: 8
 CastingTime: 10 minutes
 Range: Self (5-mile radius)
 Components: V, S, M (burning incense and bits of earth and wood mixed in water)
 Duration: Concentration, up to 8 hours
 Classes: Cleric, Druid, Wizard
+Source: (SRD p131)
+AltName: '[Contrôle du climat](hd_spells_controle_du_climat.md)'
 Id: spells_vo.md#control-weather
 ParentLink: spells_vo.md#spells-srd-p
-Name: Control Weather
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Contrôle du climat](hd_spells_controle_du_climat.md)'
-Source: (SRD p131)
 Attributes:
   Name: Control Weather
   Markdown: >+

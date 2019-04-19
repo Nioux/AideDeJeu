@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Nombre de sorts de clercs connus
 Id: cleric_theurgist_hd.md#nombre-de-sorts-de-clercs-connus
 ParentLink: cleric_theurgist_hd.md#théurge
-Name: Nombre de sorts de clercs connus
 ParentName: Théurge
 NameLevel: 3
 Attributes:

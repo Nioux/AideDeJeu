@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Esprit obscur
 Id: rogue_spy_hd.md#esprit-obscur
 ParentLink: rogue_spy_hd.md#espion
-Name: Esprit obscur
 ParentName: Espion
 NameLevel: 2
 Attributes:

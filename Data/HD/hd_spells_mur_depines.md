@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 6
+Name: Mur d'épines
 Type: Invocation
+Level: 6
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S, M (une poignée d'épines)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Druide](hd_druid.md)'
+Source: (MDR p)
+AltName: '[Wall of Thorns](srd_spells_wall_of_thorns.md)'
 Id: spells_hd.md#mur-dépines
 ParentLink: spells_hd.md#sorts
-Name: Mur d'épines
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Wall of Thorns](srd_spells_wall_of_thorns.md)'
-Source: (MDR p)
 Attributes:
   Name: Mur d'épines
   Markdown: >+

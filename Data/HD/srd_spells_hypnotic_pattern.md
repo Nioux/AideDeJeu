@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Hypnotic Pattern
 Type: illusion
+Level: 3
 CastingTime: 1 action
 Range: 120 feet
 Components: S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Warlock, Wizard
+Source: (SRD p155)
+AltName: '[Motif hypnotique](hd_spells_motif_hypnotique.md)'
 Id: spells_vo.md#hypnotic-pattern
 ParentLink: spells_vo.md#spells-srd-p
-Name: Hypnotic Pattern
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Motif hypnotique](hd_spells_motif_hypnotique.md)'
-Source: (SRD p155)
 Attributes:
   Name: Hypnotic Pattern
   Markdown: >+

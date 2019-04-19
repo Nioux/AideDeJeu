@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Rythme de déplacement
 Id: movement_hd.md#rythme-de-déplacement
 ParentLink: movement_hd.md#déplacement
-Name: Rythme de déplacement
 ParentName: Déplacement
 NameLevel: 1
 Attributes:

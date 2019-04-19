@@ -1,8 +1,8 @@
 ﻿---
 !ClassEvolutionItem
+Name: Tableau d'évolution
 Id: wizard_hd.md#tableau-dévolution
 ParentLink: wizard_hd.md#magicien
-Name: Tableau d'évolution
 ParentName: Magicien
 NameLevel: 1
 Attributes:

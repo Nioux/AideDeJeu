@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Éradication
 Id: ranger_exile_hd.md#Éradication
 ParentLink: ranger_exile_hd.md#exilé
-Name: Éradication
 ParentName: Exilé
 NameLevel: 2
 Attributes:

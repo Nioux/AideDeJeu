@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 9
+Name: Power Word Kill
 Type: enchantment
+Level: 9
 CastingTime: 1 action
 Range: 60 feet
 Components: V
 Duration: Instantaneous
 Classes: Bard, Sorcerer, Warlock, Wizard
+Source: (SRD p170)
+AltName: '[Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)'
 Id: spells_vo.md#power-word-kill
 ParentLink: spells_vo.md#spells-srd-p
-Name: Power Word Kill
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)'
-Source: (SRD p170)
 Attributes:
   Name: Power Word Kill
   Markdown: >+

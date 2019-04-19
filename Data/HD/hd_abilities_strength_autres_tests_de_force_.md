@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: 'Autres tests de Force '
 Id: abilities_strength_hd.md#autres-tests-de-force-
 ParentLink: abilities_strength_hd.md#force
-Name: 'Autres tests de Force '
 ParentName: Force
 NameLevel: 3
 Attributes:

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Que pouvez-vous voir ?
 Id: abilities_dexterity_hd.md#que-pouvez-vous-voir-?
 ParentLink: abilities_dexterity_hd.md#dextérité
-Name: Que pouvez-vous voir ?
 ParentName: Dextérité
 NameLevel: 3
 Attributes:

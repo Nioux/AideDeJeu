@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#zone-deffet
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Zone d'effet
-ParentName: Lancer des sorts
-NameLevel: 3
 AltName: Areas of Effect (SRD p102)
 Source: (MDR p309)
+Id: spellcasting_hd.md#zone-deffet
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 3
 Attributes:
   Name: Zone d'effet
   Markdown: >+

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Objets appariés
 Id: magicitems_hd.md#objets-appariés
 ParentLink: magicitems_hd.md#objets-magiques
-Name: Objets appariés
 ParentName: Objets magiques
 NameLevel: 4
 Attributes:

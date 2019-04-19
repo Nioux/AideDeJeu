@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Prérequis du multiclassage
 Id: multiclassing_hd.md#prérequis-du-multiclassage
 ParentLink: multiclassing_hd.md#multiclassage
-Name: Prérequis du multiclassage
 ParentName: Multiclassage
 NameLevel: 2
 Attributes:

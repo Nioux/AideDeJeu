@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Éviter la mort
+Source: (L5R p44)
 Id: l5r_hitpoints_hd.md#Éviter-la-mort
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
-Name: Éviter la mort
 ParentName: Points de vie et blessures
 NameLevel: 4
-Source: (L5R p44)
 Attributes:
   Name: Éviter la mort
   Markdown: >+

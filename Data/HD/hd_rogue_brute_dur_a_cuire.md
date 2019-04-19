@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Dur à cuire
 Id: rogue_brute_hd.md#dur-à-cuire
 ParentLink: rogue_brute_hd.md#brute
-Name: Dur à cuire
 ParentName: Brute
 NameLevel: 2
 Attributes:

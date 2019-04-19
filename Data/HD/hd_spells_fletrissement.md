@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Flétrissement
 Type: Nécromancie
+Level: 4
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p356)(SRD)
+AltName: '[Blight](srd_spells_blight.md)'
 Id: spells_hd.md#flétrissement
 ParentLink: spells_hd.md#sorts
-Name: Flétrissement
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Blight](srd_spells_blight.md)'
-Source: (MDR p356)(SRD)
 Attributes:
   Name: Flétrissement
   Markdown: >+

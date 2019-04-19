@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Jeu de jambes
 Id: fighter_swordsman_hd.md#jeu-de-jambes
 ParentLink: fighter_swordsman_hd.md#bretteur
-Name: Jeu de jambes
 ParentName: Bretteur
 NameLevel: 2
 Attributes:

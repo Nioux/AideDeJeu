@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#jets-dattaque
-ParentLink: combat_hd.md#combattre
 Name: Jets d'attaque
-ParentName: Combattre
-NameLevel: 3
 AltName: Attack Rolls (SRD p94)
 Source: (MDR p290)
+Id: combat_hd.md#jets-dattaque
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 3
 Attributes:
   Name: Jets d'attaque
   Markdown: >+

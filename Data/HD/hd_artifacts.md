@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: Artefacts
+AltName: Artifacts (SRD p252)
+Source: (CDC p191)
 Id: artifacts_hd.md#artefacts
 RootId: artifacts_hd.md
 ParentLink: index.md
-Name: Artefacts
 ParentName: Cadre de campagne
 NameLevel: 1
-AltName: Artifacts (SRD p252)
-Source: (CDC p191)
 Attributes:
   ParentNameLink: '[Cadre de campagne](index.md)'
   Markdown: >+

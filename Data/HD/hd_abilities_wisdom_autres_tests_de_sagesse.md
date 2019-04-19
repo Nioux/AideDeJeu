@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Autres tests de Sagesse
 Id: abilities_wisdom_hd.md#autres-tests-de-sagesse
 ParentLink: abilities_wisdom_hd.md#sagesse
-Name: Autres tests de Sagesse
 ParentName: Sagesse
 NameLevel: 3
 Attributes:

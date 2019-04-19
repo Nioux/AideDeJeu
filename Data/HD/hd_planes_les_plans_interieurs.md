@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Les plans intérieurs
 Id: planes_hd.md#les-plans-intérieurs
 ParentLink: planes_hd.md#jouer-dans-un-multivers
-Name: Les plans intérieurs
 ParentName: Jouer dans un multivers
 NameLevel: 4
 Attributes:

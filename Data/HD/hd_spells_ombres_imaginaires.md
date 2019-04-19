@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Ombres imaginaires
 Type: Illusion
+Level: 2
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (un morceau de charbon)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+Source: (MDR p)
 Id: spells_hd.md#ombres-imaginaires
 ParentLink: spells_hd.md#sorts
-Name: Ombres imaginaires
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p)
 Attributes:
   Name: Ombres imaginaires
   Markdown: >+

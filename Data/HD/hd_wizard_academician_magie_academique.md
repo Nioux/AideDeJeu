@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Magie académique
 Id: wizard_academician_hd.md#magie-académique
 ParentLink: wizard_academician_hd.md#académicien
-Name: Magie académique
 ParentName: Académicien
 NameLevel: 2
 Attributes:

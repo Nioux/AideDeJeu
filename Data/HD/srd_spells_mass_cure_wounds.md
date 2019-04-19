@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Mass Cure Wounds
 Type: evocation
+Level: 5
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Bard, Cleric, Druid
+Source: (SRD p162)
+AltName: '[Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)'
 Id: spells_vo.md#mass-cure-wounds
 ParentLink: spells_vo.md#spells-srd-p
-Name: Mass Cure Wounds
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)'
-Source: (SRD p162)
 Attributes:
   Name: Mass Cure Wounds
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 6
+Name: Heroes' Feast
 Type: conjuration
+Level: 6
 CastingTime: 10 minutes
 Range: 30 feet
 Components: V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Cleric, Druid
+Source: (SRD p154)
+AltName: '[Festin des héros](hd_spells_festin_des_heros.md)'
 Id: spells_vo.md#heroes-feast
 ParentLink: spells_vo.md#spells-srd-p
-Name: Heroes' Feast
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Festin des héros](hd_spells_festin_des_heros.md)'
-Source: (SRD p154)
 Attributes:
   Name: Heroes' Feast
   Markdown: >+

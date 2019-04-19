@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 6
+Name: Word of Recall
 Type: conjuration
+Level: 6
 CastingTime: 1 action
 Range: 5 feet
 Components: V
 Duration: Instantaneous
 Classes: Cleric
+Source: (SRD p193)
+AltName: '[Mot de retour](hd_spells_mot_de_retour.md)'
 Id: spells_vo.md#word-of-recall
 ParentLink: spells_vo.md#spells-srd-p
-Name: Word of Recall
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Mot de retour](hd_spells_mot_de_retour.md)'
-Source: (SRD p193)
 Attributes:
   Name: Word of Recall
   Markdown: >+

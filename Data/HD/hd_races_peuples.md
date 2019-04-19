@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: races_hd.md#peuples
-ParentLink: races_hd.md#traits-raciaux
 Name: Peuples
-ParentName: Traits raciaux
-NameLevel: 4
 AltName: Subraces
 Source: (MDR p37)(SRD p3)
+Id: races_hd.md#peuples
+ParentLink: races_hd.md#traits-raciaux
+ParentName: Traits raciaux
+NameLevel: 4
 Attributes:
   Name: Peuples
   Markdown: >+

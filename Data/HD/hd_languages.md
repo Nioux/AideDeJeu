@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: Langues
+AltName: Languages (SRD p59)
+Source: (MDR p75)
 Id: languages_hd.md#langues
 RootId: languages_hd.md
 ParentLink: personnality_background_hd.md#
-Name: Langues
 ParentName: Personnalité et Historique
 NameLevel: 1
-AltName: Languages (SRD p59)
-Source: (MDR p75)
 Attributes:
   ParentNameLink: '[Personnalité et Historique](personnality_background_hd.md#)'
   Markdown: >+

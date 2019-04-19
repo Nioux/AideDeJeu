@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Cercle des Saisons
+Source: (L5R p64)
 Id: l5r_druid_hd.md#cercle-des-saisons
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
-Name: Cercle des Saisons
 ParentName: Druide des cinq royaumes
 NameLevel: 4
-Source: (L5R p64)
 Attributes:
   Name: Cercle des Saisons
   Markdown: >+

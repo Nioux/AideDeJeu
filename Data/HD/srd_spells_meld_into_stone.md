@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Meld into Stone
 Type: transmutation
-Ritual: ritual
+Level: 3
 CastingTime: 1 action
 Range: Touch
 Components: V, S
 Duration: 8 hours
 Classes: Cleric, Druid
+Source: (SRD p163)
+AltName: '[Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)'
+Ritual: ritual
 Id: spells_vo.md#meld-into-stone
 ParentLink: spells_vo.md#spells-srd-p
-Name: Meld into Stone
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)'
-Source: (SRD p163)
 Attributes:
   Name: Meld into Stone
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Major Image
 Type: illusion
+Level: 3
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S, M (a bit of fleece)
 Duration: Concentration, up to 10 minutes
 Classes: Bard, Sorcerer, Warlock, Wizard
+Source: (SRD p162)
+AltName: '[Image majeure](hd_spells_image_majeure.md)'
 Id: spells_vo.md#major-image
 ParentLink: spells_vo.md#spells-srd-p
-Name: Major Image
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Image majeure](hd_spells_image_majeure.md)'
-Source: (SRD p162)
 Attributes:
   Name: Major Image
   Markdown: >+

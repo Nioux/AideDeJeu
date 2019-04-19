@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Déplacement élémentaire
 Id: wizard_elementalist_hd.md#déplacement-élémentaire
 ParentLink: wizard_elementalist_hd.md#Élémentaliste
-Name: Déplacement élémentaire
 ParentName: Élémentaliste
 NameLevel: 2
 Attributes:

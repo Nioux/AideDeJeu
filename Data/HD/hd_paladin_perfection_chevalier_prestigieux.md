@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Chevalier prestigieux
 Id: paladin_perfection_hd.md#chevalier-prestigieux
 ParentLink: paladin_perfection_hd.md#serment-de-perfection
-Name: Chevalier prestigieux
 ParentName: Serment de perfection
 NameLevel: 2
 Attributes:

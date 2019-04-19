@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Passe-muraille
 Type: Transmutation
+Level: 5
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (une pincée de graines de sésame)
 Duration: 1 heure
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Passwall](srd_spells_passwall.md)'
 Id: spells_hd.md#passe-muraille
 ParentLink: spells_hd.md#sorts
-Name: Passe-muraille
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Passwall](srd_spells_passwall.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Passe-muraille
   Markdown: >+

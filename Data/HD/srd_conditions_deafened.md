@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: conditions_vo.md#deafened
-ParentLink: conditions_vo.md#conditions
 Name: Deafened
-ParentName: Conditions
-NameLevel: 1
 AltName: '[Assourdi](hd_conditions_assourdi.md)'
 Source: (SRD p358)
+Id: conditions_vo.md#deafened
+ParentLink: conditions_vo.md#conditions
+ParentName: Conditions
+NameLevel: 1
 Attributes:
   Name: Deafened
   Markdown: >+

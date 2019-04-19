@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Archidruide
+Source: (L5R p64)
 Id: l5r_druid_hd.md#archidruide
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
-Name: Archidruide
 ParentName: Druide des cinq royaumes
 NameLevel: 4
-Source: (L5R p64)
 Attributes:
   Name: Archidruide
   Markdown: >+

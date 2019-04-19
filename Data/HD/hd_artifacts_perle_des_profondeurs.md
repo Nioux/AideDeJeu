@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: PERLE DES PROFONDEURS
+Source: (CDC p193)
 Id: artifacts_hd.md#perle-des-profondeurs
 ParentLink: artifacts_hd.md#artefacts
-Name: PERLE DES PROFONDEURS
 ParentName: Artefacts
 NameLevel: 2
-Source: (CDC p193)
 Attributes:
   Name: PERLE DES PROFONDEURS
   Markdown: >+

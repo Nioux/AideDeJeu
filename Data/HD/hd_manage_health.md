@@ -1,9 +1,9 @@
 ﻿---
 !Items
+Name: Gérer la santé
 Id: manage_health_hd.md#gérer-la-santé
 RootId: manage_health_hd.md
 ParentLink: index.md
-Name: Gérer la santé
 ParentName: Manuel des règles
 NameLevel: 1
 Attributes:

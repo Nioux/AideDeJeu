@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Bibliothèque
 Id: index.md
 RootId: index.md
-Name: Bibliothèque
 NameLevel: 1
 Attributes:
   Name: Manuel des règles

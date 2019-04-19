@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Huile de taggit (contact)
 Id: poisons_hd.md#huile-de-taggit-contact
 ParentLink: poisons_hd.md#les-poisons
-Name: Huile de taggit (contact)
 ParentName: Les poisons
 NameLevel: 4
 Attributes:

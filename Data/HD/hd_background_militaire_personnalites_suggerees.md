@@ -1,8 +1,8 @@
 ﻿---
 !Items
+Name: Personnalités suggérées
 Id: background_militaire_hd.md#personnalités-suggérées
 ParentLink: background_militaire_hd.md#militaire
-Name: Personnalités suggérées
 ParentName: Militaire
 NameLevel: 4
 Attributes:

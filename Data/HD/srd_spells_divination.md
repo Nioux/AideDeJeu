@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 4
+Name: Divination
 Type: divination
-Ritual: ritual
+Level: 4
 CastingTime: 1 action
 Range: Self
 Components: V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)
 Duration: Instantaneous
 Classes: Cleric
+Source: (SRD p136)
+AltName: '[Divination](hd_spells_divination.md)'
+Ritual: ritual
 Id: spells_vo.md#divination
 ParentLink: spells_vo.md#spells-srd-p
-Name: Divination
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Divination](hd_spells_divination.md)'
-Source: (SRD p136)
 Attributes:
   Name: Divination
   Markdown: >+

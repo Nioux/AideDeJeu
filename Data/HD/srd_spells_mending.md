@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: cantrip
+Name: Mending
 Type: Transmutation
+Level: cantrip
 CastingTime: 1 minute
 Range: Touch
 Components: V, S, M (two lodestones)
 Duration: Instantaneous
 Classes: Bard, Cleric, Druid, Sorcerer, Wizard
+Source: (SRD p164)
+AltName: '[Réparation](hd_spells_reparation.md)'
 Id: spells_vo.md#mending
 ParentLink: spells_vo.md#spells-srd-p
-Name: Mending
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Réparation](hd_spells_reparation.md)'
-Source: (SRD p164)
 Attributes:
   Name: Mending
   Markdown: >+

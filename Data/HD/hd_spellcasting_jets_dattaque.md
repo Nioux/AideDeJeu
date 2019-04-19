@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#jets-dattaque
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Jets d'attaque
-ParentName: Lancer des sorts
-NameLevel: 3
 AltName: Attack Rolls (SRD p103)
 Source: (MDR p310)
+Id: spellcasting_hd.md#jets-dattaque
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 3
 Attributes:
   Name: Jets d'attaque
   Markdown: >+

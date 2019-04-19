@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Le voyage planaire
 Id: planes_hd.md#le-voyage-planaire
 ParentLink: planes_hd.md#jouer-dans-un-multivers
-Name: Le voyage planaire
 ParentName: Jouer dans un multivers
 NameLevel: 4
 Attributes:

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Tests de Dextérité
 Id: abilities_dexterity_hd.md#tests-de-dextérité
 ParentLink: abilities_dexterity_hd.md#dextérité
-Name: Tests de Dextérité
 ParentName: Dextérité
 NameLevel: 2
 Attributes:

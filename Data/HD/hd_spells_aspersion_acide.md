@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Aspersion acide
 Type: Invocation
+Level: tour de magie
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p325)(SRD)
+AltName: '[Acid Splash](srd_spells_acid_splash.md)'
 Id: spells_hd.md#aspersion-acide
 ParentLink: spells_hd.md#sorts
-Name: Aspersion acide
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Acid Splash](srd_spells_acid_splash.md)'
-Source: (MDR p325)(SRD)
 Attributes:
   Name: Aspersion acide
   Markdown: >+

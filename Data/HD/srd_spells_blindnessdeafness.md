@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Blindness/Deafness
 Type: necromancy
+Level: 2
 CastingTime: 1 action
 Range: 30 feet
 Components: V
 Duration: 1 minute
 Classes: Bard, Cleric, Sorcerer, Wizard
+Source: (SRD p122)
+AltName: '[Cécité/Surdité](hd_spells_cecitesurdite.md)'
 Id: spells_vo.md#blindnessdeafness
 ParentLink: spells_vo.md#spells-srd-p
-Name: Blindness/Deafness
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Cécité/Surdité](hd_spells_cecitesurdite.md)'
-Source: (SRD p122)
 Attributes:
   Name: Blindness/Deafness
   Markdown: >+

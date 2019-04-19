@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Command
 Type: enchantment
+Level: 1
 CastingTime: 1 action
 Range: 60 feet
 Components: V
 Duration: 1 round
 Classes: Cleric, Paladin
+Source: (SRD p125)
+AltName: '[Injonction](hd_spells_injonction.md)'
 Id: spells_vo.md#command
 ParentLink: spells_vo.md#spells-srd-p
-Name: Command
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Injonction](hd_spells_injonction.md)'
-Source: (SRD p125)
 Attributes:
   Name: Command
   Markdown: >+

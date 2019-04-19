@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Blessure
 Type: Nécromancie
+Level: 1
 CastingTime: 1 action
 Range: contact
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Source: (MDR p327)(SRD)
+AltName: '[Inflict Wounds](srd_spells_inflict_wounds.md)'
 Id: spells_hd.md#blessure
 ParentLink: spells_hd.md#sorts
-Name: Blessure
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Inflict Wounds](srd_spells_inflict_wounds.md)'
-Source: (MDR p327)(SRD)
 Attributes:
   Name: Blessure
   Markdown: >+

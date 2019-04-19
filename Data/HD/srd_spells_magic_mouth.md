@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Magic Mouth
 Type: illusion
-Ritual: ritual
+Level: 2
 CastingTime: 1 minute
 Range: 30 feet
 Components: V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)
 Duration: Until dispelled
 Classes: Bard, Wizard
+Source: (SRD p161)
+AltName: '[Bouche magique](hd_spells_bouche_magique.md)'
+Ritual: ritual
 Id: spells_vo.md#magic-mouth
 ParentLink: spells_vo.md#spells-srd-p
-Name: Magic Mouth
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Bouche magique](hd_spells_bouche_magique.md)'
-Source: (SRD p161)
 Attributes:
   Name: Magic Mouth
   Markdown: >+

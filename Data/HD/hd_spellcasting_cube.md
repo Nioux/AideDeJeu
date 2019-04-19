@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#cube
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Cube
-ParentName: Lancer des sorts
-NameLevel: 4
 AltName: Cube (SRD p103)
 Source: (MDR p309)
+Id: spellcasting_hd.md#cube
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 4
 Attributes:
   Name: Cube
   Markdown: >+

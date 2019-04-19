@@ -1,8 +1,8 @@
 ﻿---
 !Items
+Name: Personnalités suggérées
 Id: background_sangbleu_hd.md#personnalités-suggérées
 ParentLink: background_sangbleu_hd.md#sang-bleu
-Name: Personnalités suggérées
 ParentName: Sang bleu
 NameLevel: 4
 Attributes:

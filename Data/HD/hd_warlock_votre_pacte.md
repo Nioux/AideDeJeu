@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Votre pacte
 Id: warlock_hd.md#votre-pacte
 ParentLink: warlock_hd.md#sorcier
-Name: Votre pacte
 ParentName: Sorcier
 NameLevel: 1
 Attributes:

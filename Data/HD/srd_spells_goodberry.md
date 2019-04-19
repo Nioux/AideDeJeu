@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Goodberry
 Type: transmutation
+Level: 1
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (a sprig of mistletoe)
 Duration: Instantaneous
 Classes: Druid, Ranger
+Source: (SRD p150)
+AltName: '[Baies nourricières](hd_spells_baies_nourricieres.md)'
 Id: spells_vo.md#goodberry
 ParentLink: spells_vo.md#spells-srd-p
-Name: Goodberry
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Baies nourricières](hd_spells_baies_nourricieres.md)'
-Source: (SRD p150)
 Attributes:
   Name: Goodberry
   Markdown: >+

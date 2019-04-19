@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: armor_hd.md#armures-intermédiaires
-ParentLink: armor_hd.md#armures
 Name: Armures intermédiaires
-ParentName: Armures
-NameLevel: 3
 AltName: Medium Armor (SRD p63)
 Source: (MDR p224)
+Id: armor_hd.md#armures-intermédiaires
+ParentLink: armor_hd.md#armures
+ParentName: Armures
+NameLevel: 3
 Attributes:
   Name: Armures intermédiaires
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Contagion
 Type: Nécromancie
+Level: 5
 CastingTime: 1 action
 Range: contact
 Components: V, S
 Duration: 7 jours
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
+Source: (MDR p339)(SRD)
+AltName: '[Contagion](srd_spells_contagion.md)'
 Id: spells_hd.md#contagion
 ParentLink: spells_hd.md#sorts
-Name: Contagion
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Contagion](srd_spells_contagion.md)'
-Source: (MDR p339)(SRD)
 Attributes:
   Name: Contagion
   Markdown: >+

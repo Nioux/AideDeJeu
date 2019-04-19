@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 6
+Name: Create Undead
 Type: necromancy
+Level: 6
 CastingTime: 1 minute
 Range: 10 feet
 Components: V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)
 Duration: Instantaneous
 Classes: Cleric, Warlock, Wizard
+Source: (SRD p132)
+AltName: '[Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)'
 Id: spells_vo.md#create-undead
 ParentLink: spells_vo.md#spells-srd-p
-Name: Create Undead
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)'
-Source: (SRD p132)
 Attributes:
   Name: Create Undead
   Markdown: >+

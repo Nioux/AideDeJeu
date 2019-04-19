@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Fog Cloud
 Type: conjuration
+Level: 1
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S
 Duration: Concentration, up to 1 hour
 Classes: Druid, Ranger, Sorcerer, Wizard
+Source: (SRD p146)
+AltName: '[Nappe de brouillard](hd_spells_nappe_de_brouillard.md)'
 Id: spells_vo.md#fog-cloud
 ParentLink: spells_vo.md#spells-srd-p
-Name: Fog Cloud
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Nappe de brouillard](hd_spells_nappe_de_brouillard.md)'
-Source: (SRD p146)
 Attributes:
   Name: Fog Cloud
   Markdown: >+

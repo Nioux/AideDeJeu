@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#combat-à-deux-armes
-ParentLink: combat_hd.md#combattre
 Name: Combat à deux armes
-ParentName: Combattre
-NameLevel: 4
 AltName: Two-Weapon Fighting (SRD p95)
 Source: (MDR p292)
+Id: combat_hd.md#combat-à-deux-armes
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 4
 Attributes:
   Name: Combat à deux armes
   Markdown: >+

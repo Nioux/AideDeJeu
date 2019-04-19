@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Invisibilité supérieure
 Type: Illusion
+Level: 4
 CastingTime: 1 action
 Range: contact
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+Source: (MDR p)(SRD)
+AltName: '[Greater Invisibility](srd_spells_greater_invisibility.md)'
 Id: spells_hd.md#invisibilité-supérieure
 ParentLink: spells_hd.md#sorts
-Name: Invisibilité supérieure
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Greater Invisibility](srd_spells_greater_invisibility.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Invisibilité supérieure
   Markdown: >+

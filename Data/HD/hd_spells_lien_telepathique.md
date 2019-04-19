@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Lien télépathique
 Type: Divination
-Ritual: rituel
+Level: 5
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
 Duration: 1 heure
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p)
+AltName: '[Telepathic Bond](srd_spells_telepathic_bond.md)'
+Ritual: rituel
 Id: spells_hd.md#lien-télépathique
 ParentLink: spells_hd.md#sorts
-Name: Lien télépathique
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Telepathic Bond](srd_spells_telepathic_bond.md)'
-Source: (MDR p)
 Attributes:
   Name: Lien télépathique
   Markdown: >+

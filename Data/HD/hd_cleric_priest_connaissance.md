@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Connaissance
 Id: cleric_priest_hd.md#connaissance
 ParentLink: cleric_priest_hd.md#liste-des-domaines
-Name: Connaissance
 ParentName: Liste des domaines
 NameLevel: 4
 Attributes:

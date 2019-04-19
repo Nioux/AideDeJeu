@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 6
+Name: Eyebite
 Type: necromancy
+Level: 6
 CastingTime: 1 action
 Range: Self
 Components: V, S
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Warlock, Wizard
+Source: (SRD p141)
+AltName: '[Mauvais oeil](hd_spells_mauvais_oeil.md)'
 Id: spells_vo.md#eyebite
 ParentLink: spells_vo.md#spells-srd-p
-Name: Eyebite
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Mauvais oeil](hd_spells_mauvais_oeil.md)'
-Source: (SRD p141)
 Attributes:
   Name: Eyebite
   Markdown: >+

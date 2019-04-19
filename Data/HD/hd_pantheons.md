@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: Panthéons historiques et fantastiques
+AltName: Pantheons
+Source: (MDR p413)(SRD p360)
 Id: pantheons_hd.md#panthéons-historiques-et-fantastiques
 RootId: pantheons_hd.md
 ParentLink: index.md
-Name: Panthéons historiques et fantastiques
 ParentName: Manuel des règles
 NameLevel: 1
-AltName: Pantheons
-Source: (MDR p413)(SRD p360)
 Attributes:
   ParentNameLink: '[Manuel des règles](index.md)'
   Markdown: >+

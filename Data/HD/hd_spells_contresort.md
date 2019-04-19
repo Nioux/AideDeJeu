@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Contresort
 Type: Abjuration
+Level: 3
 CastingTime: 1 réaction à utiliser quand vous voyez une créature située dans un rayon de 18 mètres autour de vous lancer un sort
 Range: 18 mètres
 Components: S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p340)(SRD)
+AltName: '[Counterspell](srd_spells_counterspell.md)'
 Id: spells_hd.md#contresort
 ParentLink: spells_hd.md#sorts
-Name: Contresort
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Counterspell](srd_spells_counterspell.md)'
-Source: (MDR p340)(SRD)
 Attributes:
   Name: Contresort
   Markdown: >+

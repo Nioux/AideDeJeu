@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Alignement
 Id: sentient_magicitems_hd.md#alignement
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
-Name: Alignement
 ParentName: Objets magiques intelligents
 NameLevel: 5
 Attributes:

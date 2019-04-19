@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Flèche acide
 Type: Évocation
+Level: 2
 CastingTime: 1 action
 Range: 27 mètres
 Components: V, S, M (poudre de feuille de rhubarbe et estomac de vipère)
 Duration: instantanée
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p356)
+AltName: '[Acid Arrow](srd_spells_acid_arrow.md)'
 Id: spells_hd.md#flèche-acide
 ParentLink: spells_hd.md#sorts
-Name: Flèche acide
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Acid Arrow](srd_spells_acid_arrow.md)'
-Source: (MDR p356)
 Attributes:
   Name: Flèche acide
   Markdown: >+

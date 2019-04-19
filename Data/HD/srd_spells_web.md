@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Web
 Type: conjuration
+Level: 2
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (a bit of spiderweb)
 Duration: Concentration, up to 1 hour
 Classes: Sorcerer, Wizard
+Source: (SRD p192)
+AltName: "[Toile d'araignée](hd_spells_toile_daraignee.md)"
 Id: spells_vo.md#web
 ParentLink: spells_vo.md#spells-srd-p
-Name: Web
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: "[Toile d'araignée](hd_spells_toile_daraignee.md)"
-Source: (SRD p192)
 Attributes:
   Name: Web
   Markdown: >+

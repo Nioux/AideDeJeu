@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: À terre
+AltName: '[Prone](srd_conditions_prone.md)'
 Id: conditions_hd.md#À-terre
 ParentLink: conditions_hd.md#États-spéciaux
-Name: À terre
 ParentName: États spéciaux
 NameLevel: 1
-AltName: '[Prone](srd_conditions_prone.md)'
 Attributes:
   Name: À terre
   Markdown: >+

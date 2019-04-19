@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 6
+Name: Allié planaire
 Type: Invocation
+Level: 6
 CastingTime: 10 minutes
 Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Source: (MDR p320)(SRD)
+AltName: '[Planar Ally](srd_spells_planar_ally.md)'
 Id: spells_hd.md#allié-planaire
 ParentLink: spells_hd.md#sorts
-Name: Allié planaire
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Planar Ally](srd_spells_planar_ally.md)'
-Source: (MDR p320)(SRD)
 Attributes:
   Name: Allié planaire
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Héroïsme
 Type: Enchantement
+Level: 1
 CastingTime: 1 action
 Range: contact
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Paladin](hd_paladin.md)'
+Source: (MDR p)(SRD)
+AltName: '[Heroism](srd_spells_heroism.md)'
 Id: spells_hd.md#héroïsme
 ParentLink: spells_hd.md#sorts
-Name: Héroïsme
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Heroism](srd_spells_heroism.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Héroïsme
   Markdown: >+

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: backgrounds_hd.md#Équipement
-ParentLink: backgrounds_hd.md#historique
 Name: Équipement
-ParentName: Historique
-NameLevel: 3
 AltName: Equipment (SRD p60)
 Source: (MDR p77)
+Id: backgrounds_hd.md#Équipement
+ParentLink: backgrounds_hd.md#historique
+ParentName: Historique
+NameLevel: 3
 Attributes:
   Name: Équipement
   Markdown: >+

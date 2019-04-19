@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Plant Growth
 Type: transmutation
+Level: 3
 CastingTime: 1 action or 8 hours
 Range: 150 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Bard, Druid, Ranger
+Source: (SRD p169)
+AltName: '[Croissance végétale](hd_spells_croissance_vegetale.md)'
 Id: spells_vo.md#plant-growth
 ParentLink: spells_vo.md#spells-srd-p
-Name: Plant Growth
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Croissance végétale](hd_spells_croissance_vegetale.md)'
-Source: (SRD p169)
 Attributes:
   Name: Plant Growth
   Markdown: >+

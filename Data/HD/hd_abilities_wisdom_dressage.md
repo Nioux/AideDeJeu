@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Dressage
 Id: abilities_wisdom_hd.md#dressage
 ParentLink: abilities_wisdom_hd.md#sagesse
-Name: Dressage
 ParentName: Sagesse
 NameLevel: 3
 Attributes:

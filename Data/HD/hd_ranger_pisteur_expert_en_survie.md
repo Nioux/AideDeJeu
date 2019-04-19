@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Expert en survie
 Id: ranger_pisteur_hd.md#expert-en-survie
 ParentLink: ranger_pisteur_hd.md#pisteur--un-rôdeur-alternatif
-Name: Expert en survie
 ParentName: 'Pisteur : un rôdeur alternatif'
 NameLevel: 2
 Attributes:

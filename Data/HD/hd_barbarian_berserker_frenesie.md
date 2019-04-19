@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Frénésie
 Id: barbarian_berserker_hd.md#frénésie
 ParentLink: barbarian_berserker_hd.md#voie-du-berserker
-Name: Frénésie
 ParentName: Voie du berserker
 NameLevel: 2
 Attributes:

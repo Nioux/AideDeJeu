@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Dominer une bête
 Type: Enchantement
+Level: 4
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
+Source: (MDR p349)(SRD)
+AltName: '[Dominate Beast](srd_spells_dominate_beast.md)'
 Id: spells_hd.md#dominer-une-bête
 ParentLink: spells_hd.md#sorts
-Name: Dominer une bête
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Dominate Beast](srd_spells_dominate_beast.md)'
-Source: (MDR p349)(SRD)
 Attributes:
   Name: Dominer une bête
   Markdown: >+

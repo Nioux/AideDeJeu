@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: cantrip
+Name: Vicious Mockery
 Type: Enchantment
+Level: cantrip
 CastingTime: 1 action
 Range: 60 feet
 Components: V
 Duration: Instantaneous
 Classes: Bard
+Source: (SRD p189)
+AltName: '[Moquerie cruelle](hd_spells_moquerie_cruelle.md)'
 Id: spells_vo.md#vicious-mockery
 ParentLink: spells_vo.md#spells-srd-p
-Name: Vicious Mockery
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Moquerie cruelle](hd_spells_moquerie_cruelle.md)'
-Source: (SRD p189)
 Attributes:
   Name: Vicious Mockery
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Fireball
 Type: evocation
+Level: 3
 CastingTime: 1 action
 Range: 150 feet
 Components: V, S, M (a tiny ball of bat guano and sulfur)
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Source: (SRD p144)
+AltName: '[Boule de feu](hd_spells_boule_de_feu.md)'
 Id: spells_vo.md#fireball
 ParentLink: spells_vo.md#spells-srd-p
-Name: Fireball
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Boule de feu](hd_spells_boule_de_feu.md)'
-Source: (SRD p144)
 Attributes:
   Name: Fireball
   Markdown: >+

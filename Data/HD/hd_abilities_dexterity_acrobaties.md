@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Acrobaties
 Id: abilities_dexterity_hd.md#acrobaties
 ParentLink: abilities_dexterity_hd.md#dextérité
-Name: Acrobaties
 ParentName: Dextérité
 NameLevel: 3
 Attributes:

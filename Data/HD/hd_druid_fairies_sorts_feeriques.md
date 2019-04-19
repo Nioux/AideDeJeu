@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sorts féeriques
 Id: druid_fairies_hd.md#sorts-féeriques
 ParentLink: druid_fairies_hd.md#cercle-des-fées
-Name: Sorts féeriques
 ParentName: Cercle des fées
 NameLevel: 2
 Attributes:

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Éveil
 Type: Transmutation
+Level: 5
 CastingTime: 8 heures
 Range: contact
 Components: V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md)'
+Source: (MDR p354)(SRD)
+AltName: '[Awaken](srd_spells_awaken.md)'
 Id: spells_hd.md#Éveil
 ParentLink: spells_hd.md#sorts
-Name: Éveil
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Awaken](srd_spells_awaken.md)'
-Source: (MDR p354)(SRD)
 Attributes:
   Name: Éveil
   Markdown: >+

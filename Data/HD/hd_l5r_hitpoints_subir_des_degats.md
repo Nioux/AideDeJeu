@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Subir des dégâts
+Source: (L5R p43)
 Id: l5r_hitpoints_hd.md#subir-des-dégâts
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
-Name: Subir des dégâts
 ParentName: Points de vie et blessures
 NameLevel: 3
-Source: (L5R p43)
 Attributes:
   Name: Subir des dégâts
   Markdown: >+

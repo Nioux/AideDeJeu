@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Coffre secret
 Type: Invocation
+Level: 4
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)
 Duration: instantanée
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p335)
+AltName: '[Secret Chest](srd_spells_secret_chest.md)'
 Id: spells_hd.md#coffre-secret
 ParentLink: spells_hd.md#sorts
-Name: Coffre secret
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Secret Chest](srd_spells_secret_chest.md)'
-Source: (MDR p335)
 Attributes:
   Name: Coffre secret
   Markdown: >+

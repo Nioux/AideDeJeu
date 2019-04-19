@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#déplacement-et-position
-ParentLink: combat_hd.md#combattre
 Name: Déplacement et position
-ParentName: Combattre
-NameLevel: 2
 AltName: Movement and Position (SRD p91)
 Source: (MDR p286)
+Id: combat_hd.md#déplacement-et-position
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 2
 Attributes:
   Name: Déplacement et position
   Markdown: >+

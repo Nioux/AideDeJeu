@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Paramètres du rituel et modificateurs au DD des tests de compétence
+Source: (L5R p71)
 Id: l5r_rituals_hd.md#paramètres-du-rituel-et-modificateurs-au-dd-des-tests-de-compétence
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
-Name: Paramètres du rituel et modificateurs au DD des tests de compétence
 ParentName: Lancer un rituel
 NameLevel: 5
-Source: (L5R p71)
 Attributes:
   Name: Paramètres du rituel et modificateurs au DD des tests de compétence
   Markdown: >+

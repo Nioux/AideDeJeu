@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Chauffer le métal
 Type: Transmutation
+Level: 2
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S, M (un bout de fer et une flamme)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md)'
+Source: (MDR p334)(SRD)
+AltName: '[Heat Metal](srd_spells_heat_metal.md)'
 Id: spells_hd.md#chauffer-le-métal
 ParentLink: spells_hd.md#sorts
-Name: Chauffer le métal
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Heat Metal](srd_spells_heat_metal.md)'
-Source: (MDR p334)(SRD)
 Attributes:
   Name: Chauffer le métal
   Markdown: >+

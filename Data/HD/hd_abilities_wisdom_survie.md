@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Survie
 Id: abilities_wisdom_hd.md#survie
 ParentLink: abilities_wisdom_hd.md#sagesse
-Name: Survie
 ParentName: Sagesse
 NameLevel: 3
 Attributes:

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Réparation
 Type: Transmutation
+Level: tour de magie
 CastingTime: 1 minute
 Range: contact
 Components: V, S, M (deux magnétites)
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Mending](srd_spells_mending.md)'
 Id: spells_hd.md#réparation
 ParentLink: spells_hd.md#sorts
-Name: Réparation
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Mending](srd_spells_mending.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Réparation
   Markdown: >+

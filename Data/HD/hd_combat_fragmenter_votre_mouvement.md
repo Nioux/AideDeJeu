@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#fragmenter-votre-mouvement
-ParentLink: combat_hd.md#combattre
 Name: Fragmenter votre mouvement
-ParentName: Combattre
-NameLevel: 4
 AltName: Breaking Up Your Move (SRD p91)
 Source: (MDR p286)
+Id: combat_hd.md#fragmenter-votre-mouvement
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 4
 Attributes:
   Name: Fragmenter votre mouvement
   Markdown: >+

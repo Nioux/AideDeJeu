@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Wall of Stone
 Type: evocation
+Level: 5
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S, M (a small block of granite)
 Duration: Concentration, up to 10 minutes
 Classes: Druid, Sorcerer, Wizard
+Source: (SRD p190)
+AltName: '[Mur de pierre](hd_spells_mur_de_pierre.md)'
 Id: spells_vo.md#wall-of-stone
 ParentLink: spells_vo.md#spells-srd-p
-Name: Wall of Stone
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Mur de pierre](hd_spells_mur_de_pierre.md)'
-Source: (SRD p190)
 Attributes:
   Name: Wall of Stone
   Markdown: >+

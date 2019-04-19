@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Forme infernale
 Id: sorcerer_infernal_hd.md#forme-infernale
 ParentLink: sorcerer_infernal_hd.md#lignée-infernale
-Name: Forme infernale
 ParentName: Lignée infernale
 NameLevel: 2
 Attributes:

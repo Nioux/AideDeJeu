@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: cantrip
+Name: Prestidigitation
 Type: Transmutation
+Level: cantrip
 CastingTime: 1 action
 Range: 10 feet
 Components: V, S
 Duration: Up to 1 hour
 Classes: Bard, Sorcerer, Warlock, Wizard
+Source: (SRD p170)
+AltName: '[Prestidigitation](hd_spells_prestidigitation.md)'
 Id: spells_vo.md#prestidigitation
 ParentLink: spells_vo.md#spells-srd-p
-Name: Prestidigitation
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Prestidigitation](hd_spells_prestidigitation.md)'
-Source: (SRD p170)
 Attributes:
   Name: Prestidigitation
   Markdown: >+

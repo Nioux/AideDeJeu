@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Echec du rituel
+Source: (L5R p68)
 Id: l5r_rituals_hd.md#echec-du-rituel
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
-Name: Echec du rituel
 ParentName: Lancer un rituel
 NameLevel: 3
-Source: (L5R p68)
 Attributes:
   Name: Echec du rituel
   Markdown: >+

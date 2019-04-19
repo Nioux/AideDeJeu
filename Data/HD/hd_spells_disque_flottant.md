@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Disque flottant
 Type: Invocation
-Ritual: rituel
+Level: 1
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (une goutte de mercure)
 Duration: 1 heure
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p347)
+AltName: '[Floating Disk](srd_spells_floating_disk.md)'
+Ritual: rituel
 Id: spells_hd.md#disque-flottant
 ParentLink: spells_hd.md#sorts
-Name: Disque flottant
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Floating Disk](srd_spells_floating_disk.md)'
-Source: (MDR p347)
 Attributes:
   Name: Disque flottant
   Markdown: >+

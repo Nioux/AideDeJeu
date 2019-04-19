@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: armor_hd.md#armures-légères
-ParentLink: armor_hd.md#armures
 Name: Armures légères
-ParentName: Armures
-NameLevel: 3
 AltName: Light Armor (SRD p63)
 Source: (MDR p223)
+Id: armor_hd.md#armures-légères
+ParentLink: armor_hd.md#armures
+ParentName: Armures
+NameLevel: 3
 Attributes:
   Name: Armures légères
   Markdown: >+

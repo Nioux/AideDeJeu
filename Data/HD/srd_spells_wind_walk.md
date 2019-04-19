@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 6
+Name: Wind Walk
 Type: transmutation
+Level: 6
 CastingTime: 1 minute
 Range: 30 feet
 Components: V, S, M (fire and holy water)
 Duration: 8 hours
 Classes: Druid
+Source: (SRD p192)
+AltName: '[Marche sur le vent](hd_spells_marche_sur_le_vent.md)'
 Id: spells_vo.md#wind-walk
 ParentLink: spells_vo.md#spells-srd-p
-Name: Wind Walk
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Marche sur le vent](hd_spells_marche_sur_le_vent.md)'
-Source: (SRD p192)
 Attributes:
   Name: Wind Walk
   Markdown: >+

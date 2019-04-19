@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Voies primitives
 Id: barbarian_hd.md#voies-primitives
 ParentLink: barbarian_hd.md#barbare
-Name: Voies primitives
 ParentName: Barbare
 NameLevel: 1
 Attributes:

@@ -33,21 +33,46 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         public string Description { get { return Class?.Description; } }
         public string Markdown { get { return Class?.Markdown; } }
 
+        private List<ClassFeatureItem> _LeveledFeatures = null;
         public List<ClassFeatureItem> LeveledFeatures
         {
             get
             {
-                var table = Evolution.ExtractSimpleTable(Evolution.Table);
-                var feats = table[1];
-                var leveledFeats = new List<ClassFeatureItem>();
-                foreach(var feature in Features)
+                return _LeveledFeatures;
+            }
+            set
+            {
+                SetProperty(ref _LeveledFeatures, value);
+            }
+        }
+
+        public int ColumnIndex(string[,] table, string columnName)
+        {
+            for (var c = 0; c < table.GetLength(0); c++)
+            {
+                if(table[c, 0] == columnName)
                 {
-                    if(feats.Contains(feature.Name))
+                    return c;
+                }
+            }
+            return -1;
+        }
+        public void InitLeveledFeatures()
+        {
+            if (Evolution != null)
+            {
+                var table = Evolution.ExtractSimpleTable(Evolution.Table);
+                
+                var feats = table[ColumnIndex(table, "Aptitudes"), 2];
+                var leveledFeats = new List<ClassFeatureItem>();
+                foreach (var feature in Features)
+                {
+                    if (feats.Contains(feature.Id))
                     {
                         leveledFeats.Add(feature);
                     }
                 }
-                return leveledFeats;
+                LeveledFeatures = leveledFeats;
             }
         }
 
@@ -60,6 +85,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 Equipment = await context.ClassEquipments.Where(c => c.ParentLink == Class.Id).FirstOrDefaultAsync();
                 Evolution = await context.ClassEvolutions.Where(c => c.ParentLink == Class.Id).FirstOrDefaultAsync();
                 Features = await context.ClassFeatures.Where(c => c.ParentLink == Class.Id).ToListAsync();
+                InitLeveledFeatures();
             }
         }
     }

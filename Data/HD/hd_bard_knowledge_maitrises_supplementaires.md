@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Maîtrises supplémentaires
 Id: bard_knowledge_hd.md#maîtrises-supplémentaires
 ParentLink: bard_knowledge_hd.md#collège-du-savoir
-Name: Maîtrises supplémentaires
 ParentName: Collège du savoir
 NameLevel: 2
 Attributes:

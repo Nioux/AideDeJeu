@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 9
+Name: Souhait
 Type: Invocation
+Level: 9
 CastingTime: 1 action
 Range: personnelle
 Components: V
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Wish](srd_spells_wish.md)'
 Id: spells_hd.md#souhait
 ParentLink: spells_hd.md#sorts
-Name: Souhait
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Wish](srd_spells_wish.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Souhait
   Markdown: >+

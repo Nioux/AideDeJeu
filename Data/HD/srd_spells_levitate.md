@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Levitate
 Type: transmutation
+Level: 2
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)
 Duration: Concentration, up to 10 minutes
 Classes: Sorcerer, Wizard
+Source: (SRD p158)
+AltName: '[Lévitation](hd_spells_levitation.md)'
 Id: spells_vo.md#levitate
 ParentLink: spells_vo.md#spells-srd-p
-Name: Levitate
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Lévitation](hd_spells_levitation.md)'
-Source: (SRD p158)
 Attributes:
   Name: Levitate
   Markdown: >+

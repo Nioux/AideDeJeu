@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Maître de l'ombre
 Id: rogue_ombrelame_hd.md#maître-de-lombre
 ParentLink: rogue_ombrelame_hd.md#ombrelame
-Name: Maître de l'ombre
 ParentName: Ombrelame
 NameLevel: 2
 Attributes:

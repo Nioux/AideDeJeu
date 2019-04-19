@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Briseur de sort
 Id: barbarian_steel_hd.md#briseur-de-sort
 ParentLink: barbarian_steel_hd.md#voie-de-lacier
-Name: Briseur de sort
 ParentName: Voie de l'acier
 NameLevel: 2
 Attributes:

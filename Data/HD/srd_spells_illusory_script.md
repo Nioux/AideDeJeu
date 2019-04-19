@@ -1,21 +1,21 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Illusory Script
 Type: illusion
-Ritual: ritual
+Level: 1
 CastingTime: 1 minute
 Range: Touch
 Components: S, M (a lead-based ink worth at least 10 gp, which the spell consumes)
 Duration: 10 days
 Classes: Bard, Warlock, Wizard
+Source: (SRD p156)
+AltName: '[Texte illusoire](hd_spells_texte_illusoire.md)'
+Ritual: ritual
 Id: spells_vo.md#illusory-script
 ParentLink: spells_vo.md#spells-srd-p
-Name: Illusory Script
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Texte illusoire](hd_spells_texte_illusoire.md)'
-Source: (SRD p156)
 Attributes:
   Name: Illusory Script
   Markdown: >+

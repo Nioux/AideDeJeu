@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Canalisation d'énergie divine
 Id: paladin_perfection_hd.md#canalisation-dénergie-divine
 ParentLink: paladin_perfection_hd.md#serment-de-perfection
-Name: Canalisation d'énergie divine
 ParentName: Serment de perfection
 NameLevel: 2
 Attributes:

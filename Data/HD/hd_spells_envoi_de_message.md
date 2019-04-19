@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Envoi de message
 Type: Évocation
+Level: 3
 CastingTime: 1 action
 Range: illimitée
 Components: V, S, M (un petit bout de fil de cuivre)
 Duration: 1 round
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+Source: (MDR p352)(SRD)
+AltName: '[Sending](srd_spells_sending.md)'
 Id: spells_hd.md#envoi-de-message
 ParentLink: spells_hd.md#sorts
-Name: Envoi de message
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Sending](srd_spells_sending.md)'
-Source: (MDR p352)(SRD)
 Attributes:
   Name: Envoi de message
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Detect Thoughts
 Type: divination
+Level: 2
 CastingTime: 1 action
 Range: Self
 Components: V, S, M (a copper piece)
 Duration: Concentration, up to 1 minute
 Classes: Bard, Sorcerer, Wizard
+Source: (SRD p135)
+AltName: '[Détection des pensées](hd_spells_detection_des_pensees.md)'
 Id: spells_vo.md#detect-thoughts
 ParentLink: spells_vo.md#spells-srd-p
-Name: Detect Thoughts
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Détection des pensées](hd_spells_detection_des_pensees.md)'
-Source: (SRD p135)
 Attributes:
   Name: Detect Thoughts
   Markdown: >+

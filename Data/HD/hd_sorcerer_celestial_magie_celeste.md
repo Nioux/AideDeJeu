@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Magie céleste
 Id: sorcerer_celestial_hd.md#magie-céleste
 ParentLink: sorcerer_celestial_hd.md#lignée-céleste
-Name: Magie céleste
 ParentName: Lignée céleste
 NameLevel: 2
 Attributes:

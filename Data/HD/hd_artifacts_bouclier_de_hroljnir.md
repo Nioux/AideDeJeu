@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: BOUCLIER DE HROLJNIR
+Source: (CDC p191)
 Id: artifacts_hd.md#bouclier-de-hroljnir
 ParentLink: artifacts_hd.md#artefacts
-Name: BOUCLIER DE HROLJNIR
 ParentName: Artefacts
 NameLevel: 2
-Source: (CDC p191)
 Attributes:
   Name: BOUCLIER DE HROLJNIR
   Markdown: >+

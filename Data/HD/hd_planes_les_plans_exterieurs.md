@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Les plans extérieurs
 Id: planes_hd.md#les-plans-extérieurs
 ParentLink: planes_hd.md#jouer-dans-un-multivers
-Name: Les plans extérieurs
 ParentName: Jouer dans un multivers
 NameLevel: 4
 Attributes:

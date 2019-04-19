@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Frappe des arcanes
 Id: fighter_spellblade_hd.md#frappe-des-arcanes
 ParentLink: fighter_spellblade_hd.md#sorcelame
-Name: Frappe des arcanes
 ParentName: Sorcelame
 NameLevel: 2
 Attributes:

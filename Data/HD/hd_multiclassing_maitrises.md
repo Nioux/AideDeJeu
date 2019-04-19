@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Maîtrises
 Id: multiclassing_hd.md#maîtrises
 ParentLink: multiclassing_hd.md#multiclassage
-Name: Maîtrises
 ParentName: Multiclassage
 NameLevel: 2
 Attributes:

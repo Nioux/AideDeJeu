@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Regagner des PVit
+Source: (L5R p44)
 Id: l5r_hitpoints_hd.md#regagner-des-pvit
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
-Name: Regagner des PVit
 ParentName: Points de vie et blessures
 NameLevel: 4
-Source: (L5R p44)
 Attributes:
   Name: Regagner des PVit
   Markdown: >+

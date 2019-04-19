@@ -1,8 +1,8 @@
 ﻿---
 !ClassEvolutionItem
+Name: Tableau d'évolution
 Id: paladin_hd.md#tableau-dévolution
 ParentLink: paladin_hd.md#paladin
-Name: Tableau d'évolution
 ParentName: Paladin
 NameLevel: 1
 Attributes:

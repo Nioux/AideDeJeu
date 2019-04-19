@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Vague tonnante
 Type: Évocation
+Level: 1
 CastingTime: 1 action
 Range: personnelle (cube de 4,50 mètres)
 Components: V, S
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Thunderwave](srd_spells_thunderwave.md)'
 Id: spells_hd.md#vague-tonnante
 ParentLink: spells_hd.md#sorts
-Name: Vague tonnante
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Thunderwave](srd_spells_thunderwave.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Vague tonnante
   Markdown: >+

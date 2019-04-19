@@ -1,8 +1,8 @@
 ﻿---
 !Items
+Name: Personnalités suggérées
 Id: background_membredeguilde_hd.md#personnalités-suggérées
 ParentLink: background_membredeguilde_hd.md#membre-de-guilde
-Name: Personnalités suggérées
 ParentName: Membre de guilde
 NameLevel: 4
 Attributes:

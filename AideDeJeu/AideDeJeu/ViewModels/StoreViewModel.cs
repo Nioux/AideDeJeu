@@ -213,6 +213,49 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        class Matrix
+        {
+            private Dictionary<string, Object> Data = new Dictionary<string, object>();
+            public object this[int x, int y]
+            {
+                get
+                {
+                    string key = this.GetKey(x, y);
+                    return Data.ContainsKey(key) ? Data[key] : null;
+                }
+                set
+                {
+                    string key = this.GetKey(x, y);
+                    if (value == null)
+                        Data.Remove(key);
+                    else
+                        Data[key] = value;
+                }
+            }
+            private string GetKey(int x, int y)
+            {
+                return String.Join(",", new[] { x, y });
+            }
+        }
+        public void ParseItemProperties(string source, Item item, Markdig.Extensions.Tables.Table table)
+        {
+            Markdig.Extensions.Tables.TableRow firstRow = table.FirstOrDefault() as Markdig.Extensions.Tables.TableRow;
+            var matrix = new string[firstRow.Count, table.Count];
+            int y = 0;
+            foreach (Markdig.Extensions.Tables.TableRow row in table)
+            {
+                int x = 0;
+                foreach (Markdig.Extensions.Tables.TableCell col in row)
+                {
+                    ParseItemProperties(source, item, col);
+                    matrix[x, y] = col.ToMarkdownString();
+                    x++;
+                }
+                y++;
+            }
+            Debug.WriteLine(matrix);
+        }
+
         public void ParseItemProperties(string source, Item item, ContainerBlock blocks)
         {
             foreach (var block in blocks)

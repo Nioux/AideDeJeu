@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Fumées d'othur (inhalation)
 Id: poisons_hd.md#fumées-dothur-inhalation
 ParentLink: poisons_hd.md#les-poisons
-Name: Fumées d'othur (inhalation)
 ParentName: Les poisons
 NameLevel: 4
 Attributes:

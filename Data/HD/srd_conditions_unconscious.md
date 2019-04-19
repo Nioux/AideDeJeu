@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: conditions_vo.md#unconscious
-ParentLink: conditions_vo.md#conditions
 Name: Unconscious
-ParentName: Conditions
-NameLevel: 1
 AltName: '[Inconscient](hd_conditions_inconscient.md)'
 Source: (SRD p359)
+Id: conditions_vo.md#unconscious
+ParentLink: conditions_vo.md#conditions
+ParentName: Conditions
+NameLevel: 1
 Attributes:
   Name: Unconscious
   Markdown: >+

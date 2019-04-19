@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Teleportation Circle
 Type: conjuration
+Level: 5
 CastingTime: 1 minute
 Range: 10 feet
 Components: V, M (rare chalks and inks infused with precious gems with 50 gp, which the spell consumes)
 Duration: 1 round
 Classes: Bard, Sorcerer, Wizard
+Source: (SRD p186)
+AltName: '[Cercle de téléportation](hd_spells_cercle_de_teleportation.md)'
 Id: spells_vo.md#teleportation-circle
 ParentLink: spells_vo.md#spells-srd-p
-Name: Teleportation Circle
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Cercle de téléportation](hd_spells_cercle_de_teleportation.md)'
-Source: (SRD p186)
 Attributes:
   Name: Teleportation Circle
   Markdown: >+

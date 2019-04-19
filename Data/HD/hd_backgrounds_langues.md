@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: backgrounds_hd.md#langues
-ParentLink: backgrounds_hd.md#historique
 Name: Langues
-ParentName: Historique
-NameLevel: 3
 AltName: Languages (SRD p60)
 Source: (MDR p77)
+Id: backgrounds_hd.md#langues
+ParentLink: backgrounds_hd.md#historique
+ParentName: Historique
+NameLevel: 3
 Attributes:
   Name: Langues
   Markdown: >+

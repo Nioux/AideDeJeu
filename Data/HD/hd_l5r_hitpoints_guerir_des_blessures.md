@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Guérir des blessures
+Source: (L5R p44)
 Id: l5r_hitpoints_hd.md#guérir-des-blessures
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
-Name: Guérir des blessures
 ParentName: Points de vie et blessures
 NameLevel: 4
-Source: (L5R p44)
 Attributes:
   Name: Guérir des blessures
   Markdown: >+

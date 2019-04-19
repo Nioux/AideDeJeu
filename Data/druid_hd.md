@@ -10,7 +10,11 @@
 - AltName: <!--AltName-->Druid (SRD p17)<!--/AltName-->
 - Source: <!--Source-->(MDR p142)<!--/Source-->
 
+<!--Description-->
+
 En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
+
+<!--/Description-->
 
 <!--ClassHitPointsItem-->
 
@@ -38,11 +42,15 @@ En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
 
 ## <!--Name-->Équipement<!--/Name-->
 
+<!--Description-->
+
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
 * (a) un [bouclier] de bois ou (b) n'importe quelle [arme courante].
 * (a) un [cimeterre] ou (b) n'importe quelle [arme de corps-à-corps courante].
 * une [armure de cuir], un [paquetage d'explorateur] et un [focaliseur druidique]
+
+<!--/Description-->
 
 <!--/ClassEquipmentItem-->
 
@@ -81,13 +89,19 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 ## <!--Name-->Druidique<!--/Name-->
 
+<!--Description-->
+
 Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de [Sagesse (Perception)] DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Incantations<!--/Name-->
+
+<!--Description-->
 
 Vos pouvoirs découlant de l'essence divine de la nature elle-même, vous êtes en mesure de lancer des sorts qui vous permettent de manipuler cette essence selon votre volonté.
 
@@ -121,11 +135,15 @@ Vous pouvez lancer un sort de druide que vous connaissez et que vous avez prépa
 
 Vous pouvez utiliser un focaliseur druidique (voir le chapitre 5, Équipement, page 230) comme focaliseur d'incantation pour vos sorts de druide.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Forme sauvage<!--/Name-->
+
+<!--Description-->
 
 À partir du niveau 2, vous pouvez utiliser une action pour vous métamorphoser en un animal que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois.
 
@@ -149,13 +167,19 @@ Pendant que vous êtes transformé, les règles suivantes s'appliquent :
 * Vous conservez les bénéfices de toute aptitude propre à votre classe, à votre race ou de toute autre source. Vous pouvez les utiliser dans la mesure où votre forme sauvage vous le permet. Néanmoins, vous ne pouvez utiliser vos sens spéciaux, comme la vision dans le noir, que si votre nouvelle forme possède elle aussi ce sens.
 * Vous choisissez quelle partie de votre équipement tombe sur le sol sur l'emplacement que vous occupez et quelle partie fusionne avec votre nouvelle forme ou est portée par celle-ci. L'équipement que vous portez sur vous fonctionne normalement, mais le MJ doit décider si une pièce particulière d'équipement peut être portée de manière pratique par l'animal dont vous prenez la forme (en fonction de la forme et de la taille de la créature). Votre équipement lui-même ne se transforme pas pour s'adapter à votre nouvelle forme et toute pièce d'équipement qui ne peut pas être portée par cette créature tombe sur le sol ou fusionne avec vous au moment de votre transformation. L'équipement qui fusionne avec vous sous votre forme sauvage n'a aucun effet jusqu'à ce que vous retrouviez votre forme normale.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Cercle druidique<!--/Name-->
 
+<!--Description-->
+
 Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un cercle druidique : le cercle de la terre, le cercle des saisons, le cercle des fées ou le cercle des profondeurs. Tous sont détaillés à la fin de la section consacrée à cette classe. En fonction de votre choix, vous avez accès à différentes aptitudes aux niveaux 2, 6, 10 et 14.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -163,7 +187,11 @@ Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un cercl
 
 ## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
+<!--Description-->
+
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -171,7 +199,11 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## <!--Name-->Jeunesse éternelle<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 18, la magie primitive que vous maniez vous permet de vieillir plus lentement. Pour chaque décennie qui passe, votre corps ne vieillit que d'un an.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -179,7 +211,11 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## <!--Name-->Incantation animale<!--/Name-->
 
+<!--Description-->
+
 À partir du niveau 18, vous pouvez lancer la plupart de vos sorts de druide quelle que soit la forme que vous prenez grâce à l'aptitude forme sauvage. Vous pouvez accomplir les composantes verbales et somatiques d'un sort de druide pendant que vous avez une forme sauvage, mais vous ne pouvez pas utiliser de composantes matérielles.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -187,9 +223,13 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## <!--Name-->Archidruide<!--/Name-->
 
+<!--Description-->
+
 Au niveau 20, vous pouvez utiliser votre forme sauvage autant de fois que vous le voulez.
 
 De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de druide ainsi que les composantes matérielles qui n'ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 

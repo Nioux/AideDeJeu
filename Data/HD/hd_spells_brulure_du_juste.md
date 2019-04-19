@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Brûlure du juste
 Type: Évocation
+Level: 1
 CastingTime: 1 action
 Range: personnelle
 Components: V
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Paladin](hd_paladin.md)'
+Source: (MDR p330)
 Id: spells_hd.md#brûlure-du-juste
 ParentLink: spells_hd.md#sorts
-Name: Brûlure du juste
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p330)
 Attributes:
   Name: Brûlure du juste
   Markdown: >+

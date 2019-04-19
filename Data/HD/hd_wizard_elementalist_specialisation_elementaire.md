@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Spécialisation élémentaire
 Id: wizard_elementalist_hd.md#spécialisation-élémentaire
 ParentLink: wizard_elementalist_hd.md#Élémentaliste
-Name: Spécialisation élémentaire
 ParentName: Élémentaliste
 NameLevel: 2
 Attributes:

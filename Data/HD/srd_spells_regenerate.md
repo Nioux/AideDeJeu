@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 7
+Name: Regenerate
 Type: transmutation
+Level: 7
 CastingTime: 1 minute
 Range: Touch
 Components: V, S, M (a prayer wheel and holy water)
 Duration: 1 hour
 Classes: Bard, Cleric, Druid
+Source: (SRD p174)
+AltName: '[Régénération](hd_spells_regeneration.md)'
 Id: spells_vo.md#regenerate
 ParentLink: spells_vo.md#spells-srd-p
-Name: Regenerate
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Régénération](hd_spells_regeneration.md)'
-Source: (SRD p174)
 Attributes:
   Name: Regenerate
   Markdown: >+

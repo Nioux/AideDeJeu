@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Rayon de lune
 Type: Évocation
+Level: 2
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Druide](hd_druid.md)'
+Source: (MDR p)(SRD)
+AltName: '[Moonbeam](srd_spells_moonbeam.md)'
 Id: spells_hd.md#rayon-de-lune
 ParentLink: spells_hd.md#sorts
-Name: Rayon de lune
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Moonbeam](srd_spells_moonbeam.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Rayon de lune
   Markdown: >+

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Maître des mille formes
 Id: warlock_occultsummons_hd.md#maître-des-mille-formes
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Maître des mille formes
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

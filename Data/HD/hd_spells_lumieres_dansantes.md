@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Lumières dansantes
 Type: Évocation
+Level: tour de magie
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
+Source: (MDR p)(SRD)
+AltName: '[Dancing Lights](srd_spells_dancing_lights.md)'
 Id: spells_hd.md#lumières-dansantes
 ParentLink: spells_hd.md#sorts
-Name: Lumières dansantes
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Dancing Lights](srd_spells_dancing_lights.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Lumières dansantes
   Markdown: >+

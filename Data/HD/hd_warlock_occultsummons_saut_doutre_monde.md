@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Saut d'outre-monde
 Id: warlock_occultsummons_hd.md#saut-doutre-monde
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Saut d'outre-monde
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

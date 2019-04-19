@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Flèche infaillible
 Id: ranger_arcane_hd.md#flèche-infaillible
 ParentLink: ranger_arcane_hd.md#archer-arcanique
-Name: Flèche infaillible
 ParentName: Archer arcanique
 NameLevel: 2
 Attributes:

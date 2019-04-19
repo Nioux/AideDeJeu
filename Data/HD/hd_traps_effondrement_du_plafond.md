@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Effondrement du plafond
 Id: traps_hd.md#effondrement-du-plafond
 ParentLink: traps_hd.md#les-pièges
-Name: Effondrement du plafond
 ParentName: Les pièges
 NameLevel: 4
 Attributes:

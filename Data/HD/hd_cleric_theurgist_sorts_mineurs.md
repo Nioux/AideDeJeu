@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sorts mineurs
 Id: cleric_theurgist_hd.md#sorts-mineurs
 ParentLink: cleric_theurgist_hd.md#théurge
-Name: Sorts mineurs
 ParentName: Théurge
 NameLevel: 2
 Attributes:

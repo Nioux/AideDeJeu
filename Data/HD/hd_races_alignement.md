@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: races_hd.md#alignement
-ParentLink: races_hd.md#traits-raciaux
 Name: Alignement
-ParentName: Traits raciaux
-NameLevel: 4
 AltName: Alignment
 Source: (MDR p36)(SRD p3)
+Id: races_hd.md#alignement
+ParentLink: races_hd.md#traits-raciaux
+ParentName: Traits raciaux
+NameLevel: 4
 Attributes:
   Name: Alignement
   Markdown: >+

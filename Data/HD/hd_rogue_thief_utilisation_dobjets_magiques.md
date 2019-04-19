@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Utilisation d'objets magiques
 Id: rogue_thief_hd.md#utilisation-dobjets-magiques
 ParentLink: rogue_thief_hd.md#voleur
-Name: Utilisation d'objets magiques
 ParentName: Voleur
 NameLevel: 2
 Attributes:

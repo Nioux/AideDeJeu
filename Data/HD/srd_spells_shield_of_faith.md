@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Shield of Faith
 Type: abjuration
+Level: 1
 CastingTime: 1 bonus action
 Range: 60 feet
 Components: V, S, M (a small parchment with a bit of holy text written on it)
 Duration: Concentration, up to 10 minutes
 Classes: Cleric, Paladin
+Source: (SRD p179)
+AltName: '[Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)'
 Id: spells_vo.md#shield-of-faith
 ParentLink: spells_vo.md#spells-srd-p
-Name: Shield of Faith
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)'
-Source: (SRD p179)
 Attributes:
   Name: Shield of Faith
   Markdown: >+

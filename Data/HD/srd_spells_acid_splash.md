@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: cantrip
+Name: Acid Splash
 Type: Conjuration
+Level: cantrip
 CastingTime: 1 action
 Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Source: (SRD p114)
+AltName: '[Aspersion acide](hd_spells_aspersion_acide.md)'
 Id: spells_vo.md#acid-splash
 ParentLink: spells_vo.md#spells-srd-p
-Name: Acid Splash
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Aspersion acide](hd_spells_aspersion_acide.md)'
-Source: (SRD p114)
 Attributes:
   Name: Acid Splash
   Markdown: >

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 7
+Name: Prismatic Spray
 Type: evocation
+Level: 7
 CastingTime: 1 action
 Range: Self (60-foot cone)
 Components: V, S
 Duration: Instantaneous
 Classes: Sorcerer, Wizard
+Source: (SRD p170)
+AltName: '[Embruns prismatiques](hd_spells_embruns_prismatiques.md)'
 Id: spells_vo.md#prismatic-spray
 ParentLink: spells_vo.md#spells-srd-p
-Name: Prismatic Spray
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Embruns prismatiques](hd_spells_embruns_prismatiques.md)'
-Source: (SRD p170)
 Attributes:
   Name: Prismatic Spray
   Markdown: >+

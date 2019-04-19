@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 6
+Name: Mot de retour
 Type: Invocation
+Level: 6
 CastingTime: 1 action
 Range: 1,5 mètre
 Components: V
 Duration: instantanée
 Classes: '[Clerc](hd_cleric.md)'
+Source: (MDR p)(SRD)
+AltName: '[Word of Recall](srd_spells_word_of_recall.md)'
 Id: spells_hd.md#mot-de-retour
 ParentLink: spells_hd.md#sorts
-Name: Mot de retour
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Word of Recall](srd_spells_word_of_recall.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Mot de retour
   Markdown: >+

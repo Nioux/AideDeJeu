@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: weapons_hd.md#armes-improvisées
-ParentLink: weapons_hd.md#armes
 Name: Armes improvisées
-ParentName: Armes
-NameLevel: 4
 AltName: Improvised Weapons (SRD p65)
 Source: (MDR p228)
+Id: weapons_hd.md#armes-improvisées
+ParentLink: weapons_hd.md#armes
+ParentName: Armes
+NameLevel: 4
 Attributes:
   Name: Armes improvisées
   Markdown: >+

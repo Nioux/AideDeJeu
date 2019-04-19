@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Le plan matériel
 Id: planes_hd.md#le-plan-matériel
 ParentLink: planes_hd.md#jouer-dans-un-multivers
-Name: Le plan matériel
 ParentName: Jouer dans un multivers
 NameLevel: 3
 Attributes:

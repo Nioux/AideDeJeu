@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Guérison suprême
 Id: cleric_life_hd.md#guérison-suprême
 ParentLink: cleric_life_hd.md#domaine-de-la-vie
-Name: Guérison suprême
 ParentName: Domaine de la Vie
 NameLevel: 2
 Attributes:

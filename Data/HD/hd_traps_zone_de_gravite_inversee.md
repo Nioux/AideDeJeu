@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Zone de gravité inversée
 Id: traps_hd.md#zone-de-gravité-inversée
 ParentLink: traps_hd.md#les-pièges
-Name: Zone de gravité inversée
 ParentName: Les pièges
 NameLevel: 4
 Attributes:

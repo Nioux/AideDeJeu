@@ -3,13 +3,13 @@
 FullName: Demi-ogre
 StrengthBonus: 2
 ConstitutionBonus: 2
+AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 2 et votre valeur de [Force](hd_abilities_strength.md) de 2.
 Age: Les demi-ogres arrivent rapidement à l'âge adulte, à l'âge de 10 ans. Cependant, une fois leur maturité atteinte, ils vieillissent légèrement plus lentement que les êtres humains. Ainsi, un demi-ogre peut vivre jusqu'à un âge de 125 ans, voire plus, pour peu qu'il ait l'incroyable (et rare) chance de ne pas être mort de manière violente auparavant.
 Alignment: Les demi-ogres sont des êtres imprévisibles. Ils tendent souvent vers un alignement Chaotique, même si de rares clans demi-ogres ont appris à se civiliser et sont plus enclins à un alignement Loyal. Les plus sauvages d'entre eux, et ceux élevés au sein de clans ogres, sont souvent mauvais.
 Size: Les demi-ogres sont des créatures de taille moyenne. Ce sont cependant des colosses. Les plus petits d'entre eux mesurent 1,80 mètre, mais ils atteignent généralement les 2 mètres de haut, voire plus. Les plus grands peuvent mesurer jusqu'à 2,40 mètres.
 Speed: Votre vitesse au sol de base est de 9 mètres.
 Darkvision: Votre ascendance ogre vous a octroyé une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
 Languages: Vous pouvez lire, écrire et parler le commun ainsi que le géant.
-AbilityScoreIncrease: Votre valeur de [Constitution](hd_abilities_constitution.md) augmente de 2 et votre valeur de [Force](hd_abilities_strength.md) de 2.
 Id: demi-ogre_hd.md#demi-ogre
 RootId: demi-ogre_hd.md
 ParentLink: races_hd.md#

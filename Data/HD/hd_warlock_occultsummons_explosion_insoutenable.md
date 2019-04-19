@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Explosion insoutenable
 Id: warlock_occultsummons_hd.md#explosion-insoutenable
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Explosion insoutenable
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

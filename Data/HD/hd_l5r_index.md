@@ -1,12 +1,12 @@
 ﻿---
 !Items
+Name: 'Les Cinq Royaumes : Les règles spécifiques'
+Source: (L5R p42)
 Id: l5r_index_hd.md#les-cinq-royaumes--les-règles-spécifiques
 RootId: l5r_index_hd.md
 ParentLink: index.md
-Name: 'Les Cinq Royaumes : Les règles spécifiques'
 ParentName: Les Cinq Royaumes
 NameLevel: 1
-Source: (L5R p42)
 Attributes:
   ParentNameLink: '[Les Cinq Royaumes](index.md)'
   Markdown: >+

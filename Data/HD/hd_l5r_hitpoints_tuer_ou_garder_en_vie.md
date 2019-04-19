@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Tuer ou garder en vie
+Source: (L5R p47)
 Id: l5r_hitpoints_hd.md#tuer-ou-garder-en-vie
 ParentLink: l5r_hitpoints_hd.md#points-de-vie-et-blessures
-Name: Tuer ou garder en vie
 ParentName: Points de vie et blessures
 NameLevel: 4
-Source: (L5R p47)
 Attributes:
   Name: Tuer ou garder en vie
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Contact glacial
 Type: Nécromancie
+Level: tour de magie
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S
 Duration: 1 round
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p339)(SRD)
+AltName: '[Chill Touch](srd_spells_chill_touch.md)'
 Id: spells_hd.md#contact-glacial
 ParentLink: spells_hd.md#sorts
-Name: Contact glacial
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Chill Touch](srd_spells_chill_touch.md)'
-Source: (MDR p339)(SRD)
 Attributes:
   Name: Contact glacial
   Markdown: >+

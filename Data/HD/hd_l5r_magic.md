@@ -1,12 +1,12 @@
 ﻿---
 !Items
+Name: Des objets magiques rares et merveilleux
+Source: (L5R p48)
 Id: l5r_magic_hd.md#des-objets-magiques-rares-et-merveilleux
 RootId: l5r_magic_hd.md
 ParentLink: l5r_index_hd.md
-Name: Des objets magiques rares et merveilleux
 ParentName: Les Cinq Royaumes
 NameLevel: 2
-Source: (L5R p48)
 Attributes:
   ParentNameLink: '[Les Cinq Royaumes](hd_l5r_index.md)'
   Markdown: >+

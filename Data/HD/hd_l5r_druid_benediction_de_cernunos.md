@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Bénédiction de Cernunos
+Source: (L5R p62)
 Id: l5r_druid_hd.md#bénédiction-de-cernunos
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
-Name: Bénédiction de Cernunos
 ParentName: Druide des cinq royaumes
 NameLevel: 4
-Source: (L5R p62)
 Attributes:
   Name: Bénédiction de Cernunos
   Markdown: >+

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: conditions_vo.md#stunned
-ParentLink: conditions_vo.md#conditions
 Name: Stunned
-ParentName: Conditions
-NameLevel: 1
 AltName: '[Étourdi](hd_conditions_etourdi.md)'
 Source: (SRD p359)
+Id: conditions_vo.md#stunned
+ParentLink: conditions_vo.md#conditions
+ParentName: Conditions
+NameLevel: 1
 Attributes:
   Name: Stunned
   Markdown: >+

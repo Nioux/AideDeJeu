@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: Dextérité
+AltName: Dexterity (SRD p80)
+Source: (MDR p263)
 Id: abilities_dexterity_hd.md#dextérité
 RootId: abilities_dexterity_hd.md
 ParentLink: abilities_hd.md
-Name: Dextérité
 ParentName: Caractéristiques
 NameLevel: 1
-AltName: Dexterity (SRD p80)
-Source: (MDR p263)
 Attributes:
   ParentNameLink: '[Caractéristiques](hd_abilities.md)'
   Markdown: >+

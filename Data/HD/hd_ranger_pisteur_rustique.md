@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Rustique
 Id: ranger_pisteur_hd.md#rustique
 ParentLink: ranger_pisteur_hd.md#pisteur--un-rôdeur-alternatif
-Name: Rustique
 ParentName: 'Pisteur : un rôdeur alternatif'
 NameLevel: 2
 Attributes:

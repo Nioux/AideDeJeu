@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Invoquer un élémentaire
 Type: Invocation
+Level: 5
 CastingTime: 1 minute
 Range: 27 mètres
 Components: V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Conjure Elemental](srd_spells_conjure_elemental.md)'
 Id: spells_hd.md#invoquer-un-élémentaire
 ParentLink: spells_hd.md#sorts
-Name: Invoquer un élémentaire
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Conjure Elemental](srd_spells_conjure_elemental.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Invoquer un élémentaire
   Markdown: >+

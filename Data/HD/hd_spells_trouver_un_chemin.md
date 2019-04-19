@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 6
+Name: Trouver un chemin
 Type: Divination
+Level: 6
 CastingTime: 1 minute
 Range: personnelle
 Components: V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
 Duration: concentration, jusqu'à 1 jour
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
+Source: (MDR p)(SRD)
+AltName: '[Find the Path](srd_spells_find_the_path.md)'
 Id: spells_hd.md#trouver-un-chemin
 ParentLink: spells_hd.md#sorts
-Name: Trouver un chemin
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Find the Path](srd_spells_find_the_path.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Trouver un chemin
   Markdown: >+

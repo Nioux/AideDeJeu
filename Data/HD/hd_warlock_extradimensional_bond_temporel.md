@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Bond temporel
 Id: warlock_extradimensional_hd.md#bond-temporel
 ParentLink: warlock_extradimensional_hd.md#lentité-extra-dimensionnelle
-Name: Bond temporel
 ParentName: L'entité extra-dimensionnelle
 NameLevel: 2
 Attributes:

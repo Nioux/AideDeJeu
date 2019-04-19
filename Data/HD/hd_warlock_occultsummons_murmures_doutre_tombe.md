@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Murmures d'outre-tombe
 Id: warlock_occultsummons_hd.md#murmures-doutre-tombe
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Murmures d'outre-tombe
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Types de mouvement spéciaux
 Id: movement_hd.md#types-de-mouvement-spéciaux
 ParentLink: movement_hd.md#déplacement
-Name: Types de mouvement spéciaux
 ParentName: Déplacement
 NameLevel: 1
 Attributes:

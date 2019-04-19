@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: "Canalisation d'énergie divine : Magie renforcée"
 Id: cleric_theurgist_hd.md#canalisation-dénergie-divine--magie-renforcée
 ParentLink: cleric_theurgist_hd.md#théurge
-Name: "Canalisation d'énergie divine : Magie renforcée"
 ParentName: Théurge
 NameLevel: 2
 Attributes:

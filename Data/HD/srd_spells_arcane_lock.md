@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Arcane Lock
 Type: abjuration
+Level: 2
 CastingTime: 1 action
 Range: Touch
 Components: V, S, M (gold dust worth at least 25 gp, which the spell consumes)
 Duration: Until dispelled
 Classes: Wizard
+Source: (SRD p118)
+AltName: '[Verrou magique](hd_spells_verrou_magique.md)'
 Id: spells_vo.md#arcane-lock
 ParentLink: spells_vo.md#spells-srd-p
-Name: Arcane Lock
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Verrou magique](hd_spells_verrou_magique.md)'
-Source: (SRD p118)
 Attributes:
   Name: Arcane Lock
   Markdown: >+

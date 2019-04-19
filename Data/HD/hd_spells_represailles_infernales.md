@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Représailles infernales
 Type: Évocation
+Level: 1
 CastingTime: 1 réaction en réponse aux dégâts que vous inﬂige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous
 Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Sorcier](hd_warlock.md)'
+Source: (MDR p)(SRD)
+AltName: '[Hellish Rebuke](srd_spells_hellish_rebuke.md)'
 Id: spells_hd.md#représailles-infernales
 ParentLink: spells_hd.md#sorts
-Name: Représailles infernales
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Hellish Rebuke](srd_spells_hellish_rebuke.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Représailles infernales
   Markdown: >+

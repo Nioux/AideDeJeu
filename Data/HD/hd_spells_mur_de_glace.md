@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 6
+Name: Mur de glace
 Type: Évocation
+Level: 6
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S, M (un éclat de quartz)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Wall of Ice](srd_spells_wall_of_ice.md)'
 Id: spells_hd.md#mur-de-glace
 ParentLink: spells_hd.md#sorts
-Name: Mur de glace
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Wall of Ice](srd_spells_wall_of_ice.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Mur de glace
   Markdown: >+

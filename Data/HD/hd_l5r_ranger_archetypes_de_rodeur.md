@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Archétypes de rôdeur
+Source: (L5R p55)
 Id: l5r_ranger_hd.md#archétypes-de-rôdeur
 ParentLink: l5r_ranger_hd.md#rôdeur-des-cinq-royaumes
-Name: Archétypes de rôdeur
 ParentName: Rôdeur des cinq Royaumes
 NameLevel: 3
-Source: (L5R p55)
 Attributes:
   Name: Archétypes de rôdeur
   Markdown: >+

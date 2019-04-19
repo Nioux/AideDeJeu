@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: Les objets
+AltName: 'Objects '
+Source: (CEO p380)(SRD p203)
 Id: objects_hd.md#les-objets
 RootId: objects_hd.md
 ParentLink: index.md
-Name: Les objets
 ParentName: Créatures et oppositions
 NameLevel: 2
-AltName: 'Objects '
-Source: (CEO p380)(SRD p203)
 Attributes:
   ParentNameLink: '[Créatures et oppositions](index.md)'
   Markdown: >+

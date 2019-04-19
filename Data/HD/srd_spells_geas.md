@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Geas
 Type: enchantment
+Level: 5
 CastingTime: 1 minute
 Range: 60 feet
 Components: V
 Duration: 30 days
 Classes: Bard, Cleric, Druid, Paladin, Wizard
+Source: (SRD p148)
+AltName: '[Coercition mystique](hd_spells_coercition_mystique.md)'
 Id: spells_vo.md#geas
 ParentLink: spells_vo.md#spells-srd-p
-Name: Geas
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Coercition mystique](hd_spells_coercition_mystique.md)'
-Source: (SRD p148)
 Attributes:
   Name: Geas
   Markdown: >+

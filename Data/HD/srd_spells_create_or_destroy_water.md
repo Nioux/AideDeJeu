@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 1
+Name: Create or Destroy Water
 Type: transmutation
+Level: 1
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S, M (a drop of water if creating water or a few grains of sand if destroying it)
 Duration: Instantaneous
 Classes: Cleric, Druid
+Source: (SRD p132)
+AltName: "[Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)"
 Id: spells_vo.md#create-or-destroy-water
 ParentLink: spells_vo.md#spells-srd-p
-Name: Create or Destroy Water
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: "[Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)"
-Source: (SRD p132)
 Attributes:
   Name: Create or Destroy Water
   Markdown: >+

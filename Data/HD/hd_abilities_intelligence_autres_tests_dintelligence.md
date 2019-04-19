@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Autres tests d'Intelligence
 Id: abilities_intelligence_hd.md#autres-tests-dintelligence
 ParentLink: abilities_intelligence_hd.md#intelligence
-Name: Autres tests d'Intelligence
 ParentName: Intelligence
 NameLevel: 3
 Attributes:

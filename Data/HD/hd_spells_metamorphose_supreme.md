@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 9
+Name: Métamorphose suprême
 Type: Transmutation
+Level: 9
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p)(SRD)
+AltName: '[True Polymorph](srd_spells_true_polymorph.md)'
 Id: spells_hd.md#métamorphose-suprême
 ParentLink: spells_hd.md#sorts
-Name: Métamorphose suprême
 ParentName: Sorts
 NameLevel: 1
-AltName: '[True Polymorph](srd_spells_true_polymorph.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Métamorphose suprême
   Markdown: >+

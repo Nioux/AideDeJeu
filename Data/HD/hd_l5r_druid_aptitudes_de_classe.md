@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Aptitudes de classe
+Source: (L5R p59)
 Id: l5r_druid_hd.md#aptitudes-de-classe
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
-Name: Aptitudes de classe
 ParentName: Druide des cinq royaumes
 NameLevel: 3
-Source: (L5R p59)
 Attributes:
   Name: Aptitudes de classe
   Markdown: >+

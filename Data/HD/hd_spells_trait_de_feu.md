@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Trait de feu
 Type: Évocation
+Level: tour de magie
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Fire Bolt](srd_spells_fire_bolt.md)'
 Id: spells_hd.md#trait-de-feu
 ParentLink: spells_hd.md#sorts
-Name: Trait de feu
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Fire Bolt](srd_spells_fire_bolt.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Trait de feu
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Frappe lumineuse
 Type: Évocation
+Level: 2
 CastingTime: 1 action bonus
 Range: personnelle
 Components: V
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Paladin](hd_paladin.md)'
+Source: (MDR p358)(SRD)
+AltName: '[Branding Smite](srd_spells_branding_smite.md)'
 Id: spells_hd.md#frappe-lumineuse
 ParentLink: spells_hd.md#sorts
-Name: Frappe lumineuse
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Branding Smite](srd_spells_branding_smite.md)'
-Source: (MDR p358)(SRD)
 Attributes:
   Name: Frappe lumineuse
   Markdown: >+

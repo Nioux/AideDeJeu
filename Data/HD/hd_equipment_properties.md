@@ -1,9 +1,9 @@
 ﻿---
 !Items
+Name: Équipement
 Id: equipment_properties_hd.md#Équipement
 RootId: equipment_properties_hd.md
 ParentLink: equipment_hd.md
-Name: Équipement
 ParentName: Équipement
 NameLevel: 1
 Attributes:

@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Fatigue et épuisement
+AltName: '[Exhaustion](srd_conditions_exhaustion.md)'
 Id: conditions_hd.md#fatigue-et-épuisement
 ParentLink: conditions_hd.md#États-spéciaux
-Name: Fatigue et épuisement
 ParentName: États spéciaux
 NameLevel: 1
-AltName: '[Exhaustion](srd_conditions_exhaustion.md)'
 Attributes:
   Name: Fatigue et épuisement
   Markdown: >+

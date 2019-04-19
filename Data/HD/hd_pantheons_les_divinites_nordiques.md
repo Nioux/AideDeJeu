@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: pantheons_hd.md#les-divinités-nordiques
-ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
 Name: Les divinités nordiques
-ParentName: Panthéons historiques et fantastiques
-NameLevel: 4
 AltName: Norse Deities
 Source: (MDR p415)(SRD p361)
+Id: pantheons_hd.md#les-divinités-nordiques
+ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
+ParentName: Panthéons historiques et fantastiques
+NameLevel: 4
 Attributes:
   Name: Les divinités nordiques
   Markdown: >+

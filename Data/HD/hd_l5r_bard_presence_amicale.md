@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Présence amicale
+Source: (L5R p56)
 Id: l5r_bard_hd.md#présence-amicale
 ParentLink: l5r_bard_hd.md#barde-des-cinq-royaumes
-Name: Présence amicale
 ParentName: Barde des cinq royaumes
 NameLevel: 4
-Source: (L5R p56)
 Attributes:
   Name: Présence amicale
   Markdown: >+

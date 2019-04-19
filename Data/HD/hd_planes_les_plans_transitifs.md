@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Les plans transitifs
 Id: planes_hd.md#les-plans-transitifs
 ParentLink: planes_hd.md#jouer-dans-un-multivers
-Name: Les plans transitifs
 ParentName: Jouer dans un multivers
 NameLevel: 4
 Attributes:

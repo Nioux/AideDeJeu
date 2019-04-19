@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Croissance végétale
 Type: Transmutation
+Level: 3
 CastingTime: 1 action ou 8 heures
 Range: 45 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
+Source: (MDR p344)(SRD)
+AltName: '[Plant Growth](srd_spells_plant_growth.md)'
 Id: spells_hd.md#croissance-végétale
 ParentLink: spells_hd.md#sorts
-Name: Croissance végétale
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Plant Growth](srd_spells_plant_growth.md)'
-Source: (MDR p344)(SRD)
 Attributes:
   Name: Croissance végétale
   Markdown: >+

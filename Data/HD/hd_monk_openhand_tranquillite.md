@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Tranquillité
 Id: monk_openhand_hd.md#tranquillité
 ParentLink: monk_openhand_hd.md#voie-de-la-main-ouverte
-Name: Tranquillité
 ParentName: Voie de la main ouverte
 NameLevel: 2
 Attributes:

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Séducteur hors pair
 Id: rogue_spy_hd.md#séducteur-hors-pair
 ParentLink: rogue_spy_hd.md#espion
-Name: Séducteur hors pair
 ParentName: Espion
 NameLevel: 2
 Attributes:

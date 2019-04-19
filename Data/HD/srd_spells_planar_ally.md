@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 6
+Name: Planar Ally
 Type: conjuration
+Level: 6
 CastingTime: 10 minutes
 Range: 60 feet
 Components: V, S
 Duration: Instantaneous
 Classes: Cleric
+Source: (SRD p168)
+AltName: '[Allié planaire](hd_spells_allie_planaire.md)'
 Id: spells_vo.md#planar-ally
 ParentLink: spells_vo.md#spells-srd-p
-Name: Planar Ally
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Allié planaire](hd_spells_allie_planaire.md)'
-Source: (SRD p168)
 Attributes:
   Name: Planar Ally
   Markdown: >+

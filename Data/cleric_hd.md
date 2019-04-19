@@ -10,7 +10,11 @@
 - AltName: <!--AltName-->Cleric (SRD p15)<!--/AltName-->
 - Source: <!--Source-->(MDR p129)<!--/Source-->
 
+<!--Description-->
+
 En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
+
+<!--/Description-->
 
 <!--ClassHitPointsItem-->
 
@@ -38,6 +42,8 @@ En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
 
 ## <!--Name-->Équipement<!--/Name-->
 
+<!--Description-->
+
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique. Notez que le [marteau de guerre] et la [cotte de mailles] sont réservés aux clercs qui disposent des maîtrises correspondantes.
 
 * (a) une [masse d'armes] ou (b) un [marteau de guerre]*
@@ -45,6 +51,8 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) une [arbalète légère] avec vingt [carreaux] ou (b) n'importe quelle [arme courante]
 * (a) un [paquetage d'ecclésiastique] ou (b) un [paquetage d'explorateur]
 * un [bouclier] et un [symbole sacré]
+
+<!--/Description-->
 
 <!--/ClassEquipmentItem-->
 
@@ -83,6 +91,8 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 ## <!--Name-->Incantations<!--/Name-->
 
+<!--Description-->
+
 En tant que relais de la puissance divine, vous pouvez lancer des sorts de clerc.
 
 ## Tours de magie
@@ -119,13 +129,19 @@ Vous pouvez lancer un sort de clerc que vous connaissez et que vous avez prépar
 
 Vous pouvez utiliser un symbole sacré (voir le chapitre 5, Équipement, pages 233) comme focaliseur d'incantation pour vos sorts de clerc.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Domaine divin<!--/Name-->
 
+<!--Description-->
+
 Choisissez un domaine divin parmi gardien des traditions, guide spirituel, prêtre et théurge. Vous trouverez une description de chacun de ces domaines à la fin de la section consacrée à cette classe. Dès le niveau 1, le choix de votre domaine divin vous permet d'accéder à des sorts de domaine et d'autres aptitudes. Il vous permet aussi d'utiliser la canalisation d'énergie divine d'une manière supplémentaire quand vous gagnez cette aptitude au niveau 2, puis de l'améliorer aux niveaux 6, 8 et 17.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
@@ -133,13 +149,19 @@ Choisissez un domaine divin parmi gardien des traditions, guide spirituel, prêt
 
 ## <!--Name-->Sorts de domaines<!--/Name-->
 
+<!--Description-->
+
 Une liste de sorts spécifique est associée à chaque domaine divin. Dans le cas du clerc, cette liste dépend de la divinité que vous adorez. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour (le théurge est une exception). Si vous avez appris un sort de domaine qui n'apparaît pas dans la liste de sorts de clerc, vous pouvez quand même le considérer comme un sort de clerc en ce qui vous concerne.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Canalisation d'énergie divine<!--/Name-->
+
+<!--Description-->
 
 Au niveau 2, vous gagnez la capacité de canaliser directement l'énergie divine qui émane de votre déité et vous pouvez utiliser cette énergie pour alimenter vos effets magiques. Vous débutez avec deux effets de ce type : renvoi des morts-vivants et un effet déterminé par votre domaine. Certains domaines vous permettent d'acquérir des effets supplémentaires à certains niveaux. Cela est alors indiqué dans la section les détaillant.
 
@@ -155,19 +177,27 @@ Certains effets de la canalisation d'énergie divine impliquent des [jets de sau
 
 Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde] de [Sagesse]. Si une créature échoue à son [jet de sauvegarde], elle est repoussée pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
+<!--Description-->
+
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Destruction des morts-vivants<!--/Name-->
+
+<!--Description-->
 
 À partir du niveau 5, quand un mort-vivant échoue à son [jet de sauvegarde] contre votre aptitude renvoi des morts-vivants, il est immédiatement détruit si son indice de dangerosité (ID) est inférieur ou égal à un certain seuil (voir le tableau destruction des morts-vivants).
 
@@ -179,11 +209,15 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 |14|3 ou moins|
 |17|4 ou moins|
 
+<!--/Description-->
+
 <!--/ClassFeatureItem-->
 
 <!--ClassFeatureItem-->
 
 ## <!--Name-->Intervention divine<!--/Name-->
+
+<!--Description-->
 
 À partir du niveau 10, vous pouvez faire appel à votre déité pour qu'elle intervienne en votre faveur en cas de besoin impérieux.
 
@@ -196,6 +230,8 @@ Le MJ choisit la nature de l'intervention divine. Un effet de sort de clerc ou d
 Si votre déité est intervenue, vous ne pouvez plus utiliser cette aptitude pendant 7 jours. Sinon, vous pourrez l'utiliser de nouveau dès que vous aurez terminé un repos long.
 
 Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez donc plus besoin de lancer de dé.
+
+<!--/Description-->
 
 <!--/ClassFeatureItem-->
 

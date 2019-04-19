@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Préceptes de rédemption
 Id: paladin_redemption_hd.md#préceptes-de-rédemption
 ParentLink: paladin_redemption_hd.md#serment-de-rédemption
-Name: Préceptes de rédemption
 ParentName: Serment de rédemption
 NameLevel: 2
 Attributes:

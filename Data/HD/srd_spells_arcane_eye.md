@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 4
+Name: Arcane Eye
 Type: divination
+Level: 4
 CastingTime: 1 action
 Range: 30 feet
 Components: V, S, M (a bit of bat fur)
 Duration: Concentration, up to 1 hour
 Classes: Wizard
+Source: (SRD p118)
+AltName: '[Oeil magique](hd_spells_oeil_magique.md)'
 Id: spells_vo.md#arcane-eye
 ParentLink: spells_vo.md#spells-srd-p
-Name: Arcane Eye
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Oeil magique](hd_spells_oeil_magique.md)'
-Source: (SRD p118)
 Attributes:
   Name: Arcane Eye
   Markdown: >+

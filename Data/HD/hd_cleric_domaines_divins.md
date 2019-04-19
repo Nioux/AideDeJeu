@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Domaines divins
 Id: cleric_hd.md#domaines-divins
 ParentLink: cleric_hd.md#clerc
-Name: Domaines divins
 ParentName: Clerc
 NameLevel: 1
 Attributes:

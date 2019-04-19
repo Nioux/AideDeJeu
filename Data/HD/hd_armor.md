@@ -1,13 +1,13 @@
 ﻿---
 !Items
+Name: Armures
+AltName: Armor (SRD p62)
+Source: (MDR p223)
 Id: armor_hd.md#armures
 RootId: armor_hd.md
 ParentLink: equipment_hd.md
-Name: Armures
 ParentName: Équipement
 NameLevel: 1
-AltName: Armor (SRD p62)
-Source: (MDR p223)
 Attributes:
   ParentNameLink: '[Équipement](hd_equipment.md)'
   Markdown: >+

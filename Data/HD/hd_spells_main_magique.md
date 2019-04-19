@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Main magique
 Type: Évocation
+Level: 5
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S, M (une coquille d'oeuf et un gant en peau de serpent)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p)
+AltName: '[Arcane Hand](srd_spells_arcane_hand.md)'
 Id: spells_hd.md#main-magique
 ParentLink: spells_hd.md#sorts
-Name: Main magique
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Arcane Hand](srd_spells_arcane_hand.md)'
-Source: (MDR p)
 Attributes:
   Name: Main magique
   Markdown: >+

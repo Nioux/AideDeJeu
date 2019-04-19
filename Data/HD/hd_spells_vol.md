@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Vol
 Type: Transmutation
+Level: 3
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (une rémige)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p)(SRD)
+AltName: '[Fly](srd_spells_fly.md)'
 Id: spells_hd.md#vol
 ParentLink: spells_hd.md#sorts
-Name: Vol
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Fly](srd_spells_fly.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Vol
   Markdown: >+

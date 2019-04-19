@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 5
+Name: Soin des blessures de groupe
 Type: Évocation
+Level: 5
 CastingTime: 1 action
 Range: 18 mètres
 Components: V, S
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
+Source: (MDR p)(SRD)
+AltName: '[Mass Cure Wounds](srd_spells_mass_cure_wounds.md)'
 Id: spells_hd.md#soin-des-blessures-de-groupe
 ParentLink: spells_hd.md#sorts
-Name: Soin des blessures de groupe
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Mass Cure Wounds](srd_spells_mass_cure_wounds.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Soin des blessures de groupe
   Markdown: >+

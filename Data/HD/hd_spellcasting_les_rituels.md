@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#les-rituels
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Les rituels
-ParentName: Lancer des sorts
-NameLevel: 3
 AltName: Rituals (SRD p101)
 Source: (MDR p307)
+Id: spellcasting_hd.md#les-rituels
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 3
 Attributes:
   Name: Les rituels
   Markdown: >+

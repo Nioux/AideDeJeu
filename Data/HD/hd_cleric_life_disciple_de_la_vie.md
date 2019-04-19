@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Disciple de la vie
 Id: cleric_life_hd.md#disciple-de-la-vie
 ParentLink: cleric_life_hd.md#domaine-de-la-vie
-Name: Disciple de la vie
 ParentName: Domaine de la Vie
 NameLevel: 2
 Attributes:

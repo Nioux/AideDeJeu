@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Flèche intangible
 Id: ranger_arcane_hd.md#flèche-intangible
 ParentLink: ranger_arcane_hd.md#archer-arcanique
-Name: Flèche intangible
 ParentName: Archer arcanique
 NameLevel: 2
 Attributes:

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Déclencher un piège
 Id: traps_hd.md#déclencher-un-piège
 ParentLink: traps_hd.md#les-pièges
-Name: Déclencher un piège
 ParentName: Les pièges
 NameLevel: 3
 Attributes:

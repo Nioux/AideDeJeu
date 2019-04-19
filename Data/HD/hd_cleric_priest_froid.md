@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Froid
 Id: cleric_priest_hd.md#froid
 ParentLink: cleric_priest_hd.md#liste-des-domaines
-Name: Froid
 ParentName: Liste des domaines
 NameLevel: 4
 Attributes:

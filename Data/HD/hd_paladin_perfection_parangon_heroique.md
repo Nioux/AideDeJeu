@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Parangon héroïque
 Id: paladin_perfection_hd.md#parangon-héroïque
 ParentLink: paladin_perfection_hd.md#serment-de-perfection
-Name: Parangon héroïque
 ParentName: Serment de perfection
 NameLevel: 2
 Attributes:

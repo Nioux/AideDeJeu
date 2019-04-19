@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 4
+Name: Assassin imaginaire
 Type: Illusion
+Level: 4
 CastingTime: 1 action
 Range: 36 mètres
 Components: V, S
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Magicien](hd_wizard.md)'
+Source: (MDR p325)(SRD)
+AltName: '[Phantasmal Killer](srd_spells_phantasmal_killer.md)'
 Id: spells_hd.md#assassin-imaginaire
 ParentLink: spells_hd.md#sorts
-Name: Assassin imaginaire
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Phantasmal Killer](srd_spells_phantasmal_killer.md)'
-Source: (MDR p325)(SRD)
 Attributes:
   Name: Assassin imaginaire
   Markdown: >+

@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#quest-ce-quun-sort-?
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Qu'est-ce qu'un sort ?
-ParentName: Lancer des sorts
-NameLevel: 2
 AltName: What Is a Spell? (SRD p100)
 Source: (MDR p306)
+Id: spellcasting_hd.md#quest-ce-quun-sort-?
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 2
 Attributes:
   Name: Qu'est-ce qu'un sort ?
   Markdown: >+

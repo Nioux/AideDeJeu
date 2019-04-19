@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Bouclier de la foi
 Type: Abjuration
+Level: 1
 CastingTime: 1 action bonus
 Range: 18 mètres
 Components: V, S, M (un petit parchemin avec un extrait de texte sacré)
 Duration: concentration, jusqu'à 10 minutes
 Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
+Source: (MDR p328)(SRD)
+AltName: '[Shield of Faith](srd_spells_shield_of_faith.md)'
 Id: spells_hd.md#bouclier-de-la-foi
 ParentLink: spells_hd.md#sorts
-Name: Bouclier de la foi
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Shield of Faith](srd_spells_shield_of_faith.md)'
-Source: (MDR p328)(SRD)
 Attributes:
   Name: Bouclier de la foi
   Markdown: >+

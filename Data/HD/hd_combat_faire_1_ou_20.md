@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#faire-1-ou-20
-ParentLink: combat_hd.md#combattre
 Name: Faire 1 ou 20
-ParentName: Combattre
-NameLevel: 4
 AltName: Rolling 1 or 20 (SRD p94)
 Source: (MDR p291)
+Id: combat_hd.md#faire-1-ou-20
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 4
 Attributes:
   Name: Faire 1 ou 20
   Markdown: >+

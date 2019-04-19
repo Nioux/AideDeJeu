@@ -3,13 +3,12 @@
 FullName: Sangdragon
 StrengthBonus: 2
 CharismaBonus: 1
+AbilityScoreIncrease: Votre valeur de [Force](hd_abilities_strength.md) augmente de 2 et votre valeur de [Charisme](hd_abilities_charisma.md) de 1.
 Age: Les sangdragons grandissent vite. Une fois qu'ils ont éclos, il ne leur faut que quelques heures pour savoir marcher. Ils atteignent une taille et un niveau de développement équivalent à un humain de 10 ans en seulement 3 ans. Ils atteignent l'âge adulte vers 15 ans et ils vivent environ 80 ans.
 Alignment: Les sangdragons sont des êtres extrêmes. Ils choisissent consciemment leur camp dans la guerre cosmique qui oppose le bien et le mal. La plupart des sangdragons sont bons, mais ceux qui rejoignent le camp du mal font de redoutables adversaires.
 Size: Les sangdragons sont plus grands et lourds que les humains. Ils dépassent facilement 1,80 mètre et pèsent en moyenne 125 kg. Ils sont de taille moyenne.
 Speed: Votre vitesse au sol de base est de 9 mètres.
 Languages: Vous pouvez parler, lire et écrire en commun et en draconique. Le draconique est considéré comme une des langues les plus anciennes et est souvent utilisé pour étudier la magie. C'est une langue composée de consonnes dures et de sifflement, qui semble rude à la plupart des autres créatures.
-AbilityScoreIncrease: Votre valeur de [Force](hd_abilities_strength.md) augmente de 2 et votre valeur de [Charisme](hd_abilities_charisma.md) de 1.
-DamageResistance: Vous bénéficiez d'une résistance au type de dégâts associé à votre ascendance.
 Id: dragonborn_hd.md#sangdragon
 RootId: dragonborn_hd.md
 ParentLink: races_hd.md#

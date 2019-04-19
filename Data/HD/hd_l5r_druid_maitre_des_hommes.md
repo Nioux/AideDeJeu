@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Maître des hommes
+Source: (L5R p61)
 Id: l5r_druid_hd.md#maître-des-hommes
 ParentLink: l5r_druid_hd.md#druide-des-cinq-royaumes
-Name: Maître des hommes
 ParentName: Druide des cinq royaumes
 NameLevel: 5
-Source: (L5R p61)
 Attributes:
   Name: Maître des hommes
   Markdown: >+

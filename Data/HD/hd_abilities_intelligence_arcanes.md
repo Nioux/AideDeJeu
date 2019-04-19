@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Arcanes
 Id: abilities_intelligence_hd.md#arcanes
 ParentLink: abilities_intelligence_hd.md#intelligence
-Name: Arcanes
 ParentName: Intelligence
 NameLevel: 3
 Attributes:

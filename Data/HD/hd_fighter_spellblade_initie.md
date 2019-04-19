@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Initié
 Id: fighter_spellblade_hd.md#initié
 ParentLink: fighter_spellblade_hd.md#sorcelame
-Name: Initié
 ParentName: Sorcelame
 NameLevel: 2
 Attributes:

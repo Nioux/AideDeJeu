@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 8
+Name: Tremblement de terre
 Type: Évocation
+Level: 8
 CastingTime: 1 action
 Range: 150 mètres
 Components: V, S, M (une pincée de poussière, un caillou et un peu d'argile)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
+Source: (MDR p)(SRD)
+AltName: '[Earthquake](srd_spells_earthquake.md)'
 Id: spells_hd.md#tremblement-de-terre
 ParentLink: spells_hd.md#sorts
-Name: Tremblement de terre
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Earthquake](srd_spells_earthquake.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Tremblement de terre
   Markdown: >+

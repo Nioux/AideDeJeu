@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Mot de guérison
 Type: Évocation
+Level: 1
 CastingTime: 1 action bonus
 Range: 18 mètres
 Components: V
 Duration: instantanée
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
+Source: (MDR p)(SRD)
+AltName: '[Healing Word](srd_spells_healing_word.md)'
 Id: spells_hd.md#mot-de-guérison
 ParentLink: spells_hd.md#sorts
-Name: Mot de guérison
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Healing Word](srd_spells_healing_word.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Mot de guérison
   Markdown: >+

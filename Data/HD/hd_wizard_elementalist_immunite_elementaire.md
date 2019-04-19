@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Immunité élémentaire
 Id: wizard_elementalist_hd.md#immunité-élémentaire
 ParentLink: wizard_elementalist_hd.md#Élémentaliste
-Name: Immunité élémentaire
 ParentName: Élémentaliste
 NameLevel: 2
 Attributes:

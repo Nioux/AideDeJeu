@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: tour de magie
+Name: Illusion mineure
 Type: Illusion
+Level: tour de magie
 CastingTime: 1 action
 Range: 9 mètres
 Components: S, M (un morceau de toison)
 Duration: 1 minute
 Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p)(SRD)
+AltName: '[Minor Illusion](srd_spells_minor_illusion.md)'
 Id: spells_hd.md#illusion-mineure
 ParentLink: spells_hd.md#sorts
-Name: Illusion mineure
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Minor Illusion](srd_spells_minor_illusion.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Illusion mineure
   Markdown: >+

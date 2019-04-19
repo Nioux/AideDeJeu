@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Masque des mille visages
 Id: warlock_occultsummons_hd.md#masque-des-mille-visages
 ParentLink: warlock_occultsummons_hd.md#invocations-occultes
-Name: Masque des mille visages
 ParentName: Invocations occultes
 NameLevel: 2
 Attributes:

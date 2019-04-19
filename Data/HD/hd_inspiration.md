@@ -1,13 +1,13 @@
 ﻿---
 !GenericItem
+Name: Inspiration
+AltName: Inspiration (SRD p59)
+Source: (MDR p76)
 Id: inspiration_hd.md#inspiration
 RootId: inspiration_hd.md
 ParentLink: personnality_background_hd.md#
-Name: Inspiration
 ParentName: Personnalité et Historique
 NameLevel: 1
-AltName: Inspiration (SRD p59)
-Source: (MDR p76)
 Attributes:
   ParentNameLink: '[Personnalité et Historique](personnality_background_hd.md#)'
   Markdown: >+

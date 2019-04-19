@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Déplacement souterrain
 Id: druid_depths_hd.md#déplacement-souterrain
 ParentLink: druid_depths_hd.md#cercle-des-profondeurs
-Name: Déplacement souterrain
 ParentName: Cercle des profondeurs
 NameLevel: 2
 Attributes:

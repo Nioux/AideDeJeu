@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#attaque-de-corps-à-corps
-ParentLink: combat_hd.md#combattre
 Name: Attaque de corps-à-corps
-ParentName: Combattre
-NameLevel: 3
 AltName: Melee Attacks (SRD p95)
 Source: (MDR p291)
+Id: combat_hd.md#attaque-de-corps-à-corps
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 3
 Attributes:
   Name: Attaque de corps-à-corps
   Markdown: >+

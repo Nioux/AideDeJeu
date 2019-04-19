@@ -85,9 +85,22 @@
                         <views:ItemView BindingContext="{Binding}" Name="#### Jets de sauvegarde" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.SavingThrows}" />
                         <views:ItemView BindingContext="{Binding}" Name="#### Compétences" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Skills}" />
 
+                        <views:ItemView BindingContext="{Binding}" Name="#### Équipement" Description="{Binding SelectedPlayerCharacter.Class.Equipment.Description}" />
+
+                        <StackLayout BindableLayout.ItemsSource="{Binding SelectedPlayerCharacter.Class.LeveledFeatures}">
+                            <BindableLayout.ItemTemplate>
+                                <DataTemplate>
+                                    <StackLayout>
+                                        <views:ItemView BindingContext="{Binding}" Name="{Binding Name, StringFormat='#### {0}'}" Description="{Binding Description}" />
+                                    </StackLayout>
+                                </DataTemplate>
+                            </BindableLayout.ItemTemplate>
+                        </StackLayout>
+
                     </StackLayout>
                 </Frame>
-                <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" />
+                
+                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" />-->
             </StackLayout>
         </ScrollView>
     </ContentPage>

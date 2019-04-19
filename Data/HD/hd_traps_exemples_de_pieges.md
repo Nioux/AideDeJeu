@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Exemples de pièges
 Id: traps_hd.md#exemples-de-pièges
 ParentLink: traps_hd.md#les-pièges
-Name: Exemples de pièges
 ParentName: Les pièges
 NameLevel: 3
 Attributes:

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 3
+Name: Speak with Dead
 Type: necromancy
+Level: 3
 CastingTime: 1 action
 Range: 10 feet
 Components: V, S, M (burning incense)
 Duration: 10 minutes
 Classes: Bard, Cleric
+Source: (SRD p181)
+AltName: '[Communication avec les morts](hd_spells_communication_avec_les_morts.md)'
 Id: spells_vo.md#speak-with-dead
 ParentLink: spells_vo.md#spells-srd-p
-Name: Speak with Dead
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Communication avec les morts](hd_spells_communication_avec_les_morts.md)'
-Source: (SRD p181)
 Attributes:
   Name: Speak with Dead
   Markdown: >+

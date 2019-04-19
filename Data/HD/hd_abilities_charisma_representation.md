@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Représentation
 Id: abilities_charisma_hd.md#représentation
 ParentLink: abilities_charisma_hd.md#charisme
-Name: Représentation
 ParentName: Charisme
 NameLevel: 3
 Attributes:

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sens
 Id: sentient_magicitems_hd.md#sens
 ParentLink: sentient_magicitems_hd.md#objets-magiques-intelligents
-Name: Sens
 ParentName: Objets magiques intelligents
 NameLevel: 5
 Attributes:

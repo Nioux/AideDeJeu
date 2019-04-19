@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#combat-monté
-ParentLink: combat_hd.md#combattre
 Name: Combat monté
-ParentName: Combattre
-NameLevel: 2
 AltName: Mounted Combat (SRD p99)
 Source: (MDR p295)
+Id: combat_hd.md#combat-monté
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 2
 Attributes:
   Name: Combat monté
   Markdown: >+

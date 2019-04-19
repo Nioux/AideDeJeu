@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 5
+Name: Arcane Hand
 Type: evocation
+Level: 5
 CastingTime: 1 action
 Range: 120 feet
 Components: V, S, M (an eggshell and a snakeskin glove)
 Duration: Concentration, up to 1 minute
 Classes: Wizard
+Source: (SRD p118)
+AltName: '[Main magique](hd_spells_main_magique.md)'
 Id: spells_vo.md#arcane-hand
 ParentLink: spells_vo.md#spells-srd-p
-Name: Arcane Hand
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Main magique](hd_spells_main_magique.md)'
-Source: (SRD p118)
 Attributes:
   Name: Arcane Hand
   Markdown: >+

@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 1
+Name: Bénédiction
 Type: Enchantement
+Level: 1
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (un peu d'eau bénite à asperger)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
+Source: (MDR p327)(SRD)
+AltName: '[Bless](srd_spells_bless.md)'
 Id: spells_hd.md#bénédiction
 ParentLink: spells_hd.md#sorts
-Name: Bénédiction
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Bless](srd_spells_bless.md)'
-Source: (MDR p327)(SRD)
 Attributes:
   Name: Bénédiction
   Markdown: >+

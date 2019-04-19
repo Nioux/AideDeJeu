@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Forme gazeuse
 Type: Transmutation
+Level: 3
 CastingTime: 1 action
 Range: contact
 Components: V, S, M (un morceau de gaze et une volute de fumée)
 Duration: concentration, jusqu'à 1 heure
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p357)(SRD)
+AltName: '[Gaseous Form](srd_spells_gaseous_form.md)'
 Id: spells_hd.md#forme-gazeuse
 ParentLink: spells_hd.md#sorts
-Name: Forme gazeuse
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Gaseous Form](srd_spells_gaseous_form.md)'
-Source: (MDR p357)(SRD)
 Attributes:
   Name: Forme gazeuse
   Markdown: >+

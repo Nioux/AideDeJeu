@@ -1,8 +1,8 @@
 ﻿---
 !ClassEvolutionItem
+Name: Tableau d'évolution
 Id: ranger_hd.md#tableau-dévolution
 ParentLink: ranger_hd.md#rôdeur
-Name: Tableau d'évolution
 ParentName: Rôdeur
 NameLevel: 1
 Attributes:

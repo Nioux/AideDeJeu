@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 9
+Name: Astral Projection
 Type: necromancy
+Level: 9
 CastingTime: 1 hour
 Range: 10 feet
 Components: V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)
 Duration: Special
 Classes: Cleric, Warlock, Wizard
+Source: (SRD p119)
+AltName: '[Projection astrale](hd_spells_projection_astrale.md)'
 Id: spells_vo.md#astral-projection
 ParentLink: spells_vo.md#spells-srd-p
-Name: Astral Projection
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Projection astrale](hd_spells_projection_astrale.md)'
-Source: (SRD p119)
 Attributes:
   Name: Astral Projection
   Markdown: >+

@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Archétypes de rôdeur
 Id: ranger_hd.md#archétypes-de-rôdeur
 ParentLink: ranger_hd.md#rôdeur
-Name: Archétypes de rôdeur
 ParentName: Rôdeur
 NameLevel: 1
 Attributes:

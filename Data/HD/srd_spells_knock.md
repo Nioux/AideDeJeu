@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellVO
-Level: 2
+Name: Knock
 Type: transmutation
+Level: 2
 CastingTime: 1 action
 Range: 60 feet
 Components: V
 Duration: Instantaneous
 Classes: Bard, Sorcerer, Wizard
+Source: (SRD p158)
+AltName: '[Déblocage](hd_spells_deblocage.md)'
 Id: spells_vo.md#knock
 ParentLink: spells_vo.md#spells-srd-p
-Name: Knock
 ParentName: Spells (SRD p)
 NameLevel: 1
-AltName: '[Déblocage](hd_spells_deblocage.md)'
-Source: (SRD p158)
 Attributes:
   Name: Knock
   Markdown: >+

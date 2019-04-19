@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Jet de sauvegarde
+Source: (L5R p72)
 Id: l5r_rituals_hd.md#jet-de-sauvegarde
 ParentLink: l5r_rituals_hd.md#lancer-un-rituel
-Name: Jet de sauvegarde
 ParentName: Lancer un rituel
 NameLevel: 5
-Source: (L5R p72)
 Attributes:
   Name: Jet de sauvegarde
   Markdown: >+

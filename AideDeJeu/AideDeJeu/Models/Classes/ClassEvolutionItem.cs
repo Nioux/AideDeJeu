@@ -6,27 +6,37 @@ namespace AideDeJeuLib
     public class ClassEvolutionItem : Item
     {
         public string Table { get; set; }
-        public List<string> BindableTable
+        public string[,] BindableTable
         {
             get
             {
                 return ExtractSimpleTable(Table);
             }
         }
-        public List<string> ExtractSimpleTable(string table)
+        public string[,] ExtractSimpleTable(string table)
         {
-            var lines = table.Split('\n');
-            var result = new List<string>();
-            foreach (var line in lines.Skip(2))
+            var rows = table.Split('\n');
+            var countRows = rows.Count(r => r.StartsWith("|"));
+            var countCols = rows.FirstOrDefault().Count(c => c == '|') - 1;
+            var matrix = new string[countCols, countRows];
+            var y = 0;
+            foreach (var row in rows)
             {
-                if (line.StartsWith("|"))
+                var x = 0;
+                if (row.StartsWith("|"))
                 {
-                    var cols = line.Split('|');
-                    var text = cols[2].Replace("<!--br-->", " ").Replace("  ", " ");
-                    result.Add(text);
+                    var allcols = row.Split('|');
+                    var cols = allcols.Skip(1).Take(allcols.Length - 2);
+                    foreach (var col in cols)
+                    {
+                        var text = col.Replace("<!--br-->", " ").Replace("  ", " ");
+                        matrix[x, y] = text;
+                        x++;
+                    }
                 }
+                y++;
             }
-            return result;
+            return matrix;
         }
 
     }

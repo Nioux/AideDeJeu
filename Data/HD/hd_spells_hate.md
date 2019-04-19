@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 3
+Name: Hâte
 Type: Transmutation
+Level: 3
 CastingTime: 1 action
 Range: 9 mètres
 Components: V, S, M (un copeau de racine de réglisse)
 Duration: concentration, jusqu'à 1 minute
 Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
+Source: (MDR p)(SRD)
+AltName: '[Haste](srd_spells_haste.md)'
 Id: spells_hd.md#hâte
 ParentLink: spells_hd.md#sorts
-Name: Hâte
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Haste](srd_spells_haste.md)'
-Source: (MDR p)(SRD)
 Attributes:
   Name: Hâte
   Markdown: >+

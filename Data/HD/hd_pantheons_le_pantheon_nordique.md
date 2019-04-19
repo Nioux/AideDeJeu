@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: pantheons_hd.md#le-panthéon-nordique
-ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
 Name: Le panthéon nordique
-ParentName: Panthéons historiques et fantastiques
-NameLevel: 3
 AltName: 'Pantheons '
 Source: (MDR p413)(SRD p360)
+Id: pantheons_hd.md#le-panthéon-nordique
+ParentLink: pantheons_hd.md#panthéons-historiques-et-fantastiques
+ParentName: Panthéons historiques et fantastiques
+NameLevel: 3
 Attributes:
   Name: Le panthéon nordique
   Markdown: >+

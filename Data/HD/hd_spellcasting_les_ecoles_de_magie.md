@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: spellcasting_hd.md#les-écoles-de-magie
-ParentLink: spellcasting_hd.md#lancer-des-sorts
 Name: Les écoles de magie
-ParentName: Lancer des sorts
-NameLevel: 2
 AltName: The Schools of Magic (SRD p103)
 Source: (MDR p310)
+Id: spellcasting_hd.md#les-écoles-de-magie
+ParentLink: spellcasting_hd.md#lancer-des-sorts
+ParentName: Lancer des sorts
+NameLevel: 2
 Attributes:
   Name: Les écoles de magie
   Markdown: >+

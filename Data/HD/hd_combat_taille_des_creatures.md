@@ -1,12 +1,12 @@
 ﻿---
 !GenericItem
-Id: combat_hd.md#taille-des-créatures
-ParentLink: combat_hd.md#combattre
 Name: Taille des créatures
-ParentName: Combattre
-NameLevel: 3
 AltName: Creature Size (SRD p92)
 Source: (MDR p287)
+Id: combat_hd.md#taille-des-créatures
+ParentLink: combat_hd.md#combattre
+ParentName: Combattre
+NameLevel: 3
 Attributes:
   Name: Taille des créatures
   Markdown: >+

@@ -1,11 +1,11 @@
 ﻿---
 !GenericItem
+Name: Fils de la terre
+Source: (L5R p49)
 Id: l5r_human_hd.md#fils-de-la-terre
 ParentLink: l5r_human_hd.md#humain-des-cinq-royaumes
-Name: Fils de la terre
 ParentName: Humain des cinq royaumes
 NameLevel: 4
-Source: (L5R p49)
 Attributes:
   Name: Fils de la terre
   Markdown: >+

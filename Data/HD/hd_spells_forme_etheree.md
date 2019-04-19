@@ -1,20 +1,20 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 7
+Name: Forme éthérée
 Type: Transmutation
+Level: 7
 CastingTime: 1 action
 Range: personnelle
 Components: V, S
 Duration: jusqu'à 8 heures
 Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
+Source: (MDR p356)(SRD)
+AltName: '[Etherealness](srd_spells_etherealness.md)'
 Id: spells_hd.md#forme-éthérée
 ParentLink: spells_hd.md#sorts
-Name: Forme éthérée
 ParentName: Sorts
 NameLevel: 1
-AltName: '[Etherealness](srd_spells_etherealness.md)'
-Source: (MDR p356)(SRD)
 Attributes:
   Name: Forme éthérée
   Markdown: >+

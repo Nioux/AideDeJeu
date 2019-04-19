@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Liste de sorts étendue
 Id: warlock_fiendish_hd.md#liste-de-sorts-étendue
 ParentLink: warlock_fiendish_hd.md#le-fiélon
-Name: Liste de sorts étendue
 ParentName: Le fiélon
 NameLevel: 2
 Attributes:

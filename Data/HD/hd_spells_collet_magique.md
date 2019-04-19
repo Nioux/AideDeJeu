@@ -1,19 +1,19 @@
 ﻿---
 !SpellItem
 Family: SpellHD
-Level: 2
+Name: Collet magique
 Type: Invocation
+Level: 2
 CastingTime: 1 action
 Range: 12 mètres
 Components: V, S, M (une ficelle)
 Duration: 1 heure
 Classes: '[Rôdeur](hd_ranger.md)'
+Source: (MDR p336)
 Id: spells_hd.md#collet-magique
 ParentLink: spells_hd.md#sorts
-Name: Collet magique
 ParentName: Sorts
 NameLevel: 1
-Source: (MDR p336)
 Attributes:
   Name: Collet magique
   Markdown: >+

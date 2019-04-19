@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Tests de caractéristique
 Id: abilities_hd.md#tests-de-caractéristique
 ParentLink: abilities_hd.md#utiliser-les-caractéristiques
-Name: Tests de caractéristique
 ParentName: Utiliser les caractéristiques
 NameLevel: 1
 Attributes:

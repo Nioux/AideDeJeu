@@ -1,8 +1,8 @@
 ﻿---
 !GenericItem
+Name: Sorts de serment
 Id: paladin_devotion_hd.md#sorts-de-serment
 ParentLink: paladin_devotion_hd.md#serment-de-dévotion
-Name: Sorts de serment
 ParentName: Serment de dévotion
 NameLevel: 2
 Attributes:
