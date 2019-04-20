@@ -129,9 +129,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\GtkSharp\2.12\lib\gtk-sharp-2.0\pango-sharp.dll</HintPath>
     </Reference>
-    <Reference Include="PdfSharp, Version=0.0.14.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\PdfSharpNetStandard.0.0.14\lib\netstandard2.0\PdfSharp.dll</HintPath>
-    </Reference>
     <Reference Include="Remotion.Linq, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Remotion.Linq.2.2.0\lib\net45\Remotion.Linq.dll</HintPath>
     </Reference>
