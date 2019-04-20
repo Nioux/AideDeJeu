@@ -778,6 +778,168 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         {
             "2 (-4)", "3 (-4)", "4 (-3)", "5 (-3)", "6 (-2)", "7 (-2)", "8 (-1)", "9 (-1)", "10 (+0)", "11 (+0)", "12 (+1)", "13 (+1)", "14 (+2)", "15 (+2)", "16 (+3)", "17 (+3)", "18 (+4)", "19 (+4)", "20 (+5)", "21 (+5)"
         };
+
+        private int? _Strength = null;
+        public int? Strength
+        {
+            get
+            {
+                return _Strength;
+            }
+            set
+            {
+                SetProperty(ref _Strength, value);
+            }
+        }
+
+        private int? _Dexterity = null;
+        public int? Dexterity
+        {
+            get
+            {
+                return _Dexterity;
+            }
+            set
+            {
+                SetProperty(ref _Dexterity, value);
+            }
+        }
+
+        private int? _Constitution = null;
+        public int? Constitution
+        {
+            get
+            {
+                return _Constitution;
+            }
+            set
+            {
+                SetProperty(ref _Constitution, value);
+            }
+        }
+
+        private int? _Intelligence = null;
+        public int? Intelligence
+        {
+            get
+            {
+                return _Intelligence;
+            }
+            set
+            {
+                SetProperty(ref _Intelligence, value);
+            }
+        }
+
+        private int? _Wisdom = null;
+        public int? Wisdom
+        {
+            get
+            {
+                return _Wisdom;
+            }
+            set
+            {
+                SetProperty(ref _Wisdom, value);
+            }
+        }
+
+        private int? _Charisma = null;
+        public int? Charisma
+        {
+            get
+            {
+                return _Charisma;
+            }
+            set
+            {
+                SetProperty(ref _Charisma, value);
+            }
+        }
+
+        public ICommand RollDicesCommand
+        {
+            get
+            {
+                return new Command(ExecuteRollDicesCommand);
+            }
+        }
+        private void ExecuteRollDicesCommand()
+        {
+            var random = new Random(DateTime.Now.Millisecond);
+            var values = RollMRick(random);
+            values.Sort();
+            List<int> mins;
+            List<int> maxs;
+            if (SelectedPlayerCharacter.Class?.Proficiencies?.SavingThrows != null)
+            {
+                mins = values.Take(4).ToList();
+                maxs = values.Skip(4).ToList();
+            }
+            else
+            {
+                mins = values;
+                maxs = null;
+            }
+
+
+            Strength = PickAbility(random, ref mins, ref maxs, "Force");
+            Dexterity = PickAbility(random, ref mins, ref maxs, "Dextérité");
+            Constitution = PickAbility(random, ref mins, ref maxs, "Constitution");
+            Intelligence = PickAbility(random, ref mins, ref maxs, "Intelligence");
+            Wisdom = PickAbility(random, ref mins, ref maxs, "Sagesse");
+            Charisma = PickAbility(random, ref mins, ref maxs, "Charisme");
+            //Strength = random.Next(6) + random.Next(6) + random.Next(6) + 3;
+            //Dexterity = random.Next(6) + random.Next(6) + random.Next(6) + 3;
+            //Constitution = random.Next(6) + random.Next(6) + random.Next(6) + 3;
+            //Intelligence = random.Next(6) + random.Next(6) + random.Next(6) + 3;
+            //Wisdom = random.Next(6) + random.Next(6) + random.Next(6) + 3;
+            //Charisma = random.Next(6) + random.Next(6) + random.Next(6) + 3;
+            //if(SelectedPlayerCharacter.Class?.Proficiencies?.SavingThrows?.Contains("Force") == true)
+            //{
+            //    Strength = 18;
+            //}
+        }
+
+        private int PickAbility(Random random, ref List<int> mins, ref List<int> maxs, string name)
+        {
+            var value = SelectedPlayerCharacter.Class?.Proficiencies?.SavingThrows?.Contains(name);
+            if (value == true)
+            {
+                return PickOne(random, ref maxs);
+            }
+            else
+            {
+                return PickOne(random, ref mins);
+            }
+        }
+
+        private int PickOne(Random random, ref List<int> values)
+        {
+            var index = random.Next(values.Count);
+            var pick = values[index];
+            values.RemoveAt(index);
+            return pick;
+        }
+
+        private List<int> RollMRick(Random random)
+        {
+            var dices = new List<int>();
+            var roll = Roll2d6(random);
+            dices.Add(6 + roll);
+            dices.Add(19 - roll);
+            roll = Roll2d6(random);
+            dices.Add(6 + roll);
+            dices.Add(19 - roll);
+            roll = Roll2d6(random);
+            dices.Add(6 + roll);
+            dices.Add(19 - roll);
+            return dices;
+        }
+        private int Roll2d6(Random random)
+        {
+            return random.Next(6) + random.Next(6) + 2;
+        }
         #endregion Abilities
 
         #region Level

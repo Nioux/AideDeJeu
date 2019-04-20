@@ -166,12 +166,15 @@
     <ContentPage Title="Caractéristiques">
         <ScrollView Orientation="Vertical">
             <StackLayout>
+                <Frame BorderColor="Black" Padding="2" Margin="10">
+                    <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesCommand}" />
+                </Frame>
                 <views:StringPickerView BindingContext="{Binding}" Title="Force" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
-                <views:StringPickerView BindingContext="{Binding}" Title="Dextérité" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
-                <views:StringPickerView BindingContext="{Binding}" Title="Constitution" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
-                <views:StringPickerView BindingContext="{Binding}" Title="Intelligence" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
-                <views:StringPickerView BindingContext="{Binding}" Title="Sagesse" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
-                <views:StringPickerView BindingContext="{Binding}" Title="Charisme" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Dextérité" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Dexterity, Mode=TwoWay}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Constitution" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Constitution, Mode=TwoWay}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Intelligence" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Intelligence, Mode=TwoWay}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Sagesse" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Wisdom, Mode=TwoWay}" />
+                <views:StringPickerView BindingContext="{Binding}" Title="Charisme" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Charisma, Mode=TwoWay}" />
                 <!--<Picker Title="Force" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Force : {0}'}" />
                 <Picker Title="Dextérité" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Dextérité : {0}'}" />
                 <Picker Title="Constitution" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Constitution : {0}'}" />
