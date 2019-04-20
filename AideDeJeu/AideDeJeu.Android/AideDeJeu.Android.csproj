@@ -90,10 +90,10 @@
       <Version>4.5.2</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
-      <Version>4.0.0.304370-pre8</Version>
+      <Version>4.0.0.346134-pre9</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms.Visual.Material">
-      <Version>4.0.0.304370-pre8</Version>
+      <Version>4.0.0.346134-pre9</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
@@ -219,7 +219,6 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\rolling_dice_cup.png" />
   </ItemGroup>
-
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-hdpi\crystal_ball.png" />
   </ItemGroup>
@@ -268,7 +267,6 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-hdpi\rolling_dice_cup.png" />
   </ItemGroup>
-  
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xhdpi\crystal_ball.png" />
   </ItemGroup>
@@ -317,7 +315,6 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xhdpi\rolling_dice_cup.png" />
   </ItemGroup>
-  
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxhdpi\crystal_ball.png" />
   </ItemGroup>
@@ -366,7 +363,6 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxhdpi\rolling_dice_cup.png" />
   </ItemGroup>
-  
   <ItemGroup>
     <AndroidResource Include="Resources\values\colors.xml" />
   </ItemGroup>

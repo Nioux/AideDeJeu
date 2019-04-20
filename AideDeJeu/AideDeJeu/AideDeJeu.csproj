@@ -36,8 +36,8 @@
     <PackageReference Include="SkiaSharp.Svg" Version="1.60.0" />
     <PackageReference Include="SkiaSharp.Views.Forms" Version="1.68.0" />
     <PackageReference Include="sqlite-net-pcl" Version="1.6.258-beta" />
-    <PackageReference Include="Xamarin.Forms" Version="4.0.0.304370-pre8" />
-    <PackageReference Include="Xamarin.Forms.Visual.Material" Version="4.0.0.304370-pre8" />
+    <PackageReference Include="Xamarin.Forms" Version="4.0.0.346134-pre9" />
+    <PackageReference Include="Xamarin.Forms.Visual.Material" Version="4.0.0.346134-pre9" />
     <PackageReference Include="YamlDotNet" Version="6.0.0" />
   </ItemGroup>
 
