@@ -14,6 +14,39 @@
         UnselectedTabColor="{StaticResource HDMidGrey}"
         android:TabbedPage.IsSwipePagingEnabled="True">
     <TabbedPage.Resources>
+        <StyleSheet>
+            <![CDATA[
+            imagebutton {
+                background-color: transparent;
+                padding: 30;
+                width: 150;
+                height: 150;
+            }
+            frame {
+                border-color: black;
+                padding: 2;
+                margin: 10;
+            }
+            ]]>
+        </StyleSheet>
+        <Style TargetType="ImageButton">
+            <Setter Property="VisualStateManager.VisualStateGroups">
+                <VisualStateGroupList>
+                    <VisualStateGroup x:Name="CommonStates">
+                        <VisualState x:Name="Normal">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="1" />
+                            </VisualState.Setters>
+                        </VisualState>
+                        <VisualState x:Name="Pressed">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="0.8" />
+                            </VisualState.Setters>
+                        </VisualState>
+                    </VisualStateGroup>
+                </VisualStateGroupList>
+            </Setter>
+        </Style>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
@@ -175,12 +208,6 @@
                 <views:StringPickerView BindingContext="{Binding}" Title="Intelligence" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Intelligence, Mode=TwoWay}" />
                 <views:StringPickerView BindingContext="{Binding}" Title="Sagesse" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Wisdom, Mode=TwoWay}" />
                 <views:StringPickerView BindingContext="{Binding}" Title="Charisme" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Charisma, Mode=TwoWay}" />
-                <!--<Picker Title="Force" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Force : {0}'}" />
-                <Picker Title="Dextérité" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Dextérité : {0}'}" />
-                <Picker Title="Constitution" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Constitution : {0}'}" />
-                <Picker Title="Intelligence" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Intelligence : {0}'}" />
-                <Picker Title="Sagesse" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Sagesse : {0}'}" />
-                <Picker Title="Charisme" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Charisme : {0}'}" />-->
             </StackLayout>
         </ScrollView>
     </ContentPage>
