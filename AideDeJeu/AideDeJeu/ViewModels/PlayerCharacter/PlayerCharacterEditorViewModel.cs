@@ -869,6 +869,36 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         }
         private async Task ExecuteRollDicesCommandAsync()
         {
+            var random = new Random(DateTime.Now.Millisecond);
+            var values = RollMRick(random);
+            values.Sort();
+            List<int> mins;
+            List<int> maxs;
+            if (SelectedPlayerCharacter.Class?.Proficiencies?.SavingThrows != null)
+            {
+                mins = values.Take(4).ToList();
+                maxs = values.Skip(4).ToList();
+            }
+            else
+            {
+                mins = values;
+                maxs = null;
+            }
+
+
+            Strength = PickAbility(random, ref mins, ref maxs, "Force");
+            Dexterity = PickAbility(random, ref mins, ref maxs, "Dextérité");
+            Constitution = PickAbility(random, ref mins, ref maxs, "Constitution");
+            Intelligence = PickAbility(random, ref mins, ref maxs, "Intelligence");
+            Wisdom = PickAbility(random, ref mins, ref maxs, "Sagesse");
+            Charisma = PickAbility(random, ref mins, ref maxs, "Charisme");
+
+            await GeneratePdfAsync();
+            await OpenPdfAsync();
+        }
+
+        async Task GeneratePdfAsync()
+        {
             //PdfDocument pdfDoc = new PdfDocument(new PdfReader(SRC), new PdfWriter(dest));
             //PdfDocument srcDoc;
             //PdfFormXObject page;
@@ -886,8 +916,36 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
 
             //PdfDocument pdfDoc = new PdfDocument(new PdfWriter());
+            var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
 
             PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
+
+
+
+
+            // read the file
+            //PdfReader fondo = new PdfReader("listaPrecios.pdf");
+            PdfStamper stamper = new PdfStamper(reader, stream);
+            PdfContentByte content = stamper.GetOverContent(1);
+            // add text
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin"), 40, 700, 0);
+
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Strength.ToString()), 40, 620, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Dexterity.ToString()), 40, 545, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Constitution.ToString()), 40, 470, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Intelligence.ToString()), 40, 395, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Wisdom.ToString()), 40, 320, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Charisma.ToString()), 40, 245, 0);
+
+            //ColumnText ct = new ColumnText(content);
+            //// this are the coordinates where you want to add text
+            //// if the text does not fit inside it will be cropped
+            //ct.SetSimpleColumn(50, 500, 500, 50);
+            //ct.SetText(new Phrase("Galefrin"));
+            //ct.Go();
+            stamper.Close();
+
+            /*
 
             Document document = new Document(PageSize.LETTER);
             var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
@@ -920,7 +978,11 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             ColumnText.ShowTextAligned(canvas, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin"), 40, document.PageSize.Height - 100, 0);
             
             document.Close();
+            */
 
+        }
+        async Task OpenPdfAsync()
+        { 
             //DependencyService.Get<INativeAPI>().OpenFileByName("test.pdf");
 
             //var file = Path.Combine(FileSystem.CacheDirectory, fn);
@@ -935,39 +997,6 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 File = shareFile
             });
 
-            var random = new Random(DateTime.Now.Millisecond);
-            var values = RollMRick(random);
-            values.Sort();
-            List<int> mins;
-            List<int> maxs;
-            if (SelectedPlayerCharacter.Class?.Proficiencies?.SavingThrows != null)
-            {
-                mins = values.Take(4).ToList();
-                maxs = values.Skip(4).ToList();
-            }
-            else
-            {
-                mins = values;
-                maxs = null;
-            }
-
-
-            Strength = PickAbility(random, ref mins, ref maxs, "Force");
-            Dexterity = PickAbility(random, ref mins, ref maxs, "Dextérité");
-            Constitution = PickAbility(random, ref mins, ref maxs, "Constitution");
-            Intelligence = PickAbility(random, ref mins, ref maxs, "Intelligence");
-            Wisdom = PickAbility(random, ref mins, ref maxs, "Sagesse");
-            Charisma = PickAbility(random, ref mins, ref maxs, "Charisme");
-            //Strength = random.Next(6) + random.Next(6) + random.Next(6) + 3;
-            //Dexterity = random.Next(6) + random.Next(6) + random.Next(6) + 3;
-            //Constitution = random.Next(6) + random.Next(6) + random.Next(6) + 3;
-            //Intelligence = random.Next(6) + random.Next(6) + random.Next(6) + 3;
-            //Wisdom = random.Next(6) + random.Next(6) + random.Next(6) + 3;
-            //Charisma = random.Next(6) + random.Next(6) + random.Next(6) + 3;
-            //if(SelectedPlayerCharacter.Class?.Proficiencies?.SavingThrows?.Contains("Force") == true)
-            //{
-            //    Strength = 18;
-            //}
         }
 
         private int PickAbility(Random random, ref List<int> mins, ref List<int> maxs, string name)
