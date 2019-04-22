@@ -897,6 +897,43 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             await OpenPdfAsync();
         }
 
+        public BaseFont findFontInForm(PdfReader reader, PdfName fontname)
+        {
+
+            PdfDictionary root = reader.Catalog;
+
+            PdfDictionary acroform = root.GetAsDict(PdfName.ACROFORM);
+
+            if (acroform == null) return null;
+
+            PdfDictionary dr = acroform.GetAsDict(PdfName.DR);
+
+            if (dr == null) return null;
+
+            PdfDictionary font = dr.GetAsDict(PdfName.FONT);
+
+            if (font == null) return null;
+
+            foreach (PdfName key in font.Keys)
+            {
+
+                if (key.Equals(fontname))
+                {
+
+                    return BaseFont.CreateFont((PRIndirectReference)font.GetAsIndirectObject(key));
+
+                }
+
+            }
+
+            return null;
+
+        }
+
+
+
+
+
         async Task GeneratePdfAsync()
         {
             //PdfDocument pdfDoc = new PdfDocument(new PdfReader(SRC), new PdfWriter(dest));
@@ -920,7 +957,9 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
             PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
 
-
+            //var fonts = BaseFont.GetDocumentFonts(reader);
+            //var font = BaseFont.CreateFont("TMULFZ+MinionPro-It", BaseFont.WINANSI, BaseFont.EMBEDDED);
+            var font = findFontInForm(reader, new PdfName("MinionPro-It"));
 
 
             // read the file
@@ -928,7 +967,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             PdfStamper stamper = new PdfStamper(reader, stream);
             PdfContentByte content = stamper.GetOverContent(1);
             // add text
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin"), 40, 700, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin", new iTextSharp.text.Font(font) ), 40, 700, 0);
 
             ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Strength.ToString()), 40, 620, 0);
             ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Dexterity.ToString()), 40, 545, 0);
