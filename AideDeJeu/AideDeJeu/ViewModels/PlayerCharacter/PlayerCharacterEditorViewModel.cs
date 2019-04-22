@@ -885,13 +885,40 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //pdfDoc.close();
 
 
-            Document document = new Document();
+            //PdfDocument pdfDoc = new PdfDocument(new PdfWriter());
+
+            PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
+
+            Document document = new Document(PageSize.LETTER);
             var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
-            PdfWriter.GetInstance(document, stream);
+            var writer = PdfWriter.GetInstance(document, stream);
+            
             
             document.Open();
-            document.Add(new iTextSharp.text.Jpeg(new Uri("https://www.w3.org/MarkUp/Test/xhtml-print/20050519/tests/jpeg444.jpg")));
-            document.Add(new Paragraph("Hello World!"));
+            PdfImportedPage page = writer.GetImportedPage(reader, 1);
+            document.NewPage();
+            PdfContentByte cb = writer.DirectContent;
+            cb.AddTemplate(page, 0, 0);
+            //document.Add(new Paragraph(0, "Hello World!"));
+
+            //document.Add(new iTextSharp.text.Jpeg(new Uri("https://www.w3.org/MarkUp/Test/xhtml-print/20050519/tests/jpeg444.jpg")));
+
+            
+            //document.Add(new Paragraph(1, "Hello World!"));
+            PdfContentByte canvas = writer.DirectContentUnder;
+
+            //var imageStream = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.feuille_de_perso_1.jpg");
+            //iTextSharp.text.Image image = iTextSharp.text.Image.GetInstance("https://www.w3.org/MarkUp/Test/xhtml-print/20050519/tests/jpeg444.jpg");
+            //iTextSharp.text.Image image = iTextSharp.text.Image.GetInstance(imageStream);
+
+            //image.ScaleAbsolute(document.PageSize.Width / 2, document.PageSize.Height / 2);// PageSize.LETTER);
+
+            //image.SetAbsolutePosition(0, 0);
+            
+            //canvas.AddImage(image);
+
+            ColumnText.ShowTextAligned(canvas, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin"), 40, document.PageSize.Height - 100, 0);
+            
             document.Close();
 
             //DependencyService.Get<INativeAPI>().OpenFileByName("test.pdf");

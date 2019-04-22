@@ -60,6 +60,11 @@ namespace AideDeJeu.Tools
                 return null;
             }
         }
+        public static Stream GetResourceStream(string resourceName)
+        {
+            var assembly = typeof(Helpers).GetTypeInfo().Assembly;
+            return assembly.GetManifestResourceStream(resourceName);
+        }
 
         public static async Task<string> GetStringFromUrl(string url)
         {
