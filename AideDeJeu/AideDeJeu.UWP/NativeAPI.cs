@@ -89,5 +89,24 @@ namespace AideDeJeu.UWP
             return newVersion > oldVersion;
         }
 
+        public async Task SaveStreamAsync(string filename, Stream stream)
+        {
+            using (var outStream = CreateStream(filename))
+            {
+                await stream.CopyToAsync(outStream);
+            }
+        }
+        public Stream CreateStream(string filename)
+        {
+            var documentsDirectoryPath = Windows.Storage.ApplicationData.Current.LocalCacheFolder.Path;
+            var filepath = Path.Combine(documentsDirectoryPath, filename);
+            return new FileStream(filepath, FileMode.Create);
+        }
+
+        //public void OpenFileExternal(string filename)
+        //{
+
+        //}
+
     }
 }

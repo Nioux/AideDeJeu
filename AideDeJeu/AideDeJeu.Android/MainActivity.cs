@@ -19,6 +19,10 @@ namespace AideDeJeu.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(bundle);
+            Xamarin.Essentials.Platform.Init(this, bundle);
+            Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
+            //StrictMode.VmPolicy.Builder builder = new StrictMode.VmPolicy.Builder();
+            //StrictMode.SetVmPolicy(builder.Build());
 
             Rg.Plugins.Popup.Popup.Init(this, bundle);
 
@@ -42,6 +46,13 @@ namespace AideDeJeu.Droid
             {
                 // Do something if there are not any pages in the `PopupStack`
             }
+        }
+
+        public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
+        {
+            Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
+
+            base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
     }
 }

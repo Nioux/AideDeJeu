@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,5 +11,8 @@ namespace AideDeJeu.Tools
         string GetVersion();
         int GetBuild();
         Task<string> GetDatabasePathAsync(string databaseName);
+        Task SaveStreamAsync(string filename, Stream stream);
+        Stream CreateStream(string filename);
+        //void OpenFileByName(string fileName);
     }
 }

@@ -1,10 +1,13 @@
 ﻿using AideDeJeu.Tools;
 using AideDeJeuLib;
+using iTextSharp.text;
+using iTextSharp.text.pdf;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.Specialized;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -861,11 +864,50 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         {
             get
             {
-                return new Command(ExecuteRollDicesCommand);
+                return new Command(async() => await ExecuteRollDicesCommandAsync());
             }
         }
-        private void ExecuteRollDicesCommand()
+        private async Task ExecuteRollDicesCommandAsync()
         {
+            //PdfDocument pdfDoc = new PdfDocument(new PdfReader(SRC), new PdfWriter(dest));
+            //PdfDocument srcDoc;
+            //PdfFormXObject page;
+            //PdfCanvas canvas = new PdfCanvas(pdfDoc..FirstPage.newContentStreamBefore(),
+            //        pdfDoc.getFirstPage().getResources(), pdfDoc);
+
+            //for (String path : EXTRA)
+            //{
+            //    srcDoc = new PdfDocument(new PdfReader(path));
+            //    page = srcDoc.getFirstPage().copyAsFormXObject(pdfDoc);
+            //    canvas.addXObject(page, 0, 0);
+            //    srcDoc.close();
+            //}
+            //pdfDoc.close();
+
+
+            Document document = new Document();
+            var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
+            PdfWriter.GetInstance(document, stream);
+            
+            document.Open();
+            document.Add(new iTextSharp.text.Jpeg(new Uri("https://www.w3.org/MarkUp/Test/xhtml-print/20050519/tests/jpeg444.jpg")));
+            document.Add(new Paragraph("Hello World!"));
+            document.Close();
+
+            //DependencyService.Get<INativeAPI>().OpenFileByName("test.pdf");
+
+            //var file = Path.Combine(FileSystem.CacheDirectory, fn);
+            //File.WriteAllText(file, "Hello World");
+            var testfile = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf");
+            var shareFile = new Xamarin.Essentials.ShareFile(testfile);
+            //var truc = Platform.GetShareableFileUri(request.File.FullPath);
+            //await Xamarin.Essentials.Browser.OpenAsync(testfile);
+            await Xamarin.Essentials.Share.RequestAsync(new Xamarin.Essentials.ShareFileRequest()
+            {
+                Title = "ou yeah",
+                File = shareFile
+            });
+
             var random = new Random(DateTime.Now.Millisecond);
             var values = RollMRick(random);
             values.Sort();

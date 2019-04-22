@@ -205,6 +205,9 @@
     <Reference Include="webkit-sharp, Version=1.1.15.0, Culture=neutral, PublicKeyToken=eaa1d335d2e19745, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.Platform.GTK.4.0.0.346134-pre9\lib\net45\webkit-sharp.dll</HintPath>
     </Reference>
+    <Reference Include="Xamarin.Essentials, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Essentials.1.1.0\lib\netstandard2.0\Xamarin.Essentials.dll</HintPath>
+    </Reference>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.4.0.0.346134-pre9\lib\netstandard2.0\Xamarin.Forms.Core.dll</HintPath>
     </Reference>
@@ -216,6 +219,9 @@
     </Reference>
     <Reference Include="Xamarin.Forms.Xaml, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.4.0.0.346134-pre9\lib\netstandard2.0\Xamarin.Forms.Xaml.dll</HintPath>
+    </Reference>
+    <Reference Include="XamiTextSharpLGPLv2, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\XamiTextSharpLGPLv2.1.0.0\lib\netstandard2.0\XamiTextSharpLGPLv2.dll</HintPath>
     </Reference>
     <Reference Include="YamlDotNet, Version=6.0.0.0, Culture=neutral, PublicKeyToken=ec19458f3c15af5e, processorArchitecture=MSIL">
       <HintPath>..\..\packages\YamlDotNet.6.0.0\lib\net45\YamlDotNet.dll</HintPath>

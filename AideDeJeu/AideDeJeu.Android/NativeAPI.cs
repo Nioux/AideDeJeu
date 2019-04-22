@@ -1,4 +1,5 @@
 ﻿using AideDeJeu.Tools;
+using Android.Content;
 using Android.Content.PM;
 using System.IO;
 using System.Threading.Tasks;
@@ -92,5 +93,107 @@ namespace AideDeJeu.Droid
             }
             return newVersion > oldVersion;
         }
+
+        public async Task SaveStreamAsync(string filename, Stream stream)
+        {
+            using (var outStream = CreateStream(filename))
+            {
+                await stream.CopyToAsync(outStream);
+            }
+        }
+
+        public Stream CreateStream(string filename)
+        {
+            var documentsDirectoryPath = Android.App.Application.Context.CacheDir.AbsolutePath;
+            var filepath = Path.Combine(documentsDirectoryPath, filename);
+            return new FileStream(filepath, FileMode.Create);
+        }
+
+
+        //public void OpenFileByName(string fileName)
+        //{
+        //    //try
+        //    //{
+        //    var documentsPath = Android.App.Application.Context.CacheDir.AbsolutePath; ;// System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+        //        var filePath = Path.Combine(documentsPath, fileName);
+
+        //        var bytes = File.ReadAllBytes(filePath);
+
+        //        //Copy the private file's data to the EXTERNAL PUBLIC location
+        //        string externalStorageState = global::Android.OS.Environment.ExternalStorageState;
+        //        var externalPath = global::Android.OS.Environment.ExternalStorageDirectory.Path + "/" + global::Android.OS.Environment.DirectoryDownloads + "/" + fileName;
+        //        File.WriteAllBytes(externalPath, bytes);
+
+        //        Java.IO.File file = new Java.IO.File(externalPath);
+        //        file.SetReadable(true);
+
+        //        string application = "";
+        //        string extension = Path.GetExtension(filePath);
+
+        //        // get mimeTye
+        //        switch (extension.ToLower())
+        //        {
+        //            case ".txt":
+        //                application = "text/plain";
+        //                break;
+        //            case ".doc":
+        //            case ".docx":
+        //                application = "application/msword";
+        //                break;
+        //            case ".pdf":
+        //                application = "application/pdf";
+        //                break;
+        //            case ".xls":
+        //            case ".xlsx":
+        //                application = "application/vnd.ms-excel";
+        //                break;
+        //            case ".jpg":
+        //            case ".jpeg":
+        //            case ".png":
+        //                application = "image/jpeg";
+        //                break;
+        //            default:
+        //                application = "*/*";
+        //                break;
+        //        }
+
+        //        //Android.Net.Uri uri = Android.Net.Uri.Parse("file://" + filePath);
+        //        Android.Net.Uri uri = Android.Net.Uri.FromFile(file);
+        //        Intent intent = new Intent(Intent.ActionView);
+        //        intent.SetDataAndType(uri, application);
+        //        intent.SetFlags(ActivityFlags.ClearWhenTaskReset | ActivityFlags.NewTask);
+
+        //        Xamarin.Forms.Forms.Context.StartActivity(intent);
+
+
+        //    //}
+        //    //catch (Exception ex)
+        //    //{
+        //    //    Console.WriteLine(ex.Message);
+        //    //}
+        //}
+
+        //static Task PlatformRequestAsync(Xamarin.Essentials.ShareFileRequest request)
+        //{
+        //    var contentUri = Platform.GetShareableFileUri(request.File.FullPath);
+
+        //    var intent = new Intent(Intent.ActionSend);
+        //    intent.SetType(request.File.ContentType);
+        //    intent.SetFlags(ActivityFlags.GrantReadUriPermission);
+        //    intent.PutExtra(Intent.ExtraStream, contentUri);
+
+        //    if (!string.IsNullOrEmpty(request.Title))
+        //    {
+        //        intent.PutExtra(Intent.ExtraTitle, request.Title);
+        //    }
+
+        //    var chooserIntent = Intent.CreateChooser(intent, request.Title ?? string.Empty);
+        //    chooserIntent.SetFlags(ActivityFlags.ClearTop);
+        //    chooserIntent.SetFlags(ActivityFlags.NewTask);
+        //    Platform.AppContext.StartActivity(chooserIntent);
+
+        //    return Task.CompletedTask;
+        //}
+
     }
 }
