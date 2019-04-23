@@ -7,6 +7,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.Specialized;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -106,7 +107,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SetProperty(ref _SelectedAlignment, value);
                 //if (0 <= _AlignmentSelectedIndex && _AlignmentSelectedIndex < Alignments.Result.Count)
                 //{
-                    SelectedPlayerCharacter.Alignment = SelectedAlignment;
+                SelectedPlayerCharacter.Alignment = SelectedAlignment;
                 //}
             }
         }
@@ -160,12 +161,12 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 var expandedRaces = new List<RaceViewModel>();
                 var races = context.Races.Where(r => r.GetType() == typeof(RaceItem));
-                foreach(var race in races)
+                foreach (var race in races)
                 {
-                    if(race.HasSubRaces)
+                    if (race.HasSubRaces)
                     {
                         var subraces = context.SubRaces.Where(sr => sr.ParentLink == race.Id);
-                        foreach(var subrace in subraces)
+                        foreach (var subrace in subraces)
                         {
                             expandedRaces.Add(new RaceViewModel() { Race = race, SubRace = subrace });
                         }
@@ -864,7 +865,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         {
             get
             {
-                return new Command(async() => await ExecuteRollDicesCommandAsync());
+                return new Command(async () => await ExecuteRollDicesCommandAsync());
             }
         }
         private async Task ExecuteRollDicesCommandAsync()
@@ -931,7 +932,107 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         }
 
 
+        public PRIndirectReference findNamedFont(PdfReader myReader, String desiredFontName)
+        {
+            int objNum = 0;
+            PdfObject curObj;
+            do
+            {
+                //The "Release" version doesn't keep a reference 
+                //to the object so it can be GC'd later.  Quite Handy 
+                //when dealing with Really Big PDFs.
+                curObj = myReader.GetPdfObjectRelease(objNum++);
+                if (curObj is PRStream)
+                {
+                    PRStream stream = (PRStream)curObj;
+                    PdfName type = stream.GetAsName(PdfName.TYPE);
+                    if (PdfName.FONT.Equals(type))
+                    {
+                        PdfString fontName = stream.GetAsString(PdfName.BASEFONT);
+                        if (desiredFontName.Equals(fontName.ToString()))
+                        {
+                            return curObj.IndRef;
+                        }
+                    }
+                }
+            } while (curObj != null);
+            return null;
+        }
 
+        public PRIndirectReference findFontInPage(PdfReader reader, String desiredName, int i)
+        {
+
+            PdfDictionary page = reader.GetPageN(i);
+            return findFontInResources(page.GetAsDict(PdfName.RESOURCES), desiredName);
+        }
+
+        public PRIndirectReference findFontInResources(PdfDictionary resources, String desiredName)
+        {
+            if (resources != null)
+            {
+                foreach(DictionaryEntry res in resources)
+                {
+                    Debug.WriteLine(res.Key);
+                }
+                PdfDictionary fonts = resources.GetAsDict(PdfName.BASEFONT);
+                if (fonts != null)
+                {
+                    foreach (DictionaryEntry ccurFont in fonts)
+                    {
+                        PdfName curFontName = ccurFont.Key as PdfName;
+                        Debug.WriteLine($"curFontName.IsArray = {curFontName.IsArray()}");
+                        Debug.WriteLine($"curFontName.IsBoolean = {curFontName.IsBoolean()}");
+                        Debug.WriteLine($"curFontName.IsDictionary = {curFontName.IsDictionary()}");
+                        Debug.WriteLine($"curFontName.IsIndirect = {curFontName.IsIndirect()}");
+                        Debug.WriteLine($"curFontName.IsName = {curFontName.IsName()}");
+                        Debug.WriteLine($"curFontName.IsNull = {curFontName.IsNull()}");
+                        Debug.WriteLine($"curFontName.IsNumber = {curFontName.IsNumber()}");
+                        Debug.WriteLine($"curFontName.IsStream = {curFontName.IsStream()}");
+                        Debug.WriteLine($"curFontName.IsString = {curFontName.IsString()}");
+                        PRStream curFont = (PRStream)fonts.GetAsStream(curFontName);
+                        if (curFont != null)
+                        {
+                            if (desiredName.Equals(curFont.GetAsString(PdfName.BASEFONT).ToString()))
+                            {
+                                return (PRIndirectReference)curFont.IndRef;
+                            }
+                        }
+                    }
+                }
+                PdfDictionary xobjs = resources.GetAsDict(PdfName.XOBJECT);
+                if (xobjs != null)
+                {
+                    foreach (DictionaryEntry ccurXObj in xobjs)
+                    {
+                        PdfName curXObjName = ccurXObj.Key as PdfName;
+                        var curXObjVal = ccurXObj.Value as PRIndirectReference;
+                        Debug.WriteLine($"curXObjVal.IsArray = {curXObjVal.IsArray()}");
+                        Debug.WriteLine($"curXObjVal.IsBoolean = {curXObjVal.IsBoolean()}");
+                        Debug.WriteLine($"curXObjVal.IsDictionary = {curXObjVal.IsDictionary()}");
+                        Debug.WriteLine($"curXObjVal.IsIndirect = {curXObjVal.IsIndirect()}");
+                        Debug.WriteLine($"curXObjVal.IsName = {curXObjVal.IsName()}");
+                        Debug.WriteLine($"curXObjVal.IsNull = {curXObjVal.IsNull()}");
+                        Debug.WriteLine($"curXObjVal.IsNumber = {curXObjVal.IsNumber()}");
+                        Debug.WriteLine($"curXObjVal.IsStream = {curXObjVal.IsStream()}");
+                        Debug.WriteLine($"curXObjVal.IsString = {curXObjVal.IsString()}");
+                        
+
+                        PRStream curXObj = (PRStream)xobjs.GetAsStream(curXObjName);
+                        var name = curXObj.GetAsName(PdfName.SUBTYPE);
+                        if (curXObj != null && PdfName.FORM.Equals(name))
+                        {
+                            PdfDictionary resources2 = curXObj.GetAsDict(PdfName.RESOURCES);
+                            PRIndirectReference reff = findFontInResources(resources2, desiredName);
+                            if (reff != null)
+                            {
+                                return reff;
+                            }
+                        }
+                    }
+                }
+            }
+            return null;
+        }
 
 
         async Task GeneratePdfAsync()
@@ -953,28 +1054,46 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
 
             //PdfDocument pdfDoc = new PdfDocument(new PdfWriter());
-            var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
+            //var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
+            var stream = new FileStream(Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf"), FileMode.Create, FileAccess.ReadWrite);
 
             PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
 
+            //var truc = findFontInPage(reader, "MinionPro-It", 1);
             //var fonts = BaseFont.GetDocumentFonts(reader);
             //var font = BaseFont.CreateFont("TMULFZ+MinionPro-It", BaseFont.WINANSI, BaseFont.EMBEDDED);
-            var font = findFontInForm(reader, new PdfName("MinionPro-It"));
+            //var font = findFontInForm(reader, new PdfName("MinionPro-It"));
+            var font = BaseFont.CreateFont(BaseFont.HELVETICA_BOLD, BaseFont.WINANSI, BaseFont.EMBEDDED);
+            //var font = BaseFont.CreateFont(PRIndirectReference.());
+            //var font = findNamedFont(reader, "");
 
+            var bigFont = new iTextSharp.text.Font(font, 20);
 
             // read the file
             //PdfReader fondo = new PdfReader("listaPrecios.pdf");
             PdfStamper stamper = new PdfStamper(reader, stream);
             PdfContentByte content = stamper.GetOverContent(1);
             // add text
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin", new iTextSharp.text.Font(font) ), 40, 700, 0);
+            content.SetRGBColorFill(255, 0, 0);
+            content.Rectangle(20, 685, 200, 35);
+            content.Stroke();
+            var ct = new ColumnText(content);
+            ct.SetSimpleColumn(20, 685, 200, 35);
+            //ct.Canvas.SetRGBColorFill(255, 0, 0);
+            //ct.Canvas.
+            //ct.Canvas.Rectangle(0, 0, 200f, 600f);
+            ct.AddElement(new Paragraph(new Phrase(20, "Hello World!", bigFont)));
+            ct.Go();
 
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Strength.ToString()), 40, 620, 0);
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Dexterity.ToString()), 40, 545, 0);
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Constitution.ToString()), 40, 470, 0);
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Intelligence.ToString()), 40, 395, 0);
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Wisdom.ToString()), 40, 320, 0);
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Charisma.ToString()), 40, 245, 0);
+
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin", bigFont), 40, 700, 0);
+
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Strength.ToString(), bigFont), 40, 620, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Dexterity.ToString(), bigFont), 40, 545, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Constitution.ToString(), bigFont), 40, 470, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Intelligence.ToString(), bigFont), 40, 395, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Wisdom.ToString(), bigFont), 40, 320, 0);
+            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Charisma.ToString(), bigFont), 40, 245, 0);
 
             //ColumnText ct = new ColumnText(content);
             //// this are the coordinates where you want to add text
@@ -983,6 +1102,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //ct.SetText(new Phrase("Galefrin"));
             //ct.Go();
             stamper.Close();
+            reader.Close();
 
             /*
 
@@ -1021,7 +1141,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
         }
         async Task OpenPdfAsync()
-        { 
+        {
             //DependencyService.Get<INativeAPI>().OpenFileByName("test.pdf");
 
             //var file = Path.Combine(FileSystem.CacheDirectory, fn);
