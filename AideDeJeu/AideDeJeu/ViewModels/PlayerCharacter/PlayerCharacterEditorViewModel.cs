@@ -1034,6 +1034,59 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             return null;
         }
 
+        public static HashSet<String> listFonts(PdfReader reader)
+        {
+            HashSet<String> set = new HashSet<String>();
+            //PdfReader reader = new PdfReader(src);
+            PdfDictionary resources;
+            for (int k = 1; k <= reader.NumberOfPages; ++k)
+            {
+                resources = reader.GetPageN(k).GetAsDict(PdfName.RESOURCES);
+                processResource(set, resources);
+            }
+            return set;
+            }
+
+        public static void processResource(HashSet<String> set, PdfDictionary resource)
+        {
+            if (resource == null)
+                return;
+            PdfDictionary xobjects = resource.GetAsDict(PdfName.XOBJECT);
+            if (xobjects != null)
+            {
+                foreach (PdfName key in xobjects.Keys)
+                {
+                    processResource(set, xobjects.GetAsDict(key));
+                }
+            }
+            PdfDictionary fonts = resource.GetAsDict(PdfName.FONT);
+            if (fonts == null)
+                return;
+            PdfDictionary font;
+            foreach (PdfName key in fonts.Keys)
+            {
+                font = fonts.GetAsDict(key);
+                String name = font.GetAsName(PdfName.BASEFONT).ToString();
+                if (name.Length > 8 && name[7] == '+')
+                {
+                    name = String.Format("{0} subset ({1})", name.Substring(8), name.Substring(1, 7));
+                }
+                else
+                {
+                    name = name.Substring(1);
+                    PdfDictionary desc = font.GetAsDict(PdfName.FONTDESCRIPTOR);
+                    if (desc == null)
+                        name += " nofontdescriptor";
+                    else if (desc.Get(PdfName.FONTFILE) != null)
+                        name += " (Type 1) embedded";
+                    else if (desc.Get(PdfName.FONTFILE2) != null)
+                        name += " (TrueType) embedded";
+                    else if (desc.Get(PdfName.FONTFILE3) != null)
+                        name += " (" + font.GetAsName(PdfName.SUBTYPE).ToString().Substring(1) + ") embedded";
+                }
+                set.Add(name);
+            }
+        }
 
         async Task GeneratePdfAsync()
         {
@@ -1059,6 +1112,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
             PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
 
+            var set = listFonts(reader);
             //var truc = findFontInPage(reader, "MinionPro-It", 1);
             //var fonts = BaseFont.GetDocumentFonts(reader);
             //var font = BaseFont.CreateFont("TMULFZ+MinionPro-It", BaseFont.WINANSI, BaseFont.EMBEDDED);
@@ -1072,19 +1126,21 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             // read the file
             //PdfReader fondo = new PdfReader("listaPrecios.pdf");
             PdfStamper stamper = new PdfStamper(reader, stream);
+            var ct = new ColumnText(stamper.GetOverContent(1));
+            ct.SetSimpleColumn(20, 685, 200, 35);
+            //ct.Canvas.SetRGBColorFill(255, 0, 0);
+            //ct.Canvas.
+            //ct.Canvas.Rectangle(0, 0, 200f, 600f);
+            var p = new Paragraph(new Phrase(20, "Hello World! gfdgfd gfdgfd gfdgfdg gfdgdg zrerezr ezrzerez rezrezrze zrezrez zrezrez ffdfdsz rezrzerez  fsffsdfs", bigFont));
+            p.Alignment = iTextSharp.text.Element.ALIGN_CENTER;
+            ct.AddElement(p);
+            ct.Go();
+
             PdfContentByte content = stamper.GetOverContent(1);
             // add text
             content.SetRGBColorFill(255, 0, 0);
             content.Rectangle(20, 685, 200, 35);
             content.Stroke();
-            var ct = new ColumnText(content);
-            ct.SetSimpleColumn(20, 685, 200, 35);
-            //ct.Canvas.SetRGBColorFill(255, 0, 0);
-            //ct.Canvas.
-            //ct.Canvas.Rectangle(0, 0, 200f, 600f);
-            ct.AddElement(new Paragraph(new Phrase(20, "Hello World!", bigFont)));
-            ct.Go();
-
 
             ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin", bigFont), 40, 700, 0);
 
