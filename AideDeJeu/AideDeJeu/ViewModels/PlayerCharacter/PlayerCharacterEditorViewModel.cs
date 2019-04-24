@@ -1140,30 +1140,42 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             // read the file
             //PdfReader fondo = new PdfReader("listaPrecios.pdf");
             PdfStamper stamper = new PdfStamper(reader, stream);
-            var ct = new ColumnText(stamper.GetOverContent(1));
-            ct.SetSimpleColumn(20, 685, 200, 35);
-            //ct.Canvas.SetRGBColorFill(255, 0, 0);
-            //ct.Canvas.
-            //ct.Canvas.Rectangle(0, 0, 200f, 600f);
-            var p = new Paragraph(new Phrase(20, "Hello World! gfdgfd gfdgfd gfdgfdg gfdgdg zrerezr ezrzerez rezrezrze zrezrez zrezrez ffdfdsz rezrzerez  fsffsdfs", bigFont));
-            p.Alignment = iTextSharp.text.Element.ALIGN_CENTER;
-            ct.AddElement(p);
+
+            PdfContentByte cb = stamper.GetOverContent(1);
+            cb.SetRGBColorFill(255, 0, 0);
+            cb.Rectangle(reader.GetPageSize(1).Width - 90f, 830f, 50f, 50f);
+            cb.Stroke();
+            iTextSharp.text.Rectangle rect = new iTextSharp.text.Rectangle(
+                reader.GetPageSize(1).Width - 90f, 730f,
+                reader.GetPageSize(1).Width - 40f, 780f);
+            ColumnText ct = new ColumnText(cb);
+            ct.SetSimpleColumn(rect.Left, rect.Bottom, rect.Right, rect.Top);
+            ct.AddElement(new Paragraph("This is the text added in the rectangle"));
             ct.Go();
+            //var ct = new ColumnText(stamper.GetOverContent(1));
+            //ct.SetSimpleColumn(20, 685, 200, 35);
+            ////ct.Canvas.SetRGBColorFill(255, 0, 0);
+            ////ct.Canvas.
+            ////ct.Canvas.Rectangle(0, 0, 200f, 600f);
+            //var p = new Paragraph(new Phrase(20, "Hello World! gfdgfd gfdgfd gfdgfdg gfdgdg zrerezr ezrzerez rezrezrze zrezrez zrezrez ffdfdsz rezrzerez  fsffsdfs", bigFont));
+            //p.Alignment = iTextSharp.text.Element.ALIGN_CENTER;
+            //ct.AddElement(p);
+            //ct.Go();
 
-            PdfContentByte content = stamper.GetOverContent(1);
-            // add text
-            content.SetRGBColorFill(255, 0, 0);
-            content.Rectangle(20, 685, 200, 35);
-            content.Stroke();
+            //PdfContentByte content = stamper.GetOverContent(1);
+            //// add text
+            //content.SetRGBColorFill(255, 0, 0);
+            //content.Rectangle(20, 685, 200, 35);
+            //content.Stroke();
 
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin", bigFont), 40, 700, 0);
+            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin", bigFont), 40, 700, 0);
 
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Strength.ToString(), bigFont), 40, 620, 0);
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Dexterity.ToString(), bigFont), 40, 545, 0);
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Constitution.ToString(), bigFont), 40, 470, 0);
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Intelligence.ToString(), bigFont), 40, 395, 0);
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Wisdom.ToString(), bigFont), 40, 320, 0);
-            ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Charisma.ToString(), bigFont), 40, 245, 0);
+            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Strength.ToString(), bigFont), 40, 620, 0);
+            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Dexterity.ToString(), bigFont), 40, 545, 0);
+            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Constitution.ToString(), bigFont), 40, 470, 0);
+            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Intelligence.ToString(), bigFont), 40, 395, 0);
+            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Wisdom.ToString(), bigFont), 40, 320, 0);
+            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Charisma.ToString(), bigFont), 40, 245, 0);
 
             //ColumnText ct = new ColumnText(content);
             //// this are the coordinates where you want to add text
