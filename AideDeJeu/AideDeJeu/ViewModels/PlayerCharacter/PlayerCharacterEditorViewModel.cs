@@ -1090,6 +1090,17 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
         }
 
+        void DrawText(PdfContentByte cb, string text, iTextSharp.text.Font font, float x, float y, float width, float height)
+        {
+            cb.SetRGBColorFill(255, 0, 0);
+            cb.Rectangle(x, y, width, height);
+            cb.Stroke();
+            ColumnText ct = new ColumnText(cb);
+            ct.SetSimpleColumn(x, y , x + width, y + height);
+            ct.AddElement(new Paragraph(text, font));
+            ct.Go();
+
+        }
         async Task GeneratePdfAsync()
         {
             //PdfDocument pdfDoc = new PdfDocument(new PdfReader(SRC), new PdfWriter(dest));
@@ -1142,16 +1153,20 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             PdfStamper stamper = new PdfStamper(reader, stream);
 
             PdfContentByte cb = stamper.GetOverContent(1);
-            cb.SetRGBColorFill(255, 0, 0);
-            cb.Rectangle(reader.GetPageSize(1).Width - 90f, 830f, 50f, 50f);
-            cb.Stroke();
-            iTextSharp.text.Rectangle rect = new iTextSharp.text.Rectangle(
-                reader.GetPageSize(1).Width - 90f, 730f,
-                reader.GetPageSize(1).Width - 40f, 780f);
-            ColumnText ct = new ColumnText(cb);
-            ct.SetSimpleColumn(rect.Left, rect.Bottom, rect.Right, rect.Top);
-            ct.AddElement(new Paragraph("This is the text added in the rectangle"));
-            ct.Go();
+            //cb.SetRGBColorFill(255, 0, 0);
+            //cb.Rectangle(reader.GetPageSize(1).Width - 90f, 730f, 50f, 50f);
+            //cb.Stroke();
+            //iTextSharp.text.Rectangle rect = new iTextSharp.text.Rectangle(
+            //    reader.GetPageSize(1).Width - 90f, 730f,
+            //    reader.GetPageSize(1).Width - 40f, 780f);
+            //ColumnText ct = new ColumnText(cb);
+            //ct.SetSimpleColumn(rect.Left, rect.Bottom, rect.Right, rect.Top);
+            //ct.AddElement(new Paragraph("This is the text added in the rectangle"));
+            //ct.Go();
+
+            DrawText(cb, "This is the text added in the rectangle", bigFont, 100f, 730f, 50f, 50f);
+            DrawText(cb, "This is the text added in the rectangle", bigFont, 0f, 0f, 50f, 50f);
+
             //var ct = new ColumnText(stamper.GetOverContent(1));
             //ct.SetSimpleColumn(20, 685, 200, 35);
             ////ct.Canvas.SetRGBColorFill(255, 0, 0);
