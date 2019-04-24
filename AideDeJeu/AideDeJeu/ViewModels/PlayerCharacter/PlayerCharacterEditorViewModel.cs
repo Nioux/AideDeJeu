@@ -1090,14 +1090,16 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
         }
 
-        void DrawText(PdfContentByte cb, string text, iTextSharp.text.Font font, float x, float y, float width, float height)
+        void DrawText(PdfContentByte cb, string text, iTextSharp.text.Font font, float x, float y, float width, float height, int alignment)
         {
-            cb.SetRGBColorFill(255, 0, 0);
+            cb.SetRGBColorFill(127, 127, 127);
             cb.Rectangle(x, y, width, height);
             cb.Stroke();
             ColumnText ct = new ColumnText(cb);
             ct.SetSimpleColumn(x, y , x + width, y + height);
-            ct.AddElement(new Paragraph(text, font));
+            var p = new Paragraph(text, font);
+            p.Alignment = alignment;
+            ct.AddElement(p);
             ct.Go();
 
         }
@@ -1139,14 +1141,16 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //var font = BaseFont.CreateFont("TMULFZ+MinionPro-It", BaseFont.WINANSI, BaseFont.EMBEDDED);
             //var font = findFontInForm(reader, new PdfName("MinionPro-It"));
             FontFactory.Register(fontPath, "mafont");
-            var mafont = FontFactory.GetFont("mafont", 20, iTextSharp.text.Font.BOLD);
+            var bigFont = FontFactory.GetFont("mafont", 20, iTextSharp.text.Font.BOLD);
+            var normalFont = FontFactory.GetFont("mafont", 12, iTextSharp.text.Font.NORMAL);
+            var smallFont = FontFactory.GetFont("mafont", 6, iTextSharp.text.Font.NORMAL);
             //System.Text.Encoding.RegisterProvider(new System.Text.EncodingProvider());
             //var font = BaseFont.CreateFont("mafont", BaseFont.WINANSI, BaseFont.EMBEDDED);
-            var font = mafont.BaseFont;
+            //var font = mafont.BaseFont;
             //var font = BaseFont.CreateFont(PRIndirectReference.());
             //var font = findNamedFont(reader, "");
 
-            var bigFont = mafont; // new iTextSharp.text.Font(font, 20);
+            //var bigFont = mafont; // new iTextSharp.text.Font(font, 20);
 
             // read the file
             //PdfReader fondo = new PdfReader("listaPrecios.pdf");
@@ -1164,9 +1168,21 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //ct.AddElement(new Paragraph("This is the text added in the rectangle"));
             //ct.Go();
 
-            DrawText(cb, "This is the text added in the rectangle", bigFont, 100f, 730f, 50f, 50f);
-            DrawText(cb, "This is the text added in the rectangle", bigFont, 0f, 0f, 50f, 50f);
+            //DrawText(cb, "This is the text added in the rectangle", bigFont, 100f, 730f, 50f, 50f);
+            //DrawText(cb, "This is the text added in the rectangle", bigFont, 0f, 0f, 50f, 50f);
+            DrawText(cb, "Galefrin", bigFont, 30f, 680f, 200f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
 
+            float ecart = 2.5f;
+            DrawText(cb, Strength.ToString(), bigFont, 30f, 605f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            DrawText(cb, Dexterity.ToString(), bigFont, 30f, 530f - ecart, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            DrawText(cb, Constitution.ToString(), bigFont, 30f, 455f - ecart * 2f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            DrawText(cb, Intelligence.ToString(), bigFont, 30f, 380f - ecart * 3f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            DrawText(cb, Wisdom.ToString(), bigFont, 30f, 305f - ecart * 4f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            DrawText(cb, Charisma.ToString(), bigFont, 30f, 230f - ecart * 5f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+
+            DrawText(cb, SelectedPlayerCharacter?.Class?.Name ?? string.Empty, normalFont, 265f, 714f, 200f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
+            DrawText(cb, SelectedPlayerCharacter?.Race?.Name ?? string.Empty, normalFont, 265f, 680f, 100f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
+            DrawText(cb, SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty, smallFont, 380f, 680f, 80f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
             //var ct = new ColumnText(stamper.GetOverContent(1));
             //ct.SetSimpleColumn(20, 685, 200, 35);
             ////ct.Canvas.SetRGBColorFill(255, 0, 0);
