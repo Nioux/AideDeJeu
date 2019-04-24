@@ -21,12 +21,48 @@
   <ItemGroup>
     <None Remove="OGL.txt" />
     <None Remove="Pdf\178_hd_01_feuille_de_perso_v1.pdf" />
+    <None Remove="Pdf\AlverataIrregularPEMedium.ttf" />
+    <None Remove="Pdf\LinLibertine_aBL.ttf" />
+    <None Remove="Pdf\LinLibertine_aBS.ttf" />
+    <None Remove="Pdf\LinLibertine_aDRS.ttf" />
+    <None Remove="Pdf\LinLibertine_aRL.ttf" />
+    <None Remove="Pdf\LinLibertine_aS.ttf" />
+    <None Remove="Pdf\LinLibertine_aSI.ttf" />
+    <None Remove="Pdf\LinLibertine_aSZI.ttf" />
+    <None Remove="Pdf\LinLibertine_aZL.ttf" />
+    <None Remove="Pdf\LinLibertine_DR.ttf" />
+    <None Remove="Pdf\LinLibertine_I.ttf" />
+    <None Remove="Pdf\LinLibertine_R.ttf" />
+    <None Remove="Pdf\LinLibertine_RB.ttf" />
+    <None Remove="Pdf\LinLibertine_RBI.ttf" />
+    <None Remove="Pdf\LinLibertine_RI.ttf" />
+    <None Remove="Pdf\LinLibertine_RZ.ttf" />
+    <None Remove="Pdf\LinLibertine_RZI.ttf" />
+    <None Remove="Pdf\MinionPro_It.ttf" />
     <None Remove="test.svg" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="OGL.txt" />
     <EmbeddedResource Include="Pdf\178_hd_01_feuille_de_perso_v1.pdf" />
+    <EmbeddedResource Include="Pdf\AlverataIrregularPEMedium.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_aBL.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_aBS.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_aDRS.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_aRL.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_aS.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_aSI.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_aSZI.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_aZL.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_DR.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_I.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_R.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_RB.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_RBI.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_RI.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_RZ.ttf" />
+    <EmbeddedResource Include="Pdf\LinLibertine_RZI.ttf" />
+    <EmbeddedResource Include="Pdf\MinionPro_It.ttf" />
     <EmbeddedResource Include="test.svg" />
   </ItemGroup>
 
@@ -38,6 +74,7 @@
     <PackageReference Include="SkiaSharp.Svg" Version="1.60.0" />
     <PackageReference Include="SkiaSharp.Views.Forms" Version="1.68.0" />
     <PackageReference Include="sqlite-net-pcl" Version="1.6.258-beta" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.5.1" />
     <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
     <PackageReference Include="Xamarin.Forms" Version="4.0.0.346134-pre9" />
     <PackageReference Include="Xamarin.Forms.Visual.Material" Version="4.0.0.346134-pre9" />

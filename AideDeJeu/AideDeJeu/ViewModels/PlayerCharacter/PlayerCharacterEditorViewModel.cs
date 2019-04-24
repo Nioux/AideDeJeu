@@ -1034,9 +1034,9 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             return null;
         }
 
-        public static HashSet<String> listFonts(PdfReader reader)
+        public static Dictionary<String, PRIndirectReference> listFonts(PdfReader reader)
         {
-            HashSet<String> set = new HashSet<String>();
+            Dictionary<String, PRIndirectReference> set = new Dictionary<String, PRIndirectReference>();
             //PdfReader reader = new PdfReader(src);
             PdfDictionary resources;
             for (int k = 1; k <= reader.NumberOfPages; ++k)
@@ -1047,7 +1047,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             return set;
             }
 
-        public static void processResource(HashSet<String> set, PdfDictionary resource)
+        public static void processResource(Dictionary<String, PRIndirectReference> set, PdfDictionary resource)
         {
             if (resource == null)
                 return;
@@ -1067,6 +1067,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 font = fonts.GetAsDict(key);
                 String name = font.GetAsName(PdfName.BASEFONT).ToString();
+                var flat = resource.Keys; //.GetAsDict(PdfName.FILTER);
+                var dic = font.GetAsStream(PdfName.BASEFONT);
                 if (name.Length > 8 && name[7] == '+')
                 {
                     name = String.Format("{0} subset ({1})", name.Substring(8), name.Substring(1, 7));
@@ -1084,7 +1086,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                     else if (desc.Get(PdfName.FONTFILE3) != null)
                         name += " (" + font.GetAsName(PdfName.SUBTYPE).ToString().Substring(1) + ") embedded";
                 }
-                set.Add(name);
+                set[name] = font.IndRef;
             }
         }
 
@@ -1105,19 +1107,31 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //}
             //pdfDoc.close();
 
-
+            System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
             //PdfDocument pdfDoc = new PdfDocument(new PdfWriter());
             //var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
             var stream = new FileStream(Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf"), FileMode.Create, FileAccess.ReadWrite);
 
             PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
 
-            var set = listFonts(reader);
+            var fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "LinLibertine_aS.ttf");
+            using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.LinLibertine_aS.ttf"))
+            {
+                using (var outFont = new FileStream(fontPath, FileMode.Create, FileAccess.ReadWrite))
+                {
+                    await inFont.CopyToAsync(outFont);
+                }
+            }
+            //var set = listFonts(reader);
             //var truc = findFontInPage(reader, "MinionPro-It", 1);
             //var fonts = BaseFont.GetDocumentFonts(reader);
             //var font = BaseFont.CreateFont("TMULFZ+MinionPro-It", BaseFont.WINANSI, BaseFont.EMBEDDED);
             //var font = findFontInForm(reader, new PdfName("MinionPro-It"));
-            var font = BaseFont.CreateFont(BaseFont.HELVETICA_BOLD, BaseFont.WINANSI, BaseFont.EMBEDDED);
+            FontFactory.Register(fontPath, "mafont");
+            var mafont = FontFactory.GetFont("mafont", 20, iTextSharp.text.Font.BOLD);
+            //System.Text.Encoding.RegisterProvider(new System.Text.EncodingProvider());
+            //var font = BaseFont.CreateFont("mafont", BaseFont.WINANSI, BaseFont.EMBEDDED);
+            var font = mafont.BaseFont;
             //var font = BaseFont.CreateFont(PRIndirectReference.());
             //var font = findNamedFont(reader, "");
 
