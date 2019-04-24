@@ -1114,8 +1114,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
             PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
 
-            var fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "LinLibertine_aS.ttf");
-            using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.LinLibertine_aS.ttf"))
+            var fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "LinLibertine_aBS.ttf");
+            using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.LinLibertine_aBS.ttf"))
             {
                 using (var outFont = new FileStream(fontPath, FileMode.Create, FileAccess.ReadWrite))
                 {
@@ -1135,7 +1135,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //var font = BaseFont.CreateFont(PRIndirectReference.());
             //var font = findNamedFont(reader, "");
 
-            var bigFont = new iTextSharp.text.Font(font, 20);
+            var bigFont = mafont; // new iTextSharp.text.Font(font, 20);
 
             // read the file
             //PdfReader fondo = new PdfReader("listaPrecios.pdf");
