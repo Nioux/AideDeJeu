@@ -1260,6 +1260,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //var file = Path.Combine(FileSystem.CacheDirectory, fn);
             //File.WriteAllText(file, "Hello World");
             var testfile = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf");
+            await DependencyService.Get<INativeAPI>().LaunchFileAsync("hophop", "coucou", testfile);
+            /*
             var shareFile = new Xamarin.Essentials.ShareFile(testfile);
             //var truc = Platform.GetShareableFileUri(request.File.FullPath);
             //await Xamarin.Essentials.Browser.OpenAsync(testfile);
@@ -1268,7 +1270,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 Title = "ou yeah",
                 File = shareFile
             });
-
+            */
         }
 
         private int PickAbility(Random random, ref List<int> mins, ref List<int> maxs, string name)

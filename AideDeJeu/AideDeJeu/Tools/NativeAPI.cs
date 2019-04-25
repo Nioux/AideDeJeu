@@ -14,5 +14,6 @@ namespace AideDeJeu.Tools
         Task SaveStreamAsync(string filename, Stream stream);
         Stream CreateStream(string filename);
         //void OpenFileByName(string fileName);
+        Task LaunchFileAsync(string title, string message, string filePath);
     }
 }
