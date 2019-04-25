@@ -1,8 +1,13 @@
 ﻿using AideDeJeu.Tools;
+using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 using System.Threading.Tasks;
 using Windows.ApplicationModel;
+using Windows.ApplicationModel.DataTransfer;
+using Windows.Foundation;
+using Windows.Storage;
+using System;
 
 [assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.UWP.Version_UWP))]
 namespace AideDeJeu.UWP
@@ -103,10 +108,20 @@ namespace AideDeJeu.UWP
             return new FileStream(filepath, FileMode.Create);
         }
 
-        //public void OpenFileExternal(string filename)
-        //{
-
-        //}
+        public async Task LaunchFileAsync(string title, string message, string filePath)
+        {
+            try
+            {
+                if (!string.IsNullOrWhiteSpace(filePath))
+                {
+                    StorageFile attachment = await StorageFile.GetFileFromPathAsync(filePath);
+                    var success = await Windows.System.Launcher.LaunchFileAsync(attachment);
+                }
+            }
+            finally
+            {
+            }
+        }
 
     }
 }
