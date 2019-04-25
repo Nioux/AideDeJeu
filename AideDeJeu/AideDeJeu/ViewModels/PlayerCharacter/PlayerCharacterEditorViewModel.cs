@@ -894,8 +894,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             Wisdom = PickAbility(random, ref mins, ref maxs, "Sagesse");
             Charisma = PickAbility(random, ref mins, ref maxs, "Charisme");
 
-            await GeneratePdfAsync();
-            await OpenPdfAsync();
+            //await GeneratePdfAsync();
+            //await OpenPdfAsync();
         }
 
         public BaseFont findFontInForm(PdfReader reader, PdfName fontname)
@@ -1093,8 +1093,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         void DrawText(PdfContentByte cb, string text, iTextSharp.text.Font font, float x, float y, float width, float height, int alignment)
         {
             cb.SetRGBColorFill(127, 127, 127);
-            cb.Rectangle(x, y, width, height);
-            cb.Stroke();
+            //cb.Rectangle(x, y, width, height);
+            //cb.Stroke();
             ColumnText ct = new ColumnText(cb);
             ct.SetSimpleColumn(x, y , x + width, y + height);
             var p = new Paragraph(text, font);
@@ -1103,6 +1103,22 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             ct.Go();
 
         }
+
+
+        public ICommand GenerateAndOpenPdfCommand
+        {
+            get
+            {
+                return new Command(async () => await ExecuteGenerateAndOpenPdfCommandAsync());
+            }
+        }
+
+        async Task ExecuteGenerateAndOpenPdfCommandAsync()
+        {
+            await GeneratePdfAsync();
+            await OpenPdfAsync();
+        }
+
         async Task GeneratePdfAsync()
         {
             //PdfDocument pdfDoc = new PdfDocument(new PdfReader(SRC), new PdfWriter(dest));
@@ -1253,6 +1269,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             */
 
         }
+
         async Task OpenPdfAsync()
         {
             //DependencyService.Get<INativeAPI>().OpenFileByName("test.pdf");

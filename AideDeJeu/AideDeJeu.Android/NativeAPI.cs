@@ -195,29 +195,16 @@ namespace AideDeJeu.Droid
         //    return Task.CompletedTask;
         //}
 
+        // https://www.syncfusion.com/kb/8707/how-to-share-the-pdf-document-in-xamarin-forms-platform
         public async Task LaunchFileAsync(string title, string message, string filePath)
         {
             var context = Android.App.Application.Context;
             var uri = Android.Support.V4.Content.FileProvider.GetUriForFile(context, context.PackageName + ".fileprovider", new Java.IO.File(filePath));
             //var uri = Android.Net.Uri.Parse("file://" + filePath);
-            var contentType = "application/pdf";
             var intent = new Intent(Intent.ActionView);
-            /*intent.PutExtra(Intent.ExtraStream, uri);
-            intent.PutExtra(Intent.ExtraText, string.Empty);
-            intent.PutExtra(Intent.ExtraSubject, message ?? string.Empty);
-            intent.SetType(contentType);
-            var chooserIntent = Intent.CreateChooser(intent, title ?? string.Empty);
-            //chooserIntent.SetDataAndType(uri, "application/pdf");
-            chooserIntent.SetFlags(ActivityFlags.ClearTop);
-            chooserIntent.SetFlags(ActivityFlags.NewTask);
-            chooserIntent.AddFlags(ActivityFlags.GrantReadUriPermission);
-            chooserIntent.AddFlags(ActivityFlags.GrantWriteUriPermission);
-            context.StartActivity(chooserIntent);
-            */
             intent.SetDataAndType(uri, "application/pdf");
             intent.SetFlags(ActivityFlags.NewTask | ActivityFlags.GrantReadUriPermission);
             context.StartActivity(intent);
-            //return Task.FromResult(true);
         }
 
     }

@@ -52,6 +52,9 @@
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </TabbedPage.Resources>
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem Text="Ouvrir en PDF avec..." Command="{Binding GenerateAndOpenPdfCommand}" Order="Secondary" />
+    </TabbedPage.ToolbarItems>
     <ContentPage Title="Race">
         <ScrollView Orientation="Vertical">
             <StackLayout>
