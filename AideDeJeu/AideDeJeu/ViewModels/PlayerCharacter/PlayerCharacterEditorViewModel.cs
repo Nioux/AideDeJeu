@@ -1192,23 +1192,23 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             form.SetField("Alignement", SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty);
             form.SetField("Historique", SelectedPlayerCharacter?.Background?.Name ?? string.Empty);
             form.SetField("Trait de personnalité", 
-                (SelectedPersonalityTrait ?? string.Empty) + "\n\n\n" +
-                (SelectedPersonalityIdeal ?? string.Empty) + "\n\n\n" +
-                (SelectedPersonalityLink ?? string.Empty) + "\n\n\n" +
+                (SelectedPersonalityTrait ?? string.Empty) + "\n\n" +
+                (SelectedPersonalityIdeal ?? string.Empty) + "\n\n" +
+                (SelectedPersonalityLink ?? string.Empty) + "\n\n" +
                 (SelectedPersonalityDefect ?? string.Empty)
                 );
             form.SetField("For Valeur", Strength != null ? Strength.ToString() : string.Empty);
-            form.SetField("For MOD", Strength != null ? ((Strength - 10) / 2).ToString() : string.Empty);
+            form.SetField("For MOD", Strength != null ? (Strength.Value / 2 - 5).ToString() : string.Empty);
             form.SetField("Dex Valeur", Dexterity != null ? Dexterity.ToString() : string.Empty);
-            form.SetField("Dex MOD", Dexterity != null ? ((Dexterity - 10) / 2).ToString() : string.Empty);
+            form.SetField("Dex MOD", Dexterity != null ? (Dexterity.Value / 2 - 5).ToString() : string.Empty);
             form.SetField("Con Valeur", Constitution != null ? Constitution.ToString() : string.Empty);
-            form.SetField("Con MOD", Constitution != null ? ((Constitution - 10) / 2).ToString() : string.Empty);
+            form.SetField("Con MOD", Constitution != null ? (Constitution.Value / 2 - 5).ToString() : string.Empty);
             form.SetField("Int Valeur", Intelligence != null ? Intelligence.ToString() : string.Empty);
-            form.SetField("Int MOD", Intelligence != null ? ((Intelligence - 10) / 2).ToString() : string.Empty);
+            form.SetField("Int MOD", Intelligence != null ? (Intelligence.Value / 2 - 5).ToString() : string.Empty);
             form.SetField("Sag Valeur", Wisdom != null ? Wisdom.ToString() : string.Empty);
-            form.SetField("Sag MOD", Wisdom != null ? ((Wisdom - 10) / 2).ToString() : string.Empty);
+            form.SetField("Sag MOD", Wisdom != null ? (Wisdom.Value / 2 - 5).ToString() : string.Empty);
             form.SetField("Cha Valeur", Charisma != null ? Charisma.ToString() : string.Empty);
-            form.SetField("Cha MOD", Charisma != null ? ((Charisma - 10) / 2).ToString() : string.Empty);
+            form.SetField("Cha MOD", Charisma != null ? (Charisma.Value / 2 - 5).ToString() : string.Empty);
 
             //PdfContentByte cb = stamper.GetOverContent(1);
             //cb.SetRGBColorFill(255, 0, 0);
