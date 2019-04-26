@@ -1141,7 +1141,11 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
             var stream = new FileStream(Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf"), FileMode.Create, FileAccess.ReadWrite);
 
-            PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
+            //PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
+            PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.feuille_de_personnage_editable.pdf"));
+
+
+
 
             var fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "LinLibertine_aBS.ttf");
             using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.LinLibertine_aBS.ttf"))
@@ -1171,8 +1175,42 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             // read the file
             //PdfReader fondo = new PdfReader("listaPrecios.pdf");
             PdfStamper stamper = new PdfStamper(reader, stream);
+            var form = stamper.AcroFields;
+            var fields = form.Fields;
+            foreach (DictionaryEntry field in fields)
+            {
+                var item = field.Value as AcroFields.Item;
+                Debug.WriteLine(field.Key);
+                form.SetField(field.Key.ToString(), field.Key.ToString());
+            }
 
-            PdfContentByte cb = stamper.GetOverContent(1);
+
+            form.SetField("Nom", "Galefrin");
+            form.SetField("Niveau", "1");
+            form.SetField("Race", SelectedPlayerCharacter?.Race?.Name ?? string.Empty);
+            form.SetField("Classe", SelectedPlayerCharacter?.Class?.Name ?? string.Empty);
+            form.SetField("Alignement", SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty);
+            form.SetField("Historique", SelectedPlayerCharacter?.Background?.Name ?? string.Empty);
+            form.SetField("Trait de personnalité", 
+                (SelectedPersonalityTrait ?? string.Empty) + "\n\n\n" +
+                (SelectedPersonalityIdeal ?? string.Empty) + "\n\n\n" +
+                (SelectedPersonalityLink ?? string.Empty) + "\n\n\n" +
+                (SelectedPersonalityDefect ?? string.Empty)
+                );
+            form.SetField("For Valeur", Strength != null ? Strength.ToString() : string.Empty);
+            form.SetField("For MOD", Strength != null ? ((Strength - 10) / 2).ToString() : string.Empty);
+            form.SetField("Dex Valeur", Dexterity != null ? Dexterity.ToString() : string.Empty);
+            form.SetField("Dex MOD", Dexterity != null ? ((Dexterity - 10) / 2).ToString() : string.Empty);
+            form.SetField("Con Valeur", Constitution != null ? Constitution.ToString() : string.Empty);
+            form.SetField("Con MOD", Constitution != null ? ((Constitution - 10) / 2).ToString() : string.Empty);
+            form.SetField("Int Valeur", Intelligence != null ? Intelligence.ToString() : string.Empty);
+            form.SetField("Int MOD", Intelligence != null ? ((Intelligence - 10) / 2).ToString() : string.Empty);
+            form.SetField("Sag Valeur", Wisdom != null ? Wisdom.ToString() : string.Empty);
+            form.SetField("Sag MOD", Wisdom != null ? ((Wisdom - 10) / 2).ToString() : string.Empty);
+            form.SetField("Cha Valeur", Charisma != null ? Charisma.ToString() : string.Empty);
+            form.SetField("Cha MOD", Charisma != null ? ((Charisma - 10) / 2).ToString() : string.Empty);
+
+            //PdfContentByte cb = stamper.GetOverContent(1);
             //cb.SetRGBColorFill(255, 0, 0);
             //cb.Rectangle(reader.GetPageSize(1).Width - 90f, 730f, 50f, 50f);
             //cb.Stroke();
@@ -1186,19 +1224,19 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
             //DrawText(cb, "This is the text added in the rectangle", bigFont, 100f, 730f, 50f, 50f);
             //DrawText(cb, "This is the text added in the rectangle", bigFont, 0f, 0f, 50f, 50f);
-            DrawText(cb, "Galefrin", bigFont, 30f, 680f, 200f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            //DrawText(cb, "Galefrin", bigFont, 30f, 680f, 200f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
 
-            float ecart = 2.5f;
-            DrawText(cb, Strength.ToString(), bigFont, 30f, 605f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
-            DrawText(cb, Dexterity.ToString(), bigFont, 30f, 530f - ecart, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
-            DrawText(cb, Constitution.ToString(), bigFont, 30f, 455f - ecart * 2f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
-            DrawText(cb, Intelligence.ToString(), bigFont, 30f, 380f - ecart * 3f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
-            DrawText(cb, Wisdom.ToString(), bigFont, 30f, 305f - ecart * 4f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
-            DrawText(cb, Charisma.ToString(), bigFont, 30f, 230f - ecart * 5f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            //float ecart = 2.5f;
+            //DrawText(cb, Strength.ToString(), bigFont, 30f, 605f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            //DrawText(cb, Dexterity.ToString(), bigFont, 30f, 530f - ecart, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            //DrawText(cb, Constitution.ToString(), bigFont, 30f, 455f - ecart * 2f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            //DrawText(cb, Intelligence.ToString(), bigFont, 30f, 380f - ecart * 3f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            //DrawText(cb, Wisdom.ToString(), bigFont, 30f, 305f - ecart * 4f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+            //DrawText(cb, Charisma.ToString(), bigFont, 30f, 230f - ecart * 5f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
 
-            DrawText(cb, SelectedPlayerCharacter?.Class?.Name ?? string.Empty, normalFont, 265f, 714f, 200f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
-            DrawText(cb, SelectedPlayerCharacter?.Race?.Name ?? string.Empty, normalFont, 265f, 680f, 100f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
-            DrawText(cb, SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty, smallFont, 380f, 680f, 80f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
+            //DrawText(cb, SelectedPlayerCharacter?.Class?.Name ?? string.Empty, normalFont, 265f, 714f, 200f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
+            //DrawText(cb, SelectedPlayerCharacter?.Race?.Name ?? string.Empty, normalFont, 265f, 680f, 100f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
+            //DrawText(cb, SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty, smallFont, 380f, 680f, 80f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
             //var ct = new ColumnText(stamper.GetOverContent(1));
             //ct.SetSimpleColumn(20, 685, 200, 35);
             ////ct.Canvas.SetRGBColorFill(255, 0, 0);
