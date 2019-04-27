@@ -73,8 +73,8 @@
                 <Label>
                     <Label.FormattedText>
                         <FormattedString>
-                            <Span Text="La génération des caractéristiques utilise la " />
-                            <Span Text="méthode MRick" FontAttributes="Bold" />
+                            <Span Text="La &quot;méthode de création aléatoire et équilibrée&quot; a été créée par " />
+                            <Span Text="MRick" FontAttributes="Bold" />
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
@@ -85,7 +85,7 @@
                 <Label>
                     <Label.FormattedText>
                         <FormattedString>
-                            <Span Text="La feuille de personnages en couleur a été créée par " />
+                            <Span Text="La feuille de personnages &quot;Graphic Colors&quot; a été créée par " />
                             <Span Text="GhorGhor Blue et DarKDinDoN" FontAttributes="Bold" />
                         </FormattedString>
                     </Label.FormattedText>
@@ -97,7 +97,7 @@
                 <Label>
                     <Label.FormattedText>
                         <FormattedString>
-                            <Span Text="La feuille de personnages en noir et blanc a été créée par " />
+                            <Span Text="La feuille de personnages &quot;Enhanced Classic&quot; a été créée par " />
                             <Span Text="Kryssprollz" FontAttributes="Bold" />
                         </FormattedString>
                     </Label.FormattedText>
