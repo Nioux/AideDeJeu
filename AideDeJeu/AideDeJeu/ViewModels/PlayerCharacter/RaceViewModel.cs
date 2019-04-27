@@ -9,8 +9,11 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 {
     public class RaceViewModel : BaseViewModel
     {
-        public RaceItem Race { get; set; }
-        public SubRaceItem SubRace { get; set; }
+        private RaceItem _Race = null;
+        public RaceItem Race { get { return _Race; } set { SetProperty(ref _Race, value); } }
+
+        private SubRaceItem _SubRace = null;
+        public SubRaceItem SubRace { get { return _SubRace; } set { SetProperty(ref _SubRace, value); } }
 
         private RaceItem RaceOrSubRace { get { return SubRace ?? Race; } }
         public string Name { get { return RaceOrSubRace.Name; } }

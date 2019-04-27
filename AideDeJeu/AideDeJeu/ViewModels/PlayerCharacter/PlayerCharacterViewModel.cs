@@ -44,6 +44,19 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 _Class.LoadDetailsAsync().ConfigureAwait(true);
             }
         }
+        //private BackgroundViewModel _Background = null;
+        //public BackgroundViewModel Background
+        //{
+        //    get
+        //    {
+        //        return _Background;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _Background, value);
+        //        _Background.LoadDetailsAsync().ConfigureAwait(true);
+        //    }
+        //}
 
 
 
