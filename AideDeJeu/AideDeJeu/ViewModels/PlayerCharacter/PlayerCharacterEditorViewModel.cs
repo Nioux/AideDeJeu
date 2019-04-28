@@ -21,6 +21,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
     {
         public PlayerCharacterEditorViewModel()
         {
+            SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel() };
             ResetAlignments();
             Races = new NotifyTaskCompletion<List<RaceViewModel>>(Task.Run(() => LoadRacesAsync()));
             Classes = new NotifyTaskCompletion<List<ClassViewModel>>(Task.Run(() => LoadClassesAsync()));
@@ -47,7 +48,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         }
 
         #region Selected PC
-        private PlayerCharacterViewModel _SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel() };
+        private PlayerCharacterViewModel _SelectedPlayerCharacter = null;
         public PlayerCharacterViewModel SelectedPlayerCharacter
         {
             get
@@ -72,38 +73,38 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         {
             if(string.IsNullOrEmpty(e.PropertyName) || e.PropertyName == "Race")
             {
-                OnRaceChanged();
+                OnSelectedPlayerCharacterRaceChanged();
             }
             if (string.IsNullOrEmpty(e.PropertyName) || e.PropertyName == "Class")
             {
-                OnClassChanged();
+                OnSelectedPlayerCharacterClassChanged();
             }
             if (string.IsNullOrEmpty(e.PropertyName) || e.PropertyName == "Background")
             {
-                OnBackgroundChnaged();
+                OnSelectedPlayerCharacterBackgroundChnaged();
             }
             if (string.IsNullOrEmpty(e.PropertyName) || e.PropertyName == "Alignment")
             {
-                OnAlignmentChanged();
+                OnSelectedPlayerCharacterAlignmentChanged();
             }
         }
 
-        private void OnAlignmentChanged()
+        private void OnSelectedPlayerCharacterAlignmentChanged()
         {
 
         }
 
-        private void OnBackgroundChnaged()
+        private void OnSelectedPlayerCharacterBackgroundChnaged()
         {
 
         }
 
-        private void OnClassChanged()
+        private void OnSelectedPlayerCharacterClassChanged()
         {
 
         }
 
-        private void OnRaceChanged()
+        private void OnSelectedPlayerCharacterRaceChanged()
         {
 
         }
