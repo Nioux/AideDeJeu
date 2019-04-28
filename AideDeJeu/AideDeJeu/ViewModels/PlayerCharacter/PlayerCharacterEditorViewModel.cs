@@ -56,8 +56,56 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
             set
             {
+                if(_SelectedPlayerCharacter != null)
+                {
+                    _SelectedPlayerCharacter.PropertyChanged -= _SelectedPlayerCharacter_PropertyChanged;
+                }
                 SetProperty(ref _SelectedPlayerCharacter, value);
+                if (_SelectedPlayerCharacter != null)
+                {
+                    _SelectedPlayerCharacter.PropertyChanged += _SelectedPlayerCharacter_PropertyChanged;
+                }
             }
+        }
+
+        private void _SelectedPlayerCharacter_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
+        {
+            if(string.IsNullOrEmpty(e.PropertyName) || e.PropertyName == "Race")
+            {
+                OnRaceChanged();
+            }
+            if (string.IsNullOrEmpty(e.PropertyName) || e.PropertyName == "Class")
+            {
+                OnClassChanged();
+            }
+            if (string.IsNullOrEmpty(e.PropertyName) || e.PropertyName == "Background")
+            {
+                OnBackgroundChnaged();
+            }
+            if (string.IsNullOrEmpty(e.PropertyName) || e.PropertyName == "Alignment")
+            {
+                OnAlignmentChanged();
+            }
+        }
+
+        private void OnAlignmentChanged()
+        {
+
+        }
+
+        private void OnBackgroundChnaged()
+        {
+
+        }
+
+        private void OnClassChanged()
+        {
+
+        }
+
+        private void OnRaceChanged()
+        {
+
         }
         #endregion Selected PC
 
