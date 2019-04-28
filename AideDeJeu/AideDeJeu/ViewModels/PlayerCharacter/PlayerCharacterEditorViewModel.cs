@@ -47,7 +47,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         }
 
         #region Selected PC
-        private PlayerCharacterViewModel _SelectedPlayerCharacter = new PlayerCharacterViewModel();
+        private PlayerCharacterViewModel _SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel() };
         public PlayerCharacterViewModel SelectedPlayerCharacter
         {
             get
@@ -130,10 +130,10 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         private void ResetAlignments()
         {
             Alignments = new NotifyTaskCompletion<List<AlignmentItem>>(Task.Run(() => LoadAlignmentsAsync()));
-            if (!string.IsNullOrEmpty(SelectedPlayerCharacter.PersonalityIdeal))
+            if (!string.IsNullOrEmpty(SelectedPlayerCharacter.Background.PersonalityIdeal))
             {
                 var regex = new Regex(".*\\((?<alignment>.*?)\\)$");
-                var match = regex.Match(SelectedPlayerCharacter.PersonalityIdeal);
+                var match = regex.Match(SelectedPlayerCharacter.Background.PersonalityIdeal);
                 var alignment = match.Groups["alignment"].Value;
                 if (!string.IsNullOrEmpty(alignment) && alignment.ToLower() != "tous")
                 {
@@ -240,13 +240,13 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
         private async Task<BackgroundItem> LoadBackgroundAsync(BackgroundItem background)
         {
-            SelectedPlayerCharacter.SubBackground = null;
-            SelectedPlayerCharacter.PersonalityTrait = null;
-            SelectedPlayerCharacter.PersonalityIdeal = null;
-            SelectedPlayerCharacter.PersonalityLink = null;
-            SelectedPlayerCharacter.PersonalityDefect = null;
-            SelectedPlayerCharacter.BackgroundSpecialty = null;
-            SelectedPlayerCharacter.Background = background;
+            SelectedPlayerCharacter.Background.SubBackground = null;
+            SelectedPlayerCharacter.Background.PersonalityTrait = null;
+            SelectedPlayerCharacter.Background.PersonalityIdeal = null;
+            SelectedPlayerCharacter.Background.PersonalityLink = null;
+            SelectedPlayerCharacter.Background.PersonalityDefect = null;
+            SelectedPlayerCharacter.Background.BackgroundSpecialty = null;
+            SelectedPlayerCharacter.Background.Background = background;
 
             if (background != null)
             {
@@ -336,7 +336,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
         private async Task<SubBackgroundItem> LoadSubBackgroundAsync(SubBackgroundItem subbackground)
         {
-            SelectedPlayerCharacter.SubBackground = subbackground;
+            SelectedPlayerCharacter.Background.SubBackground = subbackground;
             if (subbackground == null)
             {
                 SubBackgroundSpecialties = null;
@@ -381,7 +381,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SelectedPersonalityTrait, value);
-                SelectedPlayerCharacter.PersonalityTrait = value;
+                SelectedPlayerCharacter.Background.PersonalityTrait = value;
             }
         }
 
@@ -407,7 +407,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SelectedPersonalityIdeal, value);
-                SelectedPlayerCharacter.PersonalityIdeal = value;
+                SelectedPlayerCharacter.Background.PersonalityIdeal = value;
             }
         }
 
@@ -433,7 +433,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SelectedPersonalityLink, value);
-                SelectedPlayerCharacter.PersonalityLink = value;
+                SelectedPlayerCharacter.Background.PersonalityLink = value;
             }
         }
 
@@ -459,7 +459,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SelectedPersonalityDefect, value);
-                SelectedPlayerCharacter.PersonalityDefect = value;
+                SelectedPlayerCharacter.Background.PersonalityDefect = value;
             }
         }
 
@@ -516,7 +516,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _BackgroundSpecialty, value);
-                SelectedPlayerCharacter.BackgroundSpecialty = BackgroundSpecialty;
+                SelectedPlayerCharacter.Background.BackgroundSpecialty = BackgroundSpecialty;
             }
         }
         private string _SubBackgroundSpecialty = null;
@@ -529,7 +529,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SubBackgroundSpecialty, value);
-                SelectedPlayerCharacter.SubBackgroundSpecialty = SubBackgroundSpecialty;
+                SelectedPlayerCharacter.Background.SubBackgroundSpecialty = SubBackgroundSpecialty;
             }
         }
 
@@ -1190,7 +1190,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             form.SetField("Race", SelectedPlayerCharacter?.Race?.Name ?? string.Empty);
             form.SetField("Classe", SelectedPlayerCharacter?.Class?.Name ?? string.Empty);
             form.SetField("Alignement", SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty);
-            form.SetField("Historique", SelectedPlayerCharacter?.Background?.Name ?? string.Empty);
+            form.SetField("Historique", SelectedPlayerCharacter?.Background?.Background?.Name ?? string.Empty);
             form.SetField("Trait de personnalité", 
                 (SelectedPersonalityTrait ?? string.Empty) + "\n\n" +
                 (SelectedPersonalityIdeal ?? string.Empty) + "\n\n" +
