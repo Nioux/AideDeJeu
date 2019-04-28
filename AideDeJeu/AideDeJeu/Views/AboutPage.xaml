@@ -109,6 +109,18 @@
                 <Label>
                     <Label.FormattedText>
                         <FormattedString>
+                            <Span Text="Merci à mes tipeurs " />
+                            <Span Text="temvaryen, Ekaradon, Emmanuel et Nicolas" FontAttributes="Bold" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                    <!--<Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://fr.tipeee.com/nioux" />
+                    </Label.GestureRecognizers>-->
+                </Label>
+
+                <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
                             <Span Text="Le contenu provient du jeu " />
                             <Span Text="Héros &amp; Dragons" FontAttributes="Bold" />
                             <Span Text=" et du SRD VO" />

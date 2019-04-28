@@ -160,19 +160,19 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         #region Background
         public NotifyTaskCompletion<List<BackgroundItem>> Backgrounds { get; private set; }
 
-        private int _BackgroundSelectedIndex = -1;
-        public int BackgroundSelectedIndex
-        {
-            get
-            {
-                return _BackgroundSelectedIndex;
-            }
-            set
-            {
-                SetProperty(ref _BackgroundSelectedIndex, value);
-                SelectedBackground = Backgrounds.Result[_BackgroundSelectedIndex];
-            }
-        }
+        //private int _BackgroundSelectedIndex = -1;
+        //public int BackgroundSelectedIndex
+        //{
+        //    get
+        //    {
+        //        return _BackgroundSelectedIndex;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _BackgroundSelectedIndex, value);
+        //        SelectedBackground = Backgrounds.Result[_BackgroundSelectedIndex];
+        //    }
+        //}
 
         private BackgroundItem _SelectedBackground = null;
         public BackgroundItem SelectedBackground
@@ -184,7 +184,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SelectedBackground, value);
-                OnPropertyChanged(nameof(PreferedBackground));
+                OnPropertyChanged(nameof(BackgroundOrSubBackground));
                 //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(Task.Run(() => LoadBackgroundAsync(_SelectedBackground)));
             }
         }
@@ -247,28 +247,28 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
         }
 
-        private int _SubBackgroundSelectedIndex = -1;
-        public int SubBackgroundSelectedIndex
-        {
-            get
-            {
-                return _SubBackgroundSelectedIndex;
-            }
-            set
-            {
-                SetProperty(ref _SubBackgroundSelectedIndex, value);
-                if (_SubBackgroundSelectedIndex == 0)
-                {
-                    //SelectedPlayerCharacter.SubBackground = null;
-                    SubBackgroundSelectedIndex = -1;
-                    SelectedSubBackground = null;
-                }
-                else if (_SubBackgroundSelectedIndex > 0)
-                {
-                    SelectedSubBackground = SubBackgrounds[_SubBackgroundSelectedIndex];
-                }
-            }
-        }
+        //private int _SubBackgroundSelectedIndex = -1;
+        //public int SubBackgroundSelectedIndex
+        //{
+        //    get
+        //    {
+        //        return _SubBackgroundSelectedIndex;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SubBackgroundSelectedIndex, value);
+        //        if (_SubBackgroundSelectedIndex == 0)
+        //        {
+        //            //SelectedPlayerCharacter.SubBackground = null;
+        //            SubBackgroundSelectedIndex = -1;
+        //            SelectedSubBackground = null;
+        //        }
+        //        else if (_SubBackgroundSelectedIndex > 0)
+        //        {
+        //            SelectedSubBackground = SubBackgrounds[_SubBackgroundSelectedIndex];
+        //        }
+        //    }
+        //}
 
         private SubBackgroundItem _SelectedSubBackground = null;
         public SubBackgroundItem SelectedSubBackground
@@ -280,7 +280,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SelectedSubBackground, value);
-                OnPropertyChanged(nameof(PreferedBackground));
+                OnPropertyChanged(nameof(BackgroundOrSubBackground));
                 //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(Task.Run(() => LoadSubBackgroundAsync(SelectedSubBackground)));
             }
         }
@@ -314,7 +314,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             return subbackground;
         }
 
-        public BackgroundItem PreferedBackground
+        public BackgroundItem BackgroundOrSubBackground
         {
             get
             {
