@@ -11,8 +11,12 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         private ClassItem _Class = null;
         public ClassItem Class { get { return _Class; } set { SetProperty(ref _Class, value); } }
 
+        private int _Level = 1;
+        public int Level { get { return _Level; } set { SetProperty(ref _Level, value); }  }
+
         private SubClassItem _SubClass = null;
         public SubClassItem SubClass { get { return _SubClass; } set { SetProperty(ref _SubClass, value); } }
+
 
         private ClassHitPointsItem _HitPoints = null;
         public ClassHitPointsItem HitPoints { get { return _HitPoints; } set { SetProperty(ref _HitPoints, value); } }
@@ -32,6 +36,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         public string Name { get { return Class?.Name; } }
         public string Description { get { return Class?.Description; } }
         public string Markdown { get { return Class?.Markdown; } }
+
 
         public List<ClassFeatureItem> LeveledFeatures
         {

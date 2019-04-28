@@ -58,6 +58,19 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
         }
 
+        private AbilitiesViewModel _Abilities = null;
+        public AbilitiesViewModel Abilities
+        {
+            get
+            {
+                return _Abilities;
+            }
+            set
+            {
+                SetProperty(ref _Abilities, value);
+                //_Background.LoadDetailsAsync().ConfigureAwait(true);
+            }
+        }
 
 
 
