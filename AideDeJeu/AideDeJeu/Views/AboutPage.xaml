@@ -113,9 +113,13 @@
                             <Span Text="temvaryen, Ekaradon, Emmanuel et Nicolas" FontAttributes="Bold" />
                         </FormattedString>
                     </Label.FormattedText>
-                    <!--<Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://fr.tipeee.com/nioux" />
-                    </Label.GestureRecognizers>-->
+                    <Label.GestureRecognizers>
+                        <OnPlatform x:TypeArguments="TapGestureRecognizer">
+                            <On Platform="Android, UWP">
+                                <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://fr.tipeee.com/nioux" />
+                            </On>
+                        </OnPlatform>
+                    </Label.GestureRecognizers>
                 </Label>
 
                 <Label>
