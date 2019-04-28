@@ -27,10 +27,10 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
             Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
             SelectedBackground = null;
-            NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(null);
+            //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(null);
             SubBackgrounds = null;
             SelectedSubBackground = null;
-            NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
+            //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
             PersonalityTraits = null;
             PersonalityIdeals = null;
             PersonalityLinks = null;
@@ -72,43 +72,6 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             private set
             {
                 SetProperty(ref _Alignments, value);
-            }
-        }
-
-        private int _AlignmentSelectedIndex = -1;
-        public int AlignmentSelectedIndex
-        {
-            get
-            {
-                return _AlignmentSelectedIndex;
-            }
-            set
-            {
-                SetProperty(ref _AlignmentSelectedIndex, value);
-                if (0 <= _AlignmentSelectedIndex && _AlignmentSelectedIndex < Alignments.Result.Count)
-                {
-                    SelectedAlignment = Alignments.Result[_AlignmentSelectedIndex];
-                }
-                else
-                {
-                    SelectedAlignment = null;
-                }
-            }
-        }
-        private AlignmentItem _SelectedAlignment = null;
-        public AlignmentItem SelectedAlignment
-        {
-            get
-            {
-                return _SelectedAlignment;
-            }
-            set
-            {
-                SetProperty(ref _SelectedAlignment, value);
-                //if (0 <= _AlignmentSelectedIndex && _AlignmentSelectedIndex < Alignments.Result.Count)
-                //{
-                SelectedPlayerCharacter.Alignment = SelectedAlignment;
-                //}
             }
         }
 
@@ -222,21 +185,21 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 SetProperty(ref _SelectedBackground, value);
                 OnPropertyChanged(nameof(PreferedBackground));
-                NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(Task.Run(() => LoadBackgroundAsync(_SelectedBackground)));
+                //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(Task.Run(() => LoadBackgroundAsync(_SelectedBackground)));
             }
         }
-        private NotifyTaskCompletion<BackgroundItem> _NotifySelectedBackground = null;
-        public NotifyTaskCompletion<BackgroundItem> NotifySelectedBackground
-        {
-            get
-            {
-                return _NotifySelectedBackground;
-            }
-            private set
-            {
-                SetProperty(ref _NotifySelectedBackground, value);
-            }
-        }
+        //private NotifyTaskCompletion<BackgroundItem> _NotifySelectedBackground = null;
+        //public NotifyTaskCompletion<BackgroundItem> NotifySelectedBackground
+        //{
+        //    get
+        //    {
+        //        return _NotifySelectedBackground;
+        //    }
+        //    private set
+        //    {
+        //        SetProperty(ref _NotifySelectedBackground, value);
+        //    }
+        //}
 
         private async Task<BackgroundItem> LoadBackgroundAsync(BackgroundItem background)
         {
@@ -252,7 +215,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 SubBackgrounds = await LoadSubBackgroundsAsync(background);
                 SelectedSubBackground = null;
-                NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
+                //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
                 PersonalityTraits = await LoadPersonalityTraitsAsync(background);
                 PersonalityIdeals = await LoadPersonalityIdealsAsync(background);
                 PersonalityLinks = await LoadPersonalityLinksAsync(background);
@@ -318,21 +281,21 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 SetProperty(ref _SelectedSubBackground, value);
                 OnPropertyChanged(nameof(PreferedBackground));
-                NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(Task.Run(() => LoadSubBackgroundAsync(SelectedSubBackground)));
+                //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(Task.Run(() => LoadSubBackgroundAsync(SelectedSubBackground)));
             }
         }
-        private NotifyTaskCompletion<SubBackgroundItem> _NotifySelectedSubBackground = null;
-        public NotifyTaskCompletion<SubBackgroundItem> NotifySelectedSubBackground
-        {
-            get
-            {
-                return _NotifySelectedSubBackground;
-            }
-            private set
-            {
-                SetProperty(ref _NotifySelectedSubBackground, value);
-            }
-        }
+        //private NotifyTaskCompletion<SubBackgroundItem> _NotifySelectedSubBackground = null;
+        //public NotifyTaskCompletion<SubBackgroundItem> NotifySelectedSubBackground
+        //{
+        //    get
+        //    {
+        //        return _NotifySelectedSubBackground;
+        //    }
+        //    private set
+        //    {
+        //        SetProperty(ref _NotifySelectedSubBackground, value);
+        //    }
+        //}
 
         private async Task<SubBackgroundItem> LoadSubBackgroundAsync(SubBackgroundItem subbackground)
         {
