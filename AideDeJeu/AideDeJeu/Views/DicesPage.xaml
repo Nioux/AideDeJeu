@@ -5,11 +5,11 @@
              x:Class="AideDeJeu.Views.DicesPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <!--<Label Text="Welcome to Xamarin.Forms!"
                 VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+                HorizontalOptions="CenterAndExpand" />-->
 
-            <skviews:SKCanvasView PaintSurface="SKCanvasView_PaintSurface">
+            <skviews:SKCanvasView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" PaintSurface="SKCanvasView_PaintSurface">
                 
             </skviews:SKCanvasView>
         </StackLayout>

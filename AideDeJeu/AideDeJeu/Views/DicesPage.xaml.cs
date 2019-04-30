@@ -33,19 +33,19 @@ namespace AideDeJeu.Views
             SKImageInfo info = args.Info;
             SKSurface surface = args.Surface;
             SKCanvas canvas = surface.Canvas;
-            SKPaint strokePaint = new SKPaint() { Color = new SKColor(255,0,0,128) };
+            SKPaint strokePaint = new SKPaint() { Color = new SKColor(0x9B, 0x1C, 0x47), Style = SKPaintStyle.Stroke, StrokeWidth = 2 };
             canvas.Clear();
 
-            // Draw path with cubic Bezier curve
-            using (SKPath path = new SKPath())
+            float minx = diceRolls.Min(kv => kv.Value);
+            float miny = diceRolls.Min(kv => kv.Key);
+            float maxx = diceRolls.Max(kv => kv.Value);
+            float maxy = diceRolls.Max(kv => kv.Key);
+            float sizey = info.Height / (maxy - miny + 1);
+            foreach (var diceRoll in diceRolls)
             {
-                path.MoveTo(0, 0);
-                foreach (var diceRoll in diceRolls)
-                {
-
-                    path.LineTo(diceRoll.Key * 20, diceRoll.Value * 20);
-                }
-                canvas.DrawPath(path, strokePaint);
+                float x = diceRoll.Value;
+                float y = diceRoll.Key;
+                canvas.DrawRect(new SKRect(0, ((y - miny) * sizey), x * info.Width / maxx, ((y - miny) * sizey) + sizey - 5), strokePaint);
             }
         }
     }
