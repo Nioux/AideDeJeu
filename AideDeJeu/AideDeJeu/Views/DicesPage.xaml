@@ -9,7 +9,7 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />-->
 
-            <skviews:SKCanvasView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" PaintSurface="SKCanvasView_PaintSurface">
+            <skviews:SKCanvasView Margin="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" PaintSurface="SKCanvasView_PaintSurface">
                 
             </skviews:SKCanvasView>
         </StackLayout>
