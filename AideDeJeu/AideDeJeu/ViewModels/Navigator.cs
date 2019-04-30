@@ -103,9 +103,23 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        private Command _DicesCommand = null;
+        public Command DicesCommand
+        {
+            get
+            {
+                return _DicesCommand ?? (_DicesCommand = new Command(async () => await GotoDicesPageAsync()));
+            }
+        }
+
         public async Task GotoPlayerCharacterEditorPageAsync()
         {
             await Navigation.PushAsync(new Views.PlayerCharacter.PlayerCharacterEditorPage(), true);
+        }
+
+        public async Task GotoDicesPageAsync()
+        {
+            await Navigation.PushAsync(new Views.DicesPage(), true);
         }
 
         private Command _DeepSearchCommand = null;

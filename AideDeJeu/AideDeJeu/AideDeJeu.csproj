@@ -74,6 +74,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="3.0.0-preview3.19153.1" />
     <PackageReference Include="Rg.Plugins.Popup" Version="1.1.5.188" />
     <PackageReference Include="SkiaSharp.Svg" Version="1.60.0" />
+    <PackageReference Include="SkiaSharp.Views" Version="1.68.0" />
     <PackageReference Include="SkiaSharp.Views.Forms" Version="1.68.0" />
     <PackageReference Include="sqlite-net-pcl" Version="1.6.258-beta" />
     <PackageReference Include="System.Text.Encoding.CodePages" Version="4.5.1" />
@@ -130,6 +131,9 @@
     <EmbeddedResource Update="Properties\Resource.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\DicesPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\Library\BookmarksPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
