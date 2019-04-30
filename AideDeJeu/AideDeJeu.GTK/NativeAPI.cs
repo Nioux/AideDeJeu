@@ -36,5 +36,20 @@ namespace AideDeJeu.GTK
             var path = AppDomain.CurrentDomain.BaseDirectory; // System.Reflection.Assembly.GetExecutingAssembly().CodeBase;
             return Path.Combine(path, $"{databaseName}.db");
         }
+
+        public Task SaveStreamAsync(string filename, Stream stream)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Stream CreateStream(string filename)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task LaunchFileAsync(string title, string message, string filePath)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
