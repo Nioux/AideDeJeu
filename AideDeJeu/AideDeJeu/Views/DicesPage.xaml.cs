@@ -33,19 +33,27 @@ namespace AideDeJeu.Views
             SKImageInfo info = args.Info;
             SKSurface surface = args.Surface;
             SKCanvas canvas = surface.Canvas;
-            SKPaint strokePaint = new SKPaint() { Color = new SKColor(0x9B, 0x1C, 0x47), Style = SKPaintStyle.Stroke, StrokeWidth = 2 };
+            SKPaint strokePaint = new SKPaint()
+            {
+                Color = new SKColor(0x9B, 0x1C, 0x47),
+                Style = SKPaintStyle.Stroke,
+                StrokeWidth = 1,
+                TextSize = 12,
+            };
             canvas.Clear();
 
             float minx = diceRolls.Min(kv => kv.Value);
             float miny = diceRolls.Min(kv => kv.Key);
             float maxx = diceRolls.Max(kv => kv.Value);
             float maxy = diceRolls.Max(kv => kv.Key);
+            float sumx = diceRolls.Sum(kv => kv.Value);
             float sizey = info.Height / (maxy - miny + 1);
             foreach (var diceRoll in diceRolls)
             {
                 float x = diceRoll.Value;
                 float y = diceRoll.Key;
                 canvas.DrawRect(new SKRect(0, ((y - miny) * sizey), x * info.Width / maxx, ((y - miny) * sizey) + sizey - 5), strokePaint);
+                canvas.DrawText($"{y} => {x / sumx * 100}", 10, ((y - miny) * sizey) + 15, strokePaint);
             }
         }
     }
