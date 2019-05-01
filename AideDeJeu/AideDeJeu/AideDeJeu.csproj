@@ -96,7 +96,7 @@
     <Compile Update="Views\AboutPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\ItemView.xaml.cs">
+    <Compile Update="Views\Pickers\ItemView.xaml.cs">
       <DependentUpon>ItemView.xaml</DependentUpon>
     </Compile>
     <Compile Update="Views\Library\ItemDetailPage.xaml.cs">
@@ -111,10 +111,10 @@
     <Compile Update="Views\Library\MainTabbedPage.xaml.cs">
       <DependentUpon>MainTabbedPage.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\ItemPicker.xaml.cs">
+    <Compile Update="Views\Pickers\ItemPicker.xaml.cs">
       <DependentUpon>ItemPicker.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\ItemPickerView.xaml.cs">
+    <Compile Update="Views\Pickers\ItemPickerView.xaml.cs">
       <DependentUpon>ItemPickerView.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
@@ -158,10 +158,10 @@
     <EmbeddedResource Update="Views\PlayerCharacter\PlayerCharacterEditorPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\StringPicker.xaml">
+    <EmbeddedResource Update="Views\Pickers\StringPicker.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\StringPickerView.xaml">
+    <EmbeddedResource Update="Views\Pickers\StringPickerView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\TextInputCancellableView.xaml">

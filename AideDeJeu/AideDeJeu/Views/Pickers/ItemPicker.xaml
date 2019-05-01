@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
-             x:Class="AideDeJeu.Views.ItemPicker"
+             x:Class="AideDeJeu.Views.Pickers.ItemPicker"
              Title="{Binding Title}">
     <ContentPage.Resources>
         <ResourceDictionary>

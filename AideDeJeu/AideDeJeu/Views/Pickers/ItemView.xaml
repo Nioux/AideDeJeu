@@ -4,7 +4,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:tools="clr-namespace:AideDeJeu.Tools"
     xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
-    x:Class="AideDeJeu.Views.ItemView"
+    x:Class="AideDeJeu.Views.Pickers.ItemView"
     x:Name="this"
     >
     <!--IsVisible="{Binding Description, Converter={x:StaticResource NullToFalseConverter}}"-->

@@ -9,10 +9,10 @@ using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace AideDeJeu.Views
+namespace AideDeJeu.Views.Pickers
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ItemView : StackLayout
+    public partial class ItemPickerView : StackLayout
     {
         public MainViewModel Main
         {
@@ -21,21 +21,21 @@ namespace AideDeJeu.Views
                 return DependencyService.Get<MainViewModel>();
             }
         }
-        public ItemView()
+        public ItemPickerView()
         {
             InitializeComponent();
             BindingContext = this;
         }
 
-        public string Name
+        public string Title
         {
-            get { return (string)GetValue(NameProperty); }
-            set { SetValue(NameProperty, value); }
+            get { return (string)GetValue(TitleProperty); }
+            set { SetValue(TitleProperty, value); }
         }
-        public static readonly BindableProperty NameProperty = BindableProperty.Create(
-            nameof(Name), 
+        public static readonly BindableProperty TitleProperty = BindableProperty.Create(
+            nameof(Title), 
             typeof(string), 
-            typeof(ItemView),
+            typeof(ItemPickerView),
             defaultValue: default(string));
 
         public string Description
@@ -46,7 +46,7 @@ namespace AideDeJeu.Views
         public static readonly BindableProperty DescriptionProperty = BindableProperty.Create(
             nameof(Description),
             typeof(string),
-            typeof(ItemView),
+            typeof(ItemPickerView),
             defaultValue: default(string));
 
         public object SelectedItem
@@ -57,7 +57,7 @@ namespace AideDeJeu.Views
         public static readonly BindableProperty SelectedItemProperty = BindableProperty.Create(
             nameof(SelectedItem), 
             typeof(object), 
-            typeof(ItemView), 
+            typeof(ItemPickerView), 
             defaultValue: default(object), 
             defaultBindingMode: BindingMode.TwoWay);
 
@@ -75,8 +75,27 @@ namespace AideDeJeu.Views
             BindableProperty.Create(
                 nameof(ItemsSource), 
                 typeof(System.Collections.IEnumerable), 
-                typeof(ItemView), 
+                typeof(ItemPickerView), 
                 default(System.Collections.IEnumerable));
 
+        public ICommand PickerCommand
+        {
+            get
+            {
+                return new Command<System.Collections.IList>(async (items) => SelectedItem = await ExecuteItemPickerCommandAsync(items));
+            }
+        }
+        private async Task<object> ExecuteItemPickerCommandAsync(System.Collections.IEnumerable items)
+        {
+            var picker = new Views.Pickers.ItemPicker();
+            var vm = picker.ViewModel;
+            vm.Title = Title;
+            vm.Description = Description;
+            vm.Items = items;
+            await Main.Navigator.Navigation.PushModalAsync(picker, true);
+            var result = await vm.PickValueAsync();
+            await Main.Navigator.Navigation.PopModalAsync(true);
+            return result;
+        }
     }
 }

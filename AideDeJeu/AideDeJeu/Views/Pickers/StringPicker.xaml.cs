@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace AideDeJeu.Views
+namespace AideDeJeu.Views.Pickers
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class StringPicker : ContentPage

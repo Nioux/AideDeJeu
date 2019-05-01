@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:skviews="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
-             xmlns:views="clr-namespace:AideDeJeu.Views"
+             xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
              x:Class="AideDeJeu.Views.DicesPage">
     <ContentPage.Content>
         <StackLayout>
@@ -10,9 +10,9 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />-->
             <StackLayout Orientation="Horizontal">
-                <views:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
-                <views:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
-                <views:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
 
             </StackLayout>
             <skviews:SKCanvasView Margin="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" PaintSurface="SKCanvasView_PaintSurface">

@@ -1,5 +1,4 @@
 ﻿using AideDeJeu.ViewModels;
-using AideDeJeuLib;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,10 +8,10 @@ using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace AideDeJeu.Views
+namespace AideDeJeu.Views.Pickers
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ItemPickerView : StackLayout
+    public partial class StringPickerView : StackLayout
     {
         public MainViewModel Main
         {
@@ -21,7 +20,7 @@ namespace AideDeJeu.Views
                 return DependencyService.Get<MainViewModel>();
             }
         }
-        public ItemPickerView()
+        public StringPickerView()
         {
             InitializeComponent();
             BindingContext = this;
@@ -35,7 +34,7 @@ namespace AideDeJeu.Views
         public static readonly BindableProperty TitleProperty = BindableProperty.Create(
             nameof(Title), 
             typeof(string), 
-            typeof(ItemPickerView),
+            typeof(StringPickerView),
             defaultValue: default(string));
 
         public string Description
@@ -46,19 +45,19 @@ namespace AideDeJeu.Views
         public static readonly BindableProperty DescriptionProperty = BindableProperty.Create(
             nameof(Description),
             typeof(string),
-            typeof(ItemPickerView),
+            typeof(StringPickerView),
             defaultValue: default(string));
 
-        public object SelectedItem
+        public string SelectedItem
         {
-            get { return (object)GetValue(SelectedItemProperty); }
+            get { return (string)GetValue(SelectedItemProperty); }
             set { SetValue(SelectedItemProperty, value); }
         }
         public static readonly BindableProperty SelectedItemProperty = BindableProperty.Create(
             nameof(SelectedItem), 
-            typeof(object), 
-            typeof(ItemPickerView), 
-            defaultValue: default(object), 
+            typeof(string), 
+            typeof(StringPickerView), 
+            defaultValue: default(string), 
             defaultBindingMode: BindingMode.TwoWay);
 
         public System.Collections.IEnumerable ItemsSource
@@ -75,27 +74,31 @@ namespace AideDeJeu.Views
             BindableProperty.Create(
                 nameof(ItemsSource), 
                 typeof(System.Collections.IEnumerable), 
-                typeof(ItemPickerView), 
+                typeof(StringPickerView), 
                 default(System.Collections.IEnumerable));
 
         public ICommand PickerCommand
         {
             get
             {
-                return new Command<System.Collections.IList>(async (items) => SelectedItem = await ExecuteItemPickerCommandAsync(items));
+                return new Command<System.Collections.IList>(async (strings) => SelectedItem = await ExecuteStringPickerCommandAsync(strings));
             }
         }
-        private async Task<object> ExecuteItemPickerCommandAsync(System.Collections.IEnumerable items)
+        private async Task<string> ExecuteStringPickerCommandAsync(System.Collections.IEnumerable strings)
         {
-            var picker = new Views.ItemPicker();
-            var vm = picker.ViewModel;
-            vm.Title = Title;
-            vm.Description = Description;
-            vm.Items = items;
-            await Main.Navigator.Navigation.PushModalAsync(picker, true);
-            var result = await vm.PickValueAsync();
-            await Main.Navigator.Navigation.PopModalAsync(true);
-            return result;
+            if (strings != null)
+            {
+                var picker = new Views.Pickers.StringPicker();
+                var vm = picker.ViewModel;
+                vm.Title = Title;
+                vm.Description = Description;
+                vm.Items = strings;
+                await Main.Navigator.Navigation.PushModalAsync(picker, true);
+                var result = await vm.PickValueAsync();
+                await Main.Navigator.Navigation.PopModalAsync(true);
+                return result;
+            }
+            return SelectedItem;
         }
     }
 }
