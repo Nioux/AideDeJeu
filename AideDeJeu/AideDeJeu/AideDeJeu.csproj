@@ -22,6 +22,7 @@
     <None Remove="OGL.txt" />
     <None Remove="Pdf\178_hd_01_feuille_de_perso_v1.pdf" />
     <None Remove="Pdf\AlverataIrregularPEMedium.ttf" />
+    <None Remove="Pdf\BLKCHCRY.TTF" />
     <None Remove="Pdf\feuille_de_personnage_editable.pdf" />
     <None Remove="Pdf\LinLibertine_aBL.ttf" />
     <None Remove="Pdf\LinLibertine_aBS.ttf" />
@@ -47,6 +48,7 @@
     <EmbeddedResource Include="OGL.txt" />
     <EmbeddedResource Include="Pdf\178_hd_01_feuille_de_perso_v1.pdf" />
     <EmbeddedResource Include="Pdf\AlverataIrregularPEMedium.ttf" />
+    <EmbeddedResource Include="Pdf\BLKCHCRY.TTF" />
     <EmbeddedResource Include="Pdf\feuille_de_personnage_editable.pdf" />
     <EmbeddedResource Include="Pdf\LinLibertine_aBL.ttf" />
     <EmbeddedResource Include="Pdf\LinLibertine_aBS.ttf" />

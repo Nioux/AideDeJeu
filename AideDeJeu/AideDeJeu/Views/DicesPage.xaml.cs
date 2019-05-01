@@ -41,12 +41,23 @@ namespace AideDeJeu.Views
             float sumx = diceRolls.Sum(kv => kv.Value);
             float sizey = info.Height / (maxy - miny + 1);
 
+            SKTypeface typeface = null;
+            var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.LinLibertine_R.ttf");
+            typeface = SKTypeface.FromStream(inFont);
+
             SKPaint strokePaint = new SKPaint()
             {
                 Color = new SKColor(0x9B, 0x1C, 0x47),
                 Style = SKPaintStyle.Stroke,
                 StrokeWidth = 1,
-                TextSize = sizey * 0.8f,
+            };
+            SKPaint strokeFont = new SKPaint()
+            {
+                Color = new SKColor(0x9B, 0x1C, 0x47),
+                Style = SKPaintStyle.Stroke,
+                StrokeWidth = 1,
+                TextSize = sizey * 0.6f,
+                Typeface = typeface
             };
             canvas.Clear();
             foreach (var diceRoll in diceRolls)
@@ -54,8 +65,13 @@ namespace AideDeJeu.Views
                 float x = diceRoll.Value;
                 float y = diceRoll.Key;
                 canvas.DrawRect(new SKRect(0, ((y - miny) * sizey), x * info.Width / maxx, ((y - miny) * sizey) + sizey - 5), strokePaint);
-                canvas.DrawText($"{y} => {x / sumx * 100:0.00}%", 10, ((y - miny) * sizey) + sizey * 0.8f, strokePaint);
+
+                canvas.DrawText($"{y} => {x / sumx * 100:0.00}%", 10, ((y - miny) * sizey) + sizey * 0.6f, strokeFont);
             }
+
+            typeface.Dispose();
+            strokeFont.Dispose();
+            strokePaint.Dispose();
         }
     }
 }
