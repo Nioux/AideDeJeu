@@ -56,12 +56,12 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             switch(e.PropertyName)
             {
                 case nameof(SelectedPlayerCharacter.Race):
-                    SelectedPlayerCharacter.Abilities.Strength.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.StrengthBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Dexterity.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.DexterityBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Constitution.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.ConstitutionBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Intelligence.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.IntelligenceBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Wisdom.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.WisdomBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Charisma.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.CharismaBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Strength.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.StrengthBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Dexterity.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.DexterityBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Constitution.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.ConstitutionBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Intelligence.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.IntelligenceBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Wisdom.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.WisdomBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Charisma.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.CharismaBonus ?? "0");
                     break;
             }
         }
@@ -1229,17 +1229,17 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 (SelectedPersonalityDefect ?? string.Empty)
                 );
             form.SetField("For Valeur", SelectedPlayerCharacter?.Abilities?.Strength?.Value?.ToString());
-            form.SetField("For MOD", SelectedPlayerCharacter?.Abilities?.Strength?.Mod?.ToString());
+            form.SetField("For MOD", SelectedPlayerCharacter?.Abilities?.Strength?.ModString);
             form.SetField("Dex Valeur", SelectedPlayerCharacter?.Abilities?.Dexterity?.Value?.ToString());
-            form.SetField("Dex MOD", SelectedPlayerCharacter?.Abilities?.Dexterity?.Mod?.ToString());
+            form.SetField("Dex MOD", SelectedPlayerCharacter?.Abilities?.Dexterity?.ModString);
             form.SetField("Con Valeur", SelectedPlayerCharacter?.Abilities?.Constitution?.Value?.ToString());
-            form.SetField("Con MOD", SelectedPlayerCharacter?.Abilities?.Constitution?.Mod?.ToString());
+            form.SetField("Con MOD", SelectedPlayerCharacter?.Abilities?.Constitution?.ModString);
             form.SetField("Int Valeur", SelectedPlayerCharacter?.Abilities?.Intelligence?.Value?.ToString());
-            form.SetField("Int MOD", SelectedPlayerCharacter?.Abilities?.Intelligence?.Mod?.ToString());
+            form.SetField("Int MOD", SelectedPlayerCharacter?.Abilities?.Intelligence?.ModString);
             form.SetField("Sag Valeur", SelectedPlayerCharacter?.Abilities?.Wisdom?.Value?.ToString());
-            form.SetField("Sag MOD", SelectedPlayerCharacter?.Abilities?.Wisdom?.Mod?.ToString());
+            form.SetField("Sag MOD", SelectedPlayerCharacter?.Abilities?.Wisdom?.ModString);
             form.SetField("Cha Valeur", SelectedPlayerCharacter?.Abilities?.Charisma?.Value?.ToString());
-            form.SetField("Cha MOD", SelectedPlayerCharacter?.Abilities?.Charisma?.Mod?.ToString());
+            form.SetField("Cha MOD", SelectedPlayerCharacter?.Abilities?.Charisma?.ModString);
 
             //PdfContentByte cb = stamper.GetOverContent(1);
             //cb.SetRGBColorFill(255, 0, 0);

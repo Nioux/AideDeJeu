@@ -1,5 +1,5 @@
 
-<!--RaceItem CharismaBonus="2" AnyAbilityBonus="2"-->
+<!--RaceItem CharismaBonus="2" DispatchedBonus="2" MaxDispatchedStrengthBonus="1" MaxDispatchedDexterityBonus="1" MaxDispatchedConstitutionBonus="1" MaxDispatchedIntelligenceBonus="1" MaxDispatchedWisdomBonus="1"-->
 
 > <!--ParentNameLink-->[Races](races_hd.md#)<!--/ParentNameLink-->
 

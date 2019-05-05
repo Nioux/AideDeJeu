@@ -207,6 +207,8 @@
                     <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesCommand}" />
                 </Frame>
                 <pickers:StringPickerView BindingContext="{Binding}" Title="Force" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Strength.BaseValue, Mode=TwoWay}" />
+                <Stepper></Stepper>
+                
                 <pickers:StringPickerView BindingContext="{Binding}" Title="Dextérité" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Dexterity.BaseValue, Mode=TwoWay}" />
                 <pickers:StringPickerView BindingContext="{Binding}" Title="Constitution" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Constitution.BaseValue, Mode=TwoWay}" />
                 <pickers:StringPickerView BindingContext="{Binding}" Title="Intelligence" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Intelligence.BaseValue, Mode=TwoWay}" />

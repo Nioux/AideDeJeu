@@ -13,7 +13,14 @@ namespace AideDeJeuLib
         string IntelligenceBonus { get; set; }
         string WisdomBonus { get; set; }
         string CharismaBonus { get; set; }
-        string AnyAbilityBonus { get; set; }
+
+        string DispatchedBonus { get; set; }
+        string MaxDispatchedStrengthBonus { get; set; }
+        string MaxDispatchedDexterityBonus { get; set; }
+        string MaxDispatchedConstitutionBonus { get; set; }
+        string MaxDispatchedIntelligenceBonus { get; set; }
+        string MaxDispatchedWisdomBonus { get; set; }
+        string MaxDispatchedCharismaBonus { get; set; }
 
         string AbilityScoreIncrease { get; set; }
         string Age { get; set; }

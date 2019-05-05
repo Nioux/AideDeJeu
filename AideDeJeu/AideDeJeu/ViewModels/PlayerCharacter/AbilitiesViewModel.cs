@@ -28,12 +28,49 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
     public class AbilityViewModel : BaseViewModel
     {
         private int? _BaseValue = null;
-        public int? BaseValue { get { return _BaseValue; } set { SetProperty(ref _BaseValue, value); OnPropertyChanged(nameof(Value)); OnPropertyChanged(nameof(Mod)); } }
-        private int _Bonus = 0;
-        public int Bonus { get { return _Bonus; } set { SetProperty(ref _Bonus, value); OnPropertyChanged(nameof(Value)); OnPropertyChanged(nameof(Mod)); } }
+        public int? BaseValue
+        {
+            get { return _BaseValue; }
+            set
+            {
+                SetProperty(ref _BaseValue, value);
+                OnPropertyChanged(nameof(Value));
+                OnPropertyChanged(nameof(Mod));
+                OnPropertyChanged(nameof(ValueString));
+                OnPropertyChanged(nameof(ModString));
+            }
+        }
+        private int _RacialBonus = 0;
+        public int RacialBonus
+        {
+            get { return _RacialBonus; }
+            set
+            {
+                SetProperty(ref _RacialBonus, value);
+                OnPropertyChanged(nameof(Value));
+                OnPropertyChanged(nameof(Mod));
+                OnPropertyChanged(nameof(ValueString));
+                OnPropertyChanged(nameof(ModString));
+            }
+        }
+        private int _RacialDispatchedBonus = 0;
+        public int RacialDispatchedBonus
+        {
+            get { return _RacialDispatchedBonus; }
+            set
+            {
+                SetProperty(ref _RacialDispatchedBonus, value);
+                OnPropertyChanged(nameof(Value));
+                OnPropertyChanged(nameof(Mod));
+                OnPropertyChanged(nameof(ValueString));
+                OnPropertyChanged(nameof(ModString));
+            }
+        }
 
-        public int? Value { get { return BaseValue != null ? BaseValue + Bonus : null; } }
+        public int? Value { get { return BaseValue != null ? BaseValue + RacialBonus + RacialDispatchedBonus : null; } }
+        public string ValueString { get { return Value != null ? Value.ToString() : null; } }
         public int? Mod { get { return Value != null ? Value / 2 - 5 : null; } }
+        public string ModString { get { return Mod != null ? Mod.Value.ToString("+0;-#") : null; } }
 
     }
 }
