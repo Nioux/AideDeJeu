@@ -206,6 +206,12 @@
                 <Frame BorderColor="Black" Padding="2" Margin="10">
                     <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesCommand}" />
                 </Frame>
+                <pickers:AbilityPickerView 
+                    BindingContext="{Binding}" 
+                    Title="Force" 
+                    Ability="{Binding SelectedPlayerCharacter.Abilities.Strength}" 
+                    />
+
                 <pickers:StringPickerView BindingContext="{Binding}" Title="Force" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Strength.BaseValue, Mode=TwoWay}" />
                 <Stepper></Stepper>
                 

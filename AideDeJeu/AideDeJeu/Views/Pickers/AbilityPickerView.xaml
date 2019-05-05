@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:tools="clr-namespace:AideDeJeu.Tools"
+             x:Class="AideDeJeu.Views.Pickers.AbilityPickerView"
+             x:Name="this">
+    <ContentView.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+        </ResourceDictionary>
+    </ContentView.Resources>
+    <ContentView.Content>
+      <StackLayout>
+            <Picker Title="{Binding Title, Source={x:Reference this}}" SelectedItem="{Binding Ability.BaseValue, Source={x:Reference this}, Mode=TwoWay}" />
+            <Label Text="{Binding Ability.RacialBonus, Source={x:Reference this}, StringFormat='Bonus : {0}', FallbackValue=''}" />
+            <Label Text="{Binding Ability.DispatchedRacialBonus, Source={x:Reference this}, StringFormat='Bonus : {0}', FallbackValue=''}" />
+            <Stepper Minimum="0" Maximum="1" Value="{Binding Ability.DispatchedRacialBonus, Source={x:Reference this}, Mode=TwoWay}" />
+            <Label Text="{Binding Ability.Value, Source={x:Reference this}, StringFormat='Value : {0}', FallbackValue=''}" />
+            <Label Text="{Binding Ability.Mod, Source={x:Reference this}, StringFormat='Mod : {0}', FallbackValue=''}" />
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>
