@@ -11,8 +11,29 @@
         </ResourceDictionary>
     </ContentView.Resources>
     <ContentView.Content>
-      <StackLayout>
-            <Picker Title="{Binding Title, Source={x:Reference this}}" SelectedItem="{Binding Ability.BaseValue, Source={x:Reference this}, Mode=TwoWay}" />
+      <StackLayout Orientation="Horizontal">
+            <Picker Title="{Binding Title, Source={x:Reference this}}" SelectedItem="{Binding Ability.BaseValue, Source={x:Reference this}, Mode=TwoWay}">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:Int32}">
+                        <x:Int32>3</x:Int32>
+                        <x:Int32>4</x:Int32>
+                        <x:Int32>5</x:Int32>
+                        <x:Int32>6</x:Int32>
+                        <x:Int32>7</x:Int32>
+                        <x:Int32>8</x:Int32>
+                        <x:Int32>9</x:Int32>
+                        <x:Int32>10</x:Int32>
+                        <x:Int32>11</x:Int32>
+                        <x:Int32>12</x:Int32>
+                        <x:Int32>13</x:Int32>
+                        <x:Int32>14</x:Int32>
+                        <x:Int32>15</x:Int32>
+                        <x:Int32>16</x:Int32>
+                        <x:Int32>17</x:Int32>
+                        <x:Int32>18</x:Int32>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
             <Label Text="{Binding Ability.RacialBonus, Source={x:Reference this}, StringFormat='Bonus : {0}', FallbackValue=''}" />
             <Label Text="{Binding Ability.DispatchedRacialBonus, Source={x:Reference this}, StringFormat='Bonus : {0}', FallbackValue=''}" />
             <Stepper Minimum="0" Maximum="1" Value="{Binding Ability.DispatchedRacialBonus, Source={x:Reference this}, Mode=TwoWay}" />
