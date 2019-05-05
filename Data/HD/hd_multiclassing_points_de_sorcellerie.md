@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: multiclassing_hd.md#points-de-sorcellerie
-ParentLink: multiclassing_hd.md#multiclassage
-Name: Points de sorcellerie
-ParentName: Multiclassage
-NameLevel: 4
-Attributes:
-  Name: Points de sorcellerie
-  Markdown: >+
-    #### <!--Name-->Points de sorcellerie<!--/Name-->
-
-
-    Si vous obtenez des points de sorcellerie de deux classes, ils ne s'additionnent pas, car le rythme auquel vous les récupérez peut ne pas être le même selon la classe dont ils sont issus. En revanche, vous pouvez les dépenser indifféremment pour utiliser des sorts ou des aptitudes de l'une ou l'autre classe.
-
-AttributesDictionary: >+
-  Name: Points de sorcellerie
-
-  Markdown: >+
-
-    #### <!--Name-->Points de sorcellerie<!--/Name-->
-
-
-
-
-
-    Si vous obtenez des points de sorcellerie de deux classes, ils ne s'additionnent pas, car le rythme auquel vous les récupérez peut ne pas être le même selon la classe dont ils sont issus. En revanche, vous pouvez les dépenser indifféremment pour utiliser des sorts ou des aptitudes de l'une ou l'autre classe.
-
-
-
----
-> [Multiclassage](hd_multiclassing.md)
+﻿> [Multiclassage](hd_multiclassing.md)
 
 ---
 

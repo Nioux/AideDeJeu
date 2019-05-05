@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: bard_diplomats_hd.md#manipulateur-redoutable
-ParentLink: bard_diplomats_hd.md#collège-des-diplomates
-Name: Manipulateur redoutable
-ParentName: Collège des diplomates
-NameLevel: 2
-Attributes:
-  Name: Manipulateur redoutable
-  Markdown: >+
-    ## <!--Name-->Manipulateur redoutable<!--/Name-->
-
-
-    Au niveau 6, vous pouvez lancer les sorts aura du héros, charme-personne et suggestion en utilisant une action bonus et une inspiration bardique. Vous ajoutez votre dé d'inspiration bardique à la difficulté du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md). Si vous n'avez pas appris ces sorts, vous pouvez lancer chacun d'eux en dépensant une inspiration bardique, mais vous n'ajoutez pas le dé d'inspiration bardique à la difficulté de la sauvegarde.
-
-AttributesDictionary: >+
-  Name: Manipulateur redoutable
-
-  Markdown: >+
-
-    ## <!--Name-->Manipulateur redoutable<!--/Name-->
-
-
-
-
-
-    Au niveau 6, vous pouvez lancer les sorts aura du héros, charme-personne et suggestion en utilisant une action bonus et une inspiration bardique. Vous ajoutez votre dé d'inspiration bardique à la difficulté du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md). Si vous n'avez pas appris ces sorts, vous pouvez lancer chacun d'eux en dépensant une inspiration bardique, mais vous n'ajoutez pas le dé d'inspiration bardique à la difficulté de la sauvegarde.
-
-
-
----
-> [Collège des diplomates](hd_bard_diplomats.md)
+﻿> [Collège des diplomates](hd_bard_diplomats.md)
 
 ---
 

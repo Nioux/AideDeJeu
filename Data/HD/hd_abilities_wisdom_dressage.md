@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: abilities_wisdom_hd.md#dressage
-ParentLink: abilities_wisdom_hd.md#sagesse
-Name: Dressage
-ParentName: Sagesse
-NameLevel: 3
-Attributes:
-  Name: Dressage
-  Markdown: >+
-    ### <!--Name-->Dressage<!--/Name-->
-
-
-    Le MJ peut vous demander de faire un test de Sagesse (Dressage) pour savoir si vous parvenez à calmer un animal domestique, à empêcher une monture de s'affoler ou à deviner les intentions d'un animal. Vous devez aussi faire un test de Sagesse (Dressage) pour contrôler votre monture lors d'une manoeuvre risquée.
-
-AttributesDictionary: >+
-  Name: Dressage
-
-  Markdown: >+
-
-    ### <!--Name-->Dressage<!--/Name-->
-
-
-
-
-
-    Le MJ peut vous demander de faire un test de Sagesse (Dressage) pour savoir si vous parvenez à calmer un animal domestique, à empêcher une monture de s'affoler ou à deviner les intentions d'un animal. Vous devez aussi faire un test de Sagesse (Dressage) pour contrôler votre monture lors d'une manoeuvre risquée.
-
-
-
----
-> [Sagesse](hd_abilities_wisdom.md)
+﻿> [Sagesse](hd_abilities_wisdom.md)
 
 ---
 

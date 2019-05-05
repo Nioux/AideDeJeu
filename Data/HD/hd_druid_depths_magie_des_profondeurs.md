@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: druid_depths_hd.md#magie-des-profondeurs
-ParentLink: druid_depths_hd.md#cercle-des-profondeurs
-Name: Magie des profondeurs
-ParentName: Cercle des profondeurs
-NameLevel: 2
-Attributes:
-  Name: Magie des profondeurs
-  Markdown: >+
-    ## <!--Name-->Magie des profondeurs<!--/Name-->
-
-
-    Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois de plus par repos, si vous avez effectué ce repos sous terre. De plus, lorsque vous êtes sous forme sauvage, vous pouvez utiliser une action bonus pour dépenser un emplacement de sort et ajouter 1d6 par niveau du sort aux dégâts d'une attaque que vous venez de porter. Les dégâts de l'attaque sont considérés comme magiques et du même type que l'attaque initiale.
-
-AttributesDictionary: >+
-  Name: Magie des profondeurs
-
-  Markdown: >+
-
-    ## <!--Name-->Magie des profondeurs<!--/Name-->
-
-
-
-
-
-    Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois de plus par repos, si vous avez effectué ce repos sous terre. De plus, lorsque vous êtes sous forme sauvage, vous pouvez utiliser une action bonus pour dépenser un emplacement de sort et ajouter 1d6 par niveau du sort aux dégâts d'une attaque que vous venez de porter. Les dégâts de l'attaque sont considérés comme magiques et du même type que l'attaque initiale.
-
-
-
----
-> [Cercle des profondeurs](hd_druid_depths.md)
+﻿> [Cercle des profondeurs](hd_druid_depths.md)
 
 ---
 

@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: cleric_guide_hd.md#force-de-persuasion
-ParentLink: cleric_guide_hd.md#guide-spirituel
-Name: Force de persuasion
-ParentName: Guide spirituel
-NameLevel: 2
-Attributes:
-  Name: Force de persuasion
-  Markdown: >+
-    ## <!--Name-->Force de persuasion<!--/Name-->
-
-
-    Nul n'est votre égal pour utiliser les mots et pour convaincre les individus comme les foules de la justesse de vos propos. Au niveau 1, vous obtenez la maîtrise de la compétence [Persuasion](hd_abilities_charisma_persuasion.md). Si vous maîtrisez déjà cette compétence, vous doublez votre bonus de maîtrise lorsque vous l'utilisez.
-
-AttributesDictionary: >+
-  Name: Force de persuasion
-
-  Markdown: >+
-
-    ## <!--Name-->Force de persuasion<!--/Name-->
-
-
-
-
-
-    Nul n'est votre égal pour utiliser les mots et pour convaincre les individus comme les foules de la justesse de vos propos. Au niveau 1, vous obtenez la maîtrise de la compétence [Persuasion](hd_abilities_charisma_persuasion.md). Si vous maîtrisez déjà cette compétence, vous doublez votre bonus de maîtrise lorsque vous l'utilisez.
-
-
-
----
-> [Guide spirituel](hd_cleric_guide.md)
+﻿> [Guide spirituel](hd_cleric_guide.md)
 
 ---
 

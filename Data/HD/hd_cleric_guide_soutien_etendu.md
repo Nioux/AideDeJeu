@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: cleric_guide_hd.md#soutien-étendu
-ParentLink: cleric_guide_hd.md#guide-spirituel
-Name: Soutien étendu
-ParentName: Guide spirituel
-NameLevel: 2
-Attributes:
-  Name: Soutien étendu
-  Markdown: >+
-    ## <!--Name-->Soutien étendu<!--/Name-->
-
-
-    Au niveau 6, lorsque vous lancez le tour de magie assistance, la cible du sort peut appliquer l'effet à un jet d'attaque, et lorsque vous lancez le tour de magie résistance, elle peut appliquer l'effet à sa CA contre une attaque.
-
-AttributesDictionary: >+
-  Name: Soutien étendu
-
-  Markdown: >+
-
-    ## <!--Name-->Soutien étendu<!--/Name-->
-
-
-
-
-
-    Au niveau 6, lorsque vous lancez le tour de magie assistance, la cible du sort peut appliquer l'effet à un jet d'attaque, et lorsque vous lancez le tour de magie résistance, elle peut appliquer l'effet à sa CA contre une attaque.
-
-
-
----
-> [Guide spirituel](hd_cleric_guide.md)
+﻿> [Guide spirituel](hd_cleric_guide.md)
 
 ---
 

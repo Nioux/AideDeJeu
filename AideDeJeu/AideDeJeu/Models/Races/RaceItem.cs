@@ -2,34 +2,34 @@
 
 namespace AideDeJeuLib
 {
-    interface IRaceItem : IItem
-    {
-        string FullName { get; set; }
-        bool HasSubRaces { get; set; }
+    //interface IRaceItem : IItem
+    //{
+    //    string FullName { get; set; }
+    //    bool HasSubRaces { get; set; }
 
-        string StrengthBonus { get; set; }
-        string DexterityBonus { get; set; }
-        string ConstitutionBonus { get; set; }
-        string IntelligenceBonus { get; set; }
-        string WisdomBonus { get; set; }
-        string CharismaBonus { get; set; }
+    //    string StrengthBonus { get; set; }
+    //    string DexterityBonus { get; set; }
+    //    string ConstitutionBonus { get; set; }
+    //    string IntelligenceBonus { get; set; }
+    //    string WisdomBonus { get; set; }
+    //    string CharismaBonus { get; set; }
 
-        string DispatchedBonus { get; set; }
-        string MaxDispatchedStrengthBonus { get; set; }
-        string MaxDispatchedDexterityBonus { get; set; }
-        string MaxDispatchedConstitutionBonus { get; set; }
-        string MaxDispatchedIntelligenceBonus { get; set; }
-        string MaxDispatchedWisdomBonus { get; set; }
-        string MaxDispatchedCharismaBonus { get; set; }
+    //    string DispatchedBonus { get; set; }
+    //    string MaxDispatchedStrengthBonus { get; set; }
+    //    string MaxDispatchedDexterityBonus { get; set; }
+    //    string MaxDispatchedConstitutionBonus { get; set; }
+    //    string MaxDispatchedIntelligenceBonus { get; set; }
+    //    string MaxDispatchedWisdomBonus { get; set; }
+    //    string MaxDispatchedCharismaBonus { get; set; }
 
-        string AbilityScoreIncrease { get; set; }
-        string Age { get; set; }
-        string Alignment { get; set; }
-        string Size { get; set; }
-        string Speed { get; set; }
-        string Darkvision { get; set; }
-        string Languages { get; set; }
-    }
+    //    string AbilityScoreIncrease { get; set; }
+    //    string Age { get; set; }
+    //    string Alignment { get; set; }
+    //    string Size { get; set; }
+    //    string Speed { get; set; }
+    //    string Darkvision { get; set; }
+    //    string Languages { get; set; }
+    //}
     public class RaceItem : Item
     {
         [DataMember]
@@ -50,7 +50,19 @@ namespace AideDeJeuLib
         [DataMember]
         public virtual string CharismaBonus { get; set; }
         [DataMember]
-        public virtual string AnyAbilityBonus { get; set; }
+        public virtual string DispatchedBonus { get; set; }
+        [DataMember]
+        public virtual string MaxDispatchedStrengthBonus { get; set; }
+        [DataMember]
+        public virtual string MaxDispatchedDexterityBonus { get; set; }
+        [DataMember]
+        public virtual string MaxDispatchedConstitutionBonus { get; set; }
+        [DataMember]
+        public virtual string MaxDispatchedIntelligenceBonus { get; set; }
+        [DataMember]
+        public virtual string MaxDispatchedWisdomBonus { get; set; }
+        [DataMember]
+        public virtual string MaxDispatchedCharismaBonus { get; set; }
 
         [DataMember]
         public virtual string AbilityScoreIncrease { get; set; }

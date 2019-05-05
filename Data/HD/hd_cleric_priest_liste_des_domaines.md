@@ -1,26 +1,4 @@
-﻿---
-!GenericItem
-Id: cleric_priest_hd.md#liste-des-domaines
-ParentLink: cleric_priest_hd.md#prêtre
-Name: Liste des domaines
-ParentName: Prêtre
-NameLevel: 2
-Attributes:
-  Name: Liste des domaines
-  Markdown: >+
-    ## <!--Name-->Liste des domaines<!--/Name-->
-
-AttributesDictionary: >+
-  Name: Liste des domaines
-
-  Markdown: >+
-
-    ## <!--Name-->Liste des domaines<!--/Name-->
-
-
-
----
-> [Prêtre](hd_cleric_priest.md)
+﻿> [Prêtre](hd_cleric_priest.md)
 
 ---
 

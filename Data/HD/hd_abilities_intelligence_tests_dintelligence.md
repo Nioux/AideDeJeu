@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: abilities_intelligence_hd.md#tests-dintelligence
-ParentLink: abilities_intelligence_hd.md#intelligence
-Name: Tests d'Intelligence
-ParentName: Intelligence
-NameLevel: 2
-Attributes:
-  Name: Tests d'Intelligence
-  Markdown: >+
-    ## <!--Name-->Tests d'Intelligence<!--/Name-->
-
-
-    Un test d'Intelligence intervient quand vous devez faire appel à la logique, à votre éducation, à vos souvenirs ou à vos capacités de déduction. Les compétences [Arcane], [Histoire](hd_abilities_intelligence_histoire.md), [Investigation](hd_abilities_intelligence_investigation.md), [Nature](hd_abilities_intelligence_nature.md) et [Religion](hd_abilities_intelligence_religion.md) représentent des facettes de cette caractéristique et requièrent des tests d'[Intelligence](hd_abilities_intelligence.md).
-
-AttributesDictionary: >+
-  Name: Tests d'Intelligence
-
-  Markdown: >+
-
-    ## <!--Name-->Tests d'Intelligence<!--/Name-->
-
-
-
-
-
-    Un test d'Intelligence intervient quand vous devez faire appel à la logique, à votre éducation, à vos souvenirs ou à vos capacités de déduction. Les compétences [Arcane], [Histoire](hd_abilities_intelligence_histoire.md), [Investigation](hd_abilities_intelligence_investigation.md), [Nature](hd_abilities_intelligence_nature.md) et [Religion](hd_abilities_intelligence_religion.md) représentent des facettes de cette caractéristique et requièrent des tests d'[Intelligence](hd_abilities_intelligence.md).
-
-
-
----
-> [Intelligence](hd_abilities_intelligence.md)
+﻿> [Intelligence](hd_abilities_intelligence.md)
 
 ---
 

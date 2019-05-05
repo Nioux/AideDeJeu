@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: fighter_champion_hd.md#critique-amélioré
-ParentLink: fighter_champion_hd.md#champion
-Name: Critique amélioré
-ParentName: Champion
-NameLevel: 2
-Attributes:
-  Name: Critique amélioré
-  Markdown: >+
-    ## <!--Name-->Critique amélioré<!--/Name-->
-
-
-    Dès que vous choisissez cet archétype au niveau 3, lorsque vous attaquez avec une arme, vous faites un coup critique sur un résultat de 19 ou 20.
-
-AttributesDictionary: >+
-  Name: Critique amélioré
-
-  Markdown: >+
-
-    ## <!--Name-->Critique amélioré<!--/Name-->
-
-
-
-
-
-    Dès que vous choisissez cet archétype au niveau 3, lorsque vous attaquez avec une arme, vous faites un coup critique sur un résultat de 19 ou 20.
-
-
-
----
-> [Champion](hd_fighter_champion.md)
+﻿> [Champion](hd_fighter_champion.md)
 
 ---
 

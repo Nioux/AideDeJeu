@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: fighter_champion_hd.md#style-de-combat-supplémentaire
-ParentLink: fighter_champion_hd.md#champion
-Name: Style de combat supplémentaire
-ParentName: Champion
-NameLevel: 2
-Attributes:
-  Name: Style de combat supplémentaire
-  Markdown: >+
-    ## <!--Name-->Style de combat supplémentaire<!--/Name-->
-
-
-    Au niveau 10, vous pouvez choisir un deuxième style de combat.
-
-AttributesDictionary: >+
-  Name: Style de combat supplémentaire
-
-  Markdown: >+
-
-    ## <!--Name-->Style de combat supplémentaire<!--/Name-->
-
-
-
-
-
-    Au niveau 10, vous pouvez choisir un deuxième style de combat.
-
-
-
----
-> [Champion](hd_fighter_champion.md)
+﻿> [Champion](hd_fighter_champion.md)
 
 ---
 

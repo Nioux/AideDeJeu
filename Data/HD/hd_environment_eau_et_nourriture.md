@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: environment_hd.md#eau-et-nourriture
-ParentLink: environment_hd.md#l’environnement
-Name: Eau et nourriture
-ParentName: L’environnement
-NameLevel: 1
-Attributes:
-  Name: Eau et nourriture
-  Markdown: >+
-    # <!--Name-->Eau et nourriture<!--/Name-->
-
-
-    Les personnages privés d’eau ou de nourriture subissent les effets de l’épuisement. Une créature ne peut sortir de l’état d’épuisement causé par le manque de nourriture ou d’eau que si elle mange et boit en quantité suffisante.
-
-AttributesDictionary: >+
-  Name: Eau et nourriture
-
-  Markdown: >+
-
-    # <!--Name-->Eau et nourriture<!--/Name-->
-
-
-
-
-
-    Les personnages privés d’eau ou de nourriture subissent les effets de l’épuisement. Une créature ne peut sortir de l’état d’épuisement causé par le manque de nourriture ou d’eau que si elle mange et boit en quantité suffisante.
-
-
-
----
-> [L’environnement](hd_environment.md)
+﻿> [L’environnement](hd_environment.md)
 
 ---
 

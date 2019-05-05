@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: cleric_priest_hd.md#canalisation-dénergie-divine--aptitude-de-domaine
-ParentLink: cleric_priest_hd.md#prêtre
-Name: "Canalisation d'énergie divine : Aptitude de domaine"
-ParentName: Prêtre
-NameLevel: 2
-Attributes:
-  Name: "Canalisation d'énergie divine : Aptitude de domaine"
-  Markdown: >+
-    ## <!--Name-->Canalisation d'énergie divine : Aptitude de domaine<!--/Name-->
-
-
-    Au niveau 8, vous obtenez la canalisation d'énergie divine qui dépend de votre second domaine, celui que vous n'avez pas choisie au niveau 2. Quel que soit le domaine, vous devez utiliser une action pour déclencher cette aptitude. Bien que les effets des canalisations d'énergie divine ne comptent par comme une concentration, vous ne pouvez pas bénéficier des effets des deux aptitudes de domaine à la fois.
-
-AttributesDictionary: >+
-  Name: "Canalisation d'énergie divine : Aptitude de domaine"
-
-  Markdown: >+
-
-    ## <!--Name-->Canalisation d'énergie divine : Aptitude de domaine<!--/Name-->
-
-
-
-
-
-    Au niveau 8, vous obtenez la canalisation d'énergie divine qui dépend de votre second domaine, celui que vous n'avez pas choisie au niveau 2. Quel que soit le domaine, vous devez utiliser une action pour déclencher cette aptitude. Bien que les effets des canalisations d'énergie divine ne comptent par comme une concentration, vous ne pouvez pas bénéficier des effets des deux aptitudes de domaine à la fois.
-
-
-
----
-> [Prêtre](hd_cleric_priest.md)
+﻿> [Prêtre](hd_cleric_priest.md)
 
 ---
 

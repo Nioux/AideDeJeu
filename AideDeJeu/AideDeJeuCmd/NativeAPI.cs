@@ -27,5 +27,20 @@ namespace AideDeJeu.Cmd
         {
             return Path.Combine(Path.GetDirectoryName(Assembly.GetEntryAssembly().Location), $@"..\..\..\..\..\Data\{databaseName}.db");
         }
+
+        public Task SaveStreamAsync(string filename, Stream stream)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public Stream CreateStream(string filename)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public Task LaunchFileAsync(string title, string message, string filePath)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

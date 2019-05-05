@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: poisons_hd.md#poison-de-vouivre-blessure
-ParentLink: poisons_hd.md#les-poisons
-Name: Poison de vouivre (blessure)
-ParentName: Les poisons
-NameLevel: 4
-Attributes:
-  Name: Poison de vouivre (blessure)
-  Markdown: >+
-    #### <!--Name-->Poison de vouivre (blessure)<!--/Name-->
-
-
-    Ce poison se récolte sur une vouivre morte ou [neutralisée]. Une créature soumise à ce poison doit faire un jet de sauvegarde de Constitution DD 15. Si elle échoue, elle subit 24 (7d6) dégâts de poison, la moitié seulement si elle réussit.
-
-AttributesDictionary: >+
-  Name: Poison de vouivre (blessure)
-
-  Markdown: >+
-
-    #### <!--Name-->Poison de vouivre (blessure)<!--/Name-->
-
-
-
-
-
-    Ce poison se récolte sur une vouivre morte ou [neutralisée]. Une créature soumise à ce poison doit faire un jet de sauvegarde de Constitution DD 15. Si elle échoue, elle subit 24 (7d6) dégâts de poison, la moitié seulement si elle réussit.
-
-
-
----
-> [Les poisons](hd_poisons.md)
+﻿> [Les poisons](hd_poisons.md)
 
 ---
 

@@ -262,7 +262,8 @@ namespace AideDeJeuLib
         {
             get
             {
-                return $"---\n{Yaml}---\n{CleanMarkdown}";
+                //return $"---\n{Yaml}---\n{CleanMarkdown}";
+                return CleanMarkdown;
             }
         }
 

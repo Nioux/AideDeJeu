@@ -1,35 +1,4 @@
-﻿---
-!GenericItem
-Id: bard_heralds_hd.md#sur-un-champ-de-bataille
-ParentLink: bard_heralds_hd.md#collège-des-hérauts
-Name: Sur un champ de bataille
-ParentName: Collège des hérauts
-NameLevel: 2
-Attributes:
-  Name: Sur un champ de bataille
-  Markdown: >+
-    ## <!--Name-->Sur un champ de bataille<!--/Name-->
-
-
-    À partir du niveau 6, vous avez appris à vous battre afin d'accompagner les plus intrépides chevaliers sur les champs de batailles. Désormais, vous pouvez attaquer deux fois au lieu d'une lorsque vous choisissez l'action attaquer. Vous obtenez également la maîtrise des armures intermédiaires et de toutes les armes à une main.
-
-AttributesDictionary: >+
-  Name: Sur un champ de bataille
-
-  Markdown: >+
-
-    ## <!--Name-->Sur un champ de bataille<!--/Name-->
-
-
-
-
-
-    À partir du niveau 6, vous avez appris à vous battre afin d'accompagner les plus intrépides chevaliers sur les champs de batailles. Désormais, vous pouvez attaquer deux fois au lieu d'une lorsque vous choisissez l'action attaquer. Vous obtenez également la maîtrise des armures intermédiaires et de toutes les armes à une main.
-
-
-
----
-> [Collège des hérauts](hd_bard_heralds.md)
+﻿> [Collège des hérauts](hd_bard_heralds.md)
 
 ---
 
