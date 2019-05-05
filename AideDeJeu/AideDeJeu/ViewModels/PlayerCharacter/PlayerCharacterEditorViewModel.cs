@@ -7,6 +7,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.Specialized;
+using System.ComponentModel;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
@@ -21,7 +22,10 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
     {
         public PlayerCharacterEditorViewModel()
         {
-            SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel() };
+            SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel(), Abilities = new AbilitiesViewModel() };
+            SelectedPlayerCharacter.PropertyChanged += SelectedPlayerCharacter_PropertyChanged;
+
+
             ResetAlignments();
             Races = new NotifyTaskCompletion<List<RaceViewModel>>(Task.Run(() => LoadRacesAsync()));
             Classes = new NotifyTaskCompletion<List<ClassViewModel>>(Task.Run(() => LoadClassesAsync()));
@@ -45,6 +49,21 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             BackgroundSpecialty = null;
             BackgroundSkill = null;
             SubBackgroundSkill = null;
+        }
+
+        private void SelectedPlayerCharacter_PropertyChanged(object sender, PropertyChangedEventArgs e)
+        {
+            switch(e.PropertyName)
+            {
+                case nameof(SelectedPlayerCharacter.Race):
+                    SelectedPlayerCharacter.Abilities.Strength.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.StrengthBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Dexterity.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.DexterityBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Constitution.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.ConstitutionBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Intelligence.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.IntelligenceBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Wisdom.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.WisdomBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Charisma.Bonus = int.Parse(SelectedPlayerCharacter.Race.Race.CharismaBonus ?? "0");
+                    break;
+            }
         }
 
         #region Selected PC
@@ -795,7 +814,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             "2 (-4)", "3 (-4)", "4 (-3)", "5 (-3)", "6 (-2)", "7 (-2)", "8 (-1)", "9 (-1)", "10 (+0)", "11 (+0)", "12 (+1)", "13 (+1)", "14 (+2)", "15 (+2)", "16 (+3)", "17 (+3)", "18 (+4)", "19 (+4)", "20 (+5)", "21 (+5)"
         };
 
-        private int? _Strength = null;
+/*        private int? _Strength = null;
         public int? Strength
         {
             get
@@ -872,7 +891,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SetProperty(ref _Charisma, value);
             }
         }
-
+        */
         public ICommand RollDicesCommand
         {
             get
@@ -899,12 +918,12 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
 
 
-            Strength = PickAbility(random, ref mins, ref maxs, "Force");
-            Dexterity = PickAbility(random, ref mins, ref maxs, "Dextérité");
-            Constitution = PickAbility(random, ref mins, ref maxs, "Constitution");
-            Intelligence = PickAbility(random, ref mins, ref maxs, "Intelligence");
-            Wisdom = PickAbility(random, ref mins, ref maxs, "Sagesse");
-            Charisma = PickAbility(random, ref mins, ref maxs, "Charisme");
+            SelectedPlayerCharacter.Abilities.Strength.BaseValue = PickAbility(random, ref mins, ref maxs, "Force");
+            SelectedPlayerCharacter.Abilities.Dexterity.BaseValue = PickAbility(random, ref mins, ref maxs, "Dextérité");
+            SelectedPlayerCharacter.Abilities.Constitution.BaseValue = PickAbility(random, ref mins, ref maxs, "Constitution");
+            SelectedPlayerCharacter.Abilities.Intelligence.BaseValue = PickAbility(random, ref mins, ref maxs, "Intelligence");
+            SelectedPlayerCharacter.Abilities.Wisdom.BaseValue = PickAbility(random, ref mins, ref maxs, "Sagesse");
+            SelectedPlayerCharacter.Abilities.Charisma.BaseValue = PickAbility(random, ref mins, ref maxs, "Charisme");
 
             //await GeneratePdfAsync();
             //await OpenPdfAsync();
@@ -1209,18 +1228,18 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 (SelectedPersonalityLink ?? string.Empty) + "\n\n" +
                 (SelectedPersonalityDefect ?? string.Empty)
                 );
-            form.SetField("For Valeur", Strength != null ? Strength.ToString() : string.Empty);
-            form.SetField("For MOD", Strength != null ? (Strength.Value / 2 - 5).ToString() : string.Empty);
-            form.SetField("Dex Valeur", Dexterity != null ? Dexterity.ToString() : string.Empty);
-            form.SetField("Dex MOD", Dexterity != null ? (Dexterity.Value / 2 - 5).ToString() : string.Empty);
-            form.SetField("Con Valeur", Constitution != null ? Constitution.ToString() : string.Empty);
-            form.SetField("Con MOD", Constitution != null ? (Constitution.Value / 2 - 5).ToString() : string.Empty);
-            form.SetField("Int Valeur", Intelligence != null ? Intelligence.ToString() : string.Empty);
-            form.SetField("Int MOD", Intelligence != null ? (Intelligence.Value / 2 - 5).ToString() : string.Empty);
-            form.SetField("Sag Valeur", Wisdom != null ? Wisdom.ToString() : string.Empty);
-            form.SetField("Sag MOD", Wisdom != null ? (Wisdom.Value / 2 - 5).ToString() : string.Empty);
-            form.SetField("Cha Valeur", Charisma != null ? Charisma.ToString() : string.Empty);
-            form.SetField("Cha MOD", Charisma != null ? (Charisma.Value / 2 - 5).ToString() : string.Empty);
+            form.SetField("For Valeur", SelectedPlayerCharacter?.Abilities?.Strength?.Value?.ToString());
+            form.SetField("For MOD", SelectedPlayerCharacter?.Abilities?.Strength?.Mod?.ToString());
+            form.SetField("Dex Valeur", SelectedPlayerCharacter?.Abilities?.Dexterity?.Value?.ToString());
+            form.SetField("Dex MOD", SelectedPlayerCharacter?.Abilities?.Dexterity?.Mod?.ToString());
+            form.SetField("Con Valeur", SelectedPlayerCharacter?.Abilities?.Constitution?.Value?.ToString());
+            form.SetField("Con MOD", SelectedPlayerCharacter?.Abilities?.Constitution?.Mod?.ToString());
+            form.SetField("Int Valeur", SelectedPlayerCharacter?.Abilities?.Intelligence?.Value?.ToString());
+            form.SetField("Int MOD", SelectedPlayerCharacter?.Abilities?.Intelligence?.Mod?.ToString());
+            form.SetField("Sag Valeur", SelectedPlayerCharacter?.Abilities?.Wisdom?.Value?.ToString());
+            form.SetField("Sag MOD", SelectedPlayerCharacter?.Abilities?.Wisdom?.Mod?.ToString());
+            form.SetField("Cha Valeur", SelectedPlayerCharacter?.Abilities?.Charisma?.Value?.ToString());
+            form.SetField("Cha MOD", SelectedPlayerCharacter?.Abilities?.Charisma?.Mod?.ToString());
 
             //PdfContentByte cb = stamper.GetOverContent(1);
             //cb.SetRGBColorFill(255, 0, 0);
@@ -1389,4 +1408,5 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         #endregion Level
 
     }
+
 }

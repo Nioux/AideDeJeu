@@ -206,12 +206,12 @@
                 <Frame BorderColor="Black" Padding="2" Margin="10">
                     <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesCommand}" />
                 </Frame>
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Force" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Strength, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Dextérité" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Dexterity, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Constitution" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Constitution, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Intelligence" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Intelligence, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Sagesse" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Wisdom, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Charisme" ItemsSource="{Binding Abilities}" SelectedItem="{Binding Charisma, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Force" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Strength.BaseValue, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Dextérité" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Dexterity.BaseValue, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Constitution" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Constitution.BaseValue, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Intelligence" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Intelligence.BaseValue, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Sagesse" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Wisdom.BaseValue, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Charisme" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Charisma.BaseValue, Mode=TwoWay}" />
             </StackLayout>
         </ScrollView>
     </ContentPage>
