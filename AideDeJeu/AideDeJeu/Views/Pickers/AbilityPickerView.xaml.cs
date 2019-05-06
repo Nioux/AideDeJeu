@@ -39,26 +39,6 @@ namespace AideDeJeu.Views.Pickers
             typeof(AbilityViewModel),
             typeof(AbilityPickerView),
             defaultValue: default(AbilityViewModel));
-        /*public int RacialBonus
-        {
-            get { return (int)GetValue(RacialBonusProperty); }
-            set { SetValue(RacialBonusProperty, value); }
-        }
-        public static readonly BindableProperty RacialBonusProperty = BindableProperty.Create(
-            nameof(RacialBonus),
-            typeof(int),
-            typeof(AbilityPickerView),
-            defaultValue: default(int));
-        public int DispatchedRacialBonus
-        {
-            get { return (int)GetValue(DispatchedRacialBonusProperty); }
-            set { SetValue(DispatchedRacialBonusProperty, value); }
-        }
-        public static readonly BindableProperty DispatchedRacialBonusProperty = BindableProperty.Create(
-            nameof(DispatchedRacialBonus),
-            typeof(int),
-            typeof(AbilityPickerView),
-            defaultValue: default(int));*/
 
     }
 }

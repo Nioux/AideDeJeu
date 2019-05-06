@@ -8,11 +8,24 @@
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+            <tools:IntComparerToBooleanConverter 
+                x:Key="GreaterToTrueConverter"
+                GreaterThan="True"
+                Default="False"
+                />
         </ResourceDictionary>
     </ContentView.Resources>
     <ContentView.Content>
-      <StackLayout Orientation="Horizontal">
-            <Picker Title="{Binding Title, Source={x:Reference this}}" SelectedItem="{Binding Ability.BaseValue, Source={x:Reference this}, Mode=TwoWay}">
+      <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="80" />
+                <ColumnDefinition Width="80" />
+                <ColumnDefinition Width="80" />
+                <ColumnDefinition Width="80" />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Text="{Binding Title, Source={x:Reference this}}" />
+            <Picker Grid.Column="1" SelectedItem="{Binding Ability.BaseValue, Source={x:Reference this}, Mode=TwoWay}">
                 <Picker.ItemsSource>
                     <x:Array Type="{x:Type x:Int32}">
                         <x:Int32>3</x:Int32>
@@ -34,11 +47,55 @@
                     </x:Array>
                 </Picker.ItemsSource>
             </Picker>
-            <Label Text="{Binding Ability.RacialBonus, Source={x:Reference this}, StringFormat='Bonus : {0}', FallbackValue=''}" />
-            <Label Text="{Binding Ability.DispatchedRacialBonus, Source={x:Reference this}, StringFormat='Bonus : {0}', FallbackValue=''}" />
-            <Stepper Minimum="0" Maximum="1" Value="{Binding Ability.DispatchedRacialBonus, Source={x:Reference this}, Mode=TwoWay}" />
-            <Label Text="{Binding Ability.Value, Source={x:Reference this}, StringFormat='Value : {0}', FallbackValue=''}" />
-            <Label Text="{Binding Ability.Mod, Source={x:Reference this}, StringFormat='Mod : {0}', FallbackValue=''}" />
-        </StackLayout>
+            <Label Grid.Column="2" Text="{Binding Ability.RacialBonus, Source={x:Reference this}, StringFormat='{}{0:+0;-#}', FallbackValue=''}">
+                <Label.IsVisible>
+                    <Binding Source="{x:Reference this}" Path="Ability.RacialBonus">
+                        <Binding.Converter>
+                            <tools:IntComparerToBooleanConverter 
+                                GreaterThan="True"
+                                Default="False"
+                                />
+                        </Binding.Converter>
+                        <Binding.ConverterParameter>
+                            <x:Int32>0</x:Int32>
+                        </Binding.ConverterParameter>
+                    </Binding>
+                </Label.IsVisible>
+            </Label>
+            <Grid Grid.Column="2" IsVisible="{Binding Ability.HasRacialDispatchedBonus, Source={x:Reference this}}">
+                <Label Grid.Column="0" Text="{Binding Ability.RacialDispatchedBonus, Source={x:Reference this}, StringFormat='{}{0:+0;-#}', FallbackValue=''}">
+                    <Label.IsVisible>
+                        <Binding Source="{x:Reference this}" Path="Ability.RacialBonus">
+                            <Binding.Converter>
+                                <tools:IntComparerToBooleanConverter 
+                                EqualsTo="True"
+                                Default="False"
+                                />
+                            </Binding.Converter>
+                            <Binding.ConverterParameter>
+                                <x:Int32>0</x:Int32>
+                            </Binding.ConverterParameter>
+                        </Binding>
+                    </Label.IsVisible>
+                </Label>
+                <Stepper Grid.Column="1" Minimum="0" Maximum="1" Value="{Binding Ability.RacialDispatchedBonus, Source={x:Reference this}, Mode=TwoWay}">
+                    <Stepper.IsVisible>
+                        <Binding Source="{x:Reference this}" Path="Ability.RacialBonus">
+                            <Binding.Converter>
+                                <tools:IntComparerToBooleanConverter 
+                                EqualsTo="True"
+                                Default="False"
+                                />
+                            </Binding.Converter>
+                            <Binding.ConverterParameter>
+                                <x:Int32>0</x:Int32>
+                            </Binding.ConverterParameter>
+                        </Binding>
+                    </Stepper.IsVisible>
+                </Stepper>
+            </Grid>
+            <Label Grid.Column="3" Text="{Binding Ability.Value, Source={x:Reference this}, FallbackValue=''}" />
+            <Label Grid.Column="4" Text="{Binding Ability.Mod, Source={x:Reference this}, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+        </Grid>
   </ContentView.Content>
 </ContentView>

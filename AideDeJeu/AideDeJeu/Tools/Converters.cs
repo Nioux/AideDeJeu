@@ -61,6 +61,40 @@ namespace AideDeJeu.Tools
         }
     }
 
+    public class ComparerToValueConverter<C, T> : IValueConverter where C : IComparable
+    {
+        public T GreaterThan { get; set; }
+        public T EqualsTo { get; set; }
+        public T SmallerThan { get; set; }
+        public T Default { get; set; }
+
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            var valueC = (C)value;
+            var compare = valueC.CompareTo(parameter);
+            if(EqualsTo != null && compare == 0)
+            {
+                return EqualsTo;
+            }
+            if (GreaterThan != null && compare > 0)
+            {
+                return GreaterThan;
+            }
+            if (SmallerThan != null && compare < 0)
+            {
+                return SmallerThan;
+            }
+            return Default;
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return null;
+        }
+    }
+
+    public class IntComparerToBooleanConverter : ComparerToValueConverter<int, bool> { }
+
     public class IntToValueConverter<T> : IValueConverter
     {
         public T NullOrZeroValue { get; set; }

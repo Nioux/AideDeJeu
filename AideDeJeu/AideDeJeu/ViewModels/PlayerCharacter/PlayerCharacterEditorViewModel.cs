@@ -56,12 +56,36 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             switch(e.PropertyName)
             {
                 case nameof(SelectedPlayerCharacter.Race):
-                    SelectedPlayerCharacter.Abilities.Strength.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.StrengthBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Dexterity.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.DexterityBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Constitution.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.ConstitutionBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Intelligence.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.IntelligenceBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Wisdom.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.WisdomBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Charisma.RacialBonus = int.Parse(SelectedPlayerCharacter.Race.Race.CharismaBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Unlisten();
+
+                    SelectedPlayerCharacter.Abilities.MaxRacialDispatchedBonus = int.Parse(SelectedPlayerCharacter.Race.Race.DispatchedBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Strength.MaxRacialDispatchedBonus = int.Parse(SelectedPlayerCharacter.Race.Race.MaxDispatchedStrengthBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Dexterity.MaxRacialDispatchedBonus = int.Parse(SelectedPlayerCharacter.Race.Race.MaxDispatchedDexterityBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Constitution.MaxRacialDispatchedBonus = int.Parse(SelectedPlayerCharacter.Race.Race.MaxDispatchedConstitutionBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Intelligence.MaxRacialDispatchedBonus = int.Parse(SelectedPlayerCharacter.Race.Race.MaxDispatchedIntelligenceBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Wisdom.MaxRacialDispatchedBonus = int.Parse(SelectedPlayerCharacter.Race.Race.MaxDispatchedWisdomBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Charisma.MaxRacialDispatchedBonus = int.Parse(SelectedPlayerCharacter.Race.Race.MaxDispatchedCharismaBonus ?? "0");
+
+                    SelectedPlayerCharacter.Abilities.Strength.RacialBonus = 
+                        int.Parse(SelectedPlayerCharacter.Race.Race?.StrengthBonus ?? "0") +
+                        int.Parse(SelectedPlayerCharacter.Race.SubRace?.StrengthBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Dexterity.RacialBonus = 
+                        int.Parse(SelectedPlayerCharacter.Race.Race?.DexterityBonus ?? "0") +
+                        int.Parse(SelectedPlayerCharacter.Race.SubRace?.DexterityBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Constitution.RacialBonus = 
+                        int.Parse(SelectedPlayerCharacter.Race.Race?.ConstitutionBonus ?? "0") +
+                        int.Parse(SelectedPlayerCharacter.Race.SubRace?.ConstitutionBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Intelligence.RacialBonus = 
+                        int.Parse(SelectedPlayerCharacter.Race.Race?.IntelligenceBonus ?? "0") +
+                        int.Parse(SelectedPlayerCharacter.Race.SubRace?.IntelligenceBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Wisdom.RacialBonus = 
+                        int.Parse(SelectedPlayerCharacter.Race.Race?.WisdomBonus ?? "0") +
+                        int.Parse(SelectedPlayerCharacter.Race.SubRace?.WisdomBonus ?? "0");
+                    SelectedPlayerCharacter.Abilities.Charisma.RacialBonus = 
+                        int.Parse(SelectedPlayerCharacter.Race.Race?.CharismaBonus ?? "0") +
+                        int.Parse(SelectedPlayerCharacter.Race.SubRace?.CharismaBonus ?? "0");
+
+                    SelectedPlayerCharacter.Abilities.Listen();
                     break;
             }
         }
@@ -917,13 +941,14 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 maxs = null;
             }
 
-
+            SelectedPlayerCharacter.Abilities.Unlisten();
             SelectedPlayerCharacter.Abilities.Strength.BaseValue = PickAbility(random, ref mins, ref maxs, "Force");
             SelectedPlayerCharacter.Abilities.Dexterity.BaseValue = PickAbility(random, ref mins, ref maxs, "Dextérité");
             SelectedPlayerCharacter.Abilities.Constitution.BaseValue = PickAbility(random, ref mins, ref maxs, "Constitution");
             SelectedPlayerCharacter.Abilities.Intelligence.BaseValue = PickAbility(random, ref mins, ref maxs, "Intelligence");
             SelectedPlayerCharacter.Abilities.Wisdom.BaseValue = PickAbility(random, ref mins, ref maxs, "Sagesse");
             SelectedPlayerCharacter.Abilities.Charisma.BaseValue = PickAbility(random, ref mins, ref maxs, "Charisme");
+            SelectedPlayerCharacter.Abilities.Listen();
 
             //await GeneratePdfAsync();
             //await OpenPdfAsync();
