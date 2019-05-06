@@ -19,31 +19,31 @@
       <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="100" />
-                <ColumnDefinition Width="80" />
-                <ColumnDefinition Width="80" />
-                <ColumnDefinition Width="80" />
-                <ColumnDefinition Width="80" />
+                <ColumnDefinition Width="50" />
+                <ColumnDefinition Width="50" />
+                <ColumnDefinition Width="50" />
+                <ColumnDefinition Width="50" />
             </Grid.ColumnDefinitions>
             <Label Grid.Column="0" Text="{Binding Title, Source={x:Reference this}}" />
             <Picker Grid.Column="1" SelectedItem="{Binding Ability.BaseValue, Source={x:Reference this}, Mode=TwoWay}">
                 <Picker.ItemsSource>
                     <x:Array Type="{x:Type x:Int32}">
-                        <x:Int32>3</x:Int32>
-                        <x:Int32>4</x:Int32>
-                        <x:Int32>5</x:Int32>
-                        <x:Int32>6</x:Int32>
-                        <x:Int32>7</x:Int32>
-                        <x:Int32>8</x:Int32>
-                        <x:Int32>9</x:Int32>
-                        <x:Int32>10</x:Int32>
-                        <x:Int32>11</x:Int32>
-                        <x:Int32>12</x:Int32>
-                        <x:Int32>13</x:Int32>
-                        <x:Int32>14</x:Int32>
-                        <x:Int32>15</x:Int32>
-                        <x:Int32>16</x:Int32>
-                        <x:Int32>17</x:Int32>
                         <x:Int32>18</x:Int32>
+                        <x:Int32>17</x:Int32>
+                        <x:Int32>16</x:Int32>
+                        <x:Int32>15</x:Int32>
+                        <x:Int32>14</x:Int32>
+                        <x:Int32>13</x:Int32>
+                        <x:Int32>12</x:Int32>
+                        <x:Int32>11</x:Int32>
+                        <x:Int32>10</x:Int32>
+                        <x:Int32>9</x:Int32>
+                        <x:Int32>8</x:Int32>
+                        <x:Int32>7</x:Int32>
+                        <x:Int32>6</x:Int32>
+                        <x:Int32>5</x:Int32>
+                        <x:Int32>4</x:Int32>
+                        <x:Int32>3</x:Int32>
                     </x:Array>
                 </Picker.ItemsSource>
             </Picker>
@@ -62,7 +62,16 @@
                     </Binding>
                 </Label.IsVisible>
             </Label>
-            <Grid Grid.Column="2" IsVisible="{Binding Ability.HasRacialDispatchedBonus, Source={x:Reference this}}">
+            <Picker Grid.Column="2" SelectedItem="{Binding Ability.RacialDispatchedBonus, Source={x:Reference this}, FallbackValue=''}" ItemDisplayBinding="{Binding StringFormat='{}{0:+0;-#}'}" IsVisible="{Binding Ability.HasRacialDispatchedBonus, Source={x:Reference this}}">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:Int32}">
+                        <x:Int32>1</x:Int32>
+                        <x:Int32>0</x:Int32>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <!--<Grid Grid.Column="2" IsVisible="{Binding Ability.HasRacialDispatchedBonus, Source={x:Reference this}}">
                 <Label Grid.Column="0" Text="{Binding Ability.RacialDispatchedBonus, Source={x:Reference this}, StringFormat='{}{0:+0;-#}', FallbackValue=''}">
                     <Label.IsVisible>
                         <Binding Source="{x:Reference this}" Path="Ability.RacialBonus">
@@ -93,7 +102,7 @@
                         </Binding>
                     </Stepper.IsVisible>
                 </Stepper>
-            </Grid>
+            </Grid>-->
             <Label Grid.Column="3" Text="{Binding Ability.Value, Source={x:Reference this}, FallbackValue=''}" />
             <Label Grid.Column="4" Text="{Binding Ability.Mod, Source={x:Reference this}, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
         </Grid>
