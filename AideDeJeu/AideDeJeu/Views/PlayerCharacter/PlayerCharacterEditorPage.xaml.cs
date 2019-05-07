@@ -2,6 +2,7 @@
 using AideDeJeu.ViewModels.PlayerCharacter;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,7 +13,7 @@ using Xamarin.Forms.Xaml;
 namespace AideDeJeu.Views.PlayerCharacter
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class PlayerCharacterEditorPage : TabbedPage
+    public partial class PlayerCharacterEditorPage : CarouselPage
     {
         public PlayerCharacterEditorPage()
         {
@@ -20,6 +21,19 @@ namespace AideDeJeu.Views.PlayerCharacter
 
             InitializeComponent();
 
+        }
+
+        public Command ChangePageCommand
+        {
+            get
+            {
+                return new Command<object>(ExecuteChangePageCommand);
+            }
+        }
+
+        public void ExecuteChangePageCommand(object param)
+        {
+            This.CurrentPage = param as ContentPage;
         }
     }
 }
