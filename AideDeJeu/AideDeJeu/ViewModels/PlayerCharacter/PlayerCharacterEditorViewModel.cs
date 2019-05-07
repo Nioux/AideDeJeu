@@ -1192,7 +1192,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //}
             //pdfDoc.close();
 
-            System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
+            //System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
             //PdfDocument pdfDoc = new PdfDocument(new PdfWriter());
             //var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
             var stream = new FileStream(Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf"), FileMode.Create, FileAccess.ReadWrite);
