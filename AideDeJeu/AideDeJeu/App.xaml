@@ -83,7 +83,7 @@
             </Style>
 
             <Style TargetType="Label" ApplyToDerivedTypes="True">
-                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
+                <!--<Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />-->
             </Style>
 
             <Style TargetType="NavigationPage" ApplyToDerivedTypes="True">

@@ -13,16 +13,14 @@
         x:Name="This"
         Title="Création de personnage"
         android:TabbedPage.IsSwipePagingEnabled="True">
-    <!--SelectedTabColor="{StaticResource HDRed}"
-        UnselectedTabColor="{StaticResource HDMidGrey}"-->
     <CarouselPage.Resources>
         <StyleSheet>
             <![CDATA[
+            button {
+                background-color: transparent;
+            }
             imagebutton {
                 background-color: transparent;
-                padding: 30;
-                width: 150;
-                height: 150;
             }
             frame {
                 border-color: black;
@@ -86,42 +84,6 @@
 
             <pcviews:ClassView Grid.ColumnSpan="2" BindingContext="{Binding}" />
 
-            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
-                <StackLayout>
-                    <pickers:ItemPickerView BindingContext="{Binding}" Title="Classe" ItemsSource="{Binding Classes.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Class, Mode=TwoWay}" />
-                    --><!--<Picker Title="Classe" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Classes.IsSuccessfullyCompleted}" ItemsSource="{Binding Classes.Result}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />--><!--
-
-                    <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Class, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" >
-                        <StackLayout Padding="0">
-
-                            <pickers:ItemView BindingContext="{Binding}" Name="#### Dés de vie" Description="{Binding SelectedPlayerCharacter.Class.HitPoints.HitDice}" />
-                            <pickers:ItemView BindingContext="{Binding}" Name="#### Points de vie au niveau 1" Description="{Binding SelectedPlayerCharacter.Class.HitPoints.HitPointsAt1stLevel}" />
-                            <pickers:ItemView BindingContext="{Binding}" Name="#### Points de vie aux niveaux supérieurs" Description="{Binding SelectedPlayerCharacter.Class.HitPoints.HitPointsAtHigherLevels}" />
-
-                            <pickers:ItemView BindingContext="{Binding}" Name="#### Armures" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Armor}" />
-                            <pickers:ItemView BindingContext="{Binding}" Name="#### Armes" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Weapons}" />
-                            <pickers:ItemView BindingContext="{Binding}" Name="#### Outils" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Tools}" />
-                            <pickers:ItemView BindingContext="{Binding}" Name="#### Jets de sauvegarde" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.SavingThrows}" />
-                            <pickers:ItemView BindingContext="{Binding}" Name="#### Compétences" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Skills}" />
-
-                            <pickers:ItemView BindingContext="{Binding}" Name="#### Équipement" Description="{Binding SelectedPlayerCharacter.Class.Equipment.Description}" />
-
-                            <StackLayout BindableLayout.ItemsSource="{Binding SelectedPlayerCharacter.Class.LeveledFeatures}">
-                                <BindableLayout.ItemTemplate>
-                                    <DataTemplate>
-                                        <StackLayout>
-                                            <pickers:ItemView BindingContext="{Binding}" Name="{Binding Name, StringFormat='#### {0}'}" Description="{Binding Description}" />
-                                        </StackLayout>
-                                    </DataTemplate>
-                                </BindableLayout.ItemTemplate>
-                            </StackLayout>
-
-                        </StackLayout>
-                    </Frame>
-
-                    --><!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" />--><!--
-                </StackLayout>
-            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Race" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Race}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Historique" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Background}"/>
         </Grid>
@@ -139,63 +101,6 @@
 
             <pcviews:BackgroundView Grid.ColumnSpan="2" BindingContext="{Binding}" />
 
-            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
-                <StackLayout>
-
-                    --><!-- DEBUG -->
-                    <!--<Label Text="{Binding Backgrounds.Status, StringFormat='Backgrounds.Status = {0}'}" />
-                <Label Text="{Binding NotifySelectedBackground.Status, StringFormat='NotifySelectedBackground.Status = {0}'}" />
-                <Label Text="{Binding NotifySelectedSubBackground.Status, StringFormat='NotifySelectedSubBackground.Status = {0}'}" />--><!--
-
-                    <pickers:ItemPickerView BindingContext="{Binding}" Title="Historique" ItemsSource="{Binding Backgrounds.Result}" SelectedItem="{Binding SelectedBackground, Mode=TwoWay}" />
-                    <pickers:ItemPickerView BindingContext="{Binding}" Title="Variante" ItemsSource="{Binding SubBackgrounds}" SelectedItem="{Binding SelectedSubBackground, Mode=TwoWay}" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-
-                    --><!-- test -->
-                    <!--<views:StringPickerView BindingContext="{Binding}" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" Title="Compétences" SelectedItem="{Binding PreferedBackground.Abilities}" />--><!--
-
-                    <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
-                        <StackLayout Padding="0">
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Compétences" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding BackgroundOrSubBackground.Abilities}" />
-                        </StackLayout>
-                    </Frame>
-                    <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
-                        <StackLayout Padding="0">
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Outils maîtrisés" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding BackgroundOrSubBackground.MasteredTools}" />
-                        </StackLayout>
-                    </Frame>
-                    <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
-                        <StackLayout Padding="0">
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Langues maîtrisées" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding BackgroundOrSubBackground.MasteredLanguages}" />
-                        </StackLayout>
-                    </Frame>
-                    <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
-                        <StackLayout Padding="0">
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Équipement" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding BackgroundOrSubBackground.Equipment}" />
-                        </StackLayout>
-                    </Frame>
-                    <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding HasBackgroundSkill}">
-                        <StackLayout Padding="0">
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding PreferedBackgroundSkill.Name, StringFormat='# {0}'}" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding PreferedBackgroundSkill.Description}" />
-                        </StackLayout>
-                    </Frame>
-
-                    <pickers:StringPickerView BindingContext="{Binding}" IsVisible="{Binding HasBackgroundSpecialties}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
-
-                    <pickers:StringPickerView BindingContext="{Binding}" Title="Trait de personnalité" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityTraits}" SelectedItem="{Binding SelectedPersonalityTrait, Mode=TwoWay}" />
-
-                    <pickers:StringPickerView BindingContext="{Binding}" Title="Idéal" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityIdeals}" SelectedItem="{Binding SelectedPersonalityIdeal, Mode=TwoWay}" />
-
-                    <pickers:StringPickerView BindingContext="{Binding}" Title="Lien" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityLinks}" SelectedItem="{Binding SelectedPersonalityLink, Mode=TwoWay}" />
-
-                    <pickers:StringPickerView BindingContext="{Binding}" Title="Défaut" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityDefects}" SelectedItem="{Binding SelectedPersonalityDefect, Mode=TwoWay}" />
-
-                </StackLayout>
-            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Classe" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Class}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Caractéristiques" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Abilities}"/>
         </Grid>
@@ -213,68 +118,6 @@
 
             <pcviews:AbilitiesView Grid.ColumnSpan="2" BindingContext="{Binding}" />
 
-
-            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
-                <StackLayout>
-                    <Frame BorderColor="Black" Padding="2" Margin="10">
-                        <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesCommand}" />
-                    </Frame>
-                    <Frame BorderColor="Black" Padding="2" Margin="10">
-                        <StackLayout>
-                            <Grid>
-                                <Grid.ColumnDefinitions>
-                                    <ColumnDefinition Width="100" />
-                                    <ColumnDefinition Width="50" />
-                                    <ColumnDefinition Width="50" />
-                                    <ColumnDefinition Width="50" />
-                                    <ColumnDefinition Width="50" />
-                                </Grid.ColumnDefinitions>
-                                <Label Grid.Column="1" Text="Base" />
-                                <Label Grid.Column="2" Text="Bonus" />
-                                <Label Grid.Column="3" Text="Valeur" />
-                                <Label Grid.Column="4" Text="Mod" />
-                            </Grid>
-                            <pickers:AbilityPickerView 
-                        BindingContext="{Binding}" 
-                        Title="Force" 
-                        Ability="{Binding SelectedPlayerCharacter.Abilities.Strength}" 
-                        />
-                            <pickers:AbilityPickerView 
-                        BindingContext="{Binding}" 
-                        Title="Dextérité" 
-                        Ability="{Binding SelectedPlayerCharacter.Abilities.Dexterity}" 
-                        />
-                            <pickers:AbilityPickerView 
-                        BindingContext="{Binding}" 
-                        Title="Constitution" 
-                        Ability="{Binding SelectedPlayerCharacter.Abilities.Constitution}" 
-                        />
-                            <pickers:AbilityPickerView 
-                        BindingContext="{Binding}" 
-                        Title="Intelligence" 
-                        Ability="{Binding SelectedPlayerCharacter.Abilities.Intelligence}" 
-                        />
-                            <pickers:AbilityPickerView 
-                        BindingContext="{Binding}" 
-                        Title="Sagesse" 
-                        Ability="{Binding SelectedPlayerCharacter.Abilities.Wisdom}" 
-                        />
-                            <pickers:AbilityPickerView 
-                        BindingContext="{Binding}" 
-                        Title="Charisme" 
-                        Ability="{Binding SelectedPlayerCharacter.Abilities.Charisma}" 
-                        />
-                        </StackLayout>
-                    </Frame>
-
-                    --><!--<pickers:StringPickerView BindingContext="{Binding}" Title="Force" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Strength.BaseValue, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Dextérité" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Dexterity.BaseValue, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Constitution" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Constitution.BaseValue, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Intelligence" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Intelligence.BaseValue, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Sagesse" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Wisdom.BaseValue, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Charisme" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Charisma.BaseValue, Mode=TwoWay}" />--><!--
-                </StackLayout>
-            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Historique" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Background}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Équipement" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Equipment}"/>
         </Grid>
@@ -292,10 +135,6 @@
 
             <pcviews:EquipmentView Grid.ColumnSpan="2" BindingContext="{Binding}" />
 
-            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
-                <StackLayout>
-                </StackLayout>
-            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Caractéristiques" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Abilities}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Finalisation" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Finalize}"/>
         </Grid>
@@ -313,17 +152,6 @@
 
             <pcviews:FinalizeView Grid.ColumnSpan="2" BindingContext="{Binding}" />
 
-
-            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
-                <StackLayout>
-                    <Entry Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
-                    --><!--<Picker Title="Alignement" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" ItemsSource="{Binding Alignments.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding AlignmentSelectedIndex, Mode=TwoWay}" />--><!--
-                    <pickers:ItemPickerView BindingContext="{Binding}" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" Title="Alignement" ItemsSource="{Binding Alignments.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Alignment, Mode=TwoWay}" />
-
-                    --><!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Alignment.Description}" />--><!--
-                    <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
-                </StackLayout>
-            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Équipement" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Equipment}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Résumé" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Resume}"/>
         </Grid>
@@ -341,51 +169,7 @@
 
             <pcviews:ResumeView Grid.ColumnSpan="2" BindingContext="{Binding}" />
 
-            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
-                <StackLayout>
-                </StackLayout>
-            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Finalisation" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Finalize}"/>
         </Grid>
     </ContentPage>
-    <!--<StackLayout Orientation="Vertical">
-        <TableView Margin="10,0">
-            <TableRoot>
-                <TableSection Title="Généralités">
-                    <ViewCell Height="50">
-                        <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
-                    </ViewCell>
-                    <ViewCell>
-                        <Picker Title="Race" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" ItemsSource="{Binding Races.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}" />
-                    </ViewCell>
-                    <ViewCell>
-                        <Picker Title="Classe" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Classes.IsSuccessfullyCompleted}" ItemsSource="{Binding Classes.Result}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />
-                    </ViewCell>
-                    <ViewCell>
-                        <Picker Title="Historique" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Backgrounds.IsSuccessfullyCompleted}" ItemsSource="{Binding Backgrounds.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding BackgroundSelectedIndex, Mode=TwoWay}" />
-                    </ViewCell>
-                </TableSection>
-                <TableSection Title="Caractéristiques">
-                    <ViewCell>
-                        <Picker Title="Force" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Force : {0}'}" />
-                    </ViewCell>
-                    <ViewCell>
-                        <Picker Title="Dextérité" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Dextérité : {0}'}" />
-                    </ViewCell>
-                    <ViewCell>
-                        <Picker Title="Constitution" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Constitution : {0}'}" />
-                    </ViewCell>
-                    <ViewCell>
-                        <Picker Title="Intelligence" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Intelligence : {0}'}" />
-                    </ViewCell>
-                    <ViewCell>
-                        <Picker Title="Sagesse" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Sagesse : {0}'}" />
-                    </ViewCell>
-                    <ViewCell>
-                        <Picker Title="Charisme" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Abilities}" ItemDisplayBinding="{Binding StringFormat='Charisme : {0}'}" />
-                    </ViewCell>
-                </TableSection>
-            </TableRoot>
-        </TableView>
-    </StackLayout>-->
 </CarouselPage>
