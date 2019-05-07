@@ -27,5 +27,20 @@ namespace AideDeJeu.iOS
         {
             return NSBundle.MainBundle.PathForResource(databaseName, "db");
         }
+
+        public Task SaveStreamAsync(string filename, Stream stream)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Stream CreateStream(string filename)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task LaunchFileAsync(string title, string message, string filePath)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
