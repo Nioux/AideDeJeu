@@ -1,18 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-        xmlns:tools="clr-namespace:AideDeJeu.Tools"
-        xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
-        xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
+             xmlns:tools="clr-namespace:AideDeJeu.Tools"
+             xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
+             xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
              x:Class="AideDeJeu.Views.PlayerCharacter.RaceView">
     <ContentView.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
-
     </ContentView.Resources>
-  <ContentView.Content>
+    <ContentView.Content>
         <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
             <StackLayout>
                 <pickers:ItemPickerView BindingContext="{Binding}" Title="Race" ItemsSource="{Binding Races.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Race, Mode=TwoWay}" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" />

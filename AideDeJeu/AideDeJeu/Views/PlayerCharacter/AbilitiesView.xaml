@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:tools="clr-namespace:AideDeJeu.Tools"
+             xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
+             xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
+             x:Class="AideDeJeu.Views.PlayerCharacter.AbilitiesView">
+    <ContentView.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+        </ResourceDictionary>
+    </ContentView.Resources>
+    <ContentView.Content>
+        <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
+            <StackLayout>
+                <Frame BorderColor="Black" Padding="2" Margin="10">
+                    <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesCommand}" />
+                </Frame>
+                <Frame BorderColor="Black" Padding="2" Margin="10">
+                    <StackLayout>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="50" />
+                                <ColumnDefinition Width="50" />
+                                <ColumnDefinition Width="50" />
+                                <ColumnDefinition Width="50" />
+                            </Grid.ColumnDefinitions>
+                            <Label Grid.Column="1" Text="Base" />
+                            <Label Grid.Column="2" Text="Bonus" />
+                            <Label Grid.Column="3" Text="Valeur" />
+                            <Label Grid.Column="4" Text="Mod" />
+                        </Grid>
+                        <pickers:AbilityPickerView 
+                        BindingContext="{Binding}" 
+                        Title="Force" 
+                        Ability="{Binding SelectedPlayerCharacter.Abilities.Strength}" 
+                        />
+                        <pickers:AbilityPickerView 
+                        BindingContext="{Binding}" 
+                        Title="Dextérité" 
+                        Ability="{Binding SelectedPlayerCharacter.Abilities.Dexterity}" 
+                        />
+                        <pickers:AbilityPickerView 
+                        BindingContext="{Binding}" 
+                        Title="Constitution" 
+                        Ability="{Binding SelectedPlayerCharacter.Abilities.Constitution}" 
+                        />
+                        <pickers:AbilityPickerView 
+                        BindingContext="{Binding}" 
+                        Title="Intelligence" 
+                        Ability="{Binding SelectedPlayerCharacter.Abilities.Intelligence}" 
+                        />
+                        <pickers:AbilityPickerView 
+                        BindingContext="{Binding}" 
+                        Title="Sagesse" 
+                        Ability="{Binding SelectedPlayerCharacter.Abilities.Wisdom}" 
+                        />
+                        <pickers:AbilityPickerView 
+                        BindingContext="{Binding}" 
+                        Title="Charisme" 
+                        Ability="{Binding SelectedPlayerCharacter.Abilities.Charisma}" 
+                        />
+                    </StackLayout>
+                </Frame>
+
+                <!--<pickers:StringPickerView BindingContext="{Binding}" Title="Force" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Strength.BaseValue, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Dextérité" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Dexterity.BaseValue, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Constitution" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Constitution.BaseValue, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Intelligence" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Intelligence.BaseValue, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Sagesse" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Wisdom.BaseValue, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Charisme" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Charisma.BaseValue, Mode=TwoWay}" />-->
+            </StackLayout>
+        </ScrollView>
+    </ContentView.Content>
+</ContentView>

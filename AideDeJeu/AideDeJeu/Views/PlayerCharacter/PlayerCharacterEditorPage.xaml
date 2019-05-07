@@ -67,51 +67,9 @@
                 <RowDefinition Height="*" />
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
+            
             <pcviews:RaceView Grid.ColumnSpan="2" BindingContext="{Binding}" />
-            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
-                <StackLayout>
-                    <pickers:ItemPickerView BindingContext="{Binding}" Title="Race" ItemsSource="{Binding Races.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Race, Mode=TwoWay}" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" />
 
-                    <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Race, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" >
-                        <StackLayout Padding="0">
-
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Augmentation de caractéristiques" IsVisible="{Binding SelectedPlayerCharacter.Race.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.AbilityScoreIncrease}" IsVisible="{Binding SelectedPlayerCharacter.Race.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Âge" IsVisible="{Binding SelectedPlayerCharacter.Race.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Age}" IsVisible="{Binding SelectedPlayerCharacter.Race.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Alignement" IsVisible="{Binding SelectedPlayerCharacter.Race.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Alignment}" IsVisible="{Binding SelectedPlayerCharacter.Race.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Taille" IsVisible="{Binding SelectedPlayerCharacter.Race.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Size}" IsVisible="{Binding SelectedPlayerCharacter.Race.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vitesse" IsVisible="{Binding SelectedPlayerCharacter.Race.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Speed}" IsVisible="{Binding SelectedPlayerCharacter.Race.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vision dans le noir" IsVisible="{Binding SelectedPlayerCharacter.Race.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Darkvision}" IsVisible="{Binding SelectedPlayerCharacter.Race.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-
-                            <StackLayout BindableLayout.ItemsSource="{Binding SelectedPlayerCharacter.Race.AttributesKeyValue}">
-                                <BindableLayout.ItemTemplate>
-                                    <DataTemplate>
-                                        <StackLayout>
-                                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Value.Key, StringFormat='#### {0}'}" />
-                                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Value.Value}" />
-                                        </StackLayout>
-                                    </DataTemplate>
-                                </BindableLayout.ItemTemplate>
-                            </StackLayout>
-
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Langues" IsVisible="{Binding SelectedPlayerCharacter.Race.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Languages}" IsVisible="{Binding SelectedPlayerCharacter.Race.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-
-                        </StackLayout>
-                    </Frame>
-                    --><!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Markdown}" />--><!--
-                </StackLayout>
-            </ScrollView>-->
             <Button Grid.Column="1" Grid.Row="1" Text="Classe" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Class}"/>
         </Grid>
     </ContentPage>
@@ -125,10 +83,13 @@
                 <RowDefinition Height="*" />
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
-            <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
+
+            <pcviews:ClassView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+
+            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
                 <StackLayout>
                     <pickers:ItemPickerView BindingContext="{Binding}" Title="Classe" ItemsSource="{Binding Classes.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Class, Mode=TwoWay}" />
-                    <!--<Picker Title="Classe" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Classes.IsSuccessfullyCompleted}" ItemsSource="{Binding Classes.Result}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />-->
+                    --><!--<Picker Title="Classe" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Classes.IsSuccessfullyCompleted}" ItemsSource="{Binding Classes.Result}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />--><!--
 
                     <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Class, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" >
                         <StackLayout Padding="0">
@@ -158,9 +119,9 @@
                         </StackLayout>
                     </Frame>
 
-                    <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" />-->
+                    --><!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" />--><!--
                 </StackLayout>
-            </ScrollView>
+            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Race" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Race}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Historique" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Background}"/>
         </Grid>
@@ -175,19 +136,22 @@
                 <RowDefinition Height="*" />
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
-            <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
+
+            <pcviews:BackgroundView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+
+            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
                 <StackLayout>
 
-                    <!-- DEBUG -->
+                    --><!-- DEBUG -->
                     <!--<Label Text="{Binding Backgrounds.Status, StringFormat='Backgrounds.Status = {0}'}" />
                 <Label Text="{Binding NotifySelectedBackground.Status, StringFormat='NotifySelectedBackground.Status = {0}'}" />
-                <Label Text="{Binding NotifySelectedSubBackground.Status, StringFormat='NotifySelectedSubBackground.Status = {0}'}" />-->
+                <Label Text="{Binding NotifySelectedSubBackground.Status, StringFormat='NotifySelectedSubBackground.Status = {0}'}" />--><!--
 
                     <pickers:ItemPickerView BindingContext="{Binding}" Title="Historique" ItemsSource="{Binding Backgrounds.Result}" SelectedItem="{Binding SelectedBackground, Mode=TwoWay}" />
                     <pickers:ItemPickerView BindingContext="{Binding}" Title="Variante" ItemsSource="{Binding SubBackgrounds}" SelectedItem="{Binding SelectedSubBackground, Mode=TwoWay}" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
-                    <!-- test -->
-                    <!--<views:StringPickerView BindingContext="{Binding}" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" Title="Compétences" SelectedItem="{Binding PreferedBackground.Abilities}" />-->
+                    --><!-- test -->
+                    <!--<views:StringPickerView BindingContext="{Binding}" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" Title="Compétences" SelectedItem="{Binding PreferedBackground.Abilities}" />--><!--
 
                     <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
                         <StackLayout Padding="0">
@@ -231,7 +195,7 @@
                     <pickers:StringPickerView BindingContext="{Binding}" Title="Défaut" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityDefects}" SelectedItem="{Binding SelectedPersonalityDefect, Mode=TwoWay}" />
 
                 </StackLayout>
-            </ScrollView>
+            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Classe" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Class}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Caractéristiques" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Abilities}"/>
         </Grid>
@@ -246,7 +210,11 @@
                 <RowDefinition Height="*" />
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
-            <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
+
+            <pcviews:AbilitiesView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+
+
+            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
                 <StackLayout>
                     <Frame BorderColor="Black" Padding="2" Margin="10">
                         <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesCommand}" />
@@ -299,14 +267,14 @@
                         </StackLayout>
                     </Frame>
 
-                    <!--<pickers:StringPickerView BindingContext="{Binding}" Title="Force" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Strength.BaseValue, Mode=TwoWay}" />
+                    --><!--<pickers:StringPickerView BindingContext="{Binding}" Title="Force" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Strength.BaseValue, Mode=TwoWay}" />
                 <pickers:StringPickerView BindingContext="{Binding}" Title="Dextérité" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Dexterity.BaseValue, Mode=TwoWay}" />
                 <pickers:StringPickerView BindingContext="{Binding}" Title="Constitution" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Constitution.BaseValue, Mode=TwoWay}" />
                 <pickers:StringPickerView BindingContext="{Binding}" Title="Intelligence" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Intelligence.BaseValue, Mode=TwoWay}" />
                 <pickers:StringPickerView BindingContext="{Binding}" Title="Sagesse" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Wisdom.BaseValue, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Charisme" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Charisma.BaseValue, Mode=TwoWay}" />-->
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Charisme" ItemsSource="{Binding Abilities}" SelectedItem="{Binding SelectedPlayerCharacter.Abilities.Charisma.BaseValue, Mode=TwoWay}" />--><!--
                 </StackLayout>
-            </ScrollView>
+            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Historique" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Background}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Équipement" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Equipment}"/>
         </Grid>
@@ -321,10 +289,13 @@
                 <RowDefinition Height="*" />
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
-            <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
+
+            <pcviews:EquipmentView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+
+            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
                 <StackLayout>
                 </StackLayout>
-            </ScrollView>
+            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Caractéristiques" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Abilities}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Finalisation" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Finalize}"/>
         </Grid>
@@ -339,16 +310,20 @@
                 <RowDefinition Height="*" />
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
-            <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
+
+            <pcviews:FinalizeView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+
+
+            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
                 <StackLayout>
                     <Entry Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
-                    <!--<Picker Title="Alignement" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" ItemsSource="{Binding Alignments.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding AlignmentSelectedIndex, Mode=TwoWay}" />-->
+                    --><!--<Picker Title="Alignement" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" ItemsSource="{Binding Alignments.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding AlignmentSelectedIndex, Mode=TwoWay}" />--><!--
                     <pickers:ItemPickerView BindingContext="{Binding}" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" Title="Alignement" ItemsSource="{Binding Alignments.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Alignment, Mode=TwoWay}" />
 
-                    <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Alignment.Description}" />-->
+                    --><!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Alignment.Description}" />--><!--
                     <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
                 </StackLayout>
-            </ScrollView>
+            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Équipement" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Equipment}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Résumé" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Resume}"/>
         </Grid>
@@ -364,10 +339,12 @@
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
 
-            <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
+            <pcviews:ResumeView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+
+            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
                 <StackLayout>
                 </StackLayout>
-            </ScrollView>
+            </ScrollView>-->
             <Button Grid.Column="0" Grid.Row="1" Text="Finalisation" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Finalize}"/>
         </Grid>
     </ContentPage>
