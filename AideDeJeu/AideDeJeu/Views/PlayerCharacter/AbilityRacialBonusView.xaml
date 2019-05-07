@@ -12,7 +12,7 @@
     </ContentView.Resources>
     <ContentView.Content>
         <Grid>
-            <Label Text="{Binding Ability.RacialBonus, Source={x:Reference this}, StringFormat='{}{0:+0;-#}', FallbackValue=''}">
+            <Label Text="{Binding Ability.RacialBonus, Source={x:Reference this}, StringFormat='{}{0:+0;-#}', FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center">
                 <Label.IsVisible>
                     <Binding Source="{x:Reference this}" Path="Ability.RacialBonus">
                         <Binding.Converter>

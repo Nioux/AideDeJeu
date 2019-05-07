@@ -22,7 +22,7 @@
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="auto" />
-                    <RowDefinition Height="*" />
+                    <RowDefinition Height="auto" />
                 </Grid.RowDefinitions>
                 <Frame Grid.Column="0" BorderColor="Black" Padding="2" VerticalOptions="Start">
                     <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesCommand}" />
@@ -34,10 +34,9 @@
                     <ImageButton Source="trash_can.png" Command="{Binding RollDicesCommand}" />
                 </Frame>
                 <Frame Grid.Row="1" Grid.ColumnSpan="3" BorderColor="Black" Padding="2" Margin="10">
-                    <!--<StackLayout>-->
-                    <Grid ColumnSpacing="10" RowSpacing="5">
+                    <Grid ColumnSpacing="15" RowSpacing="10" Margin="15">
                         <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="auto" />
                             <ColumnDefinition Width="auto" />
                             <ColumnDefinition Width="auto" />
                             <ColumnDefinition Width="auto" />
@@ -52,78 +51,47 @@
                             <RowDefinition Height="auto" />
                             <RowDefinition Height="auto" />
                         </Grid.RowDefinitions>
-                        <Label Grid.Column="1" Text="Base" />
-                        <Label Grid.Column="2" Text="Bonus" />
-                        <Label Grid.Column="3" Text="Valeur" />
-                        <Label Grid.Column="4" Text="Mod" />
+                        <Label Grid.Column="1" Text="Base" HorizontalTextAlignment="Center" />
+                        <Label Grid.Column="2" Text="Bonus" HorizontalTextAlignment="Center"/>
+                        <Label Grid.Column="3" Text="Valeur" HorizontalTextAlignment="Center"/>
+                        <Label Grid.Column="4" Text="Mod" HorizontalTextAlignment="Center"/>
 
-                        <Label Grid.Row="1" Grid.Column="0" Text="Force" />
+                        <Label Grid.Row="1" Grid.Column="0" Text="Force" VerticalTextAlignment="Center" FontSize="Medium" />
                         <pcviews:AbilityBaseValueView Grid.Row="1" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Strength}" />
                         <pcviews:AbilityRacialBonusView Grid.Row="1" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Strength}" />
-                        <Label Grid.Row="1" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Strength.Value, FallbackValue=''}" />
-                        <Label Grid.Row="1" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Strength.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+                        <Label Grid.Row="1" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Strength.Value, FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
+                        <Label Grid.Row="1" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Strength.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
 
-                        <Label Grid.Row="2" Grid.Column="0" Text="Dextérité" />
+                        <Label Grid.Row="2" Grid.Column="0" Text="Dextérité" VerticalTextAlignment="Center" FontSize="Medium" />
                         <pcviews:AbilityBaseValueView Grid.Row="2" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Dexterity}" />
                         <pcviews:AbilityRacialBonusView Grid.Row="2" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Dexterity}" />
-                        <Label Grid.Row="2" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Dexterity.Value, FallbackValue=''}" />
-                        <Label Grid.Row="2" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Dexterity.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+                        <Label Grid.Row="2" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Dexterity.Value, FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
+                        <Label Grid.Row="2" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Dexterity.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
 
-                        <Label Grid.Row="3" Grid.Column="0" Text="Constitution" />
+                        <Label Grid.Row="3" Grid.Column="0" Text="Constitution" VerticalTextAlignment="Center" FontSize="Medium" />
                         <pcviews:AbilityBaseValueView Grid.Row="3" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Constitution}" />
                         <pcviews:AbilityRacialBonusView Grid.Row="3" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Constitution}" />
-                        <Label Grid.Row="3" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Constitution.Value, FallbackValue=''}" />
-                        <Label Grid.Row="3" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Constitution.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+                        <Label Grid.Row="3" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Constitution.Value, FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
+                        <Label Grid.Row="3" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Constitution.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
 
-                        <Label Grid.Row="4" Grid.Column="0" Text="Intelligence" />
+                        <Label Grid.Row="4" Grid.Column="0" Text="Intelligence" VerticalTextAlignment="Center" FontSize="Medium" />
                         <pcviews:AbilityBaseValueView Grid.Row="4" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Intelligence}" />
                         <pcviews:AbilityRacialBonusView Grid.Row="4" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Intelligence}" />
-                        <Label Grid.Row="4" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Intelligence.Value, FallbackValue=''}" />
-                        <Label Grid.Row="4" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Intelligence.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+                        <Label Grid.Row="4" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Intelligence.Value, FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
+                        <Label Grid.Row="4" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Intelligence.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
 
-                        <Label Grid.Row="5" Grid.Column="0" Text="Sagesse" />
+                        <Label Grid.Row="5" Grid.Column="0" Text="Sagesse" VerticalTextAlignment="Center" FontSize="Medium" />
                         <pcviews:AbilityBaseValueView Grid.Row="5" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Wisdom}" />
                         <pcviews:AbilityRacialBonusView Grid.Row="5" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Wisdom}" />
-                        <Label Grid.Row="5" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Wisdom.Value, FallbackValue=''}" />
-                        <Label Grid.Row="5" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Wisdom.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+                        <Label Grid.Row="5" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Wisdom.Value, FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
+                        <Label Grid.Row="5" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Wisdom.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
 
-                        <Label Grid.Row="6" Grid.Column="0" Text="Charisme" />
+                        <Label Grid.Row="6" Grid.Column="0" Text="Charisme" VerticalTextAlignment="Center" FontSize="Medium" />
                         <pcviews:AbilityBaseValueView Grid.Row="6" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Charisma}" />
                         <pcviews:AbilityRacialBonusView Grid.Row="6" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Charisma}" />
-                        <Label Grid.Row="6" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Charisma.Value, FallbackValue=''}" />
-                        <Label Grid.Row="6" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Charisma.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+                        <Label Grid.Row="6" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Charisma.Value, FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
+                        <Label Grid.Row="6" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Charisma.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center"/>
                     </Grid>
-                    <!--<pickers:AbilityPickerView 
-                            BindingContext="{Binding}" 
-                            Title="Force" 
-                            Ability="{Binding SelectedPlayerCharacter.Abilities.Strength}" 
-                            />-->
-                    <!--<pickers:AbilityPickerView 
-                            BindingContext="{Binding}" 
-                            Title="Dextérité" 
-                            Ability="{Binding SelectedPlayerCharacter.Abilities.Dexterity}" 
-                            />
-                        <pickers:AbilityPickerView 
-                            BindingContext="{Binding}" 
-                            Title="Constitution" 
-                            Ability="{Binding SelectedPlayerCharacter.Abilities.Constitution}" 
-                            />
-                        <pickers:AbilityPickerView 
-                            BindingContext="{Binding}" 
-                            Title="Intelligence" 
-                            Ability="{Binding SelectedPlayerCharacter.Abilities.Intelligence}" 
-                            />
-                        <pickers:AbilityPickerView 
-                            BindingContext="{Binding}" 
-                            Title="Sagesse" 
-                            Ability="{Binding SelectedPlayerCharacter.Abilities.Wisdom}" 
-                            />
-                        <pickers:AbilityPickerView 
-                            BindingContext="{Binding}" 
-                            Title="Charisme" 
-                            Ability="{Binding SelectedPlayerCharacter.Abilities.Charisma}" 
-                            />-->
-                    <!--</StackLayout>-->
                 </Frame>
             </Grid>
         </ScrollView>
