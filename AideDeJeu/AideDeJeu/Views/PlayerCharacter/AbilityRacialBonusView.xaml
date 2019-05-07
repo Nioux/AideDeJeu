@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AideDeJeu.Views.PlayerCharacter.AbilityRacialBonusView"
+             xmlns:tools="clr-namespace:AideDeJeu.Tools"
+             x:Name="this">
+    <ContentView.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+        </ResourceDictionary>
+    </ContentView.Resources>
+    <ContentView.Content>
+        <Grid>
+            <Label Text="{Binding Ability.RacialBonus, Source={x:Reference this}, StringFormat='{}{0:+0;-#}', FallbackValue=''}">
+                <Label.IsVisible>
+                    <Binding Source="{x:Reference this}" Path="Ability.RacialBonus">
+                        <Binding.Converter>
+                            <tools:IntComparerToBooleanConverter 
+                                GreaterThan="True"
+                                Default="False"
+                                />
+                        </Binding.Converter>
+                        <Binding.ConverterParameter>
+                            <x:Int32>0</x:Int32>
+                        </Binding.ConverterParameter>
+                    </Binding>
+                </Label.IsVisible>
+            </Label>
+            <Picker SelectedItem="{Binding Ability.RacialDispatchedBonus, Source={x:Reference this}, FallbackValue=''}" ItemDisplayBinding="{Binding StringFormat='{}{0:+0;-#}'}" IsVisible="{Binding Ability.HasRacialDispatchedBonus, Source={x:Reference this}}">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:Int32}">
+                        <x:Int32>1</x:Int32>
+                        <x:Int32>0</x:Int32>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+        </Grid>
+    </ContentView.Content>
+</ContentView>

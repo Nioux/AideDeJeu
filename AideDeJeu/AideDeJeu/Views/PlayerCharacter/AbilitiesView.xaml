@@ -4,6 +4,7 @@
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
+             xmlns:pcviews="clr-namespace:AideDeJeu.Views.PlayerCharacter"
              x:Class="AideDeJeu.Views.PlayerCharacter.AbilitiesView">
     <ContentView.Resources>
         <ResourceDictionary>
@@ -33,26 +34,71 @@
                     <ImageButton Source="trash_can.png" Command="{Binding RollDicesCommand}" />
                 </Frame>
                 <Frame Grid.Row="1" Grid.ColumnSpan="3" BorderColor="Black" Padding="2" Margin="10">
-                    <StackLayout>
-                        <Grid>
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="100" />
-                                <ColumnDefinition Width="50" />
-                                <ColumnDefinition Width="50" />
-                                <ColumnDefinition Width="50" />
-                                <ColumnDefinition Width="50" />
-                            </Grid.ColumnDefinitions>
-                            <Label Grid.Column="1" Text="Base" />
-                            <Label Grid.Column="2" Text="Bonus" />
-                            <Label Grid.Column="3" Text="Valeur" />
-                            <Label Grid.Column="4" Text="Mod" />
-                        </Grid>
-                        <pickers:AbilityPickerView 
+                    <!--<StackLayout>-->
+                    <Grid ColumnSpacing="10" RowSpacing="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                            <RowDefinition Height="auto" />
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="1" Text="Base" />
+                        <Label Grid.Column="2" Text="Bonus" />
+                        <Label Grid.Column="3" Text="Valeur" />
+                        <Label Grid.Column="4" Text="Mod" />
+
+                        <Label Grid.Row="1" Grid.Column="0" Text="Force" />
+                        <pcviews:AbilityBaseValueView Grid.Row="1" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Strength}" />
+                        <pcviews:AbilityRacialBonusView Grid.Row="1" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Strength}" />
+                        <Label Grid.Row="1" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Strength.Value, FallbackValue=''}" />
+                        <Label Grid.Row="1" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Strength.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+
+                        <Label Grid.Row="2" Grid.Column="0" Text="Dextérité" />
+                        <pcviews:AbilityBaseValueView Grid.Row="2" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Dexterity}" />
+                        <pcviews:AbilityRacialBonusView Grid.Row="2" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Dexterity}" />
+                        <Label Grid.Row="2" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Dexterity.Value, FallbackValue=''}" />
+                        <Label Grid.Row="2" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Dexterity.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+
+                        <Label Grid.Row="3" Grid.Column="0" Text="Constitution" />
+                        <pcviews:AbilityBaseValueView Grid.Row="3" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Constitution}" />
+                        <pcviews:AbilityRacialBonusView Grid.Row="3" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Constitution}" />
+                        <Label Grid.Row="3" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Constitution.Value, FallbackValue=''}" />
+                        <Label Grid.Row="3" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Constitution.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+
+                        <Label Grid.Row="4" Grid.Column="0" Text="Intelligence" />
+                        <pcviews:AbilityBaseValueView Grid.Row="4" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Intelligence}" />
+                        <pcviews:AbilityRacialBonusView Grid.Row="4" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Intelligence}" />
+                        <Label Grid.Row="4" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Intelligence.Value, FallbackValue=''}" />
+                        <Label Grid.Row="4" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Intelligence.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+
+                        <Label Grid.Row="5" Grid.Column="0" Text="Sagesse" />
+                        <pcviews:AbilityBaseValueView Grid.Row="5" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Wisdom}" />
+                        <pcviews:AbilityRacialBonusView Grid.Row="5" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Wisdom}" />
+                        <Label Grid.Row="5" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Wisdom.Value, FallbackValue=''}" />
+                        <Label Grid.Row="5" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Wisdom.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+
+                        <Label Grid.Row="6" Grid.Column="0" Text="Charisme" />
+                        <pcviews:AbilityBaseValueView Grid.Row="6" Grid.Column="1" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Charisma}" />
+                        <pcviews:AbilityRacialBonusView Grid.Row="6" Grid.Column="2" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Charisma}" />
+                        <Label Grid.Row="6" Grid.Column="3" Text="{Binding SelectedPlayerCharacter.Abilities.Charisma.Value, FallbackValue=''}" />
+                        <Label Grid.Row="6" Grid.Column="4" Text="{Binding SelectedPlayerCharacter.Abilities.Charisma.Mod, StringFormat='{}{0:+0;-#}', FallbackValue=''}" />
+                    </Grid>
+                    <!--<pickers:AbilityPickerView 
                             BindingContext="{Binding}" 
                             Title="Force" 
                             Ability="{Binding SelectedPlayerCharacter.Abilities.Strength}" 
-                            />
-                        <pickers:AbilityPickerView 
+                            />-->
+                    <!--<pickers:AbilityPickerView 
                             BindingContext="{Binding}" 
                             Title="Dextérité" 
                             Ability="{Binding SelectedPlayerCharacter.Abilities.Dexterity}" 
@@ -76,8 +122,8 @@
                             BindingContext="{Binding}" 
                             Title="Charisme" 
                             Ability="{Binding SelectedPlayerCharacter.Abilities.Charisma}" 
-                            />
-                    </StackLayout>
+                            />-->
+                    <!--</StackLayout>-->
                 </Frame>
             </Grid>
         </ScrollView>
