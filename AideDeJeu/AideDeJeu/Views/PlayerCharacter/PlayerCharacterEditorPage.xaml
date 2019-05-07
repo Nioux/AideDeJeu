@@ -8,6 +8,7 @@
         xmlns:tools="clr-namespace:AideDeJeu.Tools"
         xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
         xmlns:views="clr-namespace:AideDeJeu.Views"
+        xmlns:pcviews="clr-namespace:AideDeJeu.Views.PlayerCharacter"
         xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
         x:Name="This"
         Title="Création de personnage"
@@ -66,10 +67,10 @@
                 <RowDefinition Height="*" />
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
-            <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
+            <pcviews:RaceView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+            <!--<ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
                 <StackLayout>
                     <pickers:ItemPickerView BindingContext="{Binding}" Title="Race" ItemsSource="{Binding Races.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Race, Mode=TwoWay}" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" />
-                    <!--<Picker Title="Race" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Races.IsSuccessfullyCompleted}" ItemsSource="{Binding Races.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding RaceSelectedIndex, Mode=TwoWay}" />-->
 
                     <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Race, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" >
                         <StackLayout Padding="0">
@@ -108,9 +109,9 @@
 
                         </StackLayout>
                     </Frame>
-                    <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Markdown}" />-->
+                    --><!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Markdown}" />--><!--
                 </StackLayout>
-            </ScrollView>
+            </ScrollView>-->
             <Button Grid.Column="1" Grid.Row="1" Text="Classe" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Class}"/>
         </Grid>
     </ContentPage>
