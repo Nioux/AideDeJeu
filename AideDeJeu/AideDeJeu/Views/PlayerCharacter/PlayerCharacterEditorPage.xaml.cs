@@ -23,6 +23,16 @@ namespace AideDeJeu.Views.PlayerCharacter
 
         }
 
+        protected override bool OnBackButtonPressed()
+        {
+            Device.BeginInvokeOnMainThread(async () => {
+                var result = await this.DisplayAlert("Attention", "Si vous revenez au menu, vous perdrez le personnage en cours de création", "Menu", "Annuler");
+                if (result) await this.Navigation.PopAsync();
+            });
+            return true;
+            //return base.OnBackButtonPressed();
+        }
+
         public Command ChangePageCommand
         {
             get

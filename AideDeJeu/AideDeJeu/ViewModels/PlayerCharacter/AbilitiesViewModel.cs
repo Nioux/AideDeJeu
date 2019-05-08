@@ -212,6 +212,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 OnPropertyChanged(nameof(Mod));
                 OnPropertyChanged(nameof(ValueString));
                 OnPropertyChanged(nameof(ModString));
+                OnPropertyChanged(nameof(HasRacialBonus));
             }
         }
         private int _RacialDispatchedBonus = 0;
@@ -238,6 +239,13 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 SetProperty(ref _MaxRacialDispatchedBonus, value);
                 OnPropertyChanged(nameof(HasRacialDispatchedBonus));
+            }
+        }
+        public bool HasRacialBonus
+        {
+            get
+            {
+                return _RacialBonus != 0;
             }
         }
         public bool HasRacialDispatchedBonus

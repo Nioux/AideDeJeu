@@ -8,12 +8,13 @@
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+            <tools:NullToTrueConverter x:Key="NullToTrueConverter" />
         </ResourceDictionary>
     </ContentView.Resources>
     <ContentView.Content>
         <Grid>
-            <Label Text="{Binding Ability.RacialBonus, Source={x:Reference this}, StringFormat='{}{0:+0;-#}', FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center">
-                <Label.IsVisible>
+            <Label Text="{Binding Ability.RacialBonus, Source={x:Reference this}, StringFormat='{}{0:+0;-#}', FallbackValue=''}" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="Center" IsVisible="{Binding Ability.HasRacialBonus, Source={x:Reference this}}">
+                <!--<Label.IsVisible>
                     <Binding Source="{x:Reference this}" Path="Ability.RacialBonus">
                         <Binding.Converter>
                             <tools:IntComparerToBooleanConverter 
@@ -25,7 +26,7 @@
                             <x:Int32>0</x:Int32>
                         </Binding.ConverterParameter>
                     </Binding>
-                </Label.IsVisible>
+                </Label.IsVisible>-->
             </Label>
             <Picker SelectedItem="{Binding Ability.RacialDispatchedBonus, Source={x:Reference this}, FallbackValue=''}" ItemDisplayBinding="{Binding StringFormat='{}{0:+0;-#}'}" IsVisible="{Binding Ability.HasRacialDispatchedBonus, Source={x:Reference this}}">
                 <Picker.ItemsSource>

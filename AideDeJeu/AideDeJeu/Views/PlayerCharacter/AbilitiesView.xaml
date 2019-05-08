@@ -25,16 +25,16 @@
                     <RowDefinition Height="auto" />
                 </Grid.RowDefinitions>
                 <Frame Grid.Column="0" BorderColor="Black" Padding="2" VerticalOptions="Start">
-                    <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesCommand}" />
+                    <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesMRickCommand}" />
                 </Frame>
                 <Frame Grid.Column="1" BorderColor="Black" Padding="2">
-                    <ImageButton Source="cubes.png" Command="{Binding RollDicesCommand}" />
+                    <ImageButton Source="cubes.png" Command="{Binding RollDices2d6plus6Command}" />
                 </Frame>
                 <Frame Grid.Column="2" BorderColor="Black" Padding="2">
-                    <ImageButton Source="trash_can.png" Command="{Binding RollDicesCommand}" />
+                    <ImageButton Source="trash_can.png" Command="{Binding ResetDicesCommand}" />
                 </Frame>
                 <Frame Grid.Row="1" Grid.ColumnSpan="3" BorderColor="Black" Padding="2" Margin="10">
-                    <Grid ColumnSpacing="15" RowSpacing="10" Margin="15">
+                    <Grid RowSpacing="10" Margin="15">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="*" />
                             <ColumnDefinition Width="*" />
@@ -56,10 +56,10 @@
                             <RowDefinition Height="auto" />
                             <RowDefinition Height="auto" />
                         </Grid.RowDefinitions>
-                        <Label Grid.Column="0" Text="Base" HorizontalTextAlignment="Center" />
-                        <Label Grid.Column="1" Text="Bonus" HorizontalTextAlignment="Center"/>
-                        <Label Grid.Column="2" Text="Valeur" HorizontalTextAlignment="Center"/>
-                        <Label Grid.Column="3" Text="Mod" HorizontalTextAlignment="Center"/>
+                        <Label Grid.Column="0" Text="Base" HorizontalTextAlignment="Center" FontSize="Medium" />
+                        <Label Grid.Column="1" Text="Bonus" HorizontalTextAlignment="Center" FontSize="Medium" />
+                        <Label Grid.Column="2" Text="Valeur" HorizontalTextAlignment="Center" FontSize="Medium" />
+                        <Label Grid.Column="3" Text="Mod" HorizontalTextAlignment="Center" FontSize="Medium" />
 
                         <Label Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" Text="Force" VerticalTextAlignment="Center" FontSize="Medium" />
                         <pcviews:AbilityBaseValueView Grid.Row="2" Grid.Column="0" BindingContext="{Binding}" Ability="{Binding SelectedPlayerCharacter.Abilities.Strength}" />

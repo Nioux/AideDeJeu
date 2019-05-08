@@ -20,8 +20,11 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 {
     public class PlayerCharacterEditorViewModel : BaseViewModel
     {
+        private Random _Random;
         public PlayerCharacterEditorViewModel()
         {
+            _Random = new Random(DateTime.Now.Millisecond);
+
             SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel(), Abilities = new AbilitiesViewModel() };
             SelectedPlayerCharacter.PropertyChanged += SelectedPlayerCharacter_PropertyChanged;
 
@@ -916,17 +919,46 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
         }
         */
-        public ICommand RollDicesCommand
+        public ICommand RollDicesMRickCommand
         {
             get
             {
-                return new Command(async () => await ExecuteRollDicesCommandAsync());
+                return new Command(() => PrefillDices(RollMRick()));
             }
         }
-        private async Task ExecuteRollDicesCommandAsync()
+        public ICommand RollDices2d6plus6Command
         {
-            var random = new Random(DateTime.Now.Millisecond);
-            var values = RollMRick(random);
+            get
+            {
+                return new Command(() => PrefillDices(Roll6x2d6plus6()));
+            }
+        }
+        public ICommand ResetDicesCommand
+        {
+            get
+            {
+                return new Command(() => ExecuteResetDicesCommand());
+            }
+        }
+        private void ExecuteResetDicesCommand()
+        {
+            SelectedPlayerCharacter.Abilities.Unlisten();
+            SelectedPlayerCharacter.Abilities.Strength.BaseValue = null;
+            SelectedPlayerCharacter.Abilities.Strength.RacialDispatchedBonus = 0;
+            SelectedPlayerCharacter.Abilities.Dexterity.BaseValue = null;
+            SelectedPlayerCharacter.Abilities.Dexterity.RacialDispatchedBonus = 0;
+            SelectedPlayerCharacter.Abilities.Constitution.BaseValue = null;
+            SelectedPlayerCharacter.Abilities.Constitution.RacialDispatchedBonus = 0;
+            SelectedPlayerCharacter.Abilities.Intelligence.BaseValue = null;
+            SelectedPlayerCharacter.Abilities.Intelligence.RacialDispatchedBonus = 0;
+            SelectedPlayerCharacter.Abilities.Wisdom.BaseValue = null;
+            SelectedPlayerCharacter.Abilities.Wisdom.RacialDispatchedBonus = 0;
+            SelectedPlayerCharacter.Abilities.Charisma.BaseValue = null;
+            SelectedPlayerCharacter.Abilities.Charisma.RacialDispatchedBonus = 0;
+            SelectedPlayerCharacter.Abilities.Listen();
+        }
+        private void PrefillDices(List<int> values)
+        { 
             values.Sort();
             List<int> mins;
             List<int> maxs;
@@ -942,16 +974,13 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
 
             SelectedPlayerCharacter.Abilities.Unlisten();
-            SelectedPlayerCharacter.Abilities.Strength.BaseValue = PickAbility(random, ref mins, ref maxs, "Force");
-            SelectedPlayerCharacter.Abilities.Dexterity.BaseValue = PickAbility(random, ref mins, ref maxs, "Dextérité");
-            SelectedPlayerCharacter.Abilities.Constitution.BaseValue = PickAbility(random, ref mins, ref maxs, "Constitution");
-            SelectedPlayerCharacter.Abilities.Intelligence.BaseValue = PickAbility(random, ref mins, ref maxs, "Intelligence");
-            SelectedPlayerCharacter.Abilities.Wisdom.BaseValue = PickAbility(random, ref mins, ref maxs, "Sagesse");
-            SelectedPlayerCharacter.Abilities.Charisma.BaseValue = PickAbility(random, ref mins, ref maxs, "Charisme");
+            SelectedPlayerCharacter.Abilities.Strength.BaseValue = PickAbility(ref mins, ref maxs, "Force");
+            SelectedPlayerCharacter.Abilities.Dexterity.BaseValue = PickAbility(ref mins, ref maxs, "Dextérité");
+            SelectedPlayerCharacter.Abilities.Constitution.BaseValue = PickAbility(ref mins, ref maxs, "Constitution");
+            SelectedPlayerCharacter.Abilities.Intelligence.BaseValue = PickAbility(ref mins, ref maxs, "Intelligence");
+            SelectedPlayerCharacter.Abilities.Wisdom.BaseValue = PickAbility(ref mins, ref maxs, "Sagesse");
+            SelectedPlayerCharacter.Abilities.Charisma.BaseValue = PickAbility(ref mins, ref maxs, "Charisme");
             SelectedPlayerCharacter.Abilities.Listen();
-
-            //await GeneratePdfAsync();
-            //await OpenPdfAsync();
         }
 
         public BaseFont findFontInForm(PdfReader reader, PdfName fontname)
@@ -1384,44 +1413,53 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             */
         }
 
-        private int PickAbility(Random random, ref List<int> mins, ref List<int> maxs, string name)
+        private int PickAbility(ref List<int> mins, ref List<int> maxs, string name)
         {
             var value = SelectedPlayerCharacter.Class?.Proficiencies?.SavingThrows?.Contains(name);
             if (value == true)
             {
-                return PickOne(random, ref maxs);
+                return PickOne(ref maxs);
             }
             else
             {
-                return PickOne(random, ref mins);
+                return PickOne(ref mins);
             }
         }
 
-        private int PickOne(Random random, ref List<int> values)
+        private int PickOne(ref List<int> values)
         {
-            var index = random.Next(values.Count);
+            var index = _Random.Next(values.Count);
             var pick = values[index];
             values.RemoveAt(index);
             return pick;
         }
 
-        private List<int> RollMRick(Random random)
+        private List<int> RollMRick()
         {
             var dices = new List<int>();
-            var roll = Roll2d6(random);
+            var roll = Roll2d6();
             dices.Add(6 + roll);
             dices.Add(19 - roll);
-            roll = Roll2d6(random);
+            roll = Roll2d6();
             dices.Add(6 + roll);
             dices.Add(19 - roll);
-            roll = Roll2d6(random);
+            roll = Roll2d6();
             dices.Add(6 + roll);
             dices.Add(19 - roll);
             return dices;
         }
-        private int Roll2d6(Random random)
+        private List<int> Roll6x2d6plus6()
         {
-            return random.Next(6) + random.Next(6) + 2;
+            var dices = new List<int>();
+            for(int i = 0; i < 6; i++)
+            {
+                dices.Add(Roll2d6() + 6);
+            }
+            return dices;
+        }
+        private int Roll2d6()
+        {
+            return _Random.Next(6) + _Random.Next(6) + 2;
         }
         #endregion Abilities
 
