@@ -7,7 +7,7 @@
     <ContentPage.Content>
         <StackLayout>
             <StackLayout Orientation="Horizontal">
-                <Picker SelectedItem="{Binding BindingContext.Quantity, Mode=TwoWay}">
+                <Picker SelectedItem="{Binding Quantity, Mode=TwoWay}">
                     <Picker.ItemsSource>
                         <x:Array Type="{x:Type x:Int32}">
                             <x:Int32>6</x:Int32>
@@ -19,7 +19,7 @@
                         </x:Array>
                     </Picker.ItemsSource>
                 </Picker>
-                <Picker ItemDisplayBinding="{Binding StringFormat='d{0}'}" SelectedItem="{Binding BindingContext.Type, Mode=TwoWay}">
+                <Picker ItemDisplayBinding="{Binding StringFormat='d{0}'}" SelectedItem="{Binding Type, Mode=TwoWay}">
                     <Picker.ItemsSource>
                         <x:Array Type="{x:Type x:Int32}">
                             <x:Int32>20</x:Int32>
@@ -31,7 +31,7 @@
                         </x:Array>
                     </Picker.ItemsSource>
                 </Picker>
-                <Picker ItemDisplayBinding="{Binding StringFormat='{}{0:+0;-#}'}" SelectedItem="{Binding BindingContext.Mod, Mode=TwoWay}">
+                <Picker ItemDisplayBinding="{Binding StringFormat='{}{0:+0;-#}'}" SelectedItem="{Binding Mod, Mode=TwoWay}">
                     <Picker.ItemsSource>
                         <x:Array Type="{x:Type x:Int32}">
                             <x:Int32>10</x:Int32>
