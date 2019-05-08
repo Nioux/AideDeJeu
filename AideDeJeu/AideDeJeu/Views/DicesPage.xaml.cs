@@ -18,15 +18,24 @@ namespace AideDeJeu.Views
         public DicesPage()
         {
             InitializeComponent();
+            var vm = new DiceRollerViewModel();
+            vm.PropertyChanged += Vm_PropertyChanged;
+            BindingContext = vm;
+        }
+
+        private void Vm_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
+        {
+            CanvasDices.InvalidateSurface();
         }
 
         private void SKCanvasView_PaintSurface(object sender, SkiaSharp.Views.Forms.SKPaintSurfaceEventArgs args)
         {
+            var vm = BindingContext as DiceRollerViewModel;
             var diceRoller = new DiceRollerViewModel();
-            var diceRolls = diceRoller.DicesValues(6, 3);
+            var diceRolls = diceRoller.DicesValues(vm.Type, vm.Quantity);
             foreach (var diceRoll in diceRolls)
             {
-                Debug.WriteLine($"{diceRoll.Key} => {diceRoll.Value / 3}");
+                Debug.WriteLine($"{diceRoll.Key} => {diceRoll.Value / vm.Quantity}");
             }
 
 

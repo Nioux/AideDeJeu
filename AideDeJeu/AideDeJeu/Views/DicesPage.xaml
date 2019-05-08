@@ -6,17 +6,65 @@
              x:Class="AideDeJeu.Views.DicesPage">
     <ContentPage.Content>
         <StackLayout>
-            <!--<Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />-->
             <StackLayout Orientation="Horizontal">
+                <Picker SelectedItem="{Binding BindingContext.Quantity, Mode=TwoWay}">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:Int32}">
+                            <x:Int32>6</x:Int32>
+                            <x:Int32>5</x:Int32>
+                            <x:Int32>4</x:Int32>
+                            <x:Int32>3</x:Int32>
+                            <x:Int32>2</x:Int32>
+                            <x:Int32>1</x:Int32>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+                <Picker ItemDisplayBinding="{Binding StringFormat='d{0}'}" SelectedItem="{Binding BindingContext.Type, Mode=TwoWay}">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:Int32}">
+                            <x:Int32>20</x:Int32>
+                            <x:Int32>12</x:Int32>
+                            <x:Int32>10</x:Int32>
+                            <x:Int32>8</x:Int32>
+                            <x:Int32>6</x:Int32>
+                            <x:Int32>4</x:Int32>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+                <Picker ItemDisplayBinding="{Binding StringFormat='{}{0:+0;-#}'}" SelectedItem="{Binding BindingContext.Mod, Mode=TwoWay}">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:Int32}">
+                            <x:Int32>10</x:Int32>
+                            <x:Int32>9</x:Int32>
+                            <x:Int32>8</x:Int32>
+                            <x:Int32>7</x:Int32>
+                            <x:Int32>6</x:Int32>
+                            <x:Int32>5</x:Int32>
+                            <x:Int32>4</x:Int32>
+                            <x:Int32>3</x:Int32>
+                            <x:Int32>2</x:Int32>
+                            <x:Int32>1</x:Int32>
+                            <x:Int32>0</x:Int32>
+                            <x:Int32>-1</x:Int32>
+                            <x:Int32>-2</x:Int32>
+                            <x:Int32>-3</x:Int32>
+                            <x:Int32>-4</x:Int32>
+                            <x:Int32>-5</x:Int32>
+                            <x:Int32>-6</x:Int32>
+                            <x:Int32>-7</x:Int32>
+                            <x:Int32>-8</x:Int32>
+                            <x:Int32>-9</x:Int32>
+                            <x:Int32>-10</x:Int32>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+                <!--<pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
                 <pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
-                <pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />-->
 
             </StackLayout>
-            <skviews:SKCanvasView Margin="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" PaintSurface="SKCanvasView_PaintSurface">
-                
+            <skviews:SKCanvasView x:Name="CanvasDices" Margin="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" PaintSurface="SKCanvasView_PaintSurface">
+
             </skviews:SKCanvasView>
         </StackLayout>
     </ContentPage.Content>

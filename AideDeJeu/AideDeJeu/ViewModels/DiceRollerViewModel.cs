@@ -14,6 +14,26 @@ namespace AideDeJeu.ViewModels
             _Random = new Random(Environment.TickCount);
         }
 
+
+        private int _Quantity = 3;
+        public int Quantity
+        {
+            get
+            {
+                return _Quantity;
+            }
+            set
+            {
+                SetProperty(ref _Quantity, value);
+            }
+        }
+        public int _Type = 6;
+        public int Type { get { return _Type; } set { SetProperty(ref _Type, value); } }
+        public int _Mod = 0;
+        public int Mod { get { return _Mod; } set { SetProperty(ref _Mod, value); } }
+
+
+
         public List<int> RollMRick()
         {
             var dices = new List<int>();
