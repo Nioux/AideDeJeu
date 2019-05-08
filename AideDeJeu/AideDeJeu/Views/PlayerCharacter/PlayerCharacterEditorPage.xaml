@@ -52,9 +52,9 @@
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </CarouselPage.Resources>
-    <CarouselPage.ToolbarItems>
+    <!--<CarouselPage.ToolbarItems>
         <ToolbarItem Text="Ouvrir en PDF avec..." Command="{Binding GenerateAndOpenPdfCommand}" Order="Secondary" />
-    </CarouselPage.ToolbarItems>
+    </CarouselPage.ToolbarItems>-->
     <ContentPage x:Name="Race" Title="Race">
         <Grid>
             <Grid.ColumnDefinitions>
@@ -68,6 +68,7 @@
             
             <pcviews:RaceView Grid.ColumnSpan="2" BindingContext="{Binding}" />
 
+            <Button Grid.Column="0" Grid.Row="1" Text="Nouveau" Command="{Binding ResetPlayerCharacterCommand}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Classe" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Class}"/>
         </Grid>
     </ContentPage>
@@ -170,6 +171,7 @@
             <pcviews:ResumeView Grid.ColumnSpan="2" BindingContext="{Binding}" />
 
             <Button Grid.Column="0" Grid.Row="1" Text="Finalisation" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Finalize}"/>
+            <Button Grid.Column="1" Grid.Row="1" Text="Ouvrir en PDF" Command="{Binding GenerateAndOpenPdfCommand}" />
         </Grid>
     </ContentPage>
 </CarouselPage>

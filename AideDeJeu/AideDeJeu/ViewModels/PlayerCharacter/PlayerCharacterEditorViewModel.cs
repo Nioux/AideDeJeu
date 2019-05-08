@@ -21,37 +21,54 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
     public class PlayerCharacterEditorViewModel : BaseViewModel
     {
         private Random _Random;
+
+        public ICommand ResetPlayerCharacterCommand
+        {
+            get
+            {
+                return new Command(async() => await ExecuteResetPlayerCharacterCommandAsync());
+            }
+        }
+
+        private async Task ExecuteResetPlayerCharacterCommandAsync()
+        {
+            await Task.Run(() =>
+            {
+                _Random = new Random(DateTime.Now.Millisecond);
+
+                SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel(), Abilities = new AbilitiesViewModel() };
+                SelectedPlayerCharacter.PropertyChanged += SelectedPlayerCharacter_PropertyChanged;
+
+
+                ResetAlignments();
+                Races = new NotifyTaskCompletion<List<RaceViewModel>>(Task.Run(() => LoadRacesAsync()));
+                Classes = new NotifyTaskCompletion<List<ClassViewModel>>(Task.Run(() => LoadClassesAsync()));
+
+                Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
+                SelectedBackground = null;
+                //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(null);
+                SubBackgrounds = null;
+                SelectedSubBackground = null;
+                //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
+                PersonalityTraits = null;
+                PersonalityIdeals = null;
+                PersonalityLinks = null;
+                PersonalityDefects = null;
+                SelectedPersonalityTrait = null;
+                SelectedPersonalityIdeal = null;
+                SelectedPersonalityLink = null;
+                SelectedPersonalityDefect = null;
+                BackgroundSpecialties = null;
+                SubBackgroundSpecialties = null;
+                BackgroundSpecialty = null;
+                BackgroundSkill = null;
+                SubBackgroundSkill = null;
+            });
+        }
+
         public PlayerCharacterEditorViewModel()
         {
-            _Random = new Random(DateTime.Now.Millisecond);
-
-            SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel(), Abilities = new AbilitiesViewModel() };
-            SelectedPlayerCharacter.PropertyChanged += SelectedPlayerCharacter_PropertyChanged;
-
-
-            ResetAlignments();
-            Races = new NotifyTaskCompletion<List<RaceViewModel>>(Task.Run(() => LoadRacesAsync()));
-            Classes = new NotifyTaskCompletion<List<ClassViewModel>>(Task.Run(() => LoadClassesAsync()));
-
-            Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
-            SelectedBackground = null;
-            //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(null);
-            SubBackgrounds = null;
-            SelectedSubBackground = null;
-            //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
-            PersonalityTraits = null;
-            PersonalityIdeals = null;
-            PersonalityLinks = null;
-            PersonalityDefects = null;
-            SelectedPersonalityTrait = null;
-            SelectedPersonalityIdeal = null;
-            SelectedPersonalityLink = null;
-            SelectedPersonalityDefect = null;
-            BackgroundSpecialties = null;
-            SubBackgroundSpecialties = null;
-            BackgroundSpecialty = null;
-            BackgroundSkill = null;
-            SubBackgroundSkill = null;
+            ExecuteResetPlayerCharacterCommandAsync();
         }
 
         private void SelectedPlayerCharacter_PropertyChanged(object sender, PropertyChangedEventArgs e)

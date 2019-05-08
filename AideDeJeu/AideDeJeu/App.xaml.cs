@@ -1,5 +1,6 @@
 ﻿using AideDeJeu.ViewModels;
 using AideDeJeu.ViewModels.Library;
+using AideDeJeu.ViewModels.PlayerCharacter;
 using AideDeJeu.Views;
 using AideDeJeuLib;
 using System.Linq;
@@ -20,6 +21,7 @@ namespace AideDeJeu
             DependencyService.Register<MainViewModel>();
             DependencyService.Register<BookmarksViewModel>();
             DependencyService.Register<StoreViewModel>();
+            DependencyService.Register<PlayerCharacterEditorViewModel>();
             var vm = DependencyService.Get<MainViewModel>();
             var titlered = (Color)Resources["HDRed"];
             var bgtan = (Color)Resources["HDWhite"];

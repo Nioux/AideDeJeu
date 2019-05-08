@@ -17,21 +17,26 @@ namespace AideDeJeu.Views.PlayerCharacter
     {
         public PlayerCharacterEditorPage()
         {
-            BindingContext = new PlayerCharacterEditorViewModel();
+            //if(DependencyService.Get<PlayerCharacterEditorViewModel>() == null)
+            //{
+            //    DependencyService.Register<PlayerCharacterEditorViewModel>();
+            //}
+
+            BindingContext = DependencyService.Get<PlayerCharacterEditorViewModel>(); // new PlayerCharacterEditorViewModel();
 
             InitializeComponent();
 
         }
 
-        protected override bool OnBackButtonPressed()
-        {
-            Device.BeginInvokeOnMainThread(async () => {
-                var result = await this.DisplayAlert("Attention", "Si vous revenez au menu, vous perdrez le personnage en cours de création", "Menu", "Annuler");
-                if (result) await this.Navigation.PopAsync();
-            });
-            return true;
-            //return base.OnBackButtonPressed();
-        }
+        //protected override bool OnBackButtonPressed()
+        //{
+        //    Device.BeginInvokeOnMainThread(async () => {
+        //        var result = await this.DisplayAlert("Attention", "Si vous revenez au menu, vous perdrez le personnage en cours de création", "Menu", "Annuler");
+        //        if (result) await this.Navigation.PopAsync();
+        //    });
+        //    return true;
+        //    //return base.OnBackButtonPressed();
+        //}
 
         public Command ChangePageCommand
         {
