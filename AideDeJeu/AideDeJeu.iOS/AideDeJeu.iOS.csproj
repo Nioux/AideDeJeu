@@ -246,6 +246,9 @@
     <ImageAsset Include="Media.xcassets\icon.imageset\battle_axe.pdf">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Media.xcassets\battle_axe.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
     <ImageAsset Include="Media.xcassets\crystal_ball.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
