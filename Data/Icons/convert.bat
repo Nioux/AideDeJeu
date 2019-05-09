@@ -25,7 +25,6 @@ rem call convertone.bat battle_axe battle-axe
 
 call convertone.bat click click
 
-:nouveau
 rem call convertmain.bat battle_axe.png battle-axe.svg
 
 call convertone.bat d4 d4
@@ -44,5 +43,8 @@ call convertone.bat cubes cubes
 
 call convertone.bat rolling_dice_cup rolling-dice-cup
 
+:nouveau
+
+call convertone.bat battle_axe battle-axe
 
 pause
