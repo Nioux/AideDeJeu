@@ -36,6 +36,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
             SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel(), Abilities = new AbilitiesViewModel() };
             SelectedPlayerCharacter.PropertyChanged += SelectedPlayerCharacter_PropertyChanged;
+            SelectedPlayerCharacter.Background.PropertyChanged += Background_PropertyChanged;
 
 
             ResetAlignments();
@@ -43,24 +44,35 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             Classes = await Task.Run(async () => await LoadClassesAsync());
 
             Backgrounds = await Task.Run(async () => await LoadBackgroundsAsync());
-            SelectedBackground = null;
+            //SelectedBackground = null;
             //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(null);
             SubBackgrounds = null;
-            SelectedSubBackground = null;
+            //SelectedSubBackground = null;
             //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
             PersonalityTraits = null;
             PersonalityIdeals = null;
             PersonalityLinks = null;
             PersonalityDefects = null;
-            SelectedPersonalityTrait = null;
-            SelectedPersonalityIdeal = null;
-            SelectedPersonalityLink = null;
-            SelectedPersonalityDefect = null;
+            //SelectedPersonalityTrait = null;
+            //SelectedPersonalityIdeal = null;
+            //SelectedPersonalityLink = null;
+            //SelectedPersonalityDefect = null;
             BackgroundSpecialties = null;
             SubBackgroundSpecialties = null;
-            BackgroundSpecialty = null;
+            //BackgroundSpecialty = null;
             BackgroundSkill = null;
             SubBackgroundSkill = null;
+        }
+
+        private async void Background_PropertyChanged(object sender, PropertyChangedEventArgs e)
+        {
+            switch(e.PropertyName)
+            {
+                case nameof(SelectedPlayerCharacter.Background.Background):
+                    await LoadBackgroundAsync(SelectedPlayerCharacter.Background.Background);
+                    //SubBackgrounds = await LoadSubBackgroundsAsync(SelectedPlayerCharacter.Background.Background);
+                    break;
+            }
         }
 
         public PlayerCharacterEditorViewModel()
@@ -103,9 +115,6 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                         int.Parse(SelectedPlayerCharacter.Race.SubRace?.CharismaBonus ?? "0");
 
                     SelectedPlayerCharacter.Abilities.Listen();
-                    break;
-                case nameof(SelectedPlayerCharacter.Background):
-                    SubBackgrounds = await LoadSubBackgroundsAsync(SelectedPlayerCharacter.Background.Background);
                     break;
             }
         }
@@ -290,20 +299,21 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         //    }
         //}
 
-        private BackgroundItem _SelectedBackground = null;
-        public BackgroundItem SelectedBackground
-        {
-            get
-            {
-                return _SelectedBackground;
-            }
-            set
-            {
-                SetProperty(ref _SelectedBackground, value);
-                OnPropertyChanged(nameof(BackgroundOrSubBackground));
-                //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(Task.Run(() => LoadBackgroundAsync(_SelectedBackground)));
-            }
-        }
+        //private BackgroundItem _SelectedBackground = null;
+        //public BackgroundItem SelectedBackground
+        //{
+        //    get
+        //    {
+        //        return _SelectedBackground;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SelectedBackground, value);
+        //        OnPropertyChanged(nameof(BackgroundOrSubBackground));
+        //        SelectedPlayerCharacter.Background.Background = value;
+        //        //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(Task.Run(() => LoadBackgroundAsync(_SelectedBackground)));
+        //    }
+        //}
         //private NotifyTaskCompletion<BackgroundItem> _NotifySelectedBackground = null;
         //public NotifyTaskCompletion<BackgroundItem> NotifySelectedBackground
         //{
@@ -330,21 +340,21 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             if (background != null)
             {
                 SubBackgrounds = await LoadSubBackgroundsAsync(background);
-                SelectedSubBackground = null;
+                //SelectedSubBackground = null;
                 //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
                 PersonalityTraits = await LoadPersonalityTraitsAsync(background);
                 PersonalityIdeals = await LoadPersonalityIdealsAsync(background);
                 PersonalityLinks = await LoadPersonalityLinksAsync(background);
                 PersonalityDefects = await LoadPersonalityDefectsAsync(background);
-                SelectedPersonalityTrait = null;
-                SelectedPersonalityIdeal = null;
-                SelectedPersonalityLink = null;
-                SelectedPersonalityDefect = null;
+                //SelectedPersonalityTrait = null;
+                //SelectedPersonalityIdeal = null;
+                //SelectedPersonalityLink = null;
+                //SelectedPersonalityDefect = null;
                 BackgroundSpecialties = await LoadBackgroundsSpecialtiesAsync(background);
-                BackgroundSpecialty = null;
-                SubBackgroundSpecialties = null;
+                //BackgroundSpecialty = null;
+                //SubBackgroundSpecialties = null;
                 BackgroundSkill = await LoadSkillAsync(background);
-                SubBackgroundSkill = null;
+                //SubBackgroundSkill = null;
                 ResetAlignments();
             }
             return background;
@@ -386,20 +396,20 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         //    }
         //}
 
-        private SubBackgroundItem _SelectedSubBackground = null;
-        public SubBackgroundItem SelectedSubBackground
-        {
-            get
-            {
-                return _SelectedSubBackground;
-            }
-            set
-            {
-                SetProperty(ref _SelectedSubBackground, value);
-                OnPropertyChanged(nameof(BackgroundOrSubBackground));
-                //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(Task.Run(() => LoadSubBackgroundAsync(SelectedSubBackground)));
-            }
-        }
+        //private SubBackgroundItem _SelectedSubBackground = null;
+        //public SubBackgroundItem SelectedSubBackground
+        //{
+        //    get
+        //    {
+        //        return _SelectedSubBackground;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SelectedSubBackground, value);
+        //        OnPropertyChanged(nameof(BackgroundOrSubBackground));
+        //        //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(Task.Run(() => LoadSubBackgroundAsync(SelectedSubBackground)));
+        //    }
+        //}
         //private NotifyTaskCompletion<SubBackgroundItem> _NotifySelectedSubBackground = null;
         //public NotifyTaskCompletion<SubBackgroundItem> NotifySelectedSubBackground
         //{
@@ -420,7 +430,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 SubBackgroundSpecialties = null;
                 SubBackgroundSkill = null;
-                SubBackgroundSpecialty = null;
+                //SubBackgroundSpecialty = null;
             }
             else
             {
@@ -430,13 +440,13 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             return subbackground;
         }
 
-        public BackgroundItem BackgroundOrSubBackground
-        {
-            get
-            {
-                return SelectedSubBackground ?? SelectedBackground;
-            }
-        }
+        //public BackgroundItem BackgroundOrSubBackground
+        //{
+        //    get
+        //    {
+        //        return SelectedSubBackground ?? SelectedBackground;
+        //    }
+        //}
 
         private List<string> _PersonalityTraits = null;
         public List<string> PersonalityTraits
@@ -450,19 +460,19 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SetProperty(ref _PersonalityTraits, value);
             }
         }
-        private string _SelectedPersonalityTrait = null;
-        public string SelectedPersonalityTrait
-        {
-            get
-            {
-                return _SelectedPersonalityTrait;
-            }
-            set
-            {
-                SetProperty(ref _SelectedPersonalityTrait, value);
-                SelectedPlayerCharacter.Background.PersonalityTrait = value;
-            }
-        }
+        //private string _SelectedPersonalityTrait = null;
+        //public string SelectedPersonalityTrait
+        //{
+        //    get
+        //    {
+        //        return _SelectedPersonalityTrait;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SelectedPersonalityTrait, value);
+        //        SelectedPlayerCharacter.Background.PersonalityTrait = value;
+        //    }
+        //}
 
         private List<string> _PersonalityIdeals = null;
         public List<string> PersonalityIdeals
@@ -476,19 +486,19 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SetProperty(ref _PersonalityIdeals, value);
             }
         }
-        private string _SelectedPersonalityIdeal = null;
-        public string SelectedPersonalityIdeal
-        {
-            get
-            {
-                return _SelectedPersonalityIdeal;
-            }
-            set
-            {
-                SetProperty(ref _SelectedPersonalityIdeal, value);
-                SelectedPlayerCharacter.Background.PersonalityIdeal = value;
-            }
-        }
+        //private string _SelectedPersonalityIdeal = null;
+        //public string SelectedPersonalityIdeal
+        //{
+        //    get
+        //    {
+        //        return _SelectedPersonalityIdeal;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SelectedPersonalityIdeal, value);
+        //        SelectedPlayerCharacter.Background.PersonalityIdeal = value;
+        //    }
+        //}
 
         private List<string> _PersonalityLinks = null;
         public List<string> PersonalityLinks
@@ -502,19 +512,19 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SetProperty(ref _PersonalityLinks, value);
             }
         }
-        private string _SelectedPersonalityLink = null;
-        public string SelectedPersonalityLink
-        {
-            get
-            {
-                return _SelectedPersonalityLink;
-            }
-            set
-            {
-                SetProperty(ref _SelectedPersonalityLink, value);
-                SelectedPlayerCharacter.Background.PersonalityLink = value;
-            }
-        }
+        //private string _SelectedPersonalityLink = null;
+        //public string SelectedPersonalityLink
+        //{
+        //    get
+        //    {
+        //        return _SelectedPersonalityLink;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SelectedPersonalityLink, value);
+        //        SelectedPlayerCharacter.Background.PersonalityLink = value;
+        //    }
+        //}
 
         private List<string> _PersonalityDefects = null;
         public List<string> PersonalityDefects
@@ -528,19 +538,19 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SetProperty(ref _PersonalityDefects, value);
             }
         }
-        private string _SelectedPersonalityDefect = null;
-        public string SelectedPersonalityDefect
-        {
-            get
-            {
-                return _SelectedPersonalityDefect;
-            }
-            set
-            {
-                SetProperty(ref _SelectedPersonalityDefect, value);
-                SelectedPlayerCharacter.Background.PersonalityDefect = value;
-            }
-        }
+        //private string _SelectedPersonalityDefect = null;
+        //public string SelectedPersonalityDefect
+        //{
+        //    get
+        //    {
+        //        return _SelectedPersonalityDefect;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SelectedPersonalityDefect, value);
+        //        SelectedPlayerCharacter.Background.PersonalityDefect = value;
+        //    }
+        //}
 
         private BackgroundSpecialtyItem _BackgroundSpecialties = null;
         public BackgroundSpecialtyItem BackgroundSpecialties
@@ -552,8 +562,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _BackgroundSpecialties, value);
-                OnPropertyChanged(nameof(PreferedBackgroundSpecialties));
-                OnPropertyChanged(nameof(HasBackgroundSpecialties));
+                OnPropertyChanged(nameof(BackgroundOrSubBackgroundSpecialties));
+                //OnPropertyChanged(nameof(HasBackgroundSpecialties));
             }
         }
         private BackgroundSpecialtyItem _SubBackgroundSpecialties = null;
@@ -566,51 +576,51 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SubBackgroundSpecialties, value);
-                OnPropertyChanged(nameof(PreferedBackgroundSpecialties));
-                OnPropertyChanged(nameof(HasBackgroundSpecialties));
+                OnPropertyChanged(nameof(BackgroundOrSubBackgroundSpecialties));
+                //OnPropertyChanged(nameof(HasBackgroundSpecialties));
             }
         }
-        public BackgroundSpecialtyItem PreferedBackgroundSpecialties
+        public BackgroundSpecialtyItem BackgroundOrSubBackgroundSpecialties
         {
             get
             {
                 return _SubBackgroundSpecialties ?? _BackgroundSpecialties;
             }
         }
-        public bool HasBackgroundSpecialties
-        {
-            get
-            {
-                return PreferedBackgroundSpecialties != null;
-            }
-        }
+        //public bool HasBackgroundSpecialties
+        //{
+        //    get
+        //    {
+        //        return PreferedBackgroundSpecialties != null;
+        //    }
+        //}
 
-        private string _BackgroundSpecialty = null;
-        public string BackgroundSpecialty
-        {
-            get
-            {
-                return _BackgroundSpecialty;
-            }
-            set
-            {
-                SetProperty(ref _BackgroundSpecialty, value);
-                SelectedPlayerCharacter.Background.BackgroundSpecialty = BackgroundSpecialty;
-            }
-        }
-        private string _SubBackgroundSpecialty = null;
-        public string SubBackgroundSpecialty
-        {
-            get
-            {
-                return _SubBackgroundSpecialty;
-            }
-            set
-            {
-                SetProperty(ref _SubBackgroundSpecialty, value);
-                SelectedPlayerCharacter.Background.SubBackgroundSpecialty = SubBackgroundSpecialty;
-            }
-        }
+        //private string _BackgroundSpecialty = null;
+        //public string BackgroundSpecialty
+        //{
+        //    get
+        //    {
+        //        return _BackgroundSpecialty;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _BackgroundSpecialty, value);
+        //        SelectedPlayerCharacter.Background.BackgroundSpecialty = BackgroundSpecialty;
+        //    }
+        //}
+        //private string _SubBackgroundSpecialty = null;
+        //public string SubBackgroundSpecialty
+        //{
+        //    get
+        //    {
+        //        return _SubBackgroundSpecialty;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SubBackgroundSpecialty, value);
+        //        SelectedPlayerCharacter.Background.SubBackgroundSpecialty = SubBackgroundSpecialty;
+        //    }
+        //}
 
         private SkillItem _BackgroundSkill = null;
         public SkillItem BackgroundSkill
@@ -622,8 +632,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _BackgroundSkill, value);
-                OnPropertyChanged(nameof(PreferedBackgroundSkill));
-                OnPropertyChanged(nameof(HasBackgroundSkill));
+                OnPropertyChanged(nameof(BackgroundOrSubBackgroundSkill));
+                //OnPropertyChanged(nameof(HasBackgroundSkill));
             }
         }
         private SkillItem _SubBackgroundSkill = null;
@@ -636,24 +646,24 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SubBackgroundSkill, value);
-                OnPropertyChanged(nameof(PreferedBackgroundSkill));
-                OnPropertyChanged(nameof(HasBackgroundSkill));
+                OnPropertyChanged(nameof(BackgroundOrSubBackgroundSkill));
+                //OnPropertyChanged(nameof(HasBackgroundSkill));
             }
         }
-        public SkillItem PreferedBackgroundSkill
+        public SkillItem BackgroundOrSubBackgroundSkill
         {
             get
             {
                 return _SubBackgroundSkill ?? _BackgroundSkill;
             }
         }
-        public bool HasBackgroundSkill
-        {
-            get
-            {
-                return PreferedBackgroundSkill != null;
-            }
-        }
+        //public bool HasBackgroundSkill
+        //{
+        //    get
+        //    {
+        //        return PreferedBackgroundSkill != null;
+        //    }
+        //}
         public async Task<List<BackgroundItem>> LoadBackgroundsAsync()
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
@@ -1298,10 +1308,10 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             form.SetField("Alignement", SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty);
             form.SetField("Historique", SelectedPlayerCharacter?.Background?.Background?.Name ?? string.Empty);
             form.SetField("Trait de personnalité",
-                (SelectedPersonalityTrait ?? string.Empty) + "\n\n" +
-                (SelectedPersonalityIdeal ?? string.Empty) + "\n\n" +
-                (SelectedPersonalityLink ?? string.Empty) + "\n\n" +
-                (SelectedPersonalityDefect ?? string.Empty)
+                (SelectedPlayerCharacter.Background.PersonalityTrait ?? string.Empty) + "\n\n" +
+                (SelectedPlayerCharacter.Background.PersonalityIdeal ?? string.Empty) + "\n\n" +
+                (SelectedPlayerCharacter.Background.PersonalityLink ?? string.Empty) + "\n\n" +
+                (SelectedPlayerCharacter.Background.PersonalityDefect ?? string.Empty)
                 );
             form.SetField("For Valeur", SelectedPlayerCharacter?.Abilities?.Strength?.Value?.ToString());
             form.SetField("For MOD", SelectedPlayerCharacter?.Abilities?.Strength?.ModString);

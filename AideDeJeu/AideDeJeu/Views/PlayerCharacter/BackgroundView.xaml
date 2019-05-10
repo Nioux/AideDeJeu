@@ -20,52 +20,52 @@
                 <Label Text="{Binding NotifySelectedBackground.Status, StringFormat='NotifySelectedBackground.Status = {0}'}" />
                 <Label Text="{Binding NotifySelectedSubBackground.Status, StringFormat='NotifySelectedSubBackground.Status = {0}'}" />-->
 
-                <pickers:ItemPickerView BindingContext="{Binding}" Title="Historique" ItemsSource="{Binding Backgrounds}" SelectedItem="{Binding SelectedBackground, Mode=TwoWay}" />
-                <pickers:ItemPickerView BindingContext="{Binding}" Title="Variante" ItemsSource="{Binding SubBackgrounds}" SelectedItem="{Binding SelectedSubBackground, Mode=TwoWay}" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                <pickers:ItemPickerView BindingContext="{Binding}" Title="Historique" ItemsSource="{Binding Backgrounds}" SelectedItem="{Binding SelectedPlayerCharacter.Background.Background, Mode=TwoWay}" />
+                <pickers:ItemPickerView BindingContext="{Binding}" Title="Variante" ItemsSource="{Binding SubBackgrounds}" SelectedItem="{Binding SelectedPlayerCharacter.Background.SubBackground, Mode=TwoWay}" IsVisible="{Binding SubBackgrounds, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
                 <!-- test -->
                 <!--<views:StringPickerView BindingContext="{Binding}" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" Title="Compétences" SelectedItem="{Binding PreferedBackground.Abilities}" />-->
 
-                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
+                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
                     <StackLayout Padding="0">
                         <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Compétences" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding BackgroundOrSubBackground.Abilities}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground.Abilities}" />
                     </StackLayout>
                 </Frame>
-                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
+                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
                     <StackLayout Padding="0">
                         <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Outils maîtrisés" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding BackgroundOrSubBackground.MasteredTools}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground.MasteredTools}" />
                     </StackLayout>
                 </Frame>
-                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
+                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
                     <StackLayout Padding="0">
                         <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Langues maîtrisées" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding BackgroundOrSubBackground.MasteredLanguages}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground.MasteredLanguages}" />
                     </StackLayout>
                 </Frame>
-                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
+                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
                     <StackLayout Padding="0">
                         <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Équipement" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding BackgroundOrSubBackground.Equipment}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground.Equipment}" />
                     </StackLayout>
                 </Frame>
-                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding HasBackgroundSkill}">
+                <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding BackgroundOrSubBackgroundSkill, Converter={StaticResource NullToFalseConverter}}">
                     <StackLayout Padding="0">
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding PreferedBackgroundSkill.Name, StringFormat='# {0}'}" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding PreferedBackgroundSkill.Description}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding BackgroundOrSubBackgroundSkill.Name, StringFormat='# {0}'}" />
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding BackgroundOrSubBackgroundSkill.Description}" />
                     </StackLayout>
                 </Frame>
 
-                <pickers:StringPickerView BindingContext="{Binding}" IsVisible="{Binding HasBackgroundSpecialties}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" IsVisible="{Binding BackgroundSpecialties, Converter={StaticResource NullToFalseConverter}}" Title="{Binding BackgroundOrSubBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding SelectedPlayerCharacter.Background.BackgroundSpecialty, Mode=TwoWay}" />
 
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Trait de personnalité" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityTraits}" SelectedItem="{Binding SelectedPersonalityTrait, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Trait de personnalité" IsVisible="{Binding SelectedPlayerCharacter.Background.Background, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityTraits}" SelectedItem="{Binding SelectedPlayerCharacter.Background.PersonalityTrait, Mode=TwoWay}" />
 
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Idéal" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityIdeals}" SelectedItem="{Binding SelectedPersonalityIdeal, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Idéal" IsVisible="{Binding SelectedPlayerCharacter.Background.Background, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityIdeals}" SelectedItem="{Binding SelectedPlayerCharacter.Background.PersonalityIdeal, Mode=TwoWay}" />
 
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Lien" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityLinks}" SelectedItem="{Binding SelectedPersonalityLink, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Lien" IsVisible="{Binding SelectedPlayerCharacter.Background.Background, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityLinks}" SelectedItem="{Binding SelectedPlayerCharacter.Background.PersonalityLink, Mode=TwoWay}" />
 
-                <pickers:StringPickerView BindingContext="{Binding}" Title="Défaut" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityDefects}" SelectedItem="{Binding SelectedPersonalityDefect, Mode=TwoWay}" />
+                <pickers:StringPickerView BindingContext="{Binding}" Title="Défaut" IsVisible="{Binding SelectedPlayerCharacter.Background.Background, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" ItemsSource="{Binding PersonalityDefects}" SelectedItem="{Binding SelectedPlayerCharacter.Background.PersonalityDefect, Mode=TwoWay}" />
 
             </StackLayout>
         </ScrollView>
