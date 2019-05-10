@@ -20,7 +20,7 @@
                 <Label Text="{Binding NotifySelectedBackground.Status, StringFormat='NotifySelectedBackground.Status = {0}'}" />
                 <Label Text="{Binding NotifySelectedSubBackground.Status, StringFormat='NotifySelectedSubBackground.Status = {0}'}" />-->
 
-                <pickers:ItemPickerView BindingContext="{Binding}" Title="Historique" ItemsSource="{Binding Backgrounds.Result}" SelectedItem="{Binding SelectedBackground, Mode=TwoWay}" />
+                <pickers:ItemPickerView BindingContext="{Binding}" Title="Historique" ItemsSource="{Binding Backgrounds}" SelectedItem="{Binding SelectedBackground, Mode=TwoWay}" />
                 <pickers:ItemPickerView BindingContext="{Binding}" Title="Variante" ItemsSource="{Binding SubBackgrounds}" SelectedItem="{Binding SelectedSubBackground, Mode=TwoWay}" IsVisible="{Binding SelectedBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
                 <!-- test -->

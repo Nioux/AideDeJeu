@@ -14,7 +14,7 @@
     <ContentView.Content>
         <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
             <StackLayout>
-                <pickers:ItemPickerView BindingContext="{Binding}" Title="Classe" ItemsSource="{Binding Classes.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Class, Mode=TwoWay}" />
+                <pickers:ItemPickerView BindingContext="{Binding}" Title="Classe" ItemsSource="{Binding Classes}" SelectedItem="{Binding SelectedPlayerCharacter.Class, Mode=TwoWay}" />
                 <!--<Picker Title="Classe" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Classes.IsSuccessfullyCompleted}" ItemsSource="{Binding Classes.Result}" ItemDisplayBinding="{Binding Name}"  SelectedIndex="{Binding ClassSelectedIndex, Mode=TwoWay}" />-->
 
                 <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Class, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" >

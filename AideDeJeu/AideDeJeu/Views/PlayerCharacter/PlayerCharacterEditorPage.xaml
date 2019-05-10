@@ -52,9 +52,6 @@
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </CarouselPage.Resources>
-    <!--<CarouselPage.ToolbarItems>
-        <ToolbarItem Text="Ouvrir en PDF avec..." Command="{Binding GenerateAndOpenPdfCommand}" Order="Secondary" />
-    </CarouselPage.ToolbarItems>-->
     <ContentPage x:Name="Race" Title="Race">
         <Grid>
             <Grid.ColumnDefinitions>

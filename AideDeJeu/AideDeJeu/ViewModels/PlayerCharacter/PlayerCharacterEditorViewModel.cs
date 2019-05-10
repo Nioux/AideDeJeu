@@ -26,44 +26,41 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         {
             get
             {
-                return new Command(async() => await ExecuteResetPlayerCharacterCommandAsync());
+                return new Command(async () => await ExecuteResetPlayerCharacterCommandAsync());
             }
         }
 
         private async Task ExecuteResetPlayerCharacterCommandAsync()
         {
-            await Task.Run(() =>
-            {
-                _Random = new Random(DateTime.Now.Millisecond);
+            _Random = new Random(DateTime.Now.Millisecond);
 
-                SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel(), Abilities = new AbilitiesViewModel() };
-                SelectedPlayerCharacter.PropertyChanged += SelectedPlayerCharacter_PropertyChanged;
+            SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel(), Abilities = new AbilitiesViewModel() };
+            SelectedPlayerCharacter.PropertyChanged += SelectedPlayerCharacter_PropertyChanged;
 
 
-                ResetAlignments();
-                Races = new NotifyTaskCompletion<List<RaceViewModel>>(Task.Run(() => LoadRacesAsync()));
-                Classes = new NotifyTaskCompletion<List<ClassViewModel>>(Task.Run(() => LoadClassesAsync()));
+            ResetAlignments();
+            Races = await Task.Run(async () => await LoadRacesAsync());
+            Classes = await Task.Run(async () => await LoadClassesAsync());
 
-                Backgrounds = new NotifyTaskCompletion<List<BackgroundItem>>(Task.Run(() => LoadBackgroundsAsync()));
-                SelectedBackground = null;
-                //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(null);
-                SubBackgrounds = null;
-                SelectedSubBackground = null;
-                //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
-                PersonalityTraits = null;
-                PersonalityIdeals = null;
-                PersonalityLinks = null;
-                PersonalityDefects = null;
-                SelectedPersonalityTrait = null;
-                SelectedPersonalityIdeal = null;
-                SelectedPersonalityLink = null;
-                SelectedPersonalityDefect = null;
-                BackgroundSpecialties = null;
-                SubBackgroundSpecialties = null;
-                BackgroundSpecialty = null;
-                BackgroundSkill = null;
-                SubBackgroundSkill = null;
-            });
+            Backgrounds = await Task.Run(async () => await LoadBackgroundsAsync());
+            SelectedBackground = null;
+            //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(null);
+            SubBackgrounds = null;
+            SelectedSubBackground = null;
+            //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
+            PersonalityTraits = null;
+            PersonalityIdeals = null;
+            PersonalityLinks = null;
+            PersonalityDefects = null;
+            SelectedPersonalityTrait = null;
+            SelectedPersonalityIdeal = null;
+            SelectedPersonalityLink = null;
+            SelectedPersonalityDefect = null;
+            BackgroundSpecialties = null;
+            SubBackgroundSpecialties = null;
+            BackgroundSpecialty = null;
+            BackgroundSkill = null;
+            SubBackgroundSkill = null;
         }
 
         public PlayerCharacterEditorViewModel()
@@ -71,9 +68,9 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             ExecuteResetPlayerCharacterCommandAsync();
         }
 
-        private void SelectedPlayerCharacter_PropertyChanged(object sender, PropertyChangedEventArgs e)
+        private async void SelectedPlayerCharacter_PropertyChanged(object sender, PropertyChangedEventArgs e)
         {
-            switch(e.PropertyName)
+            switch (e.PropertyName)
             {
                 case nameof(SelectedPlayerCharacter.Race):
                     SelectedPlayerCharacter.Abilities.Unlisten();
@@ -86,26 +83,29 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                     SelectedPlayerCharacter.Abilities.Wisdom.MaxRacialDispatchedBonus = int.Parse(SelectedPlayerCharacter.Race.Race.MaxDispatchedWisdomBonus ?? "0");
                     SelectedPlayerCharacter.Abilities.Charisma.MaxRacialDispatchedBonus = int.Parse(SelectedPlayerCharacter.Race.Race.MaxDispatchedCharismaBonus ?? "0");
 
-                    SelectedPlayerCharacter.Abilities.Strength.RacialBonus = 
+                    SelectedPlayerCharacter.Abilities.Strength.RacialBonus =
                         int.Parse(SelectedPlayerCharacter.Race.Race?.StrengthBonus ?? "0") +
                         int.Parse(SelectedPlayerCharacter.Race.SubRace?.StrengthBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Dexterity.RacialBonus = 
+                    SelectedPlayerCharacter.Abilities.Dexterity.RacialBonus =
                         int.Parse(SelectedPlayerCharacter.Race.Race?.DexterityBonus ?? "0") +
                         int.Parse(SelectedPlayerCharacter.Race.SubRace?.DexterityBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Constitution.RacialBonus = 
+                    SelectedPlayerCharacter.Abilities.Constitution.RacialBonus =
                         int.Parse(SelectedPlayerCharacter.Race.Race?.ConstitutionBonus ?? "0") +
                         int.Parse(SelectedPlayerCharacter.Race.SubRace?.ConstitutionBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Intelligence.RacialBonus = 
+                    SelectedPlayerCharacter.Abilities.Intelligence.RacialBonus =
                         int.Parse(SelectedPlayerCharacter.Race.Race?.IntelligenceBonus ?? "0") +
                         int.Parse(SelectedPlayerCharacter.Race.SubRace?.IntelligenceBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Wisdom.RacialBonus = 
+                    SelectedPlayerCharacter.Abilities.Wisdom.RacialBonus =
                         int.Parse(SelectedPlayerCharacter.Race.Race?.WisdomBonus ?? "0") +
                         int.Parse(SelectedPlayerCharacter.Race.SubRace?.WisdomBonus ?? "0");
-                    SelectedPlayerCharacter.Abilities.Charisma.RacialBonus = 
+                    SelectedPlayerCharacter.Abilities.Charisma.RacialBonus =
                         int.Parse(SelectedPlayerCharacter.Race.Race?.CharismaBonus ?? "0") +
                         int.Parse(SelectedPlayerCharacter.Race.SubRace?.CharismaBonus ?? "0");
 
                     SelectedPlayerCharacter.Abilities.Listen();
+                    break;
+                case nameof(SelectedPlayerCharacter.Background):
+                    SubBackgrounds = await LoadSubBackgroundsAsync(SelectedPlayerCharacter.Background.Background);
                     break;
             }
         }
@@ -120,7 +120,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
             set
             {
-                if(_SelectedPlayerCharacter != null)
+                if (_SelectedPlayerCharacter != null)
                 {
                     _SelectedPlayerCharacter.PropertyChanged -= _SelectedPlayerCharacter_PropertyChanged;
                 }
@@ -134,7 +134,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
         private void _SelectedPlayerCharacter_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
         {
-            if(string.IsNullOrEmpty(e.PropertyName) || e.PropertyName == "Race")
+            if (string.IsNullOrEmpty(e.PropertyName) || e.PropertyName == "Race")
             {
                 OnSelectedPlayerCharacterRaceChanged();
             }
@@ -228,7 +228,9 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         #endregion Alignment
 
         #region Race
-        public NotifyTaskCompletion<List<RaceViewModel>> Races { get; private set; }
+
+        private List<RaceViewModel> _Races = null;
+        public List<RaceViewModel> Races { get { return _Races; } private set { SetProperty(ref _Races, value); } }
 
         public async Task<List<RaceViewModel>> LoadRacesAsync()
         {
@@ -258,7 +260,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         #endregion Race
 
         #region Class
-        public NotifyTaskCompletion<List<ClassViewModel>> Classes { get; private set; }
+        private List<ClassViewModel> _Classes = null;
+        public List<ClassViewModel> Classes { get { return _Classes; } private set { SetProperty(ref _Classes, value); } }
 
         public async Task<List<ClassViewModel>> LoadClassesAsync()
         {
@@ -270,7 +273,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         #endregion Class
 
         #region Background
-        public NotifyTaskCompletion<List<BackgroundItem>> Backgrounds { get; private set; }
+        private List<BackgroundItem> _Backgrounds = null;
+        public List<BackgroundItem> Backgrounds { get { return _Backgrounds; } private set { SetProperty(ref _Backgrounds, value); } }
 
         //private int _BackgroundSelectedIndex = -1;
         //public int BackgroundSelectedIndex
@@ -858,84 +862,84 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             "2 (-4)", "3 (-4)", "4 (-3)", "5 (-3)", "6 (-2)", "7 (-2)", "8 (-1)", "9 (-1)", "10 (+0)", "11 (+0)", "12 (+1)", "13 (+1)", "14 (+2)", "15 (+2)", "16 (+3)", "17 (+3)", "18 (+4)", "19 (+4)", "20 (+5)", "21 (+5)"
         };
 
-/*        private int? _Strength = null;
-        public int? Strength
-        {
-            get
-            {
-                return _Strength;
-            }
-            set
-            {
-                SetProperty(ref _Strength, value);
-            }
-        }
+        /*        private int? _Strength = null;
+                public int? Strength
+                {
+                    get
+                    {
+                        return _Strength;
+                    }
+                    set
+                    {
+                        SetProperty(ref _Strength, value);
+                    }
+                }
 
-        private int? _Dexterity = null;
-        public int? Dexterity
-        {
-            get
-            {
-                return _Dexterity;
-            }
-            set
-            {
-                SetProperty(ref _Dexterity, value);
-            }
-        }
+                private int? _Dexterity = null;
+                public int? Dexterity
+                {
+                    get
+                    {
+                        return _Dexterity;
+                    }
+                    set
+                    {
+                        SetProperty(ref _Dexterity, value);
+                    }
+                }
 
-        private int? _Constitution = null;
-        public int? Constitution
-        {
-            get
-            {
-                return _Constitution;
-            }
-            set
-            {
-                SetProperty(ref _Constitution, value);
-            }
-        }
+                private int? _Constitution = null;
+                public int? Constitution
+                {
+                    get
+                    {
+                        return _Constitution;
+                    }
+                    set
+                    {
+                        SetProperty(ref _Constitution, value);
+                    }
+                }
 
-        private int? _Intelligence = null;
-        public int? Intelligence
-        {
-            get
-            {
-                return _Intelligence;
-            }
-            set
-            {
-                SetProperty(ref _Intelligence, value);
-            }
-        }
+                private int? _Intelligence = null;
+                public int? Intelligence
+                {
+                    get
+                    {
+                        return _Intelligence;
+                    }
+                    set
+                    {
+                        SetProperty(ref _Intelligence, value);
+                    }
+                }
 
-        private int? _Wisdom = null;
-        public int? Wisdom
-        {
-            get
-            {
-                return _Wisdom;
-            }
-            set
-            {
-                SetProperty(ref _Wisdom, value);
-            }
-        }
+                private int? _Wisdom = null;
+                public int? Wisdom
+                {
+                    get
+                    {
+                        return _Wisdom;
+                    }
+                    set
+                    {
+                        SetProperty(ref _Wisdom, value);
+                    }
+                }
 
-        private int? _Charisma = null;
-        public int? Charisma
-        {
-            get
-            {
-                return _Charisma;
-            }
-            set
-            {
-                SetProperty(ref _Charisma, value);
-            }
-        }
-        */
+                private int? _Charisma = null;
+                public int? Charisma
+                {
+                    get
+                    {
+                        return _Charisma;
+                    }
+                    set
+                    {
+                        SetProperty(ref _Charisma, value);
+                    }
+                }
+                */
         public ICommand RollDicesMRickCommand
         {
             get
@@ -975,7 +979,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             SelectedPlayerCharacter.Abilities.Listen();
         }
         private void PrefillDices(List<int> values)
-        { 
+        {
             values.Sort();
             List<int> mins;
             List<int> maxs;
@@ -1072,7 +1076,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         {
             if (resources != null)
             {
-                foreach(DictionaryEntry res in resources)
+                foreach (DictionaryEntry res in resources)
                 {
                     Debug.WriteLine(res.Key);
                 }
@@ -1117,7 +1121,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                         Debug.WriteLine($"curXObjVal.IsNumber = {curXObjVal.IsNumber()}");
                         Debug.WriteLine($"curXObjVal.IsStream = {curXObjVal.IsStream()}");
                         Debug.WriteLine($"curXObjVal.IsString = {curXObjVal.IsString()}");
-                        
+
 
                         PRStream curXObj = (PRStream)xobjs.GetAsStream(curXObjName);
                         var name = curXObj.GetAsName(PdfName.SUBTYPE);
@@ -1147,7 +1151,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 processResource(set, resources);
             }
             return set;
-            }
+        }
 
         public static void processResource(Dictionary<String, PRIndirectReference> set, PdfDictionary resource)
         {
@@ -1198,7 +1202,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //cb.Rectangle(x, y, width, height);
             //cb.Stroke();
             ColumnText ct = new ColumnText(cb);
-            ct.SetSimpleColumn(x, y , x + width, y + height);
+            ct.SetSimpleColumn(x, y, x + width, y + height);
             var p = new Paragraph(text, font);
             p.Alignment = alignment;
             ct.AddElement(p);
@@ -1293,7 +1297,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             form.SetField("Classe", SelectedPlayerCharacter?.Class?.Name ?? string.Empty);
             form.SetField("Alignement", SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty);
             form.SetField("Historique", SelectedPlayerCharacter?.Background?.Background?.Name ?? string.Empty);
-            form.SetField("Trait de personnalité", 
+            form.SetField("Trait de personnalité",
                 (SelectedPersonalityTrait ?? string.Empty) + "\n\n" +
                 (SelectedPersonalityIdeal ?? string.Empty) + "\n\n" +
                 (SelectedPersonalityLink ?? string.Empty) + "\n\n" +
@@ -1468,7 +1472,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         private List<int> Roll6x2d6plus6()
         {
             var dices = new List<int>();
-            for(int i = 0; i < 6; i++)
+            for (int i = 0; i < 6; i++)
             {
                 dices.Add(Roll2d6() + 6);
             }
