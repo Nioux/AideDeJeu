@@ -17,7 +17,7 @@
                 <Frame BorderColor="Black" Padding="2" Margin="10">
                     <StackLayout Padding="0">
                         <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Nom" />
-                        <Entry Margin="10" Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
+                        <Entry Margin="10" Placeholder="Nom" Text="{Binding SelectedPlayerCharacter.Name, Mode=TwoWay}" Keyboard="Text" />
                     </StackLayout>
                 </Frame>
                 <Frame BorderColor="Black" Padding="2" Margin="10">

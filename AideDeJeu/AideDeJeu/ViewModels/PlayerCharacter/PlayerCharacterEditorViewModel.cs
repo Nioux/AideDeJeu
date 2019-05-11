@@ -1246,48 +1246,58 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 var filePath = Path.Combine(basePath, fileName);
                 using (var stream = new FileStream(filePath, FileMode.Create, FileAccess.ReadWrite))
                 {
-
-                    PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.feuille_de_personnage_editable.pdf"));
-
-
-                    PdfStamper stamper = new PdfStamper(reader, stream);
-                    var form = stamper.AcroFields;
-                    var fields = form.Fields;
-                    foreach (DictionaryEntry field in fields)
+                    PdfReader reader = null;
+                    try
                     {
-                        var item = field.Value as AcroFields.Item;
-                        Debug.WriteLine(field.Key);
-                        form.SetField(field.Key.ToString(), field.Key.ToString());
+                        reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.feuille_de_personnage_editable.pdf"));
+                        PdfStamper stamper = null;
+                        try
+                        {
+                            stamper = new PdfStamper(reader, stream);
+                            var form = stamper.AcroFields;
+                            var fields = form.Fields;
+                            foreach (DictionaryEntry field in fields)
+                            {
+                                var item = field.Value as AcroFields.Item;
+                                Debug.WriteLine(field.Key);
+                                form.SetField(field.Key.ToString(), field.Key.ToString());
+                            }
+
+
+                            form.SetField("Nom", SelectedPlayerCharacter?.Name ?? string.Empty);
+                            form.SetField("Niveau", "1");
+                            form.SetField("Race", SelectedPlayerCharacter?.Race?.Name ?? string.Empty);
+                            form.SetField("Classe", SelectedPlayerCharacter?.Class?.Name ?? string.Empty);
+                            form.SetField("Alignement", SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty);
+                            form.SetField("Historique", SelectedPlayerCharacter?.Background?.Background?.Name ?? string.Empty);
+                            form.SetField("Trait de personnalité",
+                                (SelectedPlayerCharacter.Background.PersonalityTrait ?? string.Empty) + "\n\n" +
+                                (SelectedPlayerCharacter.Background.PersonalityIdeal ?? string.Empty) + "\n\n" +
+                                (SelectedPlayerCharacter.Background.PersonalityLink ?? string.Empty) + "\n\n" +
+                                (SelectedPlayerCharacter.Background.PersonalityDefect ?? string.Empty)
+                                );
+                            form.SetField("For Valeur", SelectedPlayerCharacter?.Abilities?.Strength?.Value?.ToString());
+                            form.SetField("For MOD", SelectedPlayerCharacter?.Abilities?.Strength?.ModString);
+                            form.SetField("Dex Valeur", SelectedPlayerCharacter?.Abilities?.Dexterity?.Value?.ToString());
+                            form.SetField("Dex MOD", SelectedPlayerCharacter?.Abilities?.Dexterity?.ModString);
+                            form.SetField("Con Valeur", SelectedPlayerCharacter?.Abilities?.Constitution?.Value?.ToString());
+                            form.SetField("Con MOD", SelectedPlayerCharacter?.Abilities?.Constitution?.ModString);
+                            form.SetField("Int Valeur", SelectedPlayerCharacter?.Abilities?.Intelligence?.Value?.ToString());
+                            form.SetField("Int MOD", SelectedPlayerCharacter?.Abilities?.Intelligence?.ModString);
+                            form.SetField("Sag Valeur", SelectedPlayerCharacter?.Abilities?.Wisdom?.Value?.ToString());
+                            form.SetField("Sag MOD", SelectedPlayerCharacter?.Abilities?.Wisdom?.ModString);
+                            form.SetField("Cha Valeur", SelectedPlayerCharacter?.Abilities?.Charisma?.Value?.ToString());
+                            form.SetField("Cha MOD", SelectedPlayerCharacter?.Abilities?.Charisma?.ModString);
+                        }
+                        finally
+                        {
+                            stamper?.Close();
+                        }
                     }
-
-
-                    form.SetField("Nom", "Galefrin");
-                    form.SetField("Niveau", "1");
-                    form.SetField("Race", SelectedPlayerCharacter?.Race?.Name ?? string.Empty);
-                    form.SetField("Classe", SelectedPlayerCharacter?.Class?.Name ?? string.Empty);
-                    form.SetField("Alignement", SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty);
-                    form.SetField("Historique", SelectedPlayerCharacter?.Background?.Background?.Name ?? string.Empty);
-                    form.SetField("Trait de personnalité",
-                        (SelectedPlayerCharacter.Background.PersonalityTrait ?? string.Empty) + "\n\n" +
-                        (SelectedPlayerCharacter.Background.PersonalityIdeal ?? string.Empty) + "\n\n" +
-                        (SelectedPlayerCharacter.Background.PersonalityLink ?? string.Empty) + "\n\n" +
-                        (SelectedPlayerCharacter.Background.PersonalityDefect ?? string.Empty)
-                        );
-                    form.SetField("For Valeur", SelectedPlayerCharacter?.Abilities?.Strength?.Value?.ToString());
-                    form.SetField("For MOD", SelectedPlayerCharacter?.Abilities?.Strength?.ModString);
-                    form.SetField("Dex Valeur", SelectedPlayerCharacter?.Abilities?.Dexterity?.Value?.ToString());
-                    form.SetField("Dex MOD", SelectedPlayerCharacter?.Abilities?.Dexterity?.ModString);
-                    form.SetField("Con Valeur", SelectedPlayerCharacter?.Abilities?.Constitution?.Value?.ToString());
-                    form.SetField("Con MOD", SelectedPlayerCharacter?.Abilities?.Constitution?.ModString);
-                    form.SetField("Int Valeur", SelectedPlayerCharacter?.Abilities?.Intelligence?.Value?.ToString());
-                    form.SetField("Int MOD", SelectedPlayerCharacter?.Abilities?.Intelligence?.ModString);
-                    form.SetField("Sag Valeur", SelectedPlayerCharacter?.Abilities?.Wisdom?.Value?.ToString());
-                    form.SetField("Sag MOD", SelectedPlayerCharacter?.Abilities?.Wisdom?.ModString);
-                    form.SetField("Cha Valeur", SelectedPlayerCharacter?.Abilities?.Charisma?.Value?.ToString());
-                    form.SetField("Cha MOD", SelectedPlayerCharacter?.Abilities?.Charisma?.ModString);
-
-                    stamper.Close();
-                    reader.Close();
+                    finally
+                    { 
+                        reader?.Close();
+                    }
 
                     return fileName;
                 }

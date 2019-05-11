@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nioux.aidedejeu" android:installLocation="preferExternal" android:versionCode="33" android:versionName="1.33">
-	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="28" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nioux.aidedejeu" android:installLocation="preferExternal" android:versionCode="34" android:versionName="1.34">
+	<uses-sdk android:targetSdkVersion="28" />
 	<application android:label="Beta Haches &amp; Dés">
-    <provider android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.nioux.aidedejeu.fileprovider"
-            android:exported="false"
-            android:grantUriPermissions="true">
-      <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>
-    </provider>
-  </application>
+		<provider android:name="android.support.v4.content.FileProvider" android:authorities="com.nioux.aidedejeu.fileprovider" android:exported="false" android:grantUriPermissions="true">
+			<meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>
+		</provider>
+	</application>
 </manifest>

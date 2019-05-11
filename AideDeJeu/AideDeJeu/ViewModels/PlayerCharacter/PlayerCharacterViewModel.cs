@@ -7,6 +7,18 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 {
     public class PlayerCharacterViewModel : BaseViewModel
     {
+        private string _Name = null;
+        public string Name
+        {
+            get
+            {
+                return _Name;
+            }
+            set
+            {
+                SetProperty(ref _Name, value);
+            }
+        }
         private AlignmentItem _Alignment = null;
         public AlignmentItem Alignment
         {
