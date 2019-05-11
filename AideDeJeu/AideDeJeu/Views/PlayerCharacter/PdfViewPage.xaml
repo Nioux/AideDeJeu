@@ -4,12 +4,14 @@
              xmlns:views="clr-namespace:AideDeJeu.Views"
              x:Class="AideDeJeu.Views.PlayerCharacter.PdfViewPage">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="{Binding PdfFile.Result}"
+        <Grid>
+            <ActivityIndicator 
+                IsRunning="{Binding PdfFile.IsNotCompleted}"
+                IsVisible="{Binding PdfFile.IsNotCompleted}"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-
-            <views:PdfView Uri="{Binding PdfFile.Result}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
-        </StackLayout>
+            
+            <views:PdfView IsVisible="{Binding PdfFile.IsSuccessfullyCompleted}" Uri="{Binding PdfFile.Result}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>
