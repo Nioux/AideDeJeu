@@ -13,7 +13,7 @@
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="2.2.4" />
-    <PackageReference Include="sqlite-net-pcl" Version="1.5.231" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.6.258-beta" />
     <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
     <PackageReference Include="Xamarin.Forms" Version="4.0.0.346134-pre9" />
     <PackageReference Include="XamiTextSharpLGPLv2" Version="1.0.0" />

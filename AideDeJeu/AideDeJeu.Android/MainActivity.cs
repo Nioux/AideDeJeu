@@ -21,15 +21,13 @@ namespace AideDeJeu.Droid
             base.OnCreate(bundle);
             Xamarin.Essentials.Platform.Init(this, bundle);
             Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
-            //StrictMode.VmPolicy.Builder builder = new StrictMode.VmPolicy.Builder();
-            //StrictMode.SetVmPolicy(builder.Build());
 
             Rg.Plugins.Popup.Popup.Init(this, bundle);
 
-            global::Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
-            global::Xamarin.Forms.Forms.SetFlags("Shell_Experimental");
+            //global::Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
+            //global::Xamarin.Forms.Forms.SetFlags("Shell_Experimental");
             global::Xamarin.Forms.Forms.Init(this, bundle);
-            global::Xamarin.Forms.FormsMaterial.Init(this, bundle);
+            //global::Xamarin.Forms.FormsMaterial.Init(this, bundle);
             SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
 
             LoadApplication(new App());
