@@ -117,27 +117,10 @@
             <pcviews:AbilitiesView Grid.ColumnSpan="2" BindingContext="{Binding}" />
 
             <Button Grid.Column="0" Grid.Row="1" Text="Historique" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Background}"/>
-            <Button Grid.Column="1" Grid.Row="1" Text="Équipement" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Equipment}"/>
+            <Button Grid.Column="1" Grid.Row="1" Text="Autres" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Others}"/>
         </Grid>
     </ContentPage>
-    <ContentPage x:Name="Equipment" Title="Équipement">
-        <Grid>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
-            </Grid.ColumnDefinitions>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="*" />
-                <RowDefinition Height="auto" />
-            </Grid.RowDefinitions>
-
-            <pcviews:EquipmentView Grid.ColumnSpan="2" BindingContext="{Binding}" />
-
-            <Button Grid.Column="0" Grid.Row="1" Text="Caractéristiques" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Abilities}"/>
-            <Button Grid.Column="1" Grid.Row="1" Text="Finalisation" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Finalize}"/>
-        </Grid>
-    </ContentPage>
-    <ContentPage x:Name="Finalize" Title="Finalisation">
+    <ContentPage x:Name="Others" Title="Autres">
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
@@ -150,25 +133,8 @@
 
             <pcviews:FinalizeView Grid.ColumnSpan="2" BindingContext="{Binding}" />
 
-            <Button Grid.Column="0" Grid.Row="1" Text="Équipement" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Equipment}"/>
-            <Button Grid.Column="1" Grid.Row="1" Text="Résumé" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Resume}"/>
-        </Grid>
-    </ContentPage>
-    <ContentPage x:Name="Resume" Title="Résumé">
-        <Grid>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
-            </Grid.ColumnDefinitions>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="*" />
-                <RowDefinition Height="auto" />
-            </Grid.RowDefinitions>
-
-            <pcviews:ResumeView Grid.ColumnSpan="2" BindingContext="{Binding}" />
-
-            <Button Grid.Column="0" Grid.Row="1" Text="Finalisation" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Finalize}"/>
-            <Button Grid.Column="1" Grid.Row="1" Text="Ouvrir en PDF" Command="{Binding GenerateAndOpenPdfCommand}" />
+            <Button Grid.Column="0" Grid.Row="1" Text="Caractéristiques" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Abilities}"/>
+            <Button Grid.Column="1" Grid.Row="1" Text="Résumé" Command="{Binding PdfViewCommand, Source={x:Reference This}}" CommandParameter="{Binding SelectedPlayerCharacter}" />
         </Grid>
     </ContentPage>
 </CarouselPage>

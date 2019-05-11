@@ -14,12 +14,29 @@
     <ContentView.Content>
         <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
             <StackLayout>
-                <Entry Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
-                <!--<Picker Title="Alignement" HorizontalOptions="FillAndExpand" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" ItemsSource="{Binding Alignments.Result}" ItemDisplayBinding="{Binding Name}" SelectedIndex="{Binding AlignmentSelectedIndex, Mode=TwoWay}" />-->
-                <pickers:ItemPickerView BindingContext="{Binding}" IsEnabled="{Binding Alignments.IsSuccessfullyCompleted}" Title="Alignement" ItemsSource="{Binding Alignments.Result}" SelectedItem="{Binding SelectedPlayerCharacter.Alignment, Mode=TwoWay}" />
+                <Frame BorderColor="Black" Padding="2" Margin="10">
+                    <StackLayout Padding="0">
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Nom" />
+                        <Entry Margin="10" Placeholder="Nom" Text="{Binding Name}" Keyboard="Text" />
+                    </StackLayout>
+                </Frame>
+                <Frame BorderColor="Black" Padding="2" Margin="10">
+                    <StackLayout Padding="0">
+                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Niveau" />
+                        <Picker Margin="10" Title="Niveau" HorizontalOptions="FillAndExpand">
+                            <Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:Int32}">
+                                    <x:Int32>1</x:Int32>
+                                </x:Array>
+                            </Picker.ItemsSource>
+                            <Picker.SelectedItem>
+                                <x:Int32>1</x:Int32>
+                            </Picker.SelectedItem>
+                        </Picker>
+                    </StackLayout>
+                </Frame>
+                <pickers:ItemPickerView BindingContext="{Binding}" IsEnabled="{Binding Alignments, Converter={StaticResource NullToFalseConverter}}" Title="Alignement" ItemsSource="{Binding Alignments}" SelectedItem="{Binding SelectedPlayerCharacter.Alignment, Mode=TwoWay}" />
 
-                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Alignment.Description}" />-->
-                <Picker Title="Niveau" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Levels}" ItemDisplayBinding="{Binding StringFormat='Niveau : {0}'}" />
             </StackLayout>
         </ScrollView>
     </ContentView.Content>

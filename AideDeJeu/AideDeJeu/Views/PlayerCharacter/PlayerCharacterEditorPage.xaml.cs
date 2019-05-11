@@ -50,5 +50,22 @@ namespace AideDeJeu.Views.PlayerCharacter
         {
             This.CurrentPage = param as ContentPage;
         }
+
+        public Command PdfViewCommand
+        {
+            get
+            {
+                return new Command<object>(ExecutePdfViewCommand);
+            }
+        }
+
+        public void ExecutePdfViewCommand(object param)
+        {
+            var vm = BindingContext as PlayerCharacterEditorViewModel;
+            var page = new PdfViewPage();
+            page.PdfFile = new Tools.NotifyTaskCompletion<string>(Task.Run(async() => await vm.GeneratePdfAsync(param as PlayerCharacterViewModel)));
+            page.BindingContext = page;
+            Navigation.PushModalAsync(page, true);
+        }
     }
 }

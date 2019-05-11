@@ -39,29 +39,18 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             SelectedPlayerCharacter.Background.PropertyChanged += Background_PropertyChanged;
 
 
+            // raz des listes de choix
             ResetAlignments();
             Races = await Task.Run(async () => await LoadRacesAsync());
             Classes = await Task.Run(async () => await LoadClassesAsync());
-
             Backgrounds = await Task.Run(async () => await LoadBackgroundsAsync());
-            //SelectedBackground = null;
-            //NotifySelectedBackground = new NotifyTaskCompletion<BackgroundItem>(null);
             SubBackgrounds = null;
-            //SelectedSubBackground = null;
-            //NotifySelectedSubBackground = new NotifyTaskCompletion<SubBackgroundItem>(null);
             PersonalityTraits = null;
             PersonalityIdeals = null;
             PersonalityLinks = null;
             PersonalityDefects = null;
-            //SelectedPersonalityTrait = null;
-            //SelectedPersonalityIdeal = null;
-            //SelectedPersonalityLink = null;
-            //SelectedPersonalityDefect = null;
             BackgroundSpecialties = null;
             SubBackgroundSpecialties = null;
-            //BackgroundSpecialty = null;
-            SelectedPlayerCharacter.Background.BackgroundSkill = null;
-            SelectedPlayerCharacter.Background.SubBackgroundSkill = null;
         }
 
         private async void Background_PropertyChanged(object sender, PropertyChangedEventArgs e)
@@ -187,8 +176,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         #endregion Selected PC
 
         #region Alignment
-        private NotifyTaskCompletion<List<AlignmentItem>> _Alignments = null;
-        public NotifyTaskCompletion<List<AlignmentItem>> Alignments
+        private List<AlignmentItem> _Alignments = null;
+        public List<AlignmentItem> Alignments
         {
             get
             {
@@ -215,9 +204,9 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
         }
 
-        private void ResetAlignments()
+        private async Task ResetAlignments()
         {
-            Alignments = new NotifyTaskCompletion<List<AlignmentItem>>(Task.Run(() => LoadAlignmentsAsync()));
+            Alignments = await LoadAlignmentsAsync();
             if (!string.IsNullOrEmpty(SelectedPlayerCharacter.Background.PersonalityIdeal))
             {
                 var regex = new Regex(".*\\((?<alignment>.*?)\\)$");
@@ -225,17 +214,17 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 var alignment = match.Groups["alignment"].Value;
                 if (!string.IsNullOrEmpty(alignment) && alignment.ToLower() != "tous")
                 {
-                    Alignments = new NotifyTaskCompletion<List<AlignmentItem>>(Task.Run(() => LoadAlignmentsAsync(alignment)));
+                    Alignments = await LoadAlignmentsAsync(alignment);
                     SelectedPlayerCharacter.Alignment = null;
                 }
                 else
                 {
-                    Alignments = new NotifyTaskCompletion<List<AlignmentItem>>(Task.Run(() => LoadAlignmentsAsync()));
+                    Alignments = await LoadAlignmentsAsync();
                 }
             }
             else
             {
-                Alignments = new NotifyTaskCompletion<List<AlignmentItem>>(Task.Run(() => LoadAlignmentsAsync()));
+                Alignments = await LoadAlignmentsAsync();
             }
         }
         #endregion Alignment
@@ -1233,13 +1222,13 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
         }
 
-        async Task ExecuteGenerateAndOpenPdfCommandAsync()
+        public async Task ExecuteGenerateAndOpenPdfCommandAsync()
         {
-            await GeneratePdfAsync();
+            await GeneratePdfAsync(SelectedPlayerCharacter);
             await OpenPdfAsync();
         }
 
-        async Task GeneratePdfAsync()
+        public async Task<string> GeneratePdfAsync(PlayerCharacterViewModel playerCharacter)
         {
             //PdfDocument pdfDoc = new PdfDocument(new PdfReader(SRC), new PdfWriter(dest));
             //PdfDocument srcDoc;
@@ -1259,7 +1248,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             //System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
             //PdfDocument pdfDoc = new PdfDocument(new PdfWriter());
             //var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
-            var stream = new FileStream(Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf"), FileMode.Create, FileAccess.ReadWrite);
+            var filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf");
+            var stream = new FileStream(filePath, FileMode.Create, FileAccess.ReadWrite);
 
             //PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
             PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.feuille_de_personnage_editable.pdf"));
@@ -1267,23 +1257,23 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
 
 
-            var fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "LinLibertine_aBS.ttf");
-            using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.LinLibertine_aBS.ttf"))
-            {
-                using (var outFont = new FileStream(fontPath, FileMode.Create, FileAccess.ReadWrite))
-                {
-                    await inFont.CopyToAsync(outFont);
-                }
-            }
+            //var fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "LinLibertine_aBS.ttf");
+            //using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.LinLibertine_aBS.ttf"))
+            //{
+            //    using (var outFont = new FileStream(fontPath, FileMode.Create, FileAccess.ReadWrite))
+            //    {
+            //        await inFont.CopyToAsync(outFont);
+            //    }
+            //}
             //var set = listFonts(reader);
             //var truc = findFontInPage(reader, "MinionPro-It", 1);
             //var fonts = BaseFont.GetDocumentFonts(reader);
             //var font = BaseFont.CreateFont("TMULFZ+MinionPro-It", BaseFont.WINANSI, BaseFont.EMBEDDED);
             //var font = findFontInForm(reader, new PdfName("MinionPro-It"));
-            FontFactory.Register(fontPath, "mafont");
-            var bigFont = FontFactory.GetFont("mafont", 20, iTextSharp.text.Font.BOLD);
-            var normalFont = FontFactory.GetFont("mafont", 12, iTextSharp.text.Font.NORMAL);
-            var smallFont = FontFactory.GetFont("mafont", 6, iTextSharp.text.Font.NORMAL);
+            //FontFactory.Register(fontPath, "mafont");
+            //var bigFont = FontFactory.GetFont("mafont", 20, iTextSharp.text.Font.BOLD);
+            //var normalFont = FontFactory.GetFont("mafont", 12, iTextSharp.text.Font.NORMAL);
+            //var smallFont = FontFactory.GetFont("mafont", 6, iTextSharp.text.Font.NORMAL);
             //System.Text.Encoding.RegisterProvider(new System.Text.EncodingProvider());
             //var font = BaseFont.CreateFont("mafont", BaseFont.WINANSI, BaseFont.EMBEDDED);
             //var font = mafont.BaseFont;
@@ -1425,7 +1415,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             
             document.Close();
             */
-
+            return filePath;
         }
 
         async Task OpenPdfAsync()
