@@ -1,12 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:AideDeJeu.Views"
              x:Class="AideDeJeu.Views.PlayerCharacter.PdfViewPage">
     <ContentPage.Content>
         <StackLayout>
             <Label Text="{Binding PdfFile.Result}"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+
+            <views:PdfView Uri="{Binding PdfFile.Result}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
