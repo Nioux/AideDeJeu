@@ -7,6 +7,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using Windows.Storage;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.UWP;
 
@@ -21,10 +22,13 @@ namespace AideDeJeu.UWP
             if (e.PropertyName == "Uri")
             {
                 var pdfView = Element as PdfView;
-                if (pdfView.Uri != null)
+                if (pdfView?.Uri != null)
                 {
                     Control.Source = new Uri(
-                        string.Format("ms-appx-web:///Assets/pdfjs/web/viewer.html?file={0}", string.Format("file://{0}", WebUtility.UrlEncode(pdfView.Uri))));
+                        //string.Format("ms-appx-web:///Assets/pdfjs/web/viewer.html?file={0}",
+                        string.Format("ms-appdata:///localcache/sub/pdfjs/web/viewer.html?file={0}",
+                        "../../test.pdf"));
+                        //WebUtility.UrlEncode(pdfView.Uri))));
                         //string.Format("ms-appx-web:///Assets/Content/{0}", WebUtility.UrlEncode(customWebView.Uri))));
                     //Control.Settings.AllowFileAccess = true;
                     //Control.Settings.AllowFileAccessFromFileURLs = true;
@@ -41,8 +45,11 @@ namespace AideDeJeu.UWP
 
             if (e.NewElement != null)
             {
-                var customWebView = Element as PdfView;
-                Control.Source = new Uri(string.Format("ms-appx-web:///Assets/pdfjs/web/viewer.html?file={0}", string.Format("ms-appx-web:///Assets/Content/{0}", WebUtility.UrlEncode(customWebView.Uri))));
+                var pdfView = Element as PdfView;
+                if (pdfView?.Uri != null)
+                {
+                    Control.Source = new Uri(string.Format("ms-appx-web:///Assets/pdfjs/web/viewer.html?file={0}", string.Format("ms-appx-web:///Assets/Content/{0}", WebUtility.UrlEncode(pdfView.Uri))));
+                }
             }
         }
     }
