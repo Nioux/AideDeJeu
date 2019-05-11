@@ -8,10 +8,33 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
     public class BackgroundViewModel : BaseViewModel
     {
         private BackgroundItem _Background = null;
-        public BackgroundItem Background { get { return _Background; } set { SubBackground = null; SetProperty(ref _Background, value); OnPropertyChanged(nameof(BackgroundOrSubBackground)); } }
+        public BackgroundItem Background
+        {
+            get
+            {
+                return _Background;
+            }
+            set
+            {
+                SubBackground = null;
+                SetProperty(ref _Background, value);
+                OnPropertyChanged(nameof(BackgroundOrSubBackground));
+            }
+        }
 
         private SubBackgroundItem _SubBackground = null;
-        public SubBackgroundItem SubBackground { get { return _SubBackground; } set { SetProperty(ref _SubBackground, value); OnPropertyChanged(nameof(BackgroundOrSubBackground)); } }
+        public SubBackgroundItem SubBackground
+        {
+            get
+            {
+                return _SubBackground;
+            }
+            set
+            {
+                SetProperty(ref _SubBackground, value);
+                OnPropertyChanged(nameof(BackgroundOrSubBackground));
+            }
+        }
 
         public BackgroundItem BackgroundOrSubBackground
         {
@@ -78,43 +101,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _BackgroundSpecialty, value);
-                OnPropertyChanged(nameof(SelectedBackgroundSpecialty));
             }
         }
-        private string _SubBackgroundSpecialty = null;
-        public string SubBackgroundSpecialty
-        {
-            get
-            {
-                return _SubBackgroundSpecialty;
-            }
-            set
-            {
-                SetProperty(ref _SubBackgroundSpecialty, value);
-                OnPropertyChanged(nameof(SelectedBackgroundSpecialty));
-            }
-        }
-        public string SelectedBackgroundSpecialty
-        {
-            get
-            {
-                return _SubBackgroundSpecialty ?? _BackgroundSpecialty;
-            }
-        }
-
-        private string _PickedBackgroundSpecialty = null;
-        public string PickedBackgroundSpecialty
-        {
-            get
-            {
-                return _PickedBackgroundSpecialty;
-            }
-            set
-            {
-                SetProperty(ref _PickedBackgroundSpecialty, value);
-            }
-        }
-
         private SkillItem _BackgroundSkill = null;
         public SkillItem BackgroundSkill
         {
@@ -125,7 +113,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _BackgroundSkill, value);
-                OnPropertyChanged(nameof(SelectedBackgroundSkill));
+                OnPropertyChanged(nameof(BackgroundOrSubBackgroundSkill));
             }
         }
         private SkillItem _SubBackgroundSkill = null;
@@ -138,10 +126,10 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             set
             {
                 SetProperty(ref _SubBackgroundSkill, value);
-                OnPropertyChanged(nameof(SelectedBackgroundSkill));
+                OnPropertyChanged(nameof(BackgroundOrSubBackgroundSkill));
             }
         }
-        public SkillItem SelectedBackgroundSkill
+        public SkillItem BackgroundOrSubBackgroundSkill
         {
             get
             {

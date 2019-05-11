@@ -60,8 +60,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             BackgroundSpecialties = null;
             SubBackgroundSpecialties = null;
             //BackgroundSpecialty = null;
-            BackgroundSkill = null;
-            SubBackgroundSkill = null;
+            SelectedPlayerCharacter.Background.BackgroundSkill = null;
+            SelectedPlayerCharacter.Background.SubBackgroundSkill = null;
         }
 
         private async void Background_PropertyChanged(object sender, PropertyChangedEventArgs e)
@@ -70,6 +70,10 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 case nameof(SelectedPlayerCharacter.Background.Background):
                     await LoadBackgroundAsync(SelectedPlayerCharacter.Background.Background);
+                    //SubBackgrounds = await LoadSubBackgroundsAsync(SelectedPlayerCharacter.Background.Background);
+                    break;
+                case nameof(SelectedPlayerCharacter.Background.SubBackground):
+                    await LoadSubBackgroundAsync(SelectedPlayerCharacter.Background.SubBackground);
                     //SubBackgrounds = await LoadSubBackgroundsAsync(SelectedPlayerCharacter.Background.Background);
                     break;
             }
@@ -353,7 +357,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 BackgroundSpecialties = await LoadBackgroundsSpecialtiesAsync(background);
                 //BackgroundSpecialty = null;
                 //SubBackgroundSpecialties = null;
-                BackgroundSkill = await LoadSkillAsync(background);
+                SelectedPlayerCharacter.Background.BackgroundSkill = await LoadSkillAsync(background);
                 //SubBackgroundSkill = null;
                 ResetAlignments();
             }
@@ -429,13 +433,13 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             if (subbackground == null)
             {
                 SubBackgroundSpecialties = null;
-                SubBackgroundSkill = null;
+                SelectedPlayerCharacter.Background.SubBackgroundSkill = null;
                 //SubBackgroundSpecialty = null;
             }
             else
             {
                 SubBackgroundSpecialties = await LoadBackgroundsSpecialtiesAsync(subbackground);
-                SubBackgroundSkill = await LoadSkillAsync(subbackground);
+                SelectedPlayerCharacter.Background.SubBackgroundSkill = await LoadSkillAsync(subbackground);
             }
             return subbackground;
         }
@@ -622,41 +626,41 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         //    }
         //}
 
-        private SkillItem _BackgroundSkill = null;
-        public SkillItem BackgroundSkill
-        {
-            get
-            {
-                return _BackgroundSkill;
-            }
-            set
-            {
-                SetProperty(ref _BackgroundSkill, value);
-                OnPropertyChanged(nameof(BackgroundOrSubBackgroundSkill));
-                //OnPropertyChanged(nameof(HasBackgroundSkill));
-            }
-        }
-        private SkillItem _SubBackgroundSkill = null;
-        public SkillItem SubBackgroundSkill
-        {
-            get
-            {
-                return _SubBackgroundSkill;
-            }
-            set
-            {
-                SetProperty(ref _SubBackgroundSkill, value);
-                OnPropertyChanged(nameof(BackgroundOrSubBackgroundSkill));
-                //OnPropertyChanged(nameof(HasBackgroundSkill));
-            }
-        }
-        public SkillItem BackgroundOrSubBackgroundSkill
-        {
-            get
-            {
-                return _SubBackgroundSkill ?? _BackgroundSkill;
-            }
-        }
+        //private SkillItem _BackgroundSkill = null;
+        //public SkillItem BackgroundSkill
+        //{
+        //    get
+        //    {
+        //        return _BackgroundSkill;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _BackgroundSkill, value);
+        //        OnPropertyChanged(nameof(BackgroundOrSubBackgroundSkill));
+        //        //OnPropertyChanged(nameof(HasBackgroundSkill));
+        //    }
+        //}
+        //private SkillItem _SubBackgroundSkill = null;
+        //public SkillItem SubBackgroundSkill
+        //{
+        //    get
+        //    {
+        //        return _SubBackgroundSkill;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SubBackgroundSkill, value);
+        //        OnPropertyChanged(nameof(BackgroundOrSubBackgroundSkill));
+        //        //OnPropertyChanged(nameof(HasBackgroundSkill));
+        //    }
+        //}
+        //public SkillItem BackgroundOrSubBackgroundSkill
+        //{
+        //    get
+        //    {
+        //        return _SubBackgroundSkill ?? _BackgroundSkill;
+        //    }
+        //}
         //public bool HasBackgroundSkill
         //{
         //    get
