@@ -1256,13 +1256,14 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                             stamper = new PdfStamper(reader, stream);
                             var form = stamper.AcroFields;
                             var fields = form.Fields;
+#if DEBUG
                             foreach (DictionaryEntry field in fields)
                             {
                                 var item = field.Value as AcroFields.Item;
                                 Debug.WriteLine(field.Key);
                                 form.SetField(field.Key.ToString(), field.Key.ToString());
                             }
-
+#endif // DEBUG
 
                             form.SetField("Nom", SelectedPlayerCharacter?.Name ?? string.Empty);
                             form.SetField("Niveau", "1");
