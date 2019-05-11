@@ -1228,214 +1228,76 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             await OpenPdfAsync();
         }
 
+        public string BasePdfDirectory
+        {
+            get
+            {
+                return Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "pdf");
+            }
+        }
         public async Task<string> GeneratePdfAsync(PlayerCharacterViewModel playerCharacter)
         {
-            //PdfDocument pdfDoc = new PdfDocument(new PdfReader(SRC), new PdfWriter(dest));
-            //PdfDocument srcDoc;
-            //PdfFormXObject page;
-            //PdfCanvas canvas = new PdfCanvas(pdfDoc..FirstPage.newContentStreamBefore(),
-            //        pdfDoc.getFirstPage().getResources(), pdfDoc);
-
-            //for (String path : EXTRA)
-            //{
-            //    srcDoc = new PdfDocument(new PdfReader(path));
-            //    page = srcDoc.getFirstPage().copyAsFormXObject(pdfDoc);
-            //    canvas.addXObject(page, 0, 0);
-            //    srcDoc.close();
-            //}
-            //pdfDoc.close();
-
-            //System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
-            //PdfDocument pdfDoc = new PdfDocument(new PdfWriter());
-            //var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
-            var filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf");
-            var stream = new FileStream(filePath, FileMode.Create, FileAccess.ReadWrite);
-
-            //PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.178_hd_01_feuille_de_perso_v1.pdf"));
-            PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.feuille_de_personnage_editable.pdf"));
-
-
-
-
-            //var fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "LinLibertine_aBS.ttf");
-            //using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.LinLibertine_aBS.ttf"))
-            //{
-            //    using (var outFont = new FileStream(fontPath, FileMode.Create, FileAccess.ReadWrite))
-            //    {
-            //        await inFont.CopyToAsync(outFont);
-            //    }
-            //}
-            //var set = listFonts(reader);
-            //var truc = findFontInPage(reader, "MinionPro-It", 1);
-            //var fonts = BaseFont.GetDocumentFonts(reader);
-            //var font = BaseFont.CreateFont("TMULFZ+MinionPro-It", BaseFont.WINANSI, BaseFont.EMBEDDED);
-            //var font = findFontInForm(reader, new PdfName("MinionPro-It"));
-            //FontFactory.Register(fontPath, "mafont");
-            //var bigFont = FontFactory.GetFont("mafont", 20, iTextSharp.text.Font.BOLD);
-            //var normalFont = FontFactory.GetFont("mafont", 12, iTextSharp.text.Font.NORMAL);
-            //var smallFont = FontFactory.GetFont("mafont", 6, iTextSharp.text.Font.NORMAL);
-            //System.Text.Encoding.RegisterProvider(new System.Text.EncodingProvider());
-            //var font = BaseFont.CreateFont("mafont", BaseFont.WINANSI, BaseFont.EMBEDDED);
-            //var font = mafont.BaseFont;
-            //var font = BaseFont.CreateFont(PRIndirectReference.());
-            //var font = findNamedFont(reader, "");
-
-            //var bigFont = mafont; // new iTextSharp.text.Font(font, 20);
-
-            // read the file
-            //PdfReader fondo = new PdfReader("listaPrecios.pdf");
-            PdfStamper stamper = new PdfStamper(reader, stream);
-            var form = stamper.AcroFields;
-            var fields = form.Fields;
-            foreach (DictionaryEntry field in fields)
+            return await Task.Run(() =>
             {
-                var item = field.Value as AcroFields.Item;
-                Debug.WriteLine(field.Key);
-                form.SetField(field.Key.ToString(), field.Key.ToString());
-            }
+                var basePath = BasePdfDirectory;
+                Directory.CreateDirectory(basePath);
+                var now = DateTime.Now;
+                var fileName = string.Format("PJ_{0:yyyyMMddHHmmss}.pdf", now);
+                var filePath = Path.Combine(basePath, fileName);
+                using (var stream = new FileStream(filePath, FileMode.Create, FileAccess.ReadWrite))
+                {
+
+                    PdfReader reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.feuille_de_personnage_editable.pdf"));
 
 
-            form.SetField("Nom", "Galefrin");
-            form.SetField("Niveau", "1");
-            form.SetField("Race", SelectedPlayerCharacter?.Race?.Name ?? string.Empty);
-            form.SetField("Classe", SelectedPlayerCharacter?.Class?.Name ?? string.Empty);
-            form.SetField("Alignement", SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty);
-            form.SetField("Historique", SelectedPlayerCharacter?.Background?.Background?.Name ?? string.Empty);
-            form.SetField("Trait de personnalité",
-                (SelectedPlayerCharacter.Background.PersonalityTrait ?? string.Empty) + "\n\n" +
-                (SelectedPlayerCharacter.Background.PersonalityIdeal ?? string.Empty) + "\n\n" +
-                (SelectedPlayerCharacter.Background.PersonalityLink ?? string.Empty) + "\n\n" +
-                (SelectedPlayerCharacter.Background.PersonalityDefect ?? string.Empty)
-                );
-            form.SetField("For Valeur", SelectedPlayerCharacter?.Abilities?.Strength?.Value?.ToString());
-            form.SetField("For MOD", SelectedPlayerCharacter?.Abilities?.Strength?.ModString);
-            form.SetField("Dex Valeur", SelectedPlayerCharacter?.Abilities?.Dexterity?.Value?.ToString());
-            form.SetField("Dex MOD", SelectedPlayerCharacter?.Abilities?.Dexterity?.ModString);
-            form.SetField("Con Valeur", SelectedPlayerCharacter?.Abilities?.Constitution?.Value?.ToString());
-            form.SetField("Con MOD", SelectedPlayerCharacter?.Abilities?.Constitution?.ModString);
-            form.SetField("Int Valeur", SelectedPlayerCharacter?.Abilities?.Intelligence?.Value?.ToString());
-            form.SetField("Int MOD", SelectedPlayerCharacter?.Abilities?.Intelligence?.ModString);
-            form.SetField("Sag Valeur", SelectedPlayerCharacter?.Abilities?.Wisdom?.Value?.ToString());
-            form.SetField("Sag MOD", SelectedPlayerCharacter?.Abilities?.Wisdom?.ModString);
-            form.SetField("Cha Valeur", SelectedPlayerCharacter?.Abilities?.Charisma?.Value?.ToString());
-            form.SetField("Cha MOD", SelectedPlayerCharacter?.Abilities?.Charisma?.ModString);
+                    PdfStamper stamper = new PdfStamper(reader, stream);
+                    var form = stamper.AcroFields;
+                    var fields = form.Fields;
+                    foreach (DictionaryEntry field in fields)
+                    {
+                        var item = field.Value as AcroFields.Item;
+                        Debug.WriteLine(field.Key);
+                        form.SetField(field.Key.ToString(), field.Key.ToString());
+                    }
 
-            //PdfContentByte cb = stamper.GetOverContent(1);
-            //cb.SetRGBColorFill(255, 0, 0);
-            //cb.Rectangle(reader.GetPageSize(1).Width - 90f, 730f, 50f, 50f);
-            //cb.Stroke();
-            //iTextSharp.text.Rectangle rect = new iTextSharp.text.Rectangle(
-            //    reader.GetPageSize(1).Width - 90f, 730f,
-            //    reader.GetPageSize(1).Width - 40f, 780f);
-            //ColumnText ct = new ColumnText(cb);
-            //ct.SetSimpleColumn(rect.Left, rect.Bottom, rect.Right, rect.Top);
-            //ct.AddElement(new Paragraph("This is the text added in the rectangle"));
-            //ct.Go();
 
-            //DrawText(cb, "This is the text added in the rectangle", bigFont, 100f, 730f, 50f, 50f);
-            //DrawText(cb, "This is the text added in the rectangle", bigFont, 0f, 0f, 50f, 50f);
-            //DrawText(cb, "Galefrin", bigFont, 30f, 680f, 200f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+                    form.SetField("Nom", "Galefrin");
+                    form.SetField("Niveau", "1");
+                    form.SetField("Race", SelectedPlayerCharacter?.Race?.Name ?? string.Empty);
+                    form.SetField("Classe", SelectedPlayerCharacter?.Class?.Name ?? string.Empty);
+                    form.SetField("Alignement", SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty);
+                    form.SetField("Historique", SelectedPlayerCharacter?.Background?.Background?.Name ?? string.Empty);
+                    form.SetField("Trait de personnalité",
+                        (SelectedPlayerCharacter.Background.PersonalityTrait ?? string.Empty) + "\n\n" +
+                        (SelectedPlayerCharacter.Background.PersonalityIdeal ?? string.Empty) + "\n\n" +
+                        (SelectedPlayerCharacter.Background.PersonalityLink ?? string.Empty) + "\n\n" +
+                        (SelectedPlayerCharacter.Background.PersonalityDefect ?? string.Empty)
+                        );
+                    form.SetField("For Valeur", SelectedPlayerCharacter?.Abilities?.Strength?.Value?.ToString());
+                    form.SetField("For MOD", SelectedPlayerCharacter?.Abilities?.Strength?.ModString);
+                    form.SetField("Dex Valeur", SelectedPlayerCharacter?.Abilities?.Dexterity?.Value?.ToString());
+                    form.SetField("Dex MOD", SelectedPlayerCharacter?.Abilities?.Dexterity?.ModString);
+                    form.SetField("Con Valeur", SelectedPlayerCharacter?.Abilities?.Constitution?.Value?.ToString());
+                    form.SetField("Con MOD", SelectedPlayerCharacter?.Abilities?.Constitution?.ModString);
+                    form.SetField("Int Valeur", SelectedPlayerCharacter?.Abilities?.Intelligence?.Value?.ToString());
+                    form.SetField("Int MOD", SelectedPlayerCharacter?.Abilities?.Intelligence?.ModString);
+                    form.SetField("Sag Valeur", SelectedPlayerCharacter?.Abilities?.Wisdom?.Value?.ToString());
+                    form.SetField("Sag MOD", SelectedPlayerCharacter?.Abilities?.Wisdom?.ModString);
+                    form.SetField("Cha Valeur", SelectedPlayerCharacter?.Abilities?.Charisma?.Value?.ToString());
+                    form.SetField("Cha MOD", SelectedPlayerCharacter?.Abilities?.Charisma?.ModString);
 
-            //float ecart = 2.5f;
-            //DrawText(cb, Strength.ToString(), bigFont, 30f, 605f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
-            //DrawText(cb, Dexterity.ToString(), bigFont, 30f, 530f - ecart, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
-            //DrawText(cb, Constitution.ToString(), bigFont, 30f, 455f - ecart * 2f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
-            //DrawText(cb, Intelligence.ToString(), bigFont, 30f, 380f - ecart * 3f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
-            //DrawText(cb, Wisdom.ToString(), bigFont, 30f, 305f - ecart * 4f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
-            //DrawText(cb, Charisma.ToString(), bigFont, 30f, 230f - ecart * 5f, 50f, 50f, iTextSharp.text.Element.ALIGN_CENTER);
+                    stamper.Close();
+                    reader.Close();
 
-            //DrawText(cb, SelectedPlayerCharacter?.Class?.Name ?? string.Empty, normalFont, 265f, 714f, 200f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
-            //DrawText(cb, SelectedPlayerCharacter?.Race?.Name ?? string.Empty, normalFont, 265f, 680f, 100f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
-            //DrawText(cb, SelectedPlayerCharacter?.Alignment?.Name ?? string.Empty, smallFont, 380f, 680f, 80f, 30f, iTextSharp.text.Element.ALIGN_LEFT);
-            //var ct = new ColumnText(stamper.GetOverContent(1));
-            //ct.SetSimpleColumn(20, 685, 200, 35);
-            ////ct.Canvas.SetRGBColorFill(255, 0, 0);
-            ////ct.Canvas.
-            ////ct.Canvas.Rectangle(0, 0, 200f, 600f);
-            //var p = new Paragraph(new Phrase(20, "Hello World! gfdgfd gfdgfd gfdgfdg gfdgdg zrerezr ezrzerez rezrezrze zrezrez zrezrez ffdfdsz rezrzerez  fsffsdfs", bigFont));
-            //p.Alignment = iTextSharp.text.Element.ALIGN_CENTER;
-            //ct.AddElement(p);
-            //ct.Go();
-
-            //PdfContentByte content = stamper.GetOverContent(1);
-            //// add text
-            //content.SetRGBColorFill(255, 0, 0);
-            //content.Rectangle(20, 685, 200, 35);
-            //content.Stroke();
-
-            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin", bigFont), 40, 700, 0);
-
-            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Strength.ToString(), bigFont), 40, 620, 0);
-            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Dexterity.ToString(), bigFont), 40, 545, 0);
-            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Constitution.ToString(), bigFont), 40, 470, 0);
-            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Intelligence.ToString(), bigFont), 40, 395, 0);
-            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Wisdom.ToString(), bigFont), 40, 320, 0);
-            //ColumnText.ShowTextAligned(content, iTextSharp.text.Element.ALIGN_LEFT, new Phrase(Charisma.ToString(), bigFont), 40, 245, 0);
-
-            //ColumnText ct = new ColumnText(content);
-            //// this are the coordinates where you want to add text
-            //// if the text does not fit inside it will be cropped
-            //ct.SetSimpleColumn(50, 500, 500, 50);
-            //ct.SetText(new Phrase("Galefrin"));
-            //ct.Go();
-            stamper.Close();
-            reader.Close();
-
-            /*
-
-            Document document = new Document(PageSize.LETTER);
-            var stream = DependencyService.Get<INativeAPI>().CreateStream("test.pdf");
-            var writer = PdfWriter.GetInstance(document, stream);
-            
-            
-            document.Open();
-            PdfImportedPage page = writer.GetImportedPage(reader, 1);
-            document.NewPage();
-            PdfContentByte cb = writer.DirectContent;
-            cb.AddTemplate(page, 0, 0);
-            //document.Add(new Paragraph(0, "Hello World!"));
-
-            //document.Add(new iTextSharp.text.Jpeg(new Uri("https://www.w3.org/MarkUp/Test/xhtml-print/20050519/tests/jpeg444.jpg")));
-
-            
-            //document.Add(new Paragraph(1, "Hello World!"));
-            PdfContentByte canvas = writer.DirectContentUnder;
-
-            //var imageStream = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.feuille_de_perso_1.jpg");
-            //iTextSharp.text.Image image = iTextSharp.text.Image.GetInstance("https://www.w3.org/MarkUp/Test/xhtml-print/20050519/tests/jpeg444.jpg");
-            //iTextSharp.text.Image image = iTextSharp.text.Image.GetInstance(imageStream);
-
-            //image.ScaleAbsolute(document.PageSize.Width / 2, document.PageSize.Height / 2);// PageSize.LETTER);
-
-            //image.SetAbsolutePosition(0, 0);
-            
-            //canvas.AddImage(image);
-
-            ColumnText.ShowTextAligned(canvas, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin"), 40, document.PageSize.Height - 100, 0);
-            
-            document.Close();
-            */
-            return filePath;
+                    return fileName;
+                }
+            });
         }
 
         async Task OpenPdfAsync()
         {
-            //DependencyService.Get<INativeAPI>().OpenFileByName("test.pdf");
-
-            //var file = Path.Combine(FileSystem.CacheDirectory, fn);
-            //File.WriteAllText(file, "Hello World");
             var testfile = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf");
             await DependencyService.Get<INativeAPI>().LaunchFileAsync("hophop", "coucou", testfile);
-            /*
-            var shareFile = new Xamarin.Essentials.ShareFile(testfile);
-            //var truc = Platform.GetShareableFileUri(request.File.FullPath);
-            //await Xamarin.Essentials.Browser.OpenAsync(testfile);
-            await Xamarin.Essentials.Share.RequestAsync(new Xamarin.Essentials.ShareFileRequest()
-            {
-                Title = "ou yeah",
-                File = shareFile
-            });
-            */
         }
 
         private int PickAbility(ref List<int> mins, ref List<int> maxs, string name)

@@ -24,10 +24,11 @@ namespace AideDeJeu.UWP
                 var pdfView = Element as PdfView;
                 if (pdfView?.Uri != null)
                 {
+                    // TODO : copier le dossier assets/pdfjs dans localcache/pdf/pdfjs
                     Control.Source = new Uri(
                         //string.Format("ms-appx-web:///Assets/pdfjs/web/viewer.html?file={0}",
-                        string.Format("ms-appdata:///localcache/sub/pdfjs/web/viewer.html?file={0}",
-                        "../../test.pdf"));
+                        string.Format("ms-appdata:///localcache/pdf/pdfjs/web/viewer.html?file=../../{0}",
+                        pdfView.Uri));
                         //WebUtility.UrlEncode(pdfView.Uri))));
                         //string.Format("ms-appx-web:///Assets/Content/{0}", WebUtility.UrlEncode(customWebView.Uri))));
                     //Control.Settings.AllowFileAccess = true;

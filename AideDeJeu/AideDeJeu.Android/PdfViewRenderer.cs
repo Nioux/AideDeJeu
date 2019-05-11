@@ -35,8 +35,10 @@ namespace AideDeJeu.Droid
                     Control.Settings.AllowFileAccess = true;
                     Control.Settings.AllowFileAccessFromFileURLs = true;
                     Control.Settings.AllowUniversalAccessFromFileURLs = true;
+                    var filePath = string.Format("{0}/{1}/{2}", Android.App.Application.Context.CacheDir.AbsolutePath, "pdf", pdfView.Uri);
                     //Control.LoadUrl(string.Format("file:///android_asset/pdfjs/web/viewer.html?file={0}", string.Format("file:///android_asset/Content/{0}", WebUtility.UrlEncode(customWebView.Uri))));
-                    Control.LoadUrl(string.Format("file:///android_asset/pdfjs/web/viewer.html?file={0}", string.Format("file://{0}", WebUtility.UrlEncode(pdfView.Uri))));
+                    //Control.LoadUrl(string.Format("file:///android_asset/pdfjs/web/viewer.html?file={0}", string.Format("file://{0}", WebUtility.UrlEncode(pdfView.Uri))));
+                    Control.LoadUrl(string.Format("file:///android_asset/pdfjs/web/viewer.html?file=file://{0}", filePath ));
                 }
             }
 
