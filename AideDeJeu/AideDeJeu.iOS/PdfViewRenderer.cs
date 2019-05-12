@@ -53,7 +53,7 @@ namespace AideDeJeu.iOS
 
         void LoadFile(string fileName)
         {
-            string filePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), string.Format("pdf/{0}", WebUtility.UrlEncode(fileName)));
+            string filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, string.Format("pdf/{0}", WebUtility.UrlEncode(fileName)));
             Control.LoadRequest(new NSUrlRequest(new NSUrl(filePath, false)));
             Control.ScalesPageToFit = true;
         }
