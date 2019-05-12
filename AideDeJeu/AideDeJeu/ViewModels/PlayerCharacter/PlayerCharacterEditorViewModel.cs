@@ -1224,8 +1224,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
         public async Task ExecuteGenerateAndOpenPdfCommandAsync()
         {
-            await GeneratePdfAsync(SelectedPlayerCharacter);
-            await OpenPdfAsync();
+            var filename = await GeneratePdfAsync(SelectedPlayerCharacter);
+            await OpenPdfAsync(filename);
         }
 
         public string BasePdfDirectory
@@ -1305,10 +1305,10 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             });
         }
 
-        async Task OpenPdfAsync()
+        public async Task OpenPdfAsync(string filename)
         {
-            var testfile = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf");
-            await DependencyService.Get<INativeAPI>().LaunchFileAsync("hophop", "coucou", testfile);
+            var filepath = Path.Combine(BasePdfDirectory, filename);
+            await DependencyService.Get<INativeAPI>().LaunchFileAsync("hophop", "coucou", filepath);
         }
 
         private int PickAbility(ref List<int> mins, ref List<int> maxs, string name)

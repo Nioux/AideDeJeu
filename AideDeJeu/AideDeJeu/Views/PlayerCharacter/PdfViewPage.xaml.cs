@@ -2,7 +2,9 @@
 using AideDeJeu.ViewModels.PlayerCharacter;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
@@ -45,6 +47,12 @@ namespace AideDeJeu.Views.PlayerCharacter
         private async Task ExecuteShareCommandAsync()
         {
             var result = await DisplayActionSheet("Actions", "Annuler", null, "Envoyer vers...", "Ouvrir avec...");
+            if(result == "Ouvrir avec...")
+            {
+                string filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, Path.Combine("pdf", WebUtility.UrlEncode(PdfFile.Result)));
+                await DependencyService.Get<PlayerCharacterEditorViewModel>().OpenPdfAsync(filePath);
+
+            }
         }
     }
 }
