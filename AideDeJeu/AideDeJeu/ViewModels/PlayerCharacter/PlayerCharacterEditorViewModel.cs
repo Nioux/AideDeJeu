@@ -40,7 +40,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
 
 
             // raz des listes de choix
-            ResetAlignments();
+            await ResetAlignments();
             Races = await Task.Run(async () => await LoadRacesAsync());
             Classes = await Task.Run(async () => await LoadClassesAsync());
             Backgrounds = await Task.Run(async () => await LoadBackgroundsAsync());
@@ -348,7 +348,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 //SubBackgroundSpecialties = null;
                 SelectedPlayerCharacter.Background.BackgroundSkill = await LoadSkillAsync(background);
                 //SubBackgroundSkill = null;
-                ResetAlignments();
+                await ResetAlignments();
             }
             return background;
         }

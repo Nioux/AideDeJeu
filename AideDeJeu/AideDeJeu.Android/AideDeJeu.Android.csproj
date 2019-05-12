@@ -527,6 +527,13 @@
     <AndroidResource Include="Resources\drawable\rolling_dice_cup.png" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidResource Include="Resources\drawable\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\share.png" />
+  </ItemGroup>
+  
+  <ItemGroup>
     <AndroidResource Include="Resources\drawable-hdpi\crystal_ball.png" />
   </ItemGroup>
   <ItemGroup>
@@ -574,6 +581,13 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-hdpi\rolling_dice_cup.png" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\share.png" />
+  </ItemGroup>
+
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xhdpi\crystal_ball.png" />
   </ItemGroup>
@@ -623,6 +637,13 @@
     <AndroidResource Include="Resources\drawable-xhdpi\rolling_dice_cup.png" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\share.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxhdpi\crystal_ball.png" />
   </ItemGroup>
   <ItemGroup>
@@ -670,6 +691,13 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxhdpi\rolling_dice_cup.png" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\share.png" />
+  </ItemGroup>
+
   <ItemGroup>
     <AndroidResource Include="Resources\values\colors.xml" />
   </ItemGroup>

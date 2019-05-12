@@ -595,6 +595,8 @@
     <Content Include="d20.png" />
     <Content Include="cubes.png" />
     <Content Include="rolling_dice_cup.png" />
+    <Content Include="cancel.png" />
+    <Content Include="share.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

@@ -2,16 +2,36 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:views="clr-namespace:AideDeJeu.Views"
-             x:Class="AideDeJeu.Views.PlayerCharacter.PdfViewPage">
+             x:Class="AideDeJeu.Views.PlayerCharacter.PdfViewPage"
+             x:Name="this">
     <ContentPage.Content>
         <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="auto" />
+            </Grid.ColumnDefinitions>
+            <ImageButton Grid.Column="0" HeightRequest="32" Margin="5" Source="cancel.png" Command="{Binding CloseCommand, Source={x:Reference this}}"/>
+            <ImageButton Grid.Column="2" HeightRequest="32" Margin="5" Source="share.png" />
             <ActivityIndicator 
+                Grid.Row="1"
+                Grid.ColumnSpan="3"
                 IsRunning="{Binding PdfFile.IsNotCompleted}"
                 IsVisible="{Binding PdfFile.IsNotCompleted}"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
             
-            <views:PdfView IsVisible="{Binding PdfFile.IsSuccessfullyCompleted}" Uri="{Binding PdfFile.Result}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+            <views:PdfView 
+                Grid.Row="1"
+                Grid.ColumnSpan="3"
+                IsVisible="{Binding PdfFile.IsSuccessfullyCompleted}" 
+                Uri="{Binding PdfFile.Result}" 
+                HorizontalOptions="FillAndExpand" 
+                VerticalOptions="FillAndExpand"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>

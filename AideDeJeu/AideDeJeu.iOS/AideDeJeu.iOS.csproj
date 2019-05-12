@@ -307,6 +307,12 @@
     <ImageAsset Include="Media.xcassets\rolling_dice_cup.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Media.xcassets\cancel.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\share.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
     <ImageAsset Include="Media.xcassets\crystal_ball.imageset\crystal_ball.png">
       <Visible>false</Visible>
     </ImageAsset>
@@ -365,6 +371,12 @@
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Media.xcassets\rolling_dice_cup.imageset\rolling_dice_cup.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\cancel.imageset\cancel.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\share.imageset\share.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>

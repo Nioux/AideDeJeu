@@ -43,8 +43,12 @@ call convertone.bat cubes cubes
 
 call convertone.bat rolling_dice_cup rolling-dice-cup
 
+call convertone.bat battle_axe battle-axe
+
 :nouveau
 
-call convertone.bat battle_axe battle-axe
+call convertone.bat share share
+
+call convertone.bat cancel cancel
 
 pause
