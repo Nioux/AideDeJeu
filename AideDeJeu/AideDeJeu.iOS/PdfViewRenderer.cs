@@ -5,11 +5,14 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
+using AideDeJeu.iOS;
 using AideDeJeu.Views;
 using Foundation;
 using UIKit;
+using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
 
+[assembly: ExportRenderer(typeof(PdfView), typeof(PdfViewRenderer))]
 namespace AideDeJeu.iOS
 {
     public class PdfViewRenderer : ViewRenderer<PdfView, UIWebView>
