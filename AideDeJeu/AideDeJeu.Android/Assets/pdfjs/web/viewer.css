@@ -935,6 +935,10 @@ html[dir='ltr'] .doorHangerRight:before {
           transform: translateX(-50%);
 }
 
+#toolbarViewerRight {
+    display:none;
+}
+
 html[dir='ltr'] #toolbarViewerLeft,
 html[dir='rtl'] #toolbarViewerRight {
   float: left;
