@@ -15,8 +15,8 @@
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="auto" />
             </Grid.ColumnDefinitions>
-            <ImageButton Grid.Column="0" HeightRequest="32" Margin="5" Source="cancel.png" Command="{Binding CloseCommand, Source={x:Reference this}}"/>
-            <ImageButton Grid.Column="2" HeightRequest="32" Margin="5" Source="share.png" Command="{Binding ShareCommand, Source={x:Reference this}}"/>
+            <ImageButton Grid.Column="0" BackgroundColor="White" HeightRequest="32" Margin="5" Source="cancel.png" Command="{Binding CloseCommand, Source={x:Reference this}}"/>
+            <ImageButton Grid.Column="2" BackgroundColor="White" HeightRequest="32" Margin="5" Source="share.png" Command="{Binding ShareCommand, Source={x:Reference this}}"/>
             <ActivityIndicator 
                 Grid.Row="1"
                 Grid.ColumnSpan="3"
