@@ -119,7 +119,10 @@ namespace AideDeJeu.ViewModels.Library
             {
                 if (Filter != null)
                 {
+                    var start = DateTime.Now;
                     var items = await Task.Run(async() => await Filter.GetFilteredItemsAsync(cancellationToken: cancellationToken));
+                    var end = DateTime.Now;
+                    Debug.WriteLine((end - start).TotalMilliseconds);
                     Items = new Item(items.ToList());
                     Children = items;
                 }

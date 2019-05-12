@@ -46,23 +46,66 @@ namespace AideDeJeu.Views.PlayerCharacter
 
         private async Task ExecuteShareCommandAsync()
         {
-            var result = await DisplayActionSheet("Actions", "Annuler", null, "Envoyer vers...", "Ouvrir avec...");
-            if(result == "Ouvrir avec...")
+            var SendTo = "Envoyer vers...";
+            var OpenWith = "Ouvrir avec...";
+            var SaveTo = "Enregistrer sous...";
+            var commands = new List<string>();
+            switch(Device.RuntimePlatform)
             {
-                string filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, Path.Combine("pdf", WebUtility.UrlEncode(PdfFile.Result)));
-                await DependencyService.Get<PlayerCharacterEditorViewModel>().OpenPdfAsync(filePath);
-
+                case Device.Android:
+                    commands.Add(SendTo);
+                    commands.Add(OpenWith);
+                    break;
+                case Device.UWP:
+                    commands.Add(SendTo);
+                    commands.Add(OpenWith);
+                    commands.Add(SaveTo);
+                    break;
+                case Device.iOS:
+                    commands.Add(SendTo);
+                    break;
             }
-            if(result == "Envoyer vers...")
+            string result = null;
+            if (commands.Count > 1)
             {
-                string filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, Path.Combine("pdf", WebUtility.UrlEncode(PdfFile.Result)));
-
-                await Xamarin.Essentials.Share.RequestAsync(new Xamarin.Essentials.ShareFileRequest
-                {
-                    Title = PdfFile.Result,
-                    File = new Xamarin.Essentials.ShareFile(filePath)
-                });
+                result = await DisplayActionSheet("Actions", "Annuler", null, commands.ToArray());
             }
+            else
+            {
+                result = commands.FirstOrDefault();
+            }
+            if(result == OpenWith)
+            {
+                await OpenWithAsync(PdfFile.Result);
+            }
+            else if(result == SendTo)
+            {
+                await SendToAsync(PdfFile.Result);
+            }
+            else if (result == SaveTo)
+            {
+                await SaveToAsync(PdfFile.Result);
+            }
+        }
+
+        private async Task OpenWithAsync(string filename)
+        {
+            string filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, Path.Combine("pdf", WebUtility.UrlEncode(filename)));
+            await DependencyService.Get<PlayerCharacterEditorViewModel>().OpenPdfAsync(filePath);
+        }
+
+        private async Task SendToAsync(string filename)
+        {
+            string filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, Path.Combine("pdf", WebUtility.UrlEncode(filename)));
+            await Xamarin.Essentials.Share.RequestAsync(new Xamarin.Essentials.ShareFileRequest
+            {
+                Title = PdfFile.Result,
+                File = new Xamarin.Essentials.ShareFile(filePath)
+            });
+        }
+        private async Task SaveToAsync(string filename)
+        {
+            string filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, Path.Combine("pdf", WebUtility.UrlEncode(filename)));
         }
     }
 }

@@ -251,7 +251,8 @@ namespace AideDeJeu.ViewModels.Library
                         (
                             (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )).OrderBy(spell => Helpers.RemoveDiacritics(spell.Name)).ToList();
+                        )).OrderBy(spell => Helpers.RemoveDiacritics(spell.Name)
+                        ).ToList();
                 }
             }
             catch

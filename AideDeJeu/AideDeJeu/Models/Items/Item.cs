@@ -351,9 +351,44 @@ namespace AideDeJeuLib
             return $"{Name} ({NewId})";
         }
 
+        static IDeserializer _Deserializer = new DeserializerBuilder().WithNamingConvention(new PascalCaseNamingConvention()).Build();
+        static ISerializer _Serializer = new SerializerBuilder().WithNamingConvention(new PascalCaseNamingConvention()).Build();
+
         [NotMapped]
         [IgnoreDataMember]
-        public virtual OrderedDictionary Attributes { get; set; } = new OrderedDictionary();
+        public virtual OrderedDictionary Attributes
+        {
+            get
+            {
+                if (string.IsNullOrEmpty(AttributesDictionary))
+                {
+                    return new OrderedDictionary();
+                }
+                else
+                {
+                    //var builder = new DeserializerBuilder();
+                    //var deserializer = builder
+                    //    .WithNamingConvention(new PascalCaseNamingConvention())
+                    //    .Build();
+                    return _Deserializer.Deserialize<OrderedDictionary>(AttributesDictionary);
+                }
+            }
+            set
+            {
+                if (value == null)
+                {
+                    AttributesDictionary = null;
+                }
+                else
+                {
+                    //var builder = new SerializerBuilder();
+                    //var serializer = builder
+                    //    .WithNamingConvention(new PascalCaseNamingConvention())
+                    //    .Build();
+                    AttributesDictionary = _Serializer.Serialize(value);
+                }
+            }
+        }// = new OrderedDictionary();
 
         public virtual OrderedDictionary AttributesKeyValue
         {
@@ -364,25 +399,25 @@ namespace AideDeJeuLib
         }
 
         [DataMember]
-        public virtual string AttributesDictionary
-        {
-            get
-            {
-                var builder = new SerializerBuilder();
-                var serializer = builder
-                    .WithNamingConvention(new PascalCaseNamingConvention())
-                    .Build();
-                return serializer.Serialize(Attributes);
-            }
-            set
-            {
-                var builder = new DeserializerBuilder();
-                var deserializer = builder
-                    .WithNamingConvention(new PascalCaseNamingConvention())
-                    .Build();
-                Attributes = deserializer.Deserialize<OrderedDictionary>(value);
-            }
-        }
+        public virtual string AttributesDictionary { get; set; }
+    //    {
+    //        get
+    //        {
+    //            var builder = new SerializerBuilder();
+    //            var serializer = builder
+    //                .WithNamingConvention(new PascalCaseNamingConvention())
+    //                .Build();
+    //            return serializer.Serialize(Attributes);
+    //        }
+    //        set
+    //        {
+    //            var builder = new DeserializerBuilder();
+    //var deserializer = builder
+    //    .WithNamingConvention(new PascalCaseNamingConvention())
+    //    .Build();
+    //Attributes = deserializer.Deserialize<OrderedDictionary>(value);
+    //        }
+    //    }
 
         public virtual void ResetAttribute(string name)
         {
