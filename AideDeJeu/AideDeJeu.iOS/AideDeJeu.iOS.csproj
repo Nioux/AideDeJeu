@@ -105,6 +105,7 @@
     </BundleResource>
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
+    <Compile Include="PdfViewRenderer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <BundleResource Include="Resources\Fonts\LinLibertine_R.ttf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
