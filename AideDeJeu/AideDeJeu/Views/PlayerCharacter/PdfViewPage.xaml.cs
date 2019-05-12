@@ -53,6 +53,16 @@ namespace AideDeJeu.Views.PlayerCharacter
                 await DependencyService.Get<PlayerCharacterEditorViewModel>().OpenPdfAsync(filePath);
 
             }
+            if(result == "Envoyer vers...")
+            {
+                string filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, Path.Combine("pdf", WebUtility.UrlEncode(PdfFile.Result)));
+
+                await Xamarin.Essentials.Share.RequestAsync(new Xamarin.Essentials.ShareFileRequest
+                {
+                    Title = PdfFile.Result,
+                    File = new Xamarin.Essentials.ShareFile(filePath)
+                });
+            }
         }
     }
 }
