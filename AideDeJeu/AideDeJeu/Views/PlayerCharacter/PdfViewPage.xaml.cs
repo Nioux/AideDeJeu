@@ -25,13 +25,26 @@ namespace AideDeJeu.Views.PlayerCharacter
         {
             get
             {
-                return new Command(ExecuteCloseCommand);
+                return new Command(async() => await ExecuteCloseCommandAsync());
             }
         }
 
-        private void ExecuteCloseCommand()
+        private async Task ExecuteCloseCommandAsync()
         {
-            Navigation.PopModalAsync(true);
+            await Navigation.PopModalAsync(true);
+        }
+
+        public ICommand ShareCommand
+        {
+            get
+            {
+                return new Command(async() => await ExecuteShareCommandAsync());
+            }
+        }
+
+        private async Task ExecuteShareCommandAsync()
+        {
+            var result = await DisplayActionSheet("Actions", "Annuler", null, "Envoyer vers...", "Ouvrir avec...");
         }
     }
 }
