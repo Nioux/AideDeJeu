@@ -39,14 +39,14 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 if (SubRace == null)
                 {
-                    return Race.Attributes;
+                    return Race.GetAttributes();
                 }
                 var dico = new OrderedDictionary();
-                foreach (DictionaryEntry attr in Race.Attributes)
+                foreach (DictionaryEntry attr in Race.GetAttributes())
                 {
                     dico[attr.Key] = attr.Value;
                 }
-                foreach (DictionaryEntry attr in SubRace.Attributes)
+                foreach (DictionaryEntry attr in SubRace.GetAttributes())
                 {
                     dico[attr.Key] = attr.Value;
                 }

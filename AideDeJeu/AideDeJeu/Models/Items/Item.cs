@@ -354,41 +354,58 @@ namespace AideDeJeuLib
         static IDeserializer _Deserializer = new DeserializerBuilder().WithNamingConvention(new PascalCaseNamingConvention()).Build();
         static ISerializer _Serializer = new SerializerBuilder().WithNamingConvention(new PascalCaseNamingConvention()).Build();
 
-        [NotMapped]
-        [IgnoreDataMember]
-        public virtual OrderedDictionary Attributes
+        protected OrderedDictionary Attributes { get; private set; } = new OrderedDictionary();
+        //[NotMapped]
+        //[IgnoreDataMember]
+        //protected virtual OrderedDictionary Attributes
+        //{
+        //    get
+        //    {
+        //        if (string.IsNullOrEmpty(AttributesDictionary))
+        //        {
+        //            return new OrderedDictionary();
+        //        }
+        //        else
+        //        {
+        //            //var builder = new DeserializerBuilder();
+        //            //var deserializer = builder
+        //            //    .WithNamingConvention(new PascalCaseNamingConvention())
+        //            //    .Build();
+        //            return _Deserializer.Deserialize<OrderedDictionary>(AttributesDictionary);
+        //        }
+        //    }
+        //}// = new OrderedDictionary();
+        public void SaveAttributes()
         {
-            get
+            if (Attributes == null)
             {
-                if (string.IsNullOrEmpty(AttributesDictionary))
-                {
-                    return new OrderedDictionary();
-                }
-                else
-                {
-                    //var builder = new DeserializerBuilder();
-                    //var deserializer = builder
-                    //    .WithNamingConvention(new PascalCaseNamingConvention())
-                    //    .Build();
-                    return _Deserializer.Deserialize<OrderedDictionary>(AttributesDictionary);
-                }
+                AttributesDictionary = null;
             }
-            set
+            else
             {
-                if (value == null)
-                {
-                    AttributesDictionary = null;
-                }
-                else
-                {
-                    //var builder = new SerializerBuilder();
-                    //var serializer = builder
-                    //    .WithNamingConvention(new PascalCaseNamingConvention())
-                    //    .Build();
-                    AttributesDictionary = _Serializer.Serialize(value);
-                }
+                //var builder = new SerializerBuilder();
+                //var serializer = builder
+                //    .WithNamingConvention(new PascalCaseNamingConvention())
+                //    .Build();
+                AttributesDictionary = _Serializer.Serialize(Attributes);
             }
-        }// = new OrderedDictionary();
+        }
+        public void LoadAttributes()
+        {
+            Attributes = GetAttributes();
+        }
+
+        public OrderedDictionary GetAttributes()
+        {
+            if (string.IsNullOrEmpty(AttributesDictionary))
+            {
+                return new OrderedDictionary();
+            }
+            else
+            {
+                return _Deserializer.Deserialize<OrderedDictionary>(AttributesDictionary);
+            }
+        }
 
         public virtual OrderedDictionary AttributesKeyValue
         {
@@ -432,6 +449,7 @@ namespace AideDeJeuLib
                 {
                     this.Attributes.Remove(name);
                 }
+                SaveAttributes();
             }
         }
         public virtual void SetAttribute(string name, string value)
@@ -451,10 +469,12 @@ namespace AideDeJeuLib
                 {
                     this.Attributes[name] = value;
                 }
+                SaveAttributes();
             }
         }
         public virtual string GetAttribute(string name)
         {
+            LoadAttributes();
             if (this.Attributes.Contains(name))
             {
                 return this.Attributes[name].ToString();

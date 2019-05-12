@@ -475,7 +475,8 @@ namespace AideDeJeu.ViewModels
                         }
                         else
                         {
-                            item.Attributes[attribute.Key] = attribute.Value;
+                            item.SetAttribute(attribute.Key, attribute.Value);
+                            //item.Attributes[attribute.Key] = attribute.Value;
                         }
                     }
                     return item;
