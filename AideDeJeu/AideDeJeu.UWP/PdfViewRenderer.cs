@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Net;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using Windows.Storage;
@@ -16,7 +17,7 @@ namespace AideDeJeu.UWP
 {
     public class PdfViewRenderer : WebViewRenderer
     {
-        protected override void OnElementPropertyChanged(object sender, PropertyChangedEventArgs e)
+        protected override async void OnElementPropertyChanged(object sender, PropertyChangedEventArgs e)
         {
             base.OnElementPropertyChanged(sender, e);
             if (e.PropertyName == "Uri")
@@ -25,6 +26,7 @@ namespace AideDeJeu.UWP
                 if (pdfView?.Uri != null)
                 {
                     // TODO : copier le dossier assets/pdfjs dans localcache/pdf/pdfjs
+                    await CopyPdfJSAsync();
                     Control.Source = new Uri(
                         //string.Format("ms-appx-web:///Assets/pdfjs/web/viewer.html?file={0}",
                         string.Format("ms-appdata:///localcache/pdf/pdfjs/web/viewer.html?file=../../{0}",
@@ -51,6 +53,30 @@ namespace AideDeJeu.UWP
                 {
                     Control.Source = new Uri(string.Format("ms-appx-web:///Assets/pdfjs/web/viewer.html?file={0}", string.Format("ms-appx-web:///Assets/Content/{0}", WebUtility.UrlEncode(pdfView.Uri))));
                 }
+            }
+        }
+
+        private async Task CopyPdfJSAsync()
+        {
+            var temporaryFolder = ApplicationData.Current.LocalCacheFolder;
+            if ((await temporaryFolder.TryGetItemAsync("pdf\\pdfjs")) == null)
+            {
+                var pdfjsDestinationFolder = await temporaryFolder.CreateFolderAsync("pdf\\pdfjs");
+                var installationFolder = Windows.ApplicationModel.Package.Current.InstalledLocation;
+                var pdfjsSourceFolder = await installationFolder.GetFolderAsync("Assets\\pdfjs");
+                await CopyFolderAsync(pdfjsSourceFolder, pdfjsDestinationFolder);
+            }
+        }
+
+        private async Task CopyFolderAsync(StorageFolder sourceFolder, StorageFolder destinationFolder)
+        {
+            foreach(var folder in await sourceFolder.GetFoldersAsync())
+            {
+                await CopyFolderAsync(folder, await destinationFolder.CreateFolderAsync(folder.Name));
+            }
+            foreach(var file in await sourceFolder.GetFilesAsync())
+            {
+                await file.CopyAsync(destinationFolder);
             }
         }
     }
