@@ -66,8 +66,9 @@ namespace AideDeJeu.iOS
             //Control.ScalesPageToFit = true;
 
             var bytes = File.ReadAllBytes(filePath);
-
-            Control.EvaluateJavascript($"PDFViewerApplication.open(new Uint8Array({bytes}))");
+            
+            var bytesString = string.Join(",", bytes);
+            Control.EvaluateJavascript($"PDFViewerApplication.open(new Uint8Array([{bytesString}]))");
         }
 
         void LoadPdfJS()
