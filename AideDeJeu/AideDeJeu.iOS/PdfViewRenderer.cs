@@ -60,5 +60,13 @@ namespace AideDeJeu.iOS
             Control.LoadRequest(new NSUrlRequest(new NSUrl(filePath, false)));
             Control.ScalesPageToFit = true;
         }
+
+        void LoadPdfJS(string fileName)
+        {
+            string filePath = NSBundle.MainBundle.ResourceUrl.Append("pdfjs/web/viewer.html", false).Path;
+            //string filePath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, string.Format("pdf/{0}", WebUtility.UrlEncode(fileName)));
+            Control.LoadRequest(new NSUrlRequest(new NSUrl(filePath, false)));
+            Control.ScalesPageToFit = true;
+        }
     }
 }
