@@ -38,16 +38,16 @@ namespace AideDeJeu.iOS
         {
             base.OnElementChanged(e);
 
-            if (Control == null)
-            {
-                SetNativeControl(new UIWebView());
-            }
             if (e.OldElement != null)
             {
                 // Cleanup
             }
             if (e.NewElement != null)
             {
+                if (Control == null)
+                {
+                    SetNativeControl(new UIWebView());
+                }
                 LoadPdfJS();
                 var pdfView = Element as PdfView;
 
