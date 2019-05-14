@@ -37,7 +37,7 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 
 <!--SubRaceItem ConstitutionBonus="2" StrengthBonus="2"-->
 
-## <!--Name-->Commun<!--/Name-->
+## <!--Name-->Demi-ogre<!--/Name-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Constitution] augmente de 2 et votre valeur de [Force] de 2.<!--/AbilityScoreIncrease-->
 
@@ -47,7 +47,7 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 
 <!--SubRaceItem ConstitutionBonus="1" WisdomBonus="1" CharismaBonus="2"-->
 
-## <!--Name-->Sorcereux<!--/Name-->
+## <!--Name-->Demi-ogre sorcereux<!--/Name-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Constitution] augmente de 1, votre valeur de [Sagesse] de 1 et votre valeur de [Charisme] de 2.<!--/AbilityScoreIncrease-->
 
