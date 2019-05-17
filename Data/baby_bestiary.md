@@ -1,3 +1,6 @@
+
+<!--MonsterItems Family="BabyBestiary" Types="Humanoïde|Aberration|Bête|Céleste|Créature artificielle|Créature monstrueuse|Dragon|Élémentaire|Fée|Fiélon|Géant|Mort-vivant|Plante|Vase" Challenges="0 (0 PX)|1/8 (25 PX)|1/4 (50 PX)|1/2 (100 PX)|1 (200 PX)|2 (450 PX)|3 (700 PX)|4 (1100 PX)|5 (1800 PX)|6 (2300 PX)|7 (2900 PX)|8 (3900 PX)|9 (5000 PX)|10 (5900 PX)|11 (7200 PX)|12 (8400 PX)|13 (10000 PX)|14 (11500 PX)|15 (13000 PX)|16 (15000 PX)|17 (18000 PX)|18 (20000 PX)|19 (22000 PX)|20 (25000 PX)|21 (33000 PX)|22 (41000 PX)|23 (50000 PX)|24 (62000 PX)|30 (155000 PX)" Sizes="TP|P|M|G|TG|Gig" Sources="CEO|SRD"-->
+
 <!--MonsterItem Family="BabyBestiary"-->
 
 # <!--Name-->Aboleth, rejeton<!--/Name-->
@@ -37,11 +40,12 @@ _Touché :_ 6 (2d4+1) dégâts contondants. Si la cible est une créature, elle 
 
 <!--/MonsterItem-->
 
-Ancien dieu, rejeton
+<!--MonsterItem Family="BabyBestiary"-->
 
-Fiélon (titan) de taille G,
-Chaotique Mauvais
-Classe d'armure 17 (armure naturelle)
+# <!--Name-->Ancien dieu, rejeton<!--/Name-->
+
+-  <!--Type-->Fiélon (titan)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)
 Points de vie 100 (8d10+56)
 Vitesse 9 m, nage 12 m, vol 12 m
 
@@ -74,12 +78,14 @@ Griffes. Attaque d'arme au corps-à-corps : +9 pour toucher, allonge 3 m, une ci
 
 Morsure. Attaque d'arme au corps-à-corps : +9 pour toucher, allonge 1,50 m, une cible. Touché : 15 (3d6+5) dégâts perforants et la cible est empoignée (évasion DD 15). La cible est entravée jusqu'au terme de cette empoignade.
 
+<!--/MonsterItem-->
 
+<!--MonsterItem Family="BabyBestiary"-->
 
-Archon canin, chiot
+# <!--Name-->Archon canin, chiot<!--/Name-->
 
-Céleste de taille P, Loyal Bon
-Classe d'armure 13 (armure naturelle)
+-  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 16 (3d6+6)
 Vitesse 9 m, vol 12 m (forme humanoïde)
 
@@ -111,10 +117,14 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 
 
 
-Baku, éléphanteau
+<!--/MonsterItem-->
 
-Aberration de taille P, Neutre
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Baku, éléphanteau<!--/Name-->
+
+-  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 11 (2d8+2)
 Vitesse 6 m, vol 12 m
 
@@ -141,10 +151,14 @@ Griffes intangibles. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge
 
 
 
-Balor, brandon
+<!--/MonsterItem-->
 
-Fiélon de taille P, Mauvais
-Classe d'armure 15 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Balor, brandon<!--/Name-->
+
+-  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
 Points de vie 37 (5d6+20)
 Vitesse 6 m, vol 12 m
 
@@ -172,10 +186,14 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 
 
 
-Basilic, lézardeau
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille P, non aligné
-Classe d'armure 14 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Basilic, lézardeau<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
 Points de vie 22 (4d6+8)
 Vitesse 6 m
 
@@ -195,10 +213,14 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 
 
 
-Beithir
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, non aligné
-Classe d'armure 14 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Beithir<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
 Points de vie 43 (5d8+20)
 Vitesse 9 m, escalade 9 m
 
@@ -223,10 +245,14 @@ Saisir. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une 
 
 
 
-Bulette, chevreau
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, non aligné
-Classe d'armure 15 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Bulette, chevreau<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
 Points de vie 38 (4d8+20)
 Vitesse 9 m, fouissement 9 m
 
@@ -247,10 +273,14 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 
 
 
-Centaure, poulain
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, Neutre Bon
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Centaure, poulain<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 19 (3d8+6)
 Vitesse 12 m
 
@@ -271,10 +301,14 @@ Arme. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une ci
 
 
 
-Cerbère, chiot
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, Neutre Mauvais
-Classe d'armure 13
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Cerbère, chiot<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13
 Points de vie 45 (6d8+18)
 Vitesse 12 m
 
@@ -299,10 +333,14 @@ Morsure. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une
 
 
 
-Chien esquiveur, chiot
+<!--/MonsterItem-->
 
-Fée de taille P, Loyal Bon
-Classe d'armure 13
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Chien esquiveur, chiot<!--/Name-->
+
+-  <!--Type-->Fée<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13
 Points de vie 9 (2d6+2)
 Vitesse 9 m
 
@@ -325,10 +363,14 @@ Téléportation (Recharge 5-6). Le chien se téléporte par magie avec tous ses 
 
 
 
-Chimère, lionceau
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, Chaotique Mauvais
-Classe d'armure 13 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Chimère, lionceau<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 37 (5d8+15)
 Vitesse 9 m, vol 12 m (dès 16 mois)
 
@@ -353,10 +395,14 @@ Souffle de feu (Recharge 6). La tête de dragon souffle un cône de feu de 4,50 
 
 
 
-Cocatrice, poussin
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille TP, non aligné
-Classe d'armure 13
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Cocatrice, poussin<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13
 Points de vie 7 (2d4+2)
 Vitesse 6 m, vol 9 m
 
@@ -371,10 +417,14 @@ Morsure. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, une
 
 
 
-Couatl, nouveau-né
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille P, Loyal Bon
-Classe d'armure 16 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Couatl, nouveau-né<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
 Points de vie 39 (6d6+18)
 Vitesse 6 m, vol 18 m
 
@@ -402,10 +452,14 @@ Morsure. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,50 m, une
 
 
 
-Criard, bouton
+<!--/MonsterItem-->
 
-Plante de taille P, non aligné
-Classe d'armure 5
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Criard, bouton<!--/Name-->
+
+-  <!--Type-->Plante<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->5
 Points de vie 3 (1d6)
 Vitesse 0 m
 
@@ -427,10 +481,14 @@ Hurlement. Quand une lumière vive ou une créature s'approche à 9 mètres ou m
 
 
 
-Cube gélatineux, bébé
+<!--/MonsterItem-->
 
-Vase de taille P, non aligné
-Classe d'armure 6
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Cube gélatineux, bébé<!--/Name-->
+
+-  <!--Type-->Vase<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->6
 Points de vie 17 (2d6+10)
 Vitesse 4,5 m
 
@@ -453,10 +511,14 @@ Pseudopode. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, 
 
 
 
-Destrier noir, poulain
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, Neutre Mauvais
-Classe d'armure 13 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Destrier noir, poulain<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 30 (4d8+12)
 Vitesse 12 m, vol 18 m
 
@@ -479,10 +541,14 @@ Sabots. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une 
 
 
 
-Djinayni 
+<!--/MonsterItem-->
 
-Élémentaire de taille P, Chaotique Bon
-Classe d'armure 17 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Djinayni<!--/Name-->
+
+-  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)
 Points de vie 41 (5d6+24)
 Vitesse 6 m, vol 18 m
 
@@ -509,10 +575,14 @@ Création d'un tourbillon. Un cylindre d'air tourbillonnant de 1,50 mètre de ra
 
 
 
-Dodomeki, petit oeil
+<!--/MonsterItem-->
 
-Aberration de taille P, Loyal Mauvais
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Dodomeki, petit oeil<!--/Name-->
+
+-  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 45 (6d6+24)
 Vitesse vol 6 m
 
@@ -537,10 +607,14 @@ Morsure. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, une
 
 
 
-Dragonnet
+<!--/MonsterItem-->
 
-Dragon de taille P, alignement variable
-Classe d'armure 16 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Dragonnet<!--/Name-->
+
+-  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->alignement variable<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
 Points de vie 35 (5d6+15)
 Vitesse 9 m, escalade 9 m, vol 12 m
 
@@ -562,10 +636,14 @@ Souffle (Recharge 5-6). Le dragon souffle du feu sur un cône de 3 mètres. Les 
 
 
 
-Dragonnet, tortue
+<!--/MonsterItem-->
 
-Dragon de taille P, alignement variable
-Classe d'armure 16 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Dragonnet, tortue<!--/Name-->
+
+-  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->alignement variable<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
 Points de vie 19 (3d6+9)
 Vitesse 6 m, nage 12 m
 
@@ -585,10 +663,14 @@ Souffle (Recharge 5-6). Le dragon souffle de la vapeur brûlante sur un cône de
 
 
 
-Élémenteau d'air
+<!--/MonsterItem-->
 
-Élémentaire de taille P, Neutre
-Classe d'armure 14
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Élémenteau d'air<!--/Name-->
+
+-  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->14
 Points de vie 22 (4d6+8)
 Vitesse 0 m, vol 27 m (vol stationnaire)
 
@@ -615,10 +697,14 @@ Tourbillon (Recharge 4-6). Les créatures dans l'emplacement occupé par l'élé
 
 
 
-Élémenteau d'eau
+<!--/MonsterItem-->
 
-Élémentaire de taille P, Neutre
-Classe d'armure 14 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Élémenteau d'eau<!--/Name-->
+
+-  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
 Points de vie 30 (4d6+16)
 Vitesse 9 m, nage 27 m
 
@@ -649,10 +735,14 @@ Trombe (Recharge 4-6). Les créatures présentes dans l'emplacement occupé par 
 
 
 
-Élémenteau de feu
+<!--/MonsterItem-->
 
-Élémentaire de taille P, Neutre
-Classe d'armure 13
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Élémenteau de feu<!--/Name-->
+
+-  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13
 Points de vie 26 (4d6+12)
 Vitesse 15 m
 
@@ -680,10 +770,14 @@ Contact. Attaque d'arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une
 
 
 
-Élémenteau de terre
+<!--/MonsterItem-->
 
-Élémentaire de terre taille P, Neutre
-Classe d'armure 16 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Élémenteau de terre<!--/Name-->
+
+-  <!--Type-->Élémentaire de terre taille P, Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
 Points de vie 34 (4d6+20)
 Vitesse 9 m, fouissement 9 m
 
@@ -711,10 +805,14 @@ Coup. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,5 m, une cib
 
 
 
-Enfield, renardeau
+<!--/MonsterItem-->
 
-Fée de taille TP, Neutre Bon
-Classe d'armure 13 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Enfield, renardeau<!--/Name-->
+
+-  <!--Type-->Fée<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 9 (2d4+4)
 Vitesse 12 m
 
@@ -740,10 +838,14 @@ Morsure. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une
 
 
 
-Gargouille, moulure
+<!--/MonsterItem-->
 
-Élémentaire de taille P, Chaotique Mauvais
-Classe d'armure 15 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Gargouille, moulure<!--/Name-->
+
+-  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
 Points de vie 11 (2d8+6)
 Vitesse 6 m, vol 12m
 
@@ -771,10 +873,14 @@ Morsure. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une
 
 
 
-Gnoll, chiot
+<!--/MonsterItem-->
 
-Humanoïde (gnoll) de taille P, Chaotique Mauvais
-Classe d'armure 11
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Gnoll, chiot<!--/Name-->
+
+-  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->11
 Points de vie 4 (1d8)
 Vitesse 9 m
 
@@ -795,10 +901,14 @@ Morsure. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, une
 
 
 
-Gobelours, petit
+<!--/MonsterItem-->
 
-Humanoïde (gobelinoïde) de taille P, Chaotique Mauvais
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Gobelours, petit<!--/Name-->
+
+-  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 9 (2d6+2)
 Vitesse 9 m
 
@@ -822,10 +932,14 @@ Griffes et morsure. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 
 
 
 
-Griffon, poussin
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, non aligné
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Griffon, poussin<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 19 (3d8+6)
 Vitesse 9 m, vol 18 m
 
@@ -851,10 +965,14 @@ Griffes. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 
 
 
-Harpie, fille
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille P, Chaotique Mauvais
-Classe d'armure 11
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Harpie, fille<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->11
 Points de vie 9 (2d6+2)
 Vitesse 6 m, vol 9 m
 
@@ -873,10 +991,14 @@ Serres. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une 
 
 
 
-Hippocampe, fretin
+<!--/MonsterItem-->
 
-Bête de taille M, non aligné
-Classe d'armure 13 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Hippocampe, fretin<!--/Name-->
+
+-  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 5 (1d10)
 Vitesse 0 m, nage 12 m
 
@@ -899,10 +1021,14 @@ Coup de bélier. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,5
 
 
 
-Hippogriffe, poulain
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, non aligné
-Classe d'armure 11
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Hippogriffe, poulain<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->11
 Points de vie 5 (1d8+1)
 Vitesse 9 m, vol 12 m
 
@@ -928,10 +1054,14 @@ Griffes. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 
 
 
-Homme-lézard, bébé
+<!--/MonsterItem-->
 
-Humanoïde (homme-lézard) de taille M, Neutre
-Classe d'armure 15 (armure naturelle, bouclier)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Homme-lézard, bébé<!--/Name-->
+
+-  <!--Type-->Humanoïde (homme-lézard)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle, bouclier)
 Points de vie 4 (1d6+1)
 Vitesse 6 m, nage 6 m
 
@@ -953,10 +1083,14 @@ Morsure. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,50 m, une
 
 
 
-Hydre, serpenteau
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, non aligné
-Classe d'armure 13 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Hydre, serpenteau<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 47 (5d8+25)
 Vitesse 9 m, nage 9 m
 
@@ -986,10 +1120,14 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 3 m, une ci
 
 
 
-Kirin, poulain
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, Loyal-Bon
-Classe d'armure 16 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Kirin, poulain<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal-Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
 Points de vie 30 (4d8+12)
 Vitesse 9 m, vol 18 m
 
@@ -1019,10 +1157,14 @@ Souffle de lumière (Recharge 5-6). Le kirin souffle un éclair de lumière 6 m�
 
 
 
-Kitsune, chiot
+<!--/MonsterItem-->
 
-Fée (métamorphe) de taille P, Neutre
-Classe d'armure 12 sous forme humanoïde, 13 (armure naturelle) sous forme hybride ou de renard
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Kitsune, chiot<!--/Name-->
+
+-  <!--Type-->Fée (métamorphe)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12 sous forme humanoïde, 13 (armure naturelle) sous forme hybride ou de renard
 Points de vie 16 (3d6+6)
 Vitesse 9 m (12 m sous forme de renard)
 
@@ -1052,10 +1194,14 @@ Morsure (forme hybride ou de renard uniquement). Attaque d'arme au corps-à-corp
 
 
 
-Kobold, petit
+<!--/MonsterItem-->
 
-Humanoïde (kobold) de taille P, Loyal Mauvais
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Kobold, petit<!--/Name-->
+
+-  <!--Type-->Humanoïde (kobold)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Point de vie 1 (1d6-2)
 Vitesse 9 m
 
@@ -1076,13 +1222,17 @@ Morsure. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, une
 
 
 
-Kraken, larve
+<!--/MonsterItem-->
 
-(Pieuvre géaNte)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Kraken, larve<!--/Name-->
+
+(Pieuvre géante)
 Utilisez le profl de la pieuvre (H&D, p. 317 pour le kraken nouveau-né).
 
-Bête de taille M, non aligné
-Classe d'armure 11
+-  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->11
 Points de vie 13 (3d6+3)
 Vitesse 3 m, nage 15 m
 
@@ -1108,10 +1258,14 @@ Tentacules. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 4,50 m, 
 
 
 
-Léviathan, petit
+<!--/MonsterItem-->
 
-Créature monstrueuse (titan) de taille TG, non aligné
-Classe d'armure 15 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Léviathan, petit<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
 Points de vie 95 (10d12+30)
 Vitesse nage 15 m
 
@@ -1130,10 +1284,14 @@ Morsure. Attaque d'arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une
 
 
 
-Lézardeau de foudre
+<!--/MonsterItem-->
 
-Bête de taille TP, non aligné
-Classe d'armure 10
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Lézardeau de foudre<!--/Name-->
+
+-  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->10
 Points de vie 2 (1d4)
 Vitesse 6 m, escalade 6 m
 
@@ -1151,10 +1309,14 @@ Morsure. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, une
 
 
 
-Licorne, poulain
+<!--/MonsterItem-->
 
-Céleste de taille M, Loyal Bon
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Licorne, poulain<!--/Name-->
+
+-  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 22 (3d8+9)
 Vitesse 15 m
 
@@ -1192,10 +1354,14 @@ Pouvoir magique (1/jour). Soit téléportation : la licorne se téléporte par m
 
 
 
-Lionceau de mer
+<!--/MonsterItem-->
 
-Bête de taille M, non aligné
-Classe d'armure 12 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Lionceau de mer<!--/Name-->
+
+-  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)
 Points de vie 11 (2d8+2)
 Vitesse 6 m, nage 9 m
 
@@ -1216,10 +1382,14 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 
 
 
-Manticore, lionceau
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, Loyal Mauvais
-Classe d'armure 14 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Manticore, lionceau<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
 Points de vie 22 (3d8+9)
 Vitesse 9 m, vol 12 m
 
@@ -1245,10 +1415,14 @@ Piquant caudal. Attaque d'arme à distance : +5 pour toucher, portée 30/60 m, u
 
 
 
-Méduse, fille
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille P, Loyal Mauvais
-Classe d'armure 13 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Méduse, fille<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 26 (4d6+12)
 Vitesse 9 m
 
@@ -1274,10 +1448,14 @@ Chevelure de serpents. Attaque d'arme au corps-à-corps : +4 pour toucher, allon
 
 
 
-Mimique, bébé
+<!--/MonsterItem-->
 
-Créature monstrueuse (métamorphe) de taille P, Neutre
-Classe d'armure 12 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Mimique, bébé<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)
 Points de vie 13 (3d6+6)
 Vitesse 4,50 m
 
@@ -1309,10 +1487,14 @@ Pseudopode. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,50 m, 
 
 
 
-Minotaure, veau
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, Chaotique Mauvais
-Classe d'armure 14 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Minotaure, veau<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
 Points de vie 22 (3d8+9)
 Vitesse 9 m
 
@@ -1337,10 +1519,14 @@ Coup de corne. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 
 
 
 
-Myconide, spore
+<!--/MonsterItem-->
 
-Plante de taille P, non aligné
-Classe d'armure 5
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Myconide, spore<!--/Name-->
+
+-  <!--Type-->Plante<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->5
 Points de vie 4 (1d6+1)
 Vitesse 6 m
 
@@ -1359,11 +1545,16 @@ Nuage de spores. Le myconide émet un nuage de spores toxiques dans un rayon de 
 
 
 
-Naga, couvain
+<!--/MonsterItem-->
 
-(Naga gardieN)
-Créature monstrueuse de taille P, Loyal Bon
-Classe d'armure 16 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Naga, couvain<!--/Name-->
+
+(Naga gardien)
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
 Points de vie 32 (5d6+15)
 Vitesse 9 m
 
@@ -1395,10 +1586,14 @@ Morsure. Attaque d'arme au corps-à-corps : +6 pour toucher, allonge 1,5 m, une 
 
 
 
-Ogre-mage
+<!--/MonsterItem-->
 
-Géant de taille M, Loyal Mauvais
-Classe d'armure 10
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Ogre-mage<!--/Name-->
+
+-  <!--Type-->Géant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->10
 Points de vie 30 (4d8 + 12)
 Vitesse 9 m, vol 9 m
 
@@ -1424,10 +1619,14 @@ Griffes. Attaque d'arme au corps-à-corps : +2 au toucher, allonge 1,50 m, une c
 
 
 
-Ombres des roches
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, Neutre Mauvais
-Classe d'armure 15 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Ombres des roches<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
 Points de vie 30 (4d8+12)
 Vitesse 9 m, fouissement 6 m
 
@@ -1452,10 +1651,14 @@ Onde vibratoire (Recharge 5-6). La terreur des roches produit une onde sur un c�
 
 
 
-Orque, petit
+<!--/MonsterItem-->
 
-Humanoïde (orc) de taille P, Chaotique Mauvais
-Classe d'armure 11
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Orque, petit<!--/Name-->
+
+-  <!--Type-->Humanoïde (orc)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->11
 Points de vie 6 (1d6+3)
 Vitesse 9 m
 
@@ -1478,11 +1681,14 @@ Coup de tête. Attaque d'arme au corps-à-corps ou à distance : +1 pour toucher
 
 
 
-Otyugh, bout
+<!--/MonsterItem-->
 
+<!--MonsterItem Family="BabyBestiary"-->
 
-Aberration de taille M, Neutre
-Classe d'armure 14 (armure naturelle)
+# <!--Name-->Otyugh, bout<!--/Name-->
+
+-  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
 Points de vie 24 (3d8+12)
 Vitesse 9 m
 
@@ -1508,10 +1714,14 @@ Tentacules. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,5 m, u
 
 
 
-Ours-hibou, poussin
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, non aligné
-Classe d'armure 13 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Ours-hibou, poussin<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 22 (3d8+9)
 Vitesse 9 m
 
@@ -1537,10 +1747,14 @@ Griffes. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 
 
 
-Oxydeur, charançon
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille P, non aligné
-Classe d'armure 13 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Oxydeur, charançon<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 9 (2d6+2)
 Vitesse 9 m
 
@@ -1562,10 +1776,14 @@ Morsure. Attaque d'arme au corps-à-corps: +2 pour toucher, allonge 1,50 m, une 
 
 
 
-Pégase, poulain
+<!--/MonsterItem-->
 
-Céleste de taille M, Chaotique Bon
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Pégase, poulain<!--/Name-->
+
+-  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 12 (2d8+6)
 Vitesse 12 m, vol 18 m
 
@@ -1583,10 +1801,14 @@ Sabots. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une 
 
 
 
-Péryton, hinulus*
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, Chaotique Mauvais
-Classe d'armure 13
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Péryton, hinulus (*)<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13
 Points de vie 26 (4d8+8)
 Vitesse 3 m, vol 24 m
 
@@ -1612,13 +1834,17 @@ Serres. Attaque d'arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une 
 
 Ombre mortelle. Lorsqu'il survole une cible, le péryton peut faire attaquer son ombre à une portée de 30 mètres. L'ombre attaque comme si elle était le péryton lui-même (attaque de cornes et de serres), mais elle ne peut provoquer l'effet d'éviscération.
 
-*Le péryton atteignant sa taille adulte au bout de 3 semaines, le profil technique proposé est déjà celui d'un adulte.
+(*) Le péryton atteignant sa taille adulte au bout de 3 semaines, le profil technique proposé est déjà celui d'un adulte.
 
 
-Phénix, poussin
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille P, Neutre Bon
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Phénix, poussin<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 18 (4d6+4)
 Vitesse 3 m, vol 18 m
 
@@ -1648,10 +1874,14 @@ Serres. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,50 m, une 
 
 
 
-Pseudo-dragon, vermisseau
+<!--/MonsterItem-->
 
-Dragon de taille TP, Neutre Bon
-Classe d'armure 13 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Pseudo-dragon, vermisseau<!--/Name-->
+
+-  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 3 (1d4+1)
 Vitesse 4,50 m, vol 18 m
 
@@ -1679,11 +1909,14 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 
 
 
-Rakshasa,
-ChatoN
+<!--/MonsterItem-->
 
-Fiélon de taille P, Loyal Mauvais
-Classe d'armure 16 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Rakshasa, chaton<!--/Name-->
+
+-  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
 Points de vie 30 (4d6+16)
 Vitesse 9 m
 
@@ -1709,10 +1942,14 @@ Griffes. Attaque d'arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une
 
 
 
-Remorhaz, fraie
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, non aligné
-Classe d'armure 15 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Remorhaz, fraie<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
 Points de vie 51 (6d8+24)
 Vitesse 9 m, fouissement 6 m
 
@@ -1734,11 +1971,14 @@ Morsure. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,5 m, une 
 
 
 
-Satyre, chevreau
+<!--/MonsterItem-->
 
-Fée de taille P, Chaotique
-Neutre
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Satyre, chevreau<!--/Name-->
+
+-  <!--Type-->Fée<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 9 (2d8)
 Vitesse 12 m
 
@@ -1761,11 +2001,14 @@ Coup de bélier. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,5
 
 
 
-Simurgh, chiot
+<!--/MonsterItem-->
 
-Créature céleste de taille P,
-Neutre Bon
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Simurgh, chiot<!--/Name-->
+
+-  <!--Type-->Créature céleste<!--/Type--> de taille <!--Size-->P<!--/Size>, <!--Alignment-->Neutre Bon<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 16 (3d6+6)
 Vitesse 9 m, vol 15 m
 
@@ -1787,10 +2030,14 @@ Morsure. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une
 
 
 
-Sphinx, chaton
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, Loyal Neutre
-Classe d'armure 17 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Sphinx, chaton<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)
 Points de vie 51 (6d8+24)
 Vitesse 9 m, vol 15 m
 
@@ -1826,10 +2073,14 @@ Rugissement. Les créatures dans un rayon de 18 mètres autour du jeune sphinx q
 
 
 
-Sylvanien, baliveau
+<!--/MonsterItem-->
 
-Plante de taille G, Chaotique Bonne
-Classe d'armure 15 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Sylvanien, baliveau<!--/Name-->
+
+-  <!--Type-->Plante<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bonne<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
 Points de vie 42 (4d10+20)
 Vitesse 9 m
 
@@ -1854,10 +2105,14 @@ Rocher. Attaque d'arme à distance : +4 pour toucher, portée 9/27 m, une cible.
 
 
 
-Tarasque, poussin
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille M, non aligné
-Classe d'armure 16 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Tarasque, poussin<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
 Points de vie 22 (3d8+9)
 Vitesse 9 m, nage 9 m
 
@@ -1885,10 +2140,14 @@ Note : la tarasque décrite dans cet ouvrage est inspirée de la tarasque histor
 
 
 
-Tatzelwurm, vermisseau
+<!--/MonsterItem-->
 
-Dragon de taille P, alignement variable
-Classe d'armure 13
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Tatzelwurm, vermisseau<!--/Name-->
+
+-  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->alignement variable<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13
 Points de vie 11 (2d6+4)
 Vitesse 9 m, escalade 9m
 
@@ -1907,10 +2166,14 @@ Morsure. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une
 
 
 
-Tertre errant, petit
+<!--/MonsterItem-->
 
-Plante de taille M, non aligné
-Classe d'armure 15 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Tertre errant, petit<!--/Name-->
+
+-  <!--Type-->Plante<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
 Points de vie 37 (5d8+15)
 Vitesse 6 m
 
@@ -1938,10 +2201,14 @@ Enveloppement. Le tertre errant enveloppe une créature de taille P ou plus peti
 
 
 
-Tigron de phase
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille P, Non aligné
-Classe d'armure 12
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Tigron de phase<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->12
 Points de vie 16 (3d6+6)
 Vitesse 12 m
 
@@ -1971,10 +2238,14 @@ Morsure. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une
 
 
 
-Titan, rejeton
+<!--/MonsterItem-->
 
-Créature monstrueuse (titan) de taille TG, non aligné
-Classe d'armure 20 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Titan, rejeton<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)
 Points de vie 181 (11d12+110)
 Vitesse 12 m
 
@@ -2012,10 +2283,14 @@ Queue. Attaque d'arme au corps-à-corps : +10 pour toucher, allonge 3 m, une cib
 
 
 
-Troglodyte, têtard
+<!--/MonsterItem-->
 
-Bête de taille P, non aligné
-Classe d'armure 11
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Troglodyte, têtard<!--/Name-->
+
+-  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->11
 Points de vie 4 (1d6+1)
 Vitesse 12 m, nage 12 m
 
@@ -2035,10 +2310,14 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 Le troglodyte de ce bestiaire ne correspond en rien au troglodyte habituel de COF ou de H&D : il s'agit simplement d'un animal coloré proche d'une grenouille ou d'une salamandre géante.
 
 
-Troll, bourgeon
+<!--/MonsterItem-->
 
-Géant de taille M, Chaotique Mauvais
-Classe d'armure 14 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Troll, bourgeon<!--/Name-->
+
+-  <!--Type-->Géant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
 Points de vie 19 (2d8+10)
 Vitesse 9 m
 
@@ -2065,10 +2344,14 @@ Morsure. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une
 
 
 
-Ver pourpre, violet
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille G, non aligné
-Classe d'armure 16 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Ver pourpre, violet<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
 Points de vie 52 (5d10+25)
 Vitesse 12 m, fouissement 6 m
 
@@ -2091,10 +2374,14 @@ Morsure. Attaque d'arme au corps-à-corps : +5 pour toucher, allonge 3 m, une ci
 
 
 
-Vouivre, civelle
+<!--/MonsterItem-->
 
-Dragon de taille M, non aligné
-Classe d'armure 13 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Vouivre, civelle<!--/Name-->
+
+-  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
 Points de vie 30 (4d8+12)
 Vitesse 6 m, vol 18 m
 
@@ -2119,10 +2406,14 @@ Morsure. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,5 m, une 
 
 
 
-Wolpentinger, rejeton
+<!--/MonsterItem-->
 
-Créature monstrueuse de taille P, Chaotique neutre
-Classe d'armure 13
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Wolpentinger, rejeton<!--/Name-->
+
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->13
 Points de vie 5 (1d6+2)
 Vitesse 12 m, vol 24 m
 
@@ -2146,10 +2437,14 @@ Morsure. Attaque d'arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une
 
 
 
-Xorn, bébé
+<!--/MonsterItem-->
 
-Élémentaire de taille P, Neutre
-Classe d'armure 17 (armure naturelle)
+<!--MonsterItem Family="BabyBestiary"-->
+
+# <!--Name-->Xorn, bébé<!--/Name-->
+
+-  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)
 Points de vie 17 (2d6+10)
 Vitesse 6 m, fouissement 3 m
 
@@ -2179,4 +2474,8 @@ Griffes. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,50 m, une
 Morsure. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,50 m, une cible. Touché : 6 (3d4-1) dégâts perforants.
 
 
+
+<!--/MonsterItem-->
+
+<!--/MonsterItems-->
 
