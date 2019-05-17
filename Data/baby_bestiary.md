@@ -45,12 +45,13 @@ _Touché :_ 6 (2d4+1) dégâts contondants. Si la cible est une créature, elle 
 # <!--Name-->Ancien dieu, rejeton<!--/Name-->
 
 -  <!--Type-->Fiélon (titan)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)
-Points de vie 100 (8d10+56)
-Vitesse 9 m, nage 12 m, vol 12 m
+- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->100 (8d10+56)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, nage 12 m, vol 12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-20 (+5) 14 (+2) 24 (+7) 18 (+4) 18 (+4) 18 (+4)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->20 (+5)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->24 (+7)<!--/Constitution-->|<!--Intelligence-->18 (+4)<!--/Intelligence-->|<!--Wisdom-->18 (+4)<!--/Wisdom-->|<!--Charisma-->18 (+4)<!--/Charisma-->|
 
 Jets de sauvegarde Dex +6, Con +11, Sag +8
 Résistance aux dégâts de feu, de froid, d'électricité ; contondants, perforants et tranchants infligés par des attaques non magiques
@@ -85,12 +86,13 @@ Morsure. Attaque d'arme au corps-à-corps : +9 pour toucher, allonge 1,50 m, une
 # <!--Name-->Archon canin, chiot<!--/Name-->
 
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 16 (3d6+6)
-Vitesse 9 m, vol 12 m (forme humanoïde)
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->16 (3d6+6)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, vol 12 m (forme humanoïde)<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-6 (-2) 12 (+1) 14 (+2) 10 (+0) 13 (+1) 12 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->6 (-2)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->14 (+2)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
 
 Compétence Perception +3
 Résistance aux dégâts d'électricité, nécrotiques, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
@@ -124,12 +126,13 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 # <!--Name-->Baku, éléphanteau<!--/Name-->
 
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 11 (2d8+2)
-Vitesse 6 m, vol 12 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, vol 12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-6 (-2) 14 (+2) 13 (+1) 12 (+1) 14 (+2) 14 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->6 (-2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->14 (+2)<!--/Charisma-->|
 
 Résistance aux dégâts contondants, perforants et tranchants infligés par des attaques non magiques
 Immunité contre les états entravé, empoigné, empoisonné, épuisé, paralysé, pétrifé
@@ -158,12 +161,13 @@ Griffes intangibles. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge
 # <!--Name-->Balor, brandon<!--/Name-->
 
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
-Points de vie 37 (5d6+20)
-Vitesse 6 m, vol 12 m
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->37 (5d6+20)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, vol 12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-12 (+1) 10 (+0) 20 (+5) 10 (+0) 12 (+1) 10 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
 
 Résistance aux dégâts de froid ; contondants, perforants et tranchants infligés par des attaques non magiques
 Résistance aux dégâts de feu et de poison
@@ -193,12 +197,13 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 # <!--Name-->Basilic, lézardeau<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
-Points de vie 22 (4d6+8)
-Vitesse 6 m
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->22 (4d6+8)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 12 (+1) 15 (+2) 2 (-4) 8 (-1) 7 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->8 (-1)<!--/Wisdom-->|<!--Charisma-->7 (-2)<!--/Charisma-->|
 
 Sens vision dans le noir 18 m, Perception passive 9
 Dangerosité 1 (200 PX)
@@ -220,12 +225,13 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 # <!--Name-->Beithir<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
-Points de vie 43 (5d8+20)
-Vitesse 9 m, escalade 9 m
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->43 (5d8+20)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-14 (+2) 14 (+2) 18 (+4) 5 (-3) 14 (+2) 12 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence-->5 (-3)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
 
 Compétences Discrétion +4, Perception +4
 Résistance aux dégâts de foudre
@@ -252,12 +258,13 @@ Saisir. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une 
 # <!--Name-->Bulette, chevreau<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
-Points de vie 38 (4d8+20)
-Vitesse 9 m, fouissement 9 m
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->38 (4d8+20)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, fouissement 9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-12 (+1) 13 (+1) 21 (+5) 2 (-4) 10 (+0) 5 (-3)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->21 (+5)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->5 (-3)<!--/Charisma-->|
 
 Compétence Perception +4
 Sens perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 14
@@ -280,12 +287,13 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 # <!--Name-->Centaure, poulain<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 19 (3d8+6)
-Vitesse 12 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->19 (3d8+6)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 15 (+2) 14 (+2) 9 (+0) 13 (+1) 10 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->14 (+2)<!--/Constitution-->|<!--Intelligence-->9 (+0)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
 
 Compétence Athlétisme +2
 Sens Perception passive 11
@@ -308,12 +316,13 @@ Arme. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une ci
 # <!--Name-->Cerbère, chiot<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13
-Points de vie 45 (6d8+18)
-Vitesse 12 m
+- **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->45 (6d8+18)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 14 (+2) 16 (+3) 5 (-3) 14 (+2) 10 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->5 (-3)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
 
 Compétence Perception +6
 Résistance aux dégâts de poison
@@ -340,12 +349,13 @@ Morsure. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une
 # <!--Name-->Chien esquiveur, chiot<!--/Name-->
 
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13
-Points de vie 9 (2d6+2)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->9 (2d6+2)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-7 (-2) 17 (+3) 12 (+1) 8 (-1) 13 (+1) 11 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->7 (-2)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->8 (-1)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->11 (+0)<!--/Charisma-->|
 
 Compétences Discrétion +5, Perception +3
 Sens Perception passive 13
@@ -370,12 +380,13 @@ Téléportation (Recharge 5-6). Le chien se téléporte par magie avec tous ses 
 # <!--Name-->Chimère, lionceau<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 37 (5d8+15)
-Vitesse 9 m, vol 12 m (dès 16 mois)
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->37 (5d8+15)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, vol 12 m (dès 16 mois)<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-13 (+1) 11 (+0) 16 (+3) 3 (-4) 14 (+2) 10 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->13 (+1)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->3 (-4)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
 
 Compétence Perception +6
 Sens vision parfaite 12 m, Perception passive 16
@@ -402,12 +413,13 @@ Souffle de feu (Recharge 6). La tête de dragon souffle un cône de feu de 4,50 
 # <!--Name-->Cocatrice, poussin<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13
-Points de vie 7 (2d4+2)
-Vitesse 6 m, vol 9 m
+- **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->7 (2d4+2)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, vol 9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-2 (-4) 12 (+1) 12 (+1) 2 (-4) 13 (+1) 5 (-3)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->2 (-4)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->5 (-3)<!--/Charisma-->|
 
 Sens vision dans le noir 18 m, Perception passive 11 Dangerosité 1/4 (50 PX)
 
@@ -424,12 +436,13 @@ Morsure. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, une
 # <!--Name-->Couatl, nouveau-né<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
-Points de vie 39 (6d6+18)
-Vitesse 6 m, vol 18 m
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->39 (6d6+18)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, vol 18 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-9 (-1) 18 (+4) 16 (+3) 12 (+1) 14 (+2) 14 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->9 (-1)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->14 (+2)<!--/Charisma-->|
 
 Compétence Perception +4
 Résistance aux dégâts radiants
@@ -459,12 +472,13 @@ Morsure. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,50 m, une
 # <!--Name-->Criard, bouton<!--/Name-->
 
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->5
-Points de vie 3 (1d6)
-Vitesse 0 m
+- **Classe d'armure** <!--ArmorClass-->5<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->0 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-1 (-5) 1 (-5) 10 (+0) 1 (-5) 3 (-4) 1 (-5)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->1 (-5)<!--/Strength-->|<!--Dexterity-->1 (-5)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence-->1 (-5)<!--/Intelligence-->|<!--Wisdom-->3 (-4)<!--/Wisdom-->|<!--Charisma-->1 (-5)<!--/Charisma-->|
 
 Immunité contre les états assourdi, aveuglé et terrorisé
 Sens vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
@@ -488,12 +502,13 @@ Hurlement. Quand une lumière vive ou une créature s'approche à 9 mètres ou m
 # <!--Name-->Cube gélatineux, bébé<!--/Name-->
 
 -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->6
-Points de vie 17 (2d6+10)
-Vitesse 4,5 m
+- **Classe d'armure** <!--ArmorClass-->6<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->17 (2d6+10)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->4,5 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-8 (-2) 3 (-4) 20 (+5) 1 (-5) 6 (-2) 1 (-5)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->8 (-2)<!--/Strength-->|<!--Dexterity-->3 (-4)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->1 (-5)<!--/Intelligence-->|<!--Wisdom-->6 (-2)<!--/Wisdom-->|<!--Charisma-->1 (-5)<!--/Charisma-->|
 
 Immunité contre les états à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
 Sens vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
@@ -518,12 +533,13 @@ Pseudopode. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, 
 # <!--Name-->Destrier noir, poulain<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 30 (4d8+12)
-Vitesse 12 m, vol 18 m
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->30 (4d8+12)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m, vol 18 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 15 (+2) 16 (+3) 10 (+0) 13 (+1) 15 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
 
 Résistance aux dégâts de feu
 Sens Perception passive 11
@@ -548,12 +564,13 @@ Sabots. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une 
 # <!--Name-->Djinayni<!--/Name-->
 
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)
-Points de vie 41 (5d6+24)
-Vitesse 6 m, vol 18 m
+- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->41 (5d6+24)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, vol 18 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-12 (+1) 15 (+2) 22 (+6) 11 (+1) 14 (+2) 14 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->22 (+6)<!--/Constitution-->|<!--Intelligence-->11 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->14 (+2)<!--/Charisma-->|
 
 Jets de sauvegarde Dex +4, Sag +4
 Immunité aux dégâts de foudre et de tonnerre
@@ -582,12 +599,13 @@ Création d'un tourbillon. Un cylindre d'air tourbillonnant de 1,50 mètre de ra
 # <!--Name-->Dodomeki, petit oeil<!--/Name-->
 
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 45 (6d6+24)
-Vitesse vol 6 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->45 (6d6+24)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->vol 6 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-6 (-4) 14 (+2) 18 (+4) 14 (+2) 14 (+2) 10 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->6 (-4)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence-->14 (+2)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
 
 Sauvegardes Int +4
 Compétence Perception +4
@@ -614,12 +632,13 @@ Morsure. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, une
 # <!--Name-->Dragonnet<!--/Name-->
 
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->alignement variable<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
-Points de vie 35 (5d6+15)
-Vitesse 9 m, escalade 9 m, vol 12 m
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->35 (5d6+15)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, escalade 9 m, vol 12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-14 (+2) 10 (+0) 17 (+3) 12 (+1) 11 (+0) 12 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
 
 Jets de sauvegarde Dex +2, Con +5
 Compétences Discrétion +2, Perception +4
@@ -643,12 +662,13 @@ Souffle (Recharge 5-6). Le dragon souffle du feu sur un cône de 3 mètres. Les 
 # <!--Name-->Dragonnet, tortue<!--/Name-->
 
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->alignement variable<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
-Points de vie 19 (3d6+9)
-Vitesse 6 m, nage 12 m
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->19 (3d6+9)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, nage 12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 10 (+0) 17 (+3) 10 (+0) 12 (+1) 12 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
 
 Résistance aux dégâts de feu
 Sens vision dans le noir 18 m, Perception passive 11
@@ -670,12 +690,13 @@ Souffle (Recharge 5-6). Le dragon souffle de la vapeur brûlante sur un cône de
 # <!--Name-->Élémenteau d'air<!--/Name-->
 
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->14
-Points de vie 22 (4d6+8)
-Vitesse 0 m, vol 27 m (vol stationnaire)
+- **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->22 (4d6+8)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->0 m, vol 27 m (vol stationnaire)<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-8 (-2) 18 (+4) 14 (+2) 6 (-2) 10 (+0) 6 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->8 (-2)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->14 (+2)<!--/Constitution-->|<!--Intelligence-->6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->6 (-2)<!--/Charisma-->|
 
 Résistances aux dégâts de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non magiques
 Immunité contre les dégâts de poison
@@ -704,12 +725,13 @@ Tourbillon (Recharge 4-6). Les créatures dans l'emplacement occupé par l'élé
 # <!--Name-->Élémenteau d'eau<!--/Name-->
 
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
-Points de vie 30 (4d6+16)
-Vitesse 9 m, nage 27 m
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->30 (4d6+16)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, nage 27 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 14 (+2) 18 (+4) 5 (-3) 10 (+0) 8 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence-->5 (-3)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->8 (-1)<!--/Charisma-->|
 
 Résistance aux dégâts d'acide ; contondants, perforants et tranchants infligés par des attaques non magiques
 Immunité contre les dégâts de poison
@@ -742,12 +764,13 @@ Trombe (Recharge 4-6). Les créatures présentes dans l'emplacement occupé par 
 # <!--Name-->Élémenteau de feu<!--/Name-->
 
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13
-Points de vie 26 (4d6+12)
-Vitesse 15 m
+- **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->26 (4d6+12)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->15 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-4 (-3) 17 (+3) 16 (+3) 6 (-2) 10 (+0) 7 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->4 (-3)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->7 (-2)<!--/Charisma-->|
 
 Résistance aux dégâts contondants, perforants et tranchants infligés par des attaques non magiques
 Immunité contre les dégâts de feu et de poison
@@ -777,12 +800,13 @@ Contact. Attaque d'arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une
 # <!--Name-->Élémenteau de terre<!--/Name-->
 
 -  <!--Type-->Élémentaire de terre taille P, Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
-Points de vie 34 (4d6+20)
-Vitesse 9 m, fouissement 9 m
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->34 (4d6+20)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, fouissement 9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-12 (+1) 8 (-1) 20 (+5) 5 (-3) 10 (+0) 5 (-3)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->8 (-1)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->5 (-3)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->5 (-3)<!--/Charisma-->|
 
 Vulnérabilité aux dégâts de tonnerre
 Résistance aux dégâts contondants, perforants et tranchants infligés par des attaques non magiques
@@ -812,12 +836,13 @@ Coup. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,5 m, une cib
 # <!--Name-->Enfield, renardeau<!--/Name-->
 
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 9 (2d4+4)
-Vitesse 12 m
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->9 (2d4+4)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-6 (-3) 15 (+2) 12 (+1) 8 (-2) 14 (+2) 12 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->6 (-3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->8 (-2)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
 
 Compétences Discrétion +4, Perception +4
 Résistance aux dégâts nécrotiques
@@ -845,12 +870,13 @@ Morsure. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une
 # <!--Name-->Gargouille, moulure<!--/Name-->
 
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
-Points de vie 11 (2d8+6)
-Vitesse 6 m, vol 12m
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->11 (2d8+6)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, vol 12m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-6 (-2) 11 (+0) 16 (+3) 6 (-2) 11 (+0) 7 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->6 (-2)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->6 (-2)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->7 (-2)<!--/Charisma-->|
 
 Résistances aux dégâts contondants, perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantium
 Résistance aux dégâts de poison
@@ -880,12 +906,13 @@ Morsure. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une
 # <!--Name-->Gnoll, chiot<!--/Name-->
 
 -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->11
-Points de vie 4 (1d8)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-8 (-2) 12 (+1) 11 (+0) 4 (-3) 10 (+0) 7 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->8 (-2)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence-->4 (-3)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->7 (-2)<!--/Charisma-->|
 
 Sens vision dans le noir 18 m, Perception passive 10
 Langue gnoll
@@ -908,12 +935,13 @@ Morsure. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, une
 # <!--Name-->Gobelours, petit<!--/Name-->
 
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 9 (2d6+2)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->9 (2d6+2)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-8 (-1) 14 (+2) 13 (+1) 8 (-1) 11 (+0) 9 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->8 (-1)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->8 (-1)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->9 (-1)<!--/Charisma-->|
 
 Compétences Discrétion +6, Survie +2
 Sens vision dans le noir 18 m, Perception passive 10
@@ -939,12 +967,13 @@ Griffes et morsure. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 
 # <!--Name-->Griffon, poussin<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 19 (3d8+6)
-Vitesse 9 m, vol 18 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->19 (3d8+6)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-12 (+1) 15 (+2) 16 (+3) 2 (-4) 13 (+1) 8 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->8 (-1)<!--/Charisma-->|
 
 Compétence Perception +3
 Sens vision dans le noir 18 m, Perception passive 13
@@ -972,12 +1001,13 @@ Griffes. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 # <!--Name-->Harpie, fille<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->11
-Points de vie 9 (2d6+2)
-Vitesse 6 m, vol 9 m
+- **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->9 (2d6+2)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, vol 9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-6 (-3) 13 (+1) 12 (+1) 7 (-2) 10 (+0) 13 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->6 (-3)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->7 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
 
 Sens Perception passive 10
 Langue commun
@@ -998,12 +1028,13 @@ Serres. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une 
 # <!--Name-->Hippocampe, fretin<!--/Name-->
 
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 5 (1d10)
-Vitesse 0 m, nage 12 m
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->5 (1d10)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->0 m, nage 12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-8 (-1) 15 (+2) 11 (+0) 2 (-4) 12 (+1) 5 (-3)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->8 (-1)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->5 (-3)<!--/Charisma-->|
 
 Sens Perception passive 11
 Langues —
@@ -1028,12 +1059,13 @@ Coup de bélier. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,5
 # <!--Name-->Hippogriffe, poulain<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->11
-Points de vie 5 (1d8+1)
-Vitesse 9 m, vol 12 m
+- **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->5 (1d8+1)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, vol 12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-9 (-1) 13 (+1) 13 (+1) 2 (-4) 12 (+1) 8 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->9 (-1)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->8 (-1)<!--/Charisma-->|
 
 Compétence Perception +5
 Sens Perception passive 15
@@ -1061,12 +1093,13 @@ Griffes. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 # <!--Name-->Homme-lézard, bébé<!--/Name-->
 
 -  <!--Type-->Humanoïde (homme-lézard)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle, bouclier)
-Points de vie 4 (1d6+1)
-Vitesse 6 m, nage 6 m
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle, bouclier)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->4 (1d6+1)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, nage 6 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-8 (-1) 10 (+0) 13 (+1) 7 (-2) 12 (+1) 7 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->8 (-1)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->7 (-2)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->7 (-2)<!--/Charisma-->|
 
 Compétences Discrétion +4, Perception +3, Survie +5
 Sens Perception passive 13
@@ -1090,12 +1123,13 @@ Morsure. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,50 m, une
 # <!--Name-->Hydre, serpenteau<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 47 (5d8+25)
-Vitesse 9 m, nage 9 m
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->47 (5d8+25)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-12 (+1) 12 (+1) 20 (+5) 2 (-4) 10 (+0) 7 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->7 (-2)<!--/Charisma-->|
 
 Compétence Perception +4
 Sens vision dans le noir 18 m, Perception passive 14
@@ -1127,12 +1161,13 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 3 m, une ci
 # <!--Name-->Kirin, poulain<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal-Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
-Points de vie 30 (4d8+12)
-Vitesse 9 m, vol 18 m
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->30 (4d8+12)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-12 (+1) 18 (+4) 16 (+3) 12 (+2) 14 (+2) 14 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->12 (+2)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->14 (+2)<!--/Charisma-->|
 
 Résistance aux dégâts radiants, feu, électricité
 Sens vision dans le noir 18 m, Perception passive 14
@@ -1164,12 +1199,13 @@ Souffle de lumière (Recharge 5-6). Le kirin souffle un éclair de lumière 6 m�
 # <!--Name-->Kitsune, chiot<!--/Name-->
 
 -  <!--Type-->Fée (métamorphe)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12 sous forme humanoïde, 13 (armure naturelle) sous forme hybride ou de renard
-Points de vie 16 (3d6+6)
-Vitesse 9 m (12 m sous forme de renard)
+- **Classe d'armure** <!--ArmorClass-->12 sous forme humanoïde, 13 (armure naturelle) sous forme hybride ou de renard<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->16 (3d6+6)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m (12 m sous forme de renard)<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-6 (-2) 15 (+2) 14 (+2) 10 (+0) 14 (+2) 15 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->6 (-2)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->14 (+2)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
 
 Compétences Discrétion +3, Perception +4
 Sens Perception passive 14
@@ -1201,12 +1237,13 @@ Morsure (forme hybride ou de renard uniquement). Attaque d'arme au corps-à-corp
 # <!--Name-->Kobold, petit<!--/Name-->
 
 -  <!--Type-->Humanoïde (kobold)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Point de vie 1 (1d6-2)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Point de vie** <!--HitPoints-->1 (1d6-2)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-5 (-3) 15 (+2) 9 (-1) 8 (-1) 7 (-2) 8 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->5 (-3)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->9 (-1)<!--/Constitution-->|<!--Intelligence-->8 (-1)<!--/Intelligence-->|<!--Wisdom-->7 (-2)<!--/Wisdom-->|<!--Charisma-->8 (-1)<!--/Charisma-->|
 
 Sens vision dans le noir 18 m, Perception passive 8
 Langues commun, draconique
@@ -1232,12 +1269,13 @@ Morsure. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, une
 Utilisez le profl de la pieuvre (H&D, p. 317 pour le kraken nouveau-né).
 
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->11
-Points de vie 13 (3d6+3)
-Vitesse 3 m, nage 15 m
+- **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->13 (3d6+3)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->3 m, nage 15 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 13 (+1) 13 (+1) 6 (-2) 10 (+0) 4 (-3)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->6 (-2)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->4 (-3)<!--/Charisma-->|
 
 Compétences Discrétion +5, Perception +4
 Sens vision dans le noir 18 m, Perception passive 14
@@ -1265,12 +1303,13 @@ Tentacules. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 4,50 m, 
 # <!--Name-->Léviathan, petit<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
-Points de vie 95 (10d12+30)
-Vitesse nage 15 m
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->95 (10d12+30)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->nage 15 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-21 (+5) 10 (+0) 17 (+3) 2 (-4) 10 (+0) 7 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->21 (+5)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->7 (-2)<!--/Charisma-->|
 
 Jets de sauvegarde For +7, Con +5
 Immunité contre l'état terrorisé
@@ -1291,12 +1330,13 @@ Morsure. Attaque d'arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une
 # <!--Name-->Lézardeau de foudre<!--/Name-->
 
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->10
-Points de vie 2 (1d4)
-Vitesse 6 m, escalade 6 m
+- **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, escalade 6 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-2 (-4) 11 (+0) 10 (+0) 1 (-5) 8 (-1) 3 (-4)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->2 (-4)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->10 (+0)<!--/Constitution-->|<!--Intelligence-->1 (-5)<!--/Intelligence-->|<!--Wisdom-->8 (-1)<!--/Wisdom-->|<!--Charisma-->3 (-4)<!--/Charisma-->|
 
 Résistance aux dégâts de foudre
 Sens vision dans le noir 9 m, Perception passive 9
@@ -1316,12 +1356,13 @@ Morsure. Attaque d'arme au corps-à-corps : +0 pour toucher, allonge 1,50 m, une
 # <!--Name-->Licorne, poulain<!--/Name-->
 
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 22 (3d8+9)
-Vitesse 15 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->22 (3d8+9)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->15 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 14 (+2) 15 (+2) 11 (+0) 17 (+3) 14 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence-->11 (+0)<!--/Intelligence-->|<!--Wisdom-->17 (+3)<!--/Wisdom-->|<!--Charisma-->14 (+2)<!--/Charisma-->|
 
 Résistance aux dégâts de poison
 Immunité contre les états charmé, empoisonné et paralysé
@@ -1361,12 +1402,13 @@ Pouvoir magique (1/jour). Soit téléportation : la licorne se téléporte par m
 # <!--Name-->Lionceau de mer<!--/Name-->
 
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)
-Points de vie 11 (2d8+2)
-Vitesse 6 m, nage 9 m
+- **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, nage 9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 12 (+1) 13 (+1) 2 (-4) 12 (+1) 8 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->8 (-1)<!--/Charisma-->|
 
 Sens Perception passive 11
 Langues —
@@ -1389,12 +1431,13 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 # <!--Name-->Manticore, lionceau<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
-Points de vie 22 (3d8+9)
-Vitesse 9 m, vol 12 m
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->22 (3d8+9)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, vol 12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 16 (+3) 17 (+3) 5 (-3) 12 (+1) 8 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->16 (+3)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->5 (-3)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->8 (-1)<!--/Charisma-->|
 
 Sens vision dans le noir 18 m, Perception passive 11
 Dangerosité 1/2 (100 PX)
@@ -1422,12 +1465,13 @@ Piquant caudal. Attaque d'arme à distance : +5 pour toucher, portée 30/60 m, u
 # <!--Name-->Méduse, fille<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 26 (4d6+12)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->26 (4d6+12)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-8 (-2) 15 (+2) 16 (+3) 10 (+0) 13 (+1) 13 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->8 (-2)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
 
 Immunité aux états empoisonné, pétrifé (variante)
 Compétences Discrétion +4, Perception +3,
@@ -1455,12 +1499,13 @@ Chevelure de serpents. Attaque d'arme au corps-à-corps : +4 pour toucher, allon
 # <!--Name-->Mimique, bébé<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)
-Points de vie 13 (3d6+6)
-Vitesse 4,50 m
+- **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->13 (3d6+6)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->4,50 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-9 (-1) 12 (+1) 15 (+2) 5 (-3) 13 (+1) 8 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->9 (-1)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence-->5 (-3)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->8 (-1)<!--/Charisma-->|
 
 Compétence Discrétion +5
 Résistance aux dégâts d'acide
@@ -1494,12 +1539,13 @@ Pseudopode. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,50 m, 
 # <!--Name-->Minotaure, veau<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
-Points de vie 22 (3d8+9)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->22 (3d8+9)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 11 (+0) 16 (+3) 6 (-2) 16 (+3) 9 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->6 (-2)<!--/Intelligence-->|<!--Wisdom-->16 (+3)<!--/Wisdom-->|<!--Charisma-->9 (-1)<!--/Charisma-->|
 
 Compétence Perception +5
 Sens vision dans le noir 18 m, Perception passive 15
@@ -1526,12 +1572,13 @@ Coup de corne. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 
 # <!--Name-->Myconide, spore<!--/Name-->
 
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->5
-Points de vie 4 (1d6+1)
-Vitesse 6 m
+- **Classe d'armure** <!--ArmorClass-->5<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->4 (1d6+1)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-5 (-3) 8 (-1) 12 (+1) 10 (+0) 10 (+0) 6 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->5 (-3)<!--/Strength-->|<!--Dexterity-->8 (-1)<!--/Dexterity-->|<!--Constitution-->12 (+1)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->6 (-2)<!--/Charisma-->|
 
 Sens vision dans le noir 36 m, Perception passive 10
 Langues —
@@ -1554,12 +1601,13 @@ Nuage de spores. Le myconide émet un nuage de spores toxiques dans un rayon de 
 (Naga gardien)
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
-Points de vie 32 (5d6+15)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->32 (5d6+15)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 18 (+4) 16 (+3) 13 (+1) 19 (+4) 16 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->18 (+4)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->13 (+1)<!--/Intelligence-->|<!--Wisdom-->19 (+4)<!--/Wisdom-->|<!--Charisma-->16 (+2)<!--/Charisma-->|
 
 Jets de sauvegarde Dex +6, Con +6, Sag +6
 Résistance aux dégâts de poison
@@ -1593,12 +1641,13 @@ Morsure. Attaque d'arme au corps-à-corps : +6 pour toucher, allonge 1,5 m, une 
 # <!--Name-->Ogre-mage<!--/Name-->
 
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->10
-Points de vie 30 (4d8 + 12)
-Vitesse 9 m, vol 9 m
+- **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->30 (4d8 + 12)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, vol 9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 11 (+0) 16 (+3) 13 (+1) 12 (+1) 15 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->13 (+1)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->15 (+2)<!--/Charisma-->|
 
 Sens vision dans le noir à 18 m, Perception passive +2
 Langues commun, géant
@@ -1626,12 +1675,13 @@ Griffes. Attaque d'arme au corps-à-corps : +2 au toucher, allonge 1,50 m, une c
 # <!--Name-->Ombres des roches<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
-Points de vie 30 (4d8+12)
-Vitesse 9 m, fouissement 6 m
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->30 (4d8+12)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, fouissement 6 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-11 (+0) 12 (+1) 16 (+3) 7 (-2) 14 (+2) 10 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->11 (+0)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->7 (-2)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
 
 Compétences Discrétion +4, Perception +6
 Immunité contre l'état aveuglé
@@ -1658,12 +1708,13 @@ Onde vibratoire (Recharge 5-6). La terreur des roches produit une onde sur un c�
 # <!--Name-->Orque, petit<!--/Name-->
 
 -  <!--Type-->Humanoïde (orc)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->11
-Points de vie 6 (1d6+3)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->6 (1d6+3)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-9 (-1) 12 (+1) 16 (+3) 7 (-2) 11 (+0) 10 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->9 (-1)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->7 (-2)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
 
 Sens vision dans le noir 18 m, Perception passive 10
 Langues commun, orc
@@ -1688,12 +1739,13 @@ Coup de tête. Attaque d'arme au corps-à-corps ou à distance : +1 pour toucher
 # <!--Name-->Otyugh, bout<!--/Name-->
 
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
-Points de vie 24 (3d8+12)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->24 (3d8+12)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 11 (+0) 19 (+4) 6 (-2) 13 (+1) 6 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->19 (+4)<!--/Constitution-->|<!--Intelligence-->6 (-2)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->6 (-2)<!--/Charisma-->|
 
 Jet de sauvegarde Con +7
 Sens vision dans le noir 36 m, Perception passive 11
@@ -1721,12 +1773,13 @@ Tentacules. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,5 m, u
 # <!--Name-->Ours-hibou, poussin<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 22 (3d8+9)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->22 (3d8+9)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-12 (+1) 12 (+1) 17 (+3) 3 (-4) 12 (+1) 7 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->12 (+1)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->3 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->7 (-2)<!--/Charisma-->|
 
 Compétence Perception +3
 Sens vision dans le noir 18 m, Perception passive 13
@@ -1754,12 +1807,13 @@ Griffes. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 # <!--Name-->Oxydeur, charançon<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 9 (2d6+2)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->9 (2d6+2)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-6 (-2) 13 (+1) 13 (+1) 2 (-4) 13 (+1) 6 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->6 (-2)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->13 (+1)<!--/Wisdom-->|<!--Charisma-->6 (-2)<!--/Charisma-->|
 
 Sens vision dans le noir 18 m, Perception passive 11
 Dangerosité 1 (200 PX)
@@ -1783,12 +1837,13 @@ Morsure. Attaque d'arme au corps-à-corps: +2 pour toucher, allonge 1,50 m, une 
 # <!--Name-->Pégase, poulain<!--/Name-->
 
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 12 (2d8+6)
-Vitesse 12 m, vol 18 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->12 (2d8+6)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m, vol 18 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 15 (+2) 16 (+3) 10 (+0) 15 (+2) 13 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->15 (+2)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
 
 Compétence Perception +6
 Sens Perception passive 16
@@ -1808,12 +1863,13 @@ Sabots. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une 
 # <!--Name-->Péryton, hinulus (*)<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13
-Points de vie 26 (4d8+8)
-Vitesse 3 m, vol 24 m
+- **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->26 (4d8+8)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->3 m, vol 24 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-14 (+2) 17 (+3) 15 (+2) 6 (-2) 14 (+2) 10 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence-->6 (-2)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
 
 Compétence Perception +4
 Sens Perception passive 14
@@ -1844,12 +1900,13 @@ Ombre mortelle. Lorsqu'il survole une cible, le péryton peut faire attaquer son
 # <!--Name-->Phénix, poussin<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 18 (4d6+4)
-Vitesse 3 m, vol 18 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-8 (-1) 15 (+2) 13 (+1) 8 (-1) 14 (+2) 10 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->8 (-1)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->8 (-1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
 
 Compétence Perception +4
 Immunité aux dégâts de feu
@@ -1881,12 +1938,13 @@ Serres. Attaque d'arme au corps-à-corps : +1 pour toucher, allonge 1,50 m, une 
 # <!--Name-->Pseudo-dragon, vermisseau<!--/Name-->
 
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 3 (1d4+1)
-Vitesse 4,50 m, vol 18 m
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->3 (1d4+1)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->4,50 m, vol 18 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-4 (-3) 13 (+1) 13 (+1) 10 (+0) 12 (+1) 10 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->4 (-3)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->10 (+0)<!--/Charisma-->|
 
 Compétences Discrétion +4, Perception +3
 Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
@@ -1916,12 +1974,13 @@ Morsure. Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une
 # <!--Name-->Rakshasa, chaton<!--/Name-->
 
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
-Points de vie 30 (4d6+16)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->30 (4d6+16)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-9 (-1) 17 (+3) 18 (+4) 13 (+1) 16 (+3) 16 (+3)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->9 (-1)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence-->13 (+1)<!--/Intelligence-->|<!--Wisdom-->16 (+3)<!--/Wisdom-->|<!--Charisma-->16 (+3)<!--/Charisma-->|
 
 Compétences Perspicacité +5, Supercherie +5
 Vulnérabilité aux dégâts perforants infligés par des armes magiques maniées par des créatures bonnes.
@@ -1949,12 +2008,13 @@ Griffes. Attaque d'arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une
 # <!--Name-->Remorhaz, fraie<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
-Points de vie 51 (6d8+24)
-Vitesse 9 m, fouissement 6 m
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->51 (6d8+24)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, fouissement 6 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-14 (+2) 13 (+1) 18 (+4) 4 (-3) 10 (+0) 5 (-3)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->14 (+2)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence-->4 (-3)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->5 (-3)<!--/Charisma-->|
 
 Résistance aux dégâts de feu et de froid
 Sens perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
@@ -1978,12 +2038,13 @@ Morsure. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,5 m, une 
 # <!--Name-->Satyre, chevreau<!--/Name-->
 
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 9 (2d8)
-Vitesse 12 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-8 (-1) 14 (+2) 11 (+0) 12 (+1) 10 (+0) 14 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->8 (-1)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->11 (+0)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->14 (+2)<!--/Charisma-->|
 
 Compétences Discrétion +5, Perception +2,
 Représentation +4
@@ -2008,12 +2069,13 @@ Coup de bélier. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,5
 # <!--Name-->Simurgh, chiot<!--/Name-->
 
 -  <!--Type-->Créature céleste<!--/Type--> de taille <!--Size-->P<!--/Size>, <!--Alignment-->Neutre Bon<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 16 (3d6+6)
-Vitesse 9 m, vol 15 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->16 (3d6+6)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, vol 15 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 15 (+2) 16 (+3) 10 (+0) 15 (+2) 14 (+2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->15 (+2)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->10 (+0)<!--/Intelligence-->|<!--Wisdom-->15 (+2)<!--/Wisdom-->|<!--Charisma-->14 (+2)<!--/Charisma-->|
 
 Compétence Perception +4
 Sens vision dans le noir 18 m, Perception passive 14
@@ -2037,12 +2099,13 @@ Morsure. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une
 # <!--Name-->Sphinx, chaton<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)
-Points de vie 51 (6d8+24)
-Vitesse 9 m, vol 15 m
+- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->51 (6d8+24)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, vol 15 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-12 (+1) 10 (+0) 18 (+4) 14 (+2) 14 (+2) 17 (+3)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->12 (+1)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->18 (+4)<!--/Constitution-->|<!--Intelligence-->14 (+2)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->17 (+3)<!--/Charisma-->|
 
 Jets de sauvegarde Con +6, Sag +4
 Compétence Perception +4
@@ -2080,12 +2143,13 @@ Rugissement. Les créatures dans un rayon de 18 mètres autour du jeune sphinx q
 # <!--Name-->Sylvanien, baliveau<!--/Name-->
 
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bonne<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
-Points de vie 42 (4d10+20)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->42 (4d10+20)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-15 (+2) 8 (-1) 21 (+5) 12 (+1) 14 (+2) 12 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->15 (+2)<!--/Strength-->|<!--Dexterity-->8 (-1)<!--/Dexterity-->|<!--Constitution-->21 (+5)<!--/Constitution-->|<!--Intelligence-->12 (+1)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
 
 Résistance aux dégâts contondants et perçants
 Vulnérabilité aux dégâts de feu
@@ -2112,12 +2176,13 @@ Rocher. Attaque d'arme à distance : +4 pour toucher, portée 9/27 m, une cible.
 # <!--Name-->Tarasque, poussin<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
-Points de vie 22 (3d8+9)
-Vitesse 9 m, nage 9 m
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->22 (3d8+9)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 14 (+2) 17 (+3) 5 (-3) 12 (+1) 8 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->17 (+3)<!--/Constitution-->|<!--Intelligence-->5 (-3)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->8 (-1)<!--/Charisma-->|
 
 Sens vision dans le noir 18 m, Perception passive 11
 
@@ -2147,12 +2212,13 @@ Note : la tarasque décrite dans cet ouvrage est inspirée de la tarasque histor
 # <!--Name-->Tatzelwurm, vermisseau<!--/Name-->
 
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->alignement variable<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13
-Points de vie 11 (2d6+4)
-Vitesse 9 m, escalade 9m
+- **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->11 (2d6+4)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m, escalade 9m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-6 (-2) 14 (+2) 15 (+2) 7 (-2) 12 (+1) 13 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->6 (-2)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence-->7 (-2)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->13 (+1)<!--/Charisma-->|
 
 Compétences Discrétion +4, Perception +3
 Résistance aux dégâts d'acide, de feu, de foudre et de froid
@@ -2173,12 +2239,13 @@ Morsure. Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une
 # <!--Name-->Tertre errant, petit<!--/Name-->
 
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)
-Points de vie 37 (5d8+15)
-Vitesse 6 m
+- **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->37 (5d8+15)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 8 (-1) 16 (+3) 5 (-3) 10 (+0) 5 (-3)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->8 (-1)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->5 (-3)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->5 (-3)<!--/Charisma-->|
 
 Compétence Discrétion +4
 Résistance aux dégâts de feu et de froid
@@ -2208,12 +2275,13 @@ Enveloppement. Le tertre errant enveloppe une créature de taille P ou plus peti
 # <!--Name-->Tigron de phase<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->12
-Points de vie 16 (3d6+6)
-Vitesse 12 m
+- **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->16 (3d6+6)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 14 (+2) 15 (+2) 3 (-4) 12 (+1) 8 (-1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->14 (+2)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence-->3 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->8 (-1)<!--/Charisma-->|
 
 Compétences Discrétion +6, Perception +3
 Sens Perception passive 13
@@ -2245,12 +2313,13 @@ Morsure. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une
 # <!--Name-->Titan, rejeton<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)
-Points de vie 181 (11d12+110)
-Vitesse 12 m
+- **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->181 (11d12+110)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-22 (+6) 11 (+0) 30 (+10) 3 (-4) 11 (+0) 11 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->22 (+6)<!--/Strength-->|<!--Dexterity-->11 (+0)<!--/Dexterity-->|<!--Constitution-->30 (+10)<!--/Constitution-->|<!--Intelligence-->3 (-4)<!--/Intelligence-->|<!--Wisdom-->11 (+0)<!--/Wisdom-->|<!--Charisma-->11 (+0)<!--/Charisma-->|
 
 Résistance aux dégâts de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
 Immunité contre les états charmé, terrorisé, empoisonné et paralysé
@@ -2290,12 +2359,13 @@ Queue. Attaque d'arme au corps-à-corps : +10 pour toucher, allonge 3 m, une cib
 # <!--Name-->Troglodyte, têtard<!--/Name-->
 
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->11
-Points de vie 4 (1d6+1)
-Vitesse 12 m, nage 12 m
+- **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->4 (1d6+1)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m, nage 12 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-8 (-1) 13 (+1) 13 (+1) 2 (-4) 10 (+0) 3 (-4)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->8 (-1)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->13 (+1)<!--/Constitution-->|<!--Intelligence-->2 (-4)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->3 (-4)<!--/Charisma-->|
 
 Sens vision aveugle 18 m, aveugle au-delà, Perception passive 10
 Langues —
@@ -2317,12 +2387,13 @@ Le troglodyte de ce bestiaire ne correspond en rien au troglodyte habituel de CO
 # <!--Name-->Troll, bourgeon<!--/Name-->
 
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)
-Points de vie 19 (2d8+10)
-Vitesse 9 m
+- **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->19 (2d8+10)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->9 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 13 (+1) 20 (+5) 7 (-2) 9 (-1) 7 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->7 (-2)<!--/Intelligence-->|<!--Wisdom-->9 (-1)<!--/Wisdom-->|<!--Charisma-->7 (-2)<!--/Charisma-->|
 
 Sens vision dans le noir 18 m, Perception passive 9
 Langues variable
@@ -2351,12 +2422,13 @@ Morsure. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une
 # <!--Name-->Ver pourpre, violet<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)
-Points de vie 52 (5d10+25)
-Vitesse 12 m, fouissement 6 m
+- **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->52 (5d10+25)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m, fouissement 6 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-16 (+3) 7 (-2) 22 (+5) 1 (-5) 8 (-1) 4 (-3)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->16 (+3)<!--/Strength-->|<!--Dexterity-->7 (-2)<!--/Dexterity-->|<!--Constitution-->22 (+5)<!--/Constitution-->|<!--Intelligence-->1 (-5)<!--/Intelligence-->|<!--Wisdom-->8 (-1)<!--/Wisdom-->|<!--Charisma-->4 (-3)<!--/Charisma-->|
 
 Jets de sauvegarde Con +7
 Sens perception des vibrations 18 m, vision aveugle 9 m,
@@ -2381,12 +2453,13 @@ Morsure. Attaque d'arme au corps-à-corps : +5 pour toucher, allonge 3 m, une ci
 # <!--Name-->Vouivre, civelle<!--/Name-->
 
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)
-Points de vie 30 (4d8+12)
-Vitesse 6 m, vol 18 m
+- **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->30 (4d8+12)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, vol 18 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-10 (+0) 10 (+0) 16 (+3) 5 (-3) 12 (+1) 6 (-2)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->10 (+0)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->16 (+3)<!--/Constitution-->|<!--Intelligence-->5 (-3)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma-->6 (-2)<!--/Charisma-->|
 
 Compétence Perception +4
 Sens vision dans le noir 18 m, Perception passive 14
@@ -2413,12 +2486,13 @@ Morsure. Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,5 m, une 
 # <!--Name-->Wolpentinger, rejeton<!--/Name-->
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->13
-Points de vie 5 (1d6+2)
-Vitesse 12 m, vol 24 m
+- **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->5 (1d6+2)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-4 (-3) 17 (+3) 15 (+2) 6 (-2) 14 (+2) 12 (+1)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->4 (-3)<!--/Strength-->|<!--Dexterity-->17 (+3)<!--/Dexterity-->|<!--Constitution-->15 (+2)<!--/Constitution-->|<!--Intelligence-->6 (-2)<!--/Intelligence-->|<!--Wisdom-->14 (+2)<!--/Wisdom-->|<!--Charisma-->12 (+1)<!--/Charisma-->|
 
 Compétence Perception +4
 Sens Perception passive 14
@@ -2444,12 +2518,13 @@ Morsure. Attaque d'arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une
 # <!--Name-->Xorn, bébé<!--/Name-->
 
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
-- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)
-Points de vie 17 (2d6+10)
-Vitesse 6 m, fouissement 3 m
+- **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
+- **Points de vie** <!--HitPoints-->17 (2d6+10)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->6 m, fouissement 3 m<!--/Speed-->
 
-FOR DEX CON INT SAG CHA
-9 (-1) 10 (+0) 20 (+5) 11 (+0) 10 (+0) 11 (+0)
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|<!--Strength-->9 (-1)<!--/Strength-->|<!--Dexterity-->10 (+0)<!--/Dexterity-->|<!--Constitution-->20 (+5)<!--/Constitution-->|<!--Intelligence-->11 (+0)<!--/Intelligence-->|<!--Wisdom-->10 (+0)<!--/Wisdom-->|<!--Charisma-->11 (+0)<!--/Charisma-->|
 
 Compétences Discrétion +2, Perception +4
 Résistance aux dégâts perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantium
