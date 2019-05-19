@@ -4,6 +4,8 @@
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              x:Class="AideDeJeu.Views.Pickers.StringPicker"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
              Title="{Binding Title}">
     <ContentPage.Resources>
         <ResourceDictionary>
