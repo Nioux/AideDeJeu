@@ -1777,7 +1777,7 @@ _Touché :_ 2 (1d4) dégâts perforants et la cible doit effectuer un jet de sau
 
 - **Sens** <!--Senses-->vision dans le noir à 18 m, Perception passive +2<!--/Senses-->
 - **Langues** <!--Languages-->commun, géant<!--/Languages-->
-- **Puissance** <!--Challenge-->1 (200 PX)<!--/Challenge-->
+- **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
 
 ## Capacités
 

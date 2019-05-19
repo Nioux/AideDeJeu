@@ -33,7 +33,8 @@ namespace AideDeJeu.Views.PlayerCharacter
 
         private async Task ExecuteCloseCommandAsync()
         {
-            await Navigation.PopModalAsync(true);
+            //await Navigation.PopModalAsync(true);
+            await Navigation.PopAsync(true);
         }
 
         public ICommand ShareCommand

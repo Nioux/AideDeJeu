@@ -55,17 +55,18 @@ namespace AideDeJeu.Views.PlayerCharacter
         {
             get
             {
-                return new Command<object>(ExecutePdfViewCommand);
+                return new Command<PlayerCharacterViewModel>(async(pc) => await ExecutePdfViewCommandAsync(pc));
             }
         }
 
-        public void ExecutePdfViewCommand(object param)
+        public async Task ExecutePdfViewCommandAsync(PlayerCharacterViewModel pc)
         {
             var vm = BindingContext as PlayerCharacterEditorViewModel;
             var page = new PdfViewPage();
-            page.PdfFile = new Tools.NotifyTaskCompletion<string>(Task.Run(async() => await vm.GeneratePdfAsync(param as PlayerCharacterViewModel)));
+            page.PdfFile = new Tools.NotifyTaskCompletion<string>(Task.Run(async() => await vm.GeneratePdfAsync(pc)));
             page.BindingContext = page;
-            Navigation.PushModalAsync(page, true);
+            //Navigation.PushModalAsync(page, true);
+            await Navigation.PushAsync(page, true);
         }
     }
 }
