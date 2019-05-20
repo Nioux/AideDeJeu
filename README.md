@@ -9,6 +9,8 @@ Ce site contient plusieurs ressources pour vos parties du plus grand jeu de rôl
 
 [![Google Play](https://github.com/Nioux/AideDeJeu/raw/master/AideDeJeu/AideDeJeu.Android/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.nioux.aidedejeu)
 
+[![Apple AppStore](https://github.com/Nioux/AideDeJeu/raw/master/AideDeJeu/AideDeJeu.iOS/apple-appstore-badge.png)](https://itunes.apple.com/us/app/haches-d%C3%A9s/id1446575505?l=fr&ls=1&mt=8)
+
 [![Microsoft Store](https://github.com/Nioux/AideDeJeu/raw/master/AideDeJeu/AideDeJeu.UWP/microsoft-store-badge.png)](https://www.microsoft.com/fr-fr/p/aide-de-jeu/9nvns0j25ct7)
 
 
