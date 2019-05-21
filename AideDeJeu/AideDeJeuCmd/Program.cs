@@ -337,6 +337,27 @@ namespace AideDeJeuCmd
 
         static async Task Main(string[] args)
         {
+            while (true)
+            {
+                Console.WriteLine("l : build library");
+                Console.WriteLine("q : quitter");
+                var key = Console.ReadKey(true);
+                switch (key.KeyChar)
+                {
+                    case 'l':
+                        await BuildLibraryAsync();
+                        break;
+                    case 'o':
+                        await CheckOrphanLinksAsync();
+                        break;
+                    case 'q':
+                        return;
+                }
+            }
+        }
+
+        static async Task BuildLibraryAsync()
+        {
             Tests.Xamarin.Forms.Mocks.MockForms.Init();
             SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
             DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
@@ -364,9 +385,9 @@ namespace AideDeJeuCmd
                 await context.Database.EnsureCreatedAsync();
 
                 var flags = new Dictionary<string, bool>();
-                foreach(var it in store._AllItems.Values)
+                foreach (var it in store._AllItems.Values)
                 {
-                    if(flags.ContainsKey(it.Id))
+                    if (flags.ContainsKey(it.Id))
                     {
                         Debug.WriteLine(it);
                     }
@@ -391,7 +412,7 @@ namespace AideDeJeuCmd
                     if (parent != null)
                     {
                         var pparent = items.Where(iit => iit.Id == parent.ParentLink).FirstOrDefault();
-                        if(pparent != null && pparent is ClassItem)
+                        if (pparent != null && pparent is ClassItem)
                         {
                             var sc = c as SubClassItem;
                             sc.ParentClassId = pparent.NewId;
@@ -410,7 +431,7 @@ namespace AideDeJeuCmd
                 foreach (var r in races)
                 {
                     var parent = items.Where(it => it.Id == r.ParentLink).FirstOrDefault();
-                    if(parent != null && parent is RaceItem)
+                    if (parent != null && parent is RaceItem)
                     {
                         var sr = r as SubRaceItem;
                         sr.FullName = $"{parent.Name} - {r.Name}";
@@ -453,7 +474,7 @@ namespace AideDeJeuCmd
                 foreach (var item in await context.Items.ToListAsync())
                 {
                     //await item.LoadFilteredItemsAsync();
-                    if(item is SpellItems)
+                    if (item is SpellItems)
                     {
                         int iii = 1;
                     }
@@ -476,11 +497,11 @@ namespace AideDeJeuCmd
                     await SaveStringAsync(filename, yaml);
 
                     var filtervm = item.GetNewFilterViewModel();
-                    if(filtervm != null)
+                    if (filtervm != null)
                     {
-                        foreach(var filter in filtervm.Filters)
+                        foreach (var filter in filtervm.Filters)
                         {
-                            foreach(var kv in filter.KeyValues)
+                            foreach (var kv in filter.KeyValues)
                             {
                                 var key = kv.Key;
                                 var val = kv.Value;
@@ -514,8 +535,12 @@ namespace AideDeJeuCmd
 
 
             return;
-            await ReorderSpellsAsync();
-            return;
+        }
+
+        static async Task CheckOrphanLinksAsync()
+        { 
+            //await ReorderSpellsAsync();
+            //return;
             string dataDir = @"..\..\..\..\..\Data\";
             await CheckAllLinks();
             //var anchors = await GetAllAnchorsAsync();
