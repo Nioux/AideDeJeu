@@ -13,11 +13,11 @@ Vous êtes issu du peuple. Votre famille n'a jamais rien eu d'extraordinaire. Vo
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Dressage, Nature.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Dressage], [Nature].<!--/Abilities-->
 
-**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.<!--/MasteredTools-->
+**Outils maîtrisés :** <!--MasteredTools-->[Véhicules (terrestres)], un ensemble d'outils d'artisan au choix entre des [outils de forgeron], [de cordonnier], [de tanneur], [de menuisier], [de maçon], [de potier], [de bricoleur], [de brasseur] ou [de charpentier].<!--/MasteredTools-->
 
-**Équipement :** <!--Equipment-->Ensemble d'outils d'artisan, vêtements courants, objet hérité de l'un de vos parents et dont la valeur est sentimentale, bourse contenant 10 po.<!--/Equipment-->
+**Équipement :** <!--Equipment-->[Ensemble d'outils d'artisan], [vêtements courants], objet hérité de l'un de vos parents et dont la valeur est sentimentale, [bourse] contenant [10 po].<!--/Equipment-->
 
 <!--SkillItem-->
 
@@ -131,11 +131,11 @@ Contrairement aux artisans des cités, vous ne vous êtes jamais réellement sp�
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Athlétisme, Nature.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Athlétisme], [Nature].<!--/Abilities-->
 
-**Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix parmi les outils de forgeron, de menuisier, de maçon, de bricoleur, ou de charpentier.<!--/MasteredTools-->
+**Outils maîtrisés :** <!--MasteredTools-->[Deux ensembles d'outils d'artisan au choix] parmi les [outils de forgeron], [de menuisier], [de maçon], [de bricoleur], ou [de charpentier].<!--/MasteredTools-->
 
-**Équipement :** <!--Equipment-->Habits courants, deux ensembles d'outils d'artisan que vous maîtrisez, bourse contenant 10 po.<!--/Equipment-->
+**Équipement :** <!--Equipment-->[Habits courants], [deux ensembles d'outils d'artisan que vous maîtrisez], [bourse] contenant [10 po].<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -149,11 +149,11 @@ Le laboureur travaille dur. Il exploite des terres qui sont peut-être à lui, s
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Athlétisme, Dressage.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Athlétisme], [Dressage].<!--/Abilities-->
 
-**Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.<!--/MasteredTools-->
+**Outils maîtrisés :** <!--MasteredTools-->[Véhicules (terrestres)], un ensemble d'outils d'artisan au choix entre des [outils de forgeron], [de cordonnier], [de tanneur], [de menuisier], [de maçon], [de potier], [de bricoleur], [de brasseur] ou [de charpentier].<!--/MasteredTools-->
 
-**Équipement :** <!--Equipment-->Ensemble d'outils d'artisan, habits courants, objet hérité de l'un de vos parents dont la valeur est sentimentale, pelle, bourse contenant 10 po.<!--/Equipment-->
+**Équipement :** <!--Equipment-->[Ensemble d'outils d'artisan], [habits courants], objet hérité de l'un de vos parents dont la valeur est sentimentale, [pelle], [bourse] contenant [10 po].<!--/Equipment-->
 
 <!--/SubBackgroundItem-->
 
@@ -167,11 +167,11 @@ Dans tous les villages ou presque vit un guérisseur ou une rebouteuse. Quelqu'u
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Médecine, Nature ou Religion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Médecine], [Nature] ou [Religion].<!--/Abilities-->
 
-**Outils maîtrisés :** <!--MasteredTools-->Deux au choix parmi matériel d'herboriste, d'empoisonneur et d'alchimiste.<!--/MasteredTools-->
+**Outils maîtrisés :** <!--MasteredTools-->Deux au choix parmi [matériel d'herboriste], [d'empoisonneur] et [d'alchimiste].<!--/MasteredTools-->
 
-**Équipement :** <!--Equipment-->Habits courants, bâton, des grisgris ou des fioles contenant d'étranges décoctions, bourse contenant 10 po.<!--/Equipment-->
+**Équipement :** <!--Equipment-->[Habits courants], [bâton], des grisgris ou des fioles contenant d'étranges décoctions, [bourse] contenant [10 po].<!--/Equipment-->
 
 <!--SkillItem-->
 
