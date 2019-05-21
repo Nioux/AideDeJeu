@@ -79,3 +79,13 @@ Au niveau 8, vous gagnez la capacité d’insuffler de l’énergie divine dans 
 <!--/SubClassItem-->
 
 
+[arme spirituelle]: spells_hd.md#arme-spirituelle
+[bénédiction]: spells_hd.md#bénédiction
+[gardien de la foi]: spells_hd.md#gardien-de-la-foi
+[lueur d'espoir]: spells_hd.md#lueur-despoir
+[protection contre la mort]: spells_hd.md#protection-contre-la-mort
+[rappel à la vie]: spells_hd.md#rappel-à-la-vie
+[restauration inférieure]: spells_hd.md#restauration-inférieure
+[revigorer]: spells_hd.md#revigorer
+[soin des blessures]: spells_hd.md#soin-des-blessures
+[soin des blessures de groupe]: spells_hd.md#soin-des-blessures-de-groupe

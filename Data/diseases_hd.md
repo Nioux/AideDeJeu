@@ -67,3 +67,6 @@ On peut soigner la pourriture oculaire à l'aide d'une fleur très rare appelée
 <!--/GenericItem-->
 
 <!--/Items-->
+
+[neutralisé]: conditions_hd.md#neutralisé
+[restauration inférieure]: spells_hd.md#restauration-inférieure
