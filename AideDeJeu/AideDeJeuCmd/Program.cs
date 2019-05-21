@@ -333,6 +333,19 @@ namespace AideDeJeuCmd
             }
         }
 
+        public static async Task<Dictionary<string, string>> LoadMDsFromFilesAsync()
+        {
+            var dico = new Dictionary<string, string>();
+            foreach (var fileName in Directory.GetFiles(inDir, "*.md", new EnumerationOptions() { MatchType = MatchType.Simple, RecurseSubdirectories = false }))
+            {
+                var md = await File.ReadAllTextAsync(fileName);
+                if (md != null)
+                {
+                    dico[fileName] = md;
+                }
+            }
+            return dico;
+        }
         static string outDir = @"..\..\..\..\..\Data\HD\";
 
         static async Task Main(string[] args)
@@ -340,6 +353,7 @@ namespace AideDeJeuCmd
             while (true)
             {
                 Console.WriteLine("l : build library");
+                Console.WriteLine("o : check orphan links");
                 Console.WriteLine("q : quitter");
                 var key = Console.ReadKey(true);
                 switch (key.KeyChar)
@@ -538,18 +552,32 @@ namespace AideDeJeuCmd
         }
 
         static async Task CheckOrphanLinksAsync()
-        { 
+        {
+            Tests.Xamarin.Forms.Mocks.MockForms.Init();
+            //SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
+            DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
+            //var store = new StoreViewModel();
+            //await store.GetItemFromDataAsync("test", "truc");
+
+            //var store = new StoreViewModel();
+            //await store.PreloadAllItemsAsync();
+            //await PreloadAllItemsFromFilesAsync(store);
+            var mds = await LoadMDsFromFilesAsync();
             //await ReorderSpellsAsync();
             //return;
-            string dataDir = @"..\..\..\..\..\Data\";
-            await CheckAllLinks();
+            //string dataDir = @"..\..\..\..\..\Data\";
+            await CheckAllLinks(mds);
             //var anchors = await GetAllAnchorsAsync();
             //foreach (var anchor in anchors)
             //{
             //    await SearchAsync(anchor);
             //}
-            Console.ReadLine();
             return;
+        }
+
+        async Task test()
+        {
+            var dataDir = "";
             var mdVO = await LoadStringAsync(dataDir + "monsters_vo.md");
             var mdVF = await LoadStringAsync(dataDir + "monsters_hd.md");
 
@@ -590,7 +618,7 @@ namespace AideDeJeuCmd
 
         }
 
-        public static async Task CheckAllLinks()
+        public static async Task CheckAllLinks(Dictionary<string, string> mds)
         {
             // string dataDir = @"..\..\..\..\..\Data\";
 
@@ -598,69 +626,63 @@ namespace AideDeJeuCmd
             var allanchors = new Dictionary<string, IEnumerable<string>>();
             var alllinks = new Dictionary<string, IEnumerable<Tuple<string, string>>>();
             var allnames = new Dictionary<string, IEnumerable<string>>();
-            var resnames = Helpers.GetResourceNames();
-            foreach (var resname in resnames)
+            //var resnames = Helpers.GetResourceNames();
+            foreach (var mdkv in mds)
             {
-                if (resname.EndsWith(".md"))
-                {
-                    var name = resname.Substring(15, resname.Length - 18);
-                    var md = await Helpers.GetResourceStringAsync(resname);
-                    allmds.Add(name, md);
-                    var anchors = GetMarkdownAnchors(md).ToList();
-                    allanchors.Add(name, anchors);
-                    var links = GetMarkdownLinks(md).ToList();
-                    alllinks.Add(name, links);
-                    var names = GetMarkdownAnchorNames(md).ToList();
-                    allnames.Add(name, names);
-                }
+                var name = mdkv.Key;
+                var md = mdkv.Value;
+                allmds.Add(name, md);
+                var anchors = GetMarkdownAnchors(md).ToList();
+                allanchors.Add(name, anchors);
+                var links = GetMarkdownLinks(md).ToList();
+                alllinks.Add(name, links);
+                var names = GetMarkdownAnchorNames(md).ToList();
+                allnames.Add(name, names);
             }
-            foreach (var resname in resnames)
+            foreach (var mdkv in mds)
             {
-                if (resname.EndsWith(".md"))
+                var name = mdkv.Key;
+                var md = mdkv.Value;
+                var unlinkedrefs = GetMarkdownUnlinkedRefs(md).ToList();
+                if (unlinkedrefs.Count > 0)
                 {
-                    var name = resname.Substring(15, resname.Length - 18);
-                    var md = await Helpers.GetResourceStringAsync(resname);
-                    var unlinkedrefs = GetMarkdownUnlinkedRefs(md).ToList();
-                    if (unlinkedrefs.Count > 0)
+                    Console.WriteLine($"{name} :");
+                    Console.WriteLine();
+                    foreach (var unlinkedref in unlinkedrefs.Distinct().OrderBy(i => i))
                     {
-                        Console.WriteLine($"{name} :");
-                        Console.WriteLine();
-                        foreach (var unlinkedref in unlinkedrefs.Distinct().OrderBy(i => i))
+                        //var file = "";
+                        var files = new Dictionary<string, string>();
+                        foreach(var aalinks in alllinks)
                         {
-                            //var file = "";
-                            var files = new Dictionary<string, string>();
-                            foreach(var aalinks in alllinks)
+                            var found = aalinks.Value.FirstOrDefault(t => t.Item2 == Helpers.IdFromName(unlinkedref));
+                            if(found != null)
                             {
-                                var found = aalinks.Value.FirstOrDefault(t => t.Item2 == Helpers.IdFromName(unlinkedref));
-                                if(found != null)
-                                {
-                                    files[found.Item1] = $"{found.Item1}.md";
-                                    //file = $"{found.Item1}.md";
-                                    //Console.WriteLine($"[{unlinkedref}]: {file}#{Helpers.IdFromName(unlinkedref)}");
-                                }
-                            }
-                            foreach(var aanchors in allanchors)
-                            {
-                                if(aanchors.Value.Contains(Helpers.IdFromName(unlinkedref)))
-                                {
-                                    files[aanchors.Key] = $"{aanchors.Key}.md";
-                                    //file = $"{aanchors.Key}.md";
-                                    //Console.WriteLine($"[{unlinkedref}]: {file}#{Helpers.IdFromName(unlinkedref)}");
-                                    //break;
-                                }
-                            }
-                            if(files.Count == 0)
-                            {
-                                files[""] = "";
-                            }
-                            foreach (var file in files)
-                            {
-                                Console.WriteLine($"[{unlinkedref}]: {file.Value}#{Helpers.IdFromName(unlinkedref)}");
+                                files[found.Item1] = $"{found.Item1}.md";
+                                //file = $"{found.Item1}.md";
+                                //Console.WriteLine($"[{unlinkedref}]: {file}#{Helpers.IdFromName(unlinkedref)}");
                             }
                         }
-                        Console.WriteLine();
-                        Console.WriteLine();
+                        foreach(var aanchors in allanchors)
+                        {
+                            if(aanchors.Value.Contains(Helpers.IdFromName(unlinkedref)))
+                            {
+                                files[aanchors.Key] = $"{aanchors.Key}.md";
+                                //file = $"{aanchors.Key}.md";
+                                //Console.WriteLine($"[{unlinkedref}]: {file}#{Helpers.IdFromName(unlinkedref)}");
+                                //break;
+                            }
+                        }
+                        if(files.Count == 0)
+                        {
+                            files[""] = "";
+                        }
+                        foreach (var file in files)
+                        {
+                            Console.WriteLine($"[{unlinkedref}]: {file.Value}#{Helpers.IdFromName(unlinkedref)}");
+                        }
                     }
+                    Console.WriteLine();
+                    Console.WriteLine();
                 }
             }
 
