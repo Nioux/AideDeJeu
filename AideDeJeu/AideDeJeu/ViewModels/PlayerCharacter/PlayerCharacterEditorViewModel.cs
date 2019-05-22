@@ -1261,6 +1261,10 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                             {
                                 var item = field.Value as AcroFields.Item;
                                 Debug.WriteLine(field.Key);
+                                if(field.Key.ToString().Equals("Portrait"))
+                                {
+                                    Debug.WriteLine("Portrait");
+                                }
                                 form.SetField(field.Key.ToString(), field.Key.ToString());
                             }
 #endif // DEBUG
