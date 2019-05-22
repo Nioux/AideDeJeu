@@ -15,7 +15,7 @@ En choisissant cet historique, vous devrez consulter votre MJ afin de créer vot
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Histoire, Persuasion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Histoire], [Persuasion].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
@@ -135,7 +135,7 @@ Vous n'êtes pas vraiment un noble, ou pas complètement. Vous ne possédez pas 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Histoire, Supercherie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Histoire], [Supercherie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un ensemble d'outils d'artisan au choix.<!--/MasteredTools-->
 
@@ -165,7 +165,7 @@ Vous êtes membre d'une ancienne lignée issue des familles qui fondèrent le ro
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Athlétisme ou Dressage, Histoire.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Athlétisme] ou [Dressage], [Histoire].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
@@ -185,7 +185,7 @@ Votre famille n'a pas toujours été noble. L'un de vos ancêtres a acquis ce st
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Histoire, Perspicacité ou Persuasion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Histoire], [Perspicacité] ou [Persuasion].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique au choix, un ensemble d'outils d'artisan au choix parmi matériel d'alchimiste, outils de cartographe, matériel de peintre et outils de tisserand.<!--/MasteredTools-->
 

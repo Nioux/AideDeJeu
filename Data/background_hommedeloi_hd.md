@@ -15,7 +15,7 @@ Quand vous sélectionnez cet historique, décidez, en accord avec votre MJ, de q
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Investigation ou Persuasion, Perspicacité.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Investigation] ou [Persuasion], [Perspicacité].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel de calligraphie, véhicules (terrestres).<!--/MasteredTools-->
 
@@ -133,7 +133,7 @@ Vous représentez l'autorité de votre clergé. Parfois enquêteur, parfois juge
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Intimidation, Religion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Intimidation], [Religion].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel de calligraphie.<!--/MasteredTools-->
 
@@ -153,7 +153,7 @@ Quand on veut retrouver la trace d'un homme ou élucider une affaire particuliè
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Investigation ou Perspicacité, Supercherie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Investigation] ou [Perspicacité], [Supercherie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement, outils de voleur.<!--/MasteredTools-->
 
@@ -183,7 +183,7 @@ Toujours sur les routes, vous êtes dépêché afin de venir en aide aux communa
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Perspicacité, Survie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Perspicacité], [Survie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 

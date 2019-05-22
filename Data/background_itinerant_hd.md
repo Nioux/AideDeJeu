@@ -13,7 +13,7 @@ Vous avez vécu toute votre vie sur les routes. Vous n'avez connu que la vie nom
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Représentation, Survie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Représentation], [Survie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
@@ -133,7 +133,7 @@ Vous avez fait votre vie en voyageant de communauté en communauté et en vendan
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Persuasion, Survie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Persuasion], [Survie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
@@ -153,7 +153,7 @@ On vous a toujours regardé de travers. Vous avez vécu toute votre vie au sein 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Deux au choix parmi Intimidation, Représentation, Supercherie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->Deux au choix parmi [Intimidation], [Représentation], [Supercherie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), instrument de musique au choix.<!--/MasteredTools-->
 
@@ -171,7 +171,7 @@ Le spectacle est votre vie. Que vous ayez fait partie d'une troupe ou que vous a
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Une compétence dépendant de la spécialité, Représentation.<!--/Abilities-->
+**Compétences :** <!--Abilities-->Une compétence dépendant de la [spécialité], [Représentation].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique au choix, véhicules (terrestres).<!--/MasteredTools-->
 
@@ -193,12 +193,12 @@ Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner vo
 
 |d6|Spécialité|
 |---|---|
-|1|Musicien/Conteur (Histoire ou Religion)|
-|2|Acteur (Persuasion ou Supercherie)|
-|3|Acrobate (Acrobaties)|
-|4|Jongleur (Escamotage)|
-|5|Montreur d'animaux (Dressage)|
-|6|Diseuse de bonne aventure (Perspicacité)|
+|1|Musicien/Conteur ([Histoire] ou [Religion])|
+|2|Acteur ([Persuasion] ou [Supercherie])|
+|3|Acrobate ([Acrobaties])|
+|4|Jongleur ([Escamotage])|
+|5|Montreur d'animaux ([Dressage])|
+|6|Diseuse de bonne aventure ([Perspicacité])|
 
 <!--/Table-->
 

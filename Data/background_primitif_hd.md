@@ -15,7 +15,7 @@ Vous vivez au plus près de la nature, dans une certaine harmonie avec les ancie
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Dressage, Survie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Dressage], [Survie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou un ensemble d'outils d'artisan au choix parmi outils de tanneur, de forgeron, de tisserand ou de menuisier.<!--/MasteredTools-->
 
@@ -135,7 +135,7 @@ Les vôtres ont toujours compté sur vous. Vous avez toujours été doué pour l
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Discrétion, Survie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Discrétion], [Survie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, véhicules (terrestres).<!--/MasteredTools-->
 
@@ -153,7 +153,7 @@ Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre d
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Perspicacité, Survie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Perspicacité], [Survie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un instrument de musique au choix.<!--/MasteredTools-->
 
@@ -183,7 +183,7 @@ Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isol
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Médecine, Nature.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Médecine], [Nature].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste.<!--/MasteredTools-->
 

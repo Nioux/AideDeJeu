@@ -13,7 +13,7 @@ Vous avez passé une large part de votre jeunesse le nez dans des parchemins et 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Arcanes, Histoire.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Arcanes], [Histoire].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.<!--/MasteredTools-->
 
@@ -157,7 +157,7 @@ Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages e
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Histoire ou Religion, Persuasion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Histoire] ou [Religion], [Persuasion].<!--/Abilities-->
 
 **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 
@@ -187,7 +187,7 @@ Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Médecine, Nature.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Médecine], [Nature].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste, matériel d'empoisonneur.<!--/MasteredTools-->
 
@@ -205,7 +205,7 @@ Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de fa
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Nature, Survie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Nature], [Survie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), matériel d'herboriste.<!--/MasteredTools-->
 

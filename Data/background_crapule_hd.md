@@ -13,7 +13,7 @@ Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Escamotage, Intimidation.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Escamotage], [Intimidation].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, un type de jeu au choix.<!--/MasteredTools-->
 
@@ -131,7 +131,7 @@ Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Acrobaties ou Athlétisme, Discrétion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Acrobaties] ou [Athlétisme], [Discrétion].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, accessoires de déguisement.<!--/MasteredTools-->
 
@@ -149,7 +149,7 @@ Vous avez très vite compris que les gens étaient crédules. Et quel mal y a-t-
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Persuasion, Supercherie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Persuasion], [Supercherie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux au choix parmi un type de jeu, accessoires de faussaire, accessoires de déguisement.<!--/MasteredTools-->
 
@@ -179,7 +179,7 @@ Vous avez des doigts de fée. Vous faisiez vos premiers tours de passe-passe ava
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Escamotage, Supercherie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Escamotage], [Supercherie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement.<!--/MasteredTools-->
 

@@ -18,7 +18,7 @@ Choisissez un dieu, un panthéon de dieux ou un être semi-divin parmi la liste 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Perspicacité, Religion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Perspicacité], [Religion].<!--/Abilities-->
 
 **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 
@@ -156,7 +156,7 @@ Que vous viviez ou non au temple, vous faites partie de la hiérarchie de votre 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Investigation, Religion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Investigation], [Religion].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique (utilisé dans les cérémonies de votre religion) ou un ensemble d'outils d'artisan.<!--/MasteredTools-->
 
@@ -176,7 +176,7 @@ La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vou
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Religion, Représentation.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Religion], [Représentation].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
@@ -196,7 +196,7 @@ Vous avez eu une autre vie, avant. Mais vous avez trouvé le salut dans un templ
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Religion, Supercherie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Religion], [Supercherie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement, Véhicules (terrestres).<!--/MasteredTools-->
 

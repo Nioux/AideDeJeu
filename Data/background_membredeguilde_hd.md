@@ -13,7 +13,7 @@ Vous appartenez à une guilde, une caste ou un groupe relativement fermé de per
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Perspicacité, Persuasion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Perspicacité], [Persuasion].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un ensemble d'outils d'artisan au choix.<!--/MasteredTools-->
 
@@ -148,7 +148,7 @@ Les artisans sont le coeur et l'âme de la plupart des guildes. Ils sont souvent
 
 <!--/Table-->
 
-**Compétences :** <!--Abilities-->Athlétisme, Perspicacité.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Athlétisme], [Perspicacité].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix.<!--/MasteredTools-->
 
@@ -166,7 +166,7 @@ Tous les royaumes, tous les États abritent en leur sein la lie de la civilisati
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Discrétion, Investigation ou Perspicacité.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Discrétion], [Investigation] ou [Perspicacité].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel d'empoisonneur.<!--/MasteredTools-->
 
@@ -213,7 +213,7 @@ Les commerçants forment la colonne vertébrale de la vie urbaine médiévale, e
 
 <!--/Table-->
 
-**Compétences :** <!--Abilities-->Perspicacité, Persuasion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Perspicacité], [Persuasion].<!--/Abilities-->
 
 **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 

@@ -13,7 +13,7 @@ Conscrit, soldat de métier ou milicien, vous avez passé une large part de votr
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Athlétisme, Intimidation.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Athlétisme], [Intimidation].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
@@ -156,7 +156,7 @@ Vous avez été membre de la garde d'une ville ou d'une cité. Votre quotidien n
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Intimidation, Perspicacité.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Intimidation], [Perspicacité].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix.<!--/MasteredTools-->
 
@@ -176,7 +176,7 @@ Vous avez fait partie d'une compagnie de mercenaires vendant ses services au plu
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Athlétisme, Supercherie.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Athlétisme], [Supercherie].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
@@ -194,7 +194,7 @@ Par votre courage ou un hasard des événements, à force de ténacité aussi, v
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Athlétisme ou Dressage, Persuasion.<!--/Abilities-->
+**Compétences :** <!--Abilities-->[Athlétisme] ou [Dressage], [Persuasion].<!--/Abilities-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
