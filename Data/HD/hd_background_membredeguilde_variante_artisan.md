@@ -17,7 +17,7 @@ Les artisans sont le coeur et l'âme de la plupart des guildes. Ils sont souvent
 |7|Travail de précision (orfèvre, joaillier, enlumineur, etc.)|
 |8|Autre (potier, peintre, boulanger, apothicaire, etc.)|
 
-**Compétences :** Athlétisme, Perspicacité.
+**Compétences :** [Athlétisme](hd_abilities_strength_athletisme.md), [Perspicacité](hd_abilities_wisdom_perspicacite.md).
 
 **Outils maîtrisés :** Deux ensembles d'outils d'artisan au choix.
 

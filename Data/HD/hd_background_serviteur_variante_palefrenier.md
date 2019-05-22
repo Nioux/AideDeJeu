@@ -6,7 +6,7 @@
 
 Dans une maisonnée, un palefrenier est le petit seigneur des écuries. Il se charge de soigner et nourrir les chevaux, et de nettoyer les écuries. Aucun chevalier digne de ce nom ne peut se passer d'un palefrenier compétent, car de bons chevaux signifient puissance et prestige.
 
-**Compétences :** Dressage, Perspicacité.
+**Compétences :** [Dressage](hd_abilities_wisdom_dressage.md), [Perspicacité](hd_abilities_wisdom_perspicacite.md).
 
 **Outils maîtrisés :** Véhicules (terrestres), outils de tanneur.
 

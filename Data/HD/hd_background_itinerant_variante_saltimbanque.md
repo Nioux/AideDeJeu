@@ -6,7 +6,7 @@
 
 Le spectacle est votre vie. Que vous ayez fait partie d'une troupe ou que vous ayez décidé de parcourir les routes seul, vous êtes un artiste. Vous vous produisez devant les seigneurs tout autant que le petit peuple, il faut bien vivre.
 
-**Compétences :** Une compétence dépendant de la spécialité, Représentation.
+**Compétences :** Une compétence dépendant de la [spécialité], [Représentation](hd_abilities_charisma_representation.md).
 
 **Outils maîtrisés :** Un instrument de musique au choix, véhicules (terrestres).
 

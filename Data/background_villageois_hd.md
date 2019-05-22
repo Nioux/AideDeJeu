@@ -13,7 +13,7 @@ Vous êtes issu du peuple. Votre famille n'a jamais rien eu d'extraordinaire. Vo
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Dressage], [Nature].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Dressage], [Nature].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->[Véhicules (terrestres)], un ensemble d'outils d'artisan au choix entre des [outils de forgeron], [de cordonnier], [de tanneur], [de menuisier], [de maçon], [de potier], [de bricoleur], [de brasseur] ou [de charpentier].<!--/MasteredTools-->
 
@@ -131,7 +131,7 @@ Contrairement aux artisans des cités, vous ne vous êtes jamais réellement sp�
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Athlétisme], [Nature].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Athlétisme], [Nature].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->[Deux ensembles d'outils d'artisan au choix] parmi les [outils de forgeron], [de menuisier], [de maçon], [de bricoleur], ou [de charpentier].<!--/MasteredTools-->
 
@@ -149,7 +149,7 @@ Le laboureur travaille dur. Il exploite des terres qui sont peut-être à lui, s
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Athlétisme], [Dressage].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Athlétisme], [Dressage].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->[Véhicules (terrestres)], un ensemble d'outils d'artisan au choix entre des [outils de forgeron], [de cordonnier], [de tanneur], [de menuisier], [de maçon], [de potier], [de bricoleur], [de brasseur] ou [de charpentier].<!--/MasteredTools-->
 
@@ -167,7 +167,7 @@ Dans tous les villages ou presque vit un guérisseur ou une rebouteuse. Quelqu'u
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Médecine], [Nature] ou [Religion].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Médecine], [Nature] ou [Religion].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux au choix parmi [matériel d'herboriste], [d'empoisonneur] et [d'alchimiste].<!--/MasteredTools-->
 
@@ -188,3 +188,12 @@ Vous exercez à la fois fascination et répulsion sur les gens du commun. Lorsqu
 <!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
+
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Dressage]: abilities_wisdom_hd.md#dressage
+[Médecine]: abilities_wisdom_hd.md#médecine
+[Nature]: abilities_intelligence_hd.md#nature
+[Religion]: abilities_intelligence_hd.md#religion
+
+[bâton]: equipment_hd.md#bâton
+[matériel d'herboriste]: equipment_hd.md#matériel-dherboriste

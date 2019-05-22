@@ -13,7 +13,7 @@ Vous avez toujours vécu seul. Loin des cités, loin des villages et des hameaux
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Nature], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Nature], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.<!--/MasteredTools-->
 
@@ -131,7 +131,7 @@ Quelle qu'en soit la raison, vous avez décidé de vous retirer du monde. Vous v
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Perspicacité] ou [Survie], [Religion].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Perspicacité] ou [Survie], [Religion].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier. Vous pouvez remplacer l'un de ces outils par un instrument de musique rituel ou du matériel d'herboriste.<!--/MasteredTools-->
 
@@ -161,7 +161,7 @@ Votre vie n'est que voyage et isolement. Vous passez de communauté en communaut
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Athlétisme], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Athlétisme], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
@@ -179,7 +179,7 @@ Vous vivez de la chasse. La plupart du temps vous êtes seul, dans votre cabane 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Discrétion], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Discrétion], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu, un ensemble d'outils d'artisans au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.<!--/MasteredTools-->
 
@@ -188,3 +188,10 @@ Vous vivez de la chasse. La plupart du temps vous êtes seul, dans votre cabane 
 <!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
+
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Nature]: abilities_intelligence_hd.md#nature
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Religion]: abilities_intelligence_hd.md#religion
+[Survie]: abilities_wisdom_hd.md#survie

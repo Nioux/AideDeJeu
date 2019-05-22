@@ -9,7 +9,7 @@ Chaque contrée, chaque cité, chaque communauté est régie par des lois. Et il
 
 Quand vous sélectionnez cet historique, décidez, en accord avec votre MJ, de quelle organisation ou communauté vous êtes issu, ainsi que votre fonction et votre rang. Vous pouvez aussi décider de ne plus être au service de cette communauté ou de cette organisation.
 
-**Compétences :** Investigation ou Persuasion, Perspicacité.
+**Compétences :** [Investigation](hd_abilities_intelligence_investigation.md) ou [Persuasion](hd_abilities_charisma_persuasion.md), [Perspicacité](hd_abilities_wisdom_perspicacite.md).
 
 **Outils maîtrisés :** Matériel de calligraphie, véhicules (terrestres).
 

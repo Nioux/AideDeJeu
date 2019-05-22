@@ -9,7 +9,7 @@ Toutes les terres n'ont pas été civilisées. Vous êtes de ceux que les citadi
 
 Vous vivez au plus près de la nature, dans une certaine harmonie avec les anciennes croyances. Vous savez que la nature est peuplée d'esprits qu'il faut respecter, ou alors que vos ancêtres marchent, spirituellement, à vos côtés. Nomade ou non, vous vivez au plus près de la manière dont vos ancêtres vivent depuis des siècles.
 
-**Compétences :** Dressage, Survie.
+**Compétences :** [Dressage](hd_abilities_wisdom_dressage.md), [Survie](hd_abilities_wisdom_survie.md).
 
 **Outils maîtrisés :** Véhicules (terrestres) ou un ensemble d'outils d'artisan au choix parmi outils de tanneur, de forgeron, de tisserand ou de menuisier.
 

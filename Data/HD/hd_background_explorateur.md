@@ -7,7 +7,7 @@
 
 Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côté de la prochaine forêt, de la prochaine chaîne de montagnes ou du prochain désert. L'aventure passait pour vous par le voyage et le fait de repousser sans cesse les limites connues. Vous avez maintes fois mis votre vie en danger : les rudesses du climat, les animaux sauvages ou les créatures qui hantent les abords du monde ont été vos fidèles ennemis.
 
-**Compétences :** Athlétisme, Survie.
+**Compétences :** [Athlétisme](hd_abilities_strength_athletisme.md), [Survie](hd_abilities_wisdom_survie.md).
 
 **Outils maîtrisés :** Véhicules (terrestres).
 

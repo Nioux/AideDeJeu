@@ -1,11 +1,13 @@
 ﻿---
 !SpellItems
+Family: SpellVO
 Classes: Bard|Cleric|Druid|Paladin|Ranger|Sorcerer|Wizard|Warlock
 Levels: Cantrip|Level 1|Level 2|Level 3|Level 4|Level 5|Level 6|Level 7|Level 8|Level 9
 Schools: Abjuration|Conjuration|Divination|Enchantment|Evocation|Illusion|Necromancy|Transmutation
 Rituals: Ritual
 Sources: SRD
-Family: SpellVO
+Name: Spells (SRD p)
+AltName: '[Sorts](hd_spells.md)'
 SubItems:
 - !SpellItem
   Name: Acid Splash
@@ -34663,10 +34665,8 @@ SubItems:
 Id: spells_vo.md#spells-srd-p
 RootId: spells_vo.md
 ParentLink: index.md
-Name: Spells (SRD p)
 ParentName: SRD
 NameLevel: 1
-AltName: '[Sorts](hd_spells.md)'
 AttributesDictionary: >+
   ParentNameLink: '[SRD](index.md)'
 

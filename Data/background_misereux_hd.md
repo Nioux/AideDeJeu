@@ -13,7 +13,7 @@ Vous êtes issu de la classe sociale la plus basse, de ce qui est considéré pa
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Discrétion], [Escamotage].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Discrétion], [Escamotage].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, outils de voleur.<!--/MasteredTools-->
 
@@ -131,7 +131,7 @@ Vous avez vécu de la maigre charité des citadins et, pour accroître vos chanc
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Escamotage], [Supercherie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Escamotage], [Supercherie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique (parmi tambours, flûte, chalumeau), un type de jeu au choix.<!--/MasteredTools-->
 
@@ -149,7 +149,7 @@ Votre jeunesse s'est déroulée dans un orphelinat pauvre, ou parmi une bande de
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Acrobaties] ou [Discrétion], [Escamotage].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Acrobaties] ou [Discrétion], [Escamotage].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, accessoires de déguisement.<!--/MasteredTools-->
 
@@ -179,7 +179,7 @@ Vous avez choisi de quitter les villes et de vivre votre errance dans la nature,
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Escamotage], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Escamotage], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste.<!--/MasteredTools-->
 
@@ -190,3 +190,9 @@ Vous avez choisi de quitter les villes et de vivre votre errance dans la nature,
 <!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
+
+[Acrobaties]: abilities_dexterity_hd.md#acrobaties
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Escamotage]: abilities_dexterity_hd.md#escamotage
+[Supercherie]: abilities_charisma_hd.md#supercherie
+[Survie]: abilities_wisdom_hd.md#survie

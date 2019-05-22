@@ -7,7 +7,7 @@
 
 Vous avez passé une large part de votre jeunesse le nez dans des parchemins et de vieux grimoires, à arpenter bibliothèques et scriptoriums à la recherche de précieux et poussiéreux manuscrits. Votre soif de connaissances, votre persévérance et votre intelligence vous ont permis de devenir une référence parmi vos pairs.
 
-**Compétences :** Arcanes, Histoire.
+**Compétences :** [Arcanes](hd_abilities_intelligence_arcanes.md), [Histoire](hd_abilities_intelligence_histoire.md).
 
 **Outils maîtrisés :** Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.
 

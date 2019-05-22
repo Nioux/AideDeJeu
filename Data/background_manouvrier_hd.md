@@ -13,7 +13,7 @@ Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et vo
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Athlétisme], [Escamotage].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Athlétisme], [Escamotage].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.<!--/MasteredTools-->
 
@@ -156,7 +156,7 @@ Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes t
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Athlétisme], [Représentation].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Athlétisme], [Représentation].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Ustensiles de cuisinier ou un type de jeu au choix.<!--/MasteredTools-->
 
@@ -188,7 +188,7 @@ Les journaliers proposent leurs services dans les villages et les campagnes. Ils
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Athlétisme], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Athlétisme], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.<!--/MasteredTools-->
 
@@ -197,3 +197,8 @@ Les journaliers proposent leurs services dans les villages et les campagnes. Ils
 <!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
+
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Escamotage]: abilities_dexterity_hd.md#escamotage
+[Représentation]: abilities_charisma_hd.md#représentation
+[Survie]: abilities_wisdom_hd.md#survie

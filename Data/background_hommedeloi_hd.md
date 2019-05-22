@@ -15,7 +15,7 @@ Quand vous sélectionnez cet historique, décidez, en accord avec votre MJ, de q
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Investigation] ou [Persuasion], [Perspicacité].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Investigation] ou [Persuasion], [Perspicacité].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel de calligraphie, véhicules (terrestres).<!--/MasteredTools-->
 
@@ -133,7 +133,7 @@ Vous représentez l'autorité de votre clergé. Parfois enquêteur, parfois juge
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Intimidation], [Religion].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Intimidation], [Religion].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel de calligraphie.<!--/MasteredTools-->
 
@@ -153,7 +153,7 @@ Quand on veut retrouver la trace d'un homme ou élucider une affaire particuliè
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Investigation] ou [Perspicacité], [Supercherie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Investigation] ou [Perspicacité], [Supercherie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement, outils de voleur.<!--/MasteredTools-->
 
@@ -183,7 +183,7 @@ Toujours sur les routes, vous êtes dépêché afin de venir en aide aux communa
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Perspicacité], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Perspicacité], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
@@ -194,3 +194,11 @@ Toujours sur les routes, vous êtes dépêché afin de venir en aide aux communa
 <!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
+
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Investigation]: abilities_intelligence_hd.md#investigation
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Religion]: abilities_intelligence_hd.md#religion
+[Supercherie]: abilities_charisma_hd.md#supercherie
+[Survie]: abilities_wisdom_hd.md#survie

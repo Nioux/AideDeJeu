@@ -6,7 +6,7 @@
 
 Quand on veut retrouver la trace d'un homme ou élucider une affaire particulière, c'est vous que l'on dépêche. Vous savez évoluer entre deux mondes, connaissez les codes des bas-fonds, et avez appris à vous faire discret.
 
-**Compétences :** Investigation ou Perspicacité, Supercherie.
+**Compétences :** [Investigation](hd_abilities_intelligence_investigation.md) ou [Perspicacité](hd_abilities_wisdom_perspicacite.md), [Supercherie](hd_abilities_charisma_supercherie.md).
 
 **Outils maîtrisés :** Accessoires de déguisement, outils de voleur.
 

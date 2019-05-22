@@ -6,7 +6,7 @@
 
 Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait votre gagne-pain de les délester un peu de leurs richesses pour les revendre, empochant au passage une jolie commission.
 
-**Compétences :** Acrobaties ou Athlétisme, Discrétion.
+**Compétences :** [Acrobaties](hd_abilities_dexterity_acrobaties.md) ou [Athlétisme](hd_abilities_strength_athletisme.md), [Discrétion](hd_abilities_dexterity_discretion.md).
 
 **Outils maîtrisés :** Outils de voleur, accessoires de déguisement.
 

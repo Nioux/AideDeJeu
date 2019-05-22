@@ -6,7 +6,7 @@
 
 Les bandits vivent en marge des principaux axes de communication, et s'en prennent en bande aux voyageurs et aux commerçants, qu'ils détroussent en un tournemain avant de se réfugier dans des repaires isolés et difficiles d'accès.
 
-**Compétences :** Intimidation, Survie.
+**Compétences :** [Intimidation](hd_abilities_charisma_intimidation.md), [Survie](hd_abilities_wisdom_survie.md).
 
 **Outils maîtrisés :** Véhicules (terrestres).
 

@@ -13,7 +13,7 @@ Vous avez vécu toute votre vie sur les routes. Vous n'avez connu que la vie nom
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Représentation], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Représentation], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
@@ -133,7 +133,7 @@ Vous avez fait votre vie en voyageant de communauté en communauté et en vendan
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Persuasion], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Persuasion], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
@@ -153,7 +153,7 @@ On vous a toujours regardé de travers. Vous avez vécu toute votre vie au sein 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Deux au choix parmi [Intimidation], [Représentation], [Supercherie].<!--/Abilities-->
+**Compétences :** <!--Skills-->Deux au choix parmi [Intimidation], [Représentation], [Supercherie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), instrument de musique au choix.<!--/MasteredTools-->
 
@@ -171,7 +171,7 @@ Le spectacle est votre vie. Que vous ayez fait partie d'une troupe ou que vous a
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->Une compétence dépendant de la [spécialité], [Représentation].<!--/Abilities-->
+**Compétences :** <!--Skills-->Une compétence dépendant de la [spécialité], [Représentation].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique au choix, véhicules (terrestres).<!--/MasteredTools-->
 
@@ -219,3 +219,15 @@ Votre art vous apporte bien des inconvénients, mais il a aussi ses bénéfices.
 <!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
+
+[Acrobaties]: abilities_dexterity_hd.md#acrobaties
+[Dressage]: abilities_wisdom_hd.md#dressage
+[Escamotage]: abilities_dexterity_hd.md#escamotage
+[Histoire]: abilities_intelligence_hd.md#histoire
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Religion]: abilities_intelligence_hd.md#religion
+[Représentation]: abilities_charisma_hd.md#représentation
+[Supercherie]: abilities_charisma_hd.md#supercherie
+[Survie]: abilities_wisdom_hd.md#survie

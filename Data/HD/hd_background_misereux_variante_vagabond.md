@@ -6,7 +6,7 @@
 
 Vous avez choisi de quitter les villes et de vivre votre errance dans la nature, en quêtant votre pain quotidien de village en village, ou en vous abritant dans les ruines de fermes abandonnées.
 
-**Compétences :** Escamotage, Survie.
+**Compétences :** [Escamotage](hd_abilities_dexterity_escamotage.md), [Survie](hd_abilities_wisdom_survie.md).
 
 **Outils maîtrisés :** Matériel d'herboriste.
 

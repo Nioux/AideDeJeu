@@ -13,7 +13,7 @@ Vous avez mis vos simples talents au service d'un personnage illustre ou d'un no
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Discrétion], [Perspicacité].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Discrétion], [Perspicacité].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Outils de tisserand.<!--/MasteredTools-->
 
@@ -158,7 +158,7 @@ Vous avez trimé pendant de longues années en cuisine. D'abord simple commis, v
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Discrétion], [Perspicacité].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Discrétion], [Perspicacité].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Ustensiles de cuisinier.<!--/MasteredTools-->
 
@@ -190,7 +190,7 @@ Dans une maisonnée, un palefrenier est le petit seigneur des écuries. Il se ch
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Dressage], [Perspicacité].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Dressage], [Perspicacité].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), outils de tanneur.<!--/MasteredTools-->
 
@@ -208,7 +208,7 @@ Vous aviez été engagé pour veiller à l'éducation des enfants de la maisonn�
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Histoire], [Perspicacité].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Histoire], [Perspicacité].<!--/Skills-->
 
 **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 
@@ -217,3 +217,8 @@ Vous aviez été engagé pour veiller à l'éducation des enfants de la maisonn�
 <!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
+
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Dressage]: abilities_wisdom_hd.md#dressage
+[Histoire]: abilities_intelligence_hd.md#histoire
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité

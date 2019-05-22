@@ -6,7 +6,7 @@
 
 Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isolé, à reconnaître les plantes et leurs propriétés parfois miraculeuses. Vous avez vite compris la valeur de votre savoir. Vous avez toujours eu un rôle-clef dans la vie du clan, à la fois médical et spirituel.
 
-**Compétences :** Médecine, Nature.
+**Compétences :** [Médecine](hd_abilities_wisdom_medecine.md), [Nature](hd_abilities_intelligence_nature.md).
 
 **Outils maîtrisés :** Matériel d'herboriste.
 

@@ -13,7 +13,7 @@ Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en m
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Discrétion], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Discrétion], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
@@ -158,7 +158,7 @@ Les bandits vivent en marge des principaux axes de communication, et s'en prenne
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Intimidation], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Intimidation], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
@@ -178,7 +178,7 @@ Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Supercherie], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Supercherie], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, un ensemble d'outils d'artisan au choix, vestiges de sa vie passée.<!--/MasteredTools-->
 
@@ -196,7 +196,7 @@ Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se r
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Athlétisme], [Supercherie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Athlétisme], [Supercherie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Instruments de navigation, véhicules (marins).<!--/MasteredTools-->
 
@@ -218,3 +218,8 @@ Vous appartenez à une confrérie universelle qui possède ses propres usages et
 
 <!--/BackgroundItem-->
 
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Supercherie]: abilities_charisma_hd.md#supercherie
+[Survie]: abilities_wisdom_hd.md#survie

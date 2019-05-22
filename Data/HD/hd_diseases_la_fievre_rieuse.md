@@ -8,7 +8,7 @@ Cette maladie touche les humanoïdes, bien que les gnomes soient étonnamment im
 
 Les symptômes se manifestent 1d4 heures après la contamination et comprennent de la fièvre et un sentiment de désorientation. Le malade gagne un niveau d'épuisement dont il ne peut pas se débarrasser tant qu'il n'est pas guéri.
 
-Tout événement qui génère un stress important chez le malade (comme entrer en combat, subir des dégâts, ressentir de la frayeur, faire un cauchemar) l'oblige à faire un jet de sauvegarde de Constitution DD 13. S'il échoue, il subit 5 (1d10) dégâts psychiques et il est [neutralisé] pendant 1 minute tant il rit. Le malade peut refaire le jet de sauvegarde à la fin de chacun de ses tours. S'il réussit, il maîtrise ses éclats de rire déments et n'est plus [neutralisé].
+Tout événement qui génère un stress important chez le malade (comme entrer en combat, subir des dégâts, ressentir de la frayeur, faire un cauchemar) l'oblige à faire un jet de sauvegarde de Constitution DD 13. S'il échoue, il subit 5 (1d10) dégâts psychiques et il est [neutralisé](hd_conditions_neutralise.md) pendant 1 minute tant il rit. Le malade peut refaire le jet de sauvegarde à la fin de chacun de ses tours. S'il réussit, il maîtrise ses éclats de rire déments et n'est plus [neutralisé](hd_conditions_neutralise.md).
 
 Toute créature humanoïde qui débute son tour dans un rayon de 3 mètres autour d'un malade en pleine crise de rire doit réussir un jet de sauvegarde de Constitution DD 10, sans quoi il est contaminé à son tour. Une fois qu'une créature a réussi son jet de sauvegarde, elle est immunisée contre les rires déments de ce malade particulier pendant 24 heures.
 

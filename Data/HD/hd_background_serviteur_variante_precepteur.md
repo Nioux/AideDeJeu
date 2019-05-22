@@ -6,7 +6,7 @@
 
 Vous aviez été engagé pour veiller à l'éducation des enfants de la maisonnée. Votre principale relation s'est nouée pendant l'enfance et l'adolescence des jeunes seigneurs. Devenus adultes, ils se souviennent souvent avec émotion des professeurs qui ont guidé leur apprentissage.
 
-**Compétences :** Histoire, Perspicacité.
+**Compétences :** [Histoire](hd_abilities_intelligence_histoire.md), [Perspicacité](hd_abilities_wisdom_perspicacite.md).
 
 **Langues maîtrisées :** Deux langues au choix.
 

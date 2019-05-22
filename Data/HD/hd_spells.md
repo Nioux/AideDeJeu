@@ -1,11 +1,13 @@
 ﻿---
 !SpellItems
+Family: SpellHD
 Classes: Barde|Clerc|Druide|Ensorceleur|Magicien|Ombrelame|Paladin|Rôdeur|Sorcier
 Levels: Sorts mineurs|Niveau 1|Niveau 2|Niveau 3|Niveau 4|Niveau 5|Niveau 6|Niveau 7|Niveau 8|Niveau 9
 Schools: Abjuration|Divination|Enchantement|Évocation|Illusion|Invocation|Nécromancie|Transmutation
 Rituals: Rituel
 Sources: SRD|MDR
-Family: SpellHD
+Name: Sorts
+AltName: '[Spells](srd_spells.md)'
 SubItems:
 - !SpellItem
   Name: Agrandir/rétrécir
@@ -42671,10 +42673,8 @@ SubItems:
 Id: spells_hd.md#sorts
 RootId: spells_hd.md
 ParentLink: index.md
-Name: Sorts
 ParentName: Manuel des règles
 NameLevel: 1
-AltName: '[Spells](srd_spells.md)'
 AttributesDictionary: >+
   ParentNameLink: '[Manuel des règles](index.md)'
 

@@ -13,7 +13,7 @@ Vous appartenez à une guilde, une caste ou un groupe relativement fermé de per
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Perspicacité], [Persuasion].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Perspicacité], [Persuasion].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un ensemble d'outils d'artisan au choix.<!--/MasteredTools-->
 
@@ -148,7 +148,7 @@ Les artisans sont le coeur et l'âme de la plupart des guildes. Ils sont souvent
 
 <!--/Table-->
 
-**Compétences :** <!--Abilities-->[Athlétisme], [Perspicacité].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Athlétisme], [Perspicacité].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix.<!--/MasteredTools-->
 
@@ -166,7 +166,7 @@ Tous les royaumes, tous les États abritent en leur sein la lie de la civilisati
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Discrétion], [Investigation] ou [Perspicacité].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Discrétion], [Investigation] ou [Perspicacité].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel d'empoisonneur.<!--/MasteredTools-->
 
@@ -213,7 +213,7 @@ Les commerçants forment la colonne vertébrale de la vie urbaine médiévale, e
 
 <!--/Table-->
 
-**Compétences :** <!--Abilities-->[Perspicacité], [Persuasion].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Perspicacité], [Persuasion].<!--/Skills-->
 
 **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 
@@ -222,3 +222,9 @@ Les commerçants forment la colonne vertébrale de la vie urbaine médiévale, e
 <!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
+
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Investigation]: abilities_intelligence_hd.md#investigation
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Persuasion]: abilities_charisma_hd.md#persuasion

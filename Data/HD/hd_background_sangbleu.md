@@ -9,7 +9,7 @@ Vous faites partie de la noblesse. Derniers fils d'une longue lignée, noble san
 
 En choisissant cet historique, vous devrez consulter votre MJ afin de créer votre lignée. Vous devrez décider de votre titre, de votre rang, de son sens dans la contrée dans laquelle vous êtes né. Vous devrez déterminer si votre personnage est l'héritier direct de son titre et quel pouvoir il lui confère, ou s'il est simplement l'un des parents éloignés de la famille. Un bâtard, peut-être ? Le premier ou le dernier fils ? Vous devrez décider des armoiries de votre famille et du rayonnement de cette dernière. Plus son rayonnement sera fort, plus votre devoir sera important envers elle.
 
-**Compétences :** Histoire, Persuasion.
+**Compétences :** [Histoire](hd_abilities_intelligence_histoire.md), [Persuasion](hd_abilities_charisma_persuasion.md).
 
 **Outils maîtrisés :** Véhicules (terrestres).
 

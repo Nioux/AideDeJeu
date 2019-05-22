@@ -6,7 +6,7 @@
 
 Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes tavernes où artisans, ouvriers et autres bourgeois se rencontrent autour d'une chope et d'une assiette bien remplie. Vous avez longtemps travaillé dans ce type d'établissements, servant à boire et nettoyant les tables en écoutant les multiples histoires des clients.
 
-**Compétences :** Athlétisme, Représentation.
+**Compétences :** [Athlétisme](hd_abilities_strength_athletisme.md), [Représentation](hd_abilities_charisma_representation.md).
 
 **Outils maîtrisés :** Ustensiles de cuisinier ou un type de jeu au choix.
 

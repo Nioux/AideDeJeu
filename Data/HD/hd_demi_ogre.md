@@ -31,9 +31,9 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 
 
 
-## [Commun](hd_demi_ogre_commun.md)
+## [Demi-ogre](hd_demi_ogre.md)
 
 
 
-## [Sorcereux](hd_demi_ogre_sorcereux.md)
+## [Demi-ogre sorcereux](hd_demi_ogre_demi_ogre_sorcereux.md)
 

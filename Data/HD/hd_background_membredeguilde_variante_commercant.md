@@ -17,7 +17,7 @@ Les commerçants forment la colonne vertébrale de la vie urbaine médiévale, e
 |7|Aliments exotiques (cacao, thé, poivre, sucre, épices, etc.)|
 |8|Esclaves, contrebande, recel, produits interdits|
 
-**Compétences :** Perspicacité, Persuasion.
+**Compétences :** [Perspicacité](hd_abilities_wisdom_perspicacite.md), [Persuasion](hd_abilities_charisma_persuasion.md).
 
 **Langues maîtrisées :** Deux langues au choix.
 

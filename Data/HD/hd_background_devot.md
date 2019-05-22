@@ -12,7 +12,7 @@ Vous avez passé votre vie au service d'un temple dédié à un dieu particulier
 
 Choisissez un dieu, un panthéon de dieux ou un être semi-divin parmi la liste proposée dans l'appendice A, Panthéons historiques et fantastiques, page 414, ou par- mi ceux proposés par votre MJ, avec qui vous déterminerez la nature exacte de vos tâches religieuses. Étiezvous un petit acolyte dans la hiérarchie du temple, élevé depuis l'enfance pour assister les prêtres lors des rites sacrés ? Ou le leader d'un culte qui a soudain ressenti le besoin de servir son dieu différemment ? Peut-être étiez-vous à la tête d'un culte indépendant non affilié à un quelconque temple, ou faisiez-vous partie d'un groupe occulte au service d'un maître démoniaque que vous avez renié.
 
-**Compétences :** Perspicacité, Religion.
+**Compétences :** [Perspicacité](hd_abilities_wisdom_perspicacite.md), [Religion](hd_abilities_intelligence_religion.md).
 
 **Langues maîtrisées :** Deux langues au choix.
 

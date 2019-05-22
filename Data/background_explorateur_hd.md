@@ -13,7 +13,7 @@ Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côt
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Athlétisme], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Athlétisme], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
@@ -133,7 +133,7 @@ Vous avez employé vos dons dans un contexte militaire ou guerrier. Sans être u
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Discrétion], [Survie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Discrétion], [Survie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement.<!--/MasteredTools-->
 
@@ -153,7 +153,7 @@ Vous avez fait partie d'un équipage, voguant sur les mers et les océans à la 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Acrobaties], [Athlétisme].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Acrobaties], [Athlétisme].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (marins), ensemble d'outils au choix parmi outils de charpentier, outils de menuisier, instruments de navigation.<!--/MasteredTools-->
 
@@ -171,7 +171,7 @@ Vous erriez à la recherche des trésors, des cités perdues et de secrets enfou
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Histoire], [Investigation].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Histoire], [Investigation].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur.<!--/MasteredTools-->
 
@@ -194,3 +194,10 @@ Vous êtes capable d'évaluer en quelques secondes la valeur approximative d'un 
 <!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
+
+[Acrobaties]: abilities_dexterity_hd.md#acrobaties
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Histoire]: abilities_intelligence_hd.md#histoire
+[Investigation]: abilities_intelligence_hd.md#investigation
+[Survie]: abilities_wisdom_hd.md#survie

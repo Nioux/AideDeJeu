@@ -6,7 +6,7 @@
 
 Vous avez été membre de la garde d'une ville ou d'une cité. Votre quotidien n'était pas fait de grandes batailles et d'actes héroïques, mais bien plus souvent de citoyens avinés, de mendiants, de voleurs, de marchands mécontents et autres charlatans en tous genres.
 
-**Compétences :** Intimidation, Perspicacité.
+**Compétences :** [Intimidation](hd_abilities_charisma_intimidation.md), [Perspicacité](hd_abilities_wisdom_perspicacite.md).
 
 **Outils maîtrisés :** Un type de jeu au choix.
 

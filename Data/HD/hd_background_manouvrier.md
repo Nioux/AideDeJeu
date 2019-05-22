@@ -7,7 +7,7 @@
 
 Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et votre endurance. Vous arpentiez les rues de votre cité en vous levant à l'aube, afin de vendre vos services à la journée, parfois pour quelques jours. Votre vie n'a pas toujours été simple, et vous avez souvent flirté avec la mendicité ou la délinquance pour gagner votre pain. Par un coup de pouce du hasard, vous avez pu échapper à cette vie. Vous en concevez une volonté inébranlable et la conscience aiguë d'une main invisible qui veille sur votre destinée.
 
-**Compétences :** Athlétisme, Escamotage.
+**Compétences :** [Athlétisme](hd_abilities_strength_athletisme.md), [Escamotage](hd_abilities_dexterity_escamotage.md).
 
 **Outils maîtrisés :** Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.
 

@@ -13,7 +13,7 @@ Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Escamotage], [Intimidation].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Escamotage], [Intimidation].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, un type de jeu au choix.<!--/MasteredTools-->
 
@@ -131,7 +131,7 @@ Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait 
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Acrobaties] ou [Athlétisme], [Discrétion].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Acrobaties] ou [Athlétisme], [Discrétion].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, accessoires de déguisement.<!--/MasteredTools-->
 
@@ -149,7 +149,7 @@ Vous avez très vite compris que les gens étaient crédules. Et quel mal y a-t-
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Persuasion], [Supercherie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Persuasion], [Supercherie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux au choix parmi un type de jeu, accessoires de faussaire, accessoires de déguisement.<!--/MasteredTools-->
 
@@ -179,7 +179,7 @@ Vous avez des doigts de fée. Vous faisiez vos premiers tours de passe-passe ava
 
 <!--/Description-->
 
-**Compétences :** <!--Abilities-->[Escamotage], [Supercherie].<!--/Abilities-->
+**Compétences :** <!--Skills-->[Escamotage], [Supercherie].<!--/Skills-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement.<!--/MasteredTools-->
 
@@ -190,3 +190,11 @@ Vous avez des doigts de fée. Vous faisiez vos premiers tours de passe-passe ava
 <!--/SubBackgroundItem-->
 
 <!--/BackgroundItem-->
+
+[Acrobaties]: abilities_dexterity_hd.md#acrobaties
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Escamotage]: abilities_dexterity_hd.md#escamotage
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Supercherie]: abilities_charisma_hd.md#supercherie

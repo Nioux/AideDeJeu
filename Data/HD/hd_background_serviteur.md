@@ -7,7 +7,7 @@
 
 Vous avez mis vos simples talents au service d'un personnage illustre ou d'un notable. Né ou devenu serviteur, vous avez démontré pendant longtemps une loyauté sans faille à votre maître ou votre maîtresse, en échange de quoi elle ou il vous fournissait abri, nourriture et sécurité. Il est même possible que vous ayez développé une relation ou une affection particulière, devenant un aide de camp ou un confident. Vous vous êtes épanoui pendant longtemps dans cette vie entre deux mondes, la haute société à laquelle appartenait votre employeur et celle, plus commune, des serviteurs.
 
-**Compétences :** Discrétion, Perspicacité.
+**Compétences :** [Discrétion](hd_abilities_dexterity_discretion.md), [Perspicacité](hd_abilities_wisdom_perspicacite.md).
 
 **Outils maîtrisés :** Outils de tisserand.
 

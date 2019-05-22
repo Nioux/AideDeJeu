@@ -6,7 +6,7 @@
 
 Vous erriez à la recherche des trésors, des cités perdues et de secrets enfouis des temps anciens. Aventurier sans foi ni loi, pilleur de tombes, archéologue, vous avez été tout cela à la fois, et plus encore !
 
-**Compétences :** Histoire, Investigation.
+**Compétences :** [Histoire](hd_abilities_intelligence_histoire.md), [Investigation](hd_abilities_intelligence_investigation.md).
 
 **Outils maîtrisés :** Outils de voleur.
 

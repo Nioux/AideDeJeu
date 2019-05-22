@@ -7,7 +7,7 @@
 
 Vous avez toujours vécu seul. Loin des cités, loin des villages et des hameaux, vous ne vous êtes jamais vraiment mêlé à la population. Vous n'appréciez pas les foules, vous vous sentez bien dans la solitude. Vous n'avez pas peur de vous retrouver seul : c'est là que vous pouvez réellement être vous-même, loin du jugement et des peurs des autres. Ou peut-être avez-vous simplement décidé de vous exiler afin de méditer et de découvrir les secrets de l'univers.
 
-**Compétences :** Nature, Survie.
+**Compétences :** [Nature](hd_abilities_intelligence_nature.md), [Survie](hd_abilities_wisdom_survie.md).
 
 **Outils maîtrisés :** Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.
 
