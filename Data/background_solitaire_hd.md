@@ -13,13 +13,13 @@ Vous avez toujours vécu seul. Loin des cités, loin des villages et des hameaux
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Nature], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Nature], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Besoin de personne<!--/Name-->
 
@@ -29,7 +29,7 @@ Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un a
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -131,13 +131,13 @@ Quelle qu'en soit la raison, vous avez décidé de vous retirer du monde. Vous v
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Perspicacité] ou [Survie], [Religion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Perspicacité] ou [Survie], [Religion].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier. Vous pouvez remplacer l'un de ces outils par un instrument de musique rituel ou du matériel d'herboriste.<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Habits courants, ensemble d'outils ou instrument de musique parmi ceux maîtrisés, 5 bâtons d'encens, bourse contenant 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Révélation<!--/Name-->
 
@@ -147,7 +147,7 @@ Vous avez eu une révélation. Votre vie solitaire et votre méditation vous ont
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 
@@ -161,7 +161,7 @@ Votre vie n'est que voyage et isolement. Vous passez de communauté en communaut
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Athlétisme], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
@@ -179,7 +179,7 @@ Vous vivez de la chasse. La plupart du temps vous êtes seul, dans votre cabane 
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Discrétion], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Discrétion], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu, un ensemble d'outils d'artisans au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.<!--/MasteredTools-->
 

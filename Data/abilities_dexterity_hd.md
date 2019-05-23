@@ -20,29 +20,41 @@ Un test de Dextérité peut être fait pour tester toutes vos tentatives de vous
 
 <!--/GenericItem-->
 
-<!--GenericItem-->
+<!--SkillItem-->
 
 ### <!--Name-->Acrobaties<!--/Name-->
 
+<!--Description-->
+
 Les tests de Dextérité (Acrobaties) servent à déterminer si vous restez sur vos pieds dans une situation délicate, comme quand vous tentez de courir sur une plaque de verglas ou de garder l'équilibre sur une corde tendue ou sur le pont d'un bateau en train de tanguer. Le MJ peut aussi vous demander de faire un test de Dextérité (Acrobaties) pour voir si vous pouvez réaliser des cascades acrobatiques comme des plongeons, des roulades, des sauts périlleux et des saltos.
 
-<!--/GenericItem-->
+<!--/Description-->
 
-<!--GenericItem-->
+<!--/SkillItem-->
+
+<!--SkillItem-->
 
 ### <!--Name-->Discrétion<!--/Name-->
 
+<!--Description-->
+
 Faites un test de [Dextérité (Discrétion)] quand vous tentez de vous cacher à l'approche de vos ennemis, de vous faufiler discrètement à côté de gardes, de quitter un endroit sans vous faire remarquer ou de vous approcher de quelqu'un sans vous faire voir ou entendre.
 
-<!--/GenericItem-->
+<!--/Description-->
 
-<!--GenericItem-->
+<!--/SkillItem-->
+
+<!--SkillItem-->
 
 ### <!--Name-->Escamotage<!--/Name-->
 
+<!--Description-->
+
 Quand vous tentez de réaliser un tour de passe-passe, comme cacher un objet sur quelqu'un ou dissimuler un objet sur votre personne, vous devez faire un test de Dextérité (Escamotage). Le MJ peut aussi demander un test de Dextérité (Escamotage) pour déterminer si vous arrivez à voler la bourse d'une autre personne ou lui glisser quelque chose dans la poche.
 
-<!--/GenericItem-->
+<!--/Description-->
+
+<!--/SkillItem-->
 
 <!--GenericItem-->
 

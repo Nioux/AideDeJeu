@@ -769,7 +769,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
-                    var list = await context.Skills.Where(it => it.ParentLink == background.Id).ToListAsync().ConfigureAwait(false);
+                    var list = await context.Features.Where(it => it.ParentLink == background.Id).ToListAsync().ConfigureAwait(false);
                     var item = list.FirstOrDefault();
                     return item;
                 }

@@ -13,7 +13,7 @@ Vous avez passé une large part de votre jeunesse le nez dans des parchemins et 
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Arcanes], [Histoire].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Arcanes], [Histoire].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.<!--/MasteredTools-->
 
@@ -46,7 +46,7 @@ Vous avez une affinité pour un sujet d'études en particulier, ce qui vous a am
 
 <!--/BackgroundSpecialtyItem-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Culture générale<!--/Name-->
 
@@ -56,7 +56,7 @@ Même si vous avez une spécialité, vous avez dû appréhender de multiples suj
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -157,13 +157,13 @@ Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages e
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Histoire] ou [Religion], [Persuasion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Histoire] ou [Religion], [Persuasion].<!--/SkillProficiencies-->
 
 **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 
 **Équipement :** <!--Equipment-->Habits de bonne qualité, symbole ou emblème attestant de votre charge ou vos compétences, étui à parchemins avec 10 feuilles, plume et encre, bourse contenant 20 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Rouages de la justice<!--/Name-->
 
@@ -173,7 +173,7 @@ Vous connaissez les rouages de la justice telle qu'elle est pratiquée dans votr
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 
@@ -187,7 +187,7 @@ Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Médecine], [Nature].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Médecine], [Nature].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste, matériel d'empoisonneur.<!--/MasteredTools-->
 
@@ -205,7 +205,7 @@ Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de fa
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Nature], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Nature], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), matériel d'herboriste.<!--/MasteredTools-->
 

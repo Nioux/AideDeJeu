@@ -675,7 +675,7 @@ namespace AideDeJeu.ViewModels
             public DbSet<PersonalityIdealItem> PersonalityIdeals { get; set; }
             public DbSet<PersonalityLinkItem> PersonalityLinks { get; set; }
             public DbSet<PersonalityDefectItem> PersonalityDefects { get; set; }
-            public DbSet<SkillItem> Skills { get; set; }
+            public DbSet<FeatureItem> Features { get; set; }
             public DbSet<BackgroundSpecialtyItem> BackgroundSpecialties { get; set; }
 
 

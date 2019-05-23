@@ -15,7 +15,7 @@ En choisissant cet historique, vous devrez consulter votre MJ afin de créer vot
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Histoire], [Persuasion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Histoire], [Persuasion].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
@@ -23,7 +23,7 @@ En choisissant cet historique, vous devrez consulter votre MJ afin de créer vot
 
 **Équipement :** <!--Equipment-->Habits de bonne qualité, monture, chevalière portant le sceau familial, bourse contenant 20 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : De la haute<!--/Name-->
 
@@ -33,7 +33,7 @@ Vous êtes à l'aise dans les cercles de la haute société, et votre statut est
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -135,13 +135,13 @@ Vous n'êtes pas vraiment un noble, ou pas complètement. Vous ne possédez pas 
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Histoire], [Supercherie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Histoire], [Supercherie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un ensemble d'outils d'artisan au choix.<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Ni noble, ni homme du peuple<!--/Name-->
 
@@ -151,7 +151,7 @@ Vous êtes à l'aise auprès des gens du peuple, et savez comment vous faire pas
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 
@@ -165,7 +165,7 @@ Vous êtes membre d'une ancienne lignée issue des familles qui fondèrent le ro
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Athlétisme] ou [Dressage], [Histoire].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme] ou [Dressage], [Histoire].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
@@ -185,7 +185,7 @@ Votre famille n'a pas toujours été noble. L'un de vos ancêtres a acquis ce st
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Histoire], [Perspicacité] ou [Persuasion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Histoire], [Perspicacité] ou [Persuasion].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique au choix, un ensemble d'outils d'artisan au choix parmi matériel d'alchimiste, outils de cartographe, matériel de peintre et outils de tisserand.<!--/MasteredTools-->
 

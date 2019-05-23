@@ -13,7 +13,7 @@ Vous avez mis vos simples talents au service d'un personnage illustre ou d'un no
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Discrétion], [Perspicacité].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Discrétion], [Perspicacité].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Outils de tisserand.<!--/MasteredTools-->
 
@@ -46,7 +46,7 @@ Les serviteurs tirent une grande fierté de l'origine et de la classe sociale de
 
 <!--/BackgroundSpecialtyItem-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Domesticité<!--/Name-->
 
@@ -56,7 +56,7 @@ Vous avez l'habitude du fonctionnement général des maisons avec domestiques. D
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -158,7 +158,7 @@ Vous avez trimé pendant de longues années en cuisine. D'abord simple commis, v
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Discrétion], [Perspicacité].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Discrétion], [Perspicacité].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Ustensiles de cuisinier.<!--/MasteredTools-->
 
@@ -166,7 +166,7 @@ Vous avez trimé pendant de longues années en cuisine. D'abord simple commis, v
 
 **Équipement :** <!--Equipment-->Habits courants, ustensiles de cuisinier, colifichet signe de l'affection que vous portait votre employeur, outre de bon vin, bourse contenant 15 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Réconfort du foyer<!--/Name-->
 
@@ -176,7 +176,7 @@ Vous avez trimé pendant de longues années en cuisine. D'abord simple commis, v
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 
@@ -190,7 +190,7 @@ Dans une maisonnée, un palefrenier est le petit seigneur des écuries. Il se ch
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Dressage], [Perspicacité].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Dressage], [Perspicacité].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), outils de tanneur.<!--/MasteredTools-->
 
@@ -208,7 +208,7 @@ Vous aviez été engagé pour veiller à l'éducation des enfants de la maisonn�
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Histoire], [Perspicacité].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Histoire], [Perspicacité].<!--/SkillProficiencies-->
 
 **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 

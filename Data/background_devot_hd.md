@@ -18,13 +18,13 @@ Choisissez un dieu, un panthéon de dieux ou un être semi-divin parmi la liste 
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Perspicacité], [Religion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Perspicacité], [Religion].<!--/SkillProficiencies-->
 
 **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 
 **Équipement :** <!--Equipment-->Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, habits courants, bourse contenant 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Refuge du pèlerin<!--/Name-->
 
@@ -39,7 +39,7 @@ Vous pouvez être lié à un temple spécifique dédié à votre déité ou votr
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -156,7 +156,7 @@ Que vous viviez ou non au temple, vous faites partie de la hiérarchie de votre 
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Investigation], [Religion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Investigation], [Religion].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique (utilisé dans les cérémonies de votre religion) ou un ensemble d'outils d'artisan.<!--/MasteredTools-->
 
@@ -176,7 +176,7 @@ La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vou
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Religion], [Représentation].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Religion], [Représentation].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
@@ -196,13 +196,13 @@ Vous avez eu une autre vie, avant. Mais vous avez trouvé le salut dans un templ
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Religion], [Supercherie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Religion], [Supercherie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement, Véhicules (terrestres).<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, habits courants, bourse contenant 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Ancienne vie<!--/Name-->
 
@@ -212,7 +212,7 @@ Vous étiez autre chose, avant. En plus de l'aptitude de dévot, choisissez l'ap
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 

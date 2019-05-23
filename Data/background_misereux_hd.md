@@ -13,13 +13,13 @@ Vous êtes issu de la classe sociale la plus basse, de ce qui est considéré pa
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Discrétion], [Escamotage].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Discrétion], [Escamotage].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, outils de voleur.<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Refuge<!--/Name-->
 
@@ -29,7 +29,7 @@ Vous avez une connaissance intime des zones urbaines, qui vous permet de dénich
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -131,7 +131,7 @@ Vous avez vécu de la maigre charité des citadins et, pour accroître vos chanc
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Escamotage], [Supercherie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Escamotage], [Supercherie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique (parmi tambours, flûte, chalumeau), un type de jeu au choix.<!--/MasteredTools-->
 
@@ -149,13 +149,13 @@ Votre jeunesse s'est déroulée dans un orphelinat pauvre, ou parmi une bande de
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Acrobaties] ou [Discrétion], [Escamotage].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Acrobaties] ou [Discrétion], [Escamotage].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, accessoires de déguisement.<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Habits courants, paquet de cartes ou dés, quelques chausse-trappes, colifichet vous rappelant votre enfance et – si vous les avez connus – vos parents, bourse contenant 5 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Mouches des rues<!--/Name-->
 
@@ -165,7 +165,7 @@ Vous avez une connexion particulière avec les gamins des rues qui traînent dan
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 
@@ -179,7 +179,7 @@ Vous avez choisi de quitter les villes et de vivre votre errance dans la nature,
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Escamotage], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Escamotage], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste.<!--/MasteredTools-->
 

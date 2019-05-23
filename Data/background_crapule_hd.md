@@ -13,13 +13,13 @@ Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le 
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Escamotage], [Intimidation].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Escamotage], [Intimidation].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, un type de jeu au choix.<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Enfant de la rue<!--/Name-->
 
@@ -29,7 +29,7 @@ Vous avez toujours évolué dans les rues des bas-fonds. Vous avez l'oeil, vous 
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -131,7 +131,7 @@ Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait 
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Acrobaties] ou [Athlétisme], [Discrétion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Acrobaties] ou [Athlétisme], [Discrétion].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur, accessoires de déguisement.<!--/MasteredTools-->
 
@@ -149,13 +149,13 @@ Vous avez très vite compris que les gens étaient crédules. Et quel mal y a-t-
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Persuasion], [Supercherie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Persuasion], [Supercherie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux au choix parmi un type de jeu, accessoires de faussaire, accessoires de déguisement.<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Accessoires de faussaire ou jeu, deux ensembles de d'habits courants, bourse contenant 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Fausse identité<!--/Name-->
 
@@ -165,7 +165,7 @@ Vous disposez d'une seconde identité afin d'éviter que l'on puisse vous retrou
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 
@@ -179,7 +179,7 @@ Vous avez des doigts de fée. Vous faisiez vos premiers tours de passe-passe ava
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Escamotage], [Supercherie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Escamotage], [Supercherie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement.<!--/MasteredTools-->
 

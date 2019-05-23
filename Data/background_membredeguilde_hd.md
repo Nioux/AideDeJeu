@@ -13,7 +13,7 @@ Vous appartenez à une guilde, une caste ou un groupe relativement fermé de per
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Perspicacité], [Persuasion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Perspicacité], [Persuasion].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un ensemble d'outils d'artisan au choix.<!--/MasteredTools-->
 
@@ -21,7 +21,7 @@ Vous appartenez à une guilde, une caste ou un groupe relativement fermé de per
 
 **Équipement :** <!--Equipment-->Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, outils d'artisan correspondant à votre métier, sceau de la guilde, étui avec quelques cartes terrestres ou maritimes, bourse contenant 20 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Réseau de guilde<!--/Name-->
 
@@ -31,7 +31,7 @@ En se positionnant comme intermédiaire privilégié dans une catégorie de bien
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -148,7 +148,7 @@ Les artisans sont le coeur et l'âme de la plupart des guildes. Ils sont souvent
 
 <!--/Table-->
 
-**Compétences :** <!--Skills-->[Athlétisme], [Perspicacité].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme], [Perspicacité].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Deux ensembles d'outils d'artisan au choix.<!--/MasteredTools-->
 
@@ -166,7 +166,7 @@ Tous les royaumes, tous les États abritent en leur sein la lie de la civilisati
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Discrétion], [Investigation] ou [Perspicacité].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Discrétion], [Investigation] ou [Perspicacité].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel d'empoisonneur.<!--/MasteredTools-->
 
@@ -174,7 +174,7 @@ Tous les royaumes, tous les États abritent en leur sein la lie de la civilisati
 
 **Équipement :** <!--Equipment-->Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Marque de la mort<!--/Name-->
 
@@ -184,7 +184,7 @@ Par le truchement de votre guilde, vous savez avec qui prendre contact dans la p
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 
@@ -213,7 +213,7 @@ Les commerçants forment la colonne vertébrale de la vie urbaine médiévale, e
 
 <!--/Table-->
 
-**Compétences :** <!--Skills-->[Perspicacité], [Persuasion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Perspicacité], [Persuasion].<!--/SkillProficiencies-->
 
 **Langues maîtrisées :** <!--MasteredLanguages-->Deux langues au choix.<!--/MasteredLanguages-->
 

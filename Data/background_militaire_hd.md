@@ -13,7 +13,7 @@ Conscrit, soldat de métier ou milicien, vous avez passé une large part de votr
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Athlétisme], [Intimidation].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme], [Intimidation].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
@@ -44,7 +44,7 @@ Vous avez passé une large part de votre temps dans une unité en particulier. �
 
 <!--/BackgroundSpecialtyItem-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Frères d'armes<!--/Name-->
 
@@ -54,7 +54,7 @@ Vous avez une longue pratique des codes et du vocabulaire soldatesque, et vous s
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -156,7 +156,7 @@ Vous avez été membre de la garde d'une ville ou d'une cité. Votre quotidien n
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Intimidation], [Perspicacité].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Intimidation], [Perspicacité].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix.<!--/MasteredTools-->
 
@@ -176,7 +176,7 @@ Vous avez fait partie d'une compagnie de mercenaires vendant ses services au plu
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Athlétisme], [Supercherie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme], [Supercherie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
@@ -194,7 +194,7 @@ Par votre courage ou un hasard des événements, à force de ténacité aussi, v
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Athlétisme] ou [Dressage], [Persuasion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme] ou [Dressage], [Persuasion].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
@@ -202,7 +202,7 @@ Par votre courage ou un hasard des événements, à force de ténacité aussi, v
 
 **Équipement :** <!--Equipment-->Monture, habits de bonne qualité, insigne ou emblème de votre unité et de votre rang, bourse contenant 15 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Position d'autorité<!--/Name-->
 
@@ -212,7 +212,7 @@ Les soldats « amis » reconnaissent votre autorité et votre expérience, et on
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 

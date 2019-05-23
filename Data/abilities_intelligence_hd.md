@@ -20,45 +20,65 @@ Un test d'Intelligence intervient quand vous devez faire appel à la logique, à
 
 <!--/GenericItem-->
 
-<!--GenericItem-->
+<!--SkillItem-->
 
 ### <!--Name-->Arcanes<!--/Name-->
 
+<!--Description-->
+
 Un test d'Intelligence (Arcanes) permet de déterminer votre capacité à vous remémorer vos connaissances concernant les sorts, les objets magiques, les symboles mystiques, les traditions magiques, les plans d'existence et les habitants de ces plans.
 
-<!--/GenericItem-->
+<!--/Description-->
 
-<!--GenericItem-->
+<!--/SkillItem-->
+
+<!--SkillItem-->
 
 ### <!--Name-->Histoire<!--/Name-->
 
+<!--Description-->
+
 Un test d'Intelligence (Histoire) permet de mesurer votre capacité à vous remémorer vos connaissances concernant les événements historiques, les personnages de légende, les royaumes antiques, les conflits passés, les guerres récentes et les civilisations perdues.
 
-<!--/GenericItem-->
+<!--/Description-->
 
-<!--GenericItem-->
+<!--/SkillItem-->
+
+<!--SkillItem-->
 
 ### <!--Name-->Investigation<!--/Name-->
 
+<!--Description-->
+
 Faites un test d'Intelligence (Investigation) quand vous cherchez des indices dans votre environnement. Si vous réussissez, vous pouvez deviner où un objet a été caché, déduire de l'apparence d'une blessure l'objet qui l'a causée ou, dans un tunnel, déterminer quel point faible pourrait permettre de le faire s'effondrer. Vous pouvez aussi faire un test d'Intelligence (Investigation) quand vous lisez des parchemins antiques afin d'y découvrir une information dissimulée.
 
-<!--/GenericItem-->
+<!--/Description-->
 
-<!--GenericItem-->
+<!--/SkillItem-->
+
+<!--SkillItem-->
 
 ### <!--Name-->Nature<!--/Name-->
 
+<!--Description-->
+
 Un test d'Intelligence (Nature) permet de mesurer votre capacité à vous remémorer vos connaissances des différents terrains, de la faune et de la flore, du climat et des cycles naturels.
 
-<!--/GenericItem-->
+<!--/Description-->
 
-<!--GenericItem-->
+<!--/SkillItem-->
+
+<!--SkillItem-->
 
 ### <!--Name-->Religion<!--/Name-->
 
+<!--Description-->
+
 Un test d'Intelligence (Religion) permet de mesurer votre capacité à vous remémorer vos connaissances relatives aux déités, rites, prières, clergés, symboles sacrés et les pratiques des cultes secrets.
 
-<!--/GenericItem-->
+<!--/Description-->
+
+<!--/SkillItem-->
 
 <!--GenericItem-->
 

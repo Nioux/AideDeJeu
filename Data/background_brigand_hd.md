@@ -13,7 +13,7 @@ Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en m
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Discrétion], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Discrétion], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un type de jeu au choix.<!--/MasteredTools-->
 
@@ -46,7 +46,7 @@ Vous avez une affinité avec un milieu naturel en particulier, où vous avez vé
 
 <!--/BackgroundSpecialtyItem-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Signes de piste<!--/Name-->
 
@@ -56,7 +56,7 @@ Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lir
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -158,7 +158,7 @@ Les bandits vivent en marge des principaux axes de communication, et s'en prenne
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Intimidation], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Intimidation], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
@@ -178,7 +178,7 @@ Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Supercherie], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Supercherie], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, un ensemble d'outils d'artisan au choix, vestiges de sa vie passée.<!--/MasteredTools-->
 
@@ -196,13 +196,13 @@ Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se r
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Athlétisme], [Supercherie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme], [Supercherie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Instruments de navigation, véhicules (marins).<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Couverture, tenue de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Confrérie<!--/Name-->
 
@@ -212,7 +212,7 @@ Vous appartenez à une confrérie universelle qui possède ses propres usages et
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 

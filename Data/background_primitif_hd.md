@@ -15,7 +15,7 @@ Vous vivez au plus près de la nature, dans une certaine harmonie avec les ancie
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Dressage], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Dressage], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou un ensemble d'outils d'artisan au choix parmi outils de tanneur, de forgeron, de tisserand ou de menuisier.<!--/MasteredTools-->
 
@@ -23,7 +23,7 @@ Vous vivez au plus près de la nature, dans une certaine harmonie avec les ancie
 
 **Équipement :** <!--Equipment-->Sac contenant tente et couverture, bâton de marche, tenue de voyageur, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Fils de la nature<!--/Name-->
 
@@ -33,7 +33,7 @@ Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les 
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -135,7 +135,7 @@ Les vôtres ont toujours compté sur vous. Vous avez toujours été doué pour l
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Discrétion], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Discrétion], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, véhicules (terrestres).<!--/MasteredTools-->
 
@@ -153,13 +153,13 @@ Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre d
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Perspicacité], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Perspicacité], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un instrument de musique au choix.<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Esprit protecteur<!--/Name-->
 
@@ -169,7 +169,7 @@ Vous avez un gardien spirituel qui vous suit, invisible, et vous aide parfois. I
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 
@@ -183,7 +183,7 @@ Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isol
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Médecine], [Nature].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Médecine], [Nature].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel d'herboriste.<!--/MasteredTools-->
 

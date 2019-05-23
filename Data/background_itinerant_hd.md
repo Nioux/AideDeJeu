@@ -13,7 +13,7 @@ Vous avez vécu toute votre vie sur les routes. Vous n'avez connu que la vie nom
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Représentation], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Représentation], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
@@ -21,7 +21,7 @@ Vous avez vécu toute votre vie sur les routes. Vous n'avez connu que la vie nom
 
 **Équipement :** <!--Equipment-->Tenue de voyageur, costume ou vêtements tape-à-l'oeil, tente pour une personne et couverture, sac de voyage, bourse contenant 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Voyageur<!--/Name-->
 
@@ -31,7 +31,7 @@ Vous connaissez les coutumes des petites communautés et des villages que vous t
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -133,7 +133,7 @@ Vous avez fait votre vie en voyageant de communauté en communauté et en vendan
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Persuasion], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Persuasion], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres) ou véhicules (marins).<!--/MasteredTools-->
 
@@ -153,7 +153,7 @@ On vous a toujours regardé de travers. Vous avez vécu toute votre vie au sein 
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->Deux au choix parmi [Intimidation], [Représentation], [Supercherie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->Deux au choix parmi [Intimidation], [Représentation], [Supercherie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), instrument de musique au choix.<!--/MasteredTools-->
 
@@ -171,7 +171,7 @@ Le spectacle est votre vie. Que vous ayez fait partie d'une troupe ou que vous a
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->Une compétence dépendant de la [spécialité], [Représentation].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->Une compétence dépendant de la [spécialité], [Représentation].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un instrument de musique au choix, véhicules (terrestres).<!--/MasteredTools-->
 
@@ -204,7 +204,7 @@ Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner vo
 
 <!--/BackgroundSpecialtyItem-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Spectacle ambulant<!--/Name-->
 
@@ -214,7 +214,7 @@ Votre art vous apporte bien des inconvénients, mais il a aussi ses bénéfices.
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 

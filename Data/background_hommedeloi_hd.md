@@ -15,13 +15,13 @@ Quand vous sélectionnez cet historique, décidez, en accord avec votre MJ, de q
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Investigation] ou [Persuasion], [Perspicacité].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Investigation] ou [Persuasion], [Perspicacité].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel de calligraphie, véhicules (terrestres).<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Épais journal vierge pour consigner ses investigations, matériel de calligraphie, tenue de voyageur, symbole (sceau ou médaillon) représentant son office, bourse contenant 20 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Position d'autorité<!--/Name-->
 
@@ -31,7 +31,7 @@ Votre rang dans les forces de l'ordre ou dans votre communauté vous accorde des
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -133,7 +133,7 @@ Vous représentez l'autorité de votre clergé. Parfois enquêteur, parfois juge
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Intimidation], [Religion].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Intimidation], [Religion].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Matériel de calligraphie.<!--/MasteredTools-->
 
@@ -153,13 +153,13 @@ Quand on veut retrouver la trace d'un homme ou élucider une affaire particuliè
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Investigation] ou [Perspicacité], [Supercherie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Investigation] ou [Perspicacité], [Supercherie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement, outils de voleur.<!--/MasteredTools-->
 
 **Équipement :** <!--Equipment-->Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Entre deux mondes<!--/Name-->
 
@@ -169,7 +169,7 @@ Vous évoluez autant au sein des cercles officiels qu'en dehors. Cela fait que l
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 
@@ -183,7 +183,7 @@ Toujours sur les routes, vous êtes dépêché afin de venir en aide aux communa
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Perspicacité], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Perspicacité], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 

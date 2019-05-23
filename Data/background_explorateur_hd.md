@@ -13,7 +13,7 @@ Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côt
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Athlétisme], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres).<!--/MasteredTools-->
 
@@ -21,7 +21,7 @@ Votre vie a longtemps consisté à aller voir ce qui se trouvait de l'autre côt
 
 **Équipement :** <!--Equipment-->Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15 m), bourse contenant 15 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Découvreur<!--/Name-->
 
@@ -31,7 +31,7 @@ Même dans une région qui vous est inconnue, vous êtes capable de déterminer 
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -133,7 +133,7 @@ Vous avez employé vos dons dans un contexte militaire ou guerrier. Sans être u
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Discrétion], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Discrétion], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Accessoires de déguisement.<!--/MasteredTools-->
 
@@ -153,7 +153,7 @@ Vous avez fait partie d'un équipage, voguant sur les mers et les océans à la 
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Acrobaties], [Athlétisme].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Acrobaties], [Athlétisme].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (marins), ensemble d'outils au choix parmi outils de charpentier, outils de menuisier, instruments de navigation.<!--/MasteredTools-->
 
@@ -171,7 +171,7 @@ Vous erriez à la recherche des trésors, des cités perdues et de secrets enfou
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Histoire], [Investigation].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Histoire], [Investigation].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Outils de voleur.<!--/MasteredTools-->
 
@@ -179,7 +179,7 @@ Vous erriez à la recherche des trésors, des cités perdues et de secrets enfou
 
 **Équipement :** <!--Equipment-->Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Estimation<!--/Name-->
 
@@ -189,7 +189,7 @@ Vous êtes capable d'évaluer en quelques secondes la valeur approximative d'un 
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 

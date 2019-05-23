@@ -13,7 +13,7 @@ Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et vo
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Athlétisme], [Escamotage].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme], [Escamotage].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.<!--/MasteredTools-->
 
@@ -44,7 +44,7 @@ Un événement est survenu dans votre vie, qui a radicalement altéré votre des
 
 <!--/BackgroundSpecialtyItem-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Communauté<!--/Name-->
 
@@ -54,7 +54,7 @@ Les manouvriers et journaliers forment une communauté soudée qui se serre les 
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--Items-->
 
@@ -156,7 +156,7 @@ Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes t
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Athlétisme], [Représentation].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme], [Représentation].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Ustensiles de cuisinier ou un type de jeu au choix.<!--/MasteredTools-->
 
@@ -164,7 +164,7 @@ Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes t
 
 **Équipement :** <!--Equipment-->Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.<!--/Equipment-->
 
-<!--SkillItem-->
+<!--FeatureItem-->
 
 #### <!--Name-->Aptitude : Histoires de terres lointaines<!--/Name-->
 
@@ -174,7 +174,7 @@ Vous ne comptez plus le nombre d'histoires de terres inconnues et lointaines que
 
 <!--/Description-->
 
-<!--/SkillItem-->
+<!--/FeatureItem-->
 
 <!--/SubBackgroundItem-->
 
@@ -188,7 +188,7 @@ Les journaliers proposent leurs services dans les villages et les campagnes. Ils
 
 <!--/Description-->
 
-**Compétences :** <!--Skills-->[Athlétisme], [Survie].<!--/Skills-->
+**Compétences :** <!--SkillProficiencies-->[Athlétisme], [Survie].<!--/SkillProficiencies-->
 
 **Outils maîtrisés :** <!--MasteredTools-->Véhicules (terrestres), un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.<!--/MasteredTools-->
 
