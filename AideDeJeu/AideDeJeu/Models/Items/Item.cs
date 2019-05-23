@@ -226,7 +226,7 @@ namespace AideDeJeuLib
             { "PersonalityDefectItem", typeof(PersonalityDefectItem) },
             { "BackgroundSpecialtyItem", typeof(BackgroundSpecialtyItem) },
             { "BackgroundItem", typeof(BackgroundItem) },
-            { "SkillItem", typeof(SkillItem) },
+            { "FeatureItem", typeof(FeatureItem) },
             { "ClassEquipmentItem", typeof(ClassEquipmentItem) },
             { "ClassEvolutionItem", typeof(ClassEvolutionItem) },
             { "ClassFeatureItem", typeof(ClassFeatureItem) },

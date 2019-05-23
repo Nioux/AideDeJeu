@@ -728,7 +728,7 @@ namespace AideDeJeu.ViewModels
                 modelBuilder.Entity<PersonalityDefectItem>();
                 modelBuilder.Entity<BackgroundSpecialtyItem>();
                 modelBuilder.Entity<BackgroundItem>();
-                modelBuilder.Entity<SkillItem>();
+                modelBuilder.Entity<FeatureItem>();
                 modelBuilder.Entity<ClassEquipmentItem>();
                 modelBuilder.Entity<ClassEvolutionItem>();
                 modelBuilder.Entity<ClassFeatureItem>();

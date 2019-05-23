@@ -763,7 +763,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             }
         }
 
-        public async Task<SkillItem> LoadSkillAsync(BackgroundItem background)
+        public async Task<FeatureItem> LoadSkillAsync(BackgroundItem background)
         {
             if (background != null)
             {

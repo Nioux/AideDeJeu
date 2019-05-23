@@ -103,8 +103,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SetProperty(ref _BackgroundSpecialty, value);
             }
         }
-        private SkillItem _BackgroundSkill = null;
-        public SkillItem BackgroundSkill
+        private FeatureItem _BackgroundSkill = null;
+        public FeatureItem BackgroundSkill
         {
             get
             {
@@ -116,8 +116,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 OnPropertyChanged(nameof(BackgroundOrSubBackgroundSkill));
             }
         }
-        private SkillItem _SubBackgroundSkill = null;
-        public SkillItem SubBackgroundSkill
+        private FeatureItem _SubBackgroundSkill = null;
+        public FeatureItem SubBackgroundSkill
         {
             get
             {
@@ -129,7 +129,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 OnPropertyChanged(nameof(BackgroundOrSubBackgroundSkill));
             }
         }
-        public SkillItem BackgroundOrSubBackgroundSkill
+        public FeatureItem BackgroundOrSubBackgroundSkill
         {
             get
             {
