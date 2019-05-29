@@ -37,6 +37,10 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             SelectedPlayerCharacter = new PlayerCharacterViewModel() { Background = new BackgroundViewModel(), Abilities = new AbilitiesViewModel() };
             SelectedPlayerCharacter.PropertyChanged += SelectedPlayerCharacter_PropertyChanged;
             SelectedPlayerCharacter.Background.PropertyChanged += Background_PropertyChanged;
+            MessagingCenter.Subscribe<PlayerCharacterViewModel>(SelectedPlayerCharacter, "Change", (sender) => 
+            {
+            });
+
 
 
             // raz des listes de choix

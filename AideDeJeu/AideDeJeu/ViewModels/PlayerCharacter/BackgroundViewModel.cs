@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Xamarin.Forms;
 
 namespace AideDeJeu.ViewModels.PlayerCharacter
 {
@@ -19,6 +20,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                 SubBackground = null;
                 SetProperty(ref _Background, value);
                 OnPropertyChanged(nameof(BackgroundOrSubBackground));
+
+                MessagingCenter.Send<PlayerCharacterViewModel>(DependencyService.Get<PlayerCharacterEditorViewModel>().SelectedPlayerCharacter, "Change");
             }
         }
 
