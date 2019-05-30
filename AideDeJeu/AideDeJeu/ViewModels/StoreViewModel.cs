@@ -58,6 +58,7 @@ namespace AideDeJeu.ViewModels
         public Item ParseItem(string source, ref ContainerBlock.Enumerator enumerator, Dictionary<string, Item> allItems)
         {
             var currentItem = GetNewItem(enumerator.Current);
+            Debug.Assert(currentItem != null, $"Item invalide : {source} {enumerator.Current.ToMarkdownString()}");
             var currentProps = new Dictionary<string, PropertyInfo>();
             currentItem.Markdown = string.Empty;
             currentProps["Markdown"] = currentItem.GetType().GetProperty("Markdown", BindingFlags.Public | BindingFlags.Instance);

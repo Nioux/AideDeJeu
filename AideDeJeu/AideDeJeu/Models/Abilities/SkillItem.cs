@@ -1,6 +1,6 @@
 ﻿namespace AideDeJeuLib
 {
-    public class SkillItemtoto : Item
+    public class SkillItem : Item
     {
     }
 }
