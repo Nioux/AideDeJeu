@@ -1,4 +1,4 @@
-﻿> [Humain des cinq royaumesTraits de base des humains](hd_l5r_human.md)
+﻿> [Humain des cinq royaumes](hd_l5r_human.md)
 
 ---
 

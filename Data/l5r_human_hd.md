@@ -9,9 +9,7 @@
 
 - Source: <!--Source-->(L5R p49)<!--/Source-->
 
-### <!--Name-->Traits de base des humains<!--/Name-->
-
-- Source: <!--Source-->(L5R p49)<!--/Source-->
+### Traits de base des humains
 
 <!--Description-->
 

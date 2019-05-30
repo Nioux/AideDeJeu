@@ -37,7 +37,7 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 
 <!--SubRaceItem ConstitutionBonus="2" StrengthBonus="2"-->
 
-## <!--Name-->Demi-ogre<!--/Name-->
+## <!--Name-->Demi-ogre commun<!--/Name-->
 
 **Augmentation de caractéristiques.** <!--AbilityScoreIncrease-->Votre valeur de [Constitution] augmente de 2 et votre valeur de [Force] de 2.<!--/AbilityScoreIncrease-->
 

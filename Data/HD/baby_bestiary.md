@@ -1,15 +1,13 @@
 ﻿---
 !MonsterItems
-Family: BabyBestiary
 Types: Humanoïde|Aberration|Bête|Céleste|Créature artificielle|Créature monstrueuse|Dragon|Élémentaire|Fée|Fiélon|Géant|Mort-vivant|Plante|Vase
 Challenges: 0 (0 PX)|1/8 (25 PX)|1/4 (50 PX)|1/2 (100 PX)|1 (200 PX)|2 (450 PX)|3 (700 PX)|4 (1100 PX)|5 (1800 PX)|6 (2300 PX)|7 (2900 PX)|8 (3900 PX)|9 (5000 PX)|10 (5900 PX)|11 (7200 PX)|12 (8400 PX)|13 (10000 PX)|14 (11500 PX)|15 (13000 PX)|16 (15000 PX)|17 (18000 PX)|18 (20000 PX)|19 (22000 PX)|20 (25000 PX)|21 (33000 PX)|22 (41000 PX)|23 (50000 PX)|24 (62000 PX)|30 (155000 PX)
 Sizes: TP|P|M|G|TG|Gig
 Sources: CEO|SRD
-Name: Monstrueusement mignons
+Family: BabyBestiary
 SubItems:
 - !MonsterItem
   Family: BabyBestiary
-  Name: Aboleth, rejeton
   Type: Aberration
   Size: M
   Alignment: Loyal Mauvais
@@ -29,6 +27,7 @@ SubItems:
   Challenge: 2 (450 PX)
   Id: baby_bestiary.md#aboleth-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Aboleth, rejeton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -184,7 +183,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Ancien dieu, rejeton
   Type: Fiélon (titan)
   Size: G
   Alignment: Chaotique Mauvais
@@ -198,13 +196,14 @@ SubItems:
   Wisdom: 18 (+4)
   Charisma: 18 (+4)
   SavingThrows: Dex +6, Con +11, Sag +8
+  ConditionImmunities: empoisonné
+  DamageResistances: de feu, de froid, d'électricité ; contondants, perforants et tranchants infligés par des attaques non magiquesd'acide, de feu et de poison
   Senses: vision parfaite 36 m, Perception passive 14
   Languages: infernal, télépathie 36 m
   Challenge: 8 (3 900 PX)
-  DamageResistances: de feu, de froid, d'électricité ; contondants, perforants et tranchants infligés par des attaques non magiquesd'acide, de feu et de poison
-  ConditionImmunities: empoisonné
   Id: baby_bestiary.md#ancien-dieu-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Ancien dieu, rejeton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -382,7 +381,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Archon canin, chiot
   Type: Céleste
   Size: P
   Alignment: Loyal Bon
@@ -396,13 +394,14 @@ SubItems:
   Wisdom: 13 (+1)
   Charisma: 12 (+1)
   Skills: Perception +3
+  ConditionImmunities: charmé et terrorisé
+  DamageResistances: d'électricité, nécrotiques, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: toutes
   Challenge: 1/2 (100 PX)
-  DamageResistances: d'électricité, nécrotiques, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
-  ConditionImmunities: charmé et terrorisé
   Id: baby_bestiary.md#archon-canin-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Archon canin, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -570,7 +569,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Baku, éléphanteau
   Type: Aberration
   Size: P
   Alignment: Neutre
@@ -583,13 +581,14 @@ SubItems:
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
+  ConditionImmunities: entravé, empoigné, empoisonné, épuisé, paralysé, pétrifé
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: toutes
   Challenge: 1/2 (100 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
-  ConditionImmunities: entravé, empoigné, empoisonné, épuisé, paralysé, pétrifé
   Id: baby_bestiary.md#baku-éléphanteau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Baku, éléphanteau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -733,7 +732,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Balor, brandon
   Type: Fiélon
   Size: P
   Alignment: Mauvais
@@ -746,13 +744,14 @@ SubItems:
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 10 (+0)
+  ConditionImmunities: empoisonné
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non magiquesde feu et de poison
   Senses: vision parfaite 18 m, Perception passive 11
   Languages: commun, télépathie 18 m
   Challenge: 2 (450 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non magiquesde feu et de poison
-  ConditionImmunities: empoisonné
   Id: baby_bestiary.md#balor-brandon
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Balor, brandon
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -906,7 +905,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Basilic, lézardeau
   Type: Créature monstrueuse
   Size: P
   Alignment: non aligné
@@ -923,6 +921,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#basilic-lézardeau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Basilic, lézardeau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1030,7 +1029,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Beithir
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -1044,12 +1042,13 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
   Skills: Discrétion +4, Perception +4
+  DamageResistances: de foudre
   Senses: vision dans le noir 27 m, Perception passive 16
   Languages: aucune
   Challenge: 1 (200 PX)
-  DamageResistances: de foudre
   Id: baby_bestiary.md#beithir
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Beithir
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1187,7 +1186,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Bulette, chevreau
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -1205,6 +1203,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#bulette-chevreau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Bulette, chevreau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1318,7 +1317,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Centaure, poulain
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Bon
@@ -1336,6 +1334,7 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#centaure-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Centaure, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1461,7 +1460,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Cerbère, chiot
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
@@ -1475,12 +1473,13 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
   Skills: Perception +6
+  ConditionImmunities: assourdi, aveuglé et empoisonné
+  DamageResistances: de poison
   Senses: vision parfaite 12 m, Perception passive 16
   Challenge: 1 (200 PX)
-  DamageResistances: de poison
-  ConditionImmunities: assourdi, aveuglé et empoisonné
   Id: baby_bestiary.md#cerbère-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Cerbère, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1612,7 +1611,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Chien esquiveur, chiot
   Type: Fée
   Size: P
   Alignment: Loyal Bon
@@ -1630,6 +1628,7 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#chien-esquiveur-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Chien esquiveur, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1755,7 +1754,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Chimère, lionceau
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
@@ -1773,6 +1771,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#chimère-lionceau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Chimère, lionceau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1916,7 +1915,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Cocatrice, poussin
   Type: Créature monstrueuse
   Size: TP
   Alignment: non aligné
@@ -1932,6 +1930,7 @@ SubItems:
   Senses: vision dans le noir 18 m, Perception passive 11 Dangerosité 1/4 (50 PX)
   Id: baby_bestiary.md#cocatrice-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Cocatrice, poussin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2027,7 +2026,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Couatl, nouveau-né
   Type: Créature monstrueuse
   Size: P
   Alignment: Loyal Bon
@@ -2041,12 +2039,13 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
   Skills: Perception +4
+  DamageResistances: radiantspsychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision parfaite 36 m, Perception passive 14
   Languages: toutes, télépathie 36 m
   Challenge: 1/2 (100 PX)
-  DamageResistances: radiantspsychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
   Id: baby_bestiary.md#couatl-nouveau-né
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Couatl, nouveau-né
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2200,7 +2199,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Criard, bouton
   Type: Plante
   Size: P
   Alignment: non aligné
@@ -2213,12 +2211,13 @@ SubItems:
   Intelligence: 1 (-5)
   Wisdom: 3 (-4)
   Charisma: 1 (-5)
+  ConditionImmunities: assourdi, aveuglé et terrorisé
   Senses: vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
   Languages: —
   Challenge: 0 (10 PX)
-  ConditionImmunities: assourdi, aveuglé et terrorisé
   Id: baby_bestiary.md#criard-bouton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Criard, bouton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2338,7 +2337,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Cube gélatineux, bébé
   Type: Vase
   Size: P
   Alignment: non aligné
@@ -2351,11 +2349,12 @@ SubItems:
   Intelligence: 1 (-5)
   Wisdom: 6 (-2)
   Charisma: 1 (-5)
+  ConditionImmunities: à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
   Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
   Challenge: 1/4 (50 PX)
-  ConditionImmunities: à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
   Id: baby_bestiary.md#cube-gélatineux-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Cube gélatineux, bébé
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2481,7 +2480,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Destrier noir, poulain
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
@@ -2494,11 +2492,12 @@ SubItems:
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
+  DamageResistances: de feu
   Senses: Perception passive 11
   Challenge: 1/2 (100 PX)
-  DamageResistances: de feu
   Id: baby_bestiary.md#destrier-noir-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Destrier noir, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2624,7 +2623,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Djinayni
   Type: Élémentaire
   Size: P
   Alignment: Chaotique Bon
@@ -2638,12 +2636,13 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
   SavingThrows: Dex +4, Sag +4
+  DamageImmunities: de foudre et de tonnerre
   Senses: vision dans le noir 36 m, Perception passive 12
   Languages: aérien
   Challenge: 2 (400 PX)
-  DamageImmunities: de foudre et de tonnerre
   Id: baby_bestiary.md#djinayni
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Djinayni
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2785,7 +2784,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Dodomeki, petit oeil
   Type: Aberration
   Size: P
   Alignment: Loyal Mauvais
@@ -2800,11 +2798,12 @@ SubItems:
   Charisma: 10 (+0)
   SavingThrows: Int +4
   Skills: Perception +4
+  ConditionImmunities: à terre
   Senses: vision dans le noir 36 m, Perception passive 14
   Challenge: 2 (450 PX)
-  ConditionImmunities: à terre
   Id: baby_bestiary.md#dodomeki-petit-oeil
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Dodomeki, petit oeil
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2942,7 +2941,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Dragonnet
   Type: Dragon
   Size: P
   Alignment: alignement variable
@@ -2957,12 +2955,13 @@ SubItems:
   Charisma: 12 (+1)
   SavingThrows: Dex +2, Con +5
   Skills: Discrétion +2, Perception +4
+  DamageResistances: selon sa couleur
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
   Languages: draconique
   Challenge: 2 (450 PX)
-  DamageResistances: selon sa couleur
   Id: baby_bestiary.md#dragonnet
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Dragonnet
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3094,7 +3093,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Dragonnet, tortue
   Type: Dragon
   Size: P
   Alignment: alignement variable
@@ -3107,12 +3105,13 @@ SubItems:
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 12 (+1)
+  DamageResistances: de feu
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: draconique
   Challenge: 1/2 (100 PX)
-  DamageResistances: de feu
   Id: baby_bestiary.md#dragonnet-tortue
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Dragonnet, tortue
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3232,7 +3231,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Élémenteau d'air
   Type: Élémentaire
   Size: P
   Alignment: Neutre
@@ -3245,14 +3243,15 @@ SubItems:
   Intelligence: 6 (-2)
   Wisdom: 10 (+0)
   Charisma: 6 (-2)
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé et pétrifé
+  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: aérien
   Challenge: 1 (200 PX)
-  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-dair
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Élémenteau d'air
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3396,7 +3395,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Élémenteau d'eau
   Type: Élémentaire
   Size: P
   Alignment: Neutre
@@ -3409,14 +3407,15 @@ SubItems:
   Intelligence: 5 (-3)
   Wisdom: 10 (+0)
   Charisma: 8 (-1)
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
+  DamageResistances: d'acide ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: aquatique
   Challenge: 1 (200 PX)
-  DamageResistances: d'acide ; contondants, perforants et tranchants infligés par des attaques non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-deau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Élémenteau d'eau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3572,7 +3571,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Élémenteau de feu
   Type: Élémentaire
   Size: P
   Alignment: Neutre
@@ -3585,14 +3583,15 @@ SubItems:
   Intelligence: 6 (-2)
   Wisdom: 10 (+0)
   Charisma: 7 (-2)
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: ignée
   Challenge: 1 (200 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-de-feu
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Élémenteau de feu
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3742,7 +3741,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Élémenteau de terre
   Type: Élémentaire de terre taille P, Neutre
   ArmorClass: 16 (armure naturelle)
   HitPoints: 34 (4d6+20)
@@ -3753,15 +3751,16 @@ SubItems:
   Intelligence: 5 (-3)
   Wisdom: 10 (+0)
   Charisma: 5 (-3)
-  Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
-  Languages: terreux
-  Challenge: 1 (200 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
   DamageVulnerabilities: de tonnerre
   DamageImmunities: de poison
   ConditionImmunities: empoisonné, épuisé, inconscient, paralysé et pétrifé
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
+  Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
+  Languages: terreux
+  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#Élémenteau-de-terre
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Élémenteau de terre
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3913,7 +3912,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Enfield, renardeau
   Type: Fée
   Size: TP
   Alignment: Neutre Bon
@@ -3927,12 +3925,13 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
   Skills: Discrétion +4, Perception +4
+  DamageResistances: nécrotiques
   Senses: Perception passive 14
   Languages: —
   Challenge: 1/2 (50 PX)
-  DamageResistances: nécrotiques
   Id: baby_bestiary.md#enfield-renardeau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Enfield, renardeau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4076,7 +4075,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Gargouille, moulure
   Type: Élémentaire
   Size: P
   Alignment: Chaotique Mauvais
@@ -4089,13 +4087,14 @@ SubItems:
   Intelligence: 6 (-2)
   Wisdom: 11 (+0)
   Charisma: 7 (-2)
+  ConditionImmunities: empoisonné, épuisé et pétrifé
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantiumde poison
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: selon l'âme
   Challenge: 1/4 (50 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantiumde poison
-  ConditionImmunities: empoisonné, épuisé et pétrifé
   Id: baby_bestiary.md#gargouille-moulure
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Gargouille, moulure
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4249,7 +4248,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Gnoll, chiot
   Type: Humanoïde (gnoll)
   Size: P
   Alignment: Chaotique Mauvais
@@ -4267,6 +4265,7 @@ SubItems:
   Challenge: 0 (0 PX)
   Id: baby_bestiary.md#gnoll-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Gnoll, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4386,7 +4385,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Gobelours, petit
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: Chaotique Mauvais
@@ -4405,6 +4403,7 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#gobelours-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Gobelours, petit
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4536,7 +4535,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Griffon, poussin
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -4555,6 +4553,7 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#griffon-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Griffon, poussin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4698,7 +4697,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Harpie, fille
   Type: Créature monstrueuse
   Size: P
   Alignment: Chaotique Mauvais
@@ -4716,6 +4714,7 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#harpie-fille
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Harpie, fille
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4829,7 +4828,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Hippocampe, fretin
   Type: Bête
   Size: M
   Alignment: non aligné
@@ -4847,6 +4845,7 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#hippocampe-fretin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Hippocampe, fretin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4972,7 +4971,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Hippogriffe, poulain
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -4991,6 +4989,7 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#hippogriffe-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Hippogriffe, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5134,7 +5133,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Homme-lézard, bébé
   Type: Humanoïde (homme-lézard)
   Size: M
   Alignment: Neutre
@@ -5153,6 +5151,7 @@ SubItems:
   Challenge: 0 (0 PX)
   Id: baby_bestiary.md#homme-lézard-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Homme-lézard, bébé
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5278,7 +5277,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Hydre, serpenteau
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -5297,6 +5295,7 @@ SubItems:
   Challenge: 2 (450 PX)
   Id: baby_bestiary.md#hydre-serpenteau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Hydre, serpenteau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5446,7 +5445,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Kirin, poulain
   Type: Créature monstrueuse
   Size: M
   Alignment: Loyal-Bon
@@ -5459,12 +5457,13 @@ SubItems:
   Intelligence: 12 (+2)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
+  DamageResistances: radiants, feu, électricité
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: toutes, télépathie 36 m
   Challenge: 2 (100 PX)
-  DamageResistances: radiants, feu, électricité
   Id: baby_bestiary.md#kirin-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Kirin, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5620,7 +5619,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Kitsune, chiot
   Type: Fée (métamorphe)
   Size: P
   Alignment: Neutre
@@ -5639,6 +5637,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#kitsune-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Kitsune, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5794,7 +5793,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Kobold, petit
   Type: Humanoïde (kobold)
   Size: P
   Alignment: Loyal Mauvais
@@ -5812,6 +5810,7 @@ SubItems:
   Challenge: 0 (0 PX)
   Id: baby_bestiary.md#kobold-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Kobold, petit
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5931,7 +5930,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Kraken, larve
   Type: Bête
   Size: M
   Alignment: non aligné
@@ -5950,6 +5948,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#kraken-larve
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Kraken, larve
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6097,7 +6096,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Léviathan, petit
   Type: Créature monstrueuse (titan)
   Size: TG
   Alignment: non aligné
@@ -6111,12 +6109,13 @@ SubItems:
   Wisdom: 10 (+0)
   Charisma: 7 (-2)
   SavingThrows: For +7, Con +5
+  ConditionImmunities: terrorisé
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: —
   Challenge: 5 (1 800 PX)
-  ConditionImmunities: terrorisé
   Id: baby_bestiary.md#léviathan-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Léviathan, petit
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6236,7 +6235,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Lézardeau de foudre
   Type: Bête
   Size: TP
   Alignment: non aligné
@@ -6249,12 +6247,13 @@ SubItems:
   Intelligence: 1 (-5)
   Wisdom: 8 (-1)
   Charisma: 3 (-4)
+  DamageResistances: de foudre
   Senses: vision dans le noir 9 m, Perception passive 9
   Languages: —
   Challenge: 0 (10 PX)
-  DamageResistances: de foudre
   Id: baby_bestiary.md#lézardeau-de-foudre
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Lézardeau de foudre
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6368,7 +6367,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Licorne, poulain
   Type: Céleste
   Size: M
   Alignment: Loyal Bon
@@ -6381,13 +6379,14 @@ SubItems:
   Intelligence: 11 (+0)
   Wisdom: 17 (+3)
   Charisma: 14 (+2)
+  ConditionImmunities: charmé, empoisonné et paralysé
+  DamageResistances: de poison
   Senses: vision aveugle 18 m, Perception passive 13
   Languages: céleste, elfe, sylvestre, télépathie 18 m
   Challenge: 1 (200 PX)
-  DamageResistances: de poison
-  ConditionImmunities: charmé, empoisonné et paralysé
   Id: baby_bestiary.md#licorne-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Licorne, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6573,7 +6572,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Lionceau de mer
   Type: Bête
   Size: M
   Alignment: non aligné
@@ -6591,6 +6589,7 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#lionceau-de-mer
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Lionceau de mer
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6710,7 +6709,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Manticore, lionceau
   Type: Créature monstrueuse
   Size: M
   Alignment: Loyal Mauvais
@@ -6727,6 +6725,7 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#manticore-lionceau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Manticore, lionceau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6870,7 +6869,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Méduse, fille
   Type: Créature monstrueuse
   Size: P
   Alignment: Loyal Mauvais
@@ -6884,12 +6882,13 @@ SubItems:
   Wisdom: 13 (+1)
   Charisma: 13 (+1)
   Skills: Discrétion +4, Perception +3, Supercherie +2
+  ConditionImmunities: empoisonné, pétrifé (variante)
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun
   Challenge: 1 (200 PX)
-  ConditionImmunities: empoisonné, pétrifé (variante)
   Id: baby_bestiary.md#méduse-fille
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Méduse, fille
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7027,7 +7026,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Mimique, bébé
   Type: Créature monstrueuse (métamorphe)
   Size: P
   Alignment: Neutre
@@ -7041,13 +7039,14 @@ SubItems:
   Wisdom: 13 (+1)
   Charisma: 8 (-1)
   Skills: Discrétion +5
+  ConditionImmunities: à terre
+  DamageResistances: d'acide
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: —
   Challenge: 1/4 (50 PX)
-  DamageResistances: d'acide
-  ConditionImmunities: à terre
   Id: baby_bestiary.md#mimique-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Mimique, bébé
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7215,7 +7214,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Minotaure, veau
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
@@ -7233,6 +7231,7 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#minotaure-veau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Minotaure, veau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7364,7 +7363,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Myconide, spore
   Type: Plante
   Size: P
   Alignment: non aligné
@@ -7382,6 +7380,7 @@ SubItems:
   Challenge: 0 (10 PX)
   Id: baby_bestiary.md#myconide-spore
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Myconide, spore
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7495,7 +7494,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Naga, couvain
   Type: Créature monstrueuse
   Size: P
   Alignment: Loyal Bon
@@ -7509,13 +7507,14 @@ SubItems:
   Wisdom: 19 (+4)
   Charisma: 16 (+2)
   SavingThrows: Dex +6, Con +6, Sag +6
+  ConditionImmunities: charmé et empoisonné
+  DamageResistances: de poison
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: commun
   Challenge: 2 (450 PX)
-  DamageResistances: de poison
-  ConditionImmunities: charmé et empoisonné
   Id: baby_bestiary.md#naga-couvain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Naga, couvain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7695,7 +7694,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Ogre-mage
   Type: Géant
   Size: M
   Alignment: Loyal Mauvais
@@ -7713,6 +7711,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#ogre-mage
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Ogre-mage
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7850,7 +7849,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Ombres des roches
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
@@ -7864,12 +7862,13 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
   Skills: Discrétion +4, Perception +6
+  ConditionImmunities: aveuglé
   Senses: perception des vibrations 18 m, vision aveugle 18 m, Perception passive 14
   Languages: comprend le commun des profondeurs mais ne parle pas
   Challenge: 1 (200 PX)
-  ConditionImmunities: aveuglé
   Id: baby_bestiary.md#ombres-des-roches
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Ombres des roches
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8013,7 +8012,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Orque, petit
   Type: Humanoïde (orc)
   Size: P
   Alignment: Chaotique Mauvais
@@ -8031,6 +8029,7 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#orque-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Orque, petit
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8162,7 +8161,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Otyugh, bout
   Type: Aberration
   Size: M
   Alignment: Neutre
@@ -8181,6 +8179,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#otyugh-bout
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Otyugh, bout
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8324,7 +8323,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Ours-hibou, poussin
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -8343,6 +8341,7 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#ours-hibou-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Ours-hibou, poussin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8486,7 +8485,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Oxydeur, charançon
   Type: Créature monstrueuse
   Size: P
   Alignment: non aligné
@@ -8503,6 +8501,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#oxydeur-charançon
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Oxydeur, charançon
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8616,7 +8615,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Pégase, poulain
   Type: Céleste
   Size: M
   Alignment: Chaotique Bon
@@ -8635,6 +8633,7 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#pégase-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Pégase, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8748,7 +8747,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Péryton, hinulus
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
@@ -8767,6 +8765,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#péryton-hinulus
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Péryton, hinulus
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8922,7 +8921,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Phénix, poussin
   Type: Créature monstrueuse
   Size: P
   Alignment: Neutre Bon
@@ -8936,13 +8934,14 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
   Skills: Perception +4
+  DamageImmunities: de feu
+  DamageResistances: radiants, nécrotiques, d'électricité
   Senses: Perception passive 14
   Languages: comprend le commun et l'aérien mais ne peut pas parler
   Challenge: 1 (200 PX)
-  DamageResistances: radiants, nécrotiques, d'électricité
-  DamageImmunities: de feu
   Id: baby_bestiary.md#phénix-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Phénix, poussin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9104,7 +9103,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Pseudo-dragon, vermisseau
   Type: Dragon
   Size: TP
   Alignment: Neutre Bon
@@ -9123,6 +9121,7 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#pseudo-dragon-vermisseau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Pseudo-dragon, vermisseau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9272,7 +9271,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Rakshasa, chaton
   Type: Fiélon
   Size: P
   Alignment: Loyal Mauvais
@@ -9286,13 +9284,14 @@ SubItems:
   Wisdom: 16 (+3)
   Charisma: 16 (+3)
   Skills: Perspicacité +5, Supercherie +5
+  DamageVulnerabilities: perforants infligés par des armes magiques maniées par des créatures bonnes.
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, infernal
   Challenge: 3 (700 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
-  DamageVulnerabilities: perforants infligés par des armes magiques maniées par des créatures bonnes.
   Id: baby_bestiary.md#rakshasa-chaton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Rakshasa, chaton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9440,7 +9439,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Remorhaz, fraie
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -9453,12 +9451,13 @@ SubItems:
   Intelligence: 4 (-3)
   Wisdom: 10 (+0)
   Charisma: 5 (-3)
+  DamageResistances: de feu et de froid
   Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
   Languages: —
   Challenge: 2 (450 PX)
-  DamageResistances: de feu et de froid
   Id: baby_bestiary.md#remorhaz-fraie
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Remorhaz, fraie
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9584,7 +9583,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Satyre, chevreau
   Type: Fée
   Size: P
   Alignment: Chaotique Neutre
@@ -9603,6 +9601,7 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#satyre-chevreau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Satyre, chevreau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9728,7 +9727,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Simurgh, chiot
   Type: Créature céleste
   Size: P<!--/Size>, Neutre Bon
   Alignment: Neutre Bon
@@ -9747,6 +9745,7 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#simurgh-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Simurgh, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9872,7 +9871,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Sphinx, chaton
   Type: Créature monstrueuse
   Size: M
   Alignment: Loyal Neutre
@@ -9887,13 +9885,14 @@ SubItems:
   Charisma: 17 (+3)
   SavingThrows: Con +6, Sag +4
   Skills: Perception +4
+  ConditionImmunities: charmé et terrorisé
+  DamageResistances: psychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision parfaite 36 m, Perception passive 14
   Languages: commun, sphinx
   Challenge: 2 (450 PX)
-  DamageResistances: psychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
-  ConditionImmunities: charmé et terrorisé
   Id: baby_bestiary.md#sphinx-chaton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Sphinx, chaton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10075,7 +10074,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Sylvanien, baliveau
   Type: Plante
   Size: G
   Alignment: Chaotique Bonne
@@ -10088,13 +10086,14 @@ SubItems:
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
+  DamageVulnerabilities: de feu
+  DamageResistances: contondants et perçants
   Senses: Perception passive 13
   Languages: commun, elfe, druidique, sylvestre
   Challenge: 1 (200 PX)
-  DamageResistances: contondants et perçants
-  DamageVulnerabilities: de feu
   Id: baby_bestiary.md#sylvanien-baliveau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Sylvanien, baliveau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10238,7 +10237,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Tarasque, poussin
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -10255,6 +10253,7 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#tarasque-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Tarasque, poussin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10392,7 +10391,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Tatzelwurm, vermisseau
   Type: Dragon
   Size: P
   Alignment: alignement variable
@@ -10406,12 +10404,13 @@ SubItems:
   Wisdom: 12 (+1)
   Charisma: 13 (+1)
   Skills: Discrétion +4, Perception +3
+  DamageResistances: d'acide, de feu, de foudre et de froid
   Senses: Perception passive 13
   Languages: —
   Challenge: 1/4 (50 PX)
-  DamageResistances: d'acide, de feu, de foudre et de froid
   Id: baby_bestiary.md#tatzelwurm-vermisseau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Tatzelwurm, vermisseau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10531,7 +10530,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Tertre errant, petit
   Type: Plante
   Size: M
   Alignment: non aligné
@@ -10545,13 +10543,14 @@ SubItems:
   Wisdom: 10 (+0)
   Charisma: 5 (-3)
   Skills: Discrétion +4
+  ConditionImmunities: assourdi, aveuglé et épuisé
+  DamageResistances: de feu et de froidde foudre
   Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 10
   Languages: —
   Challenge: 1 (200 PX)
-  DamageResistances: de feu et de froidde foudre
-  ConditionImmunities: assourdi, aveuglé et épuisé
   Id: baby_bestiary.md#tertre-errant-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Tertre errant, petit
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10699,7 +10698,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Tigron de phase
   Type: Créature monstrueuse
   Size: P
   Alignment: Non aligné
@@ -10718,6 +10716,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#tigron-de-phase
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Tigron de phase
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10879,7 +10878,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Titan, rejeton
   Type: Créature monstrueuse (titan)
   Size: TG
   Alignment: non aligné
@@ -10892,13 +10890,14 @@ SubItems:
   Intelligence: 3 (-4)
   Wisdom: 11 (+0)
   Charisma: 11 (+0)
+  ConditionImmunities: charmé, terrorisé, empoisonné et paralysé
+  DamageResistances: de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision aveugle 36 m, Perception passive 10
   Languages: —
   Challenge: 10 (5 900 PX)
-  DamageResistances: de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
-  ConditionImmunities: charmé, terrorisé, empoisonné et paralysé
   Id: baby_bestiary.md#titan-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Titan, rejeton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11084,7 +11083,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Troglodyte, têtard
   Type: Bête
   Size: P
   Alignment: non aligné
@@ -11102,6 +11100,7 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#troglodyte-têtard
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Troglodyte, têtard
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11227,7 +11226,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Troll, bourgeon
   Type: Géant
   Size: M
   Alignment: Chaotique Mauvais
@@ -11245,6 +11243,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#troll-bourgeon
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Troll, bourgeon
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11388,7 +11387,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Ver pourpre, violet
   Type: Créature monstrueuse
   Size: G
   Alignment: non aligné
@@ -11407,6 +11405,7 @@ SubItems:
   Challenge: 2 (450 PX)
   Id: baby_bestiary.md#ver-pourpre-violet
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Ver pourpre, violet
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11532,7 +11531,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Vouivre, civelle
   Type: Dragon
   Size: M
   Alignment: non aligné
@@ -11551,6 +11549,7 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#vouivre-civelle
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Vouivre, civelle
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11694,7 +11693,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Wolpentinger, rejeton
   Type: Créature monstrueuse
   Size: P
   Alignment: Chaotique neutre
@@ -11713,6 +11711,7 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#wolpentinger-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Wolpentinger, rejeton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11850,7 +11849,6 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Xorn, bébé
   Type: Élémentaire
   Size: P
   Alignment: Neutre
@@ -11864,12 +11862,13 @@ SubItems:
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
   Skills: Discrétion +2, Perception +4
+  DamageResistances: perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantium
   Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 14
   Languages: terreux
   Challenge: 1/2 (100 PX)
-  DamageResistances: perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantium
   Id: baby_bestiary.md#xorn-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
+  Name: Xorn, bébé
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -12031,6 +12030,7 @@ SubItems:
 
 Id: baby_bestiary.md#monstrueusement-mignons
 RootId: baby_bestiary.md
+Name: Monstrueusement mignons
 NameLevel: 1
 AttributesDictionary: >+
   Name: Monstrueusement mignons
