@@ -354,6 +354,7 @@ namespace AideDeJeuCmd
             {
                 Console.WriteLine("l : build library");
                 Console.WriteLine("o : check orphan links");
+                Console.WriteLine("p : test pdf");
                 Console.WriteLine("q : quitter");
                 var key = Console.ReadKey(true);
                 switch (key.KeyChar)
@@ -364,10 +365,27 @@ namespace AideDeJeuCmd
                     case 'o':
                         await CheckOrphanLinksAsync();
                         break;
+                    case 'p':
+                        await TestPdfAsync();
+                        break;
                     case 'q':
                         return;
                 }
             }
+        }
+
+        static async Task TestPdfAsync()
+        {
+            Tests.Xamarin.Forms.Mocks.MockForms.Init();
+            SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
+            DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
+            //Xamarin.Essentials.Platform.Init(this, bundle);
+            //Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
+
+            var pc = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterViewModel();
+            var pce = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterEditorViewModel();
+            var stream = new MemoryStream();
+            pce.GeneratePdfToStream(pc, stream);
         }
 
         static async Task BuildLibraryAsync()
