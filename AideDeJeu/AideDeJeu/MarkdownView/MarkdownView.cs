@@ -358,7 +358,7 @@
         }
 
         private void Render(ParagraphBlock block)
-        {
+        { 
             var style = this.Theme.Paragraph;
             var foregroundColor = isQuoted ? this.Theme.Quote.ForegroundColor : style.ForegroundColor;
             var label = new Label
