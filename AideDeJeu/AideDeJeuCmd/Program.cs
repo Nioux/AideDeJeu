@@ -1,4 +1,5 @@
-﻿using AideDeJeu.Tools;
+﻿using AideDeJeu.Pdf;
+using AideDeJeu.Tools;
 using AideDeJeu.ViewModels;
 using AideDeJeuLib;
 using Markdig;
@@ -382,10 +383,15 @@ namespace AideDeJeuCmd
             //Xamarin.Essentials.Platform.Init(this, bundle);
             //Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
 
-            var pc = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterViewModel();
-            var pce = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterEditorViewModel();
-            var stream = new MemoryStream();
-            pce.GeneratePdfToStream(pc, stream);
+            var pdfService = new PdfService();
+            //var pc = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterViewModel();
+            //var pce = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterEditorViewModel();
+            using (var stream = new FileStream("test.pdf", FileMode.Create))
+            {
+                pdfService.MarkdownToPdf("# mon titre\n\nhop", stream);
+                //var stream = new MemoryStream();
+                //pce.GeneratePdfToStream(pc, stream);
+            }
         }
 
         static async Task BuildLibraryAsync()

@@ -1,4 +1,5 @@
-﻿using iTextSharp.text;
+﻿using AideDeJeu.Tools;
+using iTextSharp.text;
 using iTextSharp.text.pdf;
 using Markdig;
 using Markdig.Syntax;
@@ -20,7 +21,7 @@ namespace AideDeJeu.Pdf
             //cb.Stroke();
             ColumnText ct = new ColumnText(cb);
             ct.SetSimpleColumn(x, y, x + width, y + height);
-            var p = new Paragraph(text, font);
+            var p = new Paragraph(text); //, font);
             p.Alignment = alignment;
             ct.AddElement(p);
             ct.Go();
@@ -33,11 +34,14 @@ namespace AideDeJeu.Pdf
             var parsed = Markdig.Markdown.Parse(md, pipeline);
 
             PdfReader reader = null;
-            reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.feuille_de_personnage_editable.pdf"));
+            reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.poker_size.pdf"));
             PdfStamper stamper = null;
             stamper = new PdfStamper(reader, stream);
 
             Render(parsed.AsEnumerable(), stamper);
+
+            stamper.Close();
+            reader.Close();
         }
         private void Render(IEnumerable<Block> blocks, PdfStamper stamper)
         {
@@ -99,7 +103,54 @@ namespace AideDeJeu.Pdf
 
         private void Render(ParagraphBlock block, PdfStamper stamper)
         {
-            //DrawText(stamper.GetOverContent(0),  )
+            var cb = stamper.GetOverContent(1);
+            //ColumnText.ShowTextAligned(cb, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin"), 40, 40, 0);
+
+
+            ColumnText ct = new ColumnText(cb);
+            ct.SetSimpleColumn(10f, 48f, 200f, 600f);
+            Font f = new Font();
+            Paragraph pz = new Paragraph(new Phrase(20, "Hello World!", f));
+            ct.AddElement(pz);
+            ct.Go();
+            BaseFont bf = BaseFont.CreateFont(BaseFont.HELVETICA_BOLD, "Cp1252", BaseFont.EMBEDDED);
+            f = new Font(bf, 13);
+            ct = new ColumnText(cb);
+            ct.SetSimpleColumn(10f, 48f, 200f, 700f);
+            pz = new Paragraph("Hello World!", f);
+            ct.AddElement(pz);
+            ct.Go();
+
+
+
+            return;
+            /*
+            var text = block.ToMarkdownString();
+            //DrawText(content, md, null, 100, 100, 300, 300, 0);
+
+            float x = 10;
+            float y = 10;
+            float width = 300;
+            float height = 300;
+            cb.SetRGBColorFill(127, 127, 127);
+            //cb.Rectangle(x, y, width, height);
+            //cb.Stroke();
+            ColumnText ct = new ColumnText(cb);
+            ct.SetSimpleColumn(x, y, x + width, y + height);
+
+            Font font = new Font(BaseFont.CreateFont());
+            //int rectWidth = 80;
+            //float maxFontSize = getMaxFontSize(BaseFont.CreateFont(), "text", rectWidth);
+            font.Size = 20;
+
+
+            var p = new Paragraph(text, font);
+            //p.Alignment = alignment;
+            ct.AddElement(p);
+            ct.Go();
+
+
+
             //var style = this.Theme.Paragraph;
             //var foregroundColor = isQuoted ? this.Theme.Quote.ForegroundColor : style.ForegroundColor;
             //var label = new Label
@@ -108,6 +159,7 @@ namespace AideDeJeu.Pdf
             //};
             //AttachLinks(label);
             //this.stack.Children.Add(label); 
+            */
         }
     }
 }

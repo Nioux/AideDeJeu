@@ -41,6 +41,7 @@
     <None Remove="Pdf\LinLibertine_RZ.ttf" />
     <None Remove="Pdf\LinLibertine_RZI.ttf" />
     <None Remove="Pdf\MinionPro_It.ttf" />
+    <None Remove="Pdf\poker_size.pdf" />
     <None Remove="test.svg" />
   </ItemGroup>
 
@@ -67,6 +68,7 @@
     <EmbeddedResource Include="Pdf\LinLibertine_RZ.ttf" />
     <EmbeddedResource Include="Pdf\LinLibertine_RZI.ttf" />
     <EmbeddedResource Include="Pdf\MinionPro_It.ttf" />
+    <EmbeddedResource Include="Pdf\poker_size.pdf" />
     <EmbeddedResource Include="test.svg" />
   </ItemGroup>
 
