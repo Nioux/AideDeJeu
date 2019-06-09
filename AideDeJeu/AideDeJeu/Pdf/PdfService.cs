@@ -3,6 +3,7 @@ using iTextSharp.text;
 using iTextSharp.text.pdf;
 using Markdig;
 using Markdig.Syntax;
+using Markdig.Syntax.Inlines;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -28,38 +29,49 @@ namespace AideDeJeu.Pdf
 
         }
 
+        Document _Document = null;
+        PdfWriter _Writer = null;
         public void MarkdownToPdf(string md, Stream stream)
         {
             var pipeline = new Markdig.MarkdownPipelineBuilder().UseYamlFrontMatter().UsePipeTables().Build();
             var parsed = Markdig.Markdown.Parse(md, pipeline);
 
-            PdfReader reader = null;
-            reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.poker_size.pdf"));
-            PdfStamper stamper = null;
-            stamper = new PdfStamper(reader, stream);
+            _Document = new Document();
+            _Writer = PdfWriter.GetInstance(_Document, stream);
+            _Document.Open();
+            //PdfReader reader = null;
+            //reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.poker_size.pdf"));
+            //PdfStamper stamper = null;
+            //stamper = new PdfStamper(reader, stream);
 
-            Render(parsed.AsEnumerable(), stamper);
+            Render(parsed.AsEnumerable());
 
-            stamper.Close();
-            reader.Close();
+            _Document.Close();
+            _Writer.Close();
+            //stamper.Close();
+            //reader.Close();
         }
-        private void Render(IEnumerable<Block> blocks, PdfStamper stamper)
+        private void Render(IEnumerable<Block> blocks)
         {
             foreach (var block in blocks)
             {
-                this.Render(block, stamper);
+                this.Render(block);
+                if(block.IsBreakable)
+                {
+                    _Document.Add(Chunk.NEWLINE);
+                }
             }
         }
-        private void Render(Block block, PdfStamper stamper)
+        private void Render(Block block)
         {
             switch (block)
             {
-                //case HeadingBlock heading:
-                //    Render(heading);
-                //    break;
+                case HeadingBlock heading:
+                    Render(heading);
+                    break;
 
                 case ParagraphBlock paragraph:
-                    Render(paragraph, stamper);
+                    Render(paragraph);
                     break;
 
                 //case QuoteBlock quote:
@@ -101,30 +113,83 @@ namespace AideDeJeu.Pdf
             //}
         }
 
-        private void Render(ParagraphBlock block, PdfStamper stamper)
+        private void Render(HeadingBlock block)
         {
-            var cb = stamper.GetOverContent(1);
-            //ColumnText.ShowTextAligned(cb, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin"), 40, 40, 0);
+            _Document.Add(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0x9B1C47), 20 + (7 - block.Level) * 2));
+        }
 
-            
-            ColumnText ct = new ColumnText(cb);
-            ct.SetSimpleColumn(10f, 48f, 200f, 600f);
-            Font f = new Font();
-            Paragraph pz = new Paragraph(new Phrase(20, "Hello World!", f));
-            ct.AddElement(pz);
-            ct.Go();
-            BaseFont bf = BaseFont.CreateFont(BaseFont.HELVETICA_BOLD, "Cp1252", BaseFont.EMBEDDED);
-            f = new Font(bf, 13);
-            ct = new ColumnText(cb);
-            ct.SetSimpleColumn(10f, 48f, 200f, 700f);
-            pz = new Paragraph("Hello World!", f);
-            ct.AddElement(pz);
-            ct.Go();
-            
+        private void Render(ParagraphBlock block)
+        {
+            _Document.Add(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 20));
+        }
+
+        private Phrase CreateFormatted(ContainerInline inlines, int fontFamily, int fontStyle, Color fontColor, float fontSize)
+        {
+            var phrase = new Phrase();
+            foreach (var inline in inlines)
+            {
+                var spans = CreateChunks(inline, fontFamily, fontStyle, fontColor, fontSize);
+                if (spans != null)
+                {
+                    foreach (var span in spans)
+                    {
+                        phrase.Add(span);
+                    }
+                }
+            }
+            return phrase;
+        }
+        private Chunk[] CreateChunks(Inline inline, int fontFamily, int fontStyle, Color fontColor, float fontSize)
+        {
+            switch (inline)
+            {
+                case LiteralInline literal:
+                    return new Chunk[]
+                    {
+                        new Chunk()
+                        {
+                            Content = literal.Content.Text.Substring(literal.Content.Start, literal.Content.Length),
+                            Font = new Font(fontFamily, fontSize, fontStyle, fontColor)
+                        }
+                    };
+                case EmphasisInline emphasis:
+                    var childStyle = fontStyle | (emphasis.DelimiterCount == 2 ? Font.BOLD : Font.ITALIC);
+                    var espans = emphasis.SelectMany(x => CreateChunks(x, fontFamily, childStyle, fontColor, fontSize));
+                    return espans.ToArray();
+
+                case LineBreakInline breakline:
+                    return new Chunk[] { Chunk.NEWLINE };
+
+                case LinkInline link:
+                case CodeInline code:
+
+                case HtmlInline html:
+
+                default:
+                    return new Chunk[] { };
+            }
+            //var cb = stamper.GetOverContent(1);
+            ////ColumnText.ShowTextAligned(cb, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin"), 40, 40, 0);
+
+
+            //ColumnText ct = new ColumnText(cb);
+            //ct.SetSimpleColumn(10f, 48f, 200f, 600f);
+            //Font f = new Font();
+            //Paragraph pz = new Paragraph(new Phrase(20, "Hello World!", f));
+            //ct.AddElement(pz);
+            //ct.Go();
+            //BaseFont bf = BaseFont.CreateFont(BaseFont.HELVETICA_BOLD, "Cp1252", BaseFont.EMBEDDED);
+            //f = new Font(bf, 13);
+            //ct = new ColumnText(cb);
+            //ct.SetSimpleColumn(10f, 48f, 200f, 700f);
+            //pz = new Paragraph("Hello World!", f);
+            //ct.AddElement(pz);
+            //ct.Go();
 
 
 
-            return;
+
+            //return;
             /*
             var text = block.ToMarkdownString();
             //DrawText(content, md, null, 100, 100, 300, 300, 0);
