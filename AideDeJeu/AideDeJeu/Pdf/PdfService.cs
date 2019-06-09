@@ -106,7 +106,7 @@ namespace AideDeJeu.Pdf
             var cb = stamper.GetOverContent(1);
             //ColumnText.ShowTextAligned(cb, iTextSharp.text.Element.ALIGN_LEFT, new Phrase("Galefrin"), 40, 40, 0);
 
-
+            
             ColumnText ct = new ColumnText(cb);
             ct.SetSimpleColumn(10f, 48f, 200f, 600f);
             Font f = new Font();
@@ -120,6 +120,7 @@ namespace AideDeJeu.Pdf
             pz = new Paragraph("Hello World!", f);
             ct.AddElement(pz);
             ct.Go();
+            
 
 
 
