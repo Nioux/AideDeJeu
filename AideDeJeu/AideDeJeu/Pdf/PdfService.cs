@@ -36,7 +36,7 @@ namespace AideDeJeu.Pdf
             var pipeline = new Markdig.MarkdownPipelineBuilder().UseYamlFrontMatter().UsePipeTables().Build();
             var parsed = Markdig.Markdown.Parse(md, pipeline);
 
-            _Document = new Document();
+            _Document = new Document(new Rectangle(822, 1122));
             _Writer = PdfWriter.GetInstance(_Document, stream);
             _Document.Open();
             //PdfReader reader = null;
@@ -120,7 +120,12 @@ namespace AideDeJeu.Pdf
 
         private void Render(ParagraphBlock block)
         {
-            _Document.Add(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 20));
+            ColumnText ct = new ColumnText(_Writer.DirectContent);
+            ct.AddText(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 20));
+            ct.Alignment = Element.ALIGN_JUSTIFIED;
+            ct.SetSimpleColumn(10, 10, 200, 200);
+            ct.Go();
+            //_Document.Add(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 20));
         }
 
         private Phrase CreateFormatted(ContainerInline inlines, int fontFamily, int fontStyle, Color fontColor, float fontSize)
