@@ -57,9 +57,29 @@ namespace AideDeJeu.Pdf
         private void Render(IEnumerable<Block> blocks, Document document)
         {
             var phrases = Render(blocks);
-            foreach(var phrase in phrases)
+            ColumnText ct = new ColumnText(_Writer.DirectContent);
+            int column = 0;
+            ct.SetSimpleColumn(10, 10 + 200 * column, 200, 200 + 200 * column);
+            int status = 0;
+            Phrase p = null;
+            float y = 0;
+            foreach (var phrase in phrases)
             {
-                document.Add(phrase);
+                y = ct.YLine;
+
+                //document.Add(phrase);
+                ct.AddText(phrase);
+                status = ct.Go(true);
+                if(ColumnText.HasMoreText(status))
+                {
+
+                    column++;
+                    ct.SetSimpleColumn(10, 10 + 200 * column, 200, 200 + 200 * column);
+                    y += 200;
+                }
+                ct.YLine = y;
+                ct.SetText(phrase);
+                status = ct.Go(false);
                 //ColumnText ct = new ColumnText(_Writer.DirectContent);
                 //ct.AddText(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 12));
                 //ct.Alignment = Element.ALIGN_JUSTIFIED;
