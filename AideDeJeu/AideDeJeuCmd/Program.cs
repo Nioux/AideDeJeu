@@ -387,16 +387,21 @@ namespace AideDeJeuCmd
 
             var item = await store.GetItemFromDataAsync("spells_hd", "aide");
 
-
-            var pdfService = new PdfService();
-            //var pc = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterViewModel();
-            //var pce = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterEditorViewModel();
-            using (var stream = new FileStream("test.pdf", FileMode.Create))
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                //pdfService.MarkdownToPdf("# mon titre\n\nhop", stream);
-                pdfService.MarkdownToPdf(item.Markdown, stream);
-                //var stream = new MemoryStream();
-                //pce.GeneratePdfToStream(pc, stream);
+                var spells = await context.Spells.ToListAsync();
+
+                var pdfService = new PdfService();
+                //var pc = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterViewModel();
+                //var pce = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterEditorViewModel();
+                using (var stream = new FileStream("test.pdf", FileMode.Create))
+                {
+                    //pdfService.MarkdownToPdf("# mon titre\n\nhop", stream);
+                    pdfService.MarkdownToPdf(spells.Select(s => s.Markdown).ToList(), stream);
+                    //pdfService.MarkdownToPdf(new List<string>() { item.Markdown }, stream);
+                    //var stream = new MemoryStream();
+                    //pce.GeneratePdfToStream(pc, stream);
+                }
             }
         }
 

@@ -31,10 +31,9 @@ namespace AideDeJeu.Pdf
 
         Document _Document = null;
         PdfWriter _Writer = null;
-        public void MarkdownToPdf(string md, Stream stream)
+        public void MarkdownToPdf(List<string> mds, Stream stream)
         {
             var pipeline = new Markdig.MarkdownPipelineBuilder().UseYamlFrontMatter().UsePipeTables().Build();
-            var parsed = Markdig.Markdown.Parse(md, pipeline);
 
             _Document = new Document(new Rectangle(822, 1122));
             _Writer = PdfWriter.GetInstance(_Document, stream);
@@ -44,35 +43,56 @@ namespace AideDeJeu.Pdf
             //PdfStamper stamper = null;
             //stamper = new PdfStamper(reader, stream);
 
-            Render(parsed.AsEnumerable());
+            foreach (var md in mds)
+            {
+                var parsed = Markdig.Markdown.Parse(md, pipeline);
+                Render(parsed.AsEnumerable(), _Document);
+            }
 
             _Document.Close();
             _Writer.Close();
             //stamper.Close();
             //reader.Close();
         }
-        private void Render(IEnumerable<Block> blocks)
+        private void Render(IEnumerable<Block> blocks, Document document)
         {
-            foreach (var block in blocks)
+            var phrases = Render(blocks);
+            foreach(var phrase in phrases)
             {
-                this.Render(block);
-                if(block.IsBreakable)
-                {
-                    _Document.Add(Chunk.NEWLINE);
-                }
+                document.Add(phrase);
+                //ColumnText ct = new ColumnText(_Writer.DirectContent);
+                //ct.AddText(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 12));
+                //ct.Alignment = Element.ALIGN_JUSTIFIED;
+                //ct.SetSimpleColumn(10, 10, 200, 200);
+                //ct.Go();
             }
         }
-        private void Render(Block block)
+        private IEnumerable<Phrase> Render(IEnumerable<Block> blocks)
+        {
+            var phrases = new List<Phrase>();
+            foreach (var block in blocks)
+            {
+                var phrase = this.Render(block);
+                if(phrase != null)
+                {
+                    phrases.Add(phrase);
+                }
+                if (block.IsBreakable)
+                {
+                    phrases.Add(new Phrase(Chunk.NEWLINE));
+                }
+            }
+            return phrases;
+        }
+        private Phrase Render(Block block)
         {
             switch (block)
             {
                 case HeadingBlock heading:
-                    Render(heading);
-                    break;
+                    return Render(heading);
 
                 case ParagraphBlock paragraph:
-                    Render(paragraph);
-                    break;
+                    return Render(paragraph);
 
                 //case QuoteBlock quote:
                 //    Render(quote);
@@ -100,7 +120,7 @@ namespace AideDeJeu.Pdf
 
                 default:
                     Debug.WriteLine($"Can't render {block.GetType()} blocks.");
-                    break;
+                    return null;
             }
 
             //if (queuedViews.Any())
@@ -113,18 +133,14 @@ namespace AideDeJeu.Pdf
             //}
         }
 
-        private void Render(HeadingBlock block)
+        private Phrase Render(HeadingBlock block)
         {
-            _Document.Add(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0x9B1C47), 20 + (7 - block.Level) * 2));
+            return CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0x9B1C47), 14 + (7 - block.Level) * 2);
         }
 
-        private void Render(ParagraphBlock block)
+        private Phrase Render(ParagraphBlock block)
         {
-            ColumnText ct = new ColumnText(_Writer.DirectContent);
-            ct.AddText(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 20));
-            ct.Alignment = Element.ALIGN_JUSTIFIED;
-            ct.SetSimpleColumn(10, 10, 200, 200);
-            ct.Go();
+            return CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 12);
             //_Document.Add(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 20));
         }
 
