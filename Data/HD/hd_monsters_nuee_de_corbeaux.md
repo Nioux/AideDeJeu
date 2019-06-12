@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Ravens](srd_monsters_swarm_of_ravens.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 12
 - **Points de vie** 24 (7d8-7)
 - **Vitesse** 3 m, vol 15 m

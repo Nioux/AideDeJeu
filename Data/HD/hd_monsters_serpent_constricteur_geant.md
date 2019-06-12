@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
 - **Points de vie** 60 (8d12+8)
 - **Vitesse** 9 m, nage 9 m

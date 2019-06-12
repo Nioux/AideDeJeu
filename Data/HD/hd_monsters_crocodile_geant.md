@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Crocodile](srd_monsters_giant_crocodile.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Désert chaud, Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 85 (9d12+27)
 - **Vitesse** 9 m, nage 15 m

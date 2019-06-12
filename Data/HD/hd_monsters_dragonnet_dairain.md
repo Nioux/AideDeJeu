@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
+- **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 16 (3d8+3)
 - **Vitesse** 9 m, fouissement 4,50 m, vol 18 m

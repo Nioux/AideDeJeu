@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Baboon](srd_monsters_baboon.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Jungle
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
 - **Vitesse** 9 m, escalade 9 m

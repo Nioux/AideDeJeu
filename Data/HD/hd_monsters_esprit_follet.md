@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Sprite](srd_monsters_sprite.md)
 -  Fée de taille TP, Neutre Bonne
+- **Terrain** Bois / Forêt, Collines / Vallées, Ruines extérieures
 - **Classe d'armure** 15 (armure de cuir)
 - **Points de vie** 2 (1d4)
 - **Vitesse** 3 m, vol 12 m

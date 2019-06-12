@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Cult Fanatic](srd_monsters_cult_fanatic.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
+- **Terrain** 
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m

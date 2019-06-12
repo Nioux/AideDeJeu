@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Brown Bear](srd_monsters_brown_bear.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Bois / Forêt, Collines / Vallées, Littoral, Montagnes
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 34 (4d10+12)
 - **Vitesse** 12 m, escalade 9 m

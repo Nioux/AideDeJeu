@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Air Elemental](srd_monsters_air_elemental.md)
 -  Élémentaire de taille G, neutre
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 15
 - **Points de vie** 90 (12d10+24)
 - **Vitesse** 0 m, vol 27 m (vol stationnaire)

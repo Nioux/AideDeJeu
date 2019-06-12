@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Plante de taille TG, non-alignée
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 115 (10d12+50)
 - **Vitesse** 0 m

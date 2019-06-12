@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Pseudodragon](srd_monsters_pseudodragon.md)
 -  Dragon de taille TP, Neutre Bon
+- **Terrain** Bois / Forêt, Jungle, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d4+2)
 - **Vitesse** 4,50 m, vol 18 m

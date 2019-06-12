@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Draft Horse](srd_monsters_draft_horse.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 12 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Awakened Tree](srd_monsters_awakened_tree.md)
 -  Plante de taille TG, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 59 (7d12+14)
 - **Vitesse** 6 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Drow](srd_monsters_drow.md)
 -  Humanoïde (elfe) de taille M, Neutre Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 13 (3d8)
 - **Vitesse** 9 m

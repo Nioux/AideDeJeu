@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Elephant](srd_monsters_elephant.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Désert chaud, Jungle, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 76 (8d12+24)
 - **Vitesse** 12 m

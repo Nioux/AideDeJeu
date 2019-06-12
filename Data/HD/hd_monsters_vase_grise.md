@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Gray Ooze](srd_monsters_gray_ooze.md)
 -  Vase de taille M, non-alignée
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 8
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 3 m, escalade 3 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Planetar](srd_monsters_planetar.md)
 -  Céleste de taille G, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 200 (16d10+112)
 - **Vitesse** 12 m, vol 36 m

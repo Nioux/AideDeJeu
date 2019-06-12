@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Weasel](srd_monsters_giant_weasel.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 9 (2d8)
 - **Vitesse** 12 m

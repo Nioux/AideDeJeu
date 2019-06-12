@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Acolyte](srd_monsters_acolyte.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 10
 - **Points de vie** 9 (2d8)
 - **Vitesse** 9 m

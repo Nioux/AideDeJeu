@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Quasit](srd_monsters_quasit.md)
 -  Fiélon (démon, métamorphe) de taille TP, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 13
 - **Points de vie** 7 (3d4)
 - **Vitesse** 12 m

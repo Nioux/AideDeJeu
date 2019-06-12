@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
 - **Vitesse** 9 m, nage 9 m, vol 18 m

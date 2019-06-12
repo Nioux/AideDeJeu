@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
+- **Terrain** Collines / Vallées
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 350 (20d20+140)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m

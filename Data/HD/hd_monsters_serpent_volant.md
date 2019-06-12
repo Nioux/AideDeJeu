@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Flying Snake](srd_monsters_flying_snake.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Montagnes
 - **Classe d'armure** 14
 - **Points de vie** 5 (2d4)
 - **Vitesse** 9 m, vol 18 m, nage 9 m

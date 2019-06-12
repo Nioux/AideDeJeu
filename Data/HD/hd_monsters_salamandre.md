@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Salamander](srd_monsters_salamander.md)
 -  Élémentaire de taille G, Neutre Mauvais
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d10+24)
 - **Vitesse** 9 m

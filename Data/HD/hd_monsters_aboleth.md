@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Aboleth](srd_monsters_aboleth.md)
 -  Aberration de taille G, Loyal Mauvais
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 135 (18d10+36)
 - **Vitesse** 3 m, nage 12 m

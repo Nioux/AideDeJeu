@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Gargoyle](srd_monsters_gargoyle.md)
 -  Élémentaire de taille M, Chaotique Mauvais
+- **Terrain** Plans élémentaires, Ruines extérieures
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 52 (7d8+21)
 - **Vitesse** 9 m, vol 18 m

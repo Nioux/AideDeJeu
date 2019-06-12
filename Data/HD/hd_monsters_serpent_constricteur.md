@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Constrictor Snake](srd_monsters_constrictor_snake.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
 - **Points de vie** 13 (2d10+2)
 - **Vitesse** 9 m, nage 9 m

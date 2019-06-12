@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Violet Fungus](srd_monsters_violet_fungus.md)
 -  Plante de taille M, non-alignée
+- **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5
 - **Points de vie** 18 (4d8)
 - **Vitesse** 1,50 m

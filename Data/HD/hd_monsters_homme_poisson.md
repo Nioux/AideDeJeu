@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Merfolk](srd_monsters_merfolk.md)
 -  Humanoïde (homme-poisson) de taille M, Neutre
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 11
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 3 m, nage 12 m

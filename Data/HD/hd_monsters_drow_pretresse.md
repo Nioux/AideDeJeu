@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (elfe) de taille M, neutre mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 18 (cuirasse +2)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 9 m

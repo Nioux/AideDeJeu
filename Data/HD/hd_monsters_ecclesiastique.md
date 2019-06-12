@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Priest](srd_monsters_priest.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 13 (chemise de mailles)
 - **Points de vie** 27 (5d8+5)
 - **Vitesse** 7,50 m

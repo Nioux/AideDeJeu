@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Steam Mephit](srd_monsters_steam_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
+- **Terrain** Littoral, Plans élémentaires, Caverne sous-marine
 - **Classe d'armure** 10
 - **Points de vie** 21 (6d6)
 - **Vitesse** 9 m, vol 9 m

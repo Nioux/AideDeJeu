@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Badger](srd_monsters_badger.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 10
 - **Points de vie** 3 (1d4+1)
 - **Vitesse** 6 m, fouissement 1,50 m

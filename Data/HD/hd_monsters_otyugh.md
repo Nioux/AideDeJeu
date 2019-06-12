@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Otyugh](srd_monsters_otyugh.md)
 -  Aberration de taille G, Neutre
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
 - **Vitesse** 9 m

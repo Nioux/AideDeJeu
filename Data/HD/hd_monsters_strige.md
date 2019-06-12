@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Stirge](srd_monsters_stirge.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 2 (1d4)
 - **Vitesse** 3 m, vol 12 m

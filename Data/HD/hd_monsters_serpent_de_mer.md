@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Créature monstrueuse de taille Gig, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 231 (14d20+84)
 - **Vitesse** nage 15 m

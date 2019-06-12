@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Guardian Naga](srd_monsters_guardian_naga.md)
 -  Créature monstrueuse de taille G, Loyal Bon
+- **Terrain** Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
 - **Vitesse** 12 m

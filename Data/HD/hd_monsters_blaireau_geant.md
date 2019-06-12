@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Badger](srd_monsters_giant_badger.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 10
 - **Points de vie** 13 (2d8+4)
 - **Vitesse** 9 m, fouissement 3 m

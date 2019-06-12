@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
+- **Terrain** Collines / Vallées
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 22 (4d8+4)
 - **Vitesse** 9 m, escalade 9 m, vol 18 m

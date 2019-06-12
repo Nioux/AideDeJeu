@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Chain Devil](srd_monsters_chain_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 85 (10d8+40)
 - **Vitesse** 9 m

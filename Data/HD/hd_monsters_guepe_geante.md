@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Wasp](srd_monsters_giant_wasp.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)
 - **Vitesse** 3 m, vol 15 m

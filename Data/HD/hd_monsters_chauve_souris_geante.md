@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Bat](srd_monsters_giant_bat.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Jungle, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13
 - **Points de vie** 22 (4d10)
 - **Vitesse** 3 m, vol 18 m

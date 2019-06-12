@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ettercap](srd_monsters_ettercap.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
+- **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 9 m, escalade 9 m

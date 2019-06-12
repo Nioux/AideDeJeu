@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 444 (24d20+192)
 - **Vitesse** 12 m, nage 12 m, vol 24 m

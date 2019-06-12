@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Behir](srd_monsters_behir.md)
 -  Créature monstrueuse de taille TG, Neutre Mauvais
+- **Terrain** Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 168 (16d12+64)
 - **Vitesse** 15 m, escalade 12 m

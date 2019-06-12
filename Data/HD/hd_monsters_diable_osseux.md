@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Bone Devil](srd_monsters_bone_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
 - **Vitesse** 12 m, vol 12 m

@@ -4,7 +4,7 @@
 
 # Ghast
 
-- CEO: [Blême](hd_monsters_bleme.md)
+- CEO: [Blême](monsters_hd.md#blême)
 - Source: (SRD p311)
 -  Medium undead, chaotic evil
 - **Armor Class** 13

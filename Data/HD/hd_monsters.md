@@ -4,6 +4,7 @@ Types: Humanoïde|Aberration|Bête|Céleste|Créature artificielle|Créature mon
 Challenges: 0 (0 PX)|1/8 (25 PX)|1/4 (50 PX)|1/2 (100 PX)|1 (200 PX)|2 (450 PX)|3 (700 PX)|4 (1100 PX)|5 (1800 PX)|6 (2300 PX)|7 (2900 PX)|8 (3900 PX)|9 (5000 PX)|10 (5900 PX)|11 (7200 PX)|12 (8400 PX)|13 (10000 PX)|14 (11500 PX)|15 (13000 PX)|16 (15000 PX)|17 (18000 PX)|18 (20000 PX)|19 (22000 PX)|20 (25000 PX)|21 (33000 PX)|22 (41000 PX)|23 (50000 PX)|24 (62000 PX)|30 (155000 PX)
 Sizes: TP|P|M|G|TG|Gig
 Sources: CEO|SRD
+Terrains: Arctique / Subarctique|Bois / Forêt|Collines / Vallées|Désert chaud|Jungle|Littoral|Mangrove / Marécage|Mer / Océan|Montagnes|Plaine / Champs / Prairie / Savane|Plans élémentaires|Caverne aménagée|Caverne naturelle|Caverne sous-marine|Donjon maçonné|Ruines extérieures|Ruines souterraines|Ruines sous-marines
 Family: MonsterHD
 SubItems:
 - !MonsterItem
@@ -11,6 +12,7 @@ SubItems:
   Type: Aberration
   Size: G
   Alignment: Loyal Mauvais
+  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 17 (armure naturelle)
   HitPoints: 135 (18d10+36)
   Speed: 3 m, nage 12 m
@@ -52,6 +54,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -209,6 +215,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Mer / Océan, Ruines sous-marines
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 135 (18d10+36)
@@ -242,6 +250,7 @@ SubItems:
   Type: Aberration
   Size: M
   Alignment: loyal mauvais
+  Terrain: Littoral
   ArmorClass: 15 (armure naturelle)
   HitPoints: 104 (16d8+32)
   Speed: 9 m au sol
@@ -281,6 +290,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 
 
 
@@ -436,6 +449,8 @@ SubItems:
 
     Alignment: loyal mauvais
 
+    Terrain: Littoral
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 104 (16d8+32)
@@ -475,6 +490,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Collines / Vallées, Ruines extérieures, Ruines souterraines
   ArmorClass: 13
   HitPoints: 67 (9d8+27)
   Speed: 0 m, vol 18 m (vol stationnaire)
@@ -517,6 +533,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Ruines extérieures, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -624,6 +644,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Collines / Vallées, Ruines extérieures, Ruines souterraines
+
     ArmorClass: 13
 
     HitPoints: 67 (9d8+27)
@@ -659,6 +681,7 @@ SubItems:
   Type: Aberration
   Size: M
   Alignment: loyal mauvais
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 12
   HitPoints: 71 (13d8+13)
   Speed: 9 m au sol ; nage 9 m
@@ -694,6 +717,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -809,6 +836,8 @@ SubItems:
 
     Alignment: loyal mauvais
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
+
     ArmorClass: 12
 
     HitPoints: 71 (13d8+13)
@@ -883,6 +912,10 @@ SubItems:
 
 
       -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -1113,6 +1146,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 
 
@@ -1338,6 +1375,10 @@ SubItems:
 
 
       -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -1582,6 +1623,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
+  Terrain: Plaine / Champs / Prairie / Savane, Caverne naturelle
   ArmorClass: 14 (armure naturelle), 11 quand il est [à terre](hd_conditions_a_terre.md)
   HitPoints: 39 (6d10+6)
   Speed: 9 m, fouissement 3 m
@@ -1621,6 +1663,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -1698,6 +1744,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Plaine / Champs / Prairie / Savane, Caverne naturelle
+
     ArmorClass: 14 (armure naturelle), 11 quand il est [à terre](hd_conditions_a_terre.md)
 
     HitPoints: 39 (6d10+6)
@@ -1727,6 +1775,7 @@ SubItems:
   Type: Élémentaire
   Size: M
   Alignment: Loyal Neutre
+  Terrain: Plans élémentaires, Donjon maçonné
   ArmorClass: 17 (armure naturelle, bouclier)
   HitPoints: 39 (6d8+12)
   Speed: 9 m
@@ -1769,6 +1818,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires, Donjon maçonné<!--/Terrain-->
 
 
 
@@ -1876,6 +1929,8 @@ SubItems:
 
     Alignment: Loyal Neutre
 
+    Terrain: Plans élémentaires, Donjon maçonné
+
     ArmorClass: 17 (armure naturelle, bouclier)
 
     HitPoints: 39 (6d8+12)
@@ -1911,6 +1966,7 @@ SubItems:
   Type: Aberration
   Size: M
   Alignment: neutre
+  Terrain: Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine
   ArmorClass: 9
   HitPoints: 67 (9d8+27)
   Speed: 3 m, nage 3 m
@@ -1951,6 +2007,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -2056,6 +2116,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine
+
     ArmorClass: 9
 
     HitPoints: 67 (9d8+27)
@@ -2087,6 +2149,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 52 (8d8+16)
   Speed: 6 m
@@ -2126,6 +2189,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -2221,6 +2288,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 52 (8d8+16)
@@ -2250,6 +2319,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: TG
   Alignment: Neutre Mauvais
+  Terrain: Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines
   ArmorClass: 17 (armure naturelle)
   HitPoints: 168 (16d12+64)
   Speed: 15 m, escalade 12 m
@@ -2291,6 +2361,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -2406,6 +2480,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 168 (16d12+64)
@@ -2439,6 +2515,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Collines / Vallées, Caverne naturelle
   ArmorClass: 17 (armure naturelle)
   HitPoints: 94 (9d10+45)
   Speed: 12 m, fouissement 12 m
@@ -2479,6 +2556,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -2578,6 +2659,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Collines / Vallées, Caverne naturelle
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 94 (9d10+45)
@@ -2609,6 +2692,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Bon
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 45 (6d10+12)
   Speed: 15 m
@@ -2649,6 +2733,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -2766,6 +2854,8 @@ SubItems:
 
     Alignment: Neutre Bon
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12
 
     HitPoints: 45 (6d10+12)
@@ -2797,6 +2887,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
+  Terrain: Bois / Forêt, Jungle, Montagnes
   ArmorClass: 15 (armure naturelle)
   HitPoints: 102 (12d10+36)
   Speed: 12 m
@@ -2834,6 +2925,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Montagnes<!--/Terrain-->
 
 
 
@@ -2939,6 +3034,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Bois / Forêt, Jungle, Montagnes
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 102 (12d10+36)
@@ -2974,6 +3071,7 @@ SubItems:
   Type: Plante
   Size: M
   Alignment: non-alignée
+  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   ArmorClass: 5
   HitPoints: 13 (3d8)
   Speed: 0 m
@@ -3014,6 +3112,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -3095,6 +3197,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 5
 
     HitPoints: 13 (3d8)
@@ -3126,6 +3230,7 @@ SubItems:
   Type: Plante
   Size: M
   Alignment: non-alignée
+  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   ArmorClass: 5
   HitPoints: 18 (4d8)
   Speed: 1,50 m
@@ -3166,6 +3271,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -3259,6 +3368,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 5
 
     HitPoints: 18 (4d8)
@@ -3290,6 +3401,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Bois / Forêt, Montagnes, Ruines extérieures
   ArmorClass: 14 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 9 m, vol 18 m
@@ -3330,6 +3442,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Montagnes, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -3441,6 +3557,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Bois / Forêt, Montagnes, Ruines extérieures
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 114 (12d10+48)
@@ -3472,6 +3590,7 @@ SubItems:
   Type: Aberration
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Mangrove / Marécage, Mer / Océan, Caverne sous-marine
   ArmorClass: 16 (armure naturelle)
   HitPoints: 93 (11d10+33)
   Speed: 9 m, nage 9 m
@@ -3514,6 +3633,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -3633,6 +3756,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Mangrove / Marécage, Mer / Océan, Caverne sous-marine
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 93 (11d10+33)
@@ -3668,6 +3793,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: P
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 11
   HitPoints: 27 (6d6+6)
   Speed: 6 m, vol 12 m
@@ -3707,6 +3833,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -3778,6 +3908,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 11
 
     HitPoints: 27 (6d6+6)
@@ -3807,6 +3939,7 @@ SubItems:
   Type: Céleste
   Size: M
   Alignment: Loyal Bon
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 19 (armure naturelle)
   HitPoints: 97 (13d8+39)
   Speed: 9 m, vol 27 m
@@ -3849,6 +3982,10 @@ SubItems:
 
 
       -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -4010,6 +4147,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 97 (13d8+39)
@@ -4081,6 +4220,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (humain)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -4270,6 +4413,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -4493,6 +4640,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 
 
@@ -4675,6 +4826,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -4893,6 +5048,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 
 
@@ -5099,6 +5258,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -5335,6 +5498,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 
 
@@ -5556,6 +5723,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 
 
@@ -5762,6 +5933,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -5977,6 +6152,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 
 
@@ -6104,6 +6283,7 @@ SubItems:
   Type: Aberration
   Size: G
   Alignment: Neutre Mauvais
+  Terrain: Caverne aménagée, Donjon maçonné
   ArmorClass: 15
   HitPoints: 212 (25d10+75)
   Speed: 1,50 m au sol ; 9 mètres en vol
@@ -6140,6 +6320,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné<!--/Terrain-->
 
 
 
@@ -6355,6 +6539,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Caverne aménagée, Donjon maçonné
+
     ArmorClass: 15
 
     HitPoints: 212 (25d10+75)
@@ -6432,6 +6618,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -6662,6 +6852,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 
 
@@ -6868,6 +7062,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -7083,6 +7281,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -7343,6 +7545,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 
 
@@ -7565,6 +7771,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 
 
@@ -7774,6 +7984,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 
 
@@ -7974,6 +8188,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -8228,6 +8446,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
 
 
@@ -8442,6 +8664,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->7<!--/ArmorClass-->
 
 
@@ -8613,6 +8839,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 
 
@@ -8762,6 +8992,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 68 (8d10+24)
   Speed: 6 m, nage 12 m
@@ -8802,6 +9033,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -8889,6 +9124,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mer / Océan, Ruines sous-marines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 68 (8d10+24)
@@ -8920,6 +9157,7 @@ SubItems:
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 13 (armure naturelle)
   HitPoints: 95 (10d12+30)
   Speed: 15 m
@@ -8959,6 +9197,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -9054,6 +9296,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 95 (10d12+30)
@@ -9083,6 +9327,7 @@ SubItems:
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Jungle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 136 (13d12+52)
   Speed: 15 m
@@ -9123,6 +9368,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 
 
 
@@ -9216,6 +9465,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Jungle
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 136 (13d12+52)
@@ -9247,6 +9498,7 @@ SubItems:
   Type: Créature monstrueuse (métamorphe)
   Size: M
   Alignment: neutre
+  Terrain: Donjon maçonné
   ArmorClass: 14
   HitPoints: 52 (8d8+16)
   Speed: 9 m
@@ -9288,6 +9540,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -9409,6 +9665,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 14
 
     HitPoints: 52 (8d8+16)
@@ -9442,6 +9700,7 @@ SubItems:
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Mauvais
+  Terrain: Arctique / Subarctique
   ArmorClass: 20 (armure naturelle)
   HitPoints: 333 (18d20+144)
   Speed: 12 m, fouissement 12 m, nage 12 m, vol 24 m
@@ -9484,6 +9743,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -9657,6 +9920,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 20 (armure naturelle)
 
     HitPoints: 333 (18d20+144)
@@ -9692,6 +9957,7 @@ SubItems:
   Type: Dragon
   Size: TG
   Alignment: Chaotique Mauvais
+  Terrain: Arctique / Subarctique
   ArmorClass: 18 (armure naturelle)
   HitPoints: 200 (16d12+96)
   Speed: 12 m, fouissement 9 m, nage 12 m, vol 24 m
@@ -9734,6 +10000,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -9907,6 +10177,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 200 (16d12+96)
@@ -9942,6 +10214,7 @@ SubItems:
   Type: Dragon
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Arctique / Subarctique
   ArmorClass: 17 (armure naturelle)
   HitPoints: 133 (14d10+56)
   Speed: 12 m, fouissement 6 m, nage 12 m, vol 24 m
@@ -9984,6 +10257,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -10103,6 +10380,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 133 (14d10+56)
@@ -10138,6 +10417,7 @@ SubItems:
   Type: Dragon
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Arctique / Subarctique
   ArmorClass: 16 (armure naturelle)
   HitPoints: 32 (5d8+10)
   Speed: 9 m, fouissement 4,50 m, nage 9 m, vol 18 m
@@ -10180,6 +10460,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -10269,6 +10553,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 32 (5d8+10)
@@ -10304,6 +10590,7 @@ SubItems:
   Type: Dragon
   Size: Gig
   Alignment: Loyal Mauvais
+  Terrain: Désert chaud, Littoral
   ArmorClass: 22 (armure naturelle)
   HitPoints: 481 (26d20+208)
   Speed: 12 m, fouissement 12 m, vol 24 m
@@ -10346,6 +10633,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 
 
 
@@ -10513,6 +10804,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Désert chaud, Littoral
+
     ArmorClass: 22 (armure naturelle)
 
     HitPoints: 481 (26d20+208)
@@ -10548,6 +10841,7 @@ SubItems:
   Type: Dragon
   Size: TG
   Alignment: Loyal Mauvais
+  Terrain: Désert chaud, Littoral
   ArmorClass: 19 (armure naturelle)
   HitPoints: 225 (18d12+108)
   Speed: 12 m, fouissement 9 m, vol 24 m
@@ -10590,6 +10884,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 
 
 
@@ -10757,6 +11055,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Désert chaud, Littoral
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 225 (18d12+108)
@@ -10792,6 +11092,7 @@ SubItems:
   Type: Dragon
   Size: G
   Alignment: Loyal Mauvais
+  Terrain: Désert chaud, Littoral
   ArmorClass: 18 (armure naturelle)
   HitPoints: 152 (16d10+64)
   Speed: 12 m, fouissement 6 m, vol 24 m
@@ -10834,6 +11135,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 
 
 
@@ -10941,6 +11246,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Désert chaud, Littoral
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 152 (16d10+64)
@@ -10976,6 +11283,7 @@ SubItems:
   Type: Dragon
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Désert chaud, Littoral
   ArmorClass: 17 (armure naturelle)
   HitPoints: 52 (8d8+16)
   Speed: 9 m, fouissement 4,50 m, vol 18 m
@@ -11018,6 +11326,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 
 
 
@@ -11107,6 +11419,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Désert chaud, Littoral
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 52 (8d8+16)
@@ -11142,6 +11456,7 @@ SubItems:
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Mauvais
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 22 (armure naturelle)
   HitPoints: 367 (21d20+147)
   Speed: 12 m, nage 12 m, vol 24 m
@@ -11184,6 +11499,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -11351,6 +11670,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Mangrove / Marécage, Caverne sous-marine
+
     ArmorClass: 22 (armure naturelle)
 
     HitPoints: 367 (21d20+147)
@@ -11386,6 +11707,7 @@ SubItems:
   Type: Dragon
   Size: TG
   Alignment: Chaotique Mauvais
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 19 (armure naturelle)
   HitPoints: 195 (17d12+85)
   Speed: 12 m, nage 12 m, vol 24 m
@@ -11428,6 +11750,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -11601,6 +11927,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Mangrove / Marécage, Caverne sous-marine
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 195 (17d12+85)
@@ -11636,6 +11964,7 @@ SubItems:
   Type: Dragon
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 18 (armure naturelle)
   HitPoints: 127 (15d10+45)
   Speed: 12 m, nage 12 m, vol 24 m
@@ -11678,6 +12007,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -11797,6 +12130,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Mangrove / Marécage, Caverne sous-marine
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 127 (15d10+45)
@@ -11832,6 +12167,7 @@ SubItems:
   Type: Dragon
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Mangrove / Marécage
   ArmorClass: 17 (armure naturelle)
   HitPoints: 33 (6d8+6)
   Speed: 9 m, nage 9 m, vol 18 m
@@ -11874,6 +12210,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -11975,6 +12315,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Mangrove / Marécage
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 33 (6d8+6)
@@ -12010,6 +12352,7 @@ SubItems:
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Mauvais
+  Terrain: Montagnes, Ruines souterraines
   ArmorClass: 22 (armure naturelle)
   HitPoints: 546 (28d20+252)
   Speed: 12 m, escalade 12 m, vol 24 m
@@ -12052,6 +12395,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -12219,6 +12566,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Montagnes, Ruines souterraines
+
     ArmorClass: 22 (armure naturelle)
 
     HitPoints: 546 (28d20+252)
@@ -12254,6 +12603,7 @@ SubItems:
   Type: Dragon
   Size: TG
   Alignment: Chaotique Mauvais
+  Terrain: Montagnes, Ruines souterraines
   ArmorClass: 19 (armure naturelle)
   HitPoints: 256 (19d12+133)
   Speed: 12 m, escalade 12 m, vol 24 m
@@ -12296,6 +12646,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -12463,6 +12817,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Montagnes, Ruines souterraines
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 256 (19d12+133)
@@ -12498,6 +12854,7 @@ SubItems:
   Type: Dragon
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Montagnes, Ruines souterraines
   ArmorClass: 18 (armure naturelle)
   HitPoints: 178 (17d10+85)
   Speed: 12 m, escalade 12 m, vol 24 m
@@ -12540,6 +12897,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -12647,6 +13008,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Montagnes, Ruines souterraines
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 178 (17d10+85)
@@ -12682,6 +13045,7 @@ SubItems:
   Type: Dragon
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Montagnes, Ruines souterraines
   ArmorClass: 17 (armure naturelle)
   HitPoints: 75 (10d8+30)
   Speed: 9 m, escalade 9 m, vol 18 m
@@ -12724,6 +13088,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -12813,6 +13181,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Montagnes, Ruines souterraines
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 75 (10d8+30)
@@ -12848,6 +13218,7 @@ SubItems:
   Type: Dragon
   Size: Gig
   Alignment: Loyal Mauvais
+  Terrain: Bois / Forêt, Jungle
   ArmorClass: 21 (armure naturelle)
   HitPoints: 385 (22d20+154)
   Speed: 12 m, nage 12 m, vol 24 m
@@ -12891,6 +13262,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 
 
 
@@ -13074,6 +13449,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Bois / Forêt, Jungle
+
     ArmorClass: 21 (armure naturelle)
 
     HitPoints: 385 (22d20+154)
@@ -13111,6 +13488,7 @@ SubItems:
   Type: Dragon
   Size: TG
   Alignment: Loyal Mauvais
+  Terrain: Bois / Forêt, Jungle
   ArmorClass: 19 (armure naturelle)
   HitPoints: 207 (18d12+90)
   Speed: 12 m, nage 12 m, vol 24 m
@@ -13154,6 +13532,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 
 
 
@@ -13331,6 +13713,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Bois / Forêt, Jungle
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 207 (18d12+90)
@@ -13368,6 +13752,7 @@ SubItems:
   Type: Dragon
   Size: G
   Alignment: Loyal Mauvais
+  Terrain: Bois / Forêt, Jungle
   ArmorClass: 18 (armure naturelle)
   HitPoints: 136 (16d10+48)
   Speed: 12 m, nage 12 m, vol 24 m
@@ -13411,6 +13796,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 
 
 
@@ -13534,6 +13923,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Bois / Forêt, Jungle
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 136 (16d10+48)
@@ -13571,6 +13962,7 @@ SubItems:
   Type: Dragon
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Bois / Forêt, Jungle
   ArmorClass: 17 (armure naturelle)
   HitPoints: 38 (7d8+7)
   Speed: 9 m, nage 9 m, vol 18 m
@@ -13614,6 +14006,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 
 
 
@@ -13719,6 +14115,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Bois / Forêt, Jungle
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 38 (7d8+7)
@@ -13756,6 +14154,7 @@ SubItems:
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Bon
+  Terrain: Désert chaud, Ruines extérieures
   ArmorClass: 20 (armure naturelle)
   HitPoints: 297 (17d20+119)
   Speed: 12 m, fouissement 12 m, vol 24 m
@@ -13798,6 +14197,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -13995,6 +14398,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Désert chaud, Ruines extérieures
+
     ArmorClass: 20 (armure naturelle)
 
     HitPoints: 297 (17d20+119)
@@ -14030,6 +14435,7 @@ SubItems:
   Type: Dragon
   Size: TG
   Alignment: Chaotique Bon
+  Terrain: Désert chaud, Ruines extérieures
   ArmorClass: 18 (armure naturelle)
   HitPoints: 172 (15d12+75)
   Speed: 12 m, fouissement 9 m, vol 24 m
@@ -14072,6 +14478,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -14251,6 +14661,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Désert chaud, Ruines extérieures
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 172 (15d12+75)
@@ -14286,6 +14698,7 @@ SubItems:
   Type: Dragon
   Size: G
   Alignment: Chaotique Bon
+  Terrain: Désert chaud, Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 110 (13d10+39)
   Speed: 12 m, fouissement 6 m, vol 24 m
@@ -14328,6 +14741,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -14447,6 +14864,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Désert chaud, Ruines extérieures
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 110 (13d10+39)
@@ -14482,6 +14901,7 @@ SubItems:
   Type: Dragon
   Size: M
   Alignment: Chaotique Bon
+  Terrain: Désert chaud, Ruines extérieures
   ArmorClass: 16 (armure naturelle)
   HitPoints: 16 (3d8+3)
   Speed: 9 m, fouissement 4,50 m, vol 18 m
@@ -14524,6 +14944,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -14625,6 +15049,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Désert chaud, Ruines extérieures
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 16 (3d8+3)
@@ -14660,6 +15086,7 @@ SubItems:
   Type: Dragon
   Size: Gig
   Alignment: Loyal Bon
+  Terrain: Montagnes
   ArmorClass: 22 (armure naturelle)
   HitPoints: 487 (25d20+225)
   Speed: 12 m, vol 24 m
@@ -14702,6 +15129,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -14893,6 +15324,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Montagnes
+
     ArmorClass: 22 (armure naturelle)
 
     HitPoints: 487 (25d20+225)
@@ -14928,6 +15361,7 @@ SubItems:
   Type: Dragon
   Size: TG
   Alignment: Loyal Bon
+  Terrain: Montagnes
   ArmorClass: 19 (armure naturelle)
   HitPoints: 243 (18d12+126)
   Speed: 12 m, vol 24 m
@@ -14970,6 +15404,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -15167,6 +15605,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Montagnes
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 243 (18d12+126)
@@ -15202,6 +15642,7 @@ SubItems:
   Type: Dragon
   Size: G
   Alignment: Loyal Bon
+  Terrain: Montagnes
   ArmorClass: 18 (armure naturelle)
   HitPoints: 168 (16d10+80)
   Speed: 12 m, vol 24 m
@@ -15244,6 +15685,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -15363,6 +15808,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Montagnes
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 168 (16d10+80)
@@ -15398,6 +15845,7 @@ SubItems:
   Type: Dragon
   Size: M
   Alignment: Loyal Bon
+  Terrain: Montagnes
   ArmorClass: 17 (armure naturelle)
   HitPoints: 45 (6d8+18)
   Speed: 9 m, vol 18 m
@@ -15440,6 +15888,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -15541,6 +15993,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Montagnes
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 45 (6d8+18)
@@ -15576,6 +16030,7 @@ SubItems:
   Type: Dragon
   Size: Gig
   Alignment: Loyal Bon
+  Terrain: Littoral, Mer / Océan
   ArmorClass: 22 (armure naturelle)
   HitPoints: 444 (24d20+192)
   Speed: 12 m, nage 12 m, vol 24 m
@@ -15618,6 +16073,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 
 
 
@@ -15815,6 +16274,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Littoral, Mer / Océan
+
     ArmorClass: 22 (armure naturelle)
 
     HitPoints: 444 (24d20+192)
@@ -15850,6 +16311,7 @@ SubItems:
   Type: Dragon
   Size: TG
   Alignment: Loyal Bon
+  Terrain: Littoral, Mer / Océan
   ArmorClass: 19 (armure naturelle)
   HitPoints: 212 (17d12+102)
   Speed: 12 m, nage 12 m, vol 24 m
@@ -15892,6 +16354,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 
 
 
@@ -16095,6 +16561,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Littoral, Mer / Océan
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 212 (17d12+102)
@@ -16130,6 +16598,7 @@ SubItems:
   Type: Dragon
   Size: G
   Alignment: Loyal Bon
+  Terrain: Littoral, Mer / Océan
   ArmorClass: 18 (armure naturelle)
   HitPoints: 142 (15d10+60)
   Speed: 12 m, nage 12 m, vol 24 m
@@ -16172,6 +16641,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 
 
 
@@ -16303,6 +16776,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Littoral, Mer / Océan
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 142 (15d10+60)
@@ -16338,6 +16813,7 @@ SubItems:
   Type: Dragon
   Size: M
   Alignment: Loyal Bon
+  Terrain: Littoral, Mer / Océan
   ArmorClass: 17 (armure naturelle)
   HitPoints: 32 (5d8+10)
   Speed: 9 m, nage 9 m, vol 18 m
@@ -16380,6 +16856,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 
 
 
@@ -16493,6 +16973,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Littoral, Mer / Océan
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 32 (5d8+10)
@@ -16528,6 +17010,7 @@ SubItems:
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Bon
+  Terrain: Collines / Vallées
   ArmorClass: 21 (armure naturelle)
   HitPoints: 350 (20d20+140)
   Speed: 12 m, escalade 12 m, vol 24 m
@@ -16570,6 +17053,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 
 
 
@@ -16773,6 +17260,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Collines / Vallées
+
     ArmorClass: 21 (armure naturelle)
 
     HitPoints: 350 (20d20+140)
@@ -16808,6 +17297,7 @@ SubItems:
   Type: Dragon
   Size: TG
   Alignment: Chaotique Bon
+  Terrain: Collines / Vallées
   ArmorClass: 18 (armure naturelle)
   HitPoints: 184 (16d12+80)
   Speed: 12 m, escalade 12 m, vol 24 m
@@ -16850,6 +17340,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 
 
 
@@ -17035,6 +17529,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Collines / Vallées
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 184 (16d12+80)
@@ -17070,6 +17566,7 @@ SubItems:
   Type: Dragon
   Size: G
   Alignment: Chaotique Bon
+  Terrain: Collines / Vallées
   ArmorClass: 17 (armure naturelle)
   HitPoints: 119 (14d10+42)
   Speed: 12m, escalade 12 m, vol 24 m
@@ -17112,6 +17609,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 
 
 
@@ -17243,6 +17744,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Collines / Vallées
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 119 (14d10+42)
@@ -17278,6 +17781,7 @@ SubItems:
   Type: Dragon
   Size: M
   Alignment: Chaotique Bon
+  Terrain: Collines / Vallées
   ArmorClass: 16 (armure naturelle)
   HitPoints: 22 (4d8+4)
   Speed: 9 m, escalade 9 m, vol 18 m
@@ -17320,6 +17824,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 
 
 
@@ -17421,6 +17929,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Collines / Vallées
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 22 (4d8+4)
@@ -17498,6 +18008,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -17772,6 +18286,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -18055,6 +18573,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 
 
@@ -18263,6 +18785,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 
 
@@ -18408,6 +18934,7 @@ SubItems:
   Type: Dragon
   Size: Gig
   Alignment: neutre
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 20 (armure naturelle)
   HitPoints: 341 (22d20+110)
   Speed: 6 m, nage 12 m
@@ -18449,6 +18976,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -18576,6 +19107,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine
+
     ArmorClass: 20 (armure naturelle)
 
     HitPoints: 341 (22d20+110)
@@ -18646,6 +19179,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -18798,6 +19335,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 19 (armure naturelle)
   HitPoints: 123 (13d10+52)
   Speed: 9 m, escalade 9 m
@@ -18838,6 +19376,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -18991,6 +19533,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Caverne aménagée, Ruines souterraines
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 123 (13d10+52)
@@ -19022,6 +19566,7 @@ SubItems:
   Type: Humanoïde (elfe)
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 15 (chemise de mailles)
   HitPoints: 13 (3d8)
   Speed: 9 m
@@ -19062,6 +19607,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -19191,6 +19740,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Caverne aménagée, Ruines souterraines
+
     ArmorClass: 15 (chemise de mailles)
 
     HitPoints: 13 (3d8)
@@ -19222,6 +19773,7 @@ SubItems:
   Type: Humanoïde (elfe)
   Size: M
   Alignment: neutre mauvais
+  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 18 (cuirasse +2)
   HitPoints: 58 (9d8+18)
   Speed: 9 m
@@ -19260,6 +19812,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -19447,6 +20003,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Caverne aménagée, Ruines souterraines
+
     ArmorClass: 18 (cuirasse +2)
 
     HitPoints: 58 (9d8+18)
@@ -19484,6 +20042,7 @@ SubItems:
   Type: Fée
   Size: M
   Alignment: neutre
+  Terrain: Bois / Forêt
   ArmorClass: 11 (16 avec peau d'écorce)
   HitPoints: 22 (5d8)
   Speed: 9 m
@@ -19524,6 +20083,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -19665,6 +20228,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 11 (16 avec peau d'écorce)
 
     HitPoints: 22 (5d8)
@@ -19696,6 +20261,7 @@ SubItems:
   Type: Humanoïde (nain)
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 16 (armure d'écailles, bouclier)
   HitPoints: 26 (4d8+8)
   Speed: 7,50 m
@@ -19736,6 +20302,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (nain)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -19859,6 +20429,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Donjon maçonné, Ruines souterraines
+
     ArmorClass: 16 (armure d'écailles, bouclier)
 
     HitPoints: 26 (4d8+8)
@@ -19890,6 +20462,7 @@ SubItems:
   Type: Élémentaire
   Size: G
   Alignment: neutre
+  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 15
   HitPoints: 90 (12d10+24)
   Speed: 0 m, vol 27 m (vol stationnaire)
@@ -19932,6 +20505,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -20051,6 +20628,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Montagnes, Plans élémentaires
+
     ArmorClass: 15
 
     HitPoints: 90 (12d10+24)
@@ -20086,6 +20665,7 @@ SubItems:
   Type: Élémentaire
   Size: G
   Alignment: neutre
+  Terrain: Mer / Océan, Plans élémentaires, Caverne sous-marine
   ArmorClass: 14 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 9 m, nage 27 m
@@ -20128,6 +20708,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Plans élémentaires, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -20247,6 +20831,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Mer / Océan, Plans élémentaires, Caverne sous-marine
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 114 (12d10+48)
@@ -20282,6 +20868,7 @@ SubItems:
   Type: Élémentaire
   Size: G
   Alignment: neutre
+  Terrain: Plans élémentaires
   ArmorClass: 13
   HitPoints: 102 (12d10+36)
   Speed: 15 m
@@ -20324,6 +20911,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 
 
 
@@ -20437,6 +21028,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Plans élémentaires
+
     ArmorClass: 13
 
     HitPoints: 102 (12d10+36)
@@ -20472,6 +21065,7 @@ SubItems:
   Type: Élémentaire
   Size: G
   Alignment: neutre
+  Terrain: Bois / Forêt, Plans élémentaires
   ArmorClass: 17 (armure naturelle)
   HitPoints: 126 (12d10+60)
   Speed: 9 m, fouissement 9 m
@@ -20515,6 +21109,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -20626,6 +21224,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt, Plans élémentaires
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 126 (12d10+60)
@@ -20663,6 +21263,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
+  Terrain: Caverne aménagée, Caverne naturelle
   ArmorClass: 20 (armure naturelle)
   HitPoints: 93 (11d10+33)
   Speed: 3 m, escalade 3 m
@@ -20703,6 +21304,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -20832,6 +21437,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Caverne aménagée, Caverne naturelle
+
     ArmorClass: 20 (armure naturelle)
 
     HitPoints: 93 (11d10+33)
@@ -20863,6 +21470,7 @@ SubItems:
   Type: Fée
   Size: TP
   Alignment: Neutre Bonne
+  Terrain: Bois / Forêt, Collines / Vallées, Ruines extérieures
   ArmorClass: 15 (armure de cuir)
   HitPoints: 2 (1d4)
   Speed: 3 m, vol 12 m
@@ -20903,6 +21511,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bonne<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -21002,6 +21614,8 @@ SubItems:
 
     Alignment: Neutre Bonne
 
+    Terrain: Bois / Forêt, Collines / Vallées, Ruines extérieures
+
     ArmorClass: 15 (armure de cuir)
 
     HitPoints: 2 (1d4)
@@ -21033,6 +21647,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Bois / Forêt, Mangrove / Marécage
   ArmorClass: 13 (armure naturelle)
   HitPoints: 44 (8d8+8)
   Speed: 9 m, escalade 9 m
@@ -21073,6 +21688,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -21202,6 +21821,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Bois / Forêt, Mangrove / Marécage
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 44 (8d8+8)
@@ -21233,6 +21854,7 @@ SubItems:
   Type: Géant
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Collines / Vallées, Montagnes, Caverne naturelle
   ArmorClass: 12 (armure naturelle)
   HitPoints: 85 (10d10+30)
   Speed: 12 m
@@ -21273,6 +21895,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -21384,6 +22010,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Collines / Vallées, Montagnes, Caverne naturelle
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 85 (10d10+30)
@@ -21415,6 +22043,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: n'importe quel alignement
+  Terrain: Ruines extérieures, Ruines souterraines
   ArmorClass: 11
   HitPoints: 45 (10d8)
   Speed: 0 m, vol 12 m (vol stationnaire)
@@ -21457,6 +22086,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines extérieures, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -21588,6 +22221,8 @@ SubItems:
 
     Alignment: n'importe quel alignement
 
+    Terrain: Ruines extérieures, Ruines souterraines
+
     ArmorClass: 11
 
     HitPoints: 45 (10d8)
@@ -21623,6 +22258,7 @@ SubItems:
   Type: Mort-vivant
   Size: TP
   Alignment: Chaotique Mauvais
+  Terrain: Collines / Vallées, Mangrove / Marécage
   ArmorClass: 19
   HitPoints: 22 (9d4)
   Speed: 0 m, vol 15 m (vol stationnaire)
@@ -21665,6 +22301,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -21784,6 +22424,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Collines / Vallées, Mangrove / Marécage
+
     ArmorClass: 19
 
     HitPoints: 22 (9d4)
@@ -21819,6 +22461,7 @@ SubItems:
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
+  Terrain: Donjon maçonné
   ArmorClass: 17 (armure naturelle)
   HitPoints: 142 (15d10+60)
   Speed: 9 m
@@ -21860,6 +22503,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -21981,6 +22628,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 142 (15d10+60)
@@ -22014,6 +22663,7 @@ SubItems:
   Type: Élémentaire
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Plans élémentaires, Ruines extérieures
   ArmorClass: 15 (armure naturelle)
   HitPoints: 52 (7d8+21)
   Speed: 9 m, vol 18 m
@@ -22056,6 +22706,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -22169,6 +22823,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Plans élémentaires, Ruines extérieures
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 52 (7d8+21)
@@ -22204,6 +22860,7 @@ SubItems:
   Type: Géant
   Size: TG
   Alignment: Chaotique Mauvais
+  Terrain: Collines / Vallées, Caverne naturelle, Ruines extérieures
   ArmorClass: 13 (armure naturelle)
   HitPoints: 105 (10d12+40)
   Speed: 12 m
@@ -22244,6 +22901,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Caverne naturelle, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -22337,6 +22998,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Collines / Vallées, Caverne naturelle, Ruines extérieures
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 105 (10d12+40)
@@ -22368,6 +23031,7 @@ SubItems:
   Type: Géant
   Size: TG
   Alignment: Neutre Bon (50 %) ou Neutre Mauvais (50 %)
+  Terrain: Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 200 (16d12+96)
   Speed: 12 m
@@ -22409,6 +23073,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Neutre Bon (50 %) ou Neutre Mauvais (50 %)<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -22542,6 +23210,8 @@ SubItems:
 
     Alignment: Neutre Bon (50 %) ou Neutre Mauvais (50 %)
 
+    Terrain: Montagnes
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 200 (16d12+96)
@@ -22575,6 +23245,7 @@ SubItems:
   Type: Géant
   Size: TG
   Alignment: neutre
+  Terrain: Montagnes
   ArmorClass: 17 (armure naturelle)
   HitPoints: 126 (11d12+55)
   Speed: 12 m
@@ -22616,6 +23287,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -22725,6 +23400,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Montagnes
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 126 (11d12+55)
@@ -22758,6 +23435,7 @@ SubItems:
   Type: Géant
   Size: TG
   Alignment: Chaotique Bon
+  Terrain: Littoral, Mer / Océan, Ruines sous-marines
   ArmorClass: 16 (armure d'écailles)
   HitPoints: 230 (20d12+100)
   Speed: 15 m, nage 15 m
@@ -22801,6 +23479,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -22942,6 +23624,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Littoral, Mer / Océan, Ruines sous-marines
+
     ArmorClass: 16 (armure d'écailles)
 
     HitPoints: 230 (20d12+100)
@@ -22979,6 +23663,7 @@ SubItems:
   Type: Géant
   Size: TG
   Alignment: Loyal Mauvais
+  Terrain: Désert chaud, Montagnes
   ArmorClass: 18 (harnois)
   HitPoints: 162 (13d12+78)
   Speed: 9 m
@@ -23021,6 +23706,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Montagnes<!--/Terrain-->
 
 
 
@@ -23122,6 +23811,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Désert chaud, Montagnes
+
     ArmorClass: 18 (harnois)
 
     HitPoints: 162 (13d12+78)
@@ -23157,6 +23848,7 @@ SubItems:
   Type: Géant
   Size: TG
   Alignment: Neutre Mauvais
+  Terrain: Arctique / Subarctique
   ArmorClass: 15 (armure composite)
   HitPoints: 138 (12d12+60)
   Speed: 12 m
@@ -23199,6 +23891,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -23300,6 +23996,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 15 (armure composite)
 
     HitPoints: 138 (12d12+60)
@@ -23335,6 +24033,7 @@ SubItems:
   Type: Élémentaire
   Size: G
   Alignment: Chaotique Bon
+  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 17 (armure naturelle)
   HitPoints: 161 (14d10+84)
   Speed: 9 m, vol 27 m
@@ -23376,6 +24075,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -23515,6 +24218,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Montagnes, Plans élémentaires
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 161 (14d10+84)
@@ -23548,6 +24253,7 @@ SubItems:
   Type: Élémentaire
   Size: G
   Alignment: Loyal Mauvais
+  Terrain: Désert chaud, Plans élémentaires
   ArmorClass: 17 (armure naturelle)
   HitPoints: 200 (16d10+112)
   Speed: 12 m, vol 18 m
@@ -23589,6 +24295,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -23722,6 +24432,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Désert chaud, Plans élémentaires
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 200 (16d10+112)
@@ -23755,6 +24467,7 @@ SubItems:
   Type: Humanoïde (gnoll)
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 15 (armure de peau, bouclier)
   HitPoints: 22 (5d8)
   Speed: 9 m
@@ -23794,6 +24507,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -23901,6 +24618,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
+
     ArmorClass: 15 (armure de peau, bouclier)
 
     HitPoints: 22 (5d8)
@@ -23964,6 +24683,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -24110,6 +24833,7 @@ SubItems:
   Type: Humanoïde (gnome)
   Size: P
   Alignment: Neutre Bon
+  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 15 (chemise de mailles)
   HitPoints: 16 (3d6+6)
   Speed: 6 m
@@ -24150,6 +24874,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gnome)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -24273,6 +25001,8 @@ SubItems:
 
     Alignment: Neutre Bon
 
+    Terrain: Caverne aménagée, Ruines souterraines
+
     ArmorClass: 15 (chemise de mailles)
 
     HitPoints: 16 (3d6+6)
@@ -24304,6 +25034,7 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: Neutre Mauvais
+  Terrain: Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
   ArmorClass: 15 (armure de cuir, bouclier)
   HitPoints: 7 (2d6)
   Speed: 9 m
@@ -24344,6 +25075,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée<!--/Terrain-->
 
 
 
@@ -24443,6 +25178,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
+
     ArmorClass: 15 (armure de cuir, bouclier)
 
     HitPoints: 7 (2d6)
@@ -24474,6 +25211,7 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: Neutre Mauvais
+  Terrain: Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
   ArmorClass: 13 (armure de cuir)
   HitPoints: 27 (6d6+6)
   Speed: 9 m
@@ -24509,6 +25247,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée<!--/Terrain-->
 
 
 
@@ -24624,6 +25366,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
+
     ArmorClass: 13 (armure de cuir)
 
     HitPoints: 27 (6d6+6)
@@ -24655,6 +25399,7 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: neutre mauvais
+  Terrain: Arctique / Subarctique
   ArmorClass: 14 (armure de peau)
   HitPoints: 13 (3d6+3)
   Speed: 9 m
@@ -24691,6 +25436,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -24828,6 +25577,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 14 (armure de peau)
 
     HitPoints: 13 (3d6+3)
@@ -24861,6 +25612,7 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: neutre mauvais
+  Terrain: Arctique / Subarctique
   ArmorClass: 14 (armure de peau)
   HitPoints: 22 (5d6+5)
   Speed: 9 m
@@ -24897,6 +25649,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -25034,6 +25790,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 14 (armure de peau)
 
     HitPoints: 22 (5d6+5)
@@ -25067,6 +25825,7 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Collines / Vallées, Caverne aménagée
   ArmorClass: 16 (armure de peau, bouclier)
   HitPoints: 27 (5d8+5)
   Speed: 9 m
@@ -25107,6 +25866,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Caverne aménagée<!--/Terrain-->
 
 
 
@@ -25212,6 +25975,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Collines / Vallées, Caverne aménagée
+
     ArmorClass: 16 (armure de peau, bouclier)
 
     HitPoints: 27 (5d8+5)
@@ -25243,6 +26008,7 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Collines / Vallées, Caverne aménagée
   ArmorClass: 16 (armure de peau, bouclier)
   HitPoints: 55 (10d8+10)
   Speed: 9 m
@@ -25278,6 +26044,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Caverne aménagée<!--/Terrain-->
 
 
 
@@ -25407,6 +26177,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Collines / Vallées, Caverne aménagée
+
     ArmorClass: 16 (armure de peau, bouclier)
 
     HitPoints: 55 (10d8+10)
@@ -25438,6 +26210,7 @@ SubItems:
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
+  Terrain: Donjon maçonné
   ArmorClass: 14 (armure naturelle)
   HitPoints: 133 (14d10+56)
   Speed: 6 m
@@ -25479,6 +26252,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -25618,6 +26395,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 133 (14d10+56)
@@ -25651,6 +26430,7 @@ SubItems:
   Type: Créature artificielle
   Size: M
   Alignment: neutre
+  Terrain: Donjon maçonné
   ArmorClass: 9
   HitPoints: 93 (11d8+44)
   Speed: 9 m
@@ -25692,6 +26472,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -25849,6 +26633,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 9
 
     HitPoints: 93 (11d8+44)
@@ -25882,6 +26668,7 @@ SubItems:
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
+  Terrain: Donjon maçonné
   ArmorClass: 20 (armure naturelle)
   HitPoints: 210 (20d10+100)
   Speed: 9 m
@@ -25923,6 +26710,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -26056,6 +26847,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 20 (armure naturelle)
 
     HitPoints: 210 (20d10+100)
@@ -26089,6 +26882,7 @@ SubItems:
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
+  Terrain: Donjon maçonné
   ArmorClass: 17 (armure naturelle)
   HitPoints: 178 (17d10+85)
   Speed: 9 m
@@ -26130,6 +26924,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -26245,6 +27043,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 178 (17d10+85)
@@ -26278,6 +27078,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 19 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 12 m
@@ -26319,6 +27120,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -26434,6 +27239,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 114 (12d10+48)
@@ -26467,6 +27274,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Ruines extérieures, Ruines souterraines
   ArmorClass: 12
   HitPoints: 22 (5d8)
   Speed: 9 m
@@ -26508,6 +27316,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines extérieures, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -26599,6 +27411,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Ruines extérieures, Ruines souterraines
+
     ArmorClass: 12
 
     HitPoints: 22 (5d8)
@@ -26632,6 +27446,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Ruines extérieures, Ruines souterraines
   ArmorClass: 13
   HitPoints: 36 (8d8)
   Speed: 9 m
@@ -26647,19 +27462,19 @@ SubItems:
   Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
   Languages: commun
   Challenge: 2 (450 PX)
-  Id: monsters_hd.md#blême
+  Id: monsters_hd.md#goule-blême
   ParentLink: monsters_hd.md#créatures
-  Name: Blême
+  Name: Goule Blême
   ParentName: Créatures
   NameLevel: 1
   AltName: '[Ghast](srd_monsters_ghast.md)'
   Source: (CEO p)(SRD p)
   AttributesDictionary: >+
-    Name: Blême
+    Name: Goule Blême
 
     Markdown: >+
 
-      # <!--Name-->Blême<!--/Name-->
+      # <!--Name-->Goule Blême<!--/Name-->
 
 
 
@@ -26674,6 +27489,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines extérieures, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -26787,6 +27606,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Ruines extérieures, Ruines souterraines
+
     ArmorClass: 13
 
     HitPoints: 36 (8d8)
@@ -26822,6 +27643,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
+  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 27 (6d8)
   Speed: 9 m, escalade 9 m
@@ -26862,6 +27684,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -26967,6 +27793,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Caverne aménagée, Ruines souterraines
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 27 (6d8)
@@ -26998,6 +27826,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
+  Terrain: Montagnes
   ArmorClass: 12
   HitPoints: 59 (7d10+21)
   Speed: 9 m, vol 24 m
@@ -27038,6 +27867,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -27143,6 +27976,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Montagnes
+
     ArmorClass: 12
 
     HitPoints: 59 (7d10+21)
@@ -27174,6 +28009,7 @@ SubItems:
   Type: Fée
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
   ArmorClass: 14 (armure naturelle)
   HitPoints: 52 (7d8+21)
   Speed: 9 m, nage 12 m
@@ -27213,6 +28049,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -27326,6 +28166,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 52 (7d8+21)
@@ -27355,6 +28197,7 @@ SubItems:
   Type: Fiélon
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Donjon maçonné
   ArmorClass: 17 (armure naturelle)
   HitPoints: 112 (15d8+45)
   Speed: 9 m
@@ -27397,6 +28240,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -27534,6 +28381,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 112 (15d8+45)
@@ -27569,6 +28418,7 @@ SubItems:
   Type: Fée
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Bois / Forêt, Collines / Vallées, Mangrove / Marécage
   ArmorClass: 17 (armure naturelle)
   HitPoints: 82 (11d8+33)
   Speed: 9 m
@@ -27609,6 +28459,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -27738,6 +28592,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Bois / Forêt, Collines / Vallées, Mangrove / Marécage
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 82 (11d8+33)
@@ -27769,6 +28625,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Littoral, Montagnes, Ruines extérieures
   ArmorClass: 11
   HitPoints: 38 (7d8+7)
   Speed: 6 m, vol 12 m
@@ -27808,6 +28665,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Montagnes, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -27921,6 +28782,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Littoral, Montagnes, Ruines extérieures
+
     ArmorClass: 11
 
     HitPoints: 38 (7d8+7)
@@ -27950,6 +28813,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Caverne naturelle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 59 (7d10+21)
   Speed: 12 m
@@ -27990,6 +28854,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -28095,6 +28963,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Caverne naturelle
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 59 (7d10+21)
@@ -28126,6 +28996,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
+  Terrain: Littoral, Montagnes
   ArmorClass: 11
   HitPoints: 19 (3d10+3)
   Speed: 12 m, vol 18 m
@@ -28166,6 +29037,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Montagnes<!--/Terrain-->
 
 
 
@@ -28271,6 +29146,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Littoral, Montagnes
+
     ArmorClass: 11
 
     HitPoints: 19 (3d10+3)
@@ -28302,6 +29179,7 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 18 (bouclier, cotte de mailles)
   HitPoints: 11 (2d8+2)
   Speed: 9 m
@@ -28341,6 +29219,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -28436,6 +29318,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Plaine / Champs / Prairie / Savane, Ruines extérieures
+
     ArmorClass: 18 (bouclier, cotte de mailles)
 
     HitPoints: 11 (2d8+2)
@@ -28465,6 +29349,7 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 18 (bouclier, cotte de mailles)
   HitPoints: 29 (5d8+7)
   Speed: 9 m
@@ -28499,6 +29384,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -28604,6 +29493,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Plaine / Champs / Prairie / Savane, Ruines extérieures
+
     ArmorClass: 18 (bouclier, cotte de mailles)
 
     HitPoints: 29 (5d8+7)
@@ -28633,6 +29524,7 @@ SubItems:
   Type: Humanoïde (homme-lézard)
   Size: M
   Alignment: Neutre
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 15 (armure naturelle, bouclier)
   HitPoints: 22 (4d8+4)
   Speed: 9 m, nage 9 m
@@ -28673,6 +29565,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (homme-lézard)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -28802,6 +29698,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Mangrove / Marécage, Caverne sous-marine
+
     ArmorClass: 15 (armure naturelle, bouclier)
 
     HitPoints: 22 (4d8+4)
@@ -28833,6 +29731,7 @@ SubItems:
   Type: Humanoïde (homme-lézard)
   Size: M
   Alignment: Neutre
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 15 (armure naturelle, bouclier)
   HitPoints: 44 (8d8+8)
   Speed: 9 m, nage 9 m
@@ -28868,6 +29767,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (homme-lézard)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -28995,6 +29898,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Mangrove / Marécage, Caverne sous-marine
+
     ArmorClass: 15 (armure naturelle, bouclier)
 
     HitPoints: 44 (8d8+8)
@@ -29026,6 +29931,7 @@ SubItems:
   Type: Humanoïde (homme-poisson)
   Size: M
   Alignment: Neutre
+  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 11
   HitPoints: 11 (2d8+2)
   Speed: 3 m, nage 12 m
@@ -29066,6 +29972,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (homme-poisson)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -29153,6 +30063,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Mer / Océan, Ruines sous-marines
+
     ArmorClass: 11
 
     HitPoints: 11 (2d8+2)
@@ -29184,6 +30096,7 @@ SubItems:
   Type: Créature artificielle
   Size: TP
   Alignment: neutre
+  Terrain: Donjon maçonné
   ArmorClass: 13 (armure naturelle)
   HitPoints: 5 (2d4)
   Speed: 6 m, vol 12 m
@@ -29225,6 +30138,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -29316,6 +30233,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 5 (2d4)
@@ -29349,6 +30268,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: TG
   Alignment: non-alignée
+  Terrain: Littoral, Caverne sous-marine
   ArmorClass: 15 (armure naturelle)
   HitPoints: 172 (15d12+75)
   Speed: 9 m, nage 9 m
@@ -29389,6 +30309,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -29512,6 +30436,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Littoral, Caverne sous-marine
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 172 (15d12+75)
@@ -29543,6 +30469,7 @@ SubItems:
   Type: Humanoïde (kobold)
   Size: P
   Alignment: Loyal Mauvais
+  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   ArmorClass: 12
   HitPoints: 5 (2d6-2)
   Speed: 9 m
@@ -29582,6 +30509,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (kobold)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne aménagée<!--/Terrain-->
 
 
 
@@ -29683,6 +30614,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
+
     ArmorClass: 12
 
     HitPoints: 5 (2d6-2)
@@ -29712,6 +30645,7 @@ SubItems:
   Type: Humanoïde (kobold)
   Size: P
   Alignment: Neutre Mauvais
+  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   ArmorClass: 13
   HitPoints: 17 (5d6)
   Speed: 9 m
@@ -29746,6 +30680,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (kobold)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne aménagée<!--/Terrain-->
 
 
 
@@ -29857,6 +30795,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
+
     ArmorClass: 13
 
     HitPoints: 17 (5d6)
@@ -29886,6 +30826,7 @@ SubItems:
   Type: Créature monstrueuse (titan)
   Size: Gig
   Alignment: Chaotique Mauvais
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 18 (armure naturelle)
   HitPoints: 472 (27d20+189)
   Speed: 6 m, nage 18 m
@@ -29928,6 +30869,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -30101,6 +31046,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 472 (27d20+189)
@@ -30136,6 +31083,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Désert chaud
   ArmorClass: 13 (armure naturelle)
   HitPoints: 97 (13d10+26)
   Speed: 9 m
@@ -30176,6 +31124,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -30311,6 +31263,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Désert chaud
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 97 (13d10+26)
@@ -30342,6 +31296,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: alignement Mauvais
+  Terrain: Donjon maçonné
   ArmorClass: 17 (armure naturelle)
   HitPoints: 135 (18d8+54)
   Speed: 9 m
@@ -30385,6 +31340,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->alignement Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -30598,6 +31557,8 @@ SubItems:
 
     Alignment: alignement Mauvais
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 135 (18d8+54)
@@ -30635,6 +31596,7 @@ SubItems:
   Type: Céleste
   Size: G
   Alignment: Loyal Bon
+  Terrain: Bois / Forêt
   ArmorClass: 12
   HitPoints: 67 (9d10+18)
   Speed: 15 m
@@ -30676,6 +31638,10 @@ SubItems:
 
 
       -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -30857,6 +31823,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 12
 
     HitPoints: 67 (9d10+18)
@@ -30890,6 +31858,7 @@ SubItems:
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Bois / Forêt, Montagnes
   ArmorClass: 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
   HitPoints: 58 (9d8+18)
   Speed: 9 m (12 m sous forme de loup)
@@ -30931,6 +31900,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Montagnes<!--/Terrain-->
 
 
 
@@ -31058,6 +32031,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Bois / Forêt, Montagnes
+
     ArmorClass: 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
 
     HitPoints: 58 (9d8+18)
@@ -31091,6 +32066,7 @@ SubItems:
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Neutre Bon
+  Terrain: Bois / Forêt
   ArmorClass: 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
   HitPoints: 135 (18d8+54)
   Speed: 9 m (12 m, escalade 9 m sous forme hybride ou d'ours)
@@ -31132,6 +32108,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -31259,6 +32239,8 @@ SubItems:
 
     Alignment: Neutre Bon
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
 
     HitPoints: 135 (18d8+54)
@@ -31292,6 +32274,7 @@ SubItems:
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Caverne naturelle
   ArmorClass: 12
   HitPoints: 33 (6d8+6)
   Speed: 9 m
@@ -31333,6 +32316,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 
 
 
@@ -31460,6 +32447,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Caverne naturelle
+
     ArmorClass: 12
 
     HitPoints: 33 (6d8+6)
@@ -31493,6 +32482,7 @@ SubItems:
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Bois / Forêt
   ArmorClass: 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier
   HitPoints: 78 (12d8+24)
   Speed: 9 m (12 m sous forme de sanglier)
@@ -31534,6 +32524,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -31655,6 +32649,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier
 
     HitPoints: 78 (12d8+24)
@@ -31688,6 +32684,7 @@ SubItems:
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Neutre
+  Terrain: Jungle
   ArmorClass: 12
   HitPoints: 120 (16d8+48)
   Speed: 9 m (12 m sous forme de tigre)
@@ -31729,6 +32726,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -31874,6 +32875,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Jungle
+
     ArmorClass: 12
 
     HitPoints: 120 (16d8+48)
@@ -31907,6 +32910,7 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Chaotique Neutre
+  Terrain: Plans élémentaires
   ArmorClass: 14 (armure naturelle)
   HitPoints: 9 (2d6+2)
   Speed: 9 m
@@ -31948,6 +32952,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 
 
 
@@ -32057,6 +33065,8 @@ SubItems:
 
     Alignment: Chaotique Neutre
 
+    Terrain: Plans élémentaires
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 9 (2d6+2)
@@ -32090,6 +33100,7 @@ SubItems:
   Type: Aberration
   Size: G
   Alignment: Chaotique Neutre
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 78 (12d10+12)
   Speed: 3 m, vol 12 m
@@ -32130,6 +33141,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -32277,6 +33292,8 @@ SubItems:
 
     Alignment: Chaotique Neutre
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 78 (12d10+12)
@@ -32308,6 +33325,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: P
   Alignment: non-alignée
+  Terrain: Caverne naturelle
   ArmorClass: 11
   HitPoints: 22 (5d6+5)
   Speed: 3 m, vol 9 m
@@ -32348,6 +33366,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 
 
 
@@ -32465,6 +33487,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne naturelle
+
     ArmorClass: 11
 
     HitPoints: 22 (5d6+5)
@@ -32496,6 +33520,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Mauvais
+  Terrain: Désert chaud, Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 68 (8d10+24)
   Speed: 9 m, vol 15 m
@@ -32535,6 +33560,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Montagnes<!--/Terrain-->
 
 
 
@@ -32648,6 +33677,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Désert chaud, Montagnes
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 68 (8d10+24)
@@ -32677,6 +33708,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 127 (17d8+51)
   Speed: 9 m
@@ -32717,6 +33749,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -32846,6 +33882,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 127 (17d8+51)
@@ -32877,6 +33915,7 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
+  Terrain: Arctique / Subarctique, Montagnes, Plans élémentaires
   ArmorClass: 11
   HitPoints: 21 (6d6)
   Speed: 9 m, vol 9 m
@@ -32920,6 +33959,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Montagnes, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -33043,6 +34086,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Arctique / Subarctique, Montagnes, Plans élémentaires
+
     ArmorClass: 11
 
     HitPoints: 21 (6d6)
@@ -33080,6 +34125,7 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
+  Terrain: Plans élémentaires
   ArmorClass: 11
   HitPoints: 22 (5d6+5)
   Speed: 9 m, vol 9 m
@@ -33123,6 +34169,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 
 
 
@@ -33240,6 +34290,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Plans élémentaires
+
     ArmorClass: 11
 
     HitPoints: 22 (5d6+5)
@@ -33277,6 +34329,7 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
+  Terrain: Désert chaud, Plans élémentaires, Caverne naturelle, Ruines souterraines
   ArmorClass: 12
   HitPoints: 17 (5d6)
   Speed: 9 m, vol 9 m
@@ -33320,6 +34373,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plans élémentaires, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -33437,6 +34494,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Désert chaud, Plans élémentaires, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 12
 
     HitPoints: 17 (5d6)
@@ -33474,6 +34533,7 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
+  Terrain: Littoral, Plans élémentaires, Caverne sous-marine
   ArmorClass: 10
   HitPoints: 21 (6d6)
   Speed: 9 m, vol 9 m
@@ -33515,6 +34575,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Plans élémentaires, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -33624,6 +34688,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Littoral, Plans élémentaires, Caverne sous-marine
+
     ArmorClass: 10
 
     HitPoints: 21 (6d6)
@@ -33657,6 +34723,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Littoral, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 45 (6d10+12)
   Speed: 3 m, nage 12 m
@@ -33696,6 +34763,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -33815,6 +34886,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Littoral, Caverne sous-marine, Ruines sous-marines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 45 (6d10+12)
@@ -33844,6 +34917,7 @@ SubItems:
   Type: Créature monstrueuse (métamorphe)
   Size: M
   Alignment: Neutre
+  Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 58 (9d8+18)
   Speed: 4,50 m
@@ -33886,6 +34960,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -34017,6 +35095,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 58 (9d8+18)
@@ -34052,6 +35132,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Caverne aménagée, Donjon maçonné, Ruines extérieures
   ArmorClass: 14 (armure naturelle)
   HitPoints: 76 (9d10+27)
   Speed: 12 m
@@ -34092,6 +35173,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -34209,6 +35294,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Caverne aménagée, Donjon maçonné, Ruines extérieures
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 76 (9d10+27)
@@ -34281,6 +35368,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -34417,6 +35508,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 11 (armure naturelle)
   HitPoints: 58 (9d8+18)
   Speed: 6 m
@@ -34461,6 +35553,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -34570,6 +35666,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Donjon maçonné, Ruines souterraines
+
     ArmorClass: 11 (armure naturelle)
 
     HitPoints: 58 (9d8+18)
@@ -34609,6 +35707,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 17 (armure naturelle)
   HitPoints: 97 (13d8+39)
   Speed: 6 m
@@ -34653,6 +35752,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -34882,6 +35985,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Donjon maçonné, Ruines souterraines
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 97 (13d8+39)
@@ -34921,6 +36026,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 75 (10d10+20)
   Speed: 12 m
@@ -34963,6 +36069,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -35100,6 +36210,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Caverne aménagée, Ruines souterraines
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 75 (10d10+20)
@@ -35135,6 +36247,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Bon
+  Terrain: Ruines extérieures
   ArmorClass: 18 (armure naturelle)
   HitPoints: 127 (15d10+45)
   Speed: 12 m
@@ -35177,6 +36290,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 
 
 
@@ -35332,6 +36449,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Ruines extérieures
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 127 (15d10+45)
@@ -35367,6 +36486,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Mangrove / Marécage, Caverne naturelle, Ruines souterraines
   ArmorClass: 14 (armure de cuir clouté)
   HitPoints: 45 (6d8+18)
   Speed: 9 m
@@ -35410,6 +36530,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -35545,6 +36669,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Mangrove / Marécage, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 14 (armure de cuir clouté)
 
     HitPoints: 45 (6d8+18)
@@ -35582,6 +36708,7 @@ SubItems:
   Type: Créature artificielle
   Size: M
   Alignment: non-alignée
+  Terrain: Donjon maçonné
   ArmorClass: 18 (armure naturelle)
   HitPoints: 33 (6d8+6)
   Speed: 7,50 m
@@ -35623,6 +36750,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -35726,6 +36857,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 33 (6d8+6)
@@ -35759,6 +36892,7 @@ SubItems:
   Type: Créature artificielle
   Size: P
   Alignment: non-alignée
+  Terrain: Donjon maçonné
   ArmorClass: 17 (armure naturelle)
   HitPoints: 17 (5d6)
   Speed: 0 m, vol 15 m (vol stationnaire)
@@ -35801,6 +36935,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -35902,6 +37040,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 17 (5d6)
@@ -35937,6 +37077,7 @@ SubItems:
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
+  Terrain: Donjon maçonné
   ArmorClass: 12
   HitPoints: 33 (6d10)
   Speed: 3 m
@@ -35978,6 +37119,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -36093,6 +37238,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 12
 
     HitPoints: 33 (6d10)
@@ -36126,6 +37273,7 @@ SubItems:
   Type: Géant
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane, Caverne naturelle, Ruines extérieures
   ArmorClass: 11 (armure de peau)
   HitPoints: 59 (7d10+21)
   Speed: 12 m
@@ -36165,6 +37313,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane, Caverne naturelle, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -36248,6 +37400,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane, Caverne naturelle, Ruines extérieures
+
     ArmorClass: 11 (armure de peau)
 
     HitPoints: 59 (7d10+21)
@@ -36277,6 +37431,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
   ArmorClass: 12
   HitPoints: 16 (3d8+3)
   Speed: 12 m
@@ -36321,6 +37476,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -36442,6 +37601,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
+
     ArmorClass: 12
 
     HitPoints: 16 (3d8+3)
@@ -36522,6 +37683,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -36694,6 +37859,7 @@ SubItems:
   Type: Humanoïde (orc)
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 13 (armure de peau)
   HitPoints: 15 (2d8+6)
   Speed: 9 m
@@ -36729,6 +37895,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (orc)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -36826,6 +37996,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Caverne aménagée, Ruines souterraines
+
     ArmorClass: 13 (armure de peau)
 
     HitPoints: 15 (2d8+6)
@@ -36857,6 +38029,7 @@ SubItems:
   Type: Humanoïde (demi-orc)
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 13 (armure de cuir)
   HitPoints: 33 (6d8+6)
   Speed: 9 m
@@ -36892,6 +38065,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (demi-orc)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -37007,6 +38184,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Caverne aménagée, Ruines souterraines
+
     ArmorClass: 13 (armure de cuir)
 
     HitPoints: 33 (6d8+6)
@@ -37038,6 +38217,7 @@ SubItems:
   Type: Aberration
   Size: G
   Alignment: Neutre
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 14 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 9 m
@@ -37078,6 +38258,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -37201,6 +38385,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 114 (12d10+48)
@@ -37232,6 +38418,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: non-alignée
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 27 (5d8+5)
   Speed: 12 m
@@ -37271,6 +38458,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -37378,6 +38569,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 27 (5d8+5)
@@ -37407,6 +38600,7 @@ SubItems:
   Type: Aberration
   Size: TP
   Alignment: Neutre
+  Terrain: Ruines souterraines
   ArmorClass: 12
   HitPoints: 7 (2d6)
   Speed: 9 m au sol
@@ -37444,6 +38638,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -37595,6 +38793,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 12
 
     HitPoints: 7 (2d6)
@@ -37671,6 +38871,10 @@ SubItems:
 
 
       -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -37783,6 +38987,7 @@ SubItems:
   Type: Dragon
   Size: TP
   Alignment: Neutre Bon
+  Terrain: Bois / Forêt, Jungle, Caverne naturelle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 7 (2d4+2)
   Speed: 4,50 m, vol 18 m
@@ -37823,6 +39028,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -37934,6 +39143,8 @@ SubItems:
 
     Alignment: Neutre Bon
 
+    Terrain: Bois / Forêt, Jungle, Caverne naturelle
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 7 (2d4+2)
@@ -38007,6 +39218,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -38173,6 +39388,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: TG
   Alignment: non-alignée
+  Terrain: Arctique / Subarctique
   ArmorClass: 17 (armure naturelle)
   HitPoints: 195 (17d12+85)
   Speed: 9 m, fouissement 6 m
@@ -38208,6 +39424,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -38311,6 +39531,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 195 (17d12+85)
@@ -38342,6 +39564,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: Gig
   Alignment: non-alignée
+  Terrain: Montagnes
   ArmorClass: 15 (armure naturelle)
   HitPoints: 248 (16d20+80)
   Speed: 6 m, vol 36 m
@@ -38383,6 +39606,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -38492,6 +39719,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Montagnes
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 248 (16d20+80)
@@ -38525,6 +39754,7 @@ SubItems:
   Type: Humanoïde (sahuagin)
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 12 (armure naturelle)
   HitPoints: 22 (4d8+4)
   Speed: 9 m, nage 12 m
@@ -38565,6 +39795,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (sahuagin)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -38694,6 +39928,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 22 (4d8+4)
@@ -38725,6 +39961,7 @@ SubItems:
   Type: Humanoïde (sahuagin)
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 14 (armure de coquillages)
   HitPoints: 50 (9d8+9)
   Speed: 9 m, nage 12 m
@@ -38760,6 +39997,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (sahuagin)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -38923,6 +40164,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine
+
     ArmorClass: 14 (armure de coquillages)
 
     HitPoints: 50 (9d8+9)
@@ -38954,6 +40197,7 @@ SubItems:
   Type: Élémentaire
   Size: G
   Alignment: Neutre Mauvais
+  Terrain: Plans élémentaires
   ArmorClass: 15 (armure naturelle)
   HitPoints: 90 (12d10+24)
   Speed: 9 m
@@ -38996,6 +40240,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 
 
 
@@ -39115,6 +40363,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Plans élémentaires
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 90 (12d10+24)
@@ -39150,6 +40400,7 @@ SubItems:
   Type: Fée
   Size: M
   Alignment: Chaotique Neutre
+  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 14 (armure de cuir)
   HitPoints: 31 (7d8)
   Speed: 12 m
@@ -39190,6 +40441,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -39301,6 +40556,8 @@ SubItems:
 
     Alignment: Chaotique Neutre
 
+    Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 14 (armure de cuir)
 
     HitPoints: 31 (7d8)
@@ -39332,6 +40589,7 @@ SubItems:
   Type: Plante
   Size: TG
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 16 (armure naturelle)
   HitPoints: 115 (10d12+50)
   Speed: 0 m
@@ -39369,6 +40627,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -39480,6 +40742,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 115 (10d12+50)
@@ -39515,6 +40779,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: Gig
   Alignment: non-alignée
+  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 18 (armure naturelle)
   HitPoints: 231 (14d20+84)
   Speed: nage 15 m
@@ -39550,6 +40815,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -39695,6 +40964,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mer / Océan, Ruines sous-marines
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 231 (14d20+84)
@@ -39726,6 +40997,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Ruines extérieures
   ArmorClass: 12
   HitPoints: 22 (5d8)
   Speed: 0 m, vol 15 m
@@ -39768,6 +41040,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 
 
 
@@ -39869,6 +41145,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Ruines extérieures
+
     ArmorClass: 12
 
     HitPoints: 22 (5d8)
@@ -39904,6 +41182,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Neutre
+  Terrain: Désert chaud, Donjon maçonné, Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 199 (19d10+95)
   Speed: 12 m, vol 18 m
@@ -39947,6 +41226,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Donjon maçonné, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -40160,6 +41443,8 @@ SubItems:
 
     Alignment: Loyal Neutre
 
+    Terrain: Désert chaud, Donjon maçonné, Ruines extérieures
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 199 (19d10+95)
@@ -40197,6 +41482,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Neutre
+  Terrain: Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 136 (16d10+48)
   Speed: 12 m, vol 18 m
@@ -40240,6 +41526,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -40423,6 +41713,8 @@ SubItems:
 
     Alignment: Loyal Neutre
 
+    Terrain: Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 136 (16d10+48)
@@ -40460,6 +41752,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Donjon maçonné, Ruines extérieures
   ArmorClass: 13 (débris d'armure)
   HitPoints: 13 (2d8+4)
   Speed: 9 m
@@ -40502,6 +41795,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -40597,6 +41894,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Donjon maçonné, Ruines extérieures
+
     ArmorClass: 13 (débris d'armure)
 
     HitPoints: 13 (2d8+4)
@@ -40674,6 +41973,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -40792,6 +42095,7 @@ SubItems:
   Type: Mort-vivant
   Size: G
   Alignment: Loyal Mauvais
+  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 67 (9d10+18)
   Speed: 12 m
@@ -40834,6 +42138,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -40941,6 +42249,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Donjon maçonné, Ruines souterraines
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 67 (9d10+18)
@@ -40976,6 +42286,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 14 (armure naturelle)
   HitPoints: 2 (1d4)
   Speed: 3 m, vol 12 m
@@ -41015,6 +42326,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -41098,6 +42413,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 2 (1d4)
@@ -41168,6 +42485,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -41328,6 +42649,7 @@ SubItems:
   Type: Plante
   Size: TG
   Alignment: Chaotique Bonne
+  Terrain: Bois / Forêt
   ArmorClass: 15 (armure naturelle)
   HitPoints: 138 (12d12+60)
   Speed: 9 m
@@ -41369,6 +42691,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bonne<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -41490,6 +42816,8 @@ SubItems:
 
     Alignment: Chaotique Bonne
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 138 (12d12+60)
@@ -41565,6 +42893,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -41815,6 +43147,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 16 (armure naturelle)
   HitPoints: 102 (12d10+36)
   Speed: 9 m, fouissement 6 m
@@ -41851,6 +43184,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -41964,6 +43301,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 102 (12d10+36)
@@ -41997,6 +43336,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre
+  Terrain: Caverne naturelle
   ArmorClass: 15 (armure naturelle)
   HitPoints: 32 (5d8+10)
   Speed: 6 m, fouissement 6 m
@@ -42033,6 +43373,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 
 
 
@@ -42116,6 +43460,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Caverne naturelle
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 32 (5d8+10)
@@ -42149,6 +43495,7 @@ SubItems:
   Type: Plante
   Size: G
   Alignment: non-alignée
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 15 (armure naturelle)
   HitPoints: 136 (16d10+48)
   Speed: 6 m, nage 6 m
@@ -42192,6 +43539,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -42303,6 +43654,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 136 (16d10+48)
@@ -42340,6 +43693,7 @@ SubItems:
   Type: Humanoïde (torve)
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Caverne aménagée
   ArmorClass: 11
   HitPoints: 11 (2d8+2)
   Speed: 9 m
@@ -42381,6 +43735,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (torve)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 
 
 
@@ -42484,6 +43842,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Caverne aménagée
+
     ArmorClass: 11
 
     HitPoints: 11 (2d8+2)
@@ -42517,6 +43877,7 @@ SubItems:
   Type: Élémentaire
   Size: M
   Alignment: neutre
+  Terrain: Plans élémentaires
   ArmorClass: 14
   HitPoints: 104 (16d8+32)
   Speed: 15 m, vol 15 m (vol stationnaire)
@@ -42559,6 +43920,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 
 
 
@@ -42666,6 +44031,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Plans élémentaires
+
     ArmorClass: 14
 
     HitPoints: 104 (16d8+32)
@@ -42701,6 +44068,7 @@ SubItems:
   Type: Géant
   Size: G
   Alignment: Chaotique Mauvais
+  Terrain: Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
   ArmorClass: 15 (armure naturelle)
   HitPoints: 84 (8d10+40)
   Speed: 9 m
@@ -42741,6 +44109,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes<!--/Terrain-->
 
 
 
@@ -42852,6 +44224,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 84 (8d10+40)
@@ -42883,6 +44257,7 @@ SubItems:
   Type: Mort-vivant (métamorphe)
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Donjon maçonné
   ArmorClass: 16 (armure naturelle)
   HitPoints: 144 (17d8+68)
   Speed: 9 m
@@ -42925,6 +44300,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -43170,6 +44549,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 144 (17d8+68)
@@ -43205,6 +44586,7 @@ SubItems:
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Donjon maçonné
   ArmorClass: 15 (armure naturelle)
   HitPoints: 82 (11d8+33)
   Speed: 9 m
@@ -43247,6 +44629,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -43402,6 +44788,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 82 (11d8+33)
@@ -43437,6 +44825,7 @@ SubItems:
   Type: Vase
   Size: G
   Alignment: non-alignée
+  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 6
   HitPoints: 84 (8d10+40)
   Speed: 4,50 m
@@ -43477,6 +44866,10 @@ SubItems:
 
 
       -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -43618,6 +45011,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Donjon maçonné, Ruines souterraines
+
     ArmorClass: 6
 
     HitPoints: 84 (8d10+40)
@@ -43649,6 +45044,7 @@ SubItems:
   Type: Vase
   Size: G
   Alignment: non-alignée
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 8
   HitPoints: 45 (6d10+12)
   Speed: 3 m, escalade 3 m
@@ -43691,6 +45087,10 @@ SubItems:
 
 
       -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -43804,6 +45204,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 8
 
     HitPoints: 45 (6d10+12)
@@ -43839,6 +45241,7 @@ SubItems:
   Type: Vase
   Size: G
   Alignment: non-alignée
+  Terrain: Caverne aménagée, Caverne naturelle, Donjon maçonné
   ArmorClass: 7
   HitPoints: 85 (10d10+30)
   Speed: 6 m, escalade 6 m
@@ -43880,6 +45283,10 @@ SubItems:
 
 
       -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Donjon maçonné<!--/Terrain-->
 
 
 
@@ -44001,6 +45408,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne aménagée, Caverne naturelle, Donjon maçonné
+
     ArmorClass: 7
 
     HitPoints: 85 (10d10+30)
@@ -44034,6 +45443,7 @@ SubItems:
   Type: Vase
   Size: M
   Alignment: non-alignée
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 8
   HitPoints: 22 (3d8+9)
   Speed: 3 m, escalade 3 m
@@ -44076,6 +45486,10 @@ SubItems:
 
 
       -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -44195,6 +45609,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 8
 
     HitPoints: 22 (3d8+9)
@@ -44230,6 +45646,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: Gig
   Alignment: non-alignée
+  Terrain: Montagnes, Caverne naturelle
   ArmorClass: 18 (armure naturelle)
   HitPoints: 247 (15d20+90)
   Speed: 15 m, fouissement 9 m
@@ -44270,6 +45687,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -44387,6 +45808,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Montagnes, Caverne naturelle
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 247 (15d20+90)
@@ -44418,6 +45841,7 @@ SubItems:
   Type: Dragon
   Size: G
   Alignment: non-alignée
+  Terrain: Littoral, Montagnes
   ArmorClass: 13 (armure naturelle)
   HitPoints: 110 (13d10+39)
   Speed: 6 m, vol 24 m
@@ -44458,6 +45882,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Montagnes<!--/Terrain-->
 
 
 
@@ -44563,6 +45991,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Littoral, Montagnes
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 110 (13d10+39)
@@ -44594,6 +46024,7 @@ SubItems:
   Type: Élémentaire
   Size: M
   Alignment: Neutre
+  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 19 (armure naturelle)
   HitPoints: 73 (7d8+42)
   Speed: 6 m, fouissement 6 m
@@ -44635,6 +46066,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -44756,6 +46191,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Montagnes, Plans élémentaires
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 73 (7d8+42)
@@ -44831,6 +46268,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -45006,6 +46447,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->8<!--/ArmorClass-->
 
 
@@ -45133,6 +46578,7 @@ SubItems:
   Type: Bête
   Size: P
   Alignment: non-alignée
+  Terrain: Mer / Océan, Montagnes
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 3 m, vol 18 m
@@ -45173,6 +46619,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Montagnes<!--/Terrain-->
 
 
 
@@ -45260,6 +46710,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mer / Océan, Montagnes
+
     ArmorClass: 12
 
     HitPoints: 3 (1d6)
@@ -45291,6 +46743,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: neutre bon
+  Terrain: Montagnes
   ArmorClass: 13
   HitPoints: 26 (4d10+4)
   Speed: 3 m, vol 24 m
@@ -45331,6 +46784,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -45436,6 +46893,8 @@ SubItems:
 
     Alignment: neutre bon
 
+    Terrain: Montagnes
+
     ArmorClass: 13
 
     HitPoints: 26 (4d10+4)
@@ -45467,6 +46926,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Jungle
   ArmorClass: 12
   HitPoints: 1 (1d4-1)
   Speed: 6 m, escalade 6 m
@@ -45507,6 +46967,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 
 
 
@@ -45606,6 +47070,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Jungle
+
     ArmorClass: 12
 
     HitPoints: 1 (1d4-1)
@@ -45637,6 +47103,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Caverne naturelle, Ruines extérieures
   ArmorClass: 13 (armure naturelle)
   HitPoints: 32 (5d10+5)
   Speed: 9 m, escalade 9 m
@@ -45677,6 +47144,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -45776,6 +47247,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Caverne naturelle, Ruines extérieures
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 32 (5d10+5)
@@ -45807,6 +47280,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Caverne naturelle, Ruines extérieures
   ArmorClass: 14 (armure naturelle)
   HitPoints: 26 (4d10+4)
   Speed: 9 m, escalade 9 m
@@ -45847,6 +47321,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -45958,6 +47436,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne naturelle, Ruines extérieures
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 26 (4d10+4)
@@ -45989,6 +47469,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 11 (2d8+2)
   Speed: 12 m, escalade 12 m
@@ -46029,6 +47510,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -46128,6 +47613,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13
 
     HitPoints: 11 (2d8+2)
@@ -46159,6 +47646,7 @@ SubItems:
   Type: Plante
   Size: TG
   Alignment: non-alignée
+  Terrain: Bois / Forêt
   ArmorClass: 13 (armure naturelle)
   HitPoints: 59 (7d12+14)
   Speed: 6 m
@@ -46200,6 +47688,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -46291,6 +47783,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 59 (7d12+14)
@@ -46324,6 +47818,7 @@ SubItems:
   Type: Plante
   Size: P
   Alignment: non-alignée
+  Terrain: Bois / Forêt
   ArmorClass: 9
   HitPoints: 10 (3d6)
   Speed: 6 m
@@ -46365,6 +47860,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -46456,6 +47955,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 9
 
     HitPoints: 10 (3d6)
@@ -46489,6 +47990,7 @@ SubItems:
   Type: Bête
   Size: P
   Alignment: non-alignée
+  Terrain: Jungle
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 9 m, escalade 9 m
@@ -46528,6 +48030,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -46611,6 +48117,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle
+
     ArmorClass: 12
 
     HitPoints: 3 (1d6)
@@ -46640,6 +48148,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Jungle
   ArmorClass: 11
   HitPoints: 19 (3d10+3)
   Speed: 15 m
@@ -46679,6 +48188,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -46750,6 +48263,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle
+
     ArmorClass: 11
 
     HitPoints: 19 (3d10+3)
@@ -46779,6 +48294,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 1 (1d4-1)
   Speed: 9 m
@@ -46819,6 +48335,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -46906,6 +48426,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13
 
     HitPoints: 1 (1d4-1)
@@ -46937,6 +48459,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 9 (2d8)
   Speed: 12 m
@@ -46977,6 +48500,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -47064,6 +48591,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13
 
     HitPoints: 9 (2d8)
@@ -47095,6 +48624,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Bois / Forêt
   ArmorClass: 10
   HitPoints: 3 (1d4+1)
   Speed: 6 m, fouissement 1,50 m
@@ -47134,6 +48664,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -47217,6 +48751,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 10
 
     HitPoints: 3 (1d4+1)
@@ -47246,6 +48782,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Bois / Forêt
   ArmorClass: 10
   HitPoints: 13 (2d8+4)
   Speed: 9 m, fouissement 3 m
@@ -47285,6 +48822,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -47386,6 +48927,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 10
 
     HitPoints: 13 (2d8+4)
@@ -47415,6 +48958,7 @@ SubItems:
   Type: Bête
   Size: P
   Alignment: non-alignée
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 12 m
@@ -47455,6 +48999,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -47548,6 +49096,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12
 
     HitPoints: 3 (1d6)
@@ -47579,6 +49129,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Désert chaud
   ArmorClass: 9
   HitPoints: 15 (2d10+4)
   Speed: 15 m
@@ -47618,6 +49169,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -47689,6 +49244,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud
+
     ArmorClass: 9
 
     HitPoints: 15 (2d10+4)
@@ -47718,6 +49275,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 2 (1d4)
   Speed: 12 m, escalade 9 m
@@ -47758,6 +49316,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -47845,6 +49407,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12
 
     HitPoints: 2 (1d4)
@@ -47876,6 +49440,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Caverne naturelle, Ruines souterraines
   ArmorClass: 12
   HitPoints: 1 (1d4-1)
   Speed: 1,50 m, vol 9 m
@@ -47915,6 +49480,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -48004,6 +49573,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 12
 
     HitPoints: 1 (1d4-1)
@@ -48033,6 +49604,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Jungle, Caverne naturelle, Ruines souterraines
   ArmorClass: 13
   HitPoints: 22 (4d10)
   Speed: 3 m, vol 18 m
@@ -48072,6 +49644,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -48161,6 +49737,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 13
 
     HitPoints: 22 (4d10)
@@ -48190,6 +49768,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 11
   HitPoints: 19 (3d10+3)
   Speed: 18 m
@@ -48229,6 +49808,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -48312,6 +49895,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 11
 
     HitPoints: 19 (3d10+3)
@@ -48380,6 +49965,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -48575,6 +50164,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 
 
@@ -48688,6 +50281,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 13 (2d10+2)
   Speed: 18 m
@@ -48727,6 +50321,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -48798,6 +50396,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 10
 
     HitPoints: 13 (2d10+2)
@@ -48827,6 +50427,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 19 (3d10+3)
   Speed: 12 m
@@ -48866,6 +50467,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -48937,6 +50542,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 10
 
     HitPoints: 19 (3d10+3)
@@ -48966,6 +50573,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Montagnes
   ArmorClass: 10
   HitPoints: 4 (1d8)
   Speed: 12 m
@@ -49005,6 +50613,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 
 
 
@@ -49094,6 +50706,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Montagnes
+
     ArmorClass: 10
 
     HitPoints: 4 (1d8)
@@ -49123,6 +50737,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Montagnes
   ArmorClass: 11 (armure naturelle)
   HitPoints: 19 (3d10+3)
   Speed: 12 m
@@ -49162,6 +50777,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 
 
 
@@ -49251,6 +50870,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Montagnes
+
     ArmorClass: 11 (armure naturelle)
 
     HitPoints: 19 (3d10+3)
@@ -49280,6 +50901,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Bois / Forêt
   ArmorClass: 13
   HitPoints: 4 (1d8)
   Speed: 15 m
@@ -49319,6 +50941,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -49390,6 +51016,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 13
 
     HitPoints: 4 (1d8)
@@ -49419,6 +51047,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 39 (6d8+12)
   Speed: 12 m
@@ -49459,6 +51088,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -49552,6 +51185,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12
 
     HitPoints: 39 (6d8+12)
@@ -49583,6 +51218,7 @@ SubItems:
   Type: Fée
   Size: M
   Alignment: Loyal Bon
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 22 (4d8+4)
   Speed: 12 m
@@ -49623,6 +51259,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -49716,6 +51356,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13
 
     HitPoints: 22 (4d8+4)
@@ -49747,6 +51389,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Bois / Forêt
   ArmorClass: 11
   HitPoints: 1 (1d4-1)
   Speed: 1,50 m, vol 18 m
@@ -49787,6 +51430,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -49880,6 +51527,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 11
 
     HitPoints: 1 (1d4-1)
@@ -49911,6 +51560,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: neutre
+  Terrain: Bois / Forêt
   ArmorClass: 12
   HitPoints: 19 (3d10+3)
   Speed: 1,50 m, vol 18 m
@@ -49951,6 +51601,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -50044,6 +51698,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 12
 
     HitPoints: 19 (3d10+3)
@@ -50075,6 +51731,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Littoral, Montagnes
   ArmorClass: 12
   HitPoints: 1 (1d4-1)
   Speed: 3 m, vol 15 m
@@ -50115,6 +51772,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Littoral, Montagnes<!--/Terrain-->
 
 
 
@@ -50202,6 +51863,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Littoral, Montagnes
+
     ArmorClass: 12
 
     HitPoints: 1 (1d4-1)
@@ -50233,6 +51896,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Littoral, Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 11 (armure naturelle)
   HitPoints: 2 (1d4)
   Speed: 6 m, nage 6 m
@@ -50273,6 +51937,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -50360,6 +52028,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Littoral, Mangrove / Marécage, Caverne sous-marine
+
     ArmorClass: 11 (armure naturelle)
 
     HitPoints: 2 (1d4)
@@ -50391,6 +52061,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 13 (3d8)
   Speed: 9 m, nage 9 m
@@ -50431,6 +52102,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -50518,6 +52193,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 13 (3d8)
@@ -50549,6 +52226,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Littoral, Mangrove / Marécage
   ArmorClass: 11
   HitPoints: 39 (6d10+6)
   Speed: 6 m, nage 12 m
@@ -50588,6 +52266,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -50689,6 +52371,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Littoral, Mangrove / Marécage
+
     ArmorClass: 11
 
     HitPoints: 39 (6d10+6)
@@ -50718,6 +52402,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Désert chaud, Jungle, Mangrove / Marécage
   ArmorClass: 12 (armure naturelle)
   HitPoints: 19 (3d10+3)
   Speed: 6 m, nage 9 m
@@ -50758,6 +52443,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -50845,6 +52534,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Jungle, Mangrove / Marécage
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 19 (3d10+3)
@@ -50876,6 +52567,7 @@ SubItems:
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Désert chaud, Jungle, Mangrove / Marécage
   ArmorClass: 14 (armure naturelle)
   HitPoints: 85 (9d12+27)
   Speed: 9 m, nage 15 m
@@ -50916,6 +52608,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -51021,6 +52717,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Jungle, Mangrove / Marécage
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 85 (9d12+27)
@@ -51052,6 +52750,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Arctique / Subarctique, Bois / Forêt
   ArmorClass: 10
   HitPoints: 13 (2d10+2)
   Speed: 15 m
@@ -51091,6 +52790,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Bois / Forêt<!--/Terrain-->
 
 
 
@@ -51186,6 +52889,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Arctique / Subarctique, Bois / Forêt
+
     ArmorClass: 10
 
     HitPoints: 13 (2d10+2)
@@ -51215,6 +52920,7 @@ SubItems:
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Arctique / Subarctique
   ArmorClass: 14 (armure naturelle)
   HitPoints: 42 (5d12+10)
   Speed: 18 m
@@ -51255,6 +52961,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -51354,6 +53064,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 42 (5d12+10)
@@ -51385,6 +53097,7 @@ SubItems:
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Désert chaud, Jungle, Plaine / Champs / Prairie / Savane
   ArmorClass: 12 (armure naturelle)
   HitPoints: 76 (8d12+24)
   Speed: 12 m
@@ -51424,6 +53137,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Jungle, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -51519,6 +53236,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Jungle, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 76 (8d12+24)
@@ -51548,6 +53267,7 @@ SubItems:
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 90 (12d12+12)
   Speed: 0 m, nage 18 m
@@ -51588,6 +53308,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -51687,6 +53411,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mer / Océan, Ruines sous-marines
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 90 (12d12+12)
@@ -51718,6 +53444,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Désert chaud, Littoral
   ArmorClass: 13
   HitPoints: 1 (1d4-1)
   Speed: 3 m, vol 18 m
@@ -51758,6 +53485,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Littoral<!--/Terrain-->
 
 
 
@@ -51845,6 +53576,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Désert chaud, Littoral
+
     ArmorClass: 13
 
     HitPoints: 1 (1d4-1)
@@ -51876,6 +53609,7 @@ SubItems:
   Type: Bête
   Size: P
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Désert chaud, Littoral
   ArmorClass: 12
   HitPoints: 7 (2d6)
   Speed: 3 m, vol 18 m
@@ -51916,6 +53650,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Littoral<!--/Terrain-->
 
 
 
@@ -52009,6 +53747,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Désert chaud, Littoral
+
     ArmorClass: 12
 
     HitPoints: 7 (2d6)
@@ -52040,6 +53780,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Jungle, Montagnes
   ArmorClass: 12
   HitPoints: 19 (3d8+6)
   Speed: 9 m, escalade 9 m
@@ -52080,6 +53821,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Montagnes<!--/Terrain-->
 
 
 
@@ -52173,6 +53918,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle, Montagnes
+
     ArmorClass: 12
 
     HitPoints: 19 (3d8+6)
@@ -52204,6 +53951,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Mangrove / Marécage
   ArmorClass: 11
   HitPoints: 1 (1d4-1)
   Speed: 6 m, nage 6 m
@@ -52244,6 +53992,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -52319,6 +54071,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mangrove / Marécage
+
     ArmorClass: 11
 
     HitPoints: 1 (1d4-1)
@@ -52350,6 +54104,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 11
   HitPoints: 18 (4d8)
   Speed: 9 m, nage 9 m
@@ -52390,6 +54145,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -52495,6 +54254,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mangrove / Marécage, Caverne sous-marine
+
     ArmorClass: 11
 
     HitPoints: 18 (4d8)
@@ -52526,6 +54287,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Jungle, Mangrove / Marécage
   ArmorClass: 12
   HitPoints: 13 (3d8)
   Speed: 3 m, vol 15 m
@@ -52565,6 +54327,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -52636,6 +54402,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Jungle, Mangrove / Marécage
+
     ArmorClass: 12
 
     HitPoints: 13 (3d8)
@@ -52665,6 +54433,7 @@ SubItems:
   Type: Bête
   Size: P
   Alignment: non-alignée
+  Terrain: Bois / Forêt
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 3 m, vol 18 m
@@ -52700,6 +54469,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -52785,6 +54558,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 12
 
     HitPoints: 3 (1d6)
@@ -52816,6 +54591,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: neutre bon
+  Terrain: Bois / Forêt
   ArmorClass: 13
   HitPoints: 26 (4d10+4)
   Speed: 3 m, vol 24 m
@@ -52851,6 +54627,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -52954,6 +54734,8 @@ SubItems:
 
     Alignment: neutre bon
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 13
 
     HitPoints: 26 (4d10+4)
@@ -52985,6 +54767,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Ruines sous-marines
   ArmorClass: 11
   HitPoints: 1 (1d4-1)
   Speed: 0 m, nage 6 m
@@ -53024,6 +54807,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -53089,6 +54876,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Ruines sous-marines
+
     ArmorClass: 11
 
     HitPoints: 1 (1d4-1)
@@ -53118,6 +54907,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 16 (3d10)
   Speed: 0 m, nage 12 m
@@ -53157,6 +54947,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -53246,6 +55040,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Ruines sous-marines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 16 (3d10)
@@ -53275,6 +55071,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 11
   HitPoints: 5 (1d8+1)
   Speed: 15 m
@@ -53315,6 +55112,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -53402,6 +55203,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 11
 
     HitPoints: 5 (1d8+1)
@@ -53433,6 +55236,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 45 (6d10+12)
   Speed: 15 m
@@ -53473,6 +55277,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -53560,6 +55368,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12
 
     HitPoints: 45 (6d10+12)
@@ -53591,6 +55401,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Désert chaud, Jungle, Caverne sous-marine
   ArmorClass: 10
   HitPoints: 2 (1d4)
   Speed: 6 m, escalade 6 m
@@ -53630,6 +55441,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Jungle, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -53701,6 +55516,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Jungle, Caverne sous-marine
+
     ArmorClass: 10
 
     HitPoints: 2 (1d4)
@@ -53730,6 +55547,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Désert chaud, Jungle, Caverne sous-marine
   ArmorClass: 12 (armure naturelle)
   HitPoints: 19 (3d10+3)
   Speed: 9 m, escalade 9 m
@@ -53769,6 +55587,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Jungle, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -53840,6 +55662,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Jungle, Caverne sous-marine
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 19 (3d10+3)
@@ -53869,6 +55693,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 26 (4d10+4)
   Speed: 15 m
@@ -53909,6 +55734,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -54020,6 +55849,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12
 
     HitPoints: 26 (4d10+4)
@@ -54051,6 +55882,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Collines / Vallées, Montagnes
   ArmorClass: 13 (armure naturelle)
   HitPoints: 11 (2d8+2)
   Speed: 12 m
@@ -54091,6 +55923,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Montagnes<!--/Terrain-->
 
 
 
@@ -54184,6 +56020,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Collines / Vallées, Montagnes
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 11 (2d8+2)
@@ -54215,6 +56053,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
+  Terrain: Arctique / Subarctique
   ArmorClass: 13 (armure naturelle)
   HitPoints: 75 (10d10+20)
   Speed: 15 m
@@ -54256,6 +56095,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -54371,6 +56214,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 75 (10d10+20)
@@ -54404,6 +56249,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 37 (5d10+10)
   Speed: 15 m
@@ -54444,6 +56290,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Montagnes<!--/Terrain-->
 
 
 
@@ -54537,6 +56387,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Montagnes
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 37 (5d10+10)
@@ -54568,6 +56420,7 @@ SubItems:
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Arctique / Subarctique
   ArmorClass: 13 (armure naturelle)
   HitPoints: 126 (11d12+55)
   Speed: 12 m
@@ -54607,6 +56460,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -54702,6 +56559,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 126 (11d12+55)
@@ -54731,6 +56590,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 5 (1d8+1)
   Speed: 12 m
@@ -54771,6 +56631,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -54858,6 +56722,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12
 
     HitPoints: 5 (1d8+1)
@@ -54889,6 +56755,7 @@ SubItems:
   Type: Bête
   Size: P
   Alignment: non-alignée
+  Terrain: Désert chaud, Jungle, Caverne naturelle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 4 (1d6+1)
   Speed: 9 m, escalade 9 m
@@ -54928,6 +56795,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Jungle, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -54999,6 +56870,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Jungle, Caverne naturelle
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 4 (1d6+1)
@@ -55028,6 +56901,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 11 (2d8+2)
   Speed: 12 m
@@ -55067,6 +56941,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -55156,6 +57034,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 10
 
     HitPoints: 11 (2d8+2)
@@ -55185,6 +57065,7 @@ SubItems:
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
+  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   ArmorClass: 12
   HitPoints: 22 (5d8)
   Speed: 0 m, vol 9 m
@@ -55226,6 +57107,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -55329,6 +57214,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 12
 
     HitPoints: 22 (5d8)
@@ -55362,6 +57249,7 @@ SubItems:
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
+  Terrain: Montagnes, Ruines extérieures
   ArmorClass: 12
   HitPoints: 24 (7d8-7)
   Speed: 3 m, vol 15 m
@@ -55404,6 +57292,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -55499,6 +57391,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Montagnes, Ruines extérieures
+
     ArmorClass: 12
 
     HitPoints: 24 (7d8-7)
@@ -55534,6 +57428,7 @@ SubItems:
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
+  Terrain: Jungle, Mangrove / Marécage, Ruines sous-marines
   ArmorClass: 13
   HitPoints: 28 (8d8-8)
   Speed: 0 m, nage 12 m
@@ -55575,6 +57470,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -55678,6 +57577,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle, Mangrove / Marécage, Ruines sous-marines
+
     ArmorClass: 13
 
     HitPoints: 28 (8d8-8)
@@ -55711,6 +57612,7 @@ SubItems:
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
+  Terrain: Caverne aménagée
   ArmorClass: 10
   HitPoints: 24 (7d8-7)
   Speed: 9 m
@@ -55752,6 +57654,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 
 
 
@@ -55849,6 +57755,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne aménagée
+
     ArmorClass: 10
 
     HitPoints: 24 (7d8-7)
@@ -55882,6 +57790,7 @@ SubItems:
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
+  Terrain: Jungle, Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 14
   HitPoints: 36 (8d8)
   Speed: 9 m, nage 9 m
@@ -55923,6 +57832,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -56014,6 +57927,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle, Mangrove / Marécage, Caverne sous-marine
+
     ArmorClass: 14
 
     HitPoints: 36 (8d8)
@@ -56047,6 +57962,7 @@ SubItems:
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Jungle, Mangrove / Marécage
   ArmorClass: 12 (armure naturelle)
   HitPoints: 22 (5d8)
   Speed: 6 m, escalade 6 m
@@ -56088,6 +58004,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -56227,6 +58147,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Jungle, Mangrove / Marécage
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 22 (5d8)
@@ -56260,6 +58182,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Collines / Vallées, Littoral, Montagnes
   ArmorClass: 11 (armure naturelle)
   HitPoints: 34 (4d10+12)
   Speed: 12 m, escalade 9 m
@@ -56300,6 +58223,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Littoral, Montagnes<!--/Terrain-->
 
 
 
@@ -56405,6 +58332,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Collines / Vallées, Littoral, Montagnes
+
     ArmorClass: 11 (armure naturelle)
 
     HitPoints: 34 (4d10+12)
@@ -56476,6 +58405,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -56612,6 +58545,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Arctique / Subarctique, Bois / Forêt
   ArmorClass: 12 (armure naturelle)
   HitPoints: 42 (5d10+15)
   Speed: 12 m, nage 9 m
@@ -56652,6 +58586,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Bois / Forêt<!--/Terrain-->
 
 
 
@@ -56757,6 +58695,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Arctique / Subarctique, Bois / Forêt
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 42 (5d10+15)
@@ -56788,6 +58728,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Arctique / Subarctique, Jungle, Mangrove / Marécage
   ArmorClass: 12
   HitPoints: 13 (3d8)
   Speed: 15 m, escalade 12 m
@@ -56828,6 +58769,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -56933,6 +58878,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Arctique / Subarctique, Jungle, Mangrove / Marécage
+
     ArmorClass: 12
 
     HitPoints: 13 (3d8)
@@ -56964,6 +58911,7 @@ SubItems:
   Type: Bête
   Size: P
   Alignment: non-alignée
+  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 1,50 m, nage 9 m
@@ -57004,6 +58952,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -57109,6 +59061,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mer / Océan, Ruines sous-marines
+
     ArmorClass: 12
 
     HitPoints: 3 (1d6)
@@ -57140,6 +59094,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 11
   HitPoints: 52 (8d10+8)
   Speed: 3 m, nage 18 m
@@ -57180,6 +59135,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -57291,6 +59250,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mer / Océan, Ruines sous-marines
+
     ArmorClass: 11
 
     HitPoints: 52 (8d10+8)
@@ -57322,6 +59283,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 13
   HitPoints: 1 (1d4-1)
   Speed: 0 m, nage 12 m
@@ -57361,6 +59323,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -57450,6 +59416,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 13
 
     HitPoints: 1 (1d4-1)
@@ -57479,6 +59447,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 11 (2d8+2)
   Speed: 12 m
@@ -57518,6 +59487,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -57589,6 +59562,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 10
 
     HitPoints: 11 (2d8+2)
@@ -57618,6 +59593,7 @@ SubItems:
   Type: Bête
   Size: P
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 4 (1d6+1)
   Speed: 9 m
@@ -57657,6 +59633,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -57740,6 +59720,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 4 (1d6+1)
@@ -57769,6 +59751,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Caverne aménagée
   ArmorClass: 10
   HitPoints: 1 (1d4-1)
   Speed: 6 m
@@ -57808,6 +59791,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 
 
 
@@ -57891,6 +59878,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne aménagée
+
     ArmorClass: 10
 
     HitPoints: 1 (1d4-1)
@@ -57920,6 +59909,7 @@ SubItems:
   Type: Bête
   Size: P
   Alignment: non-alignée
+  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   ArmorClass: 12
   HitPoints: 7 (2d6)
   Speed: 9 m
@@ -57959,6 +59949,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne aménagée<!--/Terrain-->
 
 
 
@@ -58072,6 +60066,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
+
     ArmorClass: 12
 
     HitPoints: 7 (2d6)
@@ -58101,6 +60097,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 45 (6d10+12)
   Speed: 0 m, nage 12 m
@@ -58141,6 +60138,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -58234,6 +60235,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mer / Océan, Ruines sous-marines
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 45 (6d10+12)
@@ -58265,6 +60268,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Littoral, Ruines sous-marines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 22 (4d8+4)
   Speed: 0 m, nage 12 m
@@ -58305,6 +60309,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -58398,6 +60406,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Littoral, Ruines sous-marines
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 22 (4d8+4)
@@ -58429,6 +60439,7 @@ SubItems:
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 126 (11d12+55)
   Speed: 0 m, nage 15 m
@@ -58469,6 +60480,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -58562,6 +60577,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mer / Océan, Ruines sous-marines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 126 (11d12+55)
@@ -58593,6 +60610,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 11 (armure naturelle)
   HitPoints: 45 (6d10+12)
   Speed: 12 m
@@ -58632,6 +60650,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -58721,6 +60743,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 11 (armure naturelle)
 
     HitPoints: 45 (6d10+12)
@@ -58750,6 +60774,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Collines / Vallées, Jungle
   ArmorClass: 11 (armure naturelle)
   HitPoints: 11 (2d8+2)
   Speed: 12 m
@@ -58789,6 +60814,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle<!--/Terrain-->
 
 
 
@@ -58878,6 +60907,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Collines / Vallées, Jungle
+
     ArmorClass: 11 (armure naturelle)
 
     HitPoints: 11 (2d8+2)
@@ -58907,6 +60938,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Collines / Vallées, Jungle
   ArmorClass: 12 (armure naturelle)
   HitPoints: 42 (5d10+15)
   Speed: 12 m
@@ -58946,6 +60978,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle<!--/Terrain-->
 
 
 
@@ -59035,6 +61071,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Collines / Vallées, Jungle
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 42 (5d10+15)
@@ -59064,6 +61102,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Désert chaud, Caverne naturelle
   ArmorClass: 11 (armure naturelle)
   HitPoints: 1 (1d4-1)
   Speed: 3 m
@@ -59103,6 +61142,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -59174,6 +61217,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Caverne naturelle
+
     ArmorClass: 11 (armure naturelle)
 
     HitPoints: 1 (1d4-1)
@@ -59203,6 +61248,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Désert chaud, Caverne naturelle
   ArmorClass: 15 (armure naturelle)
   HitPoints: 52 (7d10+14)
   Speed: 12 m
@@ -59242,6 +61288,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -59331,6 +61381,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Caverne naturelle
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 52 (7d10+14)
@@ -59360,6 +61412,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 12
   HitPoints: 13 (2d10+2)
   Speed: 9 m, nage 9 m
@@ -59399,6 +61452,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -59482,6 +61539,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 12
 
     HitPoints: 13 (2d10+2)
@@ -59511,6 +61570,7 @@ SubItems:
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 12
   HitPoints: 60 (8d12+8)
   Speed: 9 m, nage 9 m
@@ -59551,6 +61611,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -59638,6 +61702,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 12
 
     HitPoints: 60 (8d12+8)
@@ -59669,6 +61735,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 2 (1d4)
   Speed: 9 m, nage 9 m
@@ -59708,6 +61775,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -59779,6 +61850,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13
 
     HitPoints: 2 (1d4)
@@ -59808,6 +61881,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Désert chaud, Caverne sous-marine
   ArmorClass: 14
   HitPoints: 11 (2d8+2)
   Speed: 9 m, nage 9 m
@@ -59848,6 +61922,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -59929,6 +62007,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Caverne sous-marine
+
     ArmorClass: 14
 
     HitPoints: 11 (2d8+2)
@@ -59960,6 +62040,7 @@ SubItems:
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Montagnes
   ArmorClass: 14
   HitPoints: 5 (2d4)
   Speed: 9 m, vol 18 m, nage 9 m
@@ -59999,6 +62080,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -60082,6 +62167,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Montagnes
+
     ArmorClass: 14
 
     HitPoints: 5 (2d4)
@@ -60111,6 +62198,7 @@ SubItems:
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Arctique / Subarctique, Jungle, Montagnes
   ArmorClass: 12
   HitPoints: 157 (15d12+60)
   Speed: 12 m, escalade 12 m
@@ -60151,6 +62239,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Jungle, Montagnes<!--/Terrain-->
 
 
 
@@ -60244,6 +62336,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Arctique / Subarctique, Jungle, Montagnes
+
     ArmorClass: 12
 
     HitPoints: 157 (15d12+60)
@@ -60275,6 +62369,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Arctique / Subarctique, Jungle, Mangrove / Marécage
   ArmorClass: 12
   HitPoints: 37 (5d10+10)
   Speed: 12 m
@@ -60315,6 +62410,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -60420,6 +62519,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Arctique / Subarctique, Jungle, Mangrove / Marécage
+
     ArmorClass: 12
 
     HitPoints: 37 (5d10+10)
@@ -60451,6 +62552,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Désert chaud, Montagnes
   ArmorClass: 12
   HitPoints: 52 (7d10+14)
   Speed: 12 m
@@ -60491,6 +62593,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Montagnes<!--/Terrain-->
 
 
 
@@ -60596,6 +62702,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Désert chaud, Montagnes
+
     ArmorClass: 12
 
     HitPoints: 52 (7d10+14)
@@ -60627,6 +62735,7 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non-alignée
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 5 (1d188+1)
   Speed: 3 m, vol 15 m
@@ -60667,6 +62776,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -60760,6 +62873,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 10
 
     HitPoints: 5 (1d188+1)
@@ -60791,6 +62906,7 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: Neutre Mauvais
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 22 (3d10+6)
   Speed: 3 m, vol 18 m
@@ -60831,6 +62947,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -60942,6 +63062,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 10
 
     HitPoints: 22 (3d10+6)
@@ -60973,6 +63095,7 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
+  Terrain: Collines / Vallées, Montagnes
   ArmorClass: 13 (armure naturelle)
   HitPoints: 26 (4d10+4)
   Speed: 15 m
@@ -61013,6 +63136,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 
 
 
@@ -61100,6 +63227,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Collines / Vallées, Montagnes
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 26 (4d10+4)
@@ -61171,6 +63300,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -61343,6 +63476,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -61596,6 +63733,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 
 
@@ -61795,6 +63936,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->12 (armure de cuir)<!--/ArmorClass-->
 
 
@@ -61943,6 +64088,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement Chaotique<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -62096,6 +64245,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Loyal<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -62278,6 +64431,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -62475,6 +64632,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->11 (16 avec peau d'écorce)<!--/ArmorClass-->
 
 
@@ -62648,6 +64809,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -62845,6 +65010,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 
 
@@ -63018,6 +65187,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -63200,6 +65373,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -63391,6 +65568,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->16 (bouclier, chemise de mailles)<!--/ArmorClass-->
 
 
@@ -63535,6 +65716,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -63743,6 +65928,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->12 (armure de peau)<!--/ArmorClass-->
 
 
@@ -63893,6 +66082,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -64096,6 +66289,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->11 (armure de cuir)<!--/ArmorClass-->
 
 
@@ -64278,6 +66475,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->12 (armure de cuir)<!--/ArmorClass-->
 
 
@@ -64433,6 +66634,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -64593,6 +66798,10 @@ SubItems:
 
 
 
+      - **Terrain** <!--Terrain--><!--/Terrain-->
+
+
+
       - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 
 
@@ -64730,6 +66939,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->alignement quelconque<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -64918,6 +67131,7 @@ AttributesDictionary: >+
 - Source: (CEO p)(SRD p)
 - SRD: [Aboleth](srd_monsters_aboleth.md)
 -  Aberration de taille G, Loyal Mauvais
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 135 (18d10+36)
 - **Vitesse** 3 m, nage 12 m
@@ -64972,6 +67186,7 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 - Source: (CEO p)
 -  Aberration de taille M, loyal mauvais
+- **Terrain** Littoral
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 104 (16d8+32)
 - **Vitesse** 9 m au sol
@@ -65026,6 +67241,7 @@ Chaque fois que la cible [charmée](hd_conditions_charme.md) subit des dégâts,
 - Source: (CEO p)(SRD p)
 - SRD: [Wraith](srd_monsters_wraith.md)
 -  Mort-vivant de taille M, Neutre Mauvais
+- **Terrain** Collines / Vallées, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 13
 - **Points de vie** 67 (9d8+27)
 - **Vitesse** 0 m, vol 18 m (vol stationnaire)
@@ -65063,6 +67279,7 @@ _Touché :_ 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un [jet de 
 
 - Source: (CEO p)
 -  Aberration de taille M, loyal mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 12
 - **Points de vie** 71 (13d8+13)
 - **Vitesse** 9 m au sol ; nage 9 m
@@ -65105,6 +67322,7 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Deva](srd_monsters_deva.md)
 -  Céleste de taille M, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
 - **Vitesse** 9 m, vol 27 m
@@ -65156,6 +67374,7 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 - Source: (CEO p)(SRD p)
 - SRD: [Planetar](srd_monsters_planetar.md)
 -  Céleste de taille G, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 200 (16d10+112)
 - **Vitesse** 12 m, vol 36 m
@@ -65207,6 +67426,7 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 - Source: (CEO p)(SRD p)
 - SRD: [Solar](srd_monsters_solar.md)
 -  Céleste de taille G, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 243 (18d10+144)
 - **Vitesse** 15 m, vol 45 m
@@ -65277,6 +67497,7 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 - Source: (CEO p)(SRD p)
 - SRD: [Ankheg](srd_monsters_ankheg.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane, Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle), 11 quand il est [à terre](hd_conditions_a_terre.md)
 - **Points de vie** 39 (6d10+6)
 - **Vitesse** 9 m, fouissement 3 m
@@ -65306,6 +67527,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 - Source: (CEO p)(SRD p)
 - SRD: [Azer](srd_monsters_azer.md)
 -  Élémentaire de taille M, Loyal Neutre
+- **Terrain** Plans élémentaires, Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle, bouclier)
 - **Points de vie** 39 (6d8+12)
 - **Vitesse** 9 m
@@ -65344,6 +67566,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 - Source: (CEO p)(SRD p)
 - SRD: [Gibbering Mouther](srd_monsters_gibbering_mouther.md)
 -  Aberration de taille M, neutre
+- **Terrain** Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine
 - **Classe d'armure** 9
 - **Points de vie** 67 (9d8+27)
 - **Vitesse** 3 m, nage 3 m
@@ -65382,6 +67605,7 @@ _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus pe
 - Source: (CEO p)(SRD p)
 - SRD: [Basilisk](srd_monsters_basilisk.md)
 -  Créature monstrueuse de taille M, non-alignée
+- **Terrain** Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 6 m
@@ -65417,6 +67641,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 - Source: (CEO p)(SRD p)
 - SRD: [Behir](srd_monsters_behir.md)
 -  Créature monstrueuse de taille TG, Neutre Mauvais
+- **Terrain** Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 168 (16d12+64)
 - **Vitesse** 15 m, escalade 12 m
@@ -65458,6 +67683,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Bulette](srd_monsters_bulette.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Bois / Forêt, Collines / Vallées, Caverne naturelle
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 94 (9d10+45)
 - **Vitesse** 12 m, fouissement 12 m
@@ -65494,6 +67720,7 @@ Chacune de ces créatures doit réussir un [jet de sauvegarde](hd_abilities_jets
 - Source: (CEO p)(SRD p)
 - SRD: [Centaur](srd_monsters_centaur.md)
 -  Créature monstrueuse de taille G, Neutre Bon
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 15 m
@@ -65535,6 +67762,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 - Source: (CEO p)
 -  Créature monstrueuse de taille G, Neutre Mauvais
+- **Terrain** Bois / Forêt, Jungle, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
 - **Vitesse** 12 m
@@ -65573,6 +67801,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 - Source: (CEO p)(SRD p)
 - SRD: [Shrieker](srd_monsters_shrieker.md)
 -  Plante de taille M, non-alignée
+- **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5
 - **Points de vie** 13 (3d8)
 - **Vitesse** 0 m
@@ -65603,6 +67832,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 - Source: (CEO p)(SRD p)
 - SRD: [Violet Fungus](srd_monsters_violet_fungus.md)
 -  Plante de taille M, non-alignée
+- **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5
 - **Points de vie** 18 (4d8)
 - **Vitesse** 1,50 m
@@ -65637,6 +67867,7 @@ _Touché :_ 4 (1d8) dégâts nécrotiques.
 - Source: (CEO p)(SRD p)
 - SRD: [Chimera](srd_monsters_chimera.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
+- **Terrain** Bois / Forêt, Montagnes, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
 - **Vitesse** 9 m, vol 18 m
@@ -65677,6 +67908,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Chuul](srd_monsters_chuul.md)
 -  Aberration de taille G, Chaotique Mauvais
+- **Terrain** Mangrove / Marécage, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 93 (11d10+33)
 - **Vitesse** 9 m, nage 9 m
@@ -65719,6 +67951,7 @@ La cible est [paralysée](hd_conditions_paralyse.md) tant que ce poison fait eff
 - Source: (CEO p)(SRD p)
 - SRD: [Cockatrice](srd_monsters_cockatrice.md)
 -  Créature monstrueuse de taille P, non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11
 - **Points de vie** 27 (6d6+6)
 - **Vitesse** 6 m, vol 12 m
@@ -65746,6 +67979,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un [jet de s
 - Source: (CEO p)(SRD p)
 - SRD: [Couatl](srd_monsters_couatl.md)
 -  Céleste de taille M, Loyal Bon
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 97 (13d8+39)
 - **Vitesse** 9 m, vol 27 m
@@ -65801,6 +68035,7 @@ Une autre créature peut effectuer une action pour secouer la cible afin qu'elle
 
 - Source: (CEO p)
 -  Humanoïde (humain) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 65 (10d8+20)
 - **Vitesse** 9 m
@@ -65842,6 +68077,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 - Source: (CEO p)(SRD p)
 - SRD: [Balor](srd_monsters_balor.md)
 -  Fiélon (démon) de taille TG, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 262 (21d12+126)
 - **Vitesse** 12 m, vol 24 m
@@ -65891,6 +68127,7 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 - Source: (CEO p)(SRD p)
 - SRD: [Dretch](srd_monsters_dretch.md)
 -  Fiélon (démon) de taille P, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 18 (4d6+4)
 - **Vitesse** 6 m
@@ -65929,6 +68166,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Glabrezu](srd_monsters_glabrezu.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
 - **Vitesse** 12 m
@@ -65976,6 +68214,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Hezrou](srd_monsters_hezrou.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 136 (13d10+65)
 - **Vitesse** 9 m
@@ -66021,6 +68260,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Marilith](srd_monsters_marilith.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 189 (18d10+90)
 - **Vitesse** 12 m
@@ -66074,6 +68314,7 @@ Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir p
 - Source: (CEO p)(SRD p)
 - SRD: [Nalfeshnee](srd_monsters_nalfeshnee.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 184 (16d10+96)
 - **Vitesse** 6 m, vol 9 m
@@ -66123,6 +68364,7 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Quasit](srd_monsters_quasit.md)
 -  Fiélon (démon, métamorphe) de taille TP, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 13
 - **Points de vie** 7 (3d4)
 - **Vitesse** 12 m
@@ -66168,6 +68410,7 @@ La cible peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md
 - Source: (CEO p)(SRD p)
 - SRD: [Vrock](srd_monsters_vrock.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 104 (11d10+44)
 - **Vitesse** 12 m, vol 18 m
@@ -66215,6 +68458,7 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 - Source: (CEO p)(SRD p)
 - SRD: [Nightmare](srd_monsters_nightmare.md)
 -  Fiélon de taille G, Neutre Mauvais
+- **Terrain** 
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 68 (8d10+24)
 - **Vitesse** 18 m, vol 27 m
@@ -66250,6 +68494,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants plus 7 (2d6) dégâts de feu.
 
 - Source: (CEO p)
 -  Aberration de taille G, Neutre Mauvais
+- **Terrain** Caverne aménagée, Donjon maçonné
 - **Classe d'armure** 15
 - **Points de vie** 212 (25d10+75)
 - **Vitesse** 1,50 m au sol ; 9 mètres en vol
@@ -66325,6 +68570,7 @@ Relancez deux fois le dé et rejouez tous les 8.
 - Source: (CEO p)(SRD p)
 - SRD: [Barbed Devil](srd_monsters_barbed_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 110 (13d8+52)
 - **Vitesse** 9 m
@@ -66375,6 +68621,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Bearded Devil](srd_monsters_bearded_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m
@@ -66420,6 +68667,7 @@ _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 - Source: (CEO p)(SRD p)
 - SRD: [Horned Devil](srd_monsters_horned_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
 - **Vitesse** 6 m, vol 18 m
@@ -66467,6 +68715,7 @@ _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant
 - Source: (CEO p)(SRD p)
 - SRD: [Ice Devil](srd_monsters_ice_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 180 (19d10+76)
 - **Vitesse** 12 m
@@ -66528,6 +68777,7 @@ _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 - Source: (CEO p)(SRD p)
 - SRD: [Chain Devil](srd_monsters_chain_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 85 (10d8+40)
 - **Vitesse** 9 m
@@ -66577,6 +68827,7 @@ Si celle-ci peut voir le diable, elle doit réussir un [jet de sauvegarde](hd_ab
 - Source: (CEO p)(SRD p)
 - SRD: [Bone Devil](srd_monsters_bone_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
 - **Vitesse** 12 m, vol 12 m
@@ -66621,6 +68872,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Imp](srd_monsters_imp.md)
 -  Fiélon (diable, métamorphe) de taille TP, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 13
 - **Points de vie** 10 (3d4+3)
 - **Vitesse** 6 m, vol 12 m
@@ -66664,6 +68916,7 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 - Source: (CEO p)(SRD p)
 - SRD: [Pit Fiend](srd_monsters_pit_fiend.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 300 (24d10+168)
 - **Vitesse** 9 m, vol 18 m
@@ -66723,6 +68976,7 @@ _Touché :_ 24 (3d10+8) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Erinyes](srd_monsters_erinyes.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 153 (18d8+72)
 - **Vitesse** 9 m, vol 18 m
@@ -66770,6 +69024,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 - Source: (CEO p)(SRD p)
 - SRD: [Lemure](srd_monsters_lemure.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 7
 - **Points de vie** 13 (3d8)
 - **Vitesse** 4,50 m
@@ -66805,6 +69060,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 - Source: (CEO p)
 -  Aberration de taille G, Chaotique Neutre
+- **Terrain** 
 - **Classe d'armure** 14
 - **Points de vie** 199 (19d12+76)
 - **Vitesse** 9 m
@@ -66849,6 +69105,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Plesiosaurus](srd_monsters_plesiosaurus.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 68 (8d10+24)
 - **Vitesse** 6 m, nage 12 m
@@ -66881,6 +69138,7 @@ _Touché :_ 14 (3d6+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Triceratops](srd_monsters_triceratops.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 95 (10d12+30)
 - **Vitesse** 15 m
@@ -66916,6 +69174,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 136 (13d12+52)
 - **Vitesse** 15 m
@@ -66950,6 +69209,7 @@ _Touché :_ 20 (3d8+7) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Doppelganger](srd_monsters_doppelganger.md)
 -  Créature monstrueuse (métamorphe) de taille M, neutre
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 14
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m
@@ -66993,6 +69253,7 @@ Tant que la créature est à portée, le doppleganger peut continuer à lire ses
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient White Dragon](srd_monsters_ancient_white_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 333 (18d20+144)
 - **Vitesse** 12 m, fouissement 12 m, nage 12 m, vol 24 m
@@ -67053,6 +69314,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Adult White Dragon](srd_monsters_adult_white_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 200 (16d12+96)
 - **Vitesse** 12 m, fouissement 9 m, nage 12 m, vol 24 m
@@ -67113,6 +69375,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Young White Dragon](srd_monsters_young_white_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 133 (14d10+56)
 - **Vitesse** 12 m, fouissement 6 m, nage 12 m, vol 24 m
@@ -67155,6 +69418,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 - Source: (CEO p)(SRD p)
 - SRD: [White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
 - **Vitesse** 9 m, fouissement 4,50 m, nage 9 m, vol 18 m
@@ -67187,6 +69451,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
+- **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
 - **Vitesse** 12 m, fouissement 12 m, vol 24 m
@@ -67245,6 +69510,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
+- **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 225 (18d12+108)
 - **Vitesse** 12 m, fouissement 9 m, vol 24 m
@@ -67303,6 +69569,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Young Blue Dragon](srd_monsters_young_blue_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
+- **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
 - **Vitesse** 12 m, fouissement 6 m, vol 24 m
@@ -67341,6 +69608,7 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 - Source: (CEO p)(SRD p)
 - SRD: [Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
+- **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m, fouissement 4,50 m, vol 18 m
@@ -67373,6 +69641,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 367 (21d20+147)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -67431,6 +69700,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Black Dragon](srd_monsters_adult_black_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 195 (17d12+85)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -67491,6 +69761,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Young Black Dragon](srd_monsters_young_black_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -67533,6 +69804,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 - Source: (CEO p)(SRD p)
 - SRD: [Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m, nage 9 m, vol 18 m
@@ -67569,6 +69841,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
+- **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 546 (28d20+252)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m
@@ -67627,6 +69900,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Red Dragon](srd_monsters_adult_red_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
+- **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m
@@ -67685,6 +69959,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Young Red Dragon](srd_monsters_young_red_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
+- **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m
@@ -67723,6 +69998,7 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 - Source: (CEO p)(SRD p)
 - SRD: [Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
+- **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9 m, escalade 9 m, vol 18 m
@@ -67755,6 +70031,7 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 385 (22d20+154)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -67818,6 +70095,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Green Dragon](srd_monsters_adult_green_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 207 (18d12+90)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -67879,6 +70157,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Young Green Dragon](srd_monsters_young_green_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -67922,6 +70201,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 - Source: (CEO p)(SRD p)
 - SRD: [Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 38 (7d8+7)
 - **Vitesse** 9 m, nage 9 m, vol 18 m
@@ -67959,6 +70239,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
+- **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 297 (17d20+119)
 - **Vitesse** 12 m, fouissement 12 m, vol 24 m
@@ -68027,6 +70308,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
+- **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 172 (15d12+75)
 - **Vitesse** 12 m, fouissement 9 m, vol 24 m
@@ -68089,6 +70371,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Young Brass Dragon](srd_monsters_young_brass_dragon.md)
 -  Dragon de taille G, Chaotique Bon
+- **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
 - **Vitesse** 12 m, fouissement 6 m, vol 24 m
@@ -68131,6 +70414,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 m�
 - Source: (CEO p)(SRD p)
 - SRD: [Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
+- **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 16 (3d8+3)
 - **Vitesse** 9 m, fouissement 4,50 m, vol 18 m
@@ -68167,6 +70451,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
+- **Terrain** Montagnes
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 487 (25d20+225)
 - **Vitesse** 12 m, vol 24 m
@@ -68233,6 +70518,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)
 -  Dragon de taille TG, Loyal Bon
+- **Terrain** Montagnes
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 243 (18d12+126)
 - **Vitesse** 12 m, vol 24 m
@@ -68301,6 +70587,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Young Silver Dragon](srd_monsters_young_silver_dragon.md)
 -  Dragon de taille G, Loyal Bon
+- **Terrain** Montagnes
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 168 (16d10+80)
 - **Vitesse** 12 m, vol 24 m
@@ -68343,6 +70630,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mèt
 - Source: (CEO p)(SRD p)
 - SRD: [Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
+- **Terrain** Montagnes
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
 - **Vitesse** 9 m, vol 18 m
@@ -68379,6 +70667,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 m
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 444 (24d20+192)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -68447,6 +70736,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)
 -  Dragon de taille TG, Loyal Bon
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 212 (17d12+102)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -68517,6 +70807,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)
 -  Dragon de taille G, Loyal Bon
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -68563,6 +70854,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 - Source: (CEO p)(SRD p)
 - SRD: [Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
 - **Vitesse** 9 m, nage 9 m, vol 18 m
@@ -68603,6 +70895,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
+- **Terrain** Collines / Vallées
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 350 (20d20+140)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m
@@ -68673,6 +70966,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
+- **Terrain** Collines / Vallées
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 184 (16d12+80)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m
@@ -68737,6 +71031,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Young Copper Dragon](srd_monsters_young_copper_dragon.md)
 -  Dragon de taille G, Chaotique Bon
+- **Terrain** Collines / Vallées
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 119 (14d10+42)
 - **Vitesse** 12m, escalade 12 m, vol 24 m
@@ -68783,6 +71078,7 @@ Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegard
 - Source: (CEO p)(SRD p)
 - SRD: [Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
+- **Terrain** Collines / Vallées
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 22 (4d8+4)
 - **Vitesse** 9 m, escalade 9 m, vol 18 m
@@ -68819,6 +71115,7 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. L
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 546 (28d20+252)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -68887,6 +71184,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)
 -  Dragon de taille TG, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -68957,6 +71255,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Young Gold Dragon](srd_monsters_young_gold_dragon.md)
 -  Dragon de taille G, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
@@ -69003,6 +71302,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créat
 - Source: (CEO p)(SRD p)
 - SRD: [Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 60 (8d8+24)
 - **Vitesse** 9 m, nage 9 m, vol 18 m
@@ -69043,6 +71343,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les cr�
 - Source: (CEO p)(SRD p)
 - SRD: [Dragon Turtle](srd_monsters_dragon_turtle.md)
 -  Dragon de taille Gig, neutre
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 341 (22d20+110)
 - **Vitesse** 6 m, nage 12 m
@@ -69087,6 +71388,7 @@ _Touché :_ 26 (3d12+7) dégâts contondants. Si la cible est une créature, ell
 
 - Source: (CEO p)
 -  Fiélon de taille TP, chaotique neutre
+- **Terrain** 
 - **Classe d'armure** 13
 - **Points de vie** 7 (2d4+2)
 - **Vitesse** 6 m, vol 12 m
@@ -69129,6 +71431,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Drider](srd_monsters_drider.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 123 (13d10+52)
 - **Vitesse** 9 m, escalade 9 m
@@ -69183,6 +71486,7 @@ _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 - Source: (CEO p)(SRD p)
 - SRD: [Drow](srd_monsters_drow.md)
 -  Humanoïde (elfe) de taille M, Neutre Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 13 (3d8)
 - **Vitesse** 9 m
@@ -69228,6 +71532,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 - Source: (CEO p)
 -  Humanoïde (elfe) de taille M, neutre mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 18 (cuirasse +2)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 9 m
@@ -69293,6 +71598,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Dryad](srd_monsters_dryad.md)
 -  Fée de taille M, neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 11 (16 avec peau d'écorce)
 - **Points de vie** 22 (5d8)
 - **Vitesse** 9 m
@@ -69343,6 +71649,7 @@ _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec
 - Source: (CEO p)(SRD p)
 - SRD: [Duergar](srd_monsters_duergar.md)
 -  Humanoïde (nain) de taille M, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 16 (armure d'écailles, bouclier)
 - **Points de vie** 26 (4d8+8)
 - **Vitesse** 7,50 m
@@ -69387,6 +71694,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il
 - Source: (CEO p)(SRD p)
 - SRD: [Air Elemental](srd_monsters_air_elemental.md)
 -  Élémentaire de taille G, neutre
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 15
 - **Points de vie** 90 (12d10+24)
 - **Vitesse** 0 m, vol 27 m (vol stationnaire)
@@ -69429,6 +71737,7 @@ Si le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) est réussi, la ci
 - Source: (CEO p)(SRD p)
 - SRD: [Water Elemental](srd_monsters_water_elemental.md)
 -  Élémentaire de taille G, neutre
+- **Terrain** Mer / Océan, Plans élémentaires, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
 - **Vitesse** 9 m, nage 27 m
@@ -69471,6 +71780,7 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 - Source: (CEO p)(SRD p)
 - SRD: [Fire Elemental](srd_monsters_fire_elemental.md)
 -  Élémentaire de taille G, neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 13
 - **Points de vie** 102 (12d10+36)
 - **Vitesse** 15 m
@@ -69511,6 +71821,7 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 - Source: (CEO p)(SRD p)
 - SRD: [Earth Elemental](srd_monsters_earth_elemental.md)
 -  Élémentaire de taille G, neutre
+- **Terrain** Bois / Forêt, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 126 (12d10+60)
 - **Vitesse** 9 m, fouissement 9 m
@@ -69550,6 +71861,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Roper](srd_monsters_roper.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
+- **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 93 (11d10+33)
 - **Vitesse** 3 m, escalade 3 m
@@ -69596,6 +71908,7 @@ _Touché :_ 22 (4d8+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Sprite](srd_monsters_sprite.md)
 -  Fée de taille TP, Neutre Bonne
+- **Terrain** Bois / Forêt, Collines / Vallées, Ruines extérieures
 - **Classe d'armure** 15 (armure de cuir)
 - **Points de vie** 2 (1d4)
 - **Vitesse** 3 m, vol 12 m
@@ -69632,6 +71945,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 - Source: (CEO p)(SRD p)
 - SRD: [Ettercap](srd_monsters_ettercap.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
+- **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 9 m, escalade 9 m
@@ -69678,6 +71992,7 @@ _Touché :_ la créature est [entravée](hd_conditions_entrave.md) par la toile.
 - Source: (CEO p)(SRD p)
 - SRD: [Ettin](srd_monsters_ettin.md)
 -  Géant de taille G, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
 - **Vitesse** 12 m
@@ -69718,6 +72033,7 @@ _Touché :_ 14 (2d8+5) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Ghost](srd_monsters_ghost.md)
 -  Mort-vivant de taille M, n'importe quel alignement
+- **Terrain** Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 11
 - **Points de vie** 45 (10d8)
 - **Vitesse** 0 m, vol 12 m (vol stationnaire)
@@ -69764,6 +72080,7 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 - Source: (CEO p)(SRD p)
 - SRD: [Will-o'-Wisp](srd_monsters_will_o_wisp.md)
 -  Mort-vivant de taille TP, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Mangrove / Marécage
 - **Classe d'armure** 19
 - **Points de vie** 22 (9d4)
 - **Vitesse** 0 m, vol 15 m (vol stationnaire)
@@ -69806,6 +72123,7 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 - Source: (CEO p)(SRD p)
 - SRD: [Shield Guardian](srd_monsters_shield_guardian.md)
 -  Créature artificielle de taille G, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
 - **Vitesse** 9 m
@@ -69849,6 +72167,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Gargoyle](srd_monsters_gargoyle.md)
 -  Élémentaire de taille M, Chaotique Mauvais
+- **Terrain** Plans élémentaires, Ruines extérieures
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 52 (7d8+21)
 - **Vitesse** 9 m, vol 18 m
@@ -69889,6 +72208,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Hill Giant](srd_monsters_hill_giant.md)
 -  Géant de taille TG, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 105 (10d12+40)
 - **Vitesse** 12 m
@@ -69923,6 +72243,7 @@ _Touché :_ 21 (3d10+5) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Cloud Giant](srd_monsters_cloud_giant.md)
 -  Géant de taille TG, Neutre Bon (50 %) ou Neutre Mauvais (50 %)
+- **Terrain** Montagnes
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 200 (16d12+96)
 - **Vitesse** 12 m
@@ -69970,6 +72291,7 @@ _Touché :_ 30 (4d10+8) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Stone Giant](srd_monsters_stone_giant.md)
 -  Géant de taille TG, neutre
+- **Terrain** Montagnes
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 126 (11d12+55)
 - **Vitesse** 12 m
@@ -70009,6 +72331,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, ell
 - Source: (CEO p)(SRD p)
 - SRD: [Storm Giant](srd_monsters_storm_giant.md)
 -  Géant de taille TG, Chaotique Bon
+- **Terrain** Littoral, Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 16 (armure d'écailles)
 - **Points de vie** 230 (20d12+100)
 - **Vitesse** 15 m, nage 15 m
@@ -70058,6 +72381,7 @@ _Touché :_ 35 (4d12+9) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Fire Giant](srd_monsters_fire_giant.md)
 -  Géant de taille TG, Loyal Mauvais
+- **Terrain** Désert chaud, Montagnes
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 162 (13d12+78)
 - **Vitesse** 9 m
@@ -70094,6 +72418,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Frost Giant](srd_monsters_frost_giant.md)
 -  Géant de taille TG, Neutre Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure composite)
 - **Points de vie** 138 (12d12+60)
 - **Vitesse** 12 m
@@ -70130,6 +72455,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Djinni](srd_monsters_djinni.md)
 -  Élémentaire de taille G, Chaotique Bon
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 161 (14d10+84)
 - **Vitesse** 9 m, vol 27 m
@@ -70179,6 +72505,7 @@ Si le test est réussi, la créature n'est plus [entravée](hd_conditions_entrav
 - Source: (CEO p)(SRD p)
 - SRD: [Efreeti](srd_monsters_efreeti.md)
 -  Élémentaire de taille G, Loyal Mauvais
+- **Terrain** Désert chaud, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 200 (16d10+112)
 - **Vitesse** 12 m, vol 18 m
@@ -70226,6 +72553,7 @@ _Touché :_ 17 (5d6) dégâts de feu.
 - Source: (CEO p)(SRD p)
 - SRD: [Gnoll](srd_monsters_gnoll.md)
 -  Humanoïde (gnoll) de taille M, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 15 (armure de peau, bouclier)
 - **Points de vie** 22 (5d8)
 - **Vitesse** 9 m
@@ -70264,6 +72592,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 - Source: (CEO p)
 -  Humanoïde (gnoll) de taille M, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure de peau, bouclier)
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 9 m
@@ -70307,6 +72636,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)
 -  Humanoïde (gnome) de taille P, Neutre Bon
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 16 (3d6+6)
 - **Vitesse** 6 m
@@ -70351,6 +72681,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Goblin](srd_monsters_goblin.md)
 -  Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
+- **Terrain** Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir, bouclier)
 - **Points de vie** 7 (2d6)
 - **Vitesse** 9 m
@@ -70386,6 +72717,7 @@ _Touché :_ 5 (1d6+2) dégâts tranchants.
 
 - Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
+- **Terrain** Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 27 (6d6+6)
 - **Vitesse** 9 m
@@ -70427,6 +72759,7 @@ _Touché :_ 3 (1d4) dégâts contondants.
 
 - Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille P, neutre mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 13 (3d6+3)
 - **Vitesse** 9 m
@@ -70475,6 +72808,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 
 - Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille P, neutre mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 22 (5d6+5)
 - **Vitesse** 9 m
@@ -70524,6 +72858,7 @@ _Touché :_ 5 (1d8+1) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Bugbear](srd_monsters_bugbear.md)
 -  Humanoïde (gobelinoïde) de taille M, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Caverne aménagée
 - **Classe d'armure** 16 (armure de peau, bouclier)
 - **Points de vie** 27 (5d8+5)
 - **Vitesse** 9 m
@@ -70561,6 +72896,7 @@ _Touché :_ 11 (2d8+2) dégâts perforants.
 
 - Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille M, chaotique mauvais
+- **Terrain** Collines / Vallées, Caverne aménagée
 - **Classe d'armure** 16 (armure de peau, bouclier)
 - **Points de vie** 55 (10d8+10)
 - **Vitesse** 9 m
@@ -70607,6 +72943,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâ
 - Source: (CEO p)(SRD p)
 - SRD: [Clay Golem](srd_monsters_clay_golem.md)
 -  Créature artificielle de taille G, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 133 (14d10+56)
 - **Vitesse** 6 m
@@ -70656,6 +72993,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 - Source: (CEO p)(SRD p)
 - SRD: [Flesh Golem](srd_monsters_flesh_golem.md)
 -  Créature artificielle de taille M, neutre
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 9
 - **Points de vie** 93 (11d8+44)
 - **Vitesse** 9 m
@@ -70711,6 +73049,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Iron Golem](srd_monsters_iron_golem.md)
 -  Créature artificielle de taille G, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 210 (20d10+100)
 - **Vitesse** 9 m
@@ -70758,6 +73097,7 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Stone Golem](srd_monsters_stone_golem.md)
 -  Créature artificielle de taille G, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
 - **Vitesse** 9 m
@@ -70799,6 +73139,7 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Gorgon](srd_monsters_gorgon.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
 - **Vitesse** 12 m
@@ -70840,6 +73181,7 @@ Les créatures situées dans cette zone doivent chacune effectuer un [jet de sau
 - Source: (CEO p)(SRD p)
 - SRD: [Ghoul](srd_monsters_ghoul.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
+- **Terrain** Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 22 (5d8)
 - **Vitesse** 9 m
@@ -70868,11 +73210,12 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 
 ---
 
-# Blême
+# Goule Blême
 
 - Source: (CEO p)(SRD p)
 - SRD: [Ghast](srd_monsters_ghast.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
+- **Terrain** Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 13
 - **Points de vie** 36 (8d8)
 - **Vitesse** 9 m
@@ -70913,6 +73256,7 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Grick](srd_monsters_grick.md)
 -  Créature monstrueuse de taille M, neutre
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 27 (6d8)
 - **Vitesse** 9 m, escalade 9 m
@@ -70951,6 +73295,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Griffon](srd_monsters_griffon.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 59 (7d10+21)
 - **Vitesse** 9 m, vol 24 m
@@ -70989,6 +73334,7 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Sea Hag](srd_monsters_sea_hag.md)
 -  Fée de taille M, Chaotique Mauvais
+- **Terrain** Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (7d8+21)
 - **Vitesse** 9 m, nage 12 m
@@ -71030,6 +73376,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Night Hag](srd_monsters_night_hag.md)
 -  Fiélon de taille M, Neutre Mauvais
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 112 (15d8+45)
 - **Vitesse** 9 m
@@ -71078,6 +73425,7 @@ Un sort de protection contre le mal et le bien lancé sur la cible, tout comme u
 - Source: (CEO p)(SRD p)
 - SRD: [Green Hag](srd_monsters_green_hag.md)
 -  Fée de taille M, Neutre Mauvais
+- **Terrain** Bois / Forêt, Collines / Vallées, Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 82 (11d8+33)
 - **Vitesse** 9 m
@@ -71124,6 +73472,7 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Harpy](srd_monsters_harpy.md)
 -  Créature monstrueuse de taille M, Chaotique Mauvais
+- **Terrain** Littoral, Montagnes, Ruines extérieures
 - **Classe d'armure** 11
 - **Points de vie** 38 (7d8+7)
 - **Vitesse** 6 m, vol 12 m
@@ -71165,6 +73514,7 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Owlbear](srd_monsters_owlbear.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Bois / Forêt, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 59 (7d10+21)
 - **Vitesse** 12 m
@@ -71203,6 +73553,7 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Hippogriff](srd_monsters_hippogriff.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Littoral, Montagnes
 - **Classe d'armure** 11
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 12 m, vol 18 m
@@ -71241,6 +73592,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Hobgoblin](srd_monsters_hobgoblin.md)
 -  Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
+- **Terrain** Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 18 (bouclier, cotte de mailles)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9 m
@@ -71275,6 +73627,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 
 - Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
+- **Terrain** Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 18 (bouclier, cotte de mailles)
 - **Points de vie** 29 (5d8+7)
 - **Vitesse** 9 m
@@ -71314,6 +73667,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 - Source: (CEO p)(SRD p)
 - SRD: [Lizardfolk](srd_monsters_lizardfolk.md)
 -  Humanoïde (homme-lézard) de taille M, Neutre
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle, bouclier)
 - **Points de vie** 22 (4d8+4)
 - **Vitesse** 9 m, nage 9 m
@@ -71359,6 +73713,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 - Source: (CEO p)
 -  Humanoïde (homme-lézard) de taille M, Neutre
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle, bouclier)
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 9 m, nage 9 m
@@ -71405,6 +73760,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Merfolk](srd_monsters_merfolk.md)
 -  Humanoïde (homme-poisson) de taille M, Neutre
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 11
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 3 m, nage 12 m
@@ -71437,6 +73793,7 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 - Source: (CEO p)(SRD p)
 - SRD: [Homunculus](srd_monsters_homunculus.md)
 -  Créature artificielle de taille TP, neutre
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 5 (2d4)
 - **Vitesse** 6 m, vol 12 m
@@ -71470,6 +73827,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 - Source: (CEO p)(SRD p)
 - SRD: [Hydra](srd_monsters_hydra.md)
 -  Créature monstrueuse de taille TG, non-alignée
+- **Terrain** Littoral, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 172 (15d12+75)
 - **Vitesse** 9 m, nage 9 m
@@ -71514,6 +73872,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Kobold](srd_monsters_kobold.md)
 -  Humanoïde (kobold) de taille P, Loyal Mauvais
+- **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 12
 - **Points de vie** 5 (2d6-2)
 - **Vitesse** 9 m
@@ -71550,6 +73909,7 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 
 - Source: (CEO p)
 -  Humanoïde (kobold) de taille P, Neutre Mauvais
+- **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 13
 - **Points de vie** 17 (5d6)
 - **Vitesse** 9 m
@@ -71591,6 +73951,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Kraken](srd_monsters_kraken.md)
 -  Créature monstrueuse (titan) de taille Gig, Chaotique Mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 472 (27d20+189)
 - **Vitesse** 6 m, nage 18 m
@@ -71651,6 +74012,7 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Lamia](srd_monsters_lamia.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 97 (13d10+26)
 - **Vitesse** 9 m
@@ -71699,6 +74061,7 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Lich](srd_monsters_lich.md)
 -  Mort-vivant de taille M, alignement Mauvais
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 135 (18d8+54)
 - **Vitesse** 9 m
@@ -71772,6 +74135,7 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 - Source: (CEO p)(SRD p)
 - SRD: [Unicorn](srd_monsters_unicorn.md)
 -  Céleste de taille G, Loyal Bon
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 12
 - **Points de vie** 67 (9d10+18)
 - **Vitesse** 15 m
@@ -71835,6 +74199,7 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 - Source: (CEO p)(SRD p)
 - SRD: [Werewolf](srd_monsters_werewolf.md)
 -  Humanoïde (humain, métamorphe) de taille M, Chaotique Mauvais
+- **Terrain** Bois / Forêt, Montagnes
 - **Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 9 m (12 m sous forme de loup)
@@ -71880,6 +74245,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle d
 - Source: (CEO p)(SRD p)
 - SRD: [Werebear](srd_monsters_werebear.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Bon
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
 - **Points de vie** 135 (18d8+54)
 - **Vitesse** 9 m (12 m, escalade 9 m sous forme hybride ou d'ours)
@@ -71925,6 +74291,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle
 - Source: (CEO p)(SRD p)
 - SRD: [Wererat](srd_monsters_wererat.md)
 -  Humanoïde (humain, métamorphe) de taille M, Loyal Mauvais
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 12
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m
@@ -71970,6 +74337,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle d
 - Source: (CEO p)(SRD p)
 - SRD: [Wereboar](srd_monsters_wereboar.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Mauvais
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9 m (12 m sous forme de sanglier)
@@ -72013,6 +74381,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Weretiger](srd_monsters_weretiger.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre
+- **Terrain** Jungle
 - **Classe d'armure** 12
 - **Points de vie** 120 (16d8+48)
 - **Vitesse** 9 m (12 m sous forme de tigre)
@@ -72064,6 +74433,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle 
 - Source: (CEO p)(SRD p)
 - SRD: [Magmin](srd_monsters_magmin.md)
 -  Élémentaire de taille P, Chaotique Neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 9 m
@@ -72103,6 +74473,7 @@ Jusqu'au moment où une créature consacre une action à étouffer les flammes, 
 - Source: (CEO p)(SRD p)
 - SRD: [Cloaker](srd_monsters_cloaker.md)
 -  Aberration de taille G, Chaotique Neutre
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 78 (12d10+12)
 - **Vitesse** 3 m, vol 12 m
@@ -72155,6 +74526,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Darkmantle](srd_monsters_darkmantle.md)
 -  Créature monstrueuse de taille P, non-alignée
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 11
 - **Points de vie** 22 (5d6+5)
 - **Vitesse** 3 m, vol 9 m
@@ -72197,6 +74569,7 @@ Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1
 - Source: (CEO p)(SRD p)
 - SRD: [Manticore](srd_monsters_manticore.md)
 -  Créature monstrueuse de taille G, Loyal Mauvais
+- **Terrain** Désert chaud, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 68 (8d10+24)
 - **Vitesse** 9 m, vol 15 m
@@ -72238,6 +74611,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Medusa](srd_monsters_medusa.md)
 -  Créature monstrueuse de taille M, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 127 (17d8+51)
 - **Vitesse** 9 m
@@ -72284,6 +74658,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Ice Mephit](srd_monsters_ice_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
+- **Terrain** Arctique / Subarctique, Montagnes, Plans élémentaires
 - **Classe d'armure** 11
 - **Points de vie** 21 (6d6)
 - **Vitesse** 9 m, vol 9 m
@@ -72327,6 +74702,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 - Source: (CEO p)(SRD p)
 - SRD: [Magma Mephit](srd_monsters_magma_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 11
 - **Points de vie** 22 (5d6+5)
 - **Vitesse** 9 m, vol 9 m
@@ -72368,6 +74744,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 - Source: (CEO p)(SRD p)
 - SRD: [Dust Mephit](srd_monsters_dust_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
+- **Terrain** Désert chaud, Plans élémentaires, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 17 (5d6)
 - **Vitesse** 9 m, vol 9 m
@@ -72409,6 +74786,7 @@ Une créature peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegar
 - Source: (CEO p)(SRD p)
 - SRD: [Steam Mephit](srd_monsters_steam_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
+- **Terrain** Littoral, Plans élémentaires, Caverne sous-marine
 - **Classe d'armure** 10
 - **Points de vie** 21 (6d6)
 - **Vitesse** 9 m, vol 9 m
@@ -72448,6 +74826,7 @@ Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde](h
 - Source: (CEO p)(SRD p)
 - SRD: [Merrow](srd_monsters_merrow.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
+- **Terrain** Littoral, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 3 m, nage 12 m
@@ -72491,6 +74870,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Mimic](srd_monsters_mimic.md)
 -  Créature monstrueuse (métamorphe) de taille M, Neutre
+- **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 4,50 m
@@ -72537,6 +74917,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet
 - Source: (CEO p)(SRD p)
 - SRD: [Minotaur](srd_monsters_minotaur.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 76 (9d10+27)
 - **Vitesse** 12 m
@@ -72579,6 +74960,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Hell Hound](srd_monsters_hell_hound.md)
 -  Fiélon de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (7d8+14)
 - **Vitesse** 15 m
@@ -72616,6 +74998,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 - Source: (CEO p)(SRD p)
 - SRD: [Mummy](srd_monsters_mummy.md)
 -  Mort-vivant de taille M, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 6 m
@@ -72654,6 +75037,7 @@ Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde](hd_abi
 - Source: (CEO p)(SRD p)
 - SRD: [Mummy Lord](srd_monsters_mummy_lord.md)
 -  Mort-vivant de taille M, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 97 (13d8+39)
 - **Vitesse** 6 m
@@ -72732,6 +75116,7 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 - Source: (CEO p)(SRD p)
 - SRD: [Spirit Naga](srd_monsters_spirit_naga.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d10+20)
 - **Vitesse** 12 m
@@ -72780,6 +75165,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un [jet de 
 - Source: (CEO p)(SRD p)
 - SRD: [Guardian Naga](srd_monsters_guardian_naga.md)
 -  Créature monstrueuse de taille G, Loyal Bon
+- **Terrain** Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
 - **Vitesse** 12 m
@@ -72834,6 +75220,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un [jet de 
 - Source: (CEO p)(SRD p)
 - SRD: [Wight](srd_monsters_wight.md)
 -  Mort-vivant de taille M, Neutre Mauvais
+- **Terrain** Mangrove / Marécage, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 45 (6d8+18)
 - **Vitesse** 9 m
@@ -72881,6 +75268,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 - Source: (CEO p)(SRD p)
 - SRD: [Animated Armor](srd_monsters_animated_armor.md)
 -  Créature artificielle de taille M, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 7,50 m
@@ -72918,6 +75306,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Flying Sword](srd_monsters_flying_sword.md)
 -  Créature artificielle de taille P, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 17 (5d6)
 - **Vitesse** 0 m, vol 15 m (vol stationnaire)
@@ -72954,6 +75343,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Rug of Smothering](srd_monsters_rug_of_smothering.md)
 -  Créature artificielle de taille G, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 12
 - **Points de vie** 33 (6d10)
 - **Vitesse** 3 m
@@ -72995,6 +75385,7 @@ De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) d�
 - Source: (CEO p)(SRD p)
 - SRD: [Ogre](srd_monsters_ogre.md)
 -  Géant de taille G, Chaotique Mauvais
+- **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane, Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 11 (armure de peau)
 - **Points de vie** 59 (7d10+21)
 - **Vitesse** 12 m
@@ -73026,6 +75417,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Shadow](srd_monsters_shadow.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
+- **Terrain** Donjon maçonné, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 16 (3d8+3)
 - **Vitesse** 12 m
@@ -73068,6 +75460,7 @@ Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre
 - Source: (CEO p)(SRD p)
 - SRD: [Oni](srd_monsters_oni.md)
 -  Géant de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 16 (cotte de mailles)
 - **Points de vie** 110 (13d10+39)
 - **Vitesse** 9 m, vol 9 m
@@ -73116,6 +75509,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 - Source: (CEO p)
 -  Humanoïde (orc) de taille M, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 13 (armure de peau)
 - **Points de vie** 15 (2d8+6)
 - **Vitesse** 9 m
@@ -73151,6 +75545,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 - Source: (CEO p)
 -  Humanoïde (demi-orc) de taille M, Neutre Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m
@@ -73193,6 +75588,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Otyugh](srd_monsters_otyugh.md)
 -  Aberration de taille G, Neutre
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
 - **Vitesse** 9 m
@@ -73237,6 +75633,7 @@ L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 - Source: (CEO p)(SRD p)
 - SRD: [Rust Monster](srd_monsters_rust_monster.md)
 -  Créature monstrueuse de taille M, non-alignée
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 27 (5d8+5)
 - **Vitesse** 12 m
@@ -73275,6 +75672,7 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 
 - Source: (CEO p)
 -  Aberration de taille TP, Neutre
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 7 (2d6)
 - **Vitesse** 9 m au sol
@@ -73326,6 +75724,7 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 - Source: (CEO p)(SRD p)
 - SRD: [Pegasus](srd_monsters_pegasus.md)
 -  Céleste de taille G, Chaotique Bon
+- **Terrain** 
 - **Classe d'armure** 12
 - **Points de vie** 59 (7d10+21)
 - **Vitesse** 18 m, vol 27 m
@@ -73355,6 +75754,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Pseudodragon](srd_monsters_pseudodragon.md)
 -  Dragon de taille TP, Neutre Bon
+- **Terrain** Bois / Forêt, Jungle, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d4+2)
 - **Vitesse** 4,50 m, vol 18 m
@@ -73395,6 +75795,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Rakshasa](srd_monsters_rakshasa.md)
 -  Fiélon de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 110 (13d8+52)
 - **Vitesse** 12 m
@@ -73440,6 +75841,7 @@ La malédiction magique prend effet chaque fois que la cible prend un repos cour
 
 - Source: (CEO p)
 -  Créature monstrueuse de taille TG, non-alignée
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 195 (17d12+85)
 - **Vitesse** 9 m, fouissement 6 m
@@ -73478,6 +75880,7 @@ _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la 
 - Source: (CEO p)(SRD p)
 - SRD: [Roc](srd_monsters_roc.md)
 -  Créature monstrueuse de taille Gig, non-alignée
+- **Terrain** Montagnes
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 248 (16d20+80)
 - **Vitesse** 6 m, vol 36 m
@@ -73517,6 +75920,7 @@ _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée](hd_condi
 - Source: (CEO p)(SRD p)
 - SRD: [Sahuagin](srd_monsters_sahuagin.md)
 -  Humanoïde (sahuagin) de taille M, Loyal Mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 22 (4d8+4)
 - **Vitesse** 9 m, nage 12 m
@@ -73562,6 +75966,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 - Source: (CEO p)
 -  Humanoïde (sahuagin) de taille M, Loyal Mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure de coquillages)
 - **Points de vie** 50 (9d8+9)
 - **Vitesse** 9 m, nage 12 m
@@ -73620,6 +76025,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Salamander](srd_monsters_salamander.md)
 -  Élémentaire de taille G, Neutre Mauvais
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d10+24)
 - **Vitesse** 9 m
@@ -73662,6 +76068,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la c
 - Source: (CEO p)(SRD p)
 - SRD: [Satyr](srd_monsters_satyr.md)
 -  Fée de taille M, Chaotique Neutre
+- **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 31 (7d8)
 - **Vitesse** 12 m
@@ -73701,6 +76108,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 - Source: (CEO p)
 -  Plante de taille TG, non-alignée
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 115 (10d12+50)
 - **Vitesse** 0 m
@@ -73740,6 +76148,7 @@ _Touché :_ 9 (1d8+5) dégâts contondants et la cible est [empoignée](hd_condi
 
 - Source: (CEO p)
 -  Créature monstrueuse de taille Gig, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 231 (14d20+84)
 - **Vitesse** nage 15 m
@@ -73792,6 +76201,7 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 - Source: (CEO p)(SRD p)
 - SRD: [Specter](srd_monsters_specter.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
+- **Terrain** Ruines extérieures
 - **Classe d'armure** 12
 - **Points de vie** 22 (5d8)
 - **Vitesse** 0 m, vol 15 m
@@ -73828,6 +76238,7 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sa
 - Source: (CEO p)(SRD p)
 - SRD: [Androsphinx](srd_monsters_androsphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
+- **Terrain** Désert chaud, Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 199 (19d10+95)
 - **Vitesse** 12 m, vol 18 m
@@ -73901,6 +76312,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Gynosphinx](srd_monsters_gynosphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
+- **Terrain** Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
 - **Vitesse** 12 m, vol 18 m
@@ -73964,6 +76376,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - Source: (CEO p)(SRD p)
 - SRD: [Skeleton](srd_monsters_skeleton.md)
 -  Mort-vivant de taille M, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 13 (débris d'armure)
 - **Points de vie** 13 (2d8+4)
 - **Vitesse** 9 m
@@ -73998,6 +76411,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 13 (débris de barde)
 - **Points de vie** 22 (3d10+6)
 - **Vitesse** 18 m
@@ -74028,6 +76442,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 67 (9d10+18)
 - **Vitesse** 12 m
@@ -74066,6 +76481,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Stirge](srd_monsters_stirge.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 2 (1d4)
 - **Vitesse** 3 m, vol 12 m
@@ -74097,6 +76513,7 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 - Source: (CEO p)(SRD p)
 - SRD: [Succubus](srd_monsters_succubus.md)
 -  Fiélon (métamorphe) de taille M, Neutre Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 66 (12d8+12)
 - **Vitesse** 9 m, vol 18 m
@@ -74142,6 +76559,7 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 - Source: (CEO p)(SRD p)
 - SRD: [Treant](srd_monsters_treant.md)
 -  Plante de taille TG, Chaotique Bonne
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 138 (12d12+60)
 - **Vitesse** 9 m
@@ -74185,6 +76603,7 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Tarrasque](srd_monsters_tarrasque.md)
 -  Créature monstrueuse (titan) de taille Gig, non-alignée
+- **Terrain** 
 - **Classe d'armure** 25 (armure naturelle)
 - **Points de vie** 676 (33d20+330)
 - **Vitesse** 12 m
@@ -74258,6 +76677,7 @@ La tarasque peut effectuer 3 actions légendaires qu'elle choisit parmi celles d
 
 - Source: (CEO p)
 -  Créature monstrueuse de taille G, Neutre Mauvais
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
 - **Vitesse** 9 m, fouissement 6 m
@@ -74298,6 +76718,7 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 - Source: (CEO p)
 -  Créature monstrueuse de taille M, Neutre
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
 - **Vitesse** 6 m, fouissement 6 m
@@ -74329,6 +76750,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Shambling Mound](srd_monsters_shambling_mound.md)
 -  Plante de taille G, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
 - **Vitesse** 6 m, nage 6 m
@@ -74368,6 +76790,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Grimlock](srd_monsters_grimlock.md)
 -  Humanoïde (torve) de taille M, Neutre Mauvais
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 11
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9 m
@@ -74405,6 +76828,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Invisible Stalker](srd_monsters_invisible_stalker.md)
 -  Élémentaire de taille M, neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 14
 - **Points de vie** 104 (16d8+32)
 - **Vitesse** 15 m, vol 15 m (vol stationnaire)
@@ -74443,6 +76867,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Troll](srd_monsters_troll.md)
 -  Géant de taille G, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 84 (8d10+40)
 - **Vitesse** 9 m
@@ -74483,6 +76908,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Vampire](srd_monsters_vampire.md)
 -  Mort-vivant (métamorphe) de taille M, Loyal Mauvais
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 144 (17d8+68)
 - **Vitesse** 9 m
@@ -74567,6 +76993,7 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 - Source: (CEO p)(SRD p)
 - SRD: [Vampire Spawn](srd_monsters_vampire_spawn.md)
 -  Mort-vivant de taille M, Neutre Mauvais
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 82 (11d8+33)
 - **Vitesse** 9 m
@@ -74621,6 +77048,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le
 - Source: (CEO p)(SRD p)
 - SRD: [Gelatinous Cube](srd_monsters_gelatinous_cube.md)
 -  Vase de taille G, non-alignée
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 6
 - **Points de vie** 84 (8d10+40)
 - **Vitesse** 4,50 m
@@ -74671,6 +77099,7 @@ _Touché :_ 10 (3d6) dégâts d'acide.
 - Source: (CEO p)(SRD p)
 - SRD: [Ochre Jelly](srd_monsters_ochre_jelly.md)
 -  Vase de taille G, non-alignée
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 8
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 3 m, escalade 3 m
@@ -74711,6 +77140,7 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 - Source: (CEO p)(SRD p)
 - SRD: [Black Pudding](srd_monsters_black_pudding.md)
 -  Vase de taille G, non-alignée
+- **Terrain** Caverne aménagée, Caverne naturelle, Donjon maçonné
 - **Classe d'armure** 7
 - **Points de vie** 85 (10d10+30)
 - **Vitesse** 6 m, escalade 6 m
@@ -74754,6 +77184,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 - Source: (CEO p)(SRD p)
 - SRD: [Gray Ooze](srd_monsters_gray_ooze.md)
 -  Vase de taille M, non-alignée
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 8
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 3 m, escalade 3 m
@@ -74796,6 +77227,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si 
 - Source: (CEO p)(SRD p)
 - SRD: [Purple Worm](srd_monsters_purple_worm.md)
 -  Créature monstrueuse de taille Gig, non-alignée
+- **Terrain** Montagnes, Caverne naturelle
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 247 (15d20+90)
 - **Vitesse** 15 m, fouissement 9 m
@@ -74838,6 +77270,7 @@ Si le ver meurt, les créatures avalées ne sont plus [entravées](hd_conditions
 - Source: (CEO p)(SRD p)
 - SRD: [Wyvern](srd_monsters_wyvern.md)
 -  Dragon de taille G, non-alignée
+- **Terrain** Littoral, Montagnes
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
 - **Vitesse** 6 m, vol 24 m
@@ -74876,6 +77309,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Xorn](srd_monsters_xorn.md)
 -  Élémentaire de taille M, Neutre
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 73 (7d8+42)
 - **Vitesse** 6 m, fouissement 6 m
@@ -74919,6 +77353,7 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Zombie](srd_monsters_zombie.md)
 -  Mort-vivant de taille M, Neutre Mauvais
+- **Terrain** 
 - **Classe d'armure** 8
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 6 m
@@ -74953,6 +77388,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Ogre Zombie](srd_monsters_ogre_zombie.md)
 -  Mort-vivant de taille G, Neutre Mauvais
+- **Terrain** 
 - **Classe d'armure** 8
 - **Points de vie** 85 (9d10+36)
 - **Vitesse** 9 m
@@ -74987,6 +77423,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Eagle](srd_monsters_eagle.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Mer / Océan, Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
 - **Vitesse** 3 m, vol 18 m
@@ -75019,6 +77456,7 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Eagle](srd_monsters_giant_eagle.md)
 -  Bête de taille G, neutre bon
+- **Terrain** Montagnes
 - **Classe d'armure** 13
 - **Points de vie** 26 (4d10+4)
 - **Vitesse** 3 m, vol 24 m
@@ -75057,6 +77495,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Spider](srd_monsters_spider.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 12
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 6 m, escalade 6 m
@@ -75093,6 +77532,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 - Source: (CEO p)(SRD p)
 - SRD: [Phase Spider](srd_monsters_phase_spider.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Bois / Forêt, Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 32 (5d10+5)
 - **Vitesse** 9 m, escalade 9 m
@@ -75129,6 +77569,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Spider](srd_monsters_giant_spider.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 26 (4d10+4)
 - **Vitesse** 9 m, escalade 9 m
@@ -75169,6 +77610,7 @@ _Touché :_ la cible est [entravée](hd_conditions_entrave.md) par la toile. Par
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 12 m, escalade 12 m
@@ -75205,6 +77647,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de 
 - Source: (CEO p)(SRD p)
 - SRD: [Awakened Tree](srd_monsters_awakened_tree.md)
 -  Plante de taille TG, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 59 (7d12+14)
 - **Vitesse** 6 m
@@ -75238,6 +77681,7 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Awakened Shrub](srd_monsters_awakened_shrub.md)
 -  Plante de taille P, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 9
 - **Points de vie** 10 (3d6)
 - **Vitesse** 6 m
@@ -75271,6 +77715,7 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Baboon](srd_monsters_baboon.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Jungle
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
 - **Vitesse** 9 m, escalade 9 m
@@ -75302,6 +77747,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Axe Beak](srd_monsters_axe_beak.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Jungle
 - **Classe d'armure** 11
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 15 m
@@ -75329,6 +77775,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Weasel](srd_monsters_weasel.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 9 m
@@ -75361,6 +77808,7 @@ _Touché :_ 1 dégât perforant.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Weasel](srd_monsters_giant_weasel.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 9 (2d8)
 - **Vitesse** 12 m
@@ -75393,6 +77841,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Badger](srd_monsters_badger.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 10
 - **Points de vie** 3 (1d4+1)
 - **Vitesse** 6 m, fouissement 1,50 m
@@ -75424,6 +77873,7 @@ _Touché :_ 1 dégât perforant.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Badger](srd_monsters_giant_badger.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 10
 - **Points de vie** 13 (2d8+4)
 - **Vitesse** 9 m, fouissement 3 m
@@ -75461,6 +77911,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Jackal](srd_monsters_jackal.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
 - **Vitesse** 12 m
@@ -75495,6 +77946,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Camel](srd_monsters_camel.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Désert chaud
 - **Classe d'armure** 9
 - **Points de vie** 15 (2d10+4)
 - **Vitesse** 15 m
@@ -75522,6 +77974,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Cat](srd_monsters_cat.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 2 (1d4)
 - **Vitesse** 12 m, escalade 9 m
@@ -75554,6 +78007,7 @@ _Touché :_ 1 dégât tranchant.
 - Source: (CEO p)(SRD p)
 - SRD: [Bat](srd_monsters_bat.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 1,50 m, vol 9 m
@@ -75587,6 +78041,7 @@ _Touché :_ 1 dégât perforant.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Bat](srd_monsters_giant_bat.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Jungle, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13
 - **Points de vie** 22 (4d10)
 - **Vitesse** 3 m, vol 18 m
@@ -75620,6 +78075,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Warhorse](srd_monsters_warhorse.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 18 m
@@ -75650,6 +78106,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 - Source: (CEO p)
 -  Bête de taille G, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 13
 - **Points de vie** 59 (7d10+21)
 - **Vitesse** 18 m
@@ -75691,6 +78148,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 - Source: (CEO p)
 -  Bête de taille G, non-alignée
+- **Terrain** 
 - **Classe d'armure** 12
 - **Points de vie** 37 (5d10+10)
 - **Vitesse** 18 m
@@ -75724,6 +78182,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Riding Horse](srd_monsters_riding_horse.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 13 (2d10+2)
 - **Vitesse** 18 m
@@ -75751,6 +78210,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Draft Horse](srd_monsters_draft_horse.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 12 m
@@ -75778,6 +78238,7 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Goat](srd_monsters_goat.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 10
 - **Points de vie** 4 (1d8)
 - **Vitesse** 12 m
@@ -75811,6 +78272,7 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Goat](srd_monsters_giant_goat.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 12 m
@@ -75844,6 +78306,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Deer](srd_monsters_deer.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13
 - **Points de vie** 4 (1d8)
 - **Vitesse** 15 m
@@ -75871,6 +78334,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Death Dog](srd_monsters_death_dog.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 39 (6d8+12)
 - **Vitesse** 12 m
@@ -75905,6 +78369,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle d
 - Source: (CEO p)(SRD p)
 - SRD: [Blink Dog](srd_monsters_blink_dog.md)
 -  Fée de taille M, Loyal Bon
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 22 (4d8+4)
 - **Vitesse** 12 m
@@ -75939,6 +78404,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Owl](srd_monsters_owl.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 11
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 1,50 m, vol 18 m
@@ -75973,6 +78439,7 @@ _Touché :_ 1 dégât tranchant.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Owl](srd_monsters_giant_owl.md)
 -  Bête de taille G, neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 12
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 1,50 m, vol 18 m
@@ -76007,6 +78474,7 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Raven](srd_monsters_raven.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Collines / Vallées, Littoral, Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 3 m, vol 15 m
@@ -76039,6 +78507,7 @@ _Touché :_ 1 dégât perforant.
 - Source: (CEO p)(SRD p)
 - SRD: [Crab](srd_monsters_crab.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Littoral, Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 2 (1d4)
 - **Vitesse** 6 m, nage 6 m
@@ -76071,6 +78540,7 @@ _Touché :_ 1 dégât contondant.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Crab](srd_monsters_giant_crab.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 13 (3d8)
 - **Vitesse** 9 m, nage 9 m
@@ -76103,6 +78573,7 @@ _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée](hd_conditi
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Toad](srd_monsters_giant_toad.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 11
 - **Points de vie** 39 (6d10+6)
 - **Vitesse** 6 m, nage 12 m
@@ -76140,6 +78611,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 - Source: (CEO p)(SRD p)
 - SRD: [Crocodile](srd_monsters_crocodile.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Désert chaud, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 6 m, nage 9 m
@@ -76172,6 +78644,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée](hd_condi
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Crocodile](srd_monsters_giant_crocodile.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Désert chaud, Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 85 (9d12+27)
 - **Vitesse** 9 m, nage 15 m
@@ -76210,6 +78683,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle
 - Source: (CEO p)(SRD p)
 - SRD: [Elk](srd_monsters_elk.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Arctique / Subarctique, Bois / Forêt
 - **Classe d'armure** 10
 - **Points de vie** 13 (2d10+2)
 - **Vitesse** 15 m
@@ -76245,6 +78719,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Elk](srd_monsters_giant_elk.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 42 (5d12+10)
 - **Vitesse** 18 m
@@ -76281,6 +78756,7 @@ _Touché :_ 22 (4d8+4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Elephant](srd_monsters_elephant.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Désert chaud, Jungle, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 76 (8d12+24)
 - **Vitesse** 12 m
@@ -76316,6 +78792,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Killer Whale](srd_monsters_killer_whale.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 90 (12d12+12)
 - **Vitesse** 0 m, nage 18 m
@@ -76352,6 +78829,7 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Hawk](srd_monsters_hawk.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Collines / Vallées, Désert chaud, Littoral
 - **Classe d'armure** 13
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 3 m, vol 18 m
@@ -76384,6 +78862,7 @@ _Touché :_ 1 dégât tranchant.
 - Source: (CEO p)(SRD p)
 - SRD: [Blood Hawk](srd_monsters_blood_hawk.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Collines / Vallées, Désert chaud, Littoral
 - **Classe d'armure** 12
 - **Points de vie** 7 (2d6)
 - **Vitesse** 3 m, vol 18 m
@@ -76418,6 +78897,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Ape](srd_monsters_ape.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Jungle, Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 19 (3d8+6)
 - **Vitesse** 9 m, escalade 9 m
@@ -76452,6 +78932,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Frog](srd_monsters_frog.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 11
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 6 m, nage 6 m
@@ -76480,6 +78961,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Frog](srd_monsters_giant_frog.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 11
 - **Points de vie** 18 (4d8)
 - **Vitesse** 9 m, nage 9 m
@@ -76518,6 +79000,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée](hd_condit
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Wasp](srd_monsters_giant_wasp.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)
 - **Vitesse** 3 m, vol 15 m
@@ -76544,6 +79027,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un [jet de 
 
 - Source: (CEO p)
 -  Bête de taille P, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
 - **Vitesse** 3 m, vol 18 m
@@ -76575,6 +79059,7 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 - Source: (CEO p)
 -  Bête de taille G, neutre bon
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13
 - **Points de vie** 26 (4d10+4)
 - **Vitesse** 3 m, vol 24 m
@@ -76613,6 +79098,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Sea Horse](srd_monsters_sea_horse.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Ruines sous-marines
 - **Classe d'armure** 11
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 0 m, nage 6 m
@@ -76638,6 +79124,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Sea Horse](srd_monsters_giant_sea_horse.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 16 (3d10)
 - **Vitesse** 0 m, nage 12 m
@@ -76671,6 +79158,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Hyena](srd_monsters_hyena.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11
 - **Points de vie** 5 (1d8+1)
 - **Vitesse** 15 m
@@ -76703,6 +79191,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Hyena](srd_monsters_giant_hyena.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 15 m
@@ -76735,6 +79224,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Lizard](srd_monsters_lizard.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Désert chaud, Jungle, Caverne sous-marine
 - **Classe d'armure** 10
 - **Points de vie** 2 (1d4)
 - **Vitesse** 6 m, escalade 6 m
@@ -76762,6 +79252,7 @@ _Touché :_ 1 dégât perforant.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Lizard](srd_monsters_giant_lizard.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Désert chaud, Jungle, Caverne sous-marine
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 9 m, escalade 9 m
@@ -76789,6 +79280,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Lion](srd_monsters_lion.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 26 (4d10+4)
 - **Vitesse** 15 m
@@ -76829,6 +79321,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Wolf](srd_monsters_wolf.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt, Collines / Vallées, Montagnes
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 12 m
@@ -76863,6 +79356,7 @@ _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle d
 - Source: (CEO p)(SRD p)
 - SRD: [Winter Wolf](srd_monsters_winter_wolf.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 75 (10d10+20)
 - **Vitesse** 15 m
@@ -76904,6 +79398,7 @@ Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](hd_
 - Source: (CEO p)(SRD p)
 - SRD: [Dire Wolf](srd_monsters_dire_wolf.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Bois / Forêt, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 37 (5d10+10)
 - **Vitesse** 15 m
@@ -76938,6 +79433,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 - Source: (CEO p)(SRD p)
 - SRD: [Mammoth](srd_monsters_mammoth.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 126 (11d12+55)
 - **Vitesse** 12 m
@@ -76973,6 +79469,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Mastiff](srd_monsters_mastiff.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 5 (1d8+1)
 - **Vitesse** 12 m
@@ -77005,6 +79502,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Centipede](srd_monsters_giant_centipede.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Désert chaud, Jungle, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 4 (1d6+1)
 - **Vitesse** 9 m, escalade 9 m
@@ -77032,6 +79530,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 - Source: (CEO p)(SRD p)
 - SRD: [Mule](srd_monsters_mule.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 12 m
@@ -77065,6 +79564,7 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Bats](srd_monsters_swarm_of_bats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 22 (5d8)
 - **Vitesse** 0 m, vol 9 m
@@ -77102,6 +79602,7 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Ravens](srd_monsters_swarm_of_ravens.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 12
 - **Points de vie** 24 (7d8-7)
 - **Vitesse** 3 m, vol 15 m
@@ -77136,6 +79637,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Quippers](srd_monsters_swarm_of_quippers.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage, Ruines sous-marines
 - **Classe d'armure** 13
 - **Points de vie** 28 (8d8-8)
 - **Vitesse** 0 m, nage 12 m
@@ -77173,6 +79675,7 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Rats](srd_monsters_swarm_of_rats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 10
 - **Points de vie** 24 (7d8-7)
 - **Vitesse** 9 m
@@ -77208,6 +79711,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 14
 - **Points de vie** 36 (8d8)
 - **Vitesse** 9 m, nage 9 m
@@ -77241,6 +79745,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Insects](srd_monsters_swarm_of_insects.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 22 (5d8)
 - **Vitesse** 6 m, escalade 6 m
@@ -77290,6 +79795,7 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 - Source: (CEO p)(SRD p)
 - SRD: [Brown Bear](srd_monsters_brown_bear.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Bois / Forêt, Collines / Vallées, Littoral, Montagnes
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 34 (4d10+12)
 - **Vitesse** 12 m, escalade 9 m
@@ -77328,6 +79834,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Black Bear](srd_monsters_black_bear.md)
 -  Bête de taille M, non-alignée
+- **Terrain** 
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 19 (3d8+6)
 - **Vitesse** 12 m, escalade 9 m
@@ -77366,6 +79873,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Polar Bear](srd_monsters_polar_bear.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Arctique / Subarctique, Bois / Forêt
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 42 (5d10+15)
 - **Vitesse** 12 m, nage 9 m
@@ -77404,6 +79912,7 @@ _Touché :_ 9 (1d8+5) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Panther](srd_monsters_panther.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Arctique / Subarctique, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)
 - **Vitesse** 15 m, escalade 12 m
@@ -77442,6 +79951,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Octopus](srd_monsters_octopus.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
 - **Vitesse** 1,50 m, nage 9 m
@@ -77480,6 +79990,7 @@ _Touché :_ 1 dégât contondant et la cible est [empoignée](hd_conditions_empo
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Octopus](srd_monsters_giant_octopus.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 11
 - **Points de vie** 52 (8d10+8)
 - **Vitesse** 3 m, nage 18 m
@@ -77520,6 +80031,7 @@ Jusqu'au terme de cette empoignade, la cible est [entravée](hd_conditions_entra
 - Source: (CEO p)(SRD p)
 - SRD: [Quipper](srd_monsters_quipper.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 13
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 0 m, nage 12 m
@@ -77553,6 +80065,7 @@ _Touché :_ 1 dégât perforant.
 - Source: (CEO p)(SRD p)
 - SRD: [Pony](srd_monsters_pony.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 12 m
@@ -77580,6 +80093,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 4 (1d6+1)
 - **Vitesse** 9 m
@@ -77611,6 +80125,7 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Rat](srd_monsters_rat.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 10
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 6 m
@@ -77642,6 +80157,7 @@ _Touché :_ 1 dégât perforant.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Rat](srd_monsters_giant_rat.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 12
 - **Points de vie** 7 (2d6)
 - **Vitesse** 9 m
@@ -77683,6 +80199,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 - Source: (CEO p)(SRD p)
 - SRD: [Hunter Shark](srd_monsters_hunter_shark.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 0 m, nage 12 m
@@ -77717,6 +80234,7 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Reef Shark](srd_monsters_reef_shark.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Littoral, Ruines sous-marines
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 22 (4d8+4)
 - **Vitesse** 0 m, nage 12 m
@@ -77751,6 +80269,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Shark](srd_monsters_giant_shark.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 126 (11d12+55)
 - **Vitesse** 0 m, nage 15 m
@@ -77785,6 +80304,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Rhinoceros](srd_monsters_rhinoceros.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 12 m
@@ -77818,6 +80338,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Boar](srd_monsters_boar.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt, Collines / Vallées, Jungle
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 12 m
@@ -77851,6 +80372,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Boar](srd_monsters_giant_boar.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Bois / Forêt, Collines / Vallées, Jungle
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 42 (5d10+15)
 - **Vitesse** 12 m
@@ -77884,6 +80406,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Scorpion](srd_monsters_scorpion.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 3 m
@@ -77911,6 +80434,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Scorpion](srd_monsters_giant_scorpion.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 52 (7d10+14)
 - **Vitesse** 12 m
@@ -77944,6 +80468,7 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée](hd_condi
 - Source: (CEO p)(SRD p)
 - SRD: [Constrictor Snake](srd_monsters_constrictor_snake.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
 - **Points de vie** 13 (2d10+2)
 - **Vitesse** 9 m, nage 9 m
@@ -77975,6 +80500,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
 - **Points de vie** 60 (8d12+8)
 - **Vitesse** 9 m, nage 9 m
@@ -78007,6 +80533,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Poisonous Snake](srd_monsters_poisonous_snake.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 2 (1d4)
 - **Vitesse** 9 m, nage 9 m
@@ -78034,6 +80561,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Désert chaud, Caverne sous-marine
 - **Classe d'armure** 14
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9 m, nage 9 m
@@ -78064,6 +80592,7 @@ Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde](hd_abilitie
 - Source: (CEO p)(SRD p)
 - SRD: [Flying Snake](srd_monsters_flying_snake.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Montagnes
 - **Classe d'armure** 14
 - **Points de vie** 5 (2d4)
 - **Vitesse** 9 m, vol 18 m, nage 9 m
@@ -78095,6 +80624,7 @@ _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Ape](srd_monsters_giant_ape.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Arctique / Subarctique, Jungle, Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 157 (15d12+60)
 - **Vitesse** 12 m, escalade 12 m
@@ -78129,6 +80659,7 @@ _Touché :_ 30 (7d6+6) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Tiger](srd_monsters_tiger.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Arctique / Subarctique, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
 - **Points de vie** 37 (5d10+10)
 - **Vitesse** 12 m
@@ -78167,6 +80698,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Collines / Vallées, Désert chaud, Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 52 (7d10+14)
 - **Vitesse** 12 m
@@ -78205,6 +80737,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Vulture](srd_monsters_vulture.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 5 (1d188+1)
 - **Vitesse** 3 m, vol 15 m
@@ -78239,6 +80772,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Vulture](srd_monsters_giant_vulture.md)
 -  Bête de taille G, Neutre Mauvais
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 22 (3d10+6)
 - **Vitesse** 3 m, vol 18 m
@@ -78279,6 +80813,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Worg](srd_monsters_worg.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 26 (4d10+4)
 - **Vitesse** 15 m
@@ -78311,6 +80846,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 - Source: (CEO p)(SRD p)
 - SRD: [Acolyte](srd_monsters_acolyte.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 10
 - **Points de vie** 9 (2d8)
 - **Vitesse** 9 m
@@ -78347,6 +80883,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Archmage](srd_monsters_archmage.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 12 (15 avec armure du mage)
 - **Points de vie** 99 (18d8+18)
 - **Vitesse** 9 m
@@ -78407,6 +80944,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Assassin](srd_monsters_assassin.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
+- **Terrain** 
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9 m
@@ -78451,6 +80989,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un [jet de 
 - Source: (CEO p)(SRD p)
 - SRD: [Bandit](srd_monsters_bandit.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
+- **Terrain** 
 - **Classe d'armure** 12 (armure de cuir)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9 m
@@ -78482,6 +81021,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Berserker](srd_monsters_berserker.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
+- **Terrain** 
 - **Classe d'armure** 13 (armure de peau)
 - **Points de vie** 67 (9d8+27)
 - **Vitesse** 9 m
@@ -78513,6 +81053,7 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Bandit Captain](srd_monsters_bandit_captain.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
+- **Terrain** 
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 65 (10d8+20)
 - **Vitesse** 9 m
@@ -78552,6 +81093,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Knight](srd_monsters_knight.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m
@@ -78596,6 +81138,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Druid](srd_monsters_druid.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 11 (16 avec peau d'écorce)
 - **Points de vie** 27 (5d8+5)
 - **Vitesse** 9 m
@@ -78634,6 +81177,7 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 - Source: (CEO p)(SRD p)
 - SRD: [Priest](srd_monsters_priest.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 13 (chemise de mailles)
 - **Points de vie** 27 (5d8+5)
 - **Vitesse** 7,50 m
@@ -78678,6 +81222,7 @@ _Touché :_ 3 (1d6) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Scout](srd_monsters_scout.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 16 (3d8+3)
 - **Vitesse** 9 m
@@ -78716,6 +81261,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Spy](srd_monsters_spy.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 12
 - **Points de vie** 27 (6d8)
 - **Vitesse** 9 m
@@ -78756,6 +81302,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Cult Fanatic](srd_monsters_cult_fanatic.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
+- **Terrain** 
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m
@@ -78798,6 +81345,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Guard](srd_monsters_guard.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 16 (bouclier, chemise de mailles)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9 m
@@ -78826,6 +81374,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 - Source: (CEO p)(SRD p)
 - SRD: [Gladiator](srd_monsters_gladiator.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 16 (armure de cuir clouté, bouclier)
 - **Points de vie** 112 (15d8+45)
 - **Vitesse** 9 m
@@ -78873,6 +81422,7 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 - Source: (CEO p)(SRD p)
 - SRD: [Tribal Warrior](srd_monsters_tribal_warrior.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 12 (armure de peau)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9 m
@@ -78904,6 +81454,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 - Source: (CEO p)(SRD p)
 - SRD: [Mage](srd_monsters_mage.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 12 (15 avec armure du mage)
 - **Points de vie** 40 (9d8)
 - **Vitesse** 9 m
@@ -78949,6 +81500,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Thug](srd_monsters_thug.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que bon
+- **Terrain** 
 - **Classe d'armure** 11 (armure de cuir)
 - **Points de vie** 32 (5d8+10)
 - **Vitesse** 9 m
@@ -78989,6 +81541,7 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 - Source: (CEO p)(SRD p)
 - SRD: [Cultist](srd_monsters_cultist.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
+- **Terrain** 
 - **Classe d'armure** 12 (armure de cuir)
 - **Points de vie** 9 (2d8)
 - **Vitesse** 9 m
@@ -79021,6 +81574,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 - Source: (CEO p)(SRD p)
 - SRD: [Noble](srd_monsters_noble.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 15 (cuirasse)
 - **Points de vie** 9 (2d8)
 - **Vitesse** 9 m
@@ -79053,6 +81607,7 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 - Source: (CEO p)(SRD p)
 - SRD: [Commoner](srd_monsters_commoner.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 10
 - **Points de vie** 4 (1d8)
 - **Vitesse** 9 m
@@ -79080,6 +81635,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 - Source: (CEO p)(SRD p)
 - SRD: [Veteran](srd_monsters_veteran.md)
 -  Humanoïde (n'importe quelle race) de taille M, alignement quelconque
+- **Terrain** 
 - **Classe d'armure** 17 (clibanion)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 9 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Mammoth](srd_monsters_mammoth.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 126 (11d12+55)
 - **Vitesse** 12 m

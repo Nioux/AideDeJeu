@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 12 m, escalade 12 m

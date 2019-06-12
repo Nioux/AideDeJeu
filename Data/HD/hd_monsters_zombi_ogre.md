@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ogre Zombie](srd_monsters_ogre_zombie.md)
 -  Mort-vivant de taille G, Neutre Mauvais
+- **Terrain** 
 - **Classe d'armure** 8
 - **Points de vie** 85 (9d10+36)
 - **Vitesse** 9 m

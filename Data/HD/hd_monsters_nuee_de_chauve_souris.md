@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Bats](srd_monsters_swarm_of_bats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 22 (5d8)
 - **Vitesse** 0 m, vol 9 m

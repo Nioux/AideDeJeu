@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Bat](srd_monsters_bat.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 1,50 m, vol 9 m

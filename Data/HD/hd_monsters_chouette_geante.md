@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Owl](srd_monsters_giant_owl.md)
 -  Bête de taille G, neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 12
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 1,50 m, vol 18 m

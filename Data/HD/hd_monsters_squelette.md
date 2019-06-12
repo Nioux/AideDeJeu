@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Skeleton](srd_monsters_skeleton.md)
 -  Mort-vivant de taille M, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 13 (débris d'armure)
 - **Points de vie** 13 (2d8+4)
 - **Vitesse** 9 m

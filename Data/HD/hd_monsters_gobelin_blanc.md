@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille P, neutre mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 13 (3d6+3)
 - **Vitesse** 9 m

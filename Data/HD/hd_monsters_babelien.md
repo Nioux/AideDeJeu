@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Gibbering Mouther](srd_monsters_gibbering_mouther.md)
 -  Aberration de taille M, neutre
+- **Terrain** Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine
 - **Classe d'armure** 9
 - **Points de vie** 67 (9d8+27)
 - **Vitesse** 3 m, nage 3 m

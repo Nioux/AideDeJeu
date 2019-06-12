@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Dust Mephit](srd_monsters_dust_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
+- **Terrain** Désert chaud, Plans élémentaires, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 17 (5d6)
 - **Vitesse** 9 m, vol 9 m

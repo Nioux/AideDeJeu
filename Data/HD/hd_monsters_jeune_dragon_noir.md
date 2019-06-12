@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Young Black Dragon](srd_monsters_young_black_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
 - **Vitesse** 12 m, nage 12 m, vol 24 m

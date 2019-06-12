@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Young Brass Dragon](srd_monsters_young_brass_dragon.md)
 -  Dragon de taille G, Chaotique Bon
+- **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
 - **Vitesse** 12 m, fouissement 6 m, vol 24 m

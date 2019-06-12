@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ghost](srd_monsters_ghost.md)
 -  Mort-vivant de taille M, n'importe quel alignement
+- **Terrain** Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 11
 - **Points de vie** 45 (10d8)
 - **Vitesse** 0 m, vol 12 m (vol stationnaire)

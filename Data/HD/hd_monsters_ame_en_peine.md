@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Wraith](srd_monsters_wraith.md)
 -  Mort-vivant de taille M, Neutre Mauvais
+- **Terrain** Collines / Vallées, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 13
 - **Points de vie** 67 (9d8+27)
 - **Vitesse** 0 m, vol 18 m (vol stationnaire)

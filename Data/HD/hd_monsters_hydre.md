@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Hydra](srd_monsters_hydra.md)
 -  Créature monstrueuse de taille TG, non-alignée
+- **Terrain** Littoral, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 172 (15d12+75)
 - **Vitesse** 9 m, nage 9 m

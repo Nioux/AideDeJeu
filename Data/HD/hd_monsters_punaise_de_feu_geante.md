@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 4 (1d6+1)
 - **Vitesse** 9 m

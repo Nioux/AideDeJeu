@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Crab](srd_monsters_crab.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Littoral, Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 2 (1d4)
 - **Vitesse** 6 m, nage 6 m

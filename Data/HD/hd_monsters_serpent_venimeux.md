@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Poisonous Snake](srd_monsters_poisonous_snake.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 2 (1d4)
 - **Vitesse** 9 m, nage 9 m

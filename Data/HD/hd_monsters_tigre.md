@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Tiger](srd_monsters_tiger.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Arctique / Subarctique, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
 - **Points de vie** 37 (5d10+10)
 - **Vitesse** 12 m

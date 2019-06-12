@@ -16,6 +16,7 @@ namespace AideDeJeuLib
         public string Type { get; set; }
         public string Size { get; set; }
         public string Alignment { get; set; }
+        public string Terrain { get; set; }
         public string Legendary { get; set; }
         //public string Source { get; set; }
         public string ArmorClass { get; set; }

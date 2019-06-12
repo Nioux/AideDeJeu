@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Collines / Vallées, Désert chaud, Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 52 (7d10+14)
 - **Vitesse** 12 m

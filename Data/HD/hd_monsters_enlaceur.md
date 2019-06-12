@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Roper](srd_monsters_roper.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
+- **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 93 (11d10+33)
 - **Vitesse** 3 m, escalade 3 m

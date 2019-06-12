@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Werebear](srd_monsters_werebear.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Bon
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
 - **Points de vie** 135 (18d8+54)
 - **Vitesse** 9 m (12 m, escalade 9 m sous forme hybride ou d'ours)

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Water Elemental](srd_monsters_water_elemental.md)
 -  Élémentaire de taille G, neutre
+- **Terrain** Mer / Océan, Plans élémentaires, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
 - **Vitesse** 9 m, nage 27 m

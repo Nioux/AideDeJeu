@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Boar](srd_monsters_giant_boar.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Bois / Forêt, Collines / Vallées, Jungle
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 42 (5d10+15)
 - **Vitesse** 12 m

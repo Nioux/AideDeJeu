@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Blood Hawk](srd_monsters_blood_hawk.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Collines / Vallées, Désert chaud, Littoral
 - **Classe d'armure** 12
 - **Points de vie** 7 (2d6)
 - **Vitesse** 3 m, vol 18 m

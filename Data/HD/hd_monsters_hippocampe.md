@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Sea Horse](srd_monsters_sea_horse.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Ruines sous-marines
 - **Classe d'armure** 11
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 0 m, nage 6 m

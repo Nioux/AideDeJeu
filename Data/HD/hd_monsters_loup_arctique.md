@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Winter Wolf](srd_monsters_winter_wolf.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 75 (10d10+20)
 - **Vitesse** 15 m

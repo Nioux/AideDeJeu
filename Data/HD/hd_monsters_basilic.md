@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Basilisk](srd_monsters_basilisk.md)
 -  Créature monstrueuse de taille M, non-alignée
+- **Terrain** Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 6 m

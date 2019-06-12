@@ -12,6 +12,7 @@ namespace AideDeJeuLib
         public string Challenges { get; set; }
         public string Sizes { get; set; }
         public string Sources { get; set; }
+        public string Terrains { get; set; }
 
         public override FilterViewModel GetNewFilterViewModel()
         {
@@ -19,7 +20,8 @@ namespace AideDeJeuLib
                 Split(Types),
                 Split(Challenges),
                 Split(Sizes),
-                Split(Sources)
+                Split(Sources),
+                Split(Terrains)
             );
         }
     }

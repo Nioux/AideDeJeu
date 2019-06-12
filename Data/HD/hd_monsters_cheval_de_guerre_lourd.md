@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Bête de taille G, non-alignée
+- **Terrain** 
 - **Classe d'armure** 12
 - **Points de vie** 37 (5d10+10)
 - **Vitesse** 18 m

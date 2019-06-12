@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Shambling Mound](srd_monsters_shambling_mound.md)
 -  Plante de taille G, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
 - **Vitesse** 6 m, nage 6 m

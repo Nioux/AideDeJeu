@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Wererat](srd_monsters_wererat.md)
 -  Humanoïde (humain, métamorphe) de taille M, Loyal Mauvais
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 12
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m

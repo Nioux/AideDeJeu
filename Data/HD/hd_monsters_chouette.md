@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Owl](srd_monsters_owl.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 11
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 1,50 m, vol 18 m

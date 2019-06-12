@@ -6796,7 +6796,7 @@ SubItems:
   Name: Ghast
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Blême](hd_monsters_bleme.md)'
+  AltName: '[Blême](monsters_hd.md#blême)'
   Source: (SRD p311)
   AttributesDictionary: >+
     Name: Ghast
@@ -6809,7 +6809,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Blême](hd_monsters_bleme.md)<!--/AltName-->
+      - CEO: <!--AltName-->[Blême](monsters_hd.md#blême)<!--/AltName-->
 
 
 
@@ -6921,7 +6921,7 @@ SubItems:
 
 
 
-    AltName: '[Blême](hd_monsters_bleme.md)'
+    AltName: '[Blême](monsters_hd.md#blême)'
 
     Source: (SRD p311)
 
@@ -60102,7 +60102,7 @@ _Hit_: 6 (2d4 + 1) slashing damage.
 
 # Ghast
 
-- CEO: [Blême](hd_monsters_bleme.md)
+- CEO: [Blême](monsters_hd.md#blême)
 - Source: (SRD p311)
 -  Medium undead, chaotic evil
 - **Armor Class** 13

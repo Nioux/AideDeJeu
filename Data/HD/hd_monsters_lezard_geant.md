@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Lizard](srd_monsters_giant_lizard.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Désert chaud, Jungle, Caverne sous-marine
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 9 m, escalade 9 m

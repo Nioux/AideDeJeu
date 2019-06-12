@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Efreeti](srd_monsters_efreeti.md)
 -  Élémentaire de taille G, Loyal Mauvais
+- **Terrain** Désert chaud, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 200 (16d10+112)
 - **Vitesse** 12 m, vol 18 m

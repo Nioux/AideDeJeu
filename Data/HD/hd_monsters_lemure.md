@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Lemure](srd_monsters_lemure.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 7
 - **Points de vie** 13 (3d8)
 - **Vitesse** 4,50 m

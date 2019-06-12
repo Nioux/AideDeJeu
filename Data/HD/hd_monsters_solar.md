@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Solar](srd_monsters_solar.md)
 -  Céleste de taille G, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 243 (18d10+144)
 - **Vitesse** 15 m, vol 45 m

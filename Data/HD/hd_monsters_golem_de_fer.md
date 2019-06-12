@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Iron Golem](srd_monsters_iron_golem.md)
 -  Créature artificielle de taille G, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 210 (20d10+100)
 - **Vitesse** 9 m

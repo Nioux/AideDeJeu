@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Fire Giant](srd_monsters_fire_giant.md)
 -  Géant de taille TG, Loyal Mauvais
+- **Terrain** Désert chaud, Montagnes
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 162 (13d12+78)
 - **Vitesse** 9 m

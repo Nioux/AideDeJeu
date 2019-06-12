@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Elk](srd_monsters_giant_elk.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 42 (5d12+10)
 - **Vitesse** 18 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Hezrou](srd_monsters_hezrou.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 136 (13d10+65)
 - **Vitesse** 9 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Elk](srd_monsters_elk.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Arctique / Subarctique, Bois / Forêt
 - **Classe d'armure** 10
 - **Points de vie** 13 (2d10+2)
 - **Vitesse** 15 m

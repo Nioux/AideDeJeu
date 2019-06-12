@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Deva](srd_monsters_deva.md)
 -  Céleste de taille M, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
 - **Vitesse** 9 m, vol 27 m

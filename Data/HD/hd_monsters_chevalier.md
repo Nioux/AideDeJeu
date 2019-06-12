@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Knight](srd_monsters_knight.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m

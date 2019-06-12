@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Sahuagin](srd_monsters_sahuagin.md)
 -  Humanoïde (sahuagin) de taille M, Loyal Mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 22 (4d8+4)
 - **Vitesse** 9 m, nage 12 m

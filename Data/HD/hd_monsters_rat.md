@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Rat](srd_monsters_rat.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 10
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 6 m

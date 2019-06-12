@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Phase Spider](srd_monsters_phase_spider.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Bois / Forêt, Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 32 (5d10+5)
 - **Vitesse** 9 m, escalade 9 m

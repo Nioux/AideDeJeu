@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Reef Shark](srd_monsters_reef_shark.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Littoral, Ruines sous-marines
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 22 (4d8+4)
 - **Vitesse** 0 m, nage 12 m

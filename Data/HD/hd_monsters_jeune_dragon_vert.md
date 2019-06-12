@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Young Green Dragon](srd_monsters_young_green_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
 - **Vitesse** 12 m, nage 12 m, vol 24 m

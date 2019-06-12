@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Owlbear](srd_monsters_owlbear.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Bois / Forêt, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 59 (7d10+21)
 - **Vitesse** 12 m

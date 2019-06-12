@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ettin](srd_monsters_ettin.md)
 -  Géant de taille G, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
 - **Vitesse** 12 m

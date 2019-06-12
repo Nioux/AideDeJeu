@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Flying Sword](srd_monsters_flying_sword.md)
 -  Créature artificielle de taille P, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 17 (5d6)
 - **Vitesse** 0 m, vol 15 m (vol stationnaire)

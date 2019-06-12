@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Androsphinx](srd_monsters_androsphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
+- **Terrain** Désert chaud, Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 199 (19d10+95)
 - **Vitesse** 12 m, vol 18 m

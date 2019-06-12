@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
+- **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 225 (18d12+108)
 - **Vitesse** 12 m, fouissement 9 m, vol 24 m

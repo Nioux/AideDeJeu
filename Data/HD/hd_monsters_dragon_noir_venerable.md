@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 367 (21d20+147)
 - **Vitesse** 12 m, nage 12 m, vol 24 m

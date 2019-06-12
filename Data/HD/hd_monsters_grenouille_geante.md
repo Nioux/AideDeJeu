@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Frog](srd_monsters_giant_frog.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 11
 - **Points de vie** 18 (4d8)
 - **Vitesse** 9 m, nage 9 m

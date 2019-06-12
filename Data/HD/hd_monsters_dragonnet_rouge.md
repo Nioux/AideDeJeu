@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
+- **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9 m, escalade 9 m, vol 18 m

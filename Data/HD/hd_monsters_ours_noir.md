@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Black Bear](srd_monsters_black_bear.md)
 -  Bête de taille M, non-alignée
+- **Terrain** 
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 19 (3d8+6)
 - **Vitesse** 12 m, escalade 9 m

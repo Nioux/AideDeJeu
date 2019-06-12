@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Tribal Warrior](srd_monsters_tribal_warrior.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 12 (armure de peau)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9 m

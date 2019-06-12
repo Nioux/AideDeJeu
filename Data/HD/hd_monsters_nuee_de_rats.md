@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Rats](srd_monsters_swarm_of_rats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 10
 - **Points de vie** 24 (7d8-7)
 - **Vitesse** 9 m

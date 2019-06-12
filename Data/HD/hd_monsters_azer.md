@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Azer](srd_monsters_azer.md)
 -  Élémentaire de taille M, Loyal Neutre
+- **Terrain** Plans élémentaires, Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle, bouclier)
 - **Points de vie** 39 (6d8+12)
 - **Vitesse** 9 m

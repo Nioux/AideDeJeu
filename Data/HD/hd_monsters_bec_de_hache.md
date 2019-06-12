@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Axe Beak](srd_monsters_axe_beak.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Jungle
 - **Classe d'armure** 11
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 15 m
