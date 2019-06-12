@@ -6096,11 +6096,11 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 
 <!--MonsterItem Family="MonsterHD"-->
 
-# <!--Name-->Blême<!--/Name-->
+# <!--Name-->Goule Blême<!--/Name-->
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ghast](monsters_vo.md#ghast)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
-- **Terrain** <!--Terrain--><!--/Terrain-->
+- **Terrain** <!--Terrain-->Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
