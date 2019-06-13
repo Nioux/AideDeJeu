@@ -339,9 +339,14 @@ namespace AideDeJeuLib
                 }
                 else
                 {
+                    id = id.Replace(".md#", "_");
                     id = id.Replace(".md", "");
                 }
                 id = id.Replace("-", "_").Replace("?", "").Replace("’", "_").Replace("'", "_").Replace("__", "_").ToLower() + ".md";
+                if (id.Contains("#"))
+                {
+                    Console.WriteLine(id);
+                }
                 return id;
             }
         }

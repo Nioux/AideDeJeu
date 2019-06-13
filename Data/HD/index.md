@@ -58,6 +58,9 @@
 # [Les Cinq Royaumes](hd_l5r_index.md)
 
 
+# [Monstrueusement Mignons](baby_bestiary.md)
+
+
 # SRD
 
 ## [Conditions](srd_conditions.md)
