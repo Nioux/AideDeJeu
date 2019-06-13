@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Wyvern](srd_monsters_wyvern.md)
 -  Dragon de taille G, non-alignée
+- **Terrain** Littoral, Montagnes
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
 - **Vitesse** 6 m, vol 24 m

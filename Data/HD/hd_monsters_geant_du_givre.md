@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Frost Giant](srd_monsters_frost_giant.md)
 -  Géant de taille TG, Neutre Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure composite)
 - **Points de vie** 138 (12d12+60)
 - **Vitesse** 12 m

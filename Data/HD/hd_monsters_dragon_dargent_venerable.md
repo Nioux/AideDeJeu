@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
+- **Terrain** Montagnes
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 487 (25d20+225)
 - **Vitesse** 12 m, vol 24 m

@@ -10,19 +10,19 @@
 
 
 
-# [Agrandir/rétrécir](sandbox#agrandirretrecir.md)
+# [Agrandir/rétrécir](sandbox_agrandirretrecir.md)
 
-#### _[Enlarge/Reduce](sandbox#agrandirretrecir.md)_
-
-
-
-# [Agrandir/rétrécir](sandbox#agrandirretrecir.md)
-
-#### _[Enlarge/Reduce](sandbox#agrandirretrecir.md)_
+#### _[Enlarge/Reduce](sandbox_agrandirretrecir.md)_
 
 
 
-# [Agrandir/rétrécir](sandbox#agrandirretrecir.md)
+# [Agrandir/rétrécir](sandbox_agrandirretrecir.md)
 
-#### _[Enlarge/Reduce](sandbox#agrandirretrecir.md)_
+#### _[Enlarge/Reduce](sandbox_agrandirretrecir.md)_
+
+
+
+# [Agrandir/rétrécir](sandbox_agrandirretrecir.md)
+
+#### _[Enlarge/Reduce](sandbox_agrandirretrecir.md)_
 

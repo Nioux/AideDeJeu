@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 385 (22d20+154)
 - **Vitesse** 12 m, nage 12 m, vol 24 m

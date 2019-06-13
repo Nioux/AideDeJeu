@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Purple Worm](srd_monsters_purple_worm.md)
 -  Créature monstrueuse de taille Gig, non-alignée
+- **Terrain** Montagnes, Caverne naturelle
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 247 (15d20+90)
 - **Vitesse** 15 m, fouissement 9 m

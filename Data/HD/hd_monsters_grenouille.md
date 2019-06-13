@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Frog](srd_monsters_frog.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 11
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 6 m, nage 6 m

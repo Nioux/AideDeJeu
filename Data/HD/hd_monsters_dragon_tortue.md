@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Dragon Turtle](srd_monsters_dragon_turtle.md)
 -  Dragon de taille Gig, neutre
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 341 (22d20+110)
 - **Vitesse** 6 m, nage 12 m

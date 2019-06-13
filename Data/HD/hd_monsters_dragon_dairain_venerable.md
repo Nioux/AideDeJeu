@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
+- **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 297 (17d20+119)
 - **Vitesse** 12 m, fouissement 12 m, vol 24 m

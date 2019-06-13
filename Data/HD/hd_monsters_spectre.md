@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Specter](srd_monsters_specter.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
+- **Terrain** Ruines extérieures
 - **Classe d'armure** 12
 - **Points de vie** 22 (5d8)
 - **Vitesse** 0 m, vol 15 m

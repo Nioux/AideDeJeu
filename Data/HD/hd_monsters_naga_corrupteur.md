@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Spirit Naga](srd_monsters_spirit_naga.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d10+20)
 - **Vitesse** 12 m

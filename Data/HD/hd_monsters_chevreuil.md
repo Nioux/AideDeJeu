@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Deer](srd_monsters_deer.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13
 - **Points de vie** 4 (1d8)
 - **Vitesse** 15 m

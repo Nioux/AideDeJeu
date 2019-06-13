@@ -65,6 +65,10 @@
 
 <!--br-->
 
+# [Monstrueusement Mignons](baby_bestiary.md)
+
+<!--br-->
+
 # SRD
 
 ## [Conditions](conditions_vo.md)

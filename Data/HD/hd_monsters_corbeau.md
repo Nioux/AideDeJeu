@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Raven](srd_monsters_raven.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Collines / Vallées, Littoral, Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 3 m, vol 15 m

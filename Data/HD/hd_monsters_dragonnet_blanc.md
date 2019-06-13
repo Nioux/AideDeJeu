@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
 - **Vitesse** 9 m, fouissement 4,50 m, nage 9 m, vol 18 m

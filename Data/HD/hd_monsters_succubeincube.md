@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Succubus](srd_monsters_succubus.md)
 -  Fiélon (métamorphe) de taille M, Neutre Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 66 (12d8+12)
 - **Vitesse** 9 m, vol 18 m

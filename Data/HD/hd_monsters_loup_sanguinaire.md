@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Dire Wolf](srd_monsters_dire_wolf.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Bois / Forêt, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 37 (5d10+10)
 - **Vitesse** 15 m

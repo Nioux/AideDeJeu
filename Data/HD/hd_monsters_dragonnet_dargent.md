@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
+- **Terrain** Montagnes
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
 - **Vitesse** 9 m, vol 18 m

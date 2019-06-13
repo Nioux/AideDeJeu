@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Pony](srd_monsters_pony.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 12 m

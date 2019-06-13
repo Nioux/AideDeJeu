@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Octopus](srd_monsters_octopus.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
 - **Vitesse** 1,50 m, nage 9 m

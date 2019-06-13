@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)
 -  Humanoïde (gnome) de taille P, Neutre Bon
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 16 (3d6+6)
 - **Vitesse** 6 m

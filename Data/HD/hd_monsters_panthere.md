@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Panther](srd_monsters_panther.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Arctique / Subarctique, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)
 - **Vitesse** 15 m, escalade 12 m

@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Aberration de taille G, Chaotique Neutre
+- **Terrain** 
 - **Classe d'armure** 14
 - **Points de vie** 199 (19d12+76)
 - **Vitesse** 9 m

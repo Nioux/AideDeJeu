@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Toad](srd_monsters_giant_toad.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 11
 - **Points de vie** 39 (6d10+6)
 - **Vitesse** 6 m, nage 12 m

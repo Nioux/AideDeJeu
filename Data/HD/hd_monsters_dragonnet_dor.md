@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 60 (8d8+24)
 - **Vitesse** 9 m, nage 9 m, vol 18 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Triceratops](srd_monsters_triceratops.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 95 (10d12+30)
 - **Vitesse** 15 m

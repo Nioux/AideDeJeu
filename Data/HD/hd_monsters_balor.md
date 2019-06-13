@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Balor](srd_monsters_balor.md)
 -  Fiélon (démon) de taille TG, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 262 (21d12+126)
 - **Vitesse** 12 m, vol 24 m

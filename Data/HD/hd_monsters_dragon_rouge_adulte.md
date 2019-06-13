@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Red Dragon](srd_monsters_adult_red_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
+- **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m

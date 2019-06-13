@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Oni](srd_monsters_oni.md)
 -  Géant de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 16 (cotte de mailles)
 - **Points de vie** 110 (13d10+39)
 - **Vitesse** 9 m, vol 9 m

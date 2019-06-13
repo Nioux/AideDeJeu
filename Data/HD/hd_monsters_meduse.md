@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Medusa](srd_monsters_medusa.md)
 -  Créature monstrueuse de taille M, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 127 (17d8+51)
 - **Vitesse** 9 m

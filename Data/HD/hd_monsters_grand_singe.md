@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ape](srd_monsters_ape.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Jungle, Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 19 (3d8+6)
 - **Vitesse** 9 m, escalade 9 m

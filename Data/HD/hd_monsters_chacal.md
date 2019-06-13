@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Jackal](srd_monsters_jackal.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
 - **Vitesse** 12 m

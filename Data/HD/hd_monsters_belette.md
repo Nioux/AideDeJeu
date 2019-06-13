@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Weasel](srd_monsters_weasel.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 9 m

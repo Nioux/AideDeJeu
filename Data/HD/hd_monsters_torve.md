@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Grimlock](srd_monsters_grimlock.md)
 -  Humanoïde (torve) de taille M, Neutre Mauvais
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 11
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9 m

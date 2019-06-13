@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Rhinoceros](srd_monsters_rhinoceros.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 12 m

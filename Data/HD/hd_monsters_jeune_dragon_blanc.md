@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Young White Dragon](srd_monsters_young_white_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 133 (14d10+56)
 - **Vitesse** 12 m, fouissement 6 m, nage 12 m, vol 24 m

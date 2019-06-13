@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Young Silver Dragon](srd_monsters_young_silver_dragon.md)
 -  Dragon de taille G, Loyal Bon
+- **Terrain** Montagnes
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 168 (16d10+80)
 - **Vitesse** 12 m, vol 24 m

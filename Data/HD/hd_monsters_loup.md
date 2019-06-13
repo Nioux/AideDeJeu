@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Wolf](srd_monsters_wolf.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Bois / Forêt, Collines / Vallées, Montagnes
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 12 m

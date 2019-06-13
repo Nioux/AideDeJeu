@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Quippers](srd_monsters_swarm_of_quippers.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage, Ruines sous-marines
 - **Classe d'armure** 13
 - **Points de vie** 28 (8d8-8)
 - **Vitesse** 0 m, nage 12 m

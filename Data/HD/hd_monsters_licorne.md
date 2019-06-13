@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Unicorn](srd_monsters_unicorn.md)
 -  Céleste de taille G, Loyal Bon
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 12
 - **Points de vie** 67 (9d10+18)
 - **Vitesse** 15 m

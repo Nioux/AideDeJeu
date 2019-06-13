@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Bête de taille G, neutre bon
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13
 - **Points de vie** 26 (4d10+4)
 - **Vitesse** 3 m, vol 24 m

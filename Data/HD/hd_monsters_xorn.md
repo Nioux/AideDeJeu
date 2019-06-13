@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Xorn](srd_monsters_xorn.md)
 -  Élémentaire de taille M, Neutre
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 73 (7d8+42)
 - **Vitesse** 6 m, fouissement 6 m

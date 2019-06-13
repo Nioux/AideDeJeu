@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Gynosphinx](srd_monsters_gynosphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
+- **Terrain** Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
 - **Vitesse** 12 m, vol 18 m

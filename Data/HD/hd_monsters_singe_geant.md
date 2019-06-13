@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Ape](srd_monsters_giant_ape.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Arctique / Subarctique, Jungle, Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 157 (15d12+60)
 - **Vitesse** 12 m, escalade 12 m

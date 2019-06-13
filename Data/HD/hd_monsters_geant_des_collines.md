@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Hill Giant](srd_monsters_hill_giant.md)
 -  Géant de taille TG, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 105 (10d12+40)
 - **Vitesse** 12 m

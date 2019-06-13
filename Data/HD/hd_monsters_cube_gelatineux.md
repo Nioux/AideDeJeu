@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Gelatinous Cube](srd_monsters_gelatinous_cube.md)
 -  Vase de taille G, non-alignée
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 6
 - **Points de vie** 84 (8d10+40)
 - **Vitesse** 4,50 m

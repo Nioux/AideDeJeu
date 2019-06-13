@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Will-o'-Wisp](srd_monsters_will_o_wisp.md)
 -  Mort-vivant de taille TP, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Mangrove / Marécage
 - **Classe d'armure** 19
 - **Points de vie** 22 (9d4)
 - **Vitesse** 0 m, vol 15 m (vol stationnaire)

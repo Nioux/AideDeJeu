@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)
 -  Dragon de taille TG, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
 - **Vitesse** 12 m, nage 12 m, vol 24 m

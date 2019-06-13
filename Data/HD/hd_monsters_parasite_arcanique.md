@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Aberration de taille TP, Neutre
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 7 (2d6)
 - **Vitesse** 9 m au sol

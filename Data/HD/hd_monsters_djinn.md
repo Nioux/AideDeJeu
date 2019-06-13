@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Djinni](srd_monsters_djinni.md)
 -  Élémentaire de taille G, Chaotique Bon
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 161 (14d10+84)
 - **Vitesse** 9 m, vol 27 m

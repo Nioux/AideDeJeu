@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Treant](srd_monsters_treant.md)
 -  Plante de taille TG, Chaotique Bonne
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 138 (12d12+60)
 - **Vitesse** 9 m

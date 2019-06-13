@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Flesh Golem](srd_monsters_flesh_golem.md)
 -  Créature artificielle de taille M, neutre
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 9
 - **Points de vie** 93 (11d8+44)
 - **Vitesse** 9 m

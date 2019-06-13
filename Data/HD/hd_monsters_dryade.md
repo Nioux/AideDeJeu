@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Dryad](srd_monsters_dryad.md)
 -  Fée de taille M, neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 11 (16 avec peau d'écorce)
 - **Points de vie** 22 (5d8)
 - **Vitesse** 9 m

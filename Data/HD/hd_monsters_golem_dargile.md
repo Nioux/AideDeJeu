@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Clay Golem](srd_monsters_clay_golem.md)
 -  Créature artificielle de taille G, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 133 (14d10+56)
 - **Vitesse** 6 m

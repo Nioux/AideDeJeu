@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Chuul](srd_monsters_chuul.md)
 -  Aberration de taille G, Chaotique Mauvais
+- **Terrain** Mangrove / Marécage, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 93 (11d10+33)
 - **Vitesse** 9 m, nage 9 m

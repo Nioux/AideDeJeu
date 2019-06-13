@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Glabrezu](srd_monsters_glabrezu.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
 - **Vitesse** 12 m

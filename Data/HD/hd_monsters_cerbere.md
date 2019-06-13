@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Créature monstrueuse de taille G, Neutre Mauvais
+- **Terrain** Bois / Forêt, Jungle, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
 - **Vitesse** 12 m

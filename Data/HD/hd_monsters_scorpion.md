@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Scorpion](srd_monsters_scorpion.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 3 m

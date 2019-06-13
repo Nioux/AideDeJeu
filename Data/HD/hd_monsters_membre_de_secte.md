@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Cultist](srd_monsters_cultist.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
+- **Terrain** 
 - **Classe d'armure** 12 (armure de cuir)
 - **Points de vie** 9 (2d8)
 - **Vitesse** 9 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Lizardfolk](srd_monsters_lizardfolk.md)
 -  Humanoïde (homme-lézard) de taille M, Neutre
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle, bouclier)
 - **Points de vie** 22 (4d8+4)
 - **Vitesse** 9 m, nage 9 m

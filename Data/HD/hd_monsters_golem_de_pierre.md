@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Stone Golem](srd_monsters_stone_golem.md)
 -  Créature artificielle de taille G, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
 - **Vitesse** 9 m

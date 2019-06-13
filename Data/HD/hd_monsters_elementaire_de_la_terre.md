@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Earth Elemental](srd_monsters_earth_elemental.md)
 -  Élémentaire de taille G, neutre
+- **Terrain** Bois / Forêt, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 126 (12d10+60)
 - **Vitesse** 9 m, fouissement 9 m

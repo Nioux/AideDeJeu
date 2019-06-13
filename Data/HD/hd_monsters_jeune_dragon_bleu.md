@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Young Blue Dragon](srd_monsters_young_blue_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
+- **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
 - **Vitesse** 12 m, fouissement 6 m, vol 24 m

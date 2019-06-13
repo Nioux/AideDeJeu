@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Shark](srd_monsters_giant_shark.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 126 (11d12+55)
 - **Vitesse** 0 m, nage 15 m

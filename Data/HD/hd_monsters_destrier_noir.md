@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Nightmare](srd_monsters_nightmare.md)
 -  Fiélon de taille G, Neutre Mauvais
+- **Terrain** 
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 68 (8d10+24)
 - **Vitesse** 18 m, vol 27 m

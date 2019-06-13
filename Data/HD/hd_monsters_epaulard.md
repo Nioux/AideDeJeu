@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Killer Whale](srd_monsters_killer_whale.md)
 -  Bête de taille TG, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 90 (12d12+12)
 - **Vitesse** 0 m, nage 18 m

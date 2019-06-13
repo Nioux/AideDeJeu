@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Grick](srd_monsters_grick.md)
 -  Créature monstrueuse de taille M, neutre
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 27 (6d8)
 - **Vitesse** 9 m, escalade 9 m

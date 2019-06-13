@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Lich](srd_monsters_lich.md)
 -  Mort-vivant de taille M, alignement Mauvais
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 135 (18d8+54)
 - **Vitesse** 9 m

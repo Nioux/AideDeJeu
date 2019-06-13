@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Bête de taille P, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
 - **Vitesse** 3 m, vol 18 m

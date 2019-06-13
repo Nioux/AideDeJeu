@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Awakened Shrub](srd_monsters_awakened_shrub.md)
 -  Plante de taille P, non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 9
 - **Points de vie** 10 (3d6)
 - **Vitesse** 6 m

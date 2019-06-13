@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)
 -  Dragon de taille TG, Loyal Bon
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 212 (17d12+102)
 - **Vitesse** 12 m, nage 12 m, vol 24 m

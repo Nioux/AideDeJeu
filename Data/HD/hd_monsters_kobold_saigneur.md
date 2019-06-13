@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (kobold) de taille P, Neutre Mauvais
+- **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 13
 - **Points de vie** 17 (5d6)
 - **Vitesse** 9 m

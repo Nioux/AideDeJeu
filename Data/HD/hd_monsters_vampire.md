@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Vampire](srd_monsters_vampire.md)
 -  Mort-vivant (métamorphe) de taille M, Loyal Mauvais
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 144 (17d8+68)
 - **Vitesse** 9 m

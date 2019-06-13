@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ghoul](srd_monsters_ghoul.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
+- **Terrain** Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 22 (5d8)
 - **Vitesse** 9 m

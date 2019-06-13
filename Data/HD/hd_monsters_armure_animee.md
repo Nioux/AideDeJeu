@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Animated Armor](srd_monsters_animated_armor.md)
 -  Créature artificielle de taille M, non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 7,50 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Death Dog](srd_monsters_death_dog.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 39 (6d8+12)
 - **Vitesse** 12 m

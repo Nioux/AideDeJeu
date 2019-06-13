@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ankheg](srd_monsters_ankheg.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane, Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle), 11 quand il est [à terre](hd_conditions_a_terre.md)
 - **Points de vie** 39 (6d10+6)
 - **Vitesse** 9 m, fouissement 3 m

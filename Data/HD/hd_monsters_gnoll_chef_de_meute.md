@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (gnoll) de taille M, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure de peau, bouclier)
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 9 m

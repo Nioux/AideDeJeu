@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Bulette](srd_monsters_bulette.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Bois / Forêt, Collines / Vallées, Caverne naturelle
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 94 (9d10+45)
 - **Vitesse** 12 m, fouissement 12 m

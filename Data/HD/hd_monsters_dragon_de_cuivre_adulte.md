@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
+- **Terrain** Collines / Vallées
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 184 (16d12+80)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m

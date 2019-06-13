@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Green Dragon](srd_monsters_adult_green_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 207 (18d12+90)
 - **Vitesse** 12 m, nage 12 m, vol 24 m
