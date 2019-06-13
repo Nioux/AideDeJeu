@@ -361,18 +361,12 @@ namespace AideDeJeu.ViewModels.Library
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
                     return context.Monsters.Where(monster =>
-                        monster != null &&
-                        monster.Family == this.Family &&
-                        monster.Type.Contains(type) &&
-                        (string.IsNullOrEmpty(size) || (monster.Size != null && monster.Size.Equals(size))) &&
-                        (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
-                        (string.IsNullOrEmpty(terrain) || (monster.Terrain != null && monster.Terrain.Contains(terrain))) &&
-                        challengeComparer.Compare(monster.Challenge, minChallenge) >= 0 &&
-                        challengeComparer.Compare(monster.Challenge, maxChallenge) <= 0 &&
-                        (
-                            (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )
+                        MatchEquals(monster.Family, this.Family) &&
+                        MatchContains(monster.Type, type) &&
+                        MatchEquals(monster.Size, size) &&
+                        MatchContains(monster.Terrain, terrain) &&
+                        MatchRange(monster.Challenge, minChallenge, maxChallenge, challengeComparer) &&
+                        MatchSearch(monster) 
                     ).OrderBy(monster => Helpers.RemoveDiacritics(monster.Name)).ToList();
                 }
             }
