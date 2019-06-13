@@ -10,6 +10,7 @@ Name: Sorts
 AltName: '[Spells](srd_spells.md)'
 SubItems:
 - !SpellItem
+  Family: SpellHD
   Name: Agrandir/rétrécir
   AltName: '[Enlarge/Reduce](srd_spells_enlargereduce.md)'
   Type: Transmutation
@@ -19,7 +20,6 @@ SubItems:
   Components: V, S, M (une pincée de limaille de fer)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p320)(SRD)
   Description: >+
     Vous agrandissez ou rétrécissez une créature ou un objet situé à portée et dans votre champ de vision pendant toute la durée du sort. Choisissez soit une créature, soit un objet qui n'est ni porté ni transporté. Si la cible n'est pas consentante, elle a droit à un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md). Si elle le réussit, le sort est sans effet.
@@ -167,6 +167,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Aide
   AltName: '[Aid](srd_spells_aid.md)'
   Type: Abjuration
@@ -176,7 +177,6 @@ SubItems:
   Components: V, S, M (une minuscule bandelette de tissu blanc)
   Duration: 8 heures
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p320)(SRD)
   Description: >+
     Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Choisissez jusqu'à trois créatures à portée. Le maximum de points de vie et les points de vie actuels de chacune d'entre elles augmentent de 5 pendant toute la durée du sort.
@@ -294,6 +294,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Alarme
   AltName: '[Alarm](srd_spells_alarm.md)'
   Type: Abjuration
@@ -303,7 +304,6 @@ SubItems:
   Components: V, S, M (une minuscule clochette et un filament en argent)
   Duration: 8 heures
   Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p320)(SRD)
   Description: >+
     Vous installez une alarme pour vous avertir en cas d'intrusion. Choisissez une porte, une fenêtre ou une zone à portée qui n'occupe pas plus d'espace qu'un cube de 6 mètres de côté. Tant que le sort fait effet, une alarme vous prévient dès qu'une créature de taille TP ou supérieure touche la zone protégée ou y pénètre. Au moment où vous lancez le sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez aussi choisir si l'alarme sera audible ou mentale.
@@ -439,6 +439,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Allié planaire
   AltName: '[Planar Ally](srd_spells_planar_ally.md)'
   Type: Invocation
@@ -448,7 +449,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p320)(SRD)
   Description: >+
     Vous demandez de l'aide à une entité appartenant à un autre monde. Vous devez connaître cet être, que ce soit un dieu, un primordial, un prince démoniaque ou une autre créature à la puissance cosmique. L'entité vous envoie un céleste, un élémentaire ou un fiélon qui lui est loyal. Cette créature apparaît dans un emplacement libre à portée. Si vous connaissez le nom d'une créature spécifique, vous pouvez le mentionner lors de l'incantation pour demander à ce que ce soit elle que l'entité vous envoie, bien qu'elle puisse tout de même vous envoyer un autre émissaire (c'est au MJ de décider).
@@ -656,6 +656,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Amélioration de caractéristique
   AltName: '[Enhance Ability](srd_spells_enhance_ability.md)'
   Type: Transmutation
@@ -665,7 +666,6 @@ SubItems:
   Components: V, S, M (des poils ou des plumes venant d'un animal)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
-  Family: SpellHD
   Source: (MDR p321)(SRD)
   Description: >+
     Vous touchez une créature pour lui accorder une amélioration magique. Choisissez l'un des effets suivants, dont la cible bénéficiera jusqu'à la fin du sort.
@@ -873,6 +873,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Amitié avec les animaux
   AltName: '[Animal Friendship](srd_spells_animal_friendship.md)'
   Type: Enchantement
@@ -882,7 +883,6 @@ SubItems:
   Components: V, S, M (un peu de nourriture)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p321)(SRD)
   Description: >+
     Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. Choisissez une bête située dans votre champ de vision et à portée. Elle doit vous voir et vous entendre. Le sort échoue si elle possède une [Intelligence](hd_abilities_intelligence.md) de 4 ou plus. Dans le cas contraire, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) ou être [charmée](hd_conditions_charme.md) par vous pendant toute la durée du sort. Le sort se termine si vous ou l'un de vos camarades blessez la cible.
@@ -1000,6 +1000,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Animation des morts
   AltName: '[Animate Dead](srd_spells_animate_dead.md)'
   Type: Nécromancie
@@ -1009,7 +1010,6 @@ SubItems:
   Components: V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p321)(SRD)
   Description: >+
     Ce sort crée un serviteur mort-vivant. Choisissez un tas d'os ou le cadavre d'un humanoïde de taille M ou P situé à portée. Votre sort imprègne la cible d'un ignoble simulacre de vie, la relevant sous forme de mort-vivant.
@@ -1172,6 +1172,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Animation des objets
   AltName: '[Animate Objects](srd_spells_animate_objects.md)'
   Type: Transmutation
@@ -1181,7 +1182,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p322)(SRD)
   Description: >+
     Les objets prennent vie sur votre ordre. Choisissez jusqu'à dix objets non magiques à portée que personne ne porte ni ne transporte. Les cibles de taille M comptent comme deux objets, celles de taille G comme quatre et celles de taille TG comme huit. Vous ne pouvez pas animer d'objet de taille supérieure. Chaque cible s'anime et devient une créature placée sous votre contrôle jusqu'à la fin du sort, ou jusqu'à tomber à 0 point de vie.
@@ -1449,6 +1449,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Apaisement des émotions
   AltName: '[Calm Emotions](srd_spells_calm_emotions.md)'
   Type: Enchantement
@@ -1458,7 +1459,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p322)(SRD)
   Description: >+
     Vous tentez de supprimer les émotions fortes au sein d'un groupe de gens. Chaque humanoïde qui se trouve dans une sphère de 6 mètres de rayon centrée autour d'un point de votre choix situé à portée doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md). Une créature peut décider de rater volontairement ce jet, sachant que lorsqu'une créature rate son [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md), vous l'affectez avec l'un des deux effets suivants, selon votre choix.
@@ -1591,6 +1591,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Apparence trompeuse
   AltName: '[Seeming](srd_spells_seeming.md)'
   Type: Illusion
@@ -1600,7 +1601,6 @@ SubItems:
   Components: V, S
   Duration: 8 heures
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p323)(SRD)
   Description: >+
     Ce sort vous permet de modifier l'apparence d'autant de créatures que vous voulez, à condition qu'elles se trouvent à portée et dans votre champ de vision. Vous donnez à chacune d'entre elles une nouvelle apparence illusoire.
@@ -1778,6 +1778,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Appel de familier
   AltName: '[Find Familiar](srd_spells_find_familiar.md)'
   Type: Invocation
@@ -1787,7 +1788,6 @@ SubItems:
   Components: V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p323)(SRD)
   Description: >+
     Vous vous attachez les services d'un familier, un esprit qui prend la forme d'un animal de votre choix : une chauve-souris, un chat, un crabe, une grenouille (ou un crapaud), un faucon, un lézard, une pieuvre, une chouette, un serpent venimeux, un poisson (un piranha), un rat, un corbeau, un hippocampe, une araignée ou une belette. Le familier apparaît dans un emplacement inoccupé à portée et possède le même profil technique que l'animal dont il revêt la forme, bien qu'il soit un céleste, une fée ou un fiélon (à vous de choisir) au lieu d'une bête.
@@ -1983,6 +1983,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Appel de la foudre
   AltName: '[Call Lightning](srd_spells_call_lightning.md)'
   Type: Invocation
@@ -1992,7 +1993,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p324)(SRD)
   Description: >+
     Un nuage orageux apparaît sous forme d'un cylindre de 3 mètres de haut pour 18 mètres de rayon, centré sur un point situé dans votre champ de vision et à 30 mètres directement au-dessus de vous. Le sort échoue si vous ne pouvez voir le point situé à cette hauteur, là où le nuage doit se former (si vous vous trouvez dans une pièce trop petite pour accueillir le nuage, par exemple).
@@ -2140,6 +2140,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Arc enchanté
   Type: Enchantement
   Level: 5
@@ -2148,7 +2149,6 @@ SubItems:
   Components: V, S, M (un arc)
   Duration: 1 minute
   Classes: '[Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p324)
   Description: >+
     Vous enchantez votre arc (ou votre arbalète). Pendant 1 minute, à chaque fois que vous l'armez, une flèche (ou un carreau) magique apparaît encochée sur sa corde.
@@ -2261,6 +2261,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Arme magique
   AltName: '[Magic Weapon](srd_spells_magic_weapon.md)'
   Type: Transmutation
@@ -2270,7 +2271,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p324)(SRD)
   Description: >+
     Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique et bénéficie d'un bonus de +1 aux jets d'attaque et de dégâts.
@@ -2388,6 +2388,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Arme sainte
   Type: Transmutation
   Level: 3
@@ -2396,7 +2397,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p324)
   Description: >+
     Vous brandissez votre arme et l'investissez du pouvoir de combattre le mal. Jusqu'à la fin du sort, l'arme est considérée comme étant une arme magique. Lorsque vous attaquez un mort-vivant ou un fiélon avec cette arme, vous bénéficiez d'un avantage à vos jets d'attaque et vous infligez 1d8 dégâts radiants supplémentaires.
@@ -2494,6 +2494,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Arme spirituelle
   AltName: '[Spiritual Weapon](srd_spells_spiritual_weapon.md)'
   Type: Évocation
@@ -2503,7 +2504,6 @@ SubItems:
   Components: V, S
   Duration: 1 minute
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p324)(SRD)
   Description: >+
     Vous créez à portée une arme spectrale flottante qui persiste pendant toute la durée du sort ou jusqu'à ce que vous le lanciez de nouveau. Lors de l'incantation, vous pouvez faire une attaque de sort au corps-à-corps contre une créature située dans un rayon de 1,50 mètre autour de l'arme.
@@ -2666,6 +2666,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Armure du mage
   AltName: '[Mage Armor](srd_spells_mage_armor.md)'
   Type: Abjuration
@@ -2675,7 +2676,6 @@ SubItems:
   Components: V, S, M (un bout de cuir tanné)
   Duration: 8 heures
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p324)(SRD)
   Description: >+
     Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez d'une force magique protectrice jusqu'à la fin du sort. La CA de base de la cible passe à 13 + son modificateur de [Dextérité](hd_abilities_dexterity.md). Le sort se termine si la cible revêt une armure ou si vous révoquez le sort par une action.
@@ -2778,6 +2778,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Arrêt du temps
   AltName: '[Time Stop](srd_spells_time_stop.md)'
   Type: Transmutation
@@ -2787,7 +2788,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p325)(SRD)
   Description: >+
     Vous arrêtez brièvement le cours du temps pour tout le monde sauf vous. Le temps ne s'écoule plus pour les autres créatures, tandis que vous disposez de 1d4+1 tours d'affilée, pendant lesquels vous pouvez faire des actions et vous déplacer normalement.
@@ -2905,6 +2905,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Aspersion acide
   AltName: '[Acid Splash](srd_spells_acid_splash.md)'
   Type: Invocation
@@ -2914,7 +2915,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p325)(SRD)
   Description: >+
     Vous lancez une boule d'acide. Choisissez une créature à portée, ou deux créatures à portée situées à 1,50 mètre ou moins l'une de l'autre. Une cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md), sinon elle subit 1d6 dégâts d'acide.
@@ -3032,6 +3032,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Assassin imaginaire
   AltName: '[Phantasmal Killer](srd_spells_phantasmal_killer.md)'
   Type: Illusion
@@ -3041,7 +3042,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p325)(SRD)
   Description: >+
     Vous puisez dans les cauchemars d'une créature située à portée et dans votre champ de vision afin de créer une manifestation illusoire de ses pires terreurs, qu'elle est la seule à voir. La cible doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md). Si elle le rate, elle est [terrorisée](hd_conditions_terrorise.md) pendant toute la durée du sort.
@@ -3189,6 +3189,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Assistance
   AltName: '[Guidance](srd_spells_guidance.md)'
   Type: Divination
@@ -3198,7 +3199,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p325)(SRD)
   Description: >+
     Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer 1d4 et ajouter le résultat obtenu au test de caractéristique de son choix. Elle peut lancer le dé avant ou après le test. Le sort se termine alors.
@@ -3301,6 +3301,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Augure
   AltName: '[Augury](srd_spells_augury.md)'
   Type: Divination
@@ -3310,7 +3311,6 @@ SubItems:
   Components: V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p325)(SRD)
   Description: >+
     Vous lancez des bâtonnets ornés de gemmes ou des os de dragon, tirez des lames de tarot ornementées ou utilisez une autre méthode de divination pour recevoir un présage de la part d'une entité d'un autre monde. Ce présage concerne les résultats de la conduite que vous comptez tenir dans les 30 prochaines minutes. C'est au MJ de choisir l'un des présages suivants :
@@ -3503,6 +3503,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Aura de force
   Type: Abjuration
   Level: 5
@@ -3511,7 +3512,6 @@ SubItems:
   Components: V
   Duration: Concentration, jusqu'à 10 minutes
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p325)
   Description: >+
     Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et les cibles du sort acquérez la résistance aux dégâts d'acide, de foudre, de feu, de froid et nécrotiques pendant toute la durée du sort. Les créatures ciblées et vous-même bénéficiez également d'un avantage à tous les tests et les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md).
@@ -3594,6 +3594,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Aura du héros
   Type: Enchantement
   Level: tour de magie
@@ -3602,7 +3603,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p326)
   Description: >+
     Une aura captivante émane de vous dans un rayon de 1,50 mètre. Vous bénéficiez d'un avantage à tous vos tests de [Charisme](hd_abilities_charisma.md) visant les créatures situées dans l'aura. À la fin du sort, les créatures qui en ont subi l'influence peuvent faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d'[Intelligence](hd_abilities_intelligence.md). En cas de réussite, elles se rendent compte avoir été influencées par magie et elles peuvent, à la discrétion du MJ, en concevoir de l'hostilité.
@@ -3700,6 +3700,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Aura magique de l'arcaniste
   AltName: "[Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)"
   Type: Illusion
@@ -3709,7 +3710,6 @@ SubItems:
   Components: V, S, M (un petit carré de soie)
   Duration: 24 heures
   Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p326)
   Description: >+
     Vous enveloppez la créature ou l'objet touché d'une illusion, afin que les sorts de divination révèlent des informations erronées à son propos. La cible du sort doit être une créature consentante ou un objet qui n'est ni porté ni transporté par une autre créature.
@@ -3857,6 +3857,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Aura sacrée
   AltName: '[Holy Aura](srd_spells_holy_aura.md)'
   Type: Abjuration
@@ -3866,7 +3867,6 @@ SubItems:
   Components: V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p326)
   Description: >+
     Une lumière divine émane de votre personne dans un rayon de 9 mètres et forme un doux halo qui vous enveloppe.
@@ -3984,6 +3984,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Bagou
   AltName: '[Glibness](srd_spells_glibness.md)'
   Type: Transmutation
@@ -3993,7 +3994,6 @@ SubItems:
   Components: V
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p326)(SRD)
   Description: >+
     Jusqu'à la fin du sort, chaque fois que vous effectuez un test de [Charisme](hd_abilities_charisma.md), vous pouvez remplacer le nombre obtenu au dé par un 15. De plus, quoi que vous disiez, la magie visant à déterminer si vous dites la vérité vous identifie toujours comme sincère.
@@ -4096,6 +4096,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Baies nourricières
   AltName: '[Goodberry](srd_spells_goodberry.md)'
   Type: Transmutation
@@ -4105,7 +4106,6 @@ SubItems:
   Components: V, S, M (un brin de gui)
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p326)(SRD)
   Description: >+
     Un maximum de dix baies apparaissent dans votre main. Elles sont imprégnées de magie pendant une journée.
@@ -4238,6 +4238,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Balisage
   AltName: '[Guiding Bolt](srd_spells_guiding_bolt.md)'
   Type: Évocation
@@ -4247,7 +4248,6 @@ SubItems:
   Components: V, S
   Duration: 1 round
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p327)(SRD)
   Description: >+
     Un rayon de lumière frappe une créature de votre choix située à portée. Faites un jet d'attaque de sort à distance contre elle. Si vous le réussissez, elle subit 4d6 dégâts radiants et scintille d'une faible lumière mystique jusqu'à la fin de votre prochain tour. D'ici là et grâce à cette lueur, le prochain jet d'attaque effectué contre elle bénéficie d'un avantage.
@@ -4365,6 +4365,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Bannissement
   AltName: '[Banishment](srd_spells_banishment.md)'
   Type: Abjuration
@@ -4374,7 +4375,6 @@ SubItems:
   Components: V, S, M (un objet qui répugne à la cible)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p327)(SRD)
   Description: >+
     Vous tentez d'envoyer une créature située dans votre champ de vision dans un autre plan d'existence. Elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md) ou être bannie.
@@ -4552,6 +4552,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Barrière de lames
   AltName: '[Blade Barrier](srd_spells_blade_barrier.md)'
   Type: Évocation
@@ -4561,7 +4562,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p327)(SRD)
   Description: >+
     Vous créez un mur vertical constitué de lames tournoyantes faites d'énergie magique et tranchantes comme des rasoirs. Le mur apparaît à portée et persiste pour toute la durée du sort. Vous pouvez créer un mur droit d'un maximum de 30 mètres de long, 6 mètres de haut et 1,50 mètre d'épaisseur, ou un mur circulaire d'un maximum de 18 mètres de diamètre, 6 mètres de haut et 1,50 mètre d'épaisseur. Le mur offre un abri important aux créatures qui se trouvent derrière lui, et son espace est traité comme un terrain difficile.
@@ -4679,6 +4679,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Bénédiction
   AltName: '[Bless](srd_spells_bless.md)'
   Type: Enchantement
@@ -4688,7 +4689,6 @@ SubItems:
   Components: V, S, M (un peu d'eau bénite à asperger)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p327)(SRD)
   Description: >+
     Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Quand une cible fait un jet d'attaque ou de sauvegarde avant la fin du sort, elle lance 1d4 et ajoute le résultat obtenu au jet d'attaque ou de sauvegarde.
@@ -4806,6 +4806,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Bénédiction héroïque
   Type: Divination
   Level: 3
@@ -4814,7 +4815,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p327)
   Description: >+
     Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cibles et vous-même bénéficiez d'un avantage au jet d'attaque sur la première attaque de chacun de vos tours pour toute la durée du sort.
@@ -4897,6 +4897,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Blessure
   AltName: '[Inflict Wounds](srd_spells_inflict_wounds.md)'
   Type: Nécromancie
@@ -4906,7 +4907,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p327)(SRD)
   Description: >+
     Faites une attaque de sort au corps-à-corps contre une créature située à une distance inférieure ou égale à votre allonge. Si vous la touchez, elle subit 3d10 dégâts nécrotiques.
@@ -5024,6 +5024,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Bouche magique
   AltName: '[Magic Mouth](srd_spells_magic_mouth.md)'
   Type: Illusion
@@ -5033,7 +5034,6 @@ SubItems:
   Components: V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
   Duration: jusqu'à dissipation
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p328)(SRD)
   Description: >+
     Vous implantez un message dans un objet situé à portée.
@@ -5184,6 +5184,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Bouclier
   AltName: '[Shield](srd_spells_shield.md)'
   Type: Abjuration
@@ -5193,7 +5194,6 @@ SubItems:
   Components: V, S
   Duration: 1 round
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p328)(SRD)
   Description: >+
     Une barrière [invisible](hd_conditions_invisible.md) faite de force magique apparaît autour de vous et vous protège. Jusqu'au début de votre prochain tour, vous obtenez un bonus de +5 à la CA, y compris contre l'attaque qui a déclenché l'incantation du sort, et vous ne subissez aucun dégât de la part du sort _[projectile magique](hd_spells_projectile_magique.md)_.
@@ -5296,6 +5296,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Bouclier de feu
   AltName: '[Fire Shield](srd_spells_fire_shield.md)'
   Type: Évocation
@@ -5305,7 +5306,6 @@ SubItems:
   Components: V, S, M (un morceau de phosphore ou une luciole)
   Duration: 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p328)(SRD)
   Description: >+
     De fines volutes de flammes enveloppent votre corps pendant toute la durée du sort, émettant une lumière vive dans un rayon de 3 mètres et une lumière faible dans un rayon additionnel de 3 mètres. Vous pouvez mettre prématurément un terme au sort en utilisant une action.
@@ -5438,6 +5438,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Bouclier de la foi
   AltName: '[Shield of Faith](srd_spells_shield_of_faith.md)'
   Type: Abjuration
@@ -5447,7 +5448,6 @@ SubItems:
   Components: V, S, M (un petit parchemin avec un extrait de texte sacré)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p328)(SRD)
   Description: >+
     Un champ scintillant apparaît autour d'une créature de votre choix située à portée et lui confère un bonus de +2 à la CA pendant toute la durée du sort.
@@ -5550,6 +5550,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Bouffée de poison
   AltName: '[Poison Spray](srd_spells_poison_spray.md)'
   Type: Invocation
@@ -5559,7 +5560,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p328)(SRD)
   Description: >+
     Vous tendez la main en direction d'une créature située à portée et dans votre champ de vision et projetez une bouffée de gaz toxique sortie de votre paume. La créature doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) ou subir 1d12 dégâts de poison.
@@ -5677,6 +5677,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Boule de feu
   AltName: '[Fireball](srd_spells_fireball.md)'
   Type: Évocation
@@ -5686,7 +5687,6 @@ SubItems:
   Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p328)(SRD)
   Description: >+
     Une traînée luisante part de votre doigt tendu et file vers un point de votre choix situé à portée et dans votre champ de vision, où elle explose dans une gerbe de flammes grondantes. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). Celles qui échouent subissent 8d6 dégâts de feu, les autres la moitié seulement.
@@ -5819,6 +5819,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Boule de feu à explosion retardée
   AltName: '[Delayed Blast Fireball](srd_spells_delayed_blast_fireball.md)'
   Type: Évocation
@@ -5828,7 +5829,6 @@ SubItems:
   Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p329)(SRD)
   Description: >+
     Un rayon de lumière jaune jaillit de votre doigt tendu et se condense pour former une bille luisante en un point de votre choix situé à portée pendant toute la durée du sort. Quand le sort se termine, soit parce que votre concentration se brise, soit parce que vous y mettez volontairement un terme, la bille se dilate dans un grondement sourd et explose en une gerbe de feu qui s'étend en franchissant les angles éventuels. Toutes les créatures situées dans une sphère de 6 mètres de rayon centrée sur le point où se trouvait la bille doivent faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). Celles qui échouent subissent un montant de dégâts de feu égal au total de dégâts accumulés (voir plus loin), les autres la moitié seulement.
@@ -6006,6 +6006,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Bourrasque
   AltName: '[Gust of Wind](srd_spells_gust_of_wind.md)'
   Type: Évocation
@@ -6015,7 +6016,6 @@ SubItems:
   Components: V, S, M (une graine de légume)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p329)(SRD)
   Description: >+
     Une zone de fort vent de 18 mètres de long sur 3 mètres de large souffle depuis votre position dans la direction de votre choix pendant toute la durée du sort. Chaque créature qui débute son tour dans la zone doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md), sans quoi elle est rejetée de 4,50 mètres à l'opposé de vous, dans la direction du vent.
@@ -6163,6 +6163,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Briser
   AltName: '[Shatter](srd_spells_shatter.md)'
   Type: Évocation
@@ -6172,7 +6173,6 @@ SubItems:
   Components: V, S, M (un éclat de mica)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p330)(SRD)
   Description: >+
     Un bruit retentit soudain avec une intensité douloureuse, à partir d'un point situé à portée. Chaque créature située dans une sphère de 3 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md).
@@ -6320,6 +6320,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Brûlure du juste
   Type: Évocation
   Level: 1
@@ -6328,7 +6329,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p330)
   Description: >+
     Votre arme se met à briller d'une lumière intense de pure radiance. Elle émet une lumière vive dans un rayon de 4,50 mètres et une lumière faible sur 4,50 mètres supplémentaires.
@@ -6471,6 +6471,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Cage de force
   AltName: '[Forcecage](srd_spells_forcecage.md)'
   Type: Évocation
@@ -6480,7 +6481,6 @@ SubItems:
   Components: V, S, M (poussière de rubis d'une valeur de 1 500 po)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p330)(SRD)
   Description: >+
     Une prison immobile et [invisible](hd_conditions_invisible.md), en forme de cube et faite de force magique, se forme soudain autour d'une zone de votre choix située à portée. Ce peut être une cage ou une boîte hermétique, à votre guise.
@@ -6658,6 +6658,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Caresse du vampire
   AltName: '[Vampiric Touch](srd_spells_vampiric_touch.md)'
   Type: Nécromancie
@@ -6667,7 +6668,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p330)(SRD)
   Description: >+
     Le simple contact de votre main enveloppée d'ombres peut siphonner la force vitale d'autrui pour soigner vos propres plaies. Faites une attaque de sort au corps-àcorps contre une créature située à une distance inférieure ou égale à votre allonge. Si vous touchez, elle subit 3d6 dégâts nécrotiques et vous récupérez un total de points de vie égal à la moitié des dégâts infligés. Vous pouvez dépenser votre action à chacun de vos tours pour répéter cette attaque jusqu'à la fin du sort.
@@ -6785,6 +6785,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Catalepsie
   Type: Nécromancie
   Level: 3
@@ -6793,7 +6794,6 @@ SubItems:
   Components: V, S, M (un petit morceau de linceul)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p331)
   Description: >+
     Vous placez une créature vivante consentante en état cataleptique qu'il est impossible de distinguer d'un véritable état de mort par des moyens normaux.
@@ -6936,6 +6936,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Cécité/surdité
   AltName: '[Blindness/Deafness](srd_spells_blindnessdeafness.md)'
   Type: Nécromancie
@@ -6945,7 +6946,6 @@ SubItems:
   Components: V
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p331)(SRD)
   Description: >+
     Vous pouvez rendre un ennemi sourd ou aveugle.
@@ -7078,6 +7078,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Cercle de mort
   AltName: '[Circle of Death](srd_spells_circle_of_death.md)'
   Type: Nécromancie
@@ -7087,7 +7088,6 @@ SubItems:
   Components: V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p331)(SRD)
   Description: >+
     Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir d'un point situé à portée. Chaque créature située dans la sphère doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md). Celles qui échouent subissent 8d6 dégâts nécrotiques, les autres la moitié seulement.
@@ -7205,6 +7205,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Cercle de téléportation
   AltName: '[Teleportation Circle](srd_spells_teleportation_circle.md)'
   Type: Invocation
@@ -7214,7 +7215,6 @@ SubItems:
   Components: V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)
   Duration: 1 round
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p331)(SRD)
   Description: >+
     Lorsque vous lancez ce sort, vous tracez un cercle de 3 mètres de diamètre au sol et y inscrivez des symboles qui relient l'endroit où vous vous trouvez actuellement à un cercle de téléportation permanent de votre choix dont vous connaissez la séquence de symboles et qui se trouve sur le même plan d'existence que vous. Un portail scintillant s'ouvre dans le cercle que vous avez tracé et reste ouvert jusqu'à la fin de votre prochain tour.
@@ -7377,6 +7377,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Cercle magique
   AltName: '[Magic Circle](srd_spells_magic_circle.md)'
   Type: Abjuration
@@ -7386,7 +7387,6 @@ SubItems:
   Components: V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
   Duration: 1 heure
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p331)(SRD)
   Description: >+
     Vous créez un cylindre d'énergie magique de 3 mètres de rayon pour 6 mètres de haut, centré sur un point au sol situé à portée et dans votre champ de vision. Des runes luisantes apparaissent là où le cylindre touche le sol ou une autre surface.
@@ -7594,6 +7594,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Chaîne d'éclairs
   AltName: '[Chain Lightning](srd_spells_chain_lightning.md)'
   Type: Évocation
@@ -7603,7 +7604,6 @@ SubItems:
   Components: V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p332)
   Description: >+
     Vous créez un arc électrique qui file vers une cible de votre choix, située à portée et dans votre champ de vision.
@@ -7766,6 +7766,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Champ antimagie
   AltName: '[Antimagic Field](srd_spells_antimagic_field.md)'
   Type: Abjuration
@@ -7775,7 +7776,6 @@ SubItems:
   Components: V, S, M (une pincée de poudre de fer ou de limaille)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p332)(SRD)
   Description: >+
     Une sphère d'antimagie [invisible](hd_conditions_invisible.md) de 3 mètres de rayon vous entoure. La zone qu'elle englobe est coupée de l'énergie magique qui imprègne le multivers. En son sein, il est impossible de lancer un sort, les créatures invoquées disparaissent et même les objets magiques deviennent ordinaires. La sphère reste centrée sur vous et se déplace avec vous jusqu'à la fin du sort.
@@ -8013,6 +8013,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Changement de forme
   AltName: '[Shapechange](srd_spells_shapechange.md)'
   Type: Transmutation
@@ -8022,7 +8023,6 @@ SubItems:
   Components: V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p333)(SRD)
   Description: >+
     Vous prenez la forme d'une créature différente pendant toute la durée du sort. Vous pouvez revêtir l'apparence de n'importe quelle créature dotée d'un indice de dangerosité inférieur ou égal à votre niveau. En revanche, vous ne pouvez pas vous changer en une créature artificielle ni en mort-vivant, et vous devez avoir vu au moins une fois la créature que vous imitez. Vous vous changez en un spécimen ordinaire de cette créature, sans niveau de classe et sans l'aptitude incantations.
@@ -8230,6 +8230,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Changement de plan
   AltName: '[Plane Shift](srd_spells_plane_shift.md)'
   Type: Invocation
@@ -8239,7 +8240,6 @@ SubItems:
   Components: V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p333)(SRD)
   Description: >+
     Vous et un maximum de huit autres créatures consentantes vous donnez la main pour former un cercle, et êtes transportés sur un autre plan d'existence. Vous pouvez spécifier une destination en termes génériques, comme le nom d'une cité, d'une région ou d'un endroit spécifique dans l'un des plans. Vous apparaissez alors à cet endroit ou à proximité. C'est au MJ de décider l'endroit exact de votre arrivée.
@@ -8387,6 +8387,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Charme-personne
   AltName: '[Charm Person](srd_spells_charm_person.md)'
   Type: Enchantement
@@ -8396,7 +8397,6 @@ SubItems:
   Components: V, S
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p333)(SRD)
   Description: >+
     Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ de vision. Il doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), pour lequel il dispose d'un avantage si vous ou vos compagnons êtes actuellement en train de le combattre. S'il rate son test, il est [charmé](hd_conditions_charme.md) par vous jusqu'à la fin du sort ou jusqu'à ce que vous ou vos compagnons lui fassiez du mal. La créature [charmée](hd_conditions_charme.md) vous considère comme un ami. Quand le sort se termine, elle sait que vous l'avez [charmée](hd_conditions_charme.md).
@@ -8514,6 +8514,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Chauffer le métal
   AltName: '[Heat Metal](srd_spells_heat_metal.md)'
   Type: Transmutation
@@ -8523,7 +8524,6 @@ SubItems:
   Components: V, S, M (un bout de fer et une flamme)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p334)(SRD)
   Description: >+
     Choisissez un objet manufacturé en métal, comme une arme métallique ou une armure métallique lourde ou intermédiaire.
@@ -8686,6 +8686,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Chien de garde
   AltName: '[Faithful Hound](srd_spells_faithful_hound.md)'
   Type: Invocation
@@ -8695,7 +8696,6 @@ SubItems:
   Components: V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)
   Duration: 8 heures
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p334)
   Description: >+
     Vous invoquez un chien de garde fantomatique dans un emplacement inoccupé situé à portée et dans votre champ de vision. Il reste là pendant toute la durée du sort ou jusqu'à ce que vous le renvoyiez par une action ou que vous vous éloigniez à plus de 30 mètres de lui.
@@ -8828,6 +8828,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Choc des titans
   Type: Enchantement
   Level: 1
@@ -8836,7 +8837,6 @@ SubItems:
   Components: V, S
   Duration: 1 minute
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p334)
   Description: >+
     Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversaire, vous bénéficiez d'un avantage à votre première attaque à chacun de vos tours.
@@ -8919,6 +8919,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Clairvoyance
   AltName: '[Clairvoyance](srd_spells_clairvoyance.md)'
   Type: Divination
@@ -8928,7 +8929,6 @@ SubItems:
   Components: V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p334)(SRD)
   Description: >+
     Vous créez un organe sensoriel [invisible](hd_conditions_invisible.md) à portée dans un endroit qui vous est familier (un endroit où vous vous êtes déjà rendu ou que vous avez déjà vu) ou dans un endroit évident qui ne vous est pas familier (comme de l'autre côté d'une porte, derrière un angle de mur, dans un bosquet…). L'organe reste là pendant toute la durée du sort. Il est impossible de l'attaquer ou d'interagir avec.
@@ -9076,6 +9076,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Clignotement
   AltName: '[Blink](srd_spells_blink.md)'
   Type: Transmutation
@@ -9085,7 +9086,6 @@ SubItems:
   Components: V, S
   Duration: 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p334)(SRD)
   Description: >+
     Pendant toute la durée du sort, vous lancez 1d20 à la fin de chacun de vos tours. Sur un 11 ou plus, vous disparaissez de votre plan d'existence actuel et apparaissez sur le plan éthéré (si vous vous trouviez déjà là, le sort échoue et l'incantation est gaspillée). Au début de votre tour suivant et quand le sort se termine alors que vous vous trouvez sur le plan éthéré, vous retournez sur un emplacement inoccupé de votre choix que vous pouvez voir dans un rayon de 3 mètres autour de l'emplacement dont vous avez disparu. S'il n'y a pas d'emplacement disponible dans ce rayon, vous apparaissez dans l'espace inoccupé le plus proche (choisi au hasard s'il y en a plusieurs à égale distance). Vous pouvez révoquer ce sort par une action.
@@ -9203,6 +9203,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Clone
   AltName: '[Clone](srd_spells_clone.md)'
   Type: Nécromancie
@@ -9212,7 +9213,6 @@ SubItems:
   Components: V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p335)(SRD)
   Description: >+
     Ce sort génère la réplique inerte d'une créature vivante, pour la protéger de la mort. Le clone se forme au sein d'un réceptacle scellé et grandit jusqu'à atteindre sa taille adulte et sa maturité en 120 jours ; cependant, vous pouvez décider que le clone sera une version plus jeune de la créature qu'il reproduit. Il reste inerte et indéfiniment dans le même état tant que le réceptacle reste scellé.
@@ -9330,6 +9330,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Coercition mystique
   AltName: '[Geas](srd_spells_geas.md)'
   Type: Enchantement
@@ -9339,7 +9340,6 @@ SubItems:
   Components: V
   Duration: 30 jours
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p335)(SRD)
   Description: >+
     Vous imposez une coercition magique à une créature située à portée et dans votre champ de vision, l'obligeant à vous accorder un service ou l'empêchant de commettre une action ou une suite d'actions, comme bon vous semble.
@@ -9517,6 +9517,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Coffre secret
   AltName: '[Secret Chest](srd_spells_secret_chest.md)'
   Type: Invocation
@@ -9526,7 +9527,6 @@ SubItems:
   Components: V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p335)
   Description: >+
     Vous dissimulez un coffre et son contenu sur le plan éthéré. Pour cela, vous devez toucher le coffre et la réplique qui sert de composante matérielle au sort. Le coffre peut contenir un maximum de 324 décimètres cubes (90 × 60 × 60 centimètres) de matière non vivante.
@@ -9674,6 +9674,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Colère des damnés
   Type: Invocation
   Level: 3
@@ -9682,7 +9683,6 @@ SubItems:
   Components: V, S, M (un peu de cendre et de poussière d'os)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p336)
   Description: >+
     Vous invoquez la puissance des enfers dans une zone de 6 mètres de rayon autour d'un point situé à portée et dans votre champ de vision. La surface affectée se fissure en laissant échapper les flammes de l'enfer, tandis que des dizaines de bras décharnés et de mains griffues émergent du sol et tentent d'agripper toutes les créatures qui passent à leur portée, dans une cacophonie de plaintes, de suppliques et de cris déchirants. La zone est considérée comme un terrain difficile et toute créature qui y termine son déplacement subit 3d6 dégâts de feu. Une créature qui entre dans la zone ou s'y déplace doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) ou être immédiatement [entravée](hd_conditions_entrave.md) jusqu'à son prochain tour.
@@ -9780,6 +9780,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Collet magique
   Type: Invocation
   Level: 2
@@ -9788,7 +9789,6 @@ SubItems:
   Components: V, S, M (une ficelle)
   Duration: 1 heure
   Classes: '[Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p336)
   Description: >+
     Vous créez un piège qui s'enroule autour d'un ou plusieurs membres de l'individu ciblé et peut le faire chuter ou le ligoter. Le piège affecte une zone de 3 mètres de rayon autour d'un point que vous désignez à portée. Cette zone doit être placée sur un terrain naturel (pas sur une route ni dans une structure artificielle). La première créature qui traverse la zone piégée doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). En cas de succès, elle est à terre, en cas d'échec elle est de plus [entravée](hd_conditions_entrave.md). Une créature à terre termine immédiatement son déplacement et perd l'action en cours.
@@ -9916,6 +9916,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Colonne de flamme
   AltName: '[Flame Strike](srd_spells_flame_strike.md)'
   Type: Évocation
@@ -9925,7 +9926,6 @@ SubItems:
   Components: V, S, M (une pincée de soufre)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p336)(SRD)
   Description: >+
     Une colonne verticale de feu divin rugissant surgit des cieux et s'abat à l'endroit de votre choix. Toute créature située dans un cylindre de 3 mètres de rayon et 12 mètres de haut centré sur le point de votre choix à portée doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md).
@@ -10058,6 +10058,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Communication avec les animaux
   AltName: '[Speak with Animals](srd_spells_speak_with_animals.md)'
   Type: Divination
@@ -10067,7 +10068,6 @@ SubItems:
   Components: V, S
   Duration: 10 minutes
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p336)(SRD)
   Description: >+
     Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec elles pendant toute la durée du sort. Les connaissances et le degré de conscience de nombreuses bêtes sont limités par leur intelligence réduite, mais elles peuvent au moins vous renseigner sur les environs et les monstres aux alentours, ainsi que sur ce qu'elles perçoivent aujourd'hui ou ont perçu la veille. Si le MJ accepte, vous pouvez convaincre une bête de vous accorder une petite faveur.
@@ -10173,6 +10173,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Communication avec les morts
   AltName: '[Speak with Dead](srd_spells_speak_with_dead.md)'
   Type: Nécromancie
@@ -10182,7 +10183,6 @@ SubItems:
   Components: V, S, M (encens incandescent)
   Duration: 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p336)(SRD)
   Description: >+
     Vous donnez un semblant de vie et d'intelligence à un cadavre de votre choix situé à portée. Il est alors en mesure de répondre à vos questions. Le cadavre doit encore disposer d'une bouche et ne doit pas être un mort-vivant. Le sort échoue si le cadavre choisi a déjà été la cible de ce sort au cours des 10 jours précédents.
@@ -10300,6 +10300,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Communication avec les plantes
   AltName: '[Speak with Plants](srd_spells_speak_with_plants.md)'
   Type: Transmutation
@@ -10309,7 +10310,6 @@ SubItems:
   Components: V, S
   Duration: 10 minutes
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p337)(SRD)
   Description: >+
     Vous imprégnez la végétation située dans un rayon de 9 mètres autour de vous d'une conscience et d'une mobilité limitées, ce qui permet aux plantes de communiquer avec vous et de suivre des ordres simples. Vous pouvez interroger les végétaux sur les événements qui se sont déroulés la veille dans la zone du sort et ainsi obtenir des informations sur les créatures qui sont passées, sur les conditions météorologiques et autres.
@@ -10472,6 +10472,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Communion
   AltName: '[Commune](srd_spells_commune.md)'
   Type: Divination
@@ -10481,7 +10482,6 @@ SubItems:
   Components: V, S, M (de l'encens et une fiole d'eau bénite ou maudite)
   Duration: 1 minute
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p337)(SRD)
   Description: >+
     Vous entrez en contact avec votre divinité ou l'un de ses représentants et lui posez jusqu'à trois questions fermées auxquelles la réponse est soit oui, soit non. Vous devez les poser avant la fin du sort et vous recevez une réponse correcte à chacune d'entre elles.
@@ -10617,6 +10617,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Communion avec la nature
   AltName: '[Commune with Nature](srd_spells_commune_with_nature.md)'
   Type: Divination
@@ -10626,7 +10627,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p337)(SRD)
   Description: >+
     Pendant un court instant, vous ne faites plus qu'un avec la nature et obtenez des informations sur le territoire environnant.
@@ -10867,6 +10867,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Compagnon animal
   Type: Enchantement
   Level: 2
@@ -10875,7 +10876,6 @@ SubItems:
   Components: V, S, M (un peu de nourriture adaptée à l'animal)
   Duration: 24 heures
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p337)
   Description: >+
     Vous tentez de convaincre une bête à portée et dans votre champ de vision de devenir votre compagnon de route et d'aventure. L'animal ne doit pas être hostile au moment où vous lancez le sort et vous l'amadouez avec un peu de nourriture pendant l'incantation. Le succès du sort est automatique si l'indice de dangerosité de la bête ne dépasse pas 1/2 et que sa valeur d'intelligence est inférieure ou égal à 4. Dans le cas contraire, la bête n'est pas affectée par le sort.
@@ -11123,6 +11123,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Compréhension des langues
   AltName: '[Comprehend Languages](srd_spells_comprehend_languages.md)'
   Type: Divination
@@ -11132,7 +11133,6 @@ SubItems:
   Components: V, S, M (une pincée de suie et de sel)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p338)(SRD)
   Description: >+
     Pendant toute la durée du sort, vous comprenez le sens littéral de tout langage parlé que vous entendez. Vous comprenez aussi les langues écrites que vous voyez, à condition de toucher la surface sur laquelle les mots ont été tracés. Il vous faut 1 minute pour lire une page de texte.
@@ -11253,6 +11253,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Compulsion
   AltName: '[Compulsion](srd_spells_compulsion.md)'
   Type: Enchantement
@@ -11262,7 +11263,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p338)(SRD)
   Description: >+
     Les créatures de votre choix, situées à portée, dans votre champ de vision et en mesure de vous entendre, doivent réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) ou être affectées par le sort. Une cible qui ne peut être [charmée](hd_conditions_charme.md) réussit automatiquement ce jet. À chaque tour jusqu'à la fin du sort, vous pouvez utiliser une action bonus pour désigner une direction (vers laquelle la cible peut se diriger) par rapport à vous. Chaque cible affectée doit alors utiliser son déplacement au mieux pour se diriger dans cette direction à son prochain tour. De plus, elle ne peut pas effectuer d'action avant de se déplacer. Une fois qu'elle s'est ainsi déplacée, elle peut faire un nouveau [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) pour tenter de mettre un terme à l'effet du sort.
@@ -11380,6 +11380,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Cône de froid
   AltName: '[Cone of Cold](srd_spells_cone_of_cold.md)'
   Type: Évocation
@@ -11389,7 +11390,6 @@ SubItems:
   Components: V, S, M (un petit cône de cristal ou de verre)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p338)(SRD)
   Description: >+
     Une bouffée d'air froid jaillit de vos mains. Toutes les créatures présentes dans un cône de 18 mètres doivent effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md). Celles qui le ratent subissent 8d8 dégâts de froid, les autres la moitié seulement.
@@ -11522,6 +11522,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Confusion
   AltName: '[Confusion](srd_spells_confusion.md)'
   Type: Enchantement
@@ -11531,7 +11532,6 @@ SubItems:
   Components: V, S, M (trois coquilles de noix)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p338)(SRD)
   Description: >+
     Ce sort assaille et pervertit l'esprit des créatures, génère des hallucinations et provoque des réactions incontrôlées.
@@ -11759,6 +11759,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Contact glacial
   AltName: '[Chill Touch](srd_spells_chill_touch.md)'
   Type: Nécromancie
@@ -11768,7 +11769,6 @@ SubItems:
   Components: V, S
   Duration: 1 round
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p339)(SRD)
   Description: >+
     Vous faites apparaître une main fantomatique et squelettique sur l'emplacement d'une créature située à portée.
@@ -11916,6 +11916,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Contacter un autre plan
   AltName: '[Contact Other Plane](srd_spells_contact_other_plane.md)'
   Type: Divination
@@ -11925,7 +11926,6 @@ SubItems:
   Components: V
   Duration: 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p339)(SRD)
   Description: >+
     Vous contactez mentalement un demi-dieu, l'esprit d'un sage décédé depuis longtemps, ou une autre entité mystérieuse issue d'un autre plan. Le contact avec cette intelligence extraplanaire met votre esprit à rude épreuve et risque même de le briser. Quand vous lancez ce sort, vous devez effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d'intelligence DD 15.
@@ -12061,6 +12061,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Contagion
   AltName: '[Contagion](srd_spells_contagion.md)'
   Type: Nécromancie
@@ -12070,7 +12071,6 @@ SubItems:
   Components: V, S
   Duration: 7 jours
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p339)(SRD)
   Description: >+
     Votre simple contact transmet des maladies. Faites une attaque de sort au corps-à-corps contre une créature à portée. Si vous touchez, vous lui inoculez une maladie de votre choix, à sélectionner parmi celles décrites ci-dessous.
@@ -12338,6 +12338,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Contamination
   AltName: '[Harm](srd_spells_harm.md)'
   Type: Nécromancie
@@ -12347,7 +12348,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p340)(SRD)
   Description: >+
     Vous transmettez une maladie virulente à une créature située à portée et dans votre champ de vision. La cible doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md). Si elle échoue, elle subit 14d6 dégâts nécrotiques, la moitié seulement si elle réussit. Ces dégâts ne peuvent pas faire passer les points de vie de la cible au-dessous de 1. Si la cible rate son [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md), son total de points de vie maximum est réduit, pendant 1 heure, d'un montant égal aux dégâts nécrotiques reçus. Tout effet qui guérit les maladies ramène le maximum de points de vie de la cible à la normale sans avoir besoin d'attendre 1 heure.
@@ -12450,6 +12450,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Contingence
   AltName: '[Contingency](srd_spells_contingency.md)'
   Type: Évocation
@@ -12459,7 +12460,6 @@ SubItems:
   Components: V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
   Duration: 10 jours
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p340)(SRD)
   Description: >+
     Choisissez un sort de niveau 5 ou moins que vous êtes en mesure de lancer, qui possède un temps d'incantation d'une action, et qui peut vous prendre pour cible. Vous lancez ce sort (que l'on appelle le sort contingent) lors de l'incantation de la contingence. Vous dépensez donc les emplacements des deux sorts, mais le contingent ne fait pas effet immédiatement. Il s'active lorsque certaines conditions sont remplies. Vous devez décrire ces dernières au moment où vous lancez les deux sorts. Par exemple, lors d'une contingence associée à une respiration aquatique, vous pouvez stipuler que la respiration aquatique doit se déclencher quand vous vous trouvez immergé dans l'eau ou dans un liquide similaire.
@@ -12607,6 +12607,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Contresort
   AltName: '[Counterspell](srd_spells_counterspell.md)'
   Type: Abjuration
@@ -12616,7 +12617,6 @@ SubItems:
   Components: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p340)(SRD)
   Description: >+
     Vous tentez d'interrompre une créature en pleine incantation.
@@ -12749,6 +12749,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Contrôle de l'eau
   AltName: '[Control Water](srd_spells_control_water.md)'
   Type: Transmutation
@@ -12758,7 +12759,6 @@ SubItems:
   Components: V, S, M (une goutte d'eau et une pincée de poussière)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p340)
   Description: >+
     Jusqu'à la fin du sort, vous contrôlez toute étendue d'eau indépendante située dans la zone de votre choix, cette dernière devant tenir dans un cube d'au maximum 30 mètres d'arête. Quand vous lancez ce sort, vous pouvez choisir l'un des effets suivants. À votre tour, vous pouvez utiliser une action pour répéter l'effet ou en appliquer un nouveau.
@@ -12966,6 +12966,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Contrôle du climat
   AltName: '[Control Weather](srd_spells_control_weather.md)'
   Type: Transmutation
@@ -12975,7 +12976,6 @@ SubItems:
   Components: V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
   Duration: concentration, jusqu'à 8 heures
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p341)(SRD)
   Description: >+
     Vous prenez le contrôle de la météo dans un rayon de 7,5 kilomètres autour de vous pendant toute la durée du sort. Vous devez être en extérieur au moment de l'incantation.
@@ -13403,6 +13403,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Convocations instantanées
   AltName: '[Instant Summons](srd_spells_instant_summons.md)'
   Type: Invocation
@@ -13412,7 +13413,6 @@ SubItems:
   Components: V, S, M (un saphir d'une valeur de 1 000 po)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p342)
   Description: >+
     Vous touchez un objet pesant 5 kilogrammes ou moins et dont la dimension la plus longue est de 1,80 mètre ou moins. Le sort laisse une marque [invisible](hd_conditions_invisible.md) sur la surface de l'objet et inscrit le nom de l'objet sur le saphir que vous utilisez comme composante matérielle. Chaque fois que vous lancez ce sort, vous devez utiliser un saphir différent.
@@ -13578,6 +13578,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Coquille antivie
   AltName: '[Antilife Shell](srd_spells_antilife_shell.md)'
   Type: Abjuration
@@ -13587,7 +13588,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p342)(SRD)
   Description: >+
     Une barrière scintillante se déploie depuis votre personne, jusqu'à englober une zone d'un rayon de 3 mètres. Elle se déplace avec vous, reste centrée sur vous et repousse les créatures autres que les morts-vivants et les créatures artificielles. Cette barrière persiste pendant toute la durée du sort.
@@ -13720,6 +13720,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Corde enchantée
   AltName: '[Rope Trick](srd_spells_rope_trick.md)'
   Type: Transmutation
@@ -13729,7 +13730,6 @@ SubItems:
   Components: V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p342)(SRD)
   Description: >+
     Vous touchez une longueur de corde d'au maximum 18 mètres. L'une de ses extrémités s'élève alors dans les airs, jusqu'à ce que toute la corde se dresse perpendiculairement au sol. Une entrée [invisible](hd_conditions_invisible.md) s'ouvre à l'extrémité supérieure de la corde et débouche sur un espace extradimensionnel qui persiste jusqu'à la fin du sort.
@@ -13892,6 +13892,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Couleurs dansantes
   AltName: '[Color Spray](srd_spells_color_spray.md)'
   Type: Illusion
@@ -13901,7 +13902,6 @@ SubItems:
   Components: V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
   Duration: 1 round
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p343)(SRD)
   Description: >+
     Un éventail de lumières colorées éblouissantes jaillit de votre main. Lancez 6d10. Le total représente le nombre de points de vie de créatures que le sort affecte. Les créatures situées dans un cône de 4,50 mètres, prenant votre personne comme point d'origine, sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures [inconscientes](hd_conditions_inconscient.md) et les créatures [aveuglées](hd_conditions_aveugle.md)).
@@ -14034,6 +14034,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Création
   AltName: '[Creation](srd_spells_creation.md)'
   Type: Illusion
@@ -14043,7 +14044,6 @@ SubItems:
   Components: V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)
   Duration: spéciale
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p343)(SRD)
   Description: >+
     Vous tirez des bribes de matière ombreuse du plan de l'ombre pour créer à portée des objets inertes en matière végétale : du tissu, de la corde, du bois ou des objets similaires. Ce sort permet aussi de créer des objets minéraux comme de la pierre, du cristal ou du métal.
@@ -14281,6 +14281,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Création de mort-vivant
   AltName: '[Create Undead](srd_spells_create_undead.md)'
   Type: Nécromancie
@@ -14290,7 +14291,6 @@ SubItems:
   Components: V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p343)(SRD)
   Description: >+
     Ce sort se lance uniquement de nuit. Choisissez jusqu'à trois cadavres de créatures humanoïdes de taille M ou P situés à portée. Chacun se change en goule placée sous votre contrôle. (Le MJ dispose du profil technique de ces créatures).
@@ -14483,6 +14483,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Création de nourriture et d'eau
   AltName: '[Create Food and Water](srd_spells_create_food_and_water.md)'
   Type: Invocation
@@ -14492,7 +14493,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p344)
   Description: >+
     Vous créez 25 kilogrammes de nourriture et 120 litres d'eau, soit par terre, soit dans des récipients installés à portée. Cela suffit à nourrir et abreuver un maximum de quinze humanoïdes ou de cinq montures pendant 24 heures. Les vivres sont fades mais nourrissants. Ils se gâtent si personne ne les a mangés dans les 24 heures suivant leur création. L'eau est claire et ne croupit pas.
@@ -14595,6 +14595,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Création ou destruction d'eau
   AltName: '[Create or Destroy Water](srd_spells_create_or_destroy_water.md)'
   Type: Transmutation
@@ -14604,7 +14605,6 @@ SubItems:
   Components: V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p344)
   Description: >+
     Vous créez ou détruisez de l'eau.
@@ -14767,6 +14767,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Croissance d'épines
   AltName: '[Spike Growth](srd_spells_spike_growth.md)'
   Type: Transmutation
@@ -14776,7 +14777,6 @@ SubItems:
   Components: V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p344)
   Description: >+
     Dans une zone de 6 mètres de rayon centrée sur un point à portée, le sol se met à se déformer et donne naissance à un tapis de pointes et d'épines. La zone se mue en terrain difficile pendant toute la durée du sort. Quand une créature entre dans la zone ou s'y déplace, elle reçoit 2d4 dégâts perforants par tranche de 1,50 mètre parcouru.
@@ -14894,6 +14894,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Croissance végétale
   AltName: '[Plant Growth](srd_spells_plant_growth.md)'
   Type: Transmutation
@@ -14903,7 +14904,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p344)(SRD)
   Description: >+
     Ce sort décuple la vitalité des plantes d'une zone donnée.
@@ -15066,6 +15066,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Danse irrésistible
   AltName: '[Irresistible Dance](srd_spells_irresistible_dance.md)'
   Type: Enchantement
@@ -15075,7 +15076,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p344)
   Description: >+
     Choisissez une créature située à portée et dans votre champ de vision. La cible entame une danse comique, se mettant à taper du pied et à caracoler sur place. Les créatures qui ne peuvent être [charmées](hd_conditions_charme.md) sont immunisées contre ce sort.
@@ -15208,6 +15208,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Déblocage
   AltName: '[Knock](srd_spells_knock.md)'
   Type: Transmutation
@@ -15217,7 +15218,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p345)(SRD)
   Description: >+
     Choisissez un objet situé à portée et dans votre champ de vision. Ce peut être une porte, une boîte, un coffre, des menottes, un cadenas ou un autre objet disposant d'un système de fermeture ordinaire ou magique.
@@ -15350,6 +15350,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Déguisement
   AltName: '[Disguise Self](srd_spells_disguise_self.md)'
   Type: Illusion
@@ -15359,7 +15360,6 @@ SubItems:
   Components: V, S
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p345)(SRD)
   Description: >+
     Vous faites en sorte que votre personne (y compris vos vêtements, votre armure, vos armes et les autres objets en votre possession) prenne une apparence différente jusqu'à la fin du sort ou jusqu'à ce que vous utilisiez une action pour y mettre un terme. Vous pouvez passer pour une personne de 30 centimètres de plus ou de moins, sembler gros, maigre ou entre les deux. Vous ne pouvez pas changer de morphologie, vous devez choisir une forme possédant la même conformation que vous au niveau des membres. En dehors de cela, les détails de l'illusion sont laissés à votre imagination.
@@ -15492,6 +15492,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Demi-plan
   AltName: '[Demiplane](srd_spells_demiplane.md)'
   Type: Invocation
@@ -15501,7 +15502,6 @@ SubItems:
   Components: S
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p345)(SRD)
   Description: >+
     Vous créez une porte floue sur une surface plate et solide située à portée et dans votre champ de vision. Elle est assez large pour laisser passer sans mal des créatures de taille M. Quand quelqu'un ouvre la porte, elle donne sur un demi-plan ressemblant à une pièce vide de 9 mètres de côté (dans toutes les dimensions) faite de bois ou de pierre. La porte disparaît quand le sort se termine et les créatures et les objets encore dans le demi-plan y restent piégés, car elle s'efface aussi de leur côté.
@@ -15619,6 +15619,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Déplacer la terre
   AltName: '[Move Earth](srd_spells_move_earth.md)'
   Type: Transmutation
@@ -15628,7 +15629,6 @@ SubItems:
   Components: "V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)"
   Duration: concentration, jusqu'à 2 heures
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p345)(SRD)
   Description: >+
     Choisissez une zone de terrain à portée d'au maximum 12 mètres de côté. Vous pouvez remodeler la terre, le sable ou l'argile qu'elle comporte comme bon vous semble pendant toute la durée du sort. Vous pouvez augmenter ou diminuer l'altitude de la zone, creuser ou combler une tranchée, ériger ou abattre un mur, ou former un pilier. L'amplitude de ces modifications ne peut pas excéder la moitié de la dimension la plus importante de la zone affectée. Donc, si vous modifiez une zone de 12 mètres de côté, vous pouvez créer un pilier de 6 mètres de haut au maximum, modifier l'altitude de la zone de 6 mètres au plus, creuser une tranchée d'un maximum de 6 mètres de profondeur, etc. Il faut 10 minutes pour finaliser ces modifications.
@@ -15776,6 +15776,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Désintégration
   AltName: '[Disintegrate](srd_spells_disintegrate.md)'
   Type: Transmutation
@@ -15785,7 +15786,6 @@ SubItems:
   Components: V, S, M (de la magnétite et une pincée de poussière)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p346)(SRD)
   Description: >+
     Un mince rayon de lumière verte jaillit de votre doigt pointé vers une cible située dans votre champ de vision et à portée. La cible peut être une créature, un objet ou une création de force magique, comme une barrière issue d'un _[mur de force](hd_spells_mur_de_force.md)_.
@@ -15948,6 +15948,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Dessiccation
   Type: Transmutation
   Level: 2
@@ -15956,7 +15957,6 @@ SubItems:
   Components: V, S, M (une goutte d'eau)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p346)
   Description: >+
     Vous désignez une cible vivante à portée du sort et tant que vous vous concentrez, l'eau contenue dans son corps s'écoule par ses yeux, sa bouche, ses oreilles ou les pores de sa peau. Au début de chacun de ses tours, la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) ou subir 2d6 dégâts nécrotiques. Une sauvegarde réussie réduit ces dégâts de moitié.
@@ -16069,6 +16069,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Détection de la magie
   AltName: '[Detect Magic](srd_spells_detect_magic.md)'
   Type: Divination
@@ -16078,7 +16079,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p346)(SRD)
   Description: >+
     Pendant toute la durée du sort, vous percevez la présence de magie dans un rayon de 9 mètres autour de vous. Si vous percevez ainsi la magie, vous pouvez utiliser votre action pour discerner une faible aura autour d'une créature ou d'un objet visible dans la zone et imprégné de magie. Vous découvrez aussi à quelle école appartient cette magie, le cas échéant.
@@ -16199,6 +16199,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Détection des pensées
   AltName: '[Detect Thoughts](srd_spells_detect_thoughts.md)'
   Type: Divination
@@ -16208,7 +16209,6 @@ SubItems:
   Components: V, S, M (une pièce de cuivre)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p346)(SRD)
   Description: >+
     Pendant toute la durée du sort, vous parvenez à lire les pensées de certaines créatures. Quand vous lancez ce sort, puis en tant qu'action à votre tour jusqu'à la fin du sort, vous pouvez focaliser vos pensées sur une créature située à moins de 9 mètres dans votre champ de vision.
@@ -16431,6 +16431,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Détection du mal et du bien
   AltName: '[Detect Evil and Good](srd_spells_detect_evil_and_good.md)'
   Type: Divination
@@ -16440,7 +16441,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p347)(SRD)
   Description: >+
     Pendant toute la durée du sort, vous savez s'il y a une aberration, un céleste, un élémentaire, une fée, un fiélon ou un mort-vivant dans un rayon de 9 mètres autour de vous et vous savez précisément où il se trouve. De même, vous savez si un lieu ou un objet situé dans un rayon de 9 mètres a été consacré ou profané.
@@ -16558,6 +16558,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Détection du poison et des maladies
   AltName: '[Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)'
   Type: Divination
@@ -16567,7 +16568,6 @@ SubItems:
   Components: V, S, M (un brin d'if)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p347)(SRD)
   Description: >+
     Pendant toute la durée du sort, vous percevez la présence de poisons, de créatures venimeuses et de maladies dans un rayon de 9 mètres autour de vous. Vous déterminez également leur emplacement et identifiez à chaque fois le type de poison, de créature ou de maladie concerné.
@@ -16688,6 +16688,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Disque flottant
   AltName: '[Floating Disk](srd_spells_floating_disk.md)'
   Type: Invocation
@@ -16697,7 +16698,6 @@ SubItems:
   Components: V, S, M (une goutte de mercure)
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p347)
   Description: >+
     Ce sort crée un plan de force circulaire horizontal d'un mètre de diamètre pour 2,5 centimètres d'épaisseur.
@@ -16848,6 +16848,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Dissipation de la magie
   AltName: '[Dispel Magic](srd_spells_dispel_magic.md)'
   Type: Abjuration
@@ -16857,7 +16858,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p347)(SRD)
   Description: >+
     Choisissez une créature, un objet ou un effet magique à portée. Tout sort de niveau 3 ou inférieur qui l'affecte se termine. Si la cible est affectée par un sort de niveau 4 ou plus, faites un test de caractéristique en utilisant votre caractéristique d'incantation. Le DD est de 10 + niveau du sort. Ce dernier se termine si vous réussissez votre test.
@@ -16975,6 +16975,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Dissipation du mal et du bien
   AltName: '[Dispel Evil and Good](srd_spells_dispel_evil_and_good.md)'
   Type: Abjuration
@@ -16984,7 +16985,6 @@ SubItems:
   Components: V, S, M (eau bénite ou poudre d'argent et de fer)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p347)(SRD)
   Description: >+
     Une énergie scintillante vous entoure et vous protège contre les fées, les morts-vivants et les créatures originaires d'un autre plan que le plan matériel. Pendant toute la durée du sort, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants subissent un désavantage lors de leurs attaques contre vous.
@@ -17132,6 +17132,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Divination
   AltName: '[Divination](srd_spells_divination.md)'
   Type: Divination
@@ -17141,7 +17142,6 @@ SubItems:
   Components: V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p348)(SRD)
   Description: >+
     Grâce à votre magie et à une offrande, vous entrez en contact avec un dieu ou l'un de ses serviteurs. Vous lui posez une unique question à propos d'un objectif, d'un événement ou d'une activité qui doit se dérouler dans les 7 jours à venir. Le MJ vous donne une réponse sincère, pouvant être une courte phrase, des vers cryptiques ou un présage.
@@ -17277,6 +17277,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Doigt de mort
   AltName: '[Finger of Death](srd_spells_finger_of_death.md)'
   Type: Nécromancie
@@ -17286,7 +17287,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p348)(SRD)
   Description: >+
     Vous envoyez de l'énergie négative dans le corps d'une créature située à portée et dans votre champ de vision, ce qui lui inflige des douleurs déchirantes. La cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md). Si elle échoue, elle subit 7d8+30 dégâts nécrotiques, la moitié seulement si elle réussit.
@@ -17404,6 +17404,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Dominer un humanoïde
   AltName: '[Dominate Person](srd_spells_dominate_person.md)'
   Type: Enchantement
@@ -17413,7 +17414,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p348)(SRD)
   Description: >+
     Vous tentez d'envoûter un humanoïde situé à portée et dans votre champ de vision. Il doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), sans quoi il est [charmé](hd_conditions_charme.md) par vous pendant toute la durée du sort. Il dispose d'un avantage lors du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) si vous ou des créatures amicales envers vous êtes en train de le combattre.
@@ -17621,6 +17621,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Dominer un monstre
   AltName: '[Dominate Monster](srd_spells_dominate_monster.md)'
   Type: Enchantement
@@ -17630,7 +17631,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p349)(SRD)
   Description: >+
     Vous tentez d'envoûter une créature située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), sans quoi elle est [charmée](hd_conditions_charme.md) par vous pendant toute la durée du sort. Elle dispose d'un avantage lors du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) si vous ou des créatures amicales envers vous êtes en train de la combattre.
@@ -17823,6 +17823,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Dominer une bête
   AltName: '[Dominate Beast](srd_spells_dominate_beast.md)'
   Type: Enchantement
@@ -17832,7 +17833,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
-  Family: SpellHD
   Source: (MDR p349)(SRD)
   Description: >+
     Vous tentez d'envoûter une bête située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), sans quoi elle est [charmée](hd_conditions_charme.md) par vous pendant toute la durée du sort. Elle dispose d'un avantage lors du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) si vous ou des créatures amicales envers vous êtes en train de la combattre.
@@ -18025,6 +18025,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Doux repos
   AltName: '[Gentle Repose](srd_spells_gentle_repose.md)'
   Type: Nécromancie
@@ -18034,7 +18035,6 @@ SubItems:
   Components: V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
   Duration: 10 jours
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p349)(SRD)
   Description: >+
     Vous touchez un cadavre ou des restes. Pendant toute la durée du sort, la cible est protégée contre la décomposition et ne peut pas se transformer en mort-vivant.
@@ -18155,6 +18155,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Druidisme
   AltName: '[Druidcraft](srd_spells_druidcraft.md)'
   Type: Transmutation
@@ -18164,7 +18165,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p349)(SRD)
   Description: >+
     Vous créez l'un des effets suivants à portée après quelques murmures adressés aux esprits de la nature.
@@ -18327,6 +18327,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Éclair
   AltName: '[Lightning Bolt](srd_spells_lightning_bolt.md)'
   Type: Évocation
@@ -18336,7 +18337,6 @@ SubItems:
   Components: V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p350)(SRD)
   Description: >+
     Un éclair formant une ligne de 30 mètres de long pour 1,50 mètre de large jaillit de votre personne et file dans la direction de votre choix. Chaque créature située sur la ligne doit réaliser un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md).
@@ -18484,6 +18484,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Éclat de bois
   Type: Invocation
   Level: tour de magie
@@ -18492,7 +18493,6 @@ SubItems:
   Components: V, S, M (une écharde de bois)
   Duration: instantanée
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p350)
   Description: >+
     Vous jetez un éclat de bois qui prend la forme d'une véritable javeline et part en direction de votre cible.
@@ -18605,6 +18605,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Éclat du soleil
   AltName: '[Sunburst](srd_spells_sunburst.md)'
   Type: Évocation
@@ -18614,7 +18615,6 @@ SubItems:
   Components: V, S, M (du feu et un éclat d'héliotrope)
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p350)(SRD)
   Description: >+
     La chaude lumière du soleil illumine une zone de 18 mètres de rayon centrée sur un point de votre choix situé à portée. Chaque créature présente dans cette lumière doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md).
@@ -18762,6 +18762,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Embruns prismatiques
   AltName: '[Prismatic Spray](srd_spells_prismatic_spray.md)'
   Type: Évocation
@@ -18771,7 +18772,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p350)(SRD)
   Description: >+
     Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une couleur différente et possède des pouvoirs et objectifs distincts. Chaque créature présente dans un cône de 18 mètres doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). Lancez 1d8 par cible pour savoir quelle couleur l'affecte.
@@ -18979,6 +18979,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Emprisonnement
   AltName: '[Imprisonment](srd_spells_imprisonment.md)'
   Type: Abjuration
@@ -18988,7 +18989,6 @@ SubItems:
   Components: V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p351)(SRD)
   Description: >+
     Vous créez des entraves magiques pour immobiliser une créature située à portée et dans votre champ de vision.
@@ -19271,6 +19271,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Enchevêtrement
   AltName: '[Entangle](srd_spells_entangle.md)'
   Type: Invocation
@@ -19280,7 +19281,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p352)(SRD)
   Description: >+
     Des herbes et des lianes entremêlées jaillissent du sol dans un carré de 6 mètres de côté centré sur un point de votre choix à portée. Pendant toute la durée du sort, les végétaux transforment la zone en terrain difficile.
@@ -19413,6 +19413,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Entrave planaire
   AltName: '[Planar Binding](srd_spells_planar_binding.md)'
   Type: Abjuration
@@ -19422,7 +19423,6 @@ SubItems:
   Components: V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p352)(SRD)
   Description: >+
     Grâce à ce sort, vous vous attachez de force les services d'un céleste, d'un élémentaire, d'une fée ou d'un fiélon. La créature doit se trouver à portée pendant toute la durée du sort. (En général, elle est d'abord invoquée au centre d'un _[cercle magique](hd_spells_cercle_magique.md)_ inversé où elle reste piégée le temps de l'incantation.) La cible doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md) à la fin de l'incantation. Si elle échoue, elle est contrainte de vous servir pendant toute la durée du sort. Si elle a été invoquée ou créée via un autre sort, la durée de ce dernier se prolonge jusqu'à égaler celle de l'entrave planaire.
@@ -19555,6 +19555,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Envoi de message
   AltName: '[Sending](srd_spells_sending.md)'
   Type: Évocation
@@ -19564,7 +19565,6 @@ SubItems:
   Components: V, S, M (un petit bout de fil de cuivre)
   Duration: 1 round
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p352)(SRD)
   Description: >+
     Vous envoyez un court message d'au maximum vingtcinq mots à une créature qui vous est familière. Elle entend le message dans son esprit, sait que c'est vous qui le lui avez envoyé si elle vous connaît, et peut vous répondre immédiatement de la même manière. Le sort permet aux créatures dotées d'une [Intelligence](hd_abilities_intelligence.md) supérieure ou égale à 1 de comprendre le sens de votre message.
@@ -19682,6 +19682,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Envoûtement
   AltName: '[Enthrall](srd_spells_enthrall.md)'
   Type: Enchantement
@@ -19691,7 +19692,6 @@ SubItems:
   Components: V, S
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p352)(SRD)
   Description: >+
     Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de votre choix qui vous entendent et sont situées à portée et dans votre champ de vision à effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md). Une créature qui ne peut pas être [charmée](hd_conditions_charme.md) réussit automatiquement ce [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md). Si vous ou vos compagnons vous battez contre une de ces créatures, elle dispose d'un avantage lors du [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md). Si la créature rate son jet, elle subit un désavantage lors des tests de [Sagesse (Perception)](hd_abilities_wisdom_perception.md) destinés à percevoir une créature autre que vous jusqu'à ce que le sort se termine ou jusqu'à ce qu'elle ne puisse plus vous entendre. Le sort se termine si vous êtes [neutralisé](hd_conditions_neutralise.md) ou dans l'incapacité de parler.
@@ -19794,6 +19794,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Épargner les mourants
   AltName: '[Spare the Dying](srd_spells_spare_the_dying.md)'
   Type: Nécromancie
@@ -19803,7 +19804,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p352)(SRD)
   Description: >+
     Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
@@ -19906,6 +19906,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Épée du juste
   Type: Évocation
   Level: 5
@@ -19914,7 +19915,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p353)
   Description: >+
     Votre épée devient une épée de justice pour toute la durée du sort. Elle bénéficie donc d'un bonus de +3 aux jets d'attaque et aux dégâts, inflige 2d10 dégâts radiants supplémentaires contre les fiélons et les morts-vivants, et crée une aura de 3 mètres de rayon octroyant à vos alliés qui s'y trouvent un avantage aux [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre les sorts et effets magiques. De plus, lorsque l'épée de justice blesse pour la première fois un fiélon ayant un nombre de DV inférieur ou égal au vôtre, celui-ci doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md) sous peine de disparaître aussitôt et d'être contraint de retourner à son plan d'origine.
@@ -19997,6 +19997,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Épée magique
   AltName: '[Arcane Sword](srd_spells_arcane_sword.md)'
   Type: Évocation
@@ -20006,7 +20007,6 @@ SubItems:
   Components: V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p353)
   Description: >+
     Vous créez un plan de force en forme d'épée qui plane à portée et persiste pendant toute la durée du sort.
@@ -20124,6 +20124,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Esprit faible
   AltName: '[Feeblemind](srd_spells_feeblemind.md)'
   Type: Enchantement
@@ -20133,7 +20134,6 @@ SubItems:
   Components: V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p353)(SRD)
   Description: >+
     Vous vous attaquez à l'esprit d'une créature située à portée et dans votre champ de vision en essayant de briser son intellect et sa personnalité. La cible subit 4d6 dégâts psychiques et doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d'[Intelligence](hd_abilities_intelligence.md).
@@ -20266,6 +20266,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Esprit impénétrable
   AltName: '[Mind Blank](srd_spells_mind_blank.md)'
   Type: Abjuration
@@ -20275,7 +20276,6 @@ SubItems:
   Components: V, S
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p353)(SRD)
   Description: >+
     Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immunisez contre les dégâts psychiques, les effets percevant les émotions ou révélant les pensées, les sorts de divination et l'état [charmé](hd_conditions_charme.md). Ce sort déjoue même les _[souhaits](hd_spells_souhait.md)_ et les sorts et effets de même puissance qui cherchent à affecter l'esprit de la cible ou à obtenir des informations à son propos.
@@ -20378,6 +20378,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Esprits gardiens
   AltName: '[Spirit Guardians](srd_spells_spirit_guardians.md)'
   Type: Invocation
@@ -20387,7 +20388,6 @@ SubItems:
   Components: V, S M (un symbole sacré)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p353)(SRD)
   Description: >+
     Vous appelez des esprits qui vous protègent. Ils volettent autour de vous dans un rayon de 4,50 mètres pendant toute la durée du sort. Si vous êtes Bon ou Neutre, ils ont une apparence angélique ou féerique (à vous de choisir). Si vous êtes Mauvais, ils ont une apparence fiélone.
@@ -20535,6 +20535,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Étrangeté
   AltName: '[Weird](srd_spells_weird.md)'
   Type: Illusion
@@ -20544,7 +20545,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p354)(SRD)
   Description: >+
     Vous puisez dans les peurs les plus profondes d'un groupe de créatures et créez des êtres illusoires dans leurs esprits, qu'elles sont les seules à voir. Chaque créature située dans une sphère de 9 mètres de rayon centrée sur un point de votre choix situé à portée doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) ou être [terrorisée](hd_conditions_terrorise.md) pendant toute la durée du sort. Les illusions se basent sur les peurs enfouies en chaque cible et transforment leurs pires cauchemars en menace implacable. À la fin de chacun de ses tours, une créature [terrorisée](hd_conditions_terrorise.md) doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md). Si elle échoue, elle subit 4d10 dégâts psychiques. Si elle réussit, le sort se termine pour elle.
@@ -20647,6 +20647,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Éveil
   AltName: '[Awaken](srd_spells_awaken.md)'
   Type: Transmutation
@@ -20656,7 +20657,6 @@ SubItems:
   Components: V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p354)(SRD)
   Description: >+
     Une fois que vous avez passé la durée de l'incantation à tracer des sentiers magiques dans une pierre précieuse, vous touchez un animal ou une plante de taille TG ou inférieure qui doivent être dépourvus de toute valeur d'[Intelligence](hd_abilities_intelligence.md) ou posséder une [Intelligence](hd_abilities_intelligence.md) de 3 ou moins. La cible reçoit alors une [Intelligence](hd_abilities_intelligence.md) de 10 et la possibilité de parler un langage que vous connaissez. Si la cible est une plante, elle peut se déplacer à l'aide de ses branches, de ses racines, de ses lianes, de ses vrilles ou autre et gagne des sens similaires à ceux d'un humain.
@@ -20789,6 +20789,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Excavation
   Type: Transmutation
   Level: 8
@@ -20797,7 +20798,6 @@ SubItems:
   Components: V, S, M (une cuillère)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p354)
   Description: >+
     Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur dans la pierre ou la terre (de la roche ou un mur) et dans le bois, mais pas dans le métal. Le passage créé est permanent et l'effet du sort ne peut être dissipé. Plusieurs incantations du sort permettent de de former des tunnels souterrains ne nécessitant pas d'étaiement. Vous pouvez orienter le tunnel dans la direction de votre choix.
@@ -20880,6 +20880,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Expiation du juste
   Type: Évocation
   Level: 4
@@ -20888,7 +20889,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p354)
   Description: >+
     La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la durée du sort, vous lancez un ordre de repentir sur la créature que vous frappez. Sur cette attaque, elle subit 3d8 dégâts psychiques, écrasée par le poids de ses péchés et la culpabilité. En outre, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) ou être [étourdie](hd_conditions_etourdi.md) jusqu'à la fin de son prochain tour et subir un désavantage à tous ses tests de [Sagesse](hd_abilities_wisdom.md) pour une minute.
@@ -20971,6 +20971,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Explosion occulte
   AltName: '[Eldritch Blast](srd_spells_eldritch_blast.md)'
   Type: Évocation
@@ -20980,7 +20981,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p354)(SRD)
   Description: >+
     Un éclair d'énergie crépitante file vers une créature à portée. Faites un jet d'attaque de sort à distance contre la cible. Si vous réussissez, elle subit 1d10 dégâts de force.
@@ -21098,6 +21098,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Fabrication
   AltName: '[Fabricate](srd_spells_fabricate.md)'
   Type: Transmutation
@@ -21107,7 +21108,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p354)(SRD)
   Description: >+
     Vous convertissez des matériaux bruts en produits finis faits de la même matière. Par exemple, vous pouvez fabriquer un pont de bois à partir de souches d'arbres, une corde à base d'un tas de chanvre, et des habits à partir de lin ou de laine.
@@ -21240,6 +21240,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Façonnage de la pierre
   AltName: '[Stone Shape](srd_spells_stone_shape.md)'
   Type: Transmutation
@@ -21249,7 +21250,6 @@ SubItems:
   Components: V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p355)(SRD)
   Description: >+
     Vous touchez un objet de pierre de taille M ou inférieure ou une section de pierre d'un maximum de 1,50 mètre dans toutes les dimensions et lui donnez la forme que vous désirez. Vous pouvez, par exemple, façonner un gros caillou de manière à en faire une arme, une idole ou un coffre, ou bien creuser un étroit passage dans un mur, à condition que ce dernier ne fasse pas plus de 1,50 mètre d'épaisseur. Vous pouvez façonner une porte de pierre ou son chambranle pour la sceller. L'objet créé peut avoir au maximum deux charnières et un loquet, mais il est impossible de créer des mécanismes plus complexes.
@@ -21352,6 +21352,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Faveur divine
   AltName: '[Divine Favor](srd_spells_divine_favor.md)'
   Type: Évocation
@@ -21361,7 +21362,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p355)(SRD)
   Description: >+
     Vos prières vous imprègnent d'une aura radieuse.
@@ -21479,6 +21479,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Festin des héros
   AltName: "[Heroes' Feast](srd_spells_heroes_feast.md)"
   Type: Invocation
@@ -21488,7 +21489,6 @@ SubItems:
   Components: V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p355)(SRD)
   Description: >+
     Vous matérialisez un grand festin, comprenant des boissons et des mets de grande qualité. Il faut 1 heure pour terminer le festin, qui disparaît au bout de cette durée. Ses effets bénéfiques se manifestent uniquement une fois cette heure écoulée. Douze créatures au maximum peuvent se joindre à vous lors de ce repas.
@@ -21621,6 +21621,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Flamboiement funeste
   Type: Invocation
   Level: 1
@@ -21629,7 +21630,6 @@ SubItems:
   Components: V, S, M (morceau d'onyx)
   Duration: instantanée
   Classes: '[Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p355)
   Description: >+
     Une explosion de flammes noires jaillit de votre corps et blesse les créatures située à moins de 1,50 mètre de vous.
@@ -21742,6 +21742,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Flamme éternelle
   AltName: '[Continual Flame](srd_spells_continual_flame.md)'
   Type: Évocation
@@ -21751,7 +21752,6 @@ SubItems:
   Components: V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)
   Duration: jusqu'à dissipation
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p355)(SRD)
   Description: >+
     Une flamme à la luminosité égale à celle d'une torche embrase soudain l'objet que vous touchez. L'effet du sort ressemble à une flamme ordinaire, mais ne dégage pas de chaleur et ne consomme pas d'oxygène. On peut couvrir ou cacher la flamme éternelle, mais pas l'étouffer ni l'éteindre avec de l'eau.
@@ -21854,6 +21854,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Flamme sacrée
   AltName: '[Sacred Flame](srd_spells_sacred_flame.md)'
   Type: Évocation
@@ -21863,7 +21864,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p355)(SRD)
   Description: >+
     Une lumière flamboyante s'abat sur une créature située à portée et dans votre champ de vision. La cible doit réussir un jet de [Dextérité](hd_abilities_dexterity.md) ou subir 1d8 dégâts radiants.
@@ -21996,6 +21996,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Fléau
   AltName: '[Bane](srd_spells_bane.md)'
   Type: Enchantement
@@ -22005,7 +22006,6 @@ SubItems:
   Components: V, S, M (une goutte de sang)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p356)(SRD)
   Description: >+
     Trois créatures de votre choix au maximum, toutes situées à portée et dans votre champ de vision, sont contraintes d'effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md).
@@ -22138,6 +22138,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Fléau d'insectes
   AltName: '[Insect Plague](srd_spells_insect_plague.md)'
   Type: Invocation
@@ -22147,7 +22148,6 @@ SubItems:
   Components: V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
-  Family: SpellHD
   Source: (MDR p356)
   Description: >+
     Un essaim de sauterelles carnivores forme une sphère de 6 mètres de rayon centrée sur un point de votre choix situé à portée. La sphère s'étend en contournant les angles et persiste pendant toute la durée du sort. La visibilité est réduite dans la zone affectée. L'intérieur de la sphère devient un terrain difficile.
@@ -22295,6 +22295,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Flèche acide
   AltName: '[Acid Arrow](srd_spells_acid_arrow.md)'
   Type: Évocation
@@ -22304,7 +22305,6 @@ SubItems:
   Components: V, S, M (poudre de feuille de rhubarbe et estomac de vipère)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p356)
   Description: >+
     Une flèche d'un vert chatoyant file vers une cible située à portée et explose en une gerbe d'acide. Faites une attaque de sort à distance contre la cible. Si vous touchez, la cible reçoit 4d4 dégâts d'acide immédiatement et 2d4 dégâts d'acide à la fin de son prochain tour. Si vous ne touchez pas, l'acide éclabousse la cible et lui inflige la moitié des dégâts initiaux, mais aucun à la fin de son prochain tour.
@@ -22422,6 +22422,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Flétrissement
   AltName: '[Blight](srd_spells_blight.md)'
   Type: Nécromancie
@@ -22431,7 +22432,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p356)(SRD)
   Description: >+
     L'énergie nécromantique inonde une créature de votre choix située à portée et dans votre champ de vision, et draine ses fluides corporels et sa vitalité. La cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md). Si elle échoue, elle reçoit 8d8 dégâts nécrotiques, la moitié seulement si elle réussit son jet. Ce sort n'a aucun effet sur les morts-vivants ou les créatures artificielles.
@@ -22564,6 +22564,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Flou
   AltName: '[Blur](srd_spells_blur.md)'
   Type: Illusion
@@ -22573,7 +22574,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p356)(SRD)
   Description: >+
     Votre corps devient flou, il ondule et vacille comme une flamme aux yeux d'autrui. Pendant toute la durée du sort, les créatures subissent un désavantage lorsqu'elles font un jet d'attaque contre vous. Un attaquant est immunisé contre cet effet s'il ne se repose pas sur sa vue, s'il dispose de vision aveugle, par exemple, ou s'il peut percer les illusions à jour avec vision parfaite.
@@ -22676,6 +22676,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Forme éthérée
   AltName: '[Etherealness](srd_spells_etherealness.md)'
   Type: Transmutation
@@ -22685,7 +22686,6 @@ SubItems:
   Components: V, S
   Duration: jusqu'à 8 heures
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p356)(SRD)
   Description: >+
     Vous pénétrez dans la région frontalière du plan éthéré, dans une zone où il chevauche votre plan actuel. Vous restez sur la frontière éthérée pendant toute la durée du sort ou jusqu'à ce que vous utilisiez une action pour y mettre fin. Pendant cette période, vous pouvez vous déplacer dans n'importe quelle direction. Si vous optez pour un déplacement vers le haut ou le bas, le prix du mouvement est doublé, chaque mètre de déplacement vous coûtant 1 mètre supplémentaire. Vous voyez et entendez ce qui se passe sur le plan d'où vous venez, mais tout y est gris et vous ne voyez plus rien au-delà de 18 mètres.
@@ -22863,6 +22863,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Forme gazeuse
   AltName: '[Gaseous Form](srd_spells_gaseous_form.md)'
   Type: Transmutation
@@ -22872,7 +22873,6 @@ SubItems:
   Components: V, S, M (un morceau de gaze et une volute de fumée)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p357)(SRD)
   Description: >+
     Vous touchez une créature consentante et la transformez, ainsi que tous les objets qu'elle porte et qu'elle transporte, en nuage brumeux pour toute la durée du sort. Ce dernier se termine si la créature tombe à 0 point de vie. Le sort n'affecte pas les créatures intangibles.
@@ -23020,6 +23020,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Formes animales
   AltName: '[Animal Shapes](srd_spells_animal_shapes.md)'
   Type: Transmutation
@@ -23029,7 +23030,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 24 heures
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p357)(SRD)
   Description: >+
     Votre magie transforme vos alliés en animaux. Choisissez autant de créatures consentantes à portée et dans votre champ de vision que vous désirez. Vous transformez chacune d'entre elles en bête de taille G ou inférieure dotée d'un indice de dangerosité inférieur ou égal à 4. Lors de vos tours suivants, vous pouvez dépenser votre action pour transformer les créatures affectées en d'autres bêtes.
@@ -23162,6 +23162,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Fou rire
   AltName: '[Hideous Laughter](srd_spells_hideous_laughter.md)'
   Type: Enchantement
@@ -23171,7 +23172,6 @@ SubItems:
   Components: V, S, M (de minuscules tartes et une plume à agiter dans les airs)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p357)
   Description: >+
     Une créature de votre choix située à portée et dans votre champ de vision trouve soudain tout ce qui l'entoure d'une drôlerie hilarante et succombe à un fou rire irrépressible dès que ce sort l'affecte. Elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) ou se retrouver [à terre](hd_conditions_a_terre.md), [neutralisée](hd_conditions_neutralise.md) et incapable de se relever pendant toute la durée du sort. Ce sort n'affecte pas les créatures dotées d'une [Intelligence](hd_abilities_intelligence.md) de 4 ou moins.
@@ -23289,6 +23289,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Frappe du juste
   Type: Évocation
   Level: 1
@@ -23297,7 +23298,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p358)
   Description: >+
     La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la durée du sort, votre arme frappe votre cible avec l'énergie de la justice sacrée. La cible subit 2d6 dégâts supplémentaires et un effet secondaire.
@@ -23455,6 +23455,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Frappe lumineuse
   AltName: '[Branding Smite](srd_spells_branding_smite.md)'
   Type: Évocation
@@ -23464,7 +23465,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p358)(SRD)
   Description: >+
     La prochaine attaque avec une arme de corps-àcorps ou à distance qui vous permet de toucher une créature avant la fin de ce sort voit votre arme briller soudain d'une lumière astrale et infliger 2d6 dégâts radiants additionnels à votre cible, qui devient visible si elle était [invisible](hd_conditions_invisible.md) et se met à émettre une faible lumière dans un rayon de 1,50 mètre jusqu'à la fin du sort. Elle ne peut plus devenir [invisible](hd_conditions_invisible.md) pendant toute cette durée.
@@ -23582,6 +23582,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Fusion dans la pierre
   AltName: '[Meld into Stone](srd_spells_meld_into_stone.md)'
   Type: Transmutation
@@ -23591,7 +23592,6 @@ SubItems:
   Components: V, S
   Duration: 8 heures
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p358)(SRD)
   Description: >+
     Vous entrez dans un objet ou une surface de pierre assez grande pour contenir entièrement votre corps, votre personne et votre équipement fusionnant avec la pierre pendant toute la durée du sort. Vous utilisez votre déplacement pour entrer dans la pierre en un point que vous êtes en mesure de toucher. Il ne reste alors rien de visible ni de détectable indiquant votre présence pour des sens non-magiques.
@@ -23742,6 +23742,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Gardien de la foi
   AltName: '[Guardian of Faith](srd_spells_guardian_of_faith.md)'
   Type: Invocation
@@ -23751,7 +23752,6 @@ SubItems:
   Components: V
   Duration: 8 heures
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p358)(SRD)
   Description: >+
     Durée d'incantation : 1 action Un gardien spectral de taille G apparaît et flotte dans un emplacement inoccupé de votre choix situé dans votre champ de vision et à portée. Il occupe alors cet emplacement, mais sa silhouette reste indistincte, à l'exception de son arme luisante et de son bouclier frappé du symbole de votre divinité.
@@ -23869,6 +23869,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Geyser d'énergie
   Type: Évocation
   Level: 1
@@ -23877,7 +23878,6 @@ SubItems:
   Components: V, S, M (une petite poire remplie d'air)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md)'
-  Family: SpellHD
   Source: (MDR p359)
   Description: >+
     Un geyser d'énergie jaillit du sol d'un endroit que vous spécifiez dans la portée du sort. Vous choisissez acide, foudre, feu, froid, poison ou tonnerre comme type d'énergie pour le geyser. Chaque créature située dans le cylindre de 1,50 mètre de diamètre et de 6 mètres de haut doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md), sans quoi elle subit 3d8 dégâts du type préalablement déterminé.
@@ -23990,6 +23990,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Globe d'invulnérabilité
   AltName: '[Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)'
   Type: Abjuration
@@ -23999,7 +24000,6 @@ SubItems:
   Components: V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p359)
   Description: >+
     Une barrière immobile scintille légèrement dans un rayon de 3 mètres autour de vous et persiste pendant toute la durée du sort.
@@ -24132,6 +24132,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Glyphe de protection
   AltName: '[Glyph of Warding](srd_spells_glyph_of_warding.md)'
   Type: Abjuration
@@ -24141,7 +24142,6 @@ SubItems:
   Components: V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
   Duration: jusqu'à dissipation ou déclenchement
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p359)(SRD)
   Description: >+
     Lorsque vous lancez ce sort, vous inscrivez un glyphe capable de blesser autrui, soit sur une surface quelconque comme une table, le sol ou un mur, soit dans un objet que l'on peut refermer pour dissimuler l'inscription, comme un livre, un parchemin ou un coffre au trésor. Si vous optez pour une surface, le glyphe peut couvrir une zone de 3 mètres de diamètre au maximum.
@@ -24364,6 +24364,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Gourdin magique
   AltName: '[Shillelagh](srd_spells_shillelagh.md)'
   Type: Transmutation
@@ -24373,7 +24374,6 @@ SubItems:
   Components: V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
   Duration: 1 minute
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p360)(SRD)
   Description: >+
     La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous tenez. Pendant toute la durée du sort, vous pouvez utiliser votre caractéristique d'incantation au lieu de votre [Force](hd_abilities_strength.md) pour effectuer les jets d'attaque et de dégâts au corps-à-corps avec cette arme. Le dé de dégâts de l'arme devient un d8. L'arme devient magique si elle ne l'était pas déjà. Le sort se termine si vous le lancez de nouveau ou si vous lâchez votre arme.
@@ -24476,6 +24476,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Graisse
   AltName: '[Grease](srd_spells_grease.md)'
   Type: Invocation
@@ -24485,7 +24486,6 @@ SubItems:
   Components: V, S, M (de la couenne de porc ou du beurre)
   Duration: 1 minute
   Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p360)(SRD)
   Description: >+
     Une couche de graisse particulièrement glissante recouvre le sol dans une zone de 3 mètres de côté centrée sur un point situé à portée et le change en terrain difficile pour toute la durée du sort.
@@ -24603,6 +24603,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Grande foulée
   AltName: '[Longstrider](srd_spells_longstrider.md)'
   Type: Transmutation
@@ -24612,7 +24613,6 @@ SubItems:
   Components: V, S, M (une pincée de poussière)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p360)(SRD)
   Description: >+
     Vous touchez une créature dont la vitesse augmente de 3 mètres jusqu'à la fin du sort.
@@ -24730,6 +24730,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Guérison
   AltName: '[Heal](srd_spells_heal.md)'
   Type: Évocation
@@ -24739,7 +24740,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p360)(SRD)
   Description: >+
     Choisissez une créature située à portée et dans votre champ de vision. Une bouffée d'énergie positive la traverse et lui rend 70 points de vie. Ce sort annule aussi les états [aveuglé](hd_conditions_aveugle.md) et [assourdi](hd_conditions_assourdi.md), ainsi que toutes les maladies qui l'affectent. Ce sort n'a aucun effet sur les créatures artificielles et les morts-vivants.
@@ -24857,6 +24857,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Guérison de groupe
   AltName: '[Mass Heal](srd_spells_mass_heal.md)'
   Type: Évocation
@@ -24866,7 +24867,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un flot d'énergie curative émane de vous et enveloppe les créatures blessées qui vous entourent. Vous rendez jusqu'à 700 points de vie, divisés comme bon vous semble entre autant de créatures situées à portée et dans votre champ de vision que vous le souhaitez.
@@ -24984,6 +24984,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Harmonique miraculeuse
   Type: Évocation
   Level: 9
@@ -24992,7 +24993,6 @@ SubItems:
   Components: V, S, M (un verre en cristal d'une valeur de 500 po)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous effleurez le bord d'un verre, et le corps de vos alliés à portée et capables entendre le son produit se met à résonner avec l'énergie positive. Vous-même et chaque créature affectée récupérez 10 points de vie et annulez un niveau d'épuisement au début de chacun de vos tours.
@@ -25090,6 +25090,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Hâte
   AltName: '[Haste](srd_spells_haste.md)'
   Type: Transmutation
@@ -25099,7 +25100,6 @@ SubItems:
   Components: V, S, M (un copeau de racine de réglisse)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Choisissez une créature consentante située à portée et dans votre champ de vision. Jusqu'à la fin du sort, la cible voit sa vitesse doubler, bénéficie d'un bonus de +2 à la CA, a l'avantage lors des [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) et dispose d'une action de plus par tour. Cette action est uniquement réservée aux actions suivantes : attaquer (permet seulement une unique attaque), se précipiter, se désengager, se cacher ou utiliser un objet.
@@ -25217,6 +25217,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Héroïsme
   AltName: '[Heroism](srd_spells_heroism.md)'
   Type: Enchantement
@@ -25226,7 +25227,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à la fin du sort, elle est immunisée contre l'état [terrorisé](hd_conditions_terrorise.md) et, au début de chacun de ses tours, elle gagne un nombre de points de vie temporaires égal à votre modificateur de caractéristique d'incantation. Quand le sort se termine, la cible perd les éventuels points de vie temporaires restants issus de ce sort.
@@ -25344,6 +25344,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Identification
   AltName: '[Identify](srd_spells_identify.md)'
   Type: Divination
@@ -25353,7 +25354,6 @@ SubItems:
   Components: V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous choisissez un objet avec lequel vous devez rester en contact pendant toute l'incantation du sort. Si c'est un objet magique ou un objet imprégné de magie, vous apprenez immédiatement quelles sont ses propriétés et comment vous en servir. Vous savez aussi s'il faut s'harmoniser avec lui pour l'utiliser et combien de charges il possède, le cas échéant. Vous savez si des sorts affectent l'objet et quel est leur nom. Si l'objet a été créé grâce à un sort, vous apprenez quel sort lui a donné naissance.
@@ -25474,6 +25474,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Illusion mineure
   AltName: '[Minor Illusion](srd_spells_minor_illusion.md)'
   Type: Illusion
@@ -25483,7 +25484,6 @@ SubItems:
   Components: S, M (un morceau de toison)
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez à portée un son ou une image représentant un objet. L'illusion persiste pendant toute la durée du sort, et se dissipe si vous révoquez le sort par une action ou si vous lancez de nouveau ce sort.
@@ -25631,6 +25631,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Illusion programmée
   AltName: '[Programmed Illusion](srd_spells_programmed_illusion.md)'
   Type: Illusion
@@ -25640,7 +25641,6 @@ SubItems:
   Components: V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
   Duration: jusqu'à dissipation
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez une illusion représentant un objet, une créature ou un autre phénomène visible à portée. Elle s'active une fois les conditions spécifiques remplies ; en attendant, elle est imperceptible. L'illusion doit tenir dans un cube de 9 mètres d'arête. Vous décidez de son comportement et des sons qu'elle émet au moment où vous lancez le sort. Ce comportement programmé peut durer un maximum de 5 minutes.
@@ -25788,6 +25788,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Image majeure
   AltName: '[Major Image](srd_spells_major_image.md)'
   Type: Illusion
@@ -25797,7 +25798,6 @@ SubItems:
   Components: V, S, M (un morceau de toison)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez l'image d'un objet, d'une créature ou d'un phénomène visible pas plus grand qu'un cube de 6 mètres d'arête. L'image apparaît en un point situé à portée et dans votre champ de vision et persiste pendant toute la durée du sort. Elle a l'air absolument réelle et s'accompagne des sons, des odeurs et de la température appropriés pour la chose qu'elle représente. En revanche, elle ne dégage pas assez de chaleur ou de froid pour blesser quelqu'un, ne génère pas de son assez puissant pour provoquer des dégâts de tonnerre pour qu'une créature soit [assourdie](hd_conditions_assourdi.md), et n'émet pas une odeur assez puissante pour écoeurer une créature (comme le fait la puanteur du troglodyte).
@@ -25945,6 +25945,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Image miroir
   AltName: '[Mirror Image](srd_spells_mirror_image.md)'
   Type: Illusion
@@ -25954,7 +25955,6 @@ SubItems:
   Components: V, S
   Duration: 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Trois répliques illusoires de votre personne apparaissent dans votre emplacement. Jusqu'à la fin du sort, ces répliques se déplacent en même temps que vous et imitent toutes vos actions, changeant de position de manière à ce qu'il soit impossible de savoir quelles versions de vous sont des images et quelle version est réelle. Vous pouvez utiliser une action pour révoquer les répliques illusoires.
@@ -26147,6 +26147,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Image projetée
   AltName: '[Project Image](srd_spells_project_image.md)'
   Type: Illusion
@@ -26156,7 +26157,6 @@ SubItems:
   Components: V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
   Duration: concentration, jusqu'à 1 jour
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez un double illusoire de votre personne qui persiste pendant toute la durée du sort. Ce double peut apparaître à n'importe quel endroit à portée, peu importent les obstacles interposés, à condition que vous l'ayez déjà vu auparavant. D'un point de vue visuel et auditif, l'illusion vous est tout à fait semblable ; en revanche, elle est intangible. Si elle subit le moindre dégât, elle disparaît et le sort se termine.
@@ -26304,6 +26304,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Image silencieuse
   AltName: '[Silent Image](srd_spells_silent_image.md)'
   Type: Illusion
@@ -26313,7 +26314,6 @@ SubItems:
   Components: V, S, M (un morceau de toison)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez l'image d'un objet, d'une créature ou d'un phénomène visible tenant dans un cube de 4,50 mètres de côté. L'image apparaît en un point situé à portée et persiste pendant toute la durée du sort. L'image comporte seulement des composantes visuelles, elle ne s'accompagne pas d'odeur, de son, ni d'autre effet sensoriel.
@@ -26446,6 +26446,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Immobiliser un humanoïde
   AltName: '[Hold Person](srd_spells_hold_person.md)'
   Type: Enchantement
@@ -26455,7 +26456,6 @@ SubItems:
   Components: V, S, M (un petit morceau de fer bien droit)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), sans quoi il est [paralysé](hd_conditions_paralyse.md) pour toute la durée du sort. À la fin de chacun de ses tours, la cible a droit à un nouveau [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md). Si elle le réussit, le sort se termine.
@@ -26573,6 +26573,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Immobiliser un monstre
   AltName: '[Hold Monster](srd_spells_hold_monster.md)'
   Type: Enchantement
@@ -26582,7 +26583,6 @@ SubItems:
   Components: V, S, M (un petit morceau de fer bien droit)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Choisissez une créature située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), sans quoi elle est [paralysée](hd_conditions_paralyse.md) pour toute la durée du sort. Ce sort est sans effet sur les morts-vivants. À la fin de chacun de ses tours, la cible a droit à un nouveau [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md). Si elle le réussit, le sort se termine.
@@ -26715,6 +26715,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Injonction
   AltName: '[Command](srd_spells_command.md)'
   Type: Enchantement
@@ -26724,7 +26725,6 @@ SubItems:
   Components: V
   Duration: 1 round
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous lancez un ordre d'un mot à une créature située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), sans quoi elle exécute votre ordre à son prochain tour. Le sort reste sans effet si la cible est un mort-vivant, si elle ne comprend pas votre langue ou si votre ordre la met directement en danger.
@@ -26932,6 +26932,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Insecte géant
   AltName: '[Giant Insect](srd_spells_giant_insect.md)'
   Type: Transmutation
@@ -26941,7 +26942,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous transformez un maximum de dix mille-pattes, trois araignées, cinq guêpes ou un scorpion situés à portée en version géante de leur forme naturelle pendant toute la durée du sort. Un mille-pattes devient donc un mille-pattes géant, une araignée une araignée géante, une guêpe une guêpe géante et un scorpion un scorpion géant.
@@ -27104,6 +27104,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Instrument fantomatique
   Type: Illusion
   Level: 1
@@ -27112,7 +27113,6 @@ SubItems:
   Components: V, S, M (un archet et un morceau d'os)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous créez une manifestation illusoire d'un instrument de musique fantomatique près d'une créature de votre choix à portée. Cet instrument fantomatique est visible uniquement de cette créature et la suit dans tous ses déplacements, même si elle n'est plus visible ou plus à portée du sort. L'instrument produit une musique uniquement audible par la cible, qui provoque chez elle une peine et une douleur effroyables.
@@ -27225,6 +27225,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Interdiction
   AltName: '[Forbiddance](srd_spells_forbiddance.md)'
   Type: Abjuration
@@ -27234,7 +27235,6 @@ SubItems:
   Components: V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)
   Duration: 1 jour
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez un sceau empêchant les déplacements magiques dans une zone de 60 mètres de côté au sol et d'une hauteur de 9 mètres. Pendant toute la durée du sort, les créatures ne peuvent pas se téléporter dans la zone ni y entrer via un portail comme celui issu du sort du même nom.
@@ -27415,6 +27415,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Inversion de la gravité
   AltName: '[Reverse Gravity](srd_spells_reverse_gravity.md)'
   Type: Transmutation
@@ -27424,7 +27425,6 @@ SubItems:
   Components: V, S, M (de la magnétite et de la limaille de fer)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort inverse la gravité dans un cylindre de 15 mètres de rayon et de 30 mètres de haut centré sur un point de votre choix à portée. Toutes les créatures et tous les objets qui ne sont pas ancrés au sol, d'une manière ou d'une autre, tombent vers le haut jusqu'à atteindre le sommet de la zone affectée par le sort. Une créature peut faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md) pour s'accrocher à un objet fixe situé à sa portée, afin d'éviter la chute.
@@ -27557,6 +27557,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Invisibilité
   AltName: '[Invisibility](srd_spells_invisibility.md)'
   Type: Illusion
@@ -27566,7 +27567,6 @@ SubItems:
   Components: V, S, M (un cil enrobé de gomme arabique)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     La créature que vous touchez devient [invisible](hd_conditions_invisible.md) jusqu'à la fin du sort. Tout ce qu'elle porte et transporte reste [invisible](hd_conditions_invisible.md) tant qu'elle le garde sur elle. Le sort se termine si la cible attaque ou lance un sort.
@@ -27684,6 +27684,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Invisibilité supérieure
   AltName: '[Greater Invisibility](srd_spells_greater_invisibility.md)'
   Type: Illusion
@@ -27693,7 +27694,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous devenez [invisible](hd_conditions_invisible.md) jusqu'à ce que le sort se termine, ou vous pouvez accorder cet effet à une créature consentante que vous touchez. Tout ce que porte la cible devient [invisible](hd_conditions_invisible.md) tant que les objets restent sur sa personne.
@@ -27796,6 +27796,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Invoquer des animaux
   AltName: '[Conjure Animals](srd_spells_conjure_animals.md)'
   Type: Invocation
@@ -27805,7 +27806,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous invoquez des esprits féeriques qui prennent la forme d'animaux et apparaissent dans des espaces inoccupés situés à portée et dans votre champ de vision.
@@ -28043,6 +28043,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Invoquer des élémentaires mineurs
   AltName: '[Conjure Minor Elementals](srd_spells_conjure_minor_elementals.md)'
   Type: Invocation
@@ -28052,7 +28053,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous invoquez des élémentaires qui apparaissent dans des espaces inoccupés situés à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
@@ -28275,6 +28275,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Invoquer des êtres des bois
   AltName: '[Conjure Woodland Beings](srd_spells_conjure_woodland_beings.md)'
   Type: Invocation
@@ -28284,7 +28285,6 @@ SubItems:
   Components: V, S, M (une baie de houx par créature invoquée)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous invoquez des créatures féeriques qui apparaissent dans des cases inoccupées situées à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
@@ -28507,6 +28507,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Invoquer un céleste
   AltName: '[Conjure Celestial](srd_spells_conjure_celestial.md)'
   Type: Invocation
@@ -28516,7 +28517,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous invoquez un céleste doté d'un indice de dangerosité inférieur ou égal à 4. Il apparaît dans une case inoccupée située à portée et dans votre champ de vision.
@@ -28694,6 +28694,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Invoquer un élémentaire
   AltName: '[Conjure Elemental](srd_spells_conjure_elemental.md)'
   Type: Invocation
@@ -28703,7 +28704,6 @@ SubItems:
   Components: V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous invoquez un serviteur élémentaire. Choisissez une zone d'air, de terre, de feu ou d'eau occupant un cube de 3 mètres d'arête situé à portée. Un élémentaire doté d'un indice de dangerosité inférieur ou égal à 5 et adapté à la zone que vous avez choisie apparaît dans un espace inoccupé situé dans un rayon de 3 mètres autour d'elle. Par exemple, un élémentaire du feu jaillit d'un brasier tandis qu'un élémentaire de la terre sort du sol.
@@ -28881,6 +28881,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Invoquer une fée
   AltName: '[Conjure Fey](srd_spells_conjure_fey.md)'
   Type: Invocation
@@ -28890,7 +28891,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous invoquez une créature féerique, ou un esprit féerique qui revêt l'apparence d'une bête, dotée d'un indice de dangerosité inférieur ou égal à 6. La créature apparaît dans une case inoccupée située à portée et dans votre champ de vision. Elle disparaît dès qu'elle tombe à 0 point de vie ou quand le sort se termine.
@@ -29053,6 +29053,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Jeter une malédiction
   AltName: '[Bestow curse](srd_spells_bestow_curse.md)'
   Type: Nécromancie
@@ -29062,7 +29063,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature qui doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), sans quoi elle est maudite pour toute la durée du sort. À vous de choisir la nature de cette malédiction parmi les options suivantes au moment de l'incantation.
@@ -29270,6 +29270,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Jugement dernier
   Type: Nécromancie
   Level: 5
@@ -29278,7 +29279,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de votre choix à portée. Toute créature située dans la sphère doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md) ou subir 4d8 points de dégâts radiants. Si la créature est une créature céleste, un fiélon ou un mort-vivant les dégâts sont doublées et la créature est [aveuglée](hd_conditions_aveugle.md) pour 1 round. En cas de réussite, la cible subit seulement la moitié des dégâts et n'est pas [aveuglée](hd_conditions_aveugle.md).
@@ -29361,6 +29361,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Labyrinthe
   AltName: '[Maze](srd_spells_maze.md)'
   Type: Invocation
@@ -29370,7 +29371,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous bannissez une créature située à portée et dans votre champ de vision dans un demi-plan labyrinthique.
@@ -29533,6 +29533,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lame de feu
   AltName: '[Flame Blade](srd_spells_flame_blade.md)'
   Type: Évocation
@@ -29542,7 +29543,6 @@ SubItems:
   Components: V, S, M (feuille de sumac)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous invoquez une lame enflammée dans votre main libre. Au niveau de la taille et de la forme, elle ressemble à un cimeterre et persiste pendant toute la durée du sort. Si vous la lâchez, elle disparaît, mais vous pouvez l'invoquer de nouveau par une action bonus.
@@ -29690,6 +29690,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lance du juste
   Type: Transmutation
   Level: 3
@@ -29698,7 +29699,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     La lumière ambiante se concentre dans votre main et prend la forme d'un rayon en forme de lance. Vous devez réussir une attaque au corps-à-corps pour frapper la cible. La lance de lumière inflige 3d8 dégâts radiants.
@@ -29796,6 +29796,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Langues
   AltName: '[Tongues](srd_spells_tongues.md)'
   Type: Divination
@@ -29805,7 +29806,6 @@ SubItems:
   Components: V, M (un modèle réduit de ziggourat en argile)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort permet à la créature que vous touchez de comprendre toutes les langues parlées qu'elle entend.
@@ -29923,6 +29923,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Légende
   AltName: '[Legend Lore](srd_spells_legend_lore.md)'
   Type: Divination
@@ -29932,7 +29933,6 @@ SubItems:
   Components: V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Nommez ou décrivez une personne, un lieu ou un objet. Le sort porte à votre connaissance un bref résumé des connaissances essentielles se rapportant à la chose nommée. Ces connaissances peuvent se présenter sous la forme d'histoires actuelles, de contes oubliés ou même d'un savoir secret qui n'a jamais été révélé.
@@ -30080,6 +30080,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Léger comme une plume
   AltName: '[Feather Fall](srd_spells_feather_fall.md)'
   Type: Transmutation
@@ -30089,7 +30090,6 @@ SubItems:
   Components: V, M (une petite plume ou un peu de duvet)
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de chute de chacune passe à 18 mètres par round jusqu'à la fin du sort. Si une créature atterrit avant la fin du sort, elle ne subit pas de dégât de chute et se reçoit sur ses pieds, le sort se terminant alors pour elle.
@@ -30192,6 +30192,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lenteur
   AltName: '[Slow](srd_spells_slow.md)'
   Type: Transmutation
@@ -30201,7 +30202,6 @@ SubItems:
   Components: V, S, M (une goutte de mélasse)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous modifiez le cours du temps autour d'un maximum de six créatures de votre choix situées dans un cube de 12 mètres d'arête situé à portée. Chaque cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), sans quoi le sort l'affecte pendant toute sa durée.
@@ -30364,6 +30364,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lever une malédiction
   AltName: '[Remove Curse](srd_spells_remove_curse.md)'
   Type: Abjuration
@@ -30373,7 +30374,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     À votre contact, toutes les malédictions qui affectent une créature ou un objet disparaissent. Si l'objet est un objet magique maudit, la malédiction persiste, mais le sort rompt l'harmonisation entre l'objet et son détenteur, ce qui permet à ce dernier de l'ôter ou de s'en débarrasser.
@@ -30476,6 +30476,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lévitation
   AltName: '[Levitate](srd_spells_levitate.md)'
   Type: Transmutation
@@ -30485,7 +30486,6 @@ SubItems:
   Components: V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une créature ou un objet situé à portée et dans votre champ de vision s'élève à la verticale à une hauteur de 6 mètres et reste suspendu là pendant toute la durée du sort. Ce dernier peut soulever une cible d'au maximum 250 kilogrammes. Si la créature visée n'est pas consentante, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) pour éviter d'être affectée par le sort.
@@ -30633,6 +30633,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Liane chasseresse
   Type: Invocation
   Level: 4
@@ -30641,7 +30642,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous invoquez une liane mobile dotée de sarments flexibles et vous la contrôlez pendant toute la durée du sort. Sa vitesse de déplacement est de 1,50 mètre et son allonge est de 3 mètres. La liane se détend subitement lorsque qu'un adversaire passe à sa portée.
@@ -30754,6 +30754,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Liberté de mouvement
   AltName: '[Freedom of Movement](srd_spells_freedom_of_movement.md)'
   Type: Abjuration
@@ -30763,7 +30764,6 @@ SubItems:
   Components: V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature consentante. Pendant toute la durée du sort, ses déplacements ne sont pas affectés par un terrain difficile, tandis que les sorts et autres effets magiques ne peuvent ni réduire sa vitesse, ni provoquer l'état [paralysé](hd_conditions_paralyse.md) ou [entravé](hd_conditions_entrave.md).
@@ -30881,6 +30881,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lien de protection
   AltName: '[Warding Bond](srd_spells_warding_bond.md)'
   Type: Abjuration
@@ -30890,7 +30891,6 @@ SubItems:
   Components: V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
   Duration: 1 heure
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort protège une créature consentante et crée un lien mystique entre vous et votre cible jusqu'à la fin du sort.
@@ -31023,6 +31023,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lien télépathique
   AltName: '[Telepathic Bond](srd_spells_telepathic_bond.md)'
   Type: Divination
@@ -31032,7 +31033,6 @@ SubItems:
   Components: V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous forgez un lien télépathique entre un maximum de huit créatures consentantes situées à portée. Elles sont alors psychiquement liées les unes aux autres pendant la durée du sort. Ce sort n'affecte pas les créatures dotées d'une [Intelligence](hd_abilities_intelligence.md) de 2 ou moins.
@@ -31168,6 +31168,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Localiser des animaux ou des plantes
   AltName: '[Locate Animals or Plants](srd_spells_locate_animals_or_plants.md)'
   Type: Divination
@@ -31177,7 +31178,6 @@ SubItems:
   Components: V, S, M (des poils de chien de chasse)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous concentrez sur la voix de la nature qui vous entoure et découvrez dans quelle direction et à quelle distance se trouve le spécimen le plus proche, s'il y en a, dans un rayon de 7,5 kilomètres.
@@ -31283,6 +31283,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Localiser un objet
   AltName: '[Locate Object](srd_spells_locate_object.md)'
   Type: Divination
@@ -31292,7 +31293,6 @@ SubItems:
   Components: V, S, M (une branche fourchue)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Décrivez ou nommez un objet qui vous est familier.
@@ -31440,6 +31440,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Localiser une créature
   AltName: '[Locate Creature](srd_spells_locate_creature.md)'
   Type: Divination
@@ -31449,7 +31450,6 @@ SubItems:
   Components: V, S, M (des poils de chien de chasse)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Décrivez ou nommez une créature qui vous est familière.
@@ -31597,6 +31597,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lueur d'espoir
   AltName: '[Beacon of Hope](srd_spells_beacon_of_hope.md)'
   Type: Abjuration
@@ -31606,7 +31607,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Ce sort offre espoir et robustesse. Choisissez autant de créatures consentantes à portée que vous le désirez.
@@ -31724,6 +31724,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lueurs féeriques
   AltName: '[Faerie Fire](srd_spells_faerie_fire.md)'
   Type: Évocation
@@ -31733,7 +31734,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Tous les objets contenus dans un cube de 6 mètres d'arête situé à portée sont auréolés d'une lumière bleue, verte ou violette (à vous de choisir). Les créatures qui se trouvent dans la zone au moment de l'incantation sont aussi entourées de lumière, à moins de réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). Pendant toute la durée du sort, les créatures et les objets affectés émettent une faible luminosité dans un rayon de 3 mètres.
@@ -31851,6 +31851,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lumière
   AltName: '[Light](srd_spells_light.md)'
   Type: Évocation
@@ -31860,7 +31861,6 @@ SubItems:
   Components: V, M (une luciole ou de la mousse phosphorescente)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez un objet qui ne fait pas plus de 3 mètres dans chaque dimension. Jusqu'à la fin du sort, il émet une vive lumière dans un rayon de 6 mètres et une faible lumière dans un rayon additionnel de 6 mètres.
@@ -32008,6 +32008,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lumière du jour
   AltName: '[Daylight](srd_spells_daylight.md)'
   Type: Évocation
@@ -32017,7 +32018,6 @@ SubItems:
   Components: V, S
   Duration: 1 heure
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une sphère de lumière de 18 mètres de rayon s'étend depuis un point de votre choix situé à portée. Elle émet une lumière vive dans ce rayon et une lumière faible dans un rayon additionnel de 18 mètres.
@@ -32150,6 +32150,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Lumières dansantes
   AltName: '[Dancing Lights](srd_spells_dancing_lights.md)'
   Type: Évocation
@@ -32159,7 +32160,6 @@ SubItems:
   Components: V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez jusqu'à quatre lumières de la taille d'une torche qui apparaissent à portée. Elles ressemblent à des lanternes, des torches ou des orbes luisants qui flottent dans les airs pendant toute la durée du sort.
@@ -32322,6 +32322,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Main du mage
   AltName: '[Mage Hand](srd_spells_mage_hand.md)'
   Type: Invocation
@@ -32331,7 +32332,6 @@ SubItems:
   Components: V, S
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une main spectrale flottante apparaît à portée, en un point de votre choix. Elle persiste pendant toute la durée du sort ou jusqu'à ce que vous révoquiez le sort par une action. La main disparaît si elle s'éloigne à plus de 9 mètres de vous ou si vous relancez le sort.
@@ -32464,6 +32464,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Main magique
   AltName: '[Arcane Hand](srd_spells_arcane_hand.md)'
   Type: Évocation
@@ -32473,7 +32474,6 @@ SubItems:
   Components: V, S, M (une coquille d'oeuf et un gant en peau de serpent)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous créez une main de force luisante et translucide, de taille G, dans un espace inoccupé situé à portée et dans votre champ de vision. La main existe pendant toute la durée du sort, se déplace sur votre ordre et imite les mouvements de votre propre main.
@@ -32711,6 +32711,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mains brûlantes
   AltName: '[Burning Hands](srd_spells_burning_hands.md)'
   Type: Évocation
@@ -32720,7 +32721,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Alors que vous vous tenez les doigts écartés en éventail et les pouces l'un contre l'autre, une mince nappe de feu s'étend depuis vos mains tendues.
@@ -32868,6 +32868,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Manoir somptueux
   AltName: '[Magnificent Mansion](srd_spells_magnificent_mansion.md)'
   Type: Invocation
@@ -32877,7 +32878,6 @@ SubItems:
   Components: V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous invoquez une demeure extraplanaire à portée qui persiste pendant toute la durée du sort. À vous de choisir où se situe sa seule entrée. Cette dernière scintille légèrement et mesure 1,50 mètre de large pour 3 mètres de haut. Vous et toutes les créatures que vous désignez lors de l'incantation êtes libres d'entrer et de sortir de cette demeure extraplanaire, tant que son portail reste ouvert. Vous pouvez l'ouvrir ou le fermer si vous vous tenez à 9 mètres ou moins de lui. Quand le portail est fermé, il est [invisible](hd_conditions_invisible.md).
@@ -33070,6 +33070,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Manteau de givre
   Type: Abjuration
   Level: 1
@@ -33078,7 +33079,6 @@ SubItems:
   Components: V, S, M (un peu d'eau)
   Duration: 8 heures
   Classes: '[Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistance aux dégâts contre la prochaine attaque réussie contre vous, tandis que la créature qui vous a attaqué subit la moitié des dégâts de son attaque sous forme de dégâts de froid. Ensuite, le sort cesse de faire effet.
@@ -33176,6 +33176,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Marche sur l'eau
   AltName: '[Water Walk](srd_spells_water_walk.md)'
   Type: Transmutation
@@ -33185,7 +33186,6 @@ SubItems:
   Components: V, S, M (un bout de liège)
   Duration: 1 heure
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Ce sort permet de se déplacer sur n'importe quelle surface liquide (comme de l'eau, de l'acide, de la boue, de la neige, des sables mouvants ou de la lave) comme s'il s'agissait d'un sol ferme et inoffensif (ceci dit, les créatures qui marchent sur la lave subissent tout de même les dégâts liés à la chaleur dégagée). Vous pouvez accorder cette capacité pendant toute la durée du sort à un maximum de dix créatures consentantes situées à portée et dans votre champ de vision.
@@ -33306,6 +33306,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Marche sur le vent
   AltName: '[Wind Walk](srd_spells_wind_walk.md)'
   Type: Transmutation
@@ -33315,7 +33316,6 @@ SubItems:
   Components: V, S, M (du feu et de l'eau bénite)
   Duration: 8 heures
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous et un maximum de dix créatures consentantes, situées à portée et dans votre champ de vision, prenez une forme gazeuse pendant toute la durée du sort et ressemblez à des volutes de nuages. Sous cette forme, une créature affectée a une vitesse de vol de 90 mètres et une résistance aux dégâts des armes non magiques. Elle est limitée dans ses actions : elle peut juste se précipiter ou reprendre sa forme normale. Il lui faut 1 minute pour reprendre sa forme normale et, pendant toute cette période, elle est [neutralisée](hd_conditions_neutralise.md) et incapable de bouger. Elle peut de nouveau se muer en nuage tant que le sort n'est pas terminé, cette nouvelle transformation lui demandant aussi 1 minute.
@@ -33433,6 +33433,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Marque du chasseur
   AltName: "[Hunter's Mark](srd_spells_hunters_mark.md)"
   Type: Divination
@@ -33442,7 +33443,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous choisissez une créature située dans votre champ de vision et à portée et lui apposez une marque mystique la désignant comme votre proie. Jusqu'à la fin du sort, vous lui infligez 1d6 dégâts supplémentaires à chaque fois que vous réussissez à lui infliger des dégâts avec une arme et vous avez l'avantage sur les éventuels tests de [Sagesse (Perception)](hd_abilities_wisdom_perception.md) ou [Sagesse (Survie)](hd_abilities_wisdom_survie.md) que vous faites pour la retrouver. Si la cible tombe à 0 point de vie avant que ce sort se termine, vous pouvez utiliser une action bonus lors d'un tour ultérieur pour marquer une nouvelle créature.
@@ -33560,6 +33560,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mauvais oeil
   AltName: '[Eyebite](srd_spells_eyebite.md)'
   Type: Nécromancie
@@ -33569,7 +33570,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un pouvoir terrifiant. Une créature de votre choix, située dans votre champ de vision et dans un rayon de 18 mètres doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) ou se voir affectée par l'un des effets suivants, choisi par vos soins, pendant toute la durée du sort. À chacun de vos tours jusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour viser une autre créature, mais vous ne pouvez pas reprendre pour cible une créature ayant déjà réussi un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) contre l'incantation de mauvais oeil en cours.
@@ -33717,6 +33717,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Message
   AltName: '[Message](srd_spells_message.md)'
   Type: Transmutation
@@ -33726,7 +33727,6 @@ SubItems:
   Components: V, S, M (un petit bout de fil de cuivre)
   Duration: 1 round
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous pointez du doigt une créature à portée et murmurez un message. La cible (et elle seule) l'entend et peut répondre dans un murmure que vous êtes le seul à entendre.
@@ -33844,6 +33844,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Messager animal
   AltName: '[Animal Messenger](srd_spells_animal_messenger.md)'
   Type: Enchantement
@@ -33853,7 +33854,6 @@ SubItems:
   Components: V, S, M (un peu de nourriture)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Grâce à ce sort, vous chargez un animal de délivrer un message pour vous. Choisissez une bête de taille TP située à portée et dans votre champ de vision, comme un écureuil, un geai ou une chauve-souris. Vous lui précisez l'endroit où se rendre (où vous devez vous être déjà rendu vous-même auparavant) et donnez une description générale du destinataire, comme « un homme ou une femme vêtus de l'uniforme de la garde de la ville » ou « un nain roux avec un chapeau pointu ». Vous prononcez ensuite votre message, de vingt-cinq mots au maximum.
@@ -34019,6 +34019,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Métamorphose
   AltName: '[Polymorph](srd_spells_polymorph.md)'
   Type: Transmutation
@@ -34028,7 +34029,6 @@ SubItems:
   Components: V, S, M (un cocon de chenille)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort change la forme d'une créature située à portée et dans votre champ de vision. Une créature non consentante doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) pour éviter cet effet. Le sort n'a aucun effet sur un métamorphe ou une créature à 0 point de vie.
@@ -34191,6 +34191,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Métamorphose suprême
   AltName: '[True Polymorph](srd_spells_true_polymorph.md)'
   Type: Transmutation
@@ -34200,7 +34201,6 @@ SubItems:
   Components: V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Choisissez une créature ou un objet non magique situés à portée et dans votre champ de vision. Vous transformez la créature en une autre créature, la créature en un objet ou l'objet en une créature (cet objet ne doit pas être porté ni transporté par autrui). La transformation persiste pendant toute la durée du sort ou jusqu'à ce que la cible tombe à 0 point de vie ou meure. Si vous vous concentrez sur ce sort pendant toute sa durée, la transformation persiste jusqu'à dissipation.
@@ -34498,6 +34498,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mirage
   AltName: '[Mirage Arcane](srd_spells_mirage_arcane.md)'
   Type: Illusion
@@ -34507,7 +34508,6 @@ SubItems:
   Components: V, S
   Duration: 10 jours
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous donnez à un terrain d'au maximum 2,5 kilomètres carrés la même apparence visuelle, sonore, olfactive et générale qu'un autre type de terrain. En revanche, sa forme globale ne change pas. Vous pouvez maquiller un champ ou une route pour lui donner l'air d'un marais, d'une colline, d'une crevasse ou d'un autre terrain difficile ou impraticable. Vous pouvez faire passer une mare pour une prairie herbeuse, un précipice pour une pente douce ou un goulet rocailleux pour une route aussi large que lisse. Vous pouvez aussi modifier l'apparence des structures ou en ajouter là où n'y en a pas. En revanche, le sort est incapable de déguiser, dissimuler ou ajouter des créatures.
@@ -34640,6 +34640,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Modification de mémoire
   AltName: '[Modify Memory](srd_spells_modify_memory.md)'
   Type: Enchantement
@@ -34649,7 +34650,6 @@ SubItems:
   Components: V, S
   Duration: "concentration, jusqu'à 1 minute "
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous tentez de remodeler les souvenirs d'autrui. Une créature située dans votre champ de vision doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md). Si vous combattez cette créature, elle a l'avantage lors du jet. Si elle échoue, elle est [charmée](hd_conditions_charme.md) par vous pendant toute la durée du sort. Elle est alors [neutralisée](hd_conditions_neutralise.md) et n'a plus conscience de ce qui l'entoure, mais elle vous entend toujours. Le sort se termine si elle subit le moindre dégât ou si elle est la cible d'un autre sort, auquel cas ses souvenirs restent tous intacts.
@@ -34827,6 +34827,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Modifier son apparence
   AltName: '[Alter Self](srd_spells_alter_self.md)'
   Type: Transmutation
@@ -34836,7 +34837,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une des options suivantes, dont les effets dureront aussi longtemps que le sort. Tant qu'il est actif, vous pouvez utiliser une action pour mettre un terme à une option afin de bénéficier d'une autre.
@@ -34984,6 +34984,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Monture fantôme
   AltName: '[Phantom Steed](srd_spells_phantom_steed.md)'
   Type: Illusion
@@ -34993,7 +34994,6 @@ SubItems:
   Components: V, S
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une créature équine de taille G quasi réelle apparaît dans un emplacement au sol de votre choix situé à portée.
@@ -35129,6 +35129,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Moquerie cruelle
   AltName: '[Vicious Mockery](srd_spells_vicious_mockery.md)'
   Type: Enchantement
@@ -35138,7 +35139,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous lancez une bordée d'insultes empreintes d'un subtil enchantement à une créature située à portée et dans votre champ de vision. Tant qu'elle vous entend (elle n'a pas besoin de vous comprendre), elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), sans quoi elle subit 1d4 dégâts psychiques et subit un désavantage sur le prochain jet d'attaque qu'elle effectue avant la fin de son prochain tour.
@@ -35256,6 +35256,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mot de guérison
   AltName: '[Healing Word](srd_spells_healing_word.md)'
   Type: Évocation
@@ -35265,7 +35266,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une créature de votre choix située à portée et dans votre champ de vision récupère un nombre de points de vie égal à 1d4 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les créatures artificielles et les morts-vivants.
@@ -35383,6 +35383,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mot de guérison de groupe
   AltName: '[Mass Healing Word](srd_spells_mass_healing_word.md)'
   Type: Évocation
@@ -35392,7 +35393,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous prononcez des paroles curatives qui rendent un nombre de points de vie égal à 1d4 + votre modificateur de caractéristique d'incantation à un maximum de six créatures de votre choix situées à portée et dans votre champ de vision. Ce sort reste sans effet sur les morts-vivants et les créatures artificielles.
@@ -35510,6 +35510,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mot de pouvoir étourdissant
   AltName: '[Power Word Stun](srd_spells_power_word_stun.md)'
   Type: Enchantement
@@ -35519,7 +35520,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous prononcez un mot de pouvoir capable de submerger l'esprit d'une créature située à portée et dans votre champ de vision. Elle en est abasourdie. Si elle possède 150 points de vie ou moins, elle est [étourdie](hd_conditions_etourdi.md), sinon le sort est sans effet.
@@ -35637,6 +35637,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mot de pouvoir mortel
   AltName: '[Power Word Kill](srd_spells_power_word_kill.md)'
   Type: Enchantement
@@ -35646,7 +35647,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous prononcez un mot de pouvoir capable d'obliger une créature située à portée et dans votre champ de vision à mourir instantanément. Si la créature choisie a 100 points de vie ou moins, elle meurt, sinon le sort n'a aucun effet.
@@ -35749,6 +35749,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mot de retour
   AltName: '[Word of Recall](srd_spells_word_of_recall.md)'
   Type: Invocation
@@ -35758,7 +35759,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous et un maximum de cinq créatures consentantes situées dans un rayon de 1,50 mètre autour de vous vous téléportez immédiatement dans un sanctuaire précédemment choisi. Vous – et les créatures qui se téléportent éventuellement avec vous – apparaissez dans l'emplacement inoccupé le plus proche de l'endroit que vous avez désigné lorsque vous avez préparé votre sanctuaire (voir plus bas). Si vous lancez ce sort sans avoir préparé un sanctuaire au préalable, il n'a aucun effet.
@@ -35876,6 +35876,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Motif hypnotique
   AltName: '[Hypnotic Pattern](srd_spells_hypnotic_pattern.md)'
   Type: Illusion
@@ -35885,7 +35886,6 @@ SubItems:
   Components: S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous tissez dans les airs un motif aux couleurs mouvantes dans un cube de 9 mètres d'arête situé à portée.
@@ -36018,6 +36018,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mur d'épines
   AltName: '[Wall of Thorns](srd_spells_wall_of_thorns.md)'
   Type: Invocation
@@ -36027,7 +36028,6 @@ SubItems:
   Components: V, S, M (une poignée d'épines)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous créez un mur fait de buissons souples et robustes, enchevêtrés et hérissés d'épines acérées. Il apparaît à portée sur une surface solide et persiste pendant toute la durée du sort. Vous pouvez créer un mur de 18 mètres de long, 3 mètres de haut et 1,50 mètre d'épaisseur, ou le disposer en un cercle de 6 mètres de diamètre pour une hauteur maximum de 6 mètres et une épaisseur de 1,50 mètre. Le mur bloque le champ de vision.
@@ -36190,6 +36190,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mur de feu
   AltName: '[Wall of Fire](srd_spells_wall_of_fire.md)'
   Type: Évocation
@@ -36199,7 +36200,6 @@ SubItems:
   Components: V, S, M (un éclat de phosphore)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez un mur de feu sur une surface solide située à portée. Il peut faire un maximum de 18 mètres de long, 6 mètres de haut et 30 centimètres d'épaisseur, ou prendre une forme circulaire de 6 mètres de diamètre pour 6 mètres de haut et 30 centimètres d'épaisseur. Le mur est opaque et persiste toute la durée du sort.
@@ -36362,6 +36362,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mur de force
   AltName: '[Wall of Force](srd_spells_wall_of_force.md)'
   Type: Évocation
@@ -36371,7 +36372,6 @@ SubItems:
   Components: V, S, M (une pincée de poudre de gemme translucide)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un mur de force [invisible](hd_conditions_invisible.md) se matérialise soudain en un point de votre choix situé à portée. Il s'oriente comme bon vous semble, comme une barrière horizontale, verticale ou inclinée. Il peut flotter librement ou reposer sur une surface solide. Vous pouvez lui donner une forme de dôme hémisphérique ou de sphère d'un rayon maximal de 3 mètres ou en faire une surface plane composée de dix panneaux de 3 mètres sur 3. Chaque panneau doit être contigu à un autre. Quelle que soit sa forme, le mur fait 0,5 centimètre d'épaisseur et persiste pendant toute la durée du sort. Si le mur passe par l'emplacement d'une créature lorsqu'il apparaît, il l'expulse d'un côté ou de l'autre (à vous de choisir).
@@ -36489,6 +36489,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mur de glace
   AltName: '[Wall of Ice](srd_spells_wall_of_ice.md)'
   Type: Évocation
@@ -36498,7 +36499,6 @@ SubItems:
   Components: V, S, M (un éclat de quartz)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez un mur de glace sur une surface solide à portée. Vous pouvez lui donner une forme de dôme hémisphérique ou de sphère d'un rayon maximal de 3 mètres ou en faire une surface plane composée de dix panneaux de 3 mètres d'arête. Chaque panneau doit être contigu à un autre. Quelle que soit sa forme, le mur fait 30 centimètres d'épaisseur et persiste pendant toute la durée du sort. Si le mur passe par l'emplacement d'une créature lorsqu'il apparaît, il l'expulse d'un côté ou de l'autre et elle doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). Si elle échoue, elle subit 10d6 dégâts de froid, la moitié seulement si elle réussit.
@@ -36646,6 +36646,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mur de pierre
   AltName: '[Wall of Stone](srd_spells_wall_of_stone.md)'
   Type: Évocation
@@ -36655,7 +36656,6 @@ SubItems:
   Components: V, S, M (un petit bloc de granite)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez un mur de pierre non magique qui se matérialise en un point de votre choix à portée. Il fait 15 centimètres d'épaisseur et se compose de dix panneaux de 3 mètres sur 3. Chaque panneau doit être contigu à un autre. Sinon, vous pouvez opter pour des panneaux de 3 mètres sur 6 de seulement 7,5 centimètres d'épaisseur.
@@ -36833,6 +36833,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mur de vent
   AltName: '[Wind Wall](srd_spells_wind_wall.md)'
   Type: Évocation
@@ -36842,7 +36843,6 @@ SubItems:
   Components: V, S, M (un petit éventail et une plume exotique)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un mur de vent fort se lève soudain depuis le sol en un point de votre choix à portée. Vous pouvez lui faire couvrir jusqu'à 15 mètres de long, 4,50 mètres de haut et 30 centimètres d'épaisseur. Vous pouvez lui donner la forme que vous voulez tant qu'il dessine un chemin continu au sol. Ce mur persiste pendant toute la durée du sort.
@@ -36975,6 +36975,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Mur prismatique
   AltName: '[Prismatic Wall](srd_spells_prismatic_wall.md)'
   Type: Abjuration
@@ -36984,7 +36985,6 @@ SubItems:
   Components: V, S
   Duration: 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un plan de lumière scintillante multicolore forme un mur opaque vertical centré sur un point situé à portée et dans votre champ de vision. Ce mur fait au maximum 27 mètres de long, 9 mètres de haut et 2,5 centimètres d'épaisseur. Sinon, vous pouvez façonner le mur de manière à ce qu'il forme une sphère d'au maximum 9 mètres de diamètre centrée sur un point de votre choix situé à portée. Le mur reste en place pendant toute la durée du sort. Si vous positionnez le mur de manière à ce qu'il passe par un emplacement occupé par une créature, le sort échoue : votre action et l'emplacement du sort sont gaspillés.
@@ -37282,6 +37282,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Nappe de brouillard
   AltName: '[Fog Cloud](srd_spells_fog_cloud.md)'
   Type: Invocation
@@ -37291,7 +37292,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un point à portée. La sphère s'étend en contournant les angles et, dans la zone qu'elle occupe, la visibilité est nulle. Le brouillard persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent modéré ou plus violent (soufflant au moins à 15 kilomètres par heure) le disperse.
@@ -37409,6 +37409,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Nimbe de bienfaisance
   Type: Abjuration
   Level: 4
@@ -37417,7 +37418,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du sort. Au moment de l'incantation, les créatures vivantes situées à 3 mètres ou moins de vous récupèrent autant de points de vie que leur bonus de maîtrise, sans dépasser leur maximum. De plus, toutes bénéficient d'une résistance aux dégâts nécrotiques pour toute la durée du sort. Les morts-vivants présents dans cette zone au début de leur tour subissent 1d6 points de dégâts radiants.
@@ -37515,6 +37515,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Non-détection
   AltName: '[Nondetection](srd_spells_nondetection.md)'
   Type: Abjuration
@@ -37524,7 +37525,6 @@ SubItems:
   Components: V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)
   Duration: 8 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Pour toute la durée du sort, vous dissimulez la cible que vous touchez aux yeux de la magie de divination.
@@ -37642,6 +37642,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Nuage incendiaire
   AltName: '[Incendiary Cloud](srd_spells_incendiary_cloud.md)'
   Type: Invocation
@@ -37651,7 +37652,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un nuage de fumée ondoyant constellé de braises rougeoyantes apparaît sous la forme d'une sphère de 6 mètres de rayon centrée sur un point à portée. Le nuage se répand en contournant les angles si nécessaire et la visibilité est nulle à l'intérieur. Le nuage persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent fort ou modéré (au moins 15 km/h) le disperse.
@@ -37799,6 +37799,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Nuage mortel
   AltName: '[Cloudkill](srd_spells_cloudkill.md)'
   Type: Invocation
@@ -37808,7 +37809,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez une sphère de 6 mètres de rayon faite d'un brouillard verdâtre toxique. Il est centré sur un point de votre choix situé à portée. Le brouillard s'étend en contournant les coins au besoin. Il persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent fort le disperse et mette un terme au sort. La visibilité est nulle dans sa zone d'effet.
@@ -37971,6 +37971,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Nuage puant
   AltName: '[Stinking Cloud](srd_spells_stinking_cloud.md)'
   Type: Invocation
@@ -37980,7 +37981,6 @@ SubItems:
   Components: V, S, M (un oeuf pourri ou des feuilles de chou pourri)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez une sphère d'un gaz jaunâtre et nauséabond de 6 mètres de rayon centrée sur un point à portée. Le nuage se répand en contournant les angles et la visibilité est nulle dans toute sa zone. Le nuage persiste dans la zone affectée pendant toute la durée du sort.
@@ -38113,6 +38113,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Nuée de météores
   AltName: '[Meteor Swarm](srd_spells_meteor_swarm.md)'
   Type: Évocation
@@ -38122,7 +38123,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Des orbes de feu flamboyants s'abattent au sol en quatre points de votre choix situés à portée et dans votre champ de vision. Chaque créature située dans la sphère de 12 mètres de rayon centrée sur chacun de ces points doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md).
@@ -38255,6 +38255,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Nuée de projectiles
   Type: Invocation
   Level: 5
@@ -38263,7 +38264,6 @@ SubItems:
   Components: V, S, M (un projectile)
   Duration: instantané
   Classes: '[Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous utilisez votre action pour lancer une arme ou tirer un projectile et une action bonus pour lancer le sort. Le projectile se dédouble de nombreuses fois et affecte toutes les créatures dans une zone de 6 mètres de rayon autour de votre cible initiale, dans la limite de la portée habituelle de l'arme utilisée. Faites un seul jet d'attaque à distance, chaque créature dans la zone subit automatiquement les dégâts habituels de l'arme. Celles dont votre attaque permet d'atteindre ou de dépasser la CA subissent le double des dégâts. Vous ajoutez normalement votre modificateur de [Dextérité](hd_abilities_dexterity.md) aux dégâts et de magie si votre arc ou vos flèches sont magiques. Dans tous les cas, les dégât sont magiques (du type approprié aux projectiles).
@@ -38346,6 +38346,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Oeil magique
   AltName: '[Arcane Eye](srd_spells_arcane_eye.md)'
   Type: Divination
@@ -38355,7 +38356,6 @@ SubItems:
   Components: V, S, M (des poils de chauve-souris)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez un oeil magique [invisible](hd_conditions_invisible.md) à portée, qui flotte dans les airs pendant toute la durée du sort. Il vous envoie mentalement des informations visuelles grâce à sa vision normale et dans le noir dans un rayon de 9 mètres. Il peut regarder dans toutes les directions.
@@ -38473,6 +38473,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Offrande inéluctable
   Type: Enchantement
   Level: 2
@@ -38481,7 +38482,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Une créature vivante à portée et dans votre champ de vision doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) sous peine de se sentir soudainement obligée de vous donner ce qu'elle tient au moment où vous lancez le sort. Dès son tour, la cible se rapproche aussi près que possible de vous et vous tend l'objet.
@@ -38579,6 +38579,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Ombres imaginaires
   Type: Illusion
   Level: 2
@@ -38587,7 +38588,6 @@ SubItems:
   Components: V, S, M (un morceau de charbon)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous désignez une cible à portée et dans votre champ de vision. Vous créez des images fantasmagoriques cauchemardesques dans son esprit. La victime doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d'[Intelligence](hd_abilities_intelligence.md). En cas d'échec, elle perçoit des silhouettes d'ombres qui l'assaillent, ce qui lui inflige un désavantage à toutes ses actions pendant la durée du sort.
@@ -38685,6 +38685,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Panacée
   Type: Abjuration
   Level: 4
@@ -38693,7 +38694,6 @@ SubItems:
   Components: V, S
   Duration: Instantanée
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous libérez une vague d'énergie purificatrice qui met instantanément fin aux maladies, poisons et états spéciaux suivants qui affectent vos alliés situés dans la zone : [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [étourdi](hd_conditions_etourdi.md), [neutralisé](hd_conditions_neutralise.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md). Elle annule également les effets de sommeil et les effets du sort esprit faible.
@@ -38776,6 +38776,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Parole divine
   AltName: '[Divine Word](srd_spells_divine_word.md)'
   Type: Évocation
@@ -38785,7 +38786,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous prononcez une parole divine, empreinte de la puissance qui a façonné le monde à l'aube de la création.
@@ -38978,6 +38978,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Pas brumeux
   AltName: '[Misty Step](srd_spells_misty_step.md)'
   Type: Invocation
@@ -38987,7 +38988,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez sur un maximum de 9 mètres jusqu'à un emplacement inoccupé situé dans votre champ de vision.
@@ -39090,6 +39090,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Passage dimensionnel
   Type: Invocation
   Level: 6
@@ -39098,7 +39099,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous désignez un point sur une surface à portée dans votre champ de vision et créez une ouverture circulaire de 1,50 mètre de diamètre entourée de runes rayonnantes.
@@ -39256,6 +39256,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Passage par les arbres
   AltName: '[Tree Stride](srd_spells_tree_stride.md)'
   Type: Invocation
@@ -39265,7 +39266,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous êtes soudain capable d'entrer dans un arbre et de passer de son sein à celui d'un autre arbre de la même espèce situé dans un rayon de 150 mètres. Ces deux arbres doivent être vivants et au moins de la même taille que vous. Vous devez dépenser 1,50 mètre de déplacement pour entrer dans un arbre. Vous apprenez alors instantanément où se trouvent tous les autres arbres de la même espèce dans un rayon de 150 mètres et vous pouvez gagner l'un d'eux ou ressortir par l'arbre dans lequel vous êtes entré, ce mouvement faisant partie de votre déplacement de 1,50 mètre. Vous apparaissez à l'endroit de votre choix dans un rayon de 1,50 mètre autour de l'arbre dans lequel vous êtes arrivé en dépensant de nouveau 1,50 mètre de déplacement. S'il ne vous reste pas de distance de déplacement à dépenser, vous apparaissez dans un rayon de 1,50 mètre autour de l'arbre par lequel vous êtes entré.
@@ -39383,6 +39383,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Passage sans trace
   AltName: '[Pass without Trace](srd_spells_pass_without_trace.md)'
   Type: Abjuration
@@ -39392,7 +39393,6 @@ SubItems:
   Components: V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une aura d'ombre et de silence émane de vous et enveloppe vos compagnons, vous dissimulant aux sens d'autrui.
@@ -39525,6 +39525,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Passe-muraille
   AltName: '[Passwall](srd_spells_passwall.md)'
   Type: Transmutation
@@ -39534,7 +39535,6 @@ SubItems:
   Components: V, S, M (une pincée de graines de sésame)
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un passage apparaît en un point de votre choix situé à portée et dans votre champ de vision sur une surface de bois, de plâtre ou de pierre (comme un mur, un sol ou un plafond). Il persiste pendant toute la durée du sort. À vous de décider des dimensions de l'ouverture qui peut faire, au maximum, 1,50 mètre de large pour 2,50 mètres de haut et 6 mètres de profondeur. L'apparition du passage ne crée aucune faiblesse dans la structure qui l'entoure.
@@ -39652,6 +39652,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Pattes d'araignée
   AltName: '[Spider Climb](srd_spells_spider_climb.md)'
   Type: Transmutation
@@ -39661,7 +39662,6 @@ SubItems:
   Components: V, S, M (une goutte de bitume et une araignée)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Jusqu'à la fin du sort, une créature consentante que vous touchez devient capable de se déplacer sur les surfaces verticales, et même au plafond la tête en bas, tout en gardant les mains libres. La cible bénéficie aussi d'une vitesse d'escalade égale à sa vitesse de marche.
@@ -39764,6 +39764,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Peau d'écorce
   AltName: '[Barkskin](srd_spells_barkskin.md)'
   Type: Transmutation
@@ -39773,7 +39774,6 @@ SubItems:
   Components: V, S, M (une poignée d'écorce de chêne)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau prend la consistance et l'apparence de l'écorce, et sa CA ne peut pas descendre au-dessous de 16, quelle que soit l'armure qu'elle porte.
@@ -39876,6 +39876,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Peau de pierre
   AltName: '[Stoneskin](srd_spells_stoneskin.md)'
   Type: Abjuration
@@ -39885,7 +39886,6 @@ SubItems:
   Components: V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure que de la pierre. Jusqu'à la fin du sort, la cible est résistante aux dégâts non magiques contondants, perforants et tranchants.
@@ -39988,6 +39988,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Petite hutte
   AltName: '[Tiny Hut](srd_spells_tiny_hut.md)'
   Type: Évocation
@@ -39997,7 +39998,6 @@ SubItems:
   Components: V, S, M (une petite perle de cristal)
   Duration: 8 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Un dôme de force immobile, de 3 mètres de rayon, apparaît soudain autour et au-dessus de vous. Il reste stationnaire pendant toute la durée du sort. Ce dernier se termine si vous quittez sa zone.
@@ -40133,6 +40133,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Pétrification
   AltName: '[Flesh to Stone](srd_spells_flesh_to_stone.md)'
   Type: Transmutation
@@ -40142,7 +40143,6 @@ SubItems:
   Components: V, S, M (une pincée de chaux, de l'eau et de la terre)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous tentez de changer en pierre une créature située à portée et dans votre champ de vision. Si le corps de la cible est fait de chair, elle doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) ou se retrouver [entravée](hd_conditions_entrave.md), car sa chair se met à durcir.
@@ -40290,6 +40290,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Peur
   AltName: '[Fear](srd_spells_fear.md)'
   Type: Illusion
@@ -40299,7 +40300,6 @@ SubItems:
   Components: V, S, M (une plume blanche ou un coeur de poule)
   Duration: concentration, jusqu'à 1 minute.
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous projetez une image fantasmagorique des pires terreurs d'une créature. Chaque créature située dans un cône de 9 mètres doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md) ou lâcher tout ce qu'elle tient en main et être [terrorisée](hd_conditions_terrorise.md) pendant toute la durée du sort.
@@ -40417,6 +40417,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Pluie de projectiles
   Type: Invocation
   Level: 3
@@ -40425,7 +40426,6 @@ SubItems:
   Components: V, S, M (un projectile)
   Duration: instantané
   Classes: '[Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous utilisez votre action pour lancer une arme ou tirer un projectile et une action bonus pour lancer le sort.
@@ -40523,6 +40523,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Poigne électrique
   AltName: '[Shocking Grasp](srd_spells_shocking_grasp.md)'
   Type: Évocation
@@ -40532,7 +40533,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     La foudre jaillit de votre main et bondit sur la créature que vous tentez de toucher. Faites une attaque de sort au corps-à-corps contre la cible. Vous bénéficiez d'un avantage lors du jet d'attaque si votre cible porte une armure métallique. Si vous touchez la cible, elle subit 1d8 dégâts de foudre et ne peut pas effectuer de réaction avant le début de son prochain tour.
@@ -40650,6 +40650,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Poison naturel
   Type: Invocation
   Level: 1
@@ -40658,7 +40659,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Une arme de votre choix exsude une substance poisseuse et venimeuse. À la première attaque que vous réussissez avec cette arme, la victime doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md) ou subir 2d6 dégât de poison et être [empoisonnée](hd_conditions_empoisonne.md). En cas de succès, elle subit seulement la moitié des dégâts et elle n'est pas [empoisonnée](hd_conditions_empoisonne.md).
@@ -40756,6 +40756,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Portail
   AltName: '[Gate](srd_spells_gate.md)'
   Type: Invocation
@@ -40765,7 +40766,6 @@ SubItems:
   Components: V, S, M (un diamant d'une valeur minimale de 5 000 po)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous invoquez un portail reliant un espace inoccupé, situé à portée et dans votre champ de vision, à un autre plan d'existence. Ce portail se présente sous la forme d'une ouverture circulaire de 1,50 à 6 mètres de diamètre, à votre guise. Vous pouvez orienter le portail dans la direction de votre choix et il persiste pendant toute la durée du sort.
@@ -40913,6 +40913,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Porte dimensionnelle
   AltName: '[Dimension Door](srd_spells_dimension_door.md)'
   Type: Invocation
@@ -40922,7 +40923,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous vous téléportez depuis votre position actuelle vers n'importe quel emplacement désiré situé à portée.
@@ -41070,6 +41070,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Porte-bonheur
   Type: Abjuration
   Level: tour de magie
@@ -41078,7 +41079,6 @@ SubItems:
   Components: V, S, M (objet porte-bonheur)
   Duration: 1 round
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).
@@ -41161,6 +41161,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Possession
   AltName: '[Magic Jar](srd_spells_magic_jar.md)'
   Type: Nécromancie
@@ -41170,7 +41171,6 @@ SubItems:
   Components: V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Votre corps tombe en catatonie tandis que votre âme le quitte et pénètre dans le réceptacle utilisé comme composante de sort. Tant qu'elle se trouve là, vous percevez votre environnement comme si votre corps occupait le même espace que le réceptacle. En revanche, vous ne pouvez pas bouger ni utiliser de réaction. Vous ne pouvez accomplir qu'une action : projeter votre âme dans un rayon de 30 mètres au maximum autour du réceptacle, soit pour retourner dans votre corps (ce qui met fin au sort), soit pour prendre possession d'un autre corps humanoïde.
@@ -41453,6 +41453,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Prémonition
   AltName: '[Foresight](srd_spells_foresight.md)'
   Type: Divination
@@ -41462,7 +41463,6 @@ SubItems:
   Components: V, S, M (une plume d'oiseau chanteur)
   Duration: 8 heures
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature consentante et lui conférez une aptitude limitée à voir dans le futur immédiat. Pendant toute la durée du sort, elle ne peut pas être surprise et elle a l'avantage sur les jets d'attaque, les tests de caractéristique et les [jets de sauvegarde](hd_abilities_jets_de_sauvegarde.md). De plus, les autres créatures sont affectées par un désavantage lors de leurs jets d'attaque contre elle pendant toute la durée du sort.
@@ -41580,6 +41580,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Prestidigitation
   AltName: '[Prestidigitation](srd_spells_prestidigitation.md)'
   Type: Transmutation
@@ -41589,7 +41590,6 @@ SubItems:
   Components: V, S
   Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort est un tour de magie basique que les novices utilisent pour s'entraîner. Vous l'utilisez pour créer à portée l'un des effets magiques suivants :
@@ -41797,6 +41797,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Prière de soins
   AltName: '[Prayer of Healing](srd_spells_prayer_of_healing.md)'
   Type: Évocation
@@ -41806,7 +41807,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un maximum de six créatures de votre choix, situées à portée et dans votre champ de vision, récupèrent chacune un nombre de points de vie égal à 2d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
@@ -41924,6 +41924,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Produire une flamme
   AltName: '[Produce Flame](srd_spells_produce_flame.md)'
   Type: Invocation
@@ -41933,7 +41934,6 @@ SubItems:
   Components: V, S
   Duration: 10 minutes
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une flamme vacillante apparaît dans votre main. Elle y reste pendant toute la durée du sort et ne vous blesse pas, pas plus qu'elle n'endommage votre équipement.
@@ -42081,6 +42081,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Projectile magique
   AltName: '[Magic Missile](srd_spells_magic_missile.md)'
   Type: Évocation
@@ -42090,7 +42091,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touche une créature de votre choix, située à portée et dans votre champ de vision. Une fléchette inflige 1d4+1 dégâts de force à la cible. Toutes les fléchettes frappent leur cible en même temps, sachant que vous pouvez toutes les diriger contre une seule et même créature ou les répartir entre plusieurs.
@@ -42208,6 +42208,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Projectile toxique
   Type: Invocation
   Level: 3
@@ -42216,7 +42217,6 @@ SubItems:
   Components: V, S, M (un projectile)
   Duration: instantané
   Classes: '[Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous utilisez votre action pour lancer une arme ou tirer un projectile et une action bonus pour lancer le sort.
@@ -42329,6 +42329,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Projection astrale
   AltName: '[Astral Projection](srd_spells_astral_projection.md)'
   Type: Nécromancie
@@ -42338,7 +42339,6 @@ SubItems:
   Components: V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
   Duration: spéciale
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous et un maximum de huit créatures consentantes à portée projetez vos corps astraux sur le plan astral (si vous vous trouvez déjà sur ce plan, le sort échoue et l'incantation est gâchée). Les corps physiques que vous laissez derrière vous sont [inconscients](hd_conditions_inconscient.md), en état d'animation suspendue. Ils n'ont pas besoin de nourriture ni d'air et ne vieillissent pas.
@@ -42516,6 +42516,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Protection contre la mort
   AltName: '[Death Ward](srd_spells_death_ward.md)'
   Type: Abjuration
@@ -42525,7 +42526,6 @@ SubItems:
   Components: V, S
   Duration: 8 heures
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature et lui donnez une protection relative contre la mort. Quand elle devrait tomber à 0 point de vie pour la première fois suite à des dégâts, elle tombe à la place à 1 point de vie et le sort se termine.
@@ -42643,6 +42643,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Protection contre le mal et le bien
   AltName: '[Protection from Evil and Good](srd_spells_protection_from_evil_and_good.md)'
   Type: Abjuration
@@ -42652,7 +42653,6 @@ SubItems:
   Components: V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Jusqu'à la fin du sort, une créature consentante que vous touchez est protégée contre certains types de créatures : les aberrations, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants.
@@ -42785,6 +42785,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Protection contre le poison
   AltName: '[Protection from Poison](srd_spells_protection_from_poison.md)'
   Type: Abjuration
@@ -42794,7 +42795,6 @@ SubItems:
   Components: V, S
   Duration: 1 heure
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature. Si elle est [empoisonnée](hd_conditions_empoisonne.md), vous neutralisez ce poison. Si elle est victime de plusieurs poisons, vous en neutralisez un dont vous avez détecté la présence ou un au hasard.
@@ -42912,6 +42912,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Protection contre les énergies
   AltName: '[Protection from Energy](srd_spells_protection_from_energy.md)'
   Type: Abjuration
@@ -42921,7 +42922,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Ombrelame](hd_rogue_ombrelame.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Pendant toute la durée du sort, la créature consentante que vous touchez devient résistante à un type de dégâts de votre choix : acide, feu, froid, foudre ou tonnerre.
@@ -43024,6 +43024,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Protections et sceaux
   AltName: '[Guards and Wards](srd_spells_guards_and_wards.md)'
   Type: Abjuration
@@ -43033,7 +43034,6 @@ SubItems:
   Components: V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez un sceau protégeant une zone au sol de 225 mètres carrés (soit une zone de 15 mètres de côté, soit une centaine de zones de 1,50 mètre de côté, soit vingt-cinq zones de 3 mètres de côté). La zone protégée fait au maximum 6 mètres de haut et prend la forme de votre choix. Vous pouvez protéger ainsi plusieurs étages d'une place forte en répartissant la zone affectée entre eux tant que vous pouvez relier toutes les zones contiguës en marchant lorsque vous lancez le sort.
@@ -43346,6 +43346,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Purification de la nourriture et de l'eau
   AltName: '[Purify Food and Drink](srd_spells_purify_food_and_drink.md)'
   Type: Transmutation
@@ -43355,7 +43356,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Toute la nourriture et les boissons non magiques présentes dans une sphère d'un rayon de 1,50 mètre centrée autour d'un point de votre choix situé à portée sont purifiées et débarrassées de tout poison et maladie.
@@ -43461,6 +43461,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Putréfaction
   Type: Nécromancie
   Level: 1
@@ -43469,7 +43470,6 @@ SubItems:
   Components: V, S, M
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Une créature à portée et que vous pouvez voir subit votre malédiction. Dès que vous lui infligez une blessure, cette plaie se répand petit à petit à l'ensemble de son corps, qui prend une teinte violacée. Les plaies s'infectent et suppurent. Jusqu'à la fin du sort, la cible subit 1d4 points de dégâts nécrotique au début de son tour et obtient un désavantage sur ses jets de [Constitution](hd_abilities_constitution.md).
@@ -43597,6 +43597,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Rappel à la vie
   AltName: '[Raise Dead](srd_spells_raise_dead.md)'
   Type: Nécromancie
@@ -43606,7 +43607,6 @@ SubItems:
   Components: V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous touchez une créature décédée et la ramenez à la vie, à condition que son trépas ne remonte pas à plus de 10 jours. Si l'âme de la créature est désireuse de rejoindre son corps et libre de le faire, le défunt revient à la vie avec 1 point de vie.
@@ -43754,6 +43754,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Rayon affaiblissant
   AltName: '[Ray of Enfeeblement](srd_spells_ray_of_enfeeblement.md)'
   Type: Nécromancie
@@ -43763,7 +43764,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un rayon noir fait d'énergie débilitante jaillit de votre doigt en direction d'une créature à portée. Faites une attaque de sort à distance contre la cible. Si vous la touchez, la créature inflige seulement la moitié des dégâts habituels lorsqu'elle attaque avec une arme basée sur la [Force](hd_abilities_strength.md).
@@ -43881,6 +43881,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Rayon ardent
   AltName: '[Scorching Ray](srd_spells_scorching_ray.md)'
   Type: Évocation
@@ -43890,7 +43891,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous pouvez les diriger contre une même cible ou contre des cibles différentes. Faites une attaque de sort à distance pour chaque rayon. Si vous touchez, la cible reçoit 2d6 dégâts.
@@ -44008,6 +44008,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Rayon de givre
   AltName: '[Ray of Frost](srd_spells_ray_of_frost.md)'
   Type: Évocation
@@ -44017,7 +44018,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un rayon de lumière d'un blanc bleuté file vers une créature à portée. Faites une attaque de sort à distance contre la cible. Si vous la touchez, elle subit 1d8 dégâts de froid et sa vitesse est réduite de 3 mètres jusqu'au début de votre prochain tour.
@@ -44135,6 +44135,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Rayon de lune
   AltName: '[Moonbeam](srd_spells_moonbeam.md)'
   Type: Évocation
@@ -44144,7 +44145,6 @@ SubItems:
   Components: V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un pâle rayon de lune brille dans un cylindre de 1,50 mètre de rayon pour 12 mètres de haut centré sur un point à portée. Une faible lumière emplit le cylindre jusqu'à la fin du sort.
@@ -44307,6 +44307,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Rayon de soleil
   AltName: '[Sunbeam](srd_spells_sunbeam.md)'
   Type: Évocation
@@ -44316,7 +44317,6 @@ SubItems:
   Components: V, S, M (une loupe)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Un rayon de vive lumière jaillit de votre main sur une ligne de 18 mètres de long pour 1,50 mètre de large.
@@ -44464,6 +44464,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Régénération
   AltName: '[Regenerate](srd_spells_regenerate.md)'
   Type: Transmutation
@@ -44473,7 +44474,6 @@ SubItems:
   Components: V, S, M (un moulin à prières et de l'eau bénite)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature et stimulez ses capacités de guérison naturelle. La cible récupère 4d8+15 points de vie. Pendant toute la durée du sort, elle récupère en plus 1 point de vie au début de chacun de ses tours (c'est-àdire 10 points de vie par minute).
@@ -44606,6 +44606,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Réincarnation
   AltName: '[Reincarnate](srd_spells_reincarnate.md)'
   Type: Transmutation
@@ -44615,7 +44616,6 @@ SubItems:
   Components: V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
   Duration: instantanée
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez un humanoïde mort ou un morceau du cadavre d'une telle créature. Si la créature est morte depuis 10 jours ou moins, le sort lui fabrique un nouveau corps adulte et y appelle son âme. Le sort échoue si l'âme n'est pas libre de gagner ce corps ou si elle ne le désire pas.
@@ -44963,6 +44963,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Réparation
   AltName: '[Mending](srd_spells_mending.md)'
   Type: Transmutation
@@ -44972,7 +44973,6 @@ SubItems:
   Components: V, S, M (deux magnétites)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort répare un objet cassé ou déchiré en un seul point, comme un maillon de chaîne cassé, deux moitiés d'une clef brisée, une cape déchirée ou une outre de vin qui fuit.
@@ -45105,6 +45105,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Repli expéditif
   AltName: '[Expeditious Retreat](srd_spells_expeditious_retreat.md)'
   Type: Transmutation
@@ -45114,7 +45115,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action se précipiter quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.
@@ -45217,6 +45217,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Représailles infernales
   AltName: '[Hellish Rebuke](srd_spells_hellish_rebuke.md)'
   Type: Évocation
@@ -45226,7 +45227,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous Il vous suffit de pointer le doigt vers la créature qui vient de vous blesser pour qu'elle soit un instant enveloppée d'un linceul de flammes infernales. Elle doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). Si elle échoue, elle subit 2d10 dégâts de feu, sinon la moitié seulement.
@@ -45344,6 +45344,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Répulsion/attirance
   AltName: '[Antipathy/Sympathy](srd_spells_antipathysympathy.md)'
   Type: Enchantement
@@ -45353,7 +45354,6 @@ SubItems:
   Components: V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
   Duration: 10 jours
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort attire ou refoule les créatures de votre choix.
@@ -45561,6 +45561,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Résistance
   AltName: '[Resistance](srd_spells_resistance.md)'
   Type: Abjuration
@@ -45570,7 +45571,6 @@ SubItems:
   Components: V, S, M (une cape miniature)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature consentante. Une fois avant la fin du sort, elle peut lancer 1d4 et ajouter le résultat obtenu à un unique [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de son choix. Elle peut lancer le dé avant ou après avoir fait son [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md).
@@ -45688,6 +45688,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Respiration aquatique
   AltName: '[Water Breathing](srd_spells_water_breathing.md)'
   Type: Transmutation
@@ -45697,7 +45698,6 @@ SubItems:
   Components: V, S, M (un petit roseau ou un brin de paille)
   Duration: 24 heures
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Grâce à ce sort, un maximum de dix créatures situées à portée et dans votre champ de vision deviennent capables de respirer sous l'eau jusqu'à la fin du sort. Les créatures affectées conservent en plus leur mode de respiration normal.
@@ -45803,6 +45803,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Restauration inférieure
   AltName: '[Lesser Restoration](srd_spells_lesser_restoration.md)'
   Type: Abjuration
@@ -45812,7 +45813,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature et mettez fin à une maladie ou à un état spécial qui l'affectait, parmi [aveuglé](hd_conditions_aveugle.md), [assourdi](hd_conditions_assourdi.md), [paralysé](hd_conditions_paralyse.md) ou [empoisonné](hd_conditions_empoisonne.md).
@@ -45915,6 +45915,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Restauration supérieure
   AltName: '[Greater Restoration](srd_spells_greater_restoration.md)'
   Type: Abjuration
@@ -45924,7 +45925,6 @@ SubItems:
   Components: V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous imprégnez la créature que vous touchez d'énergie positive, afin de la débarrasser d'un effet débilitant. Vous pouvez ainsi réduire le niveau d'épuisement de la cible d'un cran ou mettre un terme à l'un des effets suivants l'affectant.
@@ -46087,6 +46087,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Résurrection
   AltName: '[Resurrection](srd_spells_resurrection.md)'
   Type: Nécromancie
@@ -46096,7 +46097,6 @@ SubItems:
   Components: V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez le cadavre d'une créature décédée depuis 100 ans au maximum, qui n'est pas morte de vieillesse et qui n'est pas un mort-vivant. Si son âme est libre et consentante, la cible ressuscite avec tous ses points de vie.
@@ -46274,6 +46274,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Résurrection suprême
   AltName: '[True Resurrection](srd_spells_true_resurrection.md)'
   Type: Nécromancie
@@ -46283,7 +46284,6 @@ SubItems:
   Components: V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature décédée depuis 200 ans au maximum, de n'importe quelle cause sauf de vieillesse.
@@ -46416,6 +46416,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Rêve
   AltName: '[Dream](srd_spells_dream.md)'
   Type: Illusion
@@ -46425,7 +46426,6 @@ SubItems:
   Components: V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)
   Duration: 8 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort façonne les rêves d'une créature. Choisissez comme cible une créature de votre connaissance. Elle doit se trouver sur le même plan d'existence que vous. Il est impossible de contacter via ce sort une créature qui ne dort pas, tel un elfe. Vous entrez dans un état de transe et servez de messager, à moins que vous ne confiiez ce rôle à une autre créature consentante. Pendant la transe, le messager est conscient de son environnement, mais il ne peut pas entreprendre d'action ni se déplacer.
@@ -46573,6 +46573,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Revigorer
   AltName: '[Revivify](srd_spells_revivify.md)'
   Type: Nécromancie
@@ -46582,7 +46583,6 @@ SubItems:
   Components: V, S, M (diamant d'une valeur de 300 po, que le sort consume)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature morte au cours de la minute précédente. Elle revient à la vie avec 1 point de vie. Ce sort ne ramène pas à la vie les créatures mortes de vieillesse et ne restaure pas les parties manquantes du corps.
@@ -46685,6 +46685,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Sanctification
   AltName: '[Hallow](srd_spells_hallow.md)'
   Type: Évocation
@@ -46694,7 +46695,6 @@ SubItems:
   Components: V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
   Duration: jusqu'à dissipation
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez un point et imprégnez la zone qui l'entoure de puissance bénie (ou impie). Cette zone possède un rayon maximal de 18 mètres, sachant que le sort échoue si cette zone chevauche une autre zone déjà sous l'effet d'un sort de sanctification. La zone affectée est soumise aux effets suivants.
@@ -47007,6 +47007,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Sanctuaire
   AltName: '[Sanctuary](srd_spells_sanctuary.md)'
   Type: Abjuration
@@ -47016,7 +47017,6 @@ SubItems:
   Components: V, S, M (un petit miroir en argent)
   Duration: 1 minute
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous protégez une créature à portée contre les attaques.
@@ -47149,6 +47149,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Sanctuaire privé
   AltName: '[Private Sanctum](srd_spells_private_sanctum.md)'
   Type: Abjuration
@@ -47158,7 +47159,6 @@ SubItems:
   Components: V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)
   Duration: 24 heures
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous sécurisez par magie une zone à portée. Il s'agit d'un cube de 1,50 mètre à 30 mètres d'arête. Le sort persiste pendant toute sa durée ou jusqu'à ce que vous utilisiez une action pour le révoquer.
@@ -47396,6 +47396,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Sang du démon
   Type: Nécromancie
   Level: 1
@@ -47404,7 +47405,6 @@ SubItems:
   Components: V, S, M (une fiole d'un mélange de sang et d'acide)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez une attaque de sort au contact. Si elle est réussie, le sang de la cible devient corrosif, lui infligeant 1d6 dégâts d'acide à chacun de vos tours. Si la cible réussit un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md), les dégâts sont ignorés pour ce tour.
@@ -47502,6 +47502,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Saut
   AltName: '[Jump](srd_spells_jump.md)'
   Type: Transmutation
@@ -47511,7 +47512,6 @@ SubItems:
   Components: V, S, M (une patte arrière de sauterelle)
   Duration: 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sort se termine.
@@ -47614,6 +47614,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Scrutation
   AltName: '[Scrying](srd_spells_scrying.md)'
   Type: Divination
@@ -47623,7 +47624,6 @@ SubItems:
   Components: V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous voyez et entendez une créature donnée de votre choix, à condition qu'elle se trouve sur le même plan d'existence que vous. La cible doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Sagesse](hd_abilities_wisdom.md), modifié par le degré de connaissance que vous avez d'elle et le type de lien physique que vous avez établi avec elle. Si la cible sait que vous lancez ce sort, elle peut rater volontairement son [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) si elle veut que vous l'observiez.
@@ -47881,6 +47881,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Séquestration
   AltName: '[Sequester](srd_spells_sequester.md)'
   Type: Transmutation
@@ -47890,7 +47891,6 @@ SubItems:
   Components: V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Grâce à ce sort, vous pouvez dissimuler une créature consentante ou un objet qui sera [invisible](hd_conditions_invisible.md) à tout moyen de détection pendant toute la durée du sort. Quand vous lancez le sort et touchez la cible, elle devient [invisible](hd_conditions_invisible.md) et ne peut plus être la cible de sorts de divination. De plus, les organes sensoriels de scrutation issus d'un sort de divination ne la perçoivent plus.
@@ -48023,6 +48023,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Serviteur invisible
   AltName: '[Unseen Servant](srd_spells_unseen_servant.md)'
   Type: Invocation
@@ -48032,7 +48033,6 @@ SubItems:
   Components: V, S, M (un bout de ficelle et un morceau de bois)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort crée une force [invisible](hd_conditions_invisible.md), dépourvue de forme et d'intellect, mais capable d'accomplir des tâches simples sur votre ordre jusqu'à la fin du sort. Le serviteur se matérialise au sol, dans un emplacement inoccupé situé à portée. Il a une CA de 10, 1 pv, une [Force](hd_abilities_strength.md) de 2 et il est incapable d'attaquer. S'il tombe à 0 point de vie, le sort se termine.
@@ -48168,6 +48168,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Silence
   AltName: '[Silence](srd_spells_silence.md)'
   Type: Illusion
@@ -48177,7 +48178,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Pendant toute la durée du sort, aucun son ne peut se créer au sein d'une sphère de 6 mètres de rayon centrée sur un point de votre choix à portée, ni la traverser.
@@ -48298,6 +48298,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Simulacre
   AltName: '[Simulacrum](srd_spells_simulacrum.md)'
   Type: Illusion
@@ -48307,7 +48308,6 @@ SubItems:
   Components: V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous façonnez un double illusoire d'une bête ou d'un humanoïde à portée pendant toute la durée de l'incantation.
@@ -48470,6 +48470,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Simulacre de vie
   AltName: '[False Life](srd_spells_false_life.md)'
   Type: Nécromancie
@@ -48479,7 +48480,6 @@ SubItems:
   Components: V, S, M (une petite quantité d'alcool ou de spiritueux)
   Duration: 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie temporaires pendant la durée du sort.
@@ -48597,6 +48597,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Soin des blessures
   AltName: '[Cure Wounds](srd_spells_cure_wounds.md)'
   Type: Évocation
@@ -48606,7 +48607,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     La créature que vous touchez récupère un nombre de points de vie égal à 1d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
@@ -48724,6 +48724,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Soin des blessures de groupe
   AltName: '[Mass Cure Wounds](srd_spells_mass_cure_wounds.md)'
   Type: Évocation
@@ -48733,7 +48734,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une vague d'énergie curative s'étend depuis un point de votre choix situé à portée. Choisissez un maximum de six créatures présentes dans une sphère de 9 mètres de rayon centrée sur ce point. Chacune d'entre elles récupère un nombre de points de vie égal à 3d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants ni sur les créatures artificielles.
@@ -48851,6 +48851,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Sommeil
   AltName: '[Sleep](srd_spells_sleep.md)'
   Type: Enchantement
@@ -48860,7 +48861,6 @@ SubItems:
   Components: V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort plonge quelques créatures dans un sommeil magique. Lancez 5d8. Le total indique le nombre de points de vie de créatures que le sort affecte. Les créatures qui se trouvent dans un rayon de 6 mètres autour d'un point de votre choix situé à portée sont affectées dans l'ordre croissant de leur total actuel de points de vie (en ignorant les créatures [inconscientes](hd_conditions_inconscient.md)).
@@ -49008,6 +49008,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Souhait
   AltName: '[Wish](srd_spells_wish.md)'
   Type: Invocation
@@ -49017,7 +49018,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Le souhait est le plus puissant des sorts qu'une créature mortelle puisse lancer. Vous pouvez modifier les fondements de la réalité selon vos désirs, simplement en prononçant quelques mots.
@@ -49285,6 +49285,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Sphère de feu
   AltName: '[Flaming Sphere](srd_spells_flaming_sphere.md)'
   Type: Invocation
@@ -49294,7 +49295,6 @@ SubItems:
   Components: V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une sphère de feu de 1,50 mètre de diamètre apparaît dans un espace inoccupé de votre choix situé à portée et subsiste pendant toute la durée du sort. Chaque créature qui termine son tour dans un rayon de 1,50 mètre autour de la sphère doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). Celles qui échouent subissent 2d6 dégâts de feu, les autres la moitié seulement.
@@ -49442,6 +49442,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Sphère glacée
   AltName: '[Freezing Sphere](srd_spells_freezing_sphere.md)'
   Type: Évocation
@@ -49451,7 +49452,6 @@ SubItems:
   Components: V, S, M (une petite sphère de cristal)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Un globe d'énergie gelée jaillit de la pointe de votre doigt tendu et file vers un point de votre choix situé à portée. Là, il explose en une sphère de 18 mètres de rayon. Chaque créature dans la zone doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md). Celles qui échouent subissent 10d6 dégâts de froid, les autres la moitié seulement.
@@ -49644,6 +49644,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Sphère résiliente
   AltName: '[Resilient Sphere](srd_spells_resilient_sphere.md)'
   Type: Évocation
@@ -49653,7 +49654,6 @@ SubItems:
   Components: V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Une sphère de force scintillante englobe une créature ou un objet de taille G ou inférieure situés à portée. Si la cible n'est pas consentante, elle a droit à un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md). Si elle le rate, elle est enfermée dans la sphère pour toute la durée du sort.
@@ -49816,6 +49816,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Stalagmites fulgurantes
   Type: Invocation
   Level: 2
@@ -49824,7 +49825,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute.
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres dans une zone carrée de 3 mètres d'arête à portée du sort. Si elles atteignent le plafond avant d'atteindre leur taille maximale, les stalagmites cessent de grandir. Chaque créature dans la zone doit effectuer une sauvegarde de [Dextérité](hd_abilities_dexterity.md). Une créature volant à moins de 3 mètres du sol bénéficie d'un avantage sur ce jet. En cas d'échec, les stalagmites infligent 4d4 dégâts perforants et la cible se retrouve [entravée](hd_conditions_entrave.md) entre les stalagmites jusqu'à la fin du sort. En cas de succès, elle ne subit que la moitié des dégâts et est libre ses mouvements. Une cible [entravée](hd_conditions_entrave.md) par les stalagmites peut utiliser une action pour effectuer une sauvegarde de [Force](hd_abilities_strength.md). En cas de réussite, la créature se libère, mais subit 1d6 dégâts contondants. Pour la durée du sort, le terrain où se trouvent les stalagmites est considéré comme difficile.
@@ -49922,6 +49922,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Strangulation
   Type: Invocation
   Level: 1
@@ -49930,7 +49931,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous tendez le bras en direction de votre cible et, de votre main, vous mimez son étranglement. Faites une attaque de sort à distance. En cas de réussite, la cible subit 1d6 points de dégâts contondants et elle doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md) ou être [entravée](hd_conditions_entrave.md). Si le jet d'attaque initial était un succès, à chacun de vos tours pendant la durée du sort, vous pouvez utiliser votre action pour lui infliger automatiquement les mêmes dégâts et l'obliger à faire un nouveau [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Force](hd_abilities_strength.md). Si vous faites quoi que ce soit d'autre (vous pouvez toutefois parler), le sort prend fin. Le sort prend aussi fin si la cible passe hors de portée ou en dehors de votre champ de vision.
@@ -50028,6 +50028,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Suggestion
   AltName: '[Suggestion](srd_spells_suggestion.md)'
   Type: Enchantement
@@ -50037,7 +50038,6 @@ SubItems:
   Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
   Duration: concentration, jusqu'à 8 heures
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous visez une créature située à portée et dans votre champ de vision et à même de vous entendre et de vous comprendre. Vous l'influencez par magie de façon à ce qu'elle suive la conduite que vous lui proposez (en seulement une phrase ou deux). Les créatures qui ne peuvent être [charmées](hd_conditions_charme.md) sont immunisées contre ce sort.
@@ -50215,6 +50215,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Suggestion de groupe
   AltName: '[Mass Suggestion](srd_spells_mass_suggestion.md)'
   Type: Enchantement
@@ -50224,7 +50225,6 @@ SubItems:
   Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous visez un maximum de douze créatures de votre choix, situées à portée et dans votre champ de vision et à même de vous entendre et de vous comprendre. Vous les influencez par magie de façon à ce qu'elles suivent la conduite que vous leur proposez (en seulement une phrase ou deux). Les créatures qui ne peuvent être [charmées](hd_conditions_charme.md) sont immunisées contre ce sort. Vous devez formuler votre suggestion de manière à ce que la conduite à tenir semble tout à fait raisonnable. Si vous demandez à une créature de se poignarder, de se laisser tomber sur une lance, de s'immoler ou d'accomplir n'importe quelle action à l'évidence néfaste, l'effet du sort s'annule automatiquement.
@@ -50387,6 +50387,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Symbole
   AltName: '[Symbol](srd_spells_symbol.md)'
   Type: Abjuration
@@ -50396,7 +50397,6 @@ SubItems:
   Components: V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)
   Duration: jusqu'à dissipation ou déclenchement
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Quand vous lancez ce sort, vous inscrivez un glyphe néfaste sur une surface (comme une partie du sol, un pan de mur ou une table) ou dans un objet que l'on peut refermer pour le dissimuler, comme un livre, un parchemin ou un coffre au trésor. Si vous optez pour une surface, le glyphe peut couvrir une zone de 3 mètres de diamètre au maximum. Si vous choisissez un objet, il ne faut plus le déplacer par la suite : si quelqu'un le déplace à plus de 3 mètres de l'endroit où vous avez jeté ce sort, le glyphe se brise et le sort se termine sans avoir été déclenché.
@@ -50709,6 +50709,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Télékinésie
   AltName: '[Telekinesis](srd_spells_telekinesis.md)'
   Type: Transmutation
@@ -50718,7 +50719,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous devenez capable de déplacer ou de manipuler des créatures ou des objets par la pensée. Lorsque vous lancez ce sort, puis en tant qu'action à chaque round pendant toute la durée du sort, vous pouvez exercer votre force de volonté sur une créature ou un objet situés à portée et dans votre champ de vision, ce qui provoque l'effet approprié indiqué plus bas. Vous pouvez affecter la même cible, round après round, ou en choisir une nouvelle quand vous le désirez. Si vous changez de cible, la précédente n'est plus affectée.
@@ -50896,6 +50896,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Téléportation
   AltName: '[Teleport](srd_spells_teleport.md)'
   Type: Invocation
@@ -50905,7 +50906,6 @@ SubItems:
   Components: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort vous transporte instantanément à la destination de votre choix, ainsi qu'un maximum de huit créatures consentantes de votre choix situées à portée et dans votre champ de vision ou bien ainsi qu'un unique objet situé à portée et dans votre champ de vision. Si vous prenez un objet pour cible, il doit tenir dans un cube de 3 mètres de côté et il ne doit pas être porté ni transporté par une créature non consentante.
@@ -51238,6 +51238,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Tempête de feu
   AltName: '[Fire Storm](srd_spells_fire_storm.md)'
   Type: Évocation
@@ -51247,7 +51248,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une tempête faite de nuages de feu ronflant se forme à l'endroit que vous avez choisi, à portée. La tempête occupe une zone composée d'un maximum de dix cubes de 3 mètres d'arête, que vous pouvez disposer comme bon vous semble. Chaque cube doit avoir au moins une face adjacente à celle d'un autre cube. Chaque créature de la zone doit effectuer un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Dextérité](hd_abilities_dexterity.md).
@@ -51380,6 +51380,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Tempête de grêle
   AltName: '[Ice Storm](srd_spells_ice_storm.md)'
   Type: Évocation
@@ -51389,7 +51390,6 @@ SubItems:
   Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Des grêlons durs comme de la pierre s'abattent dans un cylindre de 6 mètres de rayon pour 12 mètres de haut, centré sur un point de votre choix à portée.
@@ -51537,6 +51537,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Tempête de neige
   AltName: '[Sleet Storm](srd_spells_sleet_storm.md)'
   Type: Invocation
@@ -51546,7 +51547,6 @@ SubItems:
   Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Jusqu'à la fin du sort, une averse de flocons et de neige fondue s'abat dans un cylindre de 6 mètres de haut pour un rayon de 12 mètres centré sur un point de votre choix situé à portée. Dans la zone, la visibilité est nulle et les flammes à nu s'éteignent.
@@ -51679,6 +51679,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Tempête de sable
   Type: Invocation
   Level: 8
@@ -51687,7 +51688,6 @@ SubItems:
   Components: V, S, M (une rose des sables)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous créez une gigantesque tempête de sable qui balaye tout sur son passage. La vague de sable mesure 150 mètres de large, 24 mètres de long et 24 mètres de haut. Elle débute au point désigné situé à portée puis se déplace à une vitesse de 24 mètres par round dans la direction de votre choix.
@@ -51800,6 +51800,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Tempête vengeresse
   AltName: '[Storm of Vengeance](srd_spells_storm_of_vengeance.md)'
   Type: Invocation
@@ -51809,7 +51810,6 @@ SubItems:
   Components: V, S
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     De menaçantes nuées orageuses se forment en un point situé dans votre champ de vision et s'étendent dans un rayon de 110 mètres. Des éclairs strient la zone, le tonnerre gronde et un vent fort se lève. Chaque créature située sous le nuage lors de son apparition (mais pas à plus de 1 500 mètres au-dessous) doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md). Celles qui échouent subissent 2d6 dégâts de tonnerre et sont [assourdies](hd_conditions_assourdi.md) pendant 5 minutes.
@@ -52002,6 +52002,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Ténèbres
   AltName: '[Darkness](srd_spells_darkness.md)'
   Type: Évocation
@@ -52011,7 +52012,6 @@ SubItems:
   Components: V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Des ténèbres magiques se répandent depuis un point de votre choix situé à portée, jusqu'à englober une sphère de 4,50 mètres de rayon. Les ténèbres s'étendent en franchissant tout angle éventuel. La vision dans le noir d'une créature ne suffit pas à percer ces ténèbres et les lumières non-magiques se révèlent incapables de les éclairer.
@@ -52144,6 +52144,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Tentacules noirs
   AltName: '[Black Tentacles](srd_spells_black_tentacles.md)'
   Type: Invocation
@@ -52153,7 +52154,6 @@ SubItems:
   Components: V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Des tentacules noirs grouillants envahissent le sol d'un emplacement de 6 mètres de côté situé à portée et dans votre champ de vision. Pendant toute la durée du sort, ils transforment la zone en terrain difficile.
@@ -52286,6 +52286,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Terrain hallucinatoire
   AltName: '[Hallucinatory Terrain](srd_spells_hallucinatory_terrain.md)'
   Type: Illusion
@@ -52295,7 +52296,6 @@ SubItems:
   Components: V, S, M (une pierre, une brindille et un bout de plante verte)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous maquillez le terrain naturel dans un cube de 45 mètres d'arête situé à portée et lui attribuez l'apparence, les bruits et les odeurs d'un autre type de terrain naturel.
@@ -52443,6 +52443,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Texte illusoire
   AltName: '[Illusory Script](srd_spells_illusory_script.md)'
   Type: Illusion
@@ -52452,7 +52453,6 @@ SubItems:
   Components: S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
   Duration: 10 jours
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous écrivez sur un papier, un parchemin ou un autre matériau adapté à l'écriture et l'imprégnez d'une puissante illusion qui persiste pendant toute la durée du sort.
@@ -52588,6 +52588,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Thaumaturgie
   AltName: '[Thaumaturgy](srd_spells_thaumaturgy.md)'
   Type: Transmutation
@@ -52597,7 +52598,6 @@ SubItems:
   Components: V
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez une manifestation merveilleuse mineure ou un signe de puissance surnaturelle à portée, ce qui génère l'un des effets magiques suivants à portée.
@@ -52820,6 +52820,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Toile d'araignée
   AltName: '[Web](srd_spells_web.md)'
   Type: Invocation
@@ -52829,7 +52830,6 @@ SubItems:
   Components: V, S, M (un bout de toile d'araignée)
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous invoquez une masse de toiles d'araignées épaisses et collantes en un point de votre choix situé à portée.
@@ -53007,6 +53007,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Trait de feu
   AltName: '[Fire Bolt](srd_spells_fire_bolt.md)'
   Type: Évocation
@@ -53016,7 +53017,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous lancez un trait enflammé sur une créature ou un objet à portée. Faites une attaque de sort à distance contre la cible. Si vous touchez, elle subit 1d10 dégâts de feu. Si le sort touche un objet inflammable qui n'est ni porté ni transporté, il s'embrase.
@@ -53134,6 +53134,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Transpercer
   Type: Invocation
   Level: 1
@@ -53142,7 +53143,6 @@ SubItems:
   Components: V
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     La prochaine fois que vous blessez une créature avec une arme à distance qui inflige des dégâts perçants ou tranchants, l'arme reste fichée dans le corps de votre cible. Elle lui inflige 1d4 dégâts supplémentaires à chacun de vos tours suivants jusqu'à la fin du sort, ou jusqu'à ce qu'elle utilise son action pour retirer l'arme.
@@ -53255,6 +53255,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Transport végétal
   AltName: '[Transport via Plants](srd_spells_transport_via_plants.md)'
   Type: Invocation
@@ -53264,7 +53265,6 @@ SubItems:
   Components: V, S
   Duration: 1 round
   Classes: '[Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort crée un lien magique entre une plante inanimée de taille G ou supérieure située à portée et une autre plante de mêmes dimensions, située à n'importe quelle distance mais sur le même plan d'existence. Vous devez impérativement avoir vu ou touché la plante de destination au moins une fois auparavant. Pendant toute la durée du sort, n'importe quelle créature peut entrer par la plante de départ et ressortir par celle d'arrivée en dépensant 1,50 mètre de déplacement.
@@ -53367,6 +53367,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Tremblement de terre
   AltName: '[Earthquake](srd_spells_earthquake.md)'
   Type: Évocation
@@ -53376,7 +53377,6 @@ SubItems:
   Components: V, S, M (une pincée de poussière, un caillou et un peu d'argile)
   Duration: concentration, jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez une perturbation sismique en un point situé au niveau du sol, dans votre champ de vision et à portée. Pendant toute la durée du sort, d'intenses secousses agitent le sol dans un cercle de 30 mètres de rayon centré sur le point choisi. Elles ébranlent toutes les créatures et structures en contact avec le sol de cette zone.
@@ -53599,6 +53599,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Tromperie
   AltName: '[Mislead](srd_spells_mislead.md)'
   Type: Illusion
@@ -53608,7 +53609,6 @@ SubItems:
   Components: S
   Duration: concentration, jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Vous devenez [invisible](hd_conditions_invisible.md) à l'instant même où un double illusoire de votre personne apparaît là où vous vous trouvez. Ce double persiste pendant toute la durée du sort, mais votre invisibilité se termine dès que vous lancez un sort ou attaquez.
@@ -53756,6 +53756,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Trouver les pièges
   AltName: '[Find Traps](srd_spells_find_traps.md)'
   Type: Divination
@@ -53765,7 +53766,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous percevez la présence de tout piège se trouvant à portée et dans votre champ de vision. Concernant ce sort, le terme de piège désigne toute chose qui inflige soudainement ou de façon inattendue un effet considéré comme néfaste ou indésirable et que son créateur a conçu dans ce but. Ainsi, le sort prévient si une zone est affectée par une alarme, un glyphe de garde ou une fosse piégée mécanique, mais il ne révèle pas une faiblesse naturelle dans un plancher, un plafond instable ou une doline cachée.
@@ -53883,6 +53883,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Trouver un chemin
   AltName: '[Find the Path](srd_spells_find_the_path.md)'
   Type: Divination
@@ -53892,7 +53893,6 @@ SubItems:
   Components: V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
   Duration: concentration, jusqu'à 1 jour
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Ce sort vous permet de trouver le chemin physique le plus direct et le plus court vers un endroit fixe spécifique avec lequel vous êtes familier et qui se trouve sur le même plan d'existence que vous. Le sort échoue si vous choisissez une destination située sur un autre plan d'existence, une destination mouvante (comme une forteresse mobile) ou une destination n'ayant rien de spécifique (comme l'antre d'un dragon vert).
@@ -54010,6 +54010,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Trouver une monture
   AltName: '[Find Steed](srd_spells_find_steed.md)'
   Type: Invocation
@@ -54019,7 +54020,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous invoquez un esprit qui prend la forme d'une monture dotée d'une intelligence, d'une puissance et d'une loyauté hors du commun, et créez un lien durable avec lui. La monture apparaît dans un emplacement inoccupé à portée et prend l'apparence de votre choix : un cheval de guerre, un poney, un chameau, un élan ou un mastiff. (Votre MJ peut autoriser d'autres formes animales.) La monture possède le profil technique de la forme choisie mais, au lieu d'être de type normal, elle est céleste, féerique ou fiélone (à vous de choisir).
@@ -54212,6 +54212,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Vague tonnante
   AltName: '[Thunderwave](srd_spells_thunderwave.md)'
   Type: Évocation
@@ -54221,7 +54222,6 @@ SubItems:
   Components: V, S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Une vague de force tonnante émane de vous. Chaque créature située dans un cube de 4,50 mètres d'arête partant de vous doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Constitution](hd_abilities_constitution.md).
@@ -54384,6 +54384,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Verrou magique
   AltName: '[Arcane Lock](srd_spells_arcane_lock.md)'
   Type: Abjuration
@@ -54393,7 +54394,6 @@ SubItems:
   Components: V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une ouverture fermée, comme une porte, une fenêtre, un portail, un coffre ou autre. Elle se verrouille alors pour toute la durée du sort. Vous et toutes les créatures désignées lors de l'incantation du sort pouvez ouvrir l'ouverture normalement. Vous pouvez aussi définir un mot de passe qui, une fois prononcé dans un rayon de 1,50 mètre autour de l'objet fermé, dissipe le sort pendant 1 minute. Sinon, impossible d'ouvrir l'objet à moins de le briser ou de dissiper ou supprimer le sort. Un sort de _[déblocage](hd_spells_deblocage.md)_ supprime le verrou magique pendant 10 minutes.
@@ -54511,6 +54511,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Viser juste
   AltName: '[True Strike](srd_spells_true_strike.md)'
   Type: Divination
@@ -54520,7 +54521,6 @@ SubItems:
   Components: S
   Duration: concentration, jusqu'à 1 round
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous donne un bref aperçu de ses défenses. À votre prochain tour, vous avez l'avantage lors de votre premier jet d'attaque contre elle, à condition que le sort ne se soit pas terminé avant.
@@ -54623,6 +54623,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Vision dans le noir
   AltName: '[Darkvision](srd_spells_darkvision.md)'
   Type: Transmutation
@@ -54632,7 +54633,6 @@ SubItems:
   Components: V, S, M (une pincée de carotte séchée ou une agate)
   Duration: 8 heures
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature consentante pour lui permettre de voir dans le noir. Pendant toute la durée du sort, elle bénéficie de la vision dans le noir à une distance de 18 mètres.
@@ -54735,6 +54735,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Vision suprême
   AltName: '[True Seeing](srd_spells_true_seeing.md)'
   Type: Divination
@@ -54744,7 +54745,6 @@ SubItems:
   Components: V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Grâce à ce sort, la créature consentante que vous touchez est capable de voir les choses telles qu'elles sont réellement.
@@ -54862,6 +54862,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Vitalité
   Type: Évocation
   Level: 3
@@ -54870,7 +54871,6 @@ SubItems:
   Components: V, S
   Duration: 1 minute
   Classes: '[Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ de vision, récupèrent 1 point de vie par round jusqu'à la fin du sort.
@@ -54968,6 +54968,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Voir l'invisible
   AltName: '[See Invisibility](srd_spells_see_invisibility.md)'
   Type: Divination
@@ -54977,7 +54978,6 @@ SubItems:
   Components: V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
-  Family: SpellHD
   Source: (MDR p)
   Description: >+
     Pendant toute la durée du sort, vous voyez les créatures et les objets [invisibles](hd_conditions_invisible.md) comme s'ils étaient bien visibles et vous pouvez aussi observer le plan éthéré. Les créatures et les objets éthérés vous apparaissent comme des silhouettes translucides et fantomatiques.
@@ -55080,6 +55080,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Vol
   AltName: '[Fly](srd_spells_fly.md)'
   Type: Transmutation
@@ -55089,7 +55090,6 @@ SubItems:
   Components: V, S, M (une rémige)
   Duration: concentration, jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous touchez une créature consentante et lui conférez la capacité de voler à une vitesse de 18 mètres pendant toute la durée du sort. Si la cible se trouve dans les airs quand le sort se termine, elle tombe, à moins de pouvoir arrêter sa chute.
@@ -55207,6 +55207,7 @@ SubItems:
 
 
 - !SpellItem
+  Family: SpellHD
   Name: Zone de vérité
   AltName: '[Zone of Truth](srd_spells_zone_of_truth.md)'
   Type: Enchantement
@@ -55216,7 +55217,6 @@ SubItems:
   Components: V, S
   Duration: 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
-  Family: SpellHD
   Source: (MDR p)(SRD)
   Description: >+
     Vous créez une zone magique capable de protéger contre la duplicité, de la forme d'une sphère de 4,50 mètres de rayon centrée sur un point de votre choix situé à portée. Jusqu'à la fin du sort, une créature qui pénètre dans la sphère pour la première fois de son tour ou y commence son tour doit réussir un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) de [Charisme](hd_abilities_charisma.md). Si elle échoue, elle ne peut pas mentir délibérément tant qu'elle reste dans la zone du sort. Vous savez si chaque créature présente a réussi ou raté son [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md).

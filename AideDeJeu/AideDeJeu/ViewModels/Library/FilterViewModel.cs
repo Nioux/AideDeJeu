@@ -364,7 +364,7 @@ namespace AideDeJeu.ViewModels.Library
                         monster != null &&
                         monster.Family == this.Family &&
                         monster.Type.Contains(type) &&
-                        (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
+                        (string.IsNullOrEmpty(size) || (monster.Size != null && monster.Size.Equals(size))) &&
                         (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
                         (string.IsNullOrEmpty(terrain) || (monster.Terrain != null && monster.Terrain.Contains(terrain))) &&
                         challengeComparer.Compare(monster.Challenge, minChallenge) >= 0 &&
