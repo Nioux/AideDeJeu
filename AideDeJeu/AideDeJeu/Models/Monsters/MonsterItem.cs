@@ -1,6 +1,7 @@
 ﻿using AideDeJeu;
 using AideDeJeu.Tools;
 using Markdig.Syntax;
+using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,10 +13,15 @@ namespace AideDeJeuLib
 {
     public class MonsterItem : Item
     {
+        [Indexed]
         public string Family { get; set; }
+        [Indexed]
         public string Type { get; set; }
+        [Indexed]
         public string Size { get; set; }
+        [Indexed]
         public string Alignment { get; set; }
+        [Indexed]
         public string Terrain { get; set; }
         public string Legendary { get; set; }
         //public string Source { get; set; }
@@ -36,6 +42,7 @@ namespace AideDeJeuLib
         public string DamageResistances { get; set; }
         public string Senses { get; set; }
         public string Languages { get; set; }
+        [Indexed]
         public string Challenge { get; set; }
     }
 }
