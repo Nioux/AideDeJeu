@@ -388,7 +388,7 @@ Voir [Cerbère](monsters_hd.md#cerbère)
 
 # <!--Name-->Chien esquiveur, chiot<!--/Name-->
 
-Voir [Chien esquiveur](monsters_hd.md#chienesquiveur)
+Voir [Chien esquiveur](monsters_hd.md#chien-esquiveur)
 
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
@@ -570,7 +570,7 @@ Voir [Criard](monsters_hd.md#criard)
 
 # <!--Name-->Cube gélatineux, bébé<!--/Name-->
 
-Voir [Cube gélatineux](monsters_hd.md#cubegélatineux)
+Voir [Cube gélatineux](monsters_hd.md#cube-gélatineux)
 
 -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
@@ -606,7 +606,7 @@ _Touché :_ 3 (1d6) dégâts d'acide.
 
 # <!--Name-->Destrier noir, poulain<!--/Name-->
 
-Voir [Destrier noir](monsters_hd.md#destriernoir)
+Voir [Destrier noir](monsters_hd.md#destrier-noir)
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
@@ -781,7 +781,7 @@ _Touché :_ 7 (2d6) dégâts perforants.
 
 # <!--Name-->Élémenteau d'air<!--/Name-->
 
-Voir [Élémentaire de l'air](monsters_hd.md#Élémentairedel-air)
+Voir [Élémentaire de l'air](monsters_hd.md#Élémentaire-de-lair)
 
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
@@ -821,7 +821,7 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 
 # <!--Name-->Élémenteau d'eau<!--/Name-->
 
-Voir [Élémentaire de l'eau](monsters_hd.md#Élémentairedel-eau)
+Voir [Élémentaire de l'eau](monsters_hd.md#Élémentaire-de-leau)
 
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Plans élémentaires, Caverne sous-marine<!--/Terrain-->
@@ -865,7 +865,7 @@ _Touché :_ 5 (2d4) dégâts contondants.
 
 # <!--Name-->Élémenteau de feu<!--/Name-->
 
-Voir [Élémentaire du feu](monsters_hd.md#Élémentairedufeu)
+Voir [Élémentaire du feu](monsters_hd.md#Élémentaire-du-feu)
 
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
@@ -906,7 +906,7 @@ _Touché :_ 8 (2d4+3) dégâts de feu. Si la cible est un objet inflammable ou u
 
 # <!--Name-->Élémenteau de terre<!--/Name-->
 
-Voir [Élémentaire de l'air](monsters_hd.md#Élémentairedel-air)
+Voir [Élémentaire de l'air](monsters_hd.md#Élémentaire-de-lair)
 
 -  <!--Type-->Élémentaire de terre taille P, Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Plans élémentaires<!--/Terrain-->
@@ -1446,6 +1446,7 @@ _Touché :_ 1 dégât perforant.
 # <!--Name-->Kraken, larve<!--/Name-->
 
 (Pieuvre géante)
+
 Utilisez le profl de la [pieuvre](monsters_hd.md#pieuvre) (H&D, p. 317 pour le kraken nouveau-né).
 
 Voir [Kraken](monsters_hd.md#kraken)
@@ -1824,7 +1825,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 
 # <!--Name-->Naga, couvain<!--/Name-->
 
-Voir [Naga gardien](monsters_hd.md#nagagardien)
+Voir [Naga gardien](monsters_hd.md#naga-gardien)
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
@@ -2553,7 +2554,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 # <!--Name-->Tertre errant, petit<!--/Name-->
 
-Voir [Tertre errant](monsters_hd.md#tertreerrant)
+Voir [Tertre errant](monsters_hd.md#tertre-errant)
 
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
@@ -2636,6 +2637,8 @@ _Touché :_ 4 (1d8) dégâts perforants.
 <!--MonsterItem Family="BabyBestiary"-->
 
 # <!--Name-->Titan, rejeton<!--/Name-->
+
+Voir [Tarasque](monsters_hd.md#tarasque)
 
 -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
@@ -2763,7 +2766,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 
 # <!--Name-->Ver pourpre, violet<!--/Name-->
 
-Voir [Ver pourpre](monsters_hd.md#verpourpre)
+Voir [Ver pourpre](monsters_hd.md#ver-pourpre)
 
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Caverne naturelle<!--/Terrain-->
