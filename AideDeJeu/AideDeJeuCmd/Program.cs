@@ -381,10 +381,13 @@ namespace AideDeJeuCmd
 
         static async Task ExtractHtmlAsync()
         {
-            var parser = new HtmlParser();
-            var doc = new HtmlAgilityPack.HtmlDocument();
-            doc.Load(@"..\..\..\..\..\Ignore\tome_of_beasts\page30.html");
-            parser.OutputMarkdown(parser.Parse(doc));
+            for (int i = 1; i <= 434; i++)
+            {
+                var parser = new HtmlParser();
+                var doc = new HtmlAgilityPack.HtmlDocument();
+                doc.Load($@"..\..\..\..\..\Ignore\tome_of_beasts\page{i}.html");
+                parser.OutputMarkdown(parser.Parse(doc));
+            }
         }
 
         class HtmlParser
@@ -425,50 +428,53 @@ namespace AideDeJeuCmd
                 var txtDivs = doc.DocumentNode.SelectNodes("//div[@class='txt']");
                 var fullText = new FullText();
                 var fullLine = new FullLine();
-                foreach (var txtDiv in txtDivs)
+                if (txtDivs != null)
                 {
-                    var spans = txtDiv.Elements("span");
-                    for (var i = 0; i < spans.Count(); i++)
+                    foreach (var txtDiv in txtDivs)
                     {
-                        var span = spans.ToArray()[i];
-                        var spanId = span.GetAttributeValue("id", "");
-                        var spanStyle = span.GetAttributeValue("style", "");
-                        var spanIdStyle = new string(styles.SingleOrDefault(s => s.StartsWith($"#{spanId} ")).SkipWhile(c => c != '{').ToArray());
-                        var parsedSpan = new ParsedSpan()
+                        var spans = txtDiv.Elements("span");
+                        for (var i = 0; i < spans.Count(); i++)
                         {
-                            Text = span.InnerText,
-                            Style = spanStyle,
-                            IdStyle = spanIdStyle,
-                        };
-                        if (span.InnerText.Contains("Forme immuable"))
-                        {
-                            Debug.WriteLine("");
-                        }
-                        if (i == 0)
-                        {
-                            var previousParsedSpan = fullLine.LastOrDefault();
-                            if (previousParsedSpan == null)
+                            var span = spans.ToArray()[i];
+                            var spanId = span.GetAttributeValue("id", "");
+                            var spanStyle = span.GetAttributeValue("style", "");
+                            var spanIdStyle = new string(styles.SingleOrDefault(s => s.StartsWith($"#{spanId} ")).SkipWhile(c => c != '{').ToArray());
+                            var parsedSpan = new ParsedSpan()
                             {
-                                var previousFullLine = fullText.LastOrDefault();
-                                if (previousFullLine != null)
-                                {
-                                    previousParsedSpan = previousFullLine.LastOrDefault();
-                                }
+                                Text = span.InnerText,
+                                Style = spanStyle,
+                                IdStyle = spanIdStyle,
+                            };
+                            if (span.InnerText.Contains("Forme immuable"))
+                            {
+                                Debug.WriteLine("");
                             }
+                            if (i == 0)
+                            {
+                                var previousParsedSpan = fullLine.LastOrDefault();
+                                if (previousParsedSpan == null)
+                                {
+                                    var previousFullLine = fullText.LastOrDefault();
+                                    if (previousFullLine != null)
+                                    {
+                                        previousParsedSpan = previousFullLine.LastOrDefault();
+                                    }
+                                }
 
-                            if (previousParsedSpan != null)
-                            {
-                                if (previousParsedSpan.Style != parsedSpan.Style || previousParsedSpan.IdStyle != parsedSpan.IdStyle)
+                                if (previousParsedSpan != null)
                                 {
-                                    fullText.Add(fullLine);
-                                    fullLine = new FullLine();
+                                    if (previousParsedSpan.Style != parsedSpan.Style || previousParsedSpan.IdStyle != parsedSpan.IdStyle)
+                                    {
+                                        fullText.Add(fullLine);
+                                        fullLine = new FullLine();
+                                    }
                                 }
                             }
+                            fullLine.Add(parsedSpan);
                         }
-                        fullLine.Add(parsedSpan);
                     }
+                    fullText.Add(fullLine);
                 }
-                fullText.Add(fullLine);
 
                 return fullText;
             }
@@ -509,17 +515,19 @@ namespace AideDeJeuCmd
                         }
                         else if (keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;"))
                         {
-                            Console.Write($"{keySpan.Text} {value}");
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.Write($"{keySpan.Text}");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine($" {value}");
                         }
                         else
                         {
-                            //Console.Write($"{spanStyle} => {span.InnerText} ");
-                            Console.Write($"{keySpan.Text} {value}");
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.Write($"{keySpan.Text}");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine($" {value}");
                         }
-                        //Console.Write(spa.Text);
                     }
-                    Console.WriteLine();
-                    //Console.WriteLine();
                 }
             }
 
