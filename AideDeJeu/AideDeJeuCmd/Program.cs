@@ -478,40 +478,43 @@ namespace AideDeJeuCmd
                 bool started = false;
                 foreach (var line in fullText)
                 {
-                    foreach(var spa in line)
+                    var keySpan = line.FirstOrDefault();
+                    if (keySpan.Style.Contains("font-size:11px"))
+                    {   // nom (démarrage)
+                        started = true;
+                    }
+                    if (started)
                     {
-                        if (spa.Style.Contains("font-size:11px"))
-                        {   // nom (démarrage)
-                            started = true;
-                        }
-                        if (started)
+
+                        string value = "";
+                        if (line.Count > 1)
                         {
-                            if (!spa.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;") && CloseKeyValue())
-                            {
-                            }
-                            else if (spa.Style.Contains("font-size:11px"))
-                            {   // nom
-                                Console.WriteLine($"# <!--Name-->{spa.Text}<!--/Name-->");
-                            }
-                            else if (spa.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:italic;") && spa.Text.Contains("taille"))
-                            {   // type / size / alignment
-                                // todo : découper type / size / alignment
-                                Console.WriteLine($"-  <!--Type-->{spa.Text}<!--/Alignment-->");
-                            }
-                            else if (spa.Style.Contains("rgba(121,27,16,1)"))
-                            {   // key / value
-                                key = spa.Text;
-                                //Console.WriteLine($"-  <!--Type-->{span.InnerText}<!--/Alignment-->");
-                            }
-                            else if (spa.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;"))
-                            {
-                                value += (value.Length == 0 ? " " : "") + spa.Text;
-                            }
-                            else
-                            {
-                                //Console.Write($"{spanStyle} => {span.InnerText} ");
-                                Console.Write($"{spa.Text}");
-                            }
+                            value = line.Skip(1).Select(p => p.Text).Aggregate((p1, p2) => p1 + p2);
+                        }
+                        if (keySpan.Style.Contains("font-size:11px"))
+                        {   // nom
+                            Console.WriteLine($"# <!--Name-->{keySpan.Text}<!--/Name-->");
+                        }
+                        else if (!keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;") && CloseKeyValue())
+                        {
+                        }
+                        else if (keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:italic;") && keySpan.Text.Contains("taille"))
+                        {   // type / size / alignment
+                            // todo : découper type / size / alignment
+                            Console.WriteLine($"-  <!--Type-->{keySpan.Text}<!--/Alignment-->");
+                        }
+                        else if (keySpan.Style.Contains("rgba(121,27,16,1)"))
+                        {   // key / value
+                            Console.WriteLine($"- **{keySpan.Text}** {value}");
+                        }
+                        else if (keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;"))
+                        {
+                            Console.Write($"{keySpan.Text} {value}");
+                        }
+                        else
+                        {
+                            //Console.Write($"{spanStyle} => {span.InnerText} ");
+                            Console.Write($"{keySpan.Text} {value}");
                         }
                         //Console.Write(spa.Text);
                     }
