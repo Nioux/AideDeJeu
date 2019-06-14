@@ -356,6 +356,7 @@ namespace AideDeJeuCmd
                 Console.WriteLine("l : build library");
                 Console.WriteLine("o : check orphan links");
                 Console.WriteLine("p : test pdf");
+                Console.WriteLine("h : extract html");
                 Console.WriteLine("q : quitter");
                 var key = Console.ReadKey(true);
                 switch (key.KeyChar)
@@ -369,12 +370,138 @@ namespace AideDeJeuCmd
                     case 'p':
                         await TestPdfAsync();
                         break;
+                    case 'h':
+                        await ExtractHtmlAsync();
+                        break;
                     case 'q':
                         return;
                 }
             }
         }
 
+        static async Task ExtractHtmlAsync()
+        {
+            var parser = new HtmlParser();
+            var doc = new HtmlAgilityPack.HtmlDocument();
+            doc.Load(@"..\..\..\..\..\Ignore\tome_of_beasts\page30.html");
+            parser.Parse(doc);
+        }
+
+        class HtmlParser
+        {
+            string key = "";
+            string value = "";
+            public void Parse(HtmlAgilityPack.HtmlDocument doc)
+            {
+                var styles = doc.DocumentNode.SelectSingleNode("/html/head/style").InnerText.Split('\n');
+                var txtDivs = doc.DocumentNode.SelectNodes("//div[@class='txt']");
+                bool started = false;
+                foreach (var txtDiv in txtDivs)
+                {
+                    var spans = txtDiv.Elements("span");
+                    foreach (var span in spans)
+                    {
+                        var spanId = span.GetAttributeValue("id", "");
+                        var spanStyle = span.GetAttributeValue("style", "");
+                        var spanIdStyle = styles.SingleOrDefault(s => s.StartsWith($"#{spanId} "));
+
+                        if (spanStyle.Contains("font-size:11px"))
+                        {   // nom (démarrage)
+                            started = true;
+                        }
+                        if (started)
+                        {
+                            if (spanStyle.Contains("font-size:11px"))
+                            {   // nom
+                                Console.WriteLine($"# <!--Name-->{span.InnerText}<!--/Name-->");
+                            }
+                            else if (spanIdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:italic;") && span.InnerText.Contains("taille"))
+                            {   // type / size / alignment
+                                // todo : découper type / size / alignment
+                                Console.WriteLine($"-  <!--Type-->{span.InnerText}<!--/Alignment-->");
+                            }
+                            else if (spanStyle.Contains("rgba(121,27,16,1)"))
+                            {   // key / value
+                                if (CloseKeyValue())
+                                {
+                                }
+                                key = span.InnerText;
+                                //Console.WriteLine($"-  <!--Type-->{span.InnerText}<!--/Alignment-->");
+                            }
+                            else if (spanIdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;"))
+                            {
+                                value += (value.Length == 0 ? " " : "") + span.InnerText;
+                            }
+                            else
+                            {
+                                if (CloseKeyValue())
+                                {
+                                }
+                                //Console.Write($"{spanStyle} => {span.InnerText} ");
+                                Console.Write($"{span.InnerText}");
+                            }
+                        }
+                    }
+                    if (started)
+                    {
+                        //Console.WriteLine();
+                    }
+                }
+            }
+
+            Dictionary<string, string> KeyTags = new Dictionary<string, string>()
+            {
+                { "Classe d’armure" , "ArmorClass" },
+                { "Points de vie", "HitPoints" },
+                { "Vitesse", "Speed" },
+                { "", "SavingThrows" },
+                { "Compétences", "Skills" },
+                { "Sens", "Senses" },
+                { "Langues", "Languages" },
+                { "Dangerosité", "Challenge" },
+                { "Résistance aux dégâts", "DamageResistance" },
+                { "Immunité contre les dégâts", "DamageImmunities" },
+                { "Immunité contre les états", "StateImmunities" },
+                //{ "", "" },
+                //{ "", "" },
+                //{ "", "" },
+                //{ "", "" },
+                //{ "", "" },
+                //{ "", "" },
+            };
+            List<string> KeyCaracs = new List<string>()
+            {
+                "FOR", "DEX", "CON", "INT", "SAG", "CHA"
+            };
+
+            string caracs = null;
+            bool CloseKeyValue()
+            {
+                if (!string.IsNullOrEmpty(key))
+                {
+                    if (KeyTags.ContainsKey(key.Trim()))
+                    {
+                        var tag = KeyTags[key.Trim()];
+                        Console.WriteLine($"- **{key.Trim()}** <!--{tag}-->{value.Trim()}<!--/{tag}-->");
+                    }
+                    else if (KeyCaracs.Contains(key.Trim()))
+                    {
+                        if (key.Trim() == "FOR")
+                        {
+                            Console.WriteLine("|FOR|DEX|CON|INT|SAG|CHA|\n|---|---|---|---|---|---|");
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine(value);
+                    }
+                    key = "";
+                    value = "";
+                    return true;
+                }
+                return false;
+            }
+        }
         static async Task TestPdfAsync()
         {
             Tests.Xamarin.Forms.Mocks.MockForms.Init();
