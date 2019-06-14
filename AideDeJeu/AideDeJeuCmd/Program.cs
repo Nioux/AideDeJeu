@@ -384,69 +384,145 @@ namespace AideDeJeuCmd
             var parser = new HtmlParser();
             var doc = new HtmlAgilityPack.HtmlDocument();
             doc.Load(@"..\..\..\..\..\Ignore\tome_of_beasts\page30.html");
-            parser.Parse(doc);
+            parser.OutputMarkdown(parser.Parse(doc));
         }
 
         class HtmlParser
         {
             string key = "";
             string value = "";
-            public void Parse(HtmlAgilityPack.HtmlDocument doc)
+            enum State
+            {
+                Before,
+                Name,
+                Type,
+                TopKeyValues,
+                Abilities,
+                BottomKeyValues,
+                Competencies,
+                Actions,
+                Reactions,
+
+            }
+
+            public class ParsedSpan
+            {
+                public string Text;
+                public string Style;
+                public string IdStyle;
+            }
+            public class FullLine : List<ParsedSpan>
+            {
+            }
+
+            public class FullText : List<FullLine>
+            {
+
+            }
+            public FullText Parse(HtmlAgilityPack.HtmlDocument doc)
             {
                 var styles = doc.DocumentNode.SelectSingleNode("/html/head/style").InnerText.Split('\n');
                 var txtDivs = doc.DocumentNode.SelectNodes("//div[@class='txt']");
-                bool started = false;
+                var fullText = new FullText();
+                var fullLine = new FullLine();
                 foreach (var txtDiv in txtDivs)
                 {
                     var spans = txtDiv.Elements("span");
-                    foreach (var span in spans)
+                    for (var i = 0; i < spans.Count(); i++)
                     {
+                        var span = spans.ToArray()[i];
                         var spanId = span.GetAttributeValue("id", "");
                         var spanStyle = span.GetAttributeValue("style", "");
-                        var spanIdStyle = styles.SingleOrDefault(s => s.StartsWith($"#{spanId} "));
+                        var spanIdStyle = new string(styles.SingleOrDefault(s => s.StartsWith($"#{spanId} ")).SkipWhile(c => c != '{').ToArray());
+                        var parsedSpan = new ParsedSpan()
+                        {
+                            Text = span.InnerText,
+                            Style = spanStyle,
+                            IdStyle = spanIdStyle,
+                        };
+                        if (span.InnerText.Contains("Forme immuable"))
+                        {
+                            Debug.WriteLine("");
+                        }
+                        if (i == 0)
+                        {
+                            var previousParsedSpan = fullLine.LastOrDefault();
+                            if (previousParsedSpan == null)
+                            {
+                                var previousFullLine = fullText.LastOrDefault();
+                                if (previousFullLine != null)
+                                {
+                                    previousParsedSpan = previousFullLine.LastOrDefault();
+                                }
+                            }
 
-                        if (spanStyle.Contains("font-size:11px"))
+                            if (previousParsedSpan != null)
+                            {
+                                if (previousParsedSpan.Style != parsedSpan.Style || previousParsedSpan.IdStyle != parsedSpan.IdStyle)
+                                {
+                                    fullText.Add(fullLine);
+                                    fullLine = new FullLine();
+                                }
+                            }
+                        }
+                        fullLine.Add(parsedSpan);
+                    }
+                }
+                fullText.Add(fullLine);
+
+                return fullText;
+            }
+
+            public void OutputMarkdown(FullText fullText)
+            {
+                bool started = false;
+                foreach (var line in fullText)
+                {
+                    foreach(var spa in line)
+                    {
+                        if (spa.Style.Contains("font-size:11px"))
                         {   // nom (démarrage)
                             started = true;
                         }
                         if (started)
                         {
-                            if (spanStyle.Contains("font-size:11px"))
-                            {   // nom
-                                Console.WriteLine($"# <!--Name-->{span.InnerText}<!--/Name-->");
+                            if (!spa.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;") && CloseKeyValue())
+                            {
                             }
-                            else if (spanIdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:italic;") && span.InnerText.Contains("taille"))
+                            else if (spa.Style.Contains("font-size:11px"))
+                            {   // nom
+                                Console.WriteLine($"# <!--Name-->{spa.Text}<!--/Name-->");
+                            }
+                            else if (spa.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:italic;") && spa.Text.Contains("taille"))
                             {   // type / size / alignment
                                 // todo : découper type / size / alignment
-                                Console.WriteLine($"-  <!--Type-->{span.InnerText}<!--/Alignment-->");
+                                Console.WriteLine($"-  <!--Type-->{spa.Text}<!--/Alignment-->");
                             }
-                            else if (spanStyle.Contains("rgba(121,27,16,1)"))
+                            else if (spa.Style.Contains("rgba(121,27,16,1)"))
                             {   // key / value
-                                if (CloseKeyValue())
-                                {
-                                }
-                                key = span.InnerText;
+                                key = spa.Text;
                                 //Console.WriteLine($"-  <!--Type-->{span.InnerText}<!--/Alignment-->");
                             }
-                            else if (spanIdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;"))
+                            else if (spa.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;"))
                             {
-                                value += (value.Length == 0 ? " " : "") + span.InnerText;
+                                value += (value.Length == 0 ? " " : "") + spa.Text;
                             }
                             else
                             {
-                                if (CloseKeyValue())
-                                {
-                                }
                                 //Console.Write($"{spanStyle} => {span.InnerText} ");
-                                Console.Write($"{span.InnerText}");
+                                Console.Write($"{spa.Text}");
                             }
                         }
+                        //Console.Write(spa.Text);
                     }
-                    if (started)
-                    {
-                        //Console.WriteLine();
-                    }
+                    Console.WriteLine();
+                    //Console.WriteLine();
                 }
+            }
+
+            void StripLine()
+            {
+
             }
 
             Dictionary<string, string> KeyTags = new Dictionary<string, string>()
