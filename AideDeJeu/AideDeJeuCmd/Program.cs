@@ -381,12 +381,12 @@ namespace AideDeJeuCmd
 
         static async Task ExtractHtmlAsync()
         {
-            for (int i = 1; i <= 434; i++)
+            for (int i = 10; i <= 428; i++)
             {
                 var parser = new HtmlParser();
                 var doc = new HtmlAgilityPack.HtmlDocument();
                 doc.Load($@"..\..\..\..\..\Ignore\tome_of_beasts\page{i}.html");
-                parser.OutputMarkdown(parser.Parse(doc));
+                parser.OutputMarkdown(parser.Parse(doc), Console.Out);
             }
         }
 
@@ -479,22 +479,22 @@ namespace AideDeJeuCmd
                 return fullText;
             }
 
-            public void OutputMarkdown(FullText fullText)
+            public void OutputMarkdown(FullText fullText, TextWriter output)
             {
                 bool started = false;
                 var page = fullText.Where(l => l.FirstOrDefault().Style.Contains("font-size:16px;vertical-align:baseline;color:rgba(255,207,52,1);"))?.FirstOrDefault()?.FirstOrDefault()?.Text;
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine($"Page : {page}");
+                output.WriteLine($"Page : {page}");
                 Console.ForegroundColor = ConsoleColor.White;
                 string abilities = null;
                 foreach (var line in fullText)
                 {
                     var keySpan = line.FirstOrDefault();
-                    if (keySpan.Style.Contains("font-size:11px"))
-                    {   // nom (démarrage)
-                        started = true;
-                    }
-                    if (started)
+                    //if (keySpan.Style.Contains("font-size:11px"))
+                    //{   // nom (démarrage)
+                    //    started = true;
+                    //}
+                    //if (started)
                     {
 
                         string value = "";
@@ -502,12 +502,16 @@ namespace AideDeJeuCmd
                         {
                             value = line.Skip(1).Select(p => p.Text).Aggregate((p1, p2) => p1.Trim() + " " + p2.Trim());
                         }
+                        Console.ForegroundColor = ConsoleColor.DarkGray;
+                        output.Write($"{keySpan.Text}");
+                        output.WriteLine($" {value}");
+
                         if (keySpan.Style.Contains("font-size:11px"))
                         {   // nom
                             Console.ForegroundColor = ConsoleColor.Cyan;
-                            Console.WriteLine($"# <!--Name-->{keySpan.Text}<!--/Name-->");
-                            Console.WriteLine($"");
-                            Console.WriteLine($"- Source: <!--Source-->(LDM p{page})<!--/Source-->");
+                            output.WriteLine($"# <!--Name-->{keySpan.Text}<!--/Name-->");
+                            output.WriteLine($"");
+                            output.WriteLine($"- Source: <!--Source-->(LDM p{page})<!--/Source-->");
                         }
                         //else if (!keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;") && CloseKeyValue())
                         //{
@@ -516,7 +520,7 @@ namespace AideDeJeuCmd
                         {   // type / size / alignment
                             // todo : découper type / size / alignment
                             Console.ForegroundColor = ConsoleColor.White;
-                            Console.WriteLine($"-  <!--Type-->{keySpan.Text}<!--/Alignment-->");
+                            output.WriteLine($"-  <!--Type-->{keySpan.Text}<!--/Alignment-->");
                         }
                         else if (keySpan.Style.Contains("rgba(121,27,16,1)"))
                         {   // key / ...
@@ -526,9 +530,9 @@ namespace AideDeJeuCmd
                                 tag = KeyTags[keySpan.Text.Trim()];
 
                                 Console.ForegroundColor = ConsoleColor.Blue;
-                                Console.Write($"- **{keySpan.Text.Trim()}**");
+                                output.Write($"- **{keySpan.Text.Trim()}**");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($" <!--{tag}-->{value}<!--/{tag}-->");
+                                output.WriteLine($" <!--{tag}-->{value}<!--/{tag}-->");
                             }
                             else
                             {
@@ -545,40 +549,51 @@ namespace AideDeJeuCmd
                                 abilities += keySpan.Text;
                                 if(abilities.Count(c => c == '(') == 6)
                                 {
-                                    Console.WriteLine("|FOR|DEX|CON|INT|SAG|CHA|\n|---|---|---|---|---|---|");
-                                    Console.WriteLine("|" + abilities.Replace(") ",")").Replace(")",")|"));
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                    output.WriteLine("\n|FOR|DEX|CON|INT|SAG|CHA|\n|---|---|---|---|---|---|");
+                                    output.WriteLine("|" + abilities.Replace(") ",")").Replace(")",")|") + "\n");
                                     abilities = null;
                                 }
                             }
                             else
                             {
                                 Console.ForegroundColor = ConsoleColor.Green;
-                                Console.Write($"{keySpan.Text}");
+                                output.Write($"{keySpan.Text}");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($" {value}");
+                                output.WriteLine($" {value}");
                             }
+                        }
+                        else if(keySpan.Style.Contains("font-size:14px;vertical-align:baseline;color:rgba(137,23,26,1);"))
+                        {   // actions / réactions
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            output.Write($"\n## {keySpan.Text}\n");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            output.WriteLine($" {value}");
                         }
                         else if (keySpan.Style.Contains("color:rgba(203,0,0,1)"))
                         {   // bloodmark
-
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            output.Write($"{keySpan.Text}");
+                            output.WriteLine($" {value}");
                         }
                         else if (keySpan.Style.Contains("font-size:16px;vertical-align:baseline;color:rgba(255,207,52,1);"))
                         {   // page
-
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            output.Write($"{keySpan.Text}");
+                            output.WriteLine($" {value}");
                         }
                         else if (keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;"))
                         {
                             Console.ForegroundColor = ConsoleColor.Green;
-                            Console.Write($"{keySpan.Text}");
+                            output.Write($"{keySpan.Text}");
                             Console.ForegroundColor = ConsoleColor.White;
-                            Console.WriteLine($" {value}");
+                            output.WriteLine($" {value}");
                         }
                         else
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
-                            Console.Write($"{keySpan.Text}");
-                            Console.ForegroundColor = ConsoleColor.White;
-                            Console.WriteLine($" {value}");
+                            output.Write($"{keySpan.Text}");
+                            output.WriteLine($" {value}");
                         }
                     }
                 }
