@@ -506,9 +506,33 @@ namespace AideDeJeuCmd
                         output.Write($"{keySpan.Text}");
                         output.WriteLine($" {value}");
 
-                        if (keySpan.Style.Contains("font-size:11px"))
+                        if(keySpan.Style.Contains("font-size:48px;vertical-align:baseline;color:rgba(0,0,0,1);"))
+                        {   // titre de page
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            output.Write($"{keySpan.Text}");
+                            output.WriteLine($" {value}");
+                        }
+                        else if (keySpan.Style.Contains("color:rgba(203,0,0,1)"))
+                        {   // bloodmark
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            output.Write($"{keySpan.Text}");
+                            output.WriteLine($" {value}");
+                        }
+                        else if (keySpan.Style.Contains("font-size:16px;vertical-align:baseline;color:rgba(255,207,52,1);"))
+                        {   // page
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            output.Write($"{keySpan.Text}");
+                            output.WriteLine($" {value}");
+                        }
+                        else if (keySpan.Style.Contains("font-size:8px;vertical-align:baseline;color:rgba(0,0,0,1)") && keySpan.IdStyle.Contains("font-family:serif; font-weight:normal; font-style:normal;"))
+                        {   // encadré
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            output.Write($"{keySpan.Text}");
+                            output.WriteLine($" {value}");
+                        }
+                        else if (keySpan.Style.Contains("font-size:11px;vertical-align:baseline;color:rgba(255,207,52,1);"))
                         {   // nom
-                            Console.ForegroundColor = ConsoleColor.Cyan;
+                            Console.ForegroundColor = ConsoleColor.White;
                             output.WriteLine($"# <!--Name-->{keySpan.Text}<!--/Name-->");
                             output.WriteLine($"");
                             output.WriteLine($"- Source: <!--Source-->(LDM p{page})<!--/Source-->");
@@ -529,13 +553,14 @@ namespace AideDeJeuCmd
                             {
                                 tag = KeyTags[keySpan.Text.Trim()];
 
-                                Console.ForegroundColor = ConsoleColor.Blue;
-                                output.Write($"- **{keySpan.Text.Trim()}**");
                                 Console.ForegroundColor = ConsoleColor.White;
+                                output.Write($"- **{keySpan.Text.Trim()}**");
                                 output.WriteLine($" <!--{tag}-->{value}<!--/{tag}-->");
                             }
                             else
                             {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                output.WriteLine($"ABILITIES");
                                 if (abilities == null)
                                 {
                                     abilities = "";
@@ -557,36 +582,21 @@ namespace AideDeJeuCmd
                             }
                             else
                             {
-                                Console.ForegroundColor = ConsoleColor.Green;
-                                output.Write($"{keySpan.Text}");
                                 Console.ForegroundColor = ConsoleColor.White;
+                                output.Write($"{keySpan.Text}");
                                 output.WriteLine($" {value}");
                             }
                         }
                         else if(keySpan.Style.Contains("font-size:14px;vertical-align:baseline;color:rgba(137,23,26,1);"))
                         {   // actions / réactions
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            output.Write($"\n## {keySpan.Text}\n");
                             Console.ForegroundColor = ConsoleColor.White;
-                            output.WriteLine($" {value}");
-                        }
-                        else if (keySpan.Style.Contains("color:rgba(203,0,0,1)"))
-                        {   // bloodmark
-                            Console.ForegroundColor = ConsoleColor.Red;
-                            output.Write($"{keySpan.Text}");
-                            output.WriteLine($" {value}");
-                        }
-                        else if (keySpan.Style.Contains("font-size:16px;vertical-align:baseline;color:rgba(255,207,52,1);"))
-                        {   // page
-                            Console.ForegroundColor = ConsoleColor.Red;
-                            output.Write($"{keySpan.Text}");
+                            output.Write($"\n## {keySpan.Text}\n");
                             output.WriteLine($" {value}");
                         }
                         else if (keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;"))
                         {
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            output.Write($"{keySpan.Text}");
                             Console.ForegroundColor = ConsoleColor.White;
+                            output.Write($"{keySpan.Text}");
                             output.WriteLine($" {value}");
                         }
                         else
@@ -597,6 +607,7 @@ namespace AideDeJeuCmd
                         }
                     }
                 }
+                Console.ReadKey();
             }
 
             void StripLine()
@@ -606,10 +617,10 @@ namespace AideDeJeuCmd
 
             Dictionary<string, string> KeyTags = new Dictionary<string, string>()
             {
+                { "Jets de sauvegarde", "SavingThrows" },
                 { "Classe d’armure" , "ArmorClass" },
                 { "Points de vie", "HitPoints" },
                 { "Vitesse", "Speed" },
-                { "", "SavingThrows" },
                 { "Compétences", "Skills" },
                 { "Sens", "Senses" },
                 { "Langues", "Languages" },
