@@ -482,6 +482,10 @@ namespace AideDeJeuCmd
             public void OutputMarkdown(FullText fullText)
             {
                 bool started = false;
+                var page = fullText.Where(l => l.FirstOrDefault().Style.Contains("font-size:16px;vertical-align:baseline;color:rgba(255,207,52,1);"))?.FirstOrDefault()?.FirstOrDefault()?.Text;
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine($"Page : {page}");
+                Console.ForegroundColor = ConsoleColor.White;
                 foreach (var line in fullText)
                 {
                     var keySpan = line.FirstOrDefault();
@@ -495,11 +499,14 @@ namespace AideDeJeuCmd
                         string value = "";
                         if (line.Count > 1)
                         {
-                            value = line.Skip(1).Select(p => p.Text).Aggregate((p1, p2) => p1 + p2);
+                            value = line.Skip(1).Select(p => p.Text).Aggregate((p1, p2) => p1.Trim() + " " + p2.Trim());
                         }
                         if (keySpan.Style.Contains("font-size:11px"))
                         {   // nom
+                            Console.ForegroundColor = ConsoleColor.Cyan;
                             Console.WriteLine($"# <!--Name-->{keySpan.Text}<!--/Name-->");
+                            Console.WriteLine($"");
+                            Console.WriteLine($"- Source: <!--Source-->(LDM p{page})<!--/Source-->");
                         }
                         else if (!keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;") && CloseKeyValue())
                         {
@@ -507,15 +514,27 @@ namespace AideDeJeuCmd
                         else if (keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:italic;") && keySpan.Text.Contains("taille"))
                         {   // type / size / alignment
                             // todo : découper type / size / alignment
+                            Console.ForegroundColor = ConsoleColor.White;
                             Console.WriteLine($"-  <!--Type-->{keySpan.Text}<!--/Alignment-->");
                         }
                         else if (keySpan.Style.Contains("rgba(121,27,16,1)"))
                         {   // key / value
-                            Console.WriteLine($"- **{keySpan.Text}** {value}");
+                            Console.ForegroundColor = ConsoleColor.Blue;
+                            Console.Write($"- **{keySpan.Text.Trim()}**");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine($" {value}");
+                        }
+                        else if(keySpan.Style.Contains("color:rgba(203,0,0,1)"))
+                        {   // bloodmark
+
+                        }
+                        else if (keySpan.Style.Contains("font-size:16px;vertical-align:baseline;color:rgba(255,207,52,1);"))
+                        {   // page
+
                         }
                         else if (keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;"))
                         {
-                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.ForegroundColor = ConsoleColor.Green;
                             Console.Write($"{keySpan.Text}");
                             Console.ForegroundColor = ConsoleColor.White;
                             Console.WriteLine($" {value}");
