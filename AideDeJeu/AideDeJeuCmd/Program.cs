@@ -381,12 +381,15 @@ namespace AideDeJeuCmd
 
         static async Task ExtractHtmlAsync()
         {
-            for (int i = 10; i <= 428; i++)
+            using (var output = new StreamWriter(@"..\..\..\..\..\Ignore\tome_of_beasts.md", false, Encoding.UTF8))
             {
-                var parser = new HtmlParser();
-                var doc = new HtmlAgilityPack.HtmlDocument();
-                doc.Load($@"..\..\..\..\..\Ignore\tome_of_beasts\page{i}.html");
-                parser.OutputMarkdown(parser.Parse(doc), Console.Out);
+                for (int i = 10; i <= 428; i++)
+                {
+                    var parser = new HtmlParser();
+                    var doc = new HtmlAgilityPack.HtmlDocument();
+                    doc.Load($@"..\..\..\..\..\Ignore\tome_of_beasts\page{i}.html");
+                    parser.OutputMarkdown(parser.Parse(doc), output, Console.Error);
+                }
             }
         }
 
@@ -424,7 +427,7 @@ namespace AideDeJeuCmd
             }
             public FullText Parse(HtmlAgilityPack.HtmlDocument doc)
             {
-                var styles = doc.DocumentNode.SelectSingleNode("/html/head/style").InnerText.Split('\n');
+                var styles = doc.DocumentNode.SelectSingleNode(" / html/head/style").InnerText.Split('\n');
                 var txtDivs = doc.DocumentNode.SelectNodes("//div[@class='txt']");
                 var fullText = new FullText();
                 var fullLine = new FullLine();
@@ -479,7 +482,7 @@ namespace AideDeJeuCmd
                 return fullText;
             }
 
-            public void OutputMarkdown(FullText fullText, TextWriter output)
+            public void OutputMarkdown(FullText fullText, TextWriter output, TextWriter error)
             {
                 bool started = false;
                 var page = fullText.Where(l => l.FirstOrDefault().Style.Contains("font-size:16px;vertical-align:baseline;color:rgba(255,207,52,1);"))?.FirstOrDefault()?.FirstOrDefault()?.Text;
@@ -503,32 +506,32 @@ namespace AideDeJeuCmd
                             value = line.Skip(1).Select(p => p.Text).Aggregate((p1, p2) => p1.Trim() + " " + p2.Trim());
                         }
                         Console.ForegroundColor = ConsoleColor.DarkGray;
-                        output.Write($"{keySpan.Text}");
-                        output.WriteLine($" {value}");
+                        error.Write($"{keySpan.Text}");
+                        error.WriteLine($" {value}");
 
                         if(keySpan.Style.Contains("font-size:48px;vertical-align:baseline;color:rgba(0,0,0,1);"))
                         {   // titre de page
                             Console.ForegroundColor = ConsoleColor.Red;
-                            output.Write($"{keySpan.Text}");
-                            output.WriteLine($" {value}");
+                            error.Write($"{keySpan.Text}");
+                            error.WriteLine($" {value}");
                         }
                         else if (keySpan.Style.Contains("color:rgba(203,0,0,1)"))
                         {   // bloodmark
                             Console.ForegroundColor = ConsoleColor.Red;
-                            output.Write($"{keySpan.Text}");
-                            output.WriteLine($" {value}");
+                            error.Write($"{keySpan.Text}");
+                            error.WriteLine($" {value}");
                         }
                         else if (keySpan.Style.Contains("font-size:16px;vertical-align:baseline;color:rgba(255,207,52,1);"))
                         {   // page
                             Console.ForegroundColor = ConsoleColor.Red;
-                            output.Write($"{keySpan.Text}");
-                            output.WriteLine($" {value}");
+                            error.Write($"{keySpan.Text}");
+                            error.WriteLine($" {value}");
                         }
                         else if (keySpan.Style.Contains("font-size:8px;vertical-align:baseline;color:rgba(0,0,0,1)") && keySpan.IdStyle.Contains("font-family:serif; font-weight:normal; font-style:normal;"))
                         {   // encadré
                             Console.ForegroundColor = ConsoleColor.Red;
-                            output.Write($"{keySpan.Text}");
-                            output.WriteLine($" {value}");
+                            error.Write($"{keySpan.Text}");
+                            error.WriteLine($" {value}");
                         }
                         else if (keySpan.Style.Contains("font-size:11px;vertical-align:baseline;color:rgba(255,207,52,1);"))
                         {   // nom
@@ -560,7 +563,7 @@ namespace AideDeJeuCmd
                             else
                             {
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                output.WriteLine($"ABILITIES");
+                                error.WriteLine($"ABILITIES");
                                 if (abilities == null)
                                 {
                                     abilities = "";
@@ -602,12 +605,12 @@ namespace AideDeJeuCmd
                         else
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
-                            output.Write($"{keySpan.Text}");
-                            output.WriteLine($" {value}");
+                            error.Write($"{keySpan.Text}");
+                            error.WriteLine($" {value}");
                         }
                     }
                 }
-                Console.ReadKey();
+                //Console.ReadKey();
             }
 
             void StripLine()
