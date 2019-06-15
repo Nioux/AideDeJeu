@@ -482,6 +482,22 @@ namespace AideDeJeuCmd
                 return fullText;
             }
 
+            string idssnn = "{ font-family:sans-serif; font-weight:normal; font-style:normal; }";
+            string idssni = "{ font-family:sans-serif; font-weight:normal; font-style:italic; }";
+            string idssbn = "{ font-family:sans-serif; font-weight:bold; font-style:normal; }";
+            string idssbi = "{ font-family:sans-serif; font-weight:bold; font-style:italic; }";
+            string idsbn = "{ font-family:serif; font-weight:bold; font-style:normal; }";
+            string idsnn = "{ font-family:serif; font-weight:normal; font-style:normal; }";
+            string idsni = "{ font-family:serif; font-weight:normal; font-style:italic; }";
+
+            string st23_255 = "font-size:23px;vertical-align:baseline;color:rgba(255,207,52,1);";
+            string st16_255 = "font-size:16px;vertical-align:baseline;color:rgba(255,207,52,1);";
+            string st11_255 = "font-size:11px;vertical-align:baseline;color:rgba(255,207,52,1);";
+            string st48_0 = "font-size:48px;vertical-align:baseline;color:rgba(0,0,0,1);";
+            string st8_0 = "font-size:8px;vertical-align:baseline;color:rgba(0,0,0,1);";
+            string st8_121 = "font-size:8px;vertical-align:baseline;color:rgba(121,27,16,1);";
+            string st8_137 = "font-size:8px;vertical-align:baseline;color:rgba(137,23,26,1);";
+
             public void OutputMarkdown(FullText fullText, TextWriter output, TextWriter error)
             {
                 bool started = false;
