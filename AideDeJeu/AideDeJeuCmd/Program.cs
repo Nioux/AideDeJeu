@@ -486,6 +486,7 @@ namespace AideDeJeuCmd
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine($"Page : {page}");
                 Console.ForegroundColor = ConsoleColor.White;
+                string abilities = null;
                 foreach (var line in fullText)
                 {
                     var keySpan = line.FirstOrDefault();
@@ -508,9 +509,9 @@ namespace AideDeJeuCmd
                             Console.WriteLine($"");
                             Console.WriteLine($"- Source: <!--Source-->(LDM p{page})<!--/Source-->");
                         }
-                        else if (!keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;") && CloseKeyValue())
-                        {
-                        }
+                        //else if (!keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:normal;") && CloseKeyValue())
+                        //{
+                        //}
                         else if (keySpan.IdStyle.Contains("font-family:sans-serif; font-weight:normal; font-style:italic;") && keySpan.Text.Contains("taille"))
                         {   // type / size / alignment
                             // todo : découper type / size / alignment
@@ -518,13 +519,46 @@ namespace AideDeJeuCmd
                             Console.WriteLine($"-  <!--Type-->{keySpan.Text}<!--/Alignment-->");
                         }
                         else if (keySpan.Style.Contains("rgba(121,27,16,1)"))
-                        {   // key / value
-                            Console.ForegroundColor = ConsoleColor.Blue;
-                            Console.Write($"- **{keySpan.Text.Trim()}**");
-                            Console.ForegroundColor = ConsoleColor.White;
-                            Console.WriteLine($" {value}");
+                        {   // key / ...
+                            string tag = "";
+                            if (KeyTags.ContainsKey(keySpan.Text.Trim()))
+                            {
+                                tag = KeyTags[keySpan.Text.Trim()];
+
+                                Console.ForegroundColor = ConsoleColor.Blue;
+                                Console.Write($"- **{keySpan.Text.Trim()}**");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($" <!--{tag}-->{value}<!--/{tag}-->");
+                            }
+                            else
+                            {
+                                if (abilities == null)
+                                {
+                                    abilities = "";
+                                }
+                            }
                         }
-                        else if(keySpan.Style.Contains("color:rgba(203,0,0,1)"))
+                        else if (keySpan.Style.Contains("rgba(0,0,0,1)"))
+                        {   // ... / value
+                            if(abilities != null)
+                            {
+                                abilities += keySpan.Text;
+                                if(abilities.Count(c => c == '(') == 6)
+                                {
+                                    Console.WriteLine("|FOR|DEX|CON|INT|SAG|CHA|\n|---|---|---|---|---|---|");
+                                    Console.WriteLine("|" + abilities.Replace(") ",")").Replace(")",")|"));
+                                    abilities = null;
+                                }
+                            }
+                            else
+                            {
+                                Console.ForegroundColor = ConsoleColor.Green;
+                                Console.Write($"{keySpan.Text}");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($" {value}");
+                            }
+                        }
+                        else if (keySpan.Style.Contains("color:rgba(203,0,0,1)"))
                         {   // bloodmark
 
                         }
@@ -565,10 +599,11 @@ namespace AideDeJeuCmd
                 { "Sens", "Senses" },
                 { "Langues", "Languages" },
                 { "Dangerosité", "Challenge" },
-                { "Résistance aux dégâts", "DamageResistance" },
+                { "Résistance aux dégâts", "DamageResistances" },
                 { "Immunité contre les dégâts", "DamageImmunities" },
-                { "Immunité contre les états", "StateImmunities" },
-                //{ "", "" },
+                { "Immunité contre les états", "ConditionImmunities" },
+                { "Immunité contre l’état", "ConditionImmunities" },
+                { "Vulnérabilité aux dégâts", "DamageVulnerabilities" },
                 //{ "", "" },
                 //{ "", "" },
                 //{ "", "" },
