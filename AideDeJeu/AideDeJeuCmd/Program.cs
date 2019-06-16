@@ -447,7 +447,7 @@ namespace AideDeJeuCmd
                             var divStyle = txtDiv.GetAttributeValue("style", "");
                             var parsedSpan = new ParsedSpan()
                             {
-                                Text = span.InnerText,
+                                Text = span.InnerText.Replace(" ",""),
                                 Style = spanStyle,
                                 IdStyle = spanIdStyle,
                                 DivStyle = divStyle,
@@ -502,6 +502,46 @@ namespace AideDeJeuCmd
 
             bool started = false;
 
+            public string MDStyle(string text, string style)
+            {
+                text = text.Trim();
+                if (style.Contains("italic"))
+                {
+                    text = $"_{text}_";
+                }
+                if (style.Contains("bold"))
+                {
+                    text = $"**{text}**";
+                }
+                return text;
+            }
+
+            List<KeyValuePair<string, string>> MDSizes = new List<KeyValuePair<string, string>>()
+            {
+                new KeyValuePair<string, string>("Petite/Très Grande", "P/TG"),
+                new KeyValuePair<string, string>("Très Petite", "TP"),
+                new KeyValuePair<string, string>("Très Grande", "TG"),
+                new KeyValuePair<string, string>("Grande", "G"),
+                new KeyValuePair<string, string>("Moyenne", "M"),
+                new KeyValuePair<string, string>("Gigantesque", "Gig"),
+                //new KeyValuePair<string, string>("Moyenne (métamorphe)", "M"),
+                //new KeyValuePair<string, string>("Très Petite taille ", "TP"),
+                new KeyValuePair<string, string>("Petite", "P"),
+                //new KeyValuePair<string, string>("Petite taille (cynome)", "P"),
+                //new KeyValuePair<string, string>("Grande taille d’élémentaires de taille Minuscule", "G"),
+            };
+
+            string ToMDSize(string size)
+            {
+                foreach(var mdsize in MDSizes)
+                {
+                    if(size.Contains(mdsize.Key))
+                    {
+                        return mdsize.Value;
+                    }
+                }
+                return size;
+            }
             public void OutputMarkdown(FullText fullText, TextWriter output, TextWriter error)
             {
                 var page = fullText.Where(l => l.FirstOrDefault().Style.Contains(st16_255))?.FirstOrDefault()?.FirstOrDefault()?.Text;
@@ -515,31 +555,32 @@ namespace AideDeJeuCmd
                     string value = "";
                     if (line.Count > 1)
                     {
-                        value = line.Skip(1).Select(p => p.Text).Aggregate((p1, p2) => p1.Trim() + " " + p2.Trim());
+                        value = line.Skip(1).Select(p => MDStyle(p.Text, p.Style)).Aggregate((p1, p2) => p1.Trim() + " " + p2.Trim());
                     }
+                    string text = MDStyle(keySpan.Text, keySpan.Style);
                     Console.ForegroundColor = ConsoleColor.DarkGray;
-                    error.Write($"{keySpan.Text}");
+                    error.Write($"{text}");
                     error.WriteLine($" {value}");
 
                     if (keySpan.Style.Contains(st48_0) && keySpan.IdStyle.Contains(idsnn))
                     {   // titre de page
                         Console.ForegroundColor = ConsoleColor.Blue;
-                        error.Write($"{keySpan.Text} {value}\n");
+                        error.Write($"{text} {value}\n");
                     }
                     else if (keySpan.Style.Contains(st9_203) && keySpan.IdStyle.Contains(idssnn))
                     {   // bloodmark
                         Console.ForegroundColor = ConsoleColor.Blue;
-                        error.Write($"{keySpan.Text} {value}\n");
+                        error.Write($"{text} {value}\n");
                     }
                     else if (keySpan.Style.Contains(st16_255) && keySpan.IdStyle.Contains(idsbn))
                     {   // page
                         Console.ForegroundColor = ConsoleColor.Blue;
-                        error.Write($"{keySpan.Text} {value}\n");
+                        error.Write($"{text} {value}\n");
                     }
                     else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idsnn))
                     {   // encadré
                         Console.ForegroundColor = ConsoleColor.Blue;
-                        error.Write($"{keySpan.Text} {value}\n");
+                        error.Write($"{text} {value}\n");
                     }
                     else if (keySpan.Style.Contains(st11_255) && keySpan.IdStyle.Contains(idssnn))
                     {   // nom
@@ -555,23 +596,34 @@ namespace AideDeJeuCmd
                             output.Write("\n<!--/MonsterItem-->\n\n");
                         }
                         output.Write("<!--MonsterItem Family=\"TomeOfBeasts\"-->\n\n");
-                        output.Write($"# <!--Name-->{CultureInfo.CurrentCulture.TextInfo.ToTitleCase(keySpan.Text.ToLower())}<!--/Name-->\n\n- Source: <!--Source-->(LDM p{page})<!--/Source-->\n");
+                        output.Write($"# <!--Name-->{CultureInfo.CurrentCulture.TextInfo.ToTitleCase(text.ToLower())}<!--/Name-->\n\n- Source: <!--Source-->(LDM p{page})<!--/Source-->\n");
                     }
-                    else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idssni) && keySpan.Text.Contains("taille"))
+                    else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idssni) && text.Contains("taille"))
                     {   // type / size / alignment
                         // todo : découper type / size / alignment
+                        var regex = new Regex("^(?<type>.*?) de (taille )?(?<size>.*?)( taille)?, (?<alignment>.*?)$");
+                        var match = regex.Match(text);
+                        var type = match.Groups["type"].Value;
+                        var size = match.Groups["size"].Value;
+                        var alignment = match.Groups["alignment"].Value;
+                        if (type.Length > 0)
+                        {
+                            text = text.Replace(type, $"<!--Type-->{type}<!--/Type-->");
+                            text = text.Replace(",", $" (<!--Size-->{ToMDSize(size)}<!--/Size-->),");
+                            text = text.Replace(alignment, $"<!--Alignment-->{alignment}<!--/Alignment-->");
+                        }
                         Console.ForegroundColor = ConsoleColor.White;
-                        output.Write($"-  <!--Type-->{keySpan.Text}<!--/Alignment-->\n");
+                        output.Write($"-  {text}\n");
                     }
                     else if (keySpan.Style.Contains(st8_121) && keySpan.IdStyle.Contains(idssbn))
                     {   // key / ...
                         string tag = "";
-                        if (KeyTags.ContainsKey(keySpan.Text.Trim()))
+                        if (KeyTags.ContainsKey(text.Trim()))
                         {
-                            tag = KeyTags[keySpan.Text.Trim()];
+                            tag = KeyTags[text.Trim()];
 
                             Console.ForegroundColor = ConsoleColor.White;
-                            output.Write($"- **{keySpan.Text.Trim()}** <!--{tag}-->{value}<!--/{tag}-->\n");
+                            output.Write($"- **{text.Trim()}** <!--{tag}-->{value}<!--/{tag}-->\n");
                         }
                         else
                         {
@@ -587,7 +639,7 @@ namespace AideDeJeuCmd
                     {   // ... / value
                         if (abilities != null)
                         {
-                            abilities += keySpan.Text;
+                            abilities += text;
                             if (abilities.Count(c => c == '(') == 6)
                             {
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -598,33 +650,33 @@ namespace AideDeJeuCmd
                         else
                         {
                             Console.ForegroundColor = ConsoleColor.White;
-                            output.Write($"{keySpan.Text} {value}\n");
+                            output.Write($"{text} {value}\n");
                         }
                     }
                     else if (keySpan.Style.Contains(st14_137) && keySpan.IdStyle.Contains(idsnn))
                     {   // actions / réactions
                         Console.ForegroundColor = ConsoleColor.White;
-                        output.Write($"\n## {keySpan.Text}\n{value}\n");
+                        output.Write($"\n## {text}\n{value}\n");
                     }
                     else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idssnn))
                     {
                         Console.ForegroundColor = ConsoleColor.White;
-                        output.Write($"{keySpan.Text.Trim()} {value}\n");
+                        output.Write($"{text.Trim()} {value}\n");
                     }
                     else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idssbi))
                     {
                         Console.ForegroundColor = ConsoleColor.White;
-                        output.Write($"\n**_{keySpan.Text.Trim()}_** {value}\n");
+                        output.Write($"\n**_{text.Trim()}_** {value}\n");
                     }
                     else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idssbn))
                     {
                         Console.ForegroundColor = ConsoleColor.White;
-                        output.Write($"\n**{keySpan.Text.Trim()}** {value}\n");
+                        output.Write($"\n**{text.Trim()}** {value}\n");
                     }
                     else
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        error.Write($"{keySpan.Text} {value}\n");
+                        error.Write($"{text} {value}\n");
                         error.Write($"{keySpan.Style}\n");
                         error.Write($"{keySpan.IdStyle}\n");
                     }
