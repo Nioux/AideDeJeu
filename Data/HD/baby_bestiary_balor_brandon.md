@@ -4,7 +4,10 @@
 
 # Balor, brandon
 
+Voir [Balor](hd_monsters_balor.md)
+
 -  Fiélon de taille P, Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 37 (5d6+20)
 - **Vitesse** 6 m, vol 12 m

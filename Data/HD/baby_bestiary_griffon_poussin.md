@@ -4,7 +4,10 @@
 
 # Griffon, poussin
 
+Voir [Griffon](hd_monsters_griffon.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 19 (3d8+6)
 - **Vitesse** 9 m, vol 18 m

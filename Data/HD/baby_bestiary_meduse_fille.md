@@ -4,7 +4,10 @@
 
 # Méduse, fille
 
+Voir [Méduse](hd_monsters_meduse.md)
+
 -  Créature monstrueuse de taille P, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 26 (4d6+12)
 - **Vitesse** 9 m

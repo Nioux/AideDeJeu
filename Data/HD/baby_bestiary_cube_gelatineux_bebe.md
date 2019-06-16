@@ -4,7 +4,10 @@
 
 # Cube gélatineux, bébé
 
+Voir [Cube gélatineux](hd_monsters_cube_gelatineux.md)
+
 -  Vase de taille P, non aligné
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 6
 - **Points de vie** 17 (2d6+10)
 - **Vitesse** 4,5 m

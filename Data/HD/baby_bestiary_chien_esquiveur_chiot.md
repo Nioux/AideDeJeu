@@ -4,7 +4,10 @@
 
 # Chien esquiveur, chiot
 
+Voir [Chien esquiveur](hd_monsters_chien_esquiveur.md)
+
 -  Fée de taille P, Loyal Bon
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 9 m

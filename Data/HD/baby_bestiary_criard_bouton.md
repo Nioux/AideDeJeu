@@ -4,7 +4,10 @@
 
 # Criard, bouton
 
+Voir [Criard](hd_monsters_criard.md)
+
 -  Plante de taille P, non aligné
+- **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5
 - **Points de vie** 3 (1d6)
 - **Vitesse** 0 m

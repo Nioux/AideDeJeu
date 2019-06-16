@@ -4,7 +4,10 @@
 
 # Hippocampe, fretin
 
+Voir [Hippocampe](hd_monsters_hippocampe.md)
+
 -  Bête de taille M, non aligné
+- **Terrain** Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 5 (1d10)
 - **Vitesse** 0 m, nage 12 m

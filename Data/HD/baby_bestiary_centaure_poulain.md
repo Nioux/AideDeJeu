@@ -4,7 +4,10 @@
 
 # Centaure, poulain
 
+Voir [Centaure](hd_monsters_centaure.md)
+
 -  Créature monstrueuse de taille M, Neutre Bon
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 19 (3d8+6)
 - **Vitesse** 12 m

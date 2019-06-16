@@ -4,7 +4,10 @@
 
 # Remorhaz, fraie
 
+Voir [Remorhaz](hd_monsters_remorhaz.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 51 (6d8+24)
 - **Vitesse** 9 m, fouissement 6 m

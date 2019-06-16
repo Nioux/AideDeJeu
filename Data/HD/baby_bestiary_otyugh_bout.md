@@ -4,7 +4,10 @@
 
 # Otyugh, bout
 
+Voir [Otyugh](hd_monsters_otyugh.md)
+
 -  Aberration de taille M, Neutre
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 24 (3d8+12)
 - **Vitesse** 9 m

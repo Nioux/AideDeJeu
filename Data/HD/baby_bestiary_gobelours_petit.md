@@ -4,7 +4,10 @@
 
 # Gobelours, petit
 
+Voir [Gobelours](hd_monsters_gobelours.md)
+
 -  Humanoïde (gobelinoïde) de taille P, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Caverne aménagée
 - **Classe d'armure** 12
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 9 m

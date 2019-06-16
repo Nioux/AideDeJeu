@@ -4,7 +4,10 @@
 
 # Hippogriffe, poulain
 
+Voir [Hippogriffe](hd_monsters_hippogriffe.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Littoral, Montagnes
 - **Classe d'armure** 11
 - **Points de vie** 5 (1d8+1)
 - **Vitesse** 9 m, vol 12 m

@@ -4,7 +4,10 @@
 
 # Xorn, bébé
 
+Voir [Xorn](hd_monsters_xorn.md)
+
 -  Élémentaire de taille P, Neutre
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 17 (2d6+10)
 - **Vitesse** 6 m, fouissement 3 m

@@ -4,7 +4,10 @@
 
 # Vouivre, civelle
 
+Voir [Vouivre](hd_monsters_vouivre.md)
+
 -  Dragon de taille M, non aligné
+- **Terrain** Littoral, Montagnes
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 30 (4d8+12)
 - **Vitesse** 6 m, vol 18 m

@@ -4,7 +4,10 @@
 
 # Djinayni
 
+Voir [Djinn](hd_monsters_djinn.md)
+
 -  Élémentaire de taille P, Chaotique Bon
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 41 (5d6+24)
 - **Vitesse** 6 m, vol 18 m

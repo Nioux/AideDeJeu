@@ -4,6 +4,8 @@
 
 # Titan, rejeton
 
+Voir [Tarasque](hd_monsters_tarasque.md)
+
 -  Créature monstrueuse (titan) de taille TG, non aligné
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 181 (11d12+110)

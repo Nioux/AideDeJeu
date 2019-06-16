@@ -4,7 +4,10 @@
 
 # Manticore, lionceau
 
+Voir [Manticore](hd_monsters_manticore.md)
+
 -  Créature monstrueuse de taille M, Loyal Mauvais
+- **Terrain** Désert chaud, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 9 m, vol 12 m

@@ -4,7 +4,10 @@
 
 # Basilic, lézardeau
 
+Voir [Basilic](hd_monsters_basilic.md)
+
 -  Créature monstrueuse de taille P, non aligné
+- **Terrain** Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 22 (4d6+8)
 - **Vitesse** 6 m

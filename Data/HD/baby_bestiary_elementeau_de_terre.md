@@ -4,7 +4,10 @@
 
 # Élémenteau de terre
 
+Voir [Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)
+
 -  Élémentaire de terre taille P, Neutre
+- **Terrain** Bois / Forêt, Plans élémentaires
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 34 (4d6+20)
 - **Vitesse** 9 m, fouissement 9 m

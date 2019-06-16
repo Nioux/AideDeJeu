@@ -4,7 +4,10 @@
 
 # Élémenteau d'air
 
+Voir [Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)
+
 -  Élémentaire de taille P, Neutre
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 14
 - **Points de vie** 22 (4d6+8)
 - **Vitesse** 0 m, vol 27 m (vol stationnaire)

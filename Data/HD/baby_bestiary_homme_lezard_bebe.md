@@ -4,7 +4,10 @@
 
 # Homme-lézard, bébé
 
+Voir [Homme-lézard](hd_monsters_homme_lezard.md)
+
 -  Humanoïde (homme-lézard) de taille M, Neutre
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle, bouclier)
 - **Points de vie** 4 (1d6+1)
 - **Vitesse** 6 m, nage 6 m

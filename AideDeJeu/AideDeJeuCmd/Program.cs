@@ -381,7 +381,7 @@ namespace AideDeJeuCmd
 
         static async Task ExtractHtmlAsync()
         {
-            using (var output = new StreamWriter(@"..\..\..\..\..\Ignore\tome_of_beasts.md", false, Encoding.UTF8))
+            using (var output = new StreamWriter(@"..\..\..\..\..\Data\tome_of_beasts.md", false, Encoding.UTF8))
             {
                 var parser = new HtmlParser();
                 for (int i = 10; i <= 428; i++)
@@ -390,7 +390,7 @@ namespace AideDeJeuCmd
                     doc.Load($@"..\..\..\..\..\Ignore\tome_of_beasts\page{i}.html");
                     parser.OutputMarkdown(parser.Parse(doc), output, Console.Error);
                 }
-                output.Write("\n<!--/MonsterItems-->\n");
+                output.Write("\n<!--/MonsterItem-->\n\n<!--/MonsterItems-->\n");
             }
         }
 

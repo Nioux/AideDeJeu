@@ -4,7 +4,10 @@
 
 # Oxydeur, charançon
 
+Voir [Oxydeur](hd_monsters_oxydeur.md)
+
 -  Créature monstrueuse de taille P, non aligné
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 9 m

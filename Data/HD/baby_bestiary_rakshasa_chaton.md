@@ -4,7 +4,10 @@
 
 # Rakshasa, chaton
 
+Voir [Rakshasa](hd_monsters_rakshasa.md)
+
 -  Fiélon de taille P, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 30 (4d6+16)
 - **Vitesse** 9 m

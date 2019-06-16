@@ -4,7 +4,10 @@
 
 # Ver pourpre, violet
 
+Voir [Ver pourpre](hd_monsters_ver_pourpre.md)
+
 -  Créature monstrueuse de taille G, non aligné
+- **Terrain** Montagnes, Caverne naturelle
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 52 (5d10+25)
 - **Vitesse** 12 m, fouissement 6 m

@@ -4,7 +4,10 @@
 
 # Élémenteau de feu
 
+Voir [Élémentaire du feu](hd_monsters_elementaire_du_feu.md)
+
 -  Élémentaire de taille P, Neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 13
 - **Points de vie** 26 (4d6+12)
 - **Vitesse** 15 m

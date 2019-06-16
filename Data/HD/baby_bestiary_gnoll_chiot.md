@@ -4,7 +4,10 @@
 
 # Gnoll, chiot
 
+Voir [Gnoll](hd_monsters_gnoll.md)
+
 -  Humanoïde (gnoll) de taille P, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 11
 - **Points de vie** 4 (1d8)
 - **Vitesse** 9 m

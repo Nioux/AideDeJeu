@@ -4,7 +4,10 @@
 
 # Dragonnet, tortue
 
+Voir [Dragon-tortue](hd_monsters_dragon_tortue.md)
+
 -  Dragon de taille P, alignement variable
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 19 (3d6+9)
 - **Vitesse** 6 m, nage 12 m

@@ -4,7 +4,10 @@
 
 # Pégase, poulain
 
+Voir [Pégase](hd_monsters_pegase.md)
+
 -  Céleste de taille M, Chaotique Bon
+- **Terrain** 
 - **Classe d'armure** 12
 - **Points de vie** 12 (2d8+6)
 - **Vitesse** 12 m, vol 18 m

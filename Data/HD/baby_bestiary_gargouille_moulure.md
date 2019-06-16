@@ -4,7 +4,10 @@
 
 # Gargouille, moulure
 
+Voir [Gargouille](hd_monsters_gargouille.md)
+
 -  Élémentaire de taille P, Chaotique Mauvais
+- **Terrain** Plans élémentaires, Ruines extérieures
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 11 (2d8+6)
 - **Vitesse** 6 m, vol 12m

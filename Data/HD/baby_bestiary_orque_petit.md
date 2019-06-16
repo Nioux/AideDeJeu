@@ -4,7 +4,10 @@
 
 # Orque, petit
 
+Voir [Orc](hd_monsters_orc.md)
+
 -  Humanoïde (orc) de taille P, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 11
 - **Points de vie** 6 (1d6+3)
 - **Vitesse** 9 m

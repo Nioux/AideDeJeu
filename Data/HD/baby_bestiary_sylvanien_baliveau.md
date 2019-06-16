@@ -4,7 +4,10 @@
 
 # Sylvanien, baliveau
 
+Voir [Sylvanien](hd_monsters_sylvanien.md)
+
 -  Plante de taille G, Chaotique Bonne
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 42 (4d10+20)
 - **Vitesse** 9 m

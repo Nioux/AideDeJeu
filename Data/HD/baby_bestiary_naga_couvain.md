@@ -4,9 +4,10 @@
 
 # Naga, couvain
 
-(Naga gardien)
+Voir [Naga gardien](hd_monsters_naga_gardien.md)
 
 -  Créature monstrueuse de taille P, Loyal Bon
+- **Terrain** Ruines extérieures
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 32 (5d6+15)
 - **Vitesse** 9 m

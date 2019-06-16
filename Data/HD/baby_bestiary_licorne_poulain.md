@@ -4,7 +4,10 @@
 
 # Licorne, poulain
 
+Voir [Licorne](hd_monsters_licorne.md)
+
 -  Céleste de taille M, Loyal Bon
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 12
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 15 m

@@ -4,7 +4,10 @@
 
 # Hydre, serpenteau
 
+Voir [Hydre](hd_monsters_hydre.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Littoral, Caverne sous-marine
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 47 (5d8+25)
 - **Vitesse** 9 m, nage 9 m

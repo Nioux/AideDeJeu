@@ -4,7 +4,10 @@
 
 # Minotaure, veau
 
+Voir [Minotaure](hd_monsters_minotaure.md)
+
 -  Créature monstrueuse de taille M, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 9 m

@@ -4,7 +4,10 @@
 
 # Kobold, petit
 
+Voir [Kobold](hd_monsters_kobold.md)
+
 -  Humanoïde (kobold) de taille P, Loyal Mauvais
+- **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 12
 - **Point de vie** 1 (1d6-2)
 - **Vitesse** 9 m

@@ -4,7 +4,10 @@
 
 # Tertre errant, petit
 
+Voir [Tertre errant](hd_monsters_tertre_errant.md)
+
 -  Plante de taille M, non aligné
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 37 (5d8+15)
 - **Vitesse** 6 m

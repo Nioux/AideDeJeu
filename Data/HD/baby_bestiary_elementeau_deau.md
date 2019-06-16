@@ -4,7 +4,10 @@
 
 # Élémenteau d'eau
 
+Voir [Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)
+
 -  Élémentaire de taille P, Neutre
+- **Terrain** Mer / Océan, Plans élémentaires, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 30 (4d6+16)
 - **Vitesse** 9 m, nage 27 m

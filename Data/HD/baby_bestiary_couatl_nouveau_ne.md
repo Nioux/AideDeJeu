@@ -4,7 +4,10 @@
 
 # Couatl, nouveau-né
 
+Voir [Couatl](hd_monsters_couatl.md)
+
 -  Créature monstrueuse de taille P, Loyal Bon
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 39 (6d6+18)
 - **Vitesse** 6 m, vol 18 m

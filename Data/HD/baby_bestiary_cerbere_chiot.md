@@ -4,7 +4,10 @@
 
 # Cerbère, chiot
 
+Voir [Cerbère](hd_monsters_cerbere.md)
+
 -  Créature monstrueuse de taille M, Neutre Mauvais
+- **Terrain** Bois / Forêt, Jungle, Montagnes
 - **Classe d'armure** 13
 - **Points de vie** 45 (6d8+18)
 - **Vitesse** 12 m

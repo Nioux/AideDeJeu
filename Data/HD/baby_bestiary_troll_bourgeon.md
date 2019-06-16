@@ -4,7 +4,10 @@
 
 # Troll, bourgeon
 
+Voir [Troll](hd_monsters_troll.md)
+
 -  Géant de taille M, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 19 (2d8+10)
 - **Vitesse** 9 m

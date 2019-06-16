@@ -4,7 +4,10 @@
 
 # Cocatrice, poussin
 
+Voir [Cockatrice](hd_monsters_cockatrice.md)
+
 -  Créature monstrueuse de taille TP, non aligné
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 7 (2d4+2)
 - **Vitesse** 6 m, vol 9 m

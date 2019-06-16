@@ -4,7 +4,10 @@
 
 # Satyre, chevreau
 
+Voir [Satyre](hd_monsters_satyre.md)
+
 -  Fée de taille P, Chaotique Neutre
+- **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 9 (2d8)
 - **Vitesse** 12 m

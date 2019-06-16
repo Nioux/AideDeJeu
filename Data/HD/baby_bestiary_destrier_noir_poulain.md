@@ -4,7 +4,10 @@
 
 # Destrier noir, poulain
 
+Voir [Destrier noir](hd_monsters_destrier_noir.md)
+
 -  Créature monstrueuse de taille M, Neutre Mauvais
+- **Terrain** 
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 30 (4d8+12)
 - **Vitesse** 12 m, vol 18 m

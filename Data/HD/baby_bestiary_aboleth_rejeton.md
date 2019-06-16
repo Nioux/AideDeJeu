@@ -4,7 +4,10 @@
 
 # Aboleth, rejeton
 
+Voir [Aboleth](hd_monsters_aboleth.md)
+
 -  Aberration de taille M, Loyal Mauvais
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 39 (6d8+12)
 - **Vitesse** 3 m, nage 12 m

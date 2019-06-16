@@ -4,7 +4,10 @@
 
 # Harpie, fille
 
+Voir [Harpie](hd_monsters_harpie.md)
+
 -  Créature monstrueuse de taille P, Chaotique Mauvais
+- **Terrain** Littoral, Montagnes, Ruines extérieures
 - **Classe d'armure** 11
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 6 m, vol 9 m

@@ -5,9 +5,13 @@
 # Kraken, larve
 
 (Pieuvre géante)
-Utilisez le profl de la pieuvre (H&D, p. 317 pour le kraken nouveau-né).
+
+Utilisez le profl de la [pieuvre](hd_monsters_pieuvre.md) (H&D, p. 317 pour le kraken nouveau-né).
+
+Voir [Kraken](hd_monsters_kraken.md)
 
 -  Bête de taille M, non aligné
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 11
 - **Points de vie** 13 (3d6+3)
 - **Vitesse** 3 m, nage 15 m

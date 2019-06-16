@@ -4,7 +4,10 @@
 
 # Ours-hibou, poussin
 
+Voir [Hibours](hd_monsters_hibours.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Bois / Forêt, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 9 m

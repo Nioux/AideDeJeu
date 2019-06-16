@@ -4,7 +4,10 @@
 
 # Chimère, lionceau
 
+Voir [Chimère](hd_monsters_chimere.md)
+
 -  Créature monstrueuse de taille M, Chaotique Mauvais
+- **Terrain** Bois / Forêt, Montagnes, Ruines extérieures
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 37 (5d8+15)
 - **Vitesse** 9 m, vol 12 m (dès 16 mois)

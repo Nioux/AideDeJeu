@@ -4,7 +4,10 @@
 
 # Mimique, bébé
 
+Voir [Mimique](hd_monsters_mimique.md)
+
 -  Créature monstrueuse (métamorphe) de taille P, Neutre
+- **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 13 (3d6+6)
 - **Vitesse** 4,50 m

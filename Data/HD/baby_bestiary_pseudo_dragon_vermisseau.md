@@ -4,7 +4,10 @@
 
 # Pseudo-dragon, vermisseau
 
+Voir [Pseudodragon](hd_monsters_pseudodragon.md)
+
 -  Dragon de taille TP, Neutre Bon
+- **Terrain** Bois / Forêt, Jungle, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 3 (1d4+1)
 - **Vitesse** 4,50 m, vol 18 m

@@ -4,7 +4,10 @@
 
 # Bulette, chevreau
 
+Voir [Bulette](hd_monsters_bulette.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Bois / Forêt, Collines / Vallées, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 38 (4d8+20)
 - **Vitesse** 9 m, fouissement 9 m
