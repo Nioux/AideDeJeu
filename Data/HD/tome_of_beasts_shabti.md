@@ -9,6 +9,11 @@
 - **Classe d’armure** 17 (armure naturelle)
 - **Points de vie** 102 (12d8+48)
 - **Vitesse** 12m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|20 (+5)|18 (+4)|6 (−2)|11 (+0)|6 (−2)|
+
 - **Immunité contre les dégâts** de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 10

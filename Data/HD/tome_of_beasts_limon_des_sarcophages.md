@@ -9,6 +9,11 @@
 - **Classe d’armure** 11
 - **Points de vie** 102 (12d8+48)
 - **Vitesse** 6 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|12 (+1)|18 (+4)|3 (−4)|12 (+1)|12 (+1)|
+
 - **Jets de sauvegarde** Sag +4, Cha +4
 - **Résistance aux dégâts** d’acide, nécrotiques
 - **Immunité contre les dégâts** de poison

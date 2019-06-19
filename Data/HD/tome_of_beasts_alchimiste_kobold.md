@@ -9,6 +9,11 @@
 - **Classe d’armure** 15 (armure de cuir clouté)
 - **Points de vie** 44 (8d6+16)
 - **Vitesse** 9m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|7 (−2)|16 (+3)|15 (+2)|16 (+3)|9 (−1)|8 (−1)|
+
 - **Compétences** Arcanes +5, Médecine +3
 - **Immunité contre les dégâts** de poison
 - **Immunité contre l’état** empoisonné

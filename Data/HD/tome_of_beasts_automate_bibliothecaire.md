@@ -9,6 +9,11 @@
 - **Classe d’armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d6)
 - **Vitesse** 9m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|8 (−1)|13 (+1)|10 (+0)|14 (+2)|12 (+1)|8 (−1)|
+
 - **Compétences** Histoire +4, Investigation +4
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, empoisonné

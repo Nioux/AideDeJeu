@@ -9,6 +9,11 @@
 - **Classe d’armure** 15 (armure naturelle)
 - **Points de vie** 63 (14d6+14)
 - **Vitesse** 7,50m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|16 (+3)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
+
 - **Jets de sauvegarde** Dex +5, Con +3
 - **Compétences** Acrobaties +5, Discrétion +7
 - **Sens** vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9

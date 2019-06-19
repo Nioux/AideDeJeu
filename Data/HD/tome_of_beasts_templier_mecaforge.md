@@ -9,6 +9,11 @@
 - **Classe d’armure** 18 (harnois)
 - **Points de vie** 71 (11d8+22)
 - **Vitesse** 9m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|20 (+5)|9 (−1)|15 (+2)|12 (+1)|16 (+3)|10 (+0)|
+
 - **Jets de sauvegarde** Dex +2, Con +5
 - **Résistance aux dégâts** contondants, perforants et tranchants issus d’armes non magiques
 - **Immunité contre les dégâts** de poison

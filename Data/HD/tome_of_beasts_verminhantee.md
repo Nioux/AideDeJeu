@@ -9,6 +9,11 @@
 - **Classe d’armure** 14 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
 - **Vitesse** 9m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|15 (+2)|11 (+0)|19 (+4)|1 (−5)|7 (–2)|1 (–5)|
+
 - **Immunité contre les dégâts** d’acide
 - **Immunité contre les états** aveuglé, charmé, assourdi, épuisé, terrorisé, à terre
 - **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 8

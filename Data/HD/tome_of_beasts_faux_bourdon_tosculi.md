@@ -9,6 +9,11 @@
 - **Classe d’armure** 13
 - **Points de vie** 22 (4d6+8)
 - **Vitesse** 6 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10(2d4+5)|dégâts perforants et la cible est paralysée pendant 8heures. On peut mettre un terme à la paralysie en réussissant un test de Sagesse (Médecine)|DD20 ou avec un sort ou effet qui soigne les maladies. (Comme cette attaque vise uniquement les créatures paralysées, elle se solde forcément par un coup critique, les dégâts supplémentaires étant déjà inclus dans la liste des dégâts)|.8 (-1)|16 (+3)|14 (+2)|
+
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Dangerosité** 1/2 (100 PX)
 

@@ -9,6 +9,11 @@
 - **Classe d’armure** 14 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
 - **Vitesse** 6 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|20 (+5)|8 (−1)|19 (+4)|3 (−4)|11 (+0)|1 (−5)|
+
 - **Immunité contre les dégâts** de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
 - **Sens** vision dans le noir 36 m, Perception passive 10

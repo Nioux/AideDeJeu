@@ -9,6 +9,11 @@
 - **Classe d’armure** 12 (armure de cuir)
 - **Points de vie** 22 (4d6+8)
 - **Vitesse** 6 m, fouissement 6m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|9 (−1)|12 (+1)|14 (+2)|13 (+1)|10 (+0)|11 (+1)|
+
 - **Résistance aux dégâts** de poison
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** commun, erina

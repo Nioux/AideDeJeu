@@ -9,6 +9,11 @@
 - **Classe d’armure** 15
 - **Points de vie** 39 (6d8+12)
 - **Vitesse** vol 15 m (vol stationnaire)
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|1 (–5)|20 (+5)|15 (+2)|5 (−3)|12 (+1)|17 (+3)|
+
 - **Vulnérabilité aux dégâts** de tonnerre
 - **Résistance aux dégâts** d’acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d’armes non magiques
 - **Immunité contre les dégâts** de poison

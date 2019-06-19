@@ -9,6 +9,11 @@
 - **Classe d’armure** 13 (armure de cuir)
 - **Points de vie** 27 (6d8)
 - **Vitesse** 9m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|9 (−1)|14 (+2)|10 (+0)|16 (+3)|12 (+1)|11 (+0)|
+
 - **Compétences** Arcanes +5, Investigation +5
 - **Sens** Perception passive 11
 - **Dangerosité** 1/4 (50 PX)

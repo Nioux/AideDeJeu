@@ -9,6 +9,11 @@
 - **Classe d’armure** 15 (armure de cuir, bouclier)
 - **Points de vie** 18 (4d6+4)
 - **Vitesse** 7,50m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|8 (−1)|14 (+2)|12 (+1)|10 (+0)|11 (+0)|7 (−2)|
+
 - **Immunité contre les dégâts** de froid
 - **Sens** Perception passive 10
 - **Dangerosité** 1/2 (50 PX)

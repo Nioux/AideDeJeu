@@ -200,6 +200,11 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l’état cha
 - **Classe d’armure** 15 (chemise de mailles)
 - **Points de vie** 110 (13d10+39)
 - **Vitesse** 9m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|18 (+4)|14 (+2)|16 (+3)|6 (–2)|14 (+2)|8 (−1)|
+
 - **Jets de sauvegarde** For +6, Con +5
 - **Compétences** Athlétisme+6, Perception +4
 - **Immunité contre les états** charmé, terrorisé

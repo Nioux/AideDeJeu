@@ -9,6 +9,11 @@
 - **Classe d’armure** 15 (naturelle)
 - **Points de vie** 40 (9d6+9)
 - **Vitesse** 3 m, vol 18 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|16 (+3)|12 (+1)|2 (−4)|12 (+1)|16 (+3)|
+
 - **Immunité contre les dégâts** de feu
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** —

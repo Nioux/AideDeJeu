@@ -9,6 +9,11 @@
 - **Classe d’armure** 14 (naturelle)
 - **Points de vie** 97 (13d10+26)
 - **Vitesse** 15 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|15 (+2)|14 (+2)|8 (−1)|10 (+0)|16 (+3)|
+
 - **Sens** vision dans le noir 18 m, Perception passive 12
 - **Langues** comprend l’elfique et l’umbral mais ne peut pas parler
 - **Dangerosité** 2 (450PX)

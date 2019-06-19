@@ -385,10 +385,12 @@ namespace AideDeJeuCmd
             {
                 var parser = new HtmlParser();
                 for (int i = 10; i <= 428; i++)
+                //for (int i = 256; i <= 256; i++)
                 {
                     var doc = new HtmlAgilityPack.HtmlDocument();
                     doc.Load($@"..\..\..\..\..\Ignore\tome_of_beasts\page{i}.html");
                     parser.OutputMarkdown(parser.Parse(doc), output, Console.Error);
+                    //parser.OutputMarkdown(parser.Parse(doc), Console.Out, Console.Error);
                 }
                 output.Write("\n<!--/MonsterItem-->\n\n<!--/MonsterItems-->\n");
             }
@@ -640,6 +642,10 @@ namespace AideDeJeuCmd
                         if (abilities != null)
                         {
                             abilities += text;
+                            if(value.Length > 0)
+                            {
+                                abilities += $" {value}";
+                            }
                             if (abilities.Count(c => c == '(') == 6)
                             {
                                 Console.ForegroundColor = ConsoleColor.White;

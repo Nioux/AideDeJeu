@@ -9,6 +9,11 @@
 - **Classe d’armure** 14 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9 m, nage 6 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|17 (+3)|15 (+2)|16 (+3)|13 (+1)|9 (−1)|7 (−2)|
+
 - **Compétences** Perception +1, Discrétion +4
 - **Immunité contre les états** charmé, inconscient
 - **Sens** vision dans le noir 18 m, Perception passive 11

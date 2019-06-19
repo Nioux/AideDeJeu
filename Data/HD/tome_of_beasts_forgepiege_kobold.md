@@ -9,6 +9,11 @@
 - **Classe d’armure** 14 (armure de cuir)
 - **Points de vie** 36 (8d6+8)
 - **Vitesse** 9m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|7 (−2)|16 (+3)|12 (+1)|16 (+3)|13 (+1)|8 (−1)|
+
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** commun, draconique
 - **Dangerosité** 1 (200 PX)

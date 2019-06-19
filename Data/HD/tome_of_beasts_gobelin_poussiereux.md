@@ -9,6 +9,11 @@
 - **Classe d’armure** 14 (armure de cuir)
 - **Points de vie** 5 (1d6+2)
 - **Vitesse** 12m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|8 (−1)|16 (+3)|14 (+2)|10 (+0)|8 (−1)|8 (−1)|
+
 - **Immunité contre les états** charmé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** commun, gobelin

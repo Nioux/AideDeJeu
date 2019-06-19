@@ -9,6 +9,11 @@
 - **Classe d’armure** 15
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 9 m, vol 9 m (vol stationnaire)
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|20 (+5)|16 (+3)|6 (−2)|10 (+0)|7 (−2)|
+
 - **Résistance aux dégâts** contondants, perforants et tranchants
 - **Immunité contre les dégâts** de feu, de poison
 - **Immunité contre les états** épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi, inconscient

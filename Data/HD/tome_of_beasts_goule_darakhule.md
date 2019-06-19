@@ -9,6 +9,11 @@
 - **Classe d’armure** 16 (armure d’écailles ; 18 avec bouclier)
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9m
+
+|FOR|DEX|CON|INT|SAG|CHA||
+|---|---|---|---|---|---|---|
+|16 (+3)|(+1)|17 (+3)|14 (+2)|14 (+2)|12 (+1)|12|
+
 - **Compétences** Supercherie +3, Discrétion +5
 - **Résistance aux dégâts** nécrotiques
 - **Immunité contre les dégâts** de poison

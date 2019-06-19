@@ -9,6 +9,11 @@
 - **Classe d’armure** 11 (armure naturelle)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 6 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|8 (−1)|15 (+2)|7 (−2)|10 (+0)|14 (+2)|
+
 - **Jets de sauvegarde** Sag +2
 - **Vulnérabilité aux dégâts** de feu
 - **Résistance aux dégâts** contondants, perforants et tranchants issus d’armes non magiques

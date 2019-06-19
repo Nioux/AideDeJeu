@@ -9,6 +9,11 @@
 - **Classe d’armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d6)
 - **Vitesse** 7,50m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (−1)|8 (−1)|
+
 - **Jets de sauvegarde** Dex +4, Con +2
 - **Compétences** Acrobaties +4, Discrétion +6
 - **Sens** vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9

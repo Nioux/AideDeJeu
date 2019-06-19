@@ -9,6 +9,11 @@
 - **Classe d’armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d8+42)
 - **Vitesse** 9 m, fouissement 9 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|18 (+4)|12 (+2)|17 (+3)|7 (−2)|12 (+1)|10 (+0)|
+
 - **Résistance aux dégâts** contondants, perforants et tranchants issus d’armes non magiques
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient

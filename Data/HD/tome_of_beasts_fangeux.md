@@ -9,6 +9,11 @@
 - **Classe d’armure** 13
 - **Points de vie** 22 (5d6+5)
 - **Vitesse** 9 m, nage 9 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|16 (+3)|12 (+1)|10 (+0)|12 (+1)|8 (−1)|
+
 - **Compétences** Perception +3, Discrétion +5, Survie +3
 - **Sens** vision dans le noir 18 m, Perception passive 13
 - **Langues** sylvestre, umbral

@@ -9,6 +9,11 @@
 - **Classe d’armure** 18 (armure naturelle)
 - **Points de vie** 75 (10d10+20)
 - **Vitesse** 12 m, escalade 12 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|17 (+3)|17 (+3)|15 (+2)|4 (−3)|13 (+1)|6 (−2)|
+
 - **Compétences** Discrétion +5 (+7 en forêt ou dans la jungle)
 - **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 11
 - **Dangerosité** 3 (700 PX)

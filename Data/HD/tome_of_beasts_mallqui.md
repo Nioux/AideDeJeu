@@ -9,6 +9,11 @@
 - **Classe d’armure** 14 (armure naturelle)
 - **Points de vie** 120 (16d8+48)
 - **Vitesse** 6 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|9 (−1)|16 (+3)|11 (+0)|16 (+3)|14 (+2)|
+
 - **Jets de sauvegarde** Int +3, Cha +5
 - **Compétences** Histoire +3, Perspicacité +6, Religion +3
 - **Résistance aux dégâts** de froid, de foudre ; contondants, perforants et tranchants issus d’armes non magiques

@@ -9,6 +9,11 @@
 - **Classe d’armure** 15
 - **Points de vie** 82 (11d10+22)
 - **Vitesse** 0 m, vol 18 m (vol stationnaire)
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|20 (+5)|15 (+2)|7 (‒2)|12 (+1)|10 (+0)|
+
 - **Résistance aux dégâts** contondants, perforants et tranchants issus d’armes non magiques
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** à terre, charmé, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié, terrifié

@@ -9,6 +9,11 @@
 - **Classe d’armure** 15 (armure de cuir clouté)
 - **Points de vie** 168 (16d10+80)
 - **Vitesse** 12m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|19 (+4)|16 (+3)|20 (+5)|9 (−1)|7 (-2)|6 (–2)|
+
 - **Jets de sauvegarde** Dex+6
 - **Compétences** Perception +1
 - **Sens** vision dans le noir 36 m, perception passive 11

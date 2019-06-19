@@ -9,6 +9,11 @@
 - **Classe d’armure** 14 (armure naturelle)
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 9 m, escalade 9 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|8 (−1)|17 (+3)|12 (+1)|13 (+1)|7 (−2)|13 (+1)|
+
 - **Compétences** Perception +0, Discrétion +5
 - **Sens** vision dans le noir 36 m, Perception passive 10
 - **Langues** abyssal, commun, infernal

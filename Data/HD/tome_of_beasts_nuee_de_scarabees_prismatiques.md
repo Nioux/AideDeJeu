@@ -9,6 +9,11 @@
 - **Classe d’armure** 13
 - **Points de vie** 38 (7d8+7)
 - **Vitesse** 6 m, fouissement 1,50 m, escalade 9 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|3 (–4)|16 (+3)|12 (+1)|1 (−5)|13 (+1)|2 (−4)|
+
 - **Compétences** Perception +3, Discrétion +5
 - **Résistance aux dégâts** contondants, perforants et tranchants
 - **Immunité contre les états** charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
@@ -23,4 +28,5 @@
 ## ACTIONS
 
 **_Morsures._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 0 m, une créature dans l’emplacement de la nuée. Touché:
+10 (4d4) dégâts perforants ou 5 (2d4) dégâts perforants si la nuée n’a plus que la moitié de ses points de vie ou moins. La cible subit également 10 (4d4) dégâts de poison et devient euphorique pendant 1d4 rounds, ou subit la moitié des dégâts de poison seulement et pas d’euphorie si elle réussit un jet de sauvegarde de Constitution DD 11. Une créature euphorique est désavantagée sur ses jets de sauvegarde.
 

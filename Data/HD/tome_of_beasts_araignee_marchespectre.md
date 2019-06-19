@@ -9,6 +9,11 @@
 - **Classe d’armure** 15
 - **Points de vie** 119 (14d10+42)
 - **Vitesse** 15 m, escalade 15 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|15 (+2)|20 (+5)|17 (+3)|9 (−1)|14 (+2)|8 (−1)|
+
 - **Jets de sauvegarde** Dex +9, Cha +3
 - **Compétences** Perception +6
 - **Immunité contre les dégâts** de poison

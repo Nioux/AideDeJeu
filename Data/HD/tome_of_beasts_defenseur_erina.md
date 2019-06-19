@@ -12,7 +12,7 @@
 
 |FOR|DEX|CON|INT|SAG|CHA|
 |---|---|---|---|---|---|
-|91213 (+1)|10 (+0)|11 (+1)|11 (+0)|14 (+2)|14 (+2)|
+|11 (+0)|14 (+2)|14 (+2)|13 (+1)|12 (+1)|11 (+1)|
 
 - **Compétences** Athlétisme+4, Perception +3
 - **Résistance aux dégâts** de poison

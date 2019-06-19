@@ -685,6 +685,11 @@ détourne le regard ne peut pas voir l’angatra pendant un round complet, au te
 
 
 **_Trappe à embuscade_** . Quand une créature passe au-dessus du terrier caché d’une araignée des sables, cette dernière peut utiliser sa réaction pour attaquer cette créature avec deux attaques de pattes empaleuses. La créature est considérée comme surprise vis-à-vis de ces deux attaques. Si l’une de ces attaques touche, ou les deux, et que la cible est une créature de taille Moyenne ou inférieure, l’araignée et la cible entament un test de Force en opposition. Si la cible l’emporte, elle peut s’éloigner immédiatement de l’araignée de 1,50 mètre. En cas d’égalité, elle est empoignée (évasion DD 15). Si l’araignée gagne, elle empoigne la cible et la traîne dans son antre sur 9 mètres. Si la créature est encore empoignée au début du prochain tour de l’araignée, elle est à la place entravée. Une fois entravée, elle peut fuir si elle utilise une action et réussit un test de Force (Athlétisme) DD 15.
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|20 (+5)|17 (+3)|14 (+2)|4 (−3)|12 (+1)|4 (−3)|
+
 - **Compétences** <!--Skills-->Perception +4, Discrétion +6 (+9 dans le sable)<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 18m, Perception passive 14<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
@@ -700,6 +705,7 @@ détourne le regard ne peut pas voir l’angatra pendant un round complet, au te
 **_Attaques multiples._** L’araignée des sables fait deux attaques avec ses pattes empaleuses et une de morsure
 
 **_Pattes empaleuses_** . Attaque d’arme au corps à corps: +8 pour toucher, allonge 3m, une cible. Touché:
+11 (1d12+5) dégâts perforants. Si l’araignée des sables réussit un coup critique avec cette attaque, lancez les dés de dégâts trois fois au lieu de deux. Si les deux attaques de pattes empaleuses touchent la même cible, le second coup inflige 11 (1d12+5) dégâts perforants supplémentaires.
 
 **_Morsure._** Attaque d’arme au corps à corps: +8 pour toucher, allonge 1,50 m, une créature. Touché:
 
@@ -714,6 +720,11 @@ détourne le regard ne peut pas voir l’angatra pendant un round complet, au te
 - **Classe d’armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d10+20)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|17 (+3)|17 (+3)|15 (+2)|4 (−3)|13 (+1)|6 (−2)|
+
 - **Compétences** <!--Skills-->Discrétion +5 (+7 en forêt ou dans la jungle)<!--/Skills-->
 - **Sens** <!--Senses-->vision aveugle 3 m, vision dans le noir 18 m, Perception passive 11<!--/Senses-->
 - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
@@ -744,6 +755,11 @@ détourne le regard ne peut pas voir l’angatra pendant un round complet, au te
 - **Classe d’armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d10+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, escalade 15 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|15 (+2)|20 (+5)|17 (+3)|9 (−1)|14 (+2)|8 (−1)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +9, Cha +3<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Perception +6<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
@@ -1009,6 +1025,11 @@ détourne le regard ne peut pas voir l’angatra pendant un round complet, au te
 - **Classe d’armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|8 (−1)|13 (+1)|10 (+0)|14 (+2)|12 (+1)|8 (−1)|
+
 - **Compétences** <!--Skills-->Histoire +4, Investigation +4<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné<!--/ConditionImmunities-->
@@ -1815,6 +1836,11 @@ réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut
 - **Classe d’armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d8+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|20 (+5)|10 (+0)|17 (+3)|11 (+0)|13 (+1)|8 (−1)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->Con +6<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Athlétisme +8, Intimidation +5<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants issus d’armes non magiques<!--/DamageResistances-->
@@ -2235,6 +2261,11 @@ ou une magie similaire. La transformation n’est pas totalement incontrôlable 
 - **Classe d’armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d10+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|20 (+5)|8 (−1)|19 (+4)|3 (−4)|11 (+0)|1 (−5)|
+
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, Perception passive 10<!--/Senses-->
@@ -2317,6 +2348,11 @@ ou une magie similaire. La transformation n’est pas totalement incontrôlable 
 - **Classe d’armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 6 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|17 (+3)|15 (+2)|16 (+3)|13 (+1)|9 (−1)|7 (−2)|
+
 - **Compétences** <!--Skills-->Perception +1, Discrétion +4<!--/Skills-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, inconscient<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
@@ -6246,6 +6282,11 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - **Classe d’armure** <!--ArmorClass-->15 (naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->40 (9d6+9)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|16 (+3)|12 (+1)|2 (−4)|12 (+1)|16 (+3)|
+
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu<!--/DamageImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
@@ -6545,6 +6586,11 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l’état cha
 - **Classe d’armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|18 (+4)|14 (+2)|16 (+3)|6 (–2)|14 (+2)|8 (−1)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->For +6, Con +5<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Athlétisme+6, Perception +4<!--/Skills-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé<!--/ConditionImmunities-->
@@ -6661,6 +6707,11 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l’état cha
 - **Classe d’armure** <!--ArmorClass-->12 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d6+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 6m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|9 (−1)|12 (+1)|14 (+2)|13 (+1)|10 (+0)|11 (+1)|
+
 - **Résistance aux dégâts** <!--DamageResistances-->de poison<!--/DamageResistances-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
 - **Langues** <!--Languages-->commun, erina<!--/Languages-->
@@ -6693,7 +6744,7 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l’état cha
 
 |FOR|DEX|CON|INT|SAG|CHA|
 |---|---|---|---|---|---|
-|91213 (+1)|10 (+0)|11 (+1)|11 (+0)|14 (+2)|14 (+2)|
+|11 (+0)|14 (+2)|14 (+2)|13 (+1)|12 (+1)|11 (+1)|
 
 - **Compétences** <!--Skills-->Athlétisme+4, Perception +3<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->de poison<!--/DamageResistances-->
@@ -6842,6 +6893,11 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l’état cha
 - **Classe d’armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d6+5)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|16 (+3)|12 (+1)|10 (+0)|12 (+1)|8 (−1)|
+
 - **Compétences** <!--Skills-->Perception +3, Discrétion +5, Survie +3<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
 - **Langues** <!--Languages-->sylvestre, umbral<!--/Languages-->
@@ -7667,6 +7723,11 @@ jet de sauvegarde mais, jusqu’au début de son prochain tour, elle doit consid
 - **Classe d’armure** <!--ArmorClass-->15 (armure de cuir, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->7,50m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|8 (−1)|14 (+2)|12 (+1)|10 (+0)|11 (+0)|7 (−2)|
+
 - **Immunité contre les dégâts** <!--DamageImmunities-->de froid<!--/DamageImmunities-->
 - **Sens** <!--Senses-->Perception passive 10<!--/Senses-->
 - **Dangerosité** <!--Challenge-->1/2 (50 PX)<!--/Challenge-->
@@ -7747,6 +7808,11 @@ Certains gardiens spectraux n’étaient pas des guerriers de leur vivant, mais 
 - **Classe d’armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (12d12+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|21 (+5)|14 (+2)|19 (+4)|2 (−4)|13 (+1)|7 (−2)|
+
 - **Compétences** <!--Skills-->Perception +4, Discrétion +8<!--/Skills-->
 - **Sens** <!--Senses-->Perception passive 14<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
@@ -8095,6 +8161,11 @@ Le géant jotun peut faire une action légendaire à la fin du tour d’une autr
 - **Classe d’armure** <!--ArmorClass-->14 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->5 (1d6+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|8 (−1)|16 (+3)|14 (+2)|10 (+0)|8 (−1)|8 (−1)|
+
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 9<!--/Senses-->
 - **Langues** <!--Languages-->commun, gobelin<!--/Languages-->
@@ -8244,6 +8315,11 @@ Le géant jotun peut faire une action légendaire à la fin du tour d’une autr
 - **Classe d’armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->231 (22d10+110)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|24 (+7)|11 (+0)|21 (+5)|3 (−4)|11 (+0)|1 (−5)|
+
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, Perception passive 10<!--/Senses-->
@@ -8319,6 +8395,11 @@ Mort-vivant de taille Moyenne, neutre mauvais
 - **Classe d’armure** <!--ArmorClass-->16 (armure d’écailles ; 18 avec bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|(+1)|17 (+3)|14 (+2)|14 (+2)|12 (+1)|12
+
 - **Compétences** <!--Skills-->Supercherie +3, Discrétion +5<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->nécrotiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
@@ -8861,6 +8942,11 @@ L’empereur peut faire 3 actions légendaires parmi celles proposées ci-dessou
 - **Classe d’armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->270 (20d12+140)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|24 (+7)|10 (+0)|25 (+7)|10 (+0)|8 (−1)|14 (+2)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->For +12, Dex+4, Con +11, Cha +6<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Athlétisme +11, Perception +3, Discrétion +4<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
@@ -8882,6 +8968,7 @@ L’empereur peut faire 3 actions légendaires parmi celles proposées ci-dessou
 
 ## ACTIONS LÉGENDAIRES
 
+Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous. Il ne peut en faire qu’une seule à la fois et seulement à la fin du tour d’une autre créature. Au début de chacun de ses tours, il récupère les actions légendaires dépensées.
 
 **_Déplacement._** Le gug se déplace de la moitié de sa vitesse.
 
@@ -9147,6 +9234,11 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - **Classe d’armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->7,50m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (−1)|8 (−1)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +4, Con +2<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Acrobaties +4, Discrétion +6<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9<!--/Senses-->
@@ -9174,6 +9266,11 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - **Classe d’armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->63 (14d6+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->7,50m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|16 (+3)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +5, Con +3<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Acrobaties +5, Discrétion +7<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9<!--/Senses-->
@@ -9329,6 +9426,11 @@ Certains combattants n’ont pas accès aux armes runiques et utilisent une rapi
 - **Classe d’armure** <!--ArmorClass-->14 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->21 (6d8 – 6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|14 (+2)|8 (−1)|10 (+0)|15 (+2)|12 (+1)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +4, Con +1, Sag +4, Cha +3<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Discrétion +6, Perception+6, Supercherie +3<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, Perception passive 16<!--/Senses-->
@@ -9800,6 +9902,11 @@ l’obligeant à créer un objet magique de qualité.
 - **Classe d’armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->9 (2d6+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|8 (−1)|17 (+3)|12 (+1)|13 (+1)|7 (−2)|13 (+1)|
+
 - **Compétences** <!--Skills-->Perception +0, Discrétion +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, Perception passive 10<!--/Senses-->
 - **Langues** <!--Languages-->abyssal, commun, infernal<!--/Languages-->
@@ -9868,6 +9975,11 @@ l’obligeant à créer un objet magique de qualité.
 - **Classe d’armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d6+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|7 (−2)|16 (+3)|15 (+2)|16 (+3)|9 (−1)|8 (−1)|
+
 - **Compétences** <!--Skills-->Arcanes +5, Médecine +3<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre l’état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
@@ -9948,6 +10060,11 @@ l’obligeant à créer un objet magique de qualité.
 - **Classe d’armure** <!--ArmorClass-->14 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->36 (8d6+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|7 (−2)|16 (+3)|12 (+1)|16 (+3)|13 (+1)|8 (−1)|
+
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
 - **Langues** <!--Languages-->commun, draconique<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
@@ -9982,6 +10099,11 @@ l’obligeant à créer un objet magique de qualité.
 - **Classe d’armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d10+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|19 (+4)|18 (+4)|14 (+2)|2 (−4)|10 (+0)|7 (–2)|
+
 - **Sens** <!--Senses-->Perception passive 13<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
 - **Dangerosité** <!--Challenge-->5 (1 800PX)<!--/Challenge-->
@@ -10429,6 +10551,11 @@ de créature (le croassement du corbeau, le rugissement de l’ours) et non la v
 - **Classe d’armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d8+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|12 (+1)|18 (+4)|3 (−4)|12 (+1)|12 (+1)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->Sag +4, Cha +4<!--/SavingThrows-->
 - **Résistance aux dégâts** <!--DamageResistances-->d’acide, nécrotiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
@@ -10787,6 +10914,11 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 - **Classe d’armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->120 (16d8+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|9 (−1)|16 (+3)|11 (+0)|16 (+3)|14 (+2)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->Int +3, Cha +5<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Histoire +3, Perspicacité +6, Religion +3<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->de froid, de foudre ; contondants, perforants et tranchants issus d’armes non magiques<!--/DamageResistances-->
@@ -11879,6 +12011,11 @@ dépassent leurs compétences.
 - **Classe d’armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|8 (−1)|15 (+2)|7 (−2)|10 (+0)|14 (+2)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->Sag +2<!--/SavingThrows-->
 - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->de feu<!--/DamageVulnerabilities-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants issus d’armes non magiques<!--/DamageResistances-->
@@ -12596,6 +12733,11 @@ dépassent leurs compétences.
 - **Classe d’armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 9 m (vol stationnaire)<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|20 (+5)|16 (+3)|6 (−2)|10 (+0)|7 (−2)|
+
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi, inconscient<!--/ConditionImmunities-->
@@ -12697,6 +12839,11 @@ dépassent leurs compétences.
 - **Classe d’armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 1,50 m, escalade 6 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|3 (–4)|16 (+3)|16 (+3)|1 (−5)|13 (+1)|2 (−4)|
+
 - **Compétences** <!--Skills-->Perception +3, Discrétion +5<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi<!--/ConditionImmunities-->
@@ -12711,11 +12858,13 @@ dépassent leurs compétences.
 **_Renifler la magie_** . La nuée de scarabées manavores détecte la présence des créatures magiques, des sorts et effets de sorts actifs et des objets magiques dans un rayon de 36 mètres.
 
 **_Érosion de mana_** . La nuée de scarabées manavores dévore la magie. Les objets magiques abandonnés se trouvant dans l’emplacement de la nuée à la fin de son tour voient leurs effets supprimés pendant 1minute. De plus, les objets chargés se trouvant dans son emplacement perdent 1d6charges au début de chacun de ses tours ; les objets avec un nombre d’utilisations quotidiennes limité perdent une de ces utilisations et les objets à usage unique comme les potions ou les parchemins
+sont détruits. Les effets magiques dans l’emplacement de la nuée sont dissipés (comme avec dissipation de la magie lancé avec une caractéristique d’incantation de +5).
 
 ## ACTIONS
 
 
 **_Morsures._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 0 m, une créature dans l’emplacement de la nuée. Touché:
+14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nuée n’a plus que la moitié de ses points de vie ou moins. La cible doit réussir un jet de sauvegarde de Dextérité DD15, sans quoi un objet magique aléatoire en sa possession est immédiatement affecté par le trait érosion de mana. Si cette attaque touche un lanceur de sorts, il doit réussir un jet de sauvegarde de Charisme DD 15, sans quoi l’un de ses emplacements de sorts de plus bas niveau encore inutilisé est dépensé.
 
 <!--/MonsterItem-->
 
@@ -12754,6 +12903,11 @@ dépassent leurs compétences.
 - **Classe d’armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->38 (7d8+7)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 1,50 m, escalade 9 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|3 (–4)|16 (+3)|12 (+1)|1 (−5)|13 (+1)|2 (−4)|
+
 - **Compétences** <!--Skills-->Perception +3, Discrétion +5<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi<!--/ConditionImmunities-->
@@ -12769,6 +12923,7 @@ dépassent leurs compétences.
 
 
 **_Morsures._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 0 m, une créature dans l’emplacement de la nuée. Touché:
+10 (4d4) dégâts perforants ou 5 (2d4) dégâts perforants si la nuée n’a plus que la moitié de ses points de vie ou moins. La cible subit également 10 (4d4) dégâts de poison et devient euphorique pendant 1d4 rounds, ou subit la moitié des dégâts de poison seulement et pas d’euphorie si elle réussit un jet de sauvegarde de Constitution DD 11. Une créature euphorique est désavantagée sur ses jets de sauvegarde.
 
 <!--/MonsterItem-->
 
@@ -12940,6 +13095,11 @@ dépassent leurs compétences.
 - **Classe d’armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->39 (6d8+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->vol 15 m (vol stationnaire)<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|1 (–5)|20 (+5)|15 (+2)|5 (−3)|12 (+1)|17 (+3)|
+
 - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->de tonnerre<!--/DamageVulnerabilities-->
 - **Résistance aux dégâts** <!--DamageResistances-->d’acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d’armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
@@ -13096,6 +13256,11 @@ dépassent leurs compétences.
 - **Classe d’armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|17 (+3)|16 (+3)|16 (+3)|8 (−1)|10 (+0)|14 (+2)|
+
 - **Compétences** <!--Skills-->Athlétisme +5, Discrétion +5, Escamotage +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
 - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
@@ -13409,6 +13574,11 @@ corps à corps et ajoute +4 aux dégâts qu’il inflige avec ses sorts et ses g
 - **Classe d’armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|9 (−1)|14 (+2)|10 (+0)|16 (+3)|12 (+1)|11 (+0)|
+
 - **Compétences** <!--Skills-->Arcanes +5, Investigation +5<!--/Skills-->
 - **Sens** <!--Senses-->Perception passive 11<!--/Senses-->
 - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
@@ -13753,6 +13923,11 @@ Tant qu’elle est entravée, elle est enveloppée dans le tronc du ravenala. Ce
 - **Classe d’armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d10+80)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|19 (+4)|16 (+3)|20 (+5)|9 (−1)|7 (-2)|6 (–2)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->Dex+6<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Perception +1<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, perception passive 11<!--/Senses-->
@@ -14109,6 +14284,11 @@ Tant qu’elle est entravée, elle est enveloppée dans le tronc du ravenala. Ce
 - **Classe d’armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d10+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 9 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|17 (+3)|16 (+3)|16 (+3)|2 (−4)|12 (+1)|6 (−2)|
+
 - **Compétences** <!--Skills-->Perception +3, Discrétion +5 (+7 dans le sable ou les marais)<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->de poison<!--/DamageResistances-->
 - **Immunité contre l’état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
@@ -14124,8 +14304,10 @@ Tant qu’elle est entravée, elle est enveloppée dans le tronc du ravenala. Ce
 **_Attaques multiples._** Le serpopard fait deux attaques de morsure et deux attaques de griffes.
 
 **_Morsure._** Attaque d’arme au corps à corps:
++5pour toucher, allonge 3 m, une cible. 
 
 **_Griffes_** . Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché:
+12(2d8+3) dégâts tranchants. 
 
 **_Musc (recharge après un court ou un long repos)_** . Le serpopard lance un jet de musc à l’odeur ignoble dans un cône de 4,50mètres qui persiste 2d4 rounds. Les créatures présentes dans le cône doivent faire un jet de sauvegarde de Dextérité DD13. Celles qui réussissent se déplacent vers la case vide située à l’extérieur du cône la plus proche, les autres sont aspergées de musc. Une créature qui entre dans le cône alors que le musc y persiste en est automatiquement imprégnée. Une créature pleine de musc est empoisonnée. De plus, chaque créature commençant son tour dans un rayon de 1,50 mètre autour d’une créature imprégnée doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle est empoisonnée jusqu’au début de son prochain tour. Le musc de serpopard (et l’empoisonnement) se dissipe naturellement au bout de 1d4 heures. Une créature imprégnée peut mettre un terme prématuré à l’effet si elle passe 20 minutes à se laver (ainsi que ses habits et son équipement) avec de l’eau et du savon.
 
@@ -14140,6 +14322,11 @@ Tant qu’elle est entravée, elle est enveloppée dans le tronc du ravenala. Ce
 - **Classe d’armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d8+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|20 (+5)|18 (+4)|6 (−2)|11 (+0)|6 (−2)|
+
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
@@ -14174,6 +14361,11 @@ Tant qu’elle est entravée, elle est enveloppée dans le tronc du ravenala. Ce
 - **Classe d’armure** <!--ArmorClass-->14 (naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d10+26)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|15 (+2)|14 (+2)|8 (−1)|10 (+0)|16 (+3)|
+
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
 - **Langues** <!--Languages-->comprend l’elfique et l’umbral mais ne peut pas parler<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
@@ -14251,6 +14443,11 @@ Tant qu’elle est entravée, elle est enveloppée dans le tronc du ravenala. Ce
 - **Classe d’armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d8+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 9 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|18 (+4)|12 (+2)|17 (+3)|7 (−2)|12 (+1)|10 (+0)|
+
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants issus d’armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->nécrotiques, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient<!--/ConditionImmunities-->
@@ -14726,6 +14923,11 @@ ou moins de lui doit réussir un jet de sauvegarde de Dextérité DD 15, sans qu
 - **Classe d’armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->71 (11d8+22)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|20 (+5)|9 (−1)|15 (+2)|12 (+1)|16 (+3)|10 (+0)|
+
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +2, Con +5<!--/SavingThrows-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants issus d’armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
@@ -15090,6 +15292,11 @@ endroit doit faire un jet de sauvegarde de Constitution DD17. En cas d’échec,
 - **Classe d’armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d6+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|10(2d4+5)|dégâts perforants et la cible est paralysée pendant 8heures. On peut mettre un terme à la paralysie en réussissant un test de Sagesse (Médecine)|DD20 ou avec un sort ou effet qui soigne les maladies. (Comme cette attaque vise uniquement les créatures paralysées, elle se solde forcément par un coup critique, les dégâts supplémentaires étant déjà inclus dans la liste des dégâts)|.8 (-1)|16 (+3)|14 (+2)|
+
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
 - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
@@ -15381,6 +15588,11 @@ L’urochar peut faire trois actions légendaires, parmi celles proposées ci-de
 - **Classe d’armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d8+20)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|9 (−1)|14 (+2)|14 (+2)|18 (+4)|11 (+0)|13 (+1)|
+
 - **Compétences** <!--Skills-->Arcanes +6, Histoire +6<!--/Skills-->
 - **Sens** <!--Senses-->Perception passive 10<!--/Senses-->
 - **Langues** <!--Languages-->commun, éonique, géant, sylvestre<!--/Languages-->
@@ -15392,6 +15604,7 @@ L’urochar peut faire trois actions légendaires, parmi celles proposées ci-de
 **_Attaques multiples._** Le vagabond éonique peut soit utiliser dérive en arrière, soit faire deux attaques avec son bâton de distorsion temporelle. La version future du vagabond éonique (si elle a été invoquée) ne peut utiliser que dérive en avant.
 
 **_Bâton de distorsion temporelle._** Attaque d’arme au corps à corps: +4 pour toucher, allonge 1,50 m, une cible. Touché:
+7(1d10+2)dégâts contondants. 
 
 **_Dérive en arrière (1/jour)._** Une version future d’un vagabond éonique se matérialise dans un emplacement inoccupé dans un rayon de 9 mètres autour de son moi présent. Le vagabond du futur possède les mêmes statistiques que sa version présente, la totalité de ses points de vie, et son tour succède immédiatement à celui de sa version présente. Si le vagabond éonique original meurt, son double du futur disparaît. Si le vagabond du présent voit sa version future mourir, il doit faire un jet de sauvegarde de Sagesse DD 13. S’il réussit, il ne se passe rien. S’il échoue, lancez un d6 afin de déterminer l’effet auquel il est soumis : 1 = terrorisé, 2 = neutralisé, 3 = paralysé, 4 = inconscient, 5 ou 6 = désavantagé lors de ses jets d’attaque et de ses tests de caractéristique. Cet effet dure 1d4 rounds.
 
@@ -15543,6 +15756,11 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - **Classe d’armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d10+22)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 18 m (vol stationnaire)<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|20 (+5)|15 (+2)|7 (‒2)|12 (+1)|10 (+0)|
+
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants issus d’armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->nécrotiques, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->à terre, charmé, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié, terrifié<!--/ConditionImmunities-->
@@ -15720,6 +15938,11 @@ la créature ciblée doit réussir un jet de sauvegarde de Dextérité DD12 ou s
 - **Classe d’armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d10+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|15 (+2)|11 (+0)|19 (+4)|1 (−5)|7 (–2)|1 (–5)|
+
 - **Immunité contre les dégâts** <!--DamageImmunities-->d’acide<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->aveuglé, charmé, assourdi, épuisé, terrorisé, à terre<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 8<!--/Senses-->
@@ -15840,6 +16063,11 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - **Classe d’armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|14 (+2)|14 (+2)|8 (−1)|12 (+1)|9 (−1)|
+
 - **Compétences** <!--Skills-->Athlétisme+5, Perception +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 15<!--/Senses-->
 - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->

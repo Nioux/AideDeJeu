@@ -9,6 +9,11 @@
 - **Classe d’armure** 15 (chemise de mailles)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 9m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|14 (+2)|14 (+2)|8 (−1)|12 (+1)|9 (−1)|
+
 - **Compétences** Athlétisme+5, Perception +5
 - **Sens** vision dans le noir 18 m, Perception passive 15
 - **Dangerosité** 3 (700 PX)

@@ -9,6 +9,11 @@
 - **Classe d’armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d8+42)
 - **Vitesse** 12m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|20 (+5)|10 (+0)|17 (+3)|11 (+0)|13 (+1)|8 (−1)|
+
 - **Jets de sauvegarde** Con +6
 - **Compétences** Athlétisme +8, Intimidation +5
 - **Résistance aux dégâts** contondants, perforants et tranchants issus d’armes non magiques

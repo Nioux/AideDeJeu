@@ -9,6 +9,11 @@
 - **Classe d’armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 9m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|17 (+3)|16 (+3)|16 (+3)|8 (−1)|10 (+0)|14 (+2)|
+
 - **Compétences** Athlétisme +5, Discrétion +5, Escamotage +5
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Dangerosité** 3 (700 PX)

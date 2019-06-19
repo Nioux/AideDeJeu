@@ -9,6 +9,11 @@
 - **Classe d’armure** 16 (armure naturelle)
 - **Points de vie** 112 (15d10+30)
 - **Vitesse** 3 m, vol 18 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|19 (+4)|18 (+4)|14 (+2)|2 (−4)|10 (+0)|7 (–2)|
+
 - **Sens** Perception passive 13
 - **Langues** —
 - **Dangerosité** 5 (1 800PX)

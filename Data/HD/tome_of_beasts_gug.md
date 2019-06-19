@@ -9,6 +9,11 @@
 - **Classe d’armure** 17 (armure naturelle)
 - **Points de vie** 270 (20d12+140)
 - **Vitesse** 12m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|24 (+7)|10 (+0)|25 (+7)|10 (+0)|8 (−1)|14 (+2)|
+
 - **Jets de sauvegarde** For +12, Dex+4, Con +11, Cha +6
 - **Compétences** Athlétisme +11, Perception +3, Discrétion +4
 - **Immunité contre les dégâts** de poison
@@ -28,6 +33,8 @@
 **_Pas pesant._** Attaque d’arme au corps à corps: +11 pour toucher, allonge 3 m. Touché: 20 (2d12+7) dégâts contondants.
 
 ## ACTIONS LÉGENDAIRES
+
+Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous. Il ne peut en faire qu’une seule à la fois et seulement à la fin du tour d’une autre créature. Au début de chacun de ses tours, il récupère les actions légendaires dépensées.
 
 **_Déplacement._** Le gug se déplace de la moitié de sa vitesse.
 
