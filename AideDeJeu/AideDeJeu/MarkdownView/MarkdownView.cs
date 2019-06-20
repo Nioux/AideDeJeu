@@ -64,13 +64,13 @@
             view.RenderMarkdown();
         }
 
-        private StackLayout stack;
+        private StackLayout _Stack;
 
         private List<KeyValuePair<string, string>> links = new List<KeyValuePair<string, string>>();
 
         private void RenderMarkdown()
         {
-            stack = new StackLayout()
+            _Stack = new StackLayout()
             {
                 Spacing = this.Theme.Margin,
             };
@@ -83,19 +83,27 @@
             {
                 var pipeline = new Markdig.MarkdownPipelineBuilder().UseYamlFrontMatter().UsePipeTables().Build();
                 var parsed = Markdig.Markdown.Parse(this.Markdown, pipeline);
-                this.Render(parsed.AsEnumerable());
+                var views = this.Render(parsed.AsEnumerable());
+                views.ToList().ForEach(view => _Stack.Children.Add(view));
             }
 
-            this.Content = stack;
+            this.Content = _Stack;
 
         }
 
-        private void Render(IEnumerable<Block> blocks)
+        private IEnumerable<View> Render(IEnumerable<Block> blocks)
         {
+            var views = new List<View>();
             foreach (var block in blocks)
             {
-                this.Render(block);
+                var subviews = this.Render(block);
+                if(subviews != null)
+                {
+                    views.AddRange(subviews);
+                    //views.Add(view);
+                }
             }
+            return views;
         }
 
         private void AttachLinks(View view)
@@ -103,24 +111,21 @@
             if (links.Any())
             {
                 var blockLinks = links.Distinct().OrderBy(l => l.Key).ToList();
-                if (blockLinks.Count > 1)
-                {
-                    if (Device.RuntimePlatform == Device.GTK)
+                if (blockLinks.Count > 1 && Device.RuntimePlatform == Device.GTK)
+                { 
+                    view.GestureRecognizers.Add(new TapGestureRecognizer
                     {
-                        view.GestureRecognizers.Add(new TapGestureRecognizer
+                        Command = new Command(async () =>
                         {
-                            Command = new Command(async () =>
+                            try
                             {
-                                try
-                                {
-                                    var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
-                                    var link = blockLinks.FirstOrDefault(x => x.Key == result);
-                                    NavigateToLinkCommand?.Execute(link.Value);
-                                }
-                                catch (Exception) { }
-                            }),
-                        });
-                    }
+                                var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
+                                var link = blockLinks.FirstOrDefault(x => x.Key == result);
+                                NavigateToLinkCommand?.Execute(link.Value);
+                            }
+                            catch (Exception) { }
+                        }),
+                    });
                 }
                 else
                 {
@@ -159,40 +164,42 @@
 
         #region Rendering blocks
 
-        private void Render(Block block)
+        private IEnumerable<View> Render(Block block)
         {
+            var views = new List<View>();
+            IEnumerable<View> subviews = null;
             switch (block)
             {
                 case HeadingBlock heading:
-                    Render(heading);
+                    subviews = Render(heading);
                     break;
 
                 case ParagraphBlock paragraph:
-                    Render(paragraph);
+                    subviews = Render(paragraph);
                     break;
 
                 case QuoteBlock quote:
-                    Render(quote);
+                    subviews = Render(quote);
                     break;
 
                 case CodeBlock code:
-                    Render(code);
+                    subviews = Render(code);
                     break;
 
                 case ListBlock list:
-                    Render(list);
+                    subviews = Render(list);
                     break;
 
                 case ThematicBreakBlock thematicBreak:
-                    Render(thematicBreak);
+                    subviews = Render(thematicBreak);
                     break;
 
                 case HtmlBlock html:
-                    Render(html);
+                    subviews = Render(html);
                     break;
 
                 case Markdig.Extensions.Tables.Table table:
-                    Render(table);
+                    subviews = Render(table);
                     break;
 
                 default:
@@ -200,54 +207,65 @@
                     break;
             }
 
-            if(queuedViews.Any())
+            if (views != null)
             {
-                foreach (var view in queuedViews)
+                if (queuedViews.Any())
                 {
-                    this.stack.Children.Add(view);
+                    foreach (var view in queuedViews)
+                    {
+                        views.Add(view);
+                    }
+                    queuedViews.Clear();
                 }
-                queuedViews.Clear();
             }
+            return views;
         }
 
         private int listScope;
 
-        private void Render(ThematicBreakBlock block)
+        private IEnumerable<View> Render(ThematicBreakBlock block)
         {
             var style = this.Theme.Separator;
 
             if (style.BorderSize > 0)
             {
-                stack.Children.Add(new BoxView
+                return new View[] { new BoxView
                 {
                     HeightRequest = style.BorderSize,
                     BackgroundColor = style.BorderColor,
-                });
+                } };
             }
+            return null;
         }
 
-        private void Render(ListBlock block)
+        private IEnumerable<View> Render(ListBlock block)
         {
             listScope++;
 
+            var views = new List<View>();
             for (int i = 0; i < block.Count(); i++)
             {
                 var item = block.ElementAt(i);
 
                 if (item is ListItemBlock itemBlock)
                 {
-                    this.Render(block, i + 1, itemBlock);
+                    var subviews = this.Render(block, i + 1, itemBlock);
+                    if(subviews != null)
+                    {
+                        views.AddRange(subviews);
+                    }
                 }
             }
 
             listScope--;
+            return views;
         }
 
-        private void Render(ListBlock parent, int index, ListItemBlock block)
+        private IEnumerable<View> Render(ListBlock parent, int index, ListItemBlock block)
         {
-            var initialStack = this.stack;
+            //var initialStack = this.stack;
 
-            this.stack = new StackLayout()
+            var stack = new StackLayout()
             {
                 Spacing = this.Theme.Margin,
             };
@@ -299,13 +317,14 @@
                 horizontalStack.Children.Add(bullet);
             }
 
-            horizontalStack.Children.Add(this.stack);
-            initialStack.Children.Add(horizontalStack);
+            horizontalStack.Children.Add(stack);
+            //initialStack.Children.Add(horizontalStack);
 
-            this.stack = initialStack;
+            //this.stack = initialStack;
+            return new View[] { horizontalStack };
         }
 
-        private void Render(HeadingBlock block)
+        private IEnumerable<View> Render(HeadingBlock block)
         {
             MarkdownStyle style;
 
@@ -349,15 +368,15 @@
                     HeightRequest = style.BorderSize,
                     BackgroundColor = style.BorderColor,
                 });
-                stack.Children.Add(headingStack);
+                return new View[] { headingStack };
             }
             else
             {
-                stack.Children.Add(label);
+                return new View[] { label };
             }
         }
 
-        private void Render(ParagraphBlock block)
+        private IEnumerable<View> Render(ParagraphBlock block)
         { 
             var style = this.Theme.Paragraph;
             var foregroundColor = isQuoted ? this.Theme.Quote.ForegroundColor : style.ForegroundColor;
@@ -366,10 +385,10 @@
                 FormattedText = CreateFormatted(block.Inline, style.FontFamily, style.Attributes, foregroundColor, style.BackgroundColor, style.FontSize),
             };
             AttachLinks(label);
-            this.stack.Children.Add(label);
+            return new View[] { label };
         }
 
-        private void Render(HtmlBlock block)
+        private IEnumerable<View> Render(HtmlBlock block)
         {
             if(block.Type == HtmlBlockType.NonInterruptingBlock || block.Type == HtmlBlockType.Comment)
             {
@@ -380,7 +399,7 @@
                     {
                         Text = "\n",
                     };
-                    this.stack.Children.Add(label);
+                    return new View[] { label };
 
                 }
                 else
@@ -393,15 +412,17 @@
                 // ?
             }
             // ?
+            return null;
         }
 
-        private void Render(QuoteBlock block)
+        private IEnumerable<View> Render(QuoteBlock block)
         {
             var initialIsQuoted = this.isQuoted;
-            var initialStack = this.stack;
+            //var initialStack = this.stack;
+            var views = new List<View>();
 
             this.isQuoted = true;
-            this.stack = new StackLayout()
+            var stack = new StackLayout()
             {
                 Spacing = this.Theme.Margin,
             };
@@ -422,23 +443,25 @@
                     BackgroundColor = style.BorderColor,
                 });
 
-                horizontalStack.Children.Add(this.stack);
-                initialStack.Children.Add(horizontalStack);
+                horizontalStack.Children.Add(stack);
+                views.Add(horizontalStack);
             }
             else
             {
                 stack.BackgroundColor = this.Theme.Quote.BackgroundColor;
-                initialStack.Children.Add(this.stack);
+                views.Add(stack);
             }
 
-            this.Render(block.AsEnumerable());
+            var subviews = this.Render(block.AsEnumerable());
 
             this.isQuoted = initialIsQuoted;
-            this.stack = initialStack;
+            //this.stack = initialStack;
+            return subviews;
         }
 
-        private void Render(CodeBlock block)
+        private IEnumerable<View> Render(CodeBlock block)
         {
+            var views = new List<View>();
             var style = this.Theme.Code;
             var label = new Label
             {
@@ -448,7 +471,7 @@
                 FontSize = style.FontSize,
                 Text = string.Join(Environment.NewLine, block.Lines),
             };
-            stack.Children.Add(new Frame()
+            views.Add(new Frame()
             {
                 CornerRadius = 3,
                 HasShadow = false,
@@ -456,9 +479,10 @@
                 BackgroundColor = style.BackgroundColor,
                 Content = label
             });
+            return views;
         }
 
-        private void Render(Markdig.Extensions.Tables.Table tableBlock)
+        private IEnumerable<View> Render(Markdig.Extensions.Tables.Table tableBlock)
         {
             var scroll = new ScrollView() { HorizontalScrollBarVisibility = ScrollBarVisibility.Default, Orientation = ScrollOrientation.Horizontal };
             var grid = new Grid() { HorizontalOptions = LayoutOptions.Start, Margin = 0, Padding = 1, BackgroundColor = Theme.TableHeader.BackgroundColor, RowSpacing = 1, ColumnSpacing = 1 };
@@ -514,8 +538,9 @@
                 }
                 top++;
             }
-            stack.Children.Add(scroll);
+            //stack.Children.Add(scroll);
             scroll.Content = grid;
+            return new View[] { scroll };
         }
 
 
@@ -586,7 +611,7 @@
                             image.Source = url;
                         }
 
-                        queuedViews.Add(image);
+                        //queuedViews.Add(image);
                         return new Span[0];
                     }
                     else
