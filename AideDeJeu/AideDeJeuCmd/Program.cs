@@ -753,6 +753,7 @@ namespace AideDeJeuCmd
             Tests.Xamarin.Forms.Mocks.MockForms.Init();
             SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
             DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
+            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             //Xamarin.Essentials.Platform.Init(this, bundle);
             //Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
 
@@ -770,7 +771,7 @@ namespace AideDeJeuCmd
                 using (var stream = new FileStream("test.pdf", FileMode.Create))
                 {
                     //pdfService.MarkdownToPdf("# mon titre\n\nhop", stream);
-                    pdfService.MarkdownToPdf(spells.Select(s => s.Markdown).ToList(), stream);
+                    pdfService.MarkdownToPdf(spells.Select(s => s.Markdown).Take(3).ToList(), stream);
                     //pdfService.MarkdownToPdf(new List<string>() { item.Markdown }, stream);
                     //var stream = new MemoryStream();
                     //pce.GeneratePdfToStream(pc, stream);

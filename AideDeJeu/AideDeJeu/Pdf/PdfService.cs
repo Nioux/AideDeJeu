@@ -54,10 +54,37 @@ namespace AideDeJeu.Pdf
             //stamper.Close();
             //reader.Close();
         }
+
+        Font ParagraphFont = null;
         private void Render(IEnumerable<Block> blocks, Document document)
         {
+            if(ParagraphFont == null)
+            {
+                //var fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "Cinzel-Regular.otf");
+                var fontPath = @"C:\Users\yanma\Documents\Visual Studio 2017\Projects\AideDeJeu\AideDeJeu\AideDeJeuCmd\bin\Debug\netcoreapp2.1\Cinzel-Regular.otf";
+                using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.Cinzel-Regular.otf"))
+                {
+                    using (var outFont = new FileStream(fontPath, FileMode.Create, FileAccess.ReadWrite))
+                    {
+                        inFont.CopyTo(outFont);
+                    }
+                }
+                FontFactory.Register(fontPath);
+
+                //var mafont = FontFactory.GetFont("cinzel", 20, iTextSharp.text.Font.NORMAL);
+                var mafont = iTextSharp.text.pdf.BaseFont.CreateFont(fontPath, iTextSharp.text.pdf.BaseFont.IDENTITY_H, iTextSharp.text.pdf.BaseFont.EMBEDDED);
+                //var font = mafont.BaseFont;
+                var bigFont = new iTextSharp.text.Font(mafont, 20);
+
+                var fonts = FontFactory.RegisteredFonts;
+
+                ParagraphFont = bigFont;
+            }
             var phrases = Render(blocks);
+
+
             ColumnText ct = new ColumnText(_Writer.DirectContent);
+
             int column = 0;
             ct.SetSimpleColumn(10, 10 + 200 * column, 200, 200 + 200 * column);
             int status = 0;
@@ -65,21 +92,26 @@ namespace AideDeJeu.Pdf
             float y = 0;
             foreach (var phrase in phrases)
             {
+                //var pphrase = new Phrase("test", bigFont);
+                phrase.Font = ParagraphFont;
                 y = ct.YLine;
 
-                //document.Add(phrase);
-                ct.AddText(phrase);
-                status = ct.Go(true);
-                if(ColumnText.HasMoreText(status))
-                {
+                document.Add(phrase);
+                //ct.AddText(phrase);
+                //status = ct.Go(true);
+                //if(ColumnText.HasMoreText(status))
+                //{
 
-                    column++;
-                    ct.SetSimpleColumn(10, 10 + 200 * column, 200, 200 + 200 * column);
-                    y += 200;
-                }
-                ct.YLine = y;
-                ct.SetText(phrase);
-                status = ct.Go(false);
+                //    column++;
+                //    ct.SetSimpleColumn(10, 10 + 200 * column, 200, 200 + 200 * column);
+                //    y += 200;
+                //}
+                //ct.YLine = y;
+                //ct.SetText(phrase);
+                //status = ct.Go(false);
+
+
+
                 //ColumnText ct = new ColumnText(_Writer.DirectContent);
                 //ct.AddText(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 12));
                 //ct.Alignment = Element.ALIGN_JUSTIFIED;
@@ -190,7 +222,7 @@ namespace AideDeJeu.Pdf
                         new Chunk()
                         {
                             Content = literal.Content.Text.Substring(literal.Content.Start, literal.Content.Length),
-                            Font = new Font(fontFamily, fontSize, fontStyle, fontColor)
+                            Font = ParagraphFont, //new Font(fontFamily, fontSize, fontStyle, fontColor)
                         }
                     };
                 case EmphasisInline emphasis:

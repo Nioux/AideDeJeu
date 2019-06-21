@@ -23,6 +23,12 @@
     <None Remove="Pdf\178_hd_01_feuille_de_perso_v1.pdf" />
     <None Remove="Pdf\AlverataIrregularPEMedium.ttf" />
     <None Remove="Pdf\BLKCHCRY.TTF" />
+    <None Remove="Pdf\Cinzel-Black.otf" />
+    <None Remove="Pdf\Cinzel-Bold.otf" />
+    <None Remove="Pdf\Cinzel-Regular.otf" />
+    <None Remove="Pdf\CinzelDecorative-Black.otf" />
+    <None Remove="Pdf\CinzelDecorative-Bold.otf" />
+    <None Remove="Pdf\CinzelDecorative-Regular.otf" />
     <None Remove="Pdf\feuille_de_personnage_editable.pdf" />
     <None Remove="Pdf\LinLibertine_aBL.ttf" />
     <None Remove="Pdf\LinLibertine_aBS.ttf" />
@@ -40,6 +46,7 @@
     <None Remove="Pdf\LinLibertine_RI.ttf" />
     <None Remove="Pdf\LinLibertine_RZ.ttf" />
     <None Remove="Pdf\LinLibertine_RZI.ttf" />
+    <None Remove="Pdf\MarcellusSC-Regular.ttf" />
     <None Remove="Pdf\MinionPro_It.ttf" />
     <None Remove="Pdf\poker_size.pdf" />
     <None Remove="test.svg" />
@@ -50,6 +57,12 @@
     <EmbeddedResource Include="Pdf\178_hd_01_feuille_de_perso_v1.pdf" />
     <EmbeddedResource Include="Pdf\AlverataIrregularPEMedium.ttf" />
     <EmbeddedResource Include="Pdf\BLKCHCRY.TTF" />
+    <EmbeddedResource Include="Pdf\Cinzel-Black.otf" />
+    <EmbeddedResource Include="Pdf\Cinzel-Bold.otf" />
+    <EmbeddedResource Include="Pdf\Cinzel-Regular.otf" />
+    <EmbeddedResource Include="Pdf\CinzelDecorative-Black.otf" />
+    <EmbeddedResource Include="Pdf\CinzelDecorative-Bold.otf" />
+    <EmbeddedResource Include="Pdf\CinzelDecorative-Regular.otf" />
     <EmbeddedResource Include="Pdf\feuille_de_personnage_editable.pdf" />
     <EmbeddedResource Include="Pdf\LinLibertine_aBL.ttf" />
     <EmbeddedResource Include="Pdf\LinLibertine_aBS.ttf" />
@@ -67,6 +80,7 @@
     <EmbeddedResource Include="Pdf\LinLibertine_RI.ttf" />
     <EmbeddedResource Include="Pdf\LinLibertine_RZ.ttf" />
     <EmbeddedResource Include="Pdf\LinLibertine_RZI.ttf" />
+    <EmbeddedResource Include="Pdf\MarcellusSC-Regular.ttf" />
     <EmbeddedResource Include="Pdf\MinionPro_It.ttf" />
     <EmbeddedResource Include="Pdf\poker_size.pdf" />
     <EmbeddedResource Include="test.svg" />
