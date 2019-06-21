@@ -31,7 +31,7 @@
             <OnPlatform x:Key="LinuxLibertineCapitalsBold" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Linux Libertine Capitals" />
                 <On Platform="Android" Value="Cinzel-Bold.otf#Cinzel Bold" />
-                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/Cinzel-Bold.otf#Cinzel Bold" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/Cinzel-Bold.otf#Cinzel" />
             </OnPlatform>
 
             <OnPlatform x:Key="LinuxLibertineCapitalsItal" x:TypeArguments="x:String">
@@ -43,7 +43,7 @@
             <OnPlatform x:Key="LinuxLibertineCapitalsBoldItal" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Linux Libertine Capitals" />
                 <On Platform="Android" Value="Cinzel-Bold.otf#Cinzel Bold" />
-                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/Cinzel-Bold.otf#Cinzel Bold" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/Cinzel-Bold.otf#Cinzel" />
             </OnPlatform>
 
             <OnPlatform x:Key="LinuxLibertine" x:TypeArguments="x:String">
@@ -117,35 +117,35 @@
             <Style TargetType="Label"  x:Key="heading2">
                 <Setter Property="FontSize" Value="25" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
-                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading3">
                 <Setter Property="FontSize" Value="20" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
-                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading4">
                 <Setter Property="FontSize" Value="18" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
-                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading5">
                 <Setter Property="FontSize" Value="16" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
-                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading6">
                 <Setter Property="FontSize" Value="15" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
-                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
