@@ -24,26 +24,26 @@
             
             <OnPlatform x:Key="LinuxLibertineCapitals" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Linux Libertine Capitals" />
-                <On Platform="Android" Value="LinLibertine_aS.ttf#Linux Libertine Capitals" />
-                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
+                <On Platform="Android" Value="Cinzel-Regular.otf#Cinzel" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/Cinzel-Regular.otf#Cinzel" />
             </OnPlatform>
 
             <OnPlatform x:Key="LinuxLibertineCapitalsBold" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Linux Libertine Capitals" />
-                <On Platform="Android" Value="LinLibertine_aBS.ttf#Linux Libertine Capitals" />
-                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
+                <On Platform="Android" Value="Cinzel-Bold.otf#Cinzel Bold" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/Cinzel-Bold.otf#Cinzel Bold" />
             </OnPlatform>
 
             <OnPlatform x:Key="LinuxLibertineCapitalsItal" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Linux Libertine Capitals" />
-                <On Platform="Android" Value="LinLibertine_aSI.ttf#Linux Libertine Capitals" />
-                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
+                <On Platform="Android" Value="Cinzel-Regular.otf#Cinzel" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/Cinzel-Regular.otf#Cinzel" />
             </OnPlatform>
 
             <OnPlatform x:Key="LinuxLibertineCapitalsBoldItal" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Linux Libertine Capitals" />
-                <On Platform="Android" Value="LinLibertine_aSZI.ttf#Linux Libertine Capitals" />
-                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
+                <On Platform="Android" Value="Cinzel-Bold.otf#Cinzel Bold" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/Cinzel-Bold.otf#Cinzel Bold" />
             </OnPlatform>
 
             <OnPlatform x:Key="LinuxLibertine" x:TypeArguments="x:String">

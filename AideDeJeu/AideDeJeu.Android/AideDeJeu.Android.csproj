@@ -432,6 +432,13 @@
     <AndroidAsset Include="Assets\pdfjs\web\locale\zh-CN\viewer.properties" />
     <AndroidAsset Include="Assets\pdfjs\web\locale\zh-TW\viewer.properties" />
     <AndroidAsset Include="Assets\pdfjs\web\locale\zu\viewer.properties" />
+    <AndroidAsset Include="Assets\MarcellusSC-Regular.ttf" />
+    <AndroidAsset Include="Assets\Cinzel-Black.otf" />
+    <AndroidAsset Include="Assets\Cinzel-Bold.otf" />
+    <AndroidAsset Include="Assets\CinzelDecorative-Black.otf" />
+    <AndroidAsset Include="Assets\CinzelDecorative-Bold.otf" />
+    <AndroidAsset Include="Assets\CinzelDecorative-Regular.otf" />
+    <AndroidAsset Include="Assets\Cinzel-Regular.otf" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
   </ItemGroup>

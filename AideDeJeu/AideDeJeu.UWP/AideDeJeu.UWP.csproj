@@ -309,6 +309,13 @@
     <Content Include="Assets\pdfjs\web\cmaps\V.bcmap" />
     <Content Include="Assets\pdfjs\web\cmaps\WP-Symbol.bcmap" />
     <Content Include="Assets\pdfjs\web\compressed.tracemonkey-pldi-09.pdf" />
+    <Content Include="Assets\Fonts\Cinzel-Black.otf" />
+    <Content Include="Assets\Fonts\Cinzel-Bold.otf" />
+    <Content Include="Assets\Fonts\CinzelDecorative-Black.otf" />
+    <Content Include="Assets\Fonts\CinzelDecorative-Bold.otf" />
+    <Content Include="Assets\Fonts\CinzelDecorative-Regular.otf" />
+    <Content Include="Assets\Fonts\Cinzel-Regular.otf" />
+    <Content Include="Assets\Fonts\MarcellusSC-Regular.ttf" />
     <None Include="Assets\pdfjs\web\locale\ach\viewer.properties" />
     <None Include="Assets\pdfjs\web\locale\af\viewer.properties" />
     <None Include="Assets\pdfjs\web\locale\ak\viewer.properties" />

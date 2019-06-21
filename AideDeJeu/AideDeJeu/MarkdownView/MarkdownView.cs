@@ -206,6 +206,10 @@
                     Debug.WriteLine($"Can't render {block.GetType()} blocks.");
                     break;
             }
+            if(subviews != null)
+            {
+                views.AddRange(subviews);
+            }
 
             if (views != null)
             {
@@ -270,7 +274,8 @@
                 Spacing = this.Theme.Margin,
             };
 
-            this.Render(block.AsEnumerable());
+            var subv = this.Render(block.AsEnumerable());
+            subv.ToList().ForEach(v => stack.Children.Add(v));
 
             var horizontalStack = new StackLayout
             {
