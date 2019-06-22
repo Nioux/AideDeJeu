@@ -441,6 +441,12 @@
     <AndroidAsset Include="Assets\Cinzel-Regular.otf" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\font\cinzel_black.otf" />
+    <AndroidResource Include="Resources\font\cinzel_bold.otf" />
+    <AndroidResource Include="Resources\font\cinzel_regular.otf" />
+    <AndroidResource Include="Resources\font\cinzeldecorative_black.otf" />
+    <AndroidResource Include="Resources\font\cinzeldecorative_bold.otf" />
+    <AndroidResource Include="Resources\font\cinzeldecorative_regular.otf" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\icon.png" />

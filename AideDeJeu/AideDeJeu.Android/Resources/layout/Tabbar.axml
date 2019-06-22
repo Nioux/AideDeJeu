@@ -8,4 +8,5 @@
     android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
     app:tabIndicatorColor="@color/HDRed"
     app:tabGravity="fill"
-    app:tabMode="scrollable" />
+    app:tabMode="scrollable" 
+    app:tabTextAppearance="@style/TabBar.TitleText"/>
