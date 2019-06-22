@@ -55,31 +55,139 @@ namespace AideDeJeu.Pdf
             //reader.Close();
         }
 
-        Font ParagraphFont = null;
+        private BaseFont GetBaseFont(string fontName)
+        {
+            string fontPath = fontName;
+            if(Xamarin.Essentials.DeviceInfo.Platform != Xamarin.Essentials.DevicePlatform.Unknown)
+            {
+                fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, fontPath);
+            }
+            using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream($"AideDeJeu.Pdf.{fontName}"))
+            {
+                using (var outFont = new FileStream(fontPath, FileMode.Create, FileAccess.ReadWrite))
+                {
+                    inFont.CopyTo(outFont);
+                }
+            }
+            FontFactory.Register(fontPath);
+
+            return iTextSharp.text.pdf.BaseFont.CreateFont(fontPath, iTextSharp.text.pdf.BaseFont.IDENTITY_H, iTextSharp.text.pdf.BaseFont.EMBEDDED);
+        }
+
+        BaseFont _CinzelRegular = null;
+        public BaseFont CinzelRegular
+        {
+            get
+            {
+                return _CinzelRegular ?? (_CinzelRegular = GetBaseFont("Cinzel-Regular.otf"));
+            }
+        }
+        BaseFont _CinzelBold = null;
+        public BaseFont CinzelBold
+        {
+            get
+            {
+                return _CinzelBold ?? (_CinzelBold = GetBaseFont("Cinzel-Bold.otf"));
+            }
+        }
+        BaseFont _LinuxLibertine = null;
+        public BaseFont LinuxLibertine
+        {
+            get
+            {
+                return _LinuxLibertine ?? (_LinuxLibertine = GetBaseFont("LinLibertine_R.ttf"));
+            }
+        }
+
+
+        Font _Header1Font = null;
+        public Font Header1Font
+        {
+            get
+            {
+                return _Header1Font ?? (_Header1Font = new iTextSharp.text.Font(CinzelBold, 30));
+            }
+        }
+        Font _Header2Font = null;
+        public Font Header2Font
+        {
+            get
+            {
+                return _Header2Font ?? (_Header2Font = new iTextSharp.text.Font(CinzelRegular, 25));
+            }
+        }
+        Font _Header3Font = null;
+        public Font Header3Font
+        {
+            get
+            {
+                return _Header3Font ?? (_Header3Font = new iTextSharp.text.Font(CinzelRegular, 20));
+            }
+        }
+        Font _Header4Font = null;
+        public Font Header4Font
+        {
+            get
+            {
+                return _Header4Font ?? (_Header4Font = new iTextSharp.text.Font(CinzelRegular, 18));
+            }
+        }
+        Font _Header5Font = null;
+        public Font Header5Font
+        {
+            get
+            {
+                return _Header5Font ?? (_Header5Font = new iTextSharp.text.Font(CinzelRegular, 16));
+            }
+        }
+        Font _Header6Font = null;
+        public Font Header6Font
+        {
+            get
+            {
+                return _Header6Font ?? (_Header6Font = new iTextSharp.text.Font(CinzelRegular, 15));
+            }
+        }
+
+
+        Font _ParagraphFont = null;
+        Font ParagraphFont
+        {
+            get
+            {
+                return _ParagraphFont ?? (_ParagraphFont = new iTextSharp.text.Font(LinuxLibertine, 15));
+            }
+        }
+
         private void Render(IEnumerable<Block> blocks, Document document)
         {
-            if(ParagraphFont == null)
-            {
-                //var fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "Cinzel-Regular.otf");
-                var fontPath = @"C:\Users\yanma\Documents\Visual Studio 2017\Projects\AideDeJeu\AideDeJeu\AideDeJeuCmd\bin\Debug\netcoreapp2.1\Cinzel-Regular.otf";
-                using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.Cinzel-Regular.otf"))
-                {
-                    using (var outFont = new FileStream(fontPath, FileMode.Create, FileAccess.ReadWrite))
-                    {
-                        inFont.CopyTo(outFont);
-                    }
-                }
-                FontFactory.Register(fontPath);
+            //if(ParagraphFont == null)
+            //{
+            //    if(CinzelRegular == null)
+            //    {
 
-                //var mafont = FontFactory.GetFont("cinzel", 20, iTextSharp.text.Font.NORMAL);
-                var mafont = iTextSharp.text.pdf.BaseFont.CreateFont(fontPath, iTextSharp.text.pdf.BaseFont.IDENTITY_H, iTextSharp.text.pdf.BaseFont.EMBEDDED);
-                //var font = mafont.BaseFont;
-                var bigFont = new iTextSharp.text.Font(mafont, 20);
+            //    }
+            //    //var fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "Cinzel-Regular.otf");
+            //    //var fontPath = @"C:\Users\yanma\Documents\Visual Studio 2017\Projects\AideDeJeu\AideDeJeu\AideDeJeuCmd\bin\Debug\netcoreapp2.1\Cinzel-Regular.otf";
+            //    var fontPath = @"Cinzel-Regular.otf";
+            //    using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.Cinzel-Regular.otf"))
+            //    {
+            //        using (var outFont = new FileStream(fontPath, FileMode.Create, FileAccess.ReadWrite))
+            //        {
+            //            inFont.CopyTo(outFont);
+            //        }
+            //    }
+            //    FontFactory.Register(fontPath);
 
-                var fonts = FontFactory.RegisteredFonts;
+            //    //var mafont = FontFactory.GetFont("cinzel", 20, iTextSharp.text.Font.NORMAL);
+            //    var mafont = iTextSharp.text.pdf.BaseFont.CreateFont(fontPath, iTextSharp.text.pdf.BaseFont.IDENTITY_H, iTextSharp.text.pdf.BaseFont.EMBEDDED);
+            //    //var font = mafont.BaseFont;
+            //    var bigFont = new iTextSharp.text.Font(mafont, 20);
 
-                ParagraphFont = bigFont;
-            }
+            //    var fonts = FontFactory.RegisteredFonts;
+
+            //    ParagraphFont = bigFont;
+            //}
             var phrases = Render(blocks);
 
 
@@ -93,7 +201,7 @@ namespace AideDeJeu.Pdf
             foreach (var phrase in phrases)
             {
                 //var pphrase = new Phrase("test", bigFont);
-                phrase.Font = ParagraphFont;
+                //phrase.Font = ParagraphFont;
                 y = ct.YLine;
 
                 document.Add(phrase);
@@ -187,21 +295,23 @@ namespace AideDeJeu.Pdf
 
         private Phrase Render(HeadingBlock block)
         {
-            return CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0x9B1C47), 14 + (7 - block.Level) * 2);
+            var fonts = new Font[] { Header1Font, Header2Font, Header3Font, Header4Font, Header5Font, Header6Font };
+            var colors = new Color[] { new Color(0x9B1C47), new Color(0, 0, 0), new Color(0, 0, 0), new Color(0, 0, 0), new Color(0, 0, 0), new Color(0, 0, 0) };
+            return CreateFormatted(block.Inline, fonts[block.Level - 1], 0, colors[block.Level - 1]);
         }
 
         private Phrase Render(ParagraphBlock block)
         {
-            return CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 12);
+            return CreateFormatted(block.Inline, ParagraphFont, 0, new Color(0, 0, 0));
             //_Document.Add(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 20));
         }
 
-        private Phrase CreateFormatted(ContainerInline inlines, int fontFamily, int fontStyle, Color fontColor, float fontSize)
+        private Phrase CreateFormatted(ContainerInline inlines, Font fontFamily, int fontStyle, Color fontColor)
         {
             var phrase = new Phrase();
             foreach (var inline in inlines)
             {
-                var spans = CreateChunks(inline, fontFamily, fontStyle, fontColor, fontSize);
+                var spans = CreateChunks(inline, fontFamily, fontStyle, fontColor);
                 if (spans != null)
                 {
                     foreach (var span in spans)
@@ -212,7 +322,7 @@ namespace AideDeJeu.Pdf
             }
             return phrase;
         }
-        private Chunk[] CreateChunks(Inline inline, int fontFamily, int fontStyle, Color fontColor, float fontSize)
+        private Chunk[] CreateChunks(Inline inline, Font fontFamily, int fontStyle, Color fontColor)
         {
             switch (inline)
             {
@@ -222,12 +332,12 @@ namespace AideDeJeu.Pdf
                         new Chunk()
                         {
                             Content = literal.Content.Text.Substring(literal.Content.Start, literal.Content.Length),
-                            Font = ParagraphFont, //new Font(fontFamily, fontSize, fontStyle, fontColor)
+                            Font = new Font(fontFamily.BaseFont, fontFamily.Size, fontStyle, fontColor)
                         }
                     };
                 case EmphasisInline emphasis:
                     var childStyle = fontStyle | (emphasis.DelimiterCount == 2 ? Font.BOLD : Font.ITALIC);
-                    var espans = emphasis.SelectMany(x => CreateChunks(x, fontFamily, childStyle, fontColor, fontSize));
+                    var espans = emphasis.SelectMany(x => CreateChunks(x, fontFamily, childStyle, fontColor));
                     return espans.ToArray();
 
                 case LineBreakInline breakline:
