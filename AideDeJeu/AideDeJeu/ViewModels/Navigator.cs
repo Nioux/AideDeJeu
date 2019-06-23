@@ -1,4 +1,5 @@
-﻿using AideDeJeu.Tools;
+﻿using AideDeJeu.Pdf;
+using AideDeJeu.Tools;
 using AideDeJeu.ViewModels.Library;
 using AideDeJeu.Views;
 using AideDeJeu.Views.Library;
@@ -6,6 +7,7 @@ using AideDeJeuLib;
 using Rg.Plugins.Popup.Services;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -152,11 +154,11 @@ namespace AideDeJeu.ViewModels
             var lastPage = navigationPage.Navigation.NavigationStack.LastOrDefault();
             var context = lastPage.BindingContext;
             Item item = null;
-            if(context is ItemDetailViewModel)
+            if (context is ItemDetailViewModel)
             {
                 item = (context as ItemDetailViewModel).Item;
             }
-            else if(context is ItemsViewModel)
+            else if (context is ItemsViewModel)
             {
                 item = (context as ItemsViewModel).AllItems;
             }
@@ -165,10 +167,10 @@ namespace AideDeJeu.ViewModels
             var result = await Application.Current.MainPage.DisplayActionSheet("Ajouter à", "Annuler", "Nouvelle liste", vm.BookmarkCollectionNames.ToArray<string>());
             if (result != "Annuler")
             {
-                if(result == "Nouvelle liste")
+                if (result == "Nouvelle liste")
                 {
                     int i = 1;
-                    while(vm.BookmarkCollectionNames.Contains(result = $"Nouvelle liste ({i})"))
+                    while (vm.BookmarkCollectionNames.Contains(result = $"Nouvelle liste ({i})"))
                     {
                         i++;
                     }
@@ -230,7 +232,7 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                return _NavigateToLinkCommand ?? (_NavigateToLinkCommand = new Command<string>(async(s) => await NavigateToLinkAsync(s)));
+                return _NavigateToLinkCommand ?? (_NavigateToLinkCommand = new Command<string>(async (s) => await NavigateToLinkAsync(s)));
             }
         }
 
@@ -261,7 +263,7 @@ namespace AideDeJeu.ViewModels
                     var filterViewModel = items.GetNewFilterViewModel();
                     var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
                     itemsViewModel.LoadItemsCommand.Execute(null);
-                    if(!string.IsNullOrEmpty(with))
+                    if (!string.IsNullOrEmpty(with))
                     {
                         var swith = with.Split('_');
                         for (int i = 0; i < swith.Length / 2; i++)
@@ -306,7 +308,7 @@ namespace AideDeJeu.ViewModels
             // create the Transparent Popup Page
             // of type string since we need a string return
             var popup = new InputAlertDialogBase<Tuple<string, PopupResultEnum>>(inputView);
-            
+
 
             // subscribe to the TextInputView's Button click event
             inputView.SaveButtonEventHandler +=
@@ -349,5 +351,22 @@ namespace AideDeJeu.ViewModels
             return result;
         }
 
+        private Command<string> _GeneratePDFCommand = null;
+        public Command<string> GeneratePDFCommand
+        {
+            get
+            {
+                return _GeneratePDFCommand ?? (_GeneratePDFCommand = new Command<string>(async (markdown) => await ExecuteGeneratePDFCommandAsync(markdown)));
+            }
+        }
+
+        public async Task ExecuteGeneratePDFCommandAsync(string markdown)
+        {
+            using (var stream = new FileStream(Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf"), FileMode.Create))
+            {
+
+                PdfService.Instance.MarkdownToPdf(new List<string>() { markdown }, stream);
+            }
+        }
     }
 }

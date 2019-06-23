@@ -10,11 +10,19 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
+using Xamarin.Forms;
 
 namespace AideDeJeu.Pdf
 {
     public class PdfService
     {
+        public static PdfService Instance
+        {
+            get
+            {
+                return DependencyService.Get<PdfService>();
+            }
+        }
         public static void DrawText(PdfContentByte cb, string text, iTextSharp.text.Font font, float x, float y, float width, float height, int alignment)
         {
             cb.SetRGBColorFill(127, 127, 127);
@@ -35,7 +43,7 @@ namespace AideDeJeu.Pdf
         {
             var pipeline = new Markdig.MarkdownPipelineBuilder().UseYamlFrontMatter().UsePipeTables().Build();
 
-            _Document = new Document(new Rectangle(822, 1122));
+            _Document = new Document(new iTextSharp.text.Rectangle(822, 1122));
             _Writer = PdfWriter.GetInstance(_Document, stream);
             _Document.Open();
             //PdfReader reader = null;
@@ -100,48 +108,48 @@ namespace AideDeJeu.Pdf
         }
 
 
-        Font _Header1Font = null;
-        public Font Header1Font
+        iTextSharp.text.Font _Header1Font = null;
+        public iTextSharp.text.Font Header1Font
         {
             get
             {
                 return _Header1Font ?? (_Header1Font = new iTextSharp.text.Font(CinzelBold, 30));
             }
         }
-        Font _Header2Font = null;
-        public Font Header2Font
+        iTextSharp.text.Font _Header2Font = null;
+        public iTextSharp.text.Font Header2Font
         {
             get
             {
                 return _Header2Font ?? (_Header2Font = new iTextSharp.text.Font(CinzelRegular, 25));
             }
         }
-        Font _Header3Font = null;
-        public Font Header3Font
+        iTextSharp.text.Font _Header3Font = null;
+        public iTextSharp.text.Font Header3Font
         {
             get
             {
                 return _Header3Font ?? (_Header3Font = new iTextSharp.text.Font(CinzelRegular, 20));
             }
         }
-        Font _Header4Font = null;
-        public Font Header4Font
+        iTextSharp.text.Font _Header4Font = null;
+        public iTextSharp.text.Font Header4Font
         {
             get
             {
                 return _Header4Font ?? (_Header4Font = new iTextSharp.text.Font(CinzelRegular, 18));
             }
         }
-        Font _Header5Font = null;
-        public Font Header5Font
+        iTextSharp.text.Font _Header5Font = null;
+        public iTextSharp.text.Font Header5Font
         {
             get
             {
                 return _Header5Font ?? (_Header5Font = new iTextSharp.text.Font(CinzelRegular, 16));
             }
         }
-        Font _Header6Font = null;
-        public Font Header6Font
+        iTextSharp.text.Font _Header6Font = null;
+        public iTextSharp.text.Font Header6Font
         {
             get
             {
@@ -150,8 +158,8 @@ namespace AideDeJeu.Pdf
         }
 
 
-        Font _ParagraphFont = null;
-        Font ParagraphFont
+        iTextSharp.text.Font _ParagraphFont = null;
+        iTextSharp.text.Font ParagraphFont
         {
             get
             {
@@ -295,18 +303,18 @@ namespace AideDeJeu.Pdf
 
         private Phrase Render(HeadingBlock block)
         {
-            var fonts = new Font[] { Header1Font, Header2Font, Header3Font, Header4Font, Header5Font, Header6Font };
-            var colors = new Color[] { new Color(0x9B1C47), new Color(0, 0, 0), new Color(0, 0, 0), new Color(0, 0, 0), new Color(0, 0, 0), new Color(0, 0, 0) };
+            var fonts = new iTextSharp.text.Font[] { Header1Font, Header2Font, Header3Font, Header4Font, Header5Font, Header6Font };
+            var colors = new iTextSharp.text.Color[] { new iTextSharp.text.Color(0x9B1C47), new iTextSharp.text.Color(0, 0, 0), new iTextSharp.text.Color(0, 0, 0), new iTextSharp.text.Color(0, 0, 0), new iTextSharp.text.Color(0, 0, 0), new iTextSharp.text.Color(0, 0, 0) };
             return CreateFormatted(block.Inline, fonts[block.Level - 1], 0, colors[block.Level - 1]);
         }
 
         private Phrase Render(ParagraphBlock block)
         {
-            return CreateFormatted(block.Inline, ParagraphFont, 0, new Color(0, 0, 0));
+            return CreateFormatted(block.Inline, ParagraphFont, 0, new iTextSharp.text.Color(0, 0, 0));
             //_Document.Add(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 20));
         }
 
-        private Phrase CreateFormatted(ContainerInline inlines, Font fontFamily, int fontStyle, Color fontColor)
+        private Phrase CreateFormatted(ContainerInline inlines, iTextSharp.text.Font fontFamily, int fontStyle, iTextSharp.text.Color fontColor)
         {
             var phrase = new Phrase();
             foreach (var inline in inlines)
@@ -322,7 +330,7 @@ namespace AideDeJeu.Pdf
             }
             return phrase;
         }
-        private Chunk[] CreateChunks(Inline inline, Font fontFamily, int fontStyle, Color fontColor)
+        private Chunk[] CreateChunks(Inline inline, iTextSharp.text.Font fontFamily, int fontStyle, iTextSharp.text.Color fontColor)
         {
             switch (inline)
             {
@@ -332,11 +340,11 @@ namespace AideDeJeu.Pdf
                         new Chunk()
                         {
                             Content = literal.Content.Text.Substring(literal.Content.Start, literal.Content.Length),
-                            Font = new Font(fontFamily.BaseFont, fontFamily.Size, fontStyle, fontColor)
+                            Font = new iTextSharp.text.Font(fontFamily.BaseFont, fontFamily.Size, fontStyle, fontColor)
                         }
                     };
                 case EmphasisInline emphasis:
-                    var childStyle = fontStyle | (emphasis.DelimiterCount == 2 ? Font.BOLD : Font.ITALIC);
+                    var childStyle = fontStyle | (emphasis.DelimiterCount == 2 ? iTextSharp.text.Font.BOLD : iTextSharp.text.Font.ITALIC);
                     var espans = emphasis.SelectMany(x => CreateChunks(x, fontFamily, childStyle, fontColor));
                     return espans.ToArray();
 

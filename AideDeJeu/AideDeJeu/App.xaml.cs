@@ -1,4 +1,5 @@
-﻿using AideDeJeu.ViewModels;
+﻿using AideDeJeu.Pdf;
+using AideDeJeu.ViewModels;
 using AideDeJeu.ViewModels.Library;
 using AideDeJeu.ViewModels.PlayerCharacter;
 using AideDeJeu.Views;
@@ -19,6 +20,7 @@ namespace AideDeJeu
 			InitializeComponent();
 
             DependencyService.Register<MainViewModel>();
+            DependencyService.Register<PdfService>();
             DependencyService.Register<BookmarksViewModel>();
             DependencyService.Register<StoreViewModel>();
             DependencyService.Register<PlayerCharacterEditorViewModel>();
