@@ -3,6 +3,7 @@ using AideDeJeu.Tools;
 using AideDeJeu.ViewModels.Library;
 using AideDeJeu.Views;
 using AideDeJeu.Views.Library;
+using AideDeJeu.Views.PlayerCharacter;
 using AideDeJeuLib;
 using Rg.Plugins.Popup.Services;
 using System;
@@ -362,11 +363,19 @@ namespace AideDeJeu.ViewModels
 
         public async Task ExecuteGeneratePDFCommandAsync(string markdown)
         {
-            using (var stream = new FileStream(Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "test.pdf"), FileMode.Create))
+            using (var stream = new FileStream(Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, Path.Combine("pdf", "test.pdf")), FileMode.Create))
             {
 
                 PdfService.Instance.MarkdownToPdf(new List<string>() { markdown }, stream);
             }
+
+            var page = new PdfViewPage();
+            page.PdfFile = new Tools.NotifyTaskCompletion<string>(Task.Run(() =>
+                { return "test.pdf"; }
+            ));
+            page.BindingContext = page;
+            await Navigation.PushAsync(page, true);
+
         }
     }
 }
