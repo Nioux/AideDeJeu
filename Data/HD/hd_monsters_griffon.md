@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Griffon](srd_monsters_griffon.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 59 (7d10+21)
 - **Vitesse** 9 m, vol 24 m

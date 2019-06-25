@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Hippogriff](srd_monsters_hippogriff.md)
 -  Créature monstrueuse de taille G, non-alignée
+- **Terrain** Littoral, Montagnes
 - **Classe d'armure** 11
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 12 m, vol 18 m

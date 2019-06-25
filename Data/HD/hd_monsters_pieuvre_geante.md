@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Octopus](srd_monsters_giant_octopus.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 11
 - **Points de vie** 52 (8d10+8)
 - **Vitesse** 3 m, nage 18 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Duergar](srd_monsters_duergar.md)
 -  Humanoïde (nain) de taille M, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 16 (armure d'écailles, bouclier)
 - **Points de vie** 26 (4d8+8)
 - **Vitesse** 7,50 m

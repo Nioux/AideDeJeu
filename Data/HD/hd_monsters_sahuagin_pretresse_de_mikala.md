@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (sahuagin) de taille M, Loyal Mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure de coquillages)
 - **Points de vie** 50 (9d8+9)
 - **Vitesse** 9 m, nage 12 m

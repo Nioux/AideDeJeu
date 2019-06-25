@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Black Pudding](srd_monsters_black_pudding.md)
 -  Vase de taille G, non-alignée
+- **Terrain** Caverne aménagée, Caverne naturelle, Donjon maçonné
 - **Classe d'armure** 7
 - **Points de vie** 85 (10d10+30)
 - **Vitesse** 6 m, escalade 6 m

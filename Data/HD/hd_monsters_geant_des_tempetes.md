@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Storm Giant](srd_monsters_storm_giant.md)
 -  Géant de taille TG, Chaotique Bon
+- **Terrain** Littoral, Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 16 (armure d'écailles)
 - **Points de vie** 230 (20d12+100)
 - **Vitesse** 15 m, nage 15 m

@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Créature monstrueuse de taille TG, non-alignée
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 195 (17d12+85)
 - **Vitesse** 9 m, fouissement 6 m

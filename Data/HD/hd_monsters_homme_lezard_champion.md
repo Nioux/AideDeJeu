@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (homme-lézard) de taille M, Neutre
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle, bouclier)
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 9 m, nage 9 m

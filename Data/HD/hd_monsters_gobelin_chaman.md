@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
+- **Terrain** Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 27 (6d6+6)
 - **Vitesse** 9 m

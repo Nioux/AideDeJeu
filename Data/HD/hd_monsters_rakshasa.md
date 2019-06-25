@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Rakshasa](srd_monsters_rakshasa.md)
 -  Fiélon de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 110 (13d8+52)
 - **Vitesse** 12 m

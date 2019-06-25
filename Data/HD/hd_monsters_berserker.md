@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Berserker](srd_monsters_berserker.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
+- **Terrain** 
 - **Classe d'armure** 13 (armure de peau)
 - **Points de vie** 67 (9d8+27)
 - **Vitesse** 9 m

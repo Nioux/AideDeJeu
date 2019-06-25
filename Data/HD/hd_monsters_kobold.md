@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Kobold](srd_monsters_kobold.md)
 -  Humanoïde (kobold) de taille P, Loyal Mauvais
+- **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 12
 - **Points de vie** 5 (2d6-2)
 - **Vitesse** 9 m

@@ -1,11 +1,12 @@
 
-<!--MonsterItems Family="MonsterHD" Types="Humanoïde|Aberration|Bête|Céleste|Créature artificielle|Créature monstrueuse|Dragon|Élémentaire|Fée|Fiélon|Géant|Mort-vivant|Plante|Vase" Challenges="0 (0 PX)|1/8 (25 PX)|1/4 (50 PX)|1/2 (100 PX)|1 (200 PX)|2 (450 PX)|3 (700 PX)|4 (1100 PX)|5 (1800 PX)|6 (2300 PX)|7 (2900 PX)|8 (3900 PX)|9 (5000 PX)|10 (5900 PX)|11 (7200 PX)|12 (8400 PX)|13 (10000 PX)|14 (11500 PX)|15 (13000 PX)|16 (15000 PX)|17 (18000 PX)|18 (20000 PX)|19 (22000 PX)|20 (25000 PX)|21 (33000 PX)|22 (41000 PX)|23 (50000 PX)|24 (62000 PX)|30 (155000 PX)" Sizes="TP|P|M|G|TG|Gig" Sources="CEO|SRD"-->
+<!--MonsterItems Family="MonsterHD" Types="Humanoïde|Aberration|Bête|Céleste|Créature artificielle|Créature monstrueuse|Dragon|Élémentaire|Fée|Fiélon|Géant|Mort-vivant|Plante|Vase" Challenges="0 (0 PX)|1/8 (25 PX)|1/4 (50 PX)|1/2 (100 PX)|1 (200 PX)|2 (450 PX)|3 (700 PX)|4 (1100 PX)|5 (1800 PX)|6 (2300 PX)|7 (2900 PX)|8 (3900 PX)|9 (5000 PX)|10 (5900 PX)|11 (7200 PX)|12 (8400 PX)|13 (10000 PX)|14 (11500 PX)|15 (13000 PX)|16 (15000 PX)|17 (18000 PX)|18 (20000 PX)|19 (22000 PX)|20 (25000 PX)|21 (33000 PX)|22 (41000 PX)|23 (50000 PX)|24 (62000 PX)|30 (155000 PX)" Sizes="TP|P|M|G|TG|Gig" Sources="CEO|SRD" Terrains="Arctique / Subarctique|Bois / Forêt|Collines / Vallées|Désert chaud|Jungle|Littoral|Mangrove / Marécage|Mer / Océan|Montagnes|Plaine / Champs / Prairie / Savane|Plans élémentaires|Caverne aménagée|Caverne naturelle|Caverne sous-marine|Donjon maçonné|Ruines extérieures|Ruines souterraines|Ruines sous-marines"-->
 
 > <!--ParentNameLink-->[Créatures et oppositions](index.md)<!--/ParentNameLink-->
 
 ---
 
 # <!--Name-->Créatures<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Monsters](monsters_vo.md)<!--/AltName-->
 
@@ -13,9 +14,11 @@
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Aboleth<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Aboleth](monsters_vo.md#aboleth)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->135 (18d10+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, nage 12 m<!--/Speed-->
@@ -68,8 +71,10 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Abothid<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->loyal mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->104 (16d8+32)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m au sol<!--/Speed-->
@@ -121,9 +126,11 @@ Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le [j
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Âme-en-peine<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Wraith](monsters_vo.md#wraith)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (9d8+27)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 18 m (vol stationnaire)<!--/Speed-->
@@ -159,8 +166,10 @@ _Touché :_ 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un [jet de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Amphibe<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->loyal mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->71 (13d8+13)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m au sol ; nage 9 m<!--/Speed-->
@@ -200,9 +209,11 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Déva<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Deva](monsters_vo.md#deva)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (16d8+64)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 27 m<!--/Speed-->
@@ -251,9 +262,11 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Planétar<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Planetar](monsters_vo.md#planetar)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->200 (16d10+112)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 36 m<!--/Speed-->
@@ -302,9 +315,11 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Solar<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Solar](monsters_vo.md#solar)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->21 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->243 (18d10+144)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, vol 45 m<!--/Speed-->
@@ -372,9 +387,11 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ankheg<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ankheg](monsters_vo.md#ankheg)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle), 11 quand il est [à terre]<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->39 (6d10+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 3 m<!--/Speed-->
@@ -401,9 +418,11 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Azer<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Azer](monsters_vo.md#azer)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plans élémentaires, Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->39 (6d8+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -439,9 +458,11 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Babélien<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Gibbering Mouther](monsters_vo.md#gibbering-mouther)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->9<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (9d8+27)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, nage 3 m<!--/Speed-->
@@ -477,9 +498,11 @@ _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus pe
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Basilic<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Basilisk](monsters_vo.md#basilisk)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -512,9 +535,11 @@ _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Béhir<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Behir](monsters_vo.md#behir)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d12+64)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, escalade 12 m<!--/Speed-->
@@ -553,9 +578,11 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Bulette<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Bulette](monsters_vo.md#bulette)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->94 (9d10+45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 12 m<!--/Speed-->
@@ -589,9 +616,11 @@ Chacune de ces créatures doit réussir un [jet de sauvegarde] de [Force] ou de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Centaure<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Centaur](monsters_vo.md#centaur)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d10+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -631,8 +660,10 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Cerbère<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d10+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -668,9 +699,11 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Criard<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Shrieker](monsters_vo.md#shrieker)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->5<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m<!--/Speed-->
@@ -698,9 +731,11 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Moisissure violette<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Violet Fungus](monsters_vo.md#violet-fungus)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->5<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m<!--/Speed-->
@@ -732,9 +767,11 @@ _Touché :_ 4 (1d8) dégâts nécrotiques.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chimère<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Chimera](monsters_vo.md#chimera)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
@@ -772,9 +809,11 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chuul<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Chuul](monsters_vo.md#chuul)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (11d10+33)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -814,9 +853,11 @@ La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le [
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Cockatrice<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Cockatrice](monsters_vo.md#cockatrice)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d6+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 12 m<!--/Speed-->
@@ -841,9 +882,11 @@ _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un [jet de s
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Couatl<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Couatl](monsters_vo.md#couatl)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d8+39)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 27 m<!--/Speed-->
@@ -897,8 +940,10 @@ Une autre créature peut effectuer une action pour secouer la cible afin qu'elle
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Vétéran demi-dragon rouge<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (humain)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d8+20)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -937,9 +982,11 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Balor<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Balor](monsters_vo.md#balor)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->262 (21d12+126)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
@@ -986,9 +1033,11 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dretch<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Dretch](monsters_vo.md#dretch)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -1024,9 +1073,11 @@ _Touché :_ 3 (1d6) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Glabrezu<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Glabrezu](monsters_vo.md#glabrezu)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->157 (15d10+75)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -1071,9 +1122,11 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hezrou<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Hezrou](monsters_vo.md#hezrou)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (13d10+65)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -1116,9 +1169,11 @@ _Touché :_ 15 (2d10+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Marilith<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Marilith](monsters_vo.md#marilith)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->189 (18d10+90)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -1169,9 +1224,11 @@ Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir p
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Nalfeshnie<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Nalfeshnee](monsters_vo.md#nalfeshnee)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->184 (16d10+96)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 9 m<!--/Speed-->
@@ -1218,9 +1275,11 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Quasit<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Quasit](monsters_vo.md#quasit)<!--/AltName-->
 -  <!--Type-->Fiélon (démon, métamorphe)<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (3d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -1263,9 +1322,11 @@ La cible peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours e
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Vrock<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Vrock](monsters_vo.md#vrock)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->104 (11d10+44)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 18 m<!--/Speed-->
@@ -1310,9 +1371,11 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Destrier noir<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Nightmare](monsters_vo.md#nightmare)<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->68 (8d10+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m, vol 27 m<!--/Speed-->
@@ -1346,8 +1409,10 @@ _Touché :_ 13 (2d8+4) dégâts contondants plus 7 (2d6) dégâts de feu.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dévoreur arcanique<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->212 (25d10+75)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m au sol ; 9 mètres en vol<!--/Speed-->
@@ -1420,9 +1485,11 @@ Relancez deux fois le dé et rejouez tous les 8.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Diable barbelé<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Barbed Devil](monsters_vo.md#barbed-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d8+52)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -1470,9 +1537,11 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Diable barbu<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Bearded Devil](monsters_vo.md#bearded-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -1515,9 +1584,11 @@ _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Diable cornu<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Horned Devil](monsters_vo.md#horned-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->178 (17d10+85)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 18 m<!--/Speed-->
@@ -1562,9 +1633,11 @@ _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Diable gelé<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ice Devil](monsters_vo.md#ice-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->180 (19d10+76)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -1623,9 +1696,11 @@ _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Diable des chaînes<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Chain Devil](monsters_vo.md#chain-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d8+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -1672,9 +1747,11 @@ Si celle-ci peut voir le diable, elle doit réussir un [jet de sauvegarde] de [S
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Diable osseux<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Bone Devil](monsters_vo.md#bone-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->142 (15d10+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 12 m<!--/Speed-->
@@ -1716,9 +1793,11 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Diablotin<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Imp](monsters_vo.md#imp)<!--/AltName-->
 -  <!--Type-->Fiélon (diable, métamorphe)<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->10 (3d4+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 12 m<!--/Speed-->
@@ -1759,9 +1838,11 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Diantrefosse<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Pit Fiend](monsters_vo.md#pit-fiend)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->300 (24d10+168)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
@@ -1818,9 +1899,11 @@ _Touché :_ 24 (3d10+8) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Érinye<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Erinyes](monsters_vo.md#erinyes)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->153 (18d8+72)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
@@ -1865,9 +1948,11 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Lémure<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Lemure](monsters_vo.md#lemure)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->7<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->4,50 m<!--/Speed-->
@@ -1901,8 +1986,10 @@ _Touché :_ 2 (1d4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Diaspaad<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->199 (19d12+76)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -1944,9 +2031,11 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Plésiosaure<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Plesiosaurus](monsters_vo.md#plesiosaurus)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->68 (8d10+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 12 m<!--/Speed-->
@@ -1976,9 +2065,11 @@ _Touché :_ 14 (3d6+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Tricératops<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Triceratops](monsters_vo.md#triceratops)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d12+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -2011,9 +2102,11 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Tyrannosaure<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (13d12+52)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -2045,9 +2138,11 @@ _Touché :_ 20 (3d8+7) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Doppleganger<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Doppelganger](monsters_vo.md#doppelganger)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -2088,9 +2183,11 @@ Tant que la créature est à portée, le doppleganger peut continuer à lire ses
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon blanc vénérable<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ancient White Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->333 (18d20+144)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -2148,9 +2245,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon blanc adulte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Adult White Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->200 (16d12+96)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 9 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -2208,9 +2307,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Jeune dragon blanc<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Young White Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->133 (14d10+56)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 6 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -2250,9 +2351,11 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragonnet blanc<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[White Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->32 (5d8+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 4,50 m, nage 9 m, vol 18 m<!--/Speed-->
@@ -2282,9 +2385,11 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon bleu vénérable<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ancient Blue Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->481 (26d20+208)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 12 m, vol 24 m<!--/Speed-->
@@ -2340,9 +2445,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon bleu adulte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Adult Blue Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->225 (18d12+108)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 9 m, vol 24 m<!--/Speed-->
@@ -2398,9 +2505,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Jeune dragon bleu<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Young Blue Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->152 (16d10+64)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 6 m, vol 24 m<!--/Speed-->
@@ -2436,9 +2545,11 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragonnet bleu<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Blue Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 4,50 m, vol 18 m<!--/Speed-->
@@ -2468,9 +2579,11 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon noir vénérable<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ancient Black Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->367 (21d20+147)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -2526,9 +2639,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon noir adulte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Adult Black Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->195 (17d12+85)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -2586,9 +2701,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Jeune dragon noir<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Young Black Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d10+45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -2628,9 +2745,11 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragonnet noir<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Black Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->33 (6d8+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m, vol 18 m<!--/Speed-->
@@ -2664,9 +2783,11 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon rouge vénérable<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ancient Red Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->546 (28d20+252)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m, vol 24 m<!--/Speed-->
@@ -2722,9 +2843,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon rouge adulte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Adult Red Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->256 (19d12+133)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m, vol 24 m<!--/Speed-->
@@ -2780,9 +2903,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Jeune dragon rouge<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Young Red Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->178 (17d10+85)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m, vol 24 m<!--/Speed-->
@@ -2818,9 +2943,11 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragonnet rouge<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Red Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m, vol 18 m<!--/Speed-->
@@ -2850,9 +2977,11 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon vert vénérable<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ancient Green Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->21 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->385 (22d20+154)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -2913,9 +3042,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon vert adulte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Adult Green Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->207 (18d12+90)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -2974,9 +3105,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Jeune dragon vert<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Young Green Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (16d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -3017,9 +3150,11 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragonnet vert<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Green Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->38 (7d8+7)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m, vol 18 m<!--/Speed-->
@@ -3054,9 +3189,11 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon d'airain vénérable<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ancient Brass Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->297 (17d20+119)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 12 m, vol 24 m<!--/Speed-->
@@ -3122,9 +3259,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon d'airain adulte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Adult Brass Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->172 (15d12+75)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 9 m, vol 24 m<!--/Speed-->
@@ -3184,9 +3323,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Jeune dragon d'airain<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Young Brass Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 6 m, vol 24 m<!--/Speed-->
@@ -3226,9 +3367,11 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 m�
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragonnet d'airain<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Brass Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->16 (3d8+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 4,50 m, vol 18 m<!--/Speed-->
@@ -3262,9 +3405,11 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon d'argent vénérable<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ancient Silver Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->487 (25d20+225)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
@@ -3328,9 +3473,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon d'argent adulte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Adult Silver Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->243 (18d12+126)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
@@ -3396,9 +3543,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Jeune dragon d'argent<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Young Silver Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d10+80)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
@@ -3438,9 +3587,11 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mèt
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragonnet d'argent<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Silver Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
@@ -3474,9 +3625,11 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 m
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon de bronze vénérable<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ancient Bronze Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->444 (24d20+192)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -3542,9 +3695,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon de bronze adulte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Adult Bronze Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->212 (17d12+102)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -3612,9 +3767,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Jeune dragon de bronze<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Young Bronze Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->142 (15d10+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -3658,9 +3815,11 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragonnet de bronze<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Bronze Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->32 (5d8+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m, vol 18 m<!--/Speed-->
@@ -3698,9 +3857,11 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon de cuivre vénérable<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ancient Copper Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->21 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->350 (20d20+140)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m, vol 24 m<!--/Speed-->
@@ -3768,9 +3929,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon de cuivre adulte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Adult Copper Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->184 (16d12+80)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m, vol 24 m<!--/Speed-->
@@ -3832,9 +3995,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Jeune dragon de cuivre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Young Copper Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d10+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m, escalade 12 m, vol 24 m<!--/Speed-->
@@ -3878,9 +4043,11 @@ Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegard
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragonnet de cuivre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Copper Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d8+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m, vol 18 m<!--/Speed-->
@@ -3914,9 +4081,11 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. L
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon d'or vénérable<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ancient Gold Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->546 (28d20+252)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -3982,9 +4151,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon d'or adulte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Adult Gold Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->256 (19d12+133)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -4052,9 +4223,11 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Jeune dragon d'or<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Young Gold Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->178 (17d10+85)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m, vol 24 m<!--/Speed-->
@@ -4098,9 +4271,11 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créat
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragonnet d'or<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Gold Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->60 (8d8+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m, vol 18 m<!--/Speed-->
@@ -4138,9 +4313,11 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les cr�
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dragon-tortue<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Dragon Turtle](monsters_vo.md#dragon-turtle)<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->341 (22d20+110)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 12 m<!--/Speed-->
@@ -4183,8 +4360,10 @@ _Touché :_ 26 (3d12+7) dégâts contondants. Si la cible est une créature, ell
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dref<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d4+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 12 m<!--/Speed-->
@@ -4224,9 +4403,11 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Drider<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Drider](monsters_vo.md#drider)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->123 (13d10+52)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
@@ -4278,9 +4459,11 @@ _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Drow<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Drow](monsters_vo.md#drow)<!--/AltName-->
 -  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -4324,8 +4507,10 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Drow, prêtresse<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (cuirasse +2)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -4388,9 +4573,11 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Dryade<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Dryad](monsters_vo.md#dryad)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (16 avec peau d'écorce)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -4438,9 +4625,11 @@ _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Duergar<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Duergar](monsters_vo.md#duergar)<!--/AltName-->
 -  <!--Type-->Humanoïde (nain)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure d'écailles, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->26 (4d8+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->7,50 m<!--/Speed-->
@@ -4482,9 +4671,11 @@ _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Élémentaire de l'air<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Air Elemental](monsters_vo.md#air-elemental)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d10+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 27 m (vol stationnaire)<!--/Speed-->
@@ -4524,9 +4715,11 @@ Si le [jet de sauvegarde] est réussi, la cible subit la moitié des dégâts co
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Élémentaire de l'eau<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Water Elemental](monsters_vo.md#water-elemental)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Plans élémentaires, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 27 m<!--/Speed-->
@@ -4566,9 +4759,11 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Élémentaire du feu<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Fire Elemental](monsters_vo.md#fire-elemental)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d10+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -4606,9 +4801,11 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Élémentaire de la terre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Earth Elemental](monsters_vo.md#earth-elemental)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (12d10+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 9 m<!--/Speed-->
@@ -4645,9 +4842,11 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Enlaceur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Roper](monsters_vo.md#roper)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (11d10+33)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, escalade 3 m<!--/Speed-->
@@ -4691,9 +4890,11 @@ _Touché :_ 22 (4d8+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Esprit follet<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Sprite](monsters_vo.md#sprite)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bonne<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 12 m<!--/Speed-->
@@ -4727,9 +4928,11 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ettercap<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ettercap](monsters_vo.md#ettercap)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d8+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
@@ -4773,9 +4976,11 @@ _Touché :_ la créature est [entravée] par la toile. Par une action, la créat
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ettin<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ettin](monsters_vo.md#ettin)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d10+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -4813,9 +5018,11 @@ _Touché :_ 14 (2d8+5) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Fantôme<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ghost](monsters_vo.md#ghost)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (10d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 12 m (vol stationnaire)<!--/Speed-->
@@ -4859,9 +5066,11 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Feu follet<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Will-o'-Wisp](monsters_vo.md#will-o-wisp)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (9d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 15 m (vol stationnaire)<!--/Speed-->
@@ -4901,9 +5110,11 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Garde animé<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Shield Guardian](monsters_vo.md#shield-guardian)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->142 (15d10+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -4944,9 +5155,11 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gargouille<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Gargoyle](monsters_vo.md#gargoyle)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plans élémentaires, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (7d8+21)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
@@ -4984,9 +5197,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Géant des collines<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Hill Giant](monsters_vo.md#hill-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Caverne naturelle, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (10d12+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -5018,9 +5233,11 @@ _Touché :_ 21 (3d10+5) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Géant des nuages<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Cloud Giant](monsters_vo.md#cloud-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Neutre Bon (50 %) ou Neutre Mauvais (50 %)<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->200 (16d12+96)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -5065,9 +5282,11 @@ _Touché :_ 30 (4d10+8) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Géant des pierres<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Stone Giant](monsters_vo.md#stone-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (11d12+55)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -5104,9 +5323,11 @@ _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, ell
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Géant des tempêtes<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Storm Giant](monsters_vo.md#storm-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure d'écailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->230 (20d12+100)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, nage 15 m<!--/Speed-->
@@ -5153,9 +5374,11 @@ _Touché :_ 35 (4d12+9) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Géant du feu<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Fire Giant](monsters_vo.md#fire-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->162 (13d12+78)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5189,9 +5412,11 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Géant du givre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Frost Giant](monsters_vo.md#frost-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure composite)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->138 (12d12+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -5225,9 +5450,11 @@ _Touché :_ 28 (4d10+6) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Djinn<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Djinni](monsters_vo.md#djinni)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->161 (14d10+84)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 27 m<!--/Speed-->
@@ -5274,9 +5501,11 @@ Si le test est réussi, la créature n'est plus [entravée] et se déplace vers 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Éfrit<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Efreeti](monsters_vo.md#efreeti)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->200 (16d10+112)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 18 m<!--/Speed-->
@@ -5321,9 +5550,11 @@ _Touché :_ 17 (5d6) dégâts de feu.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gnoll<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Gnoll](monsters_vo.md#gnoll)<!--/AltName-->
 -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de peau, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5360,8 +5591,10 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gnoll, chef de meute<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de peau, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d8+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5402,9 +5635,11 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gnome des profondeurs (svirfneblin)<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)<!--/AltName-->
 -  <!--Type-->Humanoïde (gnome)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->16 (3d6+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -5446,9 +5681,11 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gobelin<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Goblin](monsters_vo.md#goblin)<!--/AltName-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5482,8 +5719,10 @@ _Touché :_ 5 (1d6+2) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gobelin, chaman<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d6+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5523,8 +5762,10 @@ _Touché :_ 3 (1d4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gobelin blanc<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (3d6+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5571,8 +5812,10 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chaman gobelin blanc<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d6+5)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5619,9 +5862,11 @@ _Touché :_ 5 (1d8+1) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gobelours<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Bugbear](monsters_vo.md#bugbear)<!--/AltName-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure de peau, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (5d8+5)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5657,8 +5902,10 @@ _Touché :_ 11 (2d8+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gobelours, chef barbare<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure de peau, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->55 (10d8+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5702,9 +5949,11 @@ _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâ
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Golem d'argile<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Clay Golem](monsters_vo.md#clay-golem)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->133 (14d10+56)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -5751,9 +6000,11 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Golem de chair<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Flesh Golem](monsters_vo.md#flesh-golem)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->9<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (11d8+44)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5806,9 +6057,11 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Golem de fer<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Iron Golem](monsters_vo.md#iron-golem)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->210 (20d10+100)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5853,9 +6106,11 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Golem de pierre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Stone Golem](monsters_vo.md#stone-golem)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->178 (17d10+85)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5894,9 +6149,11 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gorgone<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Gorgon](monsters_vo.md#gorgon)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -5935,9 +6192,11 @@ Les créatures situées dans cette zone doivent chacune effectuer un [jet de sau
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Goule<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ghoul](monsters_vo.md#ghoul)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -5967,10 +6226,12 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 
 <!--MonsterItem Family="MonsterHD"-->
 
-# <!--Name-->Blême<!--/Name-->
+# <!--Name-->Goule Blême<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ghast](monsters_vo.md#ghast)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -6008,9 +6269,11 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Grick<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Grick](monsters_vo.md#grick)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
@@ -6046,9 +6309,11 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Griffon<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Griffon](monsters_vo.md#griffon)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->59 (7d10+21)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 24 m<!--/Speed-->
@@ -6084,9 +6349,11 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Guenaude aquatique<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Sea Hag](monsters_vo.md#sea-hag)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (7d8+21)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 12 m<!--/Speed-->
@@ -6125,9 +6392,11 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Guenaude nocturne<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Night Hag](monsters_vo.md#night-hag)<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -6173,9 +6442,11 @@ Un sort de protection contre le mal et le bien lancé sur la cible, tout comme u
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Guenaude verte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Green Hag](monsters_vo.md#green-hag)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d8+33)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -6219,9 +6490,11 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Harpie<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Harpy](monsters_vo.md#harpy)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->38 (7d8+7)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 12 m<!--/Speed-->
@@ -6260,9 +6533,11 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hibours<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Owlbear](monsters_vo.md#owlbear)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->59 (7d10+21)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -6298,9 +6573,11 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hippogriffe<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Hippogriff](monsters_vo.md#hippogriff)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 18 m<!--/Speed-->
@@ -6336,9 +6613,11 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hobgobelin<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Hobgoblin](monsters_vo.md#hobgoblin)<!--/AltName-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (bouclier, cotte de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -6371,8 +6650,10 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hobgobelin, sergent<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (bouclier, cotte de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->29 (5d8+7)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -6409,9 +6690,11 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Homme-lézard<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Lizardfolk](monsters_vo.md#lizardfolk)<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-lézard)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d8+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -6455,8 +6738,10 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Homme-lézard, champion<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (homme-lézard)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d8+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -6500,9 +6785,11 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Homme-poisson<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Merfolk](monsters_vo.md#merfolk)<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-poisson)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, nage 12 m<!--/Speed-->
@@ -6532,9 +6819,11 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Homoncule<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Homunculus](monsters_vo.md#homunculus)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->5 (2d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 12 m<!--/Speed-->
@@ -6565,9 +6854,11 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hydre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Hydra](monsters_vo.md#hydra)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->172 (15d12+75)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -6609,9 +6900,11 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Kobold<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Kobold](monsters_vo.md#kobold)<!--/AltName-->
 -  <!--Type-->Humanoïde (kobold)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->5 (2d6-2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -6646,8 +6939,10 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Kobold, saigneur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (kobold)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->17 (5d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -6686,9 +6981,11 @@ _Touché :_ 5 (1d4+3) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Kraken<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Kraken](monsters_vo.md#kraken)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->472 (27d20+189)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 18 m<!--/Speed-->
@@ -6746,9 +7043,11 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Lamie<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Lamia](monsters_vo.md#lamia)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d10+26)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -6794,9 +7093,11 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Liche<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Lich](monsters_vo.md#lich)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->alignement Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->135 (18d8+54)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -6867,9 +7168,11 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Licorne<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Unicorn](monsters_vo.md#unicorn)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (9d10+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -6930,9 +7233,11 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Loup-garou<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Werewolf](monsters_vo.md#werewolf)<!--/AltName-->
 -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m (12 m sous forme de loup)<!--/Speed-->
@@ -6975,9 +7280,11 @@ _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle d
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ours-garou<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Werebear](monsters_vo.md#werebear)<!--/AltName-->
 -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->135 (18d8+54)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m (12 m, escalade 9 m sous forme hybride ou d'ours)<!--/Speed-->
@@ -7020,9 +7327,11 @@ _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Rat-garou<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Wererat](monsters_vo.md#wererat)<!--/AltName-->
 -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->33 (6d8+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -7065,9 +7374,11 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle d
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Sanglier-garou<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Wereboar](monsters_vo.md#wereboar)<!--/AltName-->
 -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m (12 m sous forme de sanglier)<!--/Speed-->
@@ -7108,9 +7419,11 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Tigre-garou<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Weretiger](monsters_vo.md#weretiger)<!--/AltName-->
 -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->120 (16d8+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m (12 m sous forme de tigre)<!--/Speed-->
@@ -7159,9 +7472,11 @@ _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Magmatique<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Magmin](monsters_vo.md#magmin)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->9 (2d6+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -7198,9 +7513,11 @@ Jusqu'au moment où une créature consacre une action à étouffer les flammes, 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Manteleur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Cloaker](monsters_vo.md#cloaker)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d10+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 12 m<!--/Speed-->
@@ -7250,9 +7567,11 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Mante obscure<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Darkmantle](monsters_vo.md#darkmantle)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d6+5)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 9 m<!--/Speed-->
@@ -7292,9 +7611,11 @@ Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Manticore<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Manticore](monsters_vo.md#manticore)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->68 (8d10+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 15 m<!--/Speed-->
@@ -7333,9 +7654,11 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Méduse<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Medusa](monsters_vo.md#medusa)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (17d8+51)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -7379,9 +7702,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Méphite de glace<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ice Mephit](monsters_vo.md#ice-mephit)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique, Montagnes, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->21 (6d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 9 m<!--/Speed-->
@@ -7422,9 +7747,11 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Méphite de magma<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Magma Mephit](monsters_vo.md#magma-mephit)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d6+5)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 9 m<!--/Speed-->
@@ -7463,9 +7790,11 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Méphite de poussière<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Dust Mephit](monsters_vo.md#dust-mephit)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plans élémentaires, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->17 (5d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 9 m<!--/Speed-->
@@ -7504,9 +7833,11 @@ Une créature peut retenter le [jet de sauvegarde] à la fin de chacun de ses to
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Méphite de vapeur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Steam Mephit](monsters_vo.md#steam-mephit)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Plans élémentaires, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->21 (6d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 9 m<!--/Speed-->
@@ -7543,9 +7874,11 @@ Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] d
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Merrow<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Merrow](monsters_vo.md#merrow)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d10+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, nage 12 m<!--/Speed-->
@@ -7586,9 +7919,11 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Mimique<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Mimic](monsters_vo.md#mimic)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->4,50 m<!--/Speed-->
@@ -7632,9 +7967,11 @@ _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Minotaure<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Minotaur](monsters_vo.md#minotaur)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (9d10+27)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -7674,9 +8011,11 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Molosse infernal<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Hell Hound](monsters_vo.md#hell-hound)<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (7d8+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -7711,9 +8050,11 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Momie<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Mummy](monsters_vo.md#mummy)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -7749,9 +8090,11 @@ Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde] de [Sa
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Momie auguste<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Mummy Lord](monsters_vo.md#mummy-lord)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d8+39)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -7827,9 +8170,11 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Naga corrupteur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Spirit Naga](monsters_vo.md#spirit-naga)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d10+20)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -7875,9 +8220,11 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un [jet de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Naga gardien<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Guardian Naga](monsters_vo.md#guardian-naga)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d10+45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -7929,9 +8276,11 @@ _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un [jet de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Nécrophage<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Wight](monsters_vo.md#wight)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -7976,9 +8325,11 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Armure animée<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Animated Armor](monsters_vo.md#animated-armor)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->33 (6d8+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->7,50 m<!--/Speed-->
@@ -8013,9 +8364,11 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Épée volante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Flying Sword](monsters_vo.md#flying-sword)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->17 (5d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 15 m (vol stationnaire)<!--/Speed-->
@@ -8049,9 +8402,11 @@ _Touché :_ 5 (1d8+1) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Tapis étrangleur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Rug of Smothering](monsters_vo.md#rug-of-smothering)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->33 (6d10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m<!--/Speed-->
@@ -8090,9 +8445,11 @@ De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) d�
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ogre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ogre](monsters_vo.md#ogre)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane, Caverne naturelle, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->59 (7d10+21)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -8121,9 +8478,11 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ombre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Shadow](monsters_vo.md#shadow)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->16 (3d8+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -8163,9 +8522,11 @@ Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Oni<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Oni](monsters_vo.md#oni)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (cotte de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 9 m<!--/Speed-->
@@ -8212,8 +8573,10 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Orc<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (orc)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->15 (2d8+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -8247,8 +8610,10 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chaman orc<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (demi-orc)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->33 (6d8+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -8288,9 +8653,11 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Otyugh<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Otyugh](monsters_vo.md#otyugh)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -8332,9 +8699,11 @@ L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Oxydeur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Rust Monster](monsters_vo.md#rust-monster)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (5d8+5)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -8371,8 +8740,10 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Parasite arcanique<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m au sol<!--/Speed-->
@@ -8421,9 +8792,11 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Pégase<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Pegasus](monsters_vo.md#pegasus)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->59 (7d10+21)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m, vol 27 m<!--/Speed-->
@@ -8450,9 +8823,11 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Pseudodragon<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Pseudodragon](monsters_vo.md#pseudodragon)<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d4+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->4,50 m, vol 18 m<!--/Speed-->
@@ -8490,9 +8865,11 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Rakshasa<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Rakshasa](monsters_vo.md#rakshasa)<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d8+52)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -8536,8 +8913,10 @@ La malédiction magique prend effet chaque fois que la cible prend un repos cour
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Remorhaz<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->195 (17d12+85)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 6 m<!--/Speed-->
@@ -8573,9 +8952,11 @@ _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Roc<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Roc](monsters_vo.md#roc)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->248 (16d20+80)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 36 m<!--/Speed-->
@@ -8612,9 +8993,11 @@ _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasio
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Sahuagin<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Sahuagin](monsters_vo.md#sahuagin)<!--/AltName-->
 -  <!--Type-->Humanoïde (sahuagin)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d8+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 12 m<!--/Speed-->
@@ -8658,8 +9041,10 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Sahuagin, prêtresse de Mikala<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Humanoïde (sahuagin)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de coquillages)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->50 (9d8+9)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 12 m<!--/Speed-->
@@ -8715,9 +9100,11 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Salamandre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Salamander](monsters_vo.md#salamander)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d10+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -8757,9 +9144,11 @@ _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la c
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Satyre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Satyr](monsters_vo.md#satyr)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->31 (7d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -8797,8 +9186,10 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Saule étrangleur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->115 (10d12+50)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m<!--/Speed-->
@@ -8836,8 +9227,10 @@ _Touché :_ 9 (1d8+5) dégâts contondants et la cible est [empoignée] (DD du j
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Serpent de mer<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->231 (14d20+84)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->nage 15 m<!--/Speed-->
@@ -8887,9 +9280,11 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Spectre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Specter](monsters_vo.md#specter)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 15 m<!--/Speed-->
@@ -8923,9 +9318,11 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sa
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Androsphinx<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Androsphinx](monsters_vo.md#androsphinx)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Donjon maçonné, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->199 (19d10+95)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 18 m<!--/Speed-->
@@ -8996,9 +9393,11 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gynosphinx<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Gynosphinx](monsters_vo.md#gynosphinx)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (16d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 18 m<!--/Speed-->
@@ -9059,9 +9458,11 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Squelette<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Skeleton](monsters_vo.md#skeleton)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (débris d'armure)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (2d8+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -9093,9 +9494,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Squelette cheval de guerre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (débris de barde)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (3d10+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m<!--/Speed-->
@@ -9123,9 +9526,11 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Squelette minotaure<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (9d10+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -9161,9 +9566,11 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Strige<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Stirge](monsters_vo.md#stirge)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 12 m<!--/Speed-->
@@ -9192,9 +9599,11 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Succube/Incube<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Succubus](monsters_vo.md#succubus)<!--/AltName-->
 -  <!--Type-->Fiélon (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->66 (12d8+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
@@ -9237,9 +9646,11 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Sylvanien<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Treant](monsters_vo.md#treant)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bonne<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->138 (12d12+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -9280,9 +9691,11 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Tarasque<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Tarrasque](monsters_vo.md#tarrasque)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->25 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->676 (33d20+330)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -9354,8 +9767,10 @@ La tarasque peut effectuer 3 actions légendaires qu'elle choisit parmi celles d
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Terreur des roches<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d10+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 6 m<!--/Speed-->
@@ -9394,8 +9809,10 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Larve des roches<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->32 (5d8+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 6 m<!--/Speed-->
@@ -9424,9 +9841,11 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Tertre errant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Shambling Mound](monsters_vo.md#shambling-mound)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (16d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 6 m<!--/Speed-->
@@ -9463,9 +9882,11 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Torve<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Grimlock](monsters_vo.md#grimlock)<!--/AltName-->
 -  <!--Type-->Humanoïde (torve)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -9500,9 +9921,11 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Traqueur invisible<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Invisible Stalker](monsters_vo.md#invisible-stalker)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->104 (16d8+32)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, vol 15 m (vol stationnaire)<!--/Speed-->
@@ -9538,9 +9961,11 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Troll<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Troll](monsters_vo.md#troll)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (8d10+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -9578,9 +10003,11 @@ _Touché :_ 7 (1d6+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Vampire<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Vampire](monsters_vo.md#vampire)<!--/AltName-->
 -  <!--Type-->Mort-vivant (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->144 (17d8+68)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -9662,9 +10089,11 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Vampirien<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Vampire Spawn](monsters_vo.md#vampire-spawn)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d8+33)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -9716,9 +10145,11 @@ _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Cube gélatineux<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Gelatinous Cube](monsters_vo.md#gelatinous-cube)<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->6<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (8d10+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->4,50 m<!--/Speed-->
@@ -9766,9 +10197,11 @@ _Touché :_ 10 (3d6) dégâts d'acide.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gelée ocre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ochre Jelly](monsters_vo.md#ochre-jelly)<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d10+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, escalade 3 m<!--/Speed-->
@@ -9806,9 +10239,11 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Pouding noir<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Black Pudding](monsters_vo.md#black-pudding)<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->7<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d10+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 6 m<!--/Speed-->
@@ -9849,9 +10284,11 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Vase grise<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Gray Ooze](monsters_vo.md#gray-ooze)<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (3d8+9)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, escalade 3 m<!--/Speed-->
@@ -9891,9 +10328,11 @@ _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ver pourpre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Purple Worm](monsters_vo.md#purple-worm)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->247 (15d20+90)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, fouissement 9 m<!--/Speed-->
@@ -9933,9 +10372,11 @@ Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et pe
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Vouivre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Wyvern](monsters_vo.md#wyvern)<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 24 m<!--/Speed-->
@@ -9971,9 +10412,11 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Xorn<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Xorn](monsters_vo.md#xorn)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->73 (7d8+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 6 m<!--/Speed-->
@@ -10017,9 +10460,11 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Zombi<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Zombie](monsters_vo.md#zombie)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (3d8+9)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -10051,9 +10496,11 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Zombi ogre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ogre Zombie](monsters_vo.md#ogre-zombie)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (9d10+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -10085,9 +10532,11 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Aigle<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Eagle](monsters_vo.md#eagle)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
@@ -10117,9 +10566,11 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Aigle géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Eagle](monsters_vo.md#giant-eagle)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->26 (4d10+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 24 m<!--/Speed-->
@@ -10155,9 +10606,11 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Araignée<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Spider](monsters_vo.md#spider)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 6 m<!--/Speed-->
@@ -10191,9 +10644,11 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Araignée de phase<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Phase Spider](monsters_vo.md#phase-spider)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->32 (5d10+5)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
@@ -10227,9 +10682,11 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Araignée géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Spider](monsters_vo.md#giant-spider)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->26 (4d10+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
@@ -10267,9 +10724,11 @@ _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [ent
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Araignée-loup géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m<!--/Speed-->
@@ -10303,9 +10762,11 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Arbre éveillé<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Awakened Tree](monsters_vo.md#awakened-tree)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->59 (7d12+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -10336,9 +10797,11 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Arbuste éveillé<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Awakened Shrub](monsters_vo.md#awakened-shrub)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->9<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->10 (3d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -10369,9 +10832,11 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Babouin<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Baboon](monsters_vo.md#baboon)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
@@ -10400,9 +10865,11 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Bec de hache<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Axe Beak](monsters_vo.md#axe-beak)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -10427,9 +10894,11 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Belette<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Weasel](monsters_vo.md#weasel)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -10459,9 +10928,11 @@ _Touché :_ 1 dégât perforant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Belette géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Weasel](monsters_vo.md#giant-weasel)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -10491,9 +10962,11 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Blaireau<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Badger](monsters_vo.md#badger)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->3 (1d4+1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 1,50 m<!--/Speed-->
@@ -10522,9 +10995,11 @@ _Touché :_ 1 dégât perforant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Blaireau géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Badger](monsters_vo.md#giant-badger)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (2d8+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 3 m<!--/Speed-->
@@ -10559,9 +11034,11 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chacal<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Jackal](monsters_vo.md#jackal)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -10593,9 +11070,11 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chameau<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Camel](monsters_vo.md#camel)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->9<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->15 (2d10+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -10620,9 +11099,11 @@ _Touché :_ 2 (1d4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chat<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Cat](monsters_vo.md#cat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 9 m<!--/Speed-->
@@ -10652,9 +11133,11 @@ _Touché :_ 1 dégât tranchant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chauve-souris<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Bat](monsters_vo.md#bat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m, vol 9 m<!--/Speed-->
@@ -10685,9 +11168,11 @@ _Touché :_ 1 dégât perforant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chauve-souris géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Bat](monsters_vo.md#giant-bat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
@@ -10718,9 +11203,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Cheval de guerre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Warhorse](monsters_vo.md#warhorse)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m<!--/Speed-->
@@ -10749,8 +11236,10 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Cheval de guerre céleste<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->59 (7d10+21)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m<!--/Speed-->
@@ -10790,8 +11279,10 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Cheval de guerre lourd<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->37 (5d10+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m<!--/Speed-->
@@ -10822,9 +11313,11 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Cheval de selle<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Riding Horse](monsters_vo.md#riding-horse)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (2d10+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m<!--/Speed-->
@@ -10849,9 +11342,11 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Cheval de trait<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Draft Horse](monsters_vo.md#draft-horse)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -10876,9 +11371,11 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chèvre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Goat](monsters_vo.md#goat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -10909,9 +11406,11 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chèvre géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Goat](monsters_vo.md#giant-goat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -10942,9 +11441,11 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chevreuil<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Deer](monsters_vo.md#deer)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -10969,9 +11470,11 @@ _Touché :_ 2 (1d4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chien du trépas<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Death Dog](monsters_vo.md#death-dog)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->39 (6d8+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -11003,9 +11506,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle d
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chien esquiveur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Blink Dog](monsters_vo.md#blink-dog)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d8+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -11037,9 +11542,11 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chouette<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Owl](monsters_vo.md#owl)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m, vol 18 m<!--/Speed-->
@@ -11071,9 +11578,11 @@ _Touché :_ 1 dégât tranchant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chouette géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Owl](monsters_vo.md#giant-owl)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m, vol 18 m<!--/Speed-->
@@ -11105,9 +11614,11 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Corbeau<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Raven](monsters_vo.md#raven)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Littoral, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 15 m<!--/Speed-->
@@ -11137,9 +11648,11 @@ _Touché :_ 1 dégât perforant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Crabe<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Crab](monsters_vo.md#crab)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 6 m<!--/Speed-->
@@ -11169,9 +11682,11 @@ _Touché :_ 1 dégât contondant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Crabe géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Crab](monsters_vo.md#giant-crab)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -11201,9 +11716,11 @@ _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Crapaud géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Toad](monsters_vo.md#giant-toad)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->39 (6d10+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 12 m<!--/Speed-->
@@ -11238,9 +11755,11 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Crocodile<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Crocodile](monsters_vo.md#crocodile)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 9 m<!--/Speed-->
@@ -11270,9 +11789,11 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée] (évasio
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Crocodile géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Crocodile](monsters_vo.md#giant-crocodile)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (9d12+27)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 15 m<!--/Speed-->
@@ -11308,9 +11829,11 @@ _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Élan<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Elk](monsters_vo.md#elk)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique, Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (2d10+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -11343,9 +11866,11 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Élan géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Elk](monsters_vo.md#giant-elk)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->42 (5d12+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m<!--/Speed-->
@@ -11379,9 +11904,11 @@ _Touché :_ 22 (4d8+4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Éléphant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Elephant](monsters_vo.md#elephant)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Jungle, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (8d12+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -11414,9 +11941,11 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Épaulard<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Killer Whale](monsters_vo.md#killer-whale)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d12+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, nage 18 m<!--/Speed-->
@@ -11450,9 +11979,11 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Faucon<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Hawk](monsters_vo.md#hawk)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
@@ -11482,9 +12013,11 @@ _Touché :_ 1 dégât tranchant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Faucon de sang<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Blood Hawk](monsters_vo.md#blood-hawk)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
@@ -11516,9 +12049,11 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Grand singe<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Ape](monsters_vo.md#ape)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d8+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
@@ -11550,9 +12085,11 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Grenouille<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Frog](monsters_vo.md#frog)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 6 m<!--/Speed-->
@@ -11578,9 +12115,11 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Grenouille géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Frog](monsters_vo.md#giant-frog)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -11616,9 +12155,11 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Guêpe géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Wasp](monsters_vo.md#giant-wasp)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 15 m<!--/Speed-->
@@ -11643,8 +12184,10 @@ _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un [jet de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hibou<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
@@ -11674,8 +12217,10 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hibou géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)<!--/Source-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->26 (4d10+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 24 m<!--/Speed-->
@@ -11711,9 +12256,11 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hippocampe<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Sea Horse](monsters_vo.md#sea-horse)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, nage 6 m<!--/Speed-->
@@ -11736,9 +12283,11 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hippocampe géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Sea Horse](monsters_vo.md#giant-sea-horse)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->16 (3d10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, nage 12 m<!--/Speed-->
@@ -11769,9 +12318,11 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hyène<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Hyena](monsters_vo.md#hyena)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->5 (1d8+1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -11801,9 +12352,11 @@ _Touché :_ 3 (1d6) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Hyène géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Hyena](monsters_vo.md#giant-hyena)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d10+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -11833,9 +12386,11 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Lézard<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Lizard](monsters_vo.md#lizard)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Jungle, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 6 m<!--/Speed-->
@@ -11860,9 +12415,11 @@ _Touché :_ 1 dégât perforant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Lézard géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Lizard](monsters_vo.md#giant-lizard)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Jungle, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d10+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
@@ -11887,9 +12444,11 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Lion<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Lion](monsters_vo.md#lion)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->26 (4d10+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -11927,9 +12486,11 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Loup<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Wolf](monsters_vo.md#wolf)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -11961,9 +12522,11 @@ _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle d
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Loup arctique<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Winter Wolf](monsters_vo.md#winter-wolf)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d10+20)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -12002,9 +12565,11 @@ Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Loup sanguinaire<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Dire Wolf](monsters_vo.md#dire-wolf)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->37 (5d10+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -12036,9 +12601,11 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Mammouth<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Mammoth](monsters_vo.md#mammoth)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (11d12+55)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -12071,9 +12638,11 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Mastiff<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Mastiff](monsters_vo.md#mastiff)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->5 (1d8+1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -12103,9 +12672,11 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Mille-pattes géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Centipede](monsters_vo.md#giant-centipede)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Jungle, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->4 (1d6+1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m<!--/Speed-->
@@ -12130,9 +12701,11 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Mule<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Mule](monsters_vo.md#mule)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -12163,9 +12736,11 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Nuée de chauve-souris<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Swarm of Bats](monsters_vo.md#swarm-of-bats)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 9 m<!--/Speed-->
@@ -12200,9 +12775,11 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Nuée de corbeaux<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Swarm of Ravens](monsters_vo.md#swarm-of-ravens)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->24 (7d8-7)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 15 m<!--/Speed-->
@@ -12234,9 +12811,11 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Nuée de piranhas<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Swarm of Quippers](monsters_vo.md#swarm-of-quippers)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->28 (8d8-8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, nage 12 m<!--/Speed-->
@@ -12271,9 +12850,11 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Nuée de rats<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Swarm of Rats](monsters_vo.md#swarm-of-rats)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->24 (7d8-7)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -12306,9 +12887,11 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Nuée de serpents venimeux<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -12339,9 +12922,11 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Nuée d'insectes<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Swarm of Insects](monsters_vo.md#swarm-of-insects)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 6 m<!--/Speed-->
@@ -12389,9 +12974,11 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ours brun<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Brown Bear](monsters_vo.md#brown-bear)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Littoral, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->34 (4d10+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 9 m<!--/Speed-->
@@ -12427,9 +13014,11 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ours noir<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Black Bear](monsters_vo.md#black-bear)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d8+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 9 m<!--/Speed-->
@@ -12465,9 +13054,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ours polaire<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Polar Bear](monsters_vo.md#polar-bear)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique, Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->42 (5d10+15)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 9 m<!--/Speed-->
@@ -12503,9 +13094,11 @@ _Touché :_ 9 (1d8+5) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Panthère<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Panther](monsters_vo.md#panther)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, escalade 12 m<!--/Speed-->
@@ -12541,9 +13134,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Pieuvre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Octopus](monsters_vo.md#octopus)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m, nage 9 m<!--/Speed-->
@@ -12579,9 +13174,11 @@ _Touché :_ 1 dégât contondant et la cible est [empoignée] (évasion DD 10). 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Pieuvre géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Octopus](monsters_vo.md#giant-octopus)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d10+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, nage 18 m<!--/Speed-->
@@ -12619,9 +13216,11 @@ Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne pe
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Piranha<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Quipper](monsters_vo.md#quipper)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, nage 12 m<!--/Speed-->
@@ -12652,9 +13251,11 @@ _Touché :_ 1 dégât perforant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Poney<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Pony](monsters_vo.md#pony)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -12679,9 +13280,11 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Punaise de feu géante<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->4 (1d6+1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -12710,9 +13313,11 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Rat<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Rat](monsters_vo.md#rat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -12741,9 +13346,11 @@ _Touché :_ 1 dégât perforant.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Rat géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Rat](monsters_vo.md#giant-rat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -12782,9 +13389,11 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Requin chasseur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Hunter Shark](monsters_vo.md#hunter-shark)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d10+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, nage 12 m<!--/Speed-->
@@ -12816,9 +13425,11 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Requin de récif<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Reef Shark](monsters_vo.md#reef-shark)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d8+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, nage 12 m<!--/Speed-->
@@ -12850,9 +13461,11 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Requin géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Shark](monsters_vo.md#giant-shark)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (11d12+55)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, nage 15 m<!--/Speed-->
@@ -12884,9 +13497,11 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Rhinocéros<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Rhinoceros](monsters_vo.md#rhinoceros)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d10+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -12917,9 +13532,11 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Sanglier<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Boar](monsters_vo.md#boar)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -12950,9 +13567,11 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Sanglier géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Boar](monsters_vo.md#giant-boar)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->42 (5d10+15)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -12983,9 +13602,11 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Scorpion<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Scorpion](monsters_vo.md#scorpion)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->1 (1d4-1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m<!--/Speed-->
@@ -13010,9 +13631,11 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Scorpion géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Scorpion](monsters_vo.md#giant-scorpion)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (7d10+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -13043,9 +13666,11 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasio
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Serpent constricteur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Constrictor Snake](monsters_vo.md#constrictor-snake)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (2d10+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -13074,9 +13699,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Serpent constricteur géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->60 (8d12+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -13106,9 +13733,11 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Serpent venimeux<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Poisonous Snake](monsters_vo.md#poisonous-snake)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -13133,9 +13762,11 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Serpent venimeux géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -13163,9 +13794,11 @@ Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde] raté et la
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Serpent volant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Flying Snake](monsters_vo.md#flying-snake)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->5 (2d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m, nage 9 m<!--/Speed-->
@@ -13194,9 +13827,11 @@ _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Singe géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Ape](monsters_vo.md#giant-ape)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique, Jungle, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->157 (15d12+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m<!--/Speed-->
@@ -13228,9 +13863,11 @@ _Touché :_ 30 (7d6+6) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Tigre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Tiger](monsters_vo.md#tiger)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->37 (5d10+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -13266,9 +13903,11 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Tigre à dents de sabre<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (7d10+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m<!--/Speed-->
@@ -13304,9 +13943,11 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Vautour<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Vulture](monsters_vo.md#vulture)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->5 (1d188+1)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 15 m<!--/Speed-->
@@ -13338,9 +13979,11 @@ _Touché :_ 2 (1d4) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Vautour géant<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Giant Vulture](monsters_vo.md#giant-vulture)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (3d10+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
@@ -13378,9 +14021,11 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Worg<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Worg](monsters_vo.md#worg)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->26 (4d10+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -13410,9 +14055,11 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Acolyte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Acolyte](monsters_vo.md#acolyte)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13446,9 +14093,11 @@ _Touché :_ 2 (1d4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Archimage<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Archmage](monsters_vo.md#archmage)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (15 avec armure du mage)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->99 (18d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13506,9 +14155,11 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Assassin<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Assassin](monsters_vo.md#assassin)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13550,9 +14201,11 @@ _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un [jet de 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Bandit<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Bandit](monsters_vo.md#bandit)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Loyal<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13581,9 +14234,11 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Berserker<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Berserker](monsters_vo.md#berserker)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement Chaotique<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (9d8+27)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13612,9 +14267,11 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Capitaine bandit<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Bandit Captain](monsters_vo.md#bandit-captain)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Loyal<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d8+20)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13651,9 +14308,11 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Chevalier<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Knight](monsters_vo.md#knight)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13695,9 +14354,11 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Druide<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Druid](monsters_vo.md#druid)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (16 avec peau d'écorce)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (5d8+5)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13733,9 +14394,11 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Ecclésiastique<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Priest](monsters_vo.md#priest)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (5d8+5)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->7,50 m<!--/Speed-->
@@ -13777,9 +14440,11 @@ _Touché :_ 3 (1d6) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Éclaireur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Scout](monsters_vo.md#scout)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->16 (3d8+3)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13815,9 +14480,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Espion<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Spy](monsters_vo.md#spy)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13855,9 +14522,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Fanatique de secte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Cult Fanatic](monsters_vo.md#cult-fanatic)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->33 (6d8+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13897,9 +14566,11 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Garde<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Guard](monsters_vo.md#guard)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (bouclier, chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13925,9 +14596,11 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Gladiateur<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Gladiator](monsters_vo.md#gladiator)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure de cuir clouté, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -13972,9 +14645,11 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Guerrier tribal<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Tribal Warrior](monsters_vo.md#tribal-warrior)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -14003,9 +14678,11 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Mage<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Mage](monsters_vo.md#mage)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (15 avec armure du mage)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->40 (9d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -14048,9 +14725,11 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Malfrat<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Thug](monsters_vo.md#thug)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->32 (5d8+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -14088,9 +14767,11 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Membre de secte<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Cultist](monsters_vo.md#cultist)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Bon<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -14120,9 +14801,11 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Noble<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Noble](monsters_vo.md#noble)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (cuirasse)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -14152,9 +14835,11 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Roturier<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Commoner](monsters_vo.md#commoner)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -14179,9 +14864,11 @@ _Touché :_ 2 (1d4) dégâts contondants.
 <!--MonsterItem Family="MonsterHD"-->
 
 # <!--Name-->Vétéran<!--/Name-->
+
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
 - SRD: <!--AltName-->[Veteran](monsters_vo.md#veteran)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->alignement quelconque<!--/Alignment-->
+- **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (clibanion)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->

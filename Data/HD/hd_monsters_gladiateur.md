@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Gladiator](srd_monsters_gladiator.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 16 (armure de cuir clouté, bouclier)
 - **Points de vie** 112 (15d8+45)
 - **Vitesse** 9 m

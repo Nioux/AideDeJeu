@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 546 (28d20+252)
 - **Vitesse** 12 m, nage 12 m, vol 24 m

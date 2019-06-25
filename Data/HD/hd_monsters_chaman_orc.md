@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (demi-orc) de taille M, Neutre Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m

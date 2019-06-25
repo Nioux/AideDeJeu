@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 38 (7d8+7)
 - **Vitesse** 9 m, nage 9 m, vol 18 m

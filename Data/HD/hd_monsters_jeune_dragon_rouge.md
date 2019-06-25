@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Young Red Dragon](srd_monsters_young_red_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
+- **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m

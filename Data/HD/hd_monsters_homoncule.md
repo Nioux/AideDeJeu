@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Homunculus](srd_monsters_homunculus.md)
 -  Créature artificielle de taille TP, neutre
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 5 (2d4)
 - **Vitesse** 6 m, vol 12 m

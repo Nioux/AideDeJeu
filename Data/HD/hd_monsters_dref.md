@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Fiélon de taille TP, chaotique neutre
+- **Terrain** 
 - **Classe d'armure** 13
 - **Points de vie** 7 (2d4+2)
 - **Vitesse** 6 m, vol 12 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Black Dragon](srd_monsters_adult_black_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 195 (17d12+85)
 - **Vitesse** 12 m, nage 12 m, vol 24 m

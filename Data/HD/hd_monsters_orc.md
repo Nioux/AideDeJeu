@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (orc) de taille M, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 13 (armure de peau)
 - **Points de vie** 15 (2d8+6)
 - **Vitesse** 9 m

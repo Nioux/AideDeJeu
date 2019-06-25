@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Imp](srd_monsters_imp.md)
 -  Fiélon (diable, métamorphe) de taille TP, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 13
 - **Points de vie** 10 (3d4+3)
 - **Vitesse** 6 m, vol 12 m

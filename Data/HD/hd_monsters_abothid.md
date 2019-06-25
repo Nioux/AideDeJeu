@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Aberration de taille M, loyal mauvais
+- **Terrain** Littoral
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 104 (16d8+32)
 - **Vitesse** 9 m au sol

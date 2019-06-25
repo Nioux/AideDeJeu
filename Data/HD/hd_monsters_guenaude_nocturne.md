@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Night Hag](srd_monsters_night_hag.md)
 -  Fiélon de taille M, Neutre Mauvais
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 112 (15d8+45)
 - **Vitesse** 9 m

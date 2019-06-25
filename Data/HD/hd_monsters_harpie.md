@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Harpy](srd_monsters_harpy.md)
 -  Créature monstrueuse de taille M, Chaotique Mauvais
+- **Terrain** Littoral, Montagnes, Ruines extérieures
 - **Classe d'armure** 11
 - **Points de vie** 38 (7d8+7)
 - **Vitesse** 6 m, vol 12 m

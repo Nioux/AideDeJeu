@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Horned Devil](srd_monsters_horned_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
 - **Vitesse** 6 m, vol 18 m

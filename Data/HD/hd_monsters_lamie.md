@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Lamia](srd_monsters_lamia.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 97 (13d10+26)
 - **Vitesse** 9 m

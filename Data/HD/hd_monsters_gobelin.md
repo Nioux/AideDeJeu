@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Goblin](srd_monsters_goblin.md)
 -  Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
+- **Terrain** Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir, bouclier)
 - **Points de vie** 7 (2d6)
 - **Vitesse** 9 m

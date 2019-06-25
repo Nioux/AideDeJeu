@@ -98,6 +98,7 @@ namespace AideDeJeu.ViewModels.Library
         MaxWeight,
         Rarity,
         Attunement,
+        Terrain,
     }
 
     public class Filter : BaseViewModel
@@ -298,6 +299,7 @@ namespace AideDeJeu.ViewModels.Library
                         new Filter() { Key = FilterKeys.Size, Name = "Taille", KeyValues = Sizes, _Index = 0 },
                         //new Filter() { Key = FilterKeys.Legendary, Name = "Légendaire", KeyValues = Legendaries, _Index = 0 },
                         new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, _Index = 0 },
+                        new Filter() { Key = FilterKeys.Terrain, Name = "Terrain", KeyValues = Terrains, _Index = 0 },
                     };
                     RegisterFilters();
                 }
@@ -312,13 +314,15 @@ namespace AideDeJeu.ViewModels.Library
             List<KeyValuePair<string, string>> types,
             List<KeyValuePair<string, string>> challenges,
             List<KeyValuePair<string, string>> sizes,
-            List<KeyValuePair<string, string>> sources)
+            List<KeyValuePair<string, string>> sources,
+            List<KeyValuePair<string, string>> terrains)
         {
             this.Family = family;
             this.Types = types;
             this.Challenges = challenges;
             this.Sizes = sizes;
             this.Sources = sources;
+            this.Terrains = terrains;
         }
 
         public List<KeyValuePair<string, string>> Categories { get; }
@@ -332,6 +336,7 @@ namespace AideDeJeu.ViewModels.Library
         public List<KeyValuePair<string, string>> Legendaries { get; }
 
         public List<KeyValuePair<string, string>> Sources { get; }
+        public List<KeyValuePair<string, string>> Terrains { get; }
 
         public string ChallengeConverter(string challenge)
         {
@@ -347,6 +352,7 @@ namespace AideDeJeu.ViewModels.Library
             var maxChallenge = ChallengeConverter(Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxChallenge).SelectedKey) ?? "30 (155000 PX)";
             var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+            var terrain = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Terrain).SelectedKey ?? "";
             token.ThrowIfCancellationRequested();
 
             try
@@ -355,17 +361,12 @@ namespace AideDeJeu.ViewModels.Library
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
                     return context.Monsters.Where(monster =>
-                        monster != null &&
-                        monster.Family == this.Family &&
-                        monster.Type.Contains(type) &&
-                        (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
-                        (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
-                        challengeComparer.Compare(monster.Challenge, minChallenge) >= 0 &&
-                        challengeComparer.Compare(monster.Challenge, maxChallenge) <= 0 &&
-                        (
-                            (Helpers.RemoveDiacritics(monster.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
-                            (Helpers.RemoveDiacritics(monster.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
-                        )
+                        MatchEquals(monster.Family, this.Family) &&
+                        MatchContains(monster.Type, type) &&
+                        MatchEquals(monster.Size, size) &&
+                        MatchContains(monster.Terrain, terrain) &&
+                        MatchRange(monster.Challenge, minChallenge, maxChallenge, challengeComparer) &&
+                        MatchSearch(monster) 
                     ).OrderBy(monster => Helpers.RemoveDiacritics(monster.Name)).ToList();
                 }
             }

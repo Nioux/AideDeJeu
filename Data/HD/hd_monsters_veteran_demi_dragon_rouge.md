@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (humain) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 65 (10d8+20)
 - **Vitesse** 9 m

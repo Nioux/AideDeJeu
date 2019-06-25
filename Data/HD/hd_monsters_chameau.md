@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Camel](srd_monsters_camel.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Désert chaud
 - **Classe d'armure** 9
 - **Points de vie** 15 (2d10+4)
 - **Vitesse** 15 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Merrow](srd_monsters_merrow.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
+- **Terrain** Littoral, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 3 m, nage 12 m

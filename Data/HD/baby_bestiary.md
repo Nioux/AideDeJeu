@@ -1,16 +1,19 @@
 ﻿---
 !MonsterItems
+Family: BabyBestiary
 Types: Humanoïde|Aberration|Bête|Céleste|Créature artificielle|Créature monstrueuse|Dragon|Élémentaire|Fée|Fiélon|Géant|Mort-vivant|Plante|Vase
 Challenges: 0 (0 PX)|1/8 (25 PX)|1/4 (50 PX)|1/2 (100 PX)|1 (200 PX)|2 (450 PX)|3 (700 PX)|4 (1100 PX)|5 (1800 PX)|6 (2300 PX)|7 (2900 PX)|8 (3900 PX)|9 (5000 PX)|10 (5900 PX)|11 (7200 PX)|12 (8400 PX)|13 (10000 PX)|14 (11500 PX)|15 (13000 PX)|16 (15000 PX)|17 (18000 PX)|18 (20000 PX)|19 (22000 PX)|20 (25000 PX)|21 (33000 PX)|22 (41000 PX)|23 (50000 PX)|24 (62000 PX)|30 (155000 PX)
 Sizes: TP|P|M|G|TG|Gig
 Sources: CEO|SRD
-Family: BabyBestiary
+Name: Monstrueusement mignons
 SubItems:
 - !MonsterItem
   Family: BabyBestiary
+  Name: Aboleth, rejeton
   Type: Aberration
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 39 (6d8+12)
   Speed: 3 m, nage 12 m
@@ -27,7 +30,6 @@ SubItems:
   Challenge: 2 (450 PX)
   Id: baby_bestiary.md#aboleth-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Aboleth, rejeton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -41,7 +43,17 @@ SubItems:
 
 
 
+      Voir [Aboleth](hd_monsters_aboleth.md)
+
+
+
+
+
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -153,6 +165,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Mer / Océan, Ruines sous-marines
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 39 (6d8+12)
@@ -183,6 +197,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Ancien dieu, rejeton
   Type: Fiélon (titan)
   Size: G
   Alignment: Chaotique Mauvais
@@ -196,14 +211,13 @@ SubItems:
   Wisdom: 18 (+4)
   Charisma: 18 (+4)
   SavingThrows: Dex +6, Con +11, Sag +8
-  ConditionImmunities: empoisonné
-  DamageResistances: de feu, de froid, d'électricité ; contondants, perforants et tranchants infligés par des attaques non magiquesd'acide, de feu et de poison
   Senses: vision parfaite 36 m, Perception passive 14
   Languages: infernal, télépathie 36 m
   Challenge: 8 (3 900 PX)
+  DamageResistances: de feu, de froid, d'électricité ; contondants, perforants et tranchants infligés par des attaques non magiquesd'acide, de feu et de poison
+  ConditionImmunities: empoisonné
   Id: baby_bestiary.md#ancien-dieu-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Ancien dieu, rejeton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -381,6 +395,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Archon canin, chiot
   Type: Céleste
   Size: P
   Alignment: Loyal Bon
@@ -394,14 +409,13 @@ SubItems:
   Wisdom: 13 (+1)
   Charisma: 12 (+1)
   Skills: Perception +3
-  ConditionImmunities: charmé et terrorisé
-  DamageResistances: d'électricité, nécrotiques, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: toutes
   Challenge: 1/2 (100 PX)
+  DamageResistances: d'électricité, nécrotiques, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
+  ConditionImmunities: charmé et terrorisé
   Id: baby_bestiary.md#archon-canin-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Archon canin, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -569,6 +583,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Baku, éléphanteau
   Type: Aberration
   Size: P
   Alignment: Neutre
@@ -581,14 +596,13 @@ SubItems:
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
-  ConditionImmunities: entravé, empoigné, empoisonné, épuisé, paralysé, pétrifé
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: toutes
   Challenge: 1/2 (100 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
+  ConditionImmunities: entravé, empoigné, empoisonné, épuisé, paralysé, pétrifé
   Id: baby_bestiary.md#baku-éléphanteau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Baku, éléphanteau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -732,6 +746,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Balor, brandon
   Type: Fiélon
   Size: P
   Alignment: Mauvais
@@ -744,14 +759,13 @@ SubItems:
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 10 (+0)
-  ConditionImmunities: empoisonné
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non magiquesde feu et de poison
   Senses: vision parfaite 18 m, Perception passive 11
   Languages: commun, télépathie 18 m
   Challenge: 2 (450 PX)
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non magiquesde feu et de poison
+  ConditionImmunities: empoisonné
   Id: baby_bestiary.md#balor-brandon
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Balor, brandon
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -765,7 +779,17 @@ SubItems:
 
 
 
+      Voir [Balor](hd_monsters_balor.md)
+
+
+
+
+
       -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -905,9 +929,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Basilic, lézardeau
   Type: Créature monstrueuse
   Size: P
   Alignment: non aligné
+  Terrain: Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 22 (4d6+8)
   Speed: 6 m
@@ -921,7 +947,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#basilic-lézardeau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Basilic, lézardeau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -935,7 +960,17 @@ SubItems:
 
 
 
+      Voir [Basilic](hd_monsters_basilic.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -1005,6 +1040,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 22 (4d6+8)
@@ -1029,6 +1066,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Beithir
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -1042,13 +1080,12 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
   Skills: Discrétion +4, Perception +4
-  DamageResistances: de foudre
   Senses: vision dans le noir 27 m, Perception passive 16
   Languages: aucune
   Challenge: 1 (200 PX)
+  DamageResistances: de foudre
   Id: baby_bestiary.md#beithir
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Beithir
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1186,9 +1223,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Bulette, chevreau
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
+  Terrain: Bois / Forêt, Collines / Vallées, Caverne naturelle
   ArmorClass: 15 (armure naturelle)
   HitPoints: 38 (4d8+20)
   Speed: 9 m, fouissement 9 m
@@ -1203,7 +1242,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#bulette-chevreau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Bulette, chevreau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1217,7 +1255,17 @@ SubItems:
 
 
 
+      Voir [Bulette](hd_monsters_bulette.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -1291,6 +1339,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Bois / Forêt, Collines / Vallées, Caverne naturelle
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 38 (4d8+20)
@@ -1317,9 +1367,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Centaure, poulain
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Bon
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 19 (3d8+6)
   Speed: 12 m
@@ -1334,7 +1386,6 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#centaure-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Centaure, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1348,7 +1399,17 @@ SubItems:
 
 
 
+      Voir [Centaure](hd_monsters_centaure.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -1434,6 +1495,8 @@ SubItems:
 
     Alignment: Neutre Bon
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12
 
     HitPoints: 19 (3d8+6)
@@ -1460,9 +1523,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Cerbère, chiot
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
+  Terrain: Bois / Forêt, Jungle, Montagnes
   ArmorClass: 13
   HitPoints: 45 (6d8+18)
   Speed: 12 m
@@ -1473,13 +1538,12 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
   Skills: Perception +6
-  ConditionImmunities: assourdi, aveuglé et empoisonné
-  DamageResistances: de poison
   Senses: vision parfaite 12 m, Perception passive 16
   Challenge: 1 (200 PX)
+  DamageResistances: de poison
+  ConditionImmunities: assourdi, aveuglé et empoisonné
   Id: baby_bestiary.md#cerbère-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Cerbère, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1493,7 +1557,17 @@ SubItems:
 
 
 
+      Voir [Cerbère](hd_monsters_cerbere.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Montagnes<!--/Terrain-->
 
 
 
@@ -1581,6 +1655,8 @@ SubItems:
 
     Alignment: Neutre Mauvais
 
+    Terrain: Bois / Forêt, Jungle, Montagnes
+
     ArmorClass: 13
 
     HitPoints: 45 (6d8+18)
@@ -1611,9 +1687,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Chien esquiveur, chiot
   Type: Fée
   Size: P
   Alignment: Loyal Bon
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 9 (2d6+2)
   Speed: 9 m
@@ -1628,7 +1706,6 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#chien-esquiveur-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Chien esquiveur, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1642,7 +1719,17 @@ SubItems:
 
 
 
+      Voir [Chien esquiveur](hd_monsters_chien_esquiveur.md)
+
+
+
+
+
       -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -1728,6 +1815,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13
 
     HitPoints: 9 (2d6+2)
@@ -1754,9 +1843,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Chimère, lionceau
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Bois / Forêt, Montagnes, Ruines extérieures
   ArmorClass: 13 (armure naturelle)
   HitPoints: 37 (5d8+15)
   Speed: 9 m, vol 12 m (dès 16 mois)
@@ -1771,7 +1862,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#chimère-lionceau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Chimère, lionceau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1785,7 +1875,17 @@ SubItems:
 
 
 
+      Voir [Chimère](hd_monsters_chimere.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Montagnes, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -1889,6 +1989,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Bois / Forêt, Montagnes, Ruines extérieures
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 37 (5d8+15)
@@ -1915,9 +2017,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Cocatrice, poussin
   Type: Créature monstrueuse
   Size: TP
   Alignment: non aligné
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 7 (2d4+2)
   Speed: 6 m, vol 9 m
@@ -1930,7 +2034,6 @@ SubItems:
   Senses: vision dans le noir 18 m, Perception passive 11 Dangerosité 1/4 (50 PX)
   Id: baby_bestiary.md#cocatrice-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Cocatrice, poussin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -1944,7 +2047,17 @@ SubItems:
 
 
 
+      Voir [Cockatrice](hd_monsters_cockatrice.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -2004,6 +2117,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13
 
     HitPoints: 7 (2d4+2)
@@ -2026,9 +2141,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Couatl, nouveau-né
   Type: Créature monstrueuse
   Size: P
   Alignment: Loyal Bon
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 16 (armure naturelle)
   HitPoints: 39 (6d6+18)
   Speed: 6 m, vol 18 m
@@ -2039,13 +2156,12 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
   Skills: Perception +4
-  DamageResistances: radiantspsychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision parfaite 36 m, Perception passive 14
   Languages: toutes, télépathie 36 m
   Challenge: 1/2 (100 PX)
+  DamageResistances: radiantspsychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
   Id: baby_bestiary.md#couatl-nouveau-né
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Couatl, nouveau-né
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2059,7 +2175,17 @@ SubItems:
 
 
 
+      Voir [Couatl](hd_monsters_couatl.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -2169,6 +2295,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 39 (6d6+18)
@@ -2199,9 +2327,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Criard, bouton
   Type: Plante
   Size: P
   Alignment: non aligné
+  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   ArmorClass: 5
   HitPoints: 3 (1d6)
   Speed: 0 m
@@ -2211,13 +2341,12 @@ SubItems:
   Intelligence: 1 (-5)
   Wisdom: 3 (-4)
   Charisma: 1 (-5)
-  ConditionImmunities: assourdi, aveuglé et terrorisé
   Senses: vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
   Languages: —
   Challenge: 0 (10 PX)
+  ConditionImmunities: assourdi, aveuglé et terrorisé
   Id: baby_bestiary.md#criard-bouton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Criard, bouton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2231,7 +2360,17 @@ SubItems:
 
 
 
+      Voir [Criard](hd_monsters_criard.md)
+
+
+
+
+
       -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -2309,6 +2448,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 5
 
     HitPoints: 3 (1d6)
@@ -2337,9 +2478,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Cube gélatineux, bébé
   Type: Vase
   Size: P
   Alignment: non aligné
+  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 6
   HitPoints: 17 (2d6+10)
   Speed: 4,5 m
@@ -2349,12 +2492,11 @@ SubItems:
   Intelligence: 1 (-5)
   Wisdom: 6 (-2)
   Charisma: 1 (-5)
-  ConditionImmunities: à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
   Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
   Challenge: 1/4 (50 PX)
+  ConditionImmunities: à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
   Id: baby_bestiary.md#cube-gélatineux-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Cube gélatineux, bébé
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2368,7 +2510,17 @@ SubItems:
 
 
 
+      Voir [Cube gélatineux](hd_monsters_cube_gelatineux.md)
+
+
+
+
+
       -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -2454,6 +2606,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Donjon maçonné, Ruines souterraines
+
     ArmorClass: 6
 
     HitPoints: 17 (2d6+10)
@@ -2480,6 +2634,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Destrier noir, poulain
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
@@ -2492,12 +2647,11 @@ SubItems:
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
-  DamageResistances: de feu
   Senses: Perception passive 11
   Challenge: 1/2 (100 PX)
+  DamageResistances: de feu
   Id: baby_bestiary.md#destrier-noir-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Destrier noir, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2511,7 +2665,17 @@ SubItems:
 
 
 
+      Voir [Destrier noir](hd_monsters_destrier_noir.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -2623,9 +2787,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Djinayni
   Type: Élémentaire
   Size: P
   Alignment: Chaotique Bon
+  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 17 (armure naturelle)
   HitPoints: 41 (5d6+24)
   Speed: 6 m, vol 18 m
@@ -2636,13 +2802,12 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
   SavingThrows: Dex +4, Sag +4
-  DamageImmunities: de foudre et de tonnerre
   Senses: vision dans le noir 36 m, Perception passive 12
   Languages: aérien
   Challenge: 2 (400 PX)
+  DamageImmunities: de foudre et de tonnerre
   Id: baby_bestiary.md#djinayni
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Djinayni
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2656,7 +2821,17 @@ SubItems:
 
 
 
+      Voir [Djinn](hd_monsters_djinn.md)
+
+
+
+
+
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -2754,6 +2929,8 @@ SubItems:
 
     Alignment: Chaotique Bon
 
+    Terrain: Montagnes, Plans élémentaires
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 41 (5d6+24)
@@ -2784,6 +2961,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Dodomeki, petit oeil
   Type: Aberration
   Size: P
   Alignment: Loyal Mauvais
@@ -2798,12 +2976,11 @@ SubItems:
   Charisma: 10 (+0)
   SavingThrows: Int +4
   Skills: Perception +4
-  ConditionImmunities: à terre
   Senses: vision dans le noir 36 m, Perception passive 14
   Challenge: 2 (450 PX)
+  ConditionImmunities: à terre
   Id: baby_bestiary.md#dodomeki-petit-oeil
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Dodomeki, petit oeil
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -2941,6 +3118,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Dragonnet
   Type: Dragon
   Size: P
   Alignment: alignement variable
@@ -2955,13 +3133,12 @@ SubItems:
   Charisma: 12 (+1)
   SavingThrows: Dex +2, Con +5
   Skills: Discrétion +2, Perception +4
-  DamageResistances: selon sa couleur
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
   Languages: draconique
   Challenge: 2 (450 PX)
+  DamageResistances: selon sa couleur
   Id: baby_bestiary.md#dragonnet
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Dragonnet
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3093,9 +3270,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Dragonnet, tortue
   Type: Dragon
   Size: P
   Alignment: alignement variable
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 16 (armure naturelle)
   HitPoints: 19 (3d6+9)
   Speed: 6 m, nage 12 m
@@ -3105,13 +3284,12 @@ SubItems:
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 12 (+1)
-  DamageResistances: de feu
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: draconique
   Challenge: 1/2 (100 PX)
+  DamageResistances: de feu
   Id: baby_bestiary.md#dragonnet-tortue
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Dragonnet, tortue
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3125,7 +3303,17 @@ SubItems:
 
 
 
+      Voir [Dragon-tortue](hd_monsters_dragon_tortue.md)
+
+
+
+
+
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->alignement variable<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -3203,6 +3391,8 @@ SubItems:
 
     Alignment: alignement variable
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 19 (3d6+9)
@@ -3231,9 +3421,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Élémenteau d'air
   Type: Élémentaire
   Size: P
   Alignment: Neutre
+  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 14
   HitPoints: 22 (4d6+8)
   Speed: 0 m, vol 27 m (vol stationnaire)
@@ -3243,15 +3435,14 @@ SubItems:
   Intelligence: 6 (-2)
   Wisdom: 10 (+0)
   Charisma: 6 (-2)
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé et pétrifé
-  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: aérien
   Challenge: 1 (200 PX)
+  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-dair
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Élémenteau d'air
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3265,7 +3456,17 @@ SubItems:
 
 
 
+      Voir [Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)
+
+
+
+
+
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -3363,6 +3564,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Montagnes, Plans élémentaires
+
     ArmorClass: 14
 
     HitPoints: 22 (4d6+8)
@@ -3395,9 +3598,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Élémenteau d'eau
   Type: Élémentaire
   Size: P
   Alignment: Neutre
+  Terrain: Mer / Océan, Plans élémentaires, Caverne sous-marine
   ArmorClass: 14 (armure naturelle)
   HitPoints: 30 (4d6+16)
   Speed: 9 m, nage 27 m
@@ -3407,15 +3612,14 @@ SubItems:
   Intelligence: 5 (-3)
   Wisdom: 10 (+0)
   Charisma: 8 (-1)
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
-  DamageResistances: d'acide ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: aquatique
   Challenge: 1 (200 PX)
+  DamageResistances: d'acide ; contondants, perforants et tranchants infligés par des attaques non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-deau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Élémenteau d'eau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3429,7 +3633,17 @@ SubItems:
 
 
 
+      Voir [Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)
+
+
+
+
+
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Plans élémentaires, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -3539,6 +3753,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Mer / Océan, Plans élémentaires, Caverne sous-marine
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 30 (4d6+16)
@@ -3571,9 +3787,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Élémenteau de feu
   Type: Élémentaire
   Size: P
   Alignment: Neutre
+  Terrain: Plans élémentaires
   ArmorClass: 13
   HitPoints: 26 (4d6+12)
   Speed: 15 m
@@ -3583,15 +3801,14 @@ SubItems:
   Intelligence: 6 (-2)
   Wisdom: 10 (+0)
   Charisma: 7 (-2)
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: ignée
   Challenge: 1 (200 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-de-feu
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Élémenteau de feu
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3605,7 +3822,17 @@ SubItems:
 
 
 
+      Voir [Élémentaire du feu](hd_monsters_elementaire_du_feu.md)
+
+
+
+
+
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 
 
 
@@ -3709,6 +3936,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Plans élémentaires
+
     ArmorClass: 13
 
     HitPoints: 26 (4d6+12)
@@ -3741,7 +3970,9 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Élémenteau de terre
   Type: Élémentaire de terre taille P, Neutre
+  Terrain: Bois / Forêt, Plans élémentaires
   ArmorClass: 16 (armure naturelle)
   HitPoints: 34 (4d6+20)
   Speed: 9 m, fouissement 9 m
@@ -3751,16 +3982,15 @@ SubItems:
   Intelligence: 5 (-3)
   Wisdom: 10 (+0)
   Charisma: 5 (-3)
-  DamageVulnerabilities: de tonnerre
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné, épuisé, inconscient, paralysé et pétrifé
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
   Languages: terreux
   Challenge: 1 (200 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
+  DamageVulnerabilities: de tonnerre
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné, épuisé, inconscient, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-de-terre
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Élémenteau de terre
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -3774,7 +4004,17 @@ SubItems:
 
 
 
+      Voir [Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)
+
+
+
+
+
       -  <!--Type-->Élémentaire de terre taille P, Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -3878,6 +4118,8 @@ SubItems:
 
     Type: Élémentaire de terre taille P, Neutre
 
+    Terrain: Bois / Forêt, Plans élémentaires
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 34 (4d6+20)
@@ -3912,6 +4154,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Enfield, renardeau
   Type: Fée
   Size: TP
   Alignment: Neutre Bon
@@ -3925,13 +4168,12 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
   Skills: Discrétion +4, Perception +4
-  DamageResistances: nécrotiques
   Senses: Perception passive 14
   Languages: —
   Challenge: 1/2 (50 PX)
+  DamageResistances: nécrotiques
   Id: baby_bestiary.md#enfield-renardeau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Enfield, renardeau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4075,9 +4317,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Gargouille, moulure
   Type: Élémentaire
   Size: P
   Alignment: Chaotique Mauvais
+  Terrain: Plans élémentaires, Ruines extérieures
   ArmorClass: 15 (armure naturelle)
   HitPoints: 11 (2d8+6)
   Speed: 6 m, vol 12m
@@ -4087,14 +4331,13 @@ SubItems:
   Intelligence: 6 (-2)
   Wisdom: 11 (+0)
   Charisma: 7 (-2)
-  ConditionImmunities: empoisonné, épuisé et pétrifé
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantiumde poison
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: selon l'âme
   Challenge: 1/4 (50 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantiumde poison
+  ConditionImmunities: empoisonné, épuisé et pétrifé
   Id: baby_bestiary.md#gargouille-moulure
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Gargouille, moulure
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4108,7 +4351,17 @@ SubItems:
 
 
 
+      Voir [Gargouille](hd_monsters_gargouille.md)
+
+
+
+
+
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -4218,6 +4471,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Plans élémentaires, Ruines extérieures
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 11 (2d8+6)
@@ -4248,9 +4503,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Gnoll, chiot
   Type: Humanoïde (gnoll)
   Size: P
   Alignment: Chaotique Mauvais
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 11
   HitPoints: 4 (1d8)
   Speed: 9 m
@@ -4265,7 +4522,6 @@ SubItems:
   Challenge: 0 (0 PX)
   Id: baby_bestiary.md#gnoll-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Gnoll, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4279,7 +4535,17 @@ SubItems:
 
 
 
+      Voir [Gnoll](hd_monsters_gnoll.md)
+
+
+
+
+
       -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -4359,6 +4625,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
+
     ArmorClass: 11
 
     HitPoints: 4 (1d8)
@@ -4385,9 +4653,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Gobelours, petit
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: Chaotique Mauvais
+  Terrain: Collines / Vallées, Caverne aménagée
   ArmorClass: 12
   HitPoints: 9 (2d6+2)
   Speed: 9 m
@@ -4403,7 +4673,6 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#gobelours-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Gobelours, petit
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4417,7 +4686,17 @@ SubItems:
 
 
 
+      Voir [Gobelours](hd_monsters_gobelours.md)
+
+
+
+
+
       -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Caverne aménagée<!--/Terrain-->
 
 
 
@@ -4507,6 +4786,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Collines / Vallées, Caverne aménagée
+
     ArmorClass: 12
 
     HitPoints: 9 (2d6+2)
@@ -4535,9 +4816,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Griffon, poussin
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
+  Terrain: Montagnes
   ArmorClass: 12
   HitPoints: 19 (3d8+6)
   Speed: 9 m, vol 18 m
@@ -4553,7 +4836,6 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#griffon-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Griffon, poussin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4567,7 +4849,17 @@ SubItems:
 
 
 
+      Voir [Griffon](hd_monsters_griffon.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -4669,6 +4961,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Montagnes
+
     ArmorClass: 12
 
     HitPoints: 19 (3d8+6)
@@ -4697,9 +4991,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Harpie, fille
   Type: Créature monstrueuse
   Size: P
   Alignment: Chaotique Mauvais
+  Terrain: Littoral, Montagnes, Ruines extérieures
   ArmorClass: 11
   HitPoints: 9 (2d6+2)
   Speed: 6 m, vol 9 m
@@ -4714,7 +5010,6 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#harpie-fille
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Harpie, fille
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4728,7 +5023,17 @@ SubItems:
 
 
 
+      Voir [Harpie](hd_monsters_harpie.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Montagnes, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -4802,6 +5107,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Littoral, Montagnes, Ruines extérieures
+
     ArmorClass: 11
 
     HitPoints: 9 (2d6+2)
@@ -4828,9 +5135,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Hippocampe, fretin
   Type: Bête
   Size: M
   Alignment: non aligné
+  Terrain: Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 5 (1d10)
   Speed: 0 m, nage 12 m
@@ -4845,7 +5154,6 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#hippocampe-fretin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Hippocampe, fretin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -4859,7 +5167,17 @@ SubItems:
 
 
 
+      Voir [Hippocampe](hd_monsters_hippocampe.md)
+
+
+
+
+
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -4945,6 +5263,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Ruines sous-marines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 5 (1d10)
@@ -4971,9 +5291,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Hippogriffe, poulain
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
+  Terrain: Littoral, Montagnes
   ArmorClass: 11
   HitPoints: 5 (1d8+1)
   Speed: 9 m, vol 12 m
@@ -4989,7 +5311,6 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#hippogriffe-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Hippogriffe, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5003,7 +5324,17 @@ SubItems:
 
 
 
+      Voir [Hippogriffe](hd_monsters_hippogriffe.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Montagnes<!--/Terrain-->
 
 
 
@@ -5105,6 +5436,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Littoral, Montagnes
+
     ArmorClass: 11
 
     HitPoints: 5 (1d8+1)
@@ -5133,9 +5466,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Homme-lézard, bébé
   Type: Humanoïde (homme-lézard)
   Size: M
   Alignment: Neutre
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 15 (armure naturelle, bouclier)
   HitPoints: 4 (1d6+1)
   Speed: 6 m, nage 6 m
@@ -5151,7 +5486,6 @@ SubItems:
   Challenge: 0 (0 PX)
   Id: baby_bestiary.md#homme-lézard-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Homme-lézard, bébé
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5165,7 +5499,17 @@ SubItems:
 
 
 
+      Voir [Homme-lézard](hd_monsters_homme_lezard.md)
+
+
+
+
+
       -  <!--Type-->Humanoïde (homme-lézard)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -5249,6 +5593,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Mangrove / Marécage, Caverne sous-marine
+
     ArmorClass: 15 (armure naturelle, bouclier)
 
     HitPoints: 4 (1d6+1)
@@ -5277,9 +5623,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Hydre, serpenteau
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
+  Terrain: Littoral, Caverne sous-marine
   ArmorClass: 13 (armure naturelle)
   HitPoints: 47 (5d8+25)
   Speed: 9 m, nage 9 m
@@ -5295,7 +5643,6 @@ SubItems:
   Challenge: 2 (450 PX)
   Id: baby_bestiary.md#hydre-serpenteau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Hydre, serpenteau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5309,7 +5656,17 @@ SubItems:
 
 
 
+      Voir [Hydre](hd_monsters_hydre.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -5417,6 +5774,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Littoral, Caverne sous-marine
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 47 (5d8+25)
@@ -5445,6 +5804,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Kirin, poulain
   Type: Créature monstrueuse
   Size: M
   Alignment: Loyal-Bon
@@ -5457,13 +5817,12 @@ SubItems:
   Intelligence: 12 (+2)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
-  DamageResistances: radiants, feu, électricité
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: toutes, télépathie 36 m
   Challenge: 2 (100 PX)
+  DamageResistances: radiants, feu, électricité
   Id: baby_bestiary.md#kirin-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Kirin, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5619,6 +5978,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Kitsune, chiot
   Type: Fée (métamorphe)
   Size: P
   Alignment: Neutre
@@ -5637,7 +5997,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#kitsune-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Kitsune, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5793,9 +6152,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Kobold, petit
   Type: Humanoïde (kobold)
   Size: P
   Alignment: Loyal Mauvais
+  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   ArmorClass: 12
   HitPoints: 1 (1d6-2)
   Speed: 9 m
@@ -5810,7 +6171,6 @@ SubItems:
   Challenge: 0 (0 PX)
   Id: baby_bestiary.md#kobold-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Kobold, petit
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5824,7 +6184,17 @@ SubItems:
 
 
 
+      Voir [Kobold](hd_monsters_kobold.md)
+
+
+
+
+
       -  <!--Type-->Humanoïde (kobold)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne aménagée<!--/Terrain-->
 
 
 
@@ -5904,6 +6274,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
+
     ArmorClass: 12
 
     HitPoints: 1 (1d6-2)
@@ -5930,9 +6302,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Kraken, larve
   Type: Bête
   Size: M
   Alignment: non aligné
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 11
   HitPoints: 13 (3d6+3)
   Speed: 3 m, nage 15 m
@@ -5948,7 +6322,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#kraken-larve
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Kraken, larve
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -5966,13 +6339,25 @@ SubItems:
 
 
 
-      Utilisez le profl de la pieuvre (H&D, p. 317 pour le kraken nouveau-né).
+
+
+      Utilisez le profl de la [pieuvre](hd_monsters_pieuvre.md) (H&D, p. 317 pour le kraken nouveau-né).
+
+
+
+
+
+      Voir [Kraken](hd_monsters_kraken.md)
 
 
 
 
 
       -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -6068,6 +6453,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
+
     ArmorClass: 11
 
     HitPoints: 13 (3d6+3)
@@ -6096,6 +6483,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Léviathan, petit
   Type: Créature monstrueuse (titan)
   Size: TG
   Alignment: non aligné
@@ -6109,13 +6497,12 @@ SubItems:
   Wisdom: 10 (+0)
   Charisma: 7 (-2)
   SavingThrows: For +7, Con +5
-  ConditionImmunities: terrorisé
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: —
   Challenge: 5 (1 800 PX)
+  ConditionImmunities: terrorisé
   Id: baby_bestiary.md#léviathan-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Léviathan, petit
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6235,6 +6622,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Lézardeau de foudre
   Type: Bête
   Size: TP
   Alignment: non aligné
@@ -6247,13 +6635,12 @@ SubItems:
   Intelligence: 1 (-5)
   Wisdom: 8 (-1)
   Charisma: 3 (-4)
-  DamageResistances: de foudre
   Senses: vision dans le noir 9 m, Perception passive 9
   Languages: —
   Challenge: 0 (10 PX)
+  DamageResistances: de foudre
   Id: baby_bestiary.md#lézardeau-de-foudre
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Lézardeau de foudre
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6367,9 +6754,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Licorne, poulain
   Type: Céleste
   Size: M
   Alignment: Loyal Bon
+  Terrain: Bois / Forêt
   ArmorClass: 12
   HitPoints: 22 (3d8+9)
   Speed: 15 m
@@ -6379,14 +6768,13 @@ SubItems:
   Intelligence: 11 (+0)
   Wisdom: 17 (+3)
   Charisma: 14 (+2)
-  ConditionImmunities: charmé, empoisonné et paralysé
-  DamageResistances: de poison
   Senses: vision aveugle 18 m, Perception passive 13
   Languages: céleste, elfe, sylvestre, télépathie 18 m
   Challenge: 1 (200 PX)
+  DamageResistances: de poison
+  ConditionImmunities: charmé, empoisonné et paralysé
   Id: baby_bestiary.md#licorne-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Licorne, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6400,7 +6788,17 @@ SubItems:
 
 
 
+      Voir [Licorne](hd_monsters_licorne.md)
+
+
+
+
+
       -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -6542,6 +6940,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 12
 
     HitPoints: 22 (3d8+9)
@@ -6572,6 +6972,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Lionceau de mer
   Type: Bête
   Size: M
   Alignment: non aligné
@@ -6589,7 +6990,6 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#lionceau-de-mer
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Lionceau de mer
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6709,9 +7109,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Manticore, lionceau
   Type: Créature monstrueuse
   Size: M
   Alignment: Loyal Mauvais
+  Terrain: Désert chaud, Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 22 (3d8+9)
   Speed: 9 m, vol 12 m
@@ -6725,7 +7127,6 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#manticore-lionceau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Manticore, lionceau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6739,7 +7140,17 @@ SubItems:
 
 
 
+      Voir [Manticore](hd_monsters_manticore.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Montagnes<!--/Terrain-->
 
 
 
@@ -6845,6 +7256,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Désert chaud, Montagnes
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 22 (3d8+9)
@@ -6869,9 +7282,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Méduse, fille
   Type: Créature monstrueuse
   Size: P
   Alignment: Loyal Mauvais
+  Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 26 (4d6+12)
   Speed: 9 m
@@ -6882,13 +7297,12 @@ SubItems:
   Wisdom: 13 (+1)
   Charisma: 13 (+1)
   Skills: Discrétion +4, Perception +3, Supercherie +2
-  ConditionImmunities: empoisonné, pétrifé (variante)
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun
   Challenge: 1 (200 PX)
+  ConditionImmunities: empoisonné, pétrifé (variante)
   Id: baby_bestiary.md#méduse-fille
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Méduse, fille
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -6902,7 +7316,17 @@ SubItems:
 
 
 
+      Voir [Méduse](hd_monsters_meduse.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -6996,6 +7420,8 @@ SubItems:
 
     Alignment: Loyal Mauvais
 
+    Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 26 (4d6+12)
@@ -7026,9 +7452,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Mimique, bébé
   Type: Créature monstrueuse (métamorphe)
   Size: P
   Alignment: Neutre
+  Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 13 (3d6+6)
   Speed: 4,50 m
@@ -7039,14 +7467,13 @@ SubItems:
   Wisdom: 13 (+1)
   Charisma: 8 (-1)
   Skills: Discrétion +5
-  ConditionImmunities: à terre
-  DamageResistances: d'acide
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: —
   Challenge: 1/4 (50 PX)
+  DamageResistances: d'acide
+  ConditionImmunities: à terre
   Id: baby_bestiary.md#mimique-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Mimique, bébé
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7060,7 +7487,17 @@ SubItems:
 
 
 
+      Voir [Mimique](hd_monsters_mimique.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -7182,6 +7619,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
+
     ArmorClass: 12 (armure naturelle)
 
     HitPoints: 13 (3d6+6)
@@ -7214,9 +7653,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Minotaure, veau
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Caverne aménagée, Donjon maçonné, Ruines extérieures
   ArmorClass: 14 (armure naturelle)
   HitPoints: 22 (3d8+9)
   Speed: 9 m
@@ -7231,7 +7672,6 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#minotaure-veau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Minotaure, veau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7245,7 +7685,17 @@ SubItems:
 
 
 
+      Voir [Minotaure](hd_monsters_minotaure.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -7337,6 +7787,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Caverne aménagée, Donjon maçonné, Ruines extérieures
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 22 (3d8+9)
@@ -7363,6 +7815,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Myconide, spore
   Type: Plante
   Size: P
   Alignment: non aligné
@@ -7380,7 +7833,6 @@ SubItems:
   Challenge: 0 (10 PX)
   Id: baby_bestiary.md#myconide-spore
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Myconide, spore
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7494,9 +7946,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Naga, couvain
   Type: Créature monstrueuse
   Size: P
   Alignment: Loyal Bon
+  Terrain: Ruines extérieures
   ArmorClass: 16 (armure naturelle)
   HitPoints: 32 (5d6+15)
   Speed: 9 m
@@ -7507,14 +7961,13 @@ SubItems:
   Wisdom: 19 (+4)
   Charisma: 16 (+2)
   SavingThrows: Dex +6, Con +6, Sag +6
-  ConditionImmunities: charmé et empoisonné
-  DamageResistances: de poison
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: commun
   Challenge: 2 (450 PX)
+  DamageResistances: de poison
+  ConditionImmunities: charmé et empoisonné
   Id: baby_bestiary.md#naga-couvain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Naga, couvain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7528,13 +7981,17 @@ SubItems:
 
 
 
-      (Naga gardien)
+      Voir [Naga gardien](hd_monsters_naga_gardien.md)
 
 
 
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 
 
 
@@ -7662,6 +8119,8 @@ SubItems:
 
     Alignment: Loyal Bon
 
+    Terrain: Ruines extérieures
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 32 (5d6+15)
@@ -7694,6 +8153,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Ogre-mage
   Type: Géant
   Size: M
   Alignment: Loyal Mauvais
@@ -7711,7 +8171,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#ogre-mage
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Ogre-mage
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -7849,6 +8308,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Ombres des roches
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
@@ -7862,13 +8322,12 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
   Skills: Discrétion +4, Perception +6
-  ConditionImmunities: aveuglé
   Senses: perception des vibrations 18 m, vision aveugle 18 m, Perception passive 14
   Languages: comprend le commun des profondeurs mais ne parle pas
   Challenge: 1 (200 PX)
+  ConditionImmunities: aveuglé
   Id: baby_bestiary.md#ombres-des-roches
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Ombres des roches
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8012,9 +8471,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Orque, petit
   Type: Humanoïde (orc)
   Size: P
   Alignment: Chaotique Mauvais
+  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 11
   HitPoints: 6 (1d6+3)
   Speed: 9 m
@@ -8029,7 +8490,6 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#orque-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Orque, petit
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8043,7 +8503,17 @@ SubItems:
 
 
 
+      Voir [Orc](hd_monsters_orc.md)
+
+
+
+
+
       -  <!--Type-->Humanoïde (orc)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -8135,6 +8605,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Caverne aménagée, Ruines souterraines
+
     ArmorClass: 11
 
     HitPoints: 6 (1d6+3)
@@ -8161,9 +8633,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Otyugh, bout
   Type: Aberration
   Size: M
   Alignment: Neutre
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 14 (armure naturelle)
   HitPoints: 24 (3d8+12)
   Speed: 9 m
@@ -8179,7 +8653,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#otyugh-bout
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Otyugh, bout
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8193,7 +8666,17 @@ SubItems:
 
 
 
+      Voir [Otyugh](hd_monsters_otyugh.md)
+
+
+
+
+
       -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -8295,6 +8778,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 24 (3d8+12)
@@ -8323,9 +8808,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Ours-hibou, poussin
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
+  Terrain: Bois / Forêt, Caverne naturelle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 22 (3d8+9)
   Speed: 9 m
@@ -8341,7 +8828,6 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#ours-hibou-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Ours-hibou, poussin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8355,7 +8841,17 @@ SubItems:
 
 
 
+      Voir [Hibours](hd_monsters_hibours.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -8457,6 +8953,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Bois / Forêt, Caverne naturelle
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 22 (3d8+9)
@@ -8485,9 +8983,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Oxydeur, charançon
   Type: Créature monstrueuse
   Size: P
   Alignment: non aligné
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 9 (2d6+2)
   Speed: 9 m
@@ -8501,7 +9001,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#oxydeur-charançon
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Oxydeur, charançon
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8515,7 +9014,17 @@ SubItems:
 
 
 
+      Voir [Oxydeur](hd_monsters_oxydeur.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -8591,6 +9100,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 9 (2d6+2)
@@ -8615,6 +9126,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Pégase, poulain
   Type: Céleste
   Size: M
   Alignment: Chaotique Bon
@@ -8633,7 +9145,6 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#pégase-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Pégase, poulain
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8647,7 +9158,17 @@ SubItems:
 
 
 
+      Voir [Pégase](hd_monsters_pegase.md)
+
+
+
+
+
       -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -8747,6 +9268,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Péryton, hinulus
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
@@ -8765,7 +9287,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#péryton-hinulus
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Péryton, hinulus
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -8921,6 +9442,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Phénix, poussin
   Type: Créature monstrueuse
   Size: P
   Alignment: Neutre Bon
@@ -8934,14 +9456,13 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
   Skills: Perception +4
-  DamageImmunities: de feu
-  DamageResistances: radiants, nécrotiques, d'électricité
   Senses: Perception passive 14
   Languages: comprend le commun et l'aérien mais ne peut pas parler
   Challenge: 1 (200 PX)
+  DamageResistances: radiants, nécrotiques, d'électricité
+  DamageImmunities: de feu
   Id: baby_bestiary.md#phénix-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Phénix, poussin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9103,9 +9624,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Pseudo-dragon, vermisseau
   Type: Dragon
   Size: TP
   Alignment: Neutre Bon
+  Terrain: Bois / Forêt, Jungle, Caverne naturelle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 3 (1d4+1)
   Speed: 4,50 m, vol 18 m
@@ -9121,7 +9644,6 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#pseudo-dragon-vermisseau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Pseudo-dragon, vermisseau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9135,7 +9657,17 @@ SubItems:
 
 
 
+      Voir [Pseudodragon](hd_monsters_pseudodragon.md)
+
+
+
+
+
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -9243,6 +9775,8 @@ SubItems:
 
     Alignment: Neutre Bon
 
+    Terrain: Bois / Forêt, Jungle, Caverne naturelle
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 3 (1d4+1)
@@ -9271,6 +9805,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Rakshasa, chaton
   Type: Fiélon
   Size: P
   Alignment: Loyal Mauvais
@@ -9284,14 +9819,13 @@ SubItems:
   Wisdom: 16 (+3)
   Charisma: 16 (+3)
   Skills: Perspicacité +5, Supercherie +5
-  DamageVulnerabilities: perforants infligés par des armes magiques maniées par des créatures bonnes.
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, infernal
   Challenge: 3 (700 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
+  DamageVulnerabilities: perforants infligés par des armes magiques maniées par des créatures bonnes.
   Id: baby_bestiary.md#rakshasa-chaton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Rakshasa, chaton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9305,7 +9839,17 @@ SubItems:
 
 
 
+      Voir [Rakshasa](hd_monsters_rakshasa.md)
+
+
+
+
+
       -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain--><!--/Terrain-->
 
 
 
@@ -9439,9 +9983,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Remorhaz, fraie
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
+  Terrain: Arctique / Subarctique
   ArmorClass: 15 (armure naturelle)
   HitPoints: 51 (6d8+24)
   Speed: 9 m, fouissement 6 m
@@ -9451,13 +9997,12 @@ SubItems:
   Intelligence: 4 (-3)
   Wisdom: 10 (+0)
   Charisma: 5 (-3)
-  DamageResistances: de feu et de froid
   Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
   Languages: —
   Challenge: 2 (450 PX)
+  DamageResistances: de feu et de froid
   Id: baby_bestiary.md#remorhaz-fraie
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Remorhaz, fraie
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9471,7 +10016,17 @@ SubItems:
 
 
 
+      Voir [Remorhaz](hd_monsters_remorhaz.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -9555,6 +10110,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 51 (6d8+24)
@@ -9583,9 +10140,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Satyre, chevreau
   Type: Fée
   Size: P
   Alignment: Chaotique Neutre
+  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 9 (2d8)
   Speed: 12 m
@@ -9601,7 +10160,6 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#satyre-chevreau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Satyre, chevreau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9615,7 +10173,17 @@ SubItems:
 
 
 
+      Voir [Satyre](hd_monsters_satyre.md)
+
+
+
+
+
       -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -9699,6 +10267,8 @@ SubItems:
 
     Alignment: Chaotique Neutre
 
+    Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12
 
     HitPoints: 9 (2d8)
@@ -9727,6 +10297,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Simurgh, chiot
   Type: Créature céleste
   Size: P<!--/Size>, Neutre Bon
   Alignment: Neutre Bon
@@ -9745,7 +10316,6 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#simurgh-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Simurgh, chiot
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -9871,6 +10441,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Sphinx, chaton
   Type: Créature monstrueuse
   Size: M
   Alignment: Loyal Neutre
@@ -9885,14 +10456,13 @@ SubItems:
   Charisma: 17 (+3)
   SavingThrows: Con +6, Sag +4
   Skills: Perception +4
-  ConditionImmunities: charmé et terrorisé
-  DamageResistances: psychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision parfaite 36 m, Perception passive 14
   Languages: commun, sphinx
   Challenge: 2 (450 PX)
+  DamageResistances: psychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
+  ConditionImmunities: charmé et terrorisé
   Id: baby_bestiary.md#sphinx-chaton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Sphinx, chaton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10074,9 +10644,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Sylvanien, baliveau
   Type: Plante
   Size: G
   Alignment: Chaotique Bonne
+  Terrain: Bois / Forêt
   ArmorClass: 15 (armure naturelle)
   HitPoints: 42 (4d10+20)
   Speed: 9 m
@@ -10086,14 +10658,13 @@ SubItems:
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
-  DamageVulnerabilities: de feu
-  DamageResistances: contondants et perçants
   Senses: Perception passive 13
   Languages: commun, elfe, druidique, sylvestre
   Challenge: 1 (200 PX)
+  DamageResistances: contondants et perçants
+  DamageVulnerabilities: de feu
   Id: baby_bestiary.md#sylvanien-baliveau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Sylvanien, baliveau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10107,7 +10678,17 @@ SubItems:
 
 
 
+      Voir [Sylvanien](hd_monsters_sylvanien.md)
+
+
+
+
+
       -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bonne<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -10207,6 +10788,8 @@ SubItems:
 
     Alignment: Chaotique Bonne
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 42 (4d10+20)
@@ -10237,6 +10820,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Tarasque, poussin
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -10253,7 +10837,6 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#tarasque-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Tarasque, poussin
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10391,6 +10974,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Tatzelwurm, vermisseau
   Type: Dragon
   Size: P
   Alignment: alignement variable
@@ -10404,13 +10988,12 @@ SubItems:
   Wisdom: 12 (+1)
   Charisma: 13 (+1)
   Skills: Discrétion +4, Perception +3
-  DamageResistances: d'acide, de feu, de foudre et de froid
   Senses: Perception passive 13
   Languages: —
   Challenge: 1/4 (50 PX)
+  DamageResistances: d'acide, de feu, de foudre et de froid
   Id: baby_bestiary.md#tatzelwurm-vermisseau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Tatzelwurm, vermisseau
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10530,9 +11113,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Tertre errant, petit
   Type: Plante
   Size: M
   Alignment: non aligné
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 15 (armure naturelle)
   HitPoints: 37 (5d8+15)
   Speed: 6 m
@@ -10543,14 +11128,13 @@ SubItems:
   Wisdom: 10 (+0)
   Charisma: 5 (-3)
   Skills: Discrétion +4
-  ConditionImmunities: assourdi, aveuglé et épuisé
-  DamageResistances: de feu et de froidde foudre
   Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 10
   Languages: —
   Challenge: 1 (200 PX)
+  DamageResistances: de feu et de froidde foudre
+  ConditionImmunities: assourdi, aveuglé et épuisé
   Id: baby_bestiary.md#tertre-errant-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Tertre errant, petit
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10564,7 +11148,17 @@ SubItems:
 
 
 
+      Voir [Tertre errant](hd_monsters_tertre_errant.md)
+
+
+
+
+
       -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -10666,6 +11260,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 37 (5d8+15)
@@ -10698,6 +11294,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Tigron de phase
   Type: Créature monstrueuse
   Size: P
   Alignment: Non aligné
@@ -10716,7 +11313,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#tigron-de-phase
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Tigron de phase
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10878,6 +11474,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Titan, rejeton
   Type: Créature monstrueuse (titan)
   Size: TG
   Alignment: non aligné
@@ -10890,14 +11487,13 @@ SubItems:
   Intelligence: 3 (-4)
   Wisdom: 11 (+0)
   Charisma: 11 (+0)
-  ConditionImmunities: charmé, terrorisé, empoisonné et paralysé
-  DamageResistances: de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
   Senses: vision aveugle 36 m, Perception passive 10
   Languages: —
   Challenge: 10 (5 900 PX)
+  DamageResistances: de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
+  ConditionImmunities: charmé, terrorisé, empoisonné et paralysé
   Id: baby_bestiary.md#titan-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Titan, rejeton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -10906,6 +11502,12 @@ SubItems:
     Markdown: >+
 
       # <!--Name-->Titan, rejeton<!--/Name-->
+
+
+
+
+
+      Voir [Tarasque](hd_monsters_tarasque.md)
 
 
 
@@ -11083,6 +11685,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Troglodyte, têtard
   Type: Bête
   Size: P
   Alignment: non aligné
@@ -11100,7 +11703,6 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#troglodyte-têtard
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Troglodyte, têtard
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11226,9 +11828,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Troll, bourgeon
   Type: Géant
   Size: M
   Alignment: Chaotique Mauvais
+  Terrain: Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 19 (2d8+10)
   Speed: 9 m
@@ -11243,7 +11847,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#troll-bourgeon
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Troll, bourgeon
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11257,7 +11860,17 @@ SubItems:
 
 
 
+      Voir [Troll](hd_monsters_troll.md)
+
+
+
+
+
       -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes<!--/Terrain-->
 
 
 
@@ -11361,6 +11974,8 @@ SubItems:
 
     Alignment: Chaotique Mauvais
 
+    Terrain: Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 19 (2d8+10)
@@ -11387,9 +12002,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Ver pourpre, violet
   Type: Créature monstrueuse
   Size: G
   Alignment: non aligné
+  Terrain: Montagnes, Caverne naturelle
   ArmorClass: 16 (armure naturelle)
   HitPoints: 52 (5d10+25)
   Speed: 12 m, fouissement 6 m
@@ -11405,7 +12022,6 @@ SubItems:
   Challenge: 2 (450 PX)
   Id: baby_bestiary.md#ver-pourpre-violet
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Ver pourpre, violet
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11419,7 +12035,17 @@ SubItems:
 
 
 
+      Voir [Ver pourpre](hd_monsters_ver_pourpre.md)
+
+
+
+
+
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -11503,6 +12129,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Montagnes, Caverne naturelle
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 52 (5d10+25)
@@ -11531,9 +12159,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Vouivre, civelle
   Type: Dragon
   Size: M
   Alignment: non aligné
+  Terrain: Littoral, Montagnes
   ArmorClass: 13 (armure naturelle)
   HitPoints: 30 (4d8+12)
   Speed: 6 m, vol 18 m
@@ -11549,7 +12179,6 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: baby_bestiary.md#vouivre-civelle
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Vouivre, civelle
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11563,7 +12192,17 @@ SubItems:
 
 
 
+      Voir [Vouivre](hd_monsters_vouivre.md)
+
+
+
+
+
       -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Montagnes<!--/Terrain-->
 
 
 
@@ -11665,6 +12304,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Littoral, Montagnes
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 30 (4d8+12)
@@ -11693,6 +12334,7 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Wolpentinger, rejeton
   Type: Créature monstrueuse
   Size: P
   Alignment: Chaotique neutre
@@ -11711,7 +12353,6 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#wolpentinger-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Wolpentinger, rejeton
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11849,9 +12490,11 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
+  Name: Xorn, bébé
   Type: Élémentaire
   Size: P
   Alignment: Neutre
+  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 17 (armure naturelle)
   HitPoints: 17 (2d6+10)
   Speed: 6 m, fouissement 3 m
@@ -11862,13 +12505,12 @@ SubItems:
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
   Skills: Discrétion +2, Perception +4
-  DamageResistances: perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantium
   Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 14
   Languages: terreux
   Challenge: 1/2 (100 PX)
+  DamageResistances: perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantium
   Id: baby_bestiary.md#xorn-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
-  Name: Xorn, bébé
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
@@ -11882,7 +12524,17 @@ SubItems:
 
 
 
+      Voir [Xorn](hd_monsters_xorn.md)
+
+
+
+
+
       -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -12000,6 +12652,8 @@ SubItems:
 
     Alignment: Neutre
 
+    Terrain: Montagnes, Plans élémentaires
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 17 (2d6+10)
@@ -12030,7 +12684,6 @@ SubItems:
 
 Id: baby_bestiary.md#monstrueusement-mignons
 RootId: baby_bestiary.md
-Name: Monstrueusement mignons
 NameLevel: 1
 AttributesDictionary: >+
   Name: Monstrueusement mignons
@@ -12048,7 +12701,10 @@ AttributesDictionary: >+
 
 # Aboleth, rejeton
 
+Voir [Aboleth](hd_monsters_aboleth.md)
+
 -  Aberration de taille M, Loyal Mauvais
+- **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 39 (6d8+12)
 - **Vitesse** 3 m, nage 12 m
@@ -12209,7 +12865,10 @@ _Touché :_ 5 (1d6+2) dégâts psychiques.
 
 # Balor, brandon
 
+Voir [Balor](hd_monsters_balor.md)
+
 -  Fiélon de taille P, Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 37 (5d6+20)
 - **Vitesse** 6 m, vol 12 m
@@ -12247,7 +12906,10 @@ _Touché :_ 6 (2d4+1) dégâts perforants plus 3 (1d6) dégâts de feu.
 
 # Basilic, lézardeau
 
+Voir [Basilic](hd_monsters_basilic.md)
+
 -  Créature monstrueuse de taille P, non aligné
+- **Terrain** Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 22 (4d6+8)
 - **Vitesse** 6 m
@@ -12306,7 +12968,10 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 
 # Bulette, chevreau
 
+Voir [Bulette](hd_monsters_bulette.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Bois / Forêt, Collines / Vallées, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 38 (4d8+20)
 - **Vitesse** 9 m, fouissement 9 m
@@ -12333,7 +12998,10 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 
 # Centaure, poulain
 
+Voir [Centaure](hd_monsters_centaure.md)
+
 -  Créature monstrueuse de taille M, Neutre Bon
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 19 (3d8+6)
 - **Vitesse** 12 m
@@ -12364,7 +13032,10 @@ _Touché :_ selon arme.
 
 # Cerbère, chiot
 
+Voir [Cerbère](hd_monsters_cerbere.md)
+
 -  Créature monstrueuse de taille M, Neutre Mauvais
+- **Terrain** Bois / Forêt, Jungle, Montagnes
 - **Classe d'armure** 13
 - **Points de vie** 45 (6d8+18)
 - **Vitesse** 12 m
@@ -12395,7 +13066,10 @@ _Touché :_ selon arme.
 
 # Chien esquiveur, chiot
 
+Voir [Chien esquiveur](hd_monsters_chien_esquiveur.md)
+
 -  Fée de taille P, Loyal Bon
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 9 m
@@ -12426,7 +13100,10 @@ _Touché :_ 1 dégât perforant.
 
 # Chimère, lionceau
 
+Voir [Chimère](hd_monsters_chimere.md)
+
 -  Créature monstrueuse de taille M, Chaotique Mauvais
+- **Terrain** Bois / Forêt, Montagnes, Ruines extérieures
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 37 (5d8+15)
 - **Vitesse** 9 m, vol 12 m (dès 16 mois)
@@ -12463,7 +13140,10 @@ _Touché :_ 6 (2d4+1) dégâts perforants.
 
 # Cocatrice, poussin
 
+Voir [Cockatrice](hd_monsters_cockatrice.md)
+
 -  Créature monstrueuse de taille TP, non aligné
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 7 (2d4+2)
 - **Vitesse** 6 m, vol 9 m
@@ -12486,7 +13166,10 @@ _Touché :_ 1 dégât perforant et la cible doit réussir un jet de sauvegarde d
 
 # Couatl, nouveau-né
 
+Voir [Couatl](hd_monsters_couatl.md)
+
 -  Créature monstrueuse de taille P, Loyal Bon
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 39 (6d6+18)
 - **Vitesse** 6 m, vol 18 m
@@ -12524,7 +13207,10 @@ _Touché :_ 2 (1d6-1) dégâts perforants et la cible doit réussir un jet de sa
 
 # Criard, bouton
 
+Voir [Criard](hd_monsters_criard.md)
+
 -  Plante de taille P, non aligné
+- **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5
 - **Points de vie** 3 (1d6)
 - **Vitesse** 0 m
@@ -12552,7 +13238,10 @@ _Touché :_ 2 (1d6-1) dégâts perforants et la cible doit réussir un jet de sa
 
 # Cube gélatineux, bébé
 
+Voir [Cube gélatineux](hd_monsters_cube_gelatineux.md)
+
 -  Vase de taille P, non aligné
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 6
 - **Points de vie** 17 (2d6+10)
 - **Vitesse** 4,5 m
@@ -12583,7 +13272,10 @@ _Touché :_ 3 (1d6) dégâts d'acide.
 
 # Destrier noir, poulain
 
+Voir [Destrier noir](hd_monsters_destrier_noir.md)
+
 -  Créature monstrueuse de taille M, Neutre Mauvais
+- **Terrain** 
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 30 (4d8+12)
 - **Vitesse** 12 m, vol 18 m
@@ -12614,7 +13306,10 @@ _Touché :_ 7 (2d6) dégâts contondants plus 3 (1d6) dégâts de feu.
 
 # Djinayni
 
+Voir [Djinn](hd_monsters_djinn.md)
+
 -  Élémentaire de taille P, Chaotique Bon
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 41 (5d6+24)
 - **Vitesse** 6 m, vol 18 m
@@ -12711,7 +13406,10 @@ _Touché :_ 6 (1d8+2) dégâts perforants plus 2 (1d4) dégâts élémentaires (
 
 # Dragonnet, tortue
 
+Voir [Dragon-tortue](hd_monsters_dragon_tortue.md)
+
 -  Dragon de taille P, alignement variable
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 19 (3d6+9)
 - **Vitesse** 6 m, nage 12 m
@@ -12739,7 +13437,10 @@ _Touché :_ 7 (2d6) dégâts perforants.
 
 # Élémenteau d'air
 
+Voir [Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)
+
 -  Élémentaire de taille P, Neutre
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 14
 - **Points de vie** 22 (4d6+8)
 - **Vitesse** 0 m, vol 27 m (vol stationnaire)
@@ -12773,7 +13474,10 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 
 # Élémenteau d'eau
 
+Voir [Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)
+
 -  Élémentaire de taille P, Neutre
+- **Terrain** Mer / Océan, Plans élémentaires, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 30 (4d6+16)
 - **Vitesse** 9 m, nage 27 m
@@ -12811,7 +13515,10 @@ _Touché :_ 5 (2d4) dégâts contondants.
 
 # Élémenteau de feu
 
+Voir [Élémentaire du feu](hd_monsters_elementaire_du_feu.md)
+
 -  Élémentaire de taille P, Neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 13
 - **Points de vie** 26 (4d6+12)
 - **Vitesse** 15 m
@@ -12847,7 +13554,10 @@ _Touché :_ 8 (2d4+3) dégâts de feu. Si la cible est un objet inflammable ou u
 
 # Élémenteau de terre
 
+Voir [Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)
+
 -  Élémentaire de terre taille P, Neutre
+- **Terrain** Bois / Forêt, Plans élémentaires
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 34 (4d6+20)
 - **Vitesse** 9 m, fouissement 9 m
@@ -12919,7 +13629,10 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 # Gargouille, moulure
 
+Voir [Gargouille](hd_monsters_gargouille.md)
+
 -  Élémentaire de taille P, Chaotique Mauvais
+- **Terrain** Plans élémentaires, Ruines extérieures
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 11 (2d8+6)
 - **Vitesse** 6 m, vol 12m
@@ -12957,7 +13670,10 @@ _Touché :_ 2 (1d4) dégâts perforants.
 
 # Gnoll, chiot
 
+Voir [Gnoll](hd_monsters_gnoll.md)
+
 -  Humanoïde (gnoll) de taille P, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 11
 - **Points de vie** 4 (1d8)
 - **Vitesse** 9 m
@@ -12986,7 +13702,10 @@ _Touché :_ 1 dégât perforant.
 
 # Gobelours, petit
 
+Voir [Gobelours](hd_monsters_gobelours.md)
+
 -  Humanoïde (gobelinoïde) de taille P, Chaotique Mauvais
+- **Terrain** Collines / Vallées, Caverne aménagée
 - **Classe d'armure** 12
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 9 m
@@ -13018,7 +13737,10 @@ _Touché :_ 4 (2d4-1) dégâts perforants.
 
 # Griffon, poussin
 
+Voir [Griffon](hd_monsters_griffon.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 19 (3d8+6)
 - **Vitesse** 9 m, vol 18 m
@@ -13054,7 +13776,10 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 
 # Harpie, fille
 
+Voir [Harpie](hd_monsters_harpie.md)
+
 -  Créature monstrueuse de taille P, Chaotique Mauvais
+- **Terrain** Littoral, Montagnes, Ruines extérieures
 - **Classe d'armure** 11
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 6 m, vol 9 m
@@ -13081,7 +13806,10 @@ _Touché :_ 3 (1d4+1) dégâts tranchants.
 
 # Hippocampe, fretin
 
+Voir [Hippocampe](hd_monsters_hippocampe.md)
+
 -  Bête de taille M, non aligné
+- **Terrain** Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 5 (1d10)
 - **Vitesse** 0 m, nage 12 m
@@ -13112,7 +13840,10 @@ _Touché :_ 2 (1d6-1) dégâts contondants.
 
 # Hippogriffe, poulain
 
+Voir [Hippogriffe](hd_monsters_hippogriffe.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Littoral, Montagnes
 - **Classe d'armure** 11
 - **Points de vie** 5 (1d8+1)
 - **Vitesse** 9 m, vol 12 m
@@ -13148,7 +13879,10 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 # Homme-lézard, bébé
 
+Voir [Homme-lézard](hd_monsters_homme_lezard.md)
+
 -  Humanoïde (homme-lézard) de taille M, Neutre
+- **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle, bouclier)
 - **Points de vie** 4 (1d6+1)
 - **Vitesse** 6 m, nage 6 m
@@ -13178,7 +13912,10 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 
 # Hydre, serpenteau
 
+Voir [Hydre](hd_monsters_hydre.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Littoral, Caverne sous-marine
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 47 (5d8+25)
 - **Vitesse** 9 m, nage 9 m
@@ -13296,7 +14033,10 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 # Kobold, petit
 
+Voir [Kobold](hd_monsters_kobold.md)
+
 -  Humanoïde (kobold) de taille P, Loyal Mauvais
+- **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 12
 - **Point de vie** 1 (1d6-2)
 - **Vitesse** 9 m
@@ -13326,9 +14066,13 @@ _Touché :_ 1 dégât perforant.
 # Kraken, larve
 
 (Pieuvre géante)
-Utilisez le profl de la pieuvre (H&D, p. 317 pour le kraken nouveau-né).
+
+Utilisez le profl de la [pieuvre](hd_monsters_pieuvre.md) (H&D, p. 317 pour le kraken nouveau-né).
+
+Voir [Kraken](hd_monsters_kraken.md)
 
 -  Bête de taille M, non aligné
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 11
 - **Points de vie** 13 (3d6+3)
 - **Vitesse** 3 m, nage 15 m
@@ -13415,7 +14159,10 @@ _Touché :_ 1 dégât perforant + 1 dégât de foudre.
 
 # Licorne, poulain
 
+Voir [Licorne](hd_monsters_licorne.md)
+
 -  Céleste de taille M, Loyal Bon
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 12
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 15 m
@@ -13493,7 +14240,10 @@ _Touché :_ 5 (1d8+1) dégâts perforants et la cible est empoignée (évasion D
 
 # Manticore, lionceau
 
+Voir [Manticore](hd_monsters_manticore.md)
+
 -  Créature monstrueuse de taille M, Loyal Mauvais
+- **Terrain** Désert chaud, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 9 m, vol 12 m
@@ -13531,7 +14281,10 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 # Méduse, fille
 
+Voir [Méduse](hd_monsters_meduse.md)
+
 -  Créature monstrueuse de taille P, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 26 (4d6+12)
 - **Vitesse** 9 m
@@ -13564,7 +14317,10 @@ _Dans le cadre de cet ouvrage, la méduse présentée est immunisée à son prop
 
 # Mimique, bébé
 
+Voir [Mimique](hd_monsters_mimique.md)
+
 -  Créature monstrueuse (métamorphe) de taille P, Neutre
+- **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 13 (3d6+6)
 - **Vitesse** 4,50 m
@@ -13606,7 +14362,10 @@ _Touché :_ 2 (1d6-1) dégâts contondants. Si la mimique est sous forme d'objet
 
 # Minotaure, veau
 
+Voir [Minotaure](hd_monsters_minotaure.md)
+
 -  Créature monstrueuse de taille M, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 9 m
@@ -13666,9 +14425,10 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 
 # Naga, couvain
 
-(Naga gardien)
+Voir [Naga gardien](hd_monsters_naga_gardien.md)
 
 -  Créature monstrueuse de taille P, Loyal Bon
+- **Terrain** Ruines extérieures
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 32 (5d6+15)
 - **Vitesse** 9 m
@@ -13781,7 +14541,10 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 
 # Orque, petit
 
+Voir [Orc](hd_monsters_orc.md)
+
 -  Humanoïde (orc) de taille P, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 11
 - **Points de vie** 6 (1d6+3)
 - **Vitesse** 9 m
@@ -13814,7 +14577,10 @@ _Touché :_ 1 (1d4-1) dégât contondant.
 
 # Otyugh, bout
 
+Voir [Otyugh](hd_monsters_otyugh.md)
+
 -  Aberration de taille M, Neutre
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 24 (3d8+12)
 - **Vitesse** 9 m
@@ -13850,7 +14616,10 @@ _Touché :_ 3 (1d6) dégâts contondants plus 3 (1d3) dégâts perforants.
 
 # Ours-hibou, poussin
 
+Voir [Hibours](hd_monsters_hibours.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Bois / Forêt, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 9 m
@@ -13886,7 +14655,10 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 
 # Oxydeur, charançon
 
+Voir [Oxydeur](hd_monsters_oxydeur.md)
+
 -  Créature monstrueuse de taille P, non aligné
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 9 m
@@ -13914,7 +14686,10 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 
 # Pégase, poulain
 
+Voir [Pégase](hd_monsters_pegase.md)
+
 -  Céleste de taille M, Chaotique Bon
+- **Terrain** 
 - **Classe d'armure** 12
 - **Points de vie** 12 (2d8+6)
 - **Vitesse** 12 m, vol 18 m
@@ -14020,7 +14795,10 @@ _Touché :_ 2 (1d6-1) dégâts tranchants plus 3 (1d6) dégâts de feu.
 
 # Pseudo-dragon, vermisseau
 
+Voir [Pseudodragon](hd_monsters_pseudodragon.md)
+
 -  Dragon de taille TP, Neutre Bon
+- **Terrain** Bois / Forêt, Jungle, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 3 (1d4+1)
 - **Vitesse** 4,50 m, vol 18 m
@@ -14058,7 +14836,10 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 # Rakshasa, chaton
 
+Voir [Rakshasa](hd_monsters_rakshasa.md)
+
 -  Fiélon de taille P, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 30 (4d6+16)
 - **Vitesse** 9 m
@@ -14093,7 +14874,10 @@ _Touché :_ 8 (2d4+3) dégâts tranchants et, si c'est une créature, la cible d
 
 # Remorhaz, fraie
 
+Voir [Remorhaz](hd_monsters_remorhaz.md)
+
 -  Créature monstrueuse de taille M, non aligné
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 51 (6d8+24)
 - **Vitesse** 9 m, fouissement 6 m
@@ -14123,7 +14907,10 @@ _Touché :_ 11 (2d8+2) dégâts perforants plus 7 (2d6) dégât de feu. Si la ci
 
 # Satyre, chevreau
 
+Voir [Satyre](hd_monsters_satyre.md)
+
 -  Fée de taille P, Chaotique Neutre
+- **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 9 (2d8)
 - **Vitesse** 12 m
@@ -14228,7 +15015,10 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 
 # Sylvanien, baliveau
 
+Voir [Sylvanien](hd_monsters_sylvanien.md)
+
 -  Plante de taille G, Chaotique Bonne
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 42 (4d10+20)
 - **Vitesse** 9 m
@@ -14326,7 +15116,10 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 # Tertre errant, petit
 
+Voir [Tertre errant](hd_monsters_tertre_errant.md)
+
 -  Plante de taille M, non aligné
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 37 (5d8+15)
 - **Vitesse** 6 m
@@ -14402,6 +15195,8 @@ _Touché :_ 4 (1d8) dégâts perforants.
 ---
 
 # Titan, rejeton
+
+Voir [Tarasque](hd_monsters_tarasque.md)
 
 -  Créature monstrueuse (titan) de taille TG, non aligné
 - **Classe d'armure** 20 (armure naturelle)
@@ -14483,7 +15278,10 @@ _Le troglodyte de ce bestiaire ne correspond en rien au troglodyte habituel de C
 
 # Troll, bourgeon
 
+Voir [Troll](hd_monsters_troll.md)
+
 -  Géant de taille M, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 19 (2d8+10)
 - **Vitesse** 9 m
@@ -14520,7 +15318,10 @@ _Touché :_ 2 (1d4) dégâts perforants.
 
 # Ver pourpre, violet
 
+Voir [Ver pourpre](hd_monsters_ver_pourpre.md)
+
 -  Créature monstrueuse de taille G, non aligné
+- **Terrain** Montagnes, Caverne naturelle
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 52 (5d10+25)
 - **Vitesse** 12 m, fouissement 6 m
@@ -14550,7 +15351,10 @@ _Touché :_ 13 (3d6+3) dégâts perforants. Si la cible est une créature de tai
 
 # Vouivre, civelle
 
+Voir [Vouivre](hd_monsters_vouivre.md)
+
 -  Dragon de taille M, non aligné
+- **Terrain** Littoral, Montagnes
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 30 (4d8+12)
 - **Vitesse** 6 m, vol 18 m
@@ -14620,7 +15424,10 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 
 # Xorn, bébé
 
+Voir [Xorn](hd_monsters_xorn.md)
+
 -  Élémentaire de taille P, Neutre
+- **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 17 (2d6+10)
 - **Vitesse** 6 m, fouissement 3 m

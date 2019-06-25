@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Stone Giant](srd_monsters_stone_giant.md)
 -  Géant de taille TG, neutre
+- **Terrain** Montagnes
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 126 (11d12+55)
 - **Vitesse** 12 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Bearded Devil](srd_monsters_bearded_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m

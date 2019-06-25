@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 13 (débris de barde)
 - **Points de vie** 22 (3d10+6)
 - **Vitesse** 18 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Centipede](srd_monsters_giant_centipede.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Désert chaud, Jungle, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 4 (1d6+1)
 - **Vitesse** 9 m, escalade 9 m

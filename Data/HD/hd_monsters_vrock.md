@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Vrock](srd_monsters_vrock.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 104 (11d10+44)
 - **Vitesse** 12 m, vol 18 m

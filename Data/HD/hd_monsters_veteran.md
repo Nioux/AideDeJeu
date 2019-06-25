@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Veteran](srd_monsters_veteran.md)
 -  Humanoïde (n'importe quelle race) de taille M, alignement quelconque
+- **Terrain** 
 - **Classe d'armure** 17 (clibanion)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 9 m

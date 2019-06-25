@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Scorpion](srd_monsters_giant_scorpion.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 52 (7d10+14)
 - **Vitesse** 12 m

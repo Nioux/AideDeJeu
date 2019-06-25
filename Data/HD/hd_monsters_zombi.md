@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Zombie](srd_monsters_zombie.md)
 -  Mort-vivant de taille M, Neutre Mauvais
+- **Terrain** 
 - **Classe d'armure** 8
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 6 m

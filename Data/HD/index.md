@@ -58,6 +58,12 @@
 # [Les Cinq Royaumes](hd_l5r_index.md)
 
 
+# [Livre des monstres](tome_of_beasts.md)
+
+
+# [Monstrueusement Mignons](baby_bestiary.md)
+
+
 # SRD
 
 ## [Conditions](srd_conditions.md)

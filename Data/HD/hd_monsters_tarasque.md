@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Tarrasque](srd_monsters_tarrasque.md)
 -  Créature monstrueuse (titan) de taille Gig, non-alignée
+- **Terrain** 
 - **Classe d'armure** 25 (armure naturelle)
 - **Points de vie** 676 (33d20+330)
 - **Vitesse** 12 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Druid](srd_monsters_druid.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 11 (16 avec peau d'écorce)
 - **Points de vie** 27 (5d8+5)
 - **Vitesse** 9 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Crab](srd_monsters_giant_crab.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 13 (3d8)
 - **Vitesse** 9 m, nage 9 m

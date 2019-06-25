@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Eagle](srd_monsters_giant_eagle.md)
 -  Bête de taille G, neutre bon
+- **Terrain** Montagnes
 - **Classe d'armure** 13
 - **Points de vie** 26 (4d10+4)
 - **Vitesse** 3 m, vol 24 m

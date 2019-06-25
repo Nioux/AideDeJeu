@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Cat](srd_monsters_cat.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 2 (1d4)
 - **Vitesse** 12 m, escalade 9 m

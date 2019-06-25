@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Riding Horse](srd_monsters_riding_horse.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 13 (2d10+2)
 - **Vitesse** 18 m

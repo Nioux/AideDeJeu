@@ -24,7 +24,7 @@
             }
             grid label {
                 text-align: center;
-                font-family: LinuxLibertineCapitalsBold;
+                font-family: LinuxLibertineCapitals;
                 -xf-vertical-text-alignment: end;
                 vertical-align: end;
             }
@@ -87,19 +87,19 @@
                 <!--<Label Text="{Binding Main.Navigator.TestNotify}" TextColor="Transparent" />-->
                 <Frame>
                     <Grid>
-                        <Label Text="Personnages" />
+                        <Label Text="Personnages" FontFamily="{StaticResource LinuxLibertineCapitals}" />
                         <ImageButton Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}" />
                     </Grid>
                 </Frame>
                 <Frame>
                     <Grid>
-                        <Label Text="Dés" />
+                        <Label Text="Dés" FontFamily="{StaticResource LinuxLibertineCapitals}" />
                         <ImageButton Source="d20.png" Command="{Binding Main.Navigator.DicesCommand}" />
                     </Grid>
                 </Frame>
                 <Frame>
                     <Grid>
-                        <Label Text="Bibliothèque" />
+                        <Label Text="Bibliothèque" FontFamily="{StaticResource LinuxLibertineCapitals}" />
                         <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand}" />
                     </Grid>
                 </Frame>
@@ -117,7 +117,7 @@
                 </Frame>-->
                 <Frame>
                     <Grid>
-                        <Label Text="A propos de..." />
+                        <Label Text="A propos de..." FontFamily="{StaticResource LinuxLibertineCapitals}" />
                         <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
                     </Grid>
                 </Frame>

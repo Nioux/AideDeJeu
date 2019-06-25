@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Invisible Stalker](srd_monsters_invisible_stalker.md)
 -  Élémentaire de taille M, neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 14
 - **Points de vie** 104 (16d8+32)
 - **Vitesse** 15 m, vol 15 m (vol stationnaire)

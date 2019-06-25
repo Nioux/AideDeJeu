@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Vulture](srd_monsters_vulture.md)
 -  Bête de taille M, non-alignée
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 5 (1d188+1)
 - **Vitesse** 3 m, vol 15 m

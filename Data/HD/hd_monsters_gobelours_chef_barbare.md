@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille M, chaotique mauvais
+- **Terrain** Collines / Vallées, Caverne aménagée
 - **Classe d'armure** 16 (armure de peau, bouclier)
 - **Points de vie** 55 (10d8+10)
 - **Vitesse** 9 m

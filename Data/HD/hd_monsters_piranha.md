@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Quipper](srd_monsters_quipper.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 13
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 0 m, nage 12 m

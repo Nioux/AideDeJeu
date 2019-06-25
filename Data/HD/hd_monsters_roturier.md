@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Commoner](srd_monsters_commoner.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 10
 - **Points de vie** 4 (1d8)
 - **Vitesse** 9 m

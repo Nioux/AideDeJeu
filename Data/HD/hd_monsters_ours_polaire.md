@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Polar Bear](srd_monsters_polar_bear.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Arctique / Subarctique, Bois / Forêt
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 42 (5d10+15)
 - **Vitesse** 12 m, nage 9 m

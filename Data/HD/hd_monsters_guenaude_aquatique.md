@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Sea Hag](srd_monsters_sea_hag.md)
 -  Fée de taille M, Chaotique Mauvais
+- **Terrain** Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (7d8+21)
 - **Vitesse** 9 m, nage 12 m

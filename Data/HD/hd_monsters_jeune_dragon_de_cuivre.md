@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Young Copper Dragon](srd_monsters_young_copper_dragon.md)
 -  Dragon de taille G, Chaotique Bon
+- **Terrain** Collines / Vallées
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 119 (14d10+42)
 - **Vitesse** 12m, escalade 12 m, vol 24 m

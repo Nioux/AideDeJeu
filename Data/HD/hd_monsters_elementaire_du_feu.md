@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Fire Elemental](srd_monsters_fire_elemental.md)
 -  Élémentaire de taille G, neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 13
 - **Points de vie** 102 (12d10+36)
 - **Vitesse** 15 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
+- **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 172 (15d12+75)
 - **Vitesse** 12 m, fouissement 9 m, vol 24 m

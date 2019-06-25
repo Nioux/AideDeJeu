@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Spy](srd_monsters_spy.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 12
 - **Points de vie** 27 (6d8)
 - **Vitesse** 9 m

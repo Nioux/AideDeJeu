@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Wight](srd_monsters_wight.md)
 -  Mort-vivant de taille M, Neutre Mauvais
+- **Terrain** Mangrove / Marécage, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 45 (6d8+18)
 - **Vitesse** 9 m

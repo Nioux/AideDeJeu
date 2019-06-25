@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Darkmantle](srd_monsters_darkmantle.md)
 -  Créature monstrueuse de taille P, non-alignée
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 11
 - **Points de vie** 22 (5d6+5)
 - **Vitesse** 3 m, vol 9 m

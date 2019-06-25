@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Aberration de taille M, loyal mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 12
 - **Points de vie** 71 (13d8+13)
 - **Vitesse** 9 m au sol ; nage 9 m

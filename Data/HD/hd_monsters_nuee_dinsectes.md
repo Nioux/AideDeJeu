@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Insects](srd_monsters_swarm_of_insects.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 22 (5d8)
 - **Vitesse** 6 m, escalade 6 m

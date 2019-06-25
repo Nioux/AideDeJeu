@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
+- **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m, fouissement 4,50 m, vol 18 m

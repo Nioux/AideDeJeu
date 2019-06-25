@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Guard](srd_monsters_guard.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 16 (bouclier, chemise de mailles)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9 m

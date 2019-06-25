@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Drider](srd_monsters_drider.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 123 (13d10+52)
 - **Vitesse** 9 m, escalade 9 m

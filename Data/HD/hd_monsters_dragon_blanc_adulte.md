@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Adult White Dragon](srd_monsters_adult_white_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 200 (16d12+96)
 - **Vitesse** 12 m, fouissement 9 m, nage 12 m, vol 24 m

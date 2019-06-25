@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Pit Fiend](srd_monsters_pit_fiend.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 300 (24d10+168)
 - **Vitesse** 9 m, vol 18 m

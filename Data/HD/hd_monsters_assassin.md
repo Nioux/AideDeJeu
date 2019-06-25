@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Assassin](srd_monsters_assassin.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
+- **Terrain** 
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9 m

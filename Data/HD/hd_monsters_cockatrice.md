@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Cockatrice](srd_monsters_cockatrice.md)
 -  Créature monstrueuse de taille P, non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11
 - **Points de vie** 27 (6d6+6)
 - **Vitesse** 6 m, vol 12 m

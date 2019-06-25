@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Rust Monster](srd_monsters_rust_monster.md)
 -  Créature monstrueuse de taille M, non-alignée
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 27 (5d8+5)
 - **Vitesse** 12 m

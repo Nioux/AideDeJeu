@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Eagle](srd_monsters_eagle.md)
 -  Bête de taille P, non-alignée
+- **Terrain** Mer / Océan, Montagnes
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
 - **Vitesse** 3 m, vol 18 m

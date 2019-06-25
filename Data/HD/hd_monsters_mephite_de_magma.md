@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Magma Mephit](srd_monsters_magma_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 11
 - **Points de vie** 22 (5d6+5)
 - **Vitesse** 9 m, vol 9 m

@@ -125,13 +125,25 @@
                 <Label>
                     <Label.FormattedText>
                         <FormattedString>
-                            <Span Text="Le contenu provient du jeu " />
-                            <Span Text="Héros &amp; Dragons" FontAttributes="Bold" />
-                            <Span Text=" et du SRD VO" />
+                            <Span Text="Héros &amp; Dragons est édité par " />
+                            <Span Text="Black Book Editions" FontAttributes="Bold" />
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
                         <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="http://www.black-book-editions.fr/" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+                <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Le contenu provient du DRS de " />
+                            <Span Text="Héros &amp; Dragons" FontAttributes="Bold" />
+                            <Span Text=" et du SRD de la 5è édition" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://heros-et-dragons.fr/" />
                     </Label.GestureRecognizers>
                 </Label>
 

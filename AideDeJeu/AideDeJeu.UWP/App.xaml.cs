@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
+using System.Text;
 using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
@@ -61,6 +62,7 @@ namespace AideDeJeu.UWP
 
                 Xamarin.Forms.Forms.Init(e, Rg.Plugins.Popup.Popup.GetExtraAssemblies());
                 SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
+                Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
                 if (e.PreviousExecutionState == ApplicationExecutionState.Terminated)
                 {

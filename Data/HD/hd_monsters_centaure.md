@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Centaur](srd_monsters_centaur.md)
 -  Créature monstrueuse de taille G, Neutre Bon
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 15 m

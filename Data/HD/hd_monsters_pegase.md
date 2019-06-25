@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Pegasus](srd_monsters_pegasus.md)
 -  Céleste de taille G, Chaotique Bon
+- **Terrain** 
 - **Classe d'armure** 12
 - **Points de vie** 59 (7d10+21)
 - **Vitesse** 18 m, vol 27 m

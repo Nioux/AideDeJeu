@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Lion](srd_monsters_lion.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
 - **Points de vie** 26 (4d10+4)
 - **Vitesse** 15 m

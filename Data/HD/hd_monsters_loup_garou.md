@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Werewolf](srd_monsters_werewolf.md)
 -  Humanoïde (humain, métamorphe) de taille M, Chaotique Mauvais
+- **Terrain** Bois / Forêt, Montagnes
 - **Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 9 m (12 m sous forme de loup)

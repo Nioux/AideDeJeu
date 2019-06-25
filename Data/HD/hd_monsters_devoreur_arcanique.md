@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Aberration de taille G, Neutre Mauvais
+- **Terrain** Caverne aménagée, Donjon maçonné
 - **Classe d'armure** 15
 - **Points de vie** 212 (25d10+75)
 - **Vitesse** 1,50 m au sol ; 9 mètres en vol

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Goat](srd_monsters_giant_goat.md)
 -  Bête de taille G, non-alignée
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 19 (3d10+3)
 - **Vitesse** 12 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Giant Vulture](srd_monsters_giant_vulture.md)
 -  Bête de taille G, Neutre Mauvais
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
 - **Points de vie** 22 (3d10+6)
 - **Vitesse** 3 m, vol 18 m

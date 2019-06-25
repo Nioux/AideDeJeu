@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Bête de taille G, Loyal Bon
+- **Terrain** 
 - **Classe d'armure** 13
 - **Points de vie** 59 (7d10+21)
 - **Vitesse** 18 m

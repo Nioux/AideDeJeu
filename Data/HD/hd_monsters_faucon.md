@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Hawk](srd_monsters_hawk.md)
 -  Bête de taille TP, non-alignée
+- **Terrain** Collines / Vallées, Désert chaud, Littoral
 - **Classe d'armure** 13
 - **Points de vie** 1 (1d4-1)
 - **Vitesse** 3 m, vol 18 m

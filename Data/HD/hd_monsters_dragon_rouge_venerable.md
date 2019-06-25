@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
+- **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 546 (28d20+252)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m

@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
+- **Terrain** Jungle, Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 14
 - **Points de vie** 36 (8d8)
 - **Vitesse** 9 m, nage 9 m

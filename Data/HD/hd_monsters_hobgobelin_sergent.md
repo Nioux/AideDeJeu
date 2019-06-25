@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
+- **Terrain** Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 18 (bouclier, cotte de mailles)
 - **Points de vie** 29 (5d8+7)
 - **Vitesse** 9 m

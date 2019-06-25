@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Dretch](srd_monsters_dretch.md)
 -  Fiélon (démon) de taille P, Chaotique Mauvais
+- **Terrain** 
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 18 (4d6+4)
 - **Vitesse** 6 m

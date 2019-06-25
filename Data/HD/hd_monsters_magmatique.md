@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Magmin](srd_monsters_magmin.md)
 -  Élémentaire de taille P, Chaotique Neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 9 (2d6+2)
 - **Vitesse** 9 m

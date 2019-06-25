@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ochre Jelly](srd_monsters_ochre_jelly.md)
 -  Vase de taille G, non-alignée
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 8
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 3 m, escalade 3 m

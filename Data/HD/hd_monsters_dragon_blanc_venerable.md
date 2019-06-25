@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Ancient White Dragon](srd_monsters_ancient_white_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 333 (18d20+144)
 - **Vitesse** 12 m, fouissement 12 m, nage 12 m, vol 24 m

@@ -6,6 +6,7 @@
 
 - Source: (CEO p)
 -  Créature monstrueuse de taille M, Neutre
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
 - **Vitesse** 6 m, fouissement 6 m

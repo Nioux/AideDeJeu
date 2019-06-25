@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Scout](srd_monsters_scout.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 16 (3d8+3)
 - **Vitesse** 9 m

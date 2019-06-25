@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m, nage 9 m, vol 18 m

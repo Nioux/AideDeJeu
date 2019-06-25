@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Mage](srd_monsters_mage.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
+- **Terrain** 
 - **Classe d'armure** 12 (15 avec armure du mage)
 - **Points de vie** 40 (9d8)
 - **Vitesse** 9 m

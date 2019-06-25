@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Vampire Spawn](srd_monsters_vampire_spawn.md)
 -  Mort-vivant de taille M, Neutre Mauvais
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 82 (11d8+33)
 - **Vitesse** 9 m

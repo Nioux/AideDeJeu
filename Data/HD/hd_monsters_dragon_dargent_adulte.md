@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)
 -  Dragon de taille TG, Loyal Bon
+- **Terrain** Montagnes
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 243 (18d12+126)
 - **Vitesse** 12 m, vol 24 m

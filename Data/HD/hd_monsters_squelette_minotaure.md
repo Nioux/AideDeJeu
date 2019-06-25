@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 67 (9d10+18)
 - **Vitesse** 12 m

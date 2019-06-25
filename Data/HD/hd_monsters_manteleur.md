@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Cloaker](srd_monsters_cloaker.md)
 -  Aberration de taille G, Chaotique Neutre
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 78 (12d10+12)
 - **Vitesse** 3 m, vol 12 m

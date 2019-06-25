@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Hell Hound](srd_monsters_hell_hound.md)
 -  Fiélon de taille M, Loyal Mauvais
+- **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (7d8+14)
 - **Vitesse** 15 m

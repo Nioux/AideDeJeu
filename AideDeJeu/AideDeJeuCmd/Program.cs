@@ -1,4 +1,5 @@
-﻿using AideDeJeu.Tools;
+﻿using AideDeJeu.Pdf;
+using AideDeJeu.Tools;
 using AideDeJeu.ViewModels;
 using AideDeJeuLib;
 using Markdig;
@@ -132,16 +133,16 @@ namespace AideDeJeuCmd
             var anchors = new List<string>();
             var allitems = new Dictionary<string, Item>();
             var names = Helpers.GetResourceNames();
-            foreach(var name in names)
+            foreach (var name in names)
             {
                 //if (name.Contains("_hd."))
                 //{
-                    var md = await Helpers.GetResourceStringAsync(name);
-                    var item = DependencyService.Get<StoreViewModel>().ToItem(name, md, null);
-                    allitems.Add(name, item);
+                var md = await Helpers.GetResourceStringAsync(name);
+                var item = DependencyService.Get<StoreViewModel>().ToItem(name, md, null);
+                allitems.Add(name, item);
                 //}
             }
-            foreach(var allitem in allitems)
+            foreach (var allitem in allitems)
             {
                 if (allitem.Value is Items)
                 {
@@ -155,7 +156,7 @@ namespace AideDeJeuCmd
                         }
                     }
                 }
-                else if(allitem.Value != null)
+                else if (allitem.Value != null)
                 {
                     if (!string.IsNullOrWhiteSpace(allitem.Value.Name))
                     {
@@ -266,15 +267,15 @@ namespace AideDeJeuCmd
                         }
                         else
                         {
-                            if(levelType != null)
+                            if (levelType != null)
                             {
                                 await writer.WriteLineAsync(levelType);
-                                if(castingTime != null) await writer.WriteLineAsync(castingTime);
-                                if(range != null) await writer.WriteLineAsync(range);
-                                if(components != null) await writer.WriteLineAsync(components);
-                                if(duration != null) await writer.WriteLineAsync(duration);
-                                if(classes != null) await writer.WriteLineAsync(classes);
-                                if(source != null) await writer.WriteLineAsync(source);
+                                if (castingTime != null) await writer.WriteLineAsync(castingTime);
+                                if (range != null) await writer.WriteLineAsync(range);
+                                if (components != null) await writer.WriteLineAsync(components);
+                                if (duration != null) await writer.WriteLineAsync(duration);
+                                if (classes != null) await writer.WriteLineAsync(classes);
+                                if (source != null) await writer.WriteLineAsync(source);
                                 levelType = null;
                                 castingTime = null;
                                 range = null;
@@ -299,7 +300,7 @@ namespace AideDeJeuCmd
 
         public static async Task PreloadAllItemsFromFilesAsync(StoreViewModel store)
         {
-            foreach (var fileName in Directory.GetFiles(inDir, "*.md", new EnumerationOptions() { MatchType = MatchType.Simple, RecurseSubdirectories = false  }))
+            foreach (var fileName in Directory.GetFiles(inDir, "*.md", new EnumerationOptions() { MatchType = MatchType.Simple, RecurseSubdirectories = false }))
             {
                 //foreach (var resourceName in Tools.Helpers.GetResourceNames())
                 //{
@@ -318,7 +319,7 @@ namespace AideDeJeuCmd
                             var item = store.ToItem(source, md, store._AllItems);
                             if (item != null)
                             {
-                                if(item.NewId == "hd_aasimar_aasimar.md")
+                                if (item.NewId == "hd_aasimar_aasimar.md")
                                 {
                                     Debug.WriteLine("");
                                 }
@@ -355,6 +356,7 @@ namespace AideDeJeuCmd
                 Console.WriteLine("l : build library");
                 Console.WriteLine("o : check orphan links");
                 Console.WriteLine("p : test pdf");
+                Console.WriteLine("h : extract html");
                 Console.WriteLine("q : quitter");
                 var key = Console.ReadKey(true);
                 switch (key.KeyChar)
@@ -368,24 +370,413 @@ namespace AideDeJeuCmd
                     case 'p':
                         await TestPdfAsync();
                         break;
+                    case 'h':
+                        await ExtractHtmlAsync();
+                        break;
                     case 'q':
                         return;
                 }
             }
         }
 
+        static async Task ExtractHtmlAsync()
+        {
+            using (var output = new StreamWriter(@"..\..\..\..\..\Data\tome_of_beasts.md", false, Encoding.UTF8))
+            {
+                var parser = new HtmlParser();
+                for (int i = 10; i <= 428; i++)
+                //for (int i = 256; i <= 256; i++)
+                {
+                    var doc = new HtmlAgilityPack.HtmlDocument();
+                    doc.Load($@"..\..\..\..\..\Ignore\tome_of_beasts\page{i}.html");
+                    parser.OutputMarkdown(parser.Parse(doc), output, Console.Error);
+                    //parser.OutputMarkdown(parser.Parse(doc), Console.Out, Console.Error);
+                }
+                output.Write("\n<!--/MonsterItem-->\n\n<!--/MonsterItems-->\n");
+            }
+        }
+
+        class HtmlParser
+        {
+            string key = "";
+            string value = "";
+            enum State
+            {
+                Before,
+                Name,
+                Type,
+                TopKeyValues,
+                Abilities,
+                BottomKeyValues,
+                Competencies,
+                Actions,
+                Reactions,
+
+            }
+
+            public class ParsedSpan
+            {
+                public string Text;
+                public string Style;
+                public string IdStyle;
+                public string DivStyle;
+            }
+            public class FullLine : List<ParsedSpan>
+            {
+            }
+
+            public class FullText : List<FullLine>
+            {
+
+            }
+            public FullText Parse(HtmlAgilityPack.HtmlDocument doc)
+            {
+                var styles = doc.DocumentNode.SelectSingleNode("/html/head/style").InnerText.Split('\n');
+                var txtDivs = doc.DocumentNode.SelectNodes("//div[@class='txt']");
+                var fullText = new FullText();
+                var fullLine = new FullLine();
+                if (txtDivs != null)
+                {
+                    foreach (var txtDiv in txtDivs)
+                    {
+                        var spans = txtDiv.Elements("span");
+                        for (var i = 0; i < spans.Count(); i++)
+                        {
+                            var span = spans.ToArray()[i];
+                            var spanId = span.GetAttributeValue("id", "");
+                            var spanStyle = span.GetAttributeValue("style", "");
+                            var spanIdStyle = new string(styles.SingleOrDefault(s => s.StartsWith($"#{spanId} ")).SkipWhile(c => c != '{').ToArray());
+                            var divStyle = txtDiv.GetAttributeValue("style", "");
+                            var parsedSpan = new ParsedSpan()
+                            {
+                                Text = span.InnerText.Replace(" ",""),
+                                Style = spanStyle,
+                                IdStyle = spanIdStyle,
+                                DivStyle = divStyle,
+                            };
+                            if (i == 0)
+                            {
+                                var previousParsedSpan = fullLine.LastOrDefault();
+                                if (previousParsedSpan == null)
+                                {
+                                    var previousFullLine = fullText.LastOrDefault();
+                                    if (previousFullLine != null)
+                                    {
+                                        previousParsedSpan = previousFullLine.LastOrDefault();
+                                    }
+                                }
+
+                                if (previousParsedSpan != null)
+                                {
+                                    if (previousParsedSpan.Style != parsedSpan.Style || previousParsedSpan.IdStyle != parsedSpan.IdStyle)
+                                    {
+                                        fullText.Add(fullLine);
+                                        fullLine = new FullLine();
+                                    }
+                                }
+                            }
+                            fullLine.Add(parsedSpan);
+                        }
+                    }
+                    fullText.Add(fullLine);
+                }
+
+                return fullText;
+            }
+
+            string idssnn = "{ font-family:sans-serif; font-weight:normal; font-style:normal; }";
+            string idssni = "{ font-family:sans-serif; font-weight:normal; font-style:italic; }";
+            string idssbn = "{ font-family:sans-serif; font-weight:bold; font-style:normal; }";
+            string idssbi = "{ font-family:sans-serif; font-weight:bold; font-style:italic; }";
+            string idsbn = "{ font-family:serif; font-weight:bold; font-style:normal; }";
+            string idsnn = "{ font-family:serif; font-weight:normal; font-style:normal; }";
+            string idsni = "{ font-family:serif; font-weight:normal; font-style:italic; }";
+
+            string st23_255 = "font-size:23px;vertical-align:baseline;color:rgba(255,207,52,1);";
+            string st16_255 = "font-size:16px;vertical-align:baseline;color:rgba(255,207,52,1);";
+            string st11_255 = "font-size:11px;vertical-align:baseline;color:rgba(255,207,52,1);";
+            string st48_0 = "font-size:48px;vertical-align:baseline;color:rgba(0,0,0,1);";
+            string st14_137 = "font-size:14px;vertical-align:baseline;color:rgba(137,23,26,1);";
+            string st8_0 = "font-size:8px;vertical-align:baseline;color:rgba(0,0,0,1);";
+            string st8_121 = "font-size:8px;vertical-align:baseline;color:rgba(121,27,16,1);";
+            string st8_137 = "font-size:8px;vertical-align:baseline;color:rgba(137,23,26,1);";
+            string st9_203 = "font-size:9px;vertical-align:baseline;color:rgba(203,0,0,1);";
+
+            bool started = false;
+
+            public string MDStyle(string text, string style)
+            {
+                text = text.Trim();
+                if (style.Contains("italic"))
+                {
+                    text = $"_{text}_";
+                }
+                if (style.Contains("bold"))
+                {
+                    text = $"**{text}**";
+                }
+                return text;
+            }
+
+            List<KeyValuePair<string, string>> MDSizes = new List<KeyValuePair<string, string>>()
+            {
+                new KeyValuePair<string, string>("Petite/Très Grande", "P/TG"),
+                new KeyValuePair<string, string>("Très Petite", "TP"),
+                new KeyValuePair<string, string>("Très Grande", "TG"),
+                new KeyValuePair<string, string>("Grande", "G"),
+                new KeyValuePair<string, string>("Moyenne", "M"),
+                new KeyValuePair<string, string>("Gigantesque", "Gig"),
+                //new KeyValuePair<string, string>("Moyenne (métamorphe)", "M"),
+                //new KeyValuePair<string, string>("Très Petite taille ", "TP"),
+                new KeyValuePair<string, string>("Petite", "P"),
+                //new KeyValuePair<string, string>("Petite taille (cynome)", "P"),
+                //new KeyValuePair<string, string>("Grande taille d’élémentaires de taille Minuscule", "G"),
+            };
+
+            string ToMDSize(string size)
+            {
+                foreach(var mdsize in MDSizes)
+                {
+                    if(size.Contains(mdsize.Key))
+                    {
+                        return mdsize.Value;
+                    }
+                }
+                return size;
+            }
+            public void OutputMarkdown(FullText fullText, TextWriter output, TextWriter error)
+            {
+                var page = fullText.Where(l => l.FirstOrDefault().Style.Contains(st16_255))?.FirstOrDefault()?.FirstOrDefault()?.Text;
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                error.WriteLine($"Page : {page}");
+                Console.ForegroundColor = ConsoleColor.White;
+                string abilities = null;
+                foreach (var line in fullText)
+                {
+                    var keySpan = line.FirstOrDefault();
+                    string value = "";
+                    if (line.Count > 1)
+                    {
+                        value = line.Skip(1).Select(p => MDStyle(p.Text, p.Style)).Aggregate((p1, p2) => p1.Trim() + " " + p2.Trim());
+                    }
+                    string text = MDStyle(keySpan.Text, keySpan.Style);
+                    Console.ForegroundColor = ConsoleColor.DarkGray;
+                    error.Write($"{text}");
+                    error.WriteLine($" {value}");
+
+                    if (keySpan.Style.Contains(st48_0) && keySpan.IdStyle.Contains(idsnn))
+                    {   // titre de page
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        error.Write($"{text} {value}\n");
+                    }
+                    else if (keySpan.Style.Contains(st9_203) && keySpan.IdStyle.Contains(idssnn))
+                    {   // bloodmark
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        error.Write($"{text} {value}\n");
+                    }
+                    else if (keySpan.Style.Contains(st16_255) && keySpan.IdStyle.Contains(idsbn))
+                    {   // page
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        error.Write($"{text} {value}\n");
+                    }
+                    else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idsnn))
+                    {   // encadré
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        error.Write($"{text} {value}\n");
+                    }
+                    else if (keySpan.Style.Contains(st11_255) && keySpan.IdStyle.Contains(idssnn))
+                    {   // nom
+                        Console.ForegroundColor = ConsoleColor.White;
+                        if(!started)
+                        {
+                            started = true;
+                            output.Write("\n<!--MonsterItems Family=\"TomeOfBeasts\" Types=\"Humanoïde|Aberration|Bête|Céleste|Créature artificielle|Créature monstrueuse|Dragon|Élémentaire|Fée|Fiélon|Géant|Mort-vivant|Plante|Vase\" Challenges=\"0 (0 PX)|1/8 (25 PX)|1/4 (50 PX)|1/2 (100 PX)|1 (200 PX)|2 (450 PX)|3 (700 PX)|4 (1100 PX)|5 (1800 PX)|6 (2300 PX)|7 (2900 PX)|8 (3900 PX)|9 (5000 PX)|10 (5900 PX)|11 (7200 PX)|12 (8400 PX)|13 (10000 PX)|14 (11500 PX)|15 (13000 PX)|16 (15000 PX)|17 (18000 PX)|18 (20000 PX)|19 (22000 PX)|20 (25000 PX)|21 (33000 PX)|22 (41000 PX)|23 (50000 PX)|24 (62000 PX)|30 (155000 PX)\" Sizes=\"TP|P|M|G|TG|Gig\" Sources=\"CEO|SRD\" Terrains=\"Arctique / Subarctique|Bois / Forêt|Collines / Vallées|Désert chaud|Jungle|Littoral|Mangrove / Marécage|Mer / Océan|Montagnes|Plaine / Champs / Prairie / Savane|Plans élémentaires|Caverne aménagée|Caverne naturelle|Caverne sous-marine|Donjon maçonné|Ruines extérieures|Ruines souterraines|Ruines sous-marines\"-->\n\n");
+                            output.Write("# <!--Name-->Livre des monstres<!--/Name-->\n\n");
+                        }
+                        else
+                        {
+                            output.Write("\n<!--/MonsterItem-->\n\n");
+                        }
+                        output.Write("<!--MonsterItem Family=\"TomeOfBeasts\"-->\n\n");
+                        output.Write($"# <!--Name-->{CultureInfo.CurrentCulture.TextInfo.ToTitleCase(text.ToLower())}<!--/Name-->\n\n- Source: <!--Source-->(LDM p{page})<!--/Source-->\n");
+                    }
+                    else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idssni) && text.Contains("taille"))
+                    {   // type / size / alignment
+                        // todo : découper type / size / alignment
+                        var regex = new Regex("^(?<type>.*?) de (taille )?(?<size>.*?)( taille)?, (?<alignment>.*?)$");
+                        var match = regex.Match(text);
+                        var type = match.Groups["type"].Value;
+                        var size = match.Groups["size"].Value;
+                        var alignment = match.Groups["alignment"].Value;
+                        if (type.Length > 0)
+                        {
+                            text = text.Replace(type, $"<!--Type-->{type}<!--/Type-->");
+                            text = text.Replace(",", $" (<!--Size-->{ToMDSize(size)}<!--/Size-->),");
+                            text = text.Replace(alignment, $"<!--Alignment-->{alignment}<!--/Alignment-->");
+                        }
+                        Console.ForegroundColor = ConsoleColor.White;
+                        output.Write($"-  {text}\n");
+                    }
+                    else if (keySpan.Style.Contains(st8_121) && keySpan.IdStyle.Contains(idssbn))
+                    {   // key / ...
+                        string tag = "";
+                        if (KeyTags.ContainsKey(text.Trim()))
+                        {
+                            tag = KeyTags[text.Trim()];
+
+                            Console.ForegroundColor = ConsoleColor.White;
+                            output.Write($"- **{text.Trim()}** <!--{tag}-->{value}<!--/{tag}-->\n");
+                        }
+                        else
+                        {
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            //error.WriteLine($"ABILITIES");
+                            if (abilities == null)
+                            {
+                                abilities = "";
+                            }
+                        }
+                    }
+                    else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idssnn))
+                    {   // ... / value
+                        if (abilities != null)
+                        {
+                            abilities += text;
+                            if(value.Length > 0)
+                            {
+                                abilities += $" {value}";
+                            }
+                            if (abilities.Count(c => c == '(') == 6)
+                            {
+                                Console.ForegroundColor = ConsoleColor.White;
+                                output.Write($"\n|FOR|DEX|CON|INT|SAG|CHA|\n|---|---|---|---|---|---|\n|{abilities.Replace(") ", ")").Replace(")", ")|")}\n\n");
+                                abilities = null;
+                            }
+                        }
+                        else
+                        {
+                            Console.ForegroundColor = ConsoleColor.White;
+                            output.Write($"{text} {value}\n");
+                        }
+                    }
+                    else if (keySpan.Style.Contains(st14_137) && keySpan.IdStyle.Contains(idsnn))
+                    {   // actions / réactions
+                        Console.ForegroundColor = ConsoleColor.White;
+                        output.Write($"\n## {text}\n{value}\n");
+                    }
+                    else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idssnn))
+                    {
+                        Console.ForegroundColor = ConsoleColor.White;
+                        output.Write($"{text.Trim()} {value}\n");
+                    }
+                    else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idssbi))
+                    {
+                        Console.ForegroundColor = ConsoleColor.White;
+                        output.Write($"\n**_{text.Trim()}_** {value}\n");
+                    }
+                    else if (keySpan.Style.Contains(st8_0) && keySpan.IdStyle.Contains(idssbn))
+                    {
+                        Console.ForegroundColor = ConsoleColor.White;
+                        output.Write($"\n**{text.Trim()}** {value}\n");
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        error.Write($"{text} {value}\n");
+                        error.Write($"{keySpan.Style}\n");
+                        error.Write($"{keySpan.IdStyle}\n");
+                    }
+                }
+            }
+
+            void StripLine()
+            {
+
+            }
+
+            Dictionary<string, string> KeyTags = new Dictionary<string, string>()
+            {
+                { "Jets de sauvegarde", "SavingThrows" },
+                { "Classe d’armure" , "ArmorClass" },
+                { "Points de vie", "HitPoints" },
+                { "Vitesse", "Speed" },
+                { "Compétences", "Skills" },
+                { "Sens", "Senses" },
+                { "Langues", "Languages" },
+                { "Dangerosité", "Challenge" },
+                { "Résistance aux dégâts", "DamageResistances" },
+                { "Immunité contre les dégâts", "DamageImmunities" },
+                { "Immunité contre les états", "ConditionImmunities" },
+                { "Immunité contre l’état", "ConditionImmunities" },
+                { "Vulnérabilité aux dégâts", "DamageVulnerabilities" },
+                //{ "", "" },
+                //{ "", "" },
+                //{ "", "" },
+                //{ "", "" },
+                //{ "", "" },
+            };
+            List<string> KeyCaracs = new List<string>()
+            {
+                "FOR", "DEX", "CON", "INT", "SAG", "CHA"
+            };
+
+            string caracs = null;
+            bool CloseKeyValue()
+            {
+                if (!string.IsNullOrEmpty(key))
+                {
+                    if (KeyTags.ContainsKey(key.Trim()))
+                    {
+                        var tag = KeyTags[key.Trim()];
+                        Console.WriteLine($"- **{key.Trim()}** <!--{tag}-->{value.Trim()}<!--/{tag}-->");
+                    }
+                    else if (KeyCaracs.Contains(key.Trim()))
+                    {
+                        if (key.Trim() == "FOR")
+                        {
+                            Console.WriteLine("|FOR|DEX|CON|INT|SAG|CHA|\n|---|---|---|---|---|---|");
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine(value);
+                    }
+                    key = "";
+                    value = "";
+                    return true;
+                }
+                return false;
+            }
+        }
         static async Task TestPdfAsync()
         {
             Tests.Xamarin.Forms.Mocks.MockForms.Init();
             SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
             DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
+            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             //Xamarin.Essentials.Platform.Init(this, bundle);
             //Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
 
-            var pc = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterViewModel();
-            var pce = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterEditorViewModel();
-            var stream = new MemoryStream();
-            pce.GeneratePdfToStream(pc, stream);
+            var store = new StoreViewModel();
+
+            var item = await store.GetItemFromDataAsync("spells_hd", "aide");
+
+            using (var context = await StoreViewModel.GetLibraryContextAsync())
+            {
+                var spells = await context.Spells.ToListAsync();
+
+                var pdfService = new PdfService();
+                //var pc = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterViewModel();
+                //var pce = new AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterEditorViewModel();
+                using (var stream = new FileStream("test.pdf", FileMode.Create))
+                {
+                    //pdfService.MarkdownToPdf("# mon titre\n\nhop", stream);
+                    pdfService.MarkdownToPdf(spells.Select(s => s.Markdown).Take(3).ToList(), stream);
+                    //pdfService.MarkdownToPdf(new List<string>() { item.Markdown }, stream);
+                    //var stream = new MemoryStream();
+                    //pce.GeneratePdfToStream(pc, stream);
+                }
+            }
         }
 
         static async Task BuildLibraryAsync()
@@ -670,19 +1061,19 @@ namespace AideDeJeuCmd
                     {
                         //var file = "";
                         var files = new Dictionary<string, string>();
-                        foreach(var aalinks in alllinks)
+                        foreach (var aalinks in alllinks)
                         {
                             var found = aalinks.Value.FirstOrDefault(t => t.Item2 == Helpers.IdFromName(unlinkedref));
-                            if(found != null)
+                            if (found != null)
                             {
                                 files[found.Item1] = $"{found.Item1}.md";
                                 //file = $"{found.Item1}.md";
                                 //Console.WriteLine($"[{unlinkedref}]: {file}#{Helpers.IdFromName(unlinkedref)}");
                             }
                         }
-                        foreach(var aanchors in allanchors)
+                        foreach (var aanchors in allanchors)
                         {
-                            if(aanchors.Value.Contains(Helpers.IdFromName(unlinkedref)))
+                            if (aanchors.Value.Contains(Helpers.IdFromName(unlinkedref)))
                             {
                                 files[aanchors.Key] = $"{aanchors.Key}.md";
                                 //file = $"{aanchors.Key}.md";
@@ -690,7 +1081,7 @@ namespace AideDeJeuCmd
                                 //break;
                             }
                         }
-                        if(files.Count == 0)
+                        if (files.Count == 0)
                         {
                             files[""] = "";
                         }

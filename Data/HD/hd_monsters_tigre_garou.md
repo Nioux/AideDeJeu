@@ -7,6 +7,7 @@
 - Source: (CEO p)(SRD p)
 - SRD: [Weretiger](srd_monsters_weretiger.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre
+- **Terrain** Jungle
 - **Classe d'armure** 12
 - **Points de vie** 120 (16d8+48)
 - **Vitesse** 9 m (12 m sous forme de tigre)
