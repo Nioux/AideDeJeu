@@ -363,15 +363,9 @@ namespace AideDeJeu.ViewModels
 
         public async Task ExecuteGeneratePDFCommandAsync(string markdown)
         {
-            using (var stream = new FileStream(Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, Path.Combine("pdf", "test.pdf")), FileMode.Create))
-            {
-
-                PdfService.Instance.MarkdownToPdf(new List<string>() { markdown }, stream);
-            }
-
             var page = new PdfViewPage();
-            page.PdfFile = new Tools.NotifyTaskCompletion<string>(Task.Run(() =>
-                { return "test.pdf"; }
+            page.PdfFile = new Tools.NotifyTaskCompletion<string>(Task.Run(async() =>
+                { return await PdfService.Instance.MarkdownToPDF(new List<string>() { markdown }); }
             ));
             page.BindingContext = page;
             await Navigation.PushAsync(page, true);

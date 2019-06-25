@@ -10,6 +10,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace AideDeJeu.Pdf
@@ -39,6 +40,25 @@ namespace AideDeJeu.Pdf
 
         Document _Document = null;
         PdfWriter _Writer = null;
+
+        public string BasePdfDirectory
+        {
+            get
+            {
+                return Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, "pdf");
+            }
+        }
+
+        public async Task<string> MarkdownToPDF(List<string> mds)
+        {
+            var basePath = BasePdfDirectory;
+            Directory.CreateDirectory(basePath);
+            using (var stream = new FileStream(Path.Combine(BasePdfDirectory, "test.pdf"), FileMode.Create))
+            {
+                MarkdownToPdf(mds, stream);
+            }
+            return "test.pdf";
+        }
         public void MarkdownToPdf(List<string> mds, Stream stream)
         {
             var pipeline = new Markdig.MarkdownPipelineBuilder().UseYamlFrontMatter().UsePipeTables().Build();
