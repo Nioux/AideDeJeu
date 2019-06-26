@@ -290,9 +290,9 @@ namespace AideDeJeu.Pdf
                 //    Render(code);
                 //    break;
 
-                //case ListBlock list:
-                //    Render(list);
-                //    break;
+                case ListBlock list:
+                    return Render(list);
+                    //break;
 
                 //case ThematicBreakBlock thematicBreak:
                 //    Render(thematicBreak);
@@ -302,9 +302,9 @@ namespace AideDeJeu.Pdf
                 //    Render(html);
                 //    break;
 
-                //case Markdig.Extensions.Tables.Table table:
-                //    Render(table);
-                //    break;
+                case Markdig.Extensions.Tables.Table table:
+                    return Render(table);
+                    //break;
 
                 default:
                     Debug.WriteLine($"Can't render {block.GetType()} blocks.");
@@ -334,6 +334,44 @@ namespace AideDeJeu.Pdf
             //_Document.Add(CreateFormatted(block.Inline, Font.HELVETICA, 0, new Color(0, 0, 0), 20));
         }
 
+        private Phrase Render(ListBlock block)
+        {
+            //listScope++;
+
+            var views = new Phrase();
+            for (int i = 0; i < block.Count(); i++)
+            {
+                var item = block.ElementAt(i);
+
+                if (item is ListItemBlock itemBlock)
+                {
+                    var subviews = this.Render(block, i + 1, itemBlock);
+                    if (subviews != null)
+                    {
+                        views.AddRange(subviews);
+                    }
+                }
+            }
+
+            //listScope--;
+            return views;
+        }
+
+        private Phrase Render(ListBlock parent, int index, ListItemBlock block)
+        {
+            var stack = new Phrase();
+
+            var subv = this.Render(block.AsEnumerable());
+            subv.ToList().ForEach(v => stack.Add(v));
+
+            return stack;
+        }
+
+        private Phrase Render(Markdig.Extensions.Tables.Table tableBlock)
+        {
+            return null;
+        }
+
         private Phrase CreateFormatted(ContainerInline inlines, iTextSharp.text.Font fontFamily, int fontStyle, iTextSharp.text.Color fontColor)
         {
             var phrase = new Phrase();
@@ -350,7 +388,7 @@ namespace AideDeJeu.Pdf
             }
             return phrase;
         }
-        private Chunk[] CreateChunks(Inline inline, iTextSharp.text.Font fontFamily, int fontStyle, iTextSharp.text.Color fontColor)
+        private IEnumerable<Chunk> CreateChunks(Inline inline, iTextSharp.text.Font fontFamily, int fontStyle, iTextSharp.text.Color fontColor)
         {
             switch (inline)
             {
@@ -372,6 +410,8 @@ namespace AideDeJeu.Pdf
                     return new Chunk[] { Chunk.NEWLINE };
 
                 case LinkInline link:
+                    return link.SelectMany(x => CreateChunks(x, fontFamily, fontStyle, fontColor));
+
                 case CodeInline code:
 
                 case HtmlInline html:
