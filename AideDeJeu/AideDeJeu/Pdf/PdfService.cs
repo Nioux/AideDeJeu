@@ -369,7 +369,31 @@ namespace AideDeJeu.Pdf
 
         private Phrase Render(Markdig.Extensions.Tables.Table tableBlock)
         {
-            return null;
+            int maxColumns = 0;
+            foreach (Markdig.Extensions.Tables.TableRow row in tableBlock)
+            {
+                maxColumns = Math.Max(maxColumns, row.Count);
+            }
+
+            var table = new PdfPTable(maxColumns);
+            foreach (Markdig.Extensions.Tables.TableRow row in tableBlock)
+            {
+                foreach (Markdig.Extensions.Tables.TableCell cell in row)
+                {
+                    var phrase = new Phrase();
+                    foreach (var blockpar in cell)
+                    {
+                        var par = blockpar as Markdig.Syntax.ParagraphBlock;
+                        var blockPhrase = CreateFormatted(par.Inline, ParagraphFont, 0, new iTextSharp.text.Color(0));
+                        phrase.Add(blockPhrase);
+                    }
+                    table.AddCell(phrase);
+                }
+            }
+
+            var tablePhrase = new Phrase();
+            tablePhrase.Add(table);
+            return tablePhrase;
         }
 
         private Phrase CreateFormatted(ContainerInline inlines, iTextSharp.text.Font fontFamily, int fontStyle, iTextSharp.text.Color fontColor)
