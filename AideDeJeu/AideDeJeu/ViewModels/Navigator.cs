@@ -371,5 +371,26 @@ namespace AideDeJeu.ViewModels
             await Navigation.PushAsync(page, true);
 
         }
+
+        private Command<IEnumerable<Item>> _GenerateItemsPDFCommand = null;
+        public Command<IEnumerable<Item>> GenerateItemsPDFCommand
+        {
+            get
+            {
+                return _GenerateItemsPDFCommand ?? (_GenerateItemsPDFCommand = new Command<IEnumerable<Item>>(async (items) => await ExecuteGenerateItemsPDFCommandAsync(items)));
+            }
+        }
+
+        public async Task ExecuteGenerateItemsPDFCommandAsync(IEnumerable<Item> items)
+        {
+            var page = new PdfViewPage();
+            page.PdfFile = new Tools.NotifyTaskCompletion<string>(Task.Run(async () =>
+            {
+                return await PdfService.Instance.MarkdownToPDF(items.Select(item => item.Markdown)); }
+            ));
+            page.BindingContext = page;
+            await Navigation.PushAsync(page, true);
+
+        }
     }
 }

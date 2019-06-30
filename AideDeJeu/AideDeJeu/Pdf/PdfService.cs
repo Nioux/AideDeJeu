@@ -49,7 +49,7 @@ namespace AideDeJeu.Pdf
             }
         }
 
-        public async Task<string> MarkdownToPDF(List<string> mds)
+        public async Task<string> MarkdownToPDF(IEnumerable<string> mds)
         {
             var basePath = BasePdfDirectory;
             Directory.CreateDirectory(basePath);
@@ -59,7 +59,7 @@ namespace AideDeJeu.Pdf
             }
             return "test.pdf";
         }
-        public void MarkdownToPdf(List<string> mds, Stream stream)
+        public void MarkdownToPdf(IEnumerable<string> mds, Stream stream)
         {
             var pipeline = new Markdig.MarkdownPipelineBuilder().UseYamlFrontMatter().UsePipeTables().Build();
 

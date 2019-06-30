@@ -17,6 +17,7 @@
     <MasterDetailPage.ToolbarItems>
         <ToolbarItem Name="Filter" Text="Filtrer" Order="Primary" Icon="funnel.png" Clicked="Button_Clicked" />
         <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
+        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Secondary" Icon="round_star.png" Command="{Binding Main.Navigator.GenerateItemsPDFCommand}" CommandParameter="{Binding Children}" />
     </MasterDetailPage.ToolbarItems>
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
