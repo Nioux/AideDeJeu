@@ -13,7 +13,7 @@
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.2.0" />
     <PackageReference Include="sqlite-net-pcl" Version="1.6.258-beta" />
     <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
-    <PackageReference Include="Xamarin.Forms" Version="4.0.0.540366" />
+    <PackageReference Include="Xamarin.Forms" Version="4.1.0.555618" />
     <PackageReference Include="XamiTextSharpLGPLv2" Version="1.0.0" />
   </ItemGroup>
 

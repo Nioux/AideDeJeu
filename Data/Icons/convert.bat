@@ -45,10 +45,12 @@ call convertone.bat rolling_dice_cup rolling-dice-cup
 
 call convertone.bat battle_axe battle-axe
 
-:nouveau
-
 call convertone.bat share share
 
 call convertone.bat cancel cancel
+
+:nouveau
+
+call convertone.bat scroll_unfurled scroll-unfurled
 
 pause

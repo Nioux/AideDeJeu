@@ -17,8 +17,8 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Secondary" Icon="round_star.png" Command="{Binding Main.Navigator.GeneratePDFCommand}" CommandParameter="{Binding BindingContext.Items.Markdown, Source={x:Reference This}}" />
         <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
+        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding Main.Navigator.GeneratePDFCommand}" CommandParameter="{Binding BindingContext.Items.Markdown, Source={x:Reference This}}" />
     </ContentPage.ToolbarItems>
     <Grid>
         <ScrollView Orientation="Vertical">
