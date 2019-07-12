@@ -771,7 +771,7 @@ namespace AideDeJeuCmd
                 using (var stream = new FileStream("test.pdf", FileMode.Create))
                 {
                     //pdfService.MarkdownToPdf("# mon titre\n\nhop", stream);
-                    pdfService.MarkdownToPdf(spells.Select(s => s.Markdown).Take(3).ToList(), stream);
+                    await pdfService.MarkdownToPdf(spells.Select(s => s.Markdown).Take(3).ToList(), stream);
                     //pdfService.MarkdownToPdf(new List<string>() { item.Markdown }, stream);
                     //var stream = new MemoryStream();
                     //pce.GeneratePdfToStream(pc, stream);

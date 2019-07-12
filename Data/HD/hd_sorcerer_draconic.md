@@ -20,7 +20,7 @@ Certaines de ces lignées sont bien établies, mais la plupart du temps elles so
 
 
 
-## [Lignée draconique](hd_sorcerer_draconic.md)
+## [Lignées draconiques](hd_sorcerer_draconic_lignees_draconiques.md)
 
 
 

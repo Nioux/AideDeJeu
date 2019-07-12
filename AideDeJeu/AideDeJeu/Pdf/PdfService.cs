@@ -1,4 +1,5 @@
 ﻿using AideDeJeu.Tools;
+using AideDeJeu.ViewModels;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
 using Markdig;
@@ -10,6 +11,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
@@ -38,9 +40,6 @@ namespace AideDeJeu.Pdf
 
         }
 
-        Document _Document = null;
-        PdfWriter _Writer = null;
-
         public string BasePdfDirectory
         {
             get
@@ -49,23 +48,48 @@ namespace AideDeJeu.Pdf
             }
         }
 
+        public async Task<string> MarkdownToPDF(IEnumerable<AideDeJeuLib.Item> items)
+        {
+            return await MarkdownToPDF(items.Select(it => it.Markdown));
+        }
+        public async Task MarkdownToPDF(IEnumerable<AideDeJeuLib.Item> items, Stream stream)
+        {
+            await MarkdownToPdf(items.Select(it => it.Markdown), stream);
+        }
+
         public async Task<string> MarkdownToPDF(IEnumerable<string> mds)
         {
             var basePath = BasePdfDirectory;
             Directory.CreateDirectory(basePath);
             using (var stream = new FileStream(Path.Combine(BasePdfDirectory, "test.pdf"), FileMode.Create))
             {
-                MarkdownToPdf(mds, stream);
+                await MarkdownToPdf(mds, stream);
             }
             return "test.pdf";
         }
-        public void MarkdownToPdf(IEnumerable<string> mds, Stream stream)
+
+        public async Task<string> ExpandMarkdownAsync(string mdIn)
+        {
+            var store = DependencyService.Get<StoreViewModel>();
+            var regex = new Regex("\\n##* \\[.*?\\]\\((?<id>.*?)\\)");
+            var matches = regex.Matches(mdIn);
+            var mdOut = mdIn;
+            foreach (Match match in matches)
+            {
+                var id = match.Groups["id"].Value;
+                var item = await store.GetItemFromDataAsync(id);
+                var mdReplace = await ExpandMarkdownAsync(item.Markdown);
+                mdOut = mdOut.Replace(match.Value, mdReplace);
+            }
+            return mdOut;
+        }
+        public async Task MarkdownToPdf(IEnumerable<string> mds, Stream stream)
         {
             var pipeline = new Markdig.MarkdownPipelineBuilder().UseYamlFrontMatter().UsePipeTables().Build();
 
-            _Document = new Document(new iTextSharp.text.Rectangle(822, 1122));
-            _Writer = PdfWriter.GetInstance(_Document, stream);
-            _Document.Open();
+            var document = new Document(new iTextSharp.text.Rectangle(822, 1122));
+            var writer = PdfWriter.GetInstance(document, stream);
+            document.Open();
             //PdfReader reader = null;
             //reader = new PdfReader(AideDeJeu.Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.poker_size.pdf"));
             //PdfStamper stamper = null;
@@ -73,12 +97,13 @@ namespace AideDeJeu.Pdf
 
             foreach (var md in mds)
             {
-                var parsed = Markdig.Markdown.Parse(md, pipeline);
-                Render(parsed.AsEnumerable(), _Document);
+                var expandedMd = await ExpandMarkdownAsync(md);
+                var parsed = Markdig.Markdown.Parse(expandedMd, pipeline);
+                Render(parsed.AsEnumerable(), document, writer);
             }
 
-            _Document.Close();
-            _Writer.Close();
+            document.Close();
+            writer.Close();
             //stamper.Close();
             //reader.Close();
         }
@@ -187,7 +212,7 @@ namespace AideDeJeu.Pdf
             }
         }
 
-        private void Render(IEnumerable<Block> blocks, Document document)
+        private void Render(IEnumerable<Block> blocks, Document document, PdfWriter writer)
         {
             //if(ParagraphFont == null)
             //{
@@ -219,7 +244,7 @@ namespace AideDeJeu.Pdf
             var phrases = Render(blocks);
 
 
-            ColumnText ct = new ColumnText(_Writer.DirectContent);
+            ColumnText ct = new ColumnText(writer.DirectContent);
 
             int column = 0;
             ct.SetSimpleColumn(10, 10 + 200 * column, 200, 200 + 200 * column);

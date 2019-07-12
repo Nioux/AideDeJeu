@@ -31,7 +31,7 @@ De plus, à chaque fois que vous faites un test de [Charisme] alors que vous int
 
 <!--GenericItem-->
 
-## <!--Name-->Lignée draconique<!--/Name-->
+## <!--Name-->Lignées draconiques<!--/Name-->
 
 |Dragon|Type de dégâts|
 |---|---|

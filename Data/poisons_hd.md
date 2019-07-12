@@ -22,7 +22,7 @@
 
 <!--GenericItem-->
 
-#### <!--Name-->Les poisons<!--/Name-->
+#### <!--Name-->Liste de poisons<!--/Name-->
 
 |Objet|Type|Prix pour <!--br-->une dose|
 |---|---|---|

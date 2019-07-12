@@ -20,12 +20,12 @@ SubItems:
   Speed: 3m, nage 12m, vol 12m (uniquement sous forme éthérée, vol stationnaire)
   SavingThrows: Con +6, Int +8, Sag +6
   Skills: Histoire +12, Perception +10
-  Senses: vision dans le noir 36m, Perception passive 20
-  Languages: langue du Vide, télépathie 36m
-  Challenge: 12 (8400 PX)
   DamageResistances: d’acide, de feu, de foudre, de tonnerre (seulement sous sa forme éthérée); contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de froid, nécrotiques, de poison; contondants, perforants et tranchants infligés par des armes non magiques (seulement sous sa forme éthérée)
   ConditionImmunities: charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
+  Senses: vision dans le noir 36m, Perception passive 20
+  Languages: langue du Vide, télépathie 36m
+  Challenge: 12 (8400 PX)
   Id: tome_of_beasts.md#nihileth
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -282,12 +282,12 @@ SubItems:
   HitPoints: 22 (3d8+9)
   Speed: 6m, nage 9m
   SavingThrows: Sag +0
-  Senses: vision dans le noir 18m, Perception passive 8
-  Languages: comprend la langue du Vide et toutes les langues qu’il connaissait de son vivant mais ne peut pas parler
-  Challenge: 1 (200 PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de froid, nécrotiques, de poison; contondants, perforants et tranchants infligés par des armes non magiques (uniquement sous forme éthérée)
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 18m, Perception passive 8
+  Languages: comprend la langue du Vide et toutes les langues qu’il connaissait de son vivant mais ne peut pas parler
+  Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#zombi-nihilethique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -465,11 +465,11 @@ SubItems:
   HitPoints: 127 (15d8+60)
   Speed: 9m, vol12m
   Skills: Athétisme +8, Discrétion +6, Perception +9
+  DamageImmunities: de foudre, de poison, de tonnerre
+  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18m, Perception passive 19
   Languages: commun, draconique
   Challenge: 8 (3900 PX)
-  DamageImmunities: de foudre, de poison, de tonnerre
-  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#ala
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -625,12 +625,12 @@ SubItems:
   Speed: 12m, vol 12 m
   SavingThrows: Dex +6, Con +8, Sag +7, Cha +8
   Skills: Athletisme +9, Investigation +5, Perception +7, Perspicacité +7
-  Senses: vision dans le noir 18m, Perception passive 17
-  Languages: commun, céleste, draconique, infernal
-  Challenge: 10 (5900 PX)
   DamageResistances: d’acide, de froid, de foudre
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
+  Senses: vision dans le noir 18m, Perception passive 17
+  Languages: commun, céleste, draconique, infernal
+  Challenge: 10 (5900 PX)
   Id: tome_of_beasts.md#algorith
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -1274,11 +1274,11 @@ SubItems:
   Speed: 18m, fouissement 6m, escalade 6m, nage 18m
   SavingThrows: Con +12, Sag +9, Cha +11
   Skills: Arcanes +5, Perception +9, Religion +5
+  DamageResistances: d’acide, de froid, de feu, de foudre
+  DamageImmunities: psychiques
   Senses: vision dans le noir 18m, perception des vibrations 36m, Perception passive 19
   Languages: commun, céleste, géant, sylvestre
   Challenge: 15 (13000 PX)
-  DamageResistances: d’acide, de froid, de feu, de foudre
-  DamageImmunities: psychiques
   Id: tome_of_beasts.md#andrenjinyi
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -1481,12 +1481,12 @@ SubItems:
   HitPoints: 85 (10d8+40)
   Speed: 15m
   Skills: Discrétion +8, Perception +4
-  Senses: vision dans le noir 18m, Perception passive 14
-  Languages: toutes les langues qu’il connaissait de son vivant
-  Challenge: 6 (2300 PX)
   DamageResistances: nécrotiques; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé, terrorisé
+  Senses: vision dans le noir 18m, Perception passive 14
+  Languages: toutes les langues qu’il connaissait de son vivant
+  Challenge: 6 (2300 PX)
   Id: tome_of_beasts.md#angatra
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -1640,11 +1640,11 @@ SubItems:
   Speed: 9m, vol 18m
   SavingThrows: Dex +6, Sag +7, Cha +8
   Skills: Perception +7
+  DamageResistances: perforants
+  DamageImmunities: de feu, radiants
   Senses: vision dans le noir 60m, Perception passive 17
   Languages: commun, céleste, infernal
   Challenge: 8 (3900 PX)
-  DamageResistances: perforants
-  DamageImmunities: de feu, radiants
   Id: tome_of_beasts.md#ange-enchaîné
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -1810,12 +1810,12 @@ SubItems:
   Speed: 12m, vol 12m (forme d’ange), ou 3m, vol 24m (forme d’aigle)
   SavingThrows: Dex +7, Con +5, Int +5, Sag +6, Cha +7
   Skills: Perception +6, Perspicacité +6
-  Senses: vision dans le noir 18m, Perception passive 16
-  Languages: commun, céleste, infernal
-  Challenge: 5 (1800 PX)
   DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: d’acide, de froid
   ConditionImmunities: charmé, empoisonné, pétrifié
+  Senses: vision dans le noir 18m, Perception passive 16
+  Languages: commun, céleste, infernal
+  Challenge: 5 (1800 PX)
   Id: tome_of_beasts.md#ange-fidèle
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -2048,11 +2048,11 @@ SubItems:
   HitPoints: 44 (8d8+8)
   Speed: 9m
   Skills: Discrétion +5 (+7 dans un terrain sablonneux)
-  Senses: vision dans le noir 18m, perception des vibrations 9, Perception passive 11
-  Challenge: 2 (450 PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié
+  Senses: vision dans le noir 18m, perception des vibrations 9, Perception passive 11
+  Challenge: 2 (450 PX)
   Id: tome_of_beasts.md#anubien
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -2200,12 +2200,12 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 44 (8d8+8)
   Speed: 9m
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Languages: —
-  Challenge: 2 (450PX)
   DamageResistances: contondants et perforants issus d’armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: —
+  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#apparition-putride
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -2348,11 +2348,11 @@ SubItems:
   HitPoints: 2 (1d4)
   Speed: 9 m, escalade 9 m
   Skills: Perception +2, Discrétion +5
+  DamageImmunities: psychiques
+  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: —
   Challenge: 1/4 (50 PX)
-  DamageImmunities: psychiques
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#araignée-À-lignes-rouges
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -2496,11 +2496,11 @@ SubItems:
   Speed: 9 m, escalade 6 m
   SavingThrows: Dex+6, Con +6, Int +6
   Skills: Athlétisme +5, Perception +3, Discrétion +6
+  DamageResistances: de poison
+  ConditionImmunities: charmé, empoisonné, inconscient
   Senses: vision dans le noir 72 m, Perception passive 13
   Languages: commun, langue du Vide
   Challenge: 7 (2 900PX)
-  DamageResistances: de poison
-  ConditionImmunities: charmé, empoisonné, inconscient
   Id: tome_of_beasts.md#araignée-de-leng
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -2997,12 +2997,12 @@ SubItems:
   Speed: 15 m, escalade 15 m
   SavingThrows: Dex +9, Cha +3
   Skills: Perception +6
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 16
-  Languages: comprend le commun des profondeurs mais ne peut pas parler
-  Challenge: 9 (5 000PX)
   DamageResistances: d’acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: empoisonnéparalysé, pétrifié, à terre, entravé, étourdi La marchespectre se termine quand l’araignée décide d’y mettre un terme par une action bonus ou quand elle meurt.
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 16
+  Languages: comprend le commun des profondeurs mais ne peut pas parler
+  Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#araignée-marchespectre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -3180,12 +3180,12 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 54 (12d6+12)
   Speed: 9 m, escalade 6 m
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Languages: comprend le commun mais ne peut pas parler
-  Challenge: 2 (450PX)
   DamageResistances: de feu
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: comprend le commun mais ne peut pas parler
+  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#araignée-voleuse
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -3339,11 +3339,11 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 152 (16d10+64)
   Speed: 1,50m
+  DamageImmunities: Un arbre feuilledragon possède les mêmes immunités que son géniteur. Les arbres couleur noir, cuivre et vert sont immunisés contre les dégâts d’acide ; les arbres couleur bleu et bronze sont immunisés contre les dégâts de foudre ; les arbres couleur laiton, or et rouge sont immunisés contre les dégâts de feu ; et les arbres couleur argent et blanc sont immunisés contre les dégâts de froid.
+  ConditionImmunities: assourdi et aveuglé
   Senses: vision aveugle 36 m, Perception passive 11
   Languages: peut comprendre les mêmes langues que son créateur ou son maître désigné
   Challenge: 8 (3 900PX)
-  DamageImmunities: Un arbre feuilledragon possède les mêmes immunités que son géniteur. Les arbres couleur noir, cuivre et vert sont immunisés contre les dégâts d’acide ; les arbres couleur bleu et bronze sont immunisés contre les dégâts de foudre ; les arbres couleur laiton, or et rouge sont immunisés contre les dégâts de feu ; et les arbres couleur argent et blanc sont immunisés contre les dégâts de froid.
-  ConditionImmunities: assourdi et aveuglé
   Id: tome_of_beasts.md#arbre-feuilledragon
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -3486,11 +3486,11 @@ SubItems:
   HitPoints: 94 (9d12+36)
   Speed: 6 m
   SavingThrows: Con +7, Sag +3, Cha +1
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: —
   Challenge: 8 (3 900PX)
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#arbre-pare-fées
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -3958,12 +3958,12 @@ SubItems:
   ArmorClass: 13
   HitPoints: 39 (6d8+12)
   Speed: 9m
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Languages: comprend les langues qu’il parlait de son vivant mais ne peut pas parler
-  Challenge: 2 (450PX)
   DamageResistances: contondants et nécrotiques
   DamageImmunities: de feu, de poison
   ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: comprend les langues qu’il parlait de son vivant mais ne peut pas parler
+  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#assoiffeur-gris
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4112,11 +4112,11 @@ SubItems:
   HitPoints: 7 (2d6)
   Speed: 9m
   Skills: Histoire +4, Investigation +4
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné
   Senses: vision aveugle 18 m, vision parfaite 3 m, Perception passive 11
   Languages: commun, langue des machines
   Challenge: 1/2 (100 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné
   Id: tome_of_beasts.md#automate-bibliothécaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4380,10 +4380,10 @@ SubItems:
   Speed: 9 m
   SavingThrows: Dex +8, Con +8, Cha +12
   Skills: Perception +7, Performance +12, Persuasion +12, Supercherie +12
+  DamageImmunities: de feu
   Senses: Perception passive 17
   Languages: commun, draconique, elfique, sylvestre
   Challenge: 11 (7 200 PX)
-  DamageImmunities: de feu
   Id: tome_of_beasts.md#beauté-abominable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4533,10 +4533,10 @@ SubItems:
   Speed: 6m, escalade6m
   SavingThrows: Dex +5
   Skills: Athlétisme +5, Discrétion +5
+  DamageResistances: de froid, de feu, de foudre
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: behtu, commun, infernal
   Challenge: 2 (450 PX)
-  DamageResistances: de froid, de feu, de foudre
   Id: tome_of_beasts.md#behtu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4684,11 +4684,11 @@ SubItems:
   Speed: 9m, vol 9m
   SavingThrows: Dex +5
   Skills: Discrétion +5, Perception +4
+  DamageImmunities: de froid
   Senses: vision dans le noir 18m, Perception passive 14
   Languages: commun, géant, nain
   Challenge: 2 (450 PX)
   DamageVulnerabilities: de feu
-  DamageImmunities: de froid
   Id: tome_of_beasts.md#béli
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4861,11 +4861,11 @@ SubItems:
   HitPoints: 90 (20d8)
   Speed: 9 m, nage 12 m
   SavingThrows: Dex +6, Cha +7
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Challenge: 5 (1 800PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#belle-noyée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -5033,10 +5033,10 @@ SubItems:
   Speed: 6m, vol 18m
   SavingThrows: Dex +7
   Skills: Discrétion +9, Perception +5
+  DamageImmunities: contondants
   Senses: vision dans le noir 18m, Perception passive 15
   Languages: commun, elfique, sylvestre
   Challenge: 4 (1100 PX)
-  DamageImmunities: contondants
   Id: tome_of_beasts.md#béreginyas
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -5776,12 +5776,12 @@ SubItems:
   Speed: 15m, vol 36m
   SavingThrows: Dex +12, Sag +10, Cha +11
   Skills: Discrétion +12, Nature +10, Perception +10, Supercherie +11
-  Senses: vision dans le noir 18m, vision parfaite 36m, Perception passive 20
-  Languages: commun, géant, infernal, nain
-  Challenge: 17 (18000 PX)
   DamageResistances: d’acide
   DamageImmunities: de froid, de foudre, de poison, de tonnerre
   ConditionImmunities: empoisonné, petrifié
+  Senses: vision dans le noir 18m, vision parfaite 36m, Perception passive 20
+  Languages: commun, géant, infernal, nain
+  Challenge: 17 (18000 PX)
   Id: tome_of_beasts.md#avatar-de-borée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -6160,12 +6160,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+5, Con +7, Sag +4, Cha +5
   Skills: Athlétisme +7, Discrétion +5, Intimidation +5, Perception +4, Supercherie +5
-  Senses: vision dans le noir 36m, Perception passive 14
-  Languages: commun, céleste, infernal, nurien; télépathie30m
-  Challenge: 5 (1800 PX)
   DamageResistances: d’acide, de foudre; contondants, perforants, et tranchants infligés par des armes non magiques qui ne sont pas en argent.
   DamageImmunities: de feu, de poison
   ConditionImmunities: charmé, empoisonné, épuisé
+  Senses: vision dans le noir 36m, Perception passive 14
+  Languages: commun, céleste, infernal, nurien; télépathie30m
+  Challenge: 5 (1800 PX)
   Id: tome_of_beasts.md#bouda
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -6391,12 +6391,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+10, Con +8, Cha+9
   Skills: Acrobaties +10, Supercherie +9, Perception +7, Représentation +9, Escamotage +10, Discrétion +10
-  Senses: vision dans le noir 18 m, Perception passive 17
-  Languages: abyssal, céleste, commun, gnome ; télépathie 18 m
-  Challenge: 11 (7 200PX)
   DamageResistances: de froid
   DamageImmunities: nécrotiques, de poison; contondants, perforants et tranchants issus d’armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 17
+  Languages: abyssal, céleste, commun, gnome ; télépathie 18 m
+  Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#bouffon-macabre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -6570,11 +6570,11 @@ SubItems:
   Speed: 18m, vol 27m
   SavingThrows: Con +9, Sag +8, Cha +9
   Skills: Histoire +8, Religion +8
+  DamageResistances: radiants; contondants, perforants, et tranchants infligés par des armes non magiques.
+  ConditionImmunities: charmé, épuisé, terrorisé
   Senses: vision parfaite 36m, Perception passive 14
   Languages: céleste, commun, primordial, télépathie 36m
   Challenge: 11 (7200 PX)
-  DamageResistances: radiants; contondants, perforants, et tranchants infligés par des armes non magiques.
-  ConditionImmunities: charmé, épuisé, terrorisé
   Id: tome_of_beasts.md#bouraq
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -6758,12 +6758,12 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 76(8d10+32)
   Speed: 1,50m
+  DamageResistances: contondants et perforants
+  ConditionImmunities: assourdi et aveuglé
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 10
   Languages: comprend le sylvestre mais ne peut pas parler
   Challenge: 3 (700 PX)
-  DamageResistances: contondants et perforants
   DamageVulnerabilities: de feu
-  ConditionImmunities: assourdi et aveuglé
   Id: tome_of_beasts.md#cactide
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -6907,11 +6907,11 @@ SubItems:
   Speed: 12m
   SavingThrows: Dex +8, Con +11, Int +8, Sag +8, Cha +9
   Skills: Arcanes +8, Discrétion+8, Médecine +8, Perception+8, Perspicacité+8, Supercherie+9
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné et épuisé
   Senses: vision dans le noir 18 m, Perception passive 18
   Languages: commun, draconique, infernal
   Challenge: 14 (11 500PX)
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné et épuisé
   Id: tome_of_beasts.md#cambium
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -7399,11 +7399,11 @@ SubItems:
   Speed: 12m
   SavingThrows: Con +6
   Skills: Athlétisme +8, Intimidation +5
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
+  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, sylvestre, commun des profondeurs
   Challenge: 6 (2 300PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#chapeau-rouge
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -7734,11 +7734,11 @@ SubItems:
   Speed: 12 m, escalade 9 m
   SavingThrows: Dex+6, Sag +5, Cha+5
   Skills: Acrobaties+6, Athlétisme+9, Discrétion +6, Perception+5
+  DamageImmunities: de poison
+  ConditionImmunities: charmé et empoisonné
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: —
   Challenge: 7 (2 900PX)
-  DamageImmunities: de poison
-  ConditionImmunities: charmé et empoisonné
   Id: tome_of_beasts.md#chélicère
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -7935,10 +7935,10 @@ SubItems:
   HitPoints: 32 (5d4+20)
   Speed: 6 m, vol 6 m
   Skills: Acrobaties+6, Discrétion +6, Perception+2
+  DamageResistances: contondants, perforants et tranchants reçus d’attaques non magiques qui ne sont pas infligées par des armes en argent.
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, draconique, sylvestre
   Challenge: 1 (200 PX)
-  DamageResistances: contondants, perforants et tranchants reçus d’attaques non magiques qui ne sont pas infligées par des armes en argent.
   Id: tome_of_beasts.md#chernomoï
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8214,10 +8214,10 @@ SubItems:
   Speed: 9m
   SavingThrows: For +7, Con +5, Int +2, Sag +5
   Skills: Perception +5
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: comprend le céleste et le commun, mais ne peut pas parler
   Challenge: 5 (1 800PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Id: tome_of_beasts.md#chien-du-temple
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8365,10 +8365,10 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 94 (9d12+36)
   Speed: 12m
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Senses: vision réduite 9 m, Perception passive 12
   Languages: —
   Challenge: 5 (1 800PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Id: tome_of_beasts.md#chiot-mastodonte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8530,11 +8530,11 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 152 (16d10+64)
   Speed: 9m
+  DamageImmunities: de poison; contondants, perforants et tranchants issus d’armes non magiques
+  ConditionImmunities: empoisonné, épuisé, inconscient, paralysé et pétrifié
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: céleste, infernal
   Challenge: 8 (3 900PX)
-  DamageImmunities: de poison; contondants, perforants et tranchants issus d’armes non magiques
-  ConditionImmunities: empoisonné, épuisé, inconscient, paralysé et pétrifié
   Id: tome_of_beasts.md#chronomentaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8689,10 +8689,10 @@ SubItems:
   HitPoints: 17 (7d4)
   Speed: 3 m, vol 12 m
   Skills: Discrétion +6, Perception +5
+  DamageResistances: d’acide, de feu et de poison
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: comprend le commun ; télépathie (contact)
   Challenge: 1/8 (25 PX)
-  DamageResistances: d’acide, de feu et de poison
   Id: tome_of_beasts.md#cikavak
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8830,12 +8830,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+9
   Skills: Perception +5, Discrétion +9
-  Senses: vision aveugle 9m, Perception passive 15
-  Languages: —
-  Challenge: 6 (2 300PX)
   DamageResistances: d’acide, de feu, de froid; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: nécrotiques, de poison et psychiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Senses: vision aveugle 9m, Perception passive 15
+  Languages: —
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#claquepiège
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8978,10 +8978,10 @@ SubItems:
   HitPoints: 22 (4d4+12)
   Speed: 9m
   Skills: Discrétion +3, Perception +1,
+  ConditionImmunities: empoisonné et terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, elfique, sylvestre
   Challenge: 1/4 (50 PX)
-  ConditionImmunities: empoisonné et terrorisé
   Id: tome_of_beasts.md#clurichaun
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9135,11 +9135,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 95 (10d10+40)
   Speed: 6 m
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: comprend les langues de son créateur, mais ne peut pas parler
   Challenge: 7 (2 900PX)
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#colonne-possédée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9295,12 +9295,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +8
   Skills: Arcanes +5, Discrétion +11, Perception +3, Supercherie +6
-  Senses: vision dans le noir 36m, Perception passive 13
-  Languages: commun, darakhul
-  Challenge: 8 (3900 PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent.
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: épuisé, empoisonné
+  Senses: vision dans le noir 36m, Perception passive 13
+  Languages: commun, darakhul
+  Challenge: 8 (3900 PX)
   Id: tome_of_beasts.md#conglomérat-osseux
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9491,10 +9491,10 @@ SubItems:
   HitPoints: 75 (10d8+30)
   Speed: 9 m, nage 6 m
   Skills: Perception +1, Discrétion +4
+  ConditionImmunities: charmé, inconscient
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: géant, sylvestre
   Challenge: 2 (450PX)
-  ConditionImmunities: charmé, inconscient
   Id: tome_of_beasts.md#coquicape
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9658,12 +9658,12 @@ SubItems:
   HitPoints: 55 (10d4+30)
   Speed: 6m, escalade 6m
   Skills: Discrétion +6, Perception +4
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Languages: —
-  Challenge: 1 (200 PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques.
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: —
+  Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#couveteux
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9807,11 +9807,11 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 18 (4d4+8)
   Speed: 9 m, nage 6 m
+  DamageImmunities: psychiques
+  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: —
   Challenge: 1/4 (50 PX)
-  DamageImmunities: psychiques
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#crabe-garrotteur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9936,10 +9936,10 @@ SubItems:
   HitPoints: 33 (6d6+12)
   Speed: 6 m, nage 3m
   Skills: Discrétion +4, Perception +3
+  DamageResistances: contondants
   Senses: vision dans le noir 18m, Perception passive 13
   Languages: —
   Challenge: 1/2 (100 PX)
-  DamageResistances: contondants
   Id: tome_of_beasts.md#crabe-osseux
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -10589,12 +10589,12 @@ SubItems:
   Speed: 9 m
   SavingThrows: Con +5, Cha +9
   Skills: Supercherie +9, Persuasion +9, Discrétion +6
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
+  DamageImmunities: de froid
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, géant, sylvestre
   Challenge: 6 (2 300PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   DamageVulnerabilities: de feu
-  DamageImmunities: de froid
   Id: tome_of_beasts.md#demoiselle-glacée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -10822,13 +10822,13 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex+7, Con +7, Sag +4
   Skills: Discrétion +7, Intimidation +5, Perception +4
+  DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné, terrorisé
   Senses: vision dans le noir 36 m, Perception passive 14
   Languages: infernal, simien, télépathie 36 m
   Challenge: 6 (2 300PX)
-  DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
   DamageVulnerabilities: de froid
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné, terrorisé
   Id: tome_of_beasts.md#apau-perape
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11018,12 +11018,12 @@ SubItems:
   Speed: 12 m, fouissement 6 m
   SavingThrows: For +10, Sag +6, Cha +8
   Skills: Discrétion +4 (+8 en terrain boisé), Nature +10, Supercherie +8, Survie +6
-  Senses: vision dans le noir 36 m, Perception passive 12
-  Languages: abyssal, commun, sylvestre ; télépathie 36 m
-  Challenge: 11 (7 200PX)
   DamageResistances: d’acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de foudre, de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 36 m, Perception passive 12
+  Languages: abyssal, commun, sylvestre ; télépathie 36 m
+  Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#berstuc
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11189,11 +11189,11 @@ SubItems:
   ArmorClass: 13 (naturelle)
   HitPoints: 67 (15d6+15)
   Speed: 6 m, escalade 6 m
-  Senses: vision aveugle 27 m (aveugle au-delà de cette distance), Perception passive 12
-  Challenge: 4 (1 100PX)
   DamageResistances: perforants et tranchants issus d’armes non magiques
   DamageImmunities: contondants, d’acide, de foudre
   ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, à terre
+  Senses: vision aveugle 27 m (aveugle au-delà de cette distance), Perception passive 12
+  Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#démon-de-sève
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11337,12 +11337,12 @@ SubItems:
   Speed: 15 m
   SavingThrows: Dex+8, Con +7, Sag +3
   Skills: Perception +3, Représentation +9, Supercherie +9
-  Senses: vision dans le noir 36 m, Perception passive 13
-  Languages: céleste, commun, draconique, infernal, télépathie 36 m
-  Challenge: 8 (3 900PX)
   DamageResistances: de froid, de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 36 m, Perception passive 13
+  Languages: céleste, commun, draconique, infernal, télépathie 36 m
+  Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#démon-kishi
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11555,12 +11555,12 @@ SubItems:
   HitPoints: 102 (12d8+48)
   Speed: 12m
   SavingThrows: Dex +7, Sag +7
-  Senses: vision parfaite 9m, Perception passive 17
-  Languages: abyssal ; télépathie 36 m
-  Challenge: 9 (5 000PX)
   DamageResistances: de froid, de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de feu, radiants, de poison
   ConditionImmunities: aveuglé et empoisonné
+  Senses: vision parfaite 9m, Perception passive 17
+  Languages: abyssal ; télépathie 36 m
+  Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#malakbel
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11728,12 +11728,12 @@ SubItems:
   Speed: 12 m, vol 18 m
   SavingThrows: Dex +9, Con +8, Sag +7, Cha +7
   Skills: Acrobaties +9, Discrétion +9, Intimidation +7, Perception +6
-  Senses: vision aveugle 9 m, vision dans le noir 18 m, Perception passive 16
-  Languages: commun, infernal ; télépathie 18 m
-  Challenge: 7 (2 900PX)
   DamageResistances: de froid, de foudre
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  Senses: vision aveugle 9 m, vision dans le noir 18 m, Perception passive 16
+  Languages: commun, infernal ; télépathie 18 m
+  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#démon-psoglav
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11907,12 +11907,12 @@ SubItems:
   Speed: 15 m12 m, fouissement 6 m, escalade12 m, vol 12 m
   SavingThrows: Dex+6, Con +6, Sag +5For +9, Dex+7, Con +10, Sag +6, Cha +11
   Skills: Perception +5, Supercherie +8, Survie +5
-  Senses: vision aveugle 3m, vision dans le noir 36 m, Perception passive 15vision dans le noir 36 m, vision parfaite 18m, Perception passive 16
-  Languages: abyssal, commun ; télépathie 36 mabyssal, commun, draconique, elfe, infernal ; télépathie 18 m
-  Challenge: 10 (5 900 PX)12 (8 400 PX)
   DamageResistances: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiquesd’acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de foudre, de tonnerre, de poisonde froid, de foudre, de poison
   ConditionImmunities: empoisonné, étourdiempoisonné
+  Senses: vision aveugle 3m, vision dans le noir 36 m, Perception passive 15vision dans le noir 36 m, vision parfaite 18m, Perception passive 16
+  Languages: abyssal, commun ; télépathie 36 mabyssal, commun, draconique, elfe, infernal ; télépathie 18 m
+  Challenge: 10 (5 900 PX)12 (8 400 PX)
   Id: tome_of_beasts.md#rübezahl
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -12274,13 +12274,13 @@ SubItems:
   Speed: 9 m, escalade 4,50 m6 m, vol 30 m9 m, escalade 9 m, vol 24 m
   SavingThrows: Dex+11, Con +13, Sag +12Dex +13, Con +14, Sag +13, Cha +14
   Skills: Discrétion +11, Perception +12, Supercherie +10Acrobaties +13, Athlétisme +17, Intimidation +14, Perception +13, Perspicacité +13, Supercherie +14
+  DamageResistances: de feu et de foudred’acide, de foudre; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de poisonde froid, de poison; contondants, perforants et tranchants infligés par des armes non magiquesde feu, de poison et de foudre
+  ConditionImmunities: empoisonnécharmé, empoisonné, épuisé, terroriséassourdi, charmé, empoisonné, étourdi, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 10vision parfaite 36 m, Perception passive 22vision aveugle 36 m, vision dans le noir 12 m, Perception passive 23
   Languages: infernal, rejeton d’Akyishigaltoutes ; télépathie 36 mcommun, darakhul, derro, draconique, infernal, langue du vide, nain, nurien, primordial ; télépathie 90 m
   Challenge: 5 (1 800PX)21 (33 000 PX)22 (62000 PX)
-  DamageResistances: de feu et de foudred’acide, de foudre; contondants, perforants et tranchants infligés par des armes non magiques
   DamageVulnerabilities: de froid
-  DamageImmunities: de poisonde froid, de poison; contondants, perforants et tranchants infligés par des armes non magiquesde feu, de poison et de foudre
-  ConditionImmunities: empoisonnécharmé, empoisonné, épuisé, terroriséassourdi, charmé, empoisonné, étourdi, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#rejeton-d’akyishigal
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -12836,13 +12836,13 @@ SubItems:
   Speed: 3 m, vol 12 m18 m, escalade 18 m15 m, fouissement 15 m, escalade 9 m
   SavingThrows: For +17, Dex +12,Sag +12Dex +5, Con +15, Sag +11, Cha +11
   Skills: Arcanes +12, Intimidation+14, Perception +12, Perspicacité +12, Religion+12Perception +11
+  DamageResistances: de froid, de feu et de foudre
+  DamageImmunities: de poisond’acide, de feu, de foudre, de poison ; contondants, perforants et tranchants infligés par des armes non magiquesde poison; contondants, perforants et tranchants infligés par des armes non magiques
+  ConditionImmunities: empoisonnécharmé, empoisonné, étourdi, terroriséaveuglé, charmé, empoisonné, épuisé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 13vision parfaite 36 m, Perception passive 22vision aveugle 36m, perception des vibrations 36 m, Perception passive 21
   Languages: céleste, commun, draconique, infernal, primordial ; télépathie 90mtoutes ; télépathie 36 m
   Challenge: 1/2 (100 PX)27 (105000 PX)23 (50000 PX)
-  DamageResistances: de froid, de feu et de foudre
   DamageVulnerabilities: de froid
-  DamageImmunities: de poisond’acide, de feu, de foudre, de poison ; contondants, perforants et tranchants infligés par des armes non magiquesde poison; contondants, perforants et tranchants infligés par des armes non magiques
-  ConditionImmunities: empoisonnécharmé, empoisonné, étourdi, terroriséaveuglé, charmé, empoisonné, épuisé, terrorisé
   Id: tome_of_beasts.md#chauve-souris-de-peau
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -13555,11 +13555,11 @@ SubItems:
   HitPoints: 2 (4d4 - 8)
   Speed: 1,50 m (0 en cage)
   SavingThrows: Sag +3, Cha +7
+  DamageImmunities: psychiques
+  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: —
   Challenge: 4 (1 100PX)
-  DamageImmunities: psychiques
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#savant-fœtal-derro
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -13709,12 +13709,12 @@ SubItems:
   Speed: 9 m, vol 30 m12 m, fouissement 6 m, escalade12 m, vol 24 m (vol stationnaire)
   SavingThrows: Dex+9, Con +5, Cha+3Dex +12, Con +14, Sag +12, Cha +14
   Skills: Intimidation +3, Perception +3, Discrétion+9Discrétion +12, Perspicacité +12, Perception+12, Supercherie +14
-  Senses: vision dans le noir 18 m, Perception passive 13 Langue infernalvision parfaite 36 m, Perception passive 22
-  Languages: céleste, commun, draconique, infernal ; télépathie 36 m
-  Challenge: 7 (2 900PX)21 (33 000 PX)
   DamageResistances: contondants, perforants et tranchants issus d’armes non magiquesd’acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de poisonde feu, de poison
   ConditionImmunities: paralysé, empoisonné, étourdi, inconscientcharmé, empoisonné, étourdi, terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 13 Langue infernalvision parfaite 36 m, Perception passive 22
+  Languages: céleste, commun, draconique, infernal ; télépathie 36 m
+  Challenge: 7 (2 900PX)21 (33 000 PX)
   Id: tome_of_beasts.md#dévoreur-d’Âmes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -14070,13 +14070,13 @@ SubItems:
   Speed: 12 m, escalade 6 m1,50 m, vol 12 m (vol stationnaire)15 m12 m, vol 18 m
   SavingThrows: Dex +10, Con +8, Sag +9, Cha +11Dex +9, Int +14, Sag +13, Cha +16Dex +11, Con +14, Int +15, Sag +13, Cha +11
   Skills: Discrétion +5, Perception +4Arcanes +10, Perception +9, Perspicacité +9, Persuasion +11, Supercherie +11Perception +13, Perspicacité +13, Persuasion +16, Supercherie +16Arcanes +15, Histoire +15, Investigation +15, Perception +13, Religion +15
+  DamageResistances: de froidcontondants, perforants et tranchants issus d’armes non magiques
+  DamageImmunities: de poisonde feu, de poison ; contondants, perforants et tranchantsde feu, de poison ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argentde feu, de poison
+  ConditionImmunities: empoisonnéà terre, charmé, empoisonné, entravé, étourdi, paralysé, pétrifié, terrorisécharmé, empoisonné, épuisé, terroriséempoisonné
   Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 14vision aveugle 3m, vision dans le noir 36 m, Perception passive 19vision parfaite 36 m, Perception passive 23vision parfaite 9 m, vision dans le noir 18m, Perception passive 23
   Languages: commun, draconique, infernal, primordialtoutes ; télépathie 36 mcommun, céleste, draconique, infernal, langue du Vide ; télépathie 36 m
   Challenge: 5 (1 800PX)15 (13 000 PX)25 (75000 PX)24 (62000 PX)
-  DamageResistances: de froidcontondants, perforants et tranchants issus d’armes non magiques
   DamageVulnerabilities: de froid
-  DamageImmunities: de poisonde feu, de poison ; contondants, perforants et tranchantsde feu, de poison ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argentde feu, de poison
-  ConditionImmunities: empoisonnéà terre, charmé, empoisonné, entravé, étourdi, paralysé, pétrifié, terrorisécharmé, empoisonné, épuisé, terroriséempoisonné
   Id: tome_of_beasts.md#rejeton-d’arbeyach
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -14788,12 +14788,12 @@ SubItems:
   Speed: 12m
   SavingThrows: For +11, Dex+7, Con +9, Sag +6, Cha +8
   Skills: Athlétisme +11, Intimidation +8
-  Senses: vision dans le noir 36 m
-  Languages: commun, infernal ; télépathie 30 m
-  Challenge: 10 (5 900 PX)
   DamageResistances: de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 36 m
+  Languages: commun, infernal ; télépathie 30 m
+  Challenge: 10 (5 900 PX)
   Id: tome_of_beasts.md#diable-automate
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -14995,12 +14995,12 @@ SubItems:
   Speed: 9m
   SavingThrows: For +11, Dex+9, Con +12, Int +8, Cha +9
   Skills: Athlétisme +11, Supercherie +9, Perspicacité +9, Perception +9
-  Senses: vision dans le noir 36 m, Perception passive 19
-  Languages: céleste, commun, draconique, infernal, primordial ; télépathie (36 m)
-  Challenge: 12 (8 400 PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de froid, de feu, de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 36 m, Perception passive 19
+  Languages: céleste, commun, draconique, infernal, primordial ; télépathie (36 m)
+  Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#chort
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -15192,12 +15192,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Sag +4, Cha +5
   Skills: Perspicacité +4, Supercherie +8
-  Senses: vision dans le noir 36 m, Perception passive 11
-  Languages: céleste, commun, infernal ; télépathie 36 m
-  Challenge: 6 (2 300PX)
   DamageResistances: d’acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 36 m, Perception passive 11
+  Languages: céleste, commun, infernal ; télépathie 36 m
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#diable-cristallin
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -15399,12 +15399,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+6
   Skills: Arcanes+9, Discrétion +8, Histoire+9, Supercherie+8
-  Senses: vision dans le noir 36 m, Perception passive 9
-  Languages: céleste, commun, draconique, infernal ; télépathie 36 m
-  Challenge: 2 (450PX)
   DamageResistances: de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 36 m, Perception passive 9
+  Languages: céleste, commun, draconique, infernal ; télépathie 36 m
+  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#diable-d’encre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -15596,12 +15596,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+4, Con +7, Cha+5
   Skills: Discrétion +4, Perception +5
-  Senses: vision dans le noir 36 m, Perception passive 15
-  Languages: céleste, commun, gnoll, infernal ; télépathie 36 m
-  Challenge: 6 (2 300PX)
   DamageResistances: d’acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 36 m, Perception passive 15
+  Languages: céleste, commun, gnoll, infernal ; télépathie 36 m
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#diable-de-sel
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -15793,12 +15793,12 @@ SubItems:
   Speed: 9m
   SavingThrows: For +6, Con +6, Sag +7, Cha +6
   Skills: Escamotage +8, Histoire +5, Perspicacité+10, Persuasion +9, Supercherie +9
-  Senses: vision dans le noir 18 m
-  Languages: céleste, commun, draconique, infernal ; télépathie 36 m
-  Challenge: 7 (2 900PX)
   DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 18 m
+  Languages: céleste, commun, draconique, infernal ; télépathie 36 m
+  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#diable-doré
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -16025,12 +16025,12 @@ SubItems:
   HitPoints: 136 (16d10+48)
   Speed: 12m
   SavingThrows: Con +7, Sag +4, Cha +5
-  Senses: vision dans le noir 36 m, Perception passive 10
-  Languages: infernal ; télépathie 36 m
-  Challenge: 11 (7 200PX)
   DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 36 m, Perception passive 10
+  Languages: infernal ; télépathie 36 m
+  Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#koralk-diable-moissonneur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -16202,12 +16202,12 @@ SubItems:
   Speed: 12 m, vol 18 m (vol stationnaire), marche sur la lumière 24 m
   SavingThrows: For +8, Dex+8, Con +8, Sag +5
   Skills: Perception +5
-  Senses: vision dans le noir 36 m, Perception passive 15
-  Languages: céleste, draconique, elfique, infernal, sylvestre ; télépathie 36 m
-  Challenge: 8 (3 900PX)
   DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 36 m, Perception passive 15
+  Languages: céleste, draconique, elfique, infernal, sylvestre ; télépathie 36 m
+  Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#diable-lunaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -16423,12 +16423,12 @@ SubItems:
   Speed: 12m
   SavingThrows: For +13, Dex+7, Con +14, Sag +13
   Skills: Histoire +11, Perception +13, Perspicacité +13, Persuasion +10, Supercherie +10
-  Senses: vision parfaite 27m, Perception passive 23
-  Languages: céleste, commun des profondeurs, darakhul, draconique, géant, infernal, langue du Vide; télépathie 30 m
-  Challenge: 14 (11 500PX)
   DamageResistances: d’acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  Senses: vision parfaite 27m, Perception passive 23
+  Languages: céleste, commun des profondeurs, darakhul, draconique, géant, infernal, langue du Vide; télépathie 30 m
+  Challenge: 14 (11 500PX)
   Id: tome_of_beasts.md#diable-orobas
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -17229,11 +17229,11 @@ SubItems:
   HitPoints: 27 (6d4+12)
   Speed: 6 m, escalade 6 m, nage 6 m
   Skills: Discrétion +7 (+9 en terrain marécageux)
+  DamageResistances: d’acide
+  ConditionImmunities: assourdi, à terre, aveuglé, charmé, épuisé, terrorisé
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 8
   Languages: —
   Challenge: 1/4 (50 PX)
-  DamageResistances: d’acide
-  ConditionImmunities: assourdi, à terre, aveuglé, charmé, épuisé, terrorisé
   Id: tome_of_beasts.md#dipsa
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -17376,11 +17376,11 @@ SubItems:
   HitPoints: 112 (15d8+45)
   Speed: 9 m, escalade 9 m
   SavingThrows: Con +6
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Challenge: 7 (2 900PX)
   DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, empoisonné, épuisé
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#dissimortuum
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -17523,10 +17523,10 @@ SubItems:
   HitPoints: 93 (11d8+44)
   Speed: 9m
   Skills: Intimidation +5, Perception +2
+  DamageImmunities: d’acide, de foudre
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, elfe, nain
   Challenge: 4 (1 100PX)
-  DamageImmunities: d’acide, de foudre
   Id: tome_of_beasts.md#domovoï
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -17796,9 +17796,9 @@ SubItems:
   Speed: 6 m, escalade 4,50 m
   SavingThrows: Dex+6
   Skills: Discrétion +8, Intimidation +2, Perception +3
+  DamageResistances: d’acide, de froid, de foudre
   Senses: vision dans le noir 18 m, Perception passive 13
   Challenge: 4 (1 100PX)
-  DamageResistances: d’acide, de froid, de foudre
   Id: tome_of_beasts.md#dorreq
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -17954,10 +17954,10 @@ SubItems:
   Speed: 12 m, escalade 12 m, vol 24 m
   SavingThrows: Dex +7, Con +11, Sag +7, Cha +10
   Skills: Discrétion +7, Perception +12, Perspicacité +7, Persuasion +10, Supercherie +10
+  DamageImmunities: de feu
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
   Languages: commun, draconique, géant, igné, infernal, orc
   Challenge: 16 (15 000 PX)
-  DamageImmunities: de feu
   Id: tome_of_beasts.md#dragon-de-flammes-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18169,10 +18169,10 @@ SubItems:
   Speed: 9 m, escalade 9 m, vol 18 m
   SavingThrows: Dex +4, Con +4, Sag +3, Cha +5
   Skills: Discrétion +4, Perception +5, Perspicacité +3, Persuasion +5, Supercherie +5
+  DamageImmunities: de feu
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15
   Languages: commun, draconique, igné
   Challenge: 3 (700 PX)
-  DamageImmunities: de feu
   Id: tome_of_beasts.md#dragon-de-flammes-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18304,10 +18304,10 @@ SubItems:
   Speed: 12 m, escalade 12 m, vol 24 m
   SavingThrows: Dex +6, Con +8, Sag +5, Cha +8
   Skills: Discrétion +6, Perception +9, Perspicacité +5, Persuasion +8, Supercherie +8
+  DamageImmunities: de feu
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19
   Languages: commun, draconique, igné, géant, infernal, orc
   Challenge: 9 (5 000PX)
-  DamageImmunities: de feu
   Id: tome_of_beasts.md#dragon-de-flammes-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18457,10 +18457,10 @@ SubItems:
   Speed: 12 m, escalade 12 m, vol 24 m
   SavingThrows: Dex +9, Con +15, Sag +10, Cha +13
   Skills: Discrétion +9, Perception +17, Perspicacité +10, Persuasion +13, Supercherie +13
+  DamageImmunities: de feu
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
   Languages: commun, draconique, géant, igné, infernal, orc
   Challenge: 24 (62000 PX)
-  DamageImmunities: de feu
   Id: tome_of_beasts.md#dragon-de-flammes-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18680,12 +18680,12 @@ SubItems:
   Speed: 12 m, vol 24 m
   SavingThrows: Dex +9, Con +10, Int +10, Sag +10, Cha +10
   Skills: Athlétisme +13, Histoire +10, Perception +10, Perspicacité +10, Persuasion +10
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 20
-  Languages: céleste, commun, draconique, primordial
-  Challenge: 14 (11 500PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: d’acide, de tonnerre
   ConditionImmunities: charmé
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 20
+  Languages: céleste, commun, draconique, primordial
+  Challenge: 14 (11 500PX)
   Id: tome_of_beasts.md#dragon-de-mithral-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18937,12 +18937,12 @@ SubItems:
   Speed: 15 m, vol 18 m
   SavingThrows: Dex +9, Con +4, Sag +5, Cha +5
   Skills: Acrobaties +6, Perception +5, Perspicacité +5, Persuasion+5
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 15
-  Languages: céleste, commun, draconique, primordial
-  Challenge: 6 (2 300PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: d’acide, de tonnerre
   ConditionImmunities: charmé
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 15
+  Languages: céleste, commun, draconique, primordial
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#dragon-de-mithral-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -19116,12 +19116,12 @@ SubItems:
   Speed: 12 m, vol 24 m
   SavingThrows: Dex +9, Con +13, Int +13, Sag +13, Cha +13
   Skills: Athlétisme +15, Histoire +13, Intimidation +13, Perception +13, Perspicacité +13, Persuasion +13
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23
-  Languages: céleste, commun, draconique, primordial
-  Challenge: 18 (20000 PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: d’acide, de tonnerre
   ConditionImmunities: charmé
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23
+  Languages: céleste, commun, draconique, primordial
+  Challenge: 18 (20000 PX)
   Id: tome_of_beasts.md#dragon-de-mithral-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -19425,11 +19425,11 @@ SubItems:
   Speed: 12 m, escalade 12 m, traverser la terre
   SavingThrows: Dex +6, Con +12, Sag +6, Cha +10
   Skills: Perception +10
+  DamageImmunities: d’acide, de poison et de tonnerre
+  ConditionImmunities: empoisonné
   Senses: vision aveugle 36 m, Perception passive 20
   Languages: commun, darakhul, draconique, gobelin, nain
   Challenge: 16 (15 000 PX)
-  DamageImmunities: d’acide, de poison et de tonnerre
-  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#dragon-des-cavernes-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -19681,10 +19681,10 @@ SubItems:
   Speed: 9 m, fouissement 6 m, vol 6 m
   SavingThrows: Dex+3, Con +5, Cha+3
   Skills: Discrétion +5, Perception +2
-  Senses: vision aveugle 36 m, Perception passive 12
-  Challenge: 2 (450PX)
   DamageImmunities: d’acide, de poison et de tonnerre
   ConditionImmunities: empoisonné
+  Senses: vision aveugle 36 m, Perception passive 12
+  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#dragon-des-cavernes-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -19834,11 +19834,11 @@ SubItems:
   Speed: 12 m, fouissement 6 m, vol6 m
   SavingThrows: Dex +4, Con +8, Sag +4, Cha +7
   Skills: Discrétion +4, Perception +4
+  DamageImmunities: d’acide, de poison et de tonnerre
+  ConditionImmunities: empoisonné
   Senses: vision aveugle 36 m, Perception passive 14
   Languages: commun, darakhul, draconique
   Challenge: 8 (3 900PX)
-  DamageImmunities: d’acide, de poison et de tonnerre
-  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#dragon-des-cavernes-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -20024,11 +20024,11 @@ SubItems:
   Speed: 12 m, vol 27 m
   SavingThrows: Dex +10, Con +12, Sag +8, Cha +10
   Skills: Acrobaties +10, Discrétion +10, Intimidation +10, Perception +14
+  DamageImmunities: de foudre
+  ConditionImmunities: charmé, entravé, épuisé, paralysé
   Senses: vision aveugle 3m, vision dans le noir 18 m, Perception passive 24
   Languages: commun, draconique, primordial
   Challenge: 17 (18 000PX)
-  DamageImmunities: de foudre
-  ConditionImmunities: charmé, entravé, épuisé, paralysé
   Id: tome_of_beasts.md#dragon-du-vent-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -20272,11 +20272,11 @@ SubItems:
   Speed: 12 m, vol 24 m
   SavingThrows: Dex +6, Con +4, Sag +2, Cha +4
   Skills: Discrétion +6, Perception +4
+  DamageImmunities: de foudre
+  ConditionImmunities: charmé, épuisé, paralysé
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
   Languages: draconique, primordial
   Challenge: 1 (200 PX)
-  DamageImmunities: de foudre
-  ConditionImmunities: charmé, épuisé, paralysé
   Id: tome_of_beasts.md#dragon-du-vent-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -20414,11 +20414,11 @@ SubItems:
   Speed: 12 m, vol 27 m
   SavingThrows: Dex +7, Con +7, Sag +4, Cha +6
   Skills: Discrétion +7, Perception +7
+  DamageImmunities: de foudre
+  ConditionImmunities: charmé, entravé, épuisé, paralysé
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 17
   Languages: commun, draconique, primordial
   Challenge: 6 (2 300PX)
-  DamageImmunities: de foudre
-  ConditionImmunities: charmé, entravé, épuisé, paralysé
   Id: tome_of_beasts.md#dragon-du-vent-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -20592,12 +20592,12 @@ SubItems:
   Speed: 12 m, vol 36 m
   SavingThrows: Dex +11, Con +15, Sag +10, Cha +12
   Skills: Acrobaties +11, Arcanes +11, Discrétion +11, Intimidation +12, Perception +17
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 27
-  Languages: commun, draconique, elfique, nain, primordial
-  Challenge: 22 (41000 PX)
   DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de foudre, infligés par des armes à distance
   ConditionImmunities: charmé, entravé, épuisé, paralysé
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 27
+  Languages: commun, draconique, elfique, nain, primordial
+  Challenge: 22 (41000 PX)
   Id: tome_of_beasts.md#dragon-du-vent-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -20849,11 +20849,11 @@ SubItems:
   Speed: 12 m, vol 24 m (vol stationnaire)
   SavingThrows: Dex +5, Con +12, Sag +6, Cha +10
   Skills: Arcanes +13, Discrétion +5, Histoire+13, Perception+11, Persuasion +10
+  DamageImmunities: de froid
+  ConditionImmunities: charmé, terrorisé
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21
   Languages: commun, draconique, langue du Vide
   Challenge: 14 (11 500PX)
-  DamageImmunities: de froid
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#dragon-du-vide-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -21099,10 +21099,10 @@ SubItems:
   Speed: 9 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex +4, Con +5, Sag +1, Cha +5
   Skills: Discrétion +2, Perception +3
+  DamageImmunities: de froid
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive 13
   Languages: commun, draconique, langue du Vide
   Challenge: 2 (450PX)
-  DamageImmunities: de froid
   Id: tome_of_beasts.md#dragon-du-vide-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -21270,11 +21270,11 @@ SubItems:
   Speed: 12 m, vol 24 m (vol stationnaire)
   SavingThrows: Dex +4, Con +9, Sag +4, Cha +8
   Skills: Arcanes +10, Discrétion +4, Histoire +10, Perception +8, Persuasion +8
+  DamageImmunities: de froid
+  ConditionImmunities: charmé, terrorisé
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18
   Languages: commun, draconique, langue du Vide
   Challenge: 9 (5 000PX)
-  DamageImmunities: de froid
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#dragon-du-vide-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -21460,11 +21460,11 @@ SubItems:
   Speed: 12 m, vol 24 m (vol stationnaire)
   SavingThrows: Dex +7, Con +16, Sag +9, Cha +13
   Skills: Arcanes +18, Discrétion +7, Histoire +18, Perception +16, Persuasion +13
+  DamageImmunities: de froid
+  ConditionImmunities: charmé, terrorisé
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26
   Languages: céleste, commun, draconique, infernal, langue du Vide, primordial
   Challenge: 24 (62000 PX)
-  DamageImmunities: de froid
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#dragon-du-vide-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -21740,10 +21740,10 @@ SubItems:
   Speed: 12 m, vol 24 m, nage 18 m
   SavingThrows: Dex +5, Con +11, Sag +7, Cha +9
   Skills: Discrétion +5, Perception +12
+  DamageImmunities: de froid
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
   Languages: commun, draconique
   Challenge: 16 (15 000 PX)
-  DamageImmunities: de froid
   Id: tome_of_beasts.md#dragon-marin-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -21947,10 +21947,10 @@ SubItems:
   Speed: 9 m, vol 18 m, nage 12 m
   SavingThrows: Dex +2, Con +4, Sag +2, Cha +4
   Skills: Discrétion +2, Perception +4
+  DamageImmunities: de froid
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
   Languages: commun, draconique, primordial
   Challenge: 2 (450PX)
-  DamageImmunities: de froid
   Id: tome_of_beasts.md#dragon-marin-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22082,10 +22082,10 @@ SubItems:
   Speed: 12 m, vol 24 m, nage 15 m
   SavingThrows: Dex +4, Con +8, Sag +5, Cha +7
   Skills: Discrétion +4, Perception +9
+  DamageImmunities: de froid
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19
   Languages: commun, draconique
   Challenge: 9 (5 000PX)
-  DamageImmunities: de froid
   Id: tome_of_beasts.md#dragon-marin-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22241,10 +22241,10 @@ SubItems:
   Speed: 12 m, vol 24 m, nage 24 m
   SavingThrows: Dex +7, Con +15, Sag +10, Cha +12
   Skills: Discrétion +7, Perception +17
+  DamageImmunities: de froid
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
   Languages: commun, draconique, infernal, primordial
   Challenge: 22 (41000 PX)
-  DamageImmunities: de froid
   Id: tome_of_beasts.md#dragon-marin-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22460,11 +22460,11 @@ SubItems:
   Speed: 6 m, nage 18 m
   SavingThrows: For +12, Dex +5, Int +6, Sag +5, Cha +6
   Skills: Acrobaties +5, Athlétisme +12, Perception +6, Perspicacité +5
+  DamageImmunities: de foudre
+  ConditionImmunities: à terre, paralysé
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: commun, draconique, primordial
   Challenge: 12 (8 400 PX)
-  DamageImmunities: de foudre
-  ConditionImmunities: à terre, paralysé
   Id: tome_of_beasts.md#murène-dragon
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22632,10 +22632,10 @@ SubItems:
   Speed: 4,50 m, vol 12 m (vol stationnaire)
   SavingThrows: Dex +3, Sag +3, Cha +3
   Skills: Arcanes +5, Histoire +5, Nature +5, Perception +3, Religion +5
+  ConditionImmunities: paralysé, inconscient
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, draconique, elfe, primordial ; télépathie 18 m
   Challenge: 1/2 (50 PX)
-  ConditionImmunities: paralysé, inconscient
   Id: tome_of_beasts.md#dragonette-lanterne
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22783,11 +22783,11 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 117 (18d6+54)
   Speed: 9 m, vol 18 m
+  DamageResistances: de feu
+  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, draconique
   Challenge: 4 (1 100PX)
-  DamageResistances: de feu
-  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#drake-de-cendres
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22930,10 +22930,10 @@ SubItems:
   HitPoints: 127 (15d8+60)
   Speed: 9 m, nage 18 m
   SavingThrows: Dex+6
-  Senses: vision dans le noir 36 m, Perception passive 17
-  Challenge: 7 (2 900PX)
   DamageResistances: de froid
   ConditionImmunities: à terre, empoisonné, inconscient, paralysé
+  Senses: vision dans le noir 36 m, Perception passive 17
+  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#drake-de-corail
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23087,10 +23087,10 @@ SubItems:
   ArmorClass: 13
   HitPoints: 78 (12d6+36)
   Speed: 12 m, vol 30 m
+  ConditionImmunities: paralysé, inconscient
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, draconique, elfique, nain
   Challenge: 2 (450PX)
-  ConditionImmunities: paralysé, inconscient
   Id: tome_of_beasts.md#drake-de-papier
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23233,12 +23233,12 @@ SubItems:
   HitPoints: 161 (19d8+76)
   Speed: 6 m, fouissement 1,50 m, vol 30 m
   Skills: Perception +3, Discrétion +5
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné et paralysé
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, draconique
   Challenge: 8 (3 900PX)
   DamageVulnerabilities: d’acide
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné et paralysé
   Id: tome_of_beasts.md#drake-de-rouille
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23398,12 +23398,12 @@ SubItems:
   Speed: 6 m, vol 18 m
   SavingThrows: Dex+4, Con +7, Cha+4
   Skills: Discrétion +7, Perception +5
+  DamageImmunities: de froid
+  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 36 m, Perception passive 15
   Languages: commun, draconique, umbral
   Challenge: 7 (2 900PX) magique doit commencer et se terminer dans une zone de lumière faible ou de ténèbres, et ces deux zones ne peuvent pas être distantes de plus de 18mètres.
   DamageVulnerabilities: radiants
-  DamageImmunities: de froid
-  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#ancien-drake-des-ombres
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23577,11 +23577,11 @@ SubItems:
   Speed: 15 m, escalade 9 m, vol 30 m
   SavingThrows: Dex +8, Con +6
   Skills: Athlétisme +9, Perception +6, Perspicacité +6
+  DamageImmunities: nécrotiques
+  ConditionImmunities: inconscient, paralysé
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 16
   Languages: commun, commun des profondeurs, darakhul, draconique
   Challenge: 9 (5 000PX)
-  DamageImmunities: nécrotiques
-  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#drake-des-profondeurs
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23739,10 +23739,10 @@ SubItems:
   HitPoints: 65 (10d4+40)
   Speed: 12 m, vol 24 m
   Skills: Perspicacité +3, Persuasion +5, Supercherie +5
+  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, draconique
   Challenge: 1/2 (100 PX)
-  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#drake-des-tavernes.
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23903,11 +23903,11 @@ SubItems:
   HitPoints: 54 (12d4+24)
   Speed: 4,50 m, vol 24 m
   Skills: Acrobaties +4, Perception +1
+  DamageImmunities: de feu
+  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, draconique; télépathie 18 m
   Challenge: 1 (200 PX)
-  DamageImmunities: de feu
-  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#drake-pourpre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -24057,11 +24057,11 @@ SubItems:
   Speed: 12 m, vol 30 m
   SavingThrows: Dex +8, Con +10, Int +8, Sag +12, Cha +10
   Skills: Arcanes +8, Histoire +8, Perception +12, Perspicacité +12, Religion+8
+  DamageImmunities: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiques
+  ConditionImmunities: charmé, inconscient, paralysé, terrorisé
   Senses: vision parfaite 36 m, Perception passive 22
   Languages: céleste, commun, draconique, elfique, infernal, nain, primordial
   Challenge: 15 (13 000 PX)
-  DamageImmunities: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiques
-  ConditionImmunities: charmé, inconscient, paralysé, terrorisé
   Id: tome_of_beasts.md#drake-stellaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -24294,11 +24294,11 @@ SubItems:
   HitPoints: 105 (14d10+28)
   Speed: 9 m, vol 18 m, nage 12 m
   Skills: Discrétion +7, Perception +4
+  DamageResistances: d’acide
+  ConditionImmunities: paralysé
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: —
   Challenge: 5 (1 800PX)
-  DamageResistances: d’acide
-  ConditionImmunities: paralysé
   Id: tome_of_beasts.md#drakon
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -24635,12 +24635,12 @@ SubItems:
   HitPoints: 178 (17d10+85)
   Speed: 18 m
   Skills: Intimidation +7, Perception +6, Persuasion +7, Survie+6
-  Senses: vision aveugle 18 m, Perception passive 16
-  Languages: commun, elfique, sylvestre
-  Challenge: 11 (7 200PX)
   DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: nécrotiques
   ConditionImmunities: charmé, empoisonné, terrorisé
+  Senses: vision aveugle 18 m, Perception passive 16
+  Languages: commun, elfique, sylvestre
+  Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#dullahan
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -24836,10 +24836,10 @@ SubItems:
   ArmorClass: 15 (naturelle)
   HitPoints: 40 (9d6+9)
   Speed: 3 m, vol 18 m
+  DamageImmunities: de feu
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: —
   Challenge: 2 (450PX)
-  DamageImmunities: de feu
   Id: tome_of_beasts.md#eala
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -24975,11 +24975,11 @@ SubItems:
   ArmorClass: 15
   HitPoints: 75 (10d8+30)
   Speed: 0 m, vol 18 m (vol stationnaire)
-  Senses: vision aveugle 18 m, Perception passive 11
-  Challenge: 4 (1 100PX)
   DamageResistances: d’acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
+  Senses: vision aveugle 18 m, Perception passive 11
+  Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#edimmu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -25110,10 +25110,10 @@ SubItems:
   HitPoints: 119 (14d8+56)
   Speed: 9m
   Skills: Dressage +5, Intimidation +6, Perception +5
+  DamageResistances: infligés par les armes perforantes qui ne sont pas magiques
   Senses: vision dans le noir 18 m, vision parfaite 18m, Perception passive 15
   Languages: céleste, commun
   Challenge: 7 (2 900PX)
-  DamageResistances: infligés par les armes perforantes qui ne sont pas magiques
   Id: tome_of_beasts.md#einherjar
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -25295,10 +25295,10 @@ SubItems:
   Speed: 9 m, nage 9 m9m9m9m9m9m
   SavingThrows: For +4, Dex +7, Con +6, Int +5, Sag +5, Cha +7Dex+7, Con +4, Cha+6Dex +8, Con +5, Sag +4, Cha +6Dex +5, Sag +6, Cha +7For +6, Con +5
   Skills: Supercherie +7, Perspicacité +5, Perception +5Arcanes +2, Perception +2Arcanes +3, Perception +4, Discrétion +10, Survie +4Arcanes+4, Supercherie+6, Perception +4, Discrétion+8Arcanes +4, Supercherie +7, Perception +6, Persuasion +7, Discrétion +5Athlétisme+6, Perception +4
+  ConditionImmunities: charmé, terrorisé
   Senses: Perception passive 15vision dans le noir 18 m, Perception passive 12vision dans le noir 18 m, Perception passive 14vision dans le noir 18 m, Perception passive 14vision dans le noir 18 m, Perception passive 16vision dans le noir 18 m, Perception passive 14
   Languages: aquatique, commun, elfique, sylvestrecommun, elfique, umbralcommun, elfique, umbralcommun, elfique, umbralcommun, elfique, umbralcommun, elfique, umbral
   Challenge: 5 (1 800PX)1/4 (50 PX)5 (1 800PX)6 (2 300PX)7 (2 900PX)4 (1 100PX)
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#eleinomae
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -26397,10 +26397,10 @@ SubItems:
   ArmorClass: 12 (armure de cuir)
   HitPoints: 22 (4d6+8)
   Speed: 6 m, fouissement 6m
+  DamageResistances: de poison
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: commun, erina
   Challenge: 1/4 (50 PX)
-  DamageResistances: de poison
   Id: tome_of_beasts.md#Écornifleur-erina
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -26537,10 +26537,10 @@ SubItems:
   HitPoints: 44 (8d6+16)
   Speed: 6 m, fouissement 6m
   Skills: Athlétisme+4, Perception +3
+  DamageResistances: de poison
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, erina
   Challenge: 1 (200 PX)
-  DamageResistances: de poison
   Id: tome_of_beasts.md#défenseur-erina
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -26700,12 +26700,12 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 82 (11d8+33)
   Speed: 9m
-  Senses: perception des vibrations 9 m, Perception passive 12
-  Languages: comprend le commun mais ne peut pas parler
-  Challenge: 3 (700 PX)
   DamageResistances: contondants et perforants issus d’armes non magiques
   DamageImmunities: d’acide, de poison
   ConditionImmunities: charmé, terrorisé, empoisonné
+  Senses: perception des vibrations 9 m, Perception passive 12
+  Languages: comprend le commun mais ne peut pas parler
+  Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#esclave-putresprit
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -26853,10 +26853,10 @@ SubItems:
   ArmorClass: 14
   HitPoints: 87 (25d6)
   Speed: 12m
-  Senses: vision dans le noir 18 m, Perception passive 15
-  Challenge: 2 (450PX)
   DamageImmunities: de feu, de poison
   ConditionImmunities: épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
+  Senses: vision dans le noir 18 m, Perception passive 15
+  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#esprit-du-feu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -27004,12 +27004,12 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 84 (13d4+52)
   Speed: 3 m, vol 18 m (vol stationnaire)
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Languages: commun, primordial
-  Challenge: 7 (2 900PX)
   DamageResistances: d’acide, de feu, de force, de tonnerre; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de foudre
   ConditionImmunities: épuisé, empoigné, paralysé, empoisonné, à terre, entravé, inconscient
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: commun, primordial
+  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#Étincelle
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -27346,12 +27346,12 @@ SubItems:
   Speed: 6 m9 m, vol 18 m (vol stationnaire)12m12 m, vol 15 m (vol stationnaire)12m15 m12m9 m, nage 12 m
   SavingThrows: Dex+5, Con +7, Cha+7Con +10, Sag +11Dex+9, Con +7, Cha+9Dex+6, Sag +10, Cha+12For +11, Sag +10, Cha +8Con +10, Sag +10, Cha +11For +9, Dex +4, Sag +7Dex+8, Con +10, Sag +6
   Skills: Nature +4, Dressage +6, Médecine +6, Perception +6, Survie +6Arcanes +12, Supercherie +15, Intimidation +15, Perception +11, Discrétion +12Perception +10, Discrétion +9Arcanes +9, Supercherie +12, Histoire +9, Perspicacité +10, Perception +10Athlétisme +11, Perception +10, Survie +10Arcanes +11, Perception +10Athlétisme +9, Intimidation +7, Perception +7Intimidation +8, Nature +7, Perception +6, Discrétion +8
-  Senses: vision dans le noir 18 m, Perception passive 16vision parfaite 36 m, Perception passive 21vision aveugle 3 m, vision dans le noir 18 m, Perception passive 20vision parfaite 18m, Perception passive 19vision aveugle 3 m, vision dans le noir 18 m, Perception passive 20vision aveugle 9m, vision dans le noir 36 m, Perception passive 20vision dans le noir 18 m, Perception passive 17vision aveugle 3 m, vision dans le noir 18 m, Perception passive 16
-  Languages: commun, elfique, sylvestrecéleste, commun, elfique, sylvestre, umbral ; télépathie 36 mcommun, elfique, géant, sylvestrecéleste, commun, draconique, elfique, sylvestre, umbralcommun, draconique, elfique, sylvestreabyssal, céleste, commun, draconique, elfique, infernal, umbral ; télépathie 30mcommun, elfique, géant, sylvestrecommun, élémentaire, elfique, géant
-  Challenge: 3 (700 PX)21 (33 000 PX)16 (15 000 PX)17 (18 000PX)18 (20000 PX)17 (18 000PX)12 (8 400 PX)16 (15 000 PX)
   DamageResistances: de feu et de foudrecontondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en fer froidde feu, de froid; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froidcontondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froidacides ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid.de froidde feu, de froid, de tonnerre ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
   DamageImmunities: de froid ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froidde froidradiantsde froid, de poisonde froid, de feu, de poisonde poison ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en fer froidde foudre
   ConditionImmunities: charmé, terrorisécharmé, terrorisé, épuiséaveuglé, charmé, terroriséépuisé, charmé, terrorisé, empoisonnécharmé, terrorisé, empoisonnéempoisonnéépuisé
+  Senses: vision dans le noir 18 m, Perception passive 16vision parfaite 36 m, Perception passive 21vision aveugle 3 m, vision dans le noir 18 m, Perception passive 20vision parfaite 18m, Perception passive 19vision aveugle 3 m, vision dans le noir 18 m, Perception passive 20vision aveugle 9m, vision dans le noir 36 m, Perception passive 20vision dans le noir 18 m, Perception passive 17vision aveugle 3 m, vision dans le noir 18 m, Perception passive 16
+  Languages: commun, elfique, sylvestrecéleste, commun, elfique, sylvestre, umbral ; télépathie 36 mcommun, elfique, géant, sylvestrecéleste, commun, draconique, elfique, sylvestre, umbralcommun, draconique, elfique, sylvestreabyssal, céleste, commun, draconique, elfique, infernal, umbral ; télépathie 30mcommun, elfique, géant, sylvestrecommun, élémentaire, elfique, géant
+  Challenge: 3 (700 PX)21 (33 000 PX)16 (15 000 PX)17 (18 000PX)18 (20000 PX)17 (18 000PX)12 (8 400 PX)16 (15 000 PX)
   Id: tome_of_beasts.md#far-darrig
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -28884,12 +28884,12 @@ SubItems:
   HitPoints: 135 (18d8+54)
   Speed: 9m
   SavingThrows: For +8
-  Senses: vision dans le noir 18 m, Perception passive 12
-  Languages: celles qu’il parlait de son vivant
-  Challenge: 5 (1 800PX)
   DamageResistances: d’acide, de froid, de feu, de foudre
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 12
+  Languages: celles qu’il parlait de son vivant
+  Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#felforgé
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -29054,10 +29054,10 @@ SubItems:
   HitPoints: 115 (1d10+60)
   Speed: 12 m, escalade 6 m
   SavingThrows: Dex +5, Con +9
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Challenge: 8 (3 900PX)
   DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   ConditionImmunities: charmé, terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#férocien
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -29200,11 +29200,11 @@ SubItems:
   HitPoints: 60 (11d8+11)
   Speed: 9m
   SavingThrows: Dex+6, Sag +4, Cha+7
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: les langues parlées par son protecteur
   Challenge: 6 (2 300PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#fext
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -29384,12 +29384,12 @@ SubItems:
   Speed: 18 m, fouissement 4,50 m (9 m dans la glace ou la neige)
   SavingThrows: Dex+7, Con +10, Sag +8
   Skills: Arcanes +7, Intimidation +6, Religion +12
-  Senses: vision parfaite 18 m, perception des vibrations 30 m, Perception passive 14
-  Languages: commun, céleste, draconique, elfique, nain, géant, infernal, télépathie 18 m
-  Challenge: 12 (8 400 PX)
   DamageResistances: psychiques, radiants
   DamageImmunities: de froid, de foudre, de poison; contondants et perforants infligés par des armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Senses: vision parfaite 18 m, perception des vibrations 30 m, Perception passive 14
+  Languages: commun, céleste, draconique, elfique, nain, géant, infernal, télépathie 18 m
+  Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#fils-de-fenris
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -29623,11 +29623,11 @@ SubItems:
   Speed: 12 m, escalade 4,50 m
   SavingThrows: Sag +6
   Skills: Intimidation +6, Discrétion +7
+  DamageResistances: contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
+  ConditionImmunities: charmé, terrorisé
   Senses: vision aveugle 9m, Perception passive 12
   Languages: commun, elfique, sylvestre
   Challenge: 10 (5 900 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#forgepeur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -30067,9 +30067,9 @@ SubItems:
   ArmorClass: 15 (armure de cuir, bouclier)
   HitPoints: 18 (4d6+4)
   Speed: 7,50m
+  DamageImmunities: de froid
   Senses: Perception passive 10
   Challenge: 1/2 (50 PX)
-  DamageImmunities: de froid
   Id: tome_of_beasts.md#fraughashar
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -30200,12 +30200,12 @@ SubItems:
   HitPoints: 110 (13d8+52)
   Speed: 0 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex +7, Sag +6
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
-  Languages: comprend les langues qu’il parlait de son vivant mais ne peut pas parler
-  Challenge: 6 (2 300PX)
   DamageResistances: d’acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de froid, nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
+  Languages: comprend les langues qu’il parlait de son vivant mais ne peut pas parler
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#gardien-spectral
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -30688,12 +30688,12 @@ SubItems:
   Speed: 15 m (6 m, vol 36 m sous forme de roc)
   SavingThrows: Dex +6, Int +9, Sag +9, Cha +11
   Skills: Athlétisme +13, Perception +9, Survie +9
-  Senses: Perception passive 19
-  Languages: aérien, commun, géant (incapable de parler sous forme de roc)
-  Challenge: 19 (22 000 PX)
   DamageResistances: de foudre, de tonnerre
   DamageImmunities: de froid, contondants, perforants et tranchants issus d’armes non magiques
   ConditionImmunities: épuisé
+  Senses: Perception passive 19
+  Languages: aérien, commun, géant (incapable de parler sous forme de roc)
+  Challenge: 19 (22 000 PX)
   Id: tome_of_beasts.md#hraesvelgr-le-mangeur-de-cadavres
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -30945,10 +30945,10 @@ SubItems:
   Speed: 18 m
   SavingThrows: Con +14, Sag +11, Cha +8
   Skills: Arcanes +10, Histoire +10, Nature +10, Discrétion+5
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Senses: vision dans le noir 36 m, Perception passive 15
   Languages: commun, géant
   Challenge: 22 (25 000PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Id: tome_of_beasts.md#géant-jotun
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -31180,11 +31180,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 110 (13d10+39)
   Speed: 6 m
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné
   Senses: Perception passive 13
   Languages: nain, géant
   Challenge: 4 (1 100PX)
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#géant-obèse
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -31467,10 +31467,10 @@ SubItems:
   HitPoints: 172 (15d10+90)
   Speed: 9 m, vol 27 m (vol stationnaire)
   SavingThrows: Dex+6, Sag +7, Cha+9
+  DamageImmunities: de foudre, de tonnerre
   Senses: vision dans le noir 36 m, Perception passive 13
   Languages: aérien, commun, igné
   Challenge: 9 (5 000PX)
-  DamageImmunities: de foudre, de tonnerre
   Id: tome_of_beasts.md#génie-al-aeshma
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -31786,10 +31786,10 @@ SubItems:
   ArmorClass: 14 (armure de cuir)
   HitPoints: 5 (1d6+2)
   Speed: 12m
+  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 9
   Languages: commun, gobelin
   Challenge: 1/4 (50 PX)
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#gobelin-poussiéreux
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -31913,11 +31913,11 @@ SubItems:
   ArmorClass: 18 (armure naturelle)
   HitPoints: 171 (18d10+72)
   Speed: 12m
+  DamageImmunities: de feu, de poison, psychiques ; contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 13 (10 000 PX)
-  DamageImmunities: de feu, de poison, psychiques ; contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#golem-À-vapeur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32092,11 +32092,11 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 110 (11d10+55)
   Speed: 6 m
+  DamageImmunities: de feu, de poison, psychiques; contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 10 (5 900 PX)
-  DamageImmunities: de feu, de poison, psychiques; contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#golem-de-sel
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32234,11 +32234,11 @@ SubItems:
   ArmorClass: 20 (armure naturelle)
   HitPoints: 157 (15d10+75)
   Speed: 9m
+  DamageImmunities: de feu, de poison, psychiques; contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
   Senses: vision parfaite 36 m, Perception passive 18
   Languages: comprend la langue de son créateur mais ne peut pas parler
   Challenge: 11 (7 200PX)
-  DamageImmunities: de feu, de poison, psychiques; contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
   Id: tome_of_beasts.md#golem-oculaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32395,11 +32395,11 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 231 (22d10+110)
   Speed: 9m
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 14 (11 500PX)
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#golem-smaragdin
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32545,11 +32545,11 @@ SubItems:
   Speed: 12m
   SavingThrows: Con +9
   Skills: Athlétisme+10, Perception +4
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
   Senses: vision dans le noir 36 m, Perception passive 14
   Languages: comprend la langue de son créateur mais ne peut pas parler
   Challenge: 12 (8 400 PX)
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
   Id: tome_of_beasts.md#golem-trésor
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32713,12 +32713,12 @@ SubItems:
   HitPoints: 78 (12d8+24)
   Speed: 9m
   Skills: Supercherie +3, Discrétion +5
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Languages: commun, darakhul
-  Challenge: 3 (700 PX)
   DamageResistances: nécrotiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: commun, darakhul
+  Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#goule-darakhule
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32880,11 +32880,11 @@ SubItems:
   ArmorClass: 16 (cuirasse)
   HitPoints: 143 (22d8+44)
   Speed: 9 m, fouissement 6 m
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, épuisé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, darakhul, commun des profondeurs
   Challenge: 5 (2 900PX)
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, épuisé, empoisonné
   Id: tome_of_beasts.md#goule-de-fer
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33034,12 +33034,12 @@ SubItems:
   Speed: 9 m, fouissement 4,50 m
   SavingThrows: Dex +8, Sag +9
   Skills: Supercherie +11, Perspicacité +9, Perception +9, Persuasion +11
-  Senses: vision dans le noir 36 m, Perception passive 19
-  Languages: commun, darakhul, draconique, gnoll, commun des profondeurs
-  Challenge: 20 (25 000PX)
   DamageResistances: de froid, nécrotiques
   DamageImmunities: de poison; contondants, perforants et tranchants issus d’armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
+  Senses: vision dans le noir 36 m, Perception passive 19
+  Languages: commun, darakhul, draconique, gnoll, commun des profondeurs
+  Challenge: 20 (25 000PX)
   Id: tome_of_beasts.md#empereur-des-goules
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33337,11 +33337,11 @@ SubItems:
   ArmorClass: 16 (cuirasse)
   HitPoints: 93 (17d8+17)
   Speed: 9 m, fouissement 4,50 m
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, épuisé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, darakhul, commun des profondeurs
   Challenge: 4 (1 100PX)
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, épuisé, empoisonné
   Id: tome_of_beasts.md#goule-impériale
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33483,10 +33483,10 @@ SubItems:
   ArmorClass: 12
   HitPoints: 13 (3d8)
   Speed: 9m
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Challenge: 1/2 (100 PX)
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#goule-mendiante
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33618,12 +33618,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +9, Con +8, Sag +6, Cha +8
   Skills: Perception +6, Discrétion +9
-  Senses: vision dans le noir 18 m, Perception passive 16
-  Languages: commun, darakhul, draconique, nain
-  Challenge: 12 (8 400 PX)
   DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 16
+  Languages: commun, darakhul, draconique, nain
+  Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#goule-poudre-d’os
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33823,10 +33823,10 @@ SubItems:
   ArmorClass: 14
   HitPoints: 7 (2d6)
   Speed: 3m, vol 12m (vol stationnaire)
+  DamageImmunities: de foudre, de tonnerre
   Senses: vision dans le noir 36m, Perception passive 11
   Languages: commun, primordial
   Challenge: 1/4 (50 PX)
-  DamageImmunities: de foudre, de tonnerre
   Id: tome_of_beasts.md#gremlin-azza
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33960,9 +33960,9 @@ SubItems:
   ArmorClass: 13
   HitPoints: 22 (5d4+10)
   Speed: 6 m, escalade 3 m, nage 3 m
+  ConditionImmunities: empoisonné
   Senses: vision dans le noir 36 m, Perception passive 10
   Challenge: 1/2 (100 PX)
-  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#gremlin-rhumé
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -34279,10 +34279,10 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 168 (16d8+96)
   Speed: 9 m, vol 3 m
-  Senses: vision dans le noir 18 m, Perception passive 12
-  Challenge: 6 (2 300PX)
   DamageResistances: de tonnerre
   ConditionImmunities: charmé, terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 12
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#guenaude-miroir
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -34443,10 +34443,10 @@ SubItems:
   HitPoints: 119 (14d8+56)
   Speed: 9 m, nage 9 m
   Skills: Arcanes +9, Supercherie +5, Perspicacité +7, Perception +9
+  ConditionImmunities: charmé, empoisonné
   Senses: perception du sang 27 m, vision dans le noir 18 m, Perception passive 16
   Languages: commun, druidique, géant
   Challenge: 7 (2 900PX)
-  ConditionImmunities: charmé, empoisonné
   Id: tome_of_beasts.md#guenaude-rouge
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -34626,10 +34626,10 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex+7, Con +8, Cha+7
   Skills: Supercherie +7, Intimidation +7, Perception +9, Discrétion +7
+  ConditionImmunities: charmé, empoisonné
   Senses: perception du sang 27 m, vision dans le noir 18 m, Perception passive 19
   Languages: commun, géant, infernal, sylvestre, trollien
   Challenge: 11 (7 200PX)
-  ConditionImmunities: charmé, empoisonné
   Id: tome_of_beasts.md#guenaude-sanglante
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -34837,11 +34837,11 @@ SubItems:
   Speed: 12m
   SavingThrows: For +12, Dex+4, Con +11, Cha +6
   Skills: Athlétisme +11, Perception +3, Discrétion +4
+  DamageImmunities: de poison
+  ConditionImmunities: confus, épuisé, paralysé, empoisonné
   Senses: vision dans le noir 72 m, Perception passive 13
   Languages: profond, géant, commun des profondeurs
   Challenge: 12 (8 400 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: confus, épuisé, paralysé, empoisonné
   Id: tome_of_beasts.md#gug
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -35033,12 +35033,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +4, Sag +5
   Skills: Arcanes +4, Supercherie +8, Perception +5
-  Senses: Perception passive 15
-  Languages: commun, langue du vide
-  Challenge: 2 (450PX)
   DamageResistances: de froid
   DamageImmunities: nécrotiques
   ConditionImmunities: terrorisé
+  Senses: Perception passive 15
+  Languages: commun, langue du vide
+  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#habitant-de-leng
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -35394,12 +35394,12 @@ SubItems:
   Speed: 0 m, vol 12m (vol stationnaire)
   SavingThrows: Dex+8, Con +9, Sag +10
   Skills: Arcanes +7, Histoire +7, Intimidation +8, Perception +10, Religion +12
-  Senses: vision parfaite 18m, Perception passive 20
-  Languages: celles qu’il parlait de son vivant ; télépathie à 36 m
-  Challenge: 13 (10 000 PX)
   DamageResistances: de froid, de foudre, nécrotiques
   DamageImmunities: de poison; contondants, perforants et tranchants issus d’armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  Senses: vision parfaite 18m, Perception passive 20
+  Languages: celles qu’il parlait de son vivant ; télépathie à 36 m
+  Challenge: 13 (10 000 PX)
   Id: tome_of_beasts.md#haugbui
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -35621,12 +35621,12 @@ SubItems:
   Speed: 9 m, nage 9 m, vol 15 m
   SavingThrows: For +8, Con +8, Cha +8
   Skills: Athlétisme +8, Supercherie +8, Perception +5
-  Senses: vision dans le noir 60 m, Perception passive 15
-  Languages: commun, elfique, gobelin, infernal, sylvestre
-  Challenge: 7 (2 900PX)
   DamageResistances: contondants, de tonnerre
   DamageImmunities: de froid, de foudre, nécrotiques, de poison
   ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Senses: vision dans le noir 60 m, Perception passive 15
+  Languages: commun, elfique, gobelin, infernal, sylvestre
+  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#héraut-des-ténèbres
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -35808,12 +35808,12 @@ SubItems:
   Speed: 9 m, nage 9 m, vol 15 m
   SavingThrows: For +10, Con +9, Sag +7
   Skills: Arcanes +6, Perception +7
-  Senses: vision dans le noir 72 m, Perception passive 17
-  Languages: commun, draconique, infernal, langue du Vide
-  Challenge: 12 (8 400 PX)
   DamageResistances: perforants, de foudre
   DamageImmunities: de feu, de poison
   ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Senses: vision dans le noir 72 m, Perception passive 17
+  Languages: commun, draconique, infernal, langue du Vide
+  Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#héraut-du-sang
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -36291,11 +36291,11 @@ SubItems:
   Speed: 12m
   SavingThrows: Dex+4
   Skills: Acrobaties+4, Athlétisme +6, Discrétion +6
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, géant, trollien, incapable de parler
   Challenge: 3 (700 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#homme-chèvre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -37816,12 +37816,12 @@ SubItems:
   Speed: 12 m, vol 12 m
   SavingThrows: Con +7, Sag +9, Cha +8
   Skills: Athlétisme +9, Perspicacité +9, Perception +9
-  Senses: vision aveugle 18 m, Perception passive 20
-  Languages: comprend le céleste et le primordial, mais ne peut pas parler de façon intelligible
-  Challenge: 10 (5 900 PX)
   DamageResistances: de foudre, de tonnerre; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: d’acide et psychiques
   ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, étourdi, inconscient
+  Senses: vision aveugle 18 m, Perception passive 20
+  Languages: comprend le céleste et le primordial, mais ne peut pas parler de façon intelligible
+  Challenge: 10 (5 900 PX)
   Id: tome_of_beasts.md#hundun
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -38057,12 +38057,12 @@ SubItems:
   Speed: 0 m, vol 9 m
   SavingThrows: Sag +3
   Skills: Supercherie +8, Discrétion +8 (+11 dans une faible lumière ou les ténèbres)
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Challenge: 8 (3 900PX)
   DamageResistances: de froid, contondants, perforants et tranchants issus d’armes non magiques
-  DamageVulnerabilities: de feu
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Challenge: 8 (3 900PX)
+  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#idole-divine
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -38229,11 +38229,11 @@ SubItems:
   HitPoints: 97 (15d8+30)
   Speed: 9m
   SavingThrows: Sag +2
+  DamageResistances: contondants
+  ConditionImmunities: épuisé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 10
   Challenge: 3 (700 PX)
-  DamageResistances: contondants
   DamageVulnerabilities: de feu
-  ConditionImmunities: épuisé, terrorisé
   Id: tome_of_beasts.md#imy-ut-ushabti
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -38383,10 +38383,10 @@ SubItems:
   Speed: nage 30 m
   SavingThrows: For +14, Con +12, Sag +8
   Skills: Athlétisme+14, Perception +8
+  DamageImmunities: réduction/diminution permanente de caractéristique
   Senses: vision dans le noir 27 m, Perception passive 18
   Languages: comprend l’aquatique et le céleste mais ne peut pas parler
   Challenge: 14 (11 500PX)
-  DamageImmunities: réduction/diminution permanente de caractéristique
   Id: tome_of_beasts.md#isonade
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -38578,10 +38578,10 @@ SubItems:
   Speed: 6 m, escalade 6 m, vol 3 m
   SavingThrows: For +4, Dex +6, Con +5, Sag +3, Cha +3
   Skills: Acrobaties+6, Perception+3, Discrétion +6
+  DamageResistances: d’acide, de foudre
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
   Languages: commun, draconique
   Challenge: 3 (700 PX)
-  DamageResistances: d’acide, de foudre
   Id: tome_of_beasts.md#jaculus
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -38857,10 +38857,10 @@ SubItems:
   HitPoints: 65 (10d8+20)
   Speed: 9m
   Skills: Supercherie +7, Perception+7, Discrétion +6
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, sylvestre
   Challenge: 5 (1 800PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Id: tome_of_beasts.md#kikimore
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -39021,11 +39021,11 @@ SubItems:
   HitPoints: 44 (8d6+16)
   Speed: 9m
   Skills: Arcanes +5, Médecine +3
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18 m, Perception passive 9
   Languages: commun, draconique
   Challenge: 2 (450PX)
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#alchimiste-kobold
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -39193,10 +39193,10 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +5, Cha +4
   Skills: Intimidation +6, Discrétion +5
+  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, draconique
   Challenge: 4 (1 100PX)
-  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#chef-kobold
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -39652,12 +39652,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+7, Sag +7, Cha+11
   Skills: Arcanes +9, Perspicacité +7, Perception +7
-  Senses: vision dans le noir 18 m, Perception passive 17
-  Languages: abyssal, céleste, commun, infernal, nain
-  Challenge: 17 (18 000PX)
   DamageResistances: de froid, de foudre
   DamageImmunities: nécrotiques ; contondants, perforants et tranchants issus d’armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 17
+  Languages: abyssal, céleste, commun, infernal, nain
+  Challenge: 17 (18 000PX)
   Id: tome_of_beasts.md#koschei
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -40046,11 +40046,11 @@ SubItems:
   HitPoints: 150 (12d12+72)
   Speed: 6 m, nage 9 m
   SavingThrows: For +11, Con +10, Int +7, Cha +8
+  DamageImmunities: de froid, de poison et psychiques
+  ConditionImmunities: charmé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, infernal, primordial, langue du Vide
   Challenge: 9 (5 000PX)
-  DamageImmunities: de froid, de poison et psychiques
-  ConditionImmunities: charmé, empoisonné
   Id: tome_of_beasts.md#larve-de-krake
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -40236,12 +40236,12 @@ SubItems:
   Speed: 9 m, escalade 9 m, vol 15 m
   SavingThrows: For +12, Con +12, Int +15, Sag +9
   Skills: Arcanes +15, Perception +14
-  Senses: vision dans le noir 90 m, Perception passive 24
-  Languages: commun, infernal, langue du Vide
-  Challenge: 15 (13 000 PX)
   DamageResistances: contondants, perforants et tranchants
   DamageImmunities: de froid, de feu, de foudre, de poison et psychiques
   ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Senses: vision dans le noir 90 m, Perception passive 24
+  Languages: commun, infernal, langue du Vide
+  Challenge: 15 (13 000 PX)
   Id: tome_of_beasts.md#larve-stellaire-de-cthulhu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -40579,12 +40579,12 @@ SubItems:
   HitPoints: 225 (18d12+108)
   Speed: 0 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex +9, Con +11
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive13
-  Languages: commun, primordial
-  Challenge: 15 (13 000 PX)
   DamageResistances: d’acide, de froid, de feu
   DamageImmunities: de foudre
   ConditionImmunities: à terre
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive13
+  Languages: commun, primordial
+  Challenge: 15 (13 000 PX)
   Id: tome_of_beasts.md#lente-tempête
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -40782,12 +40782,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +4, Sag +8
   Skills: Arcanes +7, Athlétisme +10, Histoire +7, Perception +8
-  Senses: Perception passive 18
-  Languages: céleste, commun, infernal; télépathie 30m
-  Challenge: 11 (7200 PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de foudre, de poison
   ConditionImmunities: empoisonné, épuisé, paralysé
+  Senses: Perception passive 18
+  Languages: céleste, commun, infernal; télépathie 30m
+  Challenge: 11 (7200 PX)
   Id: tome_of_beasts.md#cavalier-de-baba-yaga-base
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -40983,11 +40983,11 @@ SubItems:
   Speed: 9 m, vol 15 m
   SavingThrows: Dex+4, Con +4, Cha+3
   Skills: Acrobaties +6, Perception +4
-  Senses: vision aveugle 30 m, Perception passive 14
-  Challenge: 4 (1 100PX)
   DamageResistances: perforants et contondants issus d’armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: épuisé et empoisonné
+  Senses: vision aveugle 30 m, Perception passive 14
+  Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#liche-canine
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -41312,12 +41312,12 @@ SubItems:
   HitPoints: 102 (12d8+48)
   Speed: 6 m
   SavingThrows: Sag +4, Cha +4
-  Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 11
-  Languages: comprend les langues de son créateur mais ne peut pas parler
-  Challenge: 5 (1 800PX)
   DamageResistances: d’acide, nécrotiques
   DamageImmunities: de poison
   ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, empoisonné, à terre
+  Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 11
+  Languages: comprend les langues de son créateur mais ne peut pas parler
+  Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#limon-des-sarcophages
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -41471,12 +41471,12 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 9 (2d8)
   Speed: 0 m, vol 9 m (vol stationnaire)
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Challenge: 1/8 (25 PX)
   DamageResistances: d’acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas en argent
-  DamageVulnerabilities: radiants
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Challenge: 1/8 (25 PX)
+  DamageVulnerabilities: radiants
   Id: tome_of_beasts.md#linceul
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -41626,11 +41626,11 @@ SubItems:
   Speed: 12 m, nage 6 m
   SavingThrows: For +7, Dex+8, Con +6
   Skills: Acrobaties +8, Athlétisme +8, Perception +4, Discrétion +9
+  DamageImmunities: de froid
+  ConditionImmunities: paralysé, à terre, inconscient
   Senses: vision dans le noir 18 m, perception des vibrations sur la glace 36 m, Perception passive 14
   Challenge: 5 (1 800PX)
   DamageVulnerabilities: de feu
-  DamageImmunities: de froid
-  ConditionImmunities: paralysé, à terre, inconscient
   Id: tome_of_beasts.md#lindwurm
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -41798,12 +41798,12 @@ SubItems:
   Speed: vol 18 m (vol stationnaire)
   SavingThrows: Dex +10, Con +3, Int +7, Sag +7, Cha +4
   Skills: Arcanes +7, Perspicacité +7, Perception +7
-  Senses: vision dans le noir 36 m, vision parfaite 18m, Perception passive 17
-  Languages: commun, céleste, élémentaire, elfique, géant
-  Challenge: 8 (3 900PX)
   DamageResistances: d’acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de poison, psychiques, radiants
   ConditionImmunities: aveuglé, charmé, épuisé (voir le pouvoir forme lumineuse), empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
+  Senses: vision dans le noir 36 m, vision parfaite 18m, Perception passive 17
+  Languages: commun, céleste, élémentaire, elfique, géant
+  Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#liosalfar
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -42001,11 +42001,11 @@ SubItems:
   Speed: 1,50m
   SavingThrows: Int +6, Sag +6, Cha +6
   Skills: Nature +6, Perception +6
-  Senses: vision dans le noir 36m, perception des vibrations 36 m, Perception passive 16
-  Challenge: 17 (18 000PX)
   DamageResistances: contondants, perforants et tranchants
   DamageImmunities: d’acide, de froid, de feu, de foudre, de poison, de tonnerre ; contondants, perforants et tranchants infligés par des armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient
+  Senses: vision dans le noir 36m, perception des vibrations 36 m, Perception passive 16
+  Challenge: 17 (18 000PX)
   Id: tome_of_beasts.md#locus-Élémentaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -42785,12 +42785,12 @@ SubItems:
   Speed: 6 m
   SavingThrows: Int +3, Cha +5
   Skills: Histoire +3, Perspicacité +6, Religion +3
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Languages: celles qu’il parlait de son vivant
-  Challenge: 8 (3 900PX)
   DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: celles qu’il parlait de son vivant
+  Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#mallqui
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -43157,10 +43157,10 @@ SubItems:
   Speed: 6 m, vol 9 m
   SavingThrows: Dex+7, Con +7, Cha+6
   Skills: Acrobaties+7, Perception+6, Discrétion +7
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: commun, elfique, gobelin, sylvestre, langue du Vide
   Challenge: 6 (2 300PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Id: tome_of_beasts.md#mamura
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -43327,9 +43327,9 @@ SubItems:
   HitPoints: 182 (28d8+56)
   Speed: 12 m, escalade 12 m
   Skills: Arcanes +7, Histoire +7, Perspicacité+6, Religion +7
+  ConditionImmunities: charmé, inconscient
   Senses: vision parfaite 18m, Perception passive 13
   Challenge: 6 (2 300PX)
-  ConditionImmunities: charmé, inconscient
   Id: tome_of_beasts.md#mangedestin
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -43467,12 +43467,12 @@ SubItems:
   Speed: 9m
   SavingThrows: For +9, Con +9, Cha +7
   Skills: Athlétisme +9, Intimidation +7, Perception +6
-  Senses: vision aveugle 18 m, Perception passive 16
-  Languages: comprend l’abyssal, le commun, l’infernal, la langue du Vide, mais ne peut pas parler; télépathie 30 m
-  Challenge: 9 (5 000PX)
   DamageResistances: d’acide, de froid
   DamageImmunities: contondants, perforants, de foudre,de poison et tranchants infligés par des armes non magiques
   ConditionImmunities: aveuglé, empoisonné
+  Senses: vision aveugle 18 m, Perception passive 16
+  Languages: comprend l’abyssal, le commun, l’infernal, la langue du Vide, mais ne peut pas parler; télépathie 30 m
+  Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#mangepoussière-yakat-shi
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -43651,12 +43651,12 @@ SubItems:
   HitPoints: 75 (10d8+30)
   Speed: 9 m, vol 6m
   Skills: Perspicacité +4, Persuasion +8, Supercherie +8
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Languages: céleste, commun, draconique, infernal ; télépathie 30m
-  Challenge: 5 (1 800PX)
   DamageResistances: de froid, de feu, de foudre; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: céleste, commun, draconique, infernal ; télépathie 30m
+  Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#mangerêve
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -43841,13 +43841,13 @@ SubItems:
   HitPoints: 45 (10d8)
   Speed: 0 m, vol 12 m
   SavingThrows: Dex +4, Con +2
+  DamageResistances: contondants
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: comprend l’elfique et l’umbral mais ne peut pas parler
   Challenge: 1/2 (100 PX)
-  DamageResistances: contondants
   DamageVulnerabilities: de feu
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#manteau-vide
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -44147,12 +44147,12 @@ SubItems:
   HitPoints: 82 (11d8+33)
   Speed: 12m
   SavingThrows: Dex +7, Cha +7
-  Senses: vision parfaite 18m, Perception passive 12
-  Languages: commun, céleste, géant, infernal, umbral
-  Challenge: 5 (1 800PX)
   DamageResistances: de froid, de feu, de foudre; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, épuisé, terrorisé, empoisonné, inconscient
+  Senses: vision parfaite 18m, Perception passive 12
+  Languages: commun, céleste, géant, infernal, umbral
+  Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#marchand-de-sable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -44335,11 +44335,11 @@ SubItems:
   HitPoints: 38 (11d4+22)
   Speed: 6 m
   SavingThrows: Dex+7
+  DamageResistances: perforants issus d’armes non magiques
+  DamageImmunities: de foudre, de tonnerre
   Senses: Perception passive 10
   Languages: commun, sylvestre
   Challenge: 3 (700 PX)
-  DamageResistances: perforants issus d’armes non magiques
-  DamageImmunities: de foudre, de tonnerre
   Id: tome_of_beasts.md#marcheflèche
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -44501,11 +44501,11 @@ SubItems:
   Speed: 9m
   SavingThrows: For +9, Dex+6, Con +8, Cha +8
   Skills: Athlétisme +9, Nature +5, Perception +5
+  DamageResistances: d’acide, de feu, nécrotiques ; contondants, perforants et tranchants issus d’armes non magiques
+  DamageImmunities: de froid, de foudre
   Senses: vision dans le noir 27 m, Perception passive 15
   Languages: commun, infernal, sylvestre
   Challenge: 12 (8 400 PX)
-  DamageResistances: d’acide, de feu, nécrotiques ; contondants, perforants et tranchants issus d’armes non magiques
-  DamageImmunities: de froid, de foudre
   Id: tome_of_beasts.md#mavka
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -44685,12 +44685,12 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex +4, Con +7
   Skills: Athlétisme +9, Discrétion +4, Perception +4
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Languages: commun, infernal
-  Challenge: 5 (1 800PX)
   DamageResistances: d’acide, de feu et de froid; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: commun, infernal
+  Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#abomination-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -44872,10 +44872,10 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 25 (10d4)
   Speed: 12 m, escalade 12 m
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Challenge: 1 (200 PX)
   DamageImmunities: de poison
   ConditionImmunities: assourdi, aveuglé, charmé, empoisonné, épuisé, paralysé et terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#araignée-tisseuse-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45019,10 +45019,10 @@ SubItems:
   Speed: 12m
   SavingThrows: For +5, Dex +4
   Skills: Perception +4, Survie +4
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Challenge: 3 (700 PX)
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#chasseur-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45178,10 +45178,10 @@ SubItems:
   Speed: 15 m
   SavingThrows: Dex +4, Con +4
   Skills: Athlétisme+7, Perception+4
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Challenge: 2 (450PX)
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#chien-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45336,10 +45336,10 @@ SubItems:
   HitPoints: 55 (10d8+10)
   Speed: 9m
   Skills: Athlétisme+4, Perception+4
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Challenge: 1/2 (100 PX)
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#gendarme-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45483,10 +45483,10 @@ SubItems:
   Speed: 9m
   SavingThrows: For +11, Dex +5
   Skills: Athlétisme+8, Perception+6
-  Senses: vision dans le noir 18 m, Perception passive 16
-  Challenge: 6 (2 300PX)
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 16
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#myrmidon-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45652,11 +45652,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 15 (6d4)
   Speed: 9 m, vol 15 m
+  DamageImmunities: de poison et psychiques
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: comprend le commun, télépathie 30 m (seulement avec son créateur)
   Challenge: 1/2 (100 PX)
-  DamageImmunities: de poison et psychiques
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
   Id: tome_of_beasts.md#scarabée-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45786,12 +45786,12 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 28 (8d6)
   Speed: 6 m
+  DamageImmunities: de poison et psychiques
+  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient
   Senses: vision 6 m (aveugle au-delà du rayon de sa propre lumière), Perception passive 10
   Languages: partage un lien télépathique avec celui qui a allumé sa mèche.
   Challenge: 1/4 (50 PX)
   DamageVulnerabilities: de feu
-  DamageImmunities: de poison et psychiques
-  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient
   Id: tome_of_beasts.md#mèche-vivante
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45939,10 +45939,10 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 102 (12d10+36)
   Speed: 1,50 m, vol 6 m (vol stationnaire)
+  DamageImmunities: de foudre
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: —
   Challenge: 4 (1 100PX)
-  DamageImmunities: de foudre
   Id: tome_of_beasts.md#médazur-À-défenses
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -46213,10 +46213,10 @@ SubItems:
   Speed: 9 m, vol 18 m
   SavingThrows: For +6, Con +8, Cha +4
   Skills: Arcanes +10, Supercherie +7, Médecine +5, Perception +5, Discrétion +7
+  DamageResistances: radiants, de froid
   Senses: vision aveugle 9 m, vision dans le noir 72 m, Perception passive 15
   Languages: commun, mi-go, langue du Vide
   Challenge: 5 (1 800PX)
-  DamageResistances: radiants, de froid
   Id: tome_of_beasts.md#mi-go
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -46381,10 +46381,10 @@ SubItems:
   HitPoints: 85 (10d10+30)
   Speed: 12 m, fouissement 6 m, escalade 9 m
   Skills: Acrobaties +4
-  Senses: vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 11
-  Challenge: 3 (700 PX)
   DamageResistances: de poison; contondants et tranchants issus d’armes non magiques
   ConditionImmunities: à terre
+  Senses: vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 11
+  Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#millitaure
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -46505,11 +46505,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 32 (5d8+10)
   Speed: 9 m, vol 4,50 m
+  DamageImmunities: d’acide
+  ConditionImmunities: à terre
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: —
   Challenge: 1/4 (50 PX)
-  DamageImmunities: d’acide
-  ConditionImmunities: à terre
   Id: tome_of_beasts.md#mimique-carte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -46645,11 +46645,11 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 168 (16d12+64)
   Speed: 3 m
+  DamageImmunities: d’acide
+  ConditionImmunities: à terre
   Senses: vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 14
   Languages: —
   Challenge: 8 (5 900 PX)
-  DamageImmunities: d’acide
-  ConditionImmunities: à terre
   Id: tome_of_beasts.md#mimique-des-dunes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -47125,11 +47125,11 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+6, Con +5, Sag +5
   Skills: Intimidation +3, Perception +5, Discrétion +6
+  DamageImmunities: de froid
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: comprend l’elfique et l’umbral mais ne peut pas parler
   Challenge: 5 (1 800PX)
   DamageVulnerabilities: de feu
-  DamageImmunities: de froid
   Id: tome_of_beasts.md#molosse-nocturne
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -47288,13 +47288,13 @@ SubItems:
   HitPoints: 58 (9d8+18)
   Speed: 6 m
   SavingThrows: Sag +2
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: celles qu’il parlait de son vivant
   Challenge: 3 (700 PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   DamageVulnerabilities: de feu
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#momie-venimeuse
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -47442,11 +47442,11 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 102 (12d10+36)
   Speed: 12m
+  DamageImmunities: de poison ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: elfique, umbral
   Challenge: 8 (3 900PX)
-  DamageImmunities: de poison ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#champion-monolithique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -47588,11 +47588,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 60 (8d10+16)
   Speed: 12m
+  DamageImmunities: de poison ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: elfique, umbral
   Challenge: 3 (700 PX)
-  DamageImmunities: de poison ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#valet-monolithique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -47735,12 +47735,12 @@ SubItems:
   HitPoints: 207 (18d12+90)
   Speed: 9m
   SavingThrows: Con +9, Int +3, Sag +4
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Languages: comprend le commun mais ne peut pas parler
-  Challenge: 11 (7 200PX)
   DamageResistances: nécrotiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé et terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: comprend le commun mais ne peut pas parler
+  Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#montagne-de-cadavres
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48039,12 +48039,12 @@ SubItems:
   Speed: 0 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex+8, Con +6, Sag +6
   Skills: Discrétion +8, Perception +6
-  Senses: vision dans le noir 18 m, Perception passive 16
-  Languages: celles qu’il parlait de son vivant
-  Challenge: 7 (2 900PX)
   DamageResistances: d’acide, de froid, de feu, de foudre, de tonnerre; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: à terre, charmé, empoigné, empoisonné, entravé, épuisé, paralysé, pétrifié
+  Senses: vision dans le noir 18 m, Perception passive 16
+  Languages: celles qu’il parlait de son vivant
+  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#mort-follet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48216,11 +48216,11 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 95 (10d10+40)
   Speed: 1,50 m, escalade 1,50 m
+  DamageResistances: d’acide, de froid, de feu ; tranchants infligés par des armes non magiques
+  ConditionImmunities: assourdi, à terre, charmé, étourdi, inconscient, paralysé et terrorisé
   Senses: perception des vibrations 18 m, Perception passive 11
   Languages: —
   Challenge: 4 (1 100PX)
-  DamageResistances: d’acide, de froid, de feu ; tranchants infligés par des armes non magiques
-  ConditionImmunities: assourdi, à terre, charmé, étourdi, inconscient, paralysé et terrorisé
   Id: tome_of_beasts.md#mousse-luminescente-des-cavernes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48350,11 +48350,11 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 45 (10d6+10)
   Speed: 9 m, fouissement 3 m
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Challenge: 2 (450PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, terrorisé, empoisonné, étourdi, inconscient
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#myling
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48492,11 +48492,11 @@ SubItems:
   Speed: 12 m, vol 36 m
   SavingThrows: Dex +7, Con +9, Int +6, Sag +8, Cha +8
   Skills: Arcanes +6, Escamotage +7, Perception +8, Perspicacité +8, Persuasion +8, Supercherie +8
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
+  ConditionImmunities: empoisonné, inconscient, paralysé
   Senses: vision dans le noir 18 m, Perception passive 18
   Languages: commun, darakhul, draconique, elfique, sylvestre
   Challenge: 11 (7 200PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
-  ConditionImmunities: empoisonné, inconscient, paralysé
   Id: tome_of_beasts.md#naïna
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48725,13 +48725,13 @@ SubItems:
   HitPoints: 207 (18d8 +126)
   Speed: 12m
   SavingThrows: For +11, Dex+9, Con +12, Int +7, Sag +8, Cha +9
+  DamageResistances: d’acide, de feu, de foudre, de froid; contondants, perforants et tranchants issus d’armes non magiques
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, empoisonné, étourdi, inconscient
   Senses: vision dans le noir 36 m, vision parfaite 9 m, Perception passive 13
   Languages: commun, géant, infernal
   Challenge: 13 (10 000 PX)
-  DamageResistances: d’acide, de feu, de foudre, de froid; contondants, perforants et tranchants issus d’armes non magiques
   DamageVulnerabilities: radiants
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, empoisonné, étourdi, inconscient
   Id: tome_of_beasts.md#nécrophage-masqué
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48919,10 +48919,10 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 127 (15d10+45)
   Speed: 9 m, fouissement 6 m, escalade 3 m
+  ConditionImmunities: paralysé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: —
   Challenge: 4 (1 100PX)
-  ConditionImmunities: paralysé
   Id: tome_of_beasts.md#nécrophore
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -49054,12 +49054,12 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex+7
   Skills: Acrobaties +7, Perception +7, Perspicacité +7
-  Senses: vision dans le noir 18 m, Perception passive 17
-  Languages: elfique, primordial, sylvestre, langue du Vide
-  Challenge: 6 (2 300PX)
   DamageResistances: d’acide, de froid, de feu, de foudre; contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas en argent
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, inconscient, paralysé, terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 17
+  Languages: elfique, primordial, sylvestre, langue du Vide
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#nichny
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -49596,10 +49596,10 @@ SubItems:
   HitPoints: 114 (12d10+48)
   Speed: 6 m (bipède), 12 m (quadrupède)
   Skills: Discrétion +5, Perception +5
+  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: commun, géant, gobelin, télépathie à 60 m (avec les factices uniquement)
   Challenge: 6 (2 300PX)
-  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas en argent
   DamageVulnerabilities: radiants ; aux armes en argentradiants; aux armes en argent
   Id: tome_of_beasts.md#noctegarm
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -49779,10 +49779,10 @@ SubItems:
   ArmorClass: 13 (armure de cuir clouté)
   HitPoints: 52 (8d8+16)
   Speed: 9m
+  ConditionImmunities: terrorisé
   Senses: Perception passive 10
   Languages: commun et les langues que parle le maître fext du noctin
   Challenge: 2 (450PX)
-  ConditionImmunities: terrorisé
   Id: tome_of_beasts.md#noctin
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -49932,11 +49932,11 @@ SubItems:
   Speed: 15 m, vol 15 m (vol stationnaire)
   SavingThrows: For +5, Dex +6
   Skills: Perception +3, Discrétion +6
-  Senses: vision dans le noir 36 m, Perception passive 13
-  Challenge: 6 (2 300PX)
   DamageResistances: nécrotiques, contondants, perforants et tranchants
   DamageImmunities: de froid
   ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Senses: vision dans le noir 36 m, Perception passive 13
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#nuée-d’esprits-lupins
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50091,11 +50091,11 @@ SubItems:
   HitPoints: 110 (13d10+39)
   Speed: 1,50 m, vol 12 m (vol stationnaire)
   Skills: Discrétion +7, Intuition+6, Perception +6
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: à terre, charmé, pétrifié, entravé, étourdi, paralysé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: comprend le commun, mais ne peut pas parler
   Challenge: 4 (1 100PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: à terre, charmé, pétrifié, entravé, étourdi, paralysé, terrorisé
   Id: tome_of_beasts.md#nuée-d’yeux
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50231,11 +50231,11 @@ SubItems:
   ArmorClass: 15
   HitPoints: 90 (12d8+36)
   Speed: 9 m, vol 9 m (vol stationnaire)
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Challenge: 7 (2 900PX)
   DamageResistances: contondants, perforants et tranchants
   DamageImmunities: de feu, de poison
   ConditionImmunities: épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi, inconscient
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#nuée-de-danseflammes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50377,11 +50377,11 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 60 (11d10)
   Speed: 1,50 m, vol 12 m (vol stationnaire)
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: à terre, charmé, entravé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Challenge: 4 (1 100PX)
-  DamageResistances: contondants, perforants et tranchants
   DamageVulnerabilities: de feu, de froid
-  ConditionImmunities: à terre, charmé, entravé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#nuée-de-papillons-de-mort
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50527,11 +50527,11 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 84 (13d12)
   Speed: 1,50 m, vol 12 m (vol stationnaire)
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: à terre, charmé, entravé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 12
   Challenge: 6 (2 300PX)
-  DamageResistances: contondants, perforants et tranchants
   DamageVulnerabilities: de feu, de froid
-  ConditionImmunities: à terre, charmé, entravé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#grande-nuée-de-papillons-de-mort
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50674,11 +50674,11 @@ SubItems:
   HitPoints: 75 (10d8+30)
   Speed: 6 m, fouissement 1,50 m, escalade 6 m
   Skills: Perception +3, Discrétion +5
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Senses: vision aveugle 3 m, vision dans le noir 9 m, perception des vibrations 9 m, Perception passive 13
   Languages: —
   Challenge: 4 (1 100PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Id: tome_of_beasts.md#nuée-de-scarabées-manavores
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50942,11 +50942,11 @@ SubItems:
   HitPoints: 38 (7d8+7)
   Speed: 6 m, fouissement 1,50 m, escalade 9 m
   Skills: Perception +3, Discrétion +5
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Senses: vision aveugle 3 m, vision dans le noir 9 m, Perception passive 13
   Languages: —
   Challenge: 3 (700 PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Id: tome_of_beasts.md#nuée-de-scarabées-prismatiques
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51086,12 +51086,12 @@ SubItems:
   ArmorClass: 13
   HitPoints: 54 (12d8)
   Speed: 9 m, vol 15 m
+  DamageResistances: de froid ; contondants, perforants et tranchants
+  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, sylvestre
   Challenge: 3 (700 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants
   DamageVulnerabilities: de feu
-  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Id: tome_of_beasts.md#nuée-de-sluaghs
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51232,13 +51232,13 @@ SubItems:
   Speed: 6m, vol 18m
   SavingThrows: Dex +8, Sag +6, Cha +9
   Skills: Acrobatics +8, Discrétion +8, Perception +6
+  DamageResistances: perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, charmé, empoisonné, entravé, épuisé, étourdi, paralysé, terrorisé
   Senses: vision dans le noir 18m, Perception passive 16
   Languages: commun, langue du Vide
   Challenge: 10 (5 900 PX)
-  DamageResistances: perforants et tranchants infligés par des armes non magiques
   DamageVulnerabilities: contondants
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, charmé, empoisonné, entravé, épuisé, étourdi, paralysé, terrorisé
   Id: tome_of_beasts.md#nuée-osseuse
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51400,12 +51400,12 @@ SubItems:
   Speed: 0 m, vol 9 m (vol stationnaire)
   SavingThrows: Dex+4, Con +4, Int +4
   Skills: Acrobaties +4, Arcanes +4, Supercherie +5, Histoire+4, Perception +3, Persuasion +5, Religion +4
-  Senses: vision aveugle 18 m
-  Languages: commun, draconique; télépathie 75 m
-  Challenge: 1 (200 PX)
   DamageResistances: de froid, de feu ; dégâts perforants
   DamageImmunities: de poison
   ConditionImmunities: aveuglé, assourdi, épuisé, paralysé, pétrifié, empoisonné, à terre, inconscient
+  Senses: vision aveugle 18 m
+  Languages: commun, draconique; télépathie 75 m
+  Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#Œil-d’Émeraude
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51573,12 +51573,12 @@ SubItems:
   Speed: 6 m, vol 30 m
   SavingThrows: Dex +6, Con +4, Int +5, Sag +4, Cha +7
   Skills: Acrobaties +6, Arcanes +5, Perspicacité +4, Médecine +4, Nature +5, Perception +7, Religion +5
-  Senses: vision parfaite 18 m, Perception passive 17
-  Languages: céleste, commun, elfique, primordial, sylvestre
-  Challenge: 4 (1 100PX)
   DamageResistances: de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de feu
   ConditionImmunities: charmé, terrorisé, invisible
+  Senses: vision parfaite 18 m, Perception passive 17
+  Languages: céleste, commun, elfique, primordial, sylvestre
+  Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#oiseau-de-feu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51762,12 +51762,12 @@ SubItems:
   ArmorClass: 15
   HitPoints: 39 (6d8+12)
   Speed: vol 15 m (vol stationnaire)
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Challenge: 4 (1 100PX) de Charisme. Elle est désavantagée sur les jets de sauvegarde de Sagesse et ne peut pas se concentrer sur un sort ou un effet pendant plus d’un tour. Elle fait un test de Sagesse (Perspicacité) DD 13 toutes les 24 heures. Si elle le réussit, elle comprend que la musique qu’elle entend émane d’une entité extérieure. La symbiose auditive persiste jusqu’à ce que la cible tombe à 0point de vie, que l’ostinato y mette un terme par une action bonus ou que l’ostinato se fasse chasser par dissipation du mal et du bien ou une magie similaire. Quand la symbiose auditive se termine, l’ostinato surgit dans une explosion sonore et apparaît dans un emplacement inoccupé dans un rayon de 1,50mètre autour de la cible. Toutes les créatures dans un rayon de 18mètres, y compris la cible originelle, subissent 21 (6d6)dégâts de tonnerre, ou moitié moins si elles réussissent un jet de sauvegarde de Constitution DD 13. La cible est immunisée contre la symbiose auditive de l’ostinato pendant 24 heures si elle réussit le jet de sauvegarde ou une fois la symbiose terminée.
   DamageResistances: d’acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d’armes non magiques
-  DamageVulnerabilities: de tonnerre
   DamageImmunities: de poison
   ConditionImmunities: à terre, charmé, empoigné, empoisonné, épuisé, entravé, inconscient, paralysé, pétrifié
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Challenge: 4 (1 100PX) de Charisme. Elle est désavantagée sur les jets de sauvegarde de Sagesse et ne peut pas se concentrer sur un sort ou un effet pendant plus d’un tour. Elle fait un test de Sagesse (Perspicacité) DD 13 toutes les 24 heures. Si elle le réussit, elle comprend que la musique qu’elle entend émane d’une entité extérieure. La symbiose auditive persiste jusqu’à ce que la cible tombe à 0point de vie, que l’ostinato y mette un terme par une action bonus ou que l’ostinato se fasse chasser par dissipation du mal et du bien ou une magie similaire. Quand la symbiose auditive se termine, l’ostinato surgit dans une explosion sonore et apparaît dans un emplacement inoccupé dans un rayon de 1,50mètre autour de la cible. Toutes les créatures dans un rayon de 18mètres, y compris la cible originelle, subissent 21 (6d6)dégâts de tonnerre, ou moitié moins si elles réussissent un jet de sauvegarde de Constitution DD 13. La cible est immunisée contre la symbiose auditive de l’ostinato pendant 24 heures si elle réussit le jet de sauvegarde ou une fois la symbiose terminée.
+  DamageVulnerabilities: de tonnerre
   Id: tome_of_beasts.md#ostinato
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51929,13 +51929,13 @@ SubItems:
   Speed: 6 m, escalade 6 m, nage 6 m
   SavingThrows: Int +5, Sag +10, Cha +8
   Skills: Histoire +5, Perception +10, Perspicacité +10, Supercherie +8
+  DamageResistances: de feu, de foudre; contondants, perforants et tranchants issus d’armes non magiques
+  DamageImmunities: d’acide
+  ConditionImmunities: aveuglé, assourdi, à terre, charmé, épuisé, terrorisé
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), perception des vibrations 36 m, Perception passive 20
   Languages: comprend toutes les langues, mais ne peut pas parler, télépathie à 36 m
   Challenge: 9 (5 000PX)
-  DamageResistances: de feu, de foudre; contondants, perforants et tranchants issus d’armes non magiques
   DamageVulnerabilities: de tonnerre
-  DamageImmunities: d’acide
-  ConditionImmunities: aveuglé, assourdi, à terre, charmé, épuisé, terrorisé
   Id: tome_of_beasts.md#ovasis
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -52113,11 +52113,11 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 36 (8d8)
   Speed: 9m
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: à terre, charmé , étourdi, paralysé, pétrifié et terrorisé
   Senses: Perception passive 11
   Languages: —
   Challenge: 2 (450PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: à terre, charmé , étourdi, paralysé, pétrifié et terrorisé
   Id: tome_of_beasts.md#pavenuée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -52263,12 +52263,12 @@ SubItems:
   ArmorClass: 18 (armure naturelle)
   HitPoints: 264 (16d20+96)
   Speed: 3 m, fouissement 6 m
-  Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 12
-  Languages: commun, primordial
-  Challenge: 15 (13 000 PX)
   DamageResistances: contondants issus d’armes non magiques
   DamageImmunities: d’acide
   ConditionImmunities: à terre
+  Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 12
+  Languages: commun, primordial
+  Challenge: 15 (13 000 PX)
   Id: tome_of_beasts.md#piège-caustique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -52584,10 +52584,10 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 110 (13d10+39)
   Speed: 12m
+  DamageResistances: de force, poison
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: —
   Challenge: 5 (1 800PX)
-  DamageResistances: de force, poison
   Id: tome_of_beasts.md#pourceau-des-failles
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -52857,11 +52857,11 @@ SubItems:
   HitPoints: 75 (10d8+30)
   Speed: 9m
   Skills: Discrétion +4, Perception +4
-  Senses: vision dans le noir 18m, Perception passive 14
-  Challenge: 4 (1100 PX)
   DamageResistances: nécrotiques; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
+  Senses: vision dans le noir 18m, Perception passive 14
+  Challenge: 4 (1100 PX)
   Id: tome_of_beasts.md#profanateur-maudit
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -53010,10 +53010,10 @@ SubItems:
   HitPoints: 91 (14d8+28)
   Speed: 9 m, nage 9 m
   SavingThrows: For +5, Con +4, Cha +3
+  DamageResistances: de froid
   Senses: vision dans le noir 36 m, Perception passive 9
   Languages: commun, langue du Vide
   Challenge: 2 (450PX)
-  DamageResistances: de froid
   DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#profond
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -53164,10 +53164,10 @@ SubItems:
   Speed: 12 m, nage 12 m
   SavingThrows: Dex +5, Sag +6, Cha +7
   Skills: Arcanes +4, Perception+6
+  DamageResistances: de froid, de tonnerre
   Senses: vision dans le noir 72 m, Perception passive 16
   Languages: commun, langue du Vide
   Challenge: 8 (3 900PX)
-  DamageResistances: de froid, de tonnerre
   DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#archimandrite-profond
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -53366,10 +53366,10 @@ SubItems:
   Speed: 9 m, nage 9 m
   SavingThrows: Con +5, Sag +3, Cha +4
   Skills: Athlétisme +6, Perception +3, Supercherie +4
+  DamageResistances: de froid
   Senses: vision dans le noir 36 m, Perception passive 13
   Languages: commun, langue du Vide
   Challenge: 4 (1 100PX)
-  DamageResistances: de froid
   DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#prêtre-profond-hybride
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -53560,10 +53560,10 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +8, Cha +6
   Skills: Acrobaties +11, Perception+4
+  DamageResistances: d’acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d’armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: commun, gobelin, infernal, sylvestre, langue du Vide
   Challenge: 8 (3 900PX)
-  DamageResistances: d’acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d’armes non magiques
   Id: tome_of_beasts.md#qwyllion
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -53845,10 +53845,10 @@ SubItems:
   Speed: 6 m, escalade 6 m
   SavingThrows: Sag +4, Cha +6
   Skills: Discrétion +6, Perception+6, Supercherie +6
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: céleste, commun ; télépathie 30 m
   Challenge: 4 (1 100PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Id: tome_of_beasts.md#ratatosk
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -54193,12 +54193,12 @@ SubItems:
   HitPoints: 126 (12d10+60)
   Speed: 9m
   SavingThrows: Sag +6, Cha +4
+  DamageResistances: contondants et perforants
+  ConditionImmunities: assourdi et aveuglé
   Senses: Perception passive 13
   Languages: commun, druidique, elfique, sylvestre
   Challenge: 5 (1 800PX)
-  DamageResistances: contondants et perforants
   DamageVulnerabilities: de feu, de froid
-  ConditionImmunities: assourdi et aveuglé
   Id: tome_of_beasts.md#ravenala
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -54498,11 +54498,11 @@ SubItems:
   HitPoints: 63 (14d10 - 14)
   Speed: 9 m, escalade 9 m, nage 6 m
   Skills: Escamotage +5, Perception +3
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: —
   Challenge: 4 (1 100PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Id: tome_of_beasts.md#nuée-de-rôdeurs-des-quais
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -54650,11 +54650,11 @@ SubItems:
   Speed: 9m
   SavingThrows: For +4, Dex +4
   Skills: Perception +2, Discrétion +4
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: aveuglé et empoisonné
   Senses: vision aveugle 18 m, Perception passive 12
   Languages: géant, sylvestre, trollien
   Challenge: 1 (200 PX)
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: aveuglé et empoisonné
   Id: tome_of_beasts.md#rôdeur-moussu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -54834,12 +54834,12 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 76 (9d8+36)
   Speed: 9 m, fouissement 6 m
-  Senses: vision dans le noir 18 m, Perception passive 12
-  Languages: commun, argot des voleurs
-  Challenge: 5 (1 800PX)
   DamageResistances: contondants, perforants et tranchants
   DamageImmunities: de poison
   ConditionImmunities: à terre, charmé, entravé, étourdi, paralysé, pétrifié, terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 12
+  Languages: commun, argot des voleurs
+  Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#roi-des-rats
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -54999,10 +54999,10 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 88 (16d8+16)
   Speed: 9 m, nage 12 m
-  Senses: vision dans le noir 18 m, Perception passive 12
-  Challenge: 6 (2 300PX)
   DamageImmunities: nécrotiques, de poison; contondants, perforants et tranchants issus d’armes non magiques
   ConditionImmunities: charmé, empoisonné, paralysé, terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 12
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#roussalka
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -55304,13 +55304,13 @@ SubItems:
   Speed: 3 m, vol 18 m
   SavingThrows: For +4, Dex +8
   Skills: Supercherie +4, Perception +5, Discrétion +8
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d’armes non magiques
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, paralysé, épuisé, empoisonné, étourdi, inconscient
   Senses: vision dans le noir 72 m, Perception passive 15
   Languages: commun, darakhul
   Challenge: 12 (8 400 PX)
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d’armes non magiques
   DamageVulnerabilities: radiants
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, paralysé, épuisé, empoisonné, étourdi, inconscient
   Id: tome_of_beasts.md#sarcoptère
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -55495,10 +55495,10 @@ SubItems:
   HitPoints: 153 (18d6+72)
   Speed: 6 m, escalade 4,50 m
   SavingThrows: For +10, Con +10
+  ConditionImmunities: inconscient
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, darakhul, elfique
   Challenge: 6 (2 300PX)
-  ConditionImmunities: inconscient
   Id: tome_of_beasts.md#scheznyki
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -55909,10 +55909,10 @@ SubItems:
   HitPoints: 105 (14d8+42)
   Speed: 9m
   SavingThrows: Con +6, Sag +6, Cha +7
+  ConditionImmunities: assourdi et aveuglé
   Senses: vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 13
   Challenge: 7 (2 900PX)
   DamageVulnerabilities: de feu
-  ConditionImmunities: assourdi et aveuglé
   Id: tome_of_beasts.md#seigneur-des-lianes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -56078,11 +56078,11 @@ SubItems:
   ArmorClass: 13 (armure de cuir clouté)
   HitPoints: 34 (4d8+16)
   Speed: 9m
+  ConditionImmunities: assourdi et aveuglé
   Senses: vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 8
   Languages: —
   Challenge: 2 (450PX)
   DamageVulnerabilities: de feu
-  ConditionImmunities: assourdi et aveuglé
   Id: tome_of_beasts.md#marionnette-des-lianes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -56236,11 +56236,11 @@ SubItems:
   Speed: 12m
   SavingThrows: Dex+4, Con +6, Cha+6
   Skills: Perception +6, Discrétion +8
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
+  DamageImmunities: d’acide, de foudre
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: commun, elfique, sylvestre, langue du Vide
   Challenge: 4 (1 100PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
-  DamageImmunities: d’acide, de foudre
   Id: tome_of_beasts.md#sélang
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -56639,11 +56639,11 @@ SubItems:
   HitPoints: 85 (10d10+30)
   Speed: 12 m, nage 9 m
   Skills: Perception +3, Discrétion +5 (+7 dans le sable ou les marais)
+  DamageResistances: de poison
+  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18 m, Perception passive13
   Languages: —
   Challenge: 4 (1 100PX)
-  DamageResistances: de poison
-  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#serpopard
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -56799,11 +56799,11 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 102 (12d8+48)
   Speed: 12m
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 8 (3 900PX)
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#shabti
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57113,11 +57113,11 @@ SubItems:
   ArmorClass: 18 (armure naturelle)
   HitPoints: 387 (25d12+225)
   Speed: 15 m, escalade 9 m, nage 9 m
-  Senses: vision dans le noir 36 m, perception des vibrations 18m, Perception passive 19
-  Challenge: 19 (22 000 PX)
   DamageResistances: de feu, contondants et perforants
   DamageImmunities: de froid, de tonnerre, tranchants
   ConditionImmunities: aveuglé, assourdi, à terre, étourdi, inconscient
+  Senses: vision dans le noir 36 m, perception des vibrations 18m, Perception passive 19
+  Challenge: 19 (22 000 PX)
   Id: tome_of_beasts.md#shoggoth
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57277,12 +57277,12 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 105 (14d8+42)
   Speed: 9 m, fouissement 9 m
-  Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 11
-  Languages: celles qu’elle parlait de son vivant
-  Challenge: 6 (2 300PX)
   DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
+  Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 11
+  Languages: celles qu’elle parlait de son vivant
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#silhouette-de-sable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57449,11 +57449,11 @@ SubItems:
   HitPoints: 10 (4d4)
   Speed: vol 15 m
   Skills: Perception +3
+  DamageImmunities: de poison, radiants
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: comprend la langue de son créateur, mais ne peut pas parler
   Challenge: 1/4 (50 PX)
-  DamageImmunities: de poison, radiants
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#sorcelueur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57603,11 +57603,11 @@ SubItems:
   Speed: 9 m, vol 9m
   SavingThrows: Int +8, Sag +10, Cha +10
   Skills: Histoire +8, Perspicacité +15, Perception +15
+  DamageResistances: radiants
+  DamageImmunities: de feu, de foudre, psychiques
   Senses: vision parfaite 18m, Perception passive 25
   Languages: céleste, télépathie (30 m)
   Challenge: 12 (8 400 PX)
-  DamageResistances: radiants
-  DamageImmunities: de feu, de foudre, psychiques
   Id: tome_of_beasts.md#sorcière-de-l’Écheveau
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57788,12 +57788,12 @@ SubItems:
   HitPoints: 171 (18d10+72)
   Speed: 12 m, vol 21 m
   Skills: Arcanes +9, Histoire +9, Perception +9, Religion +9
-  Senses: vision parfaite 27 m, Perception passive 19
-  Languages: abyssal, commun, darakhul, sphinx
-  Challenge: 14 (11 500 PX)
   DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: psychiques, de poison
   ConditionImmunities: empoisonné
+  Senses: vision parfaite 27 m, Perception passive 19
+  Languages: abyssal, commun, darakhul, sphinx
+  Challenge: 14 (11 500 PX)
   Id: tome_of_beasts.md#gypsosphinx
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -58031,12 +58031,12 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 119 (14d10+42)
   Speed: 9m
-  Senses: vision dans le noir 18 m, Perception passive 12
-  Languages: —
-  Challenge: 9 (5 000PX)
   DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: assourdi, épuisé et empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 12
+  Languages: —
+  Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#squelette-de-troll-des-lianes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -58179,12 +58179,12 @@ SubItems:
   HitPoints: 45 (6d10+12)
   Speed: 9 m, nage 9 m
   Skills: Perception +1, Discrétion +2
+  DamageImmunities: de froid, nécrotiques, de poison
+  ConditionImmunities: épuisé et empoisonné
   Senses: vision dans le noir 18 m, ouïe fine 9 m, Perception passive 11
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 1 (200 PX)
   DamageVulnerabilities: contondants
-  DamageImmunities: de froid, nécrotiques, de poison
-  ConditionImmunities: épuisé et empoisonné
   Id: tome_of_beasts.md#squelette-en-mâchoires-de-requin
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -58482,12 +58482,12 @@ SubItems:
   HitPoints: 190 (20d8+100)
   Speed: 12 m, escalade 12 m
   SavingThrows: For +11, Dex+9, Con +10, Cha +7
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Languages: commun, infernal ; télépathie 30 m
-  Challenge: 13 (10 000 PX)
   DamageResistances: d’acide, de feu; contondants et perforants issus d’armes non magiques
   DamageImmunities: de froid, de poison
   ConditionImmunities: empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: commun, infernal ; télépathie 30 m
+  Challenge: 13 (10 000 PX)
   Id: tome_of_beasts.md#stuhac
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -58798,10 +58798,10 @@ SubItems:
   HitPoints: 97 (13d8+39)
   Speed: 9 m
   Skills: Médecine +6, Religion +3
+  DamageResistances: nécrotiques; contondants, perforants et tranchants issus d’armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: celles qu’il parlait de son vivant
   Challenge: 5 (1 800PX)
-  DamageResistances: nécrotiques; contondants, perforants et tranchants issus d’armes non magiques
   DamageVulnerabilities: radiants
   Id: tome_of_beasts.md#suffragan-cœur-de-vers
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -59086,10 +59086,10 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 105 (10d12+40)
   Speed: 9m
+  DamageResistances: contondants et perforants
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, druidique, elfique, sylvestre
   Challenge: 6 (2 300PX)
-  DamageResistances: contondants et perforants
   DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#sylvanien-pleureur
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -59243,11 +59243,11 @@ SubItems:
   HitPoints: 71 (11d8+22)
   Speed: 9m
   SavingThrows: Dex +2, Con +5
-  Senses: Perception passive 13
-  Challenge: 6 (2 300PX)
   DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, terrorisé, épuisé, empoisonné
+  Senses: Perception passive 13
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#templier-mécaforgé
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -59415,13 +59415,13 @@ SubItems:
   Speed: 0 m, vol 30 m (vol stationnaire)
   SavingThrows: Int +4, Sag +4, Cha +6
   Skills: Perception +4
+  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d’armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, épuisé, empoigné, empoisonné, entravé, inconscient, paralysé, pétrifié
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: commun, nain, primordial
   Challenge: 10 (5 900 PX)
-  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d’armes non magiques
   DamageVulnerabilities: de feu
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, épuisé, empoigné, empoisonné, entravé, inconscient, paralysé, pétrifié
   Id: tome_of_beasts.md#thuellai
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -59615,10 +59615,10 @@ SubItems:
   Speed: 15 m
   SavingThrows: Con +10, Sag +7, Cha +9
   Skills: Athlétisme +12, Intimidation +9, Perception +7
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Senses: vision dans le noir 36 m, Perception passive 17
   Languages: commun, géant, primordial, titan, télépathie à 60 mètres
   Challenge: 12 (8 400 PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Id: tome_of_beasts.md#titan-antique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -60082,11 +60082,11 @@ SubItems:
   Speed: 9m
   SavingThrows: For +10, Con +8, Dex +3
   Skills: Perception +3
-  Senses: vision dans le noir 60 m, Perception passive 13
-  Challenge: 8 (3 900PX)
   DamageResistances: nécrotiques
   DamageImmunities: de feu, de froid, de poison
   ConditionImmunities: empoisonné, épuisé , paralysé, pétrifié, terrorisé
+  Senses: vision dans le noir 60 m, Perception passive 13
+  Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#tophet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -60241,11 +60241,11 @@ SubItems:
   HitPoints: 157 (15d10+75)
   Speed: 12 m, vol 18 m
   SavingThrows: Dex +11, Con +9, Sag +7, Cha +8
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 17
   Languages: commun, gnoll, infernal, profond, tosculi
   Challenge: 12 (8 400 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné
   Id: tome_of_beasts.md#reine-du-nid-tosculie
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -60989,9 +60989,9 @@ SubItems:
   Speed: 12m, nage 6m
   SavingThrows: Dex +7, Con +8
   Skills: Discrétion +11, Perception +10
+  DamageImmunities: de tonnerre
   Senses: vision dans le noir 18m, Perception passive 20
   Challenge: 9 (5000 PX)
-  DamageImmunities: de tonnerre
   Id: tome_of_beasts.md#ukavac
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -61146,12 +61146,12 @@ SubItems:
   HitPoints: 40 (9d4+18)
   Speed: 9 m, vol 18 m
   Skills: Perception +4
-  Senses: vision aveugle 3 m, Perception passive 14
-  Languages: comprend le céleste et le commun, mais ne peut pas parler
-  Challenge: 2 (450PX)
   DamageResistances: de feu ; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: épuisé
+  Senses: vision aveugle 3 m, Perception passive 14
+  Languages: comprend le céleste et le commun, mais ne peut pas parler
+  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#uraeus
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -61313,12 +61313,12 @@ SubItems:
   Speed: 12 m, escalade 6 m
   SavingThrows: Dex +8, Con +13, Sag +8, Cha +11
   Skills: Discrétion +8, Perception +8
-  Senses: vision parfaite 36 m, Perception passive 18
-  Languages: comprend le darakhul et la langue du Vide
-  Challenge: 17 (18 000PX)
   DamageResistances: de froid, de foudre ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en argent
   DamageImmunities: de tonnerre
   ConditionImmunities: terrorisé
+  Senses: vision parfaite 36 m, Perception passive 18
+  Languages: comprend le darakhul et la langue du Vide
+  Challenge: 17 (18 000PX)
   Id: tome_of_beasts.md#urochar-guetteur-Étrangleur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -61540,11 +61540,11 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +7, Cha +3
   Skills: Arcanes +4, Histoire +4, Perception +8
+  DamageImmunities: de poison ; contondants, perforants et tranchants issus d’armes non magiques
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 18
   Languages: langues anciennes au choix du MD
   Challenge: 9 (5 000PX)
-  DamageImmunities: de poison ; contondants, perforants et tranchants issus d’armes non magiques
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#ushabti
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -61717,11 +61717,11 @@ SubItems:
   HitPoints: 120 (16d8+48)
   Speed: 9m
   SavingThrows: Dex +4, Con +5, Sag +3, Cha +4
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, empoisonné, terrorisé
   Senses: vision parfaite 9 m, vision dans le noir 18m, Perception passive 11
   Languages: celles qu’il parlait de son vivant
   Challenge: 4 (1 100PX)
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, empoisonné, terrorisé
   Id: tome_of_beasts.md#vættir
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62050,12 +62050,12 @@ SubItems:
   Speed: 9 m, vol 9m
   SavingThrows: For +12, Dex +12, Con +11, Int +5, Sag +8, Cha +12
   Skills: Perception +8
-  Senses: vision parfaite 18m, Perception passive 18
-  Languages: commun, géant, nain, voir don des langues
-  Challenge: 11 (7 200PX)
   DamageResistances: d’acide, de froid, de feu, de foudre, de tonnerre
   DamageImmunities: contondants, perforants et tranchants issus d’armes non magiques
   ConditionImmunities: terrorisé
+  Senses: vision parfaite 18m, Perception passive 18
+  Languages: commun, géant, nain, voir don des langues
+  Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#valkyrie
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62281,12 +62281,12 @@ SubItems:
   Speed: 0 m, vol 12m (vol stationnaire)
   SavingThrows: Dex +7, Cha +7
   Skills: Discrétion +7, Perception +5
-  Senses: vision dans le noir 18 m, Perception passive 15
-  Languages: commun, langue du Vide, umbral
-  Challenge: 7 (2 900PX)
   DamageResistances: d’acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: de froid, nécrotiques, de poison
   ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, paralysé, pétrifié
+  Senses: vision dans le noir 18 m, Perception passive 15
+  Languages: commun, langue du Vide, umbral
+  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#vampire-umbral
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62464,12 +62464,12 @@ SubItems:
   ArmorClass: 12 (armure naturelle)
   HitPoints: 115 (10d10+60)
   Speed: 6 m, nage 9 m
-  Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 5
-  Languages: —
-  Challenge: 5 (1 800PX)
   DamageResistances: tranchants, contondants
   DamageImmunities: d’acide, de feu et de poison
   ConditionImmunities: empoisonné, épuisé , paralysé, pétrifié, terrorisé
+  Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 5
+  Languages: —
+  Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#vase-corruptrice
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62605,12 +62605,12 @@ SubItems:
   ArmorClass: 15
   HitPoints: 82 (11d10+22)
   Speed: 0 m, vol 18 m (vol stationnaire)
-  Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 10
-  Languages: —
-  Challenge: 6 (2 300PX)
   DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: à terre, charmé, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié, terrifié
+  Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 10
+  Languages: —
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#vent-putréfacteur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62753,10 +62753,10 @@ SubItems:
   HitPoints: 105 (10d10+50)
   Speed: 9 m, nage 9 m, fouissement (neige, glace) 9 m
   SavingThrows: For +8, Con +8
+  DamageImmunities: de froid, nécrotiques
   Senses: vision dans le noir 60 m, Perception passive 12
   Languages: —
   Challenge: 6 (2 300PX)
-  DamageImmunities: de froid, nécrotiques
   Id: tome_of_beasts.md#ver-givré-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62905,10 +62905,10 @@ SubItems:
   HitPoints: 45 (6d8+18)
   Speed: 9 m, nage 9 m, fouissement (neige, glace) 6 m
   SavingThrows: For +5, Con +5
+  DamageResistances: de froid
   Senses: vision dans le noir 60 m, Perception passive 11
   Languages: —
   Challenge: 1 (200 PX)
-  DamageResistances: de froid
   Id: tome_of_beasts.md#larve-de-ver-givré
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63050,11 +63050,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 133 (14d12+42)
   Speed: 6m, escalade 6 m
+  DamageImmunities: de poison
+  ConditionImmunities: assourdi, à terre, aveuglé, charmé, empoisonné
   Senses: perception des vibrations 18m, Perception passive 12
   Languages: —
   Challenge: 4 (1100 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: assourdi, à terre, aveuglé, charmé, empoisonné
   Id: tome_of_beasts.md#ver-pêcheur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63213,13 +63213,13 @@ SubItems:
   HitPoints: 172 (15d12+75)
   Speed: 6 m, fouissement 6 m, nage 6 m
   Skills: Perception +5, Discrétion +2 (+6 dans le sable, la boue ou les terrains rocheux)
+  DamageResistances: de feu, contondants, perforants et tranchants issus d’armes non magiques
+  DamageImmunities: d’acide, de poison
+  ConditionImmunities: épuisé, paralysé, pétrifié, empoisonné, inconscient
   Senses: perception des vibrations 18 m, Perception passive 15
   Languages: comprend le profond et le terreux mais ne peut pas parler
   Challenge: 10 (5 900 PX)
-  DamageResistances: de feu, contondants, perforants et tranchants issus d’armes non magiques
   DamageVulnerabilities: de tonnerre
-  DamageImmunities: d’acide, de poison
-  ConditionImmunities: épuisé, paralysé, pétrifié, empoisonné, inconscient
   Id: tome_of_beasts.md#ver-sathaq
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63373,11 +63373,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 95 (10d10+40)
   Speed: 9m
+  DamageImmunities: d’acide
+  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, à terre
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 8
   Languages: —
   Challenge: 4 (1 100PX)
-  DamageImmunities: d’acide
-  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, à terre
   Id: tome_of_beasts.md#verminhantée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63526,11 +63526,11 @@ SubItems:
   HitPoints: 203 (14d20+56)
   Speed: 0 m, fouissement 1,50 m
   Skills: Perception +6
+  DamageResistances: de feu, contondants et perforants
+  ConditionImmunities: aveuglé, assourdi, à terre, charmé, terrorisé
   Senses: perception des vibrations 18 m, Perception passive 16
   Languages: —
   Challenge: 11 (7 200PX)
-  DamageResistances: de feu, contondants et perforants
-  ConditionImmunities: aveuglé, assourdi, à terre, charmé, terrorisé
   Id: tome_of_beasts.md#vésiculose
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63701,10 +63701,10 @@ SubItems:
   HitPoints: 110 (20d10)
   Speed: 0 m, vol 15 m (vol stationnaire)
   SavingThrows: Con +4, Int +6, Sag +7, Cha +4
-  Senses: vision parfaite 18m, Perception passive 13
-  Challenge: 11 (7 200PX)
   DamageImmunities: nécrotiques
   ConditionImmunities: à terre , épuisé, pétrifié
+  Senses: vision parfaite 18m, Perception passive 13
+  Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#vidien
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -64015,11 +64015,11 @@ SubItems:
   HitPoints: 28 (8d6)
   Speed: 9m
   Skills: Athlétisme +3, Discrétion +6
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas plaquées argent ou faite de fer froid
+  ConditionImmunities: terrorisé
   Senses: vision dans le noir 18 m, Perception passive 9
   Languages: commun, gobelin, sylvestre, umbral
   Challenge: 2 (450PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques qui ne sont pas plaquées argent ou faite de fer froid
-  ConditionImmunities: terrorisé
   Id: tome_of_beasts.md#vil-barbier
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -64193,10 +64193,10 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +8, Con +4, Sag +5, Cha +6
   Skills: Discrétion +8, Dressage +8, Intimidation +6, Perception +8, Perspicacité +5
+  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 18
   Languages: commun, sylvestre, télépathie à 18m (bêtes seulement)
   Challenge: 5 (1 800PX)
-  DamageResistances: contondants, perforants et tranchants issus d’armes non magiques
   Id: tome_of_beasts.md#vila
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -64380,13 +64380,13 @@ SubItems:
   ArmorClass: 16
   HitPoints: 67 (9d8+27)
   Speed: 3 m, vol (variable; voir le trait porté par le vent)
+  DamageResistances: contondants et perforants issus d’armes non magiques
+  DamageImmunities: de froid
+  ConditionImmunities: aveuglé, charmé, assourdi, terrorisé, à terre
   Senses: vision aveugle 30 m, Perception passive 10
   Languages: —
   Challenge: 4 (1 100PX)
-  DamageResistances: contondants et perforants issus d’armes non magiques
   DamageVulnerabilities: de feu
-  DamageImmunities: de froid
-  ConditionImmunities: aveuglé, charmé, assourdi, terrorisé, à terre
   Id: tome_of_beasts.md#voile-de-givre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -64828,10 +64828,10 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 18 (4d6+4)
   Speed: 7,50 m, escalade 4,50 m
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision aveugle 36 m, Perception passive 10
   Languages: comprend les langues de son créateur, mais ne peut pas parler
   Challenge: 1/4 (50 PX)
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#xanka
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -65094,11 +65094,11 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 231 (14d20+84)
   Speed: 15 m
+  DamageResistances: contondants
+  ConditionImmunities: épuisé
   Senses: Perception passive 11
   Languages: —
   Challenge: 11 (7 200PX)
-  DamageResistances: contondants
-  ConditionImmunities: épuisé
   Id: tome_of_beasts.md#ychen-bannog
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -65253,11 +65253,11 @@ SubItems:
   HitPoints: 507 (26d20+234)
   Speed: 3 m, nage 15 m
   SavingThrows: Int +8, Sag +8, Cha +8
-  Senses: vision aveugle 36 m, Perception passive 10
-  Challenge: 26 (90 000PX)
   DamageResistances: de feu, de foudre, de tonnerre; contondants, perforants, tranchants
   DamageImmunities: de froid, de poison
   ConditionImmunities: empoisonné, paralysé, terrorisé
+  Senses: vision aveugle 36 m, Perception passive 10
+  Challenge: 26 (90 000PX)
   Id: tome_of_beasts.md#zaratan
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -65569,11 +65569,11 @@ SubItems:
   Speed: 9 m, vol 15 m, nage 9 m
   SavingThrows: Con +9, Sag +8, Cha +6
   Skills: Perception +8
+  DamageResistances: de froid, de feu
+  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 18 m, vision dans le noir 27 m, Perception passive 18
   Languages: commun, draconique, elfique, sylvestre
   Challenge: 14 (11 500PX)
-  DamageResistances: de froid, de feu
-  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#zmey
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -65793,11 +65793,11 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 105 (14d8 + 42), régénération 5/round
   Speed: 9 m, nage 6 m
+  DamageResistances: de froid, de feu
+  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, draconique, sylvestre
   Challenge: 5 (1 800PX)
-  DamageResistances: de froid, de feu
-  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#bébécéphale-de-zmey
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -66116,10 +66116,10 @@ SubItems:
   Speed: 9m
   SavingThrows: Int +5, Sag +8, Cha +5
   Skills: Arcanes +5, Histoire +5, Religion +5, Supercherie +5
+  DamageResistances: de froid, de feu et de foudre
   Senses: Perception passive 12vision dans le noir 18 m, Perception passive 15
   Languages: trois au choix
   Challenge: 4 (450PX)8 (3 900PX)
-  DamageResistances: de froid, de feu et de foudre
   Id: tome_of_beasts.md#capitaine-du-guet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -66636,11 +66636,11 @@ SubItems:
   HitPoints: 97 (15d8 + 30)
   Speed: 9m
   Skills: Athlétisme +6, Discrétion +5, Dressage +3, Perception +3
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Challenge: 6 (2 300PX)
   DamageResistances: nécrotiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#chevalier-fantôme
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -66971,9 +66971,9 @@ SubItems:
   HitPoints: 19 (3d8 + 6)
   Speed: 9m
   Skills: Discrétion +4, Dressage +2, Perception +3, Supercherie +2
+  DamageResistances: de poison
   Senses: Perception passive 15 Langue commun
   Challenge: 1/2 (100 PX)
-  DamageResistances: de poison
   Id: tome_of_beasts.md#fanatique-du-scorpion
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -67157,10 +67157,10 @@ SubItems:
   Speed: 9m
   SavingThrows: Int +7, Con +4, Sag +4
   Skills: Arcanes +7, Histoire +7
+  DamageResistances: de poison
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, nain
   Challenge: 7 (2 900PX)
-  DamageResistances: de poison
   Id: tome_of_beasts.md#mage-des-anneaux-nains
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -67469,11 +67469,11 @@ SubItems:
   Speed: 7,50m
   SavingThrows: Con +6, Int +7, Cha +10
   Skills: Arcanes +7, Histoire +7, Persuasion +10, Supercherie+10
+  DamageResistances: de froid, de feu, de poison ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en argent
+  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, infernal, gnome
   Challenge: 9 (5 000PX)
-  DamageResistances: de froid, de feu, de poison ; contondants, perforants et tranchants venant d’armes non magiques qui ne sont pas en argent
-  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#prince-gnome-asservi-aux-démons
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres

@@ -750,6 +750,24 @@ namespace AideDeJeu.ViewModels
             return new AideDeJeuContext(dbPath);
         }
 
+        public async Task<Item> GetItemFromDataAsync(string id)
+        {
+            var regex = new Regex("/?(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");
+            var match = regex.Match(id);
+            var file = match.Groups["file"].Value;
+            var anchor = match.Groups["anchor"].Value;
+            var with = match.Groups["with"].Value;
+            try
+            {
+                var item = await Task.Run(async () => await Store.GetItemFromDataAsync(file, anchor));
+                return item;
+            }
+            catch
+            {
+
+            }
+            return null;
+        }
         public async Task<Item> GetItemFromDataAsync(string source, string anchor)
         {
             var id = $"{source}.md".TrimStart('/');
