@@ -36,7 +36,7 @@ namespace AideDeJeu.ViewModels.Library
 
         public bool MatchContainsOrNot(string itemValue, string filterValue)
         {
-            if (!string.IsNullOrEmpty(filterValue) && string.IsNullOrWhiteSpace(filterValue))
+            if (filterValue == "-")
             {
                 return string.IsNullOrEmpty(itemValue);
             }

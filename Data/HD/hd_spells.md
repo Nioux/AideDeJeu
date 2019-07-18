@@ -3,13 +3,13 @@
 Classes: Barde|Clerc|Druide|Ensorceleur|Magicien|Ombrelame|Paladin|Rôdeur|Sorcier
 Levels: Sorts mineurs|Niveau 1|Niveau 2|Niveau 3|Niveau 4|Niveau 5|Niveau 6|Niveau 7|Niveau 8|Niveau 9
 Schools: Abjuration|Divination|Enchantement|Évocation|Illusion|Invocation|Nécromancie|Transmutation
-Rituals: 'Rituel| '
+Rituals: Rituel|-
 CastingTimes: 1 action|1 action bonus|1 réaction|1 minute|10 minutes|1 heure|8 heures|12 heures|24 heures
 Ranges: personnel|contact|vision|selon l'arme utilisée|spéciale|1,5 mètre|3 mètres|4,50 mètres|9 mètres|12 mètres|18 mètres|27 mètres|30 mètres|36 mètres|45 mètres|90 mètres|150 mètres|450 mètres|1 kilomètre|1,5 kilomètre|7,5 kilomètres|750 kilomètres|illimitée
-VerbalComponents: 'V| '
-SomaticComponents: 'S| '
-MaterialComponents: 'M| '
-Concentrations: 'concentration| '
+VerbalComponents: V|-
+SomaticComponents: S|-
+MaterialComponents: M|-
+Concentrations: concentration|-
 Durations: instantané|1 round|1 minute|10 minutes|1 heure|2 heures|8 heures|24 heures|1 jour|7 jours|10 jours|30 jours|dissipation|déclenchement|spéciale
 Sources: SRD|MDR
 Family: SpellHD

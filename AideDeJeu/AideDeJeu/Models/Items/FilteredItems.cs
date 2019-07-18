@@ -15,7 +15,7 @@ namespace AideDeJeuLib
         {
             if (collapsed == null) return new List<KeyValuePair<string, string>>();
             var split = collapsed.Split(new string[] { "|" }, StringSplitOptions.None).Select(s => new KeyValuePair<string, string>(s, s)).ToList();
-            split.Insert(0, new KeyValuePair<string, string>("", "-"));
+            split.Insert(0, new KeyValuePair<string, string>("", "*"));
             return split;
         }
 
