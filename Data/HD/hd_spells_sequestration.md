@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
+- **Composantes :** V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation
 

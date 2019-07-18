@@ -7,7 +7,7 @@
 -  Invocation de niveau 3
 - **Temps d'incantation :** 1 action
 - **Portée :** 30 mètres
-- **Composantes :** V, S, M (un peu de cendre et de poussière d'os)
+- **Composantes :** V, S, M (un peu de cendre et de poussière d'os)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Sorcier](hd_warlock.md)
 - Source: (MDR p336)

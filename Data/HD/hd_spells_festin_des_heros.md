@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
+- **Composantes :** V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)</Components-->
 
 - **Durée :** instantanée
 

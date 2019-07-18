@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un éclat de quartz)
+- **Composantes :** V, S, M (un éclat de quartz)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

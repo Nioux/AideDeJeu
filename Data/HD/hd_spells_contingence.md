@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
+- **Composantes :** V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)</Components-->
 
 - **Durée :** 10 jours
 

@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
+- **Composantes :** V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 jour
 

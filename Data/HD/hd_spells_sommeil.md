@@ -12,7 +12,7 @@
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)
+- **Composantes :** V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)</Components-->
 
 - **Durée :** 1 minute
 

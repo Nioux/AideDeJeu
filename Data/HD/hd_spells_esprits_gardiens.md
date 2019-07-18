@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (4,50 mètres de rayon)
 
-- **Composantes :** V, S M (un symbole sacré)
+- **Composantes :** V, S, M (un symbole sacré)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

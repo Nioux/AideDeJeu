@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** S, M (un morceau de toison)
+- **Composantes :** S, M (un morceau de toison)</Components-->
 
 - **Durée :** 1 minute
 

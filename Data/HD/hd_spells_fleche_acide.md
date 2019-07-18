@@ -12,7 +12,7 @@
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (poudre de feuille de rhubarbe et estomac de vipère)
+- **Composantes :** V, S, M (poudre de feuille de rhubarbe et estomac de vipère)</Components-->
 
 - **Durée :** instantanée
 

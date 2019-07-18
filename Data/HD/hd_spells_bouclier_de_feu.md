@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (un morceau de phosphore ou une luciole)
+- **Composantes :** V, S, M (un morceau de phosphore ou une luciole)</Components-->
 
 - **Durée :** 10 minutes
 

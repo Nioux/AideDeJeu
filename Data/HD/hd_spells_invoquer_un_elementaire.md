@@ -12,7 +12,7 @@
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
+- **Composantes :** V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

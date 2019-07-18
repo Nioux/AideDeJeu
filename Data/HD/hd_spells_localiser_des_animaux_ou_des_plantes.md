@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (des poils de chien de chasse)
+- **Composantes :** V, S, M (des poils de chien de chasse)</Components-->
 
 - **Durée :** instantanée
 

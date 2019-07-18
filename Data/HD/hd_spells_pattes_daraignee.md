@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une goutte de bitume et une araignée)
+- **Composantes :** V, S, M (une goutte de bitume et une araignée)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

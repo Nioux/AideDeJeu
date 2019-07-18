@@ -7,7 +7,7 @@
 -  Évocation de niveau 4
 - **Temps d'incantation :** 1 action bonus
 - **Portée :** personnelle
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p354)

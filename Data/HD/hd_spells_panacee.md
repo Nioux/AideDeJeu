@@ -7,7 +7,7 @@
 -  Abjuration de niveau 4
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle (3 mètres de rayon)
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** Instantanée
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p)

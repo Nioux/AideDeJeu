@@ -12,7 +12,7 @@
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
+- **Composantes :** V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

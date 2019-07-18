@@ -7,7 +7,7 @@
 -  Abjuration de niveau 4
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 10 minutes
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p)

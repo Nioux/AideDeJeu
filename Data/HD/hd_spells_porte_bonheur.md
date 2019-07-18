@@ -7,7 +7,7 @@
 -  Abjuration, tour de magie
 - **Temps d'incantation :** 1 action
 - **Portée :** personnel
-- **Composantes :** V, S, M (objet porte-bonheur)
+- **Composantes :** V, S, M (objet porte-bonheur)</Components-->
 - **Durée :** 1 round
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p)

@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)
+- **Composantes :** V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)</Components-->
 
 - **Durée :** 8 heures
 

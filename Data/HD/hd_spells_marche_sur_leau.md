@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un bout de liège)
+- **Composantes :** V, S, M (un bout de liège)</Components-->
 
 - **Durée :** 1 heure
 

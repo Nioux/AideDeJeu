@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un éclat de mica)
+- **Composantes :** V, S, M (un éclat de mica)</Components-->
 
 - **Durée :** instantanée
 

@@ -12,7 +12,7 @@
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (un oeuf pourri ou des feuilles de chou pourri)
+- **Composantes :** V, S, M (un oeuf pourri ou des feuilles de chou pourri)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

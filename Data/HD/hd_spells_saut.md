@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une patte arrière de sauterelle)
+- **Composantes :** V, S, M (une patte arrière de sauterelle)</Components-->
 
 - **Durée :** 1 minute
 

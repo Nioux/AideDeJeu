@@ -12,7 +12,7 @@
 
 - **Portée :** 30 mètres
 
-- **Composantes :** V, S, M (de la magnétite et de la limaille de fer)
+- **Composantes :** V, S, M (de la magnétite et de la limaille de fer)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

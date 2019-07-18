@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
+- **Composantes :** V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

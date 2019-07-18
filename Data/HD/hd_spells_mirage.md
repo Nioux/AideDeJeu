@@ -12,7 +12,7 @@
 
 - **Portée :** vision
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 10 jours
 

@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** S
+- **Composantes :** S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 round
 

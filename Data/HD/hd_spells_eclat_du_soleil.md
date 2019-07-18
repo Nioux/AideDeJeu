@@ -12,7 +12,7 @@
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (du feu et un éclat d'héliotrope)
+- **Composantes :** V, S, M (du feu et un éclat d'héliotrope)</Components-->
 
 - **Durée :** instantanée
 

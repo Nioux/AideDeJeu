@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
+- **Composantes :** V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

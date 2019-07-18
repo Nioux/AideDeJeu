@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
+- **Composantes :** V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)</Components-->
 
 - **Durée :** instantanée
 

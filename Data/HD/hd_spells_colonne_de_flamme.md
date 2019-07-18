@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (une pincée de soufre)
+- **Composantes :** V, S, M (une pincée de soufre)</Components-->
 
 - **Durée :** instantanée
 

@@ -7,7 +7,7 @@
 -  Invocation de niveau 1
 - **Temps d'incantation :** 1 action bonus
 - **Portée :** personnelle
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Rôdeur](hd_ranger.md)
 - Source: (MDR p)

@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (ligne de 30 mètres)
 
-- **Composantes :** V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
+- **Composantes :** V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)</Components-->
 
 - **Durée :** instantanée
 

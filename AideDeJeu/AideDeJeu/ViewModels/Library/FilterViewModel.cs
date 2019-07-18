@@ -87,6 +87,9 @@ namespace AideDeJeu.ViewModels.Library
         Ritual,
         CastingTime,
         Range,
+        VerbalComponent,
+        SomaticComponent,
+        MaterialComponent,
         Concentration,
         Duration,
         Source,
@@ -200,6 +203,9 @@ namespace AideDeJeu.ViewModels.Library
                         new Filter() { Key = FilterKeys.Ritual, Name = "Rituel", KeyValues = Rituals, _Index = 0 },
                         new Filter() { Key = FilterKeys.CastingTime, Name = "Temps d'incantation", KeyValues = CastingTimes, _Index = 0 },
                         new Filter() { Key = FilterKeys.Range, Name = "Portée", KeyValues = Ranges, _Index = 0 },
+                        new Filter() { Key = FilterKeys.VerbalComponent, Name = "Comp. Verbale", KeyValues = VerbalComponents, _Index = 0 },
+                        new Filter() { Key = FilterKeys.SomaticComponent, Name = "Comp. Somatique", KeyValues = SomaticComponents, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MaterialComponent, Name = "Comp. Matérielle", KeyValues = MaterialComponents, _Index = 0 },
                         new Filter() { Key = FilterKeys.Concentration, Name = "Concentration", KeyValues = Concentrations, _Index = 0 },
                         new Filter() { Key = FilterKeys.Duration, Name = "Durée", KeyValues = Durations, _Index = 0 },
                         new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, _Index = 0 },
@@ -220,6 +226,9 @@ namespace AideDeJeu.ViewModels.Library
             List<KeyValuePair<string, string>> rituals,
             List<KeyValuePair<string, string>> castingTimes,
             List<KeyValuePair<string, string>> ranges,
+            List<KeyValuePair<string, string>> verbalComponents,
+            List<KeyValuePair<string, string>> somaticComponents,
+            List<KeyValuePair<string, string>> materialComponents,
             List<KeyValuePair<string, string>> concentrations,
             List<KeyValuePair<string, string>> durations,
             List<KeyValuePair<string, string>> sources)
@@ -231,6 +240,9 @@ namespace AideDeJeu.ViewModels.Library
             this.Rituals = rituals;
             this.CastingTimes = castingTimes;
             this.Ranges = ranges;
+            this.VerbalComponents = verbalComponents;
+            this.SomaticComponents = somaticComponents;
+            this.MaterialComponents = materialComponents;
             this.Concentrations = concentrations;
             this.Durations = durations;
             this.Sources = sources;
@@ -253,6 +265,9 @@ namespace AideDeJeu.ViewModels.Library
             var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
             var castingTime = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.CastingTime).SelectedKey ?? "";
             var range = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Range).SelectedKey ?? "";
+            var verbalComponents = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.VerbalComponent).SelectedKey ?? "";
+            var somaticComponents = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.SomaticComponent).SelectedKey ?? "";
+            var materialComponents = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaterialComponent).SelectedKey ?? "";
             var concentration = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Concentration).SelectedKey ?? "";
             var duration = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Duration).SelectedKey ?? "";
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
@@ -271,6 +286,9 @@ namespace AideDeJeu.ViewModels.Library
                         (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
                         (spell.CastingTime != null) && spell.CastingTime.Contains(castingTime) &&
                         (spell.Range != null) && spell.Range.Contains(range) &&
+                        (string.IsNullOrEmpty(verbalComponents) || (spell.VerbalComponent != null && spell.VerbalComponent.Contains(verbalComponents))) &&
+                        (string.IsNullOrEmpty(somaticComponents) || (spell.SomaticComponent != null && spell.SomaticComponent.Contains(somaticComponents))) &&
+                        (string.IsNullOrEmpty(materialComponents) || (spell.MaterialComponent != null && spell.MaterialComponent.Contains(materialComponents))) &&
                         (string.IsNullOrEmpty(concentration) || (spell.Concentration != null && spell.Concentration.Contains(concentration))) &&
                         (spell.Duration != null) && spell.Duration.Contains(duration) &&
                         (
@@ -301,6 +319,12 @@ namespace AideDeJeu.ViewModels.Library
         public List<KeyValuePair<string, string>> CastingTimes { get; }
 
         public List<KeyValuePair<string, string>> Ranges { get; }
+
+        public List<KeyValuePair<string, string>> VerbalComponents { get; }
+
+        public List<KeyValuePair<string, string>> SomaticComponents { get; }
+
+        public List<KeyValuePair<string, string>> MaterialComponents { get; }
 
         public List<KeyValuePair<string, string>> Concentrations { get; }
 

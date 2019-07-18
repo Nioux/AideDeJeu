@@ -7,7 +7,7 @@
 -  Enchantement de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** 9 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p334)

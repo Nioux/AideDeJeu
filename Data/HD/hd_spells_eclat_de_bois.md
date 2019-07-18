@@ -7,7 +7,7 @@
 -  Invocation , tour de magie
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (une écharde de bois)
+- **Composantes :** V, S, M (une écharde de bois)</Components-->
 - **Durée :** instantanée
 - Classes: [Druide](hd_druid.md)
 - Source: (MDR p350)

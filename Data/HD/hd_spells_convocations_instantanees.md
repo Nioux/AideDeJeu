@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un saphir d'une valeur de 1 000 po)
+- **Composantes :** V, S, M (un saphir d'une valeur de 1 000 po)</Components-->
 
 - **Durée :** jusqu'à dissipation
 

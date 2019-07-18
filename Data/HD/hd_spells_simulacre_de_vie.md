@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une petite quantité d'alcool ou de spiritueux)
+- **Composantes :** V, S, M (une petite quantité d'alcool ou de spiritueux)</Components-->
 
 - **Durée :** 1 heure
 

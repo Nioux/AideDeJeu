@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)
+- **Composantes :** V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)</Components-->
 
 - **Durée :** 1 heure
 

@@ -4,10 +4,13 @@ Classes: Barde|Clerc|Druide|Ensorceleur|Magicien|Ombrelame|Paladin|Rôdeur|Sorci
 Levels: Sorts mineurs|Niveau 1|Niveau 2|Niveau 3|Niveau 4|Niveau 5|Niveau 6|Niveau 7|Niveau 8|Niveau 9
 Schools: Abjuration|Divination|Enchantement|Évocation|Illusion|Invocation|Nécromancie|Transmutation
 Rituals: Rituel
-CastingTimes: 1 réaction|1 action bonus|1 action|1 minute|10 minutes|1 heure|8 heures|12 heures|24 heures
+CastingTimes: 1 action|1 action bonus|1 réaction|1 minute|10 minutes|1 heure|8 heures|12 heures|24 heures
 Ranges: personnel|contact|vision|selon l'arme utilisée|spéciale|1,5 mètre|3 mètres|4,50 mètres|9 mètres|12 mètres|18 mètres|27 mètres|30 mètres|36 mètres|45 mètres|90 mètres|150 mètres|450 mètres|1 kilomètre|1,5 kilomètre|7,5 kilomètres|750 kilomètres|illimitée
+VerbalComponents: V
+SomaticComponents: S
+MaterialComponents: M
 Concentrations: concentration
-Durations: jusqu'à 1 round|jusqu'à 1 minute|jusqu'à 10 minutes|jusqu'à 1 heure|jusqu'à 2 heures|jusqu'à 8 heures|jusqu'à 24 heures|jusqu'à 1 jour|instantané|1 round|1 minute|10 minutes|1 heure|8 heures|24 heures|1 jour|7 jours|10 jours|30 jours|jusqu'à dissipation|jusqu'à dissipation ou déclenchement|spéciale
+Durations: instantané|1 round|1 minute|10 minutes|1 heure|2 heures|8 heures|24 heures|1 jour|7 jours|10 jours|30 jours|dissipation|déclenchement|spéciale
 Sources: SRD|MDR
 Family: SpellHD
 SubItems:
@@ -18,6 +21,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (une pincée de limaille de fer)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de limaille de fer)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -63,7 +69,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de limaille de fer)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de limaille de fer)<!--/MaterialComponent--></Components-->
 
 
 
@@ -127,6 +133,12 @@ SubItems:
 
     Components: V, S, M (une pincée de limaille de fer)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de limaille de fer)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -178,6 +190,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (une minuscule bandelette de tissu blanc)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une minuscule bandelette de tissu blanc)
   Duration: 8 heures
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#aide
@@ -222,7 +237,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une minuscule bandelette de tissu blanc)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une minuscule bandelette de tissu blanc)<!--/MaterialComponent--></Components-->
 
 
 
@@ -274,6 +289,12 @@ SubItems:
 
     Components: V, S, M (une minuscule bandelette de tissu blanc)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une minuscule bandelette de tissu blanc)
+
     Duration: 8 heures
 
     Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
@@ -306,6 +327,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 9 mètres
   Components: V, S, M (une minuscule clochette et un filament en argent)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une minuscule clochette et un filament en argent)
   Duration: 8 heures
   Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#alarme
@@ -350,7 +374,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une minuscule clochette et un filament en argent)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une minuscule clochette et un filament en argent)<!--/MaterialComponent--></Components-->
 
 
 
@@ -410,6 +434,12 @@ SubItems:
 
     Components: V, S, M (une minuscule clochette et un filament en argent)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une minuscule clochette et un filament en argent)
+
     Duration: 8 heures
 
     Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
@@ -450,6 +480,8 @@ SubItems:
   CastingTime: 10 minutes
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#allié-planaire
@@ -494,7 +526,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -582,6 +614,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -667,6 +703,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (des poils ou des plumes venant d'un animal)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (des poils ou des plumes venant d'un animal)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
@@ -712,7 +751,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (des poils ou des plumes venant d'un animal)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (des poils ou des plumes venant d'un animal)<!--/MaterialComponent--></Components-->
 
 
 
@@ -799,6 +838,12 @@ SubItems:
     Range: contact
 
     Components: V, S, M (des poils ou des plumes venant d'un animal)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (des poils ou des plumes venant d'un animal)
 
     Concentration: concentration
 
@@ -887,6 +932,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un peu de nourriture)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un peu de nourriture)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#amitié-avec-les-animaux
@@ -931,7 +979,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un peu de nourriture)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un peu de nourriture)<!--/MaterialComponent--></Components-->
 
 
 
@@ -983,6 +1031,12 @@ SubItems:
 
     Components: V, S, M (un peu de nourriture)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un peu de nourriture)
+
     Duration: 24 heures
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -1014,6 +1068,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 3 mètres
   Components: V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#animation-des-morts
@@ -1058,7 +1115,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)<!--/MaterialComponent--></Components-->
 
 
 
@@ -1128,6 +1185,12 @@ SubItems:
 
     Components: V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
@@ -1186,6 +1249,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -1231,7 +1296,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -1342,6 +1407,10 @@ SubItems:
     Range: 36 mètres
 
     Components: V, S
+
+    VerbalComponent: V
+
+    SomaticComponent: S
 
     Concentration: concentration
 
@@ -1466,6 +1535,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
@@ -1511,7 +1582,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -1569,6 +1640,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -1611,6 +1686,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 8 heures
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#apparence-trompeuse
@@ -1655,7 +1732,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -1731,6 +1808,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 8 heures
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -1799,6 +1880,9 @@ SubItems:
   CastingTime: 1 heure
   Range: 3 mètres
   Components: V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#appel-de-familier
@@ -1843,7 +1927,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)<!--/MaterialComponent--></Components-->
 
 
 
@@ -1927,6 +2011,12 @@ SubItems:
 
     Components: V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
+
     Duration: instantanée
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -2003,6 +2093,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
@@ -2048,7 +2140,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -2112,6 +2204,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -2163,6 +2259,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un arc)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un arc)
   Duration: 1 minute
   Classes: '[Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#arc-enchanté
@@ -2194,7 +2293,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un arc)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un arc)<!--/MaterialComponent--></Components-->
 
 
 
@@ -2244,6 +2343,12 @@ SubItems:
 
     Components: V, S, M (un arc)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un arc)
+
     Duration: 1 minute
 
     Classes: '[Rôdeur](hd_ranger.md)'
@@ -2284,6 +2389,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
@@ -2329,7 +2436,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -2381,6 +2488,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -2414,6 +2525,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Paladin](hd_paladin.md)'
@@ -2446,7 +2559,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -2490,6 +2603,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -2523,6 +2640,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 minute
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#arme-spirituelle
@@ -2567,7 +2686,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -2637,6 +2756,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 minute
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -2695,6 +2818,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un bout de cuir tanné)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bout de cuir tanné)
   Duration: 8 heures
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#armure-du-mage
@@ -2739,7 +2865,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bout de cuir tanné)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bout de cuir tanné)<!--/MaterialComponent--></Components-->
 
 
 
@@ -2785,6 +2911,12 @@ SubItems:
 
     Components: V, S, M (un bout de cuir tanné)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bout de cuir tanné)
+
     Duration: 8 heures
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -2807,6 +2939,7 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#arrêt-du-temps
@@ -2851,7 +2984,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -2903,6 +3036,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -2934,6 +3069,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#aspersion-acide
@@ -2978,7 +3115,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -3030,6 +3167,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -3061,6 +3202,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
@@ -3106,7 +3249,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -3170,6 +3313,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -3221,6 +3368,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -3266,7 +3415,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -3312,6 +3461,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -3336,6 +3489,9 @@ SubItems:
   CastingTime: 1 minute
   Range: personnelle
   Components: V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#augure
@@ -3380,7 +3536,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)<!--/MaterialComponent--></Components-->
 
 
 
@@ -3462,6 +3618,12 @@ SubItems:
 
     Components: V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -3538,6 +3700,7 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Paladin](hd_paladin.md)'
@@ -3570,7 +3733,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -3608,6 +3771,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -3632,6 +3797,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -3664,7 +3831,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -3708,6 +3875,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -3741,6 +3912,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un petit carré de soie)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit carré de soie)
   Duration: 24 heures
   Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#aura-magique-de-larcaniste
@@ -3785,7 +3959,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit carré de soie)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit carré de soie)<!--/MaterialComponent--></Components-->
 
 
 
@@ -3849,6 +4023,12 @@ SubItems:
 
     Components: V, S, M (un petit carré de soie)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit carré de soie)
+
     Duration: 24 heures
 
     Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -3898,6 +4078,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md)'
@@ -3943,7 +4126,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)<!--/MaterialComponent--></Components-->
 
 
 
@@ -3995,6 +4178,12 @@ SubItems:
 
     Components: V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -4028,6 +4217,7 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#bagou
@@ -4072,7 +4262,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -4118,6 +4308,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Sorcier](hd_warlock.md)'
@@ -4140,6 +4332,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un brin de gui)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un brin de gui)
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#baies-nourricières
@@ -4184,7 +4379,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un brin de gui)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un brin de gui)<!--/MaterialComponent--></Components-->
 
 
 
@@ -4242,6 +4437,12 @@ SubItems:
 
     Components: V, S, M (un brin de gui)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un brin de gui)
+
     Duration: instantanée
 
     Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -4282,6 +4483,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 round
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#balisage
@@ -4326,7 +4529,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -4378,6 +4581,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 round
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -4409,6 +4616,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un objet qui répugne à la cible)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un objet qui répugne à la cible)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
@@ -4454,7 +4664,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un objet qui répugne à la cible)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un objet qui répugne à la cible)<!--/MaterialComponent--></Components-->
 
 
 
@@ -4530,6 +4740,12 @@ SubItems:
 
     Components: V, S, M (un objet qui répugne à la cible)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un objet qui répugne à la cible)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -4599,6 +4815,8 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md)'
@@ -4644,7 +4862,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -4696,6 +4914,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -4729,6 +4951,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un peu d'eau bénite à asperger)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un peu d'eau bénite à asperger)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
@@ -4774,7 +4999,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un peu d'eau bénite à asperger)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un peu d'eau bénite à asperger)<!--/MaterialComponent--></Components-->
 
 
 
@@ -4826,6 +5051,12 @@ SubItems:
 
     Components: V, S, M (un peu d'eau bénite à asperger)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un peu d'eau bénite à asperger)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -4859,6 +5090,7 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
@@ -4891,7 +5123,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -4929,6 +5161,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -4953,6 +5187,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#blessure
@@ -4997,7 +5233,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -5049,6 +5285,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -5081,6 +5321,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 9 mètres
   Components: V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
   Duration: jusqu'à dissipation
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#bouche-magique
@@ -5125,7 +5368,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -5191,6 +5434,12 @@ SubItems:
 
     Components: V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
+
     Duration: jusqu'à dissipation
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -5240,6 +5489,8 @@ SubItems:
   CastingTime: 1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de _[projectile magique](hd_spells_projectile_magique.md)_
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 round
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#bouclier
@@ -5284,7 +5535,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -5330,6 +5581,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 round
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -5352,6 +5607,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (un morceau de phosphore ou une luciole)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un morceau de phosphore ou une luciole)
   Duration: 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#bouclier-de-feu
@@ -5396,7 +5654,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un morceau de phosphore ou une luciole)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un morceau de phosphore ou une luciole)<!--/MaterialComponent--></Components-->
 
 
 
@@ -5454,6 +5712,12 @@ SubItems:
 
     Components: V, S, M (un morceau de phosphore ou une luciole)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un morceau de phosphore ou une luciole)
+
     Duration: 10 minutes
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -5494,6 +5758,9 @@ SubItems:
   CastingTime: 1 action bonus
   Range: 18 mètres
   Components: V, S, M (un petit parchemin avec un extrait de texte sacré)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit parchemin avec un extrait de texte sacré)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
@@ -5539,7 +5806,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit parchemin avec un extrait de texte sacré)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit parchemin avec un extrait de texte sacré)<!--/MaterialComponent--></Components-->
 
 
 
@@ -5585,6 +5852,12 @@ SubItems:
 
     Components: V, S, M (un petit parchemin avec un extrait de texte sacré)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit parchemin avec un extrait de texte sacré)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -5609,6 +5882,8 @@ SubItems:
   CastingTime: 1 action
   Range: 3 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#bouffée-de-poison
@@ -5653,7 +5928,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -5705,6 +5980,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -5736,6 +6015,9 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une petite boule de guano de chauve-souris et du soufre)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#boule-de-feu
@@ -5780,7 +6062,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une petite boule de guano de chauve-souris et du soufre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une petite boule de guano de chauve-souris et du soufre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -5838,6 +6120,12 @@ SubItems:
 
     Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une petite boule de guano de chauve-souris et du soufre)
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -5878,6 +6166,9 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une petite boule de guano de chauve-souris et du soufre)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -5923,7 +6214,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une petite boule de guano de chauve-souris et du soufre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une petite boule de guano de chauve-souris et du soufre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -5999,6 +6290,12 @@ SubItems:
 
     Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une petite boule de guano de chauve-souris et du soufre)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -6068,6 +6365,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (ligne de 18 mètres)
   Components: V, S, M (une graine de légume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une graine de légume)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -6113,7 +6413,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une graine de légume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une graine de légume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -6177,6 +6477,12 @@ SubItems:
 
     Components: V, S, M (une graine de légume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une graine de légume)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -6228,6 +6534,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un éclat de mica)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un éclat de mica)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#briser
@@ -6272,7 +6581,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un éclat de mica)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un éclat de mica)<!--/MaterialComponent--></Components-->
 
 
 
@@ -6336,6 +6645,12 @@ SubItems:
 
     Components: V, S, M (un éclat de mica)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un éclat de mica)
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -6385,6 +6700,7 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
@@ -6417,7 +6733,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -6479,6 +6795,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -6539,6 +6857,9 @@ SubItems:
   CastingTime: 1 action
   Range: 30 mètres
   Components: V, S, M (poussière de rubis d'une valeur de 1 500 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (poussière de rubis d'une valeur de 1 500 po)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#cage-de-force
@@ -6583,7 +6904,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (poussière de rubis d'une valeur de 1 500 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (poussière de rubis d'une valeur de 1 500 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -6659,6 +6980,12 @@ SubItems:
 
     Components: V, S, M (poussière de rubis d'une valeur de 1 500 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (poussière de rubis d'une valeur de 1 500 po)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -6726,6 +7053,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -6771,7 +7100,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -6823,6 +7152,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -6856,6 +7189,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un petit morceau de linceul)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit morceau de linceul)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#catalepsie
@@ -6887,7 +7223,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit morceau de linceul)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit morceau de linceul)<!--/MaterialComponent--></Components-->
 
 
 
@@ -6949,6 +7285,12 @@ SubItems:
 
     Components: V, S, M (un petit morceau de linceul)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit morceau de linceul)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -7007,6 +7349,7 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V
+  VerbalComponent: V
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#cécitésurdité
@@ -7051,7 +7394,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -7109,6 +7452,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: 1 minute
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -7149,6 +7494,9 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#cercle-de-mort
@@ -7193,7 +7541,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -7245,6 +7593,12 @@ SubItems:
 
     Components: V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -7276,6 +7630,8 @@ SubItems:
   CastingTime: 1 minute
   Range: 3 mètres
   Components: V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)
+  VerbalComponent: V
+  MaterialComponent: M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)
   Duration: 1 round
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#cercle-de-téléportation
@@ -7320,7 +7676,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--MaterialComponent-->M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -7390,6 +7746,10 @@ SubItems:
 
     Components: V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)
 
+    VerbalComponent: V
+
+    MaterialComponent: M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)
+
     Duration: 1 round
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -7448,6 +7808,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 3 mètres
   Components: V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
   Duration: 1 heure
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#cercle-magique
@@ -7492,7 +7855,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -7580,6 +7943,12 @@ SubItems:
 
     Components: V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
+
     Duration: 1 heure
 
     Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
@@ -7665,6 +8034,9 @@ SubItems:
   CastingTime: 1 action
   Range: 450 mètres
   Components: V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#chaîne-déclairs
@@ -7709,7 +8081,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)<!--/MaterialComponent--></Components-->
 
 
 
@@ -7779,6 +8151,12 @@ SubItems:
 
     Components: V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -7837,6 +8215,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (sphère de 3 mètres de rayon)
   Components: V, S, M (une pincée de poudre de fer ou de limaille)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de poudre de fer ou de limaille)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
@@ -7882,7 +8263,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de poudre de fer ou de limaille)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de poudre de fer ou de limaille)<!--/MaterialComponent--></Components-->
 
 
 
@@ -7981,6 +8362,12 @@ SubItems:
     Range: personnelle (sphère de 3 mètres de rayon)
 
     Components: V, S, M (une pincée de poudre de fer ou de limaille)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de poudre de fer ou de limaille)
 
     Concentration: concentration
 
@@ -8087,6 +8474,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
@@ -8132,7 +8522,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)<!--/MaterialComponent--></Components-->
 
 
 
@@ -8219,6 +8609,12 @@ SubItems:
     Range: personnelle
 
     Components: V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
 
     Concentration: concentration
 
@@ -8307,6 +8703,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#changement-de-plan
@@ -8351,7 +8750,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)<!--/MaterialComponent--></Components-->
 
 
 
@@ -8415,6 +8814,12 @@ SubItems:
 
     Components: V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -8464,6 +8869,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#charme-personne
@@ -8508,7 +8915,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -8560,6 +8967,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -8591,6 +9002,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un bout de fer et une flamme)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bout de fer et une flamme)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md)'
@@ -8636,7 +9050,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bout de fer et une flamme)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bout de fer et une flamme)<!--/MaterialComponent--></Components-->
 
 
 
@@ -8706,6 +9120,12 @@ SubItems:
 
     Components: V, S, M (un bout de fer et une flamme)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bout de fer et une flamme)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -8766,6 +9186,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit sifflet en argent, un éclat d'os et une ficelle)
   Duration: 8 heures
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#chien-de-garde
@@ -8810,7 +9233,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit sifflet en argent, un éclat d'os et une ficelle)<!--/MaterialComponent--></Components-->
 
 
 
@@ -8868,6 +9291,12 @@ SubItems:
 
     Components: V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit sifflet en argent, un éclat d'os et une ficelle)
+
     Duration: 8 heures
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -8908,6 +9337,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 minute
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#choc-des-titans
@@ -8939,7 +9370,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -8977,6 +9408,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 minute
 
     Classes: '[Paladin](hd_paladin.md)'
@@ -8999,6 +9434,9 @@ SubItems:
   CastingTime: 10 minutes
   Range: 1,5 kilomètre
   Components: V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -9044,7 +9482,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)<!--/MaterialComponent--></Components-->
 
 
 
@@ -9108,6 +9546,12 @@ SubItems:
 
     Components: V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -9159,6 +9603,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#clignotement
@@ -9203,7 +9649,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -9255,6 +9701,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -9286,6 +9736,9 @@ SubItems:
   CastingTime: 1 heure
   Range: contact
   Components: V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#clone
@@ -9330,7 +9783,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)<!--/MaterialComponent--></Components-->
 
 
 
@@ -9382,6 +9835,12 @@ SubItems:
 
     Components: V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)
+
     Duration: instantanée
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -9413,6 +9872,7 @@ SubItems:
   CastingTime: 1 minute
   Range: 18 mètres
   Components: V
+  VerbalComponent: V
   Duration: 30 jours
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#coercition-mystique
@@ -9457,7 +9917,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -9533,6 +9993,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: 30 jours
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
@@ -9600,6 +10062,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#coffre-secret
@@ -9644,7 +10109,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -9708,6 +10173,12 @@ SubItems:
 
     Components: V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)
+
     Duration: instantanée
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -9757,6 +10228,9 @@ SubItems:
   CastingTime: 1 action
   Range: 30 mètres
   Components: V, S, M (un peu de cendre et de poussière d'os)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un peu de cendre et de poussière d'os)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Sorcier](hd_warlock.md)'
@@ -9789,7 +10263,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un peu de cendre et de poussière d'os)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un peu de cendre et de poussière d'os)<!--/MaterialComponent--></Components-->
 
 
 
@@ -9833,6 +10307,12 @@ SubItems:
 
     Components: V, S, M (un peu de cendre et de poussière d'os)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un peu de cendre et de poussière d'os)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -9866,6 +10346,9 @@ SubItems:
   CastingTime: 1 action
   Range: 12 mètres
   Components: V, S, M (une ficelle)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une ficelle)
   Duration: 1 heure
   Classes: '[Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#collet-magique
@@ -9897,7 +10380,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une ficelle)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une ficelle)<!--/MaterialComponent--></Components-->
 
 
 
@@ -9953,6 +10436,12 @@ SubItems:
 
     Components: V, S, M (une ficelle)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une ficelle)
+
     Duration: 1 heure
 
     Classes: '[Rôdeur](hd_ranger.md)'
@@ -10002,6 +10491,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une pincée de soufre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de soufre)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#colonne-de-flamme
@@ -10046,7 +10538,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de soufre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de soufre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -10104,6 +10596,12 @@ SubItems:
 
     Components: V, S, M (une pincée de soufre)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de soufre)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -10145,6 +10643,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 10 minutes
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#communication-avec-les-animaux
@@ -10189,7 +10689,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -10237,6 +10737,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 10 minutes
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -10259,6 +10763,9 @@ SubItems:
   CastingTime: 1 action
   Range: 3 mètres
   Components: V, S, M (encens incandescent)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (encens incandescent)
   Duration: 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
   Id: spells_hd.md#communication-avec-les-morts
@@ -10303,7 +10810,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (encens incandescent)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (encens incandescent)<!--/MaterialComponent--></Components-->
 
 
 
@@ -10355,6 +10862,12 @@ SubItems:
 
     Components: V, S, M (encens incandescent)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (encens incandescent)
+
     Duration: 10 minutes
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
@@ -10386,6 +10899,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (9 mètres de rayon)
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 10 minutes
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#communication-avec-les-plantes
@@ -10430,7 +10945,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -10500,6 +11015,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 10 minutes
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -10559,6 +11078,9 @@ SubItems:
   CastingTime: 1 minute
   Range: personnelle
   Components: V, S, M (de l'encens et une fiole d'eau bénite ou maudite)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (de l'encens et une fiole d'eau bénite ou maudite)
   Duration: 1 minute
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#communion
@@ -10603,7 +11125,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (de l'encens et une fiole d'eau bénite ou maudite)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (de l'encens et une fiole d'eau bénite ou maudite)<!--/MaterialComponent--></Components-->
 
 
 
@@ -10663,6 +11185,12 @@ SubItems:
 
     Components: V, S, M (de l'encens et une fiole d'eau bénite ou maudite)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (de l'encens et une fiole d'eau bénite ou maudite)
+
     Duration: 1 minute
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -10704,6 +11232,8 @@ SubItems:
   CastingTime: 1 minute
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#communion-avec-la-nature
@@ -10748,7 +11278,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -10849,6 +11379,10 @@ SubItems:
     Range: personnelle
 
     Components: V, S
+
+    VerbalComponent: V
+
+    SomaticComponent: S
 
     Duration: instantanée
 
@@ -10953,6 +11487,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 12 mètres
   Components: V, S, M (un peu de nourriture adaptée à l'animal)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un peu de nourriture adaptée à l'animal)
   Duration: 24 heures
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#compagnon-animal
@@ -10984,7 +11521,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un peu de nourriture adaptée à l'animal)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un peu de nourriture adaptée à l'animal)<!--/MaterialComponent--></Components-->
 
 
 
@@ -11087,6 +11624,12 @@ SubItems:
     Range: 12 mètres
 
     Components: V, S, M (un peu de nourriture adaptée à l'animal)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un peu de nourriture adaptée à l'animal)
 
     Duration: 24 heures
 
@@ -11210,6 +11753,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (une pincée de suie et de sel)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de suie et de sel)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#compréhension-des-langues
@@ -11254,7 +11800,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de suie et de sel)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de suie et de sel)<!--/MaterialComponent--></Components-->
 
 
 
@@ -11308,6 +11854,12 @@ SubItems:
 
     Components: V, S, M (une pincée de suie et de sel)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de suie et de sel)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -11339,6 +11891,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -11384,7 +11938,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -11436,6 +11990,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -11469,6 +12027,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (cône de 18 mètres)
   Components: V, S, M (un petit cône de cristal ou de verre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit cône de cristal ou de verre)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#cône-de-froid
@@ -11513,7 +12074,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit cône de cristal ou de verre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit cône de cristal ou de verre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -11571,6 +12132,12 @@ SubItems:
 
     Components: V, S, M (un petit cône de cristal ou de verre)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit cône de cristal ou de verre)
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -11611,6 +12178,9 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (trois coquilles de noix)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (trois coquilles de noix)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -11656,7 +12226,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (trois coquilles de noix)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (trois coquilles de noix)<!--/MaterialComponent--></Components-->
 
 
 
@@ -11751,6 +12321,12 @@ SubItems:
     Range: 27 mètres
 
     Components: V, S, M (trois coquilles de noix)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (trois coquilles de noix)
 
     Concentration: concentration
 
@@ -11851,6 +12427,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 round
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#contact-glacial
@@ -11895,7 +12473,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -11959,6 +12537,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 round
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -12009,6 +12591,7 @@ SubItems:
   CastingTime: 1 minute
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Duration: 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#contacter-un-autre-plan
@@ -12053,7 +12636,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -12113,6 +12696,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: 1 minute
 
     Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -12153,6 +12738,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 7 jours
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#contagion
@@ -12197,7 +12784,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -12308,6 +12895,10 @@ SubItems:
     Range: contact
 
     Components: V, S
+
+    VerbalComponent: V
+
+    SomaticComponent: S
 
     Duration: 7 jours
 
@@ -12430,6 +13021,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#contamination
@@ -12474,7 +13067,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -12520,6 +13113,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -12542,6 +13139,9 @@ SubItems:
   CastingTime: 10 minutes
   Range: personnelle
   Components: V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
   Duration: 10 jours
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#contingence
@@ -12586,7 +13186,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -12650,6 +13250,12 @@ SubItems:
 
     Components: V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
+
     Duration: 10 jours
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -12699,6 +13305,7 @@ SubItems:
   CastingTime: 1 réaction à utiliser quand vous voyez une créature située dans un rayon de 18 mètres autour de vous lancer un sort
   Range: 18 mètres
   Components: S
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#contresort
@@ -12743,7 +13350,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->S<!--/Components-->
+      - **Composantes :** <!--Components--><!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -12801,6 +13408,8 @@ SubItems:
 
     Components: S
 
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -12841,6 +13450,9 @@ SubItems:
   CastingTime: 1 action
   Range: 90 mètres
   Components: V, S, M (une goutte d'eau et une pincée de poussière)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une goutte d'eau et une pincée de poussière)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
@@ -12886,7 +13498,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une goutte d'eau et une pincée de poussière)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une goutte d'eau et une pincée de poussière)<!--/MaterialComponent--></Components-->
 
 
 
@@ -12973,6 +13585,12 @@ SubItems:
     Range: 90 mètres
 
     Components: V, S, M (une goutte d'eau et une pincée de poussière)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une goutte d'eau et une pincée de poussière)
 
     Concentration: concentration
 
@@ -13061,6 +13679,9 @@ SubItems:
   CastingTime: 10 minutes
   Range: personnelle (rayon de 7,5 kilomètres)
   Components: V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
   Concentration: concentration
   Duration: jusqu'à 8 heures
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
@@ -13106,7 +13727,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)<!--/MaterialComponent--></Components-->
 
 
 
@@ -13281,6 +13902,12 @@ SubItems:
     Range: personnelle (rayon de 7,5 kilomètres)
 
     Components: V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
 
     Concentration: concentration
 
@@ -13502,6 +14129,9 @@ SubItems:
   CastingTime: 1 minute
   Range: contact
   Components: V, S, M (un saphir d'une valeur de 1 000 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un saphir d'une valeur de 1 000 po)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#convocations-instantanées
@@ -13546,7 +14176,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un saphir d'une valeur de 1 000 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un saphir d'une valeur de 1 000 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -13618,6 +14248,12 @@ SubItems:
 
     Components: V, S, M (un saphir d'une valeur de 1 000 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un saphir d'une valeur de 1 000 po)
+
     Duration: jusqu'à dissipation
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -13676,6 +14312,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (3 mètres de rayon)
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md)'
@@ -13721,7 +14359,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -13779,6 +14417,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -13821,6 +14463,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (extrait de maïs en poudre et boucle de parchemin torsadé)
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#corde-enchantée
@@ -13865,7 +14510,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (extrait de maïs en poudre et boucle de parchemin torsadé)<!--/MaterialComponent--></Components-->
 
 
 
@@ -13935,6 +14580,12 @@ SubItems:
 
     Components: V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (extrait de maïs en poudre et boucle de parchemin torsadé)
+
     Duration: 1 heure
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -13993,6 +14644,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (cône de 4,50 mètres)
   Components: V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
   Duration: 1 round
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#couleurs-dansantes
@@ -14037,7 +14691,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)<!--/MaterialComponent--></Components-->
 
 
 
@@ -14095,6 +14749,12 @@ SubItems:
 
     Components: V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
+
     Duration: 1 round
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -14135,6 +14795,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 9 mètres
   Components: V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit bout de matière de même type que l'objet que vous voulez créer)
   Duration: spéciale
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#création
@@ -14179,7 +14842,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit bout de matière de même type que l'objet que vous voulez créer)<!--/MaterialComponent--></Components-->
 
 
 
@@ -14278,6 +14941,12 @@ SubItems:
     Range: 9 mètres
 
     Components: V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit bout de matière de même type que l'objet que vous voulez créer)
 
     Duration: spéciale
 
@@ -14382,6 +15051,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 3 mètres
   Components: V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#création-de-mort-vivant
@@ -14426,7 +15098,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -14508,6 +15180,12 @@ SubItems:
 
     Components: V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -14584,6 +15262,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#création-de-nourriture-et-deau
@@ -14628,7 +15308,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -14674,6 +15354,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
@@ -14696,6 +15380,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#création-ou-destruction-deau
@@ -14740,7 +15427,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)<!--/MaterialComponent--></Components-->
 
 
 
@@ -14810,6 +15497,12 @@ SubItems:
 
     Components: V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -14868,6 +15561,9 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (sept épines acérées ou sept brindilles taillées en pointe)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -14913,7 +15609,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (sept épines acérées ou sept brindilles taillées en pointe)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (sept épines acérées ou sept brindilles taillées en pointe)<!--/MaterialComponent--></Components-->
 
 
 
@@ -14965,6 +15661,12 @@ SubItems:
 
     Components: V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (sept épines acérées ou sept brindilles taillées en pointe)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -14998,6 +15700,8 @@ SubItems:
   CastingTime: 1 action ou 8 heures
   Range: 45 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#croissance-végétale
@@ -15042,7 +15746,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -15112,6 +15816,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -15170,6 +15878,7 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -15215,7 +15924,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -15273,6 +15982,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -15315,6 +16026,7 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#déblocage
@@ -15359,7 +16071,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -15417,6 +16129,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -15457,6 +16171,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#déguisement
@@ -15501,7 +16217,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -15559,6 +16275,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -15599,6 +16319,7 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: S
+  SomaticComponent: S
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#demi-plan
@@ -15643,7 +16364,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->S<!--/Components-->
+      - **Composantes :** <!--Components--><!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -15695,6 +16416,8 @@ SubItems:
 
     Components: S
 
+    SomaticComponent: S
+
     Duration: 1 heure
 
     Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -15726,6 +16449,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: "V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)"
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: "M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)"
   Concentration: concentration
   Duration: jusqu'à 2 heures
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -15771,7 +16497,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)<!--/MaterialComponent--></Components-->
 
 
 
@@ -15835,6 +16561,12 @@ SubItems:
 
     Components: "V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)"
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: "M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)"
+
     Concentration: concentration
 
     Duration: jusqu'à 2 heures
@@ -15886,6 +16618,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (de la magnétite et une pincée de poussière)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (de la magnétite et une pincée de poussière)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#désintégration
@@ -15930,7 +16665,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (de la magnétite et une pincée de poussière)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (de la magnétite et une pincée de poussière)<!--/MaterialComponent--></Components-->
 
 
 
@@ -16000,6 +16735,12 @@ SubItems:
 
     Components: V, S, M (de la magnétite et une pincée de poussière)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (de la magnétite et une pincée de poussière)
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -16058,6 +16799,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une goutte d'eau)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une goutte d'eau)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -16090,7 +16834,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une goutte d'eau)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une goutte d'eau)<!--/MaterialComponent--></Components-->
 
 
 
@@ -16140,6 +16884,12 @@ SubItems:
 
     Components: V, S, M (une goutte d'eau)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une goutte d'eau)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -16183,6 +16933,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
@@ -16228,7 +16980,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -16282,6 +17034,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -16315,6 +17071,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (une pièce de cuivre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pièce de cuivre)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -16360,7 +17119,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pièce de cuivre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pièce de cuivre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -16453,6 +17212,12 @@ SubItems:
     Range: personnelle
 
     Components: V, S, M (une pièce de cuivre)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pièce de cuivre)
 
     Concentration: concentration
 
@@ -16550,6 +17315,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
@@ -16595,7 +17362,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -16647,6 +17414,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -16681,6 +17452,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (un brin d'if)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un brin d'if)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
@@ -16726,7 +17500,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un brin d'if)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un brin d'if)<!--/MaterialComponent--></Components-->
 
 
 
@@ -16780,6 +17554,12 @@ SubItems:
 
     Components: V, S, M (un brin d'if)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un brin d'if)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -16814,6 +17594,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (une goutte de mercure)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une goutte de mercure)
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#disque-flottant
@@ -16858,7 +17641,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une goutte de mercure)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une goutte de mercure)<!--/MaterialComponent--></Components-->
 
 
 
@@ -16924,6 +17707,12 @@ SubItems:
 
     Components: V, S, M (une goutte de mercure)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une goutte de mercure)
+
     Duration: 1 heure
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -16973,6 +17762,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#dissipation-de-la-magie
@@ -17017,7 +17808,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -17069,6 +17860,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
@@ -17100,6 +17895,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (eau bénite ou poudre d'argent et de fer)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (eau bénite ou poudre d'argent et de fer)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
@@ -17145,7 +17943,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (eau bénite ou poudre d'argent et de fer)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (eau bénite ou poudre d'argent et de fer)<!--/MaterialComponent--></Components-->
 
 
 
@@ -17209,6 +18007,12 @@ SubItems:
 
     Components: V, S, M (eau bénite ou poudre d'argent et de fer)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (eau bénite ou poudre d'argent et de fer)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -17261,6 +18065,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#divination
@@ -17305,7 +18112,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)<!--/MaterialComponent--></Components-->
 
 
 
@@ -17365,6 +18172,12 @@ SubItems:
 
     Components: V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -17405,6 +18218,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#doigt-de-mort
@@ -17449,7 +18264,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -17501,6 +18316,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -17532,6 +18351,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -17577,7 +18398,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -17664,6 +18485,10 @@ SubItems:
     Range: 18 mètres
 
     Components: V, S
+
+    VerbalComponent: V
+
+    SomaticComponent: S
 
     Concentration: concentration
 
@@ -17752,6 +18577,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -17797,7 +18624,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -17879,6 +18706,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -17957,6 +18788,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
@@ -18002,7 +18835,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -18084,6 +18917,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -18163,6 +19000,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
   Duration: 10 jours
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#doux-repos
@@ -18207,7 +19047,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)<!--/MaterialComponent--></Components-->
 
 
 
@@ -18261,6 +19101,12 @@ SubItems:
 
     Components: V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
+
     Duration: 10 jours
 
     Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
@@ -18292,6 +19138,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#druidisme
@@ -18336,7 +19184,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -18406,6 +19254,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Druide](hd_druid.md)'
@@ -18464,6 +19316,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (ligne de 30 mètres)
   Components: V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#Éclair
@@ -18508,7 +19363,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -18572,6 +19427,12 @@ SubItems:
 
     Components: V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -18621,6 +19482,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une écharde de bois)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une écharde de bois)
   Duration: instantanée
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#Éclat-de-bois
@@ -18652,7 +19516,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une écharde de bois)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une écharde de bois)<!--/MaterialComponent--></Components-->
 
 
 
@@ -18702,6 +19566,12 @@ SubItems:
 
     Components: V, S, M (une écharde de bois)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une écharde de bois)
+
     Duration: instantanée
 
     Classes: '[Druide](hd_druid.md)'
@@ -18742,6 +19612,9 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S, M (du feu et un éclat d'héliotrope)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (du feu et un éclat d'héliotrope)
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#Éclat-du-soleil
@@ -18786,7 +19659,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (du feu et un éclat d'héliotrope)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (du feu et un éclat d'héliotrope)<!--/MaterialComponent--></Components-->
 
 
 
@@ -18850,6 +19723,12 @@ SubItems:
 
     Components: V, S, M (du feu et un éclat d'héliotrope)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (du feu et un éclat d'héliotrope)
+
     Duration: instantanée
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -18899,6 +19778,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (cône de 18 mètres)
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#embruns-prismatiques
@@ -18943,7 +19824,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -19031,6 +19912,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -19116,6 +20001,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 9 mètres
   Components: V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#emprisonnement
@@ -19160,7 +20048,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)<!--/MaterialComponent--></Components-->
 
 
 
@@ -19277,6 +20165,12 @@ SubItems:
     Range: 9 mètres
 
     Components: V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)
 
     Duration: jusqu'à dissipation
 
@@ -19408,6 +20302,8 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
@@ -19453,7 +20349,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -19511,6 +20407,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -19553,6 +20453,9 @@ SubItems:
   CastingTime: 1 heure
   Range: 18 mètres
   Components: V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#entrave-planaire
@@ -19597,7 +20500,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -19655,6 +20558,12 @@ SubItems:
 
     Components: V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
+
     Duration: 24 heures
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
@@ -19695,6 +20604,9 @@ SubItems:
   CastingTime: 1 action
   Range: illimitée
   Components: V, S, M (un petit bout de fil de cuivre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit bout de fil de cuivre)
   Duration: 1 round
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#envoi-de-message
@@ -19739,7 +20651,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit bout de fil de cuivre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit bout de fil de cuivre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -19791,6 +20703,12 @@ SubItems:
 
     Components: V, S, M (un petit bout de fil de cuivre)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit bout de fil de cuivre)
+
     Duration: 1 round
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -19822,6 +20740,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#envoûtement
@@ -19866,7 +20786,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -19912,6 +20832,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -19934,6 +20858,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#Épargner-les-mourants
@@ -19978,7 +20904,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -20024,6 +20950,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -20046,6 +20976,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
@@ -20078,7 +21010,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -20116,6 +21048,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -20140,6 +21076,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -20185,7 +21124,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -20237,6 +21176,12 @@ SubItems:
 
     Components: V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -20270,6 +21215,9 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une poignée de sphères en argile, en cristal, en verre ou minérales)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#esprit-faible
@@ -20314,7 +21262,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une poignée de sphères en argile, en cristal, en verre ou minérales)<!--/MaterialComponent--></Components-->
 
 
 
@@ -20372,6 +21320,12 @@ SubItems:
 
     Components: V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une poignée de sphères en argile, en cristal, en verre ou minérales)
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -20412,6 +21366,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#esprit-impénétrable
@@ -20456,7 +21412,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -20502,6 +21458,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 24 heures
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -20523,7 +21483,10 @@ SubItems:
   Type: Invocation
   CastingTime: 1 action
   Range: personnelle (4,50 mètres de rayon)
-  Components: V, S M (un symbole sacré)
+  Components: V, S, M (un symbole sacré)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un symbole sacré)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md)'
@@ -20569,7 +21532,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S M (un symbole sacré)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un symbole sacré)<!--/MaterialComponent--></Components-->
 
 
 
@@ -20631,7 +21594,13 @@ SubItems:
 
     Range: personnelle (4,50 mètres de rayon)
 
-    Components: V, S M (un symbole sacré)
+    Components: V, S, M (un symbole sacré)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un symbole sacré)
 
     Concentration: concentration
 
@@ -20684,6 +21653,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
@@ -20729,7 +21700,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -20775,6 +21746,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -20799,6 +21774,9 @@ SubItems:
   CastingTime: 8 heures
   Range: contact
   Components: V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#Éveil
@@ -20843,7 +21821,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)<!--/MaterialComponent--></Components-->
 
 
 
@@ -20901,6 +21879,12 @@ SubItems:
 
     Components: V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md)'
@@ -20941,6 +21925,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une cuillère)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une cuillère)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#excavation
@@ -20972,7 +21959,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une cuillère)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une cuillère)<!--/MaterialComponent--></Components-->
 
 
 
@@ -21010,6 +21997,12 @@ SubItems:
 
     Components: V, S, M (une cuillère)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une cuillère)
+
     Duration: instantanée
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -21032,6 +22025,7 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
@@ -21064,7 +22058,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -21102,6 +22096,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -21126,6 +22122,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Sorcier](hd_warlock.md)'
   Id: spells_hd.md#explosion-occulte
@@ -21170,7 +22168,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -21222,6 +22220,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Sorcier](hd_warlock.md)'
@@ -21253,6 +22255,8 @@ SubItems:
   CastingTime: 10 minutes
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#fabrication
@@ -21297,7 +22301,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -21355,6 +22359,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -21395,6 +22403,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#façonnage-de-la-pierre
@@ -21439,7 +22450,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)<!--/MaterialComponent--></Components-->
 
 
 
@@ -21485,6 +22496,12 @@ SubItems:
 
     Components: V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
@@ -21507,6 +22524,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
@@ -21552,7 +22571,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -21604,6 +22623,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -21637,6 +22660,9 @@ SubItems:
   CastingTime: 10 minutes
   Range: 9 mètres
   Components: V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#festin-des-héros
@@ -21681,7 +22707,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -21739,6 +22765,12 @@ SubItems:
 
     Components: V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -21779,6 +22811,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (morceau d'onyx)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (morceau d'onyx)
   Duration: instantanée
   Classes: '[Sorcier](hd_warlock.md)'
   Id: spells_hd.md#flamboiement-funeste
@@ -21810,7 +22845,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (morceau d'onyx)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (morceau d'onyx)<!--/MaterialComponent--></Components-->
 
 
 
@@ -21860,6 +22895,12 @@ SubItems:
 
     Components: V, S, M (morceau d'onyx)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (morceau d'onyx)
+
     Duration: instantanée
 
     Classes: '[Sorcier](hd_warlock.md)'
@@ -21900,6 +22941,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (poussière de rubis d'une valeur de 50 po, que le sort consume)
   Duration: jusqu'à dissipation
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#flamme-éternelle
@@ -21944,7 +22988,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (poussière de rubis d'une valeur de 50 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -21990,6 +23034,12 @@ SubItems:
 
     Components: V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (poussière de rubis d'une valeur de 50 po, que le sort consume)
+
     Duration: jusqu'à dissipation
 
     Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
@@ -22012,6 +23062,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#flamme-sacrée
@@ -22056,7 +23108,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -22114,6 +23166,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -22154,6 +23210,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (une goutte de sang)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une goutte de sang)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
@@ -22199,7 +23258,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une goutte de sang)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une goutte de sang)<!--/MaterialComponent--></Components-->
 
 
 
@@ -22257,6 +23316,12 @@ SubItems:
 
     Components: V, S, M (une goutte de sang)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une goutte de sang)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -22299,6 +23364,9 @@ SubItems:
   CastingTime: 1 action
   Range: 90 mètres
   Components: V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
@@ -22344,7 +23412,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)<!--/MaterialComponent--></Components-->
 
 
 
@@ -22408,6 +23476,12 @@ SubItems:
 
     Components: V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -22459,6 +23533,9 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (poudre de feuille de rhubarbe et estomac de vipère)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (poudre de feuille de rhubarbe et estomac de vipère)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#flèche-acide
@@ -22503,7 +23580,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (poudre de feuille de rhubarbe et estomac de vipère)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (poudre de feuille de rhubarbe et estomac de vipère)<!--/MaterialComponent--></Components-->
 
 
 
@@ -22555,6 +23632,12 @@ SubItems:
 
     Components: V, S, M (poudre de feuille de rhubarbe et estomac de vipère)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (poudre de feuille de rhubarbe et estomac de vipère)
+
     Duration: instantanée
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -22586,6 +23669,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#flétrissement
@@ -22630,7 +23715,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -22688,6 +23773,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -22728,6 +23817,7 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -22773,7 +23863,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -22819,6 +23909,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -22843,6 +23935,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: jusqu'à 8 heures
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#forme-éthérée
@@ -22887,7 +23981,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -22963,6 +24057,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: jusqu'à 8 heures
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -23030,6 +24128,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un morceau de gaze et une volute de fumée)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un morceau de gaze et une volute de fumée)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -23075,7 +24176,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un morceau de gaze et une volute de fumée)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un morceau de gaze et une volute de fumée)<!--/MaterialComponent--></Components-->
 
 
 
@@ -23139,6 +24240,12 @@ SubItems:
 
     Components: V, S, M (un morceau de gaze et une volute de fumée)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un morceau de gaze et une volute de fumée)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -23190,6 +24297,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 24 heures
   Classes: '[Druide](hd_druid.md)'
@@ -23235,7 +24344,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -23293,6 +24402,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 24 heures
@@ -23335,6 +24448,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (de minuscules tartes et une plume à agiter dans les airs)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (de minuscules tartes et une plume à agiter dans les airs)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -23380,7 +24496,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (de minuscules tartes et une plume à agiter dans les airs)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (de minuscules tartes et une plume à agiter dans les airs)<!--/MaterialComponent--></Components-->
 
 
 
@@ -23432,6 +24548,12 @@ SubItems:
 
     Components: V, S, M (de minuscules tartes et une plume à agiter dans les airs)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (de minuscules tartes et une plume à agiter dans les airs)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -23465,6 +24587,7 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
@@ -23497,7 +24620,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -23564,6 +24687,8 @@ SubItems:
     Range: personnelle
 
     Components: V
+
+    VerbalComponent: V
 
     Concentration: concentration
 
@@ -23634,6 +24759,7 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
@@ -23679,7 +24805,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -23731,6 +24857,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -23765,6 +24893,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 8 heures
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#fusion-dans-la-pierre
@@ -23809,7 +24939,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -23875,6 +25005,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 8 heures
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -23924,6 +25058,7 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V
+  VerbalComponent: V
   Duration: 8 heures
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#gardien-de-la-foi
@@ -23968,7 +25103,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -24020,6 +25155,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: 8 heures
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -24051,6 +25188,9 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (une petite poire remplie d'air)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une petite poire remplie d'air)
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md)'
   Id: spells_hd.md#geyser-dénergie
@@ -24082,7 +25222,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une petite poire remplie d'air)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une petite poire remplie d'air)<!--/MaterialComponent--></Components-->
 
 
 
@@ -24132,6 +25272,12 @@ SubItems:
 
     Components: V, S, M (une petite poire remplie d'air)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une petite poire remplie d'air)
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md)'
@@ -24172,6 +25318,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (3 mètres de rayon)
   Components: V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une perle de verre ou de cristal qui explose à la fin du sort)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -24217,7 +25366,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une perle de verre ou de cristal qui explose à la fin du sort)<!--/MaterialComponent--></Components-->
 
 
 
@@ -24275,6 +25424,12 @@ SubItems:
 
     Components: V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une perle de verre ou de cristal qui explose à la fin du sort)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -24317,6 +25472,9 @@ SubItems:
   CastingTime: 1 heure
   Range: contact
   Components: V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
   Duration: jusqu'à dissipation ou déclenchement
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#glyphe-de-protection
@@ -24361,7 +25519,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -24454,6 +25612,12 @@ SubItems:
     Range: contact
 
     Components: V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
 
     Duration: jusqu'à dissipation ou déclenchement
 
@@ -24549,6 +25713,9 @@ SubItems:
   CastingTime: 1 action bonus
   Range: contact
   Components: V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (du gui, une feuille de trèfle et un bâton ou un gourdin)
   Duration: 1 minute
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#gourdin-magique
@@ -24593,7 +25760,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (du gui, une feuille de trèfle et un bâton ou un gourdin)<!--/MaterialComponent--></Components-->
 
 
 
@@ -24639,6 +25806,12 @@ SubItems:
 
     Components: V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (du gui, une feuille de trèfle et un bâton ou un gourdin)
+
     Duration: 1 minute
 
     Classes: '[Druide](hd_druid.md)'
@@ -24661,6 +25834,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (de la couenne de porc ou du beurre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (de la couenne de porc ou du beurre)
   Duration: 1 minute
   Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#graisse
@@ -24705,7 +25881,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (de la couenne de porc ou du beurre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (de la couenne de porc ou du beurre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -24757,6 +25933,12 @@ SubItems:
 
     Components: V, S, M (de la couenne de porc ou du beurre)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (de la couenne de porc ou du beurre)
+
     Duration: 1 minute
 
     Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -24788,6 +25970,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une pincée de poussière)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de poussière)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#grande-foulée
@@ -24832,7 +26017,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de poussière)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de poussière)<!--/MaterialComponent--></Components-->
 
 
 
@@ -24884,6 +26069,12 @@ SubItems:
 
     Components: V, S, M (une pincée de poussière)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de poussière)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Rôdeur](hd_ranger.md)'
@@ -24915,6 +26106,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#guérison
@@ -24959,7 +26152,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -25011,6 +26204,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -25042,6 +26239,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#guérison-de-groupe
@@ -25086,7 +26285,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -25138,6 +26337,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -25169,6 +26372,9 @@ SubItems:
   CastingTime: 1 action
   Range: 12 mètres
   Components: V, S, M (un verre en cristal d'une valeur de 500 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un verre en cristal d'une valeur de 500 po)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md)'
@@ -25201,7 +26407,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un verre en cristal d'une valeur de 500 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un verre en cristal d'une valeur de 500 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -25245,6 +26451,12 @@ SubItems:
 
     Components: V, S, M (un verre en cristal d'une valeur de 500 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un verre en cristal d'une valeur de 500 po)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -25278,6 +26490,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un copeau de racine de réglisse)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un copeau de racine de réglisse)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -25323,7 +26538,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un copeau de racine de réglisse)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un copeau de racine de réglisse)<!--/MaterialComponent--></Components-->
 
 
 
@@ -25375,6 +26590,12 @@ SubItems:
 
     Components: V, S, M (un copeau de racine de réglisse)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un copeau de racine de réglisse)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -25408,6 +26629,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Paladin](hd_paladin.md)'
@@ -25453,7 +26676,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -25505,6 +26728,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -25539,6 +26766,9 @@ SubItems:
   CastingTime: 1 minute
   Range: contact
   Components: V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une perle d'une valeur minimale de 100 po et une plume de hibou)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#identification
@@ -25583,7 +26813,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une perle d'une valeur minimale de 100 po et une plume de hibou)<!--/MaterialComponent--></Components-->
 
 
 
@@ -25637,6 +26867,12 @@ SubItems:
 
     Components: V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une perle d'une valeur minimale de 100 po et une plume de hibou)
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -25668,6 +26904,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: S, M (un morceau de toison)
+  SomaticComponent: S
+  MaterialComponent: M (un morceau de toison)
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#illusion-mineure
@@ -25712,7 +26950,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->S, M (un morceau de toison)<!--/Components-->
+      - **Composantes :** <!--Components--><!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un morceau de toison)<!--/MaterialComponent--></Components-->
 
 
 
@@ -25776,6 +27014,10 @@ SubItems:
 
     Components: S, M (un morceau de toison)
 
+    SomaticComponent: S
+
+    MaterialComponent: M (un morceau de toison)
+
     Duration: 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -25825,6 +27067,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
   Duration: jusqu'à dissipation
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#illusion-programmée
@@ -25869,7 +27114,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -25933,6 +27178,12 @@ SubItems:
 
     Components: V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
+
     Duration: jusqu'à dissipation
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -25982,6 +27233,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un morceau de toison)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un morceau de toison)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -26027,7 +27281,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un morceau de toison)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un morceau de toison)<!--/MaterialComponent--></Components-->
 
 
 
@@ -26091,6 +27345,12 @@ SubItems:
 
     Components: V, S, M (un morceau de toison)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un morceau de toison)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -26142,6 +27402,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#image-miroir
@@ -26186,7 +27448,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -26268,6 +27530,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -26344,6 +27610,9 @@ SubItems:
   CastingTime: 1 action
   Range: 750 kilomètres
   Components: V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
   Concentration: concentration
   Duration: jusqu'à 1 jour
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -26389,7 +27658,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -26453,6 +27722,12 @@ SubItems:
 
     Components: V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 jour
@@ -26504,6 +27779,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un morceau de toison)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un morceau de toison)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -26549,7 +27827,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un morceau de toison)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un morceau de toison)<!--/MaterialComponent--></Components-->
 
 
 
@@ -26607,6 +27885,12 @@ SubItems:
 
     Components: V, S, M (un morceau de toison)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un morceau de toison)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -26649,6 +27933,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un petit morceau de fer bien droit)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit morceau de fer bien droit)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -26694,7 +27981,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit morceau de fer bien droit)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit morceau de fer bien droit)<!--/MaterialComponent--></Components-->
 
 
 
@@ -26746,6 +28033,12 @@ SubItems:
 
     Components: V, S, M (un petit morceau de fer bien droit)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit morceau de fer bien droit)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -26779,6 +28072,9 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (un petit morceau de fer bien droit)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit morceau de fer bien droit)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -26824,7 +28120,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit morceau de fer bien droit)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit morceau de fer bien droit)<!--/MaterialComponent--></Components-->
 
 
 
@@ -26882,6 +28178,12 @@ SubItems:
 
     Components: V, S, M (un petit morceau de fer bien droit)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit morceau de fer bien droit)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -26924,6 +28226,7 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V
+  VerbalComponent: V
   Duration: 1 round
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#injonction
@@ -26968,7 +28271,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -27056,6 +28359,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: 1 round
 
     Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
@@ -27141,6 +28446,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
@@ -27186,7 +28493,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -27256,6 +28563,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -27316,6 +28627,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un archet et un morceau d'os)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un archet et un morceau d'os)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md)'
@@ -27348,7 +28662,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un archet et un morceau d'os)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un archet et un morceau d'os)<!--/MaterialComponent--></Components-->
 
 
 
@@ -27398,6 +28712,12 @@ SubItems:
 
     Components: V, S, M (un archet et un morceau d'os)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un archet et un morceau d'os)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -27441,6 +28761,9 @@ SubItems:
   CastingTime: 10 minutes
   Range: contact
   Components: V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)
   Duration: 1 jour
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#interdiction
@@ -27485,7 +28808,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -27563,6 +28886,12 @@ SubItems:
 
     Components: V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)
+
     Duration: 1 jour
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -27630,6 +28959,9 @@ SubItems:
   CastingTime: 1 action
   Range: 30 mètres
   Components: V, S, M (de la magnétite et de la limaille de fer)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (de la magnétite et de la limaille de fer)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -27675,7 +29007,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (de la magnétite et de la limaille de fer)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (de la magnétite et de la limaille de fer)<!--/MaterialComponent--></Components-->
 
 
 
@@ -27733,6 +29065,12 @@ SubItems:
 
     Components: V, S, M (de la magnétite et de la limaille de fer)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (de la magnétite et de la limaille de fer)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -27775,6 +29113,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un cil enrobé de gomme arabique)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un cil enrobé de gomme arabique)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -27820,7 +29161,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un cil enrobé de gomme arabique)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un cil enrobé de gomme arabique)<!--/MaterialComponent--></Components-->
 
 
 
@@ -27872,6 +29213,12 @@ SubItems:
 
     Components: V, S, M (un cil enrobé de gomme arabique)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un cil enrobé de gomme arabique)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -27905,6 +29252,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -27950,7 +29299,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -27996,6 +29345,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -28020,6 +29373,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -28065,7 +29420,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -28164,6 +29519,10 @@ SubItems:
     Range: 18 mètres
 
     Components: V, S
+
+    VerbalComponent: V
+
+    SomaticComponent: S
 
     Concentration: concentration
 
@@ -28270,6 +29629,8 @@ SubItems:
   CastingTime: 1 minute
   Range: 27 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
@@ -28315,7 +29676,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -28408,6 +29769,10 @@ SubItems:
     Range: 27 mètres
 
     Components: V, S
+
+    VerbalComponent: V
+
+    SomaticComponent: S
 
     Concentration: concentration
 
@@ -28505,6 +29870,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une baie de houx par créature invoquée)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une baie de houx par créature invoquée)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -28550,7 +29918,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une baie de houx par créature invoquée)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une baie de houx par créature invoquée)<!--/MaterialComponent--></Components-->
 
 
 
@@ -28643,6 +30011,12 @@ SubItems:
     Range: 18 mètres
 
     Components: V, S, M (une baie de houx par créature invoquée)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une baie de houx par créature invoquée)
 
     Concentration: concentration
 
@@ -28740,6 +30114,8 @@ SubItems:
   CastingTime: 1 minute
   Range: 27 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Clerc](hd_cleric.md)'
@@ -28785,7 +30161,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -28861,6 +30237,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -28930,6 +30310,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 27 mètres
   Components: V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
@@ -28975,7 +30358,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)<!--/MaterialComponent--></Components-->
 
 
 
@@ -29051,6 +30434,12 @@ SubItems:
 
     Components: V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -29120,6 +30509,8 @@ SubItems:
   CastingTime: 1 minute
   Range: 27 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Sorcier](hd_warlock.md)'
@@ -29165,7 +30556,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -29235,6 +30626,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -29295,6 +30690,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
@@ -29340,7 +30737,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -29427,6 +30824,10 @@ SubItems:
     Range: contact
 
     Components: V, S
+
+    VerbalComponent: V
+
+    SomaticComponent: S
 
     Concentration: concentration
 
@@ -29515,6 +30916,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#jugement-dernier
@@ -29546,7 +30949,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -29584,6 +30987,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Paladin](hd_paladin.md)'
@@ -29606,6 +31013,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
@@ -29651,7 +31060,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -29721,6 +31130,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -29781,6 +31194,9 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V, S, M (feuille de sumac)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (feuille de sumac)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
@@ -29826,7 +31242,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (feuille de sumac)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (feuille de sumac)<!--/MaterialComponent--></Components-->
 
 
 
@@ -29890,6 +31306,12 @@ SubItems:
 
     Components: V, S, M (feuille de sumac)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (feuille de sumac)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -29941,6 +31363,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
@@ -29973,7 +31397,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -30017,6 +31441,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -30050,6 +31478,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, M (un modèle réduit de ziggourat en argile)
+  VerbalComponent: V
+  MaterialComponent: M (un modèle réduit de ziggourat en argile)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#langues
@@ -30094,7 +31524,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, M (un modèle réduit de ziggourat en argile)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--MaterialComponent-->M (un modèle réduit de ziggourat en argile)<!--/MaterialComponent--></Components-->
 
 
 
@@ -30146,6 +31576,10 @@ SubItems:
 
     Components: V, M (un modèle réduit de ziggourat en argile)
 
+    VerbalComponent: V
+
+    MaterialComponent: M (un modèle réduit de ziggourat en argile)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -30177,6 +31611,9 @@ SubItems:
   CastingTime: 10 minutes
   Range: personnelle
   Components: V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#légende
@@ -30221,7 +31658,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)<!--/MaterialComponent--></Components-->
 
 
 
@@ -30285,6 +31722,12 @@ SubItems:
 
     Components: V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
@@ -30334,6 +31777,8 @@ SubItems:
   CastingTime: 1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain
   Range: 18 mètres
   Components: V, M (une petite plume ou un peu de duvet)
+  VerbalComponent: V
+  MaterialComponent: M (une petite plume ou un peu de duvet)
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#léger-comme-une-plume
@@ -30378,7 +31823,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, M (une petite plume ou un peu de duvet)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--MaterialComponent-->M (une petite plume ou un peu de duvet)<!--/MaterialComponent--></Components-->
 
 
 
@@ -30424,6 +31869,10 @@ SubItems:
 
     Components: V, M (une petite plume ou un peu de duvet)
 
+    VerbalComponent: V
+
+    MaterialComponent: M (une petite plume ou un peu de duvet)
+
     Duration: 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -30446,6 +31895,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (une goutte de mélasse)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une goutte de mélasse)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -30491,7 +31943,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une goutte de mélasse)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une goutte de mélasse)<!--/MaterialComponent--></Components-->
 
 
 
@@ -30561,6 +32013,12 @@ SubItems:
 
     Components: V, S, M (une goutte de mélasse)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une goutte de mélasse)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -30621,6 +32079,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#lever-une-malédiction
@@ -30665,7 +32125,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -30711,6 +32171,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
@@ -30733,6 +32197,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -30778,7 +32245,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)<!--/MaterialComponent--></Components-->
 
 
 
@@ -30842,6 +32309,12 @@ SubItems:
 
     Components: V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -30893,6 +32366,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -30925,7 +32400,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -30975,6 +32450,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -31017,6 +32496,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#liberté-de-mouvement
@@ -31061,7 +32543,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)<!--/MaterialComponent--></Components-->
 
 
 
@@ -31113,6 +32595,12 @@ SubItems:
 
     Components: V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
@@ -31144,6 +32632,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
   Duration: 1 heure
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#lien-de-protection
@@ -31188,7 +32679,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)<!--/MaterialComponent--></Components-->
 
 
 
@@ -31246,6 +32737,12 @@ SubItems:
 
     Components: V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
+
     Duration: 1 heure
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -31287,6 +32784,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#lien-télépathique
@@ -31331,7 +32831,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)<!--/MaterialComponent--></Components-->
 
 
 
@@ -31391,6 +32891,12 @@ SubItems:
 
     Components: V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
+
     Duration: 1 heure
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -31432,6 +32938,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (des poils de chien de chasse)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (des poils de chien de chasse)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#localiser-des-animaux-ou-des-plantes
@@ -31476,7 +32985,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (des poils de chien de chasse)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (des poils de chien de chasse)<!--/MaterialComponent--></Components-->
 
 
 
@@ -31524,6 +33033,12 @@ SubItems:
 
     Components: V, S, M (des poils de chien de chasse)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (des poils de chien de chasse)
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -31546,6 +33061,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (une branche fourchue)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une branche fourchue)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
@@ -31591,7 +33109,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une branche fourchue)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une branche fourchue)<!--/MaterialComponent--></Components-->
 
 
 
@@ -31655,6 +33173,12 @@ SubItems:
 
     Components: V, S, M (une branche fourchue)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une branche fourchue)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -31706,6 +33230,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (des poils de chien de chasse)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (des poils de chien de chasse)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
@@ -31751,7 +33278,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (des poils de chien de chasse)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (des poils de chien de chasse)<!--/MaterialComponent--></Components-->
 
 
 
@@ -31815,6 +33342,12 @@ SubItems:
 
     Components: V, S, M (des poils de chien de chasse)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (des poils de chien de chasse)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -31866,6 +33399,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md)'
@@ -31911,7 +33446,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -31963,6 +33498,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -31996,6 +33535,7 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -32041,7 +33581,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -32093,6 +33633,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -32126,6 +33668,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, M (une luciole ou de la mousse phosphorescente)
+  VerbalComponent: V
+  MaterialComponent: M (une luciole ou de la mousse phosphorescente)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#lumière
@@ -32170,7 +33714,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, M (une luciole ou de la mousse phosphorescente)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--MaterialComponent-->M (une luciole ou de la mousse phosphorescente)<!--/MaterialComponent--></Components-->
 
 
 
@@ -32234,6 +33778,10 @@ SubItems:
 
     Components: V, M (une luciole ou de la mousse phosphorescente)
 
+    VerbalComponent: V
+
+    MaterialComponent: M (une luciole ou de la mousse phosphorescente)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -32283,6 +33831,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 heure
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#lumière-du-jour
@@ -32327,7 +33877,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -32385,6 +33935,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 heure
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
@@ -32425,6 +33979,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bout de phosphore ou d'orme, ou un ver luisant)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -32470,7 +34027,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bout de phosphore ou d'orme, ou un ver luisant)<!--/MaterialComponent--></Components-->
 
 
 
@@ -32540,6 +34097,12 @@ SubItems:
 
     Components: V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bout de phosphore ou d'orme, ou un ver luisant)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -32600,6 +34163,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#main-du-mage
@@ -32644,7 +34209,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -32702,6 +34267,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -32742,6 +34311,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (une coquille d'oeuf et un gant en peau de serpent)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une coquille d'oeuf et un gant en peau de serpent)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
@@ -32787,7 +34359,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une coquille d'oeuf et un gant en peau de serpent)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une coquille d'oeuf et un gant en peau de serpent)<!--/MaterialComponent--></Components-->
 
 
 
@@ -32886,6 +34458,12 @@ SubItems:
     Range: 36 mètres
 
     Components: V, S, M (une coquille d'oeuf et un gant en peau de serpent)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une coquille d'oeuf et un gant en peau de serpent)
 
     Concentration: concentration
 
@@ -32992,6 +34570,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (cône de 4,50 mètres)
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#mains-brûlantes
@@ -33036,7 +34616,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -33100,6 +34680,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -33149,6 +34733,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 90 mètres
   Components: V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#manoir-somptueux
@@ -33193,7 +34780,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -33275,6 +34862,12 @@ SubItems:
 
     Components: V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
+
     Duration: 24 heures
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -33351,6 +34944,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (un peu d'eau)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un peu d'eau)
   Duration: 8 heures
   Classes: '[Sorcier](hd_warlock.md)'
   Id: spells_hd.md#manteau-de-givre
@@ -33382,7 +34978,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un peu d'eau)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un peu d'eau)<!--/MaterialComponent--></Components-->
 
 
 
@@ -33426,6 +35022,12 @@ SubItems:
 
     Components: V, S, M (un peu d'eau)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un peu d'eau)
+
     Duration: 8 heures
 
     Classes: '[Sorcier](hd_warlock.md)'
@@ -33458,6 +35060,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un bout de liège)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bout de liège)
   Duration: 1 heure
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#marche-sur-leau
@@ -33502,7 +35107,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bout de liège)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bout de liège)<!--/MaterialComponent--></Components-->
 
 
 
@@ -33556,6 +35161,12 @@ SubItems:
 
     Components: V, S, M (un bout de liège)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bout de liège)
+
     Duration: 1 heure
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Rôdeur](hd_ranger.md)'
@@ -33587,6 +35198,9 @@ SubItems:
   CastingTime: 1 minute
   Range: 9 mètres
   Components: V, S, M (du feu et de l'eau bénite)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (du feu et de l'eau bénite)
   Duration: 8 heures
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#marche-sur-le-vent
@@ -33631,7 +35245,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (du feu et de l'eau bénite)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (du feu et de l'eau bénite)<!--/MaterialComponent--></Components-->
 
 
 
@@ -33683,6 +35297,12 @@ SubItems:
 
     Components: V, S, M (du feu et de l'eau bénite)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (du feu et de l'eau bénite)
+
     Duration: 8 heures
 
     Classes: '[Druide](hd_druid.md)'
@@ -33714,6 +35334,7 @@ SubItems:
   CastingTime: 1 action bonus
   Range: 27 mètres
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Rôdeur](hd_ranger.md)'
@@ -33759,7 +35380,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -33811,6 +35432,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -33844,6 +35467,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -33889,7 +35514,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -33953,6 +35578,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -34004,6 +35633,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un petit bout de fil de cuivre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit bout de fil de cuivre)
   Duration: 1 round
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#message
@@ -34048,7 +35680,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit bout de fil de cuivre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit bout de fil de cuivre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -34100,6 +35732,12 @@ SubItems:
 
     Components: V, S, M (un petit bout de fil de cuivre)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit bout de fil de cuivre)
+
     Duration: 1 round
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -34132,6 +35770,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un peu de nourriture)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un peu de nourriture)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#messager-animal
@@ -34176,7 +35817,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un peu de nourriture)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un peu de nourriture)<!--/MaterialComponent--></Components-->
 
 
 
@@ -34248,6 +35889,12 @@ SubItems:
 
     Components: V, S, M (un peu de nourriture)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un peu de nourriture)
+
     Duration: 24 heures
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -34306,6 +35953,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un cocon de chenille)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un cocon de chenille)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -34351,7 +36001,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un cocon de chenille)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un cocon de chenille)<!--/MaterialComponent--></Components-->
 
 
 
@@ -34421,6 +36071,12 @@ SubItems:
 
     Components: V, S, M (un cocon de chenille)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un cocon de chenille)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -34481,6 +36137,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -34526,7 +36185,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)<!--/MaterialComponent--></Components-->
 
 
 
@@ -34649,6 +36308,12 @@ SubItems:
     Range: 9 mètres
 
     Components: V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
 
     Concentration: concentration
 
@@ -34791,6 +36456,8 @@ SubItems:
   CastingTime: 10 minutes
   Range: vision
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 10 jours
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#mirage
@@ -34835,7 +36502,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -34893,6 +36560,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 10 jours
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
@@ -34933,6 +36604,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: "jusqu'à 1 minute "
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -34978,7 +36651,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -35054,6 +36727,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: "jusqu'à 1 minute "
@@ -35123,6 +36800,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -35168,7 +36847,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -35232,6 +36911,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -35284,6 +36967,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#monture-fantôme
@@ -35328,7 +37013,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -35388,6 +37073,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 heure
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -35428,6 +37117,7 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#moquerie-cruelle
@@ -35472,7 +37162,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -35524,6 +37214,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -35555,6 +37247,7 @@ SubItems:
   CastingTime: 1 action bonus
   Range: 18 mètres
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#mot-de-guérison
@@ -35599,7 +37292,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -35651,6 +37344,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -35682,6 +37377,7 @@ SubItems:
   CastingTime: 1 action bonus
   Range: 18 mètres
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#mot-de-guérison-de-groupe
@@ -35726,7 +37422,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -35778,6 +37474,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -35809,6 +37507,7 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#mot-de-pouvoir-étourdissant
@@ -35853,7 +37552,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -35905,6 +37604,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -35936,6 +37637,7 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#mot-de-pouvoir-mortel
@@ -35980,7 +37682,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -36026,6 +37728,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -36048,6 +37752,7 @@ SubItems:
   CastingTime: 1 action
   Range: 1,5 mètre
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#mot-de-retour
@@ -36092,7 +37797,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -36144,6 +37849,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -36175,6 +37882,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
+  SomaticComponent: S
+  MaterialComponent: M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -36220,7 +37929,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)<!--/Components-->
+      - **Composantes :** <!--Components--><!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)<!--/MaterialComponent--></Components-->
 
 
 
@@ -36278,6 +37987,10 @@ SubItems:
 
     Components: S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
 
+    SomaticComponent: S
+
+    MaterialComponent: M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -36320,6 +38033,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (une poignée d'épines)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une poignée d'épines)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
@@ -36365,7 +38081,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une poignée d'épines)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une poignée d'épines)<!--/MaterialComponent--></Components-->
 
 
 
@@ -36435,6 +38151,12 @@ SubItems:
 
     Components: V, S, M (une poignée d'épines)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une poignée d'épines)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -36495,6 +38217,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un éclat de phosphore)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un éclat de phosphore)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -36540,7 +38265,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un éclat de phosphore)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un éclat de phosphore)<!--/MaterialComponent--></Components-->
 
 
 
@@ -36610,6 +38335,12 @@ SubItems:
 
     Components: V, S, M (un éclat de phosphore)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un éclat de phosphore)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -36670,6 +38401,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (une pincée de poudre de gemme translucide)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de poudre de gemme translucide)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
@@ -36715,7 +38449,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de poudre de gemme translucide)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de poudre de gemme translucide)<!--/MaterialComponent--></Components-->
 
 
 
@@ -36767,6 +38501,12 @@ SubItems:
 
     Components: V, S, M (une pincée de poudre de gemme translucide)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de poudre de gemme translucide)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -36800,6 +38540,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un éclat de quartz)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un éclat de quartz)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
@@ -36845,7 +38588,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un éclat de quartz)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un éclat de quartz)<!--/MaterialComponent--></Components-->
 
 
 
@@ -36909,6 +38652,12 @@ SubItems:
 
     Components: V, S, M (un éclat de quartz)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un éclat de quartz)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -36960,6 +38709,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un petit bloc de granite)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit bloc de granite)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -37005,7 +38757,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit bloc de granite)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit bloc de granite)<!--/MaterialComponent--></Components-->
 
 
 
@@ -37081,6 +38833,12 @@ SubItems:
 
     Components: V, S, M (un petit bloc de granite)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit bloc de granite)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -37150,6 +38908,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un petit éventail et une plume exotique)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit éventail et une plume exotique)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -37195,7 +38956,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit éventail et une plume exotique)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit éventail et une plume exotique)<!--/MaterialComponent--></Components-->
 
 
 
@@ -37253,6 +39014,12 @@ SubItems:
 
     Components: V, S, M (un petit éventail et une plume exotique)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit éventail et une plume exotique)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -37295,6 +39062,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#mur-prismatique
@@ -37339,7 +39108,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -37462,6 +39231,10 @@ SubItems:
     Range: 18 mètres
 
     Components: V, S
+
+    VerbalComponent: V
+
+    SomaticComponent: S
 
     Duration: 10 minutes
 
@@ -37602,6 +39375,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
@@ -37647,7 +39422,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -37699,6 +39474,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -37732,6 +39511,7 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Paladin](hd_paladin.md)'
@@ -37764,7 +39544,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -37808,6 +39588,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -37841,6 +39623,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)
   Duration: 8 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#non-détection
@@ -37885,7 +39670,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)<!--/MaterialComponent--></Components-->
 
 
 
@@ -37937,6 +39722,12 @@ SubItems:
 
     Components: V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)
+
     Duration: 8 heures
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
@@ -37968,6 +39759,8 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -38013,7 +39806,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -38077,6 +39870,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -38128,6 +39925,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -38173,7 +39972,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -38243,6 +40042,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -38303,6 +40106,9 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (un oeuf pourri ou des feuilles de chou pourri)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un oeuf pourri ou des feuilles de chou pourri)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -38348,7 +40154,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un oeuf pourri ou des feuilles de chou pourri)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un oeuf pourri ou des feuilles de chou pourri)<!--/MaterialComponent--></Components-->
 
 
 
@@ -38406,6 +40212,12 @@ SubItems:
 
     Components: V, S, M (un oeuf pourri ou des feuilles de chou pourri)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un oeuf pourri ou des feuilles de chou pourri)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -38448,6 +40260,8 @@ SubItems:
   CastingTime: 1 action
   Range: 1,5 kilomètre
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#nuée-de-météores
@@ -38492,7 +40306,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -38550,6 +40364,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -38590,7 +40408,10 @@ SubItems:
   CastingTime: 1 action bonus
   Range: selon l'arme utilisée
   Components: V, S, M (un projectile)
-  Duration: instantané
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un projectile)
+  Duration: instantanée
   Classes: '[Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#nuée-de-projectiles
   ParentLink: spells_hd.md#sorts
@@ -38621,11 +40442,11 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un projectile)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un projectile)<!--/MaterialComponent--></Components-->
 
 
 
-      - **Durée :** <!--Duration-->instantané<!--/Duration-->
+      - **Durée :** <!--Duration-->instantanée<!--/Duration-->
 
 
 
@@ -38659,7 +40480,13 @@ SubItems:
 
     Components: V, S, M (un projectile)
 
-    Duration: instantané
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un projectile)
+
+    Duration: instantanée
 
     Classes: '[Rôdeur](hd_ranger.md)'
 
@@ -38681,6 +40508,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (des poils de chauve-souris)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (des poils de chauve-souris)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -38726,7 +40556,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (des poils de chauve-souris)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (des poils de chauve-souris)<!--/MaterialComponent--></Components-->
 
 
 
@@ -38778,6 +40608,12 @@ SubItems:
 
     Components: V, S, M (des poils de chauve-souris)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (des poils de chauve-souris)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -38811,6 +40647,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -38843,7 +40681,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -38887,6 +40725,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -38920,6 +40762,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un morceau de charbon)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un morceau de charbon)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
@@ -38952,7 +40797,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un morceau de charbon)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un morceau de charbon)<!--/MaterialComponent--></Components-->
 
 
 
@@ -38996,6 +40841,12 @@ SubItems:
 
     Components: V, S, M (un morceau de charbon)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un morceau de charbon)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -39029,6 +40880,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (3 mètres de rayon)
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: Instantanée
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#panacée
@@ -39060,7 +40913,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -39098,6 +40951,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: Instantanée
 
     Classes: '[Paladin](hd_paladin.md)'
@@ -39120,6 +40977,7 @@ SubItems:
   CastingTime: 1 action bonus
   Range: 9 mètres
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#parole-divine
@@ -39164,7 +41022,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -39246,6 +41104,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -39322,6 +41182,7 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#pas-brumeux
@@ -39366,7 +41227,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -39412,6 +41273,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -39434,6 +41297,8 @@ SubItems:
   CastingTime: 1 action
   Range: 150 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -39466,7 +41331,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -39533,6 +41398,10 @@ SubItems:
     Range: 150 mètres
 
     Components: V, S
+
+    VerbalComponent: V
+
+    SomaticComponent: S
 
     Concentration: concentration
 
@@ -39603,6 +41472,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -39648,7 +41519,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -39700,6 +41571,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -39733,6 +41608,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (cendres d'une feuille de gui et une brindille d'épicéa)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -39778,7 +41656,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (cendres d'une feuille de gui et une brindille d'épicéa)<!--/MaterialComponent--></Components-->
 
 
 
@@ -39836,6 +41714,12 @@ SubItems:
 
     Components: V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (cendres d'une feuille de gui et une brindille d'épicéa)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -39878,6 +41762,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (une pincée de graines de sésame)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de graines de sésame)
   Duration: 1 heure
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#passe-muraille
@@ -39922,7 +41809,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de graines de sésame)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de graines de sésame)<!--/MaterialComponent--></Components-->
 
 
 
@@ -39974,6 +41861,12 @@ SubItems:
 
     Components: V, S, M (une pincée de graines de sésame)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de graines de sésame)
+
     Duration: 1 heure
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -40005,6 +41898,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une goutte de bitume et une araignée)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une goutte de bitume et une araignée)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -40050,7 +41946,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une goutte de bitume et une araignée)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une goutte de bitume et une araignée)<!--/MaterialComponent--></Components-->
 
 
 
@@ -40096,6 +41992,12 @@ SubItems:
 
     Components: V, S, M (une goutte de bitume et une araignée)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une goutte de bitume et une araignée)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -40120,6 +42022,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une poignée d'écorce de chêne)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une poignée d'écorce de chêne)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -40165,7 +42070,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une poignée d'écorce de chêne)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une poignée d'écorce de chêne)<!--/MaterialComponent--></Components-->
 
 
 
@@ -40211,6 +42116,12 @@ SubItems:
 
     Components: V, S, M (une poignée d'écorce de chêne)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une poignée d'écorce de chêne)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -40235,6 +42146,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (poussière de diamant d'une valeur de 100 po, que le sort consume)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Rôdeur](hd_ranger.md)'
@@ -40280,7 +42194,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (poussière de diamant d'une valeur de 100 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -40326,6 +42240,12 @@ SubItems:
 
     Components: V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (poussière de diamant d'une valeur de 100 po, que le sort consume)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -40351,6 +42271,9 @@ SubItems:
   CastingTime: 1 minute
   Range: personnelle (hémisphère de 3 mètres de rayon)
   Components: V, S, M (une petite perle de cristal)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une petite perle de cristal)
   Duration: 8 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#petite-hutte
@@ -40395,7 +42318,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une petite perle de cristal)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une petite perle de cristal)<!--/MaterialComponent--></Components-->
 
 
 
@@ -40455,6 +42378,12 @@ SubItems:
 
     Components: V, S, M (une petite perle de cristal)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une petite perle de cristal)
+
     Duration: 8 heures
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -40495,6 +42424,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une pincée de chaux, de l'eau et de la terre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de chaux, de l'eau et de la terre)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -40540,7 +42472,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de chaux, de l'eau et de la terre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de chaux, de l'eau et de la terre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -40604,6 +42536,12 @@ SubItems:
 
     Components: V, S, M (une pincée de chaux, de l'eau et de la terre)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de chaux, de l'eau et de la terre)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -40655,8 +42593,11 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (cône de 9 mètres)
   Components: V, S, M (une plume blanche ou un coeur de poule)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une plume blanche ou un coeur de poule)
   Concentration: concentration
-  Duration: jusqu'à 1 minute.
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#peur
   ParentLink: spells_hd.md#sorts
@@ -40700,13 +42641,13 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une plume blanche ou un coeur de poule)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une plume blanche ou un coeur de poule)<!--/MaterialComponent--></Components-->
 
 
 
 
 
-      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute.<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -40752,9 +42693,15 @@ SubItems:
 
     Components: V, S, M (une plume blanche ou un coeur de poule)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une plume blanche ou un coeur de poule)
+
     Concentration: concentration
 
-    Duration: jusqu'à 1 minute.
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -40785,7 +42732,10 @@ SubItems:
   CastingTime: 1 action bonus
   Range: selon l'arme utilisée
   Components: V, S, M (un projectile)
-  Duration: instantané
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un projectile)
+  Duration: instantanée
   Classes: '[Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#pluie-de-projectiles
   ParentLink: spells_hd.md#sorts
@@ -40816,11 +42766,11 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un projectile)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un projectile)<!--/MaterialComponent--></Components-->
 
 
 
-      - **Durée :** <!--Duration-->instantané<!--/Duration-->
+      - **Durée :** <!--Duration-->instantanée<!--/Duration-->
 
 
 
@@ -40860,7 +42810,13 @@ SubItems:
 
     Components: V, S, M (un projectile)
 
-    Duration: instantané
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un projectile)
+
+    Duration: instantanée
 
     Classes: '[Rôdeur](hd_ranger.md)'
 
@@ -40891,6 +42847,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#poigne-électrique
@@ -40935,7 +42893,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -40987,6 +42945,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -41018,6 +42980,7 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
@@ -41050,7 +43013,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -41094,6 +43057,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -41127,6 +43092,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un diamant d'une valeur minimale de 5 000 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un diamant d'une valeur minimale de 5 000 po)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -41172,7 +43140,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un diamant d'une valeur minimale de 5 000 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un diamant d'une valeur minimale de 5 000 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -41236,6 +43204,12 @@ SubItems:
 
     Components: V, S, M (un diamant d'une valeur minimale de 5 000 po)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un diamant d'une valeur minimale de 5 000 po)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -41287,6 +43261,7 @@ SubItems:
   CastingTime: 1 action
   Range: 150 mètres
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#porte-dimensionnelle
@@ -41331,7 +43306,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -41395,6 +43370,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -41444,6 +43421,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnel
   Components: V, S, M (objet porte-bonheur)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (objet porte-bonheur)
   Duration: 1 round
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#porte-bonheur
@@ -41475,7 +43455,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (objet porte-bonheur)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (objet porte-bonheur)<!--/MaterialComponent--></Components-->
 
 
 
@@ -41513,6 +43493,12 @@ SubItems:
 
     Components: V, S, M (objet porte-bonheur)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (objet porte-bonheur)
+
     Duration: 1 round
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -41535,6 +43521,9 @@ SubItems:
   CastingTime: 1 minute
   Range: personnelle
   Components: V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#possession
@@ -41579,7 +43568,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -41696,6 +43685,12 @@ SubItems:
     Range: personnelle
 
     Components: V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
 
     Duration: jusqu'à dissipation
 
@@ -41827,6 +43822,9 @@ SubItems:
   CastingTime: 1 minute
   Range: contact
   Components: V, S, M (une plume d'oiseau chanteur)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une plume d'oiseau chanteur)
   Duration: 8 heures
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#prémonition
@@ -41871,7 +43869,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une plume d'oiseau chanteur)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une plume d'oiseau chanteur)<!--/MaterialComponent--></Components-->
 
 
 
@@ -41923,6 +43921,12 @@ SubItems:
 
     Components: V, S, M (une plume d'oiseau chanteur)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une plume d'oiseau chanteur)
+
     Duration: 8 heures
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -41954,6 +43958,8 @@ SubItems:
   CastingTime: 1 action
   Range: 3 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#prestidigitation
@@ -41998,7 +44004,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -42086,6 +44092,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: jusqu'à 1 heure
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -42171,6 +44181,7 @@ SubItems:
   CastingTime: 10 minutes
   Range: 9 mètres
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#prière-de-soins
@@ -42215,7 +44226,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -42267,6 +44278,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -42298,6 +44311,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 10 minutes
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#produire-une-flamme
@@ -42342,7 +44357,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -42406,6 +44421,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 10 minutes
 
     Classes: '[Druide](hd_druid.md)'
@@ -42455,6 +44474,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#projectile-magique
@@ -42499,7 +44520,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -42551,6 +44572,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -42582,7 +44607,10 @@ SubItems:
   CastingTime: 1 action bonus
   Range: selon l'arme utilisée
   Components: V, S, M (un projectile)
-  Duration: instantané
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un projectile)
+  Duration: instantanée
   Classes: '[Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#projectile-toxique
   ParentLink: spells_hd.md#sorts
@@ -42613,11 +44641,11 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un projectile)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un projectile)<!--/MaterialComponent--></Components-->
 
 
 
-      - **Durée :** <!--Duration-->instantané<!--/Duration-->
+      - **Durée :** <!--Duration-->instantanée<!--/Duration-->
 
 
 
@@ -42663,7 +44691,13 @@ SubItems:
 
     Components: V, S, M (un projectile)
 
-    Duration: instantané
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un projectile)
+
+    Duration: instantanée
 
     Classes: '[Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
 
@@ -42703,6 +44737,9 @@ SubItems:
   CastingTime: 1 heure
   Range: 3 mètres
   Components: V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
   Duration: spéciale
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#projection-astrale
@@ -42747,7 +44784,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)<!--/MaterialComponent--></Components-->
 
 
 
@@ -42823,6 +44860,12 @@ SubItems:
 
     Components: V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
+
     Duration: spéciale
 
     Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -42890,6 +44933,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 8 heures
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#protection-contre-la-mort
@@ -42934,7 +44979,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -42986,6 +45031,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 8 heures
 
     Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
@@ -43017,6 +45066,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (eau bénite ou poudre de fer et d'argent, que le sort consume)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
@@ -43062,7 +45114,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (eau bénite ou poudre de fer et d'argent, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -43120,6 +45172,12 @@ SubItems:
 
     Components: V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (eau bénite ou poudre de fer et d'argent, que le sort consume)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -43162,6 +45220,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 heure
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#protection-contre-le-poison
@@ -43206,7 +45266,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -43258,6 +45318,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 heure
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
@@ -43289,6 +45353,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Ombrelame](hd_rogue_ombrelame.md)'
@@ -43334,7 +45400,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -43380,6 +45446,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -43404,6 +45474,9 @@ SubItems:
   CastingTime: 10 minutes
   Range: contact
   Components: V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#protections-et-sceaux
@@ -43448,7 +45521,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)<!--/MaterialComponent--></Components-->
 
 
 
@@ -43577,6 +45650,12 @@ SubItems:
     Range: contact
 
     Components: V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)
 
     Duration: 24 heures
 
@@ -43727,6 +45806,8 @@ SubItems:
   CastingTime: 1 action
   Range: 3 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#purification-de-la-nourriture-et-de-leau
@@ -43771,7 +45852,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -43819,6 +45900,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md)'
@@ -43841,6 +45926,9 @@ SubItems:
   CastingTime: 1 action
   Range: 30 mètres
   Components: V, S, M
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Sorcier](hd_warlock.md)'
@@ -43873,7 +45961,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M<!--/MaterialComponent--><!--/Components-->
 
 
 
@@ -43929,6 +46017,12 @@ SubItems:
 
     Components: V, S, M
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -43980,6 +46074,9 @@ SubItems:
   CastingTime: 1 heure
   Range: contact
   Components: V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un diamant d'une valeur minimale de 500 po, que le sort consume)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#rappel-à-la-vie
@@ -44024,7 +46121,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un diamant d'une valeur minimale de 500 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -44088,6 +46185,12 @@ SubItems:
 
     Components: V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un diamant d'une valeur minimale de 500 po, que le sort consume)
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
@@ -44137,6 +46240,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -44182,7 +46287,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -44234,6 +46339,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -44267,6 +46376,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#rayon-ardent
@@ -44311,7 +46422,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -44363,6 +46474,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -44394,6 +46509,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#rayon-de-givre
@@ -44438,7 +46555,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -44490,6 +46607,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -44521,6 +46642,9 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
@@ -44566,7 +46690,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)<!--/MaterialComponent--></Components-->
 
 
 
@@ -44636,6 +46760,12 @@ SubItems:
 
     Components: V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -44696,6 +46826,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (ligne de 18 mètres)
   Components: V, S, M (une loupe)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une loupe)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -44741,7 +46874,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une loupe)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une loupe)<!--/MaterialComponent--></Components-->
 
 
 
@@ -44805,6 +46938,12 @@ SubItems:
 
     Components: V, S, M (une loupe)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une loupe)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -44856,6 +46995,9 @@ SubItems:
   CastingTime: 1 minute
   Range: contact
   Components: V, S, M (un moulin à prières et de l'eau bénite)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un moulin à prières et de l'eau bénite)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#régénération
@@ -44900,7 +47042,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un moulin à prières et de l'eau bénite)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un moulin à prières et de l'eau bénite)<!--/MaterialComponent--></Components-->
 
 
 
@@ -44958,6 +47100,12 @@ SubItems:
 
     Components: V, S, M (un moulin à prières et de l'eau bénite)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un moulin à prières et de l'eau bénite)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -44998,6 +47146,9 @@ SubItems:
   CastingTime: 1 heure
   Range: contact
   Components: V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
   Duration: instantanée
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#réincarnation
@@ -45042,7 +47193,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -45185,6 +47336,12 @@ SubItems:
     Range: contact
 
     Components: V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
 
     Duration: instantanée
 
@@ -45355,6 +47512,9 @@ SubItems:
   CastingTime: 1 minute
   Range: contact
   Components: V, S, M (deux magnétites)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (deux magnétites)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#réparation
@@ -45399,7 +47559,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (deux magnétites)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (deux magnétites)<!--/MaterialComponent--></Components-->
 
 
 
@@ -45457,6 +47617,12 @@ SubItems:
 
     Components: V, S, M (deux magnétites)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (deux magnétites)
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -45497,6 +47663,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -45542,7 +47710,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -45588,6 +47756,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -45612,6 +47784,8 @@ SubItems:
   CastingTime: 1 réaction en réponse aux dégâts que vous inﬂige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Sorcier](hd_warlock.md)'
   Id: spells_hd.md#représailles-infernales
@@ -45656,7 +47830,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -45708,6 +47882,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Sorcier](hd_warlock.md)'
@@ -45739,6 +47917,9 @@ SubItems:
   CastingTime: 1 heure
   Range: 18 mètres
   Components: V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
   Duration: 10 jours
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#répulsionattirance
@@ -45783,7 +47964,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)<!--/MaterialComponent--></Components-->
 
 
 
@@ -45871,6 +48052,12 @@ SubItems:
 
     Components: V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
+
     Duration: 10 jours
 
     Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
@@ -45956,6 +48143,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une cape miniature)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une cape miniature)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -46001,7 +48191,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une cape miniature)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une cape miniature)<!--/MaterialComponent--></Components-->
 
 
 
@@ -46053,6 +48243,12 @@ SubItems:
 
     Components: V, S, M (une cape miniature)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une cape miniature)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -46087,6 +48283,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un petit roseau ou un brin de paille)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit roseau ou un brin de paille)
   Duration: 24 heures
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#respiration-aquatique
@@ -46131,7 +48330,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit roseau ou un brin de paille)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit roseau ou un brin de paille)<!--/MaterialComponent--></Components-->
 
 
 
@@ -46179,6 +48378,12 @@ SubItems:
 
     Components: V, S, M (un petit roseau ou un brin de paille)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit roseau ou un brin de paille)
+
     Duration: 24 heures
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
@@ -46201,6 +48406,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#restauration-inférieure
@@ -46245,7 +48452,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -46291,6 +48498,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
@@ -46313,6 +48524,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#restauration-supérieure
@@ -46357,7 +48571,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -46427,6 +48641,12 @@ SubItems:
 
     Components: V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -46485,6 +48705,9 @@ SubItems:
   CastingTime: 1 heure
   Range: contact
   Components: V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
   Id: spells_hd.md#résurrection
@@ -46529,7 +48752,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -46605,6 +48828,12 @@ SubItems:
 
     Components: V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
@@ -46672,6 +48901,9 @@ SubItems:
   CastingTime: 1 heure
   Range: contact
   Components: V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#résurrection-suprême
@@ -46716,7 +48948,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -46774,6 +49006,12 @@ SubItems:
 
     Components: V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -46814,6 +49052,9 @@ SubItems:
   CastingTime: 1 minute
   Range: spéciale
   Components: V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)
   Duration: 8 heures
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#rêve
@@ -46858,7 +49099,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)<!--/MaterialComponent--></Components-->
 
 
 
@@ -46922,6 +49163,12 @@ SubItems:
 
     Components: V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)
+
     Duration: 8 heures
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -46971,6 +49218,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (diamant d'une valeur de 300 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (diamant d'une valeur de 300 po, que le sort consume)
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#revigorer
@@ -47015,7 +49265,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (diamant d'une valeur de 300 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (diamant d'une valeur de 300 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -47061,6 +49311,12 @@ SubItems:
 
     Components: V, S, M (diamant d'une valeur de 300 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (diamant d'une valeur de 300 po, que le sort consume)
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
@@ -47083,6 +49339,9 @@ SubItems:
   CastingTime: 24 heures
   Range: contact
   Components: V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
   Duration: jusqu'à dissipation
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#sanctification
@@ -47127,7 +49386,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -47256,6 +49515,12 @@ SubItems:
     Range: contact
 
     Components: V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
 
     Duration: jusqu'à dissipation
 
@@ -47405,6 +49670,9 @@ SubItems:
   CastingTime: 1 action bonus
   Range: 9 mètres
   Components: V, S, M (un petit miroir en argent)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un petit miroir en argent)
   Duration: 1 minute
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#sanctuaire
@@ -47449,7 +49717,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un petit miroir en argent)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un petit miroir en argent)<!--/MaterialComponent--></Components-->
 
 
 
@@ -47507,6 +49775,12 @@ SubItems:
 
     Components: V, S, M (un petit miroir en argent)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un petit miroir en argent)
+
     Duration: 1 minute
 
     Classes: '[Clerc](hd_cleric.md)'
@@ -47547,6 +49821,9 @@ SubItems:
   CastingTime: 10 minutes
   Range: 36 mètres
   Components: V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)
   Duration: 24 heures
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#sanctuaire-privé
@@ -47591,7 +49868,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)<!--/MaterialComponent--></Components-->
 
 
 
@@ -47690,6 +49967,12 @@ SubItems:
     Range: 36 mètres
 
     Components: V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)
 
     Duration: 24 heures
 
@@ -47794,6 +50077,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une fiole d'un mélange de sang et d'acide)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une fiole d'un mélange de sang et d'acide)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -47826,7 +50112,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une fiole d'un mélange de sang et d'acide)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une fiole d'un mélange de sang et d'acide)<!--/MaterialComponent--></Components-->
 
 
 
@@ -47870,6 +50156,12 @@ SubItems:
 
     Components: V, S, M (une fiole d'un mélange de sang et d'acide)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une fiole d'un mélange de sang et d'acide)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -47903,6 +50195,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une patte arrière de sauterelle)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une patte arrière de sauterelle)
   Duration: 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#saut
@@ -47947,7 +50242,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une patte arrière de sauterelle)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une patte arrière de sauterelle)<!--/MaterialComponent--></Components-->
 
 
 
@@ -47993,6 +50288,12 @@ SubItems:
 
     Components: V, S, M (une patte arrière de sauterelle)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une patte arrière de sauterelle)
+
     Duration: 1 minute
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
@@ -48015,6 +50316,9 @@ SubItems:
   CastingTime: 10 minutes
   Range: personnelle
   Components: V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -48060,7 +50364,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)<!--/MaterialComponent--></Components-->
 
 
 
@@ -48167,6 +50471,12 @@ SubItems:
     Range: personnelle
 
     Components: V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
 
     Concentration: concentration
 
@@ -48285,6 +50595,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#séquestration
@@ -48329,7 +50642,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -48387,6 +50700,12 @@ SubItems:
 
     Components: V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
+
     Duration: jusqu'à dissipation
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -48428,6 +50747,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un bout de ficelle et un morceau de bois)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bout de ficelle et un morceau de bois)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#serviteur-invisible
@@ -48472,7 +50794,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bout de ficelle et un morceau de bois)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bout de ficelle et un morceau de bois)<!--/MaterialComponent--></Components-->
 
 
 
@@ -48532,6 +50854,12 @@ SubItems:
 
     Components: V, S, M (un bout de ficelle et un morceau de bois)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bout de ficelle et un morceau de bois)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -48573,6 +50901,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Rôdeur](hd_ranger.md)'
@@ -48618,7 +50948,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -48672,6 +51002,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -48705,6 +51039,9 @@ SubItems:
   CastingTime: 12 heures
   Range: contact
   Components: V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#simulacre
@@ -48749,7 +51086,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)<!--/MaterialComponent--></Components-->
 
 
 
@@ -48819,6 +51156,12 @@ SubItems:
 
     Components: V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)
+
     Duration: jusqu'à dissipation
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -48877,6 +51220,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (une petite quantité d'alcool ou de spiritueux)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une petite quantité d'alcool ou de spiritueux)
   Duration: 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#simulacre-de-vie
@@ -48921,7 +51267,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une petite quantité d'alcool ou de spiritueux)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une petite quantité d'alcool ou de spiritueux)<!--/MaterialComponent--></Components-->
 
 
 
@@ -48973,6 +51319,12 @@ SubItems:
 
     Components: V, S, M (une petite quantité d'alcool ou de spiritueux)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une petite quantité d'alcool ou de spiritueux)
+
     Duration: 1 heure
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -49004,6 +51356,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#soin-des-blessures
@@ -49048,7 +51402,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -49100,6 +51454,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
@@ -49131,6 +51489,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#soin-des-blessures-de-groupe
@@ -49175,7 +51535,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -49227,6 +51587,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -49258,6 +51622,9 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de sable fin, des pétales de rose ou un criquet)
   Duration: 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#sommeil
@@ -49302,7 +51669,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de sable fin, des pétales de rose ou un criquet)<!--/MaterialComponent--></Components-->
 
 
 
@@ -49366,6 +51733,12 @@ SubItems:
 
     Components: V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de sable fin, des pétales de rose ou un criquet)
+
     Duration: 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -49415,6 +51788,7 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#souhait
@@ -49459,7 +51833,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -49570,6 +51944,8 @@ SubItems:
     Range: personnelle
 
     Components: V
+
+    VerbalComponent: V
 
     Duration: instantanée
 
@@ -49692,6 +52068,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
@@ -49737,7 +52116,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bout de suif, une pincée de soufre et un peu de poudre de fer)<!--/MaterialComponent--></Components-->
 
 
 
@@ -49801,6 +52180,12 @@ SubItems:
 
     Components: V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -49852,6 +52237,9 @@ SubItems:
   CastingTime: 1 action
   Range: 90 mètres
   Components: V, S, M (une petite sphère de cristal)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une petite sphère de cristal)
   Duration: instantanée
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#sphère-glacée
@@ -49896,7 +52284,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une petite sphère de cristal)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une petite sphère de cristal)<!--/MaterialComponent--></Components-->
 
 
 
@@ -49978,6 +52366,12 @@ SubItems:
 
     Components: V, S, M (une petite sphère de cristal)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une petite sphère de cristal)
+
     Duration: instantanée
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -50054,6 +52448,9 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
@@ -50099,7 +52496,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)<!--/MaterialComponent--></Components-->
 
 
 
@@ -50169,6 +52566,12 @@ SubItems:
 
     Components: V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -50229,8 +52632,10 @@ SubItems:
   CastingTime: 1 action
   Range: 30 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
-  Duration: jusqu'à 1 minute.
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#stalagmites-fulgurantes
   ParentLink: spells_hd.md#sorts
@@ -50261,11 +52666,11 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
-      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute.<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -50305,9 +52710,13 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
-    Duration: jusqu'à 1 minute.
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -50338,6 +52747,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -50370,7 +52781,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -50414,6 +52825,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -50447,6 +52862,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+  VerbalComponent: V
+  MaterialComponent: M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
   Concentration: concentration
   Duration: jusqu'à 8 heures
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -50492,7 +52909,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--MaterialComponent-->M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)<!--/MaterialComponent--></Components-->
 
 
 
@@ -50568,6 +52985,10 @@ SubItems:
 
     Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
 
+    VerbalComponent: V
+
+    MaterialComponent: M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+
     Concentration: concentration
 
     Duration: jusqu'à 8 heures
@@ -50637,6 +53058,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+  VerbalComponent: V
+  MaterialComponent: M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#suggestion-de-groupe
@@ -50681,7 +53104,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--MaterialComponent-->M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)<!--/MaterialComponent--></Components-->
 
 
 
@@ -50751,6 +53174,10 @@ SubItems:
 
     Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
 
+    VerbalComponent: V
+
+    MaterialComponent: M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+
     Duration: 24 heures
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -50809,6 +53236,9 @@ SubItems:
   CastingTime: 1 minute
   Range: contact
   Components: V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)
   Duration: jusqu'à dissipation ou déclenchement
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#symbole
@@ -50853,7 +53283,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -50982,6 +53412,12 @@ SubItems:
     Range: contact
 
     Components: V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)
 
     Duration: jusqu'à dissipation ou déclenchement
 
@@ -51131,6 +53567,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -51176,7 +53614,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -51252,6 +53690,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -51321,6 +53763,7 @@ SubItems:
   CastingTime: 1 action
   Range: 3 mètres
   Components: V
+  VerbalComponent: V
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#téléportation
@@ -51365,7 +53808,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -51502,6 +53945,8 @@ SubItems:
     Range: 3 mètres
 
     Components: V
+
+    VerbalComponent: V
 
     Duration: instantanée
 
@@ -51663,6 +54108,8 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
   Id: spells_hd.md#tempête-de-feu
@@ -51707,7 +54154,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -51765,6 +54212,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
@@ -51805,6 +54256,9 @@ SubItems:
   CastingTime: 1 action
   Range: 90 mètres
   Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de poussière et quelques gouttes d'eau)
   Duration: instantanée
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#tempête-de-grêle
@@ -51849,7 +54303,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de poussière et quelques gouttes d'eau)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de poussière et quelques gouttes d'eau)<!--/MaterialComponent--></Components-->
 
 
 
@@ -51913,6 +54367,12 @@ SubItems:
 
     Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de poussière et quelques gouttes d'eau)
+
     Duration: instantanée
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -51962,6 +54422,9 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de poussière et quelques gouttes d'eau)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -52007,7 +54470,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de poussière et quelques gouttes d'eau)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de poussière et quelques gouttes d'eau)<!--/MaterialComponent--></Components-->
 
 
 
@@ -52065,6 +54528,12 @@ SubItems:
 
     Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de poussière et quelques gouttes d'eau)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -52107,6 +54576,9 @@ SubItems:
   CastingTime: 1 action
   Range: 1 kilomètre
   Components: V, S, M (une rose des sables)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une rose des sables)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
@@ -52139,7 +54611,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une rose des sables)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une rose des sables)<!--/MaterialComponent--></Components-->
 
 
 
@@ -52189,6 +54661,12 @@ SubItems:
 
     Components: V, S, M (une rose des sables)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une rose des sables)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -52231,6 +54709,8 @@ SubItems:
   CastingTime: 1 action
   Range: champ de vision
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
@@ -52276,7 +54756,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -52358,6 +54838,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -52436,6 +54920,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
+  VerbalComponent: V
+  MaterialComponent: M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -52481,7 +54967,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--MaterialComponent-->M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)<!--/MaterialComponent--></Components-->
 
 
 
@@ -52539,6 +55025,10 @@ SubItems:
 
     Components: V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
 
+    VerbalComponent: V
+
+    MaterialComponent: M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -52581,6 +55071,9 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
@@ -52626,7 +55119,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)<!--/MaterialComponent--></Components-->
 
 
 
@@ -52684,6 +55177,12 @@ SubItems:
 
     Components: V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -52726,6 +55225,9 @@ SubItems:
   CastingTime: 10 minutes
   Range: 90 mètres
   Components: V, S, M (une pierre, une brindille et un bout de plante verte)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pierre, une brindille et un bout de plante verte)
   Duration: 24 heures
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#terrain-hallucinatoire
@@ -52770,7 +55272,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pierre, une brindille et un bout de plante verte)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pierre, une brindille et un bout de plante verte)<!--/MaterialComponent--></Components-->
 
 
 
@@ -52834,6 +55336,12 @@ SubItems:
 
     Components: V, S, M (une pierre, une brindille et un bout de plante verte)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pierre, une brindille et un bout de plante verte)
+
     Duration: 24 heures
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -52884,6 +55392,8 @@ SubItems:
   CastingTime: 1 minute
   Range: contact
   Components: S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
+  SomaticComponent: S
+  MaterialComponent: M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
   Duration: 10 jours
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#texte-illusoire
@@ -52928,7 +55438,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -52988,6 +55498,10 @@ SubItems:
 
     Components: S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
 
+    SomaticComponent: S
+
+    MaterialComponent: M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
+
     Duration: 10 jours
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
@@ -53028,6 +55542,7 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V
+  VerbalComponent: V
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#thaumaturgie
@@ -53072,7 +55587,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -53165,6 +55680,8 @@ SubItems:
     Range: 9 mètres
 
     Components: V
+
+    VerbalComponent: V
 
     Duration: jusqu'à 1 minute
 
@@ -53260,6 +55777,9 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un bout de toile d'araignée)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un bout de toile d'araignée)
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -53305,7 +55825,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un bout de toile d'araignée)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un bout de toile d'araignée)<!--/MaterialComponent--></Components-->
 
 
 
@@ -53381,6 +55901,12 @@ SubItems:
 
     Components: V, S, M (un bout de toile d'araignée)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un bout de toile d'araignée)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -53450,6 +55976,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#trait-de-feu
@@ -53494,7 +56022,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -53546,6 +56074,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -53577,6 +56109,7 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
+  VerbalComponent: V
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Rôdeur](hd_ranger.md)'
@@ -53609,7 +56142,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent--></Components-->
 
 
 
@@ -53659,6 +56192,8 @@ SubItems:
 
     Components: V
 
+    VerbalComponent: V
+
     Concentration: concentration
 
     Duration: jusqu'à 1 minute
@@ -53701,6 +56236,8 @@ SubItems:
   CastingTime: 1 action
   Range: 3 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 round
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#transport-végétal
@@ -53745,7 +56282,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -53791,6 +56328,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 round
 
     Classes: '[Druide](hd_druid.md)'
@@ -53813,6 +56354,9 @@ SubItems:
   CastingTime: 1 action
   Range: 150 mètres
   Components: V, S, M (une pincée de poussière, un caillou et un peu d'argile)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de poussière, un caillou et un peu d'argile)
   Concentration: concentration
   Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
@@ -53858,7 +56402,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de poussière, un caillou et un peu d'argile)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de poussière, un caillou et un peu d'argile)<!--/MaterialComponent--></Components-->
 
 
 
@@ -53951,6 +56495,12 @@ SubItems:
     Range: 150 mètres
 
     Components: V, S, M (une pincée de poussière, un caillou et un peu d'argile)
+
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de poussière, un caillou et un peu d'argile)
 
     Concentration: concentration
 
@@ -54048,6 +56598,7 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: S
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
@@ -54093,7 +56644,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->S<!--/Components-->
+      - **Composantes :** <!--Components--><!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -54157,6 +56708,8 @@ SubItems:
 
     Components: S
 
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 heure
@@ -54208,6 +56761,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#trouver-les-pièges
@@ -54252,7 +56807,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -54304,6 +56859,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
@@ -54335,6 +56894,9 @@ SubItems:
   CastingTime: 1 minute
   Range: personnelle
   Components: V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
   Concentration: concentration
   Duration: jusqu'à 1 jour
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
@@ -54380,7 +56942,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)<!--/MaterialComponent--></Components-->
 
 
 
@@ -54432,6 +56994,12 @@ SubItems:
 
     Components: V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
+
     Concentration: concentration
 
     Duration: jusqu'à 1 jour
@@ -54465,6 +57033,8 @@ SubItems:
   CastingTime: 10 minutes
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#trouver-une-monture
@@ -54509,7 +57079,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -54591,6 +57161,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Paladin](hd_paladin.md)'
@@ -54667,6 +57241,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (cube de 4,50 mètres)
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: instantanée
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#vague-tonnante
@@ -54711,7 +57287,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -54781,6 +57357,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: instantanée
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -54839,6 +57419,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
   Duration: jusqu'à dissipation
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#verrou-magique
@@ -54883,7 +57466,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -54935,6 +57518,12 @@ SubItems:
 
     Components: V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
+
     Duration: jusqu'à dissipation
 
     Classes: '[Magicien](hd_wizard.md)'
@@ -54966,6 +57555,7 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: S
+  SomaticComponent: S
   Concentration: concentration
   Duration: jusqu'à 1 round
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -55011,7 +57601,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->S<!--/Components-->
+      - **Composantes :** <!--Components--><!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -55057,6 +57647,8 @@ SubItems:
 
     Components: S
 
+    SomaticComponent: S
+
     Concentration: concentration
 
     Duration: jusqu'à 1 round
@@ -55081,6 +57673,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une pincée de carotte séchée ou une agate)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de carotte séchée ou une agate)
   Duration: 8 heures
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#vision-dans-le-noir
@@ -55125,7 +57720,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de carotte séchée ou une agate)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de carotte séchée ou une agate)<!--/MaterialComponent--></Components-->
 
 
 
@@ -55171,6 +57766,12 @@ SubItems:
 
     Components: V, S, M (une pincée de carotte séchée ou une agate)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de carotte séchée ou une agate)
+
     Duration: 8 heures
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
@@ -55193,6 +57794,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#vision-suprême
@@ -55237,7 +57841,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)<!--/MaterialComponent--></Components-->
 
 
 
@@ -55289,6 +57893,12 @@ SubItems:
 
     Components: V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -55320,6 +57930,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 1 minute
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#vitalité
@@ -55351,7 +57963,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -55395,6 +58007,10 @@ SubItems:
 
     Components: V, S
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
     Duration: 1 minute
 
     Classes: '[Paladin](hd_paladin.md)'
@@ -55426,6 +58042,9 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une pincée de talc et un saupoudrage de poudre d'argent)
   Duration: 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#voir-linvisible
@@ -55470,7 +58089,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une pincée de talc et un saupoudrage de poudre d'argent)<!--/MaterialComponent--></Components-->
 
 
 
@@ -55516,6 +58135,12 @@ SubItems:
 
     Components: V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une pincée de talc et un saupoudrage de poudre d'argent)
+
     Duration: 1 heure
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
@@ -55538,6 +58163,9 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une rémige)
+  VerbalComponent: V
+  SomaticComponent: S
+  MaterialComponent: M (une rémige)
   Concentration: concentration
   Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
@@ -55583,7 +58211,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S, M (une rémige)<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent-->, <!--MaterialComponent-->M (une rémige)<!--/MaterialComponent--></Components-->
 
 
 
@@ -55635,6 +58263,12 @@ SubItems:
 
     Components: V, S, M (une rémige)
 
+    VerbalComponent: V
+
+    SomaticComponent: S
+
+    MaterialComponent: M (une rémige)
+
     Concentration: concentration
 
     Duration: jusqu'à 10 minutes
@@ -55668,6 +58302,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
+  VerbalComponent: V
+  SomaticComponent: S
   Duration: 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#zone-de-vérité
@@ -55712,7 +58348,7 @@ SubItems:
 
 
 
-      - **Composantes :** <!--Components-->V, S<!--/Components-->
+      - **Composantes :** <!--Components--><!--VerbalComponent-->V<!--/VerbalComponent-->, <!--SomaticComponent-->S<!--/SomaticComponent--></Components-->
 
 
 
@@ -55763,6 +58399,10 @@ SubItems:
     Range: 18 mètres
 
     Components: V, S
+
+    VerbalComponent: V
+
+    SomaticComponent: S
 
     Duration: 10 minutes
 
@@ -55843,7 +58483,7 @@ AttributesDictionary: >+
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une pincée de limaille de fer)
+- **Composantes :** V, S, M (une pincée de limaille de fer)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -55875,7 +58515,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une minuscule bandelette de tissu blanc)
+- **Composantes :** V, S, M (une minuscule bandelette de tissu blanc)</Components-->
 
 - **Durée :** 8 heures
 
@@ -55903,7 +58543,7 @@ Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Cho
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une minuscule clochette et un filament en argent)
+- **Composantes :** V, S, M (une minuscule clochette et un filament en argent)</Components-->
 
 - **Durée :** 8 heures
 
@@ -55933,7 +58573,7 @@ Une alarme audible émet le même son qu'une cloche d'alerte pendant 10 secondes
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -55973,7 +58613,7 @@ Une telle créature enrôlée dans votre groupe compte comme un membre à part e
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (des poils ou des plumes venant d'un animal)
+- **Composantes :** V, S, M (des poils ou des plumes venant d'un animal)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -56013,7 +58653,7 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un peu de nourriture)
+- **Composantes :** V, S, M (un peu de nourriture)</Components-->
 
 - **Durée :** 24 heures
 
@@ -56041,7 +58681,7 @@ Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. 
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
+- **Composantes :** V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)</Components-->
 
 - **Durée :** instantanée
 
@@ -56075,7 +58715,7 @@ La créature est placée sous votre contrôle pendant 24 heures, après quoi ell
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -56121,7 +58761,7 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -56151,7 +58791,7 @@ Vous tentez de supprimer les émotions fortes au sein d'un groupe de gens. Chaqu
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 8 heures
 
@@ -56187,7 +58827,7 @@ Une créature peut utiliser son action pour examiner une cible et faire un test 
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
+- **Composantes :** V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)</Components-->
 
 - **Durée :** instantanée
 
@@ -56225,7 +58865,7 @@ Enfin, quand vous lancez un sort avec une portée de « contact », votre famili
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -56252,7 +58892,7 @@ Si, au moment de l'incantation, vous vous trouvez en extérieur et que les condi
 -  Enchantement de niveau 5
 - **Temps d'incantation :** 1 action
 - **Portée :** contact
-- **Composantes :** V, S, M (un arc)
+- **Composantes :** V, S, M (un arc)</Components-->
 - **Durée :** 1 minute
 - Classes: [Rôdeur](hd_ranger.md)
 - Source: (MDR p324)
@@ -56279,7 +58919,7 @@ Ces projectiles sont magiques et infligent 1d6 dégâts supplémentaires. De plu
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -56302,7 +58942,7 @@ Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique
 -  Transmutation de niveau 3
 - **Temps d'incantation :** 1 action
 - **Portée :** contact
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 heure
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p324)
@@ -56327,7 +58967,7 @@ Vous brandissez votre arme et l'investissez du pouvoir de combattre le mal. Jusq
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 minute
 
@@ -56361,7 +59001,7 @@ L'arme peut revêtir la forme de votre choix. Les clercs des divinités associé
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un bout de cuir tanné)
+- **Composantes :** V, S, M (un bout de cuir tanné)</Components-->
 
 - **Durée :** 8 heures
 
@@ -56387,7 +59027,7 @@ Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez
 
 - **Portée :** personnelle
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -56415,7 +59055,7 @@ Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de te
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -56443,7 +59083,7 @@ Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 1
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -56475,7 +59115,7 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -56501,7 +59141,7 @@ Vous touchez une créature consentante. Une fois avant la fin du sort, la cible 
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)
+- **Composantes :** V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)</Components-->
 
 - **Durée :** instantanée
 
@@ -56534,7 +59174,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 -  Abjuration de niveau 5
 - **Temps d'incantation :** 1 action
 - **Portée :** 9 mètres
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 10 minutes
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p325)
@@ -56552,7 +59192,7 @@ Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et
 -  Enchantement, tour de magie
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p326)
@@ -56577,7 +59217,7 @@ Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètre
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un petit carré de soie)
+- **Composantes :** V, S, M (un petit carré de soie)</Components-->
 
 - **Durée :** 24 heures
 
@@ -56609,7 +59249,7 @@ Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les de
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
+- **Composantes :** V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -56637,7 +59277,7 @@ Les créatures de votre choix qui se trouvent dans cette zone au moment où vous
 
 - **Portée :** personnelle
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** 1 heure
 
@@ -56663,7 +59303,7 @@ Jusqu'à la fin du sort, chaque fois que vous effectuez un test de [Charisme](hd
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un brin de gui)
+- **Composantes :** V, S, M (un brin de gui)</Components-->
 
 - **Durée :** instantanée
 
@@ -56693,7 +59333,7 @@ Les baies perdent leurs propriétés si personne ne les mange dans les 24 heures
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 round
 
@@ -56721,7 +59361,7 @@ Un rayon de lumière frappe une créature de votre choix située à portée. Fai
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un objet qui répugne à la cible)
+- **Composantes :** V, S, M (un objet qui répugne à la cible)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -56757,7 +59397,7 @@ Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réappar
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -56785,7 +59425,7 @@ Quand une créature pénètre dans la zone du mur pour la première fois au cour
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un peu d'eau bénite à asperger)
+- **Composantes :** V, S, M (un peu d'eau bénite à asperger)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -56808,7 +59448,7 @@ Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Qua
 -  Divination de niveau 3
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p327)
@@ -56831,7 +59471,7 @@ Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cib
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -56859,7 +59499,7 @@ Faites une attaque de sort au corps-à-corps contre une créature située à une
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
+- **Composantes :** V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation
 
@@ -56891,7 +59531,7 @@ Ces dernières peuvent être aussi génériques ou spécifiques que vous le dés
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 round
 
@@ -56917,7 +59557,7 @@ Une barrière [invisible](hd_conditions_invisible.md) faite de force magique app
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (un morceau de phosphore ou une luciole)
+- **Composantes :** V, S, M (un morceau de phosphore ou une luciole)</Components-->
 
 - **Durée :** 10 minutes
 
@@ -56947,7 +59587,7 @@ De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un petit parchemin avec un extrait de texte sacré)
+- **Composantes :** V, S, M (un petit parchemin avec un extrait de texte sacré)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -56973,7 +59613,7 @@ Un champ scintillant apparaît autour d'une créature de votre choix située à 
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -57001,7 +59641,7 @@ Les dégâts du sort augmentent de 1d12 quand vous atteignez le niveau 5 (2d12),
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (une petite boule de guano de chauve-souris et du soufre)
+- **Composantes :** V, S, M (une petite boule de guano de chauve-souris et du soufre)</Components-->
 
 - **Durée :** instantanée
 
@@ -57031,7 +59671,7 @@ Le feu s'étend en contournant les angles. Il embrase les objets inflammables de
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (une petite boule de guano de chauve-souris et du soufre)
+- **Composantes :** V, S, M (une petite boule de guano de chauve-souris et du soufre)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -57067,7 +59707,7 @@ Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les
 
 - **Portée :** personnelle (ligne de 18 mètres)
 
-- **Composantes :** V, S, M (une graine de légume)
+- **Composantes :** V, S, M (une graine de légume)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -57099,7 +59739,7 @@ Vous pouvez changer la direction dans laquelle souffle la bourrasque au moyen d'
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un éclat de mica)
+- **Composantes :** V, S, M (un éclat de mica)</Components-->
 
 - **Durée :** instantanée
 
@@ -57126,7 +59766,7 @@ Un objet non magique que personne ne porte ni ne transporte subit aussi ces dég
 -  Évocation de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p330)
@@ -57157,7 +59797,7 @@ Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en ca
 
 - **Portée :** 30 mètres
 
-- **Composantes :** V, S, M (poussière de rubis d'une valeur de 1 500 po)
+- **Composantes :** V, S, M (poussière de rubis d'une valeur de 1 500 po)</Components-->
 
 - **Durée :** 1 heure
 
@@ -57193,7 +59833,7 @@ La _[dissipation de la magie](hd_spells_dissipation_de_la_magie.md)_ est sans ef
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -57216,7 +59856,7 @@ Le simple contact de votre main enveloppée d'ombres peut siphonner la force vit
 -  Nécromancie de niveau 3
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (un petit morceau de linceul)
+- **Composantes :** V, S, M (un petit morceau de linceul)</Components-->
 - **Durée :** 1 heure
 - Classes: [Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)
 - Source: (MDR p331)
@@ -57247,7 +59887,7 @@ Au niveau 9, la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** 1 minute
 
@@ -57277,7 +59917,7 @@ Choisissez une créature autre que vous qui se situe à portée et dans votre ch
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
+- **Composantes :** V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)</Components-->
 
 - **Durée :** instantanée
 
@@ -57305,7 +59945,7 @@ Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir 
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)
+- **Composantes :** V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)</Components-->
 
 - **Durée :** 1 round
 
@@ -57339,7 +59979,7 @@ Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
+- **Composantes :** V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)</Components-->
 
 - **Durée :** 1 heure
 
@@ -57379,7 +60019,7 @@ Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l'envers, 
 
 - **Portée :** 450 mètres
 
-- **Composantes :** V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
+- **Composantes :** V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)</Components-->
 
 - **Durée :** instantanée
 
@@ -57413,7 +60053,7 @@ Chaque cible doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.m
 
 - **Portée :** personnelle (sphère de 3 mètres de rayon)
 
-- **Composantes :** V, S, M (une pincée de poudre de fer ou de limaille)
+- **Composantes :** V, S, M (une pincée de poudre de fer ou de limaille)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -57457,7 +60097,7 @@ Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utili
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
+- **Composantes :** V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -57497,7 +60137,7 @@ Pendant la durée du sort, vous pouvez utiliser votre action pour prendre une no
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
+- **Composantes :** V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)</Components-->
 
 - **Durée :** instantanée
 
@@ -57529,7 +60169,7 @@ Vous pouvez aussi utiliser ce sort pour bannir une créature non consentante sur
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 heure
 
@@ -57557,7 +60197,7 @@ Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ 
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un bout de fer et une flamme)
+- **Composantes :** V, S, M (un bout de fer et une flamme)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -57591,7 +60231,7 @@ Si une créature tient l'objet qui lui inflige des dégâts ou le porte sur elle
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)
+- **Composantes :** V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)</Components-->
 
 - **Durée :** 8 heures
 
@@ -57616,7 +60256,7 @@ Au début de votre tour, le chien tente de mordre une créature qui vous est hos
 -  Enchantement de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** 9 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p334)
@@ -57639,7 +60279,7 @@ Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversai
 
 - **Portée :** 1,5 kilomètre
 
-- **Composantes :** V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
+- **Composantes :** V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -57671,7 +60311,7 @@ Une créature capable de voir l'organe sensoriel (en bénéficiant par exemple d
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 minute
 
@@ -57699,7 +60339,7 @@ Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se pass
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)
+- **Composantes :** V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)</Components-->
 
 - **Durée :** instantanée
 
@@ -57727,7 +60367,7 @@ Une fois que le clone est arrivé à maturité, si la créature originale meurt,
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** 30 jours
 
@@ -57763,7 +60403,7 @@ Avec un emplacement de sort de niveau 9, il persiste jusqu'à ce que quelqu'un l
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)
+- **Composantes :** V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)</Components-->
 
 - **Durée :** instantanée
 
@@ -57790,7 +60430,7 @@ Si le sort se termine alors que le grand coffre est encore sur le plan éthéré
 -  Invocation de niveau 3
 - **Temps d'incantation :** 1 action
 - **Portée :** 30 mètres
-- **Composantes :** V, S, M (un peu de cendre et de poussière d'os)
+- **Composantes :** V, S, M (un peu de cendre et de poussière d'os)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Sorcier](hd_warlock.md)
 - Source: (MDR p336)
@@ -57810,7 +60450,7 @@ Vous invoquez la puissance des enfers dans une zone de 6 mètres de rayon autour
 -  Invocation de niveau 2
 - **Temps d'incantation :** 1 action
 - **Portée :** 12 mètres
-- **Composantes :** V, S, M (une ficelle)
+- **Composantes :** V, S, M (une ficelle)</Components-->
 - **Durée :** 1 heure
 - Classes: [Rôdeur](hd_ranger.md)
 - Source: (MDR p336)
@@ -57839,7 +60479,7 @@ Une créature [entravée](hd_conditions_entrave.md) peut utiliser son action à 
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (une pincée de soufre)
+- **Composantes :** V, S, M (une pincée de soufre)</Components-->
 
 - **Durée :** instantanée
 
@@ -57869,7 +60509,7 @@ Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 10 minutes
 
@@ -57895,7 +60535,7 @@ Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (encens incandescent)
+- **Composantes :** V, S, M (encens incandescent)</Components-->
 
 - **Durée :** 10 minutes
 
@@ -57923,7 +60563,7 @@ Vous pouvez poser jusqu'à cinq questions avant la fin de la durée du sort. Les
 
 - **Portée :** personnelle (9 mètres de rayon)
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 10 minutes
 
@@ -57957,7 +60597,7 @@ Ce sort permet de libérer une créature [entravée](hd_conditions_entrave.md) p
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (de l'encens et une fiole d'eau bénite ou maudite)
+- **Composantes :** V, S, M (de l'encens et une fiole d'eau bénite ou maudite)</Components-->
 
 - **Durée :** 1 minute
 
@@ -57987,7 +60627,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -58026,7 +60666,7 @@ Par exemple, vous pouvez apprendre où se trouve un puissant mort-vivant résida
 -  Enchantement de niveau 2
 - **Temps d'incantation :** 1 minute
 - **Portée :** 12 mètres
-- **Composantes :** V, S, M (un peu de nourriture adaptée à l'animal)
+- **Composantes :** V, S, M (un peu de nourriture adaptée à l'animal)</Components-->
 - **Durée :** 24 heures
 - Classes: [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)
 - Source: (MDR p337)
@@ -58071,7 +60711,7 @@ Lorsque vous choisissez d'autres effets, ce second compagnon en bénéficie auss
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une pincée de suie et de sel)
+- **Composantes :** V, S, M (une pincée de suie et de sel)</Components-->
 
 - **Durée :** 1 heure
 
@@ -58099,7 +60739,7 @@ Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -58127,7 +60767,7 @@ Une cible n'est pas obligée de se rendre au sein d'une zone à l'évidence dang
 
 - **Portée :** personnelle (cône de 18 mètres)
 
-- **Composantes :** V, S, M (un petit cône de cristal ou de verre)
+- **Composantes :** V, S, M (un petit cône de cristal ou de verre)</Components-->
 
 - **Durée :** instantanée
 
@@ -58157,7 +60797,7 @@ Une créature qui succombe suite à ce sort se transforme en statue de glace jus
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (trois coquilles de noix)
+- **Composantes :** V, S, M (trois coquilles de noix)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -58198,7 +60838,7 @@ Une créature affectée peut faire un [jet de sauvegarde](hd_abilities_jets_de_s
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 round
 
@@ -58230,7 +60870,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8),
 
 - **Portée :** personnelle
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** 1 minute
 
@@ -58260,7 +60900,7 @@ Si vous réussissez votre [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 7 jours
 
@@ -58308,7 +60948,7 @@ Elle subit un désavantage lors des tests de [Charisme](hd_abilities_charisma.md
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -58334,7 +60974,7 @@ Vous transmettez une maladie virulente à une créature située à portée et da
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
+- **Composantes :** V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)</Components-->
 
 - **Durée :** 10 jours
 
@@ -58366,7 +61006,7 @@ Vous ne pouvez utiliser qu'un seul sort de contingence à la fois. Si vous en la
 
 - **Portée :** 18 mètres
 
-- **Composantes :** S
+- **Composantes :** S</Components-->
 
 - **Durée :** instantanée
 
@@ -58396,7 +61036,7 @@ Si elle essayait de lancer un sort de niveau 3 ou moins, il échoue et reste san
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (une goutte d'eau et une pincée de poussière)
+- **Composantes :** V, S, M (une goutte d'eau et une pincée de poussière)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -58436,7 +61076,7 @@ Quand une créature entre dans le vortex pour la première fois de son tour ou q
 
 - **Portée :** personnelle (rayon de 7,5 kilomètres)
 
-- **Composantes :** V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
+- **Composantes :** V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)</Components-->
 
 - **Durée :** concentration, jusqu'à 8 heures
 
@@ -58499,7 +61139,7 @@ Vent
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un saphir d'une valeur de 1 000 po)
+- **Composantes :** V, S, M (un saphir d'une valeur de 1 000 po)</Components-->
 
 - **Durée :** jusqu'à dissipation
 
@@ -58533,7 +61173,7 @@ _[Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)_ ou un effet si
 
 - **Portée :** personnelle (3 mètres de rayon)
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -58563,7 +61203,7 @@ Si vous vous déplacez de telle manière qu'une créature affectée est contrain
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)
+- **Composantes :** V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)</Components-->
 
 - **Durée :** 1 heure
 
@@ -58597,7 +61237,7 @@ Tout ce qui se trouve dans l'espace extradimensionnel tombe à l'extérieur quan
 
 - **Portée :** personnelle (cône de 4,50 mètres)
 
-- **Composantes :** V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
+- **Composantes :** V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)</Components-->
 
 - **Durée :** 1 round
 
@@ -58627,7 +61267,7 @@ Chaque créature affectée, en commençant par celle qui possède actuellement l
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)
+- **Composantes :** V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)</Components-->
 
 - **Durée :** spéciale
 
@@ -58669,7 +61309,7 @@ Si vous utilisez les matériaux créés via ce sort comme composantes matériell
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
+- **Composantes :** V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)</Components-->
 
 - **Durée :** instantanée
 
@@ -58707,7 +61347,7 @@ Quand vous le lancez à partir d'un emplacement de niveau 9, vous pouvez animer 
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -58733,7 +61373,7 @@ Vous créez 25 kilogrammes de nourriture et 120 litres d'eau, soit par terre, so
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
+- **Composantes :** V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)</Components-->
 
 - **Durée :** instantanée
 
@@ -58767,7 +61407,7 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
+- **Composantes :** V, S, M (sept épines acérées ou sept brindilles taillées en pointe)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -58795,7 +61435,7 @@ La transformation du sol est camouflée, de manière à ce que le terrain ait l'
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -58829,7 +61469,7 @@ Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -58859,7 +61499,7 @@ Tant que la cible est affectée par ce sort, les autres créatures bénéficient
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -58889,7 +61529,7 @@ Quand vous lancez le sort, un cliquetis émane de l'objet et retentit si fort qu
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 heure
 
@@ -58919,7 +61559,7 @@ Pour percer votre déguisement à jour, une créature peut dépenser une action 
 
 - **Portée :** 18 mètres
 
-- **Composantes :** S
+- **Composantes :** S</Components-->
 
 - **Durée :** 1 heure
 
@@ -58947,7 +61587,7 @@ Vous pouvez créer un nouveau demi-plan pour chaque incantation du sort ou relie
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)
+- **Composantes :** V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)</Components-->
 
 - **Durée :** concentration, jusqu'à 2 heures
 
@@ -58979,7 +61619,7 @@ De même, le sort n'affecte pas directement la croissance des plantes. La terre 
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (de la magnétite et une pincée de poussière)
+- **Composantes :** V, S, M (de la magnétite et une pincée de poussière)</Components-->
 
 - **Durée :** instantanée
 
@@ -59008,7 +61648,7 @@ Ce sort désintègre automatiquement les objets non magiques de taille G ou inf�
 -  Transmutation de niveau 2
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (une goutte d'eau)
+- **Composantes :** V, S, M (une goutte d'eau)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p346)
@@ -59035,7 +61675,7 @@ Les morts-vivants, les créatures artificielles et les élémentaires sont immun
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -59063,7 +61703,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une pièce de cuivre)
+- **Composantes :** V, S, M (une pièce de cuivre)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -59105,7 +61745,7 @@ Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -59133,7 +61773,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (un brin d'if)
+- **Composantes :** V, S, M (un brin d'if)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -59161,7 +61801,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une goutte de mercure)
+- **Composantes :** V, S, M (une goutte de mercure)</Components-->
 
 - **Durée :** 1 heure
 
@@ -59193,7 +61833,7 @@ Si vous vous éloignez à plus de 30 mètres du disque (typiquement parce qu'il 
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -59221,7 +61861,7 @@ Choisissez une créature, un objet ou un effet magique à portée. Tout sort de 
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (eau bénite ou poudre d'argent et de fer)
+- **Composantes :** V, S, M (eau bénite ou poudre d'argent et de fer)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -59253,7 +61893,7 @@ Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spécial
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)
+- **Composantes :** V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)</Components-->
 
 - **Durée :** instantanée
 
@@ -59283,7 +61923,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -59311,7 +61951,7 @@ Si ce sort achève un humanoïde, ce dernier se relève au début de votre proch
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -59351,7 +61991,7 @@ Si vous lancez ce sort en utilisant un emplacement de niveau 8, la durée devien
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -59389,7 +62029,7 @@ Si elle le réussit, le sort prend fin.
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -59427,7 +62067,7 @@ Si elle le réussit, le sort prend fin.
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
+- **Composantes :** V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)</Components-->
 
 - **Durée :** 10 jours
 
@@ -59455,7 +62095,7 @@ Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d'
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -59489,7 +62129,7 @@ Vous créez l'un des effets suivants à portée après quelques murmures adress�
 
 - **Portée :** personnelle (ligne de 30 mètres)
 
-- **Composantes :** V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
+- **Composantes :** V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)</Components-->
 
 - **Durée :** instantanée
 
@@ -59516,7 +62156,7 @@ La foudre embrase les objets inflammables de la zone qui ne sont ni portés ni t
 -  Invocation , tour de magie
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (une écharde de bois)
+- **Composantes :** V, S, M (une écharde de bois)</Components-->
 - **Durée :** instantanée
 - Classes: [Druide](hd_druid.md)
 - Source: (MDR p350)
@@ -59543,7 +62183,7 @@ Vous pouvez lancer un éclat de bois supplémentaire lorsque vous atteignez les 
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (du feu et un éclat d'héliotrope)
+- **Composantes :** V, S, M (du feu et un éclat d'héliotrope)</Components-->
 
 - **Durée :** instantanée
 
@@ -59575,7 +62215,7 @@ Ce sort dissipe toutes les ténèbres issues d'un sort présentes dans la zone.
 
 - **Portée :** personnelle (cône de 18 mètres)
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -59615,7 +62255,7 @@ Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une cou
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)
+- **Composantes :** V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)</Components-->
 
 - **Durée :** jusqu'à dissipation
 
@@ -59665,7 +62305,7 @@ Vous pouvez utiliser une composante spéciale pour créer une prison à la fois 
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -59695,7 +62335,7 @@ Quand le sort se termine, les plantes invoquées flétrissent.
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
+- **Composantes :** V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)</Components-->
 
 - **Durée :** 24 heures
 
@@ -59725,7 +62365,7 @@ La créature liée doit suivre vos instructions au mieux de ses capacités. Vous
 
 - **Portée :** illimitée
 
-- **Composantes :** V, S, M (un petit bout de fil de cuivre)
+- **Composantes :** V, S, M (un petit bout de fil de cuivre)</Components-->
 
 - **Durée :** 1 round
 
@@ -59753,7 +62393,7 @@ Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un 
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 minute
 
@@ -59779,7 +62419,7 @@ Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de v
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -59800,7 +62440,7 @@ Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce so
 -  Évocation de niveau 5
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p353)
@@ -59823,7 +62463,7 @@ Votre épée devient une épée de justice pour toute la durée du sort. Elle b�
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
+- **Composantes :** V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -59851,7 +62491,7 @@ Dès que l'épée apparaît, vous faites une attaque de sort au corps-à-corps c
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)
+- **Composantes :** V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)</Components-->
 
 - **Durée :** instantanée
 
@@ -59881,7 +62521,7 @@ La créature peut refaire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 24 heures
 
@@ -59907,7 +62547,7 @@ Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immun
 
 - **Portée :** personnelle (4,50 mètres de rayon)
 
-- **Composantes :** V, S M (un symbole sacré)
+- **Composantes :** V, S, M (un symbole sacré)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -59939,7 +62579,7 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -59965,7 +62605,7 @@ Vous puisez dans les peurs les plus profondes d'un groupe de créatures et crée
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
+- **Composantes :** V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)</Components-->
 
 - **Durée :** instantanée
 
@@ -59990,7 +62630,7 @@ La bête ou la plante éveillée est considérée [charmée](hd_conditions_charm
 -  Transmutation de niveau 8
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (une cuillère)
+- **Composantes :** V, S, M (une cuillère)</Components-->
 - **Durée :** instantanée
 - Classes: [Magicien](hd_wizard.md)
 - Source: (MDR p354)
@@ -60008,7 +62648,7 @@ Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur d
 -  Évocation de niveau 4
 - **Temps d'incantation :** 1 action bonus
 - **Portée :** personnelle
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p354)
@@ -60031,7 +62671,7 @@ La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la 
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -60059,7 +62699,7 @@ Le sort crée des rayons supplémentaires quand vous atteignez certains niveaux 
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -60089,7 +62729,7 @@ Il est impossible de créer ou de transmuter des créatures ou des objets magiqu
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
+- **Composantes :** V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)</Components-->
 
 - **Durée :** instantanée
 
@@ -60115,7 +62755,7 @@ Vous touchez un objet de pierre de taille M ou inférieure ou une section de pie
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -60143,7 +62783,7 @@ Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
+- **Composantes :** V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)</Components-->
 
 - **Durée :** instantanée
 
@@ -60168,7 +62808,7 @@ Son maximum de points de vie augmente de 2d10 et elle gagne le même nombre de p
 -  Invocation de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle
-- **Composantes :** V, S, M (morceau d'onyx)
+- **Composantes :** V, S, M (morceau d'onyx)</Components-->
 - **Durée :** instantanée
 - Classes: [Sorcier](hd_warlock.md)
 - Source: (MDR p355)
@@ -60195,7 +62835,7 @@ Chaque créature dans la zone doit réussir un [jet de sauvegarde](hd_abilities_
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)
+- **Composantes :** V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation
 
@@ -60221,7 +62861,7 @@ Une flamme à la luminosité égale à celle d'une torche embrase soudain l'obje
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -60251,7 +62891,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une goutte de sang)
+- **Composantes :** V, S, M (une goutte de sang)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -60281,7 +62921,7 @@ Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde 
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
+- **Composantes :** V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -60313,7 +62953,7 @@ Une créature doit effectuer le même jet quand elle entre dans la sphère pour 
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (poudre de feuille de rhubarbe et estomac de vipère)
+- **Composantes :** V, S, M (poudre de feuille de rhubarbe et estomac de vipère)</Components-->
 
 - **Durée :** instantanée
 
@@ -60341,7 +62981,7 @@ Une flèche d'un vert chatoyant file vers une cible située à portée et explos
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -60371,7 +63011,7 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 
 - **Portée :** personnelle
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -60397,7 +63037,7 @@ Votre corps devient flou, il ondule et vacille comme une flamme aux yeux d'autru
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** jusqu'à 8 heures
 
@@ -60433,7 +63073,7 @@ Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le pla
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un morceau de gaze et une volute de fumée)
+- **Composantes :** V, S, M (un morceau de gaze et une volute de fumée)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -60465,7 +63105,7 @@ Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. I
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 24 heures
 
@@ -60495,7 +63135,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (de minuscules tartes et une plume à agiter dans les airs)
+- **Composantes :** V, S, M (de minuscules tartes et une plume à agiter dans les airs)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -60518,7 +63158,7 @@ Une créature de votre choix située à portée et dans votre champ de vision tr
 -  Évocation de niveau 1
 - **Temps d'incantation :** 1 action bonus
 - **Portée :** personnelle
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p358)
@@ -60551,7 +63191,7 @@ Le type de dégâts supplémentaires infligés et la nature de l'effet dépenden
 
 - **Portée :** personnelle
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -60579,7 +63219,7 @@ La prochaine attaque avec une arme de corps-àcorps ou à distance qui vous perm
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 8 heures
 
@@ -60611,7 +63251,7 @@ Vous n'êtes pas blessé si la pierre subit des dégâts mineurs mais, si elle e
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** 8 heures
 
@@ -60634,7 +63274,7 @@ Toute créature hostile envers vous qui entre dans un emplacement situé dans un
 -  Évocation de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** 27 mètres
-- **Composantes :** V, S, M (une petite poire remplie d'air)
+- **Composantes :** V, S, M (une petite poire remplie d'air)</Components-->
 - **Durée :** instantanée
 - Classes: [Ensorceleur](hd_sorcerer.md)
 - Source: (MDR p359)
@@ -60661,7 +63301,7 @@ Si le jet est réussi, les dégâts sont réduits de moitié.
 
 - **Portée :** personnelle (3 mètres de rayon)
 
-- **Composantes :** V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
+- **Composantes :** V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -60691,7 +63331,7 @@ Tout sort de niveau 5 ou inférieur lancé depuis l'extérieur de la barrière s
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
+- **Composantes :** V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation ou déclenchement
 
@@ -60733,7 +63373,7 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
+- **Composantes :** V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)</Components-->
 
 - **Durée :** 1 minute
 
@@ -60759,7 +63399,7 @@ La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (de la couenne de porc ou du beurre)
+- **Composantes :** V, S, M (de la couenne de porc ou du beurre)</Components-->
 
 - **Durée :** 1 minute
 
@@ -60787,7 +63427,7 @@ Lorsque la graisse apparaît, chaque créature qui se trouve dans la zone affect
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une pincée de poussière)
+- **Composantes :** V, S, M (une pincée de poussière)</Components-->
 
 - **Durée :** 1 heure
 
@@ -60815,7 +63455,7 @@ Vous touchez une créature dont la vitesse augmente de 3 mètres jusqu'à la fin
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -60843,7 +63483,7 @@ Choisissez une créature située à portée et dans votre champ de vision. Une b
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -60866,7 +63506,7 @@ Le sort débarrasse aussi les créatures qu'il guérit de leurs maladies et des 
 -  Évocation de niveau 9
 - **Temps d'incantation :** 1 action
 - **Portée :** 12 mètres
-- **Composantes :** V, S, M (un verre en cristal d'une valeur de 500 po)
+- **Composantes :** V, S, M (un verre en cristal d'une valeur de 500 po)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md)
 - Source: (MDR p)
@@ -60891,7 +63531,7 @@ Enfin, le sort met un terme aux effets de réduction des points de vie maximum p
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un copeau de racine de réglisse)
+- **Composantes :** V, S, M (un copeau de racine de réglisse)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -60919,7 +63559,7 @@ Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une act
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -60947,7 +63587,7 @@ Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à 
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)
+- **Composantes :** V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)</Components-->
 
 - **Durée :** instantanée
 
@@ -60975,7 +63615,7 @@ Si, à la place, vous touchez une créature pendant toute l'incantation, vous d�
 
 - **Portée :** 9 mètres
 
-- **Composantes :** S, M (un morceau de toison)
+- **Composantes :** S, M (un morceau de toison)</Components-->
 
 - **Durée :** 1 minute
 
@@ -61007,7 +63647,7 @@ Si une créature utilise son action pour examiner le son ou l'image, elle compre
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
+- **Composantes :** V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)</Components-->
 
 - **Durée :** jusqu'à dissipation
 
@@ -61039,7 +63679,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un morceau de toison)
+- **Composantes :** V, S, M (un morceau de toison)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -61071,7 +63711,7 @@ Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 minute
 
@@ -61109,7 +63749,7 @@ Une créature n'est pas affectée par ce sort si elle ne voit pas, si elle se se
 
 - **Portée :** 750 kilomètres
 
-- **Composantes :** V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
+- **Composantes :** V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 jour
 
@@ -61141,7 +63781,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un morceau de toison)
+- **Composantes :** V, S, M (un morceau de toison)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -61171,7 +63811,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un petit morceau de fer bien droit)
+- **Composantes :** V, S, M (un petit morceau de fer bien droit)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -61199,7 +63839,7 @@ Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doi
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (un petit morceau de fer bien droit)
+- **Composantes :** V, S, M (un petit morceau de fer bien droit)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -61229,7 +63869,7 @@ Les créatures visées doivent se trouver à 9 mètres ou moins les unes des aut
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** 1 round
 
@@ -61269,7 +63909,7 @@ Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre diff
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -61298,7 +63938,7 @@ Par exemple, si vous transformez une abeille, sa version géante peut disposer d
 -  Illusion de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (un archet et un morceau d'os)
+- **Composantes :** V, S, M (un archet et un morceau d'os)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md)
 - Source: (MDR p)
@@ -61325,7 +63965,7 @@ Au début de chacun de ses tours, la créature doit réussir un [jet de sauvegar
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)
+- **Composantes :** V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)</Components-->
 
 - **Durée :** 1 jour
 
@@ -61361,7 +64001,7 @@ La zone d'effet de ce sort ne peut pas se superposer à celle d'un autre sort d'
 
 - **Portée :** 30 mètres
 
-- **Composantes :** V, S, M (de la magnétite et de la limaille de fer)
+- **Composantes :** V, S, M (de la magnétite et de la limaille de fer)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -61391,7 +64031,7 @@ Une fois la durée du sort écoulée, les objets et les créatures affectés ret
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un cil enrobé de gomme arabique)
+- **Composantes :** V, S, M (un cil enrobé de gomme arabique)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -61419,7 +64059,7 @@ La créature que vous touchez devient [invisible](hd_conditions_invisible.md) ju
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -61445,7 +64085,7 @@ Vous devenez [invisible](hd_conditions_invisible.md) jusqu'à ce que le sort se 
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -61489,7 +64129,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -61531,7 +64171,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (une baie de houx par créature invoquée)
+- **Composantes :** V, S, M (une baie de houx par créature invoquée)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -61573,7 +64213,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -61609,7 +64249,7 @@ C'est le MJ qui dispose du profil technique du céleste.
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
+- **Composantes :** V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -61645,7 +64285,7 @@ C'est le MJ qui dispose du profil technique de l'élémentaire.
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -61679,7 +64319,7 @@ C'est le MJ qui dispose du profil technique de la créature féerique.
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -61714,7 +64354,7 @@ Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais 
 -  Nécromancie de niveau 5
 - **Temps d'incantation :** 1 action
 - **Portée :** 9 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** instantanée
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p)
@@ -61737,7 +64377,7 @@ Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de v
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -61771,7 +64411,7 @@ Quand le sort se termine, la cible réapparaît à l'emplacement qu'elle a quitt
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (feuille de sumac)
+- **Composantes :** V, S, M (feuille de sumac)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -61798,7 +64438,7 @@ La lame enflammée émet une vive lumière dans un rayon de 3 mètres et une fai
 -  Transmutation de niveau 3
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p)
@@ -61823,7 +64463,7 @@ De plus, la créature touchée se retrouve [aveuglée](hd_conditions_aveugle.md)
 
 - **Portée :** contact
 
-- **Composantes :** V, M (un modèle réduit de ziggourat en argile)
+- **Composantes :** V, M (un modèle réduit de ziggourat en argile)</Components-->
 
 - **Durée :** 1 heure
 
@@ -61851,7 +64491,7 @@ De plus, quand elle parle, toute créature qui maîtrise au moins une langue et 
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)
+- **Composantes :** V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)</Components-->
 
 - **Durée :** instantanée
 
@@ -61883,7 +64523,7 @@ Les informations obtenues sont exactes, mais susceptibles de se présenter dans 
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, M (une petite plume ou un peu de duvet)
+- **Composantes :** V, M (une petite plume ou un peu de duvet)</Components-->
 
 - **Durée :** 1 minute
 
@@ -61909,7 +64549,7 @@ Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une goutte de mélasse)
+- **Composantes :** V, S, M (une goutte de mélasse)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -61943,7 +64583,7 @@ Une créature affectée par ce sort fait un nouveau [jet de sauvegarde](hd_abili
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -61969,7 +64609,7 @@ Une créature affectée par ce sort fait un nouveau [jet de sauvegarde](hd_abili
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
+- **Composantes :** V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -61996,7 +64636,7 @@ Si la cible est encore en l'air quand le sort se termine, elle flotte délicatem
 -  Invocation de niveau 4
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)
 - Source: (MDR p)
@@ -62023,7 +64663,7 @@ La liane a le profil suivant : CA 15, points de vie 30, [Force](hd_abilities_str
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
+- **Composantes :** V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)</Components-->
 
 - **Durée :** 1 heure
 
@@ -62051,7 +64691,7 @@ La cible peut également dépenser 1,50 mètre de déplacement pour échapper au
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
+- **Composantes :** V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)</Components-->
 
 - **Durée :** 1 heure
 
@@ -62081,7 +64721,7 @@ Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous ê
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
+- **Composantes :** V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)</Components-->
 
 - **Durée :** 1 heure
 
@@ -62111,7 +64751,7 @@ Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépa
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (des poils de chien de chasse)
+- **Composantes :** V, S, M (des poils de chien de chasse)</Components-->
 
 - **Durée :** instantanée
 
@@ -62137,7 +64777,7 @@ Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous conce
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une branche fourchue)
+- **Composantes :** V, S, M (une branche fourchue)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -62169,7 +64809,7 @@ Le sort ne parvient pas à localiser l'objet si une couche de plomb, aussi mince
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (des poils de chien de chasse)
+- **Composantes :** V, S, M (des poils de chien de chasse)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -62201,7 +64841,7 @@ Le sort ne parvient pas à localiser la créature si le chemin qui vous relie di
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -62229,7 +64869,7 @@ Pendant toute la durée du sort, elles bénéficient d'un avantage lors des [jet
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -62257,7 +64897,7 @@ Un assaillant a l'avantage lors du jet d'attaque contre une cible affectée s'il
 
 - **Portée :** contact
 
-- **Composantes :** V, M (une luciole ou de la mousse phosphorescente)
+- **Composantes :** V, M (une luciole ou de la mousse phosphorescente)</Components-->
 
 - **Durée :** 1 heure
 
@@ -62289,7 +64929,7 @@ Si vous visez un objet porté ou transporté par une créature hostile, cette de
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 heure
 
@@ -62319,7 +64959,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de ténèbres 
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
+- **Composantes :** V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -62353,7 +64993,7 @@ Elle s'éteint si elle passe hors de portée.
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 minute
 
@@ -62383,7 +65023,7 @@ La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une coquille d'oeuf et un gant en peau de serpent)
+- **Composantes :** V, S, M (une coquille d'oeuf et un gant en peau de serpent)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -62427,7 +65067,7 @@ Faites une attaque de sort de contact pour la main en utilisant vos propres bonu
 
 - **Portée :** personnelle (cône de 4,50 mètres)
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -62459,7 +65099,7 @@ Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un n
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
+- **Composantes :** V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)</Components-->
 
 - **Durée :** 24 heures
 
@@ -62492,7 +65132,7 @@ Quand le sort se termine, toutes les créatures qui se trouvent dans l'espace ex
 -  Abjuration de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle
-- **Composantes :** V, S, M (un peu d'eau)
+- **Composantes :** V, S, M (un peu d'eau)</Components-->
 - **Durée :** 8 heures
 - Classes: [Sorcier](hd_warlock.md)
 - Source: (MDR p)
@@ -62517,7 +65157,7 @@ Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistanc
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un bout de liège)
+- **Composantes :** V, S, M (un bout de liège)</Components-->
 
 - **Durée :** 1 heure
 
@@ -62545,7 +65185,7 @@ Si vous prenez pour cible une créature immergée dans un liquide, le sort la ra
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (du feu et de l'eau bénite)
+- **Composantes :** V, S, M (du feu et de l'eau bénite)</Components-->
 
 - **Durée :** 8 heures
 
@@ -62573,7 +65213,7 @@ Si une créature est sous forme de nuage et en plein vol quand le sort se termin
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -62601,7 +65241,7 @@ Vous choisissez une créature située dans votre champ de vision et à portée e
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -62633,7 +65273,7 @@ Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un 
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un petit bout de fil de cuivre)
+- **Composantes :** V, S, M (un petit bout de fil de cuivre)</Components-->
 
 - **Durée :** 1 round
 
@@ -62661,7 +65301,7 @@ Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien 
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un peu de nourriture)
+- **Composantes :** V, S, M (un peu de nourriture)</Components-->
 
 - **Durée :** 24 heures
 
@@ -62695,7 +65335,7 @@ Quand elle arrive sur place, elle transmet votre message à la créature que vou
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un cocon de chenille)
+- **Composantes :** V, S, M (un cocon de chenille)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -62729,7 +65369,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
+- **Composantes :** V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -62781,7 +65421,7 @@ Si le sort devient permanent, vous ne contrôlez plus la créature, mais elle pe
 
 - **Portée :** vision
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 10 jours
 
@@ -62811,7 +65451,7 @@ Les créatures dotées de vision parfaite distinguent le véritable terrain derr
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute 
 
@@ -62847,7 +65487,7 @@ Un sort _[lever une malédiction](hd_spells_lever_une_malediction.md)_ ou _[rest
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -62879,7 +65519,7 @@ Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 heure
 
@@ -62909,7 +65549,7 @@ Pendant toute la durée du sort, vous et une créature de votre choix pouvez che
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -62937,7 +65577,7 @@ Les dégâts du sort augmentent de 1d4 quand vous atteignez le niveau 5 (2d4), l
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -62965,7 +65605,7 @@ Une créature de votre choix située à portée et dans votre champ de vision r�
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -62993,7 +65633,7 @@ Vous prononcez des paroles curatives qui rendent un nombre de points de vie éga
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -63021,7 +65661,7 @@ Une cible [étourdie](hd_conditions_etourdi.md) a droit à un [jet de sauvegarde
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -63047,7 +65687,7 @@ Vous prononcez un mot de pouvoir capable d'obliger une créature située à port
 
 - **Portée :** 1,5 mètre
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -63075,7 +65715,7 @@ Pour désigner un sanctuaire, vous devez lancer ce sort en un lieu dédié à vo
 
 - **Portée :** 36 mètres
 
-- **Composantes :** S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
+- **Composantes :** S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -63105,7 +65745,7 @@ Le sort se termine pour une créature donnée si elle subit le moindre dégât o
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une poignée d'épines)
+- **Composantes :** V, S, M (une poignée d'épines)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -63139,7 +65779,7 @@ Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doi
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un éclat de phosphore)
+- **Composantes :** V, S, M (un éclat de phosphore)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -63173,7 +65813,7 @@ L'autre face du mur n'inflige pas de dégâts.
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une pincée de poudre de gemme translucide)
+- **Composantes :** V, S, M (une pincée de poudre de gemme translucide)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -63201,7 +65841,7 @@ Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre t
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un éclat de quartz)
+- **Composantes :** V, S, M (un éclat de quartz)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -63233,7 +65873,7 @@ Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle 
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un petit bloc de granite)
+- **Composantes :** V, S, M (un petit bloc de granite)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -63269,7 +65909,7 @@ Si vous restez concentré sur le sort pendant toute sa durée, le mur devient un
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un petit éventail et une plume exotique)
+- **Composantes :** V, S, M (un petit éventail et une plume exotique)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -63299,7 +65939,7 @@ Le vent fort maintient la brume, la fumée et les autres gaz à l'écart. Les cr
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 10 minutes
 
@@ -63351,7 +65991,7 @@ Tant que cette couche est en place, il est impossible de lancer un sort à trave
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -63374,7 +66014,7 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 -  Abjuration de niveau 4
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 10 minutes
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p)
@@ -63399,7 +66039,7 @@ Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du 
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)
+- **Composantes :** V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)</Components-->
 
 - **Durée :** 8 heures
 
@@ -63427,7 +66067,7 @@ Vous pouvez prendre pour cible une créature consentante, un endroit ou un objet
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -63459,7 +66099,7 @@ Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au d�
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -63493,7 +66133,7 @@ Le brouillard s'éloigne de vous sur une distance de 3 mètres au début de chac
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (un oeuf pourri ou des feuilles de chou pourri)
+- **Composantes :** V, S, M (un oeuf pourri ou des feuilles de chou pourri)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -63523,7 +66163,7 @@ Un vent modéré (au moins 15 km/h) disperse le nuage après 4 rounds. Un vent f
 
 - **Portée :** 1,5 kilomètre
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -63548,8 +66188,8 @@ Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas p
 -  Invocation de niveau 5
 - **Temps d'incantation :** 1 action bonus
 - **Portée :** selon l'arme utilisée
-- **Composantes :** V, S, M (un projectile)
-- **Durée :** instantané
+- **Composantes :** V, S, M (un projectile)</Components-->
+- **Durée :** instantanée
 - Classes: [Rôdeur](hd_ranger.md)
 - Source: (MDR p)
 
@@ -63571,7 +66211,7 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (des poils de chauve-souris)
+- **Composantes :** V, S, M (des poils de chauve-souris)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -63594,7 +66234,7 @@ Par une action, vous pouvez déplacer l'oeil d'un maximum de 9 mètres dans la d
 -  Enchantement de niveau 2
 - **Temps d'incantation :** 1 action
 - **Portée :** 36 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p)
@@ -63614,7 +66254,7 @@ Pour toute la durée du sort, la cible fait en sorte de protéger l'objet qu'ell
 -  Illusion de niveau 2
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (un morceau de charbon)
+- **Composantes :** V, S, M (un morceau de charbon)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)
 - Source: (MDR p)
@@ -63634,7 +66274,7 @@ Vous désignez une cible à portée et dans votre champ de vision. Vous créez d
 -  Abjuration de niveau 4
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle (3 mètres de rayon)
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** Instantanée
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p)
@@ -63657,7 +66297,7 @@ Vous libérez une vague d'énergie purificatrice qui met instantanément fin aux
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -63695,7 +66335,7 @@ Quels que soient ses points de vie, si un céleste, un élémentaire, une fée o
 
 - **Portée :** personnelle
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -63716,7 +66356,7 @@ Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez 
 -  Invocation de niveau 6
 - **Temps d'incantation :** 1 action
 - **Portée :** 150 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 10 minutes
 - Classes: [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p)
@@ -63749,7 +66389,7 @@ Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -63777,7 +66417,7 @@ Vous pouvez utiliser cette capacité de transport une fois par round pendant tou
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
+- **Composantes :** V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -63807,7 +66447,7 @@ Une créature qui profite de ce bonus ne laisse derrière elle aucune trace ni a
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une pincée de graines de sésame)
+- **Composantes :** V, S, M (une pincée de graines de sésame)</Components-->
 
 - **Durée :** 1 heure
 
@@ -63835,7 +66475,7 @@ Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient en
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une goutte de bitume et une araignée)
+- **Composantes :** V, S, M (une goutte de bitume et une araignée)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -63861,7 +66501,7 @@ Jusqu'à la fin du sort, une créature consentante que vous touchez devient capa
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une poignée d'écorce de chêne)
+- **Composantes :** V, S, M (une poignée d'écorce de chêne)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -63887,7 +66527,7 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
+- **Composantes :** V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -63913,7 +66553,7 @@ Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure q
 
 - **Portée :** personnelle (hémisphère de 3 mètres de rayon)
 
-- **Composantes :** V, S, M (une petite perle de cristal)
+- **Composantes :** V, S, M (une petite perle de cristal)</Components-->
 
 - **Durée :** 8 heures
 
@@ -63943,7 +66583,7 @@ Tant que le sort n'est pas terminé, vous pouvez faire en sorte que l'intérieur
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (une pincée de chaux, de l'eau et de la terre)
+- **Composantes :** V, S, M (une pincée de chaux, de l'eau et de la terre)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -63975,9 +66615,9 @@ Si vous maintenez votre concentration sur ce sort jusqu'à la fin de la durée m
 
 - **Portée :** personnelle (cône de 9 mètres)
 
-- **Composantes :** V, S, M (une plume blanche ou un coeur de poule)
+- **Composantes :** V, S, M (une plume blanche ou un coeur de poule)</Components-->
 
-- **Durée :** concentration, jusqu'à 1 minute.
+- **Durée :** concentration, jusqu'à 1 minute
 
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 
@@ -63998,8 +66638,8 @@ Tant qu'une créature est [terrorisée](hd_conditions_terrorise.md) par ce sort,
 -  Invocation de niveau 3
 - **Temps d'incantation :** 1 action bonus
 - **Portée :** selon l'arme utilisée
-- **Composantes :** V, S, M (un projectile)
-- **Durée :** instantané
+- **Composantes :** V, S, M (un projectile)</Components-->
+- **Durée :** instantanée
 - Classes: [Rôdeur](hd_ranger.md)
 - Source: (MDR p)
 
@@ -64023,7 +66663,7 @@ Le projectile se dédouble de nombreuses fois et affecte toutes les créatures d
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -64046,7 +66686,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 -  Invocation de niveau 1
 - **Temps d'incantation :** 1 action bonus
 - **Portée :** personnelle
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)
 - Source: (MDR p)
@@ -64071,7 +66711,7 @@ Une arme de votre choix exsude une substance poisseuse et venimeuse. À la premi
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un diamant d'une valeur minimale de 5 000 po)
+- **Composantes :** V, S, M (un diamant d'une valeur minimale de 5 000 po)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -64103,7 +66743,7 @@ Quand vous lancez ce sort, vous pouvez prononcer le nom d'une créature spécifi
 
 - **Portée :** 150 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -64130,7 +66770,7 @@ Si vous deviez arriver dans un emplacement déjà occupé par un objet ou une cr
 -  Abjuration, tour de magie
 - **Temps d'incantation :** 1 action
 - **Portée :** personnel
-- **Composantes :** V, S, M (objet porte-bonheur)
+- **Composantes :** V, S, M (objet porte-bonheur)</Components-->
 - **Durée :** 1 round
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p)
@@ -64153,7 +66793,7 @@ Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, 
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
+- **Composantes :** V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)</Components-->
 
 - **Durée :** jusqu'à dissipation
 
@@ -64203,7 +66843,7 @@ Le réceptacle est détruit quand le sort se termine.
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une plume d'oiseau chanteur)
+- **Composantes :** V, S, M (une plume d'oiseau chanteur)</Components-->
 
 - **Durée :** 8 heures
 
@@ -64231,7 +66871,7 @@ Le sort se termine immédiatement si vous le lancez de nouveau avant la fin de s
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** jusqu'à 1 heure
 
@@ -64271,7 +66911,7 @@ Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de t
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -64299,7 +66939,7 @@ Un maximum de six créatures de votre choix, situées à portée et dans votre c
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 10 minutes
 
@@ -64331,7 +66971,7 @@ Les dégâts de ce sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8)
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -64354,8 +66994,8 @@ Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touch
 -  Invocation de niveau 3
 - **Temps d'incantation :** 1 action bonus
 - **Portée :** selon l'arme utilisée
-- **Composantes :** V, S, M (un projectile)
-- **Durée :** instantané
+- **Composantes :** V, S, M (un projectile)</Components-->
+- **Durée :** instantanée
 - Classes: [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)
 - Source: (MDR p)
 
@@ -64381,7 +67021,7 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
+- **Composantes :** V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)</Components-->
 
 - **Durée :** spéciale
 
@@ -64417,7 +67057,7 @@ Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 8 heures
 
@@ -64445,7 +67085,7 @@ Si le sort est encore actif quand la cible est soumise à un effet qui devrait l
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
+- **Composantes :** V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -64475,7 +67115,7 @@ Les créatures des types précédemment nommés subissent un désavantage lors d
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 heure
 
@@ -64503,7 +67143,7 @@ Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des [je
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -64529,7 +67169,7 @@ Pendant toute la durée du sort, la créature consentante que vous touchez devie
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)
+- **Composantes :** V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)</Components-->
 
 - **Durée :** 24 heures
 
@@ -64583,7 +67223,7 @@ Vous pouvez protéger une structure en permanence si vous lancez ce sort tous le
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -64633,7 +67273,7 @@ Si la cible décède pendant qu'elle est sous l'effet du sort, son corps éclate
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)
+- **Composantes :** V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)</Components-->
 
 - **Durée :** instantanée
 
@@ -64665,7 +67305,7 @@ Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -64693,7 +67333,7 @@ La cible a droit à un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -64721,7 +67361,7 @@ Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous 
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -64749,7 +67389,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
+- **Composantes :** V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -64783,7 +67423,7 @@ Une fois que vous avez lancé ce sort, à chacun de vos tours, vous pouvez utili
 
 - **Portée :** personnelle (ligne de 18 mètres)
 
-- **Composantes :** V, S, M (une loupe)
+- **Composantes :** V, S, M (une loupe)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -64815,7 +67455,7 @@ Pendant toute la durée du sort, une boule de lumière brille dans votre main. E
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un moulin à prières et de l'eau bénite)
+- **Composantes :** V, S, M (un moulin à prières et de l'eau bénite)</Components-->
 
 - **Durée :** 1 heure
 
@@ -64845,7 +67485,7 @@ Si vous disposez de la partie amputée et la maintenez contre le moignon, le sor
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
+- **Composantes :** V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)</Components-->
 
 - **Durée :** instantanée
 
@@ -64897,7 +67537,7 @@ La créature réincarnée se souvient de son ancienne vie et de ses expériences
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (deux magnétites)
+- **Composantes :** V, S, M (deux magnétites)</Components-->
 
 - **Durée :** instantanée
 
@@ -64927,7 +67567,7 @@ Le sort permet de réparer un objet magique ou une créature artificielle, mais 
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -64953,7 +67593,7 @@ Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez uti
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -64981,7 +67621,7 @@ Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
+- **Composantes :** V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)</Components-->
 
 - **Durée :** 10 jours
 
@@ -65021,7 +67661,7 @@ Une créature qui réussit son [jet de sauvegarde](hd_abilities_jets_de_sauvegar
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une cape miniature)
+- **Composantes :** V, S, M (une cape miniature)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -65049,7 +67689,7 @@ Le sort se termine alors.
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un petit roseau ou un brin de paille)
+- **Composantes :** V, S, M (un petit roseau ou un brin de paille)</Components-->
 
 - **Durée :** 24 heures
 
@@ -65075,7 +67715,7 @@ Grâce à ce sort, un maximum de dix créatures situées à portée et dans votr
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -65101,7 +67741,7 @@ Vous touchez une créature et mettez fin à une maladie ou à un état spécial 
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)
+- **Composantes :** V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)</Components-->
 
 - **Durée :** instantanée
 
@@ -65135,7 +67775,7 @@ Vous imprégnez la créature que vous touchez d'énergie positive, afin de la d�
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)
+- **Composantes :** V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)</Components-->
 
 - **Durée :** instantanée
 
@@ -65171,7 +67811,7 @@ Après cela, vous ne pouvez plus lancer de sort et vous souffrez d'un désavanta
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)
+- **Composantes :** V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)</Components-->
 
 - **Durée :** instantanée
 
@@ -65201,7 +67841,7 @@ Le sort referme toutes les plaies, neutralise tous les poisons, guérit toutes l
 
 - **Portée :** spéciale
 
-- **Composantes :** V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)
+- **Composantes :** V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)</Components-->
 
 - **Durée :** 8 heures
 
@@ -65233,7 +67873,7 @@ Si vous êtes en possession d'un élément corporel de la cible, comme une mèch
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (diamant d'une valeur de 300 po, que le sort consume)
+- **Composantes :** V, S, M (diamant d'une valeur de 300 po, que le sort consume)</Components-->
 
 - **Durée :** instantanée
 
@@ -65259,7 +67899,7 @@ Vous touchez une créature morte au cours de la minute précédente. Elle revien
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
+- **Composantes :** V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation
 
@@ -65313,7 +67953,7 @@ Les ténèbres magiques issues d'un sort de niveau inférieur à celui de l'empl
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un petit miroir en argent)
+- **Composantes :** V, S, M (un petit miroir en argent)</Components-->
 
 - **Durée :** 1 minute
 
@@ -65343,7 +67983,7 @@ Ce sort se termine si la créature protégée attaque ou lance un sort affectant
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)
+- **Composantes :** V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)</Components-->
 
 - **Durée :** 24 heures
 
@@ -65382,7 +68022,7 @@ Si on lance ce sort tous les jours au même endroit pendant un an, ses effets de
 -  Nécromancie de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** contact
-- **Composantes :** V, S, M (une fiole d'un mélange de sang et d'acide)
+- **Composantes :** V, S, M (une fiole d'un mélange de sang et d'acide)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)
 - Source: (MDR p)
@@ -65407,7 +68047,7 @@ Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une patte arrière de sauterelle)
+- **Composantes :** V, S, M (une patte arrière de sauterelle)</Components-->
 
 - **Durée :** 1 minute
 
@@ -65433,7 +68073,7 @@ Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sor
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
+- **Composantes :** V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -65477,7 +68117,7 @@ Au lieu de prendre une créature pour cible, vous pouvez choisir un lieu que vou
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
+- **Composantes :** V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation
 
@@ -65507,7 +68147,7 @@ Vous pouvez décider d'une condition qui mettra un terme prématuré au sort. Ce
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un bout de ficelle et un morceau de bois)
+- **Composantes :** V, S, M (un bout de ficelle et un morceau de bois)</Components-->
 
 - **Durée :** 1 heure
 
@@ -65537,7 +68177,7 @@ Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plu
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -65565,7 +68205,7 @@ Une créature ou un objet entièrement contenu dans la sphère sont immunisés c
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)
+- **Composantes :** V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)</Components-->
 
 - **Durée :** jusqu'à dissipation
 
@@ -65599,7 +68239,7 @@ Si vous lancez de nouveau ce sort, l'éventuel double que vous maintenez déjà 
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une petite quantité d'alcool ou de spiritueux)
+- **Composantes :** V, S, M (une petite quantité d'alcool ou de spiritueux)</Components-->
 
 - **Durée :** 1 heure
 
@@ -65627,7 +68267,7 @@ Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie t
 
 - **Portée :** contact
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -65655,7 +68295,7 @@ La créature que vous touchez récupère un nombre de points de vie égal à 1d8
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -65683,7 +68323,7 @@ Une vague d'énergie curative s'étend depuis un point de votre choix situé à 
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)
+- **Composantes :** V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)</Components-->
 
 - **Durée :** 1 minute
 
@@ -65715,7 +68355,7 @@ Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent 
 
 - **Portée :** personnelle
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -65763,7 +68403,7 @@ Le stress lié à l'incantation d'un souhait pour faire autre chose que répliqu
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
+- **Composantes :** V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -65795,7 +68435,7 @@ Quand vous déplacez la sphère, vous pouvez lui faire franchir des obstacles de
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (une petite sphère de cristal)
+- **Composantes :** V, S, M (une petite sphère de cristal)</Components-->
 
 - **Durée :** instantanée
 
@@ -65833,7 +68473,7 @@ Il explose au bout de 1 minute s'il n'a pas été brisé auparavant.
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
+- **Composantes :** V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -65862,8 +68502,8 @@ Un sort de _[désintégration](hd_spells_desintegration.md)_ visant la sphère l
 -  Invocation de niveau 2
 - **Temps d'incantation :** 1 action
 - **Portée :** 30 mètres
-- **Composantes :** V, S
-- **Durée :** concentration, jusqu'à 1 minute.
+- **Composantes :** V, S</Components-->
+- **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p)
 
@@ -65882,7 +68522,7 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 -  Invocation de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** 9 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p)
@@ -65907,7 +68547,7 @@ Vous tendez le bras en direction de votre cible et, de votre main, vous mimez so
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+- **Composantes :** V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)</Components-->
 
 - **Durée :** concentration, jusqu'à 8 heures
 
@@ -65943,7 +68583,7 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+- **Composantes :** V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)</Components-->
 
 - **Durée :** 24 heures
 
@@ -65977,7 +68617,7 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)
+- **Composantes :** V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation ou déclenchement
 
@@ -66031,7 +68671,7 @@ Une telle créature se réveille si elle subit des dégâts ou si quelqu'un util
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -66067,7 +68707,7 @@ Vous exercez un contrôle précis sur les objets pris dans votre étreinte tél�
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 
@@ -66121,7 +68761,7 @@ La distance qui vous sépare de votre destination est de 1d10 × 1d10 % de la di
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -66151,7 +68791,7 @@ Le feu endommage les objets présents dans la zone et embrase les objets inflamm
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (une pincée de poussière et quelques gouttes d'eau)
+- **Composantes :** V, S, M (une pincée de poussière et quelques gouttes d'eau)</Components-->
 
 - **Durée :** instantanée
 
@@ -66183,7 +68823,7 @@ Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre 
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (une pincée de poussière et quelques gouttes d'eau)
+- **Composantes :** V, S, M (une pincée de poussière et quelques gouttes d'eau)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -66208,7 +68848,7 @@ Si une créature se concentre dans la zone d'effet du sort, elle doit réussir u
 -  Invocation de niveau 8
 - **Temps d'incantation :** 1 action
 - **Portée :** 1 kilomètre
-- **Composantes :** V, S, M (une rose des sables)
+- **Composantes :** V, S, M (une rose des sables)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Druide](hd_druid.md)
 - Source: (MDR p)
@@ -66235,7 +68875,7 @@ Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dég
 
 - **Portée :** champ de vision
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -66273,7 +68913,7 @@ Le vent et la pluie fonctionnent comme une distraction sévère quand il s'agit 
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
+- **Composantes :** V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -66303,7 +68943,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de lumière is
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
+- **Composantes :** V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -66333,7 +68973,7 @@ Une créature [entravée](hd_conditions_entrave.md) par les tentacules peut util
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (une pierre, une brindille et un bout de plante verte)
+- **Composantes :** V, S, M (une pierre, une brindille et un bout de plante verte)</Components-->
 
 - **Durée :** 24 heures
 
@@ -66365,7 +69005,7 @@ Une fois qu'une créature a compris l'illusion, elle la voit comme une image flo
 
 - **Portée :** contact
 
-- **Composantes :** S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
+- **Composantes :** S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)</Components-->
 
 - **Durée :** 10 jours
 
@@ -66395,7 +69035,7 @@ Si quelqu'un dissipe le sort, l'illusion disparaît, mais le message original au
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** jusqu'à 1 minute
 
@@ -66437,7 +69077,7 @@ Vous pouvez révoquer un tel effet par une action.
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un bout de toile d'araignée)
+- **Composantes :** V, S, M (un bout de toile d'araignée)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -66473,7 +69113,7 @@ Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé 
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -66496,7 +69136,7 @@ Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10),
 -  Invocation de niveau 1
 - **Temps d'incantation :** 1 action bonus
 - **Portée :** personnelle
-- **Composantes :** V
+- **Composantes :** V</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Rôdeur](hd_ranger.md)
 - Source: (MDR p)
@@ -66523,7 +69163,7 @@ Retirer l'arme lui inflige 2d4 dégâts, ou la moitié si elle réussit un [jet 
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 1 round
 
@@ -66549,7 +69189,7 @@ Ce sort crée un lien magique entre une plante inanimée de taille G ou supérie
 
 - **Portée :** 150 mètres
 
-- **Composantes :** V, S, M (une pincée de poussière, un caillou et un peu d'argile)
+- **Composantes :** V, S, M (une pincée de poussière, un caillou et un peu d'argile)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
@@ -66591,7 +69231,7 @@ Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une
 
 - **Portée :** personnelle
 
-- **Composantes :** S
+- **Composantes :** S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 
@@ -66623,7 +69263,7 @@ Tant que vous utilisez les sens de votre double, vous êtes sourd et aveugle à 
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -66651,7 +69291,7 @@ Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vo
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
+- **Composantes :** V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 jour
 
@@ -66679,7 +69319,7 @@ Tant que le sort persiste et que vous êtes sur le même plan d'existence que vo
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -66717,7 +69357,7 @@ Vous ne pouvez vous lier qu'à une seule monture issue de ce sort à la fois. Vo
 
 - **Portée :** personnelle (cube de 4,50 mètres)
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 
@@ -66751,7 +69391,7 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
+- **Composantes :** V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation
 
@@ -66779,7 +69419,7 @@ Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser 
 
 - **Portée :** 9 mètres
 
-- **Composantes :** S
+- **Composantes :** S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 round
 
@@ -66805,7 +69445,7 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une pincée de carotte séchée ou une agate)
+- **Composantes :** V, S, M (une pincée de carotte séchée ou une agate)</Components-->
 
 - **Durée :** 8 heures
 
@@ -66831,7 +69471,7 @@ Vous touchez une créature consentante pour lui permettre de voir dans le noir. 
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
+- **Composantes :** V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)</Components-->
 
 - **Durée :** 1 heure
 
@@ -66854,7 +69494,7 @@ Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repèr
 -  Évocation de niveau 3
 - **Temps d'incantation :** 1 action
 - **Portée :** 9 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p)
@@ -66879,7 +69519,7 @@ Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ 
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)
+- **Composantes :** V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)</Components-->
 
 - **Durée :** 1 heure
 
@@ -66905,7 +69545,7 @@ Pendant toute la durée du sort, vous voyez les créatures et les objets [invisi
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une rémige)
+- **Composantes :** V, S, M (une rémige)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 
@@ -66933,7 +69573,7 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 10 minutes
 

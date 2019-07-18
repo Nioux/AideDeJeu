@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
+- **Composantes :** V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

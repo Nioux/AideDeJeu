@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (des poils de chauve-souris)
+- **Composantes :** V, S, M (des poils de chauve-souris)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

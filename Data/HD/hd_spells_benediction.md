@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un peu d'eau bénite à asperger)
+- **Composantes :** V, S, M (un peu d'eau bénite à asperger)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

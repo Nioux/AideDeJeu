@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une pincée de poussière)
+- **Composantes :** V, S, M (une pincée de poussière)</Components-->
 
 - **Durée :** 1 heure
 

@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (de la couenne de porc ou du beurre)
+- **Composantes :** V, S, M (de la couenne de porc ou du beurre)</Components-->
 
 - **Durée :** 1 minute
 

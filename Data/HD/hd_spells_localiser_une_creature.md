@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (des poils de chien de chasse)
+- **Composantes :** V, S, M (des poils de chien de chasse)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

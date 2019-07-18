@@ -12,7 +12,7 @@
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (une petite boule de guano de chauve-souris et du soufre)
+- **Composantes :** V, S, M (une petite boule de guano de chauve-souris et du soufre)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

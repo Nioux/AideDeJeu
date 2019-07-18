@@ -12,7 +12,7 @@
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
+- **Composantes :** V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)</Components-->
 
 - **Durée :** instantanée
 

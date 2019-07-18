@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une poignée d'épines)
+- **Composantes :** V, S, M (une poignée d'épines)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

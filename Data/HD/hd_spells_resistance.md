@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une cape miniature)
+- **Composantes :** V, S, M (une cape miniature)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

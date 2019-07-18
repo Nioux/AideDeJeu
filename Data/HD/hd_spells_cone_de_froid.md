@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (cône de 18 mètres)
 
-- **Composantes :** V, S, M (un petit cône de cristal ou de verre)
+- **Composantes :** V, S, M (un petit cône de cristal ou de verre)</Components-->
 
 - **Durée :** instantanée
 

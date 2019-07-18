@@ -7,7 +7,7 @@
 -  Invocation de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** 9 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p)

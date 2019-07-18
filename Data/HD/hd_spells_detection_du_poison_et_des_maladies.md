@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (un brin d'if)
+- **Composantes :** V, S, M (un brin d'if)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (diamant d'une valeur de 300 po, que le sort consume)
+- **Composantes :** V, S, M (diamant d'une valeur de 300 po, que le sort consume)</Components-->
 
 - **Durée :** instantanée
 

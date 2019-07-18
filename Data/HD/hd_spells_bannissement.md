@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un objet qui répugne à la cible)
+- **Composantes :** V, S, M (un objet qui répugne à la cible)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

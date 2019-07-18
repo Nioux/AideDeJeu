@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un bout de cuir tanné)
+- **Composantes :** V, S, M (un bout de cuir tanné)</Components-->
 
 - **Durée :** 8 heures
 

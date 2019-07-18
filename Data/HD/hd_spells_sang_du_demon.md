@@ -7,7 +7,7 @@
 -  Nécromancie de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** contact
-- **Composantes :** V, S, M (une fiole d'un mélange de sang et d'acide)
+- **Composantes :** V, S, M (une fiole d'un mélange de sang et d'acide)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)
 - Source: (MDR p)

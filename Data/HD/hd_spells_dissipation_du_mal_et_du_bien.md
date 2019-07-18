@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (eau bénite ou poudre d'argent et de fer)
+- **Composantes :** V, S, M (eau bénite ou poudre d'argent et de fer)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

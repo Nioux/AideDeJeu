@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
+- **Composantes :** V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

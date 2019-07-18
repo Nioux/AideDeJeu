@@ -12,7 +12,7 @@
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
+- **Composantes :** V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)</Components-->
 
 - **Durée :** instantanée
 

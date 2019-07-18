@@ -12,7 +12,7 @@
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** jusqu'à 1 heure
 

@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un moulin à prières et de l'eau bénite)
+- **Composantes :** V, S, M (un moulin à prières et de l'eau bénite)</Components-->
 
 - **Durée :** 1 heure
 

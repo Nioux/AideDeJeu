@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)
+- **Composantes :** V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)</Components-->
 
 - **Durée :** spéciale
 

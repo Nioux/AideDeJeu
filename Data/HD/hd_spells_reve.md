@@ -12,7 +12,7 @@
 
 - **Portée :** spéciale
 
-- **Composantes :** V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)
+- **Composantes :** V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)</Components-->
 
 - **Durée :** 8 heures
 

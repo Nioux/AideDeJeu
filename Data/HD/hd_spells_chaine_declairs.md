@@ -12,7 +12,7 @@
 
 - **Portée :** 450 mètres
 
-- **Composantes :** V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
+- **Composantes :** V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)</Components-->
 
 - **Durée :** instantanée
 

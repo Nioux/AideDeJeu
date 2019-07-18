@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (9 mètres de rayon)
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** 10 minutes
 

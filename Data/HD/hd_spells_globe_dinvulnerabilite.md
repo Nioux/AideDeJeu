@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (3 mètres de rayon)
 
-- **Composantes :** V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
+- **Composantes :** V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

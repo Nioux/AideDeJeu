@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (ligne de 18 mètres)
 
-- **Composantes :** V, S, M (une loupe)
+- **Composantes :** V, S, M (une loupe)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

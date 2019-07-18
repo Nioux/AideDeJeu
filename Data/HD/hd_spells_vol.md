@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une rémige)
+- **Composantes :** V, S, M (une rémige)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

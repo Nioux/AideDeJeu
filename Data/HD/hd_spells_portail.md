@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un diamant d'une valeur minimale de 5 000 po)
+- **Composantes :** V, S, M (un diamant d'une valeur minimale de 5 000 po)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

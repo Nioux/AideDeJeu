@@ -12,7 +12,7 @@
 
 - **Portée :** 1,5 kilomètre
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 

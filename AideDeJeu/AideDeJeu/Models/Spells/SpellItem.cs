@@ -19,6 +19,9 @@ namespace AideDeJeuLib
         public string CastingTime { get; set; }
         public string Range { get; set; }
         public string Components { get; set; }
+        public string VerbalComponent { get; set; }
+        public string SomaticComponent { get; set; }
+        public string MaterialComponent { get; set; }
         public string Concentration { get; set; }
         public string Duration { get; set; }
         public string DescriptionHtml { get; set; }

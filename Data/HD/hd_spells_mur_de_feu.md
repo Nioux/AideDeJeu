@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un éclat de phosphore)
+- **Composantes :** V, S, M (un éclat de phosphore)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

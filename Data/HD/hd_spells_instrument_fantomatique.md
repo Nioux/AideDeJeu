@@ -7,7 +7,7 @@
 -  Illusion de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (un archet et un morceau d'os)
+- **Composantes :** V, S, M (un archet et un morceau d'os)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md)
 - Source: (MDR p)

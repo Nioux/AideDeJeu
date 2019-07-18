@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (hémisphère de 3 mètres de rayon)
 
-- **Composantes :** V, S, M (une petite perle de cristal)
+- **Composantes :** V, S, M (une petite perle de cristal)</Components-->
 
 - **Durée :** 8 heures
 

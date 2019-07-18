@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une pincée de limaille de fer)
+- **Composantes :** V, S, M (une pincée de limaille de fer)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

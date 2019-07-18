@@ -12,7 +12,7 @@
 
 - **Portée :** 1,5 kilomètre
 
-- **Composantes :** V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
+- **Composantes :** V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

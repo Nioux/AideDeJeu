@@ -17,6 +17,9 @@ namespace AideDeJeuLib
         public string Rituals { get; set; }
         public string CastingTimes { get; set; }
         public string Ranges { get; set; }
+        public string VerbalComponents { get; set; }
+        public string SomaticComponents { get; set; }
+        public string MaterialComponents { get; set; }
         public string Concentrations { get; set; }
         public string Durations { get; set; }
         public string Sources { get; set; }
@@ -30,6 +33,9 @@ namespace AideDeJeuLib
                 Split(Rituals),
                 Split(CastingTimes),
                 Split(Ranges),
+                Split(VerbalComponents),
+                Split(SomaticComponents),
+                Split(MaterialComponents),
                 Split(Concentrations),
                 Split(Durations),
                 Split(Sources)

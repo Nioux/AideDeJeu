@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (de la magnétite et une pincée de poussière)
+- **Composantes :** V, S, M (de la magnétite et une pincée de poussière)</Components-->
 
 - **Durée :** instantanée
 

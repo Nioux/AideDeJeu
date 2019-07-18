@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** jusqu'à 8 heures
 

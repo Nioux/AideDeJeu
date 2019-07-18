@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une pincée de suie et de sel)
+- **Composantes :** V, S, M (une pincée de suie et de sel)</Components-->
 
 - **Durée :** 1 heure
 

@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
+- **Composantes :** V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

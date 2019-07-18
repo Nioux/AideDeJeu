@@ -12,7 +12,7 @@
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
+- **Composantes :** V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)</Components-->
 
 - **Durée :** instantanée
 

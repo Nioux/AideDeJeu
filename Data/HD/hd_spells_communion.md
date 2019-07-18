@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (de l'encens et une fiole d'eau bénite ou maudite)
+- **Composantes :** V, S, M (de l'encens et une fiole d'eau bénite ou maudite)</Components-->
 
 - **Durée :** 1 minute
 

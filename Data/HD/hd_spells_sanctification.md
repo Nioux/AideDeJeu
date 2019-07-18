@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
+- **Composantes :** V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation
 

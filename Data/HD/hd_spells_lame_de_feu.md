@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (feuille de sumac)
+- **Composantes :** V, S, M (feuille de sumac)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

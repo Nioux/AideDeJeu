@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une pièce de cuivre)
+- **Composantes :** V, S, M (une pièce de cuivre)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

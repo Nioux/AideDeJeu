@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)
+- **Composantes :** V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)</Components-->
 
 - **Durée :** 1 heure
 

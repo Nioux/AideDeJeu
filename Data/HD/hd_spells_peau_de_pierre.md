@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
+- **Composantes :** V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

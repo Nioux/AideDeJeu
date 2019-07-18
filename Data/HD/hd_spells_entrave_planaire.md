@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
+- **Composantes :** V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)</Components-->
 
 - **Durée :** 24 heures
 

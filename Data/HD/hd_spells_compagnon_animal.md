@@ -7,7 +7,7 @@
 -  Enchantement de niveau 2
 - **Temps d'incantation :** 1 minute
 - **Portée :** 12 mètres
-- **Composantes :** V, S, M (un peu de nourriture adaptée à l'animal)
+- **Composantes :** V, S, M (un peu de nourriture adaptée à l'animal)</Components-->
 - **Durée :** 24 heures
 - Classes: [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)
 - Source: (MDR p337)

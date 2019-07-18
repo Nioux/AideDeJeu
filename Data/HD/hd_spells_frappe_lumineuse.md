@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

@@ -7,8 +7,8 @@
 -  Invocation de niveau 2
 - **Temps d'incantation :** 1 action
 - **Portée :** 30 mètres
-- **Composantes :** V, S
-- **Durée :** concentration, jusqu'à 1 minute.
+- **Composantes :** V, S</Components-->
+- **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p)
 

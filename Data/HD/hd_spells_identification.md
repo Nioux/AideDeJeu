@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)
+- **Composantes :** V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)</Components-->
 
 - **Durée :** instantanée
 

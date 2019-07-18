@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un petit bout de fil de cuivre)
+- **Composantes :** V, S, M (un petit bout de fil de cuivre)</Components-->
 
 - **Durée :** 1 round
 

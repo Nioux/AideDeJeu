@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)
+- **Composantes :** V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation
 

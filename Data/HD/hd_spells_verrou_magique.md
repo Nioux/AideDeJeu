@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
+- **Composantes :** V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation
 

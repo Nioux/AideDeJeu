@@ -12,7 +12,7 @@
 
 - **Portée :** 150 mètres
 
-- **Composantes :** V
+- **Composantes :** V</Components-->
 
 - **Durée :** instantanée
 

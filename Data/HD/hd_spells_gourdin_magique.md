@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
+- **Composantes :** V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)</Components-->
 
 - **Durée :** 1 minute
 

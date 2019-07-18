@@ -7,7 +7,7 @@
 -  Invocation de niveau 8
 - **Temps d'incantation :** 1 action
 - **Portée :** 1 kilomètre
-- **Composantes :** V, S, M (une rose des sables)
+- **Composantes :** V, S, M (une rose des sables)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Druide](hd_druid.md)
 - Source: (MDR p)

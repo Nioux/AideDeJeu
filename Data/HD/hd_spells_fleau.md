@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une goutte de sang)
+- **Composantes :** V, S, M (une goutte de sang)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

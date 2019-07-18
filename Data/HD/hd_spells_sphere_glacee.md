@@ -12,7 +12,7 @@
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (une petite sphère de cristal)
+- **Composantes :** V, S, M (une petite sphère de cristal)</Components-->
 
 - **Durée :** instantanée
 

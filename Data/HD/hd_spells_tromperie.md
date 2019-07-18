@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** S
+- **Composantes :** S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

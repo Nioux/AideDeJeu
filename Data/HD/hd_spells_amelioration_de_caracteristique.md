@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (des poils ou des plumes venant d'un animal)
+- **Composantes :** V, S, M (des poils ou des plumes venant d'un animal)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (sphère de 3 mètres de rayon)
 
-- **Composantes :** V, S, M (une pincée de poudre de fer ou de limaille)
+- **Composantes :** V, S, M (une pincée de poudre de fer ou de limaille)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

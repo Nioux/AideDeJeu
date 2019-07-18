@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un petit bloc de granite)
+- **Composantes :** V, S, M (un petit bloc de granite)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

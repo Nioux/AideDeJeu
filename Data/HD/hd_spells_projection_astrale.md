@@ -12,7 +12,7 @@
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
+- **Composantes :** V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)</Components-->
 
 - **Durée :** spéciale
 

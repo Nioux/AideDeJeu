@@ -12,9 +12,9 @@
 
 - **Portée :** personnelle (cône de 9 mètres)
 
-- **Composantes :** V, S, M (une plume blanche ou un coeur de poule)
+- **Composantes :** V, S, M (une plume blanche ou un coeur de poule)</Components-->
 
-- **Durée :** concentration, jusqu'à 1 minute.
+- **Durée :** concentration, jusqu'à 1 minute
 
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 

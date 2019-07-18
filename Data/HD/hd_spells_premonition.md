@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une plume d'oiseau chanteur)
+- **Composantes :** V, S, M (une plume d'oiseau chanteur)</Components-->
 
 - **Durée :** 8 heures
 

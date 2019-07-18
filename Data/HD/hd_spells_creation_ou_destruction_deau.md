@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
+- **Composantes :** V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)</Components-->
 
 - **Durée :** instantanée
 

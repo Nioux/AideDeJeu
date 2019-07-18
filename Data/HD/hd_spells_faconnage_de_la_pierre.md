@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
+- **Composantes :** V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)</Components-->
 
 - **Durée :** instantanée
 

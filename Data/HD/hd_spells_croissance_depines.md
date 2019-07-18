@@ -12,7 +12,7 @@
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
+- **Composantes :** V, S, M (sept épines acérées ou sept brindilles taillées en pointe)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

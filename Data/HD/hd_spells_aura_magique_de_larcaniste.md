@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un petit carré de soie)
+- **Composantes :** V, S, M (un petit carré de soie)</Components-->
 
 - **Durée :** 24 heures
 

@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, M (une petite plume ou un peu de duvet)
+- **Composantes :** V, M (une petite plume ou un peu de duvet)</Components-->
 
 - **Durée :** 1 minute
 

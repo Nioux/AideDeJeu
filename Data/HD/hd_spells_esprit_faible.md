@@ -12,7 +12,7 @@
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)
+- **Composantes :** V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)</Components-->
 
 - **Durée :** instantanée
 

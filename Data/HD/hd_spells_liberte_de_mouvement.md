@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
+- **Composantes :** V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)</Components-->
 
 - **Durée :** 1 heure
 

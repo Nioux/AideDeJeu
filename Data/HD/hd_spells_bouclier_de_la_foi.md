@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un petit parchemin avec un extrait de texte sacré)
+- **Composantes :** V, S, M (un petit parchemin avec un extrait de texte sacré)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

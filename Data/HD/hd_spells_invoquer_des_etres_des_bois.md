@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (une baie de houx par créature invoquée)
+- **Composantes :** V, S, M (une baie de houx par créature invoquée)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

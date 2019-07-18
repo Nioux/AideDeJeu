@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (du feu et de l'eau bénite)
+- **Composantes :** V, S, M (du feu et de l'eau bénite)</Components-->
 
 - **Durée :** 8 heures
 

@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (cône de 18 mètres)
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** instantanée
 

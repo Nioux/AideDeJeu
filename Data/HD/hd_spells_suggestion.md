@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+- **Composantes :** V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)</Components-->
 
 - **Durée :** concentration, jusqu'à 8 heures
 

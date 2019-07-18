@@ -7,7 +7,7 @@
 -  Invocation de niveau 4
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Druide](hd_druid.md), [Rôdeur](hd_ranger.md)
 - Source: (MDR p)

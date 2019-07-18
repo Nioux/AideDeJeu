@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un cocon de chenille)
+- **Composantes :** V, S, M (un cocon de chenille)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

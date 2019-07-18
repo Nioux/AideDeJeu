@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (une pincée de chaux, de l'eau et de la terre)
+- **Composantes :** V, S, M (une pincée de chaux, de l'eau et de la terre)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

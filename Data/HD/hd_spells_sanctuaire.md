@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un petit miroir en argent)
+- **Composantes :** V, S, M (un petit miroir en argent)</Components-->
 
 - **Durée :** 1 minute
 

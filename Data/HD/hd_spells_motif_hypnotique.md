@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
+- **Composantes :** S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une minuscule bandelette de tissu blanc)
+- **Composantes :** V, S, M (une minuscule bandelette de tissu blanc)</Components-->
 
 - **Durée :** 8 heures
 

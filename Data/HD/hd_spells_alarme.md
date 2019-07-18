@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une minuscule clochette et un filament en argent)
+- **Composantes :** V, S, M (une minuscule clochette et un filament en argent)</Components-->
 
 - **Durée :** 8 heures
 

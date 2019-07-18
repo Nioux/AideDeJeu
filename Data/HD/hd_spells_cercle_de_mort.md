@@ -12,7 +12,7 @@
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
+- **Composantes :** V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)</Components-->
 
 - **Durée :** instantanée
 

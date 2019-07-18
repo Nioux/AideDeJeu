@@ -12,7 +12,7 @@
 
 - **Portée :** 3 mètres
 
-- **Composantes :** V, S, M (encens incandescent)
+- **Composantes :** V, S, M (encens incandescent)</Components-->
 
 - **Durée :** 10 minutes
 

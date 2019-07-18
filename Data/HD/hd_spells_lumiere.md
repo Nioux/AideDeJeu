@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, M (une luciole ou de la mousse phosphorescente)
+- **Composantes :** V, M (une luciole ou de la mousse phosphorescente)</Components-->
 
 - **Durée :** 1 heure
 

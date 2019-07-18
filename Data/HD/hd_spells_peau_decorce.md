@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une poignée d'écorce de chêne)
+- **Composantes :** V, S, M (une poignée d'écorce de chêne)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

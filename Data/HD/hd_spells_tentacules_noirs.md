@@ -12,7 +12,7 @@
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
+- **Composantes :** V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

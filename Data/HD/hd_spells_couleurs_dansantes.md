@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (cône de 4,50 mètres)
 
-- **Composantes :** V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
+- **Composantes :** V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)</Components-->
 
 - **Durée :** 1 round
 

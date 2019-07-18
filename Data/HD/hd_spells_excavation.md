@@ -7,7 +7,7 @@
 -  Transmutation de niveau 8
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (une cuillère)
+- **Composantes :** V, S, M (une cuillère)</Components-->
 - **Durée :** instantanée
 - Classes: [Magicien](hd_wizard.md)
 - Source: (MDR p354)

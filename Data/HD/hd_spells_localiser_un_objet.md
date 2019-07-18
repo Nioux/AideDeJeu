@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle
 
-- **Composantes :** V, S, M (une branche fourchue)
+- **Composantes :** V, S, M (une branche fourchue)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

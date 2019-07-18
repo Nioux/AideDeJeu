@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
+- **Composantes :** V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

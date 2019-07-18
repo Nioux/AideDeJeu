@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un cil enrobé de gomme arabique)
+- **Composantes :** V, S, M (un cil enrobé de gomme arabique)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

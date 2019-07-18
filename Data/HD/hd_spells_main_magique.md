@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une coquille d'oeuf et un gant en peau de serpent)
+- **Composantes :** V, S, M (une coquille d'oeuf et un gant en peau de serpent)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

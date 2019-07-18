@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
+- **Composantes :** V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

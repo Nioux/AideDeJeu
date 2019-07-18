@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (deux magnétites)
+- **Composantes :** V, S, M (deux magnétites)</Components-->
 
 - **Durée :** instantanée
 

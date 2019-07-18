@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une pincée de graines de sésame)
+- **Composantes :** V, S, M (une pincée de graines de sésame)</Components-->
 
 - **Durée :** 1 heure
 

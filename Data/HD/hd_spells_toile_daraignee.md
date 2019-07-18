@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un bout de toile d'araignée)
+- **Composantes :** V, S, M (un bout de toile d'araignée)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

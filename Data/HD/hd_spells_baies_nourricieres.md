@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un brin de gui)
+- **Composantes :** V, S, M (un brin de gui)</Components-->
 
 - **Durée :** instantanée
 

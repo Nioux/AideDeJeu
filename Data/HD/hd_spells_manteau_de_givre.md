@@ -7,7 +7,7 @@
 -  Abjuration de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle
-- **Composantes :** V, S, M (un peu d'eau)
+- **Composantes :** V, S, M (un peu d'eau)</Components-->
 - **Durée :** 8 heures
 - Classes: [Sorcier](hd_warlock.md)
 - Source: (MDR p)

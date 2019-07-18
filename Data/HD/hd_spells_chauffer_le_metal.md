@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un bout de fer et une flamme)
+- **Composantes :** V, S, M (un bout de fer et une flamme)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

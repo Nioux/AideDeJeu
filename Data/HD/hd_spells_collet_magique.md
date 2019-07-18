@@ -7,7 +7,7 @@
 -  Invocation de niveau 2
 - **Temps d'incantation :** 1 action
 - **Portée :** 12 mètres
-- **Composantes :** V, S, M (une ficelle)
+- **Composantes :** V, S, M (une ficelle)</Components-->
 - **Durée :** 1 heure
 - Classes: [Rôdeur](hd_ranger.md)
 - Source: (MDR p336)

@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (de minuscules tartes et une plume à agiter dans les airs)
+- **Composantes :** V, S, M (de minuscules tartes et une plume à agiter dans les airs)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

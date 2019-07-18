@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une pincée de carotte séchée ou une agate)
+- **Composantes :** V, S, M (une pincée de carotte séchée ou une agate)</Components-->
 
 - **Durée :** 8 heures
 

@@ -7,7 +7,7 @@
 -  Enchantement de niveau 5
 - **Temps d'incantation :** 1 action
 - **Portée :** contact
-- **Composantes :** V, S, M (un arc)
+- **Composantes :** V, S, M (un arc)</Components-->
 - **Durée :** 1 minute
 - Classes: [Rôdeur](hd_ranger.md)
 - Source: (MDR p324)

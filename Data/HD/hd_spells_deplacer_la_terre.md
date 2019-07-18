@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)
+- **Composantes :** V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)</Components-->
 
 - **Durée :** concentration, jusqu'à 2 heures
 

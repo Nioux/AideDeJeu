@@ -7,7 +7,7 @@
 -  Nécromancie de niveau 3
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (un petit morceau de linceul)
+- **Composantes :** V, S, M (un petit morceau de linceul)</Components-->
 - **Durée :** 1 heure
 - Classes: [Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)
 - Source: (MDR p331)

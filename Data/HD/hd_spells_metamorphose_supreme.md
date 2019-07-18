@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
+- **Composantes :** V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

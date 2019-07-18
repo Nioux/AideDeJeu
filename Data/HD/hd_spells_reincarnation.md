@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
+- **Composantes :** V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)</Components-->
 
 - **Durée :** instantanée
 

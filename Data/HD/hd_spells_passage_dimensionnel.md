@@ -7,7 +7,7 @@
 -  Invocation de niveau 6
 - **Temps d'incantation :** 1 action
 - **Portée :** 150 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 10 minutes
 - Classes: [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p)

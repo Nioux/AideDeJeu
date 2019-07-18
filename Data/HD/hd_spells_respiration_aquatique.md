@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un petit roseau ou un brin de paille)
+- **Composantes :** V, S, M (un petit roseau ou un brin de paille)</Components-->
 
 - **Durée :** 24 heures
 

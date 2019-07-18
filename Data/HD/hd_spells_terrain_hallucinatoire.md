@@ -12,7 +12,7 @@
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (une pierre, une brindille et un bout de plante verte)
+- **Composantes :** V, S, M (une pierre, une brindille et un bout de plante verte)</Components-->
 
 - **Durée :** 24 heures
 

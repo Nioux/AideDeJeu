@@ -7,7 +7,7 @@
 -  Transmutation de niveau 3
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p)

@@ -7,7 +7,7 @@
 -  Invocation de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle
-- **Composantes :** V, S, M (morceau d'onyx)
+- **Composantes :** V, S, M (morceau d'onyx)</Components-->
 - **Durée :** instantanée
 - Classes: [Sorcier](hd_warlock.md)
 - Source: (MDR p355)

@@ -7,7 +7,7 @@
 -  Nécromancie de niveau 5
 - **Temps d'incantation :** 1 action
 - **Portée :** 9 mètres
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** instantanée
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p)

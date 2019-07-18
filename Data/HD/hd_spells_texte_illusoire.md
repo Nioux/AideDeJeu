@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
+- **Composantes :** S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)</Components-->
 
 - **Durée :** 10 jours
 

@@ -7,7 +7,7 @@
 -  Évocation de niveau 9
 - **Temps d'incantation :** 1 action
 - **Portée :** 12 mètres
-- **Composantes :** V, S, M (un verre en cristal d'une valeur de 500 po)
+- **Composantes :** V, S, M (un verre en cristal d'une valeur de 500 po)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md)
 - Source: (MDR p)

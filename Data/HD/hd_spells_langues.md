@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, M (un modèle réduit de ziggourat en argile)
+- **Composantes :** V, M (un modèle réduit de ziggourat en argile)</Components-->
 
 - **Durée :** 1 heure
 

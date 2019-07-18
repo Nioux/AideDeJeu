@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (rayon de 7,5 kilomètres)
 
-- **Composantes :** V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
+- **Composantes :** V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)</Components-->
 
 - **Durée :** concentration, jusqu'à 8 heures
 

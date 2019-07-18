@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
+- **Composantes :** V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation ou déclenchement
 

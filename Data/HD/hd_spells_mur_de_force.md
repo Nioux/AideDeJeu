@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une pincée de poudre de gemme translucide)
+- **Composantes :** V, S, M (une pincée de poudre de gemme translucide)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

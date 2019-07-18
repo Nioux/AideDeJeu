@@ -12,7 +12,7 @@
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S, M (une pincée de poussière et quelques gouttes d'eau)
+- **Composantes :** V, S, M (une pincée de poussière et quelques gouttes d'eau)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
+- **Composantes :** V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)</Components-->
 
 - **Durée :** instantanée
 

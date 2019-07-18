@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un peu de nourriture)
+- **Composantes :** V, S, M (un peu de nourriture)</Components-->
 
 - **Durée :** 24 heures
 

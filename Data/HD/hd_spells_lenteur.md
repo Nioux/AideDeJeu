@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (une goutte de mélasse)
+- **Composantes :** V, S, M (une goutte de mélasse)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

@@ -12,7 +12,7 @@
 
 - **Portée :** contact
 
-- **Composantes :** V, S, M (un morceau de gaze et une volute de fumée)
+- **Composantes :** V, S, M (un morceau de gaze et une volute de fumée)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un petit morceau de fer bien droit)
+- **Composantes :** V, S, M (un petit morceau de fer bien droit)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

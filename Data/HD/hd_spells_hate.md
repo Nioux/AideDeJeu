@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un copeau de racine de réglisse)
+- **Composantes :** V, S, M (un copeau de racine de réglisse)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

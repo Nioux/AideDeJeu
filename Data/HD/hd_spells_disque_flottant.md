@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (une goutte de mercure)
+- **Composantes :** V, S, M (une goutte de mercure)</Components-->
 
 - **Durée :** 1 heure
 

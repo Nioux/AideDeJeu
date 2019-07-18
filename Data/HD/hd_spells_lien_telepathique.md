@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
+- **Composantes :** V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)</Components-->
 
 - **Durée :** 1 heure
 

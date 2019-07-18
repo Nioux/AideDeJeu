@@ -7,7 +7,7 @@
 -  Enchantement, tour de magie
 - **Temps d'incantation :** 1 action
 - **Portée :** personnelle
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p326)

@@ -12,7 +12,7 @@
 
 - **Portée :** 27 mètres
 
-- **Composantes :** V, S, M (trois coquilles de noix)
+- **Composantes :** V, S, M (trois coquilles de noix)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

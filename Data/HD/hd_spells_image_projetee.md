@@ -12,7 +12,7 @@
 
 - **Portée :** 750 kilomètres
 
-- **Composantes :** V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
+- **Composantes :** V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 jour
 

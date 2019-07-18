@@ -7,7 +7,7 @@
 -  Évocation de niveau 1
 - **Temps d'incantation :** 1 action
 - **Portée :** 27 mètres
-- **Composantes :** V, S, M (une petite poire remplie d'air)
+- **Composantes :** V, S, M (une petite poire remplie d'air)</Components-->
 - **Durée :** instantanée
 - Classes: [Ensorceleur](hd_sorcerer.md)
 - Source: (MDR p359)

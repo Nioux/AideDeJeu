@@ -7,7 +7,7 @@
 -  Transmutation de niveau 2
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (une goutte d'eau)
+- **Composantes :** V, S, M (une goutte d'eau)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)
 - Source: (MDR p346)

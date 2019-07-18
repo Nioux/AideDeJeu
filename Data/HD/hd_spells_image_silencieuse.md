@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un morceau de toison)
+- **Composantes :** V, S, M (un morceau de toison)</Components-->
 
 - **Durée :** concentration, jusqu'à 10 minutes
 

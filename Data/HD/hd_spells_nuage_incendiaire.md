@@ -12,7 +12,7 @@
 
 - **Portée :** 45 mètres
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

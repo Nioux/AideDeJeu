@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un petit éventail et une plume exotique)
+- **Composantes :** V, S, M (un petit éventail et une plume exotique)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 

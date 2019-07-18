@@ -12,7 +12,7 @@
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
+- **Composantes :** V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)</Components-->
 
 - **Durée :** 24 heures
 

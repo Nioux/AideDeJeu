@@ -12,7 +12,7 @@
 
 - **Portée :** 9 mètres
 
-- **Composantes :** V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
+- **Composantes :** V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)</Components-->
 
 - **Durée :** jusqu'à dissipation
 

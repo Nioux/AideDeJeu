@@ -12,7 +12,7 @@
 
 - **Portée :** 36 mètres
 
-- **Composantes :** V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
+- **Composantes :** V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)</Components-->
 
 - **Durée :** jusqu'à dissipation
 

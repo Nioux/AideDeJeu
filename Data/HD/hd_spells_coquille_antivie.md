@@ -12,7 +12,7 @@
 
 - **Portée :** personnelle (3 mètres de rayon)
 
-- **Composantes :** V, S
+- **Composantes :** V, S</Components-->
 
 - **Durée :** concentration, jusqu'à 1 heure
 

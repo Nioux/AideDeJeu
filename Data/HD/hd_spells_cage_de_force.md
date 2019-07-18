@@ -12,7 +12,7 @@
 
 - **Portée :** 30 mètres
 
-- **Composantes :** V, S, M (poussière de rubis d'une valeur de 1 500 po)
+- **Composantes :** V, S, M (poussière de rubis d'une valeur de 1 500 po)</Components-->
 
 - **Durée :** 1 heure
 

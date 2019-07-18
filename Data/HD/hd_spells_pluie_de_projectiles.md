@@ -7,8 +7,8 @@
 -  Invocation de niveau 3
 - **Temps d'incantation :** 1 action bonus
 - **Portée :** selon l'arme utilisée
-- **Composantes :** V, S, M (un projectile)
-- **Durée :** instantané
+- **Composantes :** V, S, M (un projectile)</Components-->
+- **Durée :** instantanée
 - Classes: [Rôdeur](hd_ranger.md)
 - Source: (MDR p)
 

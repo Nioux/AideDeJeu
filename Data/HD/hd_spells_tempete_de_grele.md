@@ -12,7 +12,7 @@
 
 - **Portée :** 90 mètres
 
-- **Composantes :** V, S, M (une pincée de poussière et quelques gouttes d'eau)
+- **Composantes :** V, S, M (une pincée de poussière et quelques gouttes d'eau)</Components-->
 
 - **Durée :** instantanée
 

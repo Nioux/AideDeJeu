@@ -7,7 +7,7 @@
 -  Illusion de niveau 2
 - **Temps d'incantation :** 1 action
 - **Portée :** 18 mètres
-- **Composantes :** V, S, M (un morceau de charbon)
+- **Composantes :** V, S, M (un morceau de charbon)</Components-->
 - **Durée :** concentration, jusqu'à 1 minute
 - Classes: [Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)
 - Source: (MDR p)

@@ -12,7 +12,7 @@
 
 - **Portée :** 18 mètres
 
-- **Composantes :** V, S, M (un bout de ficelle et un morceau de bois)
+- **Composantes :** V, S, M (un bout de ficelle et un morceau de bois)</Components-->
 
 - **Durée :** 1 heure
 

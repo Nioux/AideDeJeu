@@ -12,7 +12,7 @@
 
 - **Portée :** 150 mètres
 
-- **Composantes :** V, S, M (une pincée de poussière, un caillou et un peu d'argile)
+- **Composantes :** V, S, M (une pincée de poussière, un caillou et un peu d'argile)</Components-->
 
 - **Durée :** concentration, jusqu'à 1 minute
 
