@@ -6,7 +6,8 @@ Schools: Abjuration|Divination|Enchantement|Évocation|Illusion|Invocation|Nécr
 Rituals: Rituel
 CastingTimes: 1 réaction|1 action bonus|1 action|1 minute|10 minutes|1 heure|8 heures|12 heures|24 heures
 Ranges: personnel|contact|vision|selon l'arme utilisée|spéciale|1,5 mètre|3 mètres|4,50 mètres|9 mètres|12 mètres|18 mètres|27 mètres|30 mètres|36 mètres|45 mètres|90 mètres|150 mètres|450 mètres|1 kilomètre|1,5 kilomètre|7,5 kilomètres|750 kilomètres|illimitée
-Durations: concentration, jusqu'à 1 round|concentration, jusqu'à 1 minute|concentration, jusqu'à 10 minutes|concentration, jusqu'à 1 heure|concentration, jusqu'à 2 heures|concentration, jusqu'à 8 heures|concentration, jusqu'à 24 heures|concentration, jusqu'à 1 jour|instantané|instantanée|1 round|1 minute|jusqu'à 1 minute|10 minutes|1 heure|jusqu'à 1 heure|8 heures|jusqu'à 8 heures|24 heures|1 jour|7 jours|10 jours|30 jours|jusqu'à dissipation|jusqu'à dissipation ou déclenchement|spéciale
+Concentrations: concentration
+Durations: jusqu'à 1 round|jusqu'à 1 minute|jusqu'à 10 minutes|jusqu'à 1 heure|jusqu'à 2 heures|jusqu'à 8 heures|jusqu'à 24 heures|jusqu'à 1 jour|instantané|1 round|1 minute|10 minutes|1 heure|8 heures|24 heures|1 jour|7 jours|10 jours|30 jours|jusqu'à dissipation|jusqu'à dissipation ou déclenchement|spéciale
 Sources: SRD|MDR
 Family: SpellHD
 SubItems:
@@ -17,7 +18,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (une pincée de limaille de fer)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#agrandirrétrécir
   ParentLink: spells_hd.md#sorts
@@ -67,7 +69,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -125,7 +127,9 @@ SubItems:
 
     Components: V, S, M (une pincée de limaille de fer)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -663,7 +667,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (des poils ou des plumes venant d'un animal)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
   Id: spells_hd.md#amélioration-de-caractéristique
   ParentLink: spells_hd.md#sorts
@@ -713,7 +718,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -795,7 +800,9 @@ SubItems:
 
     Components: V, S, M (des poils ou des plumes venant d'un animal)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
 
@@ -1179,7 +1186,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#animation-des-objets
   ParentLink: spells_hd.md#sorts
@@ -1229,7 +1237,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -1335,7 +1343,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -1456,7 +1466,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
   Id: spells_hd.md#apaisement-des-émotions
   ParentLink: spells_hd.md#sorts
@@ -1506,7 +1517,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -1558,7 +1569,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
 
@@ -1990,7 +2003,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#appel-de-la-foudre
   ParentLink: spells_hd.md#sorts
@@ -2040,7 +2054,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -2098,7 +2112,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Druide](hd_druid.md)'
 
@@ -2268,7 +2284,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: contact
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#arme-magique
   ParentLink: spells_hd.md#sorts
@@ -2318,7 +2335,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -2364,7 +2381,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Magicien](hd_wizard.md), [Paladin](hd_paladin.md)'
 
@@ -2395,7 +2414,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#arme-sainte
   ParentLink: spells_hd.md#sorts
@@ -2430,7 +2450,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -2470,7 +2490,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -3039,7 +3061,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#assassin-imaginaire
   ParentLink: spells_hd.md#sorts
@@ -3089,7 +3112,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -3147,7 +3170,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Magicien](hd_wizard.md)'
 
@@ -3196,7 +3221,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#assistance
   ParentLink: spells_hd.md#sorts
@@ -3246,7 +3272,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -3286,7 +3312,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
 
@@ -3510,7 +3538,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V
-  Duration: Concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#aura-de-force
   ParentLink: spells_hd.md#sorts
@@ -3545,7 +3574,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->Concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -3579,7 +3608,9 @@ SubItems:
 
     Components: V
 
-    Duration: Concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -3601,7 +3632,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#aura-du-héros
   ParentLink: spells_hd.md#sorts
@@ -3636,7 +3668,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -3676,7 +3708,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
 
@@ -3864,7 +3898,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#aura-sacrée
   ParentLink: spells_hd.md#sorts
@@ -3914,7 +3949,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -3960,7 +3995,9 @@ SubItems:
 
     Components: V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Clerc](hd_cleric.md)'
 
@@ -4372,7 +4409,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un objet qui répugne à la cible)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#bannissement
   ParentLink: spells_hd.md#sorts
@@ -4422,7 +4460,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -4492,7 +4530,9 @@ SubItems:
 
     Components: V, S, M (un objet qui répugne à la cible)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
 
@@ -4559,7 +4599,8 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#barrière-de-lames
   ParentLink: spells_hd.md#sorts
@@ -4609,7 +4650,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -4655,7 +4696,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Clerc](hd_cleric.md)'
 
@@ -4686,7 +4729,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un peu d'eau bénite à asperger)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#bénédiction
   ParentLink: spells_hd.md#sorts
@@ -4736,7 +4780,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -4782,7 +4826,9 @@ SubItems:
 
     Components: V, S, M (un peu d'eau bénite à asperger)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
 
@@ -4813,7 +4859,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#bénédiction-héroïque
   ParentLink: spells_hd.md#sorts
@@ -4848,7 +4895,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -4882,7 +4929,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -5445,7 +5494,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: 18 mètres
   Components: V, S, M (un petit parchemin avec un extrait de texte sacré)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#bouclier-de-la-foi
   ParentLink: spells_hd.md#sorts
@@ -5495,7 +5545,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -5535,7 +5585,9 @@ SubItems:
 
     Components: V, S, M (un petit parchemin avec un extrait de texte sacré)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
 
@@ -5826,7 +5878,8 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#boule-de-feu-à-explosion-retardée
   ParentLink: spells_hd.md#sorts
@@ -5876,7 +5929,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -5946,7 +5999,9 @@ SubItems:
 
     Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -6013,7 +6068,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (ligne de 18 mètres)
   Components: V, S, M (une graine de légume)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#bourrasque
   ParentLink: spells_hd.md#sorts
@@ -6063,7 +6119,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -6121,7 +6177,9 @@ SubItems:
 
     Components: V, S, M (une graine de légume)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -6327,7 +6385,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#brûlure-du-juste
   ParentLink: spells_hd.md#sorts
@@ -6362,7 +6421,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -6420,7 +6479,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -6665,7 +6726,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#caresse-du-vampire
   ParentLink: spells_hd.md#sorts
@@ -6715,7 +6777,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -6761,7 +6823,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -7773,7 +7837,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (sphère de 3 mètres de rayon)
   Components: V, S, M (une pincée de poudre de fer ou de limaille)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#champ-antimagie
   ParentLink: spells_hd.md#sorts
@@ -7823,7 +7888,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -7917,7 +7982,9 @@ SubItems:
 
     Components: V, S, M (une pincée de poudre de fer ou de limaille)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
 
@@ -8020,7 +8087,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#changement-de-forme
   ParentLink: spells_hd.md#sorts
@@ -8070,7 +8138,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -8152,7 +8220,9 @@ SubItems:
 
     Components: V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
 
@@ -8521,7 +8591,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un bout de fer et une flamme)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#chauffer-le-métal
   ParentLink: spells_hd.md#sorts
@@ -8571,7 +8642,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -8635,7 +8706,9 @@ SubItems:
 
     Components: V, S, M (un bout de fer et une flamme)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md)'
 
@@ -8926,7 +8999,8 @@ SubItems:
   CastingTime: 10 minutes
   Range: 1,5 kilomètre
   Components: V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#clairvoyance
   ParentLink: spells_hd.md#sorts
@@ -8976,7 +9050,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -9034,7 +9108,9 @@ SubItems:
 
     Components: V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -9681,7 +9757,8 @@ SubItems:
   CastingTime: 1 action
   Range: 30 mètres
   Components: V, S, M (un peu de cendre et de poussière d'os)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Sorcier](hd_warlock.md)'
   Id: spells_hd.md#colère-des-damnés
   ParentLink: spells_hd.md#sorts
@@ -9716,7 +9793,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -9756,7 +9833,9 @@ SubItems:
 
     Components: V, S, M (un peu de cendre et de poussière d'os)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Sorcier](hd_warlock.md)'
 
@@ -11260,7 +11339,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#compulsion
   ParentLink: spells_hd.md#sorts
@@ -11310,7 +11390,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -11356,7 +11436,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -11529,7 +11611,8 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (trois coquilles de noix)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#confusion
   ParentLink: spells_hd.md#sorts
@@ -11579,7 +11662,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -11669,7 +11752,9 @@ SubItems:
 
     Components: V, S, M (trois coquilles de noix)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -12756,7 +12841,8 @@ SubItems:
   CastingTime: 1 action
   Range: 90 mètres
   Components: V, S, M (une goutte d'eau et une pincée de poussière)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#contrôle-de-leau
   ParentLink: spells_hd.md#sorts
@@ -12806,7 +12892,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -12888,7 +12974,9 @@ SubItems:
 
     Components: V, S, M (une goutte d'eau et une pincée de poussière)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
 
@@ -12973,7 +13061,8 @@ SubItems:
   CastingTime: 10 minutes
   Range: personnelle (rayon de 7,5 kilomètres)
   Components: V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
-  Duration: concentration, jusqu'à 8 heures
+  Concentration: concentration
+  Duration: jusqu'à 8 heures
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#contrôle-du-climat
   ParentLink: spells_hd.md#sorts
@@ -13023,7 +13112,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 8 heures<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 8 heures<!--/Duration-->
 
 
 
@@ -13193,7 +13282,9 @@ SubItems:
 
     Components: V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
 
-    Duration: concentration, jusqu'à 8 heures
+    Concentration: concentration
+
+    Duration: jusqu'à 8 heures
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md)'
 
@@ -13585,7 +13676,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (3 mètres de rayon)
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#coquille-antivie
   ParentLink: spells_hd.md#sorts
@@ -13635,7 +13727,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -13687,7 +13779,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md)'
 
@@ -14774,7 +14868,8 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#croissance-dépines
   ParentLink: spells_hd.md#sorts
@@ -14824,7 +14919,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -14870,7 +14965,9 @@ SubItems:
 
     Components: V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
 
@@ -15073,7 +15170,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#danse-irrésistible
   ParentLink: spells_hd.md#sorts
@@ -15123,7 +15221,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -15175,7 +15273,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
 
@@ -15626,7 +15726,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: "V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)"
-  Duration: concentration, jusqu'à 2 heures
+  Concentration: concentration
+  Duration: jusqu'à 2 heures
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#déplacer-la-terre
   ParentLink: spells_hd.md#sorts
@@ -15676,7 +15777,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 2 heures<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 2 heures<!--/Duration-->
 
 
 
@@ -15734,7 +15835,9 @@ SubItems:
 
     Components: "V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)"
 
-    Duration: concentration, jusqu'à 2 heures
+    Concentration: concentration
+
+    Duration: jusqu'à 2 heures
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -15955,7 +16058,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une goutte d'eau)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#dessiccation
   ParentLink: spells_hd.md#sorts
@@ -15990,7 +16094,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -16036,7 +16140,9 @@ SubItems:
 
     Components: V, S, M (une goutte d'eau)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -16077,7 +16183,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#détection-de-la-magie
   ParentLink: spells_hd.md#sorts
@@ -16127,7 +16234,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -16175,7 +16282,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
 
@@ -16206,7 +16315,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (une pièce de cuivre)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#détection-des-pensées
   ParentLink: spells_hd.md#sorts
@@ -16256,7 +16366,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -16344,7 +16454,9 @@ SubItems:
 
     Components: V, S, M (une pièce de cuivre)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -16438,7 +16550,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#détection-du-mal-et-du-bien
   ParentLink: spells_hd.md#sorts
@@ -16488,7 +16601,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -16534,7 +16647,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
 
@@ -16566,7 +16681,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (un brin d'if)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#détection-du-poison-et-des-maladies
   ParentLink: spells_hd.md#sorts
@@ -16616,7 +16732,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -16664,7 +16780,9 @@ SubItems:
 
     Components: V, S, M (un brin d'if)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
 
@@ -16982,7 +17100,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (eau bénite ou poudre d'argent et de fer)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#dissipation-du-mal-et-du-bien
   ParentLink: spells_hd.md#sorts
@@ -17032,7 +17151,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -17090,7 +17209,9 @@ SubItems:
 
     Components: V, S, M (eau bénite ou poudre d'argent et de fer)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Clerc](hd_cleric.md), [Paladin](hd_paladin.md)'
 
@@ -17411,7 +17532,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#dominer-un-humanoïde
   ParentLink: spells_hd.md#sorts
@@ -17461,7 +17583,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -17543,7 +17665,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -17628,7 +17752,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#dominer-un-monstre
   ParentLink: spells_hd.md#sorts
@@ -17678,7 +17803,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -17754,7 +17879,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -17830,7 +17957,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
   Id: spells_hd.md#dominer-une-bête
   ParentLink: spells_hd.md#sorts
@@ -17880,7 +18008,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -17956,7 +18084,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
 
@@ -19278,7 +19408,8 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#enchevêtrement
   ParentLink: spells_hd.md#sorts
@@ -19328,7 +19459,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -19380,7 +19511,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md)'
 
@@ -19913,7 +20046,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#Épée-du-juste
   ParentLink: spells_hd.md#sorts
@@ -19948,7 +20082,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -19982,7 +20116,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -20004,7 +20140,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#Épée-magique
   ParentLink: spells_hd.md#sorts
@@ -20054,7 +20191,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -20100,7 +20237,9 @@ SubItems:
 
     Components: V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
 
@@ -20385,7 +20524,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (4,50 mètres de rayon)
   Components: V, S M (un symbole sacré)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#esprits-gardiens
   ParentLink: spells_hd.md#sorts
@@ -20435,7 +20575,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -20493,7 +20633,9 @@ SubItems:
 
     Components: V, S M (un symbole sacré)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Clerc](hd_cleric.md)'
 
@@ -20542,7 +20684,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#Étrangeté
   ParentLink: spells_hd.md#sorts
@@ -20592,7 +20735,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -20632,7 +20775,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Magicien](hd_wizard.md)'
 
@@ -20887,7 +21032,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#expiation-du-juste
   ParentLink: spells_hd.md#sorts
@@ -20922,7 +21068,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -20956,7 +21102,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -21359,7 +21507,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#faveur-divine
   ParentLink: spells_hd.md#sorts
@@ -21409,7 +21558,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -21455,7 +21604,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -22003,7 +22154,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (une goutte de sang)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
   Id: spells_hd.md#fléau
   ParentLink: spells_hd.md#sorts
@@ -22053,7 +22205,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -22105,7 +22257,9 @@ SubItems:
 
     Components: V, S, M (une goutte de sang)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md)'
 
@@ -22145,7 +22299,8 @@ SubItems:
   CastingTime: 1 action
   Range: 90 mètres
   Components: V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
   Id: spells_hd.md#fléau-dinsectes
   ParentLink: spells_hd.md#sorts
@@ -22195,7 +22350,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -22253,7 +22408,9 @@ SubItems:
 
     Components: V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
 
@@ -22571,7 +22728,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#flou
   ParentLink: spells_hd.md#sorts
@@ -22621,7 +22779,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -22661,7 +22819,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -22870,7 +23030,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un morceau de gaze et une volute de fumée)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#forme-gazeuse
   ParentLink: spells_hd.md#sorts
@@ -22920,7 +23081,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -22978,7 +23139,9 @@ SubItems:
 
     Components: V, S, M (un morceau de gaze et une volute de fumée)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
 
@@ -23027,7 +23190,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 24 heures
+  Concentration: concentration
+  Duration: jusqu'à 24 heures
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#formes-animales
   ParentLink: spells_hd.md#sorts
@@ -23077,7 +23241,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 24 heures<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 24 heures<!--/Duration-->
 
 
 
@@ -23129,7 +23293,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 24 heures
+    Concentration: concentration
+
+    Duration: jusqu'à 24 heures
 
     Classes: '[Druide](hd_druid.md)'
 
@@ -23169,7 +23335,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (de minuscules tartes et une plume à agiter dans les airs)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#fou-rire
   ParentLink: spells_hd.md#sorts
@@ -23219,7 +23386,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -23265,7 +23432,9 @@ SubItems:
 
     Components: V, S, M (de minuscules tartes et une plume à agiter dans les airs)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
 
@@ -23296,7 +23465,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#frappe-du-juste
   ParentLink: spells_hd.md#sorts
@@ -23331,7 +23501,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -23395,7 +23565,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -23462,7 +23634,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#frappe-lumineuse
   ParentLink: spells_hd.md#sorts
@@ -23512,7 +23685,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -23558,7 +23731,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -23997,7 +24172,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (3 mètres de rayon)
   Components: V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#globe-dinvulnérabilité
   ParentLink: spells_hd.md#sorts
@@ -24047,7 +24223,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -24099,7 +24275,9 @@ SubItems:
 
     Components: V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -24991,7 +25169,8 @@ SubItems:
   CastingTime: 1 action
   Range: 12 mètres
   Components: V, S, M (un verre en cristal d'une valeur de 500 po)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md)'
   Id: spells_hd.md#harmonique-miraculeuse
   ParentLink: spells_hd.md#sorts
@@ -25026,7 +25205,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -25066,7 +25245,9 @@ SubItems:
 
     Components: V, S, M (un verre en cristal d'une valeur de 500 po)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md)'
 
@@ -25097,7 +25278,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un copeau de racine de réglisse)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#hâte
   ParentLink: spells_hd.md#sorts
@@ -25147,7 +25329,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -25193,7 +25375,9 @@ SubItems:
 
     Components: V, S, M (un copeau de racine de réglisse)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -25224,7 +25408,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Paladin](hd_paladin.md)'
   Id: spells_hd.md#héroïsme
   ParentLink: spells_hd.md#sorts
@@ -25274,7 +25459,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -25320,7 +25505,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Paladin](hd_paladin.md)'
 
@@ -25795,7 +25982,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un morceau de toison)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#image-majeure
   ParentLink: spells_hd.md#sorts
@@ -25845,7 +26033,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -25903,7 +26091,9 @@ SubItems:
 
     Components: V, S, M (un morceau de toison)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
 
@@ -26154,7 +26344,8 @@ SubItems:
   CastingTime: 1 action
   Range: 750 kilomètres
   Components: V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
-  Duration: concentration, jusqu'à 1 jour
+  Concentration: concentration
+  Duration: jusqu'à 1 jour
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#image-projetée
   ParentLink: spells_hd.md#sorts
@@ -26204,7 +26395,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 jour<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 jour<!--/Duration-->
 
 
 
@@ -26262,7 +26453,9 @@ SubItems:
 
     Components: V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
 
-    Duration: concentration, jusqu'à 1 jour
+    Concentration: concentration
+
+    Duration: jusqu'à 1 jour
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
 
@@ -26311,7 +26504,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un morceau de toison)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#image-silencieuse
   ParentLink: spells_hd.md#sorts
@@ -26361,7 +26555,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -26413,7 +26607,9 @@ SubItems:
 
     Components: V, S, M (un morceau de toison)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -26453,7 +26649,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un petit morceau de fer bien droit)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#immobiliser-un-humanoïde
   ParentLink: spells_hd.md#sorts
@@ -26503,7 +26700,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -26549,7 +26746,9 @@ SubItems:
 
     Components: V, S, M (un petit morceau de fer bien droit)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -26580,7 +26779,8 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (un petit morceau de fer bien droit)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#immobiliser-un-monstre
   ParentLink: spells_hd.md#sorts
@@ -26630,7 +26830,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -26682,7 +26882,9 @@ SubItems:
 
     Components: V, S, M (un petit morceau de fer bien droit)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -26939,7 +27141,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#insecte-géant
   ParentLink: spells_hd.md#sorts
@@ -26989,7 +27192,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -27053,7 +27256,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Druide](hd_druid.md)'
 
@@ -27111,7 +27316,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un archet et un morceau d'os)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md)'
   Id: spells_hd.md#instrument-fantomatique
   ParentLink: spells_hd.md#sorts
@@ -27146,7 +27352,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -27192,7 +27398,9 @@ SubItems:
 
     Components: V, S, M (un archet et un morceau d'os)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md)'
 
@@ -27422,7 +27630,8 @@ SubItems:
   CastingTime: 1 action
   Range: 30 mètres
   Components: V, S, M (de la magnétite et de la limaille de fer)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#inversion-de-la-gravité
   ParentLink: spells_hd.md#sorts
@@ -27472,7 +27681,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -27524,7 +27733,9 @@ SubItems:
 
     Components: V, S, M (de la magnétite et de la limaille de fer)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -27564,7 +27775,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (un cil enrobé de gomme arabique)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#invisibilité
   ParentLink: spells_hd.md#sorts
@@ -27614,7 +27826,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -27660,7 +27872,9 @@ SubItems:
 
     Components: V, S, M (un cil enrobé de gomme arabique)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
 
@@ -27691,7 +27905,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#invisibilité-supérieure
   ParentLink: spells_hd.md#sorts
@@ -27741,7 +27956,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -27781,7 +27996,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -27803,7 +28020,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#invoquer-des-animaux
   ParentLink: spells_hd.md#sorts
@@ -27853,7 +28071,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -27947,7 +28165,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
 
@@ -28050,7 +28270,8 @@ SubItems:
   CastingTime: 1 minute
   Range: 27 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#invoquer-des-élémentaires-mineurs
   ParentLink: spells_hd.md#sorts
@@ -28100,7 +28321,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -28188,7 +28409,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
 
@@ -28282,7 +28505,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une baie de houx par créature invoquée)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#invoquer-des-êtres-des-bois
   ParentLink: spells_hd.md#sorts
@@ -28332,7 +28556,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -28420,7 +28644,9 @@ SubItems:
 
     Components: V, S, M (une baie de houx par créature invoquée)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
 
@@ -28514,7 +28740,8 @@ SubItems:
   CastingTime: 1 minute
   Range: 27 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#invoquer-un-céleste
   ParentLink: spells_hd.md#sorts
@@ -28564,7 +28791,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -28634,7 +28861,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Clerc](hd_cleric.md)'
 
@@ -28701,7 +28930,8 @@ SubItems:
   CastingTime: 1 minute
   Range: 27 mètres
   Components: V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#invoquer-un-élémentaire
   ParentLink: spells_hd.md#sorts
@@ -28751,7 +28981,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -28821,7 +29051,9 @@ SubItems:
 
     Components: V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
 
@@ -28888,7 +29120,8 @@ SubItems:
   CastingTime: 1 minute
   Range: 27 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#invoquer-une-fée
   ParentLink: spells_hd.md#sorts
@@ -28938,7 +29171,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -29002,7 +29235,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md), [Sorcier](hd_warlock.md)'
 
@@ -29060,7 +29295,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#jeter-une-malédiction
   ParentLink: spells_hd.md#sorts
@@ -29110,7 +29346,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -29192,7 +29428,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Magicien](hd_wizard.md)'
 
@@ -29368,7 +29606,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#labyrinthe
   ParentLink: spells_hd.md#sorts
@@ -29418,7 +29657,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -29482,7 +29721,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Magicien](hd_wizard.md)'
 
@@ -29540,7 +29781,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V, S, M (feuille de sumac)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#lame-de-feu
   ParentLink: spells_hd.md#sorts
@@ -29590,7 +29832,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -29648,7 +29890,9 @@ SubItems:
 
     Components: V, S, M (feuille de sumac)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Druide](hd_druid.md)'
 
@@ -29697,7 +29941,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#lance-du-juste
   ParentLink: spells_hd.md#sorts
@@ -29732,7 +29977,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -29772,7 +30017,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -30199,7 +30446,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (une goutte de mélasse)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#lenteur
   ParentLink: spells_hd.md#sorts
@@ -30249,7 +30497,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -30313,7 +30561,9 @@ SubItems:
 
     Components: V, S, M (une goutte de mélasse)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -30483,7 +30733,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#lévitation
   ParentLink: spells_hd.md#sorts
@@ -30533,7 +30784,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -30591,7 +30842,9 @@ SubItems:
 
     Components: V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -30640,7 +30893,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#liane-chasseresse
   ParentLink: spells_hd.md#sorts
@@ -30675,7 +30929,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -30721,7 +30975,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
 
@@ -31290,7 +31546,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (une branche fourchue)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#localiser-un-objet
   ParentLink: spells_hd.md#sorts
@@ -31340,7 +31597,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -31398,7 +31655,9 @@ SubItems:
 
     Components: V, S, M (une branche fourchue)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
 
@@ -31447,7 +31706,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (des poils de chien de chasse)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#localiser-une-créature
   ParentLink: spells_hd.md#sorts
@@ -31497,7 +31757,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -31555,7 +31815,9 @@ SubItems:
 
     Components: V, S, M (des poils de chien de chasse)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Rôdeur](hd_ranger.md)'
 
@@ -31604,7 +31866,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md)'
   Id: spells_hd.md#lueur-despoir
   ParentLink: spells_hd.md#sorts
@@ -31654,7 +31917,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -31700,7 +31963,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Clerc](hd_cleric.md)'
 
@@ -31731,7 +31996,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#lueurs-féeriques
   ParentLink: spells_hd.md#sorts
@@ -31781,7 +32047,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -31827,7 +32093,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -32157,7 +32425,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#lumières-dansantes
   ParentLink: spells_hd.md#sorts
@@ -32207,7 +32476,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -32271,7 +32540,9 @@ SubItems:
 
     Components: V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -32471,7 +32742,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (une coquille d'oeuf et un gant en peau de serpent)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#main-magique
   ParentLink: spells_hd.md#sorts
@@ -32521,7 +32793,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -32615,7 +32887,9 @@ SubItems:
 
     Components: V, S, M (une coquille d'oeuf et un gant en peau de serpent)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Magicien](hd_wizard.md)'
 
@@ -33440,7 +33714,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: 27 mètres
   Components: V
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#marque-du-chasseur
   ParentLink: spells_hd.md#sorts
@@ -33490,7 +33765,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -33536,7 +33811,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Rôdeur](hd_ranger.md)'
 
@@ -33567,7 +33844,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#mauvais-oeil
   ParentLink: spells_hd.md#sorts
@@ -33617,7 +33895,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -33675,7 +33953,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -34026,7 +34306,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un cocon de chenille)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#métamorphose
   ParentLink: spells_hd.md#sorts
@@ -34076,7 +34357,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -34140,7 +34421,9 @@ SubItems:
 
     Components: V, S, M (un cocon de chenille)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Barde](hd_bard.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -34198,7 +34481,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#métamorphose-suprême
   ParentLink: spells_hd.md#sorts
@@ -34248,7 +34532,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -34366,7 +34650,9 @@ SubItems:
 
     Components: V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -34647,7 +34933,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
-  Duration: "concentration, jusqu'à 1 minute "
+  Concentration: concentration
+  Duration: "jusqu'à 1 minute "
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#modification-de-mémoire
   ParentLink: spells_hd.md#sorts
@@ -34697,7 +34984,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute <!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute <!--/Duration-->
 
 
 
@@ -34767,7 +35054,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: "concentration, jusqu'à 1 minute "
+    Concentration: concentration
+
+    Duration: "jusqu'à 1 minute "
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
 
@@ -34834,7 +35123,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#modifier-son-apparence
   ParentLink: spells_hd.md#sorts
@@ -34884,7 +35174,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -34942,7 +35232,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -35883,7 +36175,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#motif-hypnotique
   ParentLink: spells_hd.md#sorts
@@ -35933,7 +36226,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -35985,7 +36278,9 @@ SubItems:
 
     Components: S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
 
@@ -36025,7 +36320,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (une poignée d'épines)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#mur-dépines
   ParentLink: spells_hd.md#sorts
@@ -36075,7 +36371,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -36139,7 +36435,9 @@ SubItems:
 
     Components: V, S, M (une poignée d'épines)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Druide](hd_druid.md)'
 
@@ -36197,7 +36495,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un éclat de phosphore)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#mur-de-feu
   ParentLink: spells_hd.md#sorts
@@ -36247,7 +36546,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -36311,7 +36610,9 @@ SubItems:
 
     Components: V, S, M (un éclat de phosphore)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -36369,7 +36670,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (une pincée de poudre de gemme translucide)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#mur-de-force
   ParentLink: spells_hd.md#sorts
@@ -36419,7 +36721,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -36465,7 +36767,9 @@ SubItems:
 
     Components: V, S, M (une pincée de poudre de gemme translucide)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Magicien](hd_wizard.md)'
 
@@ -36496,7 +36800,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un éclat de quartz)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#mur-de-glace
   ParentLink: spells_hd.md#sorts
@@ -36546,7 +36851,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -36604,7 +36909,9 @@ SubItems:
 
     Components: V, S, M (un éclat de quartz)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Magicien](hd_wizard.md)'
 
@@ -36653,7 +36960,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un petit bloc de granite)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#mur-de-pierre
   ParentLink: spells_hd.md#sorts
@@ -36703,7 +37011,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -36773,7 +37081,9 @@ SubItems:
 
     Components: V, S, M (un petit bloc de granite)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -36840,7 +37150,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (un petit éventail et une plume exotique)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#mur-de-vent
   ParentLink: spells_hd.md#sorts
@@ -36890,7 +37201,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -36942,7 +37253,9 @@ SubItems:
 
     Components: V, S, M (un petit éventail et une plume exotique)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
 
@@ -37289,7 +37602,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#nappe-de-brouillard
   ParentLink: spells_hd.md#sorts
@@ -37339,7 +37653,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -37385,7 +37699,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
 
@@ -37416,7 +37732,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Paladin](hd_paladin.md)'
   Id: spells_hd.md#nimbe-de-bienfaisance
   ParentLink: spells_hd.md#sorts
@@ -37451,7 +37768,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -37491,7 +37808,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Paladin](hd_paladin.md)'
 
@@ -37649,7 +37968,8 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#nuage-incendiaire
   ParentLink: spells_hd.md#sorts
@@ -37699,7 +38019,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -37757,7 +38077,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -37806,7 +38128,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#nuage-mortel
   ParentLink: spells_hd.md#sorts
@@ -37856,7 +38179,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -37920,7 +38243,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -37978,7 +38303,8 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (un oeuf pourri ou des feuilles de chou pourri)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#nuage-puant
   ParentLink: spells_hd.md#sorts
@@ -38028,7 +38354,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -38080,7 +38406,9 @@ SubItems:
 
     Components: V, S, M (un oeuf pourri ou des feuilles de chou pourri)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -38353,7 +38681,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (des poils de chauve-souris)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#oeil-magique
   ParentLink: spells_hd.md#sorts
@@ -38403,7 +38732,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -38449,7 +38778,9 @@ SubItems:
 
     Components: V, S, M (des poils de chauve-souris)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -38480,7 +38811,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#offrande-inéluctable
   ParentLink: spells_hd.md#sorts
@@ -38515,7 +38847,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -38555,7 +38887,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -38586,7 +38920,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un morceau de charbon)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#ombres-imaginaires
   ParentLink: spells_hd.md#sorts
@@ -38621,7 +38956,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -38661,7 +38996,9 @@ SubItems:
 
     Components: V, S, M (un morceau de charbon)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -39097,7 +39434,8 @@ SubItems:
   CastingTime: 1 action
   Range: 150 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#passage-dimensionnel
   ParentLink: spells_hd.md#sorts
@@ -39132,7 +39470,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -39196,7 +39534,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -39263,7 +39603,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#passage-par-les-arbres
   ParentLink: spells_hd.md#sorts
@@ -39313,7 +39654,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -39359,7 +39700,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
 
@@ -39390,7 +39733,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#passage-sans-trace
   ParentLink: spells_hd.md#sorts
@@ -39440,7 +39784,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -39492,7 +39836,9 @@ SubItems:
 
     Components: V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
 
@@ -39659,7 +40005,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une goutte de bitume et une araignée)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#pattes-daraignée
   ParentLink: spells_hd.md#sorts
@@ -39709,7 +40056,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -39749,7 +40096,9 @@ SubItems:
 
     Components: V, S, M (une goutte de bitume et une araignée)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
 
@@ -39771,7 +40120,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une poignée d'écorce de chêne)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#peau-décorce
   ParentLink: spells_hd.md#sorts
@@ -39821,7 +40171,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -39861,7 +40211,9 @@ SubItems:
 
     Components: V, S, M (une poignée d'écorce de chêne)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md), [Rôdeur](hd_ranger.md)'
 
@@ -39883,7 +40235,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#peau-de-pierre
   ParentLink: spells_hd.md#sorts
@@ -39933,7 +40286,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -39973,7 +40326,9 @@ SubItems:
 
     Components: V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Rôdeur](hd_ranger.md)'
 
@@ -40140,7 +40495,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (une pincée de chaux, de l'eau et de la terre)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#pétrification
   ParentLink: spells_hd.md#sorts
@@ -40190,7 +40546,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -40248,7 +40604,9 @@ SubItems:
 
     Components: V, S, M (une pincée de chaux, de l'eau et de la terre)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -40297,7 +40655,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (cône de 9 mètres)
   Components: V, S, M (une plume blanche ou un coeur de poule)
-  Duration: concentration, jusqu'à 1 minute.
+  Concentration: concentration
+  Duration: jusqu'à 1 minute.
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#peur
   ParentLink: spells_hd.md#sorts
@@ -40347,7 +40706,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute.<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute.<!--/Duration-->
 
 
 
@@ -40393,7 +40752,9 @@ SubItems:
 
     Components: V, S, M (une plume blanche ou un coeur de poule)
 
-    Duration: concentration, jusqu'à 1 minute.
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute.
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -40657,7 +41018,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#poison-naturel
   ParentLink: spells_hd.md#sorts
@@ -40692,7 +41054,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -40732,7 +41094,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Ombrelame](hd_rogue_ombrelame.md), [Rôdeur](hd_ranger.md)'
 
@@ -40763,7 +41127,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un diamant d'une valeur minimale de 5 000 po)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#portail
   ParentLink: spells_hd.md#sorts
@@ -40813,7 +41178,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -40871,7 +41236,9 @@ SubItems:
 
     Components: V, S, M (un diamant d'une valeur minimale de 5 000 po)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Clerc](hd_cleric.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -42650,7 +43017,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#protection-contre-le-mal-et-le-bien
   ParentLink: spells_hd.md#sorts
@@ -42700,7 +43068,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -42752,7 +43120,9 @@ SubItems:
 
     Components: V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Clerc](hd_cleric.md), [Magicien](hd_wizard.md), [Paladin](hd_paladin.md), [Sorcier](hd_warlock.md)'
 
@@ -42919,7 +43289,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Ombrelame](hd_rogue_ombrelame.md)'
   Id: spells_hd.md#protection-contre-les-énergies
   ParentLink: spells_hd.md#sorts
@@ -42969,7 +43340,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -43009,7 +43380,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Ombrelame](hd_rogue_ombrelame.md)'
 
@@ -43468,7 +43841,8 @@ SubItems:
   CastingTime: 1 action
   Range: 30 mètres
   Components: V, S, M
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Sorcier](hd_warlock.md)'
   Id: spells_hd.md#putréfaction
   ParentLink: spells_hd.md#sorts
@@ -43503,7 +43877,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -43555,7 +43929,9 @@ SubItems:
 
     Components: V, S, M
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Sorcier](hd_warlock.md)'
 
@@ -43761,7 +44137,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#rayon-affaiblissant
   ParentLink: spells_hd.md#sorts
@@ -43811,7 +44188,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -43857,7 +44234,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -44142,7 +44521,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#rayon-de-lune
   ParentLink: spells_hd.md#sorts
@@ -44192,7 +44572,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -44256,7 +44636,9 @@ SubItems:
 
     Components: V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md)'
 
@@ -44314,7 +44696,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle (ligne de 18 mètres)
   Components: V, S, M (une loupe)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#rayon-de-soleil
   ParentLink: spells_hd.md#sorts
@@ -44364,7 +44747,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -44422,7 +44805,9 @@ SubItems:
 
     Components: V, S, M (une loupe)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -45112,7 +45497,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#repli-expéditif
   ParentLink: spells_hd.md#sorts
@@ -45162,7 +45548,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -45202,7 +45588,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -45568,7 +45956,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une cape miniature)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#résistance
   ParentLink: spells_hd.md#sorts
@@ -45618,7 +46007,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -45664,7 +46053,9 @@ SubItems:
 
     Components: V, S, M (une cape miniature)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md)'
 
@@ -47403,7 +47794,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une fiole d'un mélange de sang et d'acide)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#sang-du-démon
   ParentLink: spells_hd.md#sorts
@@ -47438,7 +47830,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -47478,7 +47870,9 @@ SubItems:
 
     Components: V, S, M (une fiole d'un mélange de sang et d'acide)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -47621,7 +48015,8 @@ SubItems:
   CastingTime: 10 minutes
   Range: personnelle
   Components: V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#scrutation
   ParentLink: spells_hd.md#sorts
@@ -47671,7 +48066,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -47773,7 +48168,9 @@ SubItems:
 
     Components: V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -48176,7 +48573,8 @@ SubItems:
   CastingTime: 1 action
   Range: 36 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#silence
   ParentLink: spells_hd.md#sorts
@@ -48226,7 +48624,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -48274,7 +48672,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Rôdeur](hd_ranger.md)'
 
@@ -49292,7 +49692,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#sphère-de-feu
   ParentLink: spells_hd.md#sorts
@@ -49342,7 +49743,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -49400,7 +49801,9 @@ SubItems:
 
     Components: V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md), [Magicien](hd_wizard.md)'
 
@@ -49651,7 +50054,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#sphère-résiliente
   ParentLink: spells_hd.md#sorts
@@ -49701,7 +50105,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -49765,7 +50169,9 @@ SubItems:
 
     Components: V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Magicien](hd_wizard.md)'
 
@@ -49823,7 +50229,8 @@ SubItems:
   CastingTime: 1 action
   Range: 30 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute.
+  Concentration: concentration
+  Duration: jusqu'à 1 minute.
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#stalagmites-fulgurantes
   ParentLink: spells_hd.md#sorts
@@ -49858,7 +50265,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute.<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute.<!--/Duration-->
 
 
 
@@ -49898,7 +50305,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute.
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute.
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -49929,7 +50338,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#strangulation
   ParentLink: spells_hd.md#sorts
@@ -49964,7 +50374,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -50004,7 +50414,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -50035,7 +50447,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
-  Duration: concentration, jusqu'à 8 heures
+  Concentration: concentration
+  Duration: jusqu'à 8 heures
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#suggestion
   ParentLink: spells_hd.md#sorts
@@ -50085,7 +50498,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 8 heures<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 8 heures<!--/Duration-->
 
 
 
@@ -50155,7 +50568,9 @@ SubItems:
 
     Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
 
-    Duration: concentration, jusqu'à 8 heures
+    Concentration: concentration
+
+    Duration: jusqu'à 8 heures
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
 
@@ -50716,7 +51131,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#télékinésie
   ParentLink: spells_hd.md#sorts
@@ -50766,7 +51182,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -50836,7 +51252,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -51544,7 +51962,8 @@ SubItems:
   CastingTime: 1 action
   Range: 45 mètres
   Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#tempête-de-neige
   ParentLink: spells_hd.md#sorts
@@ -51594,7 +52013,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -51646,7 +52065,9 @@ SubItems:
 
     Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -51686,7 +52107,8 @@ SubItems:
   CastingTime: 1 action
   Range: 1 kilomètre
   Components: V, S, M (une rose des sables)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#tempête-de-sable
   ParentLink: spells_hd.md#sorts
@@ -51721,7 +52143,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -51767,7 +52189,9 @@ SubItems:
 
     Components: V, S, M (une rose des sables)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md)'
 
@@ -51807,7 +52231,8 @@ SubItems:
   CastingTime: 1 action
   Range: champ de vision
   Components: V, S
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Druide](hd_druid.md)'
   Id: spells_hd.md#tempête-vengeresse
   ParentLink: spells_hd.md#sorts
@@ -51857,7 +52282,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -51933,7 +52358,9 @@ SubItems:
 
     Components: V, S
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Druide](hd_druid.md)'
 
@@ -52009,7 +52436,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#ténèbres
   ParentLink: spells_hd.md#sorts
@@ -52059,7 +52487,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -52111,7 +52539,9 @@ SubItems:
 
     Components: V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Ombrelame](hd_rogue_ombrelame.md), [Sorcier](hd_warlock.md)'
 
@@ -52151,7 +52581,8 @@ SubItems:
   CastingTime: 1 action
   Range: 27 mètres
   Components: V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Magicien](hd_wizard.md)'
   Id: spells_hd.md#tentacules-noirs
   ParentLink: spells_hd.md#sorts
@@ -52201,7 +52632,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -52253,7 +52684,9 @@ SubItems:
 
     Components: V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Magicien](hd_wizard.md)'
 
@@ -52827,7 +53260,8 @@ SubItems:
   CastingTime: 1 action
   Range: 18 mètres
   Components: V, S, M (un bout de toile d'araignée)
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#toile-daraignée
   ParentLink: spells_hd.md#sorts
@@ -52877,7 +53311,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -52947,7 +53381,9 @@ SubItems:
 
     Components: V, S, M (un bout de toile d'araignée)
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md)'
 
@@ -53141,7 +53577,8 @@ SubItems:
   CastingTime: 1 action bonus
   Range: personnelle
   Components: V
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Rôdeur](hd_ranger.md)'
   Id: spells_hd.md#transpercer
   ParentLink: spells_hd.md#sorts
@@ -53176,7 +53613,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -53222,7 +53659,9 @@ SubItems:
 
     Components: V
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Rôdeur](hd_ranger.md)'
 
@@ -53374,7 +53813,8 @@ SubItems:
   CastingTime: 1 action
   Range: 150 mètres
   Components: V, S, M (une pincée de poussière, un caillou et un peu d'argile)
-  Duration: concentration, jusqu'à 1 minute
+  Concentration: concentration
+  Duration: jusqu'à 1 minute
   Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
   Id: spells_hd.md#tremblement-de-terre
   ParentLink: spells_hd.md#sorts
@@ -53424,7 +53864,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 
 
 
@@ -53512,7 +53952,9 @@ SubItems:
 
     Components: V, S, M (une pincée de poussière, un caillou et un peu d'argile)
 
-    Duration: concentration, jusqu'à 1 minute
+    Concentration: concentration
+
+    Duration: jusqu'à 1 minute
 
     Classes: '[Clerc](hd_cleric.md), [Druide](hd_druid.md), [Ensorceleur](hd_sorcerer.md)'
 
@@ -53606,7 +54048,8 @@ SubItems:
   CastingTime: 1 action
   Range: personnelle
   Components: S
-  Duration: concentration, jusqu'à 1 heure
+  Concentration: concentration
+  Duration: jusqu'à 1 heure
   Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
   Id: spells_hd.md#tromperie
   ParentLink: spells_hd.md#sorts
@@ -53656,7 +54099,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 
 
 
@@ -53714,7 +54157,9 @@ SubItems:
 
     Components: S
 
-    Duration: concentration, jusqu'à 1 heure
+    Concentration: concentration
+
+    Duration: jusqu'à 1 heure
 
     Classes: '[Barde](hd_bard.md), [Magicien](hd_wizard.md)'
 
@@ -53890,7 +54335,8 @@ SubItems:
   CastingTime: 1 minute
   Range: personnelle
   Components: V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
-  Duration: concentration, jusqu'à 1 jour
+  Concentration: concentration
+  Duration: jusqu'à 1 jour
   Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
   Id: spells_hd.md#trouver-un-chemin
   ParentLink: spells_hd.md#sorts
@@ -53940,7 +54386,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 jour<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 jour<!--/Duration-->
 
 
 
@@ -53986,7 +54432,9 @@ SubItems:
 
     Components: V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
 
-    Duration: concentration, jusqu'à 1 jour
+    Concentration: concentration
+
+    Duration: jusqu'à 1 jour
 
     Classes: '[Barde](hd_bard.md), [Clerc](hd_cleric.md), [Druide](hd_druid.md)'
 
@@ -54518,7 +54966,8 @@ SubItems:
   CastingTime: 1 action
   Range: 9 mètres
   Components: S
-  Duration: concentration, jusqu'à 1 round
+  Concentration: concentration
+  Duration: jusqu'à 1 round
   Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#viser-juste
   ParentLink: spells_hd.md#sorts
@@ -54568,7 +55017,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 1 round<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 round<!--/Duration-->
 
 
 
@@ -54608,7 +55057,9 @@ SubItems:
 
     Components: S
 
-    Duration: concentration, jusqu'à 1 round
+    Concentration: concentration
+
+    Duration: jusqu'à 1 round
 
     Classes: '[Barde](hd_bard.md), [Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -55087,7 +55538,8 @@ SubItems:
   CastingTime: 1 action
   Range: contact
   Components: V, S, M (une rémige)
-  Duration: concentration, jusqu'à 10 minutes
+  Concentration: concentration
+  Duration: jusqu'à 10 minutes
   Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
   Id: spells_hd.md#vol
   ParentLink: spells_hd.md#sorts
@@ -55137,7 +55589,7 @@ SubItems:
 
 
 
-      - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+      - **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 
 
 
@@ -55183,7 +55635,9 @@ SubItems:
 
     Components: V, S, M (une rémige)
 
-    Duration: concentration, jusqu'à 10 minutes
+    Concentration: concentration
+
+    Duration: jusqu'à 10 minutes
 
     Classes: '[Ensorceleur](hd_sorcerer.md), [Magicien](hd_wizard.md), [Sorcier](hd_warlock.md)'
 
@@ -56081,7 +56535,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 - **Temps d'incantation :** 1 action
 - **Portée :** 9 mètres
 - **Composantes :** V
-- **Durée :** Concentration, jusqu'à 10 minutes
+- **Durée :** concentration, jusqu'à 10 minutes
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p325)
 

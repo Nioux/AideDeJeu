@@ -1,5 +1,5 @@
 ﻿
-<!--SpellItems Family="SpellHD" Classes="Barde|Clerc|Druide|Ensorceleur|Magicien|Ombrelame|Paladin|Rôdeur|Sorcier" Levels="Sorts mineurs|Niveau 1|Niveau 2|Niveau 3|Niveau 4|Niveau 5|Niveau 6|Niveau 7|Niveau 8|Niveau 9" Schools="Abjuration|Divination|Enchantement|Évocation|Illusion|Invocation|Nécromancie|Transmutation" Rituals="Rituel" CastingTimes="1 réaction|1 action bonus|1 action|1 minute|10 minutes|1 heure|8 heures|12 heures|24 heures"  Durations="concentration, jusqu'à 1 round|concentration, jusqu'à 1 minute|concentration, jusqu'à 10 minutes|concentration, jusqu'à 1 heure|concentration, jusqu'à 2 heures|concentration, jusqu'à 8 heures|concentration, jusqu'à 24 heures|concentration, jusqu'à 1 jour|instantané|instantanée|1 round|1 minute|jusqu'à 1 minute|10 minutes|1 heure|jusqu'à 1 heure|8 heures|jusqu'à 8 heures|24 heures|1 jour|7 jours|10 jours|30 jours|jusqu'à dissipation|jusqu'à dissipation ou déclenchement|spéciale" Ranges="personnel|contact|vision|selon l'arme utilisée|spéciale|1,5 mètre|3 mètres|4,50 mètres|9 mètres|12 mètres|18 mètres|27 mètres|30 mètres|36 mètres|45 mètres|90 mètres|150 mètres|450 mètres|1 kilomètre|1,5 kilomètre|7,5 kilomètres|750 kilomètres|illimitée" Sources="SRD|MDR"-->
+<!--SpellItems Family="SpellHD" Classes="Barde|Clerc|Druide|Ensorceleur|Magicien|Ombrelame|Paladin|Rôdeur|Sorcier" Levels="Sorts mineurs|Niveau 1|Niveau 2|Niveau 3|Niveau 4|Niveau 5|Niveau 6|Niveau 7|Niveau 8|Niveau 9" Schools="Abjuration|Divination|Enchantement|Évocation|Illusion|Invocation|Nécromancie|Transmutation" Rituals="Rituel" CastingTimes="1 action|1 action bonus|1 réaction|1 minute|10 minutes|1 heure|8 heures|12 heures|24 heures" Concentrations="concentration" Durations="instantané|jusqu'à 1 round|1 round|jusqu'à 1 minute|1 minute|jusqu'à 10 minutes|10 minutes|jusqu'à 1 heure|1 heure|jusqu'à 2 heures|jusqu'à 8 heures|8 heures|jusqu'à 24 heures|24 heures|jusqu'à 1 jour|1 jour|7 jours|10 jours|30 jours|jusqu'à dissipation|jusqu'à dissipation ou déclenchement|spéciale" Ranges="personnel|contact|vision|selon l'arme utilisée|spéciale|1,5 mètre|3 mètres|4,50 mètres|9 mètres|12 mètres|18 mètres|27 mètres|30 mètres|36 mètres|45 mètres|90 mètres|150 mètres|450 mètres|1 kilomètre|1,5 kilomètre|7,5 kilomètres|750 kilomètres|illimitée" Sources="SRD|MDR"-->
 
 > <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
 
@@ -19,7 +19,7 @@
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une pincée de limaille de fer)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p320)(SRD)<!--/Source-->
 
@@ -141,7 +141,7 @@ Une telle créature enrôlée dans votre groupe compte comme un membre à part e
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (des poils ou des plumes venant d'un animal)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Ensorceleur]<!--/Classes-->
 - Source: <!--Source-->(MDR p321)(SRD)<!--/Source-->
 
@@ -237,7 +237,7 @@ La créature est placée sous votre contrôle pendant 24 heures, après quoi ell
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p322)(SRD)<!--/Source-->
 
@@ -281,7 +281,7 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc]<!--/Classes-->
 - Source: <!--Source-->(MDR p322)(SRD)<!--/Source-->
 
@@ -379,7 +379,7 @@ Enfin, quand vous lancez un sort avec une portée de « contact », votre famili
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p324)(SRD)<!--/Source-->
 
@@ -435,7 +435,7 @@ Ces projectiles sont magiques et infligent 1d6 dégâts supplémentaires. De plu
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Magicien], [Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p324)(SRD)<!--/Source-->
 
@@ -459,7 +459,7 @@ Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p324)<!--/Source-->
 
@@ -593,7 +593,7 @@ Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 1
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p325)(SRD)<!--/Source-->
 
@@ -623,7 +623,7 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p325)(SRD)<!--/Source-->
 
@@ -681,7 +681,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->Concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p325)<!--/Source-->
 
@@ -703,7 +703,7 @@ Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p326)<!--/Source-->
 
@@ -759,7 +759,7 @@ Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les de
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Clerc]<!--/Classes-->
 - Source: <!--Source-->(MDR p326)<!--/Source-->
 
@@ -863,7 +863,7 @@ Un rayon de lumière frappe une créature de votre choix située à portée. Fai
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un objet qui répugne à la cible)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Ensorceleur], [Magicien], [Paladin], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p327)(SRD)<!--/Source-->
 
@@ -897,7 +897,7 @@ Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réappar
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Clerc]<!--/Classes-->
 - Source: <!--Source-->(MDR p327)(SRD)<!--/Source-->
 
@@ -923,7 +923,7 @@ Quand une créature pénètre dans la zone du mur pour la première fois au cour
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un peu d'eau bénite à asperger)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p327)(SRD)<!--/Source-->
 
@@ -947,7 +947,7 @@ Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Qua
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p327)<!--/Source-->
 
@@ -1079,7 +1079,7 @@ De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un petit parchemin avec un extrait de texte sacré)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p328)(SRD)<!--/Source-->
 
@@ -1157,7 +1157,7 @@ Le feu s'étend en contournant les angles. Il embrase les objets inflammables de
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->45 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une petite boule de guano de chauve-souris et du soufre)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p329)(SRD)<!--/Source-->
 
@@ -1191,7 +1191,7 @@ Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle (ligne de 18 mètres)<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une graine de légume)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p329)(SRD)<!--/Source-->
 
@@ -1249,7 +1249,7 @@ Un objet non magique que personne ne porte ni ne transporte subit aussi ces dég
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p330)<!--/Source-->
 
@@ -1315,7 +1315,7 @@ La _[dissipation de la magie]_ est sans effet sur ce sort.
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p330)(SRD)<!--/Source-->
 
@@ -1527,7 +1527,7 @@ Chaque cible doit faire un [jet de sauvegarde] de [Dextérité] et subit 10d8 d�
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle (sphère de 3 mètres de rayon)<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une pincée de poudre de fer ou de limaille)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p332)(SRD)<!--/Source-->
 
@@ -1569,7 +1569,7 @@ Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utili
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p333)(SRD)<!--/Source-->
 
@@ -1663,7 +1663,7 @@ Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un bout de fer et une flamme)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p334)(SRD)<!--/Source-->
 
@@ -1745,7 +1745,7 @@ Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversai
 - **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Portée :** <!--Range-->1,5 kilomètre<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p334)(SRD)<!--/Source-->
 
@@ -1889,7 +1889,7 @@ Si le sort se termine alors que le grand coffre est encore sur le plan éthéré
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->30 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un peu de cendre et de poussière d'os)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p336)<!--/Source-->
 
@@ -2193,7 +2193,7 @@ Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p338)(SRD)<!--/Source-->
 
@@ -2247,7 +2247,7 @@ Une créature qui succombe suite à ce sort se transforme en statue de glace jus
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (trois coquilles de noix)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Druide], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p338)(SRD)<!--/Source-->
 
@@ -2472,7 +2472,7 @@ Si elle essayait de lancer un sort de niveau 3 ou moins, il échoue et reste san
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->90 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une goutte d'eau et une pincée de poussière)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Druide], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p340)<!--/Source-->
 
@@ -2510,7 +2510,7 @@ Quand une créature entre dans le vortex pour la première fois de son tour ou q
 - **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle (rayon de 7,5 kilomètres)<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 8 heures<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 8 heures<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Druide], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p341)(SRD)<!--/Source-->
 
@@ -2603,7 +2603,7 @@ _[Dissipation de la magie]_ ou un effet similaire appliqué sur le saphir met un
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle (3 mètres de rayon)<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p342)(SRD)<!--/Source-->
 
@@ -2823,7 +2823,7 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->45 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (sept épines acérées ou sept brindilles taillées en pointe)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p344)<!--/Source-->
 
@@ -2881,7 +2881,7 @@ Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p344)<!--/Source-->
 
@@ -2991,7 +2991,7 @@ Vous pouvez créer un nouveau demi-plan pour chaque incantation du sort ou relie
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 2 heures<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 2 heures<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p345)(SRD)<!--/Source-->
 
@@ -3051,7 +3051,7 @@ Ce sort désintègre automatiquement les objets non magiques de taille G ou inf�
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une goutte d'eau)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p346)<!--/Source-->
 
@@ -3079,7 +3079,7 @@ Les morts-vivants, les créatures artificielles et les élémentaires sont immun
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Paladin], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p346)(SRD)<!--/Source-->
 
@@ -3105,7 +3105,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une pièce de cuivre)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p346)(SRD)<!--/Source-->
 
@@ -3145,7 +3145,7 @@ Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p347)(SRD)<!--/Source-->
 
@@ -3171,7 +3171,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un brin d'if)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Druide], [Paladin], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p347)(SRD)<!--/Source-->
 
@@ -3253,7 +3253,7 @@ Choisissez une créature, un objet ou un effet magique à portée. Tout sort de 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (eau bénite ou poudre d'argent et de fer)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p347)(SRD)<!--/Source-->
 
@@ -3337,7 +3337,7 @@ Si ce sort achève un humanoïde, ce dernier se relève au début de votre proch
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p348)(SRD)<!--/Source-->
 
@@ -3375,7 +3375,7 @@ Si vous lancez ce sort en utilisant un emplacement de niveau 8, la durée devien
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p349)(SRD)<!--/Source-->
 
@@ -3411,7 +3411,7 @@ Si elle le réussit, le sort prend fin.
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Ensorceleur]<!--/Classes-->
 - Source: <!--Source-->(MDR p349)(SRD)<!--/Source-->
 
@@ -3677,7 +3677,7 @@ Vous pouvez utiliser une composante spéciale pour créer une prison à la fois 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p352)(SRD)<!--/Source-->
 
@@ -3805,7 +3805,7 @@ Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce so
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p353)<!--/Source-->
 
@@ -3829,7 +3829,7 @@ Votre épée devient une épée de justice pour toute la durée du sort. Elle b�
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p353)<!--/Source-->
 
@@ -3907,7 +3907,7 @@ Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immun
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle (4,50 mètres de rayon)<!--/Range-->
 - **Composantes :** <!--Components-->V, S M (un symbole sacré)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Clerc]<!--/Classes-->
 - Source: <!--Source-->(MDR p353)(SRD)<!--/Source-->
 
@@ -3937,7 +3937,7 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p354)(SRD)<!--/Source-->
 
@@ -4009,7 +4009,7 @@ Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur d
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p354)<!--/Source-->
 
@@ -4111,7 +4111,7 @@ Vous touchez un objet de pierre de taille M ou inférieure ou une section de pie
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p355)(SRD)<!--/Source-->
 
@@ -4243,7 +4243,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une goutte de sang)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc]<!--/Classes-->
 - Source: <!--Source-->(MDR p356)(SRD)<!--/Source-->
 
@@ -4271,7 +4271,7 @@ Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->90 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Druide], [Ensorceleur]<!--/Classes-->
 - Source: <!--Source-->(MDR p356)<!--/Source-->
 
@@ -4355,7 +4355,7 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p356)(SRD)<!--/Source-->
 
@@ -4413,7 +4413,7 @@ Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le pla
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un morceau de gaze et une volute de fumée)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p357)(SRD)<!--/Source-->
 
@@ -4443,7 +4443,7 @@ Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. I
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 24 heures<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 24 heures<!--/Duration-->
 - Classes: <!--Classes-->[Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p357)(SRD)<!--/Source-->
 
@@ -4471,7 +4471,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (de minuscules tartes et une plume à agiter dans les airs)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p357)<!--/Source-->
 
@@ -4495,7 +4495,7 @@ Une créature de votre choix située à portée et dans votre champ de vision tr
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p358)<!--/Source-->
 
@@ -4529,7 +4529,7 @@ Le type de dégâts supplémentaires infligés et la nature de l'effet dépenden
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p358)(SRD)<!--/Source-->
 
@@ -4637,7 +4637,7 @@ Si le jet est réussi, les dégâts sont réduits de moitié.
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle (3 mètres de rayon)<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p359)<!--/Source-->
 
@@ -4831,7 +4831,7 @@ Le sort débarrasse aussi les créatures qu'il guérit de leurs maladies et des 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->12 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un verre en cristal d'une valeur de 500 po)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -4857,7 +4857,7 @@ Enfin, le sort met un terme aux effets de réduction des points de vie maximum p
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un copeau de racine de réglisse)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -4883,7 +4883,7 @@ Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une act
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -4995,7 +4995,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un morceau de toison)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5061,7 +5061,7 @@ Une créature n'est pas affectée par ce sort si elle ne voit pas, si elle se se
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->750 kilomètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 jour<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 jour<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5091,7 +5091,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un morceau de toison)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5119,7 +5119,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un petit morceau de fer bien droit)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5145,7 +5145,7 @@ Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doi
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un petit morceau de fer bien droit)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5211,7 +5211,7 @@ Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre diff
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5241,7 +5241,7 @@ Par exemple, si vous transformez une abeille, sa version géante peut disposer d
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un archet et un morceau d'os)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -5303,7 +5303,7 @@ La zone d'effet de ce sort ne peut pas se superposer à celle d'un autre sort d'
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->30 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (de la magnétite et de la limaille de fer)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5331,7 +5331,7 @@ Une fois la durée du sort écoulée, les objets et les créatures affectés ret
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un cil enrobé de gomme arabique)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5357,7 +5357,7 @@ La créature que vous touchez devient [invisible] jusqu'à la fin du sort. Tout 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5381,7 +5381,7 @@ Vous devenez [invisible] jusqu'à ce que le sort se termine, ou vous pouvez acco
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5423,7 +5423,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 - **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5463,7 +5463,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une baie de houx par créature invoquée)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5503,7 +5503,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 - **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Clerc]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5537,7 +5537,7 @@ C'est le MJ qui dispose du profil technique du céleste.
 - **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5571,7 +5571,7 @@ C'est le MJ qui dispose du profil technique de l'élémentaire.
 - **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5603,7 +5603,7 @@ C'est le MJ qui dispose du profil technique de la créature féerique.
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5663,7 +5663,7 @@ Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de v
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5695,7 +5695,7 @@ Quand le sort se termine, la cible réapparaît à l'emplacement qu'elle a quitt
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (feuille de sumac)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5723,7 +5723,7 @@ La lame enflammée émet une vive lumière dans un rayon de 3 mètres et une fai
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -5829,7 +5829,7 @@ Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une goutte de mélasse)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5885,7 +5885,7 @@ Une créature affectée par ce sort fait un nouveau [jet de sauvegarde] de [Sage
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -5913,7 +5913,7 @@ Si la cible est encore en l'air quand le sort se termine, elle flotte délicatem
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -6047,7 +6047,7 @@ Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous conce
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une branche fourchue)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Magicien], [Ombrelame], [Paladin], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6077,7 +6077,7 @@ Le sort ne parvient pas à localiser l'objet si une couche de plomb, aussi mince
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (des poils de chien de chasse)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Magicien], [Paladin], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6107,7 +6107,7 @@ Le sort ne parvient pas à localiser la créature si le chemin qui vous relie di
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Clerc]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -6133,7 +6133,7 @@ Pendant toute la durée du sort, elles bénéficient d'un avantage lors des [jet
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Druide], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6217,7 +6217,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de ténèbres 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6277,7 +6277,7 @@ La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une coquille d'oeuf et un gant en peau de serpent)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -6461,7 +6461,7 @@ Si une créature est sous forme de nuage et en plein vol quand le sort se termin
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6487,7 +6487,7 @@ Vous choisissez une créature située dans votre champ de vision et à portée e
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6575,7 +6575,7 @@ Quand elle arrive sur place, elle transmet votre message à la créature que vou
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un cocon de chenille)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Druide], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6607,7 +6607,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6685,7 +6685,7 @@ Les créatures dotées de vision parfaite distinguent le véritable terrain derr
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute <!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute <!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6719,7 +6719,7 @@ Un sort _[lever une malédiction]_ ou _[restauration supérieure]_ permet à la 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6931,7 +6931,7 @@ Pour désigner un sanctuaire, vous devez lancer ce sort en un lieu dédié à vo
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -6959,7 +6959,7 @@ Le sort se termine pour une créature donnée si elle subit le moindre dégât o
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une poignée d'épines)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -6991,7 +6991,7 @@ Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doi
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un éclat de phosphore)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7023,7 +7023,7 @@ L'autre face du mur n'inflige pas de dégâts.
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une pincée de poudre de gemme translucide)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7049,7 +7049,7 @@ Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre t
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un éclat de quartz)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7079,7 +7079,7 @@ Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un petit bloc de granite)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7113,7 +7113,7 @@ Si vous restez concentré sur le sort pendant toute sa durée, le mur devient un
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un petit éventail et une plume exotique)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7191,7 +7191,7 @@ Tant que cette couche est en place, il est impossible de lancer un sort à trave
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7215,7 +7215,7 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -7267,7 +7267,7 @@ Vous pouvez prendre pour cible une créature consentante, un endroit ou un objet
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->45 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7297,7 +7297,7 @@ Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au d�
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7329,7 +7329,7 @@ Le brouillard s'éloigne de vous sur une distance de 3 mètres au début de chac
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un oeuf pourri ou des feuilles de chou pourri)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7383,7 +7383,7 @@ Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas p
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->selon l'arme utilisée<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un projectile)<!--/Components-->
-- **Durée :** <!--Duration-->instantané<!--/Duration-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
 - Classes: <!--Classes-->[Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -7407,7 +7407,7 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (des poils de chauve-souris)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Magicien], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7431,7 +7431,7 @@ Par une action, vous pouvez déplacer l'oeil d'un maximum de 9 mètres dans la d
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -7455,7 +7455,7 @@ Pour toute la durée du sort, la cible fait en sorte de protéger l'objet qu'ell
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un morceau de charbon)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -7561,7 +7561,7 @@ Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->150 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -7595,7 +7595,7 @@ Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7621,7 +7621,7 @@ Vous pouvez utiliser cette capacité de transport une fois par round pendant tou
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7675,7 +7675,7 @@ Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient en
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une goutte de bitume et une araignée)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -7699,7 +7699,7 @@ Jusqu'à la fin du sort, une créature consentante que vous touchez devient capa
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une poignée d'écorce de chêne)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -7723,7 +7723,7 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7775,7 +7775,7 @@ Tant que le sort n'est pas terminé, vous pouvez faire en sorte que l'intérieur
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une pincée de chaux, de l'eau et de la terre)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7805,7 +7805,7 @@ Si vous maintenez votre concentration sur ce sort jusqu'à la fin de la durée m
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle (cône de 9 mètres)<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une plume blanche ou un coeur de poule)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute.<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -7829,7 +7829,7 @@ Tant qu'une créature est [terrorisée] par ce sort, elle est obligée d'utilise
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->selon l'arme utilisée<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un projectile)<!--/Components-->
-- **Durée :** <!--Duration-->instantané<!--/Duration-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
 - Classes: <!--Classes-->[Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -7879,7 +7879,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ombrelame], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -7905,7 +7905,7 @@ Une arme de votre choix exsude une substance poisseuse et venimeuse. À la premi
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un diamant d'une valeur minimale de 5 000 po)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -8179,7 +8179,7 @@ Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touch
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->selon l'arme utilisée<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un projectile)<!--/Components-->
-- **Durée :** <!--Duration-->instantané<!--/Duration-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
 - Classes: <!--Classes-->[Ombrelame], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -8267,7 +8267,7 @@ Si le sort est encore actif quand la cible est soumise à un effet qui devrait l
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Magicien], [Paladin], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -8321,7 +8321,7 @@ Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des [je
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Ombrelame]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -8419,7 +8419,7 @@ Toute la nourriture et les boissons non magiques présentes dans une sphère d'u
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->30 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -8479,7 +8479,7 @@ Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -8557,7 +8557,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -8589,7 +8589,7 @@ Une fois que vous avez lancé ce sort, à chacun de vos tours, vous pouvez utili
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle (ligne de 18 mètres)<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une loupe)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -8725,7 +8725,7 @@ Le sort permet de réparer un objet magique ou une créature artificielle, mais 
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -8813,7 +8813,7 @@ Une créature qui réussit son [jet de sauvegarde] contre l'effet est immunisée
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une cape miniature)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -9155,7 +9155,7 @@ Si on lance ce sort tous les jours au même endroit pendant un an, ses effets de
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une fiole d'un mélange de sang et d'acide)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -9205,7 +9205,7 @@ Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sor
 - **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -9303,7 +9303,7 @@ Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plu
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->36 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc], [Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -9515,7 +9515,7 @@ Le stress lié à l'incantation d'un souhait pour faire autre chose que répliqu
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -9581,7 +9581,7 @@ Il explose au bout de 1 minute s'il n'a pas été brisé auparavant.
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -9611,7 +9611,7 @@ Un sort de _[désintégration]_ visant la sphère la détruit sans endommager ce
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->30 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute.<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -9635,7 +9635,7 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -9661,7 +9661,7 @@ Vous tendez le bras en direction de votre cible et, de votre main, vous mimez so
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 8 heures<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 8 heures<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -9779,7 +9779,7 @@ Une telle créature se réveille si elle subit des dégâts ou si quelqu'un util
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -9923,7 +9923,7 @@ Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->45 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une pincée de poussière et quelques gouttes d'eau)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -9949,7 +9949,7 @@ Si une créature se concentre dans la zone d'effet du sort, elle doit réussir u
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->1 kilomètre<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une rose des sables)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -9977,7 +9977,7 @@ Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dég
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->champ de vision<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -10013,7 +10013,7 @@ Le vent et la pluie fonctionnent comme une distraction sévère quand il s'agit 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -10041,7 +10041,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de lumière is
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->27 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -10167,7 +10167,7 @@ Vous pouvez révoquer un tel effet par une action.
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->18 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un bout de toile d'araignée)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -10225,7 +10225,7 @@ Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10),
 - **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Rôdeur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -10277,7 +10277,7 @@ Ce sort crée un lien magique entre une plante inanimée de taille G ou supérie
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->150 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une pincée de poussière, un caillou et un peu d'argile)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Clerc], [Druide], [Ensorceleur]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -10317,7 +10317,7 @@ Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 heure<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
 - Source: <!--Source-->(MDR p)<!--/Source-->
 
@@ -10373,7 +10373,7 @@ Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vo
 - **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
 - **Portée :** <!--Range-->personnelle<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 jour<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 jour<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Clerc], [Druide]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -10493,7 +10493,7 @@ Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->S<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 1 round<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 1 round<!--/Duration-->
 - Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 
@@ -10615,7 +10615,7 @@ Pendant toute la durée du sort, vous voyez les créatures et les objets [invisi
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
 - **Portée :** <!--Range-->contact<!--/Range-->
 - **Composantes :** <!--Components-->V, S, M (une rémige)<!--/Components-->
-- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- **Durée :** <!--Concentration-->concentration<!--/Concentration-->, <!--Duration-->jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
 - Source: <!--Source-->(MDR p)(SRD)<!--/Source-->
 

@@ -17,6 +17,7 @@ namespace AideDeJeuLib
         public string Rituals { get; set; }
         public string CastingTimes { get; set; }
         public string Ranges { get; set; }
+        public string Concentrations { get; set; }
         public string Durations { get; set; }
         public string Sources { get; set; }
 
@@ -29,6 +30,7 @@ namespace AideDeJeuLib
                 Split(Rituals),
                 Split(CastingTimes),
                 Split(Ranges),
+                Split(Concentrations),
                 Split(Durations),
                 Split(Sources)
             );

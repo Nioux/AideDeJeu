@@ -15,11 +15,11 @@ namespace AideDeJeuLib
         public string Family { get; set; }
         public string Level { get; set; }
         public string Type { get; set; }
-        public string Concentration { get; set; }
         public string Ritual { get; set; }
         public string CastingTime { get; set; }
         public string Range { get; set; }
         public string Components { get; set; }
+        public string Concentration { get; set; }
         public string Duration { get; set; }
         public string DescriptionHtml { get; set; }
         //public string Source { get; set; }

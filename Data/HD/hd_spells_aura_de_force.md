@@ -8,7 +8,7 @@
 - **Temps d'incantation :** 1 action
 - **Portée :** 9 mètres
 - **Composantes :** V
-- **Durée :** Concentration, jusqu'à 10 minutes
+- **Durée :** concentration, jusqu'à 10 minutes
 - Classes: [Paladin](hd_paladin.md)
 - Source: (MDR p325)
 
