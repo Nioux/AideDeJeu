@@ -34,6 +34,15 @@ namespace AideDeJeu.ViewModels.Library
                     Helpers.RemoveDiacritics(item.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower());
         }
 
+        public bool MatchContainsOrNot(string itemValue, string filterValue)
+        {
+            if (!string.IsNullOrEmpty(filterValue) && string.IsNullOrWhiteSpace(filterValue))
+            {
+                return string.IsNullOrEmpty(itemValue);
+            }
+            return string.IsNullOrEmpty(filterValue) || (itemValue != null && itemValue.ToLower().Contains(filterValue.ToLower()));
+        }
+
         public bool MatchContains(string itemValue, string filterValue)
         {
             return string.IsNullOrEmpty(filterValue) || (itemValue != null && itemValue.ToLower().Contains(filterValue.ToLower()));
@@ -265,9 +274,9 @@ namespace AideDeJeu.ViewModels.Library
             var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
             var castingTime = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.CastingTime).SelectedKey ?? "";
             var range = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Range).SelectedKey ?? "";
-            var verbalComponents = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.VerbalComponent).SelectedKey ?? "";
-            var somaticComponents = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.SomaticComponent).SelectedKey ?? "";
-            var materialComponents = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaterialComponent).SelectedKey ?? "";
+            var verbalComponent = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.VerbalComponent).SelectedKey ?? "";
+            var somaticComponent = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.SomaticComponent).SelectedKey ?? "";
+            var materialComponent = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaterialComponent).SelectedKey ?? "";
             var concentration = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Concentration).SelectedKey ?? "";
             var duration = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Duration).SelectedKey ?? "";
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
@@ -283,13 +292,13 @@ namespace AideDeJeu.ViewModels.Library
                         spell.Type.ToLower().Contains(school.ToLower()) &&
                         (spell.Source != null && spell.Source.Contains(source)) &&
                         (spell.Classes != null && spell.Classes.Contains(classe)) &&
-                        (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
+                        MatchContainsOrNot(spell.Ritual, ritual) &&
                         (spell.CastingTime != null) && spell.CastingTime.Contains(castingTime) &&
                         (spell.Range != null) && spell.Range.Contains(range) &&
-                        (string.IsNullOrEmpty(verbalComponents) || (spell.VerbalComponent != null && spell.VerbalComponent.Contains(verbalComponents))) &&
-                        (string.IsNullOrEmpty(somaticComponents) || (spell.SomaticComponent != null && spell.SomaticComponent.Contains(somaticComponents))) &&
-                        (string.IsNullOrEmpty(materialComponents) || (spell.MaterialComponent != null && spell.MaterialComponent.Contains(materialComponents))) &&
-                        (string.IsNullOrEmpty(concentration) || (spell.Concentration != null && spell.Concentration.Contains(concentration))) &&
+                        MatchContainsOrNot(spell.VerbalComponent, verbalComponent) &&
+                        MatchContainsOrNot(spell.SomaticComponent, somaticComponent) &&
+                        MatchContainsOrNot(spell.MaterialComponent, materialComponent) &&
+                        MatchContainsOrNot(spell.Concentration, concentration) &&
                         (spell.Duration != null) && spell.Duration.Contains(duration) &&
                         (
                             (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
