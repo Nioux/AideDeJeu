@@ -15,6 +15,9 @@ namespace AideDeJeuLib
         public string Levels { get; set; }
         public string Schools { get; set; }
         public string Rituals { get; set; }
+        public string CastingTimes { get; set; }
+        public string Ranges { get; set; }
+        public string Durations { get; set; }
         public string Sources { get; set; }
 
         public override FilterViewModel GetNewFilterViewModel()
@@ -24,6 +27,9 @@ namespace AideDeJeuLib
                 Split(Levels),
                 Split(Schools),
                 Split(Rituals),
+                Split(CastingTimes),
+                Split(Ranges),
+                Split(Durations),
                 Split(Sources)
             );
         }

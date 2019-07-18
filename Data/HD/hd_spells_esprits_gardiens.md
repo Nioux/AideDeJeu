@@ -10,7 +10,7 @@
 
 - **Temps d'incantation :** 1 action
 
-- **Portée :** personnelle (4,5 mètres de rayon)
+- **Portée :** personnelle (4,50 mètres de rayon)
 
 - **Composantes :** V, S M (un symbole sacré)
 

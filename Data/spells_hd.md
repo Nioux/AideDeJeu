@@ -1,5 +1,5 @@
 ﻿
-<!--SpellItems Family="SpellHD" Classes="Barde|Clerc|Druide|Ensorceleur|Magicien|Ombrelame|Paladin|Rôdeur|Sorcier" Levels="Sorts mineurs|Niveau 1|Niveau 2|Niveau 3|Niveau 4|Niveau 5|Niveau 6|Niveau 7|Niveau 8|Niveau 9" Schools="Abjuration|Divination|Enchantement|Évocation|Illusion|Invocation|Nécromancie|Transmutation" Rituals="Rituel" Sources="SRD|MDR"-->
+<!--SpellItems Family="SpellHD" Classes="Barde|Clerc|Druide|Ensorceleur|Magicien|Ombrelame|Paladin|Rôdeur|Sorcier" Levels="Sorts mineurs|Niveau 1|Niveau 2|Niveau 3|Niveau 4|Niveau 5|Niveau 6|Niveau 7|Niveau 8|Niveau 9" Schools="Abjuration|Divination|Enchantement|Évocation|Illusion|Invocation|Nécromancie|Transmutation" Rituals="Rituel" CastingTimes="1 réaction|1 action bonus|1 action|1 minute|10 minutes|1 heure|8 heures|12 heures|24 heures"  Durations="concentration, jusqu'à 1 round|concentration, jusqu'à 1 minute|concentration, jusqu'à 10 minutes|concentration, jusqu'à 1 heure|concentration, jusqu'à 2 heures|concentration, jusqu'à 8 heures|concentration, jusqu'à 24 heures|concentration, jusqu'à 1 jour|instantané|instantanée|1 round|1 minute|jusqu'à 1 minute|10 minutes|1 heure|jusqu'à 1 heure|8 heures|jusqu'à 8 heures|24 heures|1 jour|7 jours|10 jours|30 jours|jusqu'à dissipation|jusqu'à dissipation ou déclenchement|spéciale" Ranges="personnel|contact|vision|selon l'arme utilisée|spéciale|1,5 mètre|3 mètres|4,50 mètres|9 mètres|12 mètres|18 mètres|27 mètres|30 mètres|36 mètres|45 mètres|90 mètres|150 mètres|450 mètres|1 kilomètre|1,5 kilomètre|7,5 kilomètres|750 kilomètres|illimitée" Sources="SRD|MDR"-->
 
 > <!--ParentNameLink-->[Manuel des règles](index.md)<!--/ParentNameLink-->
 
@@ -3905,7 +3905,7 @@ Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immun
 
 -  <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
-- **Portée :** <!--Range-->personnelle (4,5 mètres de rayon)<!--/Range-->
+- **Portée :** <!--Range-->personnelle (4,50 mètres de rayon)<!--/Range-->
 - **Composantes :** <!--Components-->V, S M (un symbole sacré)<!--/Components-->
 - **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
 - Classes: <!--Classes-->[Clerc]<!--/Classes-->
@@ -5637,7 +5637,7 @@ Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais 
 
 -  <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->5<!--/Level-->
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
-- **Portée :** <!--Range-->9 m<!--/Range-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
 - **Durée :** <!--Duration-->instantanée<!--/Duration-->
 - Classes: <!--Classes-->[Paladin]<!--/Classes-->
@@ -9633,7 +9633,7 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 
 -  <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
-- **Portée :** <!--Range-->9 m<!--/Range-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
 - **Composantes :** <!--Components-->V, S<!--/Components-->
 - **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
 - Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
