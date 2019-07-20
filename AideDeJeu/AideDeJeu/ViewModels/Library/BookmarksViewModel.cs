@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Runtime.Serialization.Json;
@@ -17,7 +18,8 @@ namespace AideDeJeu.ViewModels.Library
     {
         public BookmarksViewModel()
         {
-            LoadBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]).ConfigureAwait(true);
+            //LoadBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]).ConfigureAwait(true);
+            LoadBookmarkCollectionsAsync().ConfigureAwait(true);
         }
 
         public ObservableCollection<string> BookmarkCollectionNames { get; set; } = new ObservableCollection<string>()
@@ -42,6 +44,9 @@ namespace AideDeJeu.ViewModels.Library
                 //LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
             }
         }
+
+        private Dictionary<string, ObservableCollection<Item>> _BookmarkCollections = new Dictionary<string, ObservableCollection<Item>>();
+
         private ObservableCollection<Item> _BookmarkCollection = new ObservableCollection<Item>();
         public ObservableCollection<Item> BookmarkCollection
         {
@@ -60,7 +65,7 @@ namespace AideDeJeu.ViewModels.Library
         {
             get
             {
-                return _SelectedIndexChangedCommand ?? (_SelectedIndexChangedCommand = new Command(async() => await ExecuteSelectedIndexChangedCommandAsync()));
+                return _SelectedIndexChangedCommand ?? (_SelectedIndexChangedCommand = new Command(async () => await ExecuteSelectedIndexChangedCommandAsync()));
             }
         }
 
@@ -70,10 +75,10 @@ namespace AideDeJeu.ViewModels.Library
             {
                 await LoadBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]);
             }
-            else if(BookmarkCollectionIndex == BookmarkCollectionNames.Count - 1)
+            else if (BookmarkCollectionIndex == BookmarkCollectionNames.Count - 1)
             {
                 var result = await Main.Navigator.OpenCancellableTextInputAlertDialog("");
-                if(result.Item2 == Navigator.PopupResultEnum.Save)
+                if (result.Item2 == Navigator.PopupResultEnum.Save)
                 {
                     var index = BookmarkCollectionNames.Count - 1;
                     BookmarkCollectionNames.Insert(index, result.Item1);
@@ -93,7 +98,7 @@ namespace AideDeJeu.ViewModels.Library
         {
             get
             {
-                return _GotoItemCommand ?? (_GotoItemCommand = new Command<Item>(async(item) => await ExecuteGotoItemCommandAsync(item)));
+                return _GotoItemCommand ?? (_GotoItemCommand = new Command<Item>(async (item) => await ExecuteGotoItemCommandAsync(item)));
             }
         }
 
@@ -110,7 +115,7 @@ namespace AideDeJeu.ViewModels.Library
         {
             get
             {
-                return _RemoveItemCommand ?? (_RemoveItemCommand = new Command<Item>(async(item) => await ExecuteRemoveItemCommandAsync(item)));
+                return _RemoveItemCommand ?? (_RemoveItemCommand = new Command<Item>(async (item) => await ExecuteRemoveItemCommandAsync(item)));
             }
         }
 
@@ -125,7 +130,7 @@ namespace AideDeJeu.ViewModels.Library
         {
             get
             {
-                return _MoveUpItemCommand ?? (_MoveUpItemCommand = new Command<Item>(async(item) => await ExecuteMoveUpItemCommandAsync(item)));
+                return _MoveUpItemCommand ?? (_MoveUpItemCommand = new Command<Item>(async (item) => await ExecuteMoveUpItemCommandAsync(item)));
             }
         }
 
@@ -144,7 +149,7 @@ namespace AideDeJeu.ViewModels.Library
         {
             get
             {
-                return _MoveDownItemCommand ?? (_MoveDownItemCommand = new Command<Item>(async(item) => await ExecuteMoveDownItemCommandAsync(item)));
+                return _MoveDownItemCommand ?? (_MoveDownItemCommand = new Command<Item>(async (item) => await ExecuteMoveDownItemCommandAsync(item)));
             }
         }
 
@@ -224,7 +229,7 @@ namespace AideDeJeu.ViewModels.Library
         {
             var linkItem = new LinkItem() { Name = item.Name, AltName = item.AltName, Link = item.Id };
             var items = await GetBookmarkCollectionAsync(key);
-            if(items == null)
+            if (items == null)
             {
                 items = new List<Item>();
             }
@@ -253,11 +258,41 @@ namespace AideDeJeu.ViewModels.Library
             await App.Current.SavePropertiesAsync();
         }
 
+
+        public async Task InitBookmarkCollectionsAsync()
+        {
+            _BookmarkCollections = new Dictionary<string, ObservableCollection<Item>>()
+            {
+                { "Général", new ObservableCollection<Item>() },
+                { "Grimoire", new ObservableCollection<Item>() },
+                { "Bestiaire", new ObservableCollection<Item>() },
+                { "Sac", new ObservableCollection<Item>() },
+            };
+        }
+        public async Task LoadBookmarkCollectionsAsync()
+        {
+            if(true)
+            {
+                await InitBookmarkCollectionsAsync();
+                using (var context = await StoreViewModel.GetLibraryContextAsync())
+                {
+                    var spells = context.Spells.ToList();
+                    var spell = spells.Take(1).FirstOrDefault();
+                    _BookmarkCollections["Grimoire"].Add(new Item() { Id = spell.Id, Name = spell.Name });
+                }
+                await SaveBookmarkCollectionsAsync();
+            }
+        }
+        public async Task SaveBookmarkCollectionsAsync()
+        {
+            var yaml = new YamlDotNet.Serialization.Serializer().Serialize(_BookmarkCollections);
+            Debug.WriteLine(yaml);
+        }
         public string ToString(IEnumerable<Item> items)
         {
             string md = string.Empty;
             md += "\n<!--Items-->\n\n";
-            foreach(var item in items)
+            foreach (var item in items)
             {
                 md += item.Markdown;
             }
@@ -271,57 +306,57 @@ namespace AideDeJeu.ViewModels.Library
             //if(item is Items)
             //{
             var items = item; // as Items;
-                return await items.GetChildrenAsync();
+            return await items.GetChildrenAsync();
             //}
             //return new List<Item> { item };
         }
 
-            /*
-            public string ToString(List<Item> items)
+        /*
+        public string ToString(List<Item> items)
+        {
+            var serializer = ItemJsonSerializer;
+            using(var stream = new MemoryStream())
             {
-                var serializer = ItemJsonSerializer;
-                using(var stream = new MemoryStream())
+                serializer.WriteObject(stream, items);
+                stream.Seek(0, SeekOrigin.Begin);
+                using (StreamReader reader = new StreamReader(stream))
                 {
-                    serializer.WriteObject(stream, items);
-                    stream.Seek(0, SeekOrigin.Begin);
-                    using (StreamReader reader = new StreamReader(stream))
-                    {
-                        return reader.ReadToEnd();
-                    }
+                    return reader.ReadToEnd();
                 }
             }
-
-            public List<Item> ToItems(string str)
-            {
-                var serializer = ItemJsonSerializer;
-                byte[] byteArray = Encoding.UTF8.GetBytes(str);
-                using (var stream = new MemoryStream(byteArray))
-                {
-                    return serializer.ReadObject(stream) as List<Item>;
-                }
-            }
-
-            public DataContractJsonSerializer ItemJsonSerializer
-            {
-                get
-                {
-                    var settings = new DataContractJsonSerializerSettings();
-                    settings.KnownTypes = new List<Type>()
-                    {
-                        typeof(HomeItem),
-                        typeof(Spell),
-                        typeof(Monster),
-                        //typeof(Items),
-                        typeof(LinkItem),
-                        typeof(Equipment),
-                        //typeof(Spells),
-                        //typeof(Monsters),
-                        //typeof(Equipments),
-                        typeof(PageItem),
-                    };
-                    return new DataContractJsonSerializer(typeof(List<Item>), settings);
-                }
-            }
-            */
         }
+
+        public List<Item> ToItems(string str)
+        {
+            var serializer = ItemJsonSerializer;
+            byte[] byteArray = Encoding.UTF8.GetBytes(str);
+            using (var stream = new MemoryStream(byteArray))
+            {
+                return serializer.ReadObject(stream) as List<Item>;
+            }
+        }
+
+        public DataContractJsonSerializer ItemJsonSerializer
+        {
+            get
+            {
+                var settings = new DataContractJsonSerializerSettings();
+                settings.KnownTypes = new List<Type>()
+                {
+                    typeof(HomeItem),
+                    typeof(Spell),
+                    typeof(Monster),
+                    //typeof(Items),
+                    typeof(LinkItem),
+                    typeof(Equipment),
+                    //typeof(Spells),
+                    //typeof(Monsters),
+                    //typeof(Equipments),
+                    typeof(PageItem),
+                };
+                return new DataContractJsonSerializer(typeof(List<Item>), settings);
+            }
+        }
+        */
     }
+}

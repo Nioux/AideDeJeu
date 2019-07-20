@@ -312,17 +312,19 @@ namespace AideDeJeuLib
             return post as Item;
         }
 
+        [YamlIgnore]
         public virtual string CleanMarkdown
         {
             get
             {
-                var md = Markdown;
+                var md = Markdown ?? string.Empty;
                 var rx = new Regex("<!--.*?-->");
                 md = rx.Replace(md, "");
                 return md;
             }
         }
 
+        [YamlIgnore]
         public virtual string NewId
         {
             get
@@ -412,6 +414,7 @@ namespace AideDeJeuLib
             }
         }
 
+        [YamlIgnore]
         public virtual OrderedDictionary AttributesKeyValue
         {
             get
