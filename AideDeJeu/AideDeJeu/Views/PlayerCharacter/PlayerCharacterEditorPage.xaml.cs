@@ -6,7 +6,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -26,6 +26,17 @@ namespace AideDeJeu.Views.PlayerCharacter
 
             InitializeComponent();
 
+            if (!Accelerometer.IsMonitoring)
+            {
+                Accelerometer.ShakeDetected += Accelerometer_ShakeDetected;
+                Accelerometer.Start(SensorSpeed.Game);
+            }
+        }
+
+        private void Accelerometer_ShakeDetected(object sender, EventArgs e)
+        {
+            var vm = BindingContext as PlayerCharacterEditorViewModel;
+            vm.RollDicesMRickCommand.Execute(null);
         }
 
         //protected override bool OnBackButtonPressed()
