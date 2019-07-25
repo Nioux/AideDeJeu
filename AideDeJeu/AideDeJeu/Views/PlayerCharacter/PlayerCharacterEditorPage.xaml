@@ -103,7 +103,7 @@
             <Button Grid.Column="1" Grid.Row="1" Text="Caractéristiques" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Abilities}"/>
         </Grid>
     </ContentPage>
-    <ContentPage x:Name="Abilities" Title="Caractéristiques">
+    <ContentPage x:Name="Abilities" Title="Caractéristiques" Appearing="Abilities_Appearing" Disappearing="Abilities_Disappearing">
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />

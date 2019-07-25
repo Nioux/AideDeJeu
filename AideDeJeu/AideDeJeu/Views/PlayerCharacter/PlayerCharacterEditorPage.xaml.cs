@@ -25,18 +25,6 @@ namespace AideDeJeu.Views.PlayerCharacter
             BindingContext = DependencyService.Get<PlayerCharacterEditorViewModel>(); // new PlayerCharacterEditorViewModel();
 
             InitializeComponent();
-
-            if (!Accelerometer.IsMonitoring)
-            {
-                Accelerometer.ShakeDetected += Accelerometer_ShakeDetected;
-                Accelerometer.Start(SensorSpeed.Game);
-            }
-        }
-
-        private void Accelerometer_ShakeDetected(object sender, EventArgs e)
-        {
-            var vm = BindingContext as PlayerCharacterEditorViewModel;
-            vm.RollDicesMRickCommand.Execute(null);
         }
 
         //protected override bool OnBackButtonPressed()
@@ -78,6 +66,50 @@ namespace AideDeJeu.Views.PlayerCharacter
             page.BindingContext = page;
             //Navigation.PushModalAsync(page, true);
             await Navigation.PushAsync(page, true);
+        }
+
+        private void Abilities_Appearing(object sender, EventArgs e)
+        {
+            if (!Accelerometer.IsMonitoring)
+            {
+                Accelerometer.ShakeDetected += Accelerometer_ShakeDetected;
+                Accelerometer.Start(SensorSpeed.Game);
+            }
+            if (!Gyroscope.IsMonitoring)
+            {
+                Gyroscope.ReadingChanged += Gyroscope_ReadingChanged;
+                Gyroscope.Start(SensorSpeed.Game);
+            }
+        }
+
+        private void Gyroscope_ReadingChanged(object sender, GyroscopeChangedEventArgs e)
+        {
+            if(e.Reading.AngularVelocity.Z >= 1)
+            {
+                var vm = BindingContext as PlayerCharacterEditorViewModel;
+                vm.ResetDicesCommand.Execute(null);
+            }
+        }
+
+
+        private void Accelerometer_ShakeDetected(object sender, EventArgs e)
+        {
+            var vm = BindingContext as PlayerCharacterEditorViewModel;
+            vm.RollDicesMRickCommand.Execute(null);
+        }
+
+        private void Abilities_Disappearing(object sender, EventArgs e)
+        {
+            if (Gyroscope.IsMonitoring)
+            {
+                Gyroscope.Stop();
+                Gyroscope.ReadingChanged -= Gyroscope_ReadingChanged;
+            }
+            if (Accelerometer.IsMonitoring)
+            {
+                Accelerometer.Stop();
+                Accelerometer.ShakeDetected -= Accelerometer_ShakeDetected;
+            }
         }
     }
 }
