@@ -12,7 +12,7 @@
 
 Les objets magiques sont présentés ici dans l'ordre alphabétique. Le descriptif de chacun comprend son nom, sa catégorie, sa rareté et ses propriétés magiques.
 
-<!--MagicItems Types="Anneau|Arme|Armure|Baguette|Bâton|Objet merveilleux|Parchemin|Potion|Sceptre" Rarities="Peu courant|Rare|Très rare|Légendaire|Rareté variable" Attunements="Requise|Lanceur de sorts|Barde|Clerc|Druide|Ensorceleur|Magicien|Sorcier|Paladin|Alignement bon|Alignement mauvais|Nain"-->
+<!--MagicItems Types="Anneau|Arme|Armure|Baguette|Bâton|Objet merveilleux|Parchemin|Potion|Sceptre" Rarities="Courant|Peu courant|Rare|Très rare|Légendaire|Rareté variable" Attunements="Requise|Lanceur de sorts|Barde|Clerc|Druide|Ensorceleur|Magicien|Sorcier|Paladin|Alignement bon|Alignement mauvais|Nain"-->
 
 ## <!--Name-->Les objets magiques de A à Z<!--/Name-->
 
@@ -2846,7 +2846,7 @@ Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, vous
 
 - AltName: <!--AltName-->Spell Scroll (SRD p242)<!--/AltName-->
 - Source: <!--Source-->(COC p174)<!--/Source-->
--  <!--Type-->Parchemin<!--/Type-->, variable
+-  <!--Type-->Parchemin<!--/Type-->, <!--Rarity-->rareté variable<!--/Rarity-->
 
 Sur un parchemin magique est inscrite la formule d'un unique sort, rédigée tel un message mystique crypté. Si le sort est présent dans la liste de sorts de votre classe de personnage, vous pouvez utiliser une action pour lire le parchemin et lancer le sort qu'il contient dans devoir fournir aucune de ses composantes. Sinon, le sort est incompréhensible.
 
@@ -3104,7 +3104,7 @@ Quand vous buvez cette potion, vous bénéficiez des effets du sort clairvoyance
 
 - AltName: <!--AltName-->Potion of Climbing (SRD p233)<!--/AltName-->
 - Source: <!--Source-->(COC p177)<!--/Source-->
--  <!--Type-->Potion<!--/Type-->, <!--Rarity-->peu courante<!--/Rarity-->
+-  <!--Type-->Potion<!--/Type-->, <!--Rarity-->courante<!--/Rarity-->
 
 Quand vous buvez cette potion, vous gagnez une vitesse d'escalade égale à votre vitesse au sol pendant 1 heure. Pendant tout ce temps, vous obtenez l'avantage lors des tests de Force (Escalade) que vous effectuez pour grimper. La potion se divise en couches brunes, argent et grises qui rappellent des stries dans la roche. Les couleurs ne se mélangent pas, même quand on agite la bouteille.
 
