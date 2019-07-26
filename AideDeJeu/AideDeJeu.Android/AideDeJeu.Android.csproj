@@ -50,6 +50,7 @@
     <EnableLLVM>false</EnableLLVM>
     <BundleAssemblies>false</BundleAssemblies>
     <AndroidLinkMode>None</AndroidLinkMode>
+	<AndroidEnableProfiledAot>true</AndroidEnableProfiledAot> 
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />
