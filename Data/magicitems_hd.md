@@ -815,11 +815,11 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Carquois efficace]: magicitems_az_hd.md#carquois-efficace
 [Cartes d'illusion]: magicitems_az_hd.md#cartes-dillusion
 [Cartes merveilleuses]: magicitems_az_hd.md#cartes-merveilleuses
-[Ceinturon de force de géant des collines]: magicitems_az_hd.md#ceinturon-de-force-de-géant
-[Ceinturon de force de géant des nuages]: magicitems_az_hd.md#ceinturon-de-force-de-géant
-[Ceinturon de force de géant des tempêtes]: magicitems_az_hd.md#ceinturon-de-force-de-géant
-[Ceinturon de force de géant du feu]: magicitems_az_hd.md#ceinturon-de-force-de-géant
-[Ceinturon de force de géant du givre/des pierres]: magicitems_az_hd.md#ceinturon-de-force-de-géant
+[Ceinturon de force de géant des collines]: magicitems_az_hd.md#ceinturon-de-force-de-géant-des-collines
+[Ceinturon de force de géant des nuages]: magicitems_az_hd.md#ceinturon-de-force-de-géant-des-nuages
+[Ceinturon de force de géant des tempêtes]: magicitems_az_hd.md#ceinturon-de-force-de-géant-des-tempêtes
+[Ceinturon de force de géant du feu]: magicitems_az_hd.md#ceinturon-de-force-de-géant-du-feu
+[Ceinturon de force de géant du givre/des pierres]: magicitems_az_hd.md#ceinturon-de-force-de-géant-du-givre-des-pierres
 [Ceinturon des nains]: magicitems_az_hd.md#ceinturon-des-nains
 [Chapeau de déguisement]: magicitems_az_hd.md#chapeau-de-déguisement
 [Chapelet]: magicitems_az_hd.md#chapelet
