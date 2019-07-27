@@ -83,17 +83,19 @@ namespace AideDeJeu.Views
             bars = new List<Bar>(sizei * sizej);
 
             //DrawRolls(diceRolls, sumx, 0, 1);
-            for (int i = 0; i < sizei; i ++)
+            for (int j = 0; j < sizej; j++)
             {
-                for (int j = 0; j < sizej; j ++)
+                for (int i = 0; i < sizei; i ++)
                 {
-                    var boxNode = plotNode.CreateChild();
-                    boxNode.Position = new Vector3(sizei / 2f - (float)i * 1.5f, 0, sizej / 2f - (float)j * 1.5f);
-                    var bar = new Bar(new Color(RandomHelper.NextRandom(), RandomHelper.NextRandom(), RandomHelper.NextRandom(), 0.9f));
-                    boxNode.AddComponent(bar);
-                    //bar.SetValueWithAnimation((Math.Abs(i) + Math.Abs(j) + 1) / 2f);
                     IDice dice = new Dice();
                     var diceResult = dice.Roll("3d6", new RandomDieRoller());
+
+                    var boxNode = plotNode.CreateChild();
+                    boxNode.Position = new Vector3(sizei / 2f - (float)i * 1.5f, 0, sizej / 2f - (float)j * 1.5f);
+                    //var bar = new Bar(new Color(RandomHelper.NextRandom(), RandomHelper.NextRandom(), RandomHelper.NextRandom(), 0.9f));
+                    var bar = new Bar(new Color(1f - (((float)diceResult.Value - 3f) / 15f), (((float)diceResult.Value - 3f) / 15f), 0, 0.9f));
+                    boxNode.AddComponent(bar);
+                    //bar.SetValueWithAnimation((Math.Abs(i) + Math.Abs(j) + 1) / 2f);
                     bar.SetValueWithAnimation(diceResult.Value);
                     //bar.SetValueWithAnimation(diceRolls[idice + 3] / 10);
                     bars.Add(bar);
