@@ -9644,6 +9644,9 @@ namespace AideDeJeu.Droid
 			// aapt resource value: 0x7f0d001a
 			public const int abc_toolbar_collapse_description = 2131558426;
 			
+			// aapt resource value: 0x7f0d0036
+			public const int app_name = 2131558454;
+			
 			// aapt resource value: 0x7f0d0028
 			public const int appbar_scrolling_view_behavior = 2131558440;
 			
