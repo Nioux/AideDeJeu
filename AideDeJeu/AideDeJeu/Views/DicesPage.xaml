@@ -64,7 +64,7 @@
                 <pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />-->
 
             </StackLayout>
-            <skviews:SKCanvasView x:Name="CanvasDices" Margin="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" PaintSurface="SKCanvasView_PaintSurface">
+            <skviews:SKCanvasView x:Name="CanvasDices" IsVisible="False" Margin="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" PaintSurface="SKCanvasView_PaintSurface">
 
             </skviews:SKCanvasView>
 

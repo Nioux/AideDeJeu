@@ -46,15 +46,17 @@ namespace AideDeJeu.Views
 
         async void CreateScene()
         {
-            Input.SubscribeToTouchEnd(OnTouched);
+            Input.TouchEnd += OnTouched;
+            //Input.SubscribeToTouchEnd(OnTouched);
 
-            scene = new Scene();
+            scene = new Scene();            
             octree = scene.CreateComponent<Octree>();
 
             plotNode = scene.CreateChild();
             var baseNode = plotNode.CreateChild().CreateChild();
             var plane = baseNode.CreateComponent<StaticModel>();
             plane.Model = CoreAssets.Models.Plane;
+            plane.Material = Material.FromColor(new Color(0, 0, 0, 1));
 
             var cameraNode = scene.CreateChild();
             camera = cameraNode.CreateComponent<Camera>();
@@ -132,6 +134,7 @@ namespace AideDeJeu.Views
             var renderer = Renderer;
             var vp = new Viewport(Context, scene, camera, null);
             renderer.SetViewport(0, vp);
+            vp.SetClearColor(new Color(1, 1, 1, 1));
         }
     }
 
