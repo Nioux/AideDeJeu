@@ -6,7 +6,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Urho;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -85,7 +85,8 @@ namespace AideDeJeu.Views
 
         private async void ContentPage_Appearing(object sender, EventArgs e)
         {
-            await HelloWorldUrhoSurface.Show<HelloWorld>(new Urho.ApplicationOptions(assetsFolder: null));
+            //await HelloWorldUrhoSurface.Show<HelloWorld>(new Urho.ApplicationOptions(assetsFolder: null));
+            await HelloWorldUrhoSurface.Show<Charts>(new Urho.ApplicationOptions(assetsFolder: null));
         }
     }
     public class HelloWorld : Urho.Application
@@ -116,4 +117,6 @@ namespace AideDeJeu.Views
             UI.Root.AddChild(text);
         }
     }
+
+
 }
