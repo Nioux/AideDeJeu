@@ -1,4 +1,6 @@
-﻿using System;
+﻿using OnePlat.DiceNotation;
+using OnePlat.DiceNotation.DieRoller;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Globalization;
@@ -71,31 +73,34 @@ namespace AideDeJeu.Views
 
 
 
-            var diceRoller = new ViewModels.DiceRollerViewModel();
-            var diceRolls = diceRoller.DicesValues(6, 3);
-            float sumx = diceRolls.Sum(kv => kv.Value);
+            //var diceRoller = new ViewModels.DiceRollerViewModel();
+            //var diceRolls = diceRoller.DicesValues(6, 3);
+            //float sumx = diceRolls.Sum(kv => kv.Value);
 
-            int sizei = 6;
-            int sizej = 3;
+            int sizei = 3;
+            int sizej = 2;
             baseNode.Scale = new Vector3(sizei * 1.5f, 1, sizej * 1.5f);
             bars = new List<Bar>(sizei * sizej);
 
-            DrawRolls(diceRolls, sumx, 0, 1);
-            //int idice = 0;
-            //for (var i = 0f; i < sizei * 1.5f; i += 1.5f)
-            //{
-            //    for (var j = 0f; j < sizej * 1.5f; j += 1.5f)
-            //    {
-            //        var boxNode = plotNode.CreateChild();
-            //        boxNode.Position = new Vector3(sizei / 2f - i, 0, sizej / 2f - j);
-            //        var bar = new Bar(new Color(RandomHelper.NextRandom(), RandomHelper.NextRandom(), RandomHelper.NextRandom(), 0.9f));
-            //        boxNode.AddComponent(bar);
-            //        //bar.SetValueWithAnimation((Math.Abs(i) + Math.Abs(j) + 1) / 2f);
-            //        bar.SetValueWithAnimation(diceRolls[idice+3] / 10);
-            //        bars.Add(bar);
-            //    }
-            //    idice++;
-            //}
+            //DrawRolls(diceRolls, sumx, 0, 1);
+            int idice = 0;
+            for (var i = 0f; i < sizei * 1.5f; i += 1.5f)
+            {
+                for (var j = 0f; j < sizej * 1.5f; j += 1.5f)
+                {
+                    var boxNode = plotNode.CreateChild();
+                    boxNode.Position = new Vector3(sizei / 2f - i, 0, sizej / 2f - j);
+                    var bar = new Bar(new Color(RandomHelper.NextRandom(), RandomHelper.NextRandom(), RandomHelper.NextRandom(), 0.9f));
+                    boxNode.AddComponent(bar);
+                    //bar.SetValueWithAnimation((Math.Abs(i) + Math.Abs(j) + 1) / 2f);
+                    IDice dice = new Dice();
+                    var diceResult = dice.Roll("3d6", new RandomDieRoller());
+                    bar.SetValueWithAnimation(diceResult.Value);
+                    //bar.SetValueWithAnimation(diceRolls[idice + 3] / 10);
+                    bars.Add(bar);
+                }
+                idice++;
+            }
 
             SelectedBar = bars.First();
             SelectedBar.Select();
@@ -180,7 +185,13 @@ namespace AideDeJeu.Views
             set { barNode.Scale = new Vector3(1, value < 0.3f ? 0.3f : value, 1); }
         }
 
-        public void SetValueWithAnimation(float value) => barNode.RunActionsAsync(new EaseBackOut(new ScaleTo(3f, 1, value, 1)));
+        private float finalValue { get; set; }
+
+        public void SetValueWithAnimation(float value)
+        {
+            finalValue = value;
+            barNode.RunActionsAsync(new EaseBackOut(new ScaleTo(3f, 1, value, 1)));
+        }
 
         public Bar(Color color)
         {
@@ -211,10 +222,10 @@ namespace AideDeJeu.Views
             var scale = barNode.Scale;
             barNode.Position = new Vector3(pos.X, scale.Y / 2f, pos.Z);
             textNode.Position = new Vector3(0.5f, scale.Y + 0.2f, 0);
-            var newValue = (float)Math.Round(scale.Y, 1);
-            if (lastUpdateValue != newValue)
-                text3D.Text = newValue.ToString("F01", CultureInfo.InvariantCulture);
-            lastUpdateValue = newValue;
+            //var newValue = (float)Math.Round(scale.Y, 1);
+            //if (lastUpdateValue != newValue)
+                text3D.Text = finalValue.ToString();// newValue.ToString("F01", CultureInfo.InvariantCulture);
+            //lastUpdateValue = newValue;
         }
 
         public void Deselect()
