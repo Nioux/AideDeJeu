@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:skviews="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
              xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
-             x:Class="AideDeJeu.Views.DicesPage">
+             xmlns:urho="clr-namespace:Urho.Forms;assembly=UrhoSharp.Forms"
+             x:Class="AideDeJeu.Views.DicesPage" Appearing="ContentPage_Appearing">
     <ContentPage.Content>
         <StackLayout>
             <StackLayout Orientation="Horizontal">
@@ -66,6 +67,8 @@
             <skviews:SKCanvasView x:Name="CanvasDices" Margin="15" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" PaintSurface="SKCanvasView_PaintSurface">
 
             </skviews:SKCanvasView>
+
+            <urho:UrhoSurface x:Name="HelloWorldUrhoSurface" VerticalOptions="FillAndExpand" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

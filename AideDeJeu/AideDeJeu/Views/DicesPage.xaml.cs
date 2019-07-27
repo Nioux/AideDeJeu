@@ -82,5 +82,38 @@ namespace AideDeJeu.Views
             strokeFont.Dispose();
             strokePaint.Dispose();
         }
+
+        private async void ContentPage_Appearing(object sender, EventArgs e)
+        {
+            await HelloWorldUrhoSurface.Show<HelloWorld>(new Urho.ApplicationOptions(assetsFolder: null));
+        }
+    }
+    public class HelloWorld : Urho.Application
+    {
+        public HelloWorld(Urho.ApplicationOptions options) : base(options)
+        {
+
+        }
+        protected override void Start()
+        {
+            base.Start();
+            CreateText();
+        }
+
+        private void CreateText()
+        {
+            // Create Text Element
+            var text = new Urho.Gui.Text()
+            {
+                Value = "Hello World!",
+                HorizontalAlignment = Urho.Gui.HorizontalAlignment.Center,
+                VerticalAlignment = Urho.Gui.VerticalAlignment.Center
+            };
+
+            text.SetColor(Urho.Color.Cyan);
+            text.SetFont(font: ResourceCache.GetFont("Fonts/Anonymous Pro.ttf"), size: 30);
+            // Add to UI Root
+            UI.Root.AddChild(text);
+        }
     }
 }
