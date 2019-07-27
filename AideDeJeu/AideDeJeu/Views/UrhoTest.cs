@@ -60,7 +60,7 @@ namespace AideDeJeu.Views
 
             var cameraNode = scene.CreateChild();
             camera = cameraNode.CreateComponent<Camera>();
-            cameraNode.Position = new Vector3(10, 15, 10) / 1.75f;
+            cameraNode.Position = new Vector3(10, 15, 10) / (1.75f / 2);
             cameraNode.Rotation = new Quaternion(-0.121f, 0.878f, -0.305f, -0.35f);
 
             Node lightNode = cameraNode.CreateChild();
@@ -69,21 +69,33 @@ namespace AideDeJeu.Views
             light.Range = 100;
             light.Brightness = 1.3f;
 
-            int size = 3;
-            baseNode.Scale = new Vector3(size * 1.5f, 1, size * 1.5f);
-            bars = new List<Bar>(size * size);
-            for (var i = 0f; i < size * 1.5f; i += 1.5f)
-            {
-                for (var j = 0f; j < size * 1.5f; j += 1.5f)
-                {
-                    var boxNode = plotNode.CreateChild();
-                    boxNode.Position = new Vector3(size / 2f - i, 0, size / 2f - j);
-                    var box = new Bar(new Color(RandomHelper.NextRandom(), RandomHelper.NextRandom(), RandomHelper.NextRandom(), 0.9f));
-                    boxNode.AddComponent(box);
-                    box.SetValueWithAnimation((Math.Abs(i) + Math.Abs(j) + 1) / 2f);
-                    bars.Add(box);
-                }
-            }
+
+
+            var diceRoller = new ViewModels.DiceRollerViewModel();
+            var diceRolls = diceRoller.DicesValues(6, 3);
+            float sumx = diceRolls.Sum(kv => kv.Value);
+
+            int sizei = 6;
+            int sizej = 3;
+            baseNode.Scale = new Vector3(sizei * 1.5f, 1, sizej * 1.5f);
+            bars = new List<Bar>(sizei * sizej);
+
+            DrawRolls(diceRolls, sumx, 0, 1);
+            //int idice = 0;
+            //for (var i = 0f; i < sizei * 1.5f; i += 1.5f)
+            //{
+            //    for (var j = 0f; j < sizej * 1.5f; j += 1.5f)
+            //    {
+            //        var boxNode = plotNode.CreateChild();
+            //        boxNode.Position = new Vector3(sizei / 2f - i, 0, sizej / 2f - j);
+            //        var bar = new Bar(new Color(RandomHelper.NextRandom(), RandomHelper.NextRandom(), RandomHelper.NextRandom(), 0.9f));
+            //        boxNode.AddComponent(bar);
+            //        //bar.SetValueWithAnimation((Math.Abs(i) + Math.Abs(j) + 1) / 2f);
+            //        bar.SetValueWithAnimation(diceRolls[idice+3] / 10);
+            //        bars.Add(bar);
+            //    }
+            //    idice++;
+            //}
 
             SelectedBar = bars.First();
             SelectedBar.Select();
@@ -96,6 +108,22 @@ namespace AideDeJeu.Views
             }
             catch (OperationCanceledException) { }
             movementsEnabled = true;
+        }
+
+        void DrawRolls(Dictionary<int, int> rolls, float sumx, int j, int sizej)
+        {
+            var sizei = rolls.Count;
+            for (var i = 0; i < sizei; i ++)
+            {
+                var boxNode = plotNode.CreateChild();
+                boxNode.Position = new Vector3(sizei / 2f - i * 1.5f, 0, sizej / 2f - j * 1.5f);
+                var bar = new Bar(new Color(RandomHelper.NextRandom(), RandomHelper.NextRandom(), RandomHelper.NextRandom(), 0.9f));
+                boxNode.AddComponent(bar);
+                //bar.SetValueWithAnimation((Math.Abs(i) + Math.Abs(j) + 1) / 2f);
+                bar.SetValueWithAnimation(rolls[i+3] * 100 / sumx);
+                bars.Add(bar);
+            }
+
         }
 
         void OnTouched(TouchEndEventArgs e)
