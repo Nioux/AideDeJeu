@@ -71,7 +71,7 @@
             </skviews:SKCanvasView>
 
             <Button Text="Générer" Clicked="Button_Clicked"/>
-            <urho:UrhoSurface x:Name="HelloWorldUrhoSurface" VerticalOptions="FillAndExpand" />
+            <urho:UrhoSurface x:Name="HelloWorldUrhoSurface" VerticalOptions="FillAndExpand" BackgroundColor="White" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

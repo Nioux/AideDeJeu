@@ -90,11 +90,16 @@ namespace AideDeJeu.Views
         private async void ContentPage_Appearing(object sender, EventArgs e)
         {
             charts = await HelloWorldUrhoSurface.Show<Charts>(new Urho.ApplicationOptions(assetsFolder: null));
-            if (!Accelerometer.IsMonitoring)
+            try
             {
-                Accelerometer.ShakeDetected += Accelerometer_ShakeDetected;
-                Accelerometer.Start(SensorSpeed.Game);
+                if (!Accelerometer.IsMonitoring)
+                {
+                    Accelerometer.ShakeDetected += Accelerometer_ShakeDetected;
+                    Accelerometer.Start(SensorSpeed.Game);
+                }
             }
+            catch
+            { }
 
         }
 
@@ -110,11 +115,15 @@ namespace AideDeJeu.Views
 
         private void ContentPage_Disappearing(object sender, EventArgs e)
         {
-            if (Accelerometer.IsMonitoring)
+            try
             {
-                Accelerometer.Stop();
-                Accelerometer.ShakeDetected -= Accelerometer_ShakeDetected;
+                if (Accelerometer.IsMonitoring)
+                {
+                    Accelerometer.Stop();
+                    Accelerometer.ShakeDetected -= Accelerometer_ShakeDetected;
+                }
             }
+            catch { }
         }
     }
     public class HelloWorld : Urho.Application

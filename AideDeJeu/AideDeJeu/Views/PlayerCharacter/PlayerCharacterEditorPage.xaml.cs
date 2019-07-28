@@ -70,16 +70,24 @@ namespace AideDeJeu.Views.PlayerCharacter
 
         private void Abilities_Appearing(object sender, EventArgs e)
         {
-            if (!Accelerometer.IsMonitoring)
+            try
             {
-                Accelerometer.ShakeDetected += Accelerometer_ShakeDetected;
-                Accelerometer.Start(SensorSpeed.Game);
+                if (!Accelerometer.IsMonitoring)
+                {
+                    Accelerometer.ShakeDetected += Accelerometer_ShakeDetected;
+                    Accelerometer.Start(SensorSpeed.Game);
+                }
             }
-            if (!Gyroscope.IsMonitoring)
+            catch { }
+            try
             {
-                Gyroscope.ReadingChanged += Gyroscope_ReadingChanged;
-                Gyroscope.Start(SensorSpeed.Game);
+                if (!Gyroscope.IsMonitoring)
+                {
+                    Gyroscope.ReadingChanged += Gyroscope_ReadingChanged;
+                    Gyroscope.Start(SensorSpeed.Game);
+                }
             }
+            catch { }
         }
 
         private void Gyroscope_ReadingChanged(object sender, GyroscopeChangedEventArgs e)
@@ -100,16 +108,24 @@ namespace AideDeJeu.Views.PlayerCharacter
 
         private void Abilities_Disappearing(object sender, EventArgs e)
         {
-            if (Gyroscope.IsMonitoring)
+            try
             {
-                Gyroscope.Stop();
-                Gyroscope.ReadingChanged -= Gyroscope_ReadingChanged;
+                if (Gyroscope.IsMonitoring)
+                {
+                    Gyroscope.Stop();
+                    Gyroscope.ReadingChanged -= Gyroscope_ReadingChanged;
+                }
             }
-            if (Accelerometer.IsMonitoring)
+            catch { }
+            try
             {
-                Accelerometer.Stop();
-                Accelerometer.ShakeDetected -= Accelerometer_ShakeDetected;
+                if (Accelerometer.IsMonitoring)
+                {
+                    Accelerometer.Stop();
+                    Accelerometer.ShakeDetected -= Accelerometer_ShakeDetected;
+                }
             }
+            catch { }
         }
     }
 }
