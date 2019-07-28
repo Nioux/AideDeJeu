@@ -8,7 +8,7 @@
     <ContentPage.Content>
         <StackLayout>
             <StackLayout Orientation="Horizontal">
-                <Picker SelectedItem="{Binding Quantity, Mode=TwoWay}">
+                <!--<Picker SelectedItem="{Binding Quantity, Mode=TwoWay}">
                     <Picker.ItemsSource>
                         <x:Array Type="{x:Type x:Int32}">
                             <x:Int32>6</x:Int32>
@@ -58,7 +58,7 @@
                             <x:Int32>-10</x:Int32>
                         </x:Array>
                     </Picker.ItemsSource>
-                </Picker>
+                </Picker>-->
                 <!--<pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
                 <pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />
                 <pickers:StringPickerView BindingContext="{Binding}" Title="{Binding PreferedBackgroundSpecialties.Name}" Description="{Binding PreferedBackgroundSpecialties.Description}" ItemsSource="{Binding PreferedBackgroundSpecialties.BindableTable}" SelectedItem="{Binding BackgroundSpecialty, Mode=TwoWay}" />-->
@@ -68,6 +68,7 @@
 
             </skviews:SKCanvasView>
 
+            <Button Text="Générer" Clicked="Button_Clicked"/>
             <urho:UrhoSurface x:Name="HelloWorldUrhoSurface" VerticalOptions="FillAndExpand" />
         </StackLayout>
     </ContentPage.Content>

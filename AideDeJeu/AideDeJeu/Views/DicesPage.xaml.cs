@@ -1,4 +1,6 @@
 ﻿using AideDeJeu.ViewModels;
+using OnePlat.DiceNotation;
+using OnePlat.DiceNotation.DieRoller;
 using SkiaSharp;
 using System;
 using System.Collections.Generic;
@@ -8,6 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Urho;
 using Xamarin.Forms;
+using Xamarin.Forms.Internals;
 using Xamarin.Forms.Xaml;
 
 namespace AideDeJeu.Views
@@ -82,11 +85,16 @@ namespace AideDeJeu.Views
             strokeFont.Dispose();
             strokePaint.Dispose();
         }
-
+        Charts charts = null;
         private async void ContentPage_Appearing(object sender, EventArgs e)
         {
             //await HelloWorldUrhoSurface.Show<HelloWorld>(new Urho.ApplicationOptions(assetsFolder: null));
-            await HelloWorldUrhoSurface.Show<Charts>(new Urho.ApplicationOptions(assetsFolder: null));
+            charts = await HelloWorldUrhoSurface.Show<Charts>(new Urho.ApplicationOptions(assetsFolder: null));
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            charts.Bars.ForEach(b => b.SetValueWithAnimation((new Dice()).Roll("3d6", new RandomDieRoller()).Value));
         }
     }
     public class HelloWorld : Urho.Application

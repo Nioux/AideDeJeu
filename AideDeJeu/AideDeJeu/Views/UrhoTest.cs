@@ -176,6 +176,7 @@ namespace AideDeJeu.Views
         {
             finalValue = value;
             barNode.RunActionsAsync(new EaseBackOut(new ScaleTo(3f, 1, value / 2, 1)));
+            barNode.RunActionsAsync(new EaseBackOut(new TintTo(3f, new Color(1f - (((float)value - 3f) / 15f), (((float)value - 3f) / 15f), 0, 0.9f))));
         }
 
         public Bar(Color color)
